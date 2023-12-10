@@ -1,0 +1,1010 @@
+ROGER B. MOORE (SBN: 159992) LAW OFFICE OF RÖGER B. MOORE 2 337 17th Street, Suite 211 Oakland, California 94612 3 Telephone: (510) 548-1401 Email: rbm@landwater.com
+
+un Attorneys for Petitioners California Water Impact Network, AquAlliance
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+IN AND FOR THE COUNTY OF SACRAMENTO
+CALIFORNIA WATER IMPACT
+
+9 NETWORK, AQUALLIANCE Case No.:
+
+Petitioners
+10 VS. VERIFIED PETITION FOR WRIT
+
+11 CALIFORNIA DEPARTMENT OF OF MANDATE
+
+12 WATER RESOURCES CEQA action subject to preference over
+
+13 Respondent all other civil actions per Public Resources Code § 21167.1
+
+14 DOES THROUGH 50 (Code Civ. Proc., §§ 1085, 1094.5; Pub.
+
+Real Parties in Interest. Res. Code, §§21000, et seq.)
+
+15
+
+16
+
+17
+18
+19
+20
+21
+22
+23 Petitioners California Water Impact Network and AquAlliance (collectively,
+24 "petitioners") pray for this Court to issue its writ of mandate directed against Respondent
+25 California Department of Water Resources ("DWR"), based on the following allegations:
+26
+
+27
+
+28l
+
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ET AL.
+
+1 INTRODUCTION
+
+JN 3 1. In this petition, petitioners California Water Impact Network (CWIN) and
+AquAlliance, a regionally diverse coalition of public interest organizations from northern|
+1o and southern California, challenge the failure of respondent California Department of
+Water Resources ("DWR") to comply with the California Environmental Quality Act
+("CEQA," Pub. Res. Code §§ 21000, et seq.) when it certified its Final Environmental
+
+8 Impact Report ("FEIR") and rendered final approval as state lead agency of the project
+referenced in its decision-making documents as the State Water Project Water Supply
+
+10 Contract Amendments for Water Management (*Water Management Amendments" or
+"project").Petitioners seek to set aside DWR's certification of the Final EIR and final
+11 project approval recorded in DWR's Notice of Determination ("NOD") filed in the State
+12 Clearinghouse on August 28, 2020.
+13
+14 2. The FEIR challenged in this action is designated as the State Water Project Waterl
+15 Supply Contract Amendments for Water Management Final Environmental Impact Report.
+16 This action challenges DWR's compliance with state law in its EIR certification and the
+17 final project decision as CEQA lead agency recorded in its Notice of Determination.
+18 Subject to legal requirements and limitations, including the Burns-Porter Act (Wat. Code, §
+
+19 12930, et seq.), passed by the Legislature in 1959 and approved by California's voters in
+
+20 1960, DWR operates and maintains California's State Water Resources Development|
+
+21 System, more commonly known as the State Water Project ("SWP"). The SWP's storage
+
+22 and conveyance facilities provide water meant to serve the people and resources of
+
+23 California through deliveries to 29 local state water contractors spanning the state from
+Plumas County in the north to San Diego County in the south. Operation of the SWP also 24 significantly degrades environmental conditions, particularly in the Sacramento River and 25 San Joaquin River watersheds and the Bay-Delta estuary.
+26
+
+27
+
+28
+
+2
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ET AL.
+
+3. Through the EIR certification and final project decision challenged in this petition,
+2 DWR seeks to approve major changes in environmentally significant provisions of long-
+term SWP contracts without complying with CEQA.
+
+1 4. Courts have long recognized the important role DWR must play as CEQA lead
+agency in reviewing the environmental impacts of projects proposing amendments to SWP
+contracts, and ensuring compliance with CEQA before making its final decision on a
+
+8 contract amendment project proposing such amendments. CEQA "compels process. It is a
+meticulous process designed to ensure the environment is protected," and the
+
+10| Environmental Impact Report serves as the "heart and soul" of CEQA. (Planning and
+Conservation League v. Department of Water Resources (2000) 83 Cal.App.4th 892, 911.) 11 Because CEQA's "fundamental purpose" is for agencies to "inform the public and 12 responsible officials of the environmental consequences of their decision before they are 13 made," CEQA's EIR process "protects not only the environment but also informed self-
+14 government." (Id. at 916 (citation omitted.) However, SWP decision-making is complicated
+15 by the SWP system's historic long-term inability to reliably deliver approximately half, if
+16 not more, of the total water allocation amounts referenced in Table A of the SWP contracts.
+17 The SWP "has never been completed," and those amounts "represent nothing more than
+18 hopes, expectations, water futures, or... *paper water'...Consequently, there is a huge gap a
+19 between what is promised and what can be delivered." (Id. at 908, fn. 5.)
+
+20
+
+21 5. DWR's NOD approves a project that would make permanent changes in the waterl
+
+22 management provisions of long-term SWP contracts, allowing for expanded use of water
+
+23 transfers and exchanges of SWP water within the SWP service area. As approved, the
+project would place additional strains on the oversubscribed SWP and its sourcel
+24 watersheds. However, foundational errors in DWR's FEIR, project findings, and statement l 25 of overriding considerations deprive decision-makers and the public of critical information
+26 necessary to informed decision-making and public participation. At critical stages of project
+27 review, DWR refused to provide analysis needed under CEQA to ensure adherence to a
+28 stable and consistent project definition, to provide a full analysis of direct and cumulative
+
+3
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ET AL.
+
+2 impacts, to study feasible mitigation measures, and to allow for a fair and full comparison
+of the project, the "no project" condition, and project alternatives.
+
+6.
+
+u As the FEIR recognized in its first two master responses, DWR's failure to analyze
+the "whole of the action" and to avoid CEQA's prohibition of piecemealing was a recurrent
+subject of EIR criticism, raised by public agencies spanning the state and by petitioners and
+other organizations. (See, e.g., Comment Letters 2, 3, 5, 6, 7, 10, 12, 13, 14, 15, 17; FEIR
+2-2 to 2-10.) However, DWR in its FEIR and final decision-making compounded rather
+
+10 than resolved these problems stemming from disconnection of the project review from
+DWR's other closely related projects.
+
+11 7.
+12 DWR's project addressed in this CEQA challenge arose out of years of public
+meetings and negotiation sessions with SWP contractors addressing two heavily
+13 interrelated subjects: pursuit of long-term contract amendments covering multiple 14 provisions, and pursuit of a Delta conveyance project intended in large part to facilitate 15 water exports south from the Sacramento Valley and Bay-Delta region to water contractors
+16| in southern California. DWR has sought to facilitate a Delta conveyance from the outset of
+17| these proceedings, and sought new contract amendments in connection with its planned
+18 Delta conveyance, but the specific configuration of conveyance project supported by DWR
+19 has changed several times.
+
+20
+21 8.
+
+22 When DWR prepared its Draft EIR, the project included water management
+
+23 provisions and other proposed amendments more directly tied to its then-current twin
+
+24 tunnel Delta conveyance project, California WaterFix. In the FEIR, DWR refused requests
+
+25 for interrelated and cumulative analysis of how its proposed water management changes
+would be used, and what additional impacts it would have, in the context of a Delta
+
+26
+27 conveyance. The FEIR disingenuously portrayed these concerns as no longer "relevant"
+because DWR by then was no longer pursuing California WaterFix and had deleted
+WaterFix-specific provisions from its Agreement in Principle. Although DWR pretended
+28 that it no longer had a specific conveyance project to address in the EIR's analysis, it failed
+
+4
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ET AL.
+
+to disclose that it had filed a Notice of Preparation for its new Delta Conveyance Project
+2 months before completing the FEIR, and had engaged in extensive scoping review and
+
+3 taken other concrete steps toward preparation of the Delta Conveyance Project's Draft
+EIR. DWR also failed to disclose that months before completing the FEIR, it had prepared|
+a separate Agreement in Principle for an additional conveyance-specific set of contractl
+amendments slated for forthcoming separate and segmented environmental review.
+
+9. DWR disconnected its review of the water management project from its pending
+environmental review of the Delta Conveyance Project, and its isolated analysis amounted
+to piecemealing on top of piecemealing. Through its FEIR and NOD, DWR furtherl
+segmented environmental review into three prejudicially disconnected analyses of contract
+amendments: (1) the already-approved "contract extension" amendments, which also
+revise certain substantive contract provisions and are the subject of pending litigation; (2)
+13 the project as approved (which retains its earlier water management and transfer provisions
+14 without correction or improvement); and (3) the Delta Conveyance Amendments, which 15 are identified in DWR's 2020 agreement in principle and planned to be the subject of a
+16 separate review. All three of these sets of contract amendments would help facilitate the
+17 Delta Conveyance Project.
+
+18
+19 10. In the FEIR and its final decision-making on the project, DWR also repeatedly
+20 evaded requested analysis of project impacts, mitigation and alternatives based on faulty
+
+21 and unsupportable assumptions about the "normal" operation and "financial integrity" of
+
+22 the SWP, and the project's assumed, but unanalyzed "*continued" adherence to numerous
+
+23 laws, including laws protecting the Delta and areas of origin, water quality, the public trust,
+and other resources. The FEIR vaguely references "SWP water" or the "SWP service area"
+24 as the source of water for the project, without explaining the geographic location and the
+25 means with which the water will be available. The FEIR avoids required analysis of the
+26 environmental impacts of the project's expanded reliance on transfers and exchanges,|
+27 including their consequences for the oversubscribed Sacramento River and the Bay-Delta
+28 and already-depleted groundwater aquifers. The FEIR impermissibly defers key elements
+
+5
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ET A
+
+1 of project review until after DWR's project of proposed amendments has become a fait
+2 accompli. The FEIR fails to analyze the extent to which climate change and changes to the
+coordinated operation of state and federal water projects may exacerbate project impacts.
+In certifying the FEIR and approving the project, DWR failed to heed major criticism from
+the petitioner organizations, counties, communities, public agencies, and expert reviewers|
+discrediting the foundations of DWR's asserted compliance with CEQA, undermining the
+FEIR's environmental and legal foundations. Petitioners seek a writ of mandate under
+California Code of Civil Procedure sections 1085, 1094.5, or both, directing DWR to
+
+9 vacate its EIR certification and approval of the project, and to revise its findings to conform
+with the law.
+10
+
+11 PARTIES, JURISDICTION AND VENUE
+12
+
+13
+
+14 11. Petitioner California Water Impact Network (*CWIN") is a California non-profit
+
+15 public benefit organization with its principal place of business in Santa Barbara, California.
+
+16 CWIN's organization purpose is the protection and restoration of fish and wildlife
+
+17 resources, scenery, water quality, recreational opportunities, agricultural uses, and other
+natural environmental resources and uses of the rivers and streams of California. These
+18
+19 resources include, but are not limited to, the Bay-Delta, its watershed and its underlying
+groundwater resources. CWIN has members who reside in, use, and enjoy the Bay-Delta
+20| and inhabit and use its watershed. They use the rivers of the Central Valley and the Bay-
+21 Delta for nature study, recreation, and aesthetic enjoyment. CWIN has long sought to
+22 ensure that the SWP is managed and operated in a manner that ensures public
+23 accountability, environmental responsibility, and protection of the public trust. In numerous
+24 activities, including participation in administrative and judicial proceedings, it has drawn
+25 attention to the risks stemming from oversubscription of California's major water 26 resources, and overreliance on "paper water" allocations referenced in water project
+27 contracts far exceeding supplies that can be reliably and safely delivered.
+
+28
+
+6
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ET AL.
+
+12. Petitioner AquAlliance (*AquAlliance"), whose headquarters is in Chico, California,
+2 is a California public benefit corporation. Its mission is to defend northern California
+3 waters and the ecosystems these waters support and to challenge threats to the hydrologic
+health of the Sacramento River watershed. This includes escalating attempts to divert and
+
+5 withdraw more water from the hydrologic region, which has faced growing dangers from
+
+6 droughts, floods, fires, and other major risks compounded by the onset of climate change.
+AquAlliance's members include farmers, scientists, businesses, educators, and residents all
+of whom have significant financial, recreational, scientific, aesthetic, educational, and
+9 conservation interests in the aquatic and terrestrial environments that rely on waters of the
+
+10 Sacramento River Watershed and Bay-Delta estuary. This hydrologic system provides
+water for orchards, homes, gardens, businesses, wetlands, streams, rivers, terrestrial habitat,
+11 and myriad species, which in turn allows AquAlliance members to live, fish, hunt, cycle,
+12 photograph, camp, swim, and invest in northern California. AquaAlliance recognizes that
+13 the northern Sacramento Valley and foothills need water for their own cities, residential
+T09E wells, and family farms, and also for threatened and endangered species. In addition to
+addressing overreliance on surface water sources, AquaAlliance seeks to avoid overuse of
+groundwater, from sources such as the Tuscan Aquifer. Overuse of groundwater results in
+the dewatering of creeks and streams and could easily impair the fragile riparian, wetland,
+18 and oak woodland ecosystems of the Sacramento Valley and foothills.
+19
+
+20 13. Respondent California Department of Water Resources ("DWR") is a California
+
+21 public agency, established by the California Legislature in 1956. Under state law, DWR is
+
+22 principally responsible for operation and management of the State Water Project. DWR
+
+23 served as the CEQA lead agency for the project. DWR certified the FEIR and filed the
+Notice of Determination recording its approval of the project, both challenged in this
+24
+
+25 action. The FEIR prepared by DWR as CEQA lead agency must also serve as a legally
+adequate decision-making document for any discretionary determinations of responsible
+26 and trustee agencies subject to the requirements of CEQA.
+27
+28
+
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ET AL.
+
+1 14. Does 1 through 50, inclusive, may have an interest or claim to the project whosel
+2 specific details are not presently known to the petitioners and plaintiffs. Their true names/ and capacities, whether in individual, corporate, associate, governmental, or other
+designations, are not presently known to plaintiffs and petitioners, and are therefore
+5 referenced here by fictitious names. Should their true names and capacities later be
+
+6 ascertained, petitioners and plaintiffs will seek to amend this petition to identify their true
+names and capacities.
+
+8
+15. DWR's Notice of Determination for the project did not identify any real parties in
+interest pursuant to Public Resources Code section 21167.6.5, and petitioners are not awarel
+10 of any entities that meet the statutory definition of real parties in interest.
+11
+
+12 16. This civil action is brought pursuant to Code Civ. Proc., §§ 1085, and 1094.5; and
+13 CEQA, Public Resources Code section 21000 et seq.
+14
+15 17. Pursuant to Code of Civil Procedure sections 393, 394 and 395, venue for this action
+16 is appropriate in Sacramento County Superior Court. DWR is a state agency whose
+17 principal office is located in the City of Sacramento, within Sacramento County. The
+
+18 affirmative acts of DWR recorded in its notice of determination resulted in wrongs that
+
+19 were felt, at least in large part, in Sacramento County.
+
+20
+
+21 18. Petitioners have exhausted all administrative remedies by submitting written
+
+22 comments preceding DWR's certification of the EIR and approval of the project. All issues
+
+23 raised in this petition were raised by petitioners, or by other public entities, members of the
+
+24 public, or both, prior to DWR's final decision on the project recorded in the Notice of
+Determination. Petitioners
+25 vossess no remedy to challenge DWR's unlawful conduct
+identified herein other than by bringing this action.
+26
+
+27 19. Petitioners have complied with Public Resources Code section 21167.5 by prior
+28 service of a notice upon DWR indicating their intent to file this petition.
+
+8
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ET AL.
+
+2 20.
+
+3 Petitioners have complied with Public Resources Code section 21167.7 and Code of
+Civil Procedure section 388 by serving a copy of this petition on the Attorney General.
+Petitioners bring this action on behalf of their members and members of the public, to
+enforce important rights affecting the public interest and confer a significant public a benefit.
+Petitioners and their members are directly and adversely affected by DWR's approval of
+the project and failure to comply with CEQA. DWR's actions set forth in this petition
+
+8 amount to a prejudicial abuse of discretion under Public Resources Code section 21168.5
+
+9 and Code of Civil Procedure section 1085. Without the relief requested in this petition,
+
+10| petitioners, their members, the public, and the environment would be irreparably harmed,
+
+11 and no monetary damages could adequately compensate for that harm.
+
+12 21.
+GEU Petitioners elect to prepare the record of proceedings in the above-captioned
+13| proceeding or to pursue an alternative method of record preparation pursuant to Public
+Resources Code section 21167.6(b)(2).
+
+16
+17 PROCEDURAL HISTORY
+
+18 191 22. For much of the past decade, DWR has studied and pursued detailed amendments to
+20 long-term SWP contracts, originally enacted with expiration dates between 2035 and 2042.
+
+21 DWR has also studied and pursued approval and financing of a proposed Delta conveyance,
+
+22 and related changes in the rules governing SWP management.
+
+23 23.
+24 DWR, which earlier pursued conveyance projects known as the Bay Delta
+
+25 Conservation Plan (BDCP) and California WaterFix (WaterFix), is currently reviewing, and
+
+26 has received numerous scoping comments from petitioners and others on its latest proposed
+
+27 conveyance, the Delta Conveyance Project (DCP).
+
+28
+
+9
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ET AL.
+
+24. Whether to add a Delta conveyance to the existing SWP, and the consequences of
+2 facilitating such a conveyance for ratepayers, taxpayers, and the environment, have long
+3 been among the most controversial and contentious subjects in the seven-decade history of
+the SWP. In 1966, DWR issued Project Order No. 12, which purported to designate the
+VI Peripheral Canal as the SWP facility to transfer water across the Sacramento-San Joaquin
+River to the Delta. For reasons reinforced in the defeat by voters of Proposition 9 in 1982,
+existing SWP water system facilities do not include the peripheral canal, permutations of
+
+8 that proposed conveyance, or any subsequently-proposed Delta conveyance.
+
+9 25.
+10| An October 2011 Legislative Analyst's Office (LAO) Report, Potential Funding
+Alternatives for the Bay Delta Conservation Plan Planning Process, stated that "[f]unding
+11 BDCP implementation" would "require amendment of long-term water supply contracts
+12 between DWR, the Bureau of Reclamation, and the contractors in order to provide the
+13 funding mechanism." (Id. at 5.) This report also listed revenue bonds as one of the
+14| "currently infeasible" funding mechanisms (Id. at 8.)
+15
+16 26. In 2013, DWR initiated a public negotiation process with SWP contractors to
+17 discuss amendments of long-term SWP contracts, including but not limited to extension of
+
+18 the length of these contracts through the end of 2085. Among the topics of discussion were
+
+19 SWP water management practices, and whether and how adoption of SWP contract
+
+20 amendments could facilitate indebtedness for a Delta conveyance, or remove obstacles to
+
+21 that indebtedness. During the negotiation process on proposed SWP contract amendments,
+
+22 certain SWP contractors, including Plumas County Flood Control and Water Conservation
+
+23 District and Butte County, raised concerns about taking steps that could risk exposure to
+
+24 costs from DWR's proposed Delta conveyance project, then known as BDCP.
+
+25 27. When discussing revenue bonds in connection with DWR's then-current Delta
+26 conveyance project, BDCP, DWR's bond counsel concluded that without contract
+27| amendments, BDCP was "not on the list of approved projects that are eligible for funding,
+28| including through bond financing." (Letter from Jake Campos, STIFEL, to Mary Lou
+
+10
+VERIPIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ET AL.
+
+Cotton, State Water Project Contractors Authority, at 4 (March 19, 2014; see also
+2 Metropolitan Water District of Southern California (MWD) PRA Document 00000484-
+O SWC Financing DHCCP 9-7-12.)
+
+28. In September 2014, MWD staff acknowledged that proposed SWP contractl
+amendments were a necessary step in financing BDCP. See MWD, Special Committee on
+Bay-Delta Presentation Re Review Status of BDCP Cost Allocation Discussions
+(September 23, 2014). In a September 23, 2013 report, Kern County Water Agency also
+9 indicated contract amendments were needed to finance BDCP.
+
+10 29. DWR issued its Notice of Preparation for a first set of new contract amendments, 11 designated as the Water Supply Contract Extension Project, on September 12, 2014. The
+12 term "contract extension" does not fully describe those amendments, which proposed to
+13 change substantive provisions of SWP contracts as well as extend their terms until 2085.
+14 Santa Barbara County's Flood Control and Water Conservation District raised scoping
+15 questions about the proposed project's financial consequences and implications for
+16 taxpayers and ratepayers. A consistent theme in public comments involved the role of
+17| contract amendments in facilitating DWR's proposed Delta conveyance.
+18
+
+19 30. Although DWR pursued substantive amendments to SWP contracts that could
+
+20 remove certain obstacles to financing a Delta conveyance as part of its "contract extension"
+
+21 amendments project, it also sought delay in addressing other proposed contractl
+
+22 amendments, including water management provisions and those addressing financing for
+
+23 DWR's proposed Delta conveyance. Separately from its contract extension project review,
+DWR initiated a separate SWP contract amendments process in November 2014 for its 24 proposed Delta conveyance. DWR later suspended that process in February 2015. 25
+
+26 31. In August 2016, DWR published its Draft EIR for the contract extension project. In
+27 October 2016, petitioners and other commenters submitted public comments on the contractl
+28 extension Draft EIR. Commenters, including petitioners, submitted evidence discrediting
+
+11
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ET AL.
+
+1 the independence of the contract extension project from DWR's proposed Delta
+2 conveyance, as well as from other proposed SWP contract amendments under separate
+3 consideration, such as those addressing water management and conveyance financing.
+
+32. In July 2017, DWR separately certified the Final EIR and issued its Notice of
+Determination recording final approval of its then-current twin-tunnel Delta conveyance
+project, designated as California WaterFix (also referenced as BDCP Alternative 4A). The
+
+8 same day, DWR approved three resolutions purporting to authorize revenue bond
+obligations for payment of California WaterFix. Also on the same day, but after executing
+
+10| the Notice of Determination for its California WaterFix approvals, DWR adopted Project
+Order No. 40, which purported to add California WaterFix facilities under the Central 11 Valley Project Act, and through that action, to the SWP. DWR did not include Project
+12 Order No. 40 and the three WaterFix bond resolutions in any public administrative review,
+13 comment period or public hearing prior to their adoption. DWR failed to enact any of its
+14 proposed SWP contract amendments facilitating Delta conveyance financing beforel 15| rendering these approvals. In coordinated actions in the Sacramento County Superior Court
+16 (JCCP No. 4942), petitioners and others disputed the validity of the three bond resolutions
+17 and Project No. 40, and argued that DWR had exceeded its authority and violated CEQA
+18 and other requirements of law in connection with its California WaterFix decision-making.
+
+19|
+
+20 33. In May 2018, although DWR had still not responded to 2016 public comments from
+
+21 petitioners and others on the contract extension DEIR, DWR requested a legislative hearing
+
+22 required under Water Code section 147.5 before executing contract extension amendments.
+
+23 Hearings were held on DWR's proposed contract amendments before the Senate Natural
+Resources and Water Committee (SNRWC) on July 3, 2018 and the Joint Legislative and
+24 Budget Committee (JLBC) on September 11, 2018. Testimony at the September 11, 2018
+25 JLBC hearing undermined the premise of the amendments' independence from DWR's
+26 proposed Delta conveyance. DWR director Karla Nemeth confirmed that DWR plans to
+27 "use these amendments to finance WaterFix," and Rachel Ehlers of the Legislative
+28 Analyst's Office testified that the contract extension amendments would "affect and
+
+12
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ET AL.
+
+facilitate" WaterFix. Facilitation of WaterFix through contract amendments is also
+2 addressed in the testimony of Congressman McNerney and of Roger Moore at the same
+3 hearing.
+
+4
+
+5 34. While SWP contract amendments were the subject of legislative proceedings during
+
+6 2018, public agency critics throughout California, from Plumas County and the Delta
+Counties Coalition to San Diego County, criticized DWR's efforts to complete contract
+
+8 amendments without integrated review of all DWR's proposed amendments related to the
+
+9 Delta Tunnels, including pending water management and water supply contract
+amendments. The Legislative Delta Caucus observed that DWR's "poorly defined" 10 amendments would have "potential adverse impacts far beyond their apparent scope," with
+11 many unknowns "regarding the extensive changes to the SWP contracts that are being
+12 proposed and how the changes will impact property taxes, water rates, the fiscal integrity of
+13 the SWP and General Fund." Commentary in major newspapers criticized DWR's lack of 14 transparency and attempts to leverage indebtedness for a Delta conveyance without 15 adequate review and debate.
+
+35. Following the 2018 legislative hearings, more than a dozen organizations, including
+18 petitioners, sent a letter to DWR in September 25, 2018, identifying changed circumstances 19 and calling for integrated environmental review of all DWR's anticipated and interrelated
+
+20 contract amendments. A December 11, 2018 letter to DWR on behalf of San Joaquin
+
+21 County, and other counties and agencies in the Delta region and the northern Sacramento
+
+22 Valley, supported the same position. Instead, following certification of a separate Final EIR,
+
+23 DWR finally approved the "contract extension" project on December 13, 2018. DWR's
+8 3 December 2018 decision-making on the contract extension amendments is the subject of
+pending CEQA challenges brought by petitioners and others in Sacramento Superior Court.
+(Sacramento County Superior Court Case No. 34-2018-00246183, Case No. 34-2019-
+26 80003047, Case No. 34-2019-80003053), as well as a direct validation action brought by
+27 DWR (Sacramento County Superior Court Case No. 34-2018-00246183).
+28
+
+13
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ET AL.
+
+1 36. Separately from its contract extension proceedings, DWR issued a notice to SWP
+2| contractors in December 2017, confirming its desire to pursue contract amendments to
+
+3 revise water management practices, including those pertaining to transfers and exchanges,
+and to address changes in financial provisions related to the costs of DWR's proposed|
+Delta conveyance. A series of public negotiation sessions followed in early 2018
+addressing these subjects. In June 2018, following up on these negotiations, DWR issued a
+
+co non-binding Agreement in Principle (2018 AIP) for the project. DWR determined that
+preparation of an EIR was necessary for the project.
+
+9 37.
+10 On July 13, 2018, DWR, acting as CEQA lead agency, published a Notice of
+
+11 Preparation (NOP) for the project, identified as the State Water Project Contractl
+
+12 Amendment for Water Management and California WaterFix. Scoping comments submitted
+
+13 in response to the NOP expressed concerns about piecemealing of matters separately
+pending in other proceedings on California WaterFix and the contract extension
+14 amendments, among other subjects. They also expressed concerns about other problems
+15 that could render DWR's environmental review inadequate under CEQA, including such
+16 subjects as the baseline for project analysis, project definition, methodology for impact
+17 assessment, and assessment of alternatives.
+
+18
+
+19 38.
+
+20 In October 2018, DWR published its State Water Project Contract Amendment for
+
+21 Water Management and California WaterFix Draft Environmental Impact Report (DEIR).
+
+22 DWR opened the public comment period on the DEIR on October 26, 2018, and closed that
+
+23 period on January 9, 2019. DWR also held public meetings on November 16, 2018 and
+November 30, 2018. During public meetings, members of the public expressed concerns
+
+24 about deficiencies in DWR's DEIR, piecemealing of its impact assessment, and refusal to
+
+25 provide an integrated analysis of all DWR's proposed contract amendments.
+
+26 39.
+27 Prior to the close of the public comment period, the petitioners, along with other
+organizations, public agencies, and members of the public, submitted detailed EIR
+28| comments identifying substantial deficiencies in the DEIR.
+
+14
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ET AL.
+
+2 40. On February 12, 2019, while DWR's litigation remained pending in Sacramento
+3 County Superior Court in the coordinated actions challenging California WaterFix (JCCP
+No. 4942), California Governor Gavin Newsom announced in his State-of-the-State speech
+
+5 that he did not support the twin-tunnel California WaterFix project, but did support
+single-tunnel Delta conveyance.
+
+41. On April 9, 2019, Governor Newsom issued Executive Order N-10-19, which 8 directed the California Natural Resources Agency, California Environmental Protection
+
+10 Agency, California Department of Food and Agriculture, in consultation with the
+Department of Finance, to prepare a water resilience portfolio that meets the needs of
+= N220 California's communities, economy, and environment through the 21st century. The
+Executive Order included planning for a single-tunnel approach to Delta conveyance as
+one of eight subjects for these agencies to consider in a new inventory and assessment,
+along with other subjects, such as "[e]xisting demand for water on a statewide and regional
+basis and available water supply to address this demand," and "existing water quality of our
+16 aquifers, rivers, lakes and beaches."
+17
+
+18 42. On May 2, 2019, DWR rescinded the Notice of Determination for its California
+
+19 WaterFix project and the CEQA approval documents referenced in its Notice of
+
+20 Determination. The same day, DWR set aside its certification of the California WaterFix
+
+21 Final EIR, as well as pending permitting applications pertaining to California WaterFix. On
+
+22 May 7, 2019, DWR adopted a general bond resolution rescinding all three California
+23 WaterFix bond resolutions it had sought to validate in the WaterFix coordinated actions. On
+May 9, 2020, DWR's counsel sent a note to opposing counsel in these actions, clarifying
+24 that it also considers Project Order No. 40 to be "rescinded" due to DWR's rescission of all
+25 its California WaterFix project approvals.
+26
+
+27 43. In a public meeting with SWP water contractors on May 20, 2019, DWR indicated it
+28 would revise the 2018 AIP to remove provisions pertaining to cost allocation for California
+
+15
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ETAL.
+
+WaterFix, while leaving other provisions unchanged. The same day, DWR released a draft
+working document for public discussion, entitled Draf Agreement in Principle for the SWP
+Water Supply Contract Ámendment for Water Management (2019 AIP). The 2019 AIP
+revised the 2018 AIP to delete provisions pertaining to California WaterFix, but retained
+5 the earlier AIP's water management provisions pertaining to transfers and exchanges of
+water within the SWP service area. The 2019 AIP referred to itself as a "straw proposal"|
+for a "draft" AIP, and indicated that "many provisions are under discussion and the
+workgroup will update the Draft AIP after future public negotiations." The 2019 AIP noted
+
+9 that its provisions are "not final contract language" and did not represent a "contractual
+
+10 commitment." It represented DWR's intent to "ultimately develop a proposed project
+consisting of contractual amendments consistent" with the AIP principles, and to prepare
+11 the EIR for consideration by lead and responsible agencies. Although the 2019 AIP did not
+12 disavow the use of its transfer and exchange provisions along with the new Delta
+13 conveyance that DWR continued to pursue, it provided no indication of how, or whether,l
+14 DWR would provide an integrated assessment of its proposed new contract amendments in
+15| the context of a new conveyance project.
+16
+17 44. In June 2019, after effectively obtaining the relief they had sought against DWR,
+
+18 petitioners and others challenging DWR's WaterFix decision-making requested dismissal
+
+19 of their writ petitions in the WaterFix coordinated actions (JCCP No. 4942). In July 2019,
+
+20 DWR likewise requested dismissal of its California WaterFix validation action.
+
+21
+22 45. On January 15, 2020, DWR issued its Notice of Preparation of a separate/
+
+23 environmental impact report for DWR's Delta Conveyance Project (DCP-NOP). The DCP-
+NOP provided a detailed description of the proposed facilities and project area for DWR's
+24 current single-tunnel conveyance project, indicating that although it would "utilize relevant
+25 information" from past environmental planning for California WaterFix, it intended to
+26 prepare a new stand-alone environmental analysis for its new EIR on the DCP. The DCP-
+27 NOP also disclosed that DWR's conveyance project may include "modifications" to SWP
+28| water supply contracts "to incorporate the Delta Conveyance Project." DWR represented
+
+16
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ET AL.
+
+that "if modifications move forward, the Delta Conveyance Project will assess, as part of
+the proposed project, potential environmental impacts associated with reasonably 3 foreseeable potential contract modifications." The notice did not indicate when, or whether, l DWR would analyze how impacts of its separately pending Water Management
+LO Amendments project could be exacerbated by the DCP.
+
+46. In February 2020, DWR released its State Water Project Water Supply Contracts for
+Water Management Partially Recirculated Draft Environmental Impact Report (RDEIR).
+
+9 Although the RDEIR deleted numerous references to California WaterFix from the DEIR,
+
+10 and noted that DWR was no longer pursuing California WaterFix, it did not analyze how
+
+11 the water management project would operate in the context of its current Delta Conveyancel
+
+12 Project. Although DWR allowed an additional comment period on the RDEIR's revisions,
+13, negostiations were underway T it held no public meetings to address the RDEIR. The RDEIR acknowledged that
+on "a possible contract amendment for cost allocation in
+anticipation of a single tunnel project." (Id. at 6-2.)
+
+16 47. Referring to DWR's proposal for a "single-tunnel Delta conveyance project," the
+17 RDEIR asserted that "no NOP for a proposed single tunnel project has yet been issued...."
+18 (ld.) The RDEIR failed to mention that DWR had issued precisely such a notice for its
+19
+20 single-tunnel Delta Conveyance Project on January 15, 2020. In the months following
+
+21 issuance of the Delta Conveyance Project, DWR received numerous detailed scoping
+comments on that project. Among other subjects, commenters noted the need to address
+
+22 how SWP contract amendments, and transfer and exchange provisions, would be used in
+
+23 connection with the proposed new Delta conveyance.
+
+24 48.
+25 While preparing and circulating the RDEIR on its water management contract
+
+26 amendments project, DWR continued to negotiate an additional set of proposed contractl
+
+27 amendments for the Delta Conveyance Project. On April 30, 2020, drawing from SWP
+contractor proposals in a series of offers starting in July 2019, DWR agreed to a separate
+28| Agreement in Principle for the State Water Project Water Supply Contract Amendment on a
+
+17
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ET AL.
+
+Delta Conveyance Project (2020 AIP). The same day, DWR released a Final White Paper
+2| conveying how DWR intended to address the accounting and administration of water
+
+3 attributable to the Delta conveyance facility. The 2020 AIP indicated that "transfers and
+4 exchanges" were not intended to be modified under it and would instead be subject to the
+
+5 provisions of "the then existing" SWP contracts. However, the 2020 AIP did not mention
+that DWR was already separately seeking to amend those same transfer and exchange
+provisions, following the conclusion of a segmented environmental review that was closer
+to completion. Accordingly, the 2020 AIP reinforces, rather than allays, the concern that
+
+9 the water management amendments' transfer and exchange provisions may be used
+
+10 together with DWR's Delta Conveyance Project.
+
+11 49. In August 2020, DWR released its State Water Projects Water Supply Contracts for
+12 Water Management Final EIR (FEIR). Despite DWR's expectation in the 2019 AIP that it
+13| would "ultimately develop a proposed project consisting of contract amendments"
+14 consistent with that AIP (2019 AIP at 10), the FEIR, like the RDEIR, does not provide
+15 those specific amendments. It again relies on the 2019 AIP to frame the project underl
+16 review. The FEIR fails to overcome major CEQA defects identified in public comments,
+17 including but not limited to those of petitioners. For example:
+18 Addressing concerns about its faulty project definition, piecemealing of the water
+19 management contract amendments from DWR's other proposed actions, and failure to
+
+20 study the "whole of the action" as required under CEQA, DWR refused to provide
+
+21 integrated assessment of its complete proposed contract amendments, and complete
+
+22 analysis of their relationship to DWR's proposed Delta conveyance. (FEIR, 2-4 to 2-9.)
+Addressing requests to analyze impacts of using the proposed water management
+23 amendments along with a new Delta conveyance, DWR implausibly claimed that these
+24 were "no longer relevant" merely because DWR was no longer pursuing its previous Delta
+25 conveyance project, California WaterFix. (FEIR, 2-9, 2-10, 2-17.)
+26
+27 Addressing whether the proposed Delta conveyance could exacerbate the impacts of
+its proposed contract amendments, DWR refused to analyze even the cumulative impacts of
+28 the Delta Conveyance Project as a current or probable future project, even though it
+
+18
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ET AL.
+
+1 initiated review of that project in January 2020, had received extensive scoping comments,
+2 and anticipated in the January 2020 NOP that this conveyance project may include
+additional project-specific contract amendments. (FEIR, 2-18, 2-19; RDEIR, 6-2, 6-3;
+DCP-NOP at 6.)
+Addressing concerns about its refusal to provide a complete assessment of the
+environmental impacts of the project's transfer and exchange provisions, the FEIR defers
+analysis until after project approval and proposed contract amendments are already final,
+
+8 based partly on a provision of the 2019 AIP calling for subsequent evaluation of impacts to
+"normal operations" and financial integrity of the SWP, as well as review for consistency
+with DWR policy and existing laws. (FEIR, 2-6.)
+10 Addressing avoidance of analysis pending post-approval of review for impacts to 11 "normal operations" of the SWP, among other factors (FEIR, 2-6), the FEIR fails to
+12 analyze the lack of any such "normal" operation within the oversubscribed SWP, fails to
+13 disclose the SWP's existing inability to adhere to numerous requirements of law, and fails
+14 to confront that the project's water management provisions are specifically intended to
+15 affect project operations, by allowing for expanded use of transfers and exchanges in
+16 comparison to existing SWP contract provisions. Compounding that disconnected analysis,
+17l the FEIR fails to analyze the extent to which climate change and changes to the coordinated
+18 operation of state and federal water projects may exacerbate project impacts.
+19 Addressing DWR's failure in its project to ensure compliance with laws protecting
+20 the Delta, such as the Delta Reform Act of 2009's requirement to "reduce reliance on the
+
+21 Delta" in meeting California's future water supply needs (Wat. Code, § 85021), the FEIR
+
+22 admits that the project may increase exports from the Delta, but erroneously assumes that
+
+23 impacts will be benign based on an assumption they would be within "existing operations"
+
+24 of the SWP. (FEIR, 2-20.) The FEIR draws conclusions about the likely scope and location
+of transfers, that while unsupported, contradict DWR's grounds for avoiding further 25 analysis. The FEIR fails to analyze how laws protecting the Delta, endangered species, l
+26 public trust resources and other rights may disrupt assumptions about "normal" project
+27 | operation of the SWP, adding to the "paper water" problems that the SWP already faces.
+28
+
+19
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ET AL.
+
+Addressing DWR's failure in its earlier documents to clearly identify program-level
+and project-level applications of its environmental review, the FEIR impermissibly defers
+
+3 even program-level analysis of project impacts from expanded use of transfers and
+exchanges until after the water management project and its proposed contract amendments
+are already final. (FEIR, 2-11.) The FEIR relies heavily on analysis conflating the
+distinction between SWP "Table A" allocations and surplus or "interruptible" water
+supplied when available under Article 21 of the SWP contracts. (Id.) The FEIR repeatedly
+
+8 fails CEQA's requirement for the reviewing agency to use its best efforts to find out and
+disclose all that it reasonably can to adequately describe important elements of the project
+
+10 and to analyze the impacts of its implementation. (CEQA Guidelines, §§ 15144, 15378.)
+Addressing DWR's reliance on a truncated assessment of the "no project"
+11 assessment, DWR relies on speculative assumptions about future actions of SWP
+12 contractors, and relies on disputed positions that are already the subject of pending legal
+13 challenges (FEIR, 2-13.)
+14 Addressing DWR's refusal to study a reasonable range of alternatives, the FEIR
+15 selectively relies on project objectives to ensure the "efficient delivery" of SWP supplies
+16 and ensure the SWP's "financial integrity" (FEIR 2-14), without conducting the analysis
+17| needed to fairly determine whether the project itself, as well as other project alternatives,
+18 can feasibly meet these project objectives.
+19
+
+20 50. In a letter to DWR dated August 26, 2020, Sacramento County and Sacramento
+
+21 County Water Agency ("Sacramento County") criticized the FEIR and noted DWR's
+
+22 failure to comply with CEQA. Sacramento County noted DWR's impermissible
+
+23 piecemealing of project analysis from the Delta Conveyance project, and refusal to provide
+
+24 cumulative analysis of project impacts in connection with the effects of that conveyance
+project, contrary to CEQA's requirement to do so for both "current" and "probable future
+25 projects." (Id. at 1, citing 14 Cal. Code Regs., § 15065(a)(3); see also 14 Cal. Code Regs., §
+26 15355.) Sacramento County also noted the failure to study ways to mitigate or avoid any
+27| significant cumulative impacts (Id. at 3, citing 14 Cal. Code Regs., § 15130.) §
+28
+
+20
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ETAL.
+
+1 51. Citing to meeting materials from a May 27, a 2020 meeting of the Delta Conveyance
+2 Design and Construction Authority (DCA), Sacramento County's August 26, 2020 letter 3 also observed that by the beginning of June 2020, more than two months before releasing
+the FEIR, DWR "was already in the process of preparing the Scoping Summary Report and
+4O the range of alternatives proposed for detailed analysis of the DCP in a Draft
+Environmental Impact Report." (Op cit. at 2.)
+
+52. In a letter to DWR dated August 27, 2020, CWIN noted that due to serious
+deficiencies in the FEIR and failure to provide analysis "necessary to informed decision- making and informed public participation," approval of DWR's water management project 10 must be denied, or at minimum delayed pending further study. (Id. at 6, citing Sierra Club 11 County of Fresno (2019) 6 Cal. 5th 502, 520.) Criticizing DWR's "suspect reliance on a 12 muddled morass of closely related, but disconnected CEQA reviews," CWIN argued that 13 the FEIR compounded, rather than solved, its unlawful piecemealing and refusal to study| 14 "the whole of the action," raised in numerous public comments, including its own. (Id. at 15 3.) Like Sacramento County, CWIN criticized DWR's unlawful refusal to study the
+16 cumulative impacts of its own Delta Conveyance Project. Noting DWR's continued failure
+17 to address oversubscription and "paper water" problems in the SWP, CWIN criticized
+18 DWR's benign assumptions about the project's ability to protect the "normal operation"
+
+19 and "financial integrity" of the SWP. (Id. at 5.)
+
+20
+
+21 53. In their correspondence with DWR regarding the FEIR and DWR's unmet CEQA
+
+22 obligations, Sacramento County and CWIN requested notification of any decision by DWR
+Sacramento County also requested a copy of DWR's Notice of on its project. 23 Determination when issued. Ignoring these requests, and without correcting any of the 24 CEQA problems noted in their letters, DWR signed its NOD for the project on August 27, 25 2020 and filed the NOD with the State Clearinghouse on August 28, 2020. The NODI 26 recorded DWR's certification of the FEIR and approval of CEQA findings of fact and
+27 overriding considerations. DWR did not make mitigation measures a condition of project 28 approval, or prepare a mitigation monitoring plan.
+
+21
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ET AL.
+
+2 54. DWR's NOD assumed that under the project, water would "continue to be delivered"
+
+3 to SWP contractors "consistent with current SWP Water Supply Contract terms" and **all
+regulatory requirements." DWR's NOD and findings did not address whether **current"
+
+5 terms included contract amendments already the subject of pending legal challenges, or
+
+6 address how DWR's water management contract amendments, once finally approved, could
+still be used along with additional contract amendments based on the 2020 AIP. The NOD
+
+8 and findings did not address DWR's existing inability to meet the SWP's regulatory
+requirements, and how that inability could be compounded by adoption of the project.
+
+10 55.
+11 DWR's findings acknowledge that project-related changes in transfers and
+exchanges could cause "significant and unavoidable" impacts from substantial depletion of
+12
+131 groundwater supplies (Impact 5.10-1) and subsidence caused by project-related depletion of
+groundwater. However, DWR failed to fully analyze and identify project-related risks to
+14 groundwater, and failed to analyze and implement feasible mitigation measures as CEQA
+15 requires. (Pub. Resources Code, § 21002.) Instead, without requiring mitigation, DWR
+16 impermissibly deferred that responsibility to be addressed, if at all, in post-approval review
+17 by other permitting entities.
+
+18
+
+19| 56. DWR's Statement of Overriding Considerations relies upon a comparison of the
+
+20 project to contract terms that remain the subject of pending litigation. Moreover, the
+
+21 statement rests upon legally unsupported assumptions, also lacking in substantial evidence,
+
+22 that water transfers under the project would only use the SWP's "existing facilities" and
+
+23 "existing operational and regulatory processes," and that "most" project related transfer
+
+24 would not require "additional export of SWP water from the Delta." The statement fails to
+disclose or analyze the extent of other transfers that would require such exports, despite
+25 numerous legal requirements to protect the Delta and to reduce rather than increase exports
+26 from the Delta. (See, e.g., Wat. Code, §§ 12201, 12202, 12405, 12205, 29701, 29702,
+27 85020, 85021, 85054.)
+28
+
+22
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ETAL.
+
+FIRST CAUSE OF ACTION:
+
+2 VIOLATIONS OF CEQA
+3
+57. Petitioners reallege and incorporate the allegations in paragraphs - through 56,
+5, inclusive, as if fully set forth herein.
+
+58. In certifying the Contract Extension Final EIR and rendering its final project
+
+8 approval, DWR violated CEQA in at least the following respects:
+Improper Piecemealing of Project Analysis, and Failure to Consider the "Whole of
+-=SOÉOSE-& the Action" constituting the project.
+Failure to Provide a Stable, Complete and Consistent Project Definition.
+Faulty Assessment of Project Baseline.
+Faulty Assessment of No Project Alternative
+Failure to Analyze a Reasonable Range of Alternatives
+Faulty and Incomplete Assessment of Project Impacts
+Faulty and Incomplete Assessment of Cumulative Impacts
+Failure to Mitigate Significant Impacts
+Failure to Recirculate EIR Despite Significant New Information
+Failure to Adequately Respond to Comments
+Approval of Defective Project Findings and Statement of Overriding Considerations.
+
+21 59. For all the reasons noted above, DWR prejudicially abused its discretion by failing
+
+22 to proceed as required under law, taking arbitrary and capricious action, and making
+
+23 conclusions and findings not supported by substantial evidence.
+
+24 PRAYER FOR RELIEF
+25
+
+26 WHEREFORE, petitioners pray that this Court:
+
+27 1. For a peremptory writ of mandate, commanding Respondent DWR to:
+28 a. Vacate and set aside approval of the Project and Findings supporting the
+
+23
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ET AL.
+
+approval;
+2 b. Vacate and set aside certification of the EIR and approval of its Notice of
+Determination;
+c. Suspend any and all activity that can result in an adverse change or
+alteration to the physical environment, until Respondent has complied with all requirements
+of CEQA and all other applicable state and local laws and regulations as a directed by this
+Court pursuant to Public Resources Code section 21168.9;
+8 2. For a stay, temporary restraining order, preliminary injunction, and 9l permanent injunction prohibiting any actions by Respondent that can result in any adverse
+10 change or alteration to the physical environment, pursuant to Respondent's approval of the 11
+12 project and certification of the EIR until Respondent has fully complied with all
+requirements of CEQA and all other applicable state laws, policies, and regulation.
+13 3. For an award to petitioners of costs and attorneys' fees under section 1021.5
+14 of the Code of Civil Procedure; and
+15 4. For a grant of such further relief as the Court deems just.
+16 Dated: September 28, 2020 Respectfully submitted, 17
+
+18 ROGER B. MOORE (SBN 159992) LAW OFFICE OF RÖGER B. MOORE 19
+20| Gi By:_ Roger B. Moore
+21 Attorney for Petitioners California Water Impact 22 Network and AquAlliance
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+24
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ET AL.
+
+VERIFICATION
+
+I, Roger B. Moore, am counsel of record for petitioners California Water (Impact
+Network and AquAlliance. am signing this verification due to petitioners' absence from L the county, and because facts in the petition are within the knowledge of the undersigned
+6 counsel. I have read the foregoing petition and know the contents thereof. The same is true
+
+8 of my own knowledge, except as to those matters that are alleged on information and belief,
+and as to those matters, I believe them to be true.
+
+10 declare under penalty of perjury under the laws of the State of California that the
+
+California.
+11 foregoing is true and correct. Executed this 28th day of September, 2020, in Oakland,
+
+12
+13
+14 15 Roger B. Moore
+
+10
+17
+
+20
+21 NE 23
+24
+25
+26
+27
+
+28
+
+25
+VERIFIED PETITION OF CALIFORNIA WATER IMPACT NETWORK, ET AL.
+
+OCT-0 1 2020

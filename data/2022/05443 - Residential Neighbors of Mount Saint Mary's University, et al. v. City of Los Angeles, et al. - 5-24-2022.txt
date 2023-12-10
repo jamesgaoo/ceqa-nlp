@@ -1,0 +1,1297 @@
+Andrew J. Ahn [SBN 326522]
+REUBEN RAUCHER & BLUM
+12400 Wilshire Boulevard, Suite 800
+Los Angeles, California 90025 3 Telephone: (310) 777-1990 Facsimile: (310) 777-1989
+
+5 Attorneys for Petitioners and Plaintiffs
+
+6
+
+7
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+8
+FOR THE COUNTY OF LOS ANGELES
+9
+
+10
+RESIDENTIAL NEIGHBORS OF MOUNT Case No.:
+11 SAINT MARY'S UNIVERSITY, an
+unincorporated association, TIMOTHY D.
+12 REUBEN, an individual, and
+STEPHANIE BLUM REUBEN, an VERIFIED PETITION FOR WRIT OF 13 individual, MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE 14 Petitioners and Plaintiffs, RELIEF
+
+15 VS.
+
+CITY OF LOS ANGELES, a municipal [CEQA, Pub. Res. Code § 21000, et seq.; Code 16 of Civil Procedure §§ 1094.5, 1085] entity;
+17
+
+18 Respondent and Defendant.
+
+19 MOUNT SAINT MARY'S UNIVERSITY, and DOES 1-25, inclusive,
+20
+Real Parties in Interest and Defendants.
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+1 I.
+
+2 INTRODUCTION
+
+3 Petitioners Residential Neighbors of Mount Saint Mary's University, Timothy Reuben,
+
+4 and Stephanie Reuben (collectively, "Petitioners"), bring this action to challenge the unlawful
+actions of Respondent City of Los Angeles ("City" or "Respondent") in certifying the
+
+6 Environmental Impact Report ("EIR") for the development of Alternative 5, Mount Saint Mary's
+University's ("MSMU") Wellness Pavilion project (the "Project"), approving the Project, and
+
+8 making related findings because the EIR fails to satisfy the requirements of the California
+Environmental Quality Act ("CEQA").
+
+10 The Project involves the construction of the "Wellness Pavilion" on a 3.8-acre portion of
+
+11 MSMU's Chalon Campus, located at 1200 Chalon Road in the City of Los Angeles. Among
+
+12 other things, the Project includes the development of a 35,500 square-foot two-story fitness
+
+13 center, a new outdoor pool area, Chalon Campus roadway improvements, new landscaped areas,
+
+14 and several surface parking lots, all located on MSMU's Chalon Campus. The Project also
+
+15 introduces three new types of events which will be attended by outside guests, students, faculty,
+
+16 and staff.
+
+17 Petitioners are neighbors of MSMU in the Brentwood area of the Santa Monica
+
+18 Mountains in Los Angeles County. The neighborhood, which is within a state-designated Very
+
+19 High Fire Hazard Severity Zone, comprises of narrow and winding canyon streets, which
+20 provide the sole point of access for MSMU. MSMU's operations have historically generated
+
+21 significant traffic and public safety problems for the community. These environmental problems
+
+22 were highlighted during the recent 2019 Getty Fire, whereby MSMU's students fled the wildfire
+
+23 by foot and were evacuated by drivers of the surrounding residential community. The Project
+24 will significantly exacerbate existing public safety and traffic problems by drawing large
+25 numbers of visitors to MSMU, and this case demands proper application of the California
+
+26 Environmental Quality Act.
+
+27 In certifying the EIR, Respondent failed to comply with CEQA. More specifically,
+
+28 Respondent prejudicially abused their discretion and failed to proceed in the manner required by
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 law by certifying an EIR that does not adequately analyze or mitigate the Project's significant
+
+2 environmental impacts. Among other things, the EIR also fails to provide a CEQA-compliant
+
+3 alternatives analysis and response to comments. As a result of these and other deficiencies, the
+
+4 EIR fails as an informational document.
+
+5 Because the EIR violates CEQA, the Approvals that are reliant upon it must be
+
+6 overturned. Therefore, Petitioners respectfully request that the Court direct Respondents to set
+7 aside the certification of the EIR and associated Project Approvals.
+
+8 By this verified Petition, Petitioners further allege as follows:
+
+9 II.
+
+10 THE PARTIES
+
+11 1. Petitioner Residential Neighbors of Mount Saint Mary's University is an
+12 unincorporated association of individual neighbors of MSMU. Each of these neighbors reside in
+13 Los Angeles County, California and in close proximity to MSMU and the Project.
+14 2. Petitioners Timothy D. Reuben and Stephanie Blum Reuben are husband and wife
+15 residing in Los Angeles County, California and in close proximity to MSMU and the Project.
+16 3. Respondent City of Los Angeles ("City" or "Respondent") is a municipal
+17 corporation and a charter city, organized and existing under the laws of the State of California,
+18 with the capacity to sue and be sued. As used herein, the terms "City" or "Respondent" include,
+19 but are not limited to, City employees, agents, officers, boards, commissions, departments, and
+20 their members, all equally charged with complying with duties under the City Charter and with
+21 the laws of the State. Respondent is the lead agency under CEQA for consideration of
+22 certification of the EIR and has principal responsibility for approving the Project.
+23 4. Real Party in Interest Mount Saint Mary's University ("MSMU") is listed as the
+24 applicant on all documents relevant to the Project, including, but not limited to, all Applications,
+25 Notices, Environmental Impact Reports, Certifications, Approvals, and Notices of
+26 Determination.
+
+27 5. Petitioners do not know the true names or capacities, whether individual,
+28 corporate, associate, or otherwise, of Respondent and Real Parties in Interest Does 1 through 25,
+2
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+inclusive, and therefore sue said Respondents and Real Parties in Interest under fictitious names.
+
+2 Petitioners will amend this Petition to show their true names and capacities when and if
+
+3 Petitioners ascertain the same.
+
+4 III.
+
+5 JURISDICTION AND VENUE
+
+6 6. This Court has jurisdiction over the matters alleged in this Petition pursuant to
+
+7 Code of Civil Procedure sections 1085 and 1094.5, and Public Resources Code sections 21168
+
+8 and 21168.5. The Court has jurisdiction to issue declaratory relief pursuant to Code of Civil
+
+9 Procedure section 1060 and injunctive relief pursuant to Code of Civil Procedure section 525 et
+
+10 seq.
+
+11 7. Venue is proper in this Court under Code of Civil Procedure sections 393 and
+
+12 394(a), because Respondent City of Los Angeles is located and subject to service in Los Angeles
+
+13 County, the Project site is located in Los Angeles County, and all of the acts or omissions alleged
+
+14 herein occurred in Los Angeles County.
+
+15 8. This action was timely filed. Petitioners filed this Petition and Complaint prior to
+16 the expiration of any applicable statute of limitations.
+
+17 9. Petitioners performed all conditions precedent to filing this action by complying
+
+18 with the requirements of PRC § 21167.5 by serving § prior notice of the complaint in this action.
+
+19 A copy of the written notice and proof of service is attached as Exhibit A to the Petition in this
+
+20 action.
+
+21 10. Petitioner provided notice of this action to the Attorney General of the State of
+
+22 California by serving a copy of this Petition along with a notice of its filing, as required by PRC
+
+23 vop 21167.7 and CCP § 388. A copy of the written notice and proof of service is attached as
+
+24 Exhibit B to the Petition in this action.
+
+25 11. Pursuant to CEQA § 21167.6, Petitioners concurrently file a request concerning
+26 preparation of the Record of Proceedings relating to this action. A true and correct copy of such
+27 notice is attached as Exhibit to the Petition in this action. Pursuant to CEQA con
+28 21168.6.7(g)(8), Respondent is required to certify the Record of Proceedings to this Court within
+3
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+1 ten (10) days of service of this Petition.
+
+2 IV.
+
+3 EXHAUSTION OF ADMINISTRATIVE REMEDIES
+
+12. Petitioners are neighbors of MSMU, and live along or adjacent to the narrow,
+
+5 winding streets that provide the sole point of access for MSMU. Petitioners would be adversely
+
+6 affected by impacts of the Project due to the City's actions and approval, and are aggrieved by
+7 the acts, omissions, and decisions of the City as alleged in this Petition. Living in such close
+
+8 proximity to MSMU and the Project, Petitioners have a substantial interest in ensuring that the
+
+9 City's land use decisions are made in compliance with the City Charter, municipal code, and
+10 other local land use regulations, as well as with state laws applicable to land use approvals such
+
+11 as the California Environmental Quality Act.
+
+12 13. Petitioners have actively participated in the administrative and environmental
+13 review process prior to close of the public hearings on the Project and before the issuance of the
+14 Notice of Determination. Petitioners have fully exhausted administrative remedies to the extent
+15 required by law. (Pub. Res. Code § 2117(a).)
+
+16 14. CEQA allows a petitioner who objected to a project to allege in a petition all
+17 deficiencies asserted by others. (California Clean Energy Committee V. City of Woodland (2014)
+18 225 Cal.App.4th 173, 191.). Petitioners and other interested groups and individuals commented
+
+19 on the Project and raised each of the legal deficiencies asserted in this Petition.
+
+20 15. Respondent has taken final agency actions certifying the EIR and adopting related
+21 Project approvals and findings. Respondent had a mandatory duty to comply with all applicable
+22 laws, including CEQA, prior to undertaking the discretionary approvals at issue in this Petition.
+23 Petitioners possess no effective remedy to challenge the Project approvals at issue in this action
+24 other than by means of this lawsuit.
+
+25
+
+26 1 Subsequent to serving the Notice of Intent to Sue, the Notice the Attorney General, and
+27 the Request for Record of Proceeding, Petitioners made two minor revisions to the Petition by (1) removing Timothy D. Reuben as an attorney of record for Petitioners, and (2) correcting
+28 Stephanie Reuben's legal name.
+
+4
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 16. Venue is proper in this Court under Code of Civil Procedure sections 393 and
+
+2 394(a), because Respondent City of Los Angeles is located and subject to service in Los Angeles
+
+3 County, the Project site is located in Los Angeles County, and all of the acts or omissions alleged
+
+4 herein occurred in Los Angeles County.
+
+5 V.
+
+6 PROCEDURAL BACKGROUND
+
+7 17. Respondent released a Notice of Preparation in August 2016, stating MSMU's
+8 request for a Plan Approval to construct the Wellness Pavilion.
+
+9 18. Respondent released a Draft EIR for public review in April 2018. Many parties,
+10|| including organizations and individual members of the public, provided written comments on the
+11 Draft EIR.
+
+12 19. In June 2021, Respondent released the Final EIR for the development of
+13 Alternative 5 (the "Project"). The Final EIR included, among other things, responses to
+14 comments on the Draft EIR and revisions to the Draft EIR.
+
+15 20. On July 14, 2021, Respondent held a public hearing on the Project. However,
+16 Respondent had failed to publish the Public Hearing Notice in the Daily Journal, as required by
+17 the LAMC. Accordingly, Respondent held a second public a hearing on October 21, 2021.
+
+18 21. On December 2, 2021, Respondent issued its Letter of Determination certifying
+19 the Final EIR, approving the Project, and making related findings. Petitioners, as well as many
+20 others, appealed Respondent's decisions pursuant to the LAMC.
+21 22. On April 5, 2022, the Planning and Land Use Management (*PLUM") Committee
+22 of the City held a public hearing to consider all appeals relating to the Project. At the public
+23 hearing, the PLUM Committee denied all appeals, sustained the decisions of Respondent, and
+24 adopted modified Conditions of Approval. Respondent issued its Final Notice of Determination
+
+25 on April 15, 2022.
+
+26 VI.
+
+27 FACTUAL BACKGROUND
+
+28 23. MSMU is a private university offering undergraduate and graduate degrees ät two
+5
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+campuses in Los Angeles: the Chalon Campus located in the Brentwood Community, and the
+
+2 Doheny Campus located near downtown Los Angeles. MSMU's Chalon Campus operates as a
+
+3 private education use in a single-family residential zone under a Deemed-to-be-Approved
+Conditional Use Permit and subsequent Plan Approvals. In 2016, MSMU requested a Plan
+Approval to construct and operate the "Wellness Pavilion," a 38,000 square-foot facility within a
+
+6 3.8-acre developed portion of its Chalon Campus.
+
+24. The Draft EIR included the original Wellness Pavilion proposed by MSMU, as
+
+8 well as potentially feasible alternatives that could attain most of the basic objectives of the
+proposed project while also reducing the significant environmental effects of the proposed
+10 project. The Draft EIR identified "Alternative 5" as the Environmentally Superior Alternative
+
+11 (the "Project"). Compared to the original proposed project, the Project, among other things,
+12 eliminated the construction of a parking deck and reduced the amount of parking spaces added
+
+13 under the Project. The Draft EIR also included MSMU's contention that MSMU had the right to
+
+14 increase student enrollment, but MSMU's contention was removed from the Final EIR.
+
+15 25. The Project would include a 38,000-square-foot, two-story Wellness Pavilion
+
+16 within a 3.8-acre portion of the 45-acre Campus. The Project includes a fitness building, two
+17 tennis courts, a swimming pool, two facilities management buildings, and several surface
+
+18 parking lots. The Project components would include a gymnasium, multipurpose rooms, exercise
+
+19 rooms, office, and support space (lockers, showers, restrooms, equipment storage, etc.). The
+20 Project would also include a new outdoor pool area, landscaped open space, and continuous
+21 pedestrian paths between the three tiers of the Chalon Campus.
+
+22 26. The Project does not include a request to increase student enrollment but assumes
+23 2,200 permitted students with no explanation of the increase from the previously approved 750.
+24 The Project will introduce three new types of events which will be attended by outside guests,
+25 students, faculty, and staff: The Summer Sports Camps (which will operate over a 12-week
+
+26 period each year and will be attended by 400 outside guests per day, plus staff), the
+
+27 Health/Wellness Speaker Series (eight annual events), and Other Wellness/Sports
+28 Events/Activities (twelve annual events). Additionally, two existing events - Athenian Daÿ and
+6
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+Homecoming - will take place at the new Wellness Pavilion.
+
+2 Wildfire, Public Safety, and Evacuation Impacts
+
+3 27. MSMU's Chalon Campus and the Project are located within a "Very High Fire
+
+4 Hazard Severity Zone." The Project is located several narrow, windy, and traffic-burdened miles
+
+5 away from the first-call fire station. Ever since the Draft EIR was issued in 2018, Los Angeles
+
+6 County alone experienced eight major wildfires: the Woolsey Fire in 2018 (3 citizen fatalities),
+
+7 the Saddleridge Fire, the Tick Fire, and the Getty Fire in 2019, during which MSMU students
+
+8 and Brentwood residents were evacuated. During the Getty Fire, students and others fled the
+
+9 campus into the neighborhood with no direct plan, and residents took it upon themselves to
+
+10 shelter students and/or transport them south for pickup by friends and family.
+
+11 28. In evaluating the hazards created by a project, CEQA Guidelines Appendix G
+
+12 requires EIRs to analyze whether a Project will "[e]xpose people or structures, either directly or
+13 indirectly, to a significant risk of loss, injury or death involving wildland fires.' CEQA
+
+14 Guidelines Appendix G § IX(g). Petitioners and many other members and groups of the public
+
+15 raised concerns about the Project's impacts on wildfire and safety. The Project provides for new
+16 large events and summer camp programs with high enrollment numbers, and more people who
+
+17 are not familiar with the surrounding area will inevitably be drawn into the MSMU Chalon
+
+18 Campus. Testimony throughout the administrative process, including expert letters submitted to
+
+19 the City, attested to MSMU's lack of control of access and evacuation during prior fires in
+20 Brentwood.
+
+21 29. However, the Final EIR does not adequately address the impact of wildfires, and
+22 the Final EIR's responses to comments by Petitioners and others were inadequate and
+23 conclusory. The Final EIR calls for a "shelter in place" strategy, and it supports this strategy by
+24 merely stating that MSMU developed this wildfire emergency plan in consultation with the Los
+25 Angeles Fire Department. The Final EIR provides no enforceable means of ensuring that
+
+26 students would actually shelter in place. It simply assumes the policy would work. However,
+27 there are no standards for sheltering in place and human behavior suggests, and past history
+28 proves, that when faced with an emergency, people will flee rather than stay in place. The' 2019
+7
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+1 Getty Fire demonstrated this. Nothing assures orderly evacuation of the campus, if it became
+
+2 necessary, and nothing even requires that events would be cancelled even if a high safety threat
+
+3 exists.
+
+4 30. Moreover, the Final EIR does not adopt numerous additional mitigation measures
+
+5 suggested by the public and experts to reduce wildfire and safety risks, and provides no
+
+6 explanation or evidence that such measures are infeasible. For example, Brentwood residents
+submitted an October 1, 2021 report by The McMullen Company that provided an analysis of the
+
+8 failure of the EIR to adequately address these issues, and that suggested mitigation measures the
+
+9 EIR must incorporate to effectively address these issues. But neither letter of determination nor
+10 the Final EIR addresses these proposed mitigation measures or explains why they are not
+11 feasible. The Project's impact on wildfires is significant and unavoidable, and Respondent was
+12 required to adopt all feasible mitigation measures provided by experts in the field.
+13 Traffic and Transportation Impacts
+
+14 31. The Final EIR's discussion of traffic and transportation impacts is deficient. The
+15 Final EIR concludes that the Project will have a less than significant traffic and transportation
+16 impact because the Project will include the mitigation measures set forth in the Mitigation
+17 Monitoring Program, PDF-TRAF-12, 13, and 18 of the Final EIR. These measures purport to
+18 impose certain limitations on traffic through vehicle trip caps and periodic "audits," enforced by
+19 the Los Angeles Department of Transportation.
+
+20 32. However, the mitigation measures do not include any enforcement mechanism.
+21 Though the Final EIR provides for periodic audits, the Final EIR is silent on whether MSMU
+
+22 must bring the vehicle trip counts into compliance if the audits reveal a failure to meet the
+
+23 established performance standard. The lack of any actual enforcement mechanism renders these
+24 features or measures unenforceable.
+
+25 33. Moreover, the Final EIR fails to account for the foreseeable increase in the
+26 number and frequency of events and associated vehicle trips on the MSMU Chalon Campus
+27 stemming from the new events anticipated for the Wellness Pavilion. The Final EIR attempts to
+28 avoid traffic impacts during peak hours of the day, but there will undoubtedly be an increäse of
+8
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 events during evening hours. The traffic resulting from evening events will cause or exacerbate
+
+2 nighttime noise, and vehicle and pedestrian safety. The potential safety impacts are more
+
+3 pronounced by the narrow, winding, and sometimes unlit neighborhood roadways that provide
+
+4 access to MSMU Chalon Campus. The Final EIR fails to include any analysis of these safety
+
+5 effects.
+
+6 Foreseeable Cumulative Effects of Enrollment
+
+7 34. MSMU opened its Chalon Campus in 1930 with 150-200 students, a stated
+
+8 intention of maximum enrollment of 500 students, and a condition that its uses must be
+
+9 consistent with educational subjects (in conformance with the State Educational Code).
+10 However, MSMU has expanded its enrollment over the years well beyond its approved
+11 enrollment cap in violation of its conditional approval.
+
+12 35. To ensure consistency with the zone, in 1984 the City limited the school's
+13 enrollment to 750 and agreed not to increase enrollment in an ad hoc fashion, limiting growth to
+
+14 1,072 students if later requested, contingent on construction of a parking structure. Although
+15 MSMU applied to build the parking structure, it did not request an additional enrollment
+
+16 increase. In fact, the environmental documents for the parking structure indicate, "no enrollment
+
+17 increase is allowed." Despite these clear limits, MSMU's enrollment has grown to over 1,500
+18 students with future plans for 2,200 students (according to the Draft EIR).
+
+19 36. In response to the public's comments, the Final EIR was revised to include a
+20 definitive statement by MSMU of its current ultimate enrollment and to remove any request to
+21 increase student enrollment. MSMU has repeatedly disclaimed any relationship of the Project to
+22 student enrollment. However, the fact that the Project does not specifically propose an increase
+
+23 in enrollment is belied by the fact that enrollment increases is an entirely foreseeable
+24 consequence of the Project. By simply disclaiming any relationship of the Project to enrollment,
+25 the Final EIR fails to account for foreseeable cumulative effects. Further, this failure renders the
+26 proposed Project Design Features incorporated into the determinations and Mitigation
+27 Monitoring and Reporting Program illusory.
+
+28 37. Even if enrollment increases would not directly result from the Project, MSMU
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+believes it is entitled to reach its enrollment level without any further approval by the City. (See
+
+2 Draft EIR, Project Description.) However, future increases in enrollment to eventual maximum
+
+3 levels are foreseeable under any development scenario on the campus. This remains true
+
+4 irrespective of the enrollment level to which MSMU believes it is entitled. Consequently, even
+
+5 though MSMU now attempts to disclaim the enrollment limit it believes applies, the EIR's
+
+6 analysis both of indirect effects and cumulative effects must account for foreseeable increases in
+
+7 enrollment.
+
+8 38. MSMU has remained coy about its enrollment figures throughout the
+
+9 administrative process, confusing any claim or evaluation of existing or future enrollment.
+10 Despite clear limits on enrollment at its Chalon Campus, MSMU has implied at various points
+
+11 that enrollment is essentially fungible, as students travel between the Chalon and Doheny
+
+12 campuses for various academic needs. But MSMU's approach renders any enrollment cap
+
+13 imposed in the Chalon Campus' entitlement history meaningless, and permits MSMU to
+
+14 circumvent any limitation on the Chalon campus by simply enrolling students at Doheny and
+15 allowing them to travel freely between campuses. This approach also means that MSMU (and the
+
+16 EIR) must attempt to quantify increased travel to the Chalon campus from the Doheny campus as
+
+17 enrollment at Doheny grows. This is particularly true if MSMU's academic structure provides
+
+18 that certain academic functions or opportunities are only available at the Chalon campus -- a
+
+19 condition implied by the necessity for students to travel between campuses.
+
+20 39. Among other things, the purpose of the cumulative impacts analysis is to avoid
+
+21 considering projects without regard for the combined effects of that and other projects.
+
+22 (Whitman V. Board of Supervisors (1979) 88 Cal.App.3d 397, 408.) The failure to analyze
+
+23 potential cumulative effects constitutes a form of piecemealing or segmentation. (Golden Door
+24 Properties, LLC v. County of San Diego (2020) 50 Cal.App.5th 467, 527.) An adequate analysis
+
+25 of cumulative impacts is particularly important when another related project might significantly
+26 worsen the Project's adverse environmental impacts and therefore constitutes a mandatory
+27 component of any accurate cumulative impact analysis. (Friends of the Eel River v. Sonoma
+
+28 County Water Agency (2003) 108 Cal.App.4th 859. However, the multiple claims in the Final
+10
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+1 EIR regarding the inapplicability of enrollment levels led to the complete failure to calculate,
+
+2 evaluate, and disclose these effects. (See Draft EIR, § IV.K Traffic, p. IV.K-30, referencing only
+
+3 external cumulative projects.) The law is clear that any adequate environmental analysis must
+
+4 evaluate "past, present, and reasonably foreseeable" other projects: in this case, future actions
+
+5 likely include enrollment increases consistent with levels to which MSMU claims entitlement.
+
+6 Obviously, an enrollment increase will significantly exacerbate the dangers of wildfires,
+
+7 evacuation, and the issues relating to traffic. The failure to include this analysis of reasonable
+
+8 foreseeable impacts represents a prejudicial abuse of discretion, and robs the purported
+
+9 conclusions of this analysis of substantial evidentiary support.
+
+10 FIRST CAUSE OF ACTION
+
+11 (Petition for Writ of Mandate Against Respondent City of Los Angeles)
+
+12 40. Petitioners re-allege Paragraphs through 39, which are incorporated herein by
+13 this reference.
+
+14 41. CEQA was enacted by the Legislature to ensure that the long-term protection of
+15 the environment is a guiding criterion in public decisions. (Pub. Res. Code, § 21001(d).) CEQA
+16 requires the lead agency for a project with the potential to cause significant environmental
+
+17 impacts to prepare an EIR for the project that complies with the requirements of the statute,
+18 including, but not limited to, the requirement to disclose and analyze the project's potentially
+19 significant environmental impacts. (Pub. Res. Code §§ 21002.1(a), 21100(a), 21151(a); 14 CCR
+20 §§ 15064(a)(1), (f)(1), 15367.) The EIR must provide sufficient environmental analysis such
+21 that the decision makers can intelligently and fully consider environmental consequences when
+22 acting on the proposed project. Such analysis must include and rely upon thresholds of
+23 significance that are based on substantial evidence in the record.
+
+24 42. CEQA also mandates that the lead agency analyze and adopt feasible and
+25 enforceable mitigation measures that would reduce or avoid each of a project's significant
+26 environmental impacts. (PRC § 21061.) If any of the project's significant impacts cannot be
+27 mitigated to a less than significant level, then CEQA bars the lead agency from approving a
+28 project if a feasible alternative is available that would meet the project's objectives while
+11
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 avoiding or reducing its significant environmental impacts.
+
+2 43. Each of Respondent's findings and conclusions, including those in the Final EIR,
+
+3 must be supported by substantial evidence in the administrative record, and the agency must
+
+4 explain how the evidence in the record supports the conclusions the agency has reached.
+
+5 (Topanga Assn. for a Scenic Community v. County of Los Angeles (1974) 11 Cal.3d 506, 515.)
+
+6 44. Respondent committed a prejudicial abuse of discretion and failed to proceed in a
+manner required by law because the Project relies on an EIR that fails to meet CEQA's
+
+8 requirements for the disclosure, analysis, mitigation, reduction, and/or avoidance of significant
+
+9 environmental impacts from the Project, including direct, indirect, and cumulative impacts
+10 relating to wildfire, public safety, traffic and transportation. These deficiencies rendered the EIR
+
+11 inadequate as an environmental document and precluded informed decision making and
+12 informed public participation.
+
+13 45. The EIR fails to adequately disclose, analyze, and/or mitigate the Project's
+14 significant direct, indirect, and cumulative wildfire-related impacts.
+
+15 46. The EIR fails to adequately disclose, analyze, and/or mitigate the Project's
+16 significant direct, indirect, and cumulative impacts on traffic and transportation.
+
+17 47. The EIR fails to adequately disclose, analyze, and/or mitigate the Project's
+18 significant direct, indirect, and cumulative impacts on student enrollment.
+
+19 48. The responses to comments in the Final EIR fail to meet CEQA's requirements in
+20 that they neither adequately dispose of all the issues raised, nor provide specific rationale for
+21 rejecting suggested Project changes, including the consideration or adoption of feasible
+22 mitigation measures or alternatives. CEQA requires a that a lead agency evaluate and respond to
+23 all environmental comments on the Draft EIR that it receives during the public review period.
+24 The responses must describe the disposition of the issues raised and must specifically explain
+25 reasons for rejecting suggestions and for proceeding without incorporating the suggestions. The
+26 Final EIR's responses to comments fail to satisfy the requirements of law. Failing to adequately
+27 respond to comments rendered the Final EIR inadequate as an informational document.
+28 49. Based upon each of the foregoing reasons, the EIR is legally defective under
+12
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+-
+
+2 CEQA. Respondents prejudicially abused their discretion in violation of CEQA in approving the
+
+3 Project. As such, the Court should issue a writ of mandate directing Respondents to set aside the
+certification of the EIR and approval of the Project.
+
+4 PRAYER FOR RELIEF
+
+5
+
+6 WHEREFORE, Petitioners pray the Court for the following relief and entry of judgment
+as follows:
+
+7 1.
+
+8 2. For a stay of Respondent's decisions approving the Project pending trial;
+For a peremptory writ of mandate directing:
+
+9 a.
+
+10 Respondent to vacate and set aside its certification of the Final EIR for the
+Project and decision approving the Project;
+11 b.
+
+12 Respondent and Real Party in Interest to suspend all activity under the
+
+13 certification of the EIR and approval of the Project that could result in any
+
+14 change or alteration of the physical environment until Respondent has
+
+15 taken all actions necessary to bring the certification and Project approvals
+into compliance with CEQA; and
+
+16 C.
+
+17 Respondent to prepare, circulate, and consider an EIR in compliance with
+
+18 CEQA prior to any subsequent action to approve the Project.
+
+3.
+
+19 For a declaration that Respondents' actions certifying the EIR and approving the
+Project violated CEQA and CEQA Guidelines, and declaring that the certification of the EIR and
+20 approval of the Project is invalid.
+
+21 4. For the costs of suit.
+
+22 5.
+
+23 For an award of attorneys' fees pursuant to Code of Civil Procedure section
+1021.5 and any other applicable provisions of law.
+
+24 6.
+
+25 For any other legal and equitable relief as this Court deems just and proper.
+DATED: May 16, 2022
+26 REUBEN RAUCHER & BLUM
+
+27 By:
+Andrew J. Ahn
+
+28 Attorneys for Petitioners and Plaintiff
+
+13
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+- VERIFICATION
+
+2
+
+3 a am a party to the above action. I have read the foregoing VERIFIED PETITION FOR
+WRIT OF MANDATE and know the contents thereof.
+
+4
+
+5 The statements therein are true of my own knowledge, except as to those matters which
+
+6 are therein stated upon my information or belief, and as to those matters I believe them to be
+
+true.
+
+7
+
+8 I declare under penalty of perjury under the laws of the State of California that the
+foregoing is true and correct.
+
+9
+
+10 Executed this 16th day of May, 2022 at Los Angeles, California.
+
+11
+
+12 /s/ Wendy-Sue Rosen
+Wendy-Sue Rosen
+
+13 On Behalf of Residential Neighbors of
+
+14 Mount Saint Mary's University
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+14
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 VERIFICATION
+
+2 am a party to the above action. I have read the foregoing VERIFIED PETITION FOR
+
+3 WRIT OF MANDATE and know the contents thereof.
+
+4 The statements therein are true of my own knowledge, except as to those matters which
+are therein stated upon my information or belief, and as to those matters I believe them to be
+
+6 true.
+
+7 declare under penalty of perjury under the laws of the State of California that the
+
+8 foregoing is true and correct.
+
+9 Executed this 16th day of May, 2022 at Los Angeles, California.
+10
+
+11 19942
+12 Timothy D. Reuben
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+15
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 VERIFICATION
+
+2 am a party to the above action. I have read the foregoing VERIFIED PETITION FOR
+
+3 WRIT OF MANDATE and know the contents thereof.
+
+4 The statements therein are true of my own knowledge, except as to those matters which
+
+5 are therein stated upon my information or belief, and as to those matters I believe them to be
+
+6 true.
+
+7 I declare under penalty of perjury under the laws of the State of California that the
+
+8 foregoing is true and correct.
+
+9 Executed this 16th day of May, 2022 at Los Angeles, California.
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+16
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+EXHIBIT A
+
+Timothy D. Reuben [SBN 94312] Andrew J. Ahn [SBN 326522] REUBEN RAUCHER & BLUM
+12400 Wilshire Boulevard, Suite 800 Los Angeles, California 90025
+Telephone: (310) 777-1990
+Facsimile: (310) 777-1989
+
+5 Attorneys for Petitioners and Plaintiffs
+
+6
+
+7
+
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+FOR THE COUNTY OF LOS ANGELES
+
+10
+
+11 RESIDENTIAL NEIGHBORS OF MOUNT Case No.:
+SAINT MARY'S UNIVERSITY, an
+12 unincorporated association, TIMOTHY D. REUBEN, an individual, AND 13 STEPHANIE I. BLUM, an individual, NOTICE OF INTENT TO FILE CEQA PETITION
+14 Petitioners and Plaintiffs,
+
+15 VS. [CEQA, Pub. Res. Code § 21000, et seq.; Code
+16 CITY OF LOS ANGELES, a municipal of Civil Procedure §§ 1094.5, 1085]
+
+entity;
+17
+
+18 Respondent and Defendant.
+
+19 MOUNT SAINT MARY'S UNIVERSITY,
+
+20 and DOES 1-25, inclusive,
+
+Real Parties in Interest and Defendants.
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE OF INTENT TO FILE CEQA ACTION
+
+PLEASE TAKE NOTICE, under Public Resources Code section 21167.5, that Petitioners
+
+2 Residential Neighbors of Mount Saint Mary's University, Timothy D. Reuben and Stephanie I.
+
+3 Blum (collectively, "Petitioners") intend to file a Verified Petition for Writ of Mandate under the
+
+4 provision of the California Environmental Quality Act, California Public Resources Code
+sections 21000 et seq. ("CEQA") against City of Los Angeles (*Respondent") in Los Angeles
+
+6 County Superior Court challenging the following actions in Case No. CPC-1952-4072-CU-PA1:
+
+7 (1) Approval of a Plan Approval to allow for the development of Alternative 5 (the "Project") in
+
+8 conjunction with the continued use of a private school in the RE40-1-H Zone; (2) Certifying and
+
+9 adopting the Environmental Impact Report for the Project, No. ENV-2016023190EIR, dated
+
+10 April 2018, and the Final EIR, dated June 2021 (together, the "EIR"), as well as the whole of the
+
+11 administrative record; (3) Certifying that the EIR has been completed in compliance with CEQA;
+
+12 (4) Adopting the related and prepared Project Environmental Findings, Statement of Overriding
+13 Considerations, and the Mitigation Monitoring Program prepared for the EIR, and Rejection of
+14 other Alternatives and certain Mitigation Measures; (5) Approving a Determination to permit a
+15 building height of 42 feet for the Wellness Pavilion, in lieu of the maximum height of 30 feet
+16 otherwise permitted by LAMC cop 12.21(C)(10)(d); (6) Adopting the modified Conditions of
+
+17 Approval dated April 7, 2022; and (7) Making all other appropriate findings under CEQA.
+
+18 The Petition will seek the following relief: (1) A writ of mandate under CEQA and Code
+
+19 of Civil Procedure section 1085 and, alternatively, section 1094.5, directing Respondent to
+
+20 vacate and set aside the above-described actions; (2) cost of suit; (3) attorney's fees pursuant to
+21 California Code of Civil Procedure section 1021.5; and (4) such other and further relief as the
+22 court deems just and proper.
+
+23
+REUBEN RAUCHER & BLUM 24 DATED: May 16, 2022
+
+25 By:_
+26 Attorneys for Petitioners and Plaintiffs
+27
+
+28
+
+NOTICE OF INTENT TO FILE CEQA ACTION
+
+1 PROOF OF SERVICE BY MAIL
+
+2 STATE OF CALIFORNIA, COUNTY OF LOS ANGELES
+3 am employed in the County of Los Angeles, State of California. I am over the age of 18 4 and not party to the within action; my business address is 12400 Wilshire Boulevard, Suite 800, Los Angeles, California 90025. 5
+
+6 On May 16, 2022, I served the foregoing document described as:
+
+7 NOTICE OF INTENT TO FILE CEQA PETITION
+
+8 on all interested parties in this action by placing a true copy thereof enclosed in sealed
+
+9 envelope(s) addressed as follows:
+
+City of Los Angeles 10 221 N. Figueroa Street Suite 1350 11
+Los Angeles, CA 90012
+12
+I am "readily familiar" with the firm's practice of collection and processing 13 correspondence for mailing. Under that practice it would be deposited in U.S. Postal service on
+14 that same day with postage thereon fully prepaid at Los Angeles, California in the ordinary course of business. I am aware that on motion of the party served, service is presumed invalid if 15 postal cancellation date or postage meter date is more than one day after date of deposit for | mailing in affidavit.
+16
+
+17 I declare under penalty of perjury under the laws of the State of California that the foregoing is true and correct.
+18 Executed on May 16, 2022, at Los Angeles, California.
+19
+
+20
+
+R & Nathalte Quach
+
+23
+24
+25
+
+26
+
+27
+
+28
+
+EXHIBIT B
+
+1 Timothy D. Reuben [SBN 94312]
+Andrew J. Ahn [SBN 326522]
+2 REUBEN RAUCHER & BLUM
+12400 Wilshire Boulevard. Suite 800
+3 Los Angeles, California 90025 Telephone: (310) 777-1990
+4 Facsimile: (310) 777-1989
+
+5 Attorneys for Petitioners and Plaintiffs
+
+6
+
+7
+
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+FOR THE COUNTY OF LOS ANGELES
+
+10
+
+11 RESIDENTIAL NEIGHBORS OF MOUNT Case No.:
+SAINT MARY'S UNIVERSITY, an 12 unincorporated association, TIMOTHY D. REUBEN, an individual, AND
+13 STEPHANIE I. BLUM, an individual, NOTICE OF INTENT TO ATTORNEY
+GENERAL
+14 Petitioners and Plaintiffs,
+
+15 VS.
+
+16 CITY OF LOS ANGELES, & municipal entity;
+17
+
+18 Respondent and Defendant.
+
+19 MOUNT SAINT MARY'S UNIVERSITY,
+and DOES 1-25, inclusive,
+20
+Real Parties in Interest and Defendants.
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL
+
+To the Attorney General of the State of California:
+
+2 PLEASE TAKE NOTICE, under Public Resources Code section 21167.7 and Code of
+
+3 Civil Procedure section 288, that on May 16, 2022, Petitioners Residential Neighbors of Mount
+
+4 Saint Mary's University, Timothy D. Reuben, and Stephanie I. Blum (collectively, "Petitioners")
+
+5 will file the attached Verified Petition for Writ of Mandate under the provisions of the California
+
+6 Environmental Quality Act, California Public Resources Code sections 21000 et seq. ("CEQA")
+
+7 against City of Los Angeles (*Respondent") in Los Angeles County Superior Court.
+
+8 The Petition alleges that Respondent violated CEQA and abused their discretion in taking
+
+9 the following actions in Case No. CPC-1952-4072-CU-PA1: (1) Approval of a Plan Approval to
+10 allow for the development of Alternative 5 (the "Project") in conjunction with the continued use
+11 of a private school in the RE40-1-H Zone; (2) Certifying and adopting the Environmental Impact
+12 Report for the Project, No. ENV-2016023190EIR, dated April 2018, and the Final EIR, dated
+
+13 June 2021 (together, the "EIR"), as well as the whole of the administrative record; (3) Certifying
+14 that the EIR has been completed in compliance with CEQA; (4) Adopting the related and
+
+15 prepared Project Environmental Findings, Statement of Overriding Considerations, and the
+16 Mitigation Monitoring Program prepared for the EIR, and Rejection of other Alternatives and
+
+17 certain Mitigation Measures; (5) Approving a Determination to permit a building height of 42
+
+18 feet for the Wellness Pavilion, in lieu of the maximum height of 30 feet otherwise permitted by
+19 LAMC § 12.21(C)(10)d); (6) Adopting the modified Conditions of Approval dated April 7,
+20 2022; and (7) Making all other appropriate findings under CEQA.
+
+21
+REUBEN RAUCHER & BLUM 22 DATED: May 16, 2022
+
+23 By:
+24 Andrew J. Ahn Attorneys for Petitioners and Plaintiffs
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL
+
+1 PROOF OF SERVICE BY MAIL
+
+2 STATE OF CALIFORNIA, COUNTY OF LOS ANGELES
+3 am employed in the County of Los Angeles, State of California. I am over the age of 18 4 and not a party to the within action; my business address is 12400 Wilshire Boulevard, Suite 800,
+
+5 Los Angeles, California 90025.
+
+6 On May 16, 2022, I served the foregoing document described as:
+
+7 NOTICE OF INTENT TO ATTORNEY GENERAL
+
+thereof enclosed in sealed 8 on all interested parties in this action by placing a true copy
+envelope(s) addressed as follows: 9
+CEQA Coordinator 10 Office of the Attorney General
+Environment Section 11
+1300 "I" Street
+12 Sacramento, CA 95814-2919
+
+13 I am "readily familiar" with the firm's practice of collection and processing
+14 correspondence for mailing. Under that practice it would be deposited in U.S. Postal service on that same day with postage thereon fully prepaid at Los Angeles, California in the ordinary
+15 course of business. I am aware that on motion of the party served, service is presumed invalid if postal cancellation date or postage meter date is more than one day after date of deposit for 16 mailing in affidavit.
+
+17 I declare under penalty of perjury under the laws of the State of California that the
+18 foregoing is true and correct.
+
+19 Executed on May 16, 2022, at Los Angeles, California.
+
+20
+
+58& Lelinse Nathalie Quaeh
+
+24
+
+25
+
+26
+
+27
+
+28
+
+EXHIBIT C
+
+Timothy D. Reuben [SBN 943121 Andrew J. Ahn [SBN 326522]
+REUBEN RAUCHER & BLUM
+12400 Wilshire Boulevard, Suite 800
+Los Angeles, California 90025 Telephone: (310) 777-1990
+4 Facsimile: (310) 777-1989
+
+5 Attorneys for Petitioners and Plaintiffs
+
+6
+
+7
+
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+FOR THE COUNTY OF LOS ANGELES
+
+10
+
+11 RESIDENTIAL NEIGHBORS OF MOUNT Case No.:
+SAINT MARY'S UNIVERSITY, an 12 unincorporated association, TIMOTHY D. REUBEN, an individual, AND
+13 I. STEPHANIE I. BLUM, an individual, REQUEST FOR PREPARATION OF RECORD OF PROCEEDINGS 14 Petitioners and Plaintiffs, PURSUANT TO CAL. PUB. RESC.
+
+15 CODE § 21167.6
+VS.
+
+16 CITY OF LOS ANGELES, a municipal
+entity;
+17
+
+18 Respondent and Defendant.
+19 MOUNT SAINT MARY'S UNIVERSITY,
+and DOES 1-25, inclusive,
+20
+Real Parties in Interest and Defendants.
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+REQUEST FOR PREPARATION OF RECORD OF PROCEEDINGS
+
+1 PLEASE TAKE NOTICE, under Public Resources Code section 21167.6(a), that
+
+2 Petitioners Residential Neighbors of Mount Saint Mary's University, Timothy D. Reuben, and
+
+3 Stephanie I. Blum (collectively, "Petitioners") hereby request that Respondent City of Los
+
+4 Angeles ("Respondent") compile and lodge with the Los Angeles Superior Court the record of
+
+5 proceedings related to the following actions taken by Respondent in Case No. CPC-1952-4072-
+
+6 CU-PA1: (1) Approval of a Plan Approval to allow for the development of Alternative 5 (the
+"Project") in conjunction with the continued use of a private school in the RE40-1-H Zone; (2)
+
+8 Certifying and adopting the Environmental Impact Report for the Project, No. ENV-
+2016023190EIR, dated April 2018, and the Final EIR, dated June 2021 (together, the "EIR"), as
+
+10 well as the whole of the administrative record; (3) Certifying that the EIR has been completed in
+
+11 compliance with CEQA; (4) Adopting the related and prepared Project Environmental Findings,
+
+12 Statement of Overriding Considerations, and the Mitigation Monitoring Program prepared for the
+
+13 EIR, and Rejection of other Alternatives and certain Mitigation Measures; (5) Approving a
+
+14 Determination to permit a building height of 42 feet for the Wellness Pavilion, in lieu of the
+
+15 maximum height of 30 feet otherwise permitted by § LAMC § 12.21(C)(10)(d); (6) Adopting the
+
+16 modified Conditions of Approval dated April 7, 2022; and (7) Making all other appropriate
+
+17 findings under CEQA.
+
+18
+
+19 DATED: May 16, 2022 REUBEN RAUCHER & BLUM
+
+20
+By:_ 21 Andrew J. Ahn
+
+22 Attorneys for Petitioners and Plaintiffs
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+1
+REQUEST FOR PREPARATION OF RECORD OF PROCEEDINGS
+
+- PROOF OF SERVICE BY MAIL
+2 STATE OF CALIFORNIA, COUNTY OF LOS ANGELES
+3 I am employed in the County of Los Angeles, State of California. I am over the age of 18
+4 and not a party to the within action; my business address is 12400 Wilshire Boulevard, Suite 800,
+
+5 Los Angeles, California 90025.
+
+6 On May 16, 2022, I served the foregoing document described as:
+
+7 REQUEST FOR PREPARATION OF RECORD OF PROCEEDINGS
+PURSUANT TO CAL. PUB. RESC. CODE § 21167.6
+8
+
+9 on all interested parties in this action by placing a envelope(s) addressed as follows: true copy thereof enclosed in sealed
+
+10 City of Los Angeles
+11 221 N. Figueroa Street
+Suite 1350
+12 Los Angeles, CA 90012
+
+13 I am "readily familiar" with the firm's practice of collection and processing
+14 correspondence for mailing. Under that practice it would be deposited in U.S. Postal service on that same day with postage thereon fully prepaid at Los Angeles, California in the ordinary
+15 course of business. I am aware that on motion of the party served, service is presumed invalid if
+
+16 postal cancellation date or postage meter date is more than one day after date of deposit for mailing in affidavit.
+
+17 I declare under penalty of perjury under the laws of the State of California that the
+18 foregoing is true and correct.
+
+19 Executed on May 16, 2022, at Los Angeles, California.
+
+20
+
+21
+24 88548 bLia Nathalte Quach
+
+27
+
+28

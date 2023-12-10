@@ -1,0 +1,2407 @@
+1 Michael R. Lozeau (Cal. Bar No. 142893)
+
+2 Amalia Bowley Fuentes (Cal. Bar No. 342629)
+LOZEAU | DRURY LLP
+
+3 1939 Harrison Street, Suite 150
+Oakland CA 94612
+4 Tel: (510) 836-4200
+
+5 E-mail: michael@lozeaudrury.com
+amalia@lozeaudrury.com
+6
+Attorneys for Petitioners PARENTS AGAINST SANTA SUSANA FIELD LAB,
+7 PHYSICIANS FOR SOCIAL RESPONSIBILITY/LOS ANGELES CHAPTER, INC.,
+
+8 PUBLIC EMPLOYEES FOR ENVIRONMENTAL RESPONSIBILITY, INC.,
+
+9 SUPERIOR COURT FOR THE STATE OF CALIFORNIA
+IN AND FOR THE COUNTY OF VENTURA
+10
+
+11 PARENTS AGAINST SANTA SUSANA Case No. 56-2022-00570675-CU-WM-VTA
+12 FIELD LAB, an association; PHYSICIANS
+FOR SOCIAL RESPONSIBILITY/LOS NOTICE TO ATTORNEY GENERAL -
+13 ANGELES CHAPTER, INC., a non-profit PETITION FOR ALTERNATIVE WRIT OF
+
+14 public benefit corporation; PUBLIC MANDATE
+EMPLOYEES FOR ENVIRONMENTAL
+15 RESPONSIBILITY, INC., a District of
+Columbia non-profit corporation, (CCP §§ 1985, 1087, 1107)
+16
+
+17 Petitioners, CEQA ACTION
+V.
+18
+
+19 CALIFORNIA DEPARTMENT OF TOXIC
+SUBSTANCES CONTROL, an agency of the
+20 State of California, CALIFORNIA
+REGIONAL WATER QUALITY CONTROL
+21 BOARD, LOS ANGELES REGION, an
+
+22 agency of the State of California, LAWRENCE HAFETZ, in his official
+23 capacity,
+
+24 Respondents,
+
+25 THE BOEING COMPANY, a Delaware
+26 corporation, and ROES I - X, inclusive,
+
+27 Real Party in Interest.
+
+28
+
+Notice to the Attorney General - Case No. 56-2022-00570675-CU-WM-VTA
+
+1 To the Attorney General of the State of California:
+
+2 PLEASE TAKE NOTICE, under Public Resources Code section 21167.7 and Code of Civil
+
+3 Procedure section 388, that on October 6, 2022, Petitioners Parents Against Santa Susana Field Lab,
+
+4 Physicians for Social Responsibility/Los Angeles Chapter, Inc., and Public Employees for
+
+5 Environmental Responsibility, Inc., filed a Petition for Alternative Writ of Mandate ("Petition")
+
+6 against Respondents the California Department of Toxic Substances Control ("DTSC"), Lawrence
+
+7 Hafetz, in his official capacity, the California Regional Water Quality Control Board, Los Angeles
+
+8 Region ("Regional Board"), and Real Party in Interest The Boeing Company ("Boeing")
+
+9 ("Respondents") in the Ventura County Superior Court. The Petition seeks a writ of mandate ordering
+
+10 Respondents to (1) immediately vacate an agreement reached between DTSC and Boeing on May 9,
+
+11 2022 which commits DTSC to forego considering more aggressive soil cleanup and remediation
+
+12 alternatives by Boeing at the Santa Susana Field Laboratory ("SSFL") ("SSFL Agreement") by
+
+13 significantly weakening soil cleanup levels prior to DTSC's compliance with the California
+14 Environmental Quality Act ("CEQA") (Pub. Res. Code ["PRC"] § 21000 et seq.), and (2)
+
+15 immediately vacate the Memorandum of Understanding entered into by the Regional Board and
+
+16 Boeing on August 12, 2022 ("Water Board Agreement"), which triggered the effectiveness of the
+
+17 SSFL Agreement. The Petition requested that the Court issue an alternative writ of mandate ordering
+
+18 DTSC, the Regional Board and Boeing to appear at a hearing to show cause why the SSFL
+
+19 Agreement and Water Board Agreement should not be vacated.
+
+20 A copy of the Petition is attached to this notice.
+
+21 Dated: October 24, 2022
+
+22 LOZEAU | DRURY LLP
+
+23
+
+24 Wichuul K Xpaur
+
+25 Michael R. Lozeau
+Attorneys for Petitioners
+26
+
+27
+
+28
+
+2
+
+to Notice to the Attorney General - Case No. 56-2022-00570675-CU-WM-VTA
+
+ATTACHMENT
+
+1 Michael R. Lozeau (Cal. Bar No. 142893)
+
+2 Amalia Bowley Fuentes (Cal. Bar No. 342629) LOZEAU DRURY LLP
+
+3 1939 Harrison Street, Suite 150
+Oakland, California 94612
+
+4 Tel: (510) 836-4200 Fax: (510) 836-4205
+5 E-mail: michael@lozeaudrury.com amalia@lozeaudrury.com
+6
+
+7 Attorneys for Petitioners PHYSICIANS
+FOR SOCIAL RESPONSIBILITY/
+
+8 LOS ANGELES CHAPTER, INC.,
+PUBLIC EMPLOYEES FOR ENVIRONMENTAL
+9 RESPONSIBILITY, INC.,
+
+10 PARENTS AGAINST SANTA SUSANA FIELD LAB
+
+11 SUPERIOR COURT FOR THE STATE OF CALIFORNIA
+
+12 IN AND FOR THE COUNTY OF VENTURA
+
+13 PARENTS AGAINST SANTA SUSANA Case No.:
+
+14 FIELD LAB, an association;
+PHYSICIANS FOR SOCIAL Filed Under the California Environmental
+15 RESPONSIBILITY/LOS ANGELES Quality Act ("CEQA")
+
+16 CHAPTER, INC., a non-profit public
+benefit corporation; PUBLIC VERIFIED PETITION FOR
+
+17 EMPLOYEES FOR ENVIRONMENTAL ALTERNATIVE WRIT OF MANDATE,
+WRIT OF MANDATE, ORDER TO
+18 RESPONSIBILITY, INC., a District of
+Columbia non-profit corporation, SHOW CAUSE, OR OTHER
+
+19 APPROPRIATE RELIEF; SUPPORTING
+
+20 Petitioners, EXHIBITS
+
+V.
+21 (CEQA, Pub. Res. Code § 21000, et seq.;
+CALIFORNIA DEPARTMENT OF Code Civ. Proc. §§ 1085, 1087
+22 TOXIC SUBSTANCES CONTROL, an (alternatively § 1094.5))
+
+23 agency of the State of California,
+
+24 CALIFORNIA REGIONAL WATER
+QUALITY CONTROL BOARD, LOS
+25 ANGELES REGION, an agency of the
+
+26 State of California, LAWRENCE
+HAFETZ, in his official capacity,
+27
+
+28 Respondents,
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 THE BOEING COMPANY, a Delaware
+
+2 corporation, and ROES I - X, inclusive,
+
+3 Real Party in Interest.
+
+4
+
+5 Parents Against Santa Susana Field Lab (*Parents against SSFL"), Physicians For
+
+6 Social Responsibility/Los Angeles Chapter, Inc. ("PSR"), and Public Employees For
+
+7 Environmental Responsibility, Inc. ("PEER") (collectively "Petitioners") hereby petition
+
+8 this Court for an Alternative Writ of Mandate pursuant to California Code of Civil
+
+9 Procedure §§ 1085 and 1087 ordering the California Department of Toxic Substances
+
+10 Control ("DTSC"'), Lawrence Hafetz, in his official capacity, the California Regional
+
+11 Water Quality Control Board, Los Angeles Region ("Regional Board"), and Real Party in
+
+12 Interest The Boeing Company ("Boeing") respectively, to (1) immediately vacate the
+
+13 Settlement Agreement entered into on May 9, 2022 by DTSC and Boeing purporting to
+
+14 implement a Consent Order for Corrective Action entered into between DTSC and
+15 Boeing in August 2007 including establishing soil cleanup levels for the highly-
+16 contaminated Santa Susana Field Laboratory ("SSFL Agreement") and 2) immediately
+17 vacate the "Memorandum of Understanding Establishing the Processes, Methodologies,
+18
+and Standards for Assessing Stormwater Discharges and Applicable Requirements
+19
+
+20 Following The Boeing Company Soil Cleanup at the Santa Susana Field Laboratory Site"
+
+21 ("Water Board Agreement") approved by the Regional Board on August 11, 2022 and
+
+22 entered into by the Regional Board and Boeing on August 12, 2022. True and correct
+
+23 copies of the SSFL Agreement and Water Board Agreement are attached hereto as
+
+24 Exhibits C and D, respectively. By this verified petition, Petitioners allege as follows:
+
+25 1. As a result of a secret negotiation and without any input from the public,
+
+26 DTSC and Boeing sought to limit the site clean-up alternatives that would be considered
+
+27 by DTSC in its ongoing process to select a clean-up plan for the toxic contamination at
+
+28 SSFL. As a result, when DTSC entered into the SSFL Agreement, DTSC and its agent,
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 Mr. Hafetz, violated the California Environmental Quality Act, Public Resources Code
+
+2 sections 21000 et seq. ("CEQA"), by taking an action which gave impetus to the soil and
+
+3 groundwater remediation project at the Santa Susana Field Laboratory ("SSFL
+
+4 Remediation Project" or a "Project") in a manner that forecloses alternatives or mitigation
+5 measures that are part of the ongoing review of the SSFL Remediation Project pursuant
+6 to CEQA. (See Save Tara v. City of W. Hollywood (2008) 45 Cal.4th 116, 138; 14 Cal.
+7 Admin Code § 15004(b)(2).) Specifically, the SSFL Agreement stipulates that the Human
+8
+Health Risk-Based Screening Levels ("Health RBSLs") and soil cleanup standards
+9
+
+10 required by a consent order issued by DTSC in 2007 and incorporating a DTSC-approved
+
+11 2014 Standardized Risk Assessment Methodology (SRAM) Workplan (Rev. 2) ("2014
+
+12 SRAM'") will be superseded with new, less stringent Health RBSLs identified in
+
+13 Attachment 3 of the SSFL Agreement. In addition, the SSFL Agreement further reduces
+
+14 the clean-up standards by authorizing Boeing to further weaken the clean-up levels by
+
+15 multiples of 5 and 100 times the already less stringent Health RBSLs. The SSFL
+
+16 Agreement also places a cap of 440,000 cubic yards ("cu. yds.") on the volume of soil
+
+17 that could be removed from Boeing's areas of responsibility, above which Boeing could
+
+18 challenge with litigation. Lastly, the SSFL Agreement eliminates consideration of an
+
+19 alternative cleanup plan that would allow for future rural residential (agricultural) use.
+
+20 These decisions, included as part of the adopted SSFL Agreement, require less soil
+
+21 cleanup at the SSFL than is required by the currently applicable Health RBSLs. These
+
+22 decisions also require less soil cleanup than is identified in the "Draft Program
+23 Environmental Impact Report for the Santa Susana Field Laboratory" released for the
+24 Project in 2017 ("Pending EIR"). As a result, the SSFL Agreement forecloses alternative
+25 soil remediation efforts at the site, including for example removal of soil consistent with
+26
+the soil clean-up levels and Health RBSLs required by the 2007 Consent Order and 2014
+27
+SRAM as well as the alternative described in the Pending EIR. By foreclosing those
+28
+project alternatives, the SSFL Agreement also forecloses mitigation measures that would
+
+3
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 be considered to address those alternative's impacts. DTSC could not take this action in
+
+2 furtherance of the Project prior to the completion and certification of the Pending EIR,
+
+3 the process for which is already pending and has been underway for eight years.
+4 2. The SSFL Agreement includes a condition that makes it effective only
+5 upon the Regional Board's approval of the Water Board Agreement. As a result, when a
+6 the Regional Board approved and entered into the Water Board Agreement, the Regional
+7
+Board violated CEQA by taking an action that significantly altered the SSFL
+8
+Remediation Project in a manner that forecloses alternatives or mitigation measures that
+9
+
+10 are part of the ongoing review of the Project pursuant to CEQA. The Water Board
+
+11 Agreement forecloses alternative soil remediation efforts at the site including but not
+
+12 limited to removal of soil consistent with the soil clean-up levels and existing Health
+
+13 RBSLs as well as the alternative described in the Pending EIR. By foreclosing these
+
+14 project alternatives, the Water Board Agreement also forecloses mitigation measures that
+
+15 would be considered to address those alternative's impacts. The Regional Board could
+
+16 not take this action in furtherance of the Project prior to the completion and certification
+
+17 of a legally sufficient EIR, including evaluating public comments and selecting the
+
+18 cleanup alternative that will be applied to Boeing's portions of the SSFL.
+
+19 PETITION FOR ALTERNATIVE WRIT, WRIT OF MANDATE, OR
+
+20 OTHER APPROPRIATE RELIEF
+
+21 Authenticity of Exhibits
+
+22 3. All exhibits accompanying this petition are true copies of original
+
+23 documents on file with Respondents DTSC and Regional Board. Each of these
+
+24 documents was obtained through the official web sites of DTSC, the Regional Board, or
+
+25 the County of Ventura.
+26
+a. Exhibit C is a true and correct copy of the SSFL Agreement
+27 downloaded from the Santa Susana Field Laboratory (SSFL) Main Page
+28 website maintained by DTSC at
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/2026
+
+2 541471/SSFL%20DTSC-
+m t un Boeing%20Settlement%20Agreement%20%28Final%29.pdf.
+b. Exhibit D is a true and correct copy of the Water Board Agreement
+downloaded from the Regional Board's official website at
+O https://www.waterboards.ca.gov/losangeles/santa_susana/SSFL_Mediat
+7
+ion-EOBoeingSigned_FINAL_RWQCB-
+8
+BoeingSSFL_MOU_08122022_EXHIBITS.pdf.
+9
+
+10 C. Exhibit E is a true and correct copy of excerpts of Draft Program
+
+11 Environmental Impact Report for the Santa Susana Field Laboratory,
+
+12 Ventura County, California dated September 2017 ("Pending EIR")
+
+13 including Chapters 1, 2, 3 and 6 and Appendices B, C, and K,
+
+14 downloaded from DTSC's on-line Santa Susana Field Laboratory
+
+15 Document Library located at
+
+16 https://dtsc.ca.gov/santa_susana field lab/ssfl document library/.
+
+17 d. Exhibit F is a true and correct copy of comments on the Pending EIR
+
+18 submitted to DTSC by Committee To Bridge the Gap ("CBG") and the
+
+19 Natural Resources Defense Council ("NRDC"') dated December 14,
+
+20 2017.
+
+21 e. Exhibit G is a true and correct copy of comments on the Pending EIR
+22 submitted to DTSC by Petitioner PSR-LA dated December 14, 2017;
+23 f. Exhibit H a is a true and correct copy of comments on the Pending EIR
+24 submitted to DTSC by Petitioner Parents Against SSFL dated December
+25 15, 2-17.
+26
+g. Exhibit I is a true and a correct copy of correspondence from Roger N.
+27
+Paulsen, Senior Engineer, DTSC, to Michael Bower, The Boeing
+28
+Company regarding the Draft Standardized Risk Assessment
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1
+
+2 Methodology Revision 2 Addendum for SSFL, dated June 4, 2014 with
+
+3 attachment downloaded from DTSC's on-line Santa Susana Field
+
+4 Laboratory Document Library located at
+
+ün
+
+O https://dtsc.ca.gov/santa_susana_field_lab/ssfl_document_library/.
+h. Exhibit J is a true and correct copy of Responses to Comments on
+
+7
+
+8 Agreements in Principle prepared by DTSC and dated October 26, 2010
+
+9 downloaded from DTSC's on-line Santa Susana Field Laboratory
+Document Library located at
+
+10
+
+11 https://dtsc.ca.gov/santa_susana_field_lab/ssfl_document_library/.
+
+12 i. Exhibit K is a true and correct copy of an excerpt of the Final
+
+13 Standardized Risk Assessment Methodology Revision 2 Addendum,
+
+14 SSFL dated August 2014 downloaded from DTSC's on-line Santa
+
+15 Susana Field Laboratory Document Library located at
+
+16 https://dtsc.ca.gov/santa_susana_field_lab/ssfl_document_library/.
+
+17 j. Exhibit L is a true and correct copy of correspondence from Mark
+
+18 Malinowski, DTSC, to David Dassler, The Boeing Company, regarding
+
+19 Approval of the Standardized Risk Assessment Methodology Revision 2
+
+20 Addendum, SSFL downloaded from DTSC's on-line Santa Susana Field
+
+21 Laboratory Document Library located at
+
+22 https://dtsc.ca.gov/santa_susana_field_lab/ssfl_document library/.
+
+23
+
+24 k. Exhibit M is a true and correct copy of comments on the Pending EIR
+
+25 submitted to DTSC by NRDC, CBG and the City of Los Angeles dated
+December 7, 2017;
+
+26
+
+27 1. Exhibit N is a true and correct copy of correspondence from Grant
+
+28 Cope, DTSC, to Michael Bower, The Boeing Company, regarding Offer
+to Enter Into Non-Binding, Confidential Mediation dated January 22,
+2021 downloaded from DTSC's on-line Santa Susana Field Laboratory
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 Document Library located at
+
+2 https://dtsc.ca.gov/santa_susana_field_lab/ssfl_document library/.
+m t m. Exhibit O is a true and correct copy of a news release prepared by
+DTSC dated May 9, 2022 downloaded from DTSC's official web site at
+ü https://dtsc.ca.gov/2022/05/09/california-holds-boeing-accountable-for-
+6 cleanup-at-toxic-santa-susana-field-laboratory/.
+7 n. Exhibit P is a true and correct copy of a Power Point presentation
+8 prepared by DTSC and downloaded from DTSC's official web site at
+9
+
+10 https://dtsc.ca.gov/wp-content/uploads/sites/31/SSFL/DTSC-SSFL-
+
+11 Boeing-SA-Meeting-Presentation-6.14.2022.pdf.
+
+12 o. Exhibit Q a is a true and correct copy of comments submitted by
+
+13 Petitioners and others to the Regional Board regarding the proposed
+
+14 Water Board Agreement dated August 8, 2022.
+
+15 p. Exhibit R is a true and correct copy of the Notice of Public Meeting on
+
+16 August 11, 2022, issued by the Regional Board regarding the Water
+
+17 Board Agreement downloaded from the Regional Board's official
+
+18 website at
+
+19 https://www.waterboards.ca.gov/losangeles/santa_susana/SSFL_Mediat
+
+20 ion_Aug11_PublicNotice_final_ADAChecked.pdf.
+
+21 q. Exhibit S is a true and correct copy of Regional Board Resolution No.
+22 2022-04 approving the Water Board Agreement downloaded from the
+23 Regional Board's official website at
+24 https://www.waterboards.ca.gov/losangeles/santa_susana/SSFL_FinalR
+25 esolutionApprovingMOU_8%2011%2022_ADAchecked.pdf.
+26 r. Exhibit T is a true and correct copy of Division 8, Chapter 1, Article 4
+27
+of the County of Ventura's Zoning Code accessed at
+28
+
+7
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 https://library.municode.com/ca/ventura_county/codes/code_of_ordinan
+
+2 ces?nodeId=DIV8PLDE CH1ZO ART4PUZO.
+
+3 The exhibits are incorporated herein by reference as though fully set forth in this petition.
+
+4 Beneficial Interest of Petitioner; Capacity of Respondent
+5 4. Petitioner PARENTS AGAINST SANTA SUSANA FIELD LAB ("Parents
+6 Against SSFL") is an association of residents living in communities adjacent to SSFL.
+7 Parents Against SSFL was founded by mothers of children diagnosed with rare cancers
+8
+and seeks to reduce, to the greatest extent possible, the number of local families who
+9
+
+10 have to hear the words, "your child has cancer." Parents Against SSFL advocates for the
+
+11 complete remediation of the SSFL and to protect nearby communities from exposure to
+
+12 the site's toxic and carcinogenic contamination.
+
+13 5. Parents Against SSFL members live, recreate, and work in the vicinity of
+
+14 the SSFL. Parents Against SSFL's members residing and working in the communities
+15 surrounding the San SSFL have been exposed to contamination released from soils and
+
+16 water at the SSFL. Members of Parents Against SSFL residing and working in the
+
+17 communities surrounding the SSFL live with a constant fear that contamination from the
+
+18 SSFL has caused, is causing, and will cause adverse health effects, including cancer, to
+
+19 them, their families, and friends. Parents Against SSFL has been actively engaged in
+20 proceedings relating to the contamination, health risks and inadequate clean-up of the
+
+21 SSFL, including providing extensive comments on the Pending EIR released in 2017 and
+
+22 the Water Board Agreement for which limited notice was provided to the public. Had
+
+23 Parents Against SSFL been notified of the SSFL Agreement prior to its finalization,
+24 Parents Against SSFL would have submitted comments objecting to the Agreement.
+25 Parents Against SSFL's participation in the Pending EIR process is substantially
+26 impaired by DTSC's and the Regional Board's challenged actions by foreclosing any
+27 meaningful consideration of Parents Against SSFL's preferred alternative for the SSFL
+28
+Remediation Project include the soil clean-up of the SSFL be done consistent with pre-
+
+8
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 SSFL background levels, the Health RBSLs approved in 2014, and rural residential and
+
+2 agricultural uses.
+
+3 6. Petitioner PHYSICIANS FOR SOCIAL RESPONSIBILITY/LOS
+
+4 ANGELES CHAPTER, INC. ("PSR") is a non-profit public benefit corporation
+5 organized under the laws of the State of California with its main office in Los Angeles,
+6 California. PSR has approximately 470 members who live, recreate and work in and
+7 around Los Angeles and Ventura Counties. PSR is dedicated to, among other goals, the
+8
+
+9 achievement of a sustainable environmental and advocating in support of vigorous efforts
+
+10 to clean-up contamination resulting from nuclear energy and weapons research. To
+
+11 further these goals, PSR advances solutions grounded in public health by amplifying the
+
+12 trusted voices of health care professionals and providing them with the tools they need to
+
+13 successfully advocate for healthier, stronger communities. For over 40 years, PSR has
+
+14 organized educational training sessions and opportunities for direct policy advocacy with
+
+15 legislators, decision-makers and the media, all with the purpose of advancing policies that
+
+16 foresee and forestall damage to human health. PSR's program areas include Air &
+
+17 Climate Justice, Clean Water, Land Use & Health, Nuclear Threats and Toxics-Free
+
+18 Communities. PSR's advocacy is focused on eliminating the disproportionate adverse
+
+19 effects of environmental degradation and nuclear threats on low-income communities of
+
+20 color. PSR actively seeks federal and state agency implementation of State and federal
+
+21 hazardous waste laws and compliance with CEQA. PSR has been actively engaged in
+
+22 proceedings relating to the contamination, health risks and inadequate clean-up of the
+23 SSFL.
+
+24 7. PSR members live, recreate, and work in the vicinity of the SSFL. A
+25 number of PSR members residing and working in the communities surrounding the SSFL
+26 have been exposed to contamination released from soils and water at the SSFL. Members
+27
+
+28 of PSR residing and working in the communities surrounding the SSFL live with a
+constant fear that contamination from the SSFL has caused, is causing, and will cause
+
+9
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 adverse health effects, including cancer, to them, their families, and friends. PSR has
+
+2 been actively engaged in proceedings relating to the contamination, health risks and
+
+3 inadequate clean-up of the SSFL, including providing extensive comments on the
+
+4 Pending EIR released in 2017 and the Water Board Agreement for which limited notice
+5 was provided to the public. Had PSR been notified of the SSFL Agreement prior to its
+6 finalization, PSR would have submitted comments objecting to the Agreement. PSR's
+7
+participation in the Pending EIR process is substantially impaired by DTSC's and the
+8
+Regional Board's challenged actions by foreclosing any meaningful consideration of
+9
+
+10 PSR's preferred alternative for the SSFL Remediation Project that the soil clean-up of the
+
+11 SSFL be done consistent with pre-SSFL background levels, the Health RBSLs approved
+
+12 in 2014, and rural residential and agricultural uses.
+
+13 8. Petitioner PUBLIC EMPLOYEES FOR ENVIRONMENTAL
+
+14 RESPONSIBILITY, INC. is a national, non-profit corporation based in Washington, D.C.
+
+15 with chapters throughout the United States, including California. California PEER has a
+
+16 field office in Oakland, California. PEER represents current and former federal and state
+
+17 employees of land management, wildlife protection, and pollution control agencies who
+
+18 are frustrated by the failure of governmental agencies to enforce or faithfully implement
+
+19 the environmental laws entrusted to them by Congress or States. PEER has thousands of
+
+20 members living across the country, including hundreds of members who live, recreate
+
+21 and work in the vicinity of the SSFL.
+22 9. PEER members live, recreate, and work in Ventura and Los Angeles
+23 counties. PEER is actively engaged in proceedings relating to the contamination, health
+24 risks and inadequate clean-up of the SSFL, including providing extensive comments
+25 objecting to the Water Board Agreement. Had PEER been notified of the SSFL
+26 Agreement prior to its finalization, PEER would have submitted comments objecting to
+27 the Agreement. PEER has reviewed the Pending EIR for the SSFL Remediation Project 28
+and intends to submit comments on the final EIR and future DTSC actions involving the
+
+10
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 SSFL Remediation Project. PEER's ability to participate in the EIR process is
+
+2 substantially impaired by DTSC's and the Regional Board's challenged actions by
+
+3 foreclosing any meaningful consideration of PEER's preferred alternative for the SSFL
+
+4 Remediatione Project include the clean-up of the SSFL be done consistent with pre-SSFL
+5 background levels, the Health RBSLs approved in 2014, and rural residential and
+
+6
+agricultural uses.
+7
+10. Petitioners and their members have direct and beneficial interests in
+8
+
+9 Respondents' compliance with laws bearing upon approval of the Project. These interests
+
+10 will be directly and adversely affected by the Project, which violates the law as set forth
+
+11 in this Petition. The maintenance and prosecution of this action will confer a substantial
+
+12 benefit on Petitioners and the public by protecting Petitioners and the public from the
+
+13 environmental and other harms alleged below and others that may exist but are unknown
+
+14 due to the lack of a full environmental analysis of the Project.
+
+15 11. Respondent DEPARTMENT OF TOXIC SUBSTANCES CONTROL is
+
+16 the state agency responsible for overseeing and approving the clean-up of hazardous
+
+17 materials and soil contamination at the SSFL within Boeing's areas of responsibility.
+
+18 DTSC is the "lead agency" for the SSFL Remediation Project for purposes of Public
+
+19 Resources Code section 21067 and has principal responsibility for conducting
+20 environmental review for the SSFL Remediation Project and taking other actions
+
+21 necessary to comply with CEQA. DTSC, through its agent Respondent Lawrence Hafetz,
+22 entered into the Settlement Agreement with Real Party in Interest Boeing.
+23 12. Respondent CALIFORNIA REGIONAL WATER QUALITY CONTROL
+24 BOARD, LOS ANGELES REGION is the state agency with primary responsibility for
+25 overseeing water contamination associated with SSFL. Pursuant to 14 Cal. Admin. Code
+26
+15381, the Regional Board is a responsible agency under CEQA for the SSFL
+27
+
+28 Remediation Project. The Regional Board approved the Water Board Agreement. When
+
+11
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 it approved the Water Board Agreement, the Regional Board also rendered the SSFL
+
+2 Agreement in effect.
+
+3 13. Respondent LAWRENCE HAFETZ is the Chief Counsel for Respondent
+
+4 DTSC. Mr. Hafetz is named as a respondent in his official capacity. Mr. Hafetz was the
+5 signator on behalf of Respondent DTSC to the Settlement Agreement.
+
+6
+14. Real Party in Interest THE BOEING COMPANY ("Boeing") is a Delawarel
+7
+corporation. Boeing owns approximately 2,403 acres of the 2,850 acre SSFL. Boeing is
+8
+the party responsible for soil clean-up activities in 672 acres of Area I, 119 acres of Area
+9
+
+10 III and a 1,140-acre southern buffer zone at the SSFL. Boeing is a party to a the Settlement
+
+11 Agreement. Boeing is a party to the Water Board Agreement
+
+12 15. Petitioners do not know the true names or capacities of the persons or
+
+13 entities sued as Real Parties in Interest ROES I through X, inclusive, and therefore sue
+
+14 these real parties by their fictitious names. Petitioners and plaintiffs will amend the
+
+15 Petition to set forth the names and capacities of the ROE defendants along with
+
+16 appropriate charging allegations when such information has been ascertained.
+
+17 Jurisdiction and Venue
+
+18 16. Pursuant to California Code of Civil Procedure section 1085 (alternatively
+
+19 section 1094.5) and Public Resources Code sections 21168.5 (alternatively section
+
+20 21168) and 21168.9, this Court has jurisdiction to issue a writ of mandate to set aside
+
+21 Respondents' decisions to approve the Project without proper CEQA review.
+
+22 17. Venue is proper in this Court because this action challenges acts done by
+23 public agencies, and the causes of action alleged in this Petition arose in Ventura County.
+24 18. Petitioners have complied with the requirements of Public Resources Code
+25 section 21167.5 by serving on October 3, 2022 a written notice of Petitioners' intention to
+26
+commence this action against Respondents pursuant to CEQA. A copy of the written
+27
+notice is attached hereto as Exhibit A.
+28
+
+12
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 19. This action is timely filed within all applicable statutes of limitations,
+
+2 including those set forth in Public Resources Code section 21167(b).
+
+3 20. Petitioners have complied with the requirements of Public Resources Code
+
+4 section 21167.6 by filing a notice of their election to prepare the record of administrative
+5 proceedings relating to this action. A copy of the notice is attached hereto as Exhibit B.
+6 In addition, Petitioners have compiled all of the publicly available documents relating to
+7
+DTSC's signing of the Settlement Agreement and the Regional Board's approval of the
+8
+Water Board Agreement which are relevant to the Court's consideration of this petition
+9
+
+10 for alternative writ of mandate. Each of the documents attached as Exhibits C, D, E, I, J,
+
+11 K. L, N, O, and P was downloaded by Petitioners' counsel from Respondent DTSC's
+
+12 official web pages for the SSFL, https://dtsc.ca.gov/santa susana field lab/ and
+
+13 https://dtsc.ca.gov/boeing-cleanup-settlement-agreement/. Each of the documents
+
+14 attached as Exhibits R and S was downloaded by Petitioners' counsel from Respondent
+
+15 Regional Board's official web page for the SSFL,
+
+16 https://www.waterboards.ca.gov/losangeles/santa_susana/SSFL_CompFramework.html.
+
+17 Each of the documents attached as Exhibits F, G, H, M, and Q was sent to Petitioners'
+
+18 counsel by Petitioners. Exhibit T was downloaded from the Ventura County Planning
+
+19 Division's official web page, https://vcrma.org/en/planning-division-ordinances. (See
+
+20 Federal Rule of Evidence 201(b)(2).) True and correct copies of Exhibits C, D, F, G, H, I,
+
+21 J, and L through S are attached to this Petition. Exhibits E, K, and T have been excerpted
+22 to include only the portions relevant to the arguments set forth in this Petition.
+23 21. Petitioners will comply with the requirements of Public Resources Code
+24 section 21167.7 and Code of Civil Procedure section 388 by sending a copy of this
+25 Petition and Complaint to the California Attorney General within the required time
+26
+period.
+27
+22. Petitioners have performed any and all conditions precedent to filing this
+28
+instant action and have exhausted any and all available administrative remedies to the
+
+13
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 extent required by law. The Settlement Agreement was negotiated confidentially between
+
+2 DTSC and Boeing. There was no administrative procedure provided by DTSC which
+
+3 Petitioner could employ to remedy the violations encompassed by this Petition.
+
+4 Subsequent to DTSC's decision to weaken the Health RBSLs, on June 2, 2022, DTSC
+5 held an on-line public meeting at which it allowed a limited number of members of the
+6 public to ask questions. Several Petitioners and or their members raised objections or
+7 attempted to raise objections at this post-hoc forum. In lieu of any available
+8
+administrative procedure, on October 3, 2022, Petitioners served DTSC with the notice
+9
+
+10 letter attached hereto as Exhibit A requesting that DTSC, as well as the Regional Board
+
+11 and Boeing, vacate the SSFL Agreement and Water Board Agreement because the
+
+12 Agreements foreclose alternatives and mitigation measures that must be reviewed and
+
+13 addressed in the pending, public EIR process considering alternative clean-up scenarios
+
+14 at the SSFL. On August 8, 2022, Petitioners submitted extensive comments to the
+
+15 Regional Board objecting to its proposed entry of the Water Board Agreement, including
+
+16 the Agreement's triggering the effective date of the SSFL Agreement and the
+
+17 inconsistency with implementing a clean-up alternative consistent with the 2007 Consent
+
+18 Order and 2014 SRAM. (Exhibit Q, PE002406 - PE002499' [Comments by Parents
+
+19 Against SSFL et al. on Proposed Memorandum of Understanding Between Boeing and
+
+20 the Los Angeles Regional Water Quality Control Board Regarding the Contaminated
+
+21 Santa Susana Field Laboratory; Aug. 8, 2022].) Despite Petitioners' efforts, the Regional
+22 Board approved the Water Board Agreement. (See Exhibit D, PE000798 - PE0010
+23 [Memorandum of Understanding between Boeing and the Los Angeles Regional Water
+24 Quality Control Board Regarding the Contaminated Santa Susana Field Laboratory].)
+25 23. Petitioners have no plain, speedy or adequate remedy in the course of
+26
+ordinary law unless this Court grants the requested writ of mandate to require
+27
+
+28
+
+Petitioners' Exhibits shall be cited using the following format: Exhibit PE Bates #.
+
+14
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 Respondents and Real Party to set aside their actions taken in violation of CEQA. In the
+
+2 absence of such remedies, Respondents' decisions will remain in violation of state law.
+
+3 Statutory Background
+
+4 The California Environmental Quality Act
+
+5 24. CEQA mandates that "the long-term protection of the environment...shall
+
+6 be the guiding criterion in public decisions" throughout California. (Pub. Res. Code 0.
+7 21001(d).) The foremost principle under CEQA is that it is to be "interpreted in such a
+8
+manner as to afford the fullest possible protection to the environment within the
+9
+reasonable scope of the statutory language." (Citizens of Goleta Valley v. Bd. of
+10
+
+11 Supervisors (1990) 52 Cal. 3d 553, 563-64.) An agency's action violates CEQA if it
+
+12 "thwarts the statutory goals" of "informed decisionmaking" and "informed public
+
+13 participation." (Kings Co. Farm Bur. V. City of Hanford (1990) 221 Cal.App.3d 692,
+
+14 712.)
+
+15 25. Under CEQA, a public agency must prepare and certify an EIR on any
+
+16 project the agency "propose[s] to "carry out or approve" if that project may have
+
+17 significant environmental effects. (PRC §§ 21100(a).)
+
+18 26. "An environmental impact report is an informational document which,
+
+19 when its preparation is required by this division, shall be considered by every public
+
+20 agency prior to its approval or disapproval of a project." (PRC § 21061.) "The purpose of
+
+21 an environmental impact report is to provide public agencies and the public in general
+
+22 with detailed information about the effect which a proposed project is likely to have on
+23 the environment; to list ways in which the significant effects of such a project might be
+24 minimized; and to indicate alternatives to such a project." (Id.)
+25 27. "Project' means the whole of an action, which has a potential for resulting
+26 in either a direct physical change in the environment, or a reasonably foreseeable indirect
+27 physical change in the environment....* (14 Cal. Admin. Code § 15378(a).) "The term
+28
+*project' refers to the activity which is being approved and which may be subject to
+
+15
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 several discretionary approvals by governmental agencies. (14 Cal. Admin. Code
+
+2 15378(c).) "The term 'project' does not mean each separate governmental approval."
+
+3 (Id.).
+
+4 28. "Approval" means the decision by a public agency which commits the
+5 agency to a definite course of action in regard to a project intended to be carried out by
+6 any person. (14 Cal. Admin. Code § 15352(a).)
+7
+29. "Before granting any approval of a project subject to CEQA, every lead
+8
+
+9 agency or responsible agency shall consider a final EIR or negative declaration or another
+
+10 document authorized by these guidelines to be used in the place of an EIR or negative
+
+11 declaration. (14 Cal. Admin. Code § 15004(a).) "[A]t a § minimum an EIR must be
+
+12 performed before a project is approved, for if post-approval environmental review were
+
+13 allowed, EIR's would likely become nothing more than post hoc rationalizations to
+
+14 support action already taken."(Save Tara, 45 Cal.4th at 130 (citation omitted).)
+
+15 30. "Just as CEQA itself requires environmental review before a project's
+
+16 approval, not necessarily its final approval [citation omitted], so the guideline defines
+
+17 'approval' as occurring when the agency first exercises its discretion to execute a contract
+
+18 or grant financial assistance, not when the last such discretionary decision is made."
+
+19 (Save Tara, 45 Cal.4th at 134 [emphasis supplied].) "EIRs and negative declarations
+
+20 should be prepared as early as feasible in the planning process to enable environmental
+
+21 considerations to influence project program and design and yet late enough to provide
+
+22 meaningful information for environmental assessment." (14 Cal. Admin. Code §
+23 15004(b).) "[P]ostponing environmental analysis can permit 'bureaucratic and financial
+24 momentum' to build irresistibly behind a proposed project, 'thus providing a strong
+25 incentive to ignore environmental concerns." (Save Tara, 45 Cal.4th at 135, quoting
+26 Laurel Heights Improvement Assn. V. Regents of the University of California, 47 Cal.3d
+27
+376, 395.)
+28
+
+16
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 31. "[P]ublic agencies shall not undertake actions concerning the proposed
+
+2 public project that would have a significant adverse effect or limit the choice of
+
+3 alternatives or mitigation measures, before completion of CEQA compliance." (14 Cal.
+
+4 § Admin Code § 15004(b)(2).) "For example, agencies shall not take any action which
+
+5 a gives impetus to a planned or foreseeable project in a manner that forecloses alternatives
+6 or mitigation measures that would ordinarily be part of CEQA review of that public
+7 project." (Id.; Save Tara, 45 Cal.4th at 138 ['"before conducting CEQA review, agencies
+8
+must not "take
+9 any action" that significantly furthers a project a "in a manner that
+
+10 forecloses alternatives or mitigation measures that would ordinarily be part of CEQA
+
+11 review of that public project"].) "While mere interest in, or inclination to support, a
+
+12 project does not constitute approval, a public agency entering into preliminary
+
+13 agreements regarding a project prior to approval shall not, as a practical matter, commit a
+
+14 the agency to the project. (14 Cal. Admin Code § 15004(b)(4).) "[A]ny such pre-approval
+
+15 agreement should, for example:... (B) Not bind any party, or commit to any definite
+
+16 course of action, prior to CEQA compliance; [and] (C) Not restrict the lead agency from
+
+17 considering any feasible mitigation measures and alternatives, .... (Id.)
+
+18 32. Postponing preparation of an EIR until after a binding agreement with a
+
+19 project proponent has been reached "would tend to undermine CEQA's goal
+
+20 of transparency in environmental decisionmaking." (Save Tara, 45 Cal.4th at 136
+
+21 [citation omitted].) "Besides informing the agency decision makers themselves, the EIR
+
+22 is intended 'to demonstrate to an apprehensive citizenry that the agency has in fact
+23 analyzed and considered the ecological implications of its actions.' (Id., quoting No Oil,
+24 Inc. V. City of Los Angeles, 13 Cal.3d 68, 86.) "When an agency reaches a binding,
+25 detailed agreement with a private developer and publicly commits resources and
+26
+
+27 governmental prestige to that project, the agency's reservation of CEQA review until a
+
+28 later, final approval stage is unlikely to convince public observers that before committing
+itself to the project the agency fully considered the project's environmental
+
+17
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 I consequences." a (Id.) "Rather than a document of accountability, the EIR may appear,
+
+2 under these circumstances, a document of post hoc rationalization." (Id. [citation
+
+3 omitted].)
+
+4 33. "A CEQA compliance condition can be a legitimate ingredient in a
+5 preliminary public-private agreement for exploration of a proposed project, but if the
+6 agreement, viewed in light of all the surrounding circumstances, commits the public
+7
+agency as a practical matter to the project, the simple insertion of a CEQA compliance
+8
+
+9 condition will not save the agreement from being considered an approval requiring prior
+
+10 environmental review." (Save Tara, 45 Cal.4th at 132.) "[C]ourts should look not only to
+
+11 the terms of the agreement but to the surrounding circumstances to determine whether, as
+
+12 a practical matter, the agency has committed itself to the project as a whole or to any
+
+13 particular features, so as to effectively preclude any alternatives or mitigation measures
+
+14 that CEQA would otherwise require to be considered...." (Id. at 139.)
+
+15 34. A claim that a lead agency approved a project with potentially significant
+
+16 environmental impacts before preparing and considering an EIR for the project is a
+
+17 question of law, reviewed de novo by the court. (Save Tara, 45 Cal.4th at 131.)
+
+18 Factual Background
+
+19 A. SSFL background.
+
+20 35. SSFL is a former nuclear reactor and rocket-testing facility. (Exhibit E, Ch.
+
+21 2, PE001197 [Draft Program Environmental Impact Report for the Santa Susana Field
+22 Laboratory; Sept. 2017].) Established in the 1940s, the site was used to conduct tens of
+
+23 thousands of rocket tests, using an array of hazardous rocket fuels. (Exhibit F, PE001717
+
+24 [Supplemental Detailed Comments on Draft Program Environmental Impact Report on
+
+25 Cleanup of the Santa Susana Field Laboratory by the Committee to Bridge the Gap and
+
+26 the Natural Resources Defense Council; Dec. 14, 2017].) Two open-air burn pits were
+
+27 operated at the site in which radioactive and toxic wastes were burned. (Id. at PE001719.)
+
+28 As a result of these operations and the mishandling of solvents and highly toxic materials
+at the facility for many decades, the SSFL site is contaminated with hazardous chemicals
+
+18
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 such as perchlorate, PCBs, dioxins, volatile organic compounds, semi-volatile organic
+
+2 compounds, and heavy metals. (Exhibit E, Ch. 1, PE001105, PE001202; Exhibit E,
+
+3 PE001722, PE001760.)
+
+4 36. The SSFL is located in the southeast corner of Ventura County directly
+
+5 adjacent to a stretch of the eastern border of Los Angeles County. (Exhibit E, PE001111.)
+
+6 The facility is approximately 29 miles northwest of downtown Los Angeles. (Id.) The
+
+7 city of Simi Valley is located about one mile north of the site's northern border. (Id.) The
+
+8 community of Bell Canyon is located directly south of the site. (Id.) To the east are the
+
+9 residential communities of Canoga Park, West Hills, and Chatsworth within the City of
+
+10 Los Angeles. (Id.)
+
+11 37. The site extends over 2,850 acres. (Exhibit E, PE001111.) The site has been
+
+12 divided into four administrative areas - Areas through IV - associated with three
+
+13 responsible parties, Boeing, DOE, and NASA. (Id at PE001112.) Area I encompasses 713
+
+14 acres in the northeastern section of SSFL. (Exhibit E, PE001411.) 672 acres of Area I is
+
+15 owned and being investigated by Boeing. (Id.) Area III includes 119 acres located within
+
+16 the western half of the SSFL site. (Id.) Area III is owned and being investigated by
+
+17 Boeing. (Id.) The Southern Buffer Zone is 1,143 acres located south of Areas I through
+
+18 IV. (Id.) The Southern Buffer Zone is owned and being investigated by Boeing. (Id.)
+
+19 38. The Health RSBLs and soil cleanup standards mandated by the SSFL
+
+20 Agreement only pertain to contamination from hazardous chemicals within Boeing's
+
+21 areas of responsibility.
+
+22 39. In 2015, Boeing prepared RCRA Facility Investigation reports for various
+23 areas of the SSFL. (Exhibit G, Att. A, PE001863 [PSR-LA Comments on DTSC's Draft
+
+24 PEIR for the SSFL Cleanup and Draft Program Management Plan; Dec. 14, 2017].) The
+
+25 reports included cancer risk assessments for a suburban residential garden use. (Id.)
+
+26 Boeing's risk assessment indicated that the cancer risk from the contamination for which
+
+27 it is responsible at the Santa Susana Field Lab, in an area referred to as Systems Test
+
+28 Laboratory IV, is 9.6E-01 (9.6 x 10-1). (Exhibit G, Att. A, PE001875.) That risk
+
+19
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 assessment means that, if 100 people lived in this area and had a garden, 96 of them
+
+2 would be expected to get cancer from the exposure. (Id.) That same location registered e
+
+3 Hazard Index of 727. (Id. at PE001876.) A Hazard Index of 1 is the threshold limit for
+
+4 non-carcinogenic health impacts. (Id. at PE001872.) Anything above 1 indicates a
+
+5 significant health risk. (Id.)
+
+6 40. Boeing estimates other a high cancer risks for a suburban residential use with
+
+7 a garden at other locations for which it is responsible for the remediation. (Exhibit G,
+
+8 PE001854.) Boeing reported a cancer risk of 200,000 cancers per million and a Health
+
+9 Index of 700 for an area at SSFL named Happy Valley North. (Id. at PE001854; Id. at
+
+10 PE001907.) The area known as Compound A was estimated to pose a cancer risk of
+
+11 100,000 in a million and posted a Hazard Index of 1,112. (Id. at PE001854; Id. at
+
+12 PE001900.) The Advanced Propulsion Test Lab was found to pose a cancer risk of
+
+13 20,000 cancer per million people and a Hazard Index of 2,000. (Id. at PE001913.)
+
+14 41. Hazardous wastes or hazardous waste constituents have migrated or may
+
+15 migrate from the Facility into the environment through surface water, air, and
+
+16 groundwater (including seeps and springs) pathways. (Exhibit C, Ex. 2, PE000050 [SSFL
+
+17 Settlement Agreement; May 9, 2022].) Potential exposures can occur from direct contact
+
+18 with soils, sediments, weathered bedrock, surface water, air, and groundwater, as well as
+
+19 potential indirect exposure to chemicals in plants following uptake from the soil. (Id.)
+
+20 B. The 2007 Consent Order
+
+21 42. On or about August 16, 2007, DTSC entered into a Consent Order For
+
+22 Corrective Action with Boeing, DOE and NASA ("2007 Consent Order"). (Exhibit C,
+
+23 Ex. 2. PE000042 - PE000115.)
+
+24 43. The 2007 Consent Order establishes the decision-making process for the
+
+25 cleanup of contaminated soils on the portions of SSFL for which Boeing is responsible.
+
+26 (Exhibit C, Ex. 2, PE000042 - PE000115.)
+
+27 44. The 2007 Consent Order identifies the types of chemicals to be cleaned up
+28 and requires the actual cleanup of soil contaminated by those chemicals be decided
+
+20
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 utilizing the Standardized Risk Assessment Methodology ("SRAM") for SSFL. (Exhibit
+
+2 C. Ex. 2, PE000061; Id. at PE000051; Id. at PE000049; Id. at PE000110 - PE000111.)
+
+3 An initial SRAM was approved by DTSC in 2004. (See Exhibit I, PE002225 [DTSC
+
+4 letter to Boeing regarding SRAM-2 comments; June 4, 2014].)
+
+5 45. A key element of the 2007 Consent Order is a requirement that Boeing
+
+6 prepare a Corrective Measures Study Workplan ("CMS Workplan"). (Exhibit C, Ex. 2,
+
+7 PE000060 - PE000061.) After completion of various investigation and characterization
+
+8 documents and treatability studies, Boeing's proposed CMS Workplan is intended to
+
+9 provide details of the methodology for developing and evaluating potential corrective
+
+10 measures to remedy chemical contamination at the Facility utilizing the Standardized
+
+11 Risk Assessment Methodology (SRAM) Workplan (Rev. 2) and to identify the potential
+
+12 corrective measures. (Id. at PE000060 - PE000061.)
+
+13 46. DTSC will evaluate the CMS Workplan and then prepare a draft cleanup
+
+14 decision. (Exhibit C, Ex. 2, PE000061.) That draft cleanup decision would be made
+
+15 available to the public for review and comment. (Id. at PE000062.) Once that public
+
+16 review period has concluded and the public's comments taken into account, DTSC would
+
+17 then select and approve the cleanup decision document for implementation. (Id.) DTSC is
+
+18 preparing an EIR for the cleanup decision. (See id. at PE000064; Exhibit E, App. C,
+19 PE001411.)
+
+20 47. The 2007 Consent order required a plan from Boeing setting forth tasks,
+
+21 milestones and timelines to achieve "[r]emediation of chemically contaminated soils by
+22 June 30, 2017 or earlier, utilizing the Standardized Risk Assessment Methodology
+
+23 (SRAM) Workplan (Rev. 2)." (Exhibit C, Ex. 2, PE000051.)
+
+24 48. In 2010, DTSC confirmed that the clean-up standards to be achieved by the
+
+25 2007 Consent Order would require clean-up levels that protect residential with garden
+
+26 uses and would be comparable to a cleanup to background levels. (Exhibit J, PE002247 -
+27 PE002248, PE002250, PE002257 [DTSC Response to Comments, Agreements in
+
+28 Principle, State of California and the Department of Energy, State of California and the
+
+21
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 National Aeronautics and Space Administration, Volume 1; October 26, 2010]. See
+
+2 Exhibit C, Ex. 2, PE000042 - PE000115.) Boeing is required to address exposures to
+3 contaminated soils through direct contact, vapor and dust inhalation, and ingestion of soil
+
+4 and plants from home gardens. (Exhibit C, Ex. 2, PE000107.)
+
+5 49. In August 2014, the SRAM was updated to incorporate a list of Risk-Based
+
+6 Screening Level thresholds for hundreds of toxic contaminants potentially present in
+
+7 contaminated soils at SSFL. (Exhibit K, App. A, PE002337 - PE002349 [Final
+
+8 Standardized Risk Assessment Methodology Revision 2 Addendum for the SSFL; August
+
+9 2014].) On August 26, 2014, DTSC approved the 2014 SRAM Rev. 2 Addendum.
+
+10 (Exhibit L, PE002360 [Approval of the SRAM Rev. 2 Addendum for the SSFL].) The
+
+11 2014 SRAM included Health RBSLs proposed by Boeing. (Exhibit K, PE002285.)
+
+12 C. The EIR for the SSFL Clean-up.
+
+13 50. On November 22, 2013, DTSC issued a Notice of Preparation ("NOP")
+
+14 announcing the agency's initiation of a process to prepare a program environmental
+15 impact report for the contaminated soil and groundwater remediation project at the SSFL.
+
+16 (Exhibit E, PE001411.) The NOP states that "[t]he proposed project includes the
+
+17 activities necessary to implement soil and groundwater remediation." (Id.)
+
+18 51. DTSC determined that the SSFL Remediation Project may have a
+
+19 significant impact on the environment and a Program EIR is necessary to fully evaluate
+
+20 potential environmental effects, including cumulative impacts, and alternatives for
+
+21 program-wide mitigation. (Exhibit E, Ch. 1, PE001102.)
+22 52. According to the Scoping Report accompanying the NOP, the SSFL
+
+23 Remediation Project EIR "will analyze remediation of soils and groundwater, RCRA
+
+24 closure of three facilities and ongoing monitoring and maintenance of former RCRA
+
+25 impoundments, and demolition of Area IV buildings and associated infrastructure which
+
+26 will be implemented by the [responsible parties]." (Exhibit E, PE001403.) The Scoping
+
+27 Report acknowledges that the activities to be reviewed in the EIR "are remedial actions
+
+28 that will require approval by DTSC." (Id.) The EIR "will establish a framework for
+
+22
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 "tiered" or project-level environmental documents to be prepared to address further
+
+2 development and refinement of remediation approaches and actions." (Exhibit E, App. C,
+
+3 | PE001411.)
+
+4 53. On September 7, 2017, DTSC released a draft EIR for the SSFL
+
+5 Remediation Project. (Exhibit E.)
+
+6 54. As it relates to Boeing, the primary objective of the Project is to implement
+
+7 the 2007 Consent Order. (Exhibit E, Ch. 1, PE001112.)
+
+8 55. The DEIR evaluates a cleanup plan alternative that relies on the Health
+
+9 RBSLs approved in 2014. (Exhibit E, App. B, PE001370 - PE001373.) The DEIR further
+
+10 acknowledges that "the risk-based screening levels used for characterization purposes
+
+11 should be considered preliminary screening levels and are surrogates for risk-based
+
+12 cleanup requirements." (Id. at PE001206.) Accordingly, alternatives relying on the
+
+13 screening levels identified in the DEIR or other alternative screening levels could be
+
+14 proposed by commenters and considered in the preparation of the EIR.
+
+15 56. The DEIR emphasizes that DTSC's evaluation of alternatives includes
+
+16 factors that consider the extent of any final clean-up and its reliability:
+
+17 To aid the decision making bodies in their review of the project and the
+
+18 environmental impacts and alternatives to the cleanup, the following
+criteria are assessed and considered:
+19 3. Long-term effectiveness and reliability (after remedial activities are
+
+20 complete) in protecting human health and the environment (inclusive of
+surrounding communities) from exposure to materials containing
+21 contaminants above applicable cleanup requirements.
+
+22 4. Reduction of toxicity, mobility, and/or volume of contaminated media.
+5. Short-term effectiveness (during implementation/construction activities)
+23 in protecting human health and the environment (inclusive of surrounding
+
+24 communities) from exposure to materials with contaminants above
+applicable cleanup requirements.
+25 6. Ability to implement the remedial activities, including feasibility to
+
+26 construct and operate, administrative feasibility and availability of services
+and materials.
+27 7. Remediate the site in an expedient and cost-effective manner.
+
+28 8. Community input during a formal public comment period on the cleanup
+decision document.
+
+23
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 (Exhibit E, Ch. 1, PE001113, PE001311.) All of these factors and the range of
+
+2 alternatives are topics to be addressed in the EIR and subject to public comment.
+
+3 57. The DEIR acknowledges that the range of alternatives subject to public
+
+4 comment and review by DTSC encompasses various cleanup scenarios. For example, the
+
+5 DEIR proposes to reject the possible alternative to clean up Boeing Areas and III for use
+
+6 as residential property assuming that all of the residents consume 100 percent of produce
+
+7 grown onsite and in soil after remediation. (Exhibit E, Ch. 6, PE001319.) Although the
+
+8 DEIR proposes to reject this alternative, that draft proposal is subject to public comment
+
+9 and further review in the EIR process. Indeed, Petitioners and others have objected to
+
+10 DTSC's rationale in developing this alternative and proposed corrections to this
+
+11 alternative to be considered. (Exhibit G, PE001856 - PE001858, PE001928; Exhibit H,
+
+12 PE001965 - PE002223 [Parents Against SSFL Comments and accompanying
+
+13 Change.Org Petition on DTSC's Draft PEIR for the SSFL Cleanup]; see also Exhibit F,
+
+14 PE001747.)
+
+15 58. The DEIR also reviewed an alternative that would be based on less
+
+16 stringent clean-up levels assuming that future residents would not eat any homegrown
+
+17 produce from residential gardens. (Exhibit E, Ch. 6, PE001319.) "This alternative was
+
+18 considered but rejected from further analysis, as this alternative would not meet the
+
+19 cleanup standards of the 2007 Consent Order." (Id.) That draft proposal to reject this
+
+20 alternative is subject to public comment and further review in the EIR process. (Id.)
+21 59. The draft EIR focuses on a preferred alternative that relies on estimated soil
+
+22 cleanup volumes and acreage for the Boeing areas of responsibility that are based on a
+
+23 future use of suburban residential with a garden from which the residents would eat 25
+
+24 percent of their total diet. (Exhibit E, Ch. 1, PE001115.) Petitioners and other interested
+
+25 parties have submitted comments sharply criticizing DTSC regarding its formulation of
+
+26 this alternative. (Exhibit G, Att. A, PE001866 - PE001868, PE001928; Exhibit H,
+27 PE001966 - PE002223; see also Exhibit F, PE001739 - PE001758.) For this alternative,
+
+28 the DEIR estimates that 921,000 cubic yards of contaminated soil will have to be
+
+24
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 remediated in areas for which Boeing is responsible. (Exhibit E, Ch. 3, PE001243.) Of
+
+2 the total 921,000 cu. yds. of contaminated soil to be addressed by Boeing in that
+
+3 alternative, the DEIR assumes only 390,000 cu. yds. would be excavated and shipped to a
+
+4 disposal site. (Id.) Interested parties have submitted comments requesting DTSC to
+
+5 consider soil cleanup standards that would remove more soil and be more protective of
+
+6 human health and the neighboring communities. An alternative requiring more soil to be
+
+7 removed could still be considered in the EIR process.
+
+8 60. The public comments on the draft EIR take issue with the range of
+9 alternatives proposed by DTSC. (Exhibit G, Att. A, PE001927 - PE001929.) This
+
+10 ongoing public process regarding the appropriate range of alternatives and the final
+
+11 cleanup alternative for Boeing's areas of responsibilities must be completed before any
+
+12 possible alternatives are foreclosed. PSR-LA and others commented that the draft EIR
+
+13 should include an alternative version of the Project that required soil clean-up to levels
+
+14 consistent with background concentrations of the contaminants. (Exhibit G, Att. G,
+
+15 PE001956; Exhibit H, PE001968; see also Exhibit M, PE002365 - PE002366 [City of
+
+16 Los Angeles, et al. Comments on the Draft PEIR and Draft Program Management Plan
+
+17 for the SSFL; Dec. 7,2017].) The comments also argued for consideration of an
+
+18 alternative applying the soil remediation thresholds for rural residential/agricultural uses
+
+19 at the site. (Exhibit G, PE001853, PE001855 - PE001856; Exhibit M, PE002366. See
+
+20 also Exhibit F, PE001741.) Clean up levels for rural residential/agricultural uses would
+
+21 be the most protective and require the greatest amount of soil remediation because these
+
+22 uses would include not only consumption of fruits and vegetables but also beef, dairy
+
+23 products, chicken, eggs and other farm products as well as longer exposure times.
+24 (Exhibit G, PE001855 - PE001856; Exhibit F, PE001742.) Likewise, the comments
+
+25 demand that DTSC include an alternative in the DEIR based on DTSC-approved inputs
+
+26 found in the 2014 SRAM. (Exhibit G, Att. A, PE001928; Exhibit F, PE001752.)
+
+27 Commenters point out numerous errors in the DEIR's calculation of the SRAM-based
+
+28 clean-up levels. (Exhibit G, Att. A, PE001928; Exhibit F, PE001747 - PE001756.) The
+
+25
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 comments also take issue with the DEIR's focus on an alternative that would leave in
+
+2 place thousands of cubic yards of contaminated soil. (Exhibit G, Att. A, PE001928;
+
+3 Exhibit H, PE001968; Exhibit F, PE001757.) Likewise, the comments take issue with the
+
+4 draft EIR's failure to disclose the alternative clean-up levels from which DTSC will
+
+5 choose. (Exhibit G, PE001858 - PE001859; Exhibit M, PE002367.)
+
+6 61. Petitioner PSR-LA also submitted comments, explaining that "[t]he way to
+
+7 protect people nearby is to assure that DTSC's promises (and those of Boeing) that SSFL
+
+8 would be cleaned up such that it would be safe to live on site, eat produce grown on it,
+
+9 and drink from wells are fully carried out. If the source is cleaned up to those safe levels,
+
+10 it is then safe for the people nearby." (Exhibit G, PE001858.) Additionally, Petitioner
+
+11 Parents Against SSFL submitted comments on the Draft PEIR, including an online
+
+12 petition which garnered 72,000 comments critiquing the Draft PEIR. (Exhibit H.) The
+
+13 comment advocates for an alternative cleanup to background levels and objects to the
+
+14 Draft PEIR's alternatives that would leave any toxic chemical contaminants in place
+
+15 "where they could continue to migrate offsite and place neighboring communities at
+
+16 risk." (Id. at PE001968.)
+
+17 D. The DTSC and Boeing Agreement
+
+18 62. Instead of considering the comments of the public actively engaged in the
+
+19 EIR process for the SSFL Remediation Project and considering an alternative applying
+
+20 more stringent clean-up standards and soil removal to Boeing's soil cleanup as part of the
+
+21 EIR process, DTSC has instead engaged in a secret process with Boeing to foreclose
+
+22 DTSC's consideration of alternatives remediating the site to achieve background levels of
+23 contaminants and levels protective of agricultural and residential uses. On January 22,
+
+24 2021, DTSC sent an "Offer to Enter Into Non-Binding, Confidential Mediation With
+
+25 Boeing to Resolve the Santa Susana Field Laboratory Formal Dispute Dated December 6,
+
+26 2019." (Exhibit N [DTSC Letter to Boeing on Confidential Mediation of Dispute; Jan.
+
+27 22, 2021].) In that letter, DTSC also invited the Regional Board to participate in the
+
+28 confidential mediation. (Id.)
+
+26
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 63. On May 9, 2022, DTSC and Boeing entered into a Settlement Agreement.
+
+2 (Exhibit C.)
+
+3 64. DTSC did not provide an opportunity for any public comments on the
+
+4 Settlement Agreement. (See Exhibit N.)
+
+5 65. In May 2022, DTSC issued a Community Update that indicates that the
+
+6 Settlement Agreement selected clean-up standards to be applied by Boeing. (Exhibit O
+
+7 [DTSC News Release: "California holds Boeing Accountable for Cleanup at Toxic Santa
+
+8 Susana Field Laboratory," May 9, 2022].)
+
+9 66. On June 2, 2022, DTSC held a public meeting to a announce its prior signing
+
+10 of the Settlement Agreement with Boeing and to present its terms to the public. DTSC
+
+11 prepared a Power Point presentation for the meeting. (Exhibit P [DTSC Community
+
+12 Meeting Powerpoint Presentation Update; June 2, 2022].) The Power Point emphasizes
+
+13 that the cleanup required under the 2007 Order has been changed and any alternatives
+
+14 more stringent than the new screening levels dictated by the Settlement Agreement would
+
+15 not be in the range of possible clean-ups of the site. (Id. at PE002387, PE002392.) The
+
+16 Power Point also states that the five times multiplier method was established as part of
+
+17 the SSFL Agreement. (Id. at PE002394.) Power Point also states that Settlement
+
+18 Agreement includes "exception areas" where up to a 100 times multiplier could be
+
+19 applied, precluding alternatives requiring more stringent clean-up in those areas. (Id. at
+
+20 PE002395.)
+
+21 The SSFL Agreement Weakens Currently Applicable Screening
+
+22 Thresholds and Forecloses an Alternative to Require a Cleanup Using
+the Approved 2014 Risk-Based Screening Levels for Soil.
+23
+
+24 67. Among other provisions, the SSFL Agreement commits DTSC and Boeing
+
+25 to weakening the Human Health RBSLs included in the 2014 SRAM. The 2014 SRAM
+
+26 includes Risk-Based Screening Levels for the suburban residential garden standard for
+
+27 182 chemical constituents. (Exhibit K, App. B, PE002353.) The SSFL Agreement
+
+28 weakens these approved Health RBSLs for 147 of those chemicals, strengthens the levels
+for 34 chemicals, and leaves one unchanged. (Exhibit Q, App. B, PE002452.)
+
+27
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 68. The SSFL Agreement mandates that the weakened levels be implemented
+
+2 despite the relevance to potential Project alternatives and public comments on such
+
+3 alternatives. The SSFL Agreement states that:
+
+4 d. SRAM Process for Boeing's Soil and Groundwater Remediation. The
+
+5 SRAM process for the soil and groundwater remediation conducted by
+Boeing will be completed as follows:
+6 1. Boeing shall revise the 2014 SRAM Rev. 2 Addendum in accordance
+
+7 with the specifications provided in Exhibit 5 (SRAM Amendment Process
+and Summary).
+8
+
+9 3. ... DTSC will authorize the use of the SRAM if it meets the
+specifications provided in Exhibit 5 (SRAM Amendment Process and
+10 Summary).
+
+11 (Exhibit C, PE000010.)
+12 69. Attachment 3 to Exhibit 5 of the SSFL Agreement sets forth "Soil Risk-
+13 Based Screening Levels for a Hypothetical Future Resident No Garden, Hypothetical
+14 Future Resident with Garden, Hypothetical Future Recreator, and Hypothetical Future
+15 Site Worker." (Exhibit C, Ex. 5, PE000133 PE000156.) The Human Health RBSLs
+16 included in Exhibit 5 are less stringent than the currently approved soil screening levels
+17 used by the 2014 SRAM. (Compare id. with Exhibit E, App. B, PE001370 - PE001373.
+18 See Exhibit Q. App. D, PE002480 - PE002499 [presenting side-by-side comparisons of
+19 2014 screening levels and weakened screening levels from SSFL Settlement].)
+20 70. The SSFL Settlement limits the contaminant cleanup levels for each
+21 identified cleanup scenario from the currently approved levels included in the 2014
+22 SRAM to the weakened levels identified in Exhibit 5 of the SSFL Settlement. The SSFL
+23 Agreement mandates that the "SRAM Rev. 2 Addendum (2022) will include the
+24 following updates, which will supersede and replace the referenced language/process in
+25 the SRAM Rev. 2 Addendum (2014):..." (Exhibit C, Ex. 5, PE000122.) The mandated
+26 revisions include using the weaker Human Health RBSLs currently applicable to the site:
+27 0 All methods and parameters will be consistent with those used in the
+28 approved 2022 Human Health Risk-Based Screening Levels. Approved
+RBSLs are provided in Attachment 3 to this procedure.
+
+28
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1
+
+2 (Id. at PE000124 [emphasis added].)
+
+3 71. As a result, the SSFL Agreement forecloses alternative cleanups that would
+
+4 be based on more accurate or the existing screening levels in the approved 2014 SRAM
+
+5 from consideration in the EIR process.
+
+6 The SSFL Agreement Further Weakens Currently Applicable
+
+7 Screening Thresholds and Forecloses any Alternative That Does Not
+Multiply Boeing's Screening Levels by Five and 100 Times.
+8
+72.
+9 The Settlement Agreement further weakens the Health RBSLs by allowing
+
+10 a for a multiplier of 5 above the calculated Risk-Based Screening Levels for some areas of
+
+11 the site for which Boeing is responsible. (Exhibit C, Ex. 5, PE000133 -PE000151.) An
+
+12 even higher multiplier of 100 times the screening levels is allowed for the remainder of
+
+13 the Boeing site. (Id.) Accounting for these multipliers, the actual number of 2014
+
+14 screening levels that are weakened applying the five-fold multiplier is 176 less stringent
+
+15 screening levels while only six screening levels are tightened. (Exhibit Q, App. B,
+
+16 PE002452.) The number of 2014 screening levels that are weakened applying the 100-
+
+17 fold multiplier is 179 while only three screening levels are tightened. (Id.)
+
+18 The SSFL Agreement as a Practical Matter Forecloses DTSC From
+Considering Clean-up Alternatives That Would Excavate and Dispose
+19 of More Than 440,000 Cubic Yards of Soil.
+
+20 73. The SSFL Agreement places hurdles for DTSC to consider and adopt an
+
+21 alternative clean-up project that would remediate more than 440,000 cubic yards of soil
+
+22 from those areas of the SSFL for which Boeing is responsible. (Exhibit C, PE000007.)
+
+23 DTSC has estimated that a soil remedy for Boeing's areas of responsibility to a
+
+24 residential with 100% garden standard could involve excavation and disposal of
+
+25 approximately 440,000 cubic yards of soil. (Id.) That volume is approximately the soil
+
+26 volume for a residential with 100% garden cleanup as estimated in the Draft EIR and set
+
+27 forth in Appendix K to the DEIR. (Exhibit E, App. K, PE001417 - PE001709.) The
+
+28 Settlement Agreement includes an Agreement by DTSC that it will not require more than
+
+29
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 440,000 cu. yds. of soil to be excavated by Boeing: "[f]or purposes of resolving the
+
+2 Parties' dispute and accelerating the remedial activities at the SSFL, Boeing has agreed as
+
+3 part of this settlement that it will not contest a soil remedy decision by DTSC that is
+
+4 consistent with the processes, methodologies and schedule under this Agreement and the
+
+5 Exhibits, and is among the scenarios and within the range of estimates presented in the
+
+6 summary table on page iii of Appendix K to the Draft PEIR." (Exhibit C, PE000007.)
+
+7 74. Submitted comments on the DEIR for the SSFL Cleanup propose
+
+8 alternatives employing more stringent soil cleanup levels and more excavation and
+
+9 disposal of contaminated soil. (Exhibit G, PE001853, PE001855 - PE001856, PE001928,
+
+10 PE001956; Exhibit F; Exhibit M.) Boeing has previously contended that cleaning up soil
+
+11 to background levels in its areas of responsibility could require excavation of as much as
+
+12 1.6 million cubic yards of contaminated soil. (Exhibit J, PE002267.) As a practical
+
+13 matter, the soil removal cap of 440,000 cu. yds. included in the SSFL Agreement,
+
+14 commits the agency to a version of the Project which forecloses consideration of
+
+15 alternatives involving more soil removal and disposal.
+
+16 The SSFL Agreement Forecloses Consideration of a Clean-up
+
+17 Alternative Allowing Rural Residential (Agriculture).
+
+18 75. In the Settlement Agreement, DTSC announces that it will not consider an
+19 alternative requiring Boeing to clean-up contaminated soils to levels allowing a rural
+
+20 residential (agriculture) use. (Exhibit C, Ex. 5, PE000124.) The Settlement Agreement
+
+21 states that the "[Risk-Based Screening Levels] for the rural residential (agricultural)
+
+22 exposure scenario do not need to be included or updated in SRAM Rev. 2 Addendum
+
+23 (2022)." (Id.) "DTSC has determined, based on a variety of factors, that this scenario
+
+24 does not represent the reasonably anticipated future land use at SSFL." (Id.) DTSC
+
+25 claims that "numerous factors, including but not limited to the following, are relevant for
+
+26 support for DTSC's decision on this matter of only focusing on non-agricultural uses:
+
+27 population growth patterns and projections; soil type and topography; the lack of a water
+
+28
+
+30
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 source for irrigation purposes; market forces; and the site's location in relation to urban,
+
+2 residential, commercial, industrial, agricultural and recreational areas." (Id.)
+
+3 76. Comments on the DEIR proposed an alternative for Boeing to cleanup
+
+4 contaminated soils to allow for agricultural uses. (Exhibit G, PE001853, PE001855 -
+
+5 PE001856; Exhibit F, PE001741; Exhibit M, PE002366.) This alternative should be
+
+6 addressed in an EIR process. By rejecting it as part of a secret negotiation culminating in
+
+7 the SSFL Agreement, DTSC has foreclosed consideration of this potential alternative in
+
+8 an EIR.
+
+9 The Regional Board's Approval of the Water Board Agreement Made
+
+10 the SSFL Agreement Effective and Foreclosed Consideration of
+Alternatives.
+11
+77.
+12 In addition to the SSFL Agreement, Regional Board staff negotiated the
+
+13 terms of a "Memorandum of Understanding Establishing the Processes, Methodologies,
+
+14 and Standards for Assessing Stormwater Discharges and Applicable Requirements
+
+15 Following The Boeing Company Soil Cleanup at the Santa Susana Field Laboratory"
+
+16 (*Water Board Agreement") between the Regional Board and Boeing regarding the
+
+17 implementation of the Boeing National Pollutant Discharge Elimination System permit
+
+18 regulating the quality of storm water discharges from the SSFL. (Exhibit D.) The SSFL
+
+19 Agreement is conditioned upon the Regional Board's approval of the Water Board
+
+20 Agreement. (Exhibit C, PE000029.) The Agreement states that "[t]he Effective Date of
+
+21 this Agreement is the later of the following after both have occurred: (a) the day it is
+
+22 signed by the last signatory, and (b) the Effective Date of Water Board Agreement." (Id.)
+78.
+23 On July 11, 2022, the Regional Board issued a public notice of its intent to
+
+24 consider and adopt the MOU at the Regional Board's August 11, 2022 Board meeting.
+
+25 (Exhibit R [Notice of Public Meeting to Consider Memorandum of Understanding
+
+26 Between Boeing and the Los Angeles Regional Water Quality Control Board].)
+79.
+27 On August 8, 2022, Petitioners submitted extensive comments to the
+
+28 Regional Board critiquing the SSFL Agreement and the weakening of the Health RBSLs.
+(Exhibit Q.) The comments point out that the Settlement Agreement weakens the Health
+
+31
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 RBSLs for 147 of the 182 chemical constituents, strengthens the levels for 34 chemicals,
+
+2 and leaves one unchanged. (Id. at PE002452.) Clean-up level concentrations required by
+
+3 the Settlement Agreement are a hundred times higher than previously allowed for some
+
+4 areas of the site, and ~2000 times higher for the rest of the Boeing site. (Id.)
+
+5 80. The MOU Comments further point out that the actual number of Health
+
+6 RBSLs that are weakened applying the Settlement Agreement's five-fold multiplier is
+
+7 176 less stringent screening levels while only six screening levels are tightened. (Exhibit
+
+8 Q, App. B, PE002452.) The number of Health RBSLs that are weakened applying the
+
+9 100-fold multiplier is 179 while only three screening levels are tightened. (Id.)
+
+10 Petitioners' comments also pointed out that the belated rationale for weakening the
+
+11 Health RBSLs were not supported by any evidence. (Id. at PE002455 - PE002457.)
+
+12 81. Despite these comments by Petitioners, at the conclusion of the Regional
+
+13 Board's August 11, 2022 hearing, the Regional Board approved the Water Board
+
+14 Agreement. (Exhibit S [Los Angeles Regional Water Quality Control Board Resolution
+
+15 Approving the MOU between Boeing and the Los Angeles Regional Water Quality
+
+16 Control Board]; Exhibit D.)
+
+17 82. In the SSFL Agreement, DTSC purports to "reserve[] all of its rights,
+
+18 powers, discretion and authority as the CEQA lead agency for the remediation of
+
+19 contamination at the SSFL in selecting a soil remedy and in selecting a groundwater
+
+20 remedy with regard to the Boeing Areas of Responsibility." (Exhibit C, PE000015; Id. at
+
+21 PE000215 - PE000217.) However, because the terms of the SSFL Agreement, viewed in
+
+22 light of all the surrounding circumstances, commit the agency as a practical matter to a
+
+23 specific limited version of the clean-up Project, the reservation of CEQA authority does
+
+24 not cure the Project approvals made by the Agreement.
+
+25 83. DTSC's approval of Health RBSLs set forth as an attachment to the
+
+26 Settlement Agreement is an action concerning the SSFL Remediation Project that limits
+
+27 the choice of alternatives or mitigation measures, before completion of CEQA
+
+28 compliance.
+
+32
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 84. DTSC's approval of a five-time multiplier and/or a 100-time multiplier to
+
+2 the Health RBSLs for Boeing are actions concerning the SSFL Remediation Project that
+
+3 limit the choice of alternatives or mitigation measures, before completion of CEQA
+
+4 compliance.
+
+5 85. DTSC's agreement with Boeing identifying a maximum amount of soil
+
+6 excavation and disposal under which Boeing would not challenge such excavation and
+
+7 disposal requirement is an action concerning the SSFL Remediation Project that as a
+
+8 practical matter limits the choice of alternatives or mitigation measures, before
+
+9 completion of CEQA compliance.
+
+10 86. DTSC's decision in the Settlement Agreement to not consider an alternative
+
+11 to clean-up Boeing's areas of responsibility to levels allowing a rural residential
+
+12 (agriculture) use is an action concerning the SSFL Remediation Project that limits the
+
+13 choice of alternatives or mitigation measures, before completion of CEQA compliance.
+
+14 87. The Regional Board's decision to approve the Water Board Agreement
+15 triggering the effectiveness of each of DTSC's premature actions is an action concerning
+
+16 the SSFL Remediation Project that limits the choice of alternatives or mitigation
+
+17 measures, before completion of CEQA compliance.
+
+18 Claims for Relief
+
+19 88. The allegations of paragraphs 1-87 are incorporated by reference as though
+
+20 fully set forth herein.
+
+21 89. At all times herein mentioned, Respondents DTSC and Regional Board
+22 have been able to carry out their duties to formulate and regulate Boeing's remediation of
+23 Boeing's areas of responsibility at the SSFL in a manner consistent with the requirements
+
+24 of CEQA. Notwithstanding such ability, the plain duties imposed on Respondents by
+
+25 CEQA, and the demand of Petitioners that Respondents perform such duties, Respondent
+
+26 DTSC, in entering into the Settlement Agreement with Real Party Boeing, and
+
+27 Respondent Regional Board, in approving the Water Board Agreement making the
+
+28 Settlement Agreement effective, have wrongfully taken actions concerning the Project
+
+33
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+1 that effectively foreclose DTSC's consideration of alternatives requiring more stringent
+
+2 soil remediation, possible future uses, and a safer environment for surrounding
+3 communities, as well as additional mitigation measures that would be associated with
+
+4 such alternatives. The adverse effects of Respondents' premature approvals continue to
+
+5 this day. Unless compelled by this Court to vacate the SSFL Agreement and the Water
+
+6 Board Agreement and refrain from approving activities that foreclose DTSC's
+
+7 consideration of alternatives and mitigation measures as required by law of their offices,
+
+8 Respondents will continue to violate CEQA.
+
+9 90. Petitioners have no plain, speedy, or adequate remedy 1n the ordinary
+
+10 course of law because, unless the Court grants the requested writ of mandate to require
+
+11 Respondents to comply with their legal duties, Respondents will continue to proceed in
+
+12 violation of the law.
+
+13 91. If Respondents continue to maintain the SSFL Agreement and the Water
+
+14 Board Agreement limiting Respondents' ability to evaluate and consider alternatives that
+
+15 would reduce risks to the surrounding communities, including members of Petitioners, as
+
+16 well as future users of the SSFL site, Petitioners will suffer substantial, clear, and certain
+
+17 irreparable injury in that their procedural rights to comment on alternatives and effective
+18 mitigation measures pursuant to CEQA during the pending EIR process will be
+19 significantly undermined, the discretion of DTSC to select an alternative and any
+
+20 accompanying mitigation measures that would be most protective of surrounding
+
+21 communities unduly constrained, and Respondents will proceed with a flawed and
+
+22 improperly truncated EIR procedure pursuant to CEQA.
+
+23 PRAYER
+
+24 Petitioners pray that this Court:
+
+25 1. Issue an alternative writ directing Respondent Department of Toxics
+
+26 Substances Control, its officers, agents, and all other persons acting on its behalf or
+
+27 through its orders, and Real Party in Interest Boeing to immediately vacate the Settlement
+
+28 Agreement; Issue an alternative writ directing Respondent California Regional Water
+
+34
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+l Quality Control Board, Los Angeles Region, its officers, agents, and all other persons
+2 acting on its behalf or through its orders, to immediately vacate its approval of the Water
+3 Board Agreement; or, show cause before this Court, at a time and place then or thereafter
+4 specified by court order, why they should not do so and why a peremptory writ should
+5 not issue; and
+
+6 2. Upon return of the alternative writ and hearing on the order to show cause,
+7 issue a peremptory writ of mandate or such other extraordinary relief as is warranted,
+8 directing Respondent Department of Toxics Substances Control, its officers, agents, and
+9 all other persons acting on its behalf or through its orders, and Real Party in Interest
+10 Boeing, to immediately vacate the Settlement Agreement and further directing
+11 Respondent California Regional Water Quality Control Board, Los Angeles Region, its
+12 officers, agents, and all other persons acting on its behalf or through its orders, to
+13 immediately vacate its approval of the Water Board Agreement; and
+14 3. Award Petitioners their costs and fees; and
+15 4. Grant such other relief as may be just and proper.
+16 Respectfully Submitted,
+
+17 Dated: October 4, 2022 LOZEAU DRURY LLP
+
+18
+
+19
+
+20 ubullly
+Attorney for Petitioners 21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+35
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+VERIFICATION
+
+2
+
+3 I, Jeff Ruch, say:
+am the Director of Pacific PEER, the regional office of Public Employees For
+5 Environmental Responsibility. I am the authorized representative of Public Employees
+
+6 For Environmental Responsibility, one of the petitioners in this action. I have read the
+7 foregoing petition and know its contents. The facts alleged in the above petition are
+
+8 within my own knowledge and I know these facts to be true.
+
+9 I declare under penalty of perjury under the laws of the State of California that the
+10 above is true and correct and that this declaration is executed on September 30, 2022, at
+11 Oakland, California.
+
+12
+
+13 LA 14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+37
+
+VERIFIED PETITION FOR ALTERNATIVE WRIT OF MANDATE
+
+EXHIBIT A
+
+LOZEAU DRURYLLP T 510.836.4200 1939 Harrison Street, Ste. 150 www.lozeaudrury.com
+F 510.836.4205 Oakland, CA 94612 michael@lozeaudrury.com
+
+VIA U.S. MAIL AND E-MAIL
+
+October 3, 2022
+
+Meredith Williams, Director Renee Purdy, Executive Officer
+Lawrence Hafetz, Chief Council California Regional Water Quality Control
+Grant Cope, SSFL Project Director Board, Los Angeles Region
+Department of Toxic Substances Control 320 West 4th Street, Suite 200
+P.O. Box 806 Los Angeles, CA 90013
+Sacramento, CA 95812-0806 Renee.Purdy@waterboards.ca.gov
+Meredith.Williams@dtsc.ca.gov
+Lawrence.Hafetz@dtsc.ca.gov The Boeing Company
+c/o CSC -Lawyers Incorporating Service
+Steven Becker Registered Agent for Service of Process for
+SSFL Project Team Manager The Boeing Company
+Department of Toxic Substances Control
+8800 Cal Center Drive 2710 Gateway Oaks Drive, Suite 150N Sacramento, CA 95833
+Sacramento, CA 95826
+steven.becker@dtsc.ca.gov
+
+Re: Notice of Intent to File Suit Under the California Environmental Quality Act
+Regarding the May 9, 2022 Santa Susana Field Laboratory Settlement Agreement Between DTSC and The Boeing Company and the August 12, 2022 Memorandum of Understanding Between the Los Angeles RWQCB and The Boeing Company
+
+Dear Director Williams, Mr. Hafetz, Mr. Becker, and Executive Officer Purdy:
+
+am writing on behalf of Parents Against Santa Susana Field Lab, Physicians For Social Responsibility/Los Angeles Chapter, Inc., and Public Employees For Environmental
+Responsibility, Inc. ("Petitioners") regarding the two agreements entered into with The Boeing
+Company (*Boeing") - the Settlement Agreement agreed to by the Department of Toxic
+Substances Control ("DTSC") and Boeing on May 9, 2022 ("SSFL Agreement") involving
+remediation activities at the Santa Susana Field Laboratory ("SSFL") and the Memorandum of
+Understanding approved by the Regional Water Quality Control Board, Los Angeles Region
+("Regional Board") on August 11, 2022 and signed by the Executive Officer on August 12, 2022
+("Regional Board MOU") which, among other things, triggered the effectiveness of the DTSC
+Agreement.
+
+In entering into the SSFL Agreement, DTSC has foreclosed consideration of site clean-up
+alternatives that could have been considered by DTSC in its ongoing environmental impact report process to select a clean-up plan for the toxic soil contamination at SSFL. As a result,
+
+Notice of Intent to File CEQA Suit
+DTSC and RWQCB Agreements Relating to Santa Susana Field Laboratory Soil Remediation
+October 3, 2022
+Page 2 of 4
+
+when DTSC entered into the SSFL Agreement, DTSC and its agent, Mr. Hafetz, violated the
+California Environmental Quality Act, Public Resources Code sections 21000 et seq. ("CEQA"), by taking an action that significantly furthered the soil and groundwater remediation project at the SSFL ("SSFL Remediation Project" or "Project") in a manner that a forecloses alternatives or
+mitigation measures that are part of the ongoing review of the SSFL Remediation Project pursuant to CEQA. (See Save Tara V. City of W. Hollywood (2008) 45 Cal.4th 116, 138.) In particular, the SSFL Agreement stipulates that the Human Health Risk-Based Screening Levels ("Health RBSLs") and soil cleanup standards approved by DTSC in 2014 will be superseded with new, less stringent Health RBSLs identified in the SSFL Agreement. The SSFL Agreement also mandates reductions in the clean-up standards by authorizing reductions in soil clean-up
+levels by multiples of 5 and 100 times the already less stringent Health RBSLs. The SSFL
+Agreement further places a cap of 440,000 cubic yards ("cu. yds.") on the volume of soil that
+could be removed from Boeing's areas of responsibility, above which Boeing could challenge with litigation. Lastly, the SSFL precludes consideration of a clean-up alternative that would allow rural residential (agriculture) uses.
+
+These decisions made in the SSFL Agreement foreclose alternative soil remediation
+efforts at the site, including for example removal of soil consistent with the soil clean-up levels and Health RBSLs approved for the site and other alternatives being considered as part of the existing EIR process for the SSFL Remediation Project. By foreclosing those project alternatives, the SSFL Agreement also forecloses mitigation measures that would be considered to address those alternative's impacts. DTSC could not take these actions in furtherance of the Project prior to the completion and certification of an EIR for the Project.
+The SSFL Agreement includes a condition that makes it effective only upon the Regional Board's approval of the Regional Board MOU. As a result, when the Regional Board approved and entered into the Regional Board MOU, the Regional Board violated CEQA by taking an action that significantly furthered the SSFL Remediation Project in a manner that forecloses alternatives or mitigation measures that are part of the ongoing review of the Project pursuant to
+CEQA. The Regional Board could not take this action in furtherance of the Project prior to the
+completion and certification of a legally sufficient EIR, including an evaluation of public comments and selection of the cleanup alternative that will be applied to Boeing's portions of the
+SSFL.
+
+Please take notice, pursuant to Public Resources Code ("PRC") section 21167.5, that
+Petitioners intend to file a Verified Petition for Alternative Writ of Mandate and Complaint for Declaratory and Injunctive Relief (*Petition"), under the provisions of CEQA, PRC §21000 et seq., against Respondents DTSC, Regional Board and, in his official capacity, Lawrence Hafetz ("Respondents") and Real Party in Interest The Boeing Company in the Superior Court for the County of Ventura, challenging the SSFL Agreement and the Regional Board MOU for Respondents' premature approvals of the SSFL Remediation Project prior to completing and
+certifying an EIR for the Project.
+
+Notice of Intent to File CEQA Suit
+DTSC and RWQCB Agreements Relating to Santa Susana Field Laboratory Soil Remediation
+October 3, 2022
+Page 3 of 4
+
+The Petition being filed will request, inter alia, that the Court grant the following relief:
+
+1. Issue an alternative writ directing Respondent DTSC, its officers, agents, and all other persons acting on its behalf or through its orders, and Real Party in Interest Boeing to
+immediately vacate the SSFL Agreement; Issue an alternative writ directing the Regional Board, its officers, agents, and all other persons acting on its behalf or through its orders, to immediately vacate its approval of the Water Board MOU; or, show cause before the Superior Court, at a time
+and place then or thereafter specified by court order, why Respondents and Real Party should not do so and why a peremptory writ should not issue; and
+
+2. Upon return of the alternative writ and hearing on the order to show cause, issue a peremptory writ of mandate or such other extraordinary relief as is warranted, directing
+Respondent DTSC, its officers, agents, and all other persons acting on its behalf or through its orders, and Real Party in Interest Boeing, to immediately vacate the SSFL Agreement and further directing Respondent Regional Board, its officers, agents, and all other persons acting on its behalf or through its orders, to immediately vacate its approval of the Water Board MOU; and
+
+3. Award Petitioners their costs and fees; and
+
+4. Grant such other relief as may be just and proper.
+
+Sincerely,
+MiehuelK Aezpaur
+Michael R. Lozeau
+Lozeau Drury LLP
+
+Notice of Intent to File CEQA Suit
+DTSC and RWQCB Agreements Relating to
+Santa Susana Field Laboratory Soil Remediation
+October 3, 2022
+Page 4 of 4
+
+PROOF OF SERVICE
+
+I, Toyer Grear, declare as follows:
+I am a resident of the State of California, and employed in Oakland, California. I am
+over the age of 18 years and am not a party to the action. My business address is 1939 Harrison St., Suite 150, Oakland, CA 94612.
+On October 3, 2022, I served a true and correct copy of the following document(s):
+Notice of Intent to File Suit Under the California Environmental Quality Act Regarding
+the May 9, 2022 Santa Susana Field Laboratory Settlement Agreement Between DTSC and
+The Boeing Company and the August 12, 2022 Memorandum of Understanding Between
+the Los Angeles RWQCB and The Boeing Company
+
+X BY MAIL: I placed a true copy of the document(s) listed above in an envelope(s) addressed to each of the below-listed parties, sealed the envelope(s), and placed the same with postage thereon fully prepaid, in the United States Mail at Oakland,
+California.
+
+X BY ELECTRONIC MAIL: I caused a true and correct copy of the document(s) listed
+above to be sent by electronic mail from my email address toyer@lozeaudrury.com to
+the addressee(s) at the email address(es) set forth below.
+on the following parties or attorneys for parties, as shown below:
+Meredith Williams, Director Renee Purdy, Executive Officer
+Lawrence Hafetz, Chief Council California Regional Water Quality Control
+Grant Cope, SSFL Project Director
+Department of Toxic Substances Control Board, Los Angeles Region 320 West 4th Street, Suite 200
+P.O. Box 806 Los Angeles, CA 90013
+Sacramento, CA 95812-0806 Renee.Purdy@waterboards.ca.gov
+Meredith.Williams@dtsc.ca.gov
+Lawrence.Hafetz@dtsc.ca.gov The Boeing Company
+c/o CSC - Lawyers Incorporating Service
+Steven Becker Registered Agent for Service of Process for
+SSFL Project Team Manager
+Department of Toxic Substances Control The Boeing Company
+2710 Gateway Oaks Drive, Suite 150N
+8800 Cal Center Drive Sacramento, CA 95833
+Sacramento, CA 95826
+steven.becker@dtsc.ca.gov
+I declare under penalty of perjury under the laws of the State of California, that the foregoing is true and correct. Executed on the 3rd of September, 2022 at Oakland, California.
+Daypr Ausar Toyer Grear
+
+EXHIBIT B
+
+1 Michael R. Lozeau (Cal. Bar No. 142893)
+2 Amalia Bowley Fuentes (Cal. Bar No. 342629) LOZEAU DRURY LLP
+3 1939 Harrison Street, Suite 150
+Oakland, California 94612
+4 Tel: (510) 836-4200 Fax: (510) 836-4205
+5 E-mail: michael@lozcaudrury.com amalia@lozeaudrury.com
+6
+Attorneys for Petitioners PARENTS AGAINST
+7 SANTA SUSANA FIELD LAB PHYSICIANS
+
+8 FOR SOCIAL RESPONSIBILITY/
+LOS ANGELES CHAPTER, INC.,
+
+9 PUBLIC EMPLOYEES FOR ENVIRONMENTAL
+RESPONSIBILITY, INC.
+10
+
+11 SUPERIOR COURT FOR THE STATE OF CALIFORNIA
+
+12 IN AND FOR THE COUNTY OF VENTURA
+
+13 PARENTS AGAINST SANTA SUSANA Case No.:
+14 FIELD LAB, an association; PHYSICIANS
+FOR SOCIAL RESPONSIBILITY/LOS
+15 ANGELES CHAPTER, INC., a non-profit PETITIONERS' NOTICE OF INTENT TO
+
+16 public benefit corporation; PUBLIC PREPARE ADMINISTRATIVE RECORD
+EMPLOYEES FOR ENVIRONMENTAL
+17 RESPONSIBILITY, INC., a District of
+Columbia non-profit corporation,
+18
+Petitioners,
+19 V.
+
+20 CALIFORNIA DEPARTMENT OF TOXIC
+21 SUBSTANCES CONTROL, an agency of the
+State of California, CALIFORNIA
+22 REGIONAL WATER QUALITY CONTROL
+BOARD, LOS ANGELES REGION, an 23 agency of the State of California,
+24 LAWRENCE HAFETZ, in his official
+capacity,
+25 Respondents,
+26
+
+27 THE BOEING COMPANY, a Delaware
+corporation, and ROES I - X, inclusive,
+28 Real Party in Interest.
+
+I
+PETITIONERS' NOTICE OF INTENT TO PREPARE ADMINISTRATIVE RECORD
+
+-
+
+2 Pursuant to Public Resources Code § 21167.6(b)(2), Petitioners Parents Against Santa Susana
+
+3 Field Lab, Physicians for Social Responsibility/Los Angeles Chapter, Inc., and Public Employees for
+
+4 Environmental Responsibility, Inc. (collectively, "Petitioners"), hereby notify all parties that Petitioners
+
+5 elect to prepare the administrative record relating to the above-captioned action requesting that the
+
+6 Court immediately vacate (1) the May 9, 2022 agreement reached between Respondent California
+
+7 Department of Toxic Substances Control and Lawrence Iafetz, in his official capacity, and Real Party
+
+8 in Interest The Boeing Company, and (2) the August 12, 2022 Memorandum of Understanding entered
+
+9 into by Respondent the California Regional Water Quality Control Board, Los Angeles Region and
+
+10 Boeing. Respondents are directed not to prepare the administrative record for this action and not to
+
+11 expend any resources to prepare the administrative record.
+
+12 Dated: October 4, 2022 LOZEAU DRURY LLP
+
+13
+
+14
+
+15
+
+16 HaluaN Ceg ra
+LOZEAU DRURY LLP
+
+17 Attorneys for Petitioners/Plaintiffs
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+PETITIONERS' NOTICE OF INTENT TO PREPARE ADMINISTRATIVE RECORD
+
+1 PROOF OF SERVICE
+
+2 I, Toyer Grear, declare as follows:
+
+3 am a resident of the State of California, and employed in Oakland, California. I am over the
+
+4 age of 18 years and am not a party to the above-entitled action. My business address is 1939
+
+5 Harrison Street, Suite 150 Oakland, CA 94612. October 24, 2022, I served a copy of the following
+
+6 documents:
+
+NOTICE TO ATTORNEY GENERAL - ALTERNATIVE WRIT OF MANDATE
+7
+
+8 X By sending the documents as an electronic mail attachment in PDF format to the e-mail
+
+9 addresses below.
+
+10 X By placing the document listed above in a sealed envelope with postage thereon fully
+prepaid, in the United States mail at Oakland, California addressed as set forth below.
+11
+CEQA Coordinator
+12 Office of the Attorney General
+
+13 Environment Section
+1300 "I" Street
+14 Sacramento, CA 95814-2919
+
+15 CEQA@doj.ca.gov
+
+16
+
+17
+
+18
+
+19
+
+20
+declare under penalty of perjury (under the laws of the State of California) that the foregoing is
+21 true and correct, and that this declaration was executed October 24, 2022 at Oakland, California.
+22
+
+23 Deyer Aaar
+
+24 Toyer Grear
+
+25
+
+26
+
+27
+
+28
+
+3
+
+to Notice to the Attorney General - Case No. 56-2022-00570675-CU-WM-VTA

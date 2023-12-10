@@ -1,0 +1,958 @@
+1° Michael W. Stamp, State Bar No. 72785 Molly E. Erickson, State Bar No. 253198 2 STAMP | ERICKSON
+479 Pacific Street, Suite One 3 Monterey, California 93940 Telephone: (831) 373-1214 4 Facsimile: (831) 373-0242 Erickson@stamplaw.us 5
+
+6 Attorneys for Petitioner, Protect the Process
+
+7
+
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+9 COUNTY OF MONTEREY
+
+10 PROTECT THE PROCESS, Case No. 19CV002885
+11 Petitioner, Filed July 18, 2019
+
+12 V. NOTICE TO ATTORNEY GENERAL
+13 COUNTY OF MONTEREY, BOARD OF
+
+14 SUPERVISORS OF THE COUNTY OF MONTEREY.
+
+15 Respondents,
+
+16 DOES 1-5000,
+
+17 Real Parties, Potential Parties
+
+18 and/or Recipients of Approvals (Pub. Resources Code,
+
+19 § 21167.6.5)
+
+20 To the Attorney General of the State of California:
+
+21 PLEASE TAKE NOTICE, under Public Resources Code section 21167.7 and
+
+22 Code of Civil Procedure section 388, that on July 18, 2019, Protect the Process filed a
+
+23 petition for writ of mandate against the County of Monterey, et al., in the Superior Court
+
+24 of California, County of Monterey.
+
+25 The petition challenges the actions by the County of Monterey and its Board of
+
+26 Supervisors to approve an ordinance, styled Ordinance 5310, on the basis of claims of
+
+27 exemption under the California Environmental Quality Act (Pub. Resources Code,
+
+28 § 21000 et seq.). The ordinance amends and adds to the County Code in ways that
+
+PROTECT THE PROCESS V. COUNTY OF MONTEREY
+CASE NO. 19CV002885 NOTICE TO ATTORNEY GENERAL
+
+1 would have signifi cant growth-inducing impacts, significant cumulative impacts, and
+
+2 significant impacts on the water supply, along with other impacts. The petition alleges
+
+3 the approvals did not comply with the California Environmental Quality Act (CEQA), the
+4 California Coastal Act, the certified Monterey County Local Coastal Plan, California
+
+5 Planning and Zoning Law, the Monterey County General Plan, the Monterey County
+
+6 Code, and other statutes, regulations, plans, codes and ordinances.
+
+7 A copy of the filed petition is attached to this notice.
+
+8
+
+9 Dated: July 24, 2019 STAMP | ERICKSON
+10
+
+11 M A
+12 Molly E. Erickson
+13
+
+14 Attorneys for Petitioner Protect the Process
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+2
+PROTECT THE PROCESS V. COUNTY OF MONTEREY NOTICE TO ATTORNEY GENERAL
+CASE NO. 19CV002885
+
+1' PROOF OF SERVICE
+
+2 STATE OF CALIFORNIA, COUNTY OF MONTEREY
+
+3 lam employed in the County of Monterey, State of California. I am over the age
+4 of 18 and not a party to the within action. My business address is 479 Pacific Street, Suite One, Monterey, California 93940.
+
+5 On July 24, 2019, I served the foregoing document(s) described as follows:
+6 NOTICE TO CALIFORNIA ATTORNEY GENERAL
+7 on the Attorney General in this action as follows:
+
+8 (X' by attaching to the notice a complete copy of the filed petition and placing a true copy thereof enclosed in a sealed envelope with first class postage fully prepaid and addressed as shown below, and depositing it with the United States Postal Service.
+10
+Addressed as follows:
+11
+Xavier Becerra
+12 Sally Magnani
+
+13 Office of the Attorney General 1300 "I" Street Sacramento, CA 95814-2919 14
+
+15 Mailed and executed on July 24, 2019 at Monterey, California.
+
+16 I declare under penalty of perjury under the laws of the State of California that the above is true and correct.
+
+17
+
+18
+
+19 Molly Ericksón
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+3
+PROTECT THE PROCESS V. COUNTY OF MONTEREY NOTICE TO ATTORNEY GENERAL CASE NO. 19CV002885
+
+ELECTRONICALLY FILED BY
+1 Michael W. Stamp, State Bar No. 72785 Molly E. Erickson, State Bar No. 253198 Superior Court of California, .6
+
+2 STAMP | ERICKSON County of Monterey
+479 Pacific Street, Suite One On 7/18/2019 4:49 PM
+3 Monterey, California 93940 By: Marcella Whitehouse, Deputy
+Telephone: (831) 373-1214
+4 Facsimile: (831) 373-0242 Erickson@stamplaw.us 5
+Attorneys for Petitioner,
+6 Protect the Process
+
+7
+SUPERIOR COURT OF THE STATE OF CALIFORNIA 8
+
+9 COUNTY OF MONTEREY
+
+10 PROTECT THE PROCESS, Case No. 19CV002885
+
+11 Petitioner,
+
+12 V. PETITION FOR WRIT OF MANDATE
+13 COUNTY OF MONTEREY, BOARD OF SUPERVISORS OF THE COUNTY OF (Code Civ. Proc., § 1094.5; California
+14 MONTEREY, Environmental Quality Act, Pub.
+
+15 Respondents, Resources Code, § 21000 et seq.;
+Monterey County Local Coastal Plan
+16 DOES 1-5000, certified under the California Coastal Act,
+17 Real Parties, Potential Parties Pub. Resources Code, § 30000 et seq.;
+
+18 and/or Recipients of Approvals (Pub. Resources Code, California Planning & Zoning Law)
+
+19 § 21167.6.5)
+
+20 Protect the Process petitions this Court for a writ of mandate.
+
+21 Introduction
+
+22 Petitioner alleges as follows:
+
+23 1. In June 2018 the Board of Supervisors of the County of Monterey
+
+24 approved an ordinance that was intended to, and would, remove obstacles to growth
+
+25 and would allow new development on vacant lots of record. The County ordinance at
+
+26 issue is ordinance number 5310 ("County ordinance"). The County ordinance was
+
+27 adopted without adequate prior review of the environmental impacts and consistency
+
+28 with laws. Specifically, the County ordinance would allow treatment of contaminated
+
+PROTECT THE PROCESS V. COUNTY PETITION FOR WRIT OF MANDATE
+
+1 water at the "point of use" (POU) or "point of entry' (POE) into a structure, instead of
+
+2 the centralized water treatment that is currently required for water systems that do not
+
+3 meet water quality requirements. The County ordinance would apply to all lots of
+
+4 record in the County.
+
+5 2. The County ordinance would enable development of vacant lots
+
+6 throughout the County and would cause a significant additional demand on the
+
+7 County's limited water supplies. The County has failed to quantify the vacant lots of
+
+8 record in the County and those that could be developed as a result of this County
+
+9 ordinance. The County ordinance also would enable intensification of water use on
+
+10 developed lots by allowing additional dwelling units on lots already developed with one
+
+11 or more dwelling units, including lots within the Cal-Am service area in Carmel Valley on
+
+12 which there is a moratorium on new connections, in the severely overdrafted North
+
+13 County, in the water-short B-8 zone of the Toro area, and in the unincorporated areas
+
+14 served by water pumped from the adjudicated Seaside basin for which areas Cal Am
+
+15 has applied to the CPUC a for a moratorium on new connections.
+
+16 3. Essentially all of the primary aquifers in Monterey County are significantly
+17 overdrafted and have been overdrafted for decades, causing environmental harm: the
+
+18 Salinas Valley basin, all five north Monterey County subbasins, the Laguna Seca basin,
+
+19 the Toro basin, the Carmel Valley aquifer, and the deep aquifer that supplied Marina
+
+20 and Fort Ord. The primary water supplies in Big Sur also are overdrafted during
+
+21 droughts and due to increased demand. No significant solution to any of the areas has
+
+22 received final approvals and none has been constructed. It will be many years before
+
+23 any of the areas obtains relief for existing connections, and the amounts available for
+
+24 new development and new connections remain unknown and uncertain. No
+
+25 significantly effective relief has been proposed or is in process for the Salinas Valley,
+
+26 North County, and Toro basins and for the Marina/Fort Ord area.
+
+27 4. This action is brought in the public interest and challenges the actions of
+
+28 the County of Monterey Board of Supervisors to approve the POU/POE ordinance.
+
+PROTECT THE PROCESS V. COUNTY PETITION FOR WRIT OF MANDATE
+
+1° This action is brought under the California Environmental Quality Act (CEQA), the
+2 Coastal Act and Local Coastal Plan, California planning and zoning law, and other law.
+3 Jurisdiction
+
+4 5. The County ordinance at issue was enacted by the Board of Supervisors
+5 of the County of Monterey and the ordinance would apply throughout the County of
+6 a Monterey. The County is a local agency. Venue is appropriate in the Superior Court of
+7 the County of Monterey and this Court has jurisdiction over this writ action under
+8 section 1094.5 et seq. of the Code of Civil Procedure, and under sections 21168 and
+9 21168.5 of the Public Resources Code.
+
+10 Parties
+11 6. Petitioner PROTECT THE PROCESS is an unincorporated association
+12 under California law. Petitioner and its members are beneficially interested in the way
+13 and manner that land use decisions are made and in the environmental consequences
+14 of development in Monterey County, including the impacts of development in areas with
+15 compromised water quality and/or quantity. One or more of Petitioner's members
+16 participated in the administrative proceedings of the County in writing and in person and
+17 Petitioner has standing to pursue this action.
+18 7. Respondent COUNTY OF MONTEREY is a political subdivision of the
+19 State of California that is the lead agency under CEQA for the County ordinance at
+20 issue, and is responsible for ensuring that its ordinances are consistent with the Local
+21 Coastal Plan, the Coastal Act, the General Plan, and other applicable plans and laws.
+22 8. Respondent BOARD OF SUPERVISORS OF THE COUNTY OF
+23 MONTEREY is the governing board of the County that approved the ordinance at issue.
+24 9. Petitioner is informed and believes and on that basis alleges that each of
+25 the fictitiously named real parties in interest DOES 1 through 5000 may assert some
+26 cognizable interest in the County ordinance such that they may be real parties in
+27 interest. Petitioner does not know their true names and therefore names them by such
+28 fictitious names. Petitioner will seek leave from the Court to amend this petition to
+
+3
+PROTECT THE PROCESS V. COUNTY PETITION FOR WRIT OF MANDATE
+
+1 reflect the true names and capacities of DOES 1 through 5000 once they are
+
+2 ascertained.
+
+3 First Claim
+
+4 Violation of California Environmental Quality Act
+
+5 (Pub. Resources Code, § 21000 et seq.)
+10.
+6 Petitioner incorporates by reference and realleges the paragraphs set
+
+7 forth above as if fully set forth herein. Petitioner further alleges as follows:
+11.
+8 Some small water systems in the Monterey County are out of compliance
+with water quality requirements. These systems have not installed centralized water
+
+10 treatment for existing occupied homes that have legal service connections to the
+
+systems.
+11
+12.
+12 In 2018 or earlier, the County proposed an option for these systems to
+
+13 improve their water quality. This option is called a "point of use" (POU) or "point of
+
+14 entry' (POE) option. This means that the water treatment is provided at the point of use
+
+15 within the structure or the point of entry into a structure, instead of at a centralized
+
+16 location for the entire system that serves all service connections. County staff
+
+17 presentations to the Board of Supervisors on a proposed ordinance emphasized a
+
+18 focus and concern as to existing small water systems that had water quality problems.
+
+13.
+19 As the draft ordinance wound its way through the review process, it grew
+
+20 materially broader in application. It was expanded to apply to much more than existing
+
+21 homes on existing small water systems. The ordinance language was expanded to
+
+22 allow and enable proposed new houses on vacant lots that were not part of an existing
+
+23 water system. These are lots that otherwise are not developable because they do not
+
+24 have a water supply of a quality and/or quantity that meets County code requirements,
+
+25 General Plan policies, and zoning requirements, or other statutes and regulations.
+
+14.
+26 Petitioner has emphasized to the County that Petitioner does not object to
+
+27 the effort by the County to improve water quality of existing residents who depend on
+
+28 legal water systems for domestic water to supply their existing legal residences, and
+
+4
+PROTECT THE PROCESS V. COUNTY PETITION FOR WRIT OF MANDATE
+
+1 where that water is contaminated. Petitioner has made no objection to the use of
+2 POU/POE on a temporary basis for water systems in the inland area for existing
+3 constructed legal homes that are connected to an approved legal existing constructed
+4 water system where the water quality does not meet health standards and the system
+5 has demonstrated that it cannot afford to put in centralized water treatment.
+6 15. Prior to Board approval of the County ordinance, the County staff used
+7 POU/POE to approve new development projects that were not on existing water
+8 systems, or on water systems at all. The County relied on the proposed use of a
+9 POU/POE device to give an after-the fact approval to an illegally constructed house and
+10 illegally constructed water system in Big Sur in the coastal zone. The County relied on
+11 a proposed POU/POE to allow development of a second dwelling unit at a large
+12 property in Carmel Valley that was already getting water through Cal Am for the main
+13 house and guest house, in addition to using water from a private well for the second
+14 dwelling. The County Planning Commission approved a new house on a vacant lot in
+15 the Toro area; prior to the Commission action, the County staff had not informed the
+16 Planning Commission that there was no legal and safe water supply for the new house,
+17 and after the Commission approval the staff used POU/POE to give an after-the-fact
+18. approval to the water supply. The approvals allowed for permanent use of POU/POE.
+19 None required temporary use of POU/POE or a long-term centralized treatment. This is
+20 contrary to the position of the County Health Department, which is to encourage
+21 connections to water systems.
+22 16. The Monterey County Planning Commission did not review the proposed
+23 ordinance. The materials that Petitioner has reviewed to date does not show that the
+24 Monterey County planning department reviewed the ordinance for consistency with
+25 adopted County land use plans and regulations and California planning and zoning law.
+26 17. The County Health Department regulates water systems of a certain size.
+27 The Health Department does not regulate individual lots that contain one or more
+28 dwelling units unless there is a water system at the site. This means that once
+
+5
+PROTECT THE PROCESS V. COUNTY PETITION FOR WRIT OF MANDATE
+
+1 development is approved on an individual lot, there is generally no ongoing oversight by
+
+2 the Health Department of water quality.
+
+3 18. On June 18, 2019, the board of supervisors held a public hearing and a
+
+4 voted to adopt the final POU/POE County ordinance based on claims of CEQA
+
+5 exemptions. Section 8 of the County ordinance states that the ordinance will become
+
+6 effective on the thirty-first day following its adoption.
+
+7 19. The County ordinance includes broad terminology that allows POU/POE
+
+8 throughout the County, including the coastal zone, and for all uses including
+
+9 commercial, industrial and visitor serving, according to the County. The County
+
+10 ordinance allows POU/POE for new development, including multiple dwelling units on a
+
+11 lot. (E.g., §S 15.06.010.I, 15.06.010.J, 15.06.030, 15.06.040.B, 15.06.040.C,
+
+12 15.06.070.)
+
+13 20. The County ordinance relies on an description of "service connection" that
+
+14 is not consistent with section 21.06.1010 of the Monterey County Code. The code
+
+15 limits the definition to "habitable structure." The County ordinance claims to rely on the
+
+16 existing code definition; however, the ordinance significantly expands the definition to
+
+17 include a "parcel which uses potable water from a water system for domestic and not
+
+18 agricultural purposes." (Ordinance, §§ 15.04.020.o, 15.06.020.q.) The County
+
+19 ordinance inconsistently refers to "lot," "lot of record," and "parcel." It is vague and
+20 ambiguous as to whether the potable water can be used anywhere on the "parcel" for
+
+21 agricultural purposes. The County ordinance is vague and ambiguous in several ways,
+22 including as to the term "system," does not define key terms, and does not use
+
+23 consistent terminology. The County ordinance would cause unintended consequences,
+
+24 including property owners using more water from overdrafted sources, and the
+
+25 elimination of incentives to conserve water for the benefit of the aquifer and for other
+
+26 users.
+
+27 21. The County did not do an environmental analysis of the County ordinance
+
+28 under CEQA. Instead, the County claimed the County ordinance was categorically
+
+6
+PROTECT THE PROCESS V. COUNTY PETITION FOR WRIT OF MANDATE
+
+1 exempt from CEQA under Public Resources Code sections 15301, 15302, 15303,
+
+2 15308, and 15330. Petitioner alleges that the County ordinance does not fit within any
+
+3 of the exemption categories claimed by the County, or any other exemption, and even if
+
+4 it did, the cumulative impacts exception would apply. An environmental analysis is
+
+5 required.
+
+6 22. CEQA requires the pre-approval evaluation of growth-inducing impacts.
+7 The County ordinance would remove obstacles to growth and would directly and/or
+
+8 indirectly foster population growth and the construction of new housing and
+
+9 development.
+
+10 23. Section 1 of the County ordinance shows the intent to remove those
+
+11 obstacles and to allow new housing and development. (Findings land J.) These same
+
+12 findings were adopted in Section 6 of the County ordinance as County Code sections
+
+13 15.06.010.l and 15.06.010.J. Those sections, underlined for emphasis, state as
+
+14 follows:
+
+15 - This ordinance is also intended to provide an option
+
+16 for water quality treatment for owners of existing lots
+of record who are seeking approval of new 17 development but whose water from a private onsite
+18 well or existing local small, state small, or small public
+
+19 water system does not meet drinking water standards
+required for issuance of a construction permit. This
+20 ordinance establishes local regulations enabling POU
+21 or POE treatment meeting required standards to
+22 satisfy water quality requirements for permit issuance.
+
+23 J. The County recognizes that the County has a
+shortage of housing and allowing a POU or POE 24 water treatment system may help facilitate new
+25 construction on existing legal lots of record where
+26 water quality does not meet drinking water standards.
+
+27 24. The County Counsel summary references how POU/POE can enable a
+28 construction permit from the County, where the summary states as follows:
+
+7
+PROTECT THE PROCESS V. COUNTY PETITION FOR WRIT OF MANDATE
+
+1 The ordinance also provides that if an individual
+
+2 property owner is seeking new construction on an
+
+3 existing legal lot with water that does not meet
+primary water quality standards, the owner may install
+4 POU or POE treatment as a means of satisfying
+
+5 water quality standards necessary for a construction
+permit for development.
+6
+
+7 25. However, nothing in the County ordinance would require or even
+
+8 encourage affordable housing, social justice, or environmental justice. Nothing in the
+
+9 County ordinance addresses or encourages affordable housing or limits the use of
+
+10 POU/POE to any income level. The new development that the County has approved
+
+11 based on POU/POE devices to date appear to be large market-rate houses in the
+
+12 Toro/San Benancio, Carmel Valley, and Big Sur areas and one second dwelling unit in
+
+13 Carmel Valley on a property compound that includes at least two other units.
+
+14 26. The County ordinance would enable and allow development of new
+
+15 houses, commercial development, industrial development, and more, in all areas of the
+
+16 County where that development currently is not allowed due to water quality issues.
+
+17 That would accommodate growth without prior CEQA compliance. This has been
+
+18 illustrated by the County's administrative approval of POU/POE for individual
+
+19 residences and guest houses, and by pending applications for POU/POE for use on
+
+20 new individual residences on vacant lots. (But see, Pub. Resources Code,
+
+21 § 21083(b)(2), CEQA Guidelines, § 15065(a)(3).) The new development would have
+
+22 foreseeable impacts on the water supply in areas already severely overdrafted for
+
+23 decades. The environmental impacts of other past and proposed projects are relevant
+
+24 to the determination of cumulative impact analysis required for the environmental
+
+25 review of the POU/POE ordinance. (See CEQA Guidelines, § 15064(h)(1)-(3).)
+
+26 27. CEQA requires the evaluation of cumulative impacts. Cumulatively
+
+27 considerable means the incremental effects of a project are considerable when viewed
+
+28 in connection with the effects of other closely related past projects, present projects,
+
+8
+PROTECT THE PROCESS V. COUNTY PETITION FOR WRIT OF MANDATE
+
+1 and reasonably foreseeable probable future projects. Cumulative impacts can result
+2 from individually minor but collectively significant projects taking place over a period of
+3 time. (CEQA Guidelines, § 15355.)
+
+4 28. The County ordinance contains no time limit on use of the POU/POE
+5 treatment, and would not require centralized treatment within a specified period of time.. a
+6 The County ordinance would allow properties to avoid installing centralized system-wide
+7 treatment, which is a material departure from the state regulations allowing POU/POE
+8 for large systems. State regulations allow POU/POE devices on a temporary basis
+9 only, along with demonstrated diligence in seeking centralized system-wide water
+10 treatment.
+
+11 29. The County ordinance would not encourage long term sustainable water
+12 quality. Instead, the County ordinance would enable and entitle new development to
+13 use POU/POE devices in perpetuity with no oversight. Many currently vacant lots do
+14 not have any reasonable and foreseeable chance of access to a water system, much a
+15 less a water system with centralized treatment. The County ordinance also would allow
+16 intensification of water use for multiple dwelling units on a single lot and parcel in ways
+17 not currently allowed, including in water-short areas. There would be no incentive to
+18 bring an entire water system up to code through a centralized treatment, with the
+19 involvement of and to the benefit of all system connections and users.
+20 30. Petitioner seeks in this action to require Respondents, and each of them,
+21 to comply with CEQA, the Coastal Act, and all other applicable law in their actions, to
+22 fulfill their statutory obligations under CEQA, the Coastal Act, and other law to provide
+23 the information and investigation required by law, and to proceed in the manner
+24 required by law. The policy decisions about the future of Monterey County are required
+25 by law to be made by decision makers who are fully informed about the environmental
+26 impacts. By avoiding the informational and procedural mandates of CEQA,
+27 Respondents have not made informed and accountable decisions, and the protected
+28 resources and the physical environment could be harmed as a result.
+
+9
+PROTECT THE PROCESS V. COUNTY PETITION FOR WRIT OF MANDATE
+
+1 31. There are several pending applications for new development of single
+
+2 family homes on vacant lots that would rely on POU/POE and would not be approvable
+
+3 but for POU/POE treatment. Senior County planning staff has stated its intent to
+
+4 approve these applications administrati vely on the 31st day following the Board's
+
+5 adoption of the POU/POE ordinance.
+
+6 32. On June 24, 2019, Petitioner emailed a letter stating its written notice of
+
+7 intent to commence this action to the County of Monterey board of supervisors and its
+
+8 Clerk. Petitioner subsequently had numerous communications with County counsel in
+
+9 an effort to resolve the dispute. On July 3, 2019 Petitioner's counsel and a member of
+
+10 Petitioner met with five senior County officials and County counsel in a further effort.
+11 Petitioner performed all required conditions precedent to filing this action by complying
+12 with the requirement of Public Resources Code section 21167.5 by on July 18, 2019
+
+13 mailing the same written notice of its intent to commence this action to the board of
+
+14 supervisors and its Clerk. (See Exh. A to this petition.)
+
+15 33. On June 24, 2019, the County filed a CEQA notice of exemption for the
+16 County ordinance. This action is timely brought.
+17 34. Petitioner is informed and believes, and on that basis alleges, that as of
+18 July 18, 2019, the time for filing an appeal to the California Coastal Commission had
+
+19 not yet begun, or if it has begun, it has not yet elapsed for the County ordinance as of
+20 the filing of this petition, if an appeal lies. (See 14 Cal. Code Regs., § 1311.)
+
+21 35. Petitioner has standing in this action, and has exhausted, or has not yet
+22 been able to exhaust, or has been excused from, all administrative remedies
+
+23 reasonably and legally available to Petitioner. Petitioner has no plain, speedy, or
+24 adequate remedy in the ordinary course of law.
+
+25 WHEREFORE, Petitioner prays for relief as described below.
+26
+
+27
+
+28
+
+10
+PROTECT THE PROCESS V. COUNTY PETITION FOR WRIT OF MANDATE
+
+1° Second Claim
+
+2 Violation of California Coastal Act (Pub. Resources Code, § 30000 et seq.)
+3 36. Petitioner incorporates by reference and realleges the paragraphs set
+4 forth above as if fully set forth herein, and further alleges as follows:
+5 37. Under the Coastal Act, a Local Coastal Plan includes a county's: (a) land
+6 use plans, (b) zoning ordinances, (c) zoning district maps, and (d) within sensitive
+7 coastal resources areas, other implementing actions. (Pub. Resources Code,
+8 § 30108.6.) Changes in a coastal county's zoning laws that effectively amend a
+9 county's Local Coastal Plan, and which constitute a "development," require approval
+10 from the California Coastal Commission, which oversees land use in California's
+11 Coastal Zone. (Pub. Resources Code, §§ 30108.6, 30510.)
+12 38. The County ordinance here purports to apply to all lots of record in the
+13 County, including lots in the coastal zone and thus would effectively amend the
+14 County's Local Coastal Plan and prior approval for the California Coastal Commission
+15 is required. Respondents have not complied with the Coastal Act, the adopted
+16 Monterey County Local Coastal Plan and the coastal implementation plan because the
+17 County did not obtain the approval of the California Coastal Commission prior to the
+18 Board's approval of the County POU/POE ordinance.
+19 39. The Monterey County Local Coastal Plan includes the Coastal
+20 Implementation Plan, which is title 20 of the Monterey County Code. Title 15 of the
+21 County Code addresses public services. Coastal Implementation Plan section
+22 20.96.010 states that County Code chapter 15.04 is adopted and incorporated into title
+23 20 by reference. (County Code, § 20.96.010.C.1.)
+24 40. Sections 2, 3 and 4 of the County POU/POE ordinance purport to amend
+25 County Code chapter 15.04 and add new sections thereto, and thus amends a chapter
+26 that is incorporated by reference into the local coastal plan. Respondents failed to
+27 obtain prior approval from the Coastal Commission to amend the local coastal plan.
+28
+
+11
+PROTECT THE PROCESS V. COUNTY PETITION FOR WRIT OF MANDATE
+
+1 41. Section 6 of the County ordinance purports to add a new chapter 15.06 to
+2 County Code title 15. Respondents have failed to obtain prior approval from the
+
+3 Coastal Commission to amend the local coastal plan to include new chapter 15.06.
+4 42. Parts of the County ordinance are not consistent with the adopted local
+
+5 coastal plan. The County did not perform a prior environmental review of the
+
+6 inconsistencies and potential impacts before adopting the County ordinance.
+7 43. For each and every one of the reasons stated, Respondents have not
+
+8 complied with the Coastal Act.
+
+9 Third Claim
+
+10 Violation of California Planning and Zoning Law, Monterey County General Plan,
+11 Monterey County Code
+44.
+12 Petitioner incorporates by reference and realleges the paragraphs set
+
+13 forth above as if fully set forth herein, and further alleges as follows:
+45.
+14 Respondents did not comply with policies in the 2010 Monterey County
+
+15 General Plan as to the inland area and did not comply with policies in the 1982 General
+
+16 Plan as to the coastal zone before Respondents approved the County POU/POE
+
+17 ordinance. The applicable general plans contain policies that apply to water quality and
+
+18 water supply. Many of the 2010 general plan policies have not been implemented by
+
+19 the County through implementing ordinances. The County POU/POE ordinance is
+
+20 inconsistent with the general plan policies, including those that have not yet been
+
+21 implemented, and/or may affect the ability of the County to implement those policies.
+
+22 The County ordinance also is inconsistent with parts of the County Code.
+
+23 WHEREFORE, Petitioner prays for entry of judgment as described below.
+
+24 Prayer
+
+25 WHEREFORE, Petitioner prays for:
+
+26 1. An alternative and peremptory writ of mandate directing Respondents, and
+
+27 each of them,
+
+28
+
+12
+PROTECT THE PROCESS V. COUNTY PETITION FOR WRIT OF MANDA TE
+
+(a) To vacate and set aside their approvals of the County ordinance, in
+2 whole or in part, their reliance on the CEQA exemptions, and each
+3 step approved by Respondents, with regard to every aspect of the
+4 County ordinance other than allowing POU/POE devices on a
+5 temporary basis for existing constructed legal homes, not in the
+6 coastal zone, who receive domestic water from an approved legal
+7 existing water system where the domestic water is contaminated
+8 and the system cannot afford to install centralized water treatment;
+9 and
+
+10 (b) In the future to follow California regulations and statutes in
+11 complying with CEQA, the Coastal Act, the County General Plan
+12 and California planning and zoning law in any subsequent action
+13 taken to consider and/or approve each of the projects.
+14 2. Other relief that prevents Respondents' approvals regarding the County
+15 ordinance from taking effect other than as described above, or relief that requires or
+16 results in Respondents' reconsidering, withdrawing or invalidating its decisions of June
+17 18, 2019 referenced above or any portion thereof, or an order severing the
+18 objectionable portions of the County ordinance to better provide appropriate relief to
+19 Petitioner and to the public interest.
+20 3. Reasonable attorney fees and costs pursuant to law.
+21 4. Temporary and permanent injunctive relief.
+
+22 5. Such other relief that the Court considers just and proper,
+23 Dated: July 18, 2019 STAMP | ERICKSON
+24
+
+25 NAI L
+26 Molly E. Efickson
+27
+
+28 Attorneys for Petitioner Protect the Process
+
+13
+PROTECT THE PROCESS V. COUNTY PETTON FOR WRIT OF MANDATE
+
+1 VERIFICATION
+
+2 I, Michael Weaver, declare as follows:
+
+3 I am a member of Protect the Process, petitioner in the above matter, and am
+
+4 authorized to verify this petition. I have read the petition in this matter and know the
+
+5 contents thereof. The same is true of my own knowledge, except as to matters that are
+
+6 therein alleged on information and belief, and as to those matters, I believe them to be
+7 true.
+
+8 I declare under penalty of perjury under the laws of the State of California that
+
+9 the foregoing is true and correct, and that this Verification was executed this 18th day
+10 of July, 2019, in AUNAO Califomia.
+
+11
+
+12 hhses LerSasla
+13 Michael Weaver
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+14
+PROTFCT THE PROCESS V. COUNTY PETTON FOR WRIT OF MANDATE
+
+1 EXHIBITA
+2 PROOF OF SERVICE
+
+3 STATE OF CALIFORNIA, COUNTY OF MONTEREY
+4
+
+5 1 am employed in the County of Monterey, State of California. Iam over the age
+6 of 18, and not a party to the within action. My business address is 479 Pacific St., Suite
+7 One, Monterey, California 93940.
+
+8
+
+9 On July 18, 2019, I served the attached letter providing notice to the County of
+
+10 Monterey and the Monterey County Board of Supervisors of the intent by Protect the
+
+11 Process to initiate litigation. The letter enclosed the June 24, 2019 letter providing
+
+12 notice that had been emailed to the County. The envelope was addressed as follows:
+
+13 John Phillips, Chair, Monterey County Board of Supervisors Valerie Ralph, Clerk of the Board 168 West Alisal St., 1st Floor 14 Salinas, CA 93901
+
+15
+
+16 (X) via the United Stated Postal Service by delivering the envelope to the
+
+17 Monterey post office on Hartnell Street.
+
+18
+
+19 Mailed and executed on July 18, 2019, at Monterey, California.
+
+20 I declare under penalty of perjury under the laws of the State of California that
+the above is true and correct.
+21
+
+22
+
+23
+
+24 Molly Erickson
+25
+
+26
+
+27
+
+28
+
+15
+PROTECT THE PROCESS V. COUNTY PETITION FOR WRIT OF MANDATE
+
+Michael W. Stamp Molly Erickson STAMP ERICKSON 479 Pacifexbibit.Asunontiie
+Attorneys at Law Monterey, California 93940 T: (831) 373-1214
+
+July 18, 2019
+
+By U.S. Mail
+John Phillips, Chair, Monterey County Board of Supervisors Valerie Ralph, Clerk of the Board
+168 West Alisal St., 1st Floor
+Salinas, CA 93901
+
+Subject: Notice of Intent to initiate litigation regarding County ordinance adopted June 18, 2019, on point of use (POU) and point of entry (POE) water treatment
+Chair Phillips and members of the Board:
+
+This letter follows on my letters to you of June 17 and June 18, 2019. This letter
+reiterates the intent of which I informed you by letter emailed to you on June 24, 2019. I enclose a copy of the June 24 letter. My client Protect the Process intends to initiate litigation regarding the adoption of the County ordinance, called ordinance 5310, that amends title 15 of the Monterey County Code regarding POU and POE devices. The lawsuit will be brought under CEQA, the Coastal Act, California planning and zoning
+law, and other applicable laws and plans.
+My client regrets that the efforts to meet and discuss this issue have not yet been successful in reaching resolution in the time available. My client remains willing to
+address the issues promptly.
+
+Thank you.
+
+Very truly yours,
+
+STAMP | ERICKSON
+Molho L Molly Erigkson
+
+Enclosure: June 24, 2019 letter (without attachments)
+
+Protect the Process v. County 16 Petition for Writ of Mandate
+
+Exhibit A, cont'd
+Michael W. Stamp
+Molly Erickson STAMP | ERICKSON 479 Pacific Street, Suite One
+Attorneys at Law Monterey, Califomia 93940 (831) 373-1214
+
+June 24, 2019
+
+Supervisor John Phillips, Chair Monterey County Board of Supervisors 168 West Alisal St., 1st Floor
+Salinas, CA 93901
+
+Subject: Notice of intent to initiate litigation - ordinance 19-018, point-of-use and point-of-entry (POU/POE) water treatment systems, adopted June 18, 2019.
+
+Chair Phillips and members of the Board:
+
+This letter serves as formal notice that Michael Weaver and/or an organization of which he is a member of intend to file a lawsuit in the public interest against Monterey County regarding the adoption of the POU/POE Ordinance by the Board of Supervisors. on June 18, 2019, amending Chapter 15.04 of the Monterey County Code and adding Chapter 15.06 to the Monterey County Code relating to point-of-use and point-of-entry
+water treatment systems.
+
+The intended lawsuit would raise issues raised in the County proceedings, including lack of compliance with the California Environmental Quality Act. (See Pub. Resources Code, § 21167.5.) The ordinance would have unintended consequences that are foreseeable. The ordinance is inconsistent with the 2010 Monterey County General Plan and area plans and LCP. The County has not implemented many of the General Plan's public services policies applicable to water, according to the County's most recent implementation report. (See attached.) You should not be misled by statements to the contrary by County staff. A significant problem of the ordinance is its enabling of new individual single family residences, new offices, new commercial buildings, new industrial buildings, new connections and new development. That is
+growth-inducing and has cumulative impacts that have not been considered in a CEQA analysis. Key aspects of the adopted County ordinance go materially beyond the State law applicable to POU/POEs.
+URGENCY. The matter is urgent. By approving the ordinance the County has started the time running in which a lawsuit must be filed. The County can take prompt action to avoid a lawsuit. The future course of this matter is within the control for the Board. There is no need to rush to adopt an ordinance without a full and accurate
+analysis of the problems presented.
+
+REQUEST. Mr. Weaver asks that the Board of Supervisors rescind the adoption
+of the POE/POU Ordinance and advise me and him of that no later than close of
+business July 8, 2019.
+The Board could easily adopt a substitute ordinance that allows POU/POE on a temporary basis for no more than three years, consistent with State law, that would allow existing customers in existing development on existing water systems to have
+
+Protect the Process v. County 17 Petition for Writ of Mandate
+
+Exhibit A, cont'd
+Monterey County Board of Supervisors
+June 24, 2019
+
+access to safe and clean drinking water. That is the purpose of the State law. Mr. Page 2
+
+Weaver urges the Board to focus on that goal, consistent with the State law and with the statements by the Community Water Center. A POU/POE ordinance should apply to currently existing legal systems and their legal existing connections and legal existing development only, to ensure existing residences and households have safe water.
+
+OFFER TO MEET. Mr. Weaver and Ioffer to meet with the County in the hope of avoiding litigation and resolving the concerns.
+Your prompt attention is appreciated. We remind the Board that the adopted Final EIR for the Salinas Valley Water Project urged the County to aggressively
+implement land use plans in order to address growth Inducement and cumulative impacts. That exhortation is applicable to this situation, and we urge you to comply with
+
+Very truly yours, the County General Plan. Thank you.
+
+STAMP | ERICKSON
+/s/ Molly Erickson
+Molly Erickson
+
+2017 and 2018 annual progress reports for Monterey County General Plan Attachments:
+
+Salinas Valley Water Project Final EIR - excerpts implementation
+
+M M2 DEPARTHENT. SACRAMENTO OFRICS 9 JUL 2€ x -P e 3 C: JUSTIME 5:01W ENER #
+
+Petition for Writ of Mandate 18 Protect the Process v. County

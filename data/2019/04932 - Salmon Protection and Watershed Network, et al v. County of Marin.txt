@@ -1,0 +1,1261 @@
+1 Michael W. Graf (CA Bar No. 136172) Law Offices
+227 Behrens Street
+
+3 El Cerrito, California 94530 Telephone/Facsimile (510) 525-1208 FILED
+
+4 mwgraf@aol.com SEP 26 2019
+Deborah A. Sivas (CA Bar No. 135446) JANES M. KIM, Court Exceutive Officer Alicia E. Thesing (CA Bar No. 211751) MARIN COUNTY SUPERIOR COURT Matthew J. Sanders (CA Bar No. 222757) By: 9 Roary, Deputy 6 ENVIRONMENTAL LAW CLINIC Mills Legal Clinic at Stanford Law School 7 Crown Quadrangle
+
+8 559 Nathan Abbott Way Stanford, California 94305-8610 Telephone: (650) 723-0325 9 Facsimile: (650) 723-4426
+10 dsivas@stanford.edu
+
+11 Attorneys for Petitioners Salmon Protection and Watershed Network and Center for Biological Diversity
+12 IN THE SUPERIOR COURT OF THE STATE OF CALIFORNIA
+13 IN AND FOR THE COUNTY OF MARIN
+14
+
+15 .SALMON PROTECTION AND WATERSHED Case No. Cv 19 03709
+
+16 NETWORK, a Project of TURTLE ISLAND RESTORATION NETWORK, a non-profit VERIFIED PETITION FOR WRIT
+
+17 corporation; and CENTER FOR BIOLOGICAL OF MANDATE
+DIVERSITY, a California non-profit
+18 corporation; [Action Includes Claims under California Environmental Quality Act
+
+19 Petitioners, (CEQA)]
+
+V. 20
+
+21 COUNTY OF MARIN,
+
+22 Respondent.
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+1 I. INTRODUCTION
+
+2 1. Petitioners Salmon Protection and Watershed Network and Center for Biological Diversity
+
+3 (hereafter "Petitioners") allege that Respondent County of Marin ("County") abused its discretion
+
+4 in certifying and approving on August 20, 2019 the Final Supplemental Environmental Impact
+
+5 Report ("SEIR") and 2007 Countywide Plan with Respect to the Application of the 2007 Marin
+6 Countywide Plan's Policies Governing biological and Wetland Resources in San Geronimo Valley
+
+7 (*Project") as contrary to the California Environmental Quality Act ("CEQA"), Public Resources
+
+8 Code § 21000 et. seq.
+
+9 2. Petitioner brings this action due to the likely significant impacts that the Project will have
+
+10 on Coho salmon and steelhead, which are respectively listed as endangered and threatened under
+
+11 the federal Endangered Species Act. The San Geronimo watershed, located in western Marin
+
+12 County, contains critically important, un-dammed habitat for these imperiled species, yet the
+13 Countywide General Plan proposes to allow further incremental development in stream zones that
+
+14 will allow for cumulatively significant degradation of habitat along streams used by Coho and
+
+15 steelhead for spawning and for migrating to and from the Pacific Ocean. Nonetheless, the SEIR
+
+16 falsely claims that such further incremental impacts will be less than significant based on proposed
+
+17 future mitigation measures such as the eventual adoption of an 'Expanded SCA Ordinance' that
+
+18 lack effective performance standards and/or which may never be adopted or implemented.
+
+19 3. Petitioner seeks mandamus relief that the County's approval of the Project constitutes an
+20 abuse of discretion and is contrary to law. Code Civ. Proc. § 1094.5; Pub. Res. Code § 21168.
+
+21 II. PARTIES
+
+22 Petitioner Salmon Protection and Watershed Network ("SPAWN"), established in 1997, is
+
+23 a project of and operates under the fiscal sponsorship of the Turtle Island Restoration Network, a
+
+24 non-profit corporation organized under the laws of the State of California with its principal place
+
+25 of business in Marin County, California. SPAWN has approximately 3,000 members, including
+
+26 over 500 volunteers for its local projects helping protect salmonids and their habitat in Marin
+
+27 County. SPAWN's members share a commitment to the study, protection, enhancement,
+28 conservation, and preservation of salmonids, including Coho salmon and steelhead in Marin
+
+2
+Verified Petition for Writ of Mandate; Case No.
+
+1 County. SPAWN's members spend time in wildlife-viewing activities such as swimming,
+2 snorkeling, kayaking, scuba, birdwatching, spawning fish viewing, nature hikes, and volunteering
+
+3 on a number of SPAWN sponsored restoration projects and educational workshops and forums.
+
+4 SPAWN brings this action on behalf of itself and its adversely affected members, who interests are
+5 adversely affected by development that harms salmonids or their habitat.
+
+6 5. Petitioner Center for Biological Diversity ("CBD") is a non-profit, public interest
+7 corporation with over 40,000 members and offices in San Francisco, California and elsewhere in
+
+8 the United States. CBD and its members are dedicated to protecting diverse native species and
+
+9 habitats through science, policy, education, and environmental law. CBD and their members
+
+10 would be directly, adversely and irreparably harmed by the challenged actions, as described herein,
+11  unless and until this Court provides the relief prayed for in this petition.
+
+12 6. Respondent County of Marin is and was at all times the governmental entity responsible for
+
+13 approving the Project and certifying the SEIR challenged in this action and for the actions giving
+14 rise to this Petition.
+
+15 II. JURISDICTION AND EXHAUSTION OF REMEDIES
+
+16 7. This Court has jurisdiction under California Public Resources Code section 21168.5 and
+
+17 California Code of Civil Procedure section 1085.
+
+18 8. Petitioners have performed all conditions precedent to filing this instant action and have
+
+19 exhausted any and all available administrative remedies to the extent required by law. Petitioners
+
+20 provided comments during the County's hearing process for the SEIR and Project and objected to
+
+21 the County's approval prior to the close of the public hearing for the Project.
+
+22 9. On September 25, 2019, Petitioners' attorney faxed to the County the Notice of
+
+23 Commencement of Action required by Public Resources Code § 21167.5, giving notice of
+
+24 Petitioners' intent to file this Petition. (See Exhibit 1, attached hereto.)
+
+25 10. Petitioners' attorney has served a copy of this a Petition on the Attorney General's office to
+
+26 give notice of Petitioners' intent to bring this proceeding as a private attorney general under Code
+
+27 of Civil Procedure § 1021.5. (See Exhibit 2, attached hereto.)
+
+28 11. Petitioners have no other adequate remedy under law unless this Court grants the requested
+
+3
+Verified Petition for Writ of Mandate; Case No.
+
+1 writ of mandate. In the absence of a writ, the County will permit and approve development
+
+2 projects pursuant to the Project and SEIR in a manner that will have significant and potentially
+
+3 irreversible consequences on Coho salmon and their habitat in Marin County.
+
+4 IV. FACTUAL BACKGROUND
+
+5 A. THE DECLINE OF SALMONIDS IN MARIN COUNTY
+
+6 12. The National Marine Fisheries Service ("NMFS") has identified Marin County as supporting
+
+7 critical Coho salmon and steelhead trout populations. Under the Federal Endangered Species Act
+
+8 ("ESA"), Central California coast Coho salmon were listed as threatened in 1996 and Central
+
+9 California coast steelhead trout were listed as threatened in 1997. Coho salmon were also listed as a
+
+10 threatened species under the California State Endangered Species Act. In 2005, NMFS upgraded the
+
+11 federal ESA listing status for Marin County's Coho salmon population to endangered. NMFS
+
+12 designated critical habitat, which includes the San Geronimo watershed, for Coho salmon in
+
+13 November 1997 and for steelhead in February 2000.
+
+14 13. In September 2012, NMFS issued the Central California Coast Coho Salmon Recovery Plan
+
+15 ("Recovery Plan"), which includes the Coho population in Marin County. Coho salmon on the
+
+16 Central California Coast are in an "extinction vortex," as the population is "gravely close to
+
+17 extinction" and its "dire status….requires immediate and focused action." Recovery Plan at 48-49.
+
+18 Population numbers have fallen precipitously over the last several decades, from hundreds of
+
+19 thousands to an estimate of only 500 wild adult fish in 2009. Id. at 55. In the San Francisco Bay area,
+
+20 "[u]rbanization is a prominent factor in the decline." Id. at 38.
+
+21 14. The Central California Coast evolutionarily significant unit ("ESU") of Coho salmon is one of
+
+22 the National Oceanic and Atmospheric Administration's ("NOAA") Fisheries' Species in the
+
+23 Spotlight. These species were selected because they all are listed as endangered, their populations are
+
+24 declining, and they are considered a recovery priority No. 1. A recovery priority No. 1 species is one
+
+25 whose extinction is almost certain in the immediate future because of rapid population decline or
+
+26 habitat destruction. Additionally, it is a species that conflicts with construction, other developmental
+
+27 projects, or other forms of economic activity. NOAA Fisheries states" "We understand the limiting
+
+28 factors and threats to these species, and we know that the necessary management actions have a high
+
+4
+Verified Petition for Writ of Mandate; Case No.
+
+1 probability of success. Our goal is to focus our recovery actions and motivate partners and interested
+
+2 citizens to work with us on these actions to turn this situation around."
+
+3 15. The San Geronimo watershed is part of the greater Lagunitas Creek watershed, which is
+recognized as having one of the largest Coho populations remaining in the state. Protection and
+
+5 recovery of this population is critical to recovery of the Central California Coast Coho salmon
+
+6 population. The Lagunitas Creek watershed includes San Geronimo Creek and the surrounding San
+Geronimo watershed, which includes 30-50% of the entire Lagunitas Coho population. The San
+
+8 Geronimo watershed offers potentially valuable and critical habitat for salmonids such as Coho and
+
+9 steelhead because it is one of the only remaining un-dammed watershed in Marin County. In the
+
+10 Lagunitas Creek watershed, the 2007/2008 Coho run "was probably the smallest run observed since
+
+11 annual surveys began in 1995," with "a 70 percent decline in the number of redds (gravel "nests"
+
+12 where eggs are laid) compared [to] the parent generation." Recovery Plan at 40. "Remarkably, as bad
+
+13 as the 2007/2008 spawning run was, the 2008/2009 spawning run was worse, with only 40 fish
+
+14 returning from the ocean." Id. Subsequent surveys have shown further declines in spawning runs
+
+15 through 2011. Id. at 386. The Recovery Plan identifies residential and commercial development along
+
+16 streams as a "very high" threat to Coho survival and recovery. Id. at 396, Table 2.
+
+17 16. In June 2000, NMFS adopted a rule prohibiting take of Coho salmon under section 4(d) of
+
+18 the Endangered Species Act, and issued a report entitled: "A Citizen's Guide to the 4(d) Rule for
+
+19 Threatened Salmon and Steelhead on the West Coast." The Citizen's Guide concludes that municipal,
+
+20 residential, commercial and industrial development has a significant potential to degrade habitat and
+
+21 injure or kill salmon or steelhead in a variety of ways.
+
+22 17. In addition, a joint study undertaken by the FishNet 4C program - the Fishery Network of the
+
+23 Central California Coastal Counties -- entitled "Effects of County Land Use Policies and Management
+
+24 Practices on Anadromous Salmonids and Their Habitats," found that development could have
+
+25 significant adverse effects on salmonids:
+
+26 Unconstrained development along these streams, leading to increased impervious areas,
+
+27 decreases the infiltration of storm water, which decreases the groundwater levels, leading to
+detrimental effects on the fish population. Similarly unconstrained removal of riparian
+28 vegetation can lead to removal of important filters to sediment, nutrients and some heavy
+
+5
+Verified Petition for Writ of Mandate; Case No.
+
+metals. Development next to a creek can result in oil, grease, soap, pesticides, fertilizers and P other household hazardous waste entering the stream. Importantly, these creeks are dynamic
+
+2 and move over time; sometimes, slowly and sometimes quickly and precipitously. Conventional zoning setbacks do not and can not take this into account. Therefore, when the
+creeks inevitably move, the structures and other improvements will be imperiled leading to requests by property owners to reinforce the creek bank and further removal of important
+riparian vegetation, which could lead to detriment to the salmonid populations.
+
+5 B. THE COUNTY'S ADOPTION OF THE 2007 COUNTYWIDE PLAN
+
+6 18. In November 2007, the County approved the updated Countywide Plan ("CWP"). The CWP
+
+7 designated stream conservation areas along perennial and intermittent streams, and along ephemeral
+
+8 streams that a) support riparian vegetation for a length of 100 feet or more, and/or b) support special
+
+9 status species and/or a sensitive natural community type, such as native grasslands, regardless of the
+
+10 extent of riparian vegetation associated with the stream.
+
+11 19. For Coastal, Inland Rural, and Baylands Corridors, including in the San Geronimo Watershed,
+
+12 the CWP requires a minimum 100-foot Steam Conservation Area ("SCA") setback, which "shall be
+
+13 extended to include a buffer of 50-feet landward from the edge of riparian vegetation associated with
+
+14 the stream." CWP at BIO-4.
+
+15 20. The CWP allows for development to occur in the SCA if: 1) a parcel falls entirely within the
+
+16 SCA; or 2) development on any portion of the parcel outside the SCA is either infeasible or would
+
+17 have greater impacts on water quality, wildlife habitat, other sensitive biological resources, or other
+
+18 environmental constraints. The CWP states that development applications shall not be permitted if
+
+19 the project 1) adversely alters hydraulic capacity; 2) causes a net loss in habitat acreage, value or
+
+20 function; or 3) degrades water quality. CWP at BIO-4.2.
+
+21 21. The CWP contains programs that the County is supposed to implement after adoption of the
+
+22 CWP. BIO-4.a states that the County should adopt an ordinance that "could consider modest
+
+23 additions to existing buildings that would not result in significant impact to riparian resources, such as
+
+24 additions that do not exceed 500 square feet of total floor area and which do not increase the existing
+
+25 encroachment into the SCA." BIO-4.b requires the County to "Reevaluate SCA Boundaries," with the
+
+26 only limitation being that the SCA should encompass "all woody riparian vegetation and be of
+
+27 sufficient width to filter sediments and other pollutants before they enter the stream channel."
+
+28 22. In addition, the CWP requires the County to develop Habitat Monitoring Programs by working
+
+6
+Verified Petition for Writ of Mandate; Case No.
+
+1 "with other agencies to develop a program to monitor trends in habitat loss, protection, and
+
+2 restoration" to "[e]stablish cumulative thresholds for habitat loss for particularly vulnerable natural
+communities and use as a basis for modifying standards for mitigation." CWP at BIO-1.b.
+
+23. The County released its draft EIR for the CWP in January 2007. The EIR analyzed
+
+5 development impacts to sensitive wildlife such as Coho and steelhead principally through projections
+
+6 of new housing units and increases in nonresidential floor area (or "buildout") in large planning areas.
+
+7 the EIR assumed that 16.9 percent of the 5,391 projected new county-wide housing units under the
+
+8 CWP (913 units) will be developed on parcels in sensitive streamside areas.
+
+9 24. The EIR analyzed cumulative impacts to biological resources, recognizing that development
+
+10 under the CWP would unavoidably decrease the amount and connectivity of existing habitat. In
+
+11 particular, projected development "would result in a substantial reduction in existing habitat, would
+
+12 contribute to further fragmentation of remaining natural areas, and could substantially interfere with
+
+13 the movement of native fish and wildlife species." These effects on "wildlife habitat and movement
+
+14 opportunities" would cause cumulative impacts to special-status Coho and steelhead as well as
+
+15 "sensitive natural communities, and streams" that would be significant and "unavoidable.
+
+16 25. The EIR also concluded that land uses allowed under the CWP could significantly impact
+
+17 sensitive natural communities, including the riparian habitat that SCAs are designed to protect.
+
+18 Specifically, insufficient setbacks and other human activity could "contribute to incremental loss and
+
+19 incursion into the natural community types, again compromising their habitat value and eventually
+
+20 preventing natural regeneration." The EIR concluded that development under the CWP will result in
+
+21 significant impacts to sensitive natural communities, but indicated that obtaining funding for CWP
+
+22 Implementing Program BIO-1.b -requiring the development of cumulative thresholds for habitat loss
+
+23 based on monitoring - would reduce this impact to less-than-significant.
+
+24 26. The EIR concluded that many land uses, including "construction of a single family home,
+
+25 garage and other associated buildings, or grading for a new driveway," would "require only a
+
+26 ministerial permit application and may receive little or no review" by officials. As a result, even with
+
+27 implementation of CWP policies and programs, impacts to special-status species will be significant,
+
+28 including "direct loss of individuals or localized populations, elimination or degradation of essential
+
+7
+Verified Petition for Writ of Mandate; Case No.
+
+1 habitat, and isolation of disjunct occurrences or subpopulations due to habitat fragmentation."
+
+2 27. To avoid this significant impact, the EIR contemplated additional mitigation measures that
+
+3 "would be required to ensure the protection of any sensitive resources" by "achieving 'no net loss'
+
+4 of sensitive habitat acreage, values and functions." The EIR also proposed to "[c]ontinue to
+
+5 actively participate in the FishNet 4C program and work cooperatively with participating agencies
+
+6 to implement recommendations to improve and restore aquatic habitat for listed anadromous fish
+
+7 species and other fishery resources." The EIR concluded that, with the addition of these policies,
+
+8 the impacts on special status species will be reduced to less-than-significant.
+
+9 28. On November 6, 2007, the County certified the Final EIR for the CWP, approved CEQA
+
+10 findings and a Mitigation Monitoring and Reporting Plan, and adopted the CWP.
+
+11 29. The County's CEQA findings for the CWP state that impacts to special status species,
+
+12 including Coho salmon and steelhead, will be insignificant due to mitigation measures to be devised
+
+13 and the County's participation in the FishNet4C program, but that impacts to "Wildlife Habitat and
+
+14 Movement Opportunities" and impacts to "Sensitive Natural Communities" - including stream
+
+15 riparian habitat - will be "significant and unavoidable." The County made this last finding based on
+
+16 its determination that full funding for Program BIO-1.b - the development of a habitat monitoring
+
+17 program to establish cumulative thresholds for habitat loss - was not a feasible mitigation.
+
+18 E. TOLLING AGREEMENT AND POST PLAN APPROVAL ACTIONS BY COUNTY
+
+19 30. Following approval of the CWP, the County and SPAWN entered into a series of tolling
+
+20 agreements, which extended the 30-day CEQA statute of limitations under Public Resources Code §
+
+21 21167 until September 14, 2010. The tolling agreement negotiations focused on a potential
+
+22 settlement whereby the County would 1) undertake additional CEQA cumulative impacts review for
+
+23 salmonid species and their habitat and then 2) adopt a streamside conservation area ordinance to
+
+24 implement development standards consistent with the results of that analysis.
+
+25 31. During this time period, the County adopted a development moratorium, based on the
+
+26 following findings: (1) The greater Lagunitas Creek watershed has lost 49% of its salmonid habitat
+
+27 due to urbanization and dam construction; (2) The 2007-08 spawning salmon numbers were at their
+
+28 lowest in twelve years of measurement; (3) Streamside development leads to increased impervious
+
+8
+Verified Petition for Writ of Mandate; Case No.
+
+1 areas, decreased infiltration of storm water, and decreased groundwater levels; (4) The loss of riparian
+
+2 vegetation can lead to increased sedimentation, increased stream temperatures, and loss of woody
+
+3 debris for in-stream habitat; (5) Studies are urgent and necessary to determine development
+
+4 restrictions; (6) Urgent action is required in view of the precipitous drop in the level of spawning
+
+5 populations; and (7) A development moratorium is imperative to protect riparian buffer zones.
+
+6 32. The County contracted with outside consultants to assess the existing conditions of the San
+
+7 Geronimo watershed and to analyze the cumulative impacts of development within streamside areas
+
+8 in the watershed. The County's January 23, 2008, Request for Proposals outlined the study objectives
+
+9 as follows: (1) determine the existing conditions of the San Geronimo watershed; (2) identify
+
+10 watershed health metrics; (3) develop a watershed enhancement plan; (4) conduct public outreach;
+
+11 and (5) prepare CEQA documentation for the enhancement plan in the form of an Initial Study. In
+
+12 June 2008, the County entered into a contract with outside consultants to prepare a "Salmon
+
+13 Enhancement Plan."
+
+14 33. In October 2008, the County commissioned another outside consultant to prepare an "Updated
+
+15 Cumulative Impact Evaluation" to assess development impacts to accompany the Salmon
+
+16 Enhancement Plan. By June 2011, that cumulative impact evaluation was "substantially completed,"
+
+17 and the only remaining scope of work was preparation of the necessary CEQA documentation to
+
+18 approve a supplement to the EIR for the 2007 Countywide Plan. In February 2012, however, the
+
+19 Assistant Director of the County Community Development Agency testified in court proceedings that
+
+20 the County was still "working on" the Updated Cumulative Impact Evaluation.
+
+21 34. The outside consultants completed the Salmon Enhancement Plan ("SEP") in February 2010.
+
+22 The SEP consists of two documents: an "Existing Conditions" report and a "Guidance Document."
+
+23 The Existing Conditions report presents a detailed discussion of habitat issues in the watershed,
+
+24 ranging from a deficiency of instream large woody debris to excess fine sediment and decreased
+
+25 riparian canopy and bank cover. It also identifies impervious developed surfaces in the watershed as a
+
+26 significant problem which already causes significant impacts on salmonid habitat and concludes that
+
+27 impervious surfaces are more common in the SCA than elsewhere in the San Geronimo Valley.
+
+28 35. The County formally adopted the Guidance Document portion of the SEP in February 2010.
+
+Verified Petition for Writ of Mandate; Case No.
+
+- The Guidance Document concludes that action is necessary to correct adverse habitat conditions in
+
+2 the San Geronimo watershed, but leaves the formulation of an action plan, and the environmental
+
+3 compliance documents, to a later stage. The Guidance Document recommends policies to protect
+
+4 salmonid habitat, including no net increase in effective impervious area, no net increase in runoff
+
+5 from new or re-development, and no net loss in riparian habitat. However, the Guidance Document
+
+6 did not adopt any enforceable regulatory criteria for how to effectively implement these
+
+7 "recommendations," which depend on "voluntary implementation by homeowners."
+
+8 36. Together, the Existing Conditions report and the Guidance Document highlighted the ongoing
+
+9 impacts of current and future streamside development and identified the gaps in both the CWP and
+
+10 the accompanying EIR. However, neither document was adopted through a CEQA-compliant review.
+
+11 Neither implemented concrete mitigation measures or oversight procedure.
+
+12 E. LITIGATION ON COUNTYWIDE PLAN
+
+13 37. The tolling agreement negotiations did not lead to the adoption of a stream protection
+
+14 ordinance or the necessary supplemental CEQA review. Thus, following expiration of the tolling
+
+15 agreement deadline, SPA WN commenced litigation challenging the adequacy of the EIR prepared for
+
+16 the CWP in September 2010. See Marin County Superior Court Case No. CIV 1004866. SPAWN's
+
+17 lawsuit alleged five CEQA claims based on the County's 2007 adoption of the CWP.
+
+18 38. On or about October 20, 2011, SPAWN amended its petition to add a sixth cause of action a
+
+19 challenging the County's failure to adopt a streamside conservation ordinance, which was supposed to
+
+20 occur by no later than November 2011 according to the CWP implementation measure timetable.
+
+21 39. The trial court denied SPA WN's Petition on April 24, 2012, but nevertheless enjoined further
+
+22 development until the County adopted the required SCA ordinance to implement the CWP policies.
+
+23 40. Following judgment, SPAWN filed an appeal in the First District Court of Appeal (Appellate
+
+24 Case No. A137062.) The County filed its own cross-appeal on the trial court's injunction ruling.
+
+25 41. The Court of Appeal reversed the trial court's denial of SPAWN'S Petition, holding that the
+
+26 County had failed to conduct an adequate cumulative impact analysis of General Plan buildout:
+
+27 ['T]he [EIR] provides no help to decision-makers or the public to understand the likely
+
+28 consequences, or at least the range of potential consequences, of a buildout within the watershed of the scope described in the countywide plan. Providing that long-term view is the
+
+10
+Verified Petition for Writ of Mandate; Case No.
+
+point of a cumulative impact analysis and, as indicated above, the ability to make that analysis is one of the advantages of using a program EAR. ....the program EIR that is now before us fails to provide the information-if no more than rationally based estimates--necessary to make informed judgments about the advisability, so far as the San Geronimo Valley watershed is concerned, of adopting the countywide plan. In approving the EIR despite its failure to provide this critical information, the county prejudicially abused its discretion by failing to proceed in the manner required by CEQA.
+5 42. The Court of Appeal also addressed the EIR's conclusion that "[w]hile adoption and
+
+6 implementation of the . policies and programs [described in the 2007 CWP] would substantially
+
+7 reduce adverse effects to special status species in unincorporated Marin County, continued
+
+8 participation in the FishNet 4C program and implementation of four programs in the [2007 CWP]
+would be required to reduce this impact to a less-than-significant level." The Court found this
+
+10 mitigation to be inadequate, as FishNet was "a strictly voluntary program," that "the County [was]
+
+11 not required to adopt their recommendations," and that "merely committing to 'actively participate' in
+
+12 the program and cooperate with other agencies [was] not a sufficient mitigation measure to justify a
+
+13 finding that the significant impact of buildout on threatened salmonids will be mitigated to a less- a
+
+14 than-significant level." The Court also held that Mitigation Measure 4.6-1 is thus "deficient in
+
+15 multiple respects" as it "defines no specific measures to be taken to reduce the impact of buildout on
+
+16 the threatened fish species, nor does it specify performance standards by which to evaluate measures
+
+17 that may be recommended by FishNet 4C," nor has the county committed itself "to adopt
+
+18 recommendations made by FishNet 4C, whatever those may be." The Court concluded that
+
+19 Mitigation Measure 4.6-1 unlawfully deferred the formulation of meaningful mitigation measures to
+
+20 abate this significant impact and thus failed to comply with the mandates of CEQA.
+
+21 43. On the County's cross appeal, the Court held that SPA WN's sixth cause of action requiring the
+
+22 County to adopt its promised SCA ordinance to implement the 2007 General Plan policies to protect
+
+23 salmonids and their habitat did not state a viable claim. The Court held that "it remains within the
+
+24 discretion of the county to determine when to enact the required ordinance, and therefore that there is
+
+25 no basis to issue a writ of mandate."
+
+26 44. The Court of Appeal reversed the trial court judgment, ordering that a writ be issued "directing
+
+27 the County to set aside its approval of the 2007 CWP and certification of the related EIR, pending
+
+28 preparation of a supplemental EIR that analyzes cumulative impacts in conformity with Guidelines
+
+11
+Verified Petition for Writ of Mandate; Case No.
+
+1 section 15130, subdivision (b) and this opinion, and that describes mitigation measures in conformity
+
+2 with Guidelines section 15126.4 and this opinion or makes other findings in conformity with
+
+3 Guidelines section 15091.3
+
+4 45. The Peremptory Writ of Mandate was entered on April 2, 2015. The Writ directs the County
+
+5 to set aside its approval of the 2007 CWP and certification of the related EIR, pending preparation of
+
+6 a supplemental EIR that analyzes cumulative impacts and describes mitigation measures in
+
+7 conformity with CEQA. The writ also states that this Court will retain jurisdiction over the County's
+
+8 proceedings by way of a return to this peremptory writ of mandate until the Court has determined that
+the County has complied with the relevant provisions of CEQA.
+
+10 F. COUNTY'S PREPARATION AND CIRCULATION OF SUPPLEMENTAL EIR
+
+11 THAT RELIES ON FUTURE MITIGATION TO AVOID SIGNIFICANT IMPACTS
+TO SALMONIDS IN SAN GERONIMO VALLEY.
+12 46. Following the Court of Appeal's decision, the County undertook preparation and circulation of
+13 its 2007 Marin Countywide Plan Supplemental EAR with a Focus on Potential Cumulative Impacts to
+14 Salmonids in San Geronimo Valley ("SEIR"). A Draft SEIR was circulated for a 45-day public
+15 review period from May 1, 2017 through June 15, 2017. A Final SEIR was circulated for further
+16 public review and comment from August 03, 2018 through October 8, 2018.
+17 47. The SEIR determines that impacts to salmonids and their habitat in San Geronimo Valley due
+18 to the Project will be potentially significant in two ways. One potentially significant impact identified
+19 by the SEIR (Impact 5.1) relates to "Reduced Survival of Fry and Juvenile Salmonid Life Stages Due
+20 to Reduced Winter Rearing Habitat Quality." The SEIR concludes that the "[l]ow abundance and
+21 quality of overwintering habitat has been identified as the freshwater habitat condition that is most
+22 likely limiting salmonid production in Lagunitas Creek and its tributaries, including the San
+23 Geronimo Creek watershed." It also states: "The primary causes of the degraded winter rearing
+
+24 babitat are simplification of instream habitat, loss of off-channel (e.g., floodplain) habitat, and
+25 reduced connectivity between the stream channels and the little remaining floodplain. With the
+26 reduction in winter rearing habitat, juvenile salmonids have less available refuge from high winter
+27 flows, increasing their susceptibility to downstream displacement and reducing survival. In
+28
+
+12
+Verified Petition for Writ of Mandate; Case No.
+
+1 combination, the cumulative effects of historical and current stressors on winter rearing habitat quality
+
+2 are significant. Additional development in the San Geronimo Creek watershed under the Proposed
+
+3 Project would increase the number of developed parcels, units, and [total impervious area] beyond
+
+4 existing conditions."
+
+5 48. The SEIR identifies such impacts to winter-rearing habitat as potentially significant:
+
+6 Under the Proposed Project, alterations in hydrodynamic processes resulting from the
+
+7 projected increases in TIA and other urbanization effects would, in combination, make a cumulatively considerable contribution to increased winter storm flow magnitude and
+8 frequency, in turn causing additional habitat simplification and further compromising the
+ability of rearing Coho salmon to find adequate refuge during high flows. Continued degradation of winter rearing habitat in the San Geronimo Creek watershed would conflict
+10 with Policy BIO-2.1 Include Resource Preservation in Environmental Review, which calls for
+"no net loss" of sensitive habitat acreage, values, and function (Table 2-1), and would make a
+11 cumulatively considerable contribution to the existing significant cumulative effect on Coho
+12 salmon winter rearing success that has resulted from previous and current land and water uses. Given the currently low abundance of LWD, functional floodplains, and other complex habitat
+
+13 that would provide shelter and velocity refuge during high flows, these effects are likely to have adverse impacts on the ability of rearing juvenile Coho salmon to occupy preferred
+14 habitat and would increase the frequency with which they experience downstream displacement resulting in low survival, injury, or mortality. As a result, the Proposed Project
+15 would have a potentially significant cumulative impact on winter survival of juvenile Coho
+
+16 salmon. Equivalent impacts on steelhead are also likely...
+
+17 49. To address this impact, the SEIR identifies two mitigation measures. First, the SEIR proposes
+
+18 Mitigation Measure 5.1-1, the County's adoption of "an expanded SCA ordinance," a mitigation
+
+19 measure similar to the one proposed by the County in the 2007 plan that was to be completed in 2011.
+
+20 The SEIR proposes that the ordinance will be completed within five years of Final SEIR certification,
+
+21 or by August 20, 2024. The SEIR describes this measure as including:
+
+22 Expanding the set of development activities within the SCA that require a discretionary
+
+23 permit;
+
+24 Enacting consistent permit/site assessment requirements for development;
+
+25 Requiring site assessments to be conducted by a qualified professional;
+
+26 Requiring Standard Management Practices (SMPs) for development in the SCA, including:
+
+27 1) replanting of riparian trees at 2:1 or 3:1 ratio; 2) drainage and runoff dispersal requirements
+
+28 for new or replaced impervious areas; and 3) erosion and sediment control requirements;
+
+13
+Verified Petition for Writ of Mandate; Case No.
+
+P Requiring that discretionary permits for development within the SCA include low impact
+
+2 development (LID) practices and designs that are demonstrated to prevent offsite discharge
+from events up to the 85th percentile 24-hour rainfall event.
+
+4 50. Second, the SEIR proposes Mitigation Measure 5.1-2, under which the County will require
+
+5 "Biotechnical Techniques and Salmonid Habitat Enhancement Elements for All Bank Stabilization
+
+6 Projects." These are: "Specific criteria, design specifications, and guidelines for individual bank
+
+7 stabilization and instream habitat enhancement projects shall be developed in coordination with and
+
+8 approved by CDFW, with input from agencies such as NMFS and other willing participants, as
+appropriate for project permitting.'
+
+10 51. Based on these Mitigation Measures 5.1.1 and 5.1.2, the SEIR finds that "the impacts of the
+
+11 Proposed Project on salmonid winter rearing habitat would be unlikely to contribute considerably to
+
+12 the existing cumulative effects that limit survival and production in the watershed. As a result, the
+
+13 Proposed Project with these mitigations would have a less than significant impact, both individually
+
+14 and cumulatively, on winter survival of juvenile salmonids in the San Geronimo Creek watershed."
+
+15 52. The SEIR also identifies a second potentially significant impact (Impact 5.2) relate to
+
+16 "Reduced Salmonid Spawning Success Due to Elevated Sediment Delivery and Increased High Flow
+
+17 Frequency and Magnitude." The SEIR describes this impact as follows:
+
+18 The depth of streambed scour is directly related to the force exerted by flowing water on the
+
+19 streambed, the presence or absence of flow obstructions or channel restrictions (e.g., LWD,
+vegetation, bank armoring, bridge abutments), and the amount and size of sediment moving
+20 through the channel... recent evidence indicates that the likelihood of redd scour in the San Geronimo Creek watershed is high, particularly in Woodacre Creek and the lower mainstem
+21 of San Geronimo Creek....The land uses and altered watershed processes that accompany urbanization (Section 3.2) have increased sediment delivery to streams in the San Geronimo 22 Creek watershed and contributed to an increased frequency and depth of streambed
+
+23 mobilization and redd scour (Section 3.6.1). Average annual sediment delivery to San Geronimo Creek from 1983-2008 was greater than in any other Lagunitas Creek subbasin
+24 (Section 3.6.1). Elevated fine sediment deposition in San Geronimo Creek is in part evidenced by spawning gravel embeddedness, which at 40-60% currently exceeds the target of <25% 25 gravel embeddedness recommended in the Salmonid Enhancement Plan (Table 3-2) to support
+
+26 successful egg incubation and emergence.
+
+27 53. The SEIR also identifies that future predicted development in the watershed will be
+
+28 substantial, noting that "additional development in the San Geronimo Creek watershed would result in
+
+14
+Verified Petition for Writ of Mandate; Case No.
+
+1 up to 323 improved parcels (22% increase) and 43.6 additional acres of [total impervious surface
+
+2 area] (14% increase)." The SEIR identifies that this "cumulative contribution to the increasingly
+
+3 modified hydrology of the San Geronimo Creek watershed and to an increased risk of redd scour
+
+4 would be considerable. Analysis of hydrologic response to increasing urbanization, as indicated by the
+
+5 projected trend in wet-season flow reversals (Figure 5-6; see also Section 3.3), strongly suggests that
+
+6 development under the Proposed Project, including development outside of the SCA, would continue
+
+7 to increase flow flashiness and the magnitude of winter storm flows in the watershed. Such changes
+
+8 would further increase the frequency and magnitude of redd scour, thus making a cumulatively
+considerable contribution to the existing significant adverse impacts on spawning success." In
+
+10 addition, climate change "can be expected to magnify these effects." Based on this analysis, the SEIR
+
+11 finds these impacts to spawning success as potentially significant:
+
+12 Increased redd scour resulting from further alterations to hydrology and additional sediment
+
+13 inputs under the Proposed Project would conflict with Policy BIO-2.1 Include Resource
+Preservation in Environmental Review, which calls for "no net loss" of sensitive habitat
+
+14 acreage, values, and function (Table 2-1).... Given the numerous existing stressors and constraints on salmonid production in the San Geronimo Creek and Lagunitas Creek
+15 watersheds, an increased risk of redd scour in San Geronimo Creek and its tributaries is likely
+
+16 to make a cumulatively considerable contribution to existing adverse effects on spawning
+success for anadromous salmonids. Such adverse effects would jeopardize recovery efforts,
+17 which include a projected future recovery trajectory with annual increases in Coho salmon and steelhead abundance watershed-wide (NMFS 2012, 2015). As a result, the Proposed Project
+18 would have a potentially significant cumulative impact on Coho salmon, steelhead, and
+
+19 Chinook salmon in the San Geronimo Creek watershed due to reduced spawning success.
+
+20 54. To address this impact, the SEIR identifies two mitigation measures. First, the SEIR proposes
+
+21 that the provisions of the Expanded SCA Ordinance described under Mitigation Measure 5.1-1 will
+
+22 avoid or minimize the hydrologic effects and stream sedimentation associated with potential future
+
+23 development in the SCA, helping to reduce the potential for redd scour and degradation of salmonid
+
+24 winter rearing habitat. Second, the SEIR adopts Mitigation Measure 5.2.1, pursuant to which the
+
+25 County shall adopt changes to existing stormwater, LID, erosion and sediment control requirements
+
+26 within the San Geronimo watershed and outside of the SCA as follows:
+
+27 Development projects requiring a permit shall be required to adhere to LID practices and
+
+28 designs specified in Mitigation Measure 5.1-1;
+
+15
+Verified Petition for Writ of Mandate; Case No.
+
+1 Projects subject to a grading permit shall not be conducted between October 15-April 15;
+
+2 New roads must adhere to design criteria specified in Mitigation Measure 5.1-1.
+
+3 55. Based on Mitigation Measures 5.1-1 and 5.2.1, the SEIR finds that the Project would have a
+
+4 "less than significant impact" on spawning success of salmonids in the San Geronimo Creek watershed.
+
+5 56. The SEIR also identifies a third potentially significant impact (Impact 5.3) related to "Reduced
+
+6 Salmonid Summer Rearing Success Due to Degraded Habitat Conditions Including Reduced Habitat
+
+7 Complexity, Reduced Streamflow, and Increased Water Temperature." The SEIR notes that "the
+
+8 cumulative effects of historical and current stressors on summer rearing habitat quality are
+
+9 significant." In addition, it states that "[g]roundwater pumping and surface water diversions can
+
+10 reduce summer baseflows and contribute to elevated summer water temperatures, degraded water
+
+11 quality, and reductions in summer rearing habitat area and connectivity" and thus "are considered
+
+12 potential threats to summer rearing success of juvenile Coho salmon and steelhead in the greater
+
+13 Lagunitas Creek watershed." The SEIR states that "Effects of reduced summer base flows on
+
+14 salmonids and the stream ecosystem include a reduction in wetted habitat area available for rearing
+
+15 and feeding, restricted habitat connectivity and diversity, reduced production and delivery of
+
+16 invertebrate prey, increased sedimentation, and degraded water quality." "As a result, carrying
+
+17 capacity is reduced, fish growth may be reduced or cease, and fish become more susceptible to
+
+18 predation, competition, and physiological stressors... These effects can be exacerbated in streams
+
+19 where pool depth and frequency are low and instream habitat complexity and riparian cover are
+
+20 degraded by impacts related to urbanization or other land and water uses ...g which is currently the
+
+21 case in the Lagunitas Creek watershed, and the San Geronimo Valley in particular." The SEIR states
+
+22 that "[i]n San Geronimo Creek, dissolved oxygen levels do not consistently meet the generally
+
+23 accepted requirement of 7 mg/L for salmonid rearing (and spawning) habitats and water temperature
+
+24 does not meet the target of <15°C (MWAT) in all locations (Section 3.6.3). Because water
+
+25 temperature and dissolved oxygen conditions are currently degraded, the quality of summer rearing
+
+26 habitat is susceptible to further adverse impacts that could result from riparian canopy removal,
+
+27 reduced baseflow and groundwater inflow, and climate change." The SEIR concludes that "[b]y
+
+28 reducing habitat area and connectivity, low summer flows can reduce feeding and growth, increase
+
+16
+Verified Petition for Writ of Mandate; Case No.
+
+competitive interactions, and increase predation on juvenile salmonids."
+
+2 57. Notwithstanding these adverse effects, and uncertainty over future water diversions or
+
+3 groundwater withdrawal in the watershed, the SEIR finds that this impact will not be significant:
+
+4 While the Proposed Project is not capable of fully avoiding or eliminating impacts to
+
+5 hydrology, sediment delivery, and instream habitat complexity associated with future development, planned development impacts are not expected to ntribute considerably to the
+6 existing degradation of salmonid summer rearing habitat or measurably reduce Coho salmon and steelhead summer rearing success in the watershed. While the low summer stream flows
+7 that currently occur in the watershed may reduce rearing habitat quantity and quality and
+
+8 interrupt aquatic habitat connectivity, data from juvenile salmonid surveys and smolt outmigration monitoring do not support the conclusion that low summer flows are limiting
+
+9 salmonid growth or production.... the Proposed Project would have a less than significant
+cumulative impact on summer rearing success by juvenile Coho salmon and steelhead as a
+10 result of reduced habitat complexity.
+
+11 58. Despite this finding, the SEIR proposes a 'voluntary' mitigation measure that the County may
+
+12 elect to pursue (Measure 5.3-1) consisting of a "Groundwater Study," which the EIR describes as "a
+
+13 voluntary study to determine whether existing and future groundwater pumping, surface water
+
+14 diversions, altered watershed hydrology, and other effects related to development (e.g., septic systems,
+
+15 landscape irrigation) are or would be likely to adversely impact summer baseflow in San Geronimo
+
+16 Creek," to be completed within 3 years of certification of the Final SEIR.
+
+17 G. COUNTY'S CERTIFICATION OF SEIR AND RETURN ON THE WRIT.
+
+18 59. On July 22, 2019, the Planning Commission conducted a public meeting to consider providing
+
+19 a recommendation to the Board of Supervisors to certify the Final SEIR, including an amendment to
+
+20 the Response to Comments in the Final SEIR. On August 20, 2019, the County certified the Final
+
+21 SEIR and approved the 2007 Countywide Plan with Respect to the Application of the 2007 Marin
+
+22 Countywide Plan's Policies Governing Biological and Wetland Resources in San Geronimo Valley.
+
+23 The County filed a Notice of Determination for the Project on August 27, 2019.
+
+24 60. On September 12, 2019, the County filed a Return to Peremptory Writ of Mandamus "to
+
+25 demonstrate that the County has satisfied its obligations pursuant to the writ of mandate issued by the
+
+26 Court on April 5, 2015."
+
+27 61. Petitioners have performed all conditions precedent to the filing of this petition by objecting to
+
+28 the Project and by raising each and every issue known to it regarding the impacts of the Project on
+
+17
+Verified Petition for Writ of Mandate; Case No.
+
+salmonids and their habitat in the San Geronimo Valley, in compliance with Public Resources Code!
+
+2 21177, during the public comment period for the SEIR's evaluation.
+
+3 62. Petitioners have filed this Verified Petition for Writ of Mandate challenging the County's
+
+4 approval of the Project on CEQA grounds, and have filed a Notice of Related Case relating this action
+
+5 to the County's Return on the Writ as not in full compliance with CEQA.
+
+6 V. CLAIM FOR RELIEF
+
+7 63. Petitioners incorporate by reference the allegations set forth in the paragraphs set forth above.
+
+8 64. The County's approval of the Project and certification of the SEIR violates CEQA. The SEIR
+
+9 identifies that the Project will allow for considerable development to occur within and adjacent to
+
+10 stream conservation areas (SCAs) in the San Geronimo watershed and that such development has the
+
+11 potential for significant cumulative effects due to further deterioration of winter rearing habitat, spring
+
+12 breeding success and summer rearing habitat for salmonids. However, the SEIR concludes that these
+
+13 potentially significant cumulative impacts to winter rearing habitat and spring breeding success will
+
+14 be avoided through the adoption of future proposed mitigation and that cumulative effects on summer
+
+15 rearing habitat will not be significant.
+
+16 65. The SEIR improperly defers the development of mitigation for the Project's impacts to
+
+17 salmonid winter rearing habitat and spring breeding success. The SEIR identifies these impacts as
+
+18 potentially cumulatively significant but relies on the future adoption of an SCA ordinance to mitigate
+
+19 those impacts to the level of insignificance. However, Mitigation Measure 5.1.1, adoption of the
+
+20 future SCA ordinance, is not an enforceable mitigation under CEQA Guidelines § § 15126.4(A)(2),
+
+21 nor does this measure establish sufficient performance standards to allow for such deferred mitigation
+
+22 even if it was enforceable. The County fails to provide an adequate explanation for why adoption of
+
+23 the ordinance at the time of the SEIR certification was impractical or infeasible. Unlawful deferral of
+
+24 mitigation is a failure to proceed according to law. Further, the County's finding that such deferred
+
+25 mitigation will avoid significant Project impacts is not supported by substantial evidence.
+
+26 66. The SEIR also improperly defers the adoption of Mitigation Measure 5.1.2, which proposes
+
+27 the development of criteria, design specifications, and guidelines for individual bank stabilization and
+
+28 instream habitat enhancement projects. This measure lacks enforceable performance standards and
+
+18
+Verified Petition for Writ of Mandate; Case No.
+
+the SEIR does not provide adequate explanation for how such guidelines will avoid significant
+
+2 cumulative impacts to salmonids from the considerable development identified in the SEIR. Further
+
+3 California Department of Fish and Wildlife has stated it lacks the capacity to provide approval
+
+4 authority for such projects. Unlawful deferral of mitigation is a failure to proceed according to law.
+
+5 The County's finding that such deferred mitigation will avoid significant impacts is also not supported
+
+6 by substantial evidence.
+
+7 67. The SEIR also improperly defers the adoption of Mitigation Measure 5.2.1, which requires the
+
+8 County to adopt changes to existing stormwater, LID, erosion and sediment control requirements
+
+9 within the San Geronimo watershed and outside of the SCA. This measure lacks enforceable
+
+10 performance standards, and the SEIR does not provide adequate explanation for how such future
+
+11 'changes' will avoid significant cumulative impacts to salmonids from the considerable development
+
+12 identified in the SEIR. The SEIR does not provide an explanation or analysis for how limiting the
+
+13 timing of grading projects or adhering to design criteria for new or repaired roads will avoid the
+
+14 significant incremental cumulative increases in sediment scouring of streambeds during the spring
+
+15 spawning season that have continued to occur over the last decades. Unlawful deferral of mitigation
+
+16 is a failure to proceed according to law. The County's finding that such deferred mitigation will avoid
+
+17 significant impacts is not supported by substantial evidence.
+
+18 68. The SEIR fails to identify the significant cumulative impacts of the Project on summer rearing
+
+19 habitat for juvenile Coho salmon and steelhead. The SEIR confirms that low summer stream flows
+
+20 may reduce rearing habitat quantity and quality and interrupt aquatic habitat connectivity. However,
+
+21 the SEIR nevertheless finds that low summer flows are not limiting salmonid growth or production.
+
+22 This conclusion is unsupported given the extreme population reductions for these salmonid species in
+
+23 the County over the last several decades and the documented declines in summer rearing habitat
+
+24 quality. Further, the SEIR unlawfully defers an unenforceable "voluntary" mitigation measure to
+
+25 conduct a groundwater study to determine the extent to which future groundwater withdrawals and
+
+26 water diversions may further reduce summer rearing habitat conditions. Unlawful deferral of
+
+27 mitigation is a failure to proceed according to law. The County's finding that impacts to summer
+
+28 rearing habitat will be insignificant is not supported by substantial evidence.
+
+19
+Verified Petition for Writ of Mandate; Case No.
+
+1 69. The SEIR fails to identify significant cumulative impacts of the Project from water diversions
+
+2 and groundwater pumping in the SCA, which is presently occurring and likely to increase as a result
+
+3 of the proposed Project. The SEIR states that unregulated pumping from the creeks cannot be
+
+4 predicted and therefore contains no analysis of these impacts. However, the absence of specific data
+
+5 on the issue of water diversions and groundwater pumping does not allow the County to discount
+
+6 potential impacts from this type of source.
+
+7 70. The SEIR fails to identify the significant cumulative impacts of the Project due to
+contaminants of stormwater runoff from additional impervious area within the SCA. The SEIR
+
+9 acknowledges the adverse impacts of concentrated toxins in runoff to salmonids. However, the SEIR
+
+10 discounts the significance of such impacts from concentrated toxic runoff based on the theory that the
+
+11 impacts of runoff may be lower in the San Geronimo Valleys than in more urbanized areas. This
+
+12 comparison does not indicate that concentrated toxins from road runoff is not having and will not
+
+13 have adverse impacts to salmonids in the San Geronimo Valley. The absence of specific local data on
+
+14 the issue does not allow the County to discount potential impacts from this type of source. Further, the
+
+15 SEIR fails to account for new- or re-development projects in the San Geronimo watershed that are
+
+16 exempt from current runoff control requirements.
+
+17 71. The SEIR fails to identify significant cumulative impacts of the Project from effects related to
+
+18 light and noise pollution in the SCA, domestic pets, and illegal, unpermitted or emergency removal of
+
+19 large woody debris ("LWD") from streams. LWD are the primary agents that create complex
+
+20 interconnected channel and floodplain habitats in creeks that drain forested areas, to which Coho
+
+21 salmon and steelhead have evolved. However, there has been a significant and persistent decrease in
+
+22 LWD loading and functions in the San Geronimo Creek watershed, and consequently a reduction in
+
+23 habitat complexity and connectivity caused by legacy disturbances and ongoing development and land
+
+24 management. Although these impacts on adult and juvenile salmonids through the SCA as a result of
+
+25 the Project are expected to occur, the SEIR fails to analyze their impact on salmonids.
+
+26 72. The County's action on August 20, 2019 certifying the SEIR and approving the Project
+
+27 without adopting adequate mitigation or providing adequate analysis in compliance with CEQA is an
+
+28 unlawful and prejudicial abuse of discretion and is actionable under California Code of Civil
+
+20
+Verified Petition for Writ of Mandate; Case No.
+
+Procedure section 1085 and California Public Resources Code section 21168.5 because Petitioners
+
+2 have no other adequate remedy at law.
+
+3 VI. PRAYER FOR RELIEF
+
+4 WHEREFORE, Petitioners pray for judgment as follows:
+
+5 1. For a Peremptory Writ of Mandate ordering the County to set aside its SEIR
+
+6 certification and Project approval as not in compliance with CEQA, and to complete such review in
+accordance with CEQA;
+
+2. For injunctive relief precluding the County from approving development within stream
+
+9 conservation areas in the County until the County has complied with the Writ;
+
+10 3. For reasonable attorney's fees under Code of Civil Procedure § 1021.5.
+
+11 4 For costs of suit.
+
+12 5. For such other and further relief as the court deems proper.
+
+13 DATED: September 26, 2019
+
+14
+
+15 whit g
+16 Deborah A. Sivas
+ENVIRONMENTAL LAW CLINIC
+17 Mills Legal Clinic at Stanford Law School
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+21
+Verified Petition for Writ of Mandate; Case No.
+
+VERIFICATION
+
+Salmon Protection and Watershed Network et al. v. County of Marin.
+
+A Marin Superior Court, Case No. [Unassigned]
+I, Michael Graf, declare that:
+
+5 1.
+
+6 I am an attorney at law duly admitted and licensed to practice before all courts of this State. I
+
+7 have my professional office at 227 Behrens Street, El Cerrito California 94530.
+
+2.
+
+8 I am one of the attorneys for Petitioners. Petitioners do not have a place of business in Contra
+
+9 Costa County in which I have my office. For that reason, I make this verification on their behalf.
+
+4.
+
+10 I have read the foregoing Verified Petition for Writ of Mandate and know the contents thereof;
+
+11 the factual allegations therein are true of my own knowledge, except as to those matters which are
+
+12 therein stated upon my information or belief, and as to those matters I believe them to be true.
+
+13 I declare under penalty of perjury, under the laws of the State of California, that the foregoing
+
+is true and correct.
+
+14
+
+15 Executed on the 26th day of September 2019 at El Cerrito, California.
+
+16
+
+17 Mi G Michael W.
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+22
+Verified Petition for Writ of Mandate; Case
+
+EXHIBIT 1
+
+Michael W. Graf
+Law Offices
+
+227 Behrens St., Tel/Fax: 510-525-1208
+El Cerrito CA 94530 email: mwgraf@aol.com
+
+September 26, 2019
+
+Via Regular Mail
+California Attorney General's Office
+1300 I Street
+Sacramento, CA 95814-2919
+
+Re: Petition for Writ of Mandate Challenge to Marin County's August 20, 2019 Approval of Supplemental EIR and Approval of Countywide Plan with Respect to Salmonids in the San Geronimo Valley.
+
+To Whom it May Concern:
+
+Pursuant to Public Resources Code § 21167.7 and Code of Civil Procedure 388, enclosed
+a please find a copy of Petitioner's Verified Petition for Writ of Mandate in the above referenced
+matter.
+
+Please let me know if you have any questions.
+
+Very truly yours,
+Michael W. Graf Las fe
+
+C012 AG Letter.wpd
+
+f
+
+DECEIVEN Se OCT -0 1 2019 BY:_____________

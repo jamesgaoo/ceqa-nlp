@@ -1,0 +1,714 @@
+1
+
+2 Dean Wallraff (SBN 275908)
+
+0 ADVOCATES FOR THE ENVIRONMENT
+10211 Sunland Blvd.
+
+4 Shadow Hills, CA 91040
+
+5 Phone: (818) 650-0030 X101
+
+6 Facsimile: (818) 650-2875
+dw@aenv.org
+
+7
+
+8 Counsel for Petitioner,
+
+9 AIDS Healthcare Foundation
+
+10
+
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+12 FOR THE COUNTY OF LOS ANGELES
+
+13
+
+14 AIDS HEALTHCARE FOUNDATION, a
+California Nonprofit Corporation CASE NO.
+
+15
+16 PLAINTIFF AND PETITIONER,
+
+8YD0∞S V. NOTICE TO ATTORNEY GENERAL
+
+CITY OF LOS ANGELES, municipal
+corporation; LOS ANGELES CITY COUNCIL,
+governing body of the City of Los Angeles;
+LOS ANGELES DEPARTMENT OF CITY
+
+23 PLANNING, a local public agency; DOES 1-
+10,
+24
+25
+
+26 DEFENDANTS AND RESPONDENTS,
+
+27
+28 SOUTHERN CALIFORNIA FLOWER GROWERS,
+INC., a California corporation; ROES 1-10,
+
+29
+
+30 REAL PARTIES IN INTEREST.
+
+31
+32 To the Attorney General of the State of California:
+
+33
+34 PLEASE TAKE NOTICE, under Public Resources Code $ 21167.7 and Code of Civil
+
+35 Procedure § 388, that on January 10, 2022, AIDS Healthcare Foundation filed a petition
+for writ of mandate against the City of Los Angeles, Los Angeles City Council, and Los
+Angeles Department of City Planning in Los Angeles County Superior Court. The
+
+NOTICE TO ATTORNEY GENERAL
+
+petition alleges that the City of Los Angeles violated the California Environmental
+
+w Quality Act, Public Resources Code $$ 21000-21189.3 (CEQA) by approving : project
+
+4 with potential substantial adverse effects on the environment without the environmental
+
+5 review required by CEQA. The project at issue is the Southern California Flower Market
+
+6 Project located at 711-765 S. Wall Street, 306-326 E. 7th Street, and 742, 750-752 S.
+
+7 Maple Avenue, Los Angeles, CA 90014, in Los Angeles County. A copy of the petition is
+attached to this notice.
+
+8
+
+9 Dated: January 12, 2022
+10 Respectfully Submitted,
+ADVOCATES FOR THE ENVIRONMENT
+
+11
+12
+13 A
+
+14 WAla By: Dean Wallraff
+
+15 Attorneys for Petitioner,
+
+16 AIDS Healthcare Foundation
+
+17
+18
+
+19
+20
+21
+22
+23
+24
+
+25
+
+26
+27
+28
+29
+30
+31
+32
+
+33
+
+34
+35
+
+2
+NOTICE TO ATTORNEY GENERAL
+
+Electronically FILED by Superior Court of California, County of Los Angeles on 01/10/2022 02:17 PM Sherri R. Carter, Executive Officer/Clerk of Court, by R. Perez, Deputy Clerk
+Dean Wallraff (SBN 275908)
+2 ADVOCATES FOR THE ENVIRONMENT
+M 10211 Sunland Blvd.
+Shadow Hills, CA 91040 4 Phone: (818) 650-0030 X101
+5 Facsimile: (818) 650-2875
+
+6 dw@aenv.org
+
+7 Attorneys for Petitioner, 8 AIDS Healthcare Foundation
+9
+SUPERIOR COURT OF THE STATE OF CALIFORNIA 10
+FOR THE COUNTY OF LOS ANGELES 11
+
+AIDS HEALTHCARE FOUNDATION, a CASE NO. 22STCP00090
+California Nonprofit Corporation
+2990085 PLAINTIFF AND PETITIONER, VERIFIED PETITION FOR WRIT OF
+MANDATE
+V.
+
+California Environmental Quality Act CITY OF LOS ANGELES, a municipal (Pub. Resources Code, § 21000-21189.3) corporation; LOS ANGELES CITY COUNCIL,
+governing body of the City of Los Angeles;
+22 LOS ANGELES DEPARTMENT OF CITY
+PLANNING, a local public agency; DOES 1- 23 10,
+24
+
+25 DEFENDANTS AND RESPONDENTS,
+
+26
+
+27 SOUTHERN CALIFORNIA FLOWER GROWERS,
+INC., a California corporation; ROES 1-10, 28
+
+29 REAL PARTIES IN INTEREST.
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+HNMENONDOO Introduction
+
+1. This action challenges the action of the City of Los Angeles, Los Angeles City
+Council (City Council), and Los Angeles Department of City Planning
+(Department) (collectively, City or Respondents) on December 4, 2021,
+certifying an environmental impact report (EIR) (No. ENV-2016-3991-EIR) for
+land-use entitlements including amending the City's General Plan to change the
+land-use designation for the Project Site from Light Industrial to Community
+10 Commercial land use within the Central City Community Plan (Community
+Plan), and increase Floor Area Ratio (FAR) to 3.9:1 in lieu of the 3:1 FAR
+11 otherwise permitted for Height District 2D, a Vesting Zone Change and Height
+12 District Change from M2-2D to (T)(Q)C2-2D, a Site Plan Review, a Master
+Conditional Use Permit for on-site sales and consumption of alcoholic
+14 beverages, a Vesting Tentative Tract Map, and other related actions (Project
+Entitlements) for the Southern California Flower Market Project (Project), a 16 proposed mixed-use development that will encompass two buildings, the North
+17 Building and South Building, and proposes to build 323 residential apartment
+18 units and 64,363 square feet of office space, 4,385 square feet of retail space,
+19 63,785 square feet of wholesale space and storage, 13,420 square feet of food and
+20 beverage space, and 21,295 square feet of event space on a 3.86-net-acre site
+21 located at 709-765 South Wall Street; 306-326 East 7th Street; 750-752 South
+22 Maple Avenue (Project Site).
+23 2. In approving the Project, the City violated the California Environmental Quality
+24 Act, Public Resources Code $$ 21000-21189.3 (CEQA) and the CEQA
+25 Guidelines, California Code of Regulations, title 14, $S 15000-15387 plus
+26 appendices (CEQA Guidelines).
+27 3.
+28 The City abused its discretion in approving the Project and related
+environmental documentation, as alleged below. 29
+
+30 Parties
+31 4. Plaintiff and Petitioner AIDS Healthcare Foundation, a California nonprofît
+32 public benefit corporation (AHF or Petitioner), is a nonprofit organization in 33 Los Angeles whose mission is to rid the world of AIDS through a network of
+34 pharmacies, thrift stores, healthcare contracts, and other strategic partnerships; 35
+
+2
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+generating new, innovative ways of treatment, prevention, and advocacy. There 2 is a significant relationship between health outcomes and access to safe,
+
+4 affordable housing. People with HIV are less likely to be able to stay adherent to
+their medications and more likely to become sicker and more infectious when
+they lack stable housing and/or are homeless. AHF also operates the Heathy
+6 Housing Foundation, which provides affordable housing to hundreds of very 7 low-income people and people at risk of homelessness in Los Angeles. The
+8 Healthy Housing Foundation also advocates for affordable housing and against 9
+
+10 gentrification. Petitioner, its employees, customers, and the many persons whom
+Petitioner serves are beneficially interested in and will be impacted by the
+11 outcome of this Project.
+12 5.
+13 Defendant and Respondent City of Los Angeles is a California charter city
+
+14 located in the County of Los Angeles, California. The Project is within the
+
+15 jurisdictional limits of the City.
+
+16 6. Defendant and Respondent Los Angeles City Council is the elected governing
+
+17 body of the City and is the body responsible for the decision being challenged
+
+18 herein.
+
+19 7. Defendant and Respondent Los Angeles Department of City Planning
+
+20 (Department) is an agency of the City responsible for developing, applying, and
+21 enforcing state and local land-use and zoning laws within the jurisdictional
+22 limits of the City.
+23 8. Defendants and Respondents Does 1-10 are entities of which the true names and
+24 capacities are unknown to Petitioner at this time. Petitioner therefore sues said
+25 Respondents by fictitious names. Petitioner will amend this petition to show the
+26 true names and capacities of Does 1-10 when ascertained.
+27 9. Real Party in Interest Southern California Flower Growers, Inc. (Applicant), is a
+28 California corporation that is the owner of the Project Site and is the applicant to
+29 the City for the Project's General Plan amendments, vesting tentative tract map,
+30 and other associated entitlements.
+31 10. Real Parties in Interest Roes 1-10 are entities of which the true names and
+32 capacities are unknown to Petitioner at this time. Petitioner therefore sues said
+33 Real Parties in Interest by fictitious names. Roes 1-10 are agents of Applicant 34 who are responsible in some manner for the conduct described in this petition, 35
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+H N or other persons or entities who claim some legal or equitable interest in the
+subject matter of this action. Petitioner will amend this petition to show the true 3 names and capacities of Roes 1-10 when ascertained.
+4
+
+5 Jurisdiction and Venue
+
+6 11. Under Code of Civil Procedure (CCP) S$ 1085 and 1094.5 and Public Resources
+7 Code §S 21168, 21168.5, and 21168.9, this Court has jurisdiction to issue a writ
+8 of mandate to set aside Respondents' decision to certify the EIR and purported
+9 approval of the Project.
+10 12. Venue is proper in this Court because the Project lies entirely within the County 11 of Los Angeles and the environmental impacts of the Project will be acutely felt 12 in this County. The cause alleged in this petition, or some part of that cause, arise 13 in this county. (CCP $ 393; Cal. State Parks Foundation v. Super. Ct. (2007) 150 14 Cal.App.4th 826.) Venue is also proper in this Court pursuant to CCP §§ 394 15 (actions against a city, county, or local agency), and 395 (actions generally), since 16 the City of Los Angeles is in the County of Los Angeles. 17 13. This petition is timely filed within 30 days after Respondents' filing of a Notice of 18 Determination with the Los Angeles County Clerk, in accordance with Public 19 Resources Code $ 21167. 20
+14. 21 This case is properly classified as an unlimited civil case, and therefore is within
+the jurisdiction of this Court, because it is not one of the types of cases listed as 22
+limited civil cases in CCP §S 86, 86.1, or 87. 23
+24 15. Petitioner has provided written notice of its intention to file this petition to
+
+25 Respondents in compliance with Public Resources Code $ 21167.5.
+
+26 16. Petitioner has concurrently filed a notice of their election to prepare the record
+27 of administrative proceedings relating to this action, in compliance with Public
+28 Resources Code $ 21167.6 or other applicable laws.
+29 17. Petitioner has performed any and all conditions precedent to filing this instant
+30 action and has exhausted administrative remedies to the extent required by law
+31 under Public Resources Code $ 21177. Petitioner or other agencies and
+32 individuals raised each of the legal deficiencies asserted in this petition orally or
+33 in writing during the Respondents' decision-making process.
+34 18. The violations by Respondents as alleged herein have affected the beneficial 35
+
+4
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+interests of Petitioner and its supporting members. The relief sought by way of
+2 this Petition will redress this beneficial interest and the likelihood of future
+3 injury and interference with Petitioner's interests, and those of its supporting
+4 members.
+
+19.
+6 Petitioner has no plain, speedy, or adequate remedy in the course of ordinary law
+
+7 unless this Court grants the requested writ of mandate to require Respondents to
+
+8 set aside its certification of the Project and environmental documents. In the
+
+9 absence of such remedies, Respondents' decisions will remain in effect in
+
+10 violation of state law and injurious to Petitioner.
+
+11 Factual Background
+12 The 2019 EIR
+13 20. The original Draft EIR for the Project (the 2019 Draft EIR) was issued on
+14 September 20, 2018.
+15 21. Both AHF and CREED LA commented on the 2019 Draft EIR.
+16
+
+17 22. On April 12, 2019, the City issued the Final EIR for the Project, which concluded
+
+18 that the Project would not result in any significant and unavoidable
+
+19 environmental impacts.
+
+20 23. After the City Planning Commission approved the Project, and certified the 2019
+
+21 Draft and Final EIR (the 2019 EIR) AHF and CREED LA appealed the Project
+
+22 approvals and the 2019 EIR to the City Council.
+
+23 24. On October 29, 2019, the PLUM Committee of the Los Angeles City Council
+24 held a public hearing to consider the Project and the pending appeals by
+25 Petitioner and CREED LA for both Case Nos. CPC-2016-3990-GPA-VZC-HD-
+26 MCUP-SPR and VTT Map No. 74568. PLUM made the following
+27 recommendations for City Council action:
+28 a. find that the Advisory Agency has reviewed and considered the
+29 information contained in the EIR prepared for the Project; certify that the
+30 EIR was completed in compliance with CEQA, that the EIR was presented
+31 to the Advisory Agency as a decision-making body of the lead agency, and
+32 that the EIR reflects the independent judgment and analysis of the lead
+33 agency; and adopt the Mitigation Monitoring Program (MMP) prepared
+34 for the EIR;
+35
+
+5
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 b. adopt the findings of the PLUM Committee as the Findings for Council;
+2
+
+3 c. resolve to grant in part and deny in part the appeals filed by Petitioner and
+CREED LA;
+4
+
+5 d. approve the Vesting Tentative Tract Map;
+
+6 e. request the applicant to work with CREED LA for the construction of the
+
+7 Project,
+
+8 f. request the applicant to further evaluate the cost and the affordability of the
+9 housing project;
+10 g. approve the Master Conditional Use Permit, Site Plan Review, General
+11 Plan Amendment to the Central City Community Plan; Vesting Zone
+12 Change, and Height District Change;
+13 h. and other related recommendations.
+14 25.
+15 The PLUM Committee voted to forward the Project to the City Council for its
+consideration.
+16
+
+17 26. On November 12, 2019, the City Council considered and adopted the PLUM
+
+18 Committee Report related to the Project and the pending appeals, approving the
+
+19 Project and certifying the 2019 EIR.
+
+20
+
+21 The Previous Lawsuit
+
+22 27. On December 16, 2019, AHF filed a lawsuit in this Court challenging the 2019
+23 EIR and the Project Entitlements, case No. 19STCP05445 (the 2019 Action).
+24 That case was assigned to Department 86, Hon. Mitchell L. Beckloff.
+25 28. After briefing and trial, the court, in an order issued on April 5, 2021, held that
+26 the 2019 EIR was defective because:
+27 a. The 2019 EIR's analysis of the Project's GHG emissions did not contain
+28 substantial evidence supporting the City's conclusion that the Project's
+29 GHG emissions would be insignificant;
+30 b. One of the noise mitigation measures was shown to be ineffective in 31 reducing the Project's noise impacts below the threshold of significance. 32
+33 29. The court issued a writ of mandate on June 17, 2021, ordering the City to set
+
+34 aside its approvals of the Project and to decertify the 2019 EIR.
+
+35 30. The City purported to comply with the June 17, 2021 writ, as described below,
+
+6
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+- and, on December 13, 2021, filed a return to the writ in the 2019 Action. AHF is
+2 challenging the sufficiency of the City's compliance with the writ in the 2019
+3 Action.
+4
+
+5 The PR-EIR
+6
+
+7 31. On September 16, 2021, the City circulated for comment a Partially Recirculated
+
+8 Draft Environmental Impact Report (PR-DEIR), containing revised EIR
+
+9 chapters on GHG and noise impacts. Only those two chapters, plus an
+
+10 introduction and related appendices, were recirculated. The Notice of
+
+11 Completion and Availability issued in conjunction with the PR-DEIR, stated that
+202 300921 the City would not reconsider other sections of the EIR, and it requested that
+reviewers of the PR-DEIR not make comments on other sections of the EIR.
+
+32. AHF submitted comments on the PR-DEIR to the City on October 29, 2021.
+33. On November 5, 2021, following the close of the PR-DEIR comment period, the
+City issued Partially Recirculated Final Environmental Impact Report (PR-
+FEIR) containing responses to comments, and a revised Mitigation Monitoring
+18 • Program.
+19 34. AHF submitted comments on the PR-FEIR to the City on November 29, 2021.
+20 35. On November 30, 2021, the Planning and Land Use Management Committee of 21 the Los Angeles City Council (PLUM Committee), recommended to the City 22 Council that it:
+23
+
+24 a. Decertify the 2019 EIR and set aside the Project Entitlements;
+
+25 b. Make appropriate findings;
+
+26 C. Certify the PR-DEIR and PR-FEIR (collectively, the PR-EIR) as compliant
+
+27 with CEQA;
+
+28 d. Re-approve the Project Entitlements.
+29 36. On December 3, 221, the City Council adopted the recommendation of the
+30 PLUM Committee, certifying the PR-EIR and re-approving the Project
+31 Entitlements.
+32
+
+33
+
+34
+
+35
+
+7
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+Nm t First Cause of Action
+(CCP 5 1085; Violations of CEQA, Los Angeles City Charter, and State Law on
+5 Legislative Enactments by Cities)
+
+6 37. Petitioner realleges and incorporates paragraphs 1-36 as if fully set forth here.
+7 38. On August 14, 2001, the City Council authorized City departments with CEQA
+8 responsibilities to use a 2001 version of the LA CEQA Thresholds Guide as
+9 CEQA administrative guidance. The Thresholds Guide provided screening
+10 instructions for various types of environmental impacts as well as "thresholds to
+11 be used in the determination of the significance of environmental effects" under
+12 CEQA Guidelines $ 15065.7(b).
+
+14 39. In 2006, the City Council updated and approved the Thresholds Guide (the 2006
+15 Thresholds).
+
+16 40. On May 2, 2019, Vincent P. Bertoni, Director of City Planning, the chief
+
+17 executive of the Department (Director), issued an "advisory memo" (the
+
+18 Thresholds Memo) "adopting the State CEQA Guidelines and Appendix G
+environmental checklist questions as the Department's CEQA thresholds of 19 significance pursuant to CEQA Guidelines Section 15064.7(b)" (the Appendix G 20 Thresholds). 21
+22 41. The Thresholds Memo was adopted by the Department after a public-review
+
+23 process, which included presentation of the policy change to the Planning
+
+24 Commission on February 28, 2019. Neither the Planning Commission nor the
+
+25 City Council approved the adoption of the Appendix G Thresholds as
+
+26 replacements for the 2006 Thresholds.
+
+27 42. The Department's adoption of the Appendix G Thresholds as City-wide CEQA
+28 thresholds is invalid for the following reasons:
+29 a. Neither the City Council nor the City Charter has delegated to the
+30 Department the authority to adopt CEQA thresholds to be used for all City
+31 departments.
+32 b. The Thresholds Memo purports to repeal and replace the 2006 Thresholds
+33 adopted by the City Council, but the Department does not have the
+34 authority to repeal such actions of the City Council.
+35
+
+8
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+- 2
+A0 c. The Thresholds Memo states that the Appendix G Thresholds was adopted
+by the Department of City Planning, but it would apply to all departments
+
+5 in the City, because the Department evaluates CEQA compliance for many
+
+O 0 N O projects where other City departments, such as the Bureau of Engineering,
+and the Fire Department, are involved as responsible agencies.
+d. The adoption of a citywide policy on CEQA thresholds is a legislative
+
+e. matter, which the City Council may not delegate to an inferior body.
+
+10 There is no substantial evidence supporting the Department's adoption of
+
+11 the Appendix G Thresholds for general City-wide use.
+
+90229 Second Cause of Action
+
+43. (CCP § 1094.5; Violations of CEQA)
+
+44. Petitioner realleges and incorporates paragraphs 1-42 as if fully set forth here.
+
+17 As alleged above, the City's purported 2019 adoption of Appendix G as the City's
+CEQA thresholds was ineffective. The threshold under which the City has
+
+18 analyzed the Project's GHG impacts is therefore a case-specific threshold. CEQA
+
+19 requires that case-specific thresholds be supported by substantial evidence in the
+
+20 record, but the EIR contains no justification or substantial evidence for its
+
+21 selection of the Appendix G CEQA thresholds as GHG thresholds in this case.
+
+22 This lack of justification violates CEQA, because CEQA requires that thresholds
+
+23 used to evaluate significance of environmental impacts are supported by
+substantial evidence.
+
+24 45.
+
+25 The PR-EIR's analysis of GHG impacts includes a lengthy section on the
+
+26 Project's purported consistency with AB-32. But AB-32's planning horizon
+
+27 ended in 2020, so consistency with AB-32 is irrelevant to the PR-EIR's analysis of
+
+28 the Project's GHG impacts. Including such an analysis violates CEQA because it
+
+29 46. is misleading and confusing.
+
+30 The CEQA Guidelines require the City to "consider a timeframe that is
+
+31 appropriate for the project." (Guidelines § 15064.4(b).) The appropriate
+
+32
+
+33 timeframe for a GHG analysis of the Project is 50 years, since buildings like the
+
+34 ones proposed for the Project tend to last approximately 50 years. Even if the
+
+35 City failed to analyze the Project's GHG impacts out to the year 2071, the earliest
+end date for a CEQA-compliant GHG analysis for the Project would be 2045,
+when the State of California has established policy that the State would have
+
+9
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+UP net-zero GHG emissions. The PR-EIR's failure to analyze the Project's GHG 2 emissions out to 2017 violates CEQA.
+M 47. The PR-EIR's significance analysis suffers from the defect the Supreme Court 4 found in Center for Biological Diversity v. California Department of Fish and 5 Wildlife (2015) 62 Cal.4th 204 [Newhall]. There, the EIR claimed that measures 6 adopted to reduce the project's GHG emissions would reduce those emissions by 7 31% below a "No Action Taken" (NAT) scenario, which is below the 29% 8 reduction required by AB 32. But the Supreme Court held that the EIR violated 9 CEQA because it failed to provide substantial evidence that the 31% reduction in 10 the project was consistent with the 29% statewide goal. Here, the EIR claims a 11 reduction of 69% below the NAT scenario, compared to SB 32's target of N0310 reducing statewide GHG emissions by 40%. But the EIR fails to show that the
+69% reduction is consistent with a statewide 40% GHG reduction.
+
+48. The PR-EIR adopted a GHG significance threshold under which the Project
+16 would have significant GHG emissions if it were to "conflict with an applicable
+
+17 plan, policy or regulation adopted for the purpose of reducing the emissions of
+
+18 greenhouse gases." This threshold does not allow the City to pick and choose
+
+19 which plans, policies, and regulations the Project must be consistent with in
+
+20 order for its emissions to be considered insignificant. The Project conflicts with
+
+21 several such plans, and therefore its GHG emissions are significant. Such
+
+22 conflicts include the following:
+
+23 a. The CARB 2017 Scoping Plan contains a target of reducing the state's GHG
+
+24 emissions 80% below 1990 levels by 2050. The PR-EIR does not establish
+
+25 that the Project is consistent with this goal. The Project is in fact
+26 inconsistent with it.
+
+27 b. The CARB 2017 Scoping Plan contains a statewide annual GHG emissions-
+28 reduction targets of 6 MTCO2e/capita in 2030 and 2 MTCO2e/capita in
+29 2050. Information in the PR-EIR shows that the Project is inconsistent with
+30 these targets.
+31 C. The Project is also inconsistent with Executive Order B-55-18, which
+32 a establishes a policy requiring statewide carbon neutrality in 2045. The
+33 Project is inconsistent with this policy, in part because the Project would
+34 burn natural gas, precluding the Project itself from becoming carbon-
+35
+
+10
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+-
+2 neutral. The PR-EIR violates CEQA by not even considering the Project's
+
+3 consistency with this applicable policy.
+
+4 d. The Project is inconsistent with the L.A. Green New Deal Sustainability
+
+5 Plan 2019, which sets goals of reducing building energy use per square foot
+
+6 for all building types between 2025 and 2050 because the Project will use
+
+7 more energy than allowed under that plan.
+
+8 49. As a result of the foregoing defects and others according to proof, Respondents
+
+9 prejudicially abused their discretion by certifying an EIR that does not comply
+
+10 with CEQA and by approving the Project in reliance on it. Accordingly,
+
+11 Respondents' certification of the PR-EIR and purported approval of the Project
+12 must be set aside.
+
+13 14 Prayer for Relief
+15 WHEREFORE, Petitioner prays for judgment in its favor and for relief as follows:
+16 A. For a writ of mandate commanding the City to vacate and withdraw the
+
+17 certification of the PR-EIR and all Project Entitlements for the Project; requiring
+18 the City to comply with CEQA, and ordering Respondents and Real Parties in
+19 Interest to cease any and all activity related to the Project that may result in a
+
+20 physical change to the environment unless and until the Project is re-approved
+
+21 following the certification of a legally sufficient EIR for the Project;
+
+22 B. For a writ of mandate ordering the City to set aside its adoption of CEQA
+
+23 Guidelines Appendix G as CEQA thresholds of significance for the City;
+
+24 C.
+
+25 For Petitioner's fees and costs, including reasonable attorneys' fees and costs, as
+
+26 authorized by California Code of Civil Procedure $ 1021.5 and any other
+applicable provisions of law; and
+27 D.
+
+28 For such other relief as this Court deems appropriate and just.
+
+29 Dated: January 6, 2022 Respectfully Submitted,
+
+30 ADVOCATES FOR THE ENVIRONMENT
+
+31
+
+32
+
+33
+34 A waled By: Dean Wallraff
+
+35 Attorneys for Petitioner,
+AIDS Healthcare Foundation
+
+11
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+Verification
+I am General Counsel of AIDS Healthcare Foundation, which is a party to
+this action, and I am authorized to make this verification on its behalf.
+I have read the foregoing Petition and am familiar with its contents. The
+matters stated therein are true of my own knowledge except as to those matters that
+are stated on information and belief, and as to those matters, I believe them to be
+
+true.
+declare under penalty of perjury under the laws of the State of California
+that the foregoing is true and correct.
+
+Dated: January _7 2022
+
+Tom Myers, General Counsel AIDS Healthcare Foundation
+
+VERIFICATION OF PETITION FOR WRIT OF MANDATE
+
+Proof of Service
+
+I, Benita Wallraff, declare:
+I am over the age of 18 years and not a party to this action. My business address is
+10211 Sunland Blvd., Shadow Hills, CA 91040, which is located in the county where the
+service described below occurred.
+On January 12, 2022, I served the following document, a copy of which is attached
+to this Proof of Service:
+Notice to Attorney General
+By first-class mail by enclosing it in an envelope and depositing the sealed envelope with
+the United States Postal Service, with postage fully prepaid, addressed as follows:
+
+Office of the Attorney General
+300 South Spring Street
+Los Angeles, CA 90013-1230
+
+I certify and declare under penalty of perjury under the laws of the State of
+California that the foregoing is true and correct.
+
+Date: January 12, 2022 Daele afsls
+Benita Wallraff
+
+PROOF OF SERVICE
+
+S À 8 =
+CO ORAEN EELESAL ANGELES g3N3034. = E
+c7 A
+$ ou'4 S07 3GLN eT:l 01 01EN 5412V000
+
+tppbd//941/0l4 & OFFICE CONTA OE ZI-E190S D0WS
+4 FTHE APTOLNEY CENEAAL Shadon "SIT!H CA 91040 'PALa puEjunS LITOL uauruonaug ayp 1o) Advocates
+
+P0L6 diZ sareeboooM9Zo 200007923 visOd sn SSV10-IS8 59EL$ SAMOB A3N1ld

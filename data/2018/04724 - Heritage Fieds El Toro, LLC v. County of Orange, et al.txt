@@ -1,0 +1,2425 @@
+ALSTON & BIRD LLP NIELSEN MERKSAMER PARRINELLO
+JEFFREY D. DINTZER, SBN 139056 GROSS & LEONI LLP
+2 Jeffrey.Dintzer@alston.com 333 S. Hope Street ARTHUR SCOTLAND, SBN 62705
+Los Angeles, CA 90071-3197 AScotland@nmgovlaw.com 3
+Telephone: 213.576.1000 1415 L Street, Suite 1200
+
+4 Facsimile: 213.576.1100 Sacramento, California 95814
+Telephone: 916.446.6752
+Facsimile: 916.446.6106
+5 GIBSON, DUNN & CRUTCHER LLP
+ABBEY HUDSON, SBN 266885
+6 ahudson@gibsondunn.com ELECTRONICALLY FILED
+CYNTHIA C. MULLEN, SBN 292256 Superior Court of California,
+7 cmullen@gibsondunn.com County of Orange
+DIONE GÄRLICK, SBN 293012 12/14/2018 at 04:42:00 PM
+8 dgarlick@gibsondunn.com Clerk of the Superior Court 333 South Grand Avenue By Sarah Loose, Deputy Clerk
+9 Los Angeles, CA 90071-3197 Telephone: 213.229.7000
+10 Facsimile: 213.229.7520
+
+11 Attorneys for Petitioner and Plaintiff HERITAGE FIELDS EL TORO, LLC
+12
+
+13 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+14 FOR THE COUNTY OF ORANGE
+
+15 CIVIL COMPLEX CENTER
+
+16 HERITAGE FIELDS EL TORO, LLC, CASE NO. 30-2018-01003519-CU-WM-CXC
+
+17 Petitioner and Plaintiff, VERIFIED FIRST AMENDED PETITION
+FOR WRIT OF MANDAMUS [CCP
+18 V. SECTION 1085 OR 1094.5| AND
+COMPLAINT FOR DAMAGES,
+19 COUNTY OF ORANGE, a political DECLARATORY AND INJUNCTIVE
+RELIEF
+20 subdivision of the State of California, and DOES through 100, inclusive,
+
+21 Respondents and Defendants. (California Environmental Quality Act, Public Resources Code § 21000, et seq.; Code of Civil
+22 Procedure §§ 1094.5, 1085; Intentional Interference with Contractual Relations; Breach
+LOWE ENTERPRISES REAL ESTATE of Contract; Declaratory Relief) 23 GROUP, JURY TRIAL DEMANDED
+24 Real Party in Interest. ASSIGNED TO:
+25 Hon. William Claster
+Dept. CX104
+26
+
+27
+
+28
+
+Gibson, Dunn &
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES,
+DECLARATORY AND INJUNCTIVE RELIEF
+
+Petitioner HERITAGE FIELDS EL TORO, LLC, a Delaware limited liability company
+
+2 (hereafter "Heritage Fields"), brings this action on its own behalf, on behalf of the general public, and
+
+3 in the public interest, pursuant to Code of Civil Procedure section 1094.5 and Public Resources Code
+
+4 section 21168 or, in the alternative, pursuant to Code of Civil Procedure section 1085 and Public
+
+5 Resources Code section 21168.5. Heritage Fields alleges as follows:
+
+6 INTRODUCTION
+
+7 1. Once again, the County of Orange (the "County") has taken actions that threaten the
+
+8 successful completion of the master-planned Orange County Great Park (the "Great Park"), and is in
+
+9 clear violation of the California Environmental Quality Act, Public Res. Code Sections 21000 et seq.
+
+10 ("CEQA").
+
+11 2. On June 5, 2018, the Orange County Board of Supervisors approved the West Alton
+
+12 Parcel Development Plan ("West Alton Plan" or "Project"), certified Environmental Impact Report
+
+13 No. 621 (the "EIR") for the West Alton Plan, adopted related findings, a Statement of Overriding
+14 Considerations, and a Mitigation Monitoring and Reporting Program, and authorized County staff to
+
+15 take necessary actions toward implementation of the West Alton Plan.
+
+16 3. As Heritage Fields and others raised throughout the public comment period prior to its
+
+17 certification, the EIR is incomplete, misleading, and inaccurate, and fails to fully and accurately
+
+18 describe applicable regulations and standards and the West Alton Plan's consistency with those
+
+19 regulations.
+
+20 4. The West Alton Plan purports to be a development plan for the "West Alton Parcel", a
+21 site consisting of approximately 44.16 acres of land in the City of Irvine ("City"). This property is
+
+22 located on the former Marine Corps Air Station El Toro Property ("MCAS El Toro Property"), a
+
+23 4,700-acre former Marine base. The West Alton Plan contains development standards and design
+
+24 guidelines, and a "Conceptual Site Plan." The West Alton Plan authorizes 803 multi-family
+
+25 residential units and ancillary private uses across two development areas: the 21.98-acre northern
+
+26 piece, and the 10.34-acre southern piece. These development areas are separated by a protected
+
+27 11.84-acre Wildlife Corridor.
+
+28
+
+Gibson, Dunn & 2
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES,
+DECLARATORY AND INJUNCTIVE RELIEF
+
+5. This lawsuit is companion suit to Heritage Fields' existing Petition and Complaint
+
+2 challenging the EI Toro 100-Acre Development Plan (*100-Acre Plan"), its inadequate
+
+3 Environmental Impact Report No. 620, and the County's Development Agreement and Master
+
+4 Ground Lease with Lowe Enterprises Real Estate Group ("Lowe") covering the 100-Acre Property.'
+
+5 Like the West Alton Parcel, the 100-Acre Property is land predominantly owned by the County in the
+
+6 City of Irvine on the MCAS EI Toro Property. The County has approved developing both parcels for
+7 extensive private uses, with Lowe as the explicitly designated "Developer."
+
+8 6. After its closure, Heritage Fields purchased the vast majority of the MCAS EI Toro
+
+9 Property from the United States Department of the Navy as part of the "Orange County Great Park"
+
+10 (also referred to as "OC Great Park") transaction, which is transforming the former base into
+
+11 commercial and residential development and more than a thousand acres of public park, with
+
+12 Heritage Fields as the landowner and master developer of the residential development as well as most
+
+13 of the planned commercial development. As part of this transaction, Heritage Fields conveyed
+
+14 approximately 1,100 acres of the former MCAS El Toro Property to the City and, in turn, the City
+
+15 conveyed (or is in the process of conveying)-at no cost-land to the County, including the West
+16 Alton Parcel and 100-Acre Property. The property set aside for the County was intended to be
+17 utilized for County-related uses, as a public benefit, and has been so designated in the City-approved
+
+18 plans and CEQA documents prepared with respect to the OC Great Park. In contrast to this intended
+
+19 purpose, the 100-Acre Plan and now the West Alton Plan would allow a private real estate developer
+
+20 to develop the land for entirely private uses.
+21 7. Like the EIR for the 100-Acre Plan, the County determined-in total disregard for
+
+22 established principles of California law--that the West Alton Plan was exempt from both the City
+
+23 and County's General Plans, the City and County's Zoning Codes, review and approval by any
+
+24 planning commission, and all other public hearing and notice provisions of the City and County.
+
+25 Accordingly, the West Alton Plan was analyzed and approved without any consideration by any
+
+26
+
+27 The case was originally filed in Orange County Superior Court as Heritage Fields EL Toro, LLC
+28 V. County of Orange, et al., Case No. 30-2017-00960230-CU-TT-CXC, and was transferred to and is now pending in Sacramento County Superior Court as Heritage Fields El Toro, LLC v. County of Orange, et al., Case No. 34-2018-80002879-CU-WM-GDS.
+Gibson, Dunn & 3
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES,
+DECLARATORY AND INJUNCTIVE RELIEF
+
+1
+
+1 planning commission and without even so much as a single noticed public hearing for City or County
+
+2 planning review.
+
+3 8. In other words, the County contends that the West Alton Plan and 100-Acre Plan stand
+
+4 alone, are exempt from all standards and procedures applicable to every other development in the
+
+5 State of California. In making this erroneous determination, the County compounded the error by
+
+6 failing to analyze in the EIR the significant land use incompatibilities created by allowing the West
+
+7 Alton Plan's private residential development, to replace the originally approved public and
+8 agricultural/preservation uses for the property. Not only is the West Alton Plan inconsistent with the
+
+9 current zoning in the City of Irvine, it is also inconsistent with the requirements of "Measure W" (a
+
+10 citizen's initiative approved by the voters of the County in 2002, which reserved the subject property
+
+11 for open space and public/educational uses). None of these land use inconsistencies was disclosed or
+
+12 analyzed in the EIR as required by CEQA.
+
+13 9. Moreover, the EIR failed to respond to comments raised by Heritage Fields and other
+14 concerned members of the public, failed to make a good-faith effort at disclosure as required by
+
+15 CEQA, ignored applicable City and County parkland standards, improperly segmented environmental
+
+16 review, improperly deferred mitigation measures, and misrepresented the true provisions of the West
+
+17 Alton Plan. Additionally, the County failed to recirculate the EIR as required by CEQA despite
+
+18 revealing complete reversal of the EIR's analysis of greenhouse gas emissions shortly before the
+
+19 County Board of Supervisors approved the Project.
+
+20 10. Beyond these myriad violations of CEQA, the unequivocally private uses approved by
+
+21 the County violate the express language and clear intent of the 2003 City and County Pre-Annexation
+
+22 Agreement ("Pre-Annexation Agreement"), which agreement reserved the subject property for
+
+23 a government uses, such as a Youth and Family Resource Center, an animal shelter, childcare facilities,
+
+24 law enforcement training facilities, and an emergency shelter. The County has also violated the Pre-
+
+25 Annexation Agreement because it has approved the Project without a current, enforceable, binding
+
+26 commitment obligating the County to pay its fair share of infrastructure expenses, as required by a
+
+27 provision of the agreement intended to benefit future users of the area such as Heritage Fields, the
+
+28 landowner and master developer of the nearby Great Park Neighborhoods.
+
+Gibson, Dunn & 4
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+11. The Project is in the City's Great Park area, which is carefully governed by multiple
+
+2 agreements, including the City's Amended and Restated Development Agreement ("ARDA"), with,
+
+3 inter alia, Heritage Fields. In the context of the ARDA, the City and Heritage Fields have allocated
+
+4 responsibility for the funding and completion of the infrastructure and park improvements required to
+
+5 bring the vision of the Orange County voters, to have a world-class public park, to fruition. The
+
+6 ARDA balances many interests. Among other things, it requires the City to construct a large-scale
+7 public park in compliance with the Great Park Master Plan. The ARDA is premised on the
+
+8 recognition that there is a finite amount of traffic capacity to accommodate future development, and a
+
+9 finite number of infrastructure improvements to create that capacity. The available traffic capacity
+10 must accommodate both the buildout of the OC Great Park, and the private development that was
+
+11 approved as part of the OC Great Park planning process, in order to fund the dedication and
+
+12 contribution of $200 million towards the construction of the oC Great Park. The amount of
+
+13 development associated with the Project requires far more traffic capacity than was assumed in the
+
+14 2003 EIR for the OC Great Park, or in the ARDA. If the County improperly utilizes the trips needed
+
+15 for completion of the OC Great Park by building the Project, the City will not be able to fulfill its
+
+16 contractual commitment to Heritage Fields to complete the OC Great Park. By approving the
+17 Project, which is inconsistent with the West Alton Parcel's permitted uses set out in the ARDA, the
+
+18 County has committed acts of governance that intentionally interfere with the ARDA such that the
+
+19 City will be unable to construct the OC Great Park as required by the ARDA, or meet its other
+20 obligations with respect to Heritage Fields.
+
+21 JURISDICTION AND VENUE
+
+22 12. This Court has jurisdiction over the writ action under section 1094.5 of the Code of
+
+23 Civil Procedure and section 21168 of the Public Resources Code.
+
+24 13. This Court also has jurisdiction over the writ action under section 1085 of the Code of
+
+25 Civil Procedure, and section 21168.5 of the Public Resources Code.
+
+26 14. Venue for this action properly lies in the Orange County Superior Court because the
+27 property on which the West Alton Plan is located is in the County of Orange.
+
+28
+
+Gibson, Dunn & 5
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+15. This petition is timely filed in accordance with Public Resources Code section 21167
+
+2 and CEQA Guidelines section 15112.
+
+3 PARTIES
+
+4 16. Petitioner and Plaintiff HERITAGE FIELDS is the owner of land within the MCAS EI
+
+5 Toro Property, which is immediately adjacent to the West Alton Parcel on which the new
+
+6 development would take place. Heritage Fields is also the master developer of the Great Park
+
+7 Neighborhoods, which is also within the boundaries of the former MCAS El Toro Property. Heritage
+
+8 Fields purchased the MCAS El Toro Property from the United States Department of the Navy, and as
+
+9 part of the original entitlement process, Heritage Fields conveyed more than 1,100 acres of former
+
+10 MCAS El Toro Property to the City and contributed substantial financial resources toward the
+
+11 coordinated development of a great metropolitan park, now known as the "Orange County Great
+
+12 Park" that is intended to provide cultural, athletic, recreational, agricultural and aesthetic amenities to
+
+13 residents throughout Southern California. Heritage Fields, which is an intended beneficiary of the
+
+14 Pre-Annexation Agreement, is directly and adversely affected by development that does not
+
+15 contribute its fair share toward parkland, roadway, infrastructure, and other public improvements, and
+
+16 that would be incompatible with the significant investments Heritage Fields has made to building the
+
+17 Orange County Great Park and Great Park Neighborhoods.
+
+18 17. On information and belief, Respondent and Defendant COUNTY OF ORANGE is a
+19 political subdivision of the State of California, and is the lead agency under CEQA for the West
+
+20 Alton Plàn.
+
+21 18. On information and belief, Real Party in Interest LOWE ENTERPRISES REAL
+22 ESTATE GROUP ("Lowe"), a California corporation, is the "Developer for the County's El Toro
+23 parcels," including the West Alton Parcel.
+
+24 19. The names and capacities, whether corporate, individual, or otherwise, of Defendants
+
+25 Does through 100, inclusive, are unknown to Heritage Fields at this time. Heritage Fields therefore
+
+26 sues these Defendants, and each of them, by such fictitious names. Heritage Fields will seek leave of
+
+27 court to amend this complaint to show the true names and capacities of the Doe Defendants when
+
+28
+
+Gibson, Dunn & 6
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES,
+DECLARATORY AND INJUNCTIVE RELIEF
+
+1 they are fully ascertained. Heritage Fields is informed and believes that the Doe Defendants are
+
+2 responsible and liable to Heritage Fields for the events, happenings and occurrences set forth herein.
+
+3 STATEMENT OF FACTS
+
+4 20. Following the decision by the Department of the Navy in 1993 to close the nearly
+
+5 4,700-acre Marine Corps Air Station El Toro, the County sought to pursue a large-scale commercial
+
+6 airport on the MCAS El Toro Property. Instead, to ensure that Orange County would receive a
+
+7 regional park, the voters of Orange County decisively halted the County's plan by approving Measure
+
+8 W on March 5, 2002. Measure W changed the allowed reuse of the MCAS EI Toro Property to a
+
+9 plan consisting exclusively of educational, recreational, open space, cultural and other public uses as
+
+10 long as the land remained unincorporated. To guarantee that the Board of Supervisors would honor
+
+11 those plans, Measure W enshrined those protections in the County General Plan and required that any
+
+12 change of that designation while the land remained unincorporated must be submitted to a vote of the
+
+13 people.
+
+14 21. In 2003, the City, former Irvine Redevelopment Agency, and County entered into a
+
+15 Pre-Annexation Agreement, which was intended to facilitate the City's annexation of the vast
+
+16 majority of the former MCAS El Toro Property, and the ultimate transfer of the land to future owners
+
+17 and developers of the MCAS El Toro Property (the role ultimately secured by Heritage Fields after it
+
+18 purchased the MCAS EI Toro Property). To achieve that end, the Pre-Annexation Agreement
+
+19 provided that:
+
+20 The County agrees to pay its fair share of costs as part of the funding
+
+21 mechanism [City] was to set up to fund the costs of building "necessary infrastructure and related improvements." (Section 2.2.5.)
+22 [City] will provide "through a Development Agreement between Irvine and
+23 the purchaser(s) of El Toro property" (now Heritage Fields) for the conveyance of certain parcels to the County in the manner prescribed in the
+24 Pre-Annexation Agreement. (Section 2.2.3.4.)
+
+25 The City and County would "agree to cooperate and work together with the Navy to cause the expeditious transfer of the El Toro property." (Section 4.)
+26 22. In exchange for the County's agreement to allow the City to annex the vast majority of
+
+27 the former MCAS El Toro Property, the City agreed to zone the County's parcels, including the West
+
+28
+
+Gibson, Dunn & 7
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+Alton Parcel, for the "exclusive use of the County or its designees, lessees, or concessionaires ... to
+2 construct and operate permitted uses and facilities." (Section 2.2.3.1.)
+3 23. Section 2.2.4 of the Pre-Annexation Agreement further provides that "Irvine will zone
+
+4 County's parcels and designate them in Irvine's General Plan, in accordance with County direction."
+
+5 In addition, the "County shall retain exclusive land use control over [its parcels within the MCAS EI
+
+6 Toro Property], and shall be entitled to place any development upon said parcels that County shall
+
+7 determine to be desirable for County's needs, as though said property remained unincorporated,
+
+8 without the obligations for payment to Irvine of any permit fees or other mitigation/impact fees, other
+
+9 than in Section 2.2.5, including but not limited to the following uses, all of which Irvine agrees with:
+
+10 Animal shelter; Environmental health facilities; Automotive / equipment repair facilities; childcare
+
+11 facilities; youth and family resource center; Law enforcement training facilities; emergency shelter;
+
+12 Transitional shelter care facility; Chi|dren & Family Services Center; Business offices; Warehouses;
+
+13 Storage facilities; Vehicle parking and storage facilities; Heavy equipment and storage; Field
+14 operations and maintenance facility.'
+
+15 24. Consistent with the process first established by the Pre-Annexation Agreement, the
+16 City and the purchaser of the MCAS El Toro Property (Heritage Fields) entered into a Development
+
+17 Agreement dated as of July 12, 2005 governing the future development of the MCAS El Toro
+
+18 Property. The Development Agreement was subsequently amended and restated in December 2010
+
+19 in the Amended and Restated Development Agreement ("ARDA"). Both the original development
+
+20 agreement and the ARDA were adopted pursuant to Section 65864 et seq. of the California
+21 Government Code (the "Development Agreement Statute"), which authorizes a local agency to vest a
+22 property owner's development rights on its property in accordance with the land use regulations and
+
+23 zoning/land use designations applicable at the time the development agreement was entered into. At
+
+24 the time the original development agreement and the ARDA were entered into, the zoning
+25 designations applicable to the West Alton Parcel were Preservation and Exclusive Agriculture.
+
+26 25. Section 7.9 of the ARDA further acknowledged the County's obligation set forth in
+27 the Pre-Annexation Agreement to pay for its fair share of infrastructure improvements, required the
+
+28 City to actively enforce these provisions of the Pre-Annexation Agreement, and recognized the fact
+
+Gibson, Dunn & 8
+Crutchei LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+-
+
+2 that nothing in the Development Agreement should be deemed as a "waiver by Heritage Fields of any
+
+3 rights Heritage Fields" has against the County with respect to enforcing the Pre-Annexation
+
+Agreement.
+
+4 26.
+
+5 In 2006, the County acknowledged the limited uses to which the West Alton Parcel
+may be put, writing to the Orange County Grand Jury that:
+
+6
+
+7 Irvine agreed to the County sharing in a certain percentage of the property taxes as well as receipt of certain parcels of property, totaling
+
+8 approximately 240 acres to be used for certain County purposes such as a Youth 'and Family Resource Center, an animal shelter, childcare
+
+9 27. facilities, law enforcement training facilities, and an emergency shelter.
+
+10 Eight years after this admission and more than ten years after the Pre-Annexation
+
+11 Agreement was enacted, on January 28, 2014, the County Board of Supervisors approved a
+
+12 Disposition and Development Agreement with Lowe as the Developer of both the County's West
+
+13 Alton Parcel and a nearby parcel of land also conveyed to the County pursuant to the Pre-Annexation
+
+14 Agreement, the "100-Acre" Property. On information and belief, Lowe proceeded to create
+
+15 development plans that would allow for the development of private dwellings on the West Alton
+
+16 Parcel and a combination of private offices, private dwellings, private retail, and private hotel uses on
+the 100-Acre Property.
+
+17 28.
+
+18 A Notice of Preparation of a Draft EIR was released by the County and was filed with
+
+19 the State Clearinghouse on December 19, 2014. The Draft EIR was released for a 60-day review
+
+20 period on December 9, 2016. Sixteen governmental agencies and corporate or organizational
+
+21 entities--including Heritage Fields-submitted comment letters during the review period raising a
+
+22 myriad of defects with the EIR, including but not limited to a failure to (i) accurately identify the
+
+proper
+
+23 land use jurisdiction over the West Alton Parcel, (ii) adequately mitigate significant impacts to
+
+24 parks and recreational uses in neighboring jurisdictions, (iii) accurately disclose inconsistencies with
+
+25 applicable land use and air quality regulations, (iv) properly mitigate traffic impacts, (v) properly
+
+26 analyze, disclose and mitigate air quality and greenhouse gas emission impacts, and (vi) properly
+mitigate against impacts to the wildlife corridor.
+
+27 29.
+
+28 On May 23, 2018, the County released a Notice of Completion of the Final EIR, but
+did a not mail a copy of the Notice to Heritage Fields. Heritage Fields learned of the completion of the
+
+Gibson, Dunn i Crutcher LLP 9
+VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+Final EIR and its scheduled June 5, 2018 approval date before the Board of Supervisors just shortly
+
+2 before June 5. By failing to provide the legally required notice, the County deprived Heritage Fields
+
+3 of a full opportunity to review and provide additional comments to the Board of Supervisors on the
+
+4 EIR.
+
+5 30. Buried in the responses and revisions to the Draft EIR is a complete reversal of the
+
+6 EIR's conclusions with respect to greenhouse gas emissions. The EIR does not fully explain this
+
+7 conclusory reversal of position, and the cursory analysis contains substantive errors that the public
+
+8 was never afforded the opportunity to comment on.
+
+9 31. Omitted from these documents was any substantive County response to the objection
+
+10 raised repeatedly by numerous commentersincluding Heritage Fields-that the EIR's assumption
+
+11 that the County, and not the City, has land use jurisdiction over the West Alton Parcel is incorrect as
+
+12 a matter of law. Therefore, the County has not proceeded in a manner according to law, in violation
+
+13 of CEQA.
+
+14 32. On June 5, 2018, the Board of Supervisors heard objections to the West Alton Plan
+
+15 from public speakers and received additional comment letters reiterating previous objections and
+
+16 identifying new failures to comply with CEQA arising from the Final EIR's responses to comments.
+
+17 The County Board of Supervisors nevertheless certified the EIR, adopted the Statement of Overriding
+
+18 Considerations, and approved the West Alton Plan.
+
+19 33. A Notice of Determination was filed by the County on June 5, 2018.
+
+20 EXHAUSTION OF ADMINISTRATIVE REMEDIES
+
+21 34. Heritage Fields objected to the West Alton Plan in the administrative proceedings, and
+
+22 fully exhausted its administrative remedies, including the submission of at least two letters raising
+23 issues with the adequacy of the EIR and objections to the legally flawed process.
+
+24 35. Either Heritage Fields or other commenters in the CEQA administrative process raised
+
+25 all factual and legal issues asserted under CEQA in this Petition. Heritage Fields has thus exhausted
+26 all administrative remedies available to it, or such exhaustion is otherwise futile.
+
+27 36. Heritage Fields has complied with Public Resources Code section 21167.5 by
+28 providing the County with notice of its intention to commence the action. Proof of service of the
+
+Gibson, Dunn & 10
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+- notice is attached as Exhibit 1. A copy of this Petition is being sent by registered mail to the Attorney
+2 General of the State of California.
+
+3 37. Heritage Fields elects to prepare the administrative record. A copy of that election is
+
+4 attached as Exhibit 2.
+
+5 38. On August 31, 2018, Heritage Fields submitted a Claim for Money or Damages
+6 Against the County of Orange (pursuant to Government Code section 910 et seq) (the "Claim
+7 Form"). The County did not respond to the Claim Form within 45 days. A copy of the Claim Form
+8 is attached hereto as Exhibit 3.
+
+9 FIRST CAUSE OF ACTION
+
+10 (Violations of the California Environmental Quality Act Against Respondent and Real
+
+11 Party in Interest)
+
+12 39. Heritage Fields incorporates paragraphs 1 through 38 of this Petition as though fully
+
+13 set forth herein.
+
+14 County's Failure to Provide Adequate Notice of the EIR's Notice of Completion
+15 40. California Public Resources Code section 21092.2 requires a lead agency to mail a
+
+16 notices to persons who make a written request to the appropriate person at the agency for such
+17 notices.
+
+18 41. By letter dated February 9, 2017 to Eric Hull, the County of Orange CEO Real
+
+19 Estate/Land Development, Heritage Fields requested a copy of the Notice of Completion prepared for
+
+20 the West Alton Plan EIR by reference to Section 21092.2 of the Public Resources Code.
+21 42. The County issued the Notice of Completion on May 23, 2018, but did not provide the
+22 required Notice to Heritage Fields or otherwise substantially comply with the requirements of section
+
+23 21092.2.
+
+24 43. As a result, Heritage Fields only learned of the Notice of Completion by happenstance
+
+25 close to June 5, 2018, the date that the County Board of Supervisors was scheduled to consider
+
+26 certification of the EIR. By failing to provide the legally required notice, the County deprived
+
+27 Heritage Fields of a full opportunity to review and provide additional comments on the EIR to the
+
+28 Board of Supervisors.
+
+11 Gibson, Dunn & Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+44. Because there was no compliance with section 21092.2, the County should not have
+
+2 certified the EIR on June 5, 2018, and should have allotted more time for Heritage Fields' review and
+
+3 comment on the Final EIR. The EIR's certification should be invalidated for this reason.
+
+4 The EIR Impermissibly Piecemealed Analysis: The West Alton Plan and 100-Acre Plan
+
+5 Are One Project
+
+6 45. CEQA Guidelines Section 15378 defines a project to mean the "whole of an action."
+7 CEQA prohibits the segmenting of a project into smaller components to avoid the risk that
+
+8 environmental impacts from each project segment will be "submerged," potentially leading to
+
+9 cumulatively "disastrous consequences."
+
+10 46. The County impermissibly splits the West Alton and 100-Acre portions of the Lowe
+
+11 Development Project into two separate EIRs, released just weeks apart, despite the fact that Lowe has
+12 the exclusive right to engage in a comprehensive development scheme for both the 100-Acre
+13 Property and the West Alton Parcel pursuant to the same Disposition and Development Agreement
+14 ("DDA") with the County. The DDA expressly defines the Lowe development scheme covering the
+15 100-Acre Property and the West Alton Parcel as a single "Project." Indeed, page of the DDA
+
+16 defines the "project" as Entitlements which "will permit the development of an economically viable,
+17 mixed-used development for the Property." The definition of the term "Project" unambiguously
+
+18 refers to a single mixed-use development project. And "Property" is depicted and described in
+
+19 Exhibit A of the DDA as including both the 100-Acre Property and the West Alton Parcel.
+20 Moreover, the development plans for both portions of the project were prepared by Lowe.
+21 47. The two property components not only share the same developer, they are both located
+22 on the former MCAS EI Toro Property, utilize the same roadways, and require similar amendments to
+
+23 the same City Planning Area 51 zoning regulations. They also share the same architect/master
+
+24 planner and contain largely parallel Development Plans. Lowe's development timeline (Exhibit F to
+
+25 the DDA) treats the development of the West Alton and 100-Acre Property parcels as a single
+
+26 component and even appears to anticipate single CEQA review process:
+
+27 Lowe's Task is to conduct a Site Assessment for both the 100-Acre and
+
+28 West Alton Parcel concurrently;
+
+Gibson, Dunn & 12
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES,
+DECLARATORY AND INJUNCTIVE RELIEF
+
+Lowe's Task 2 is to create a (singular) "Master Plan/Specific Plan" for both the 100-Acre and West Alton Parcel concurrently; 2
+Lowe's Task 3 is 3 to evaluate infrastructure and financing for both the 100-
+3 Acre and West Alton Parcel concurrently;
+
+4 Lowe's Task 4 is to conduct research and technical studies for both the 100- Acre and West Alton Parcel concurrently; 5
+Lowe's Task 5 is to comply with CEQA for both the 100-Acre and West 6 Alton Parcel concurrently; and
+
+7 Lowe's Task 6 is to gain entitlements for both the 100-Acre and West Alton Parcel concurrently. 8
+48. Given the integrated nature of the development plan for the two properties, one EIR
+9 should have analyzed both projects, and the County's failure to do so represents impermissible
+10 segmentation of a unified project.
+11
+The Project Description Inaccurately Describes the County Role in the West Alton Plan
+12
+49. The EIR wrongly asserts that the County Board of Supervisors is the decision-making
+13 body and effectively the CEQA applicant for the West Alton Plan. However, a private developer is
+14 the real-party-in-interest and proponent of the development plans for the West Alton and 100-Acre
+15
+parcels.
+16
+50. The County uses this sleight of hand in an attempt to evade both City and County land
+17 use regulations. California law does a not allow a private developer to override local land use
+18 jurisdiction simply because that private developer is building on land owned by the County. Nor
+19 could the County, when acting in a proprietary capacity as the owner of the land, and separate from
+20 its core governmental mission, act in a manner contrary to the regulations of the applicable municipal
+21
+government.
+22 51. Here, a private developer's plan was the basis for the West Alton Plan, and the uses
+23 are similar to other private development. Lowe is the formally approved author of the West Alton
+24 Plan, and the development plan consistently anticipates that private applicants will implement the
+25
+West Alton Plan.
+26
+52. By characterizing the West Alton Plan as a County a project, the EIR misrepresented the
+27 project and misled the public.
+28
+
+Gibson, Dunn & 13
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES,
+DECLARATORY AND INJUNCTIVE RELIEF
+
+The EIR Fails to Accurately Describe the Land Use Jurisdiction Applicable to the West
+
+2 Alton Plan and Fails to Make a Good-Faith Effort to Disclose Conflicts with Applicable
+
+3 General Plan and Zoning Ordinances
+
+4 53. CEQA requires that a lead agency conduct an adequate environmental review prior to
+
+5 approving a discretionary project. This duty includes an obligation to make a good-faith effort at full
+
+6 disclosure to the public of all significant environmental effects that may occur as a result of the
+
+7 Project.
+
+8 54. The EIR identifies Land Use/Planning as an appropriate environmental topic for
+
+9 impacts analysis, and purports that the West Alton Plan's first objective is to build a project that is
+
+10 compatible with the surrounding existing and planned land uses in the area.
+
+11 55. But the EIR fails to make : good-faith effort to evaluate potential "conflicts with any
+
+12 applicable land use plan, policy or regulation of an agency with jurisdiction over the project," as
+13 required by CEQA and the EIR's Threshold 4.10-1. The EIR's failure to accurately describe this
+14 impact renders the EIR inadequate and in violation of CEQA.
+
+15 56. Any sufficient analysis of the West Alton Plan's consistency with applicable land use
+16 controls requires the EIR to identify which land use controls apply. The EIR took the unsupportable
+
+17 position that the Project is exempt from any land use requirements, including but not limited to City
+
+18 and County General Plan and zoning requirements. All analysis in the EIR that flows from this
+
+19 erroneous conclusion is necessarily flawed.
+
+20 57. Due to this extraordinary position that the West Alton Plan is exempt from all
+
+21 planning, zoning, and land use regulations, the EIR fails to accurately disclose which plans are
+
+22 applicable to the Project site. The EIR never provides an answer as to how land use impacts are to be
+
+23 measured given that the EIR does not even disclose the policies and standards applicable to the
+
+24 project.
+
+25 58. Moreover, this position is contradicted elsewhere in the EIR. For example, the EIR
+
+26 rejected Caltrans' comment that different thresholds of significance should be used by responding
+
+27 that the West Alton Parcel is within the City and so City thresholds of significance should govern.
+
+28 But elsewhere, the EIR rejects the use of City thresholds as inapplicable by arguing that the City has
+
+Gibson, Dunn & 14
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+no jurisdiction over the site. This position is also directly contradicted by the DDA (Exhibit F),
+
+2 which requires Lowe to (among other tasks) (a) submit applications to the City of Irvine for a General
+3 Plan Amendment, Zone Change(s), and Master Plan; (b) process through approval, a Tentative Tract
+
+4 Map for the 100 Acre Parcel and Alton Parcels; and (c) negotiate a Development Agreement between
+
+5 the County and City, if required.
+
+6 59. Identification of the jurisdictions having land use authority over the Project is directly
+7 relevant to CEQA analysis generally and to this EIR in particular, and the County's position that no
+
+8 authority applies is contrary to law.
+
+9 60. There is no immunity for private parties with respect to their own private pursuits
+
+10 merely because : County happens to be the private party's landlord. Accordingly, the West Alton
+
+11 Parcel, like all of its similarly situated neighboring properties, should be subject to City oversight and
+
+12 regulation, and City standards and thresholds of significance should be utilized in all the EIR
+
+13 analyses, and they were not. The EIR also did not fully or accurately identify the Project's
+14 inconsistency with the City's TTOD Zoning, and thus failed to make the good-faith effort at
+
+15 disclosure required by CEQA.
+16 61. Alternatively, if the language of the Pre-Annexation Agreement stating that the West
+17 Alton Parcel is to be treated as though it is unincorporated is correct, County's regulations, plans, and
+
+18 standards must apply. And, as noted in the recitals to the Pre-Annexation Agreement, the County's
+
+19 Measure W applied open space and public use land use designations to the Property. The West Alton
+
+20 Plan complies with none of these use restrictions and none of these development standards.
+
+21 The EIR Inaccurately Analyzes the Project's Provision of Parkland
+
+22 62. The EIR is required to evaluate significant impacts to existing park facilities that will
+
+23 be caused by, for example, increased use of existing park facilities due to an insufficient supply of
+
+24 parks provided by a new development.
+
+25 63. The EIR fails to accurately or consistently evaluate the Project's provision of parkland
+
+26 under this standard. First, Topical Response 3.1.5 (Parks) makes internally contradictory
+
+27 interpretations of CEQA thresholds and obfuscates which standard the EIR is using to measure
+
+28 impacts: just before it cites to the County zoning standards as the measure of determining a
+
+Gibson, Dunn & 15
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES,
+DECLARATORY AND INJUNCTIVE RELIEF
+
+significant impact under CEQA, the Response states that "neither the City's nor the County's typical
+
+2 parkland standards apply to the proposed Project."
+
+3 64. The Project is plainly inconsistent with the City's park standards, which are the
+
+4 standards that should apply because the West Alton Parcel is located within the City. While the
+
+5 County standard only requires 2.5 acres of parkland per 1,000 people, the City standards require
+
+6 minimum of five acres per 1,000 people (consisting of two acres of community parks and three acres
+7 of neighborhood parks).
+
+8 65. Additionally, the Final EIR's parkland analysis incorrectly identifies Beacon Park and
+
+9 Pavilion Park as "public," and both are private parks. This is not a technical error. Failing to identify
+
+10 these parks as private means the EIR wrongly assumes and informs the public that these parks will be
+
+11 available to serve residents of the West Alton plan, and they will not. Therefore, the EIR does not
+
+12 properly analyze and disclose the impacts of the potential new residents on existing park facilities.
+
+13 The EIR' Public Services Analysis Is Deficient Because Impacts on Schools Are Greater
+
+14 Than Disclosed and Inadequately Mitigated
+
+15 66. The EIR assumes that the current capacity in the three Irvine Unified School District
+
+16 schools assigned to the Project site is available to accommodate students that would be generated by
+
+17 the Project, and hence that the students generated "would not exceed the available capacity of the
+
+18 schools that would serve the Project." The analysis ignores the fact that attendance in these schools,
+
+19 or any of the other new schools built by Heritage Fields, will be taken up by students from existing,
+
+20 previously approved and fully vested projects within the boundaries of the School District, SO the
+
+21 analysis is flawed.
+
+22 67. Further, the failure of Lowe and the County to enter into a mitigation agreement with
+
+23 the School District means that (1) students from the West Alton Plan may lack access to the schools
+24 identified in the EIR, and (2) the School District will have to construct additional school facilities
+
+25 and/or redirect Project students to schools farther from the Project. The impacts of these reasonably
+
+26 foreseeable consequences of the Project were not adequately analyzed in the EIR.
+
+27 68. The Project makes no commitment to provide necessary school facilities, and
+
+28 impermissibly defers analysis to a later date.
+
+Gibson, Dunn & 16
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+The EIR Fails to Adequately Analyze or Mitigate Traffic Impacts
+
+2 69. As pointed out in Heritage Fields' comment letter, the EIR does not depict the most
+
+3 recently approved vested tentative tract maps for the Great Park Neighborhoods; therefore, it does not
+
+4 disclose-let alone analyze-the insufficient intersection spacing that the Project would create along
+
+5 Irvine Boulevard between the primary and secondary entrances into the Project site.
+
+6 70. The EIR acknowledges that the Project will contribute to significant traffic impacts,
+
+7 and so mitigation is required. CEQA requires that mitigation measures be feasible and enforceable,
+
+8 including with respect to legal impediments.
+
+9 71. The Pre-Annexation Agreement provided that the West Alton Parcel should be zoned
+
+10 to allow use as a "Sheriff Agriculture & Habitat Mitigation Area," and the land is presently zoned as
+
+11 Preservation and Exclusive Agriculture. Because of this agricultural/preservation designation, none
+
+12 of the regional infrastructure studies, including those prepared for the North Irvine Transportation
+
+13 Mitigation Program ("NITM") and the Southern California Association of Governments' RTP/SCS,
+
+14 accounted for traffic or other impacts that would be generated by the proposed residential
+
+15 development on this Project site. And neither the County nor Lowe are members of NITM.
+
+16 72. Rather than mitigating the significant traffic impacts, the Draft EIR provided that the
+
+17 County will either request that it become a member of NITM or enter into a separate agreement with
+18 the City. Recognizing this deficiency, the County dramatically re-worked the transportation
+
+19 mitigation measures in the Final EIR to provide that the County would conduct a vaguely defined fee
+
+20 reallocation study to establish the Project's fair share traffic mitigation fees. However, the Final EIR
+
+21 establishes no standards for this fee reallocation study, and thus decision makers and members of the
+
+22 public-including Heritage Fields--that rely on the NITM program are left wondering what (if
+23 anything) this fee reallocation study will accomplish.
+
+24 73. Revised mitigation measure MM TRAN-3 fails to meet CEQA's standards and fails to
+
+25 resolve the fundamental flaw of the mitigation measure's original iteration because it continues to
+
+26 require future agreement to be reached between the City of Irvine and the County, but fails to
+27 provide how fair share payments will be made if no such agreement is reached. The evidence does
+
+28
+
+Gibson, Dunn & 17
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+not demonstrate that this measure will actually require Lowe and the County to mitigate the Project's
+
+2 significant traffic impacts.
+
+3 74. Moreover, CEQA Guidelines Section 15088.5 requires an environmental impact
+
+4 report to be recirculated when "significant new information is added to the EIR" after it is released
+
+5 for public comment but before it is certified. By dramatically altering the mitigation measure without
+
+6 providing a meaningful opportunity for the public to review the new information, the County failed to
+
+7 proceed in the manner required by law.
+
+8 75. This mitigation measure is wholly inadequate because it does not address what
+
+9 happens if the County and/or Lowe are unable to reach the contemplated agreements, and the EIR
+
+10 does not adequately specify the contents of the agreement. This leaves the adequacy and actual terms
+
+11 of the mitigation obligation entirely uncertain and renders the assurances of mitigation illusory.
+
+12 The EIR Improperly Defers Mitigation and Analysis to Subsequent Environmental
+
+13 Reviews That May Never Occur
+
+14 76. Topical Response 3.1.3 asserts that future development applications will be subject to
+
+15 CEQA. However, as explained in that Topical Response, the West Alton Plan provides that
+
+16 "decisions made by the Chief Real Estate Officer or the EI Toro Review Board on such appeals are
+
+17 final."
+
+18 77. Further, only the applicant, property owner, or ground lessee who submitted a written
+
+19 comment during the courtesy review period may file an appeal. Thus, the subsequent public review
+
+20 right is not meaningful, and does not make up for the failure to adequately disclose the known or
+
+21 reasonably foreseeable impacts of the Project at this stage of the environmental review process.
+
+22 The Greenhouse Gas Impact Conclusion Is Unsupported By Substantial Evidence and
+
+23 the EIR Must Be Recirculated Due to the Addition of Significant New Information
+
+24 78. CEQA Guidelines Section 15088.5 requires an environmental impact report to be
+
+25 recirculated when "significant new information is added to the EIR" after it is released for public
+
+26 comment but before it is certified.
+
+27 79. The Final EIR reversed the conclusion of the Draft EIR with respect to whether the
+
+28 West Alton Plan would cause a significant impact on greenhouse gas emissions. The Draft EIR had
+
+Gibson, Dunn & 18
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+-
+
+2 concluded that there would be significant and unavoidable impacts, but the Final EIR reversed this
+
+3 conclusion. The Final EIR fails to fully explain this reversal of position, thus depriving members of
+
+L the public with a reasonable opportunity to review and comment on this significant change.
+
+80.
+
+5 Although the sudden change and brand-new analysis is not fully explained by the EIR,
+
+6 it appears that this sudden change is based (at least in part) on the addition of mitigation measures
+that are not adequately quantified.
+
+7 81.
+
+8 The EIR also fails to provide the analysis necessary to explain how the added GHG
+
+9 mitigation measures resolve the impact under Significance Threshold 4.7-2, particularly given that
+
+10 Topical Responses to other issues continue to indicate that the West Alton Plan conflicts with
+
+11 applicable regional growth plans adopted, in part, to meet the State's greenhouse gas
+reduction goals. emission
+
+12 82.
+
+13 The reversal of position is particularly confusing in light of the fact that Topical
+
+14 Response 3.1.8 of the Final EIR continues to state that, although the Draft EIR explains why "the
+
+15 Project would not conflict with the RTP/SCS goals, strategies, and policies" which were adopted to
+
+16 achieve the State's greenhouse gas cmission reduction goals, the "[Orange County Projcctions] data
+
+17 set did not reflect the Project." On this basis Topical Response 3.1.8 concludes that the planning
+
+18 level impacts of the Project remain significant and unavoidable. In other words, the Final EIR's
+
+19 conclusory reversal of position on greenhouse gas emissions is internally contradicted by other
+
+20 sections of the Final EIR, and thus unsupported by substantial evidence.
+
+83.
+
+21 The EIR's sudden reversal of its analysis requires further analysis, revisions to ensure
+
+22 consistency, and recirculation so that the public and decision makers will not be deprived of a
+
+23 meaningful opportunity to review and comment on the EIR.
+
+24 The Findings and Statement of Overriding Considerations Are Unsupported by
+
+Substantial Evidence
+
+25 84.
+
+26 CEQA requires that a project with significant adverse impacts be approved only if the
+
+27 lead agency makes findings-supported by substantial evidence-that the project's benefits will
+
+28 outweigh its adverse impacts and that there are not feasible mitigation measures or less damaging
+alternatives available.
+
+Gibson, Dunn & Crutcher LLP 19
+VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+85. Because the EIR fails to accurately identify all of the Project's significant impacts, the
+
+2 County never adopted findings to justify the Project's impacts in these areas. Thus, the Statement of
+
+3 Overriding Considerations fails to meet CEQA requirements.
+
+4 86. For all of the reasons set forth above, the Court should decertify the EIR and enjoin
+
+5 the County and Lowe from taking any further action with respect to the Project, until a timely writ of
+
+6 mandate is returned to this Court in compliance with CEQA, and the other applicable land use
+
+7 regulations violated by Respondent's and Real Party's actions.
+
+8 SECOND CAUSE OF ACTION
+
+9 (Petition for Writ of Traditional Mandamus Under Code of Civil Procedure
+
+10 Section 1085 or Alternatively Under Section 1094.5 Against Respondents)
+11 87. Heritage Fields incorporates paragraphs 1 through 86 of this Petition and Complaint as
+12 though fully set forth herein.
+
+13 88. Heritage Fields seeks a writ of traditional mandamus pursuant to Code of Civil
+
+14 Procedure Section 1085, or alternatively an administrative mandamus pursuant to Section 1094.5.
+
+15 The County's approval of the West Alton Plan is contrary to law and is a prejudicial abuse of
+
+16 discretion.
+
+17 89. Review is appropriate under Code of Civil Procedure Section 1085 or Section 1094.5
+
+18 because the County has failed to act in the manner required by law, committed an abuse of discretion,
+
+19 and thus the repeal of the West Alton Plan is specifically required by the law.
+
+20 90. Heritage Fields has exhausted its administrative remedies through its participation in
+
+21 the public processes preceding the approval.
+22 91. Heritage Fields has no plain, speedy and adequate remedy in the ordinary course of
+
+23 law to challenge the County's actions.
+
+24 92. As a result, Heritage Fields is entitled to, and requests that this Court issue, a
+25 peremptory writ of mandate compelling the County to repeal its approval of the West Alton Plan.
+26
+
+27
+
+28
+
+Gibson, Dunn & 20
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+The City--and Only the City-Has the Authority to Approve a Private Development
+
+2 Project Within Its Jurisdictional Boundaries.
+
+3 93. The County asserts that the City's zoning and land use jurisdiction is inapplicable to
+
+4 the Project due to California Government Code Sections 53090-53091, which the Draft EIR
+
+5 incorrectly says "exempts [cities and counties] from zoning regulations when one entity owns
+
+6 territory within the jurisdiction of another entity." However, the County fails to note that the
+
+7 exemption from intergovernmental immunity cited by the County applies only to actions taken in a
+
+g governmental capacity; for actions which involve private or commercial projects, the jurisdiction in
+
+9 which the property is located retains land use control. Thus, a state or local agency may not "extend
+
+10 its immunity to private entrepreneurs who are involved in the local commercial market where their
+
+I1 competitors are subject to local regulation." (Board of Trustees v. City of Los Angeles (1975) 49
+
+12 Cal.App.3d 45, 50.) Following Board of Trustees, the California Attorney General reconsidered an
+
+13 earlier opinion (that it coincidentally had issued to the County of Orange) originally indicating a
+
+14 relatively broad degree of immunity when one jurisdiction owned land within the boundaries of
+
+15 another jurisdiction. Instead, the Attorney General opined that the proper view of Government Code
+
+16 Sections 53090-91 is that these statutes do not extend immunity to "private parties with respect to
+
+17 their own private pursuits merely because the state" (or by parity of reasoning, the County) "happens
+
+18 to be their landlord." 68 Ops.Cal.Atty.Gen. 114, 121. Accordingly, the Project is subject to-the land
+
+19 use jurisdiction of the City-not the County--and the County's approval of the West Alton Plan was
+
+20 taken without legal authority. (Xavier Becerra, Opinion of the Attorney General, No. 14-403 (Dec. 6,
+
+21 2018)
+
+22 94. Here, the Project is being proposed by Lowe pursuant to a disposition and
+
+23 development agreement ("DDA") in which Lowe will be the "applicant" and "face" of the Project,
+
+24 and is obligated to secure entitlements from relevant public agencies, minimize risks to the County,
+
+25 and maximize potential for an extremely favorable financial return for the County.
+
+26 95. Lowe's role as the "applicant" and "face" of the Project is further demonstrated by the
+
+27 fact that the West Alton Plan appended to the Draft EIR was prepared for Lowe and the County (and,
+
+28 indeed, has Lowe's logo on the front cover).
+
+Gibson, Dunn / 21
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+96. The County's Master Ground Lease with Lowe (the "Master Lease") on the
+
+2 corresponding 100-Acre Property contemplates a term of 99 years, a term which connotes long-term
+
+3 private use and ownership. It is contemplated that Lowe or some other private developer will pursue
+4 a similar lease for the West Alton Project.
+
+5 97. That Master Lease for the 100-Acre Property makes plain the fact that the County is
+
+6 not a partner nor in a joint venture with Lowe. This West Alton parcel will be developed as a private
+
+7 development project and it is therefore subject to full City regulatory and land use authority, even
+
+8 though the County is the landlord. Section 24 of the Master Lease makes clear that "it is expressly
+
+9 understood and agreed that [the] County does not in any way or for any purpose become a partner of
+
+10 or a joint venturer with [Lowe] in the conduct of [Lowe's] business or otherwise." Indeed, Section
+
+11 12.5 of the Master Lease would allow Lowe to make recommendations for the sale of all or a portion
+
+12 of the property to third parties in furtherance of Lowe's obligation to undertake "the master planning,
+
+13 entitlement, and infrastructure development for the Property, entitling and developing the Property
+
+14 for its highest, best and most economically viable use." It is anticipated that a similar master lease
+
+15 will be approved by the County for the West Alton parcel.
+
+16 98. In other words, and further supported by the above, the West Alton Plan is an approval
+
+17 for an unequivocally private development project undertaken by Lowe or some other private
+
+18 developer on a property located within the incorporated City. The County, although it owns the
+
+19 Property, has no immunity from City jurisdiction for private projects and therefore lacks the
+
+20 jurisdiction to authorize this development, and the City has not approved the development.
+
+21 Moreover, even if Lowe is not the ultimate developer of the Project, the same restrictions and
+22 limitations that presently apply to Lowe would also apply to any private developer selected for the
+
+23 Project.
+
+24 99. To the extent the County were to possess jurisdiction to approve a private
+
+25 development project within the City of Irvine (which it does not), the Project nonetheless fails to
+
+26 comply with the County's General Plan.
+
+27 100. It would be a complete violation of state planning laws to have a project that need not
+28 conform to any General Plan. (E.g., East Sacramento Partnership for a Livable. City v. City of
+
+Gibson, Dunn & 22 Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+2 Sacramento (2016) 5 Cal.App.5th 281 ["local land use and development decisions must be consistent
+
+3 with the applicable general plan"]; Citizens of Goleta Valley v. Board of Supervisors, 52 Cal.3d 553,
+
+4 570 (1990) [*the propriety of virtually any local decision affecting land use and development
+
+5 depends upon consistency with the applicable general plan and its elements™*] (quoting Resource
+Defense Fund v. County of Santa Cruz (1982) 133 Cal.App.3d 800, 806.))
+
+6 101.
+
+7 Moreover, even accepting the County's demonstrably incorrect position that the
+private West Alton Plan is
+
+8 "public project," County development and infrastructure improvements
+
+9 still must be consistent with adopted General Plans. (See, e.g., Friends of "B" Street v. City of
+
+10 Hayward (1980) 106 Cal.App.3d 988, 998 [citing Government Code section 65302's requirement
+
+11 that a local agency must comply with specified mandatory elements of an adopted general plan and
+
+12 noting that the "Legislature did not limit this policy to decisions regarding proposed private
+
+• * 13 developments; it encompasses all decisions involving the future growth of the state, which
+
+14 necessarily includes decisions by a city to proceed with public works projects. All such decisions are
+
+15 to be guided by an effective planning process that includes the local general plan"].)
+102.
+
+16 Further, to the extent the County had planning jurisdiction, the County failed to submit
+
+17 the West Alton Plan for a review by and recommendation from the County's Planning Commission,
+
+18 even though this procedural requirement is imposed on both public and private projects. Section 7-9-
+
+19 5(a) of the Orange County Code vests the County Planning Commission with the power to
+
+20 "recommend to the officers of the County adoption of plans and regulations for the future growth,
+
+21 development and beautification of the County in respect to public and private development."
+(Emphasis added.)
+
+22 103.
+
+23 The Board of Supervisors' adoption of the West Alton Plan without any noticed
+
+24 hearing or review by the Planning Commission violates Section 65453 of the California Government
+
+25 Code, which requires specific plans (the closest analogy to the West Alton Plan) to be subject to
+
+26 review by the Planning Commission. No such review occurred for the Project.
+
+104.
+
+27 Moreover, each of the Planning Commission and the Board of Supervisors (the
+
+28 legislative body for the County) must hold at least one public hearing for which public notice is given
+through publishing in a newspaper of general circulation not less than ten days prior to the hearing.
+
+Gibson, Dunn & Crutcher LLP 23
+VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+(See Sections 65353-54 of the Government Code.) On information and belief, the County held no
+
+2 public hearings and provided no notice in the form required by the Government Code.
+
+3 105. Similarly, even if the County were to claim that the West Alton Plan constitutes :
+
+4 zoning enactment other than a specific plan, Section 65853 et seq. requires the Planning Commission
+
+5 to review other proposed land use ordinances at a noticed public hearing. Thus, regardless of
+
+6 whether the County characterizes the "West Alton Plan" as a specific plan or other zoning enactment,
+
+7 the County failed to proceed in the manner required by law.
+
+8 106. Beyond these procedural defects, the West Alton Plan violates the foundational
+
+9 requirement that all zoning enactments and development projects be compatible with the objectives,
+
+10 policies, general land uses, and programs specified in a General Plan. (Cal. Gov. Code §
+
+11 65860(a)(ii).) As emphasized by the California Supreme Court, a zoning ordinance that is
+12 inconsistent with the general plan is void ab initio. (Lesher Communications, Inc. V. City of Walnut
+
+13 Creek (1989) 262 Cal.Rptr. 337.)
+
+14 107. For example, the West Alton Plan is inconsistent with the provisions of Measure W, a
+
+15 voter initiative approved in 2002 that enacted County General Plan amendments that changed "the
+
+16 allowed reuse of MCAS EI Toro to a non-aviation plan, consisting of educational, recreational, open
+
+17 space cultural and other public uses" for so long as the area remained unincorporated.
+
+18 108. The Measure W General Plan designation restricting the use to "educational,
+
+19 recreational, open space cultural and other public uses" could not be modified by an action of the
+
+20 Board of Supervisors because Section 9 of Measure W provides that "[t]he Initiative may be amended
+
+21 only by a vote of the people at a regular election held in accordance with the requirements of the
+
+22 California Elections Code.3 And, as acknowledged in the Pre-Annexation Agreement, Measure W
+
+23 applied open space designations to the Property. The one land use designation other than an "open
+
+24 space" designation (which still does not allow the current Lowe proposal) was an "Education/Park
+
+25 Compatible" designation, which called for long-term uses focused on educational facilities and
+
+26 related research and development uses. That designation provided for 80% of the area to remain as
+
+27 open space, a maximum Floor to Area Ratio of 0.4, and a maximum of 45 employees per acre. The
+
+28 West Alton Plan violates every one of these standards.
+
+Gibson, Dunn & 24 Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+109. In short, the County's approval of the West Alton Plan violates Measure W by
+
+2 enacting a land use plan wholly inconsistent with the General Plan provisions adopted by voters,
+
+3 despite the requirement that the land use plan enacted by Measure W could only be amended by a
+
+4 vote of the people for so long as the land remains "unincorporated."
+
+5 110. The West Alton Plan is further inconsistent with the numeric, objective standards for
+
+6 the provision of park land contained in the County's General Plan.
+
+7 111. In addition to the fact that the West Alton Plan was never approved by the City, it
+
+8 violates numerous City standards, including the existing City General Plan designation of the site.
+
+9 112. The West Alton Plan thus followed none of the (even potentially) applicable rules:
+10 it was not adopted by the City (which is the only jurisdiction with land use
+11 authority over this private development project);
+
+12 it was not adopted following the required County procedures for review of private development projects;
+13 it violates numerous substantive provisions of the County General Plan
+14 applicable to both public and private developments;
+
+15 113. Thus, Heritage Fields is entitled to, and requests that this Court issue, a peremptory
+16 writ of mandate compelling the County to repeal its approval of the West Alton Plan.
+
+17 THIRD CAUSE OF ACTION
+
+18 (Intentional Interference with Contractual Relations Against Defendant County)
+19 114. Heritage Fields incorporates paragraphs 1 through 113 of this Complaint as though
+
+20 fully set forth herein.
+
+21 115. On or about December 27, 2010, Plaintiff Heritage Fields executed the ARDA with
+22 the City and the Irvine Redevelopment Agency ("RDA"). The ARDA was recorded on the same day.
+23 The ARDA is valid and enforceable contract that remains in effect between Heritage Fields, the
+24 City, and the Successor Agency to the RDA.
+25 116. The County is not and has never been a party to the ARDA; however, the ARDA is an
+26 existing encumbrance on the County property that was recorded against title as part of the original
+27 Great Park transaction.
+
+28
+
+Gibson, Dunn & 25 Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+117. Defendant County had knowledge of the ARDA at the time that it was entered into,
+
+2 because it was adopted as part of a public process and subsequently recorded. The County also had
+knowledge of the ARDA throughout the CEQA environmental review process for the West Alton
+
+4 Plan, because the EIR for the Project references the ARDA throughout its analysis. Exhibit L of the
+
+5 ARDA contains the Overlay Plan for the Heritage Fields development and expressly provides that the
+
+6 West Alton Parcel would be developed with "agricultural" uses.
+
+7 118. By approving the West Alton Plan and entering into contracts such as the Master
+
+8 Ground Lease with Lowe, the County committed acts of governance intentionally designed to induce
+
+9 a breach or disruption of the ARDA. Defendant County knew or was at minimum substantially
+
+10 certain that such breach or disruption was a necessary consequence of its actions.
+
+11 119. As a result of Defendant County's above-described actions, there has been a breach or
+
+12 disruption of the ARDA. Section 3.9.4 of the ARDA requires the City to construct a park on the
+
+13 Great Park Property substantially in compliance with the Great Park Master Plan. The construction
+
+14 of such a park requires a certain amount of allocated traffic capacity. With the County contracting
+
+15 with Lowe to pursue the West Alton Plan-an unanticipated and unlawful dense private development
+
+16 which uses substantially more trips than assumed under the ARDA-in the oC Great Park area, the
+
+17 County proposes to utilize trips reserved for other ARDA uses, such as the City's construction of the
+
+18 large-scale park pursuant to Section 3.9.4. The County has not made adequate arrangements to
+
+19 ensure that the Project will in fact implement all necessary traffic mitigation, and there will be
+
+20 reduced traffic capacity to accommodate future traffic from as yet to be implemented uses in the OC
+
+21 Great Park. As a result of the reduction in available trips, the City will be unable to construct a park
+
+22 on the Great Park Property substantially in compliance with the Great Park Master Plan, in breach of
+
+23 the ARDA.
+
+24 120. But for Defendant County's actions regarding the West Alton Plan, the ARDA would
+
+25 have been performed by the City and Heritage Fields.
+
+26 121. Heritage Fields has been damaged due to Defendant County's interference with the
+
+27 ARDA, because Heritage Fields has developed and is developing properties in the OC Great Park
+
+28 area in reliance on the City's promise to construct a park on the Great Park Property substantially in
+
+Gibson, Dunn 8 26
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+compliance with the Great Park Master Plan--a feature which had enhanced the value of its
+
+2 properties. Heritage Fields has invested hundreds millions of dollars to obtain the property subject to
+
+3 the ARDA and to entitle that property for specific uses articulated in the ARDA, and previously
+
+4 approved by the City of Irvine. This includes completion of the oC Great Park by the City and
+
+5 planned residential and commercial development. Due to the County's intentional interference with
+
+6 Heritage Fields' contract with the City (namely the ARDA), the City is prevented from constructing
+
+7 the park as promised, and Plaintiff will be precluded from maximizing the full value of its
+
+8 investments. The County was aware that damage will be caused to Plaintiff as a result of its actions,
+
+9 but chose to act in total disregard of Heritage Fields' rights under the ARDA-thereby damaging
+
+10 Plaintiff in an amount to be established at trial. The County's actions were made with malice and
+
+11 intent to harm, were grossly reckless and were done without any regard whatsoever for the rights of
+
+12 Heritage Fields, and the promises enjoyed by Plaintiff under the terms of its contracts with the City.
+
+13 FOURTH CAUSE OF ACTION
+
+14 (Breach of Contract Against Defendant County)
+
+15 122. Heritage Fields incorporates paragraphs 1 through 121 of this Complaint as though
+
+16 fully set forth herein.
+
+17 123. The Pre-Annexation Agreement between the County and the City is a valid and
+
+18 enforceable contract that is currently still in effect.
+
+19 124. Heritage Fields is an intended third-party beneficiary under the Pre-Annexation
+
+20 Agreement. When the City and County executed the Pre-Annexation Agreement, they intended for it
+
+21 to benefit, in part, the future purchaser of the El Toro property and a future "Base user," which
+
+22 ultimately became Heritage Fields. At minimum, the City intended future Base users, such as
+
+23 Heritage Fields, to benefit from the County's promise to "pay its fair share of costs" for infrastructure
+24 improvements directly related to servicing the County's properties to be received under the Pre-
+
+25 Annexation Agreement. In Section 2.2.5, the contract expressly provides that "the City seeks to
+
+26 create a funding mechanism whereby all Base users pay their fair share of the costs of developing the
+27 necessary infrastructure and related improvements," then obligates the County to pay its fair share.
+28 This provision was intended to benefit future "Base users," such as Heritage Fields, so that certain
+
+Gibson, Dunn & 27
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+users were not made to pay a disproportionate share of infrastructure costs or the County's share of
+
+2 infrastructure costs.
+
+3 125. Thus, the intent to benefit Heritage Fields appears from the terms of the Pre-
+4 Annexation Agreement. In addition to the clear intent to benefit Base users in Section 2.2.5, the City
+
+5 and County intended other benefits for future purchasers of the El Toro property, including (a) the
+
+6 City's and County's efforts to facilitate "expeditious transfer of the MCAS El Toro property"
+
+7 (Section 4), and (b) the Pre-Annexation Agreement's requirement that a Development Agreement be
+
+8 established to govern the manner in which the parcels would be conveyed by the purchaser to the
+
+9 County (Section 2.2.3.4). Heritage Fields ultimately became the purchaser of the lands within MCAS
+
+10 EI Toro, and thus fits squarely within the class of parties intended to be benefited by the Pre-
+
+11 Annexation Agreement.
+
+12 126. The City's intent to benefit Heritage Fields by certain provisions of the Pre-
+
+13 Annexation Agreement was later evidenced by the terms of the development agreement that the City
+
+14 executed with Heritage Fields, the ARDA. Section 7.9 of the ARDA quotes Section 2.2.5 of the Pre-
+
+15 Annexation Agreement (regarding the County's promise to pay its fair share of infrastructure costs,
+
+16 for the benefit of future Base users) in full and the City covenants to request the County to honor this
+17 obligation, and covenants to actively pursue enforcement of this provision, again for the benefit of
+
+18 Heritage Fields as a Base user. In ARDA Section 7.9, the City also expressly acknowledged Heritage
+
+19 Fields' existing ability to enforce its third-party rights under the Pre-Annexation Agreement:
+
+20 "[NJothing contained herein shall be deemed a waiver by Heritage Fields of any rights Heritage
+
+21 Fields may have as against the County with respect to the County Agreement [Pre-Annexation
+22 Agreement]."
+
+23 127. On information and belief, the City has fully performed all conditions, covenants and
+24 obligations required on its part to be performed in accordance with the terms of the Pre-Annexation
+25 Agreement.
+
+26 128. Under the Pre-Annexation Agreement, the County contractually committed to request
+27 City zoning in accordance with government uses, such as the fifteen government uses enumerated in
+28 Section 2.2.4 of the Pre-Annexation Agreement. In the alternative, pursuant to the requirement that
+
+Gibson, Dunn 8 28 Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+- the land be treated as though it is "unincorporated," the County Board of Supervisors was obligated
+
+2 to follow the land use plan enacted by Measure W, requiring its "unincorporated" land to be
+
+3 maintained in accordance with the Open Space or Educational land use designations imposed on the
+4 property by Measure W.
+
+5 129. The County has breached the Pre-Annexation Agreement by:
+
+6 failing to comply with this obligation to maintain uses in accordance with
+7 Measure W;
+
+8 approving a Development Plan that will introduce uses not authorized by the Pre-
+
+9 Annexation Agreement;
+
+process; 10 refusing to recognize the City's land use jurisdiction and review
+11 setting up a mechanism by which Lowe may receive building permits without
+12 paying its fair share of transportation improvements (thus increasing the burden
+
+13 on Heritage Fields); and
+14 creating impacts on the Orange County Great Park and other recreation facilities
+
+15 not contemplated by the Pre-Annexation Agreement.
+16 130. Heritage Fields has been and will be damaged by these breaches, because (among
+17 other things) the West Alton Plan does not adequately provide for infrastructure costs (a potential
+18 harm that Section 7.9 of the ARDA recognized would give rise to a right by Heritage Fields to take
+
+19 action against the County); creates adverse impacts to the future development and vibrancy of the
+
+20 Orange County Great Park--a public good and an essential foundation of Heritage Fields' past and
+
+21 ongoing investment in its Great Park Neighborhoods development; and interferes with Heritage
+22 Fields' vested right to be able to develop the Property in accordance with the land use assumptions
+23 codified by the land use regulations existing at the time the ARDA was entered into.
+24 FIFTH CAUSE OF ACTION
+
+25 (Declaratory Relief)
+26 131. Heritage Fields incorporates paragraphs 1 through 130 of this Complaint as though
+27 fully set forth herein.
+
+28
+
+29 Gibson, Dunn &
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+P 132. Heritage Fields alleges and declares, and seeks a declaration of this Court as provided
+2 |below, as follows:
+
+3 A. The Pre-Annexation Agreement, and specifically Sections 2.2.3 and 2.2.4
+
+4 thereof. requires that the West Alton Parcel, and uses thereupon, are subject to, and remain subject to,
+
+5 the City's General Plan, the City's Zoning Code, the California subdivision Law, and all other
+
+6 procedures applicable to all public or private developments in the City, provided, however, permitted
+7 uses (i.e. institutional uses only), as defined and set forth in Section 2.2.4 of the Pre-Annexation
+
+8 Agreement, shall be allowed on, and constitute permitted uses of, the West Alton Parcel, and
+
+9 therefore, Lowe cannot presently develop the West Alton Parcel for private residential uses as
+
+10 contemplated in the West Alton Plan.
+
+11 B. In the alternative, the Pre-Annexation Agreement, and specifically Sections
+
+12 2.2.3 and 2.2.4 thereof, requires that the West Alton Parcel, and uses thereupon, are subject to, and
+13 remain subject to, the County's General Plan (including Measure W), the County's Zoning Code, the
+14 California subdivision Law, and all other procedures applicable to all public or private developments
+15 in the County, provided, however, permitted uses, as defined and set forth in Section 2.2.4 of the Pre-
+
+16 Annexation Agreement (i.e. institutional uses only), shall be allowed on, and constitute permitted
+
+17 uses of, the West Alton Parcel, and therefore, the County cannot approve a development of the West
+
+18 Alton Parcel for private residential uses as currently contemplated in the West Alton Plan.
+
+19 C. The City has zoned the West Alton Parcel as Preservation and Exclusive
+
+20 Agriculture, and as such, the County cannot lawfully approve the development of the Property for
+21 private residential uses due to the zoning restriction. Section 2.2.4 of the Pre-Annexation Agreement,
+22 which provides that the County may demand that the City change its zoning and planning restrictions,
+23 constitutes an unlawful delegation and abdication of the City's police power, a violation of public
+24 hearing, public participation, and transparency requirements. Section 2.2.4 of the Pre-Annexation
+25 Agreement also is an unlawful attempt to bind future City Councils in relation to its exercise(s) of
+26 police power and land use authority, should the County make such a demand. Should the City refuse
+27 to comply with the County's demand (as the City has said it will do), then the City will fail to comply
+28 with Section 2.2.4 of the Pre-Annexation Agreement. In that case, Section 5 of the Pre-Annexation
+
+30 Gibson, Dunn &
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+Agreement, which provides that "failure of any party to comply with any provision of this [Pre-
+
+2 Annexation] Agreement shall render the entire Agreement void[,]" must be enforced. In that case,
+
+3 the Pre-Annexation Agreement is void, no future transfer of the remaining portions of the 100-Acre
+
+4 Property is required, and the Property may only be developed consistent with the limitations that
+
+5 presently exist.
+
+6 D. In the alternative, if, and to the extent the Pre-Annexation Agreement is not
+
+7 unlawful, void, and unenforceable, the only permitted use of the West Alton Parcel shall be those
+
+8 permitted uses, as defined and set forth in Section 2.2.4 of the Pre-Annexation Agreement (i.e.
+
+9 institutional uses only).
+
+10 E. The ARDA strictly prohibits the uses of the West Alton Parcel contemplated
+
+11 by the West Alton Plan; and limits development to institutional uses. On December 27, 2010, after
+12 the Navy conveyed portions of the Property to Heritage Fields, the ARDA was recorded against those
+
+13 properties transferred by the Navy. Thereafter, Heritage Fields conveyed that portion of the Property
+14 to the City subject to the covenants and conditions already recorded against the title, including the
+
+15 land use limitations set forth in the ARDA. The City thereafter conveyed that portion of the Property
+16 to the County subject to the covenants and conditions already recorded against the title, including the
+17 limitations set forth in the ARDA. Therefore, the West Alton Parcel cannot be used for any purposes
+18 other than the institutional uses permitted by the ARDA, which was recorded prior to the property
+19 transfers to the City, and then later to the County. The County took title to those portions of the
+
+20 Property subject to the land use restrictions specifically articulated in the ARDA.
+21 133. Heritage Fields is informed and believes, and alleges thereon, that the County disputes
+22 each and every one of the allegations and declarations set forth in paragraph 132 above, and that an
+23 actual controversy exists as to each and every allegation and declaration therein.
+24 134 In each of the items enumerated above, the County has violated its duty under the law,
+25 abused its discretion, failed to proceed in the manner required by law, and decided to take the actions
+26 objected to without the support of substantial evidence. Accordingly, certification of the EIR and
+27 approval of the West Alton Plan must be set aside
+
+28
+
+Gibson, Dunn & 31 Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+PRAYER FOR RELIEF
+
+2 THEREFORE, Heritage Fields prays for a declaration and entry of judgment against the County
+
+3 and Real Party in Interest Lowe as follows:
+
+4 A. For an alternative and peremptory writ of mandate, commanding the County to set aside
+
+5 and vacate the certification of the EIR, Findings and Statement of Overriding
+
+6 Considerations supporting the approval of the West Alton Plan; and to set aside and
+
+7 vacate approval of the West Alton Plan based upon the EIR, Findings and Statement of
+
+8 Overriding Considerations;
+
+9 B. For an order precluding the County and Lowe from taking any action to construct
+
+10 facilities or infrastructure, or undertaking site preparation until an adequate EIR is
+
+11 prepared and timely resubmitted to this Court;
+
+12 C. a For a declaration of the following:
+
+13 1. That neither the County, nor Lowe, nor any other private party can develop the
+
+14 West Alton Parcel for private residential uses as contemplated in the West
+
+15 Alton Plan due to the County's failure to fulfill its statutory and contractual
+
+16 obligations by approving a private land use plan within the jurisdictional
+
+17 boundaries of the City;
+
+18 2. That by approving the West Alton Plan the County has failed to comply with
+
+19 the various City planning and zoning restrictions, applicable to all public or
+
+20 private developments in the City;
+
+21 3. That in the event the City's planning and zoning restrictions are found
+
+22 inapplicable to the West Alton Parcel, that the West Alton Plan fails to comply
+
+23 with the County's general plan and zoning codes (including Measure W), and
+
+24 other applicable laws and measures;
+
+25 4. That Lowe as a private developer, or any other private developer, is also
+
+26 subject to the same County and/or City restrictions as enumerated above;
+
+27 5. That the only permitted use on the West Alton Parcel shall be the permitted
+
+28 uses (i.e. institutional uses), as defined and set forth in Section 2.2.4 of the Pre-
+
+Gibson, Dunn 8 32
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES,
+DECLARATORY AND INJUNCTIVE RELIEF
+
+Annexation Agreement; or in the alternative, that the Pre-Annexation
+
+2 Agreement is unlawful, void, and unenforceable as an abdication of the City's
+
+3 police power; and
+
+4 6. .That the ARDA is an existing encumbrance on title to the West Alton Parcel
+
+5 such that neither the County, Lowe nor any other private party can develop the
+
+6 Property for private residential uses as contemplated in the West Alton Plan.
+
+7 D. For damages, including but not limited to those for breach of contract, lost profits,
+
+8 expenses, diminution in value of property and business, and prospective profits;
+
+9 E. For punitive damages for inflicting an intentional tort against the Plaintiff, with the intent
+
+10 to harm Plaintiff as more specifically pled above;
+
+11 F. For injunctive relief precluding County or Lowe from taking any action to advance the
+
+12 Project;
+
+13 G. For specific performance under the terms of the contract;
+
+14 H. For costs of the suit;
+
+15 I. For reasonable attorney's fees; and
+
+16 J. For such other relief as the Court deems just and proper.
+
+17 DATED: December 14, 2018 Respectfully submitted,
+
+18 ALSTON & BIRD LLP
+JEFFREY D. DINTZER 19
+GIBSON, DUNN & CRUTCHER LLP 20 ABBEY J. HUDSON
+CYNTHIA C. MULLEN 21 DIONE GARLICK
+
+22 NIELSEN MERKSAMER PARRINELLO GROSS &
+LEONI LLP 23 ARTHUR SCOTLAND
+
+24
+
+25 By: /s/ Jeffrey D. Dintzer
+
+26 Jeffrey D. Dintzer
+
+27 Attorneys for Petitioner HERITAGE FIELDS EL TORO, LLC
+
+28
+
+Gibson, Dunn & 33 Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+VERIFICATION
+
+2 I, Lynn Jochim, in my capacity as a vice president of Five Point Operating Company, LP, a
+
+3 Delaware limited partnership, which is the sole member of Five Point Heritage Fields, LLC, a
+Delaware limited liability company, with the authority to act on behalf of Five Point Heritage Fields,
+LLC, the administrative member of Heritage Fields LLC, a Delaware limited liability company, with
+the authority to execute documents on behalf of Heritage Fields LLC, which is the sole member of
+Heritage Fields El Toro Sole Member LLC, a Delaware limited liability company, with the authority
+
+8 to act on behalf of Heritage Fields El Toro Sole Member, LLC, the sole member of Petitioner
+HERITAGE FIELDS EL TORO, LLC ("Heritage Fields"), a Delaware limited liability company,
+
+10 with the authority to act on behalf of Heritage Fields, certify that I have read the foregoing
+
+11 VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS [CCP SECTION 1085
+
+12 OR 1094.5] AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+13 and am familiar with its contents, and that the matters stated in it are true as of my own knowledge,
+
+14 except as to those matters that are stated on information and belief, and as to those matters, I believe
+
+15 them to be true.
+
+16 I declare under penalty of perjury under the laws of the State of California that this
+
+17 Verification was executed by me on December 14, 2018) and that the foregoing is true and correct.
+
+18
+
+19
+Lynn Jochim
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Gibson, Dunn € 34
+Crutcher LLP VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+EXHIBIT 1
+Notice of Intent to File CEQA Petition
+
+35
+
+ALSTON & BIRD
+
+333 S. Hope St, Los Angeles, CA 90071
+213-576-1000 | Fax: 213-576-1100
+
+Jeffrey Dintzer Direct Dial: 213-576-1063 Email: Jeffrey.dintzer@alston.com
+
+July 3, 2018
+
+VIA OVERNIGHT MAIL
+VIA CERTIFIED MAIL - RETURN RECEIPT REQUESTED
+
+Clerk of the Board
+333 W. Santa Ana Blvd, Room 465
+P.O. Box 687
+Santa Ana, CA 92702-0687
+
+Re: Notice of Intent to File CEQA Petition, Heritage Fields El Toro, LLC v. County
+of Orange, et al.
+
+Dear Clerk of the Board:
+
+This is to inform you, as an agent for the County of Orange (the "County"), that Heritage Fields El a Toro, LLC, a Delaware limited liability company ("Heritage Fields"), will be filing suit against the
+County to challenge its approval of the West Alton Parcel Development Plan (the "Development
+Plan"), its certification of the Final Environmental Impact Report No. 621 for the Development
+Plan (the "Final EIR"), and its adoption of the Statement of Facts, Findings and Statement of
+Overriding Considerations, and the Mitigation Monitoring and Reporting Program for the Final
+EIR (the "Related Approvals").
+
+Please take notice, under Public Resources Code Section 21167.5, that petitioner, Heritage
+Fields, intends to file a petition and include a cause(s) of action under the provisions of the
+California Environmental Quality Act ("CEQA") against respondent, the County, challenging the
+County's determination, its failure to make a good-faith effort at disclosure of the Final EIR as
+required by CEQA, among other violations, and its approval of the Development Plan, Final EIR,
+and other Related Approvals.
+
+Sincerely,
+
+Lrtfny Dintoyrry Jeffrey Dintzer
+
+Alston & Bird LLP www.alston.com
+
+Atlanta | Beijing | Brussels | Charlotte Dallas | Los Angeles | New York | Research Triangle | San Francisco | Silicon Valley | Washington, D.C.
+
+36
+
+POS-040
+ATTORNEY OR PARTY WITHOUT ATTORNEY: STATE BAR NO: 139056
+NAME JEFFREY D. DINTZER FOR COURT USE ONLY
+
+FIRM NAME: ALSTON & BIRD LLP STREET ADDRESS: 333 S. Hope Street, 16th Floor CITY: Los Angeles STATE: CA ZIP CODE: 90071-3004
+TELEPHONE NO.: 213.576.1000 FAX NO. : 213.576.1100
+E-MAIL ADDRESS: Jeffrey.Dintzer@alston.com LATTORNEY FOR (namo): Petitioner HERITAGE FIELDS EL TORO, LLC
+SUPERIOR COURT OF CALIFORNIA, COUNTY OF ORANGE
+STREET ADDRESS: 751 West Santa Ana Blvd.
+MAILING ADDRESS: CITY AND ZIP CODE: Santa Ana 92701 BRANCH NAME: Civil Complex Center Plaintiff/Petitioner: HERITAGE FIELDS EL TORO, LLC CASE NUMBER:
+
+Defendant/Respondent: COUNTY OF ORANGE, et al. JUDICIAL OFFICER:
+PROOF OF SERVICE -CIVIL Check method of service (only one): 0 By Personal Service 0 By Mail X By Overnight Delivery DEPARTMENT:
+
+By Messenger Service By Fax
+
+Do not use this form to show service of a summons and complaint or for electronic service. See USE OF THIS FORM on page 3.
+1, At the time of service Iwas over 18 years of age and not a party to this action.
+2. My residence or business address is:
+3161 Michelson Drive, Irvine, CA 92612-4412
+
+3 0 The fax number from which® served the documents is (complete if service was by fax):
+
+4. On (date): July 3, 2018 I served the following documents (specify):
+Letter dated July 3, 2018 to Clerk of the Board, re notice of intent to file CEQA Petition, Heritage Fields El Toro, LLC v. County of Orange, et al.
+0 The documents are listed in the Attachment to Proof of Service-Civil (Documents Served) (form POS-040(D)).
+5. I served the documents on the person or persons below, as follows:
+a. Name of person served: Orange County Clerk of the Board
+b. X (Complete if service was by personal service, mail, overnight delivery, or messenger service.)
+Business or residential address where person was served:
+333 W. Santa Ana Blvd., Room 465, Santa Ana, CA 92702-0687
+c.  (Complete if service was by fax.)
+Fax number where person was served:
+
+D The names, addresses, and other applicable information about persons served is on the Attachment to Proof of Service-
+Civil (Persons Served) (form POS-040(P)).
+6. The documents were served by the following means (specify):
+
+a. By personal service. I personally delivered the documents to the persons at the addresses listed in item 5. (1) For a party represented by an attorney, delivery was made (a) to the attorney personally; or (b) by leaving the documents at the attorney's office, in an envelope or package clearly labeled to identify the attorney being served, with a receptionist or an individual in charge of the office; or (c) if there was no person in the office with whom the notice or papers could be left, by leaving them in a conspicuous place in the office between the hours of nine in the morning and five in the evening. (2) For a party, delivery was made to the party or by leaving the documents at the party's residence with some person not younger than 18 years of age between the hours of eight in the morning and six in the evening.
+
+Page 1 of 3
+Form Approved for Optional Use Judicial Council of California PROOF OF SERVICE-CIVIL Code of Civil Procedure, $5 1011, 1013, 1013a,
+POS-040 [Rev. February 1, 2017) (Proof of Service) 2015.5; Cal. Rules of Court, rule 2.306
+www.courts.ca.gov
+
+American LegalNet, Inc.
+www FomsWorkFlow.com
+37
+
+POS-040
+CASE NAME: I CASE NUMBER:
+HERITAGE FIELDS EL TORO, LLC v. COUNTY OF ORANGE, et al.
+
+6. b. By United States mail. I enclosed the documents in a sealed a envelope or package addressed to the persons at the
+in 5 addresses in item 5 and (specify one):
+(1)  deposited the sealed envelope with the United States Postal Service, with the postage fully prepaid.
+(2) D placed the envelope for collection and mailing, following our ordinary business practices. I am readily familiar with this business's practice for collecting and processing correspondence for mailing. On the same day that correspondence is placed for collection and mailing, it is deposited in the ordinary course of business with the United States Postal
+Service, in a sealed envelope with postage fully prepaid.
+I am a resident or employed in the county where the mailing occurred. The envelope or package was placed in the mail at
+(city and state): Irvine, California.
+c. X By overnight delivery. I enclosed the documents in an envelope or package provided by an overnight delivery carrier and addressed to the persons at the addresses in item 5. I placed the envelope or package for collection and overnight delivery at an office or a regularly utilized drop box of the overnight delivery carrier.
+d. .] By messenger service. I served the documents by placing them in an envelope or package addressed to the persons at the addresses listed in item 5 and providing them to a professional messenger service for service. (A declaration by the
+messenger must accompany this Proof of Service or be contained in the Declaration of Messenger below.)
+e. By fax transmission. Based on an agreement of the parties to accept service by fax transmission, I faxed the documents
+to the persons at the fax numbers listed i item 5. No error was reported by the fax machine that I used. A copy of the
+record of the fax transmission, which I printed out, is attached.
+
+I declare under penalty of perjury under the laws of the State of California that the foregoing is true and correct.
+
+Date: July 5, 2018
+
+Sandra M. Pineda na.find
+(TYPE OR PRINT NAME OF DECLARANT) (SIGNATURE OF DECLARANT)
+
+(If item 6d above is checked, the declaration below must be completed or a separate decldration from a messenger must be attached.)
+
+DECLARATION OF MESSENGER
+
+By personal service. I personally delivered the envelope or package received from the declarant above to the persons at the addresses listed in item 5. (1) For a party represented by an attorney, delivery was made (a) to the attorney personally; or (b) by leaving the documents at the attorney's office, in an envelope or package clearly labeled to identify the attorney being served, with a receptionist or an individual in charge of the office; or (c) if there was no person in the office with whom the notice or papers could be left, by leaving them in a conspicuous place in the office between the hours of nine in the morning and five in the evening. (2) For a party, delivery was made to the party or by leaving the documents at the party's residence with some person not younger than 18 years of age between the hours of eight in the morning and six in the evening.
+
+At the time of service, I was over 18 years of age. I am not a party to the above-referenced legal proceeding.
+I served the envelope or package, as stated above, on (date):
+I declare under penalty of perjury under the laws of the State of California that the foregoing is true and correct.
+Date:
+
+(NAME OF DECLARANT) (SIGNATURE OF DECLARANT)
+
+PROOF OF SERVICE-CIVIL
+POS-040 [Rev. February 1, 2017] (Proof of Service) Page 2 of 3
+
+American LegalNet, Inc.
+www.FormsWorkFlow.com
+38
+
+EXHIBIT 2
+Notice of Election to Prepare Administrative Record
+
+39
+
+ALSTON & BIRD LLP JEFFREY D. DINTZER, SBN 139056
+Jeffrey.Dintzer@alston.com 333 S. Hope Street, 16th Floor
+Los Angeles, CA 90071-3004 Telephone: 213.576.1000
+4 Facsimile: 213.576.1100
+
+GIBSON, DUNN & CRUTCHER LLP CYNTHIA C. MULLEN, SBN 292256
+6 CMullen@gibsondunn.com DIONE GARLICK, SBN 293012
+7 DGarlick@gibsondunn.com 333 South Grand Avenue
+8 Los Angeles, CA 90071-3197 Telephone: 213.229.7000 Facsimile: 213.229.7520
+
+10 Attorneys for Petitioner HERITAGE FIELDS EL TORO, LLC
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+12 FOR THE COUNTY OF ORANGE
+13
+CIVIL COMPLEX CENTER
+14
+HERITAGE FIELDS EL TORO, LLC, CASE NO.
+15
+Petitioner, NOTICE OF ELECTION TO PREPARE
+16 ADMINISTRATIVE RECORD
+V.
+17 ASSIGNED FOR ALL PURPOSES TO:
+COUNTY OF ORANGE, a political HON.
+18 subdivision of the State of California, and DEPT.:
+DOES
+19 through 100, inclusive,
+Respondents. 20
+
+21 LOWE ENTERPRISES REAL ESTATE
+GROUP,
+22
+
+23 Real Party in Interest.
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Gibson, Dunn & Crutcher LLP
+NOTICE OF ELECTION TO PREPARE ADMINISTRATIVE RECORD
+
+40
+
+TO ALL PARTIES AND THEIR ATTORNEYS OF RECORD:
+
+2 PLEASE TAKE NOTICE, pursuant to Public Resources Code section 21167.6(b)(2),
+
+3 Petitioner HERITAGE FIELDS EL TORO, LLC, a Delaware limited liability company, hereby elects
+
+4 to prepare the record of proceedings in this matter.
+
+5
+
+6 DATED: July 5, 2018 Respectfully submitted,
+
+7 ALSTON & BIRD LLP
+JEFFREY D. DINTZER 8
+GIBSON, DUNN & CRUTCHER LLP 9 CYNTHIA C. MULLEN
+10 DIONE GARLICK
+
+11 /s/ Jeffrey D. Dintzer
+12 By:
+Jeffrey D. Dintzer
+13 Attorneys for Petitioner
+14 HERITAGE FIELDS EL TORO, LLC
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Gibson, Dunn Crutcher LLP
+NOTICE OF ELECTION TO PREPARE ADMINISTRATIVE RECORD
+
+41
+
+EXHIBIT 3
+Claim For Money or Damages Against
+The County of Orange
+
+42
+
+Received by via:
+D Mail LIFORTY CLAIM FOR MONEY OR DAMAGES.
+AGAINST THE COUNTY OF ORANGE Over the Counter-H
+(Pursuant to Govt. Code séction 910 et seq.) 0 Pony Mail
+0 Other *** COB USE ONLY***
+
+V F1t
+Completed and signed forms must be mailed or delivered to: Clerk of the Board of Supervisors (Unsigned claim forms cannot be processed) 333 W. Santa Ana Blvde Suite 465 •Santa Ana, CA 92701 "T
+4:L 350 5 B8= CLAIMANT INFORMATION 1RU $2m
+4481 1 193 Q:
+1. Claimant's Name: Heritage Fields El Toro, LLC 2. Date of Birth: N/A E8
+8 PM.1: RECEIVED hy
+3. Claimant's Address: 25 Enterprise, Suite 300 Aliso Viejo CÀ 92656.
+Street (or P.O. Box) City: ..;, State % 1E3 Zip Code
+4. Phone Number: Home: Work: 949-349-1000 Other:
+€. V N'G 5. Name and address where correspondence should be sent (if different from above): 67 1 Jeffrey Dintzer 333 South Hope Street, Suite 1600 Los Angeles CA 90071
+City P2 State Zip Code Name % Street (or P.O.- Box)
+
+CLAIM INFORMATION
+6. Exact date (including year) of the occurrence or transaction which gave rise to the claim L F
+asserted: June 5,2018
+
+2l Lp 7. Exact location of the occurrence or transaction which gave rise to the claim asserted: nsanladRes B Hall of Administration. Board Hearing Room, First Floor, 333 W. Santa Ana Blvd. Santa Ana, CA 92701
+8. Describe the circumstances of the occurrence or transaction which you claimn caused the
+A3E Eb damage/injury/loss: On June 5, 2018, the Orange County Board of Supervisors approved the West Alton®
+Parcel Development Plan (the *Plan"Y certified the Final Environmental Impact Report No. 621 (the "FEIR") *
+
+AUO for the Plan, and adopted certain Statement of Facts, Findings and Statement of Overriding Considerations for
+the FEIR, and a Mitigation Monitoring and Reporting Program for the FEIR. The County also authorized the 12
+
+Chief Real Estate Öfficer or designee to take any actions consistent with the West Alton Parcel Development
+Plan and give any approvals necessary to implement the Development Plan, as well as execute any documents
+necessary for the development of the West Alton Parcel consistent with the Development Plan. These approvals
+by the County Board of Supervisors concern approximately 44 acres of land owned or controlled by the County
+of Orange and located in the City of Irvine on the former Marine Corp Air Station facility at El Toro. "Although
+pursuant to existing contracts, codes, and regulations, the land cannot be used for the proposed development, the
+43 Page 1 of 4 Revised 9/08
+
+County has acted as described above and issued approvals to authorize dense, private development of the land
+in excess of 800 multi-family residential units, to the detriment of Heritage Fields El Toro, LLC, a neighboring
+landowner.
+9. Jail Booking Number: N/A Police Agency/Report Number: N/A
+10. Provide a description of the damage/injury/loss incurred so far as is known as of the time of
+this claim: Heritage Fields intends to assert monetary claims for (1) intentional interference with
+contractual relations; and (2) breach of contract. The claim for intentional interference with contractual
+relations involves the Development Agreement (the "DA") and subsequent Amended and Restated
+• Development Agreement (the "ARDA"), a contract between Heritage Fields and the City of Irvine (the "City").
+The ARDA requires the City to construct a large regional park on adjacent City property (the "O.C. Great
+Park"), near the West Alton Parcel, substantially in compliance with the Great Park Master Plan, and such
+construction requires an allotted amount of traffic capacity. By approving the Plan and certifiying the FEIR, the
+County has authorizedtraffic trips in excess of those provided for in the DA, ARDA and related approvals
+without mitigation of the additional resulting traffic impacts, and contrary to to the limitations imposed in the
+DA and ARDA. As a result of the excess trips being authorized, there will necessarily be a reduction in
+available traffic capacity for future uses, including both public and private development,. and the City will be
+constrained in the types of future uses it can approve as part of the park on the O.C. Great Park property, in
+breach of the ARDA. The County knew about the ARDA and its requirements when it issued its approvals and
+did so with the intention of inducing breach or disruption of the ARDA.
+
+Heritage Fields has been damaged due to the County's interference, because Heritage Fields has developed and
+is developing properties adjacent to the O.C. Great Park area in reliance on the City's promise to construct a
+park on the O.C. Great Park property substantially in compliance with the Great Park Master Plan-a feature
+which is assumed in the value of Heritage Fields' property. In addition, Heritage Fields is responsible for
+privately financing and constructing various pieces of infrastructure to support its development and the
+development of the O.C.Great Park. In furtherance of that obligation, Heritage Fields has invested hundreds of
+millions of dollars in road, and other transportation and public service improvements, to obtain the benefits
+provided by the ARDA (including the O.C. Great Park as contemplated in the ARDA) and the vested right to
+develop its property in accordance with the ARDA. Due to the County's interference in approving development
+well in excess of the type and scope contemplated in the ARDA, Heritage Fields will be precluded from
+maximizing the full value of its investments, and the County will divert infrastructure capacity funded by
+Heritage Fields to a private developer. The County's actions were made with malice and intent to harm, were
+grossly reckless and were done without any regard whatsoever for the rights of Heritage Fields, and the
+promises enjoyed by Heritage Fields under the terms of its contracts with the City. Accordingly, Heritage
+
+Revised 9/08 Page 2 of 4
+44
+
+Fields seeks damages and punitive damages pursuant to the intentional interference with contractual relations
+claim that are in excess of $10,000 in an amount to be proven at trial.
+
+Heritage Fields also intends to assert a claim for breach of contract. This claim involves the 2003 Pre-
+Annexation Agreement between the County and City, to which Heritage Fields is an intended third-party
+beneficiary because the parties intended the agreement to benefit future purchasers of the El Toro property, in
+this case, Heritage Fields. Thus, Heritage Fields is empowered to enforce the contract. The County has
+breached the Pre-Annexation Agreement by: (1) failing to comply with its obligation to maintain uses in
+accordance with Measure W; (2) approving the Plan, which will produce uses not authorized by the agreement;
+(3) refusing to recognize the City's land use jurisdiction and review process; (4) setting up a mechanism by
+which Lowe Enterprises Real Estate Group may receive building permits without paying its fair share of
+transportation improvements (thus increasing the burden on Heritage Fields): and (5) creating negative impacts
+on the O.C. Great Park and other recreation facilities. Heritage Fields has been and will be damaged by the
+County's breaches because the Plan does not adequately provide for infrastructure costs, creates certain adverse
+impacts to the future development and vibrancy of the O.C. Great Park (a public good and an essential
+foundation of Heritage Fields' past and ongoing investment in its Great Park Neighborhoods development); and
+further interferes with Heritage Fields' vested right to be able to develop its property in accordance with
+existing land use agreements, assumptions, and regulations. Accordingly, Heritage Fields will seek damages
+pursuant to this claim in excess of $10,000 in an amount to be proven at trial.
+
+11. Name(s) of County employee(s) causing damage/injury/loss, if known: Claimant does not know the
+names of all the public employees who engaged in the wrongful conduct, but public employees who caused the
+injury, damage, or loss include members of the Orange County Board of Supervisors. County officials, and
+others responsible for the approvals discussed herein.
+
+12. License number of County vehicle (if applicable): N/A
+
+13. Name, address and phone number of any and all witnesses known: N/A
+
+14. Any additional information that may assist us in evaluating your claim
+DAMAGES CLAIMED
+
+15. a. If the amount claimed is less than $10,000:
+Amount claimed to present: $
+
+Estimated amount of any prospective damage/injury/loss: S
+TOTAL AMOUNT CLAIMED: S
+
+Revised 9/08 Page 3 of 4
+45
+
+b. If the amount claimed exceeds $10,000, would the case be a limited civil case ($25,000 or less)? Yes O No X
+
+C. Basis of computation of the amount of damages (Please attach any estimates and/or receipts): Estimate based on the value of Heritage Fields El Toro, LLC's current, pending, and future
+developments.
+
+WARNING: IT IS A CRIMINAL OFFENSE TO FILE A FALSE CLAIM
+Section 72 of the Penal Code states: "Every person who, with intent to defraud, presents for allowance or for payment to any state board or officer, or to any county, city, or district board or officer, authorized to allow or pay the same if genuine, any false or fraudulent claim, bill, account, voucher, or writing, is punishable either by imprisonment in the county jail for period of not more than one year, by a find of not excecding one thousand dollars ($1,000), or
+by both such imprisonment or fine, or by imprisonment in the state prison, by a fine of not exceeding ten thousand dollars ($10,000), or by both such imprisonment and fine."
+
+I declare under penalty of perjury that the foregoing is true and correct.
+
+Signed this 31st day of August 2018 at Los Angeles, California.
+Dutaday of Claimantor Claimant's Representative
+
+You Must Present Your Claim Within The Time Prescribed By Govt. Code Section 911.2
+
+Revised 9/08 Page 4 of 4
+46
+
+PROOF OF SERVICE
+
+2 I, Sandra M. Pineda, declare as follows:
+
+3 am employed in the County of Orange, State of California, I am over the age of eighteen
+
+4 years and am not a party to this action; my business address is 3161 Michelson Drive, Irvine, CA 92612-4412, in said County and State. On December 14, 2018, I served the following document(s):
+
+5 VERIFIED FIRST AMENDED PETITION FOR WRIT OF MANDAMUS [CCP SECTION 1085 OR 1094.5] AND COMPLAINT FOR DAMAGES,
+6 DECLARATORY AND INJUNCTIVE RELIEF
+
+7 on the parties stated below, by the following means of service:
+
+8 [SEE ATTACHED SERVICE LIST]
+
+9 M BY UNITED STATES MAIL: I placed a true copy in a sealed envelope or package addressed to the persons as indicated above, on the above-mentioned date, and placed the envelope for collection and mailing, following our 10 ordinary business practices. I am readily familiar with this firm's practice for collecting and processing
+
+11 correspondence for mailing. On the same day that correspondence is placed for collection and mailing, it is deposited with the U.S. Postal Service in the ordinary course of business in a sealed envelope with postage fully
+
+12 prepaid. am aware that on motion of party served, service is presumed invalid if postal cancellation date or postage meter date is more than one day after date of deposit for mailing set forth in this in declaration.
+
+13 I am a resident or employed in the county where the mailing occurred. The envelope or package was placed in
+
+14 the mail at Los Angeles, California.
+
+. BY MESSENGER SERVICE: I placed a true copy in a sealed envelope or package addressed to the persons at 15 the addresses listed above and providing them to a professional messenger service for service for delivery before
+
+16 5:00 p.m. on the above-mentioned date. (A declaration by the messenger must accompany this Proof of Service.)
+
+M
+17 (STATE) declare under penalty of perjury under the laws of the State of California that the foregoing is true and correct.
+
+18
+Executed on December 14, 2018.
+19
+
+20 isdaa hind
+Sandra M. Pineda
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Gibson, Dunn & Crutcher LLP 47
+PROOF OF SERVICE
+
+SERVICE LIST
+
+2 Brian C. Fish ATTORNEYS FOR COUNTY OF ORANGE
+Stefanie Warren
+3 Alisha Ortiz Tel: 619.236.1414
+DENTONS US LLP Fax: 619.232.8311 4 4655 Executive Drive, Suite 700 brian.fish@dentons.com
+stefanie.warren@dentons.com
+5 San Diego, CA 92121
+swarren@mckennalong.com
+alisha.ortiz@dentons.com
+6 renee.evans@dentons.com
+lucy.valdez@dentons.com 7 mbudwig@mckennalong.com
+
+8 Leon J. Page, County Counsel ATTORNEYS FOR COUNTY OF ORANGE Julia C. Woo, Deputy
+9 333 W. Santa Ana Blvd., Suite 407 Tel: 714.834.6046
+
+10 Santa Ana, CA 92701 Fax: 714.834.2359
+julia.woo@coco.ocgov.com
+
+11
+Keli N. Osaki ATTORNEYS FOR LOWE ENTERPRISES
+12 Christopher S. Burt REAL ESTATE GROUP MANATT, PHELPS & PHILLIPS, LLP 13 695 Town Center Drive, 14th Floor Tel: 714.371.2500
+Costa Mesa, CA 92626 Fax: 714.371.2550 14 kosaki@manatt.com
+cburt@manatt.com 15 rsimpson@manatt.com
+
+16
+Jeffrey T. Melching ATTORNEYS FOR CITY OF IRVINE
+17 William M. Marticorena
+Alan B. Fenstermacher Tel: 714.641.5100
+18 RUTAN & TUCKER, LLP Fax: 714.546.9035
+611 Anton Blvd., Suite 1400 jmelching@rutan.com 19 Costa Mesa, CA 92626-1931 bmarticorena@rutan.com
+afenstermacher@rutan.com 20
+Gideon Kracov
+21 LAW OFFICE OF GIDEON KRACOV ATTORNEYS FOR LAGUNA GREENBELT,
+INC., ET AL.
+801 S. Grand Avenue, 11th Floor
+22 Los Angeles, CA 90017-4645 Tel: 213.629.2071
+Fax: 213.623.7755 23 gk@gideonlaw.net
+jordan@gideonlaw.net 24
+
+25 HOLDER LAW GROUP ATTORNEYS FOR CITY OF LAGUNA Jason W. Holder BEACH
+26 317 Washington St., #177 Oakland, CA 94607-3710 Tel.: (510) 338-3759 27 jason@holderecolaw.com
+
+28
+
+Gibson, Dunn & Crutcher LLP 48
+PROOF OF SERVICE
+
+RUTAN & TUCKER, LLP ATTORNEYS FOR CITY OF LAGUNA
+Philip D. Kohn BEACH
+2 Ajit Singh Thind 611 Anton Boulevard, Suite 1400 Tel.: 714-641-5100
+3 Costa Mesa, CA 92626-1931 Fax: 714-546-9035
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Gibson, Dunn & Crutcher LLP 49
+PROOF OF SERVICE
+
+DECEIVEN DEC 2 4 2018
+BY:___________

@@ -1,0 +1,743 @@
+PILLSBURY WINTHROP SHAW PITTMAN LLP
+RONALD E. VAN BUSKIRK (SBN 64683)
+2 Email: ronald.vanbuskirk@pillsburylaw.com STACEY C. WRIGHT (SBN 233414) Email: stacey.wright@pillsburylaw.com Four Embarcadero Center, 22nd Floor
+4 San Francisco, CA 94111-5998 Telephone: (415) 983-1000
+Facsimile: (415) 983-1200
+
+6 Attorneys for Petitioners,
+FALL RIVER CONSERVANCY and CALIFORNIA
+TROUT
+
+9 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+10 IN AND FOR THE COUNTY OF SACRAMENTO
+
+11
+
+12 FALL RIVER CONSERVANCY; and CASE NO.
+CALIFORNIA TROUT,
+13 Petitioners, VERIFIED PETITION FOR WRIT OF
+14 MANDAMUS
+VS.
+15 [CEQA Action]
+CALIFORNIA DEPARTMENT OF FISH
+16 AND WILDLIFE: and CALIFORNIA FISH
+AND GAME COMMISSION, [Code Civ. Proc. §§ 1094.5, 1085; California Environmental Quality Act, Pub. Res. Code
+17 , 21000, et seq.] Respondents.
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+
+1 Petitioners, Fall River Conservancy (the "Conservancy") and California Trout
+
+2 ("CalTrout") (collectively, "Petitioners") hereby petition this Court for a writ of mandate against
+
+3 Respondents, the California Department of Fish and Wildlife (the "Department") and the
+
+4 California Fish and Game Commission (the "Commission") (collectively, "Respondents"), and
+
+5 for their petition allege as follows:
+
+6 INTRODUCTION
+
+7 1. This action challenges and seeks to set aside certain amendments to Statewide
+
+8 Inland Trout Regulations (SCH No. 2020090186, "Simplification of Statewide Inland Sport
+
+9 Fishing") adopted by the Commission on October 14, 2020 (the "Regulations") as they pertain to
+
+10 (i) the Fall River, one of the largest spring-fed river systems in the Western United States, and its
+11 tributaries (the "Fall River Complex" or "Complex") including its distinct species of rainbow
+12 trout, and (ii) to its tributary Bear Creek, without conducting sufficient environmental review as
+
+13 required under the California Environmental Quality Act ("CEQA"), Public Resources Code
+
+14 § 21,000, et. seq.
+
+15 2. During the administrative and environmental review process for the Regulations,
+
+16 several parties, including the Conservancy and CalTrout, provided written comments to
+
+17 Respondents that the Regulations as proposed and ultimately adopted were insufficient and would
+
+18 lessen environmental protections, resulting in potentially significant negative impacts to the
+
+19 unique Fall River Complex and Bear Creek if implemented. They also commented that additional
+
+20 scientific study - including a sufficient analysis of baseline conditions, adequate disclosure of
+
+21 potential significant impacts, and development and adoption of mitigation measures - was needed
+
+22 to comply with CEQA and protect the Fall River Complex and Bear Creek, and the fish
+
+23 populations therein, before such regulations should be considered for adoption.
+
+24 3. For purposes of environmental review under CEQA and the State CEQA
+
+25 Guidelines (14 Cal. Code Regs. § 15000, et seq.), the Commission relied on an unsupported and
+
+26 inadequate Negative Declaration without any study of potential adverse environmental impacts to
+
+27 the Fall River Complex and Bear Creek that could occur if the Regulations were adopted and
+
+28 implemented.
+-1-
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+
+4. Petitioners contend that Respondents violated CEQA and committed a prejudicial
+
+2 abuse of discretion by: (i) failing to proceed in the manner required by law; (ii) failing to apply
+
+3 the proper legal standards; (iii) adopting findings that are insufficient to support their decisions;
+
+4 (iv) making findings that are not supported or justified by substantial evidence in the
+
+5 administrative record; and (v) failing to make other necessary findings.
+
+6 5. a Accordingly, this Court should issue a writ of mandate directing Respondents to
+
+7 set aside and vacate the Regulations applicable to the Fall River Complex and Bear Creek as
+alleged herein. Petitioners further seek a court-ordered stay of those portions of the Regulations
+pending resolution of this lawsuit, in order to protect the sensitive and unique fish populations,
+
+10 including important long-living and irreplaceable broodstock, and conditions in the Fall River
+
+11 Complex and related areas from irreparable harm.
+
+12 PARTIES
+
+13 6. The Conservancy is a California non-profit corporation founded in 2008 with the
+
+14 mission of preserving lands and waters of the Northern California's Fall River Valley and
+
+15 conserving the Valley's wildlife and biological resources, including the functioning cold-water
+16 spring systems that support and protect robust populations of large, healthy trout. Conservancy
+
+17 members include many long-time landowners in and around the Fall River Mills community, and
+18 the Conservancy has a significant and direct interest in the continued health and vitality of the
+19 unique and genetically distinct fish populations occurring in the Fall River Complex and Bear
+20 Creek that could be adversely and directly affected by the Regulations.
+
+21 7. CalTrout is a California conservation non-profit corporation incorporated in 1971,
+
+22 with the mission of ensuring that wild fish thrive in healthy waters for a better California through
+
+23 watershed stewardship, science-based solutions, and other measures. CalTrout operates through
+
+24 six regional offices, including the Mount Shasta/Klamath region that includes the Fall River
+
+25 Complex and Bear Creek, as well as an office in Sacramento that engages in legislative and
+
+26 administrative policy matters with many agencies of the State of California, including
+27 Respondents. Among other things, CalTrout participates in many "boots on the ground"
+
+28 conservation projects designed to protect and promote healthy waters and fish populations for the
+
+- 2 -
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+
+public benefit in California. In June 2020, CalTrout issued its formal comment letter concerning
+
+2 the proposed Regulations in order to raise concerns about adequately protecting native trout
+
+3 species and sensitive wild trout fisheries from unnecessary impacts associated with increased
+
+4 harvest or angling pressure.
+
+5 8. The Department is a state agency charged with public trust responsibilities for
+
+6 protecting and managing the State's fish and wildlife. Among other things, the Department
+
+7 implements and enforces the regulations established by the Commission and provides biological
+data and expertise to inform the Commission's decision-making process.
+
+9 9. The Commission is a state agency charged with the public trust responsibilities for
+
+10 protecting and managing the State's fish and wildlife. Among other things, the Commission has
+
+11 responsibility for promulgating regulations to manage sport fishing, including seasons, bag limits,
+
+12 methods of take, and other subjects.
+
+13 JURISDICTION AND VENUE
+
+14 10. This Court has jurisdiction over this proceeding pursuant to the California
+
+15 Constitution, Article VI, § 10, Code of Civil Procedure §§ 88, 1060, and 1094.5, or in the
+
+16 alternative § 1085.
+
+17 11. Venue in this Court is proper pursuant to Code of Civil Procedure § § 393 and 395.
+18 12. Petitioners have performed all conditions precedent to filing this action including
+
+19 exhaustion of administrative remedies to the extent required by law and complying with notice
+
+20 provisions of Public Resources Code §§ 21167.5 (Exhibit A hereto) and 21167.7 (Exhibit B
+
+21 hereto).
+
+22 13. Petitioners have complied with the requirements of Public Resources Code
+
+23 § 21167.6 by concurrently filing a request concerning preparation of the record of administrative
+
+24 proceedings relating to this action.
+
+25 GENERAL ALLEGATIONS
+
+26 14. Commencing in 2018, the Department proposed changes to California inland trout
+27 angling regulations for approval by the Commission with a stated purpose "to eliminate or reduce
+
+28
+
+- 3 -
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+
+the sport fish harvest" and "to protect populations of threatened trout."
+2 (https://ceganet.opr.ca.gov/2020090186/2.
+
+3 15. The Department and the Commission conducted community meetings in 2018 and
+
+4 2019 to discuss proposed changes to amend and simplify inland sport fishing regulations.
+
+5 16. In June 2020, the Commission approved a formal notice of proposed rulemaking.
+
+6 The Commission's rulemaking and regulatory process is governed by the California
+
+7 Administrative Procedure Act ("APA"). The APA requires public participation in the adoption of
+
+8 State regulations to ensure they are necessary and legally valid, among other things.
+
+9 17. For purposes of CEQA, the staff of the Commission published a proposed
+
+10 Negative Declaration on or about September 9, 2020 for a 30-day public review and comment
+
+11 period.
+
+12 18. During that review and comment period, several commenters stated that the
+
+13 Negative Declaration and the Regulations did not consider or rely on the best available science or
+
+14 adequate scientific study to inform and support adoption of the Regulations, including
+
+15 identification of potential negative impacts through the proposed changes to the Regulations. The
+
+16 comments included that the Department, in concert with the Conservancy, CalTrout, and the
+
+17 University of California at Davis ("U.C. Davis") Center for Watershed Sciences, had conducted
+
+18 annual mark-recapture surveys and genetic research on the trout population in the Fall River
+
+19 Complex which indicated (among other things) that a significant portion of spawning fish in Bear
+
+20 Creek reside in the Fall River and are genetically distinct from their counterparts throughout the
+
+21 complex. That evidence demonstrated that the Regulations, which would lessen existing
+
+22 protections of the fish populations, posed a potentially significant risk to the spawning season and
+
+23 biodiversity in the Fall River Complex and Bear Creek, and that potential impact did not receive
+24 the necessary level of environmental review under CEQA.
+
+25 19. For those reasons, among others, CalTrout and the Conservancy opposed the
+26 Regulations for the Fall River Complex and Bear Creek as posing significant adverse impacts
+
+27 including by (i) altering the current fishing season, and (ii) removing the 14-inch maximum limit
+
+28 on to trout to protect larger spawning broodstock. Petitioners also requested that the Commission
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+
+1 adopt a unified regulation to adequately protect the genetically distinct trout in the Fall River
+
+2 Complex and Bear Creek, given (i) the inadequate population surveys and (ii) the latest scientific
+
+3 and genetic information from UC Davis.
+
+20. The Conservancy, CalTrout and others submitted timely public comments during
+
+5 the public review period concerning the potential environmental impacts of the Regulations in
+
+6 relaxing restrictions in the Fall River Complex. For example, on September 29, 2020, the
+
+7 Conservancy submitted a letter to the Commission concerning the impact of the Regulations on
+
+8 the Fall River, emphasizing that the Fall River presents a unique and high-quality angling
+
+9 experience. These comments noted that under the protection of existing regulations, the Fall
+
+10 River Complex fishery has sustained a robust trout population that could be significantly and
+
+11 adversely impacted by the Regulations. The Conservancy requested that the Fall River Complex
+
+12 be protected by a zero-bag limit and a requirement for artificial flies or lures with barbless hooks,
+
+13 among other things. It also stated that the best available science, including the passive integrated
+14 transponder ("PIT") project, favored retaining the status quo in the Fall River and in the
+
+15 vulnerable upper spawning reaches.
+
+16 21. On September 30, 2020, CalTrout, a leader in conservation of salmonids across
+
+17 California for decades, submitted a letter to the Commission expressing concerns with the
+
+18 Regulations' impacts on sensitive native and wild trout. Among other things, CalTrout stated that
+19 the proposed Regulations would not adequately protect wild trout fisheries or meet stated
+
+20 management objectives, including in the Fall River fishery, and requested the use of barbless,
+
+21 artificial lures a only with a zero fish daily bag.
+
+22 22. On October 14, 2020, the Commission held an online public meeting to consider
+
+23 the Regulations and took action to approve the Regulations, without conducting any scientific
+
+24 study or adopting any of the recommendations proposed by Petitioners and others.
+
+25 23. On or about November 5, 2020, the Commission issued a notice to clarify the
+
+•26 regulatory language that was adopted.
+
+27 24. Petitioners are informed and believe, and on that basis allege, that the Regulations
+
+28 were submitted by the Commission to the Office of Administrative Law ("OAL") for review and
+
+- 5 -
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+
+approval, and that the OAL approved the Regulations, which took effect on or about March 1,
+
+2 2021.
+
+3 FIRST CAUSE OF ACTION
+
+(Writ of Mandate, CCP § 1094.5 and/or § 1085)
+
+5 25. Petitioners incorporate by reference and re-allege the allegations of paragraphs 1-
+
+6 24, above.
+
+7 26. Pursuant to CEQA, public agency may not adopt a Negative Declaration if there
+
+8 is substantial evidence in the record such that it could be "fairly argued" that the project may have
+a significant effect on the environment. Sierra Club v. California Dept. of Forestry and Fire
+
+10 Protection (2007) 150 Cal.App.4th 370, 380-381; Keep our Mountains Quiet v. County of Santa
+
+11 Clara (2015) 236 Cal.App.4th 714 (residents' personal knowledge qualifies as substantial
+
+12 evidence). A court must reject a Negative Declaration even if there is also substantial evidence in
+
+13 the record that the project would not have adverse environmental effects. Keep our Mountains
+
+14 Quiet, supra, 236 Cal.App.4th at 732; Sierra Club, supra, 150 Cal.App.4th at 380-381 ("if
+
+15 substantial evidence establishes a reasonable possibility of a significant environmental impact,
+
+16 then the existence of contrary evidence in the administrative record is not adequate to support a
+
+17 decision to dispense with an EIR [Citations]").
+
+18 27. Respondents prejudicially abused their discretion and violated CEQA in adopting
+
+19 the Regulations without adequate environmental review, including the lack of any baseline
+
+20 studies of current conditions in the Fall River Complex and Bear Creek., which are unique and
+
+21 sensitive geographic areas that warrant such study and consideration. For the reasons given in
+
+22 public comment letters, including those submitted by Petitioners, the Commission failed to study
+
+23 the potentially significant adverse impacts that could result from implementing the Regulations
+24 and their lessening of protections, and failed to give sufficient consideration to (i) protecting the
+
+25 Fall River Complex with a zero-bag limit or at least a limitation that larger fish (over 14 inches)
+
+26 not be harvested, a requirement for artificial flies or lures with barbless hooks to prevent high
+
+27 mortality and injury rates, and a limited (status quo) fishing season from the last Saturday in April
+
+28 to November 15th to the extent feasible; and (ii) adopting a unified regulation to adequately
+
+- 6-
+VERIFIEI PETITION FOR WRIT OF MANDAMUS
+
+1 protect the genetically distinct trout in the Fall River Complex and Bear Creek given the
+
+2 inadequate population surveys and the latest scientific information from U.C. Davis.
+
+3 28. Respondents' responses to public comments, including the comments by the
+
+4 Conservancy and CalTrout, were inadequate under CEQA.
+
+5 29. For the same reasons, Respondents' actions also violated duties under the Fish and
+
+6 Game Code (for example, § 203.1, "the commission shall consider populations, habitat, food
+
+7 supplies, the welfare of individual animals"; § 219(a), "the regulation is necessary for the
+
+8 protection of fish, wildlife, and other natural resources under the jurisdiction of the commission").
+
+30. Petitioners have no plain, speedy or adequate remedy at law to correct the errors
+
+10 and abuse of discretion committed by Respondents other than through the relief sought by this
+
+11 Petition.
+
+12 31. Accordingly, Petitioners seek a determination and judgment that Respondents
+
+13 committed a prejudicial abuse of discretion by failing to proceed in the manner required by law,
+
+14 that their decisions are not supported by their findings, and the findings are not supported by
+
+15 substantial evidence in the record.
+
+16 PRAYER FOR RELIEF
+
+17 WHEREFORE, Petitioners pray for entry of judgment as follows:
+
+18 32. For a stay pending resolution of this lawsuit of those portions of the Regulations
+
+19 applicable to the Fall River Complex and Bear Creek;
+
+20 33. For a judgment that Respondents committed a prejudicial abuse of discretion and
+
+21 failed to comply with CEQA and the Fish and Game Code as alleged herein;
+
+22 34. For a peremptory writ of mandate setting aside the Regulations with respect to the
+
+23 Fall River Complex and Bear Creek as alleged herein, and directing Respondents to comply with
+
+24 their duties under CEQA and the Fish and Game Code as directed by the Court before seeking to
+
+25 amend the Regulations applicable to those areas;
+
+26 35. For costs of suit;
+
+27 36. For attorneys' fees as authorized by Code of Civil Procedure 1021.5 and any
+
+28 other applicable law; and
+
+- 7-
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+
+1 37. For such other relief as the Court finds just and proper.
+
+2
+
+3 Dated: April 12, 2021 PILLSBURY WINTHROP SHAW PITTMAN LLP
+RONALD E. VAN BUSKIRK 4 STACEY C. WRIGHT
+Four Embarcadero Center, 22nd Floor 5 San Francisco, CA 94111-5998
+
+6
+
+7 pOLeva HMU By:_
+Ronald E. Van Buskirk 8
+
+9 Attorneys for Petitioners, FALL RIVER CONSERVANCY and CALIFORNIA
+TROUT 10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+- 8-
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+
+1 VERIFICATION
+
+2 I, Rodney R. Peck, declare:
+
+3 I am the President of Petitiener Fall River Conservancy (*Conservancy") and I am
+authorized to execute this verification on the Conservancy's behalf. I have read the foregoing
+VERIFIED PETITION FOR WRIT OF MANDAMUS ("Petition") and I am familiar with its
+contents. The facts generally alleged in the Petition not otherwise supperted by exhibits or •ther
+documents are true to the best of my personal kuowledge, except as to matters alleged therein on
+information or belief, and as to those matters, I believe them to be true.
+
+9 I declere under penalty of perjwuy that the foregoing is true and correct.
+10 Executed this 12th day of April 2021, at Novato, California.
+11
+
+12
+
+13 fol, Fe fa
+Ródney R. Peck
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+9.
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+
+EXHIBIT A
+
+pillsbury
+
+Pillsbury Winthrop Shaw Pittman LLP
+Four Embarcadero Center, 22nd Floor San rancisco, CA 94111-5998 | tel 415.983.1000 | fax 415.983.1200
+
+Ronald E. Van Buskirk
+tel: 415.983.1496
+ronald.vanbuskirk@pillsburylaw.com
+
+April 12, 2021
+
+Via U.S. Mail
+
+Ms. Melissa Miller-Henson
+Executive Director
+California Fish and Game Commission
+P.O. Box 944209
+Sacramento, CA 94244-2090
+
+Wendy Bogdan, Esq.
+General Counsel
+California Department of Fish and Wildlife
+P.O. Box 944209
+Sacramento, CA 94244-2090
+
+Re: Notice of Commencement of CEQA Litigation Challenging Approval of
+Statewide Inland Trout Angling Regulations ( CH No. 2020090186,
+"Simplification of Statewide Inland Sport Fishing")
+
+Dear Ms. Miller-Henson and Ms. Bogdan:
+This letter is to notify you that the Fall River Conservancy (the "Conservancy") and
+California Trout ("CalTrout") will file suit against the California Fish and Game
+Commission (the "Commission") and the California Department of Fish and Wildlife for failure to comply with the requirements of the California Environmental Quality Act
+("CEQA"), Public Resources Code § 21000, et seq. and the State CEQA Guidelines, 14 Cal.
+Code Regs. sop 15000, et seq. in the rulemaking and regulatory process that culminated in the Commission's adoption of amendments to the inland trout angling regulations on October 14, 2020 (*Regulations"), as they pertain to (a) the Fall River, one of the largest spring-fed river systems in the Western United States, and its tributaries (the "Fall River Complex") and its distinct species of rainbow trout, and (b) its tributary - Bear Creek. This notice is given pursuant to Public Resources Code , 21167.5.
+Please retain all "internal agency communications, including staff notes and memoranda related to the project or to compliance with [CEQA]" as part of the administrative record for
+this proceeding under Public Resources Code § 21167.6.
+
+www.pillsburylaw.com
+
+Ms. Miller-Henson, California Fish and Game Commission
+Ms. Bogdan, California Department of Fish and Wildlife April 12, 2021
+Page 2
+
+Sincerely,
+
+pOL eva HmU
+Ronald E. Van Buskirk
+Partner and General Counsel Emeritus
+
+cC: Rodney R. Peck, President, Fall River Conservancy
+Andrew Braugh, Shasta-Klamath Director, California Trout
+
+www.pillsburylaw.com
+
+1 PROOF OF SERVICE
+
+2 I am employed in the City of San Francisco, State of California, in the office of a member
+
+3 of the bar of this Court, at whose direction the service was made. I am over the age of eighteen
+
+4 years, and not a party to the within action. My business address is Pillsbury Winthrop Shaw
+
+5 Pittman LLP, Four Embarcadero Center, 22nd Floor, San Francisco, CA 94111. On April 12,
+
+6 2021, I served the document(s) titled NOTICE OF COMMENCEMENT OF CEQA
+
+7 LITIGATION CHALLENGING APPROVAL OF STATEWIDE INLAND TROUT
+
+8 ANGLING REGULATIONS (SCH NO. 2020090186, "SIMPLIFICATION OF
+
+9 STATEWIDE INLAND SPORT FISHING") on the parties in this action as follows:
+
+10
+Ms. Melissa Miller-Henson
+11 Executive Director
+
+12 California Fish and Game Commission
+P.O. Box 944209
+13 Sacramento, CA 94244-2090
+
+14 Wendy Bogdan, Esq.
+General Counsel
+15 California Department of Fish and Wildlife
+
+16 P.O. Box 944209
+Sacramento, CA 94244-2090
+17
+
+18 X (BY MAIL) 1 caused each envelope, with postage thereon fully prepaid, to be placed in the United States mail at San Francisco, CA. I am readily familiar with
+19 the practice of Pillsbury Winthrop Shaw Pittman LLP for collection and processing of correspondence for mailing, said practice being that in the ordinary
+20 course of business, mail is deposited in the United States Postal Service the same day as it is placed for collection.
+21 0 (BY EMAIL TRANSMISSION) The above-referenced document was
+22 transmitted via electronic transmission to the persons at the electronic-email addresses indicated above.
+23
+
+24 I declare under penalty of perjury that the foregoing is true and correct. Executed this
+25 12th day of April, 2021, at San Francisco, California.
+26
+
+27 Tina Bichok
+Tina Bishop
+28
+
+PROOF OF SERVICE
+
+EXHIBIT B
+
+pillsbury
+
+Pillsbury Winthrop Shaw Pittman LLP
+Four Embarcadero Center, 22nd Floor San Francisco, CA 94111-5998 | tel 415.983.1000 | fax 415.983.1200
+
+Ronald E. Van Buskirk
+tel: 415.983.1496
+ronald.vanbuskirk@pillsburylaw.com
+
+April 12, 2021
+
+Via U.S. Mail
+
+California Attorney General
+Office of the Attorney General
+1300 "I" Street
+Sacramento, CA 95814-2919
+
+P.O. Box 944255
+Sacramento, CA 94244-2550
+
+Re: Notice of Filing of CEQA Litigation: Fall River Conservancy, et al. v.
+California Department of Fish and Wildlife, et al. Challenging Approval of
+Statewide Inland Trout Angling Regulations (SCH No. 2020090186,
+"Simplification of Statewide Inland Sport Fishing")
+
+Dear Attorney General:
+Enclosed please find copy of the Verified Petition for Writ of Mandate in the above- captioned action. The petition is provided to you in compliance with Public Resources
+Code § 21167.7 and Code of Civil Procedure § 388.
+
+Sincerely,
+
+AO eyx Hd
+Ronald E. Van Buskirk
+Partner and General Counsel Emeritus
+
+cC: Rodney R. Peck, President, Fall River Conservancy Andrew Braugh, Shasta-Klamath Director, California Trout
+
+www.pillsburylaw.com
+
+ATTORNEY GENERAL SAN DIEGO
+2021 APR 15 AM 9:55
+
+pilsbury
+
+Pillsbury Winthrop Shaw Pittman LLP
+Four Embarcadero Center, 22nd Floor San Francisco, CA 94111-5998 | tel 415.983.1000| fax 415.983.1200
+
+Ronald E. Van Buskirk
+tel: 415.983.1496
+ronald.vanbuskirk@pillsburylaw.com
+
+April 12, 2021
+
+Via U.S. Mail
+
+California Attorney General
+Office of the Attorney General
+1300 "T" Street
+Sacramento, CA 95814-2919
+
+P.O. Box 944255
+Sacramento, CA 94244-2550
+
+Re: Notice of Filing of CEQA Litigation: Fall River Conservancy, et al. v.
+California Department of Fish and Wildlife, et al.. Challenging Approval of
+Statewide Inland Trout Angling Regulations (SCH No. 2020090186, "Simplification of Statewide Inland Sport Fishing")
+Dear Attorney General:
+
+Enclosed please find a copy of the Verified Petition for Writ of Mandate in the above-
+captioned action. The petition is provided to you in compliance with Public Resources Code § 21167.7 and Code of Civil Procedure § 388.
+
+Sincerely,
+pol evaHml
+Ronald E. Van Buskirk
+Partner and General Counsel Emeritus
+
+CC: Rodney R. Peck, President, Fall River Conservancy
+Andrew Braugh, Shasta-Klamath Director, California Trout
+
+www.pillsburylaw.com
+
+DECEIVEN
+MAY 2 7 2021
+
+BY: ___________

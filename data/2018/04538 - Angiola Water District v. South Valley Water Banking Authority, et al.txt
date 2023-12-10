@@ -1,0 +1,1289 @@
+STEVEN M. TORIGIANI, ESQ., SBN 166773
+JEFFREY J. PATRICK, ESQ., SBN 285553
+THE LAW OFFICES OF YOUNG WOOLDRIDGE, LLP
+3 1800 30th Street, Fourth Floor
+Bakersfield, CA 93301
+Telephone: (661) 327-9661
+
+5 Facsimile: (661) 327-0720 Email: storigiani@youngwooldridge.com
+ipatrick@youngwooldridge.com
+Attorneys for Petitioner, ANGIOLA WATER DISTRICT
+
+8 EXEMPT FROM FILING FEE [GOV. CODE $6103]
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+10 FOR THE COUNTY OF TULARE
+11
+12 ANGIOLA WATER DISTRICT, a California CASE NO. 272428
+13 water district ,
+NOTICE TO ATTORNEY GENERAL
+14 Petitioner,
+
+15 V.
+
+16 SOUTH VALLEY WATER BANKING
+17 AUTHORITY, a California joint powers
+18 authority; DOES 1-10, INCLUSIVE,
+
+19 Respondents.
+
+20 PIXLEY IRRIGATION DISTRICT, a
+
+21 California irrigation district; DELANO-
+EARLIMART IRRIGATION DISTRICT, a
+
+22 California irrigation district; DOES 11-100,
+INCLUSIVE,
+23
+Real Parties in Interest.
+24
+
+25
+
+26
+
+27
+
+28l
+
+71762.000
+NOTICE TO ATTORNEY GENERAL
+
+To the Attorney General of the State of California:
+PLEASE TAKE NOTICE, under Public Resources Code §21167.7 and Code of Civil
+3 Procedure §388, that on January 17, 2018, Petitioner, ANGIOLA WATER DISTRICT, filed a
+petition for writ of mandate against SOUTH VALLEY WATER BANKING AUTHORITY
+("Authority") in the Tulare County Superior Court.
+The Petition alleges, among other things, that the Authority failed to properly follow the
+procedures and requirements of CEQA in several ways including, but not limited to: failure to
+8 prepare an Environmental Impact Report ("EIR") for the Project despite the existence of
+substantial evidence of a fair argument of a one or more potentially significant environmental
+10 impacts (including but on limited to impacts from land subsidence, surface and groundwater
+11 quality impacts, and interference with surrounding wells); improper preparation of a Mitigated
+12| Negative Declaration; failure to analyze impacts outside of the Project area; and failure to
+13| adequately analyze cumulative impacts.
+14 Generally speaking, the Petition seeks the following, among other relief: (1) a writ of
+15 mandate to void and set aside all Project approvals, the Mitigated Negative Declaration,
+16 findings and mitigation monitoring and reporting program, and to direct the Authority to
+17 prepare of an EIR before any future consideration of approval of the Project or implementation
+18 of the same; (2) declaratory relief; (3) a preliminary and permanent injunction; and (4) costs of
+19 suit and attorneys' fees.
+20 A copy of the petition is attached to this notice.
+21
+22 Dated: January 25, 2018 THE LAW OFFICES OF YOUNG WOOLDRIDGE, LLP
+23
+
+24 By:
+25 STE TORIGIANI
+
+26 JEFF J. PATRICK
+Attorneys for Petitioner,
+27 /ANGIOLA WATER DISTRICT
+
+28
+
+71762.000
+NOTICE TO ATTORNEY GENERAL
+
+STEVEN M. TORIGIANI, ESQ., SBN 166773
+JEFFREY J. PATRICK, ESQ., SBN 285553
+THE LAW OFFICES OF YOUNG WOOLDRIDGE, LLP 1800 30th Street, Fourth Floor FILED Bakersfield, CA 93301
+Telephone: (661) 327-9661 TULARE COUNTY SUPERIOR COURT VIBALIA DIVI3ON 5 Facsimile: (661) 327-0720 Email: storigiani@youngwooldridge.com JAN 17 2019
+jpatrick@youngwooldridge.com STEPHANE CAMERON, CLEAK
+Attorneys for Petitioner, ANGIOLA WATER DISTRICT Byjagcica.tlartina.....
+EXEMPT FROM FILING FEE
+IGOV. CODE $6103l
+9
+
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+11 FOR THE COUNTY OF TULARE
+N~ ANGIOLA WATER DISTRICT, a California Case No.: 27 2428
+14 water district,
+
+Petitioner, PETITION FOR WRIT OF 15 MANDATE AND COMPLAINT FOR
+16 v. DECLARATORY RELIEF
+
+17 SOUTH VALLEY WATER BANKING [CEQA - Public Resources Code §
+AUTHORITY, a California joint powers 21000 et seq.; CCP §S 1060, 1085, 18 authority; DOES 1-10, INCLUSIVE, 1094.5|
+19
+Respondents. 20
+
+PIXLEY IRRIGATION DISTRICT, a California
+22 irrigation district; DELANO-EARLIMART
+23 IRRIGATION DISTRICT, a California
+irrigation district; DOES 11-100, INCLUSIVE,
+24 Real Parties in Interest.
+25
+
+26
+
+27
+28
+
+71364.002
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+Petitioner and Plaintiff, ANGIOLA WATER DISTRICT, hereafter "Petitioner," brings this
+Petition for Writ of Mandate and Complaint for Declaratory Relief (*Petition") and alleges as
+
+3 follows:
+
+INTRODUCTION, PROJECT AND PARTIES
+
+1. This Petition challenges pursuant to the California Environmental Quality Act
+6 ("CEQA"), and its implementing regulations [California Code of Regulations, Title 14, Chapter 3,
+§ 15000 et seq.] ("CEQA Guidelines"), certain actions and determinations taken and made by
+8 Respondent South Valley Water Banking Authority ("Respondent" or "SVWBA") on December
+18, 2017, including approval of a large groundwater banking project to be constructed in Tulare
+10|| County, California, nearby the Central Valley Project's Friant-Kern Canal ("FKC"), known as the
+11 Modified Pixley Groundwater Banking Project ("Project"), based on its preparation of a Joint
+12 Final Environmental Assessment'/Initial Study - Mitigated Negative Declaration? for the Project
+13 ("EA/MND" or "Negative Declaration") instead of an Environmental Impact Report ("EIR")
+14 pursuant to CEQA, which challenged actions and determinations are more particularly described
+15 in Resolution No. 2017-02 (including Mitigation Monitoring and Reporting Program attached as
+16 Attachment A thereto) adopted by SVWBA on December 18, 2017 and referenced and recorded in
+17 the Notice of Determination ("NOD") filed with the Tulare County Clerk on December 19, 2017,
+
+18 which NOD is attached as Exhibit "A" hereto and incorporated herein by this reference. The
+19 NOD identifies the environmental document prepared for the Project and adopted by SVWBA as a
+20 "Negative Declaration" and indicates that SVWBA adopted a mitigation reporting or monitoring
+21 plan and made findings pursuant to the provisions of CEQA.
+
+22 2. Petitioner petitions this Court for a judgment, writ of mandate and other appropriate
+23 orders to, among other things, void, vacate and set aside the EA/MND or Negative Declaration
+24 prepared and approved by Respondent, SVWBA, as lead agency, for the Project and directing the
+25 SVWBA to prepare a legally sufficient EIR as required by CEQA. Petitioner also seeks by this
+
+26 Petitioner is informed and believes that the United States Bureau of Reclamation as : federal entity proposing to 27 partially fund the Project acted as lead agency for the Project pursuant to the federal National Environmental Policy Act.
+28 2 Petitioner is informed and believes that Appendix A to the EA/MND is A a CEQA - Initial Study Checklist.
+
+71364.002 - 2-
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+1 Petition to void, vacate and set aside all discretionary approvals of and relating to the Project by
+2 Respondent and by Real Parties in Interest and DOES 1-100, and the findings and mitigation
+3 measures and Resolution No. 2017-02 including the Mitigation Monitoring and Reporting
+Program relating to the Project, and to enjoin implementation of the Project unless and until
+5 Respondent has prepared an EIR and/or otherwise complied with CEQA.
+6 3. According to the December 18, 2017 Staff Report for the Project (*Staff Report"),
+7 the Project groundwater bank includes the following facilities and activities:
+(a) Recharge Basin facility of up to 800 acres and cessation of any active
+9 agricultural activity (e.g., cultivated crops and orchards) within the basin facilities.
+(b) A well field of 16 recovery wells within the Recharge Basin boundaries, for
+11| return up to 30,000 acre-feet of groundwater to the FKC a year during dry years.
+12 (c) A new up to 60-inch diameter FKC turnout.
+
+13 (d) A 4.5 mile long, up to 60-inch diameter, bi-directional concrete main
+14 pipeline from the new turnout on the FKC to the said Recharge Basin area and in-lieu service area
+15 (described below).
+16 (e) An approximate 2-acre pumping plant and regulating basin.
+17 (f) Approximately 14 acres of grower turnouts, related control facilities,
+18 connecting pipelines, and up to groundwater recovery wells within an approximately 3,500-acre
+19 in-lieu service area.
+20| 4. According to the same Staff Report, Project objectives include to "Provide a dry-
+21 year supply to banking partners to prevent fallowing, crop loss, or municipal supply
+22 reductions...." which dry-year supply would consist of groundwater pumped from the Project's 16
+23 deep recovery wells and subsequently discharged into the FKC.
+24 5. According to Table 2-1 of the EA/MND, potential Project banking participants
+25| which would store and use water stored by the Project, include Central Valley Project Friant
+26 Division and Cross Valley contractors and subcontractors, which include entities that provide
+27 water to agricultural and/or municipal users, including cities, counties and irrigation districts.
+28
+
+71364.002
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+6. The Project would return stored water to banking partners by aggressively pumping
+groundwater in dry years from newly constructed deep wells located in heavily subsidence-
+impacted area of the overdrafted Tule Subbasin in Tulare County and discharging such
+groundwater into the FKC, which will result in long-term substantial water quality degradation
+5 (and associated impacts) for Petitioner and/or other downstream water users, including within the
+6l boundaries of Arvin-Edison Water Storage District in Kern County, California, which has an
+Intake Canal near the terminus of the FKC, because the net effect of this Project activity is to
+8 replace exceptionally high quality FKC water stored in and flowing through Millerton Lake with
+9| lesser quality (e.g., containing elevated levels of salts among other constituents of concern)
+10 groundwater resulting in downstream salt accumulation and concentration sometimes referred to
+11 as "salt loading" and associated potentially significant environmental impacts absent appropriate
+12 mitigation.
+13 7. Petitioner brings this action against SVWBA in its capacity as the CEQA Lead
+14 Agency for the Project. Petitioner is informed and believes that SVWBA is presently, and at all
+15 times relevant hereto has been, a public entity formed and existing pursuant to the California Joint
+16 Exercise of Powers Act [Government Code § 6500 et seq.] and known as a Joint Powers Authority
+17 or JPA. Petitioner is informed and believes that SVWBA's physical address and place of
+18 business is located at 357 W. Olive Ave., Tipton, California, 93272, in Tulare County.
+19 8. Petitioner is informed and believes that SVWBA was formed by its member
+20 entities Delano-Earlimart Irrigation District ("DEID") and Pixley Irrigation District ("PID"), for
+21 the purpose of developing, owning, operating, managing and maintaining the Project.
+22 9. Petitioner is informed and believes that Real Party in Interest DEID is presently,
+23 and at all times relevant hereto has been, a public entity known as a California a irrigation district
+24 formed and existing pursuant to the California Irrigation District Law [Water Code § 20500 et
+25 seq.] and a member entity of SVWBA, and DEID's boundaries are exclusively located in both
+26 Tulare County and (northern) Kern County.
+27 10. Petitioner is informed and believes that Real Party in Interest PID is presently, and
+28 at all times relevant hereto has been, a public entity known as a California irrigation district
+
+71364.002
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+formed and existing pursuant to the California Irrigation District Law [Water Code § 20500 et
+seq.] and a member entity of SVWBA, and PID's boundaries are exclusively located in Tulare
+County.
+
+11. Petitioner is presently, and at all times relevant hereto has been, a public entity
+5| known as California water district formed and existing pursuant to the California Water District
+Law [commencing with Water Code § 34000 et seq.]. Petitioner is authorized to and brings this
+action on behalf of itself and the landowners and water users within its boundaries consisting of
+8 approximately 33,000 acres of farmland. Petitioner's boundaries are located exclusively within
+9 the County of Kings and County of Tulare. Petitioner pumps and distributes for the benefit of its
+10 agricultural landowners and water users groundwater from several wells overlying the same
+11 overdrafted and subsidence-impacted groundwater subbasin, the Tule Groundwater Subbasin
+12 number 5-22.13 as defined by the California Department of Water Resources Bulletin 118 ("Tule
+13l Subbasin" or "Subbasin"), from which the Project would pump and discharge the groundwater
+14 into the FKC. Petitioner is also a member of the Tri-County Water Authority, which is a
+15 Groundwater Sustainability Agency (GSA) pursuant to the Sustainable Groundwater Management
+16 Act (SGMA) that includes a portion of the Tule Subbasin, among other subbasins, within its area
+17 of groundwater management. Petitioner also holds a licensed appropriative right for 5,370 acre-
+18 feet per year on Dear Creek (California State Water Resources Control Board License ID 01676)
+19| and its point of diversion is in the vicinity of and downstream from the Project.
+20 12. Petitioner has submitted extensive comments on the EA/MND, including
+21 comments dated May 16, 2017, which comments among other things detail Petitioner's concerns
+22 about the adverse environmental effects of the Project including to water quality, groundwater,
+23 agriculture and subsidence, and provided substantial evidence supporting the need for an EIR
+24| including opinion from eminently qualified and credible experts.
+25 13. Petitioner is beneficially interested in Respondent's compliance with its duties and
+26 responsibilities under applicable laws, including CEQA, and in Respondent's performance of its
+27 duties to apply all applicable laws and consider rationally and in good faith all record evidence in
+28 deciding whether to approve public projects.
+
+71364.002
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+14. Petitioner is unaware of the true names and capacities of Respondents, sued herein
+2 as DOES 1-10, and Real Parties in Interest, sued herein as DOES 11-100, and therefore sues such
+3| persons, entities and organizations by these fictitious names. Petitioner is informed and believes
+that each of said DOES has or will make or issue a discretionary approval in relation to the Project
+5 and/or otherwise has an interest in the Project or matters alleged in this action. When their true
+6 identities and capacities have been determined, Petitioner will amend this Petition, with leave of
+court if necessary, to insert such identities and capacities.
+8 JURISDICTION AND VENUE
+15. This Court has jurisdiction over the matters alleged herein and this Petition is
+authorized by and arises under Public Resources Code section 21168 and/or 21168.5 and Code of
+11 Civil Procedure section 1085 and/or 1094.5 et seq., which authorizes an agency's approval of a
+12 Project to be set aside if the agency has prejudicially abused its discretion. Abuse of discretion is
+13 established if the agency has not proceeded in a manner required by CEQA or if the determination
+14 or decision is not supported by substantial evidence.
+15 16. Venue is appropriate in this Court in the County of Tulare pursuant to Code of
+16 Civil Procedure section 393, because the Project will be constructed in said County and the
+17 environmental effects of the Project and associated actions by Respondents and Real Parties in
+18 Interest, including resulting potentially significant water quality degradation and/or subsidence
+19 impacts, will be felt in said County where the Project will among other things pump groundwater
+20 from the overdrafted Tule Subbasin.
+
+21 EXHAUSTION OF ADMINISTRATIVE REMEDIES
+
+22 17. Petitioner has performed or is excused from performing any and all conditions
+23 precedent to filing the instant action and has exhausted any and all administrative remedies to the
+24 extent required by law, including as required by Public Resources Code section 21177.
+25 NOTICE
+
+26 18. Petitioner has complied with the requirements of Public Resources Code section
+27 21167.5 in mailing a notice of commencement of this action to Respondent, prior to filing this
+
+281
+
+71364.002 6 -
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+1| Petition, a copy of said notice and proof of service is attached as Exhibit "B" hereto and
+2 incorporated herein by this reference.
+19. Concurrent with the service of this Petition, Petitioner will serve on Respondent a
+request for preparation of the administrative record relating to this action in accordance with the
+5 requirements of CEQA, and more specifically, Public Resources code section 21167.6.
+20. Petitioner will comply with the requirements of Public Resources Code section
+7| 21167.7 and Code of Civil Procedure section 388 by mailing a copy of this Petition to the
+8 Attorney General of the State of California,
+ATTORNEYS' FEES
+10l 21. Petitioner is entitled to recover attorneys' fees from Respondent and Real Parties in
+11 Interest pursuant to Code of Civil Procedure section 1021.5 because this action will, among other
+12 things, confer a significant benefit on the general public and large class of persons, and the
+13 necessity and burden of private enforcement makes an award of fees appropriate.
+14 FACTUAL AND PROCEDURAL HISTORY OF PROJECT
+
+15 22. Petitioner is informed and believe that, in March of 2016, SVWBA circulated the
+16 South Valley Water Bank Authority Pixley Groundwater Banking Project joint Draft
+17|| Environmental Assessment/Initial Study-Mitigated Negative Declaration ("First Draft EA/MND")
+18 for public review and comment.
+
+19 23, Petitioner timely provided written comments dated May 19, 2016, on the First
+20 Draft EA/MND, which included objection to the First Draft EA/MND and the then proposed
+21 iteration of the Project, request for preparation of an EIR, and articulation of various concerns
+22 relating to the environmental effects of the Project including the First Draft EA/MND's lack of
+23 adequate evaluation of Project groundwater pumping impacts to the Tule Subbasin including
+24| subsidence.
+
+25 24. Petitioner is informed and believes that, subsequently, in April of 2017, SVWBA
+26 circulated a revised draft EA/MND ("Second Draft EA/MND") for public review and comment,
+27 with certain modifications to the project described in the First Draft EA/MND.
+28
+
+71364.002 -7-
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+25. According to the Staff Report, the Project groundwater bank (as modified) includes
+the following facilities and activities:
+(a) Recharge Basin facility of up to 800 acres and cessation of any active agricultural
+activity (e.g., cultivated crops and orchards) within the basin facilities.
+(b) A well field of 16 recovery wells within the Recharge Basin boundaries, for return
+up to 30,000 acre-feet of groundwater to the FKC a year during dry years.
+(c) A new up to 60-inch diameter FKC turnout.
+(d) A 4.5 mile long, up to 60-inch diameter, bi-directional concrete main pipeline from
+the new turnout on the FKC to the said Recharge Basin area and in-lieu service area (described
+10 below).
+11 (e) An approximate 2-acre pumping plant and regulating basin.
+12 (f) Approximately 14 acres of grower turnouts, related control facilities, connecting
+13| pipelines, and up to 5 groundwater recovery wells within an approximately 3,500-acre in-lieu
+14 service area,
+15 (g) Petitioner timely provided written comments dated May 17, 2017, on the Second
+16 Draft EA/MND, which included objection to the Second Draft EA/MND and the Project, request
+17 for preparation of an EIR, and articulation and reiteration of various concerns relating to the
+18 environmental effects of the Project including the Second Draft EA/MND's lack adequate
+19 evaluation of Project groundwater pumping impacts to the Tule Subbasin including subsidence.
+20 Petitioner's May 17, 2017 comment letter included a technical Memorandum prepared by Dr.
+21 Kenneth D. Schmidt, a licensed geologist and hydrogeologist. In that Memorandum, Dr. Schmidt
+22 concludes among other things that pumping in the vicinity of the proposed Project has resulted in
+23 significant subsidence, even though east of the Corcoran Clay, and that the Second Draft
+24 EA/MND's "lack of evaluating land subsidence due to recovery well pumping for the proposed
+25 project is fatal flaw in the EA/MND. The only way this could be mitigated would be to have
+26 much shallower recovery wells (less than 500 feet deep). This would require many more recovery
+27 wells and result in more interference with existing wells in the area." Also included was Dr.
+28
+
+71364.002 - 8-
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+Schmidt's resume of extensive experience working for water resource agencies, including
+2 agricultural water districts, relating to groundwater, water quality, subsidence and related matters.
+(h) Petitioner in informed and believes that SVWBA subsequently caused to be
+prepared and distributed a draft Response to Comments and draft final EA/MND ("Final Draft
+5 EA/MND") and notice of public hearing scheduled to be held December 18, 2017, to consider
+approval of the Project.
+(i) Petitioner timely provided written comments dated December 17, 2017, on the
+8 Final Draft EA/MND, which included objection to the Final Draft EA/MND and the Project,
+9 request for preparation of an EIR, and articulation and reiteration of various concerns relating to
+10 the environmental effects of the Project including the Final Draft EA/MND's lack adequate
+11 evaluation of Project groundwater pumping impacts to the Tule Subbasin including subsidence.
+12 Petitioner's December 17, 2017 comment letter includes another technical Memorandum prepared
+13 by Dr. Kenneth D. Schmidt dated December 15, 2017. In that Memorandum, Dr. Schmidt
+14 concludes that nothing in the responses to comments changes the conclusion he expressed in his
+15 May 15, 2017 Memorandum, and among other things reiterates his conclusions that the Project
+16 may or likely will result in potentially significant subsidence impacts notwithstanding the
+17 Response to Comments, with which he disagrees:
+18
+"Overall Effect of the Project on Land Subsidence
+
+20 This issue is discussed in Responses C-37 and C-38. The responders
+
+21 continue to ignore the effect of drawdowns on land subsidence due to recovery well pumping. The response provided (Page C-43) is that there will be an overall
+22 increase in groundwater storage and water levels….based on the ten percent 'leave behind' requirement. However, the drawdowns in deep recovery wells (as
+23 proposed) during recovery episodes would be significant. The documents for the
+
+24 project clearly state that there will be significant drawdowns. Because the project site is located within a subsidence area (as evidenced by the recent Friant-Kern
+25 Canal surveying and other results), there is every reason to believe that irreversible land subsidence would occur due to deep recovery well pumping for the project.
+26 This could occur even if more water is placed in storage then is withdrawn, because
+
+27 subsidence can occur seasonally, irrespective of long-term water-level changes. Also, more water may not be recharged to the deep groundwater compared to the
+28 pumpage from recovery wells from the deep groundwater. Thus the project will
+exacerbate the existing subsidence problem.
+
+71364.002
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+AMN Summary
+
+The responders did not provide any new site-specific data, but rather tried to justify
+their previous conclusion based on a regional evaluation. The most glaring of the
+response is that for subsidence (on Pages C-43 and C-44). In response C-37, it was stated: 'No significant impact to ground subsidence will therefore result from the
+
+0c Project'. This is an erroneous statement, that is not supported by any evidence. Rather, the responders believe (Page C-45) that the historical land subsidence in the area was caused by 'regional pumping and chronic water-level declines'. My experience indicates that significant land subsidence at a particular site is directly
+
+10 related to pumping of the nearest deep wells to this site. This applies directly to the subsidence along the Friant-Kern Canal near Deer Creek. That is, pumping of the
+
+11 closest deep wells to this area (ie, within a few miles) was responsible for most of
+
+12 the subsidence. The proposed Pixley Water Bank is located relatively close to the area of maximum subsidence along the Friant-Kern Canal. The failure to evaluate
+
+13 land subsidence remains a fatal flaw for the proposed project. In my opinion, the
+
+14 project is likely to have significant subsidence impacts. Nothing in the responses changes the conclusions that were expressed in my memo of May 15, 2017."
+
+15 (i)
+
+16 Petitioner is informed and believes that on December 18, 2017, SVWBA approved
+
+17 the final EA/MND and the Project, and on December 19, 2017 filed a NOD with respect to the
+
+18 Project and associated actions with the Tulare County Clerk (Exhibit "A" hereto) and State
+Clearinghouse.
+
+19 FIRST CAUSE OF ACTION
+
+20 Violation of the California Environmental Quality Act
+
+21 (Public Resources Code § 21000 et seq.)
+
+(a)
+22
+
+23 Petitioner repeats, re-alleges, and incorporates herein by reference each and every
+allegation of paragraph 1 through 29, inclusive, of this Petition.
+(b) CEQA was enacted to require public agencies and decision-makers to document
+24| and consider the environmental implications of their actions before formal decisions are made
+25
+
+26 (Public Resources Code §21002), and to "[e]nsure that the long-term protection of the
+
+28 environment shall be the guiding criterion in public decisions" (Public Resources Code §
+27 21001(d)). "CEQA was intended to be interpreted in such a manner as to afford the fullest
+possible protection to the environment within the reasonable scope of the statutory authority." (14
+
+71364.002 . 10 -
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+California Code of Regulations, (hereinafter cited as "CEQA Guidelines") §15003(f), citing
+2 Friends of Mammoth v. Board of Supervisors (1972) 8 Cal.3d 247.) The overriding purpose of
+3 CEQA is to ensure that agencies regulating activities that may affect the quality of the
+environment give primary consideration to preventing environmental damage. CEQA is the
+5 Legislature's declaration of policy that all necessary action be taken to protect, rehabilitate and
+6 enhance the environmental quality of the state. (Save our Peninsula v. Monterey County Board of
+7 Supervisors (2001) 87 Cal.App.4th 99, 117, citing Laurel Heights Improvements Assn. V. Regents
+8 of University of California (1988) 47 Cal.3d 373, 392; Public Resources Code § 21000.)
+(c) The lead agency must identify all potentially significant impacts of the project, and
+must therefore consider all the evidence in the administrative record, not just its initial study.
+11 (Public Resources Code § 21080(c), (d), 21082.2.) CEQA Guidelines direct lead agencies to
+12 conduct an Initial Study to "determine if the project may have a significant effect on the
+13 environment." (CEQA Guidelines § 15063(a).) "All phases of the project planning,
+14 implementation, and operation must be considered in the initial study.".(CEQA Guidelines §
+15 15063(a)(1).) Besides the direct impacts, the lead agency must also consider reasonably
+16 foreseeable indirect physical changes in the environment in the area in which significant effects
+17 would occur, directly or indirectly. (See CEQA Guidelines § 15064(d) & § 15360, see also,
+18 Laurel Heights Improvements Assn, supra, 47 Cal.3d at 392.)
+19 (d) An indirect impact is a physical change in the environment, not immediately related
+20| to the project in time or distance, but caused indirectly by the project and reasonably foresecable.
+21 (CEQA Guidelines § 15064(d)(2) & § 15358(a)(2).) Indirect impacts to the environment caused
+22 by a project's economic or social effects must be analyzed if they are "indirectly caused by the
+23 project, are reasonably foreseeable, and are potentially significant." (CEQA Guidelines §
+24 15064(d)-(e).) A lead agency may not limit environmental disclosure by ignoring the
+25 development or other activity that will ultimately result from an initial approval. (City of Antioch
+26| v. City Council (1986) 187 Cal.App.3d 1325 [emphasis added].) Preparing a proposed negative
+27 declaration necessarily involves some degree of forecasting, and the lead agency "must use its best
+28 efforts to find out and disclose all that it reasonably can." (CEQA Guidelines § 15144.) The
+
+71364.002 -1.
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+guidelines specifically require that an Initial Study must consider "all phases of project planning,
+2 implementation, and operation." (CEQA Guidelines § 15063(a)(1).)
+3 (e) Where the CEQA environmental process was procedurally or substantively
+defective, reviewing courts may find prejudicial abuse of discretion even if proper adherence to
+CEQA mandates may a not have resulted in a different outcome. (Public Resources Code §
+6 21005(a).) For example, the Court in Citizens to Preserve the Ojai v. County of Ventura (1985)
+7 176 Cal.App.3d 421, 428, held that the certification of an EIR that had not adequately discussed
+8| the environmental impacts of the project constituted a prejudicial abuse of discretion even if strict
+compliance with the mandates of CEQA would not have altered the outcome. The Court in
+10 Resource Defense Fund v. LAFCO (1987) 191 Cal.App.3d 886, 897-98 [disapproved on other
+11 grounds, Voice of the Wetlands v. State Water Resources Control Bd. (2011) 52 Cal 4th 499, 528-
+12 29], went so far as to declare that failure to comply with CEQA procedural requirements was per
+13 se prejudicial. The court in Kings County Farm Bureau v. City of Hanford (1990) 221 Cal.App.3d
+14 692 explained that an agency commits prejudicial error if "the failure to include relevant
+15 information precludes informed decision making and informed public participation, thereby
+16 thwarting the statutory goals of the EIR process." (221 Cal.App.3d at p. 712.)
+17 (f) CEQA's environmental review process is intended to provide the public with
+18 assurances that "the agency has, in fact, analyzed and considered the ecological implications of its
+19 actions." (Laurel Heights Improvement Assn., supra, (1988) 47 Cal.3d at 392 [quoting No Oil,
+20i Inc. v. City of Los Angeles (1974) 13 Cal.3d 68, 86.) The function of the environmental review,
+21 then, is not merely to result in informed decision making on the part of the agency, it is also to
+22 inform the public so they can respond to an action with which they disagree. (Id.)
+23 (g) CEQA requires that an Environmental Impact Report ("EIR") be prepared for any
+24 project that may have a significant impact on the environment. (Public Resources Code §§ 21000,
+25 21151.) CEQA establishes mandatory findings of significance that require the preparation of an
+26 EIR when a project has the potential to substantially degrade the quality of the environment, to
+27| achieve short-term environmental goals to the disadvantage of long-term environmental goals, and
+28 when a project has possible environmental effects which are cumulatively considerable. (CEQA
+
+71364.002 - 12 -
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+Guidelines.) Moreover, whenever an agency is presented with a fair argument based upon
+substantial evidence that a project may have a significant effect on the environment, an EIR must
+3 be prepared, even though there may be evidence to the contrary in the record. (CEQA Guidelines
+§ 15064(f)(1); No Oil, Inc. v City of Los Angeles (1974) 13 Cal.3d 68, 85; County Sanitation Dist.
+5 No. 2 v. County of Kern (2005) 127 Cal.App.4th 1544, 1579 ("County Sanitation").) California
+6 courts routinely describe the fair a argument test as a low threshold requirement for the initial
+preparation of an EIR that reflects a preference for resolving doubts in favor of environmental
+8 review. (Ibid.) If substantial evidence establishes a "reasonable possibility" of a single significant
+9 environmental impact, then the existence of contrary evidence in the administrative record is not
+10 adequate to support a decision to dispense with an EIR. (Id. at 1580.)
+11 (h) "The environmental review necessary to complete an EIR prepares the agency to
+12 weigh the conflicting substantial evidence on each side of an issue and make its findings of fact."
+13 (Ibid.) The fair argument test also requires preparation of an EIR where "there is substantial
+14 evidence that any aspect of the project, either individually or cumulatively, may cause a significant
+15 effect on the environment, regardless of whether the overall effect of the project is adverse or
+16 beneficial...." (Id., quoting CEQA Guidelines, § 15063, subd. (b)(1).) "In other words, for
+17 project that may cause both beneficial and adverse significant impacts on the environment,
+18 preparation of an EIR is required because consideration of feasible alternatives and mitigation
+19 measures might result in changes to the project that decrease its adverse impacts on California's
+20 environment." (Id.) Thus, in County Sanitation, the Court of Appeal rejected the argument that
+21 an EIR was not required because the net "overall" effect of the challenged ordinance project was
+22 beneficial, even though there was a reasonable possibility of at least one significant effect. (Id.)
+23 (i) Moreover, because CEQA defines the relevant geographical environment as the
+24 area where physical conditions will be affected by the proposed project, in determining whether an
+25 EIR is required, the area of project construction does not define the relevant environment for
+26 purposes of CEQA when the project's environmental effects will be felt outside the project area.
+27| (Id. at p. 1582-83, citing Napa Citizens for Honest Government v. Napa County Bd. of Supervisors
+28 (2001) 91 Cal.App.4th 342, 369.)
+
+71364.002 - 13 -
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+(j) Finally, under CEQA the lead agency bears the burden to investigate potential
+environmental impacts, and if the lead agency "has failed to study an area of possible
+3 environmental impact, a fair argument may be based on limited facts in the record." (County
+Sanitation, 127 Cal.App.4th at p. 1597, citing Sundstrom v. County of Mendocino (1988) 202
+5 Cal.App.3d 296,311.) "Deficiencies in the record may actually enlarge the scope of fair argument
+61 by lending a logical possibility to wider range of inferences." (Ibid.)
+(k) Respondent's actions in approving the EA/MND and adopting associated
+8 mitigation measures and findings, approving the Project, and determining that the Project will not
+9 have a significant impact on the environment, as recorded in the NOD attached hereto as Exhibit
+10 "A," constitute a prejudicial abuse of discretion in that Respondent failed to proceed in the manner
+11 required by law and made findings, determinations, conclusions, evaluations, reports and
+12 Responses to Comments not supported by substantial evidence.
+13 Failure to Prepare an EIR for the Project
+14 (a) The Negative Declaration contains substantial evidence, as well as a lack of study
+15 of certain areas of impact including areas outside the Project construction site where
+16 environmental impacts will also be felt thereby lending logical plausibility to a wider range of
+17 inferences, and during the public review period on the proposed Project and prior to and/or at the
+18 public hearing held on December 18, 2017, Petitioner and other agencies, interested groups, and
+19 individuals including experts submitted into the record additional substantial evidence, upon
+20 which it can be fairly argued based upon the whole of the record that the Project may have a
+21 significant impact on the environment and that an EIR should and must be prepared, including but
+22 not limited to the aforementioned written comments submitted by Petitioner and the following
+23 substantial evidence:
+24 (b) A mitigated negative declaration is not appropriate unless the mitigation will
+25 mitigate any effect to a point of where "clearly" no significant effect would occur. (CEQA
+26 Guidelines § 15070(b)(1).) However, the analysis and conclusions in the EA/MND that
+27 notwithstanding mitigation the impacts of Project groundwater pumping and recovery on
+28 surrounding pumpers and wells may exceed the standards of significant contained in the EA/MND
+
+71364.002 . 14-
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+constitute substantial evidence that at least short-term significant environmental effects on
+2 groundwater levels and surrounding pumpers are a reasonable possibility (with or without the
+3 mitigation).
+(c) The EA/MND utilizes as a standard of significance for agricultural resource
+impacts any conversion of "Prime Farmland, Unique Farmland, or Farmland of Statewide
+Importance (Farmland), as shown on maps prepared pursuant to the Farmland and Monitoring
+7 Program of the California Resources Agency, to a non-agricultural use," and then concedes that
+8 the Project will convert 800 acres of such Farmland to non-agricultural use as recharge basins,
+9 which is substantial evidence the Project will cause significant impacts to agricultural resources by
+10 the EA/MND's as judged by its own standard of significance, notwithstanding the Negative
+11 Declaration's attempt to argue that recharge basins are compatible with and will be used to
+12 support solely agricultural uses (different questions) which arguments are not supported by
+13 substantial evidence because the evidence in the record clearly indicates the recharge basins will
+14| potentially be used to store water for non-agricultural, municipal water suppliers including cities
+15 and counties.
+
+16 (d) Substantial evidence in various comment letters, including the comment letters and
+17 enclosures submitted by or on behalf of the following agricultural water agencies, Arvin-Edison
+18 Water Storage District on May 16, 2017, and May 19, 2016, Angiola Water District on May 16,
+19 2017, and May 19, 2016, Shafter-Wasco Irrigation District on May 16, 2017, and October 6, 2017,
+20 including expert opinion by licensed geologist and hydrogeologist Dr. Kenneth D. Schmidt
+21 including in memoranda dated May 15, May 16, and December 15, 2017, and expert opinion from
+22 others, and comment letters submitted on behalf of Los Alisos Ranch Company LLC and
+23 McAland Ranch LLC, dated May 11, 2017, that there is at least a reasonable possibility that the
+24 Project will or may result in one or more significant impacts, including the following:
+25l (e) Land subsidence impacts including to public facilities such as the FKC and the
+26 overdrafted Tule Subbasin, which has already been significantly impacted by subsidence from
+27 groundwater pumping near the Project's recovery wells as documented in studies prepared by
+28 several credible sources including NASA, Caltrans, USGS and Reclamation itself;
+
+71364.002 . 15.
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+(f) Surface water and groundwater quality impacts, including impacts to Petitioner
+and/or other downstream users of high pH or salty groundwater pumped into the FKC by the
+3 Project which will degrade their existing exceptionally high quality CVP supplies (contracted for
+and stored in Millerton Lake) and cause delivery of such degraded water resulting in accumulation
+5| and concentration of toxic salts and other constituents of concern that will lead to long-term
+6 substantial degradation of water supplies downstream and potentially significant adverse impacts
+to sensitive crops dependent on the continued delivery of such CVP supplies for irrigation and
+8 conversion of Farmland to non-agricultural uses;
+(g) Groundwater-level interference to surrounding wells resulting in loss of supply and
+10 other associated potentially significant environmental impacts; and
+11 (h) Discharge of new greenhouse gas emissions (GHG), contrary to the applicable
+12 scoping plan of the California Air Resource Board and California GHG reduction policies, goals,
+13 measures and targets, existing at the time of approval of the Project.
+14 (i) Failure and refusal, despite repeated requests by public agencies to study various areas
+15 of potential Project impacts including those related to the 2008 WQ Policy and other areas of
+16 controversy that have been swept under the rug, including but not limited to potentially significant
+17 direct and cumulative:
+
+18 (i) Subsidence impacts and associated study of relevant subsurface geologic
+19 and other important conditions, as noted by Dr. Schmidt;
+20
+
+21 (ii) Water quality impacts that will be felt outside the Project area arising from
+
+22 aggressive pumping of Project wells from the overdrafted Tule Subbasin during dry periods and
+
+23 discharging lesser quality, salty groundwater into the FKC (without compliance with irrigation
+
+24 suitability standards which Reclamation's currently-existing decade-old 2008 WQ Policy does not
+
+25 cover) as a replacement for exceptionally high quality Millerton Lake water and how that will
+
+26 affect crops and groundwater basin salt balances downstream; and
+
+27 (iii) Other impacts including impacts associated with where Project water will
+
+28 reasonably foreseeably be used, including urban areas and new urban and agricultural
+
+71364.002 - 16 -
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+developments (e.g., growth-inducing impacts), each and all which failures as provided in County
+Sanitation, supra, enlarge the scope of the fair argument and Petitioner contends gives rise to
+3. plausible inferences that the Project may have one or more potentially significant impacts on the
+environment that should be addressed in an EIR, as it is a common sense principle of CEQA that a
+5 lead agency cannot hide behind its own failure to gather data.
+Disagreement Amongst Experts Requires or Bolsters the Fair Argument
+In Favor of Preparation of an EIR
+
+(a) Even if it were not clear that there is substantial evidence in the record that the
+9 Project may have a significant effect on the environment, the lead agency is to be guided by the
+10 following principle: If there is disagreement among expert opinion supported by facts over the
+11 significance of an effect on the environment, the Lead Agency shall treat the effect as significant
+12 and shall prepare an EIR. (CEQA Guidelines § 15064(g).) As detailed above, Dr. Schmidt
+13 prepared memoranda expressing the opinion that the Project may result in several significant
+14| adverse impacts, including water quality and subsidence, supported by facts and literature.
+15 (Response to Comments, Comments B-36 through 40, C-11, C-31, C-37 through C40.) The
+16 Response to Comments disagree with Dr. Schmidt's subsidence opinions without further contrary
+17 factual evidence or subsidence analysis - relying on the premise that subsidence will not be a
+
+18 problem "overall" because the Project will result in a net increase in groundwater levels.
+19 (Response to Comments, Response C-37.) As explained above, however, this is not an
+20l appropriate standard and is an attempt to sweep the problem under the rug because at a minimum a
+21 it ignores actual short-term subsidence impacts that will occur during dry-year or multiple dry-
+22| year pumping cycles. It is illogical and unsupported by substantial evidence in the record that
+23 subsidence may not occur simply because over the "long-term" there will be more water put in the
+24| ground than is pumped out no matter how aggressively or how long the drought pumping cycle
+25 is. Not surprisingly, nothing in the Responses to Comments changes Dr. Schmidt's opinion, for
+26 reasons explained in Dr. Schmidt's December 15, 2017 memorandum which is part of the record.
+27 Furthermore, there was other expert opinion supported by facts of potentially significant impacts,
+28| including impacts of water quality degraded by the Project and like projects on the environment
+
+71364.002 17-
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+including agricultural resources, including opinion from managers of large agricultural water
+2 districts. The Response to Comments acknowledges the Project's water quality impacts, but
+3 claims they are not significant on the basis of the 2008 WQ Policy and that "Reclamation reserves
+4  the right to determine what constitutes substantial degradation." (Response to Comments,
+5 Response B-36.) Accordingly, at a minimum, there remains a disagreement amongst experts
+6 | about whether the Project may cause significant subsidence and other effects, including water
+level and water quality effects, and an EIR must be prepared to assess that disagreement over
+8 some very important environmental issues in the subsidence-prone area where the Project wells
+will be located where others pump groundwater and will be significantly affected by the Project,
+10 including downstream surface and groundwater degradation (which has not been studied and may
+11 not be rendered insignificant by Reclamation's water quality standards, whatever they may be).
+
+13 Inadeguate Description of Whole of the Action/Project,
+
+14 Failure to Adequately Consider Relevant Environmental Setting, Failure to Adequately
+Study Full Range of Project Impacts, and Inadequate Mitigation
+15
+
+16 (a) A project description must be accurate and complete in order to determine the
+
+17 proper scope of environmental review. (County of Inyo v. City of Los Angeles (1977) 71
+
+18 Cal.App.3d 185, 192-93.) An accurate and complete project description is essential. (Ibid.) This
+
+191 requirement reflects CEQA's definition of a "project" as "the whole of an action" that may result
+
+20 in either a direct or reasonably foreseeable indirect change in the physical environment. (CEQA
+
+21 Guidelines § 15378; Banning Ranch Conservancy v. City of Newport Beach (2012) 211
+
+22 Cal.App.4th 1209, 1220, (*Banning Ranch").) If the CEQA document's description of the project
+
+23 fails to discuss the complete project, then the environmental analysis will reflect that inadequacy.
+
+24 (See Laurel Heights Improvement Assn. V. Regents of University of California (1988) 47 Cal.3d
+
+25 376, 403-04 ("Laurel Heights I"). Thus, a lead agency may not split or piecemeal a single large
+
+26 project into small pieces to avoid environmental review of the entire action. (Bozung v. LAFCO
+
+27 (1975) 13 Cal.3d 263, 283-84 (CEQA mandates that "environmental considerations do not
+
+28 become submerged by chopping a large project into many little ones . . . ."); Laurel Heights
+
+71364.002 • 18 -
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+Improvement Assn., supra, 47 Cal.3d at p. 396 [quoting Bozung] ("Laurel Heights II"); Orinda
+2 Assn v. Board of Supervisors (1986) 182 Cal.App.3d 1145, 1172.)
+(b) The EA/MND's Project description results in a piecemealed review of the whole of
+the actions necessary to operate and otherwise carry out the Project and fails to evaluate a proper
+5 baseline and the full environmental impacts of the Project (including its operation and use), which
+6 also leads to an inadequate analysis of ways to mitigate those impacts, among other deficiencies.
+7 The Project proposes to recharge and recover up to 45,000 AF and 30,000 AF annually,
+respectively. A key objective of the Project is to improve water supply reliability. The EA/MND
+9 includes Table 2-1, which discloses the Project's potential banking participants consisting of
+10 agricultural and urban water purveyors and users including several cities and counties. However,
+11 the EA/MND fails to evaluate all the details and impacts of such activities, including potential
+12| direct, indirect and cumulative growth-inducing impacts due to additional supplies and improved
+13 water supply reliability resulting from storage of additional water supplies in a groundwater bank
+14 for later use, and associated environmental impacts that may be felt outside the Project area (which
+15| baseline conditions must also be discussed and considered) including downstream impacts to and
+16 baseline conditions within Arvin-Edison Water Storage District and Kern County including
+17| groundwater quality. Contrary to CEQA, the EA/MND essentially limits study and evaluation of
+18| impacts to the Project area, and omits evaluation of Project impacts that will be felt outside the
+19 Project area. (County Sanitation, 127 Cal.App.4th at p. 1582 ["CEQA defines the relevant
+20 geographical environment as the area where physical conditions will be affected by the proposed
+21| project."], citing Public Resources Code § 21060.5.) Consequently, the project area does not
+22 define the relevant environment for purposes of CEQA when a project's environmental effects will
+23 be felt outside the project area."].) In addition to failing to properly describe the entire relevant
+24 existing baseline or environmental setting and evaluate Project impacts in relation thereto,
+25 including with respect to subsurface conditions and neighboring wells and downstream surface
+26 and groundwater quality, the EA/MND also appears to impermissibly use a future baseline for
+27 assessment or deferred assessment and understatement of such Project impacts without
+28
+
+71364.002 . 19 -
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+compliance with Neighbors for Smart Rail v. Exposition Metro Line Const. Authority (2013) 57
+2 Cal.4th 439, 455.
+(c) Furthermore, because the entire recharge and recovery processes or activities,-
+including where and how Project water will be used are integral to completion of the Project, the
+EA/MND's failure to evaluate these processes and their impacts that may be felt outside the
+6 Project site improperly attempts to evade a comprehensive environmental review of the whole
+supra, 13 Cal.3d at 283-84.) A lead agency must "avoid minimizing" project. (See Bozung,
+8| impacts and "must reflect a conscientious effort to provide . adequate and relevant detailed
+9 information about [those impacts]." (San Franciscans for Reasonable Growth v. City and County
+10 of San Francisco (1984) 151 Cal.App.3d 61, 79.) "[F]ailure to provide enough information to
+11 permit informed decision-making is fatal." (Napa Citizens for Honest Government v. Napa
+12 County Bd. of Supervisors (2001) 91 Cal.App.4th 342, 361.) As mentioned above, "[a] public
+13 agency is not permitted to subdivide a single project into smaller individual subprojects in order to
+14 avoid the responsibility of considering the environmental impact of the project as a whole."
+15 (Orinda Assn v. Board of Supervisors, supra, 182 Cal.App.3d at p. 1171.) Multiple activities are
+16 within the scope of the same CEQA project where one activity is integral to the other. (Tuolumne
+17 County Citizens for Responsible Growth, Inc. v. City of Sonora (2007) 155 Cal.App.4th 1214,
+18 1229; Sierra Club v. West Side Irr. Dist. (2005) 128 Cal.App.4th 690, 698 ("Courts have
+19 considered separate activities as one CEQA project and required them to be reviewed together
+20| where both activities are integral parts of the same project." (citation omitted).) While
+21 "[t]echnical perfection is not required," an environmental analysis requires "adequacy,
+22 completeness and a good-faith effort at full disclosure." (Berkeley Keep Jets Over the Bay
+23 Committee v. Board of Port Com'rs (2001) 91 Cal.App.4th 1344, 1355 (quoting Rio Vista Farm
+24 Bureau Center v. County of Solano (1992) 5 Cal.App.4th 351, 368).)
+25 (d) Diverting recharge water to the Project facilities and recovering and delivering
+26 water to Project participants and their end uses (agricultural and urban) of water stored by the
+27 Project are integral to and a consequence of the Project's operation, and the SVWBA must analyze
+28 the environmental impacts associated with both of those activities (recharge and recovery).
+
+71364.002 - 20 -
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+However, the EA/MND fails to do so. While the EA/MND's lengthy response to comments
+2 suggests that these impacts are speculative, sufficient detail is known or should be known about
+3 the water quantities to be banked and withdrawn and reasonably foresecable users and uses of
+4 Project water to discuss the places of use, the end uses, and potential environmental impacts
+5 associated with obtaining and supplying water to those users and places of use. (See, e.g., City of
+6 Antioch v. City Council (1986) 187 Cal.App.3d 1325, 1336 [EIR required "where significant
+7 impacts were a realistic possibility, even though the exact form that development would take could
+8 not be known']; CEQA Guidelines § 15064(d)(3).) The EA/MND's failure to study urban use of
+9 Project banked supplies, in particular, renders the Project's evaluation of impacts, including
+10 agricultural impacts and consistency with Williamson Act/Tulare County Agricultural Preserve
+11 Uniform Rules flawed, because various analyses and impact conclusions are premised on the false
+12 assumption that Project recharge ponds will exclusively be used to support the viability of
+13 surrounding agricultural lands.
+14 (e) "The foremost principle under CEQA is that the Legislature intended the act 'to be
+15 interpreted in such manner as to afford the fullest possible protection to the environment within
+16 the reasonable scope of the statutory language." (Laurel Heights I, 47 Cal.3d at p. 390.) CEQA
+17 requires preparation of an environmental impact report (EIR) whenever a public agency proposes
+18 to approve or to carry out a project that may have significant impacts on the environment. (Public
+19 Resources Code §§ 21100, 21151.) "An EIR is an 'environmental "alarm bell" whose purpose it is
+20| to alert the public and its responsible officials to environmental changes before they have reached
+21 ccological points of no return.' "(47 Cal.3d at p. 392.) Whenever the record supports a fair
+22 argument that the project "may" have a significant effect on the environment, an EIR must be
+23 prepared. (County Sanitation, supra, 127 Cal.App.4th at p. 1579). The "fair argument" standard
+24| presents a low threshold requirement for the initial preparation of an EIR, reflecting a "preference
+25 for resolving doubts in favor of environmental review." (Ibid.)
+26 (f) The EA/MND admits that before implementation of mitigation the Project may
+27 cause "potentially significant interference effects" to nearby wells. (Response to Comments,
+28 Response C-4.) The EA/MND attempts to justify the SVWBA's refusal to prepare an EIR by use
+
+71364.002 - 21 -
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+of various mitigation measures. However, the mitigation measures are not sufficient to meet the
+required standard for a mitigated negative declaration, because the mitigation will not be such that
+3| "clearly" no significant impacts would occur. (CEQA Guidelines § 15064(f)(2); Response to
+Comments, Response B-35.) This much is clear from mitigation measure (MM) WAT-3, which
+concedes that Project operations could, notwithstanding that mitigation measure, for example, at
+6| least cause short-term significant impacts, including pumping level declines in nearby wells to the
+point of not only causing increased costs of pumping at greater depths by "Added Lift" to reach
+8 lowered groundwater (id, Response to Comments, Response C-15), but also causing loss of
+suction and dewatering of wells potentially resulting in the need to drill new wells or provide
+10 replacement water. The mitigation measure also provides for installation of monitoring wells to
+11 detect significant impacts. In addition to supplying the requisite substantial evidence of
+12| reasonably possible significant impacts requiring preparation of an EIR, this mitigation highlights
+13 some of the impacts that the EA/MND fails to evaluate including those associated with installing
+14| new wells, providing replacement water, and the energy and associated impacts of well operators
+15 having to use more energy to pump from greater depths. Moreover, the mitigation measures are
+16 improper because they continue to defer formulation of mitigation, studies and protocols, and
+17| because the SVWBA only may in its "discretion" decide to follow the advice or
+18 "recommendations" of its hand-selected Technical Committee (if any) and minimize significant
+19 adverse effects. Similarly, the EA/MND improperly uses Reclamation's 2008 WQ Policy as
+20 mitigation, because among other deficiencies that policy does not include standards protective of
+21 water quality for irrigation and Reclamation reserves the right to determine what constitutes
+22 substantial degradation in the future without any performance standards.
+23 (g) The EA/MND also attempts to justify not preparing an EIR by arguing that the
+24 "overall" groundwater levels resulting from the Project will be higher or beneficial. (E.g.,
+25 Response to Comments, C-11, p. C-19.) That, however, is an invalid argument because among
+26
+
+27 other deficiencies it ignores, contrary to CEQA, the Project's short-term potentially significant
+impacts. (E.g., Neighbors for Smart Rail, supra. 57 Cal.4th 439, 455.) Clearly, groundwater
+28 extraction may have significant impacts to adjacent wells and cause subsidence in recovery years
+
+71364.002 - 22 -
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+or periods (e.g., drought years), even though "overall," depending on assumed hydrology, more
+water might be deposited in than is withdrawn from the basin. (See memo by Dr. Kenneth D.
+3 Schmidt dated December 15, 2017.) In addition, the SVWBA must also conduct an evaluation of
+whether the Project risks exacerbating the condition of already existing subsidence - an
+5 acknowledged severe hazard in the area of the Project. (Ibid.; California Bldg. Industry Assn. v.
+6 Bay Area Air Quality Management Dist. (2015) 62 Cal.4th 369, 377-78.)
+
+(h) The EA/MND also continues to refuse to conduct water quality anti-degradation
+analysis, which will be required to obtain permits necessary to discharge non-CVP water, i.e.,
+worse quality groundwater, into the high quality waters of the FKC, and evaluate the impacts
+10 associated with providing others with degraded water including growers in Arvin-Edison Water
+11 Storage District in Kern County. (Asociacion de Gente Unida por el Agua v. Central Valley
+12 Regional Water Quality Control Bd. (2012) 210 Cal.App.4th 1255, 1268; SWRCB Resolution No.
+13 68-16.) The EA/MND essentially fails to do the required water quality study and analysis because
+14 it says that the Project will comply with then-current Reclamation non-project pump-in standards
+15 for the FKC, whatever they may be. There is no water degradation study, despite the fact that the
+16 SVWBA has been provided comments that include a long list of projects that may contribute to
+17 cumulative water quality impacts because they introduce non-project (i.e., non-CVP, groundwater,
+18 California Aqueduct supply, etc.) into the FKC. While the Response to Comments claim that not
+19 enough detail was provided, such response is basically a failure to hide behind the SVWBA's own
+20 refusal to do the required study and obtain data. Furthermore, the EA/MND fails to discuss the
+21 continuing controversy among FKC water contractors and users and Reclamation about whether
+22 Reclamation's existing standards (Title 22) are sufficient to protect agricultural lands and water
+23 users from significant impacts including salt loading a significant problem in Tulare Lake Basin.
+24 (i) Moreover, the record is unduly limited due to failure to consider or evaluate certain
+25 impacts, for example those that will be felt outside the Project area. An agency cannot hide
+26 behind its own failure to gather data. There are likely many other potentially significant, inferable
+27 environmental effects that have not been analyzed because of a decision to limit the analysis to the
+28 Project area. The unduly truncated study area makes it even more likely that the SVWBA's
+
+71364.002 - 23 -
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+failure to prepare an EIR violates CEQA. (See County Sanitation, supra, 127 Cal.App.4th at 1597
+['"Deficiencies in the record may actually enlarge the scope of fair argument by lending a logical
+3 plausibility a to a wider range of inferences."]).
+
+Prejudicial Failure to Evaluate Project Alternatives and Mitigation
+
+(a) The EA/MND does not evaluate a range of reasonable alternatives as required by
+CEQA for an EIR. (CEQA Guidelines § 15126.6.) For example, the environmental document
+does not consider alternative Project locations, recovery rates or amounts, pumping depths, or
+water quality standards that could possibly avoid or mitigate potentially significant subsidence,
+water level and water quality impacts. Moreover, the failure to adequately study the whole of the
+10 action and associated impacts precluded SVWBA from considering alternatives or mitigation that
+11 may reduce those unstudied impacts. In addition, the EA/MND improperly defers formulation of
+12 mitigation and performance standards into the future, including Reclamation's future water quality
+13 standards for discharge of non-project water into the FKC (if any), and improperly uses current
+14 and prospective mitigation measures as a substitute for actual analysis of Project impacts including
+15 impacts that will occur outside the Project area, contrary to the requirements of CEQA. (E.g., Pub.
+16 Resources Code § 21060.5.)
+17
+
+181 Inadequate Cumulative Impact Analysis
+
+19 (a) When assessing whether a cumulative effect requires an EIR, the lead agency shall
+
+20 consider whether the cumulative impact is significant and whether the effects of the project are
+
+21 cumulatively considerable. An EIR must be prepared if the cumulative impact may be significant
+
+22l and the project's incremental effect, though individually limited, is cumulatively considerable.
+
+23 "Cumulatively considerable" means that "the incremental effects of an individual project are
+
+24 significant when viewed in connection with the effects of past projects, the effects of other current 25| projects, and the effects of probable future projects." (CEQA Guidelines § 15064(h).) The
+
+26 EA/MND fails to follow these standards (at least for the whole of the action) and fails to consider
+
+27 the cumulative impacts, including water quality, well drawdown and subsidence impacts, of past,
+
+28 current and future probable projects, whether they may be significant, or whether the Project's
+
+71364.002 - 24 -
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+contribution would be cumulatively considerable. The cursory two-paragraph discussion in the
+2 CEQA Initial Study Checklist of the EA/MND (at Appendix A) is non-responsive to Checklist
+3 question XVIII-(b) barely gives "lip service" related to the Checklist and is clearly analytically
+inadequate. The only Project features specifically mentioned in the cumulative impact analysis are
+recharge ponds, which the EA/MND itself admits are almost entirely passive and presumably less
+6 likely to result in significant impacts that other Project components. The discussion fails to
+adequately consider or evaluate the cumulative impacts of other less passive and likely more
+8 impactful aspects of the Project such as groundwater pumping and cumulatively supplying FKC
+9| users with worse quality replacement water (groundwater) over the course of decades. There is
+10 also a failure to evaluate the Project's consistency with and contribution (or lack thereof) to
+11 achievement of California's greenhouse gas (GHG) reduction goals and targets as described and
+12 reflected in California's 2017 Climati Change Scoping Plan prepared by California Air Resources
+13 Control Board, including the GHG reduction measures and amounts needed from the water sector
+14 to achieve 2020, 2030 and 2050 reductions. (See, e.g., Cleveland National Forest Foundation v.
+15 SANDAG (2017) 3 Cal.5th 497.) As provided above, these and other cumulative impacts must be
+16 adequately studied in an EIR.
+17 Prejudicial Failure to Recirculate the EA/MND and Extensive Response to Comments
+18 for Public Review and Comment
+
+19
+
+201 (a) A lead agency is required to recirculate a negative declaration when it must be
+
+21 substantially revised after public notice of its availability. (CEQA Guidelines § 15073.5(a).) The
+
+22 final EA/MND augments the prior Second Draft EA/MND with substantial revisions, including
+lengthy Responses to Comments (over 900 pages with comment letters). The Responses to
+23
+
+24 Comments admit that Mitigation Measure WAT-3 has been "refined and enhanced" to address
+
+25 admittedly potentially significant intermittent and temporary well interference impacts. (Response
+
+26 to Comments, Response C-4.) The Response to Comments also includes several pages of rather
+extensive technical data and discussion relating to Dr. Schmidt and a memorandum prepared for
+27
+
+28 the "Apex Ranch Conjunctive Use Project," none of which were included in the EA/MND drafts
+
+71364.002 - 25 -
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+made available during the statutorily-required public review and comment period. (Response to
+Comments, pp. C-12 through C-14.) Without waiving Petitioner's position that an EIR is required
+3 for the Project (CEQA Guidelines § 15073.5(d)), Petitioner contends that at a minimum the public
+has the right to review and comment on these and other substantial revisions in the EA/MND and
+5 the EA/MND, including Response to Comments and associated Staff Report, must be recirculated
+6 for public review and comment. (CEQA Guidelines § 15073.5(b).)
+(b) Respondent violated its duties under CEQA to prepare an EIR for any project it
+8 intends to carry out that may have a significant adverse impact on the environment. Accordingly,
+the approval of the EA/MND and the adoption of the Project must be set aside.
+
+10 (c) Petitioner is informed and believes that Respondents and Real Parties in Interest are
+11 threatening to carry out the Project in the near future and that the Project will irreparably harm the
+12 environment by, among other things, adversely affecting agricultural resources including loss of
+13 crops and Farmland, surface and groundwater quality, crops, alteration of the direction or rate of
+
+14 flow of ground waters, reduction in groundwater levels, and causing further subsidence and
+15| associated adverse environmental impacts. A temporary restraining order and preliminary and
+16 permanent injunction should issue restraining Respondents and Real Parties in Interest from
+17 carrying out the Project.
+18 (d) Petitioner has no plain, speedy, and adequate remedy in the ordinary course of law
+19 other than the relief sought in this petition.
+20 SECOND CAUSE OF ACTION
+21
+
+22 Declaratory Relief
+(Code of Civil Procedure § 1060)
+23
+
+24 (a) Petitioner repeats, re-alleges, and incorporates herein by reference each and every
+
+25 allegation of paragraph 1 through 57, inclusive, of this Petition.
+
+26 (b) An actual controversy exists between the parties. Petitioner contends that
+
+27 Respondent and Real Parties in Interest have acted in violation of CEQA. Respondent and Real
+
+28.
+
+71364.002 •26 •
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+Parties in Interest dispute this contention. A judicial resolution of this controversy is necessary
+2 and appropriate.
+3 PRAYER
+
+WHEREFORE, the Petitioner prays for judgment and a peremptory writ of mandate as
+5 follows:
+6 1. As to All Causes of Action herein, that this Court enter judgment determining and
+declaring that the approval of the Project described herein does not comply with applicable law
+8 and therefore is null and void.
+
+2. As to the First Cause of Action:
+10 (a) For a temporary restraining order and preliminary injunction pending trial,
+11 and for a permanent injunction, restraining Respondent and Real Parties in Interest from taking
+12 any action to carry out the Modified Pixley Groundwater Banking Project (Project);
+13
+
+14 (b) For a peremptory writ of mandate directing:
+
+15 i. Respondent and Real Parties in Interest to void, vacate, and set aside
+
+16 their approval of the Modified Pixley Groundwater Banking Project (Project), and any associated
+17 Project approvals including approvals issued by responsible agencies.
+
+18 ii. Respondent to void, vacate, and set aside its adoption of the
+19 EA/MND and associated mitigation monitoring and reporting program, findings and actions,
+20 including Resolution No. 2017-02.
+
+21 iii. Respondent and Real Parties in Interest to suspend all activities
+22 pursuant to or involved in the implementation of the Project that could result in any change or
+23 alteration in the physical environment until respondent has taken such other actions necessary to
+24 bring its Project approval into compliance with CEQA.
+25l
+
+26 iv. Respondent to prepare, circulate, and consider legally adequate
+
+27 Environmental Impact Report and otherwise to comply with CEQA in any subsequent action taken
+
+28 to approve the Project.
+
+71364.002 - 27 -
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+3. As to the Second Cause of Action, that this Court enter a declaratory judgment
+2| consistent with paragraphs 1 and 2 of this prayer.
+3 4. For its costs of suit;
+
+5. For an award of its reasonable attorneys' fees, including but not limited to fees
+5 authorized under Code of Civil Procedure section 1021.5; and,
+
+6. For such other and further relief as the Court may deem just and prop.
+
+Dated: January 17, 2018 THE LAW OFFICES OF YOUNG WOOLDRIDGE, LLP
+10|
+11
+12 By:. Dene Soigiau
+STEVEN M. TORIGIANI
+13 JEFFREY J. PATRICK
+
+14 Attorneys for Petitioner, ANGIOLA WATER DISTRICT
+15
+16
+17 [Petition Deemed Verified Under Code of Civil Procedure section 446
+18
+19
+20
+
+22, 23
+24
+25
+
+26
+27
+
+28
+
+71364.002 , 28 -
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+EXHIBIT A
+
+.1 2'.1 FILED TULARE COUNTY Print Form
+DEC 19 2017
+
+ROLAND F HILL
+Notice of Determination ASSESSOR/CLERK RECORDER 8Y: Appendix D
+To: From: Xl Office of Planning and Research Publlo Agenoy: So. Valley Water Banking Authority
+U.S. Mail: Street Address: Address: 357 W. Olive Ave.
+1400 Tenth St., Rm 113 Tipton, CA 93272 P.O. Box 3044
+Sacramento, CA 95812-3044 Sacramento, CA 95814 Contact:Dale Brogan
+Phone: (559) 686-4716
+X County Clerk County of: Tulare Lead Agency (if different from above):
+Address: Courthouse, 221 S Mooney Blvd Rm 105 So. Valley Water Banking Authority
+Visalia, CA 93291 Address: 357 W. Ölive Ave. Tipton, CA 93272
+Contaot:Dale Brogan
+Phone:559-686-4716
+
+SUBJECT: Filing of Nötice of Determination In compliance with Section 21108 or 21152 of the Public Resources Code,
+State Clearinghouse Number (if submitted to State Clearinghouse): 2016031092
+Project Title: Modified Pixley Groundwater Banking Project
+Project Applicant: South Valley Water Banking Authority
+Project Location (include county): Soulheast of the unincorporated community of Pixley (cont'd on Altachment)
+Project Description: The Authority proposes to construct and operate the Modified Plxley Groundwater Banking Project within the Pixley Irrigation District as a water management facllity intended to conserve water, conserve energy, and reduce greenhouse gas emissions. The Project will be in compliance with the San Joaquin River Restoration Program Settlement Agreement and Program Management Plan for the Friant Division of the Centrel Valley Project. The Project will include the construction and operation of up to 800 acres of recharge basins and various pipelines, (cont'd on Attachment)
+is This is to advise that the South Valley Water Banking Aulhorlty (X Lead Agenoy or L] Responsible Agehoy) has approved the above
+
+described project on December 18,2017 and has made the following determinations regarding the ábove
+described project. (date)
+
+1 . The project [L will X will not] have a significant effect on the environment. 2. D An Environmental Impact Report was prepared for this project pursuant to the provisions of CEQA. X A Negative Declaration was prepared for this project pursuant to the provisions of CEQA. 3. Mitigation measures (X) were Cl were not] made a condition of the approval of the project. 4. A mitigation reporting.or monitoring plan [Xl was Owas not] adopted for this project.
+5. A statement of Overriding Considerations [L was X was not] adopted for this project.
+6. Findings [X) were  were not] made pursuant to the provislons of CEQA.
+
+This Is to certify that the fina) EIR with comments and responses and record of project approval, or the negative Declaration, is avallable to the General Public al:
+SBWBA, c/o Pixley Irrigâtion District, 367 W. Olive Ave., Tipton, CA 93272
+Signaturo (Public Agency): L.0K Title: Project Manager
+Date: December 18, 2017 Date Received for filing at OPR:
+
+Authority cited: Sections 21083, Public Resources Code. Reference Section 21000-21174, Public Resources Code. Revised 2011
+
+Attachment to Notice of Determination, SCH #2016031092
+
+(December 2017)
+
+Project Location, cont'd
+
+In Tulare County with the recharge basin areas generally bounded on the north by Avenue 88, on the east by Road 168 on the south by Avenue 76 and on the west by the extension Of Road 148 alignment. The in-Lieu Service area consists of 3,539 acres and is bounded On the north by Avenue 88 and Avenue 84, on the east by Road 184, on the south by Avenue 72 and on the west by other agricultural lands, Deer Creek and Road 160.
+
+Prolect Description, cont'd.
+
+pumps, weils, a regulating basin, and control structures to faclitate the transport of surface water delivered from a new turnout at the Friant Kern Canal to the recharge basins
+to replenish groundwater or to directly serve land owners with a define "in-lieu service a area" of approximately 3,500 acres. The facilities will also allow groundwater to be pumped and delivered back to the Friant Kern Canal, as needed, and in accordance with water supplies and demand. The Project is partially funded by grant from the U.S. Bureau of Reclamation, and as such is subject to the National Environmental Policy Act (NEPA) as well as the California Environmental Quality Act (CEQA). The Bureau of Reclamation will take a separate action pursuant to NEPA
+
+EXHIBIT B
+
+THE LAW OFFICES OF
+Young Wooldridge
+A Limiled Llability Partnership • Eat. 1939
+JEFFREY J. PATRICK, PARTNER
+
+January 16, 2018
+
+VIA US MAIL
+
+Dale Brogan, Project Manager for the Modified Pixley Groundwater Banking Project and Secretary to the Board of Directors of the South Valley Water Banking Authority South Valley Water
+Banking Authority
+357 W. Olive Ave.
+Tipton, CA 93272
+
+Re: Notice of Commencement of Action Regarding Modifted Pixley
+Groundwater Banking Project
+
+Dear Mr. Brogan:
+PLEASE TAKE NOTICE that pursuant to California Public Resources Code section 21167.5 the Angiola Water District intends to commence an action by filing a Petition for Writ of Mandate ("Petition") in the Superior Court of Tulare County under the California Environmental Quality Act, Public Resources Code § 21000 ("CEQA") against the South Valley Water Banking Authority ("Respondent" or "Authority") as the CEQA lead agency with respect to its approval and/or adoption of a final Joint Final Environmental Assessment/Initial Study-Mitigated Negative Declaration (Mitigated Negative Declaration) (SCH # 2016031092) and approval of a project known as the Modified Pixley Groundwater Banking Project ("Project") on December 18, 2017, including adoption of Resolution No. 2017-02, all in violation of CEQA. The challenged actions are also described in a Notice of Determination filed with the Tulare County
+Clerk by the Authority on December 19, 2017.
+The Petition will allege, among other things, that the Authority failed to properly follow the procedures and requirements of CEQA in several ways including, but not limited to: failure to prepare an Environmental Impact Report ("EIR") for the Project despite the existence of substantial evidence of a fair argument of one or more potentially significant environmental impacts (including but on limited to impacts from land subsidence, surface and groundwater quality impacts, and interference with surrounding wells); improper preparation of a Mitigated Negative Declaration; failure to analyze impacts outside of the Project area; and failure to adequately analyze cumulative impacts.
+
+1600 30th Street, 4th Floor • Bakersfleid, CA 93301
+661.327.9861 • Fax 327.0720 • WWW.YOUNGWOOLDRIDGE.COM
+
+John Young 1913-2003 • Joseph Wooldrldge 1913-1996 • A. Cameron Paulden 1927-1984
+
+Dale Brogan January 16, 2018 Page 2
+
+Generally speaking, the Petition will seck the following, among other relief: (1) a writ of mandate to void and set aside all Project approvals, the Mitigated Negative Declaration, findings and mitigation monitoring and reporting program, and to direct the Authority to prepare of an EIR before any future consideration of approval of the Project or implementation of the same; (2) declaratory relief; (3) a preliminary and permanent injunction; and (4) costs of suit and attorneys' fees.
+
+If you need more information or have any questions please do not hesitate to
+contact me.
+
+Very truly yours,
+
+Angiola Water District
+
+PROOF OF SERVICE
+
+STATE OF CALIFORNIA, COUNTY OF KERN
+
+I, Kristen L. Moen, declare: I am and was at the times of the service hereunder
+mentioned, over the age of eighteen (18) years, and not a party to the within cause. My business address is 1800 30th Street, Fourth Floor, Bakersfield, ÇA 93301.
+On January 16, 2018, I caused to be served the below listed document(s) entitled as: Notice of Commencement of Action Regarding Modified Pixley Groundwater Banking Project on the interested parties in this action, as listed below:
+
+Dale Brogan
+Secretary of the Board of Directors, South Valley Water Banking Authority 357 W. Olive Ave.
+Tipton, CA 93272
+
+[X] (BY MAIL) on January 16,2018, at Bakersfield, California, pursuant to C.C.P. Section 1013(a). By placing / / the original or / x / a true copy thereof enclosed in a sealed envelope. I am readily familiar with the firm's practice of collection and processing of documents for mailing. Under that practice it would be
+deposited with United States Postal Service on that same day with postage thereon fully prepaid at Bakersfield, California in the ordinary course of business.
+I declare under penalty of perjury under the laws of the State of California that the
+foregoing is true and correct.
+Executed on January 16, 2018, at Bakersfield, California.
+Luisens Mee KRISTEN L. MOEN
+
+PROOF OF SERVICE
+
+3 STATE OF CALIFORNIA, COUNTY OF KERN
+I, KRISTEN L. MOEN, declare: I am and was at the times of the service hereunder
+mentioned, over the age of eighteen (18) years, and not a party to the within cause. My business address is 1800 30th Street, Fourth Floor, Bakersfield, CA 93301.
+
+On January 25, 2018, I caused to be served the below listed document(s) entitled as: NOTICE TO ATTORNEY GENERAL on the interested parties in this action, as listed below.
+
+Xavier Becerra
+
+10 Attorney General of California
+1300 "I" Street
+
+11 Sacramento, CA 95814-2919
+
+12
+
+13 [X] (BY MAIL) By placing / / the original or / x / a true copy thereof enclosed in a sealed
+
+14 envelope. I am readily familiar with the firm's practice of collection and processing of
+
+15 documents for mailing. Under that practice it would be deposited with United States Postal Service on that same day with postage thereon fully prepaid at Bakersfield, California in the ordinary course of business.
+
+16
+17 [X] (STATE) I declare under penalty of perjury under the laws of the State of
+
+18 California that the above is true and correct.
+
+19 Executed on January 25, 2018, at Bakersfield, California.
+
+20 ENY hussert uoe
+KRISTEN L. MOEN
+
+24
+25
+
+26
+
+27
+
+28
+
+71762,000
+NOTICE TO ATTORNEY GENERAL
+3
+
+2'1 N8 620 010Z
+124 81:1:1 A8ONV

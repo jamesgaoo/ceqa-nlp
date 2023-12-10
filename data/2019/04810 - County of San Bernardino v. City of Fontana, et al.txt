@@ -1,0 +1,1876 @@
+V
+
+1 Michelle Blakemore (SBN: 110474) COUNTY COUNSEL
+2 Bart W. Brizzee (SBN: 120475)
+
+3 bbrizzee@cc.sbcounty.gov Scott M. Runyan (SBN: 205099)
+srunyan@cc.sbcounty.gov 4 COUNTY OF SAN BERNARDINO
+385 N. Arrowhead Avenue, Fourth Floor
+5 San Bernardino, California 92415-0140
+Telephone: (909) 387-5455 Facsimile: (909) 387-5462 EXEMPT FROM FILING FEES
+Amrit S. Kulkarni (SBN: 202786) GOV'T CODE § 6103
+akulkarni@meyersnave.com 8 Shiraz D. Tangri (SBN: 203037) I stangri@meyersnave.com
+9 Russell E. Morse (SBN: 251057) rmorse@meyersnave.com 10 MEYERS, NAVE, RIBACK, SILVER & WILSON 707 Wilshire Blvd., 24 Floor 11 Los Angeles, California 90017 Telephone: (213) 626-2906 12 Facsimile: (213) 626-0215
+13 Attorneys for Petitioner and Plaintiff
+
+14 County of San Bernardino
+
+15 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+16 COUNTY OF SAN BERNARDINO
+
+17
+
+18 COUNTY OF SAN BERNARDINO, Case No. CIV DS 1911476
+
+19 Petitioner and Plaintiff, NOTICE TO ATTORNEY GENERAL OF
+COMMENCEMENT OF CEQA ACTION 20 V.
+
+21 CITY OF FONTANA and CITY COUNCIL [Public Resources Code 21167.7;
+OF THE CITY OF FONTANA, Code of Civ. Proc. § 388]
+
+22
+Respondents and Defendants. Judge: Hon. David Cohn
+Dept.: S26
+23
+Action Filed:
+24 UST-CB PARTNERS, L.P. April 12, 2018
+Trial Date: None Set
+
+25 and DOES 1-40,
+
+26 Real Parties in Interest.
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL OF COMMENCEMENT OF CEQA ACTION
+
+TO THE ATTORNEY GENERAL OF THE STATE OF CALIFORNIA:
+
+2. PLEASE TAKE NOTICE that, on April 12, 2019, Petitioner and Plaintiff County of San
+3 Bernardino ("County") filed a Petition for Writ of Mandate and Complaint for Injunctive and
+4 Declaratory Relief alleging, inter alia, that the City of Fontana and the City Council of Fontana
+
+5 (collectively, the "City") failed to comply with the California Environmental Quality Act, Public
+6 Resources Code sections 21000 et seq. Pursuant to Public Resources Code section 21167.7 and
+
+7 Code of Civil Procedure section 388, a copy of the Petition is included herewith as Exhibit A.
+
+8 The Petition challenges the City's March 12, 2019 and March 26, 2019 approval of the
+9 West Valley Logistics Center Specific Plan Project ("Project"), including certification of the Final
+10 Environmental Impact Report, Mitigation Monitoring Reporting Program and Statement of
+
+11 Overriding Considerations, and all Project entitlements, including without limitation General Plan
+12 Amendment No. 11-026; Zone Change No. 11-016; Specific Plan Amendment No. 11-003;
+13 Development Agreement No. 11-002; Tentative Parcel Map No. 19156 (TPM No. 13-005). The
+14 County seeks a writ to void the approval of the Project, an industrial warehouse project on 291
+
+15 acres of vacant land in Fontana, California, on the grounds that (1) the City failed to comply with
+16 the procedures and requirements of CEQA; (2) the FEIR failed to adequately analyze or mitigate
+17 the Project's potentially significant environmental impacts, including Air Quality, Biological
+18 Resources, Hydrology and Water Quality, Traffic, and Noise; (3) the FEIR failed to adequately
+19 describe the Project and its Environmental Setting; and (4) the City failed to analyze or adopt
+20 feasible alternatives that would reduce the Project's significant environmental impacts. The action
+21 also alleges that the City failed to comply with applicable provisions of the Planning and Zoning
+22 Law, the City of Fontana General Plan, and the Subdivision Map Act.
+
+23
+
+24 DATED: April 15, 2019 MEYERS, NAVE, RIBACK, SILVER & WILSON
+
+25
+
+26 By:
+Amrit S. Kulkarni
+27 Attorneys for Petitioner and Plaintiff
+28 3214322.2 County of San Bernardino
+
+2
+NOTICE TO ATTORNEY GENERAL OF COMMENCEMENT OF CEQA ACTION
+
+EXHIBIT A
+
+•
+
+Michelle Blakemore (SBN: 110474)
+
+2 COUNTY COUNSEL
+Bort W. Brizzce (SBN: 120475) bbrizzec@cc.sbcounty.gov 3 Scoti M. Runyan (SBN: 205099) Ad00
+srumyan@cc.sbcounty.gov 4 COUNTY OF SAN BERNARDINO 385 N. Arrowhead Avenue, Fourth Floor 5 San Bernardino, California 92415-0140
+
+6 Telephone: (909) 387-5455 Facsimile: (909) 387-5462
+7 Amrit S. Kulkami (SBN: 202786) EXEMPT FROM FILING FEES
+
+ll akulkarni@mcyersnave.com GOV'T CODE $ 6103
+
+8 Shiraz D. Tangri (SBN: 203037) stangri@mcycrsnave.com 9 Russell E. Morse (SBN: 251057) IIrmorse@meyersnave.com FILED
+
+10 MEYERS, NAVE, RIBACK, SILVER & WILSON SUPERIOR COURT OF CALIFORNIA COUNTY OF SAN BERNARDINO
+
+l1 707 Wilshire Blvd.. 24th Floor SAN BERNARDINO DISTRICT
+
+Los Angeles, California 90017 Telephone: (213) 626-2906 APR 1 2 2019
+
+12 Facsimile: (213) 626-0215
+13 Attorneys for Petitioner and Plaintiff BY cai
+
+14 County of San Bernardino JACQUELINE HARNESS, DEPUTY
+A
+
+15 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+16 COUNTY OF SAN BERNARDINO
+17
+
+18 COUNTY OF SAN BERNARDINO, Case No. CIV DS 1911476
+
+19 Petitioner and Plaintiff, PETITION FOR WRIT OF
+
+20 V. MANDATE AND COMPLAINT FOR DECLARATORY AND
+21 CITY OF FONTANA and CITY COUNCIL INJUNCTIVE RELIEF
+
+22 OF THE CITY OF FONTANA,
+Respondents and Defendants. (Cal. Code Civ. Proc. §§ 1085, 1094.5:
+
+23 Cal. Pub Resources Code §8 21000, et seq. [California Environmental Quality Act];
+
+24 UST-CB PARTNERS, L.P. Cal. Gov. Code §§ 65000, et seq. [California Planning and Zoning Law];
+
+25 and DOES 1-40, Cal. Gov. Codc g§ 66410, ct seq. [California Subdivision Map Act])
+
+26 Real Parties in Interest.
+
+27
+
+28
+
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+EXHIBIT A
+
+Petitioner and Plaintiff COUNTY OF SAN BERNARDINO ("County" or "Petitioner")
+2. alleges as follows:
+
+3 INTRODUCTION
+
+4 1. The County brings this action to challenge the decision by the City of Fontana
+5 ("City") to approve' the West Valley Logistics Center Specific Plan Project ("Project"), an
+
+6 approximately 3,500,000 square foot industrial logistics facility proposed to be located adjacent
+
+7 to a residential community.
+
+8 2. The Project Approvals re-zone a site designated for residential development to
+.9 allow for the construction and operation of a massive industrial warehouse complex which will
+10 have significant long-term environmental impacts on the entire region, but in particular the
+11 adjacent community of Bloomington within unincorporated San Bernardino County.
+12 3. The City's approval of the Project serves as the culmination of a seven-year
+13 process requiring two recirculations of the draft EIR and beset by inadequate environmental
+14 review in violation of the procedural and substantive mandates of the California Environmental
+
+15 Quality Act ("CEQA"), Public Resources Code sections 21000, et seq., the California Planning
+
+16 and Zoning Law ("PZL"), Government Code sections 65000, et seq., and the California
+17 Subdivision Map Act ("SMA"), Government Code sections 66410, et seq. Foremost among these
+18 concerns is the City's failure to properly prepare and certify a legally adequate EIR for the
+•19 Project in violation of CEQA.
+
+20 4. The Second Recirculated DEIR estimated that the Project would generate 6,382
+21 new daily vehicle trips including heavy truck trips - that would be directed onto County-
+
+22 maintained roadways twenty-four hours a day, seven days a week, resulting in significant
+
+23 immitigable air quality, greenhouse gas ("GHG"), noise and traffic impacts. In fact, the Project
+
+24
+
+25 The City's approvals include certification of the Environmental Impact Report ("EIR"), and
+26 approval of a Mitigation Monitoring Reporting Program ("MMRP"), a Statement of Overriding Considerations (*SOC*), a General Plan Amendment, Zone Change, Specific Plan Amendment, 27 Development Agreement, and Tentative Parcel Map (collectively, the "Project Approvals").
+28
+
+2
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+could generate a far greater volume of traffic, depending on the specific industrial uses developed
+2 at the Project Site.
+
+3 5. Throughout the seven-year history of the Project, the County made repeated
+
+4 efforts to inform the City of its substantial concerns, including the environmental and practical
+deficiencies with the Project, and proposed less impactful alternatives to the Project.
+Nonetheless, the City failed to address these shortcomings or modify the Project.
+
+7 6: The County identified a feasible alternative that would limit the number of heavy
+
+8 truck trips on over-burdened County streets and reduce significant impacts of the Project, instead
+9 of initially directing 100% of the truck trips on County streets at a rate far in excess of the street
+10 capacities. The City ignored this alternative without consideration.
+
+11 7. Instead, the City's attempt to resolve impacts to County facilities and residents by
+12 incorporating unenforceable off-site mitigation improvements on County-owned streets only
+13 serves to compound the litany of environmental deficiencies plaguing the Project.
+14 8. The County, along with other governmental agencies, local residents, non-profit
+15 public interest organizations and advocacy groups, State legislators and concerned members of
+16 the public documented numerous violations of CEQA and other applicable laws during the
+17 administrative proceedings leading up to the certification of the EIR and the City's approval of
+
+18 the Project. Nevertheless, no changes were made to the Project.
+
+19 9. The County also alerted the City of its violations of other laws, including
+20 California's "open meeting" laws for its undisclosed revisions to the Project's Development
+21 Agreement prior to the City Council meeting and failing to provide adequate notification to the
+22 general public of these substantial revisions before considering and approving the Project.
+23 Despite the County's request for transparency, the City failed to cure and correct this inadequate
+24| disclosure to the public.
+
+25 10. Because the City failed to comply with CEQA, among other violations of law, the
+
+26 County petitions this Court for a writ of mandate, directing the City to vacate and set aside the
+27 Project Approvals, require the City to fully comply with CEQA by preparing an adequate EIR
+28 a and a supported SOC and other findings required by state law, and to restrain Real Party from
+
+3
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 conducting any and all activities authorized under the Project Approvals to avoid the unnecessary
+
+2 adverse environmental consequences of this Project.
+
+3 PARTIES
+
+11. Petitioner and Plaintiff the County of San Bernardino is a political and
+
+5 geographical subdivision of the State of California with its principal offices located in the City of
+6 San Bernardino, California. The Project's proposed truck traffic and the majority of the Project's
+anticipated environmental impacts lie within the County's boundaries, and in particular, the
+8 County's unincorporated community of Bloomington ("Bloomington"). The County also is a
+
+9 responsible agency under CEQA as it has discretionary approval regarding off-site transportation
+10 and utility improvements required for the Project.
+
+11 12. Respondents and Defendants the City and its elected City Council are collectively
+12 referred to in this Petition as the City. The City is the lead agency under CEQA and the City
+13 Council constitutes the elected decision-making body of the City responsible under CEQA to
+14 evaluate the environmental impacts of the Project and to review the Project's consistency with the
+15 applicable General Plan and Specific Plan. The City issued the Project Approvals that are the
+16 subject of this Petition and Complaint.
+
+17 13. The County is informed and believes and based thereon alleges that Real Party in
+18 Interest UST-CB Partners, L.P. is a Delaware limited partnership with its principal place of
+19 business in Orlando, Florida and conducting business, vis a vis the Project, within the County.
+20 The County is informed and believes and based thereon alleges that UST-CB Partners, L.P. is the
+21 Project applicant. The County is informed and believes and thereon alleges that UST-SB
+
+22 Partners, L.P.'s agent for service of process is CT Corporation System which resides at 111
+23 Eighth Street, 13th Floor, New York, New York 10011.
+
+24 14. The County is unaware of. the true names, identities and capacities, whether
+25 individual, corporate, associate or otherwise of any Real Party in Interest sued herein as a DOE,
+
+26 and the County will amend this Petition to allege their true names and capacities when
+27 ascertained. Each of the Real Parties in Interest, including those identified by fictitious names,
+
+28 1S, and at all times herein relevant was, acting for itself and/or as the agent, servant and employee
+
+4
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+of each of their Co-Parties in Interest. For the purposes of this Petition, the term "Real Party in
+Interest" or "Real Party" shall include cach of the DOE Real Parties in Interest.
+
+15. The County has no plain, speedy or adequate remedy at law in that, unless this
+Court grants the relief requested, the City's action will result in immediate and irreparable harm
+to County residents and County facilities without proper consideration and application of policies
+illustrated in CEQA to prevent environmental harms that present substantial risks to life and
+
+7 property as described in this Petition. No monetary damages or other legal remedy could
+adequately compensate the County for this harm.
+JURISDICTION AND VENUE
+
+10 16. This Court has jurisdiction pursuant to Public Resources Code Sections 21167,
+
+11 21168 and 21168.5 and Code of Civil Procedure Sections 1085 and 1094.5. This Court has the
+12 authority to issue a writ of mandate directing the City to vacate and set aside its approval of the
+13 Project and certification of the EIR for the Project under Code of Civil Procedure Sections 1085
+14 and 1094.5.
+
+15 17. Venue for the CEQA actions contained in this Petition properly lies in the San
+16 Bernardino County Superior Court pursuant to Code of Civil Procedure Section 395(a), because
+
+17 Respondents City and City Council have their principal place of business in the City of Fontana,
+18 County of San Bernardino, and additionally pursuant to Section 393(b), because the primary
+19 location of both the project and the majority of its associated impacts is the County. is
+20 STATEMENT OF FACTS
+
+21. 18. The West Valley Logistics Center Specific Plan Project is proposed to develop and
+22 use an approximately 291-acre vacant site at the base of Jurupa Hills ("Project Site"), originally
+
+23 programmed for residential, school and open space uses, for an approximately 3,500,000 square
+24 foot heavy truck-based industrial logistics facility for warehouse distribution uses.
+
+25 19. The Project Site, located in Southeastern-most portion of the City, is surrounded
+26 on three sides (north, east and south) by primarily low-density residential communities and on the
+27 fourth side (west) by the undeveloped Jurupa Hills. The Project Site also shares its borders with
+28 two neighboring jurisdictions: the County (Bloomington) on the east and north and the City of
+
+5
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+Jurupa Valley ("Jurupa Valley") on the south.
+
+20. Bloomington is located directly adjacent on its western boundary to the City. An
+established single-family residential neighborhood of Bloomington is located directly east of the
+Project Site on Locust Avenue, extending from Jurupa Avenue on the north to 7th Street on the
+
+south.
+
+21. Much of the southwest part of Bloomington around the Project Site is zoned and
+designated for low-density residential uses, from Tamarind Avenue on the western boundary to
+Cedar Avenue on the cast, from Slover Avenue on the north down to the boundary Jurupa Valley
+to the south. A number of elementary schools and child care centers are located a short distance
+10 from the proposed Project site and located along proposed heavy truck routes for the Project.
+11 22. Also affected from construction and operation of this Project would be existing
+12 residential communities in the City and surrounding communities, including Bloomington and
+13 Jurupa Valley. The Project would expose the County's residents and the general public to
+14 significant risks to a human health without a full and accurate assessment of the environmental and
+
+15. health impacts of the Project. Bypassing proper application of the CEQA, the PZL and the SMA
+16 in violation of these statutes' plain language and purpose deprived these citizens of their right to
+17 informed participation in the process and full understanding of the actual impacts caused by the
+18 Project.
+
+19 The Original Project
+
+20 23. The Project Site initially was intended to provide approximately 1,154 residential
+21 units via approval of the Valley Trails Specific Plan (*VTSP*) by the City,
+22 24. Approved by the City Council on June 12, 2007, the VTSP was envisioned as a
+23 master-planned community containing housing, a 13.8 acre elementary school, and private and
+24 joint-use recreational facilities, including a 3.7 acre community recreation center, 20.4 acres of
+25 neighborhood parks, and a comprehensive trail system part of almost 70 acres of dedicated open
+26 space. A varying mix of detached and attached housing types, including townhomes, duplexes,
+27 triplexes and single-family homes was programmed to meet a range of future homebuyers.
+28 /11
+
+6
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+25. Under the VTSP approval, the Project Site contained a 2003 Fontana General Plan
+
+2 land use designation of R-PC (Residential, Planned Community) consistent with the proposed
+
+3 residential uses for the Project Site and the surrounding area.
+
+4 26. However, subsequent to approval of the VTSP Project, Real Party's predecessor-
+5 in-interest purchased the Project Site with the intention to develop the proposed industrial
+
+6 logistics complex.
+
+27. Despite the proposed change from residential to industrial uses at the Project Site,
+
+8 the current 2015-2035 Fontana General Plan ("City General Plan Update"), the first
+9 comprehensive update to the City's general plan in .15 years and recently approved by the City in
+10 November 2018, continues to designate the Project Site for residential uses. Fo
+
+11 28. The residential land use designation for the Project Site in the current City General
+12 Plan Update is not consistent with the Project's industrial use.
+13 The West Valley Logistics Center Specific Plan Project
+
+14 29. The Project, as first conceived in 2012 and as described above, proposes entirely
+15 industrial uses over approximately 235 acres on nine non-contiguous parcels, with the remaining
+
+16 56 acres of the surrounding hillside to the west set aside as open space.
+
+17 30. Under the Project, Real Party would develop and operate the industrial warehouse
+18 and logistics facility at the Project Site, including seven massive warehouse structures, ranging in
+19 size from approximately 100,000 square feet to over 1,000,000 square feet each. The height of
+20 the warehouse structures range from 30 feet to up to 75 feet.
+
+21 31. The Project intends to direct 100% of its vehicular and heavy truck through
+22 residential areas in the County and Jurupa Valley. This plan will result in significant
+23 environmental consequences to these communities related to air quality, GHG emissions,
+24 transportation impacts and noise impacts without proper analysis of the actual impact.
+25 32. The Project has required three iterations of its Draft EIR ("DEIR"), releasing
+
+26 DEIR in April 2014, a First Recirculated DEIR in December 2014 and a Second Recirculated
+
+27 DEIR in February 2018.
+
+28 111
+
+7
+PETITION'AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+33. During the public comment periods for each successive DEIR, multiple
+commenters, including the County, provided public comments identifying the procedural
+deficiencies and analytical errors in the EIR as well as highlighting the significant and
+unmitigated negative environmental impacts of the Project on, among other things, air quality,
+traffic, and noise. However, with each successive DEIR, the Project changed very little.
+34. Following release of the initial DEIR in April 2014, nine commenters, including
+the County, Jurupa Valley, the California Department of Fish and Wildlife, and representatives of
+multiple labor unions, provided comments regarding deficiencies in the EIR for the Project,
+including improper analysis related to air quality, GHG emissions, biological resources, and
+1.5 transportation impacts and inadequate mitigation and alternatives. Based on the comments, the 11 City had to revise the analysis in the EIR, requiring a recirculation of the document.
+12 35. Upon again receiving nine in-depth comments on the First Recirculated DEIR' in
+13 December 2014, including a letter from Southern California Air Quality Management District
+14 ("SCAQMD") calling into question the EIR's air quality assumption and mitigation measures, the
+15 to City had to again revise the analysis in the EIR, requiring another recirculation of the document.
+16 36. In February 2018, the City released a Second Recirculated DEIR, the third version
+
+17 of the environmental document for the Project.
+
+18 37. Nineteen commenters, including State and regional agencies, such as the
+19 California Department of Transportation (*Caltrans"), the California Air Resources Board
+20 ("CARB"), SCAQMD and the West Valley Water District, public interest organizations, such as
+21 Sierra Club, Endangered Habitats League and Center for Biological Diversity, the County and
+22 Jurupa Valley as well as multiple affected individuals provided comments, recommendations or
+23 corrections regarding the Project.
+
+24 38. Based on the multiple comments and recommendations received on the Second
+25 Recirculated DEIR, the City was required to prepare significant additional analysis for the EIR,
+
+26 including a revised Traffic Impact Analysis, Noise Study and a revised Health Risk Assessment.
+27 Based on the additional studies and analysis undertaken, potential impacts of the Project
+28 increased. However, the City failed to recirculate the DEIR.
+
+8
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+39. Despite the numerous environmental documents released for the Project and the
+
+2 multiple revisions to technical studies for the Project, the size and scope of the Project has not
+3 decreased little since 2012 and the impact of the Project on the community and, in particular,
+
+4 County facilities and residents reinains the same.
+
+5 40. The 2018 Second Recirculated DEIR was accompanied by the Mitigation and
+6 Monitoring Reporting Program ("MMRP*), which sets forth the Project's proposed mitigation
+
+7 and monitoring requirements. Nonetheless, the City determined the Project would have non-
+
+8 mitigatable significant and unavoidable environmental impacts on air quality, GHG emissions,
+transportation and noise. The significant negative impacts of the Project are borne primarily by
+
+10 the County.
+
+11 41. The County provided detailed comments on each version of the DEIR, identifying
+12 both legal and technical inadequacies with the Project, and included comments by individual
+13 departments and divisions of the County, with expertise on various impacts, detailing the
+14 shortcomings of the City's analysis of, among other things, transportation, land use, hydrology,
+15 mitigation, alternatives and inadequate findings. The County's comments included, but are not
+
+16 limited to the following:
+
+17 (1) The Project Description is inconsistent and vague;
+
+18 (2) The City failed to acknowledge recommendations from responsible
+
+19 agencies, including the County;
+
+20 (3) The EIR failed to apply proper environmental "baselines" which
+21 precluded meaningful and adequate analysis of the Project's impacts
+22 related to, among other things, traffic, biological resources (e.g,
+
+23 burrowing owls), noise, air quality and GHG emissions;
+
+24 (4) The DEIR failed to adequately analyze the Project's environmental
+25 impacts, including but not limited to impacts related to
+26 transportation, air quality, GHG emissions, aesthetics, noise.
+
+27 hydrology and land use.
+
+28
+
+9
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 (5) The DEIR failed to provide substantial evidence in support of its
+
+2 conclusions and findings regarding the level of significance of the
+3 Project's impacts and the efficacy of proposed mitigation measures;
+4 (6) The stated CEQA objectives for the Project are overly narrow and
+5 misleading;
+
+6 (7) The DEIR improperly deferred impact analysis and mitigation
+
+7 measures and incorporated unenforceable mitigation measures;
+
+8 (8) The DEIR failed to consider reasonable range of alternatives and
+rejected feasible alternatives that would meet most Project
+10 objectives;
+11 (9) The DEIR improperly incorporated mitigation measures as Project
+12 design features;
+13 (10) The Final EIR inadequately responded to comments;
+14 (11) The DEIR and FEIR were SO fundamentally flawed as to preclude
+15 meaningful public review, failed to adequately serve as an
+
+16 informational document, and should have been revised and
+
+17 recirculated with additional information;
+
+18 (12) The Project violates the PZL by failing to analyze the Project
+
+19 with the appropriate City General Plan;
+
+20 42. Other commenters, including various State agencies such as SCAQMD, Caltrans,
+21 and CARB, and regional public interest organizations, such as Sierra Club and Center for
+
+22 Community Action and Environmental Justice, were also highly critical of the Project, its DEIR
+
+23 and its underlying studies.
+
+24 43. On March 26, 2018, following public release of the Second Recirculated DEIR in
+
+25 February 2018, the County submitted two letters to the City objecting to the approval of the
+
+26 Project on numerous grounds, as described above.
+
+27 44. In October 2018, the City circulated an 826-page Final EIR for the Project,
+28 including responses to the 19 comments received, an errors and additions section and more
+
+10
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 analysis, based on the comments. The City did not include the revised Traffic Impact Analysis or
+
+2 the revised Health Risk Assessment with the Final EIR.
+
+3 45. On December 17, 2018, after the City responded to the County's comments on the
+
+4 DEIR, the County sent a third letter to the City because the Response to Comments' failure to
+address important errors with the DEIR and implement recommendations by the County, a
+
+6 responsible agency, regarding the Project's impacts.
+
+7 46. On December 18, 2018, the Planning Commission of the City, held a public
+8 hearing to consider the Project and the FEIR. The City Department of Planning staff provided an
+9 Action Report to the Planning Commission and recommended the Planning Commission deny the
+10 Project based on the "concerns raised by the San Bernardino County Land Use Department and
+11 other agencies, and the findings" prepared for the Project. City Planning staff recommended the
+12 Planning Commission "forward a recommendation to the City Council to deny the West Valley
+13 Logistics Center Specific Plan project." (Emphasis added.)
+
+14 47. City Planning staff based the recommendation of denial of the Project on the fact
+15 that "the benefits of the proposed Project do not outweigh its significant and unavoidable traffic
+16 impacts" and that "the project is inconsistent with the General Plan on multiple grounds."
+
+17 48. At its December 18, 2018 meeting, by a vote of 3 a to 2, the Planning Commission
+18 ordered City Planning staff to remove the recommendation of denial and bring the Project back to
+
+19 the Planning Commission with an approval recommendation that the Planning Commission
+20 | "recommend approval to the City Council of the proposed project until street improvements
+21 along Locust Avenue, between Jurupa Avenue and Slover Avenue can be implemented consistent
+22 with the Final Environmental Impact Report." The Planning Commission did not address the
+23 City Planning Staff's conclusions regarding the Project's significant traffic impacts, its findings
+24 in the SOC, or the Project's inconsistency with the General Plan.
+
+25 49. On January 15, 2019, the Planning Commission held a second hearing on the
+26 Project and recommended approval of the Project to the City Council with the condition that the
+27 Project not be approved "until street improvements along Locust Avenue, between Jurupa
+28 Avenue and Slover Avenue can be implemented consistent with the Final Environmental Impact
+
+11
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 Report." The Planning Commission by a 4-1 vote recommended approval of the Project to the
+
+2 City Council. Again, the Planning Commission did not address the City Planning Staff's prior
+
+3 conclusions regarding the Project's significant traffic impacts, its findings in the SOC, or the
+
+4 Project's inconsistency with the General Plan.
+
+50. On March 12, 2019, the City Council held a public hearing to consider the Project.
+
+6 The City Planning Department Staff forwarded to the City Council the Planning Commission's
+7 . recommendation to:
+
+8 approve the West Valley Logistics Center Specific Plan Project, including the FEIR, MMRP and SOC; General Plan Amendment 9 No. 11-026; Zone Change No. 11-016; Specific Plan Amendment
+10° No. 11-003; Development Agreement No. 11-002; and Parcel Map No. 19156 (TPM No. 13-005), subject to all'conditions of approval to be adopted and mandated by the City Council, with the further 11 recommendation that the City Council not approve the Project until
+12 street improvements consistent with mitigation measures TRA-1, 1A, 1B, 1C, ID, and 1E have been agreed to by various jurisdictions.
+13
+51,
+14 City Planning Staff also revised the previously unreleased Development
+
+15 Agreement ("DA") for the Project in order to ensure transportation-related mitigation measures
+
+16 were met and implemented.
+
+52.
+17 As provided in the City's Action Report to the City Council, the DA included the
+
+18 following additional provisions:
+
+19 3.8 Provision of Real Property Interests by CITY.
+(C) OWNER acknowledges that some of the off-site mitigation 20 measures and conditions of approval necessary for this Project are to be constructed within the County of San Bernardino's jurisdiction. Owner
+21 shall exercise good faith efforts to acquire the real property interests necessary to comply with such mitigation measures and conditions of 22 approval. To the extent OWNER iS unable to acquire the real property interests necessary to implement the off-site mitigation measures and 23 conditions of approval, where the necessary real property is located within
+24 the County of San Bernardino's jurisdiction, OWNER will work with the
+County of San Bernardino for the acquisition of the real
+
+25 property. OWNER acknowledges that the County of San Bernardino retains all discretion given to it by law as to all matters pertaining to the
+26 voluntary acquisition of any property interests or the County of San Bernardino's consideration of and use of its power of eminent domain, including as to those findings and determinations described in Code of 27 Civil Procedure Section 1245.230, Nothing contained in this section shall
+
+28 diminish or otherwise affect the provisions of section 3.9 hereof, regarding the satisfaction of conditions of approval and mitigation measures.
+
+12
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+3.9 Transportation and Traffic Mitigation Measures.
+
+7 OWNER acknowledges and agrees that the MMRP contains on-site. and off-site transportation improvements (see Mitigation Measures TRA-la, 3 TRA-1b, TRA-le, TRA-ld and TRA-le) (collectively hereinafter "Required Transportation Improvements") and that these Required 4 Transportation Improvements are an essential component of the Project and that CITY would not have approved this Project without adequate 5 assurance that the construction of these Required Transportation Improvements will occur. CITY and OWNER have been informed that the
+6 County of San Bernardino has objected to the construction of the Required
+7 Transportation Improvements. As indicated in the MMRP, and OWNER hereby agrees on behalf of itself and its successors in interest to the Property, that CITY shall not issue any discretionary or ministerial entitlements including, without limitation, any grading permits, building
+9 permits, final map, or otherwise, for the Project until such time as the County of San Bernardino has agreed in writing to allow the Required
+10 Transportation Improvements to be constructedas necessary in its jurisdiction, or accepts required payment of development impact fees or
+11 fair share payments, and all required off-site property interests necessary for the construction of the Required Transportation Improvements have
+12 been acquired by OWNER, County of San Bernardino, or CITY.
+
+13 53. Multiple letters, including a' letter from the County dated March 11, 2019, were
+14 submitted on the Project, and multiple individuals, including individuals representing California
+15 State Senator Connie Leyva, California State Assemblymember Eloise Gomez Reyes, California
+16 State Assemblymember Freddie Rodriguez, Jurupa Valley, the Center for Community Action and
+17 Environmental Justice, local labor unions, and residents in the surrounding community, spoke at
+
+18 the hearing on the Project.
+
+19 54. Despite the outpouring of opposition to the Project and its environmental impacts,
+
+20 the City approved the Project and certified the FEIR.
+21 55. Throughout this process, hundreds of public comments have been submitted on
+22 this Project, the vast majority of which indicated opposition to the Project.
+
+23 56. The County is informed and believes that the City also approved a revised
+24 Development Agreement at the March 12, 2019 City Council hearing but did not inform the
+25 public of significant changes made to the DA provisions provided above.
+
+26 57. The City filed a Notice of Determination ("NOD") for the Project's EIR on or
+
+27 about March 14, 2019.
+
+28 //!
+
+13
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+EXHAUSTION OF ADMINISTRATIVE REMEDIES
+
+2 58. The County has exhausted all administrative remedies by submitting written and
+
+3 oral comments and testimony on the Project to Respondents requesting compliance with CEQA,
+4 including the completion of full and adequate environmental review. All issues raised in this
+
+5 Petition were raised before Respondent by the County, other members of the public, and/or public
+6 agencies prior to approval of the Project.
+
+7 59. The County has complied with Public Resources Code section 21167.5 by prior
+
+8 service of a notice upon Respondents indicating their intent to file this Petition. Proof of Service
+
+9 of this notification is attached as Exhibit A.
+
+10 60. The County has elected to prepare the record of proceedings in the above-
+11 captioned proceeding pursuant to Public Resources Code section 21167.6(b)(2).
+12 61. This Petition is timely filed in accordance with Public Resources Code section
+13 21167 and 14 Cal. Code Regs., section 15112 (hereinafter, "CEQA Guidelines").
+
+14 FIRST CAUSE OF ACTION
+
+15 Violation of California Environmental Quality Act
+16 (Public Resources Code §§ 21000, et seq.)
+17 62. The County hereby incorporates by reference each and every allegation set forth
+18 above, inclusive.
+
+19 63. CEQA was enacted to require public agencies and decisionmakers to document
+
+20 and consider the environmental implications of their actions before formal decisions are made
+21 and to "[e]nsure that the long-term protection of the environment shall be the guiding criterion in
+22 public decisions." Pub. Resources Code, § 21001, subd. (d). CEQA "was intended to be
+
+23 interpreted in such a manner as to afford the fullest possible protection to the environment within
+24 the reasonable scope of the statutory language." CEQA Guidelines § 15003, subd. (f), citing
+25 Friends of Mammoth v. Bd. of Supervisors (1972) 8 Cal.3d 247.
+
+26 64. An EIR is, above all, an informational document. The purpose of an EIR is to
+27 "provide public agencies and the public in general with detailed information about the effect
+28 which a proposed project is likely to have on the environment." Pub. Resources Code, § 21061.
+
+•14
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+65. The EIR should be prepared with "a sufficient degree of analysis to provide
+2 decisionmakers with information which enables them to make decision which intelligently takes
+UJ account of environmental consequences." CEQA Guidelines, § 15151.
+
+66. CEQA further requires the lead agency to adequately consider alternatives to the
+Project, to adopt all feasible mitigation measures and/or alternatives, to determine that proposed
+6 mitigation measures will or will not be effective in avoiding or substantially lessening the
+Project's significant environmental impacts, and, if necessary, to make an adequate SOC for
+those significant environmental impacts deemed unavoidable. Pub. Resources Code, §§ 21002.1,
+
+10 subd. (b), 21100, subd. (b)(3); CEQA Guidelines, §§ 15092, 15093, and 15126.6.
+
+67.
+
+11 CEQA also requires a cooperative process of analysis followed by responsive
+
+12 modification to the project based on public participation and comments from responsible
+agencies. CEQA Guidelines, §§ 15201, 15204, and 15132.
+
+13 68.
+
+14 For the following reasons, the City's approval of the Project failed to comply with
+
+15 CEQA, was arbitrary and capricious, not supported by the evidence, and not in accordance with
+applicable law:
+16 Failure to Provide an Adequate Description of the Project
+
+17 69. CEQA requires an accurate, stable and consistent description of the proposed
+18  project. CEQA Guidelines, § 15124.
+
+19 70. The EIR for the Project fails to provide an accurate, stable and consistent
+20|| definition of the Project and fails to describe the true
+21 scope of the Project, precluding an accurate
+depiction of the Project's impacts on the environment.
+
+22 71.
+
+23 The Project Description is unclear about the actual use of the Project Site. The
+
+24 EIR only refers to the Project as a "logistics center including warehouse distribution and support
+office uses within warchouse buildings." However, different types and sizes of various
+25 warehouse structures have different uses and result in different impacts on the environment
+26
+
+27 related to transportation, noise and air quality and GHG emissions. The Project Description
+
+28 mischaracterizes the nature and classification of the warehouse buildings to be constructed at the
+Project Site.
+
+15
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+72. The City's failure to describe the 1,000,000 square foot warehouse building as a
+
+2 more intensive and higher trip-generating "Fulfillment Center", instead of a "High-Cube
+
+3 Transload and Short-Term Storage Warehouse", generally reserved for smaller facilities, creates
+
+4 cascading effects by underestimating impacts throughout the analysis in the EIR.
+
+5 73. Without more detail about the actual uses involved in the Project, the
+6 environmental analysis cannot be. accurately provided to the decisionmakers and the general
+public, and, thus is prejudicial to public review and an accurate analysis of the Project's
+8  environmental impacts.
+9 74. The Project Description also fails to provide the proposed operating hours for the
+10 Project. Although the EIR intermittently references that the operation will be ongoing twenty-
+11 four hours, seven days a week, it does not provide any guidance as to peak hours of operation,
+12 and what structures will be used or how many trucks will be operating throughout different times.
+13 of the day or night. It therefore becomes impossible to properly ascertain the true environmental
+14 impacts of the Project when there is an entirely unrestricted project operation.
+
+15 75. The Project Description indicates the Project will be built out "as the market
+
+16 demands." However, there is no completion or final built-out date provided in the Project
+
+17 Description. With no schedule for the orderly construction of the Project components, the public
+
+18 is left with a "moving target" on how the environmental impacts of the Project will actually affect
+
+19 them.
+
+20 76. The Project proposes numerous off-site infrastructure improvements, which are
+21 actual mitigation measures, as part of the Project Description. These improvements are located
+22 on County roadways and other facilities outside of the Project Site and are not located within the
+
+23 City of Fontana.
+
+24 77. Further, these off-site improvements are unenforceable, have not been approved
+
+25 by the County, a Responsible Agency, and cannot be considered part of the Project without
+
+26 confirmed assurances from the County as to feasibility of such improvements. This is precisely
+27 the type of amorphous project description impermissible under CEQA.
+
+28
+
+16
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 Failure to Properly Include Responsible Agencies
+
+2 78. CEQA. defines a responsible agency as "a public agency, other than the lead
+
+3 agency which has responsibility for carrying out or approving a project." Pub. Resources Code, §
+
+4 21069.
+
+5 79. The term "responsible agency" includes all public agencies other than the lead
+6 agency which have discretionary approval over the project. CEQA Guidelines, § 15381.
+
+7 80. The County is a local public agency with discretionary authority over the use and
+8 improvements of its streets and related facilities.
+
+81. Under CEQA, Lead Agencies are encouraged to "[c]onsult[ with state and local
+10 responsible agencies before and during preparation of an environmental impact report so that the
+11 document will meet the needs of all the agencies which will use it." CEQA Guidelines, § 15006,
+12 subd. (g).
+
+13 82. In the unincorporated Bloomington Community, the County maintains the streets
+14 and associated facilities proposed as truck routes for the Project. The County would be required
+15 to approve Real Party's request to widen and/or modify the streets proposed as mitigation for the
+16 Project's significant transportation impacts. In addition, the County would need to decide
+
+17 whether to file eminent domain actions for certain parcels to widen the streets along the Project's
+18 proposed truck routes if the property owners do not agree to the sale of their property interests.
+19 Therefore, the County is a responsible agency for the Project with to respect to approvals of off-site
+20 infrastructure improvements proposed within the County as required by mitigation measures
+21 outlined in the EIR.
+
+22 83. The County was not listed as a responsible agency for the Project when the DEIR
+23 was circulated. While the City and the County have held meetings and exchanged
+24 correspondence regarding the Project, the County was deprived of its ability to act as responsible
+25 agency, for example, its right to request data and information to be fully informed regarding the
+26 Project's environmental impacts. Pub. Resources Code, § 21160.
+27 84. The City also ignored its obligation to integrate CEQA review with the
+28 requirements of the County's General Plan and other applicable governing documents related to
+
+17
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+the County's jurisdiction, and gave little consideration to the County's comments,
+2 recommendations and needs:
+
+3 85. The City failed to require Real Party to provide a copy of the certified, final EIR to
+
+4 the County, as responsible agency. CEQA Guidelines, § 15095.
+
+5 86. The City's failure to properly include the County as a responsible agency was
+
+6 arbitrary, capricious and not in accordance with law:
+7 Failure to Develop and Apply Proper Environmental Baselines
+
+8 87. Under CEQA, an EIR is deficient without an adequately developed baseline
+because the true impact of the project cannot be disclosed. CEQA Guidelines, §§ 15125,
+10 15126.2, subd. (a).
+
+11 88. The Draft EIR failed to include an in-depth analysis of conditions as they exist
+12 today to allow the public and responsible agencies to understand the potential future impacts of
+13 the Project associated with air quality, GHG emissions, biological resources, noise and traffic.
+14 This lack of baseline data prevents the EIR from being an adequate informational document for
+15 decision making by precluding the EIR from fully evaluating the Project's environmental
+16 impacts.
+
+17 89. The Draft EIR established the environmental baseline for the Project based only
+
+18 on a limited biological survey of certain portions of the site regarded as most likely to contain
+
+19 species in 2013 and 2014. The survey was conducted via meandering transects and focused on
+
+20 the edges of the Project Site. Large portions of the site, apparently including the bulk of the area
+21 where construction will occur, were not considered, because they were deemed unlikely to
+22 possess sensitive species, even though the special-status wildlife species, including Cooper's
+23 Hawk and burrowing owls were observed, and the potential for birds to nest in omamental trees
+
+24 to be. removed during construction represents a potential direct impact to sensitive species.
+25 Moreover, the species lists generated by the survey are based only on incidental observations,
+26 making it difficult to ascertain with certainty what species are present.
+27 90. It is therefore difficult to be certain what sensitive species might be present on the
+28 site prior to the commencement of the Project. Without a satisfactory environmental baseline, it
+
+18
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 is impossible to judge potential significant impacts or generate adequate mitigation measures.
+
+2 91. The Draft EIR fails to properly quantify baseline GHG emissions. The Draft EIR
+3 "models" the baseline emissions by relying on generic emissions factors in CalEEMod (an air
+quality model). Mere projections of baseline information are insufficient for baseline analysis.
+
+5 92. The Draft EIR fails to explain how even its adequate modeling of baseline
+
+6 emissions was done, simply stating the values in a summary table, with "no discussion or
+
+7 explanation. Although some information can be gleaned from technical modeling files buried in
+
+8 the appendices, such information is unintelligible to the layperson.
+
+9 93. With regards to Noise, the City's use of the Traffic Impact Analysis to develop the
+10 baseline is not a reliable predictor of transportation impacts because it is based on mere
+
+11 projections of baseline information. This is insufficient under CEQA.
+
+12 94. The Draft EIR does not provide substantial evidence to support the
+13 baseline/existing conditions of the Project Site from which to analyze the Project's impacts and
+14 therefore fails as an informational document in violation of CEQA.
+
+15 Failure to Adequately Analyze the Project's Impacts
+
+16 95. CEQA requires that an EIR disclose and analyze all possible significant
+17 environmental impacts of a proposed project. Pub. Resources Code, § 21100, subd. (b)(1);
+
+18 CEQA Guidelines, § 15126.
+
+19 96. The EIR failed to address or inadequately analyze impacts, including but not
+20 limited to the deficiencies described below.
+
+21 97. As a result, the City failed to proceed in the manner required by law and abused its
+22 discretion by failing to fully disclose and analyze the Project's environmental impacts.
+
+23 98. The EIR's methodological errors related to the Project's transportation impacts
+
+24 affect the entire analysis, and underestimate the "scope and magnitude" of the Project's
+
+25 significant and unavoidable transportation environmental impacts.
+
+26 99. The City's improper decision to analyze the 1,000,000 square foot warehouse
+27 building as a "High-Cube Transload and Short-Term Storage Warehouse" instead of the more
+28 intensive and higher trip-generating "Fulfillment Center" is the most obvious methodological
+
+19
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 error in the Transportation analysis.
+
+2 100. Without any guarantee or legal constraint that the proposed warehouse buildings
+
+3 will ultimately be constructed with the use and size exactly as analyzed in the EIR, the Project
+
+4 could result in a far more significant impact than concluded in the environmental documents for
+this Project.
+
+6 101. The City's Transportation analysis also suffers from unsupportable assumptions of
+heavy truck trip distributions along proposed truck routes. The 2017 Traffic Impact Analysis'
+
+8 assumptions incorrectly affect the analysis of the actual transportation impact and may result in
+
+9 new and or more severe transportation impacts when corrected.
+
+10 102. The City's decision to adopt LOS E minimum acceptable threshold for the Slover
+
+11 Avenue and Cedar Avenue intersection, in lieu of the LOS D threshold typically implemented by
+
+12 the County pursuant to the County General Plan's Circulation and Infrastructure Element,
+13 improperly affects the results of the transportation analysis and determines no impact when in all
+14 likelihood, a significant impact would occur.
+
+15 103. The City's revised Health Risk Assessment, based on an updated Project Traffic
+16 Impact Analysis, and using the proper California Office of Environmental Health Hazard
+
+17 Assessment Guidelines (2015) which account for age-weighted factors for early life exposures,
+
+18 not only improperly calculated the risk the surrounding community but required recirculation in
+
+19 and of itself.
+
+20 104. Many commenters, including the SCAQMD, suggested feasible mitigation
+
+21 measures to reduce air quality and GHG impacts, however, the Project failed to implement these
+
+22 measures.
+
+23 105. Regardless of whether the cancer risk from the Project is environmentally
+
+24 significant or not, and irrespective of the significant and unavoidable air quality and GHG
+
+25 impacts indicated in the environmental documents for the Project, the EIR fails as an
+
+26 informational document because it fails to provide detailed analysis regarding the Project's
+
+27 impacts to adequately inform the public of risk. The numbers provided in the EIR do not
+
+28 translate the risk into "potential health impacts" or give a "sense of the nature and magnitude of
+
+20 PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+the 'health and safety problems caused by the physical changes' resulting from the Project."
+106. The Project introduces massive warehouse buildings, up to 75 feet in height, in
+what was initially proposed to be restricted-height residential zone adjacent to a single-family
+residential neighborhood. No other warchouses or buildings as large are currently located in this
+5 immediate area.
+
+6 107. The EIR fails as an informational document as it fails to include consistent and
+accurate viewpoints from which to assess a potential impact. The EIR completely disregarded
+
+8 the most important viewpoint from the residential area east of the Project looking west at the
+Project and the mountains beyond. This neighborhood would be the most affected area from an
+10 aesthetics standpoint.
+11 108 Renderings within the EIR fail to accurately describe a potential impact. These
+12 renderings which purport to simulate the visual impacts of the development are clearly inaccurate
+
+13 (they show the top of the 40-foot building as the maximum height required for clearance when in
+
+14 fact the Project buildings may be up to 75-feet tall) and do not demonstrate how the development
+15 will actually be perceived due to misleading angles and lines of sight.
+
+16 109. The EIR entircly fails to analyze the Project's visual impacts from light and glare.
+17 The EIR admits the Project's operations would be ongoing twenty-four hours day, seven days a
+18 week, and that the buildings, street and loading areas would introduce additional sources of light
+19 and glare. However, it fails to properly analyze whether this light would have a significant
+
+20 impact, and instead summarily concludes, without any substantial evidence to support its claim,
+21 the landscaping and screening wall will mitigate the impacts.
+
+22 110. The EIR improperly categorizes "sensitive receptors" by limiting the definition of
+
+23 a sensitive receptor to only "residences, schools, hospitals, and similar uses." The EIR fails to
+
+24 consider numerous sensitive receptors directly adjacent to the proposed truck routes, including
+25 child day care centers and assisted living facilities. Failure to consider the proximity of sensitive
+26 receptors to primary truck routes was clearly erroneous and thus the EIR's conclusion of a less
+
+27 than significant impact is not supported by substantial evidence.
+28 ///
+
+21
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+111. The EIR's failure to properly classify the types of warehouses to be constructed at
+
+2 the Project Site also renders invalid the noise analysis. Should the Project ultimately be built-out
+
+3 to a include a Fulfillment Center, the vehicle and heavy truck trips would be expected to increase
+from than analyzed in the EIR, thereby increasing noise impacts associated with that traffic.
+
+112. The City also fails to consider valid and practical mitigation measures and
+6 insufficiently responded to concerns regarding mitigation measures related to noise, including:
+prohibiting truck traffic between 11th and 7th street to reduce potential operation and traffic
+
+8 related noise impacts to the Bloomington residential community located east of the Project Site
+
+9 and relocating access to buildings 1 and 2 north of the Bloomington residential community
+10 located east of the Project Site instead of north of 11th street along Locust Avenue. The failure to
+
+11 consider these practical and potentially noise-reducing mitigation measures in the EIR is violation
+12 of CEQA.
+
+13 113. The EIR fails to adequately analyze the Project's impacts on hydrology and
+14 drainage. Despite the County's multiple requests and recommendations related to potential
+15 downstream impacts from runoff caused by the Project, the EIR continues to improperly analyze
+16 this potentially significant impact.
+
+17 114. The EIR's Hydrology Study does not properly address significant drainage issues
+18 related to the site and surrounding community. The EIR's conclusory statements that the
+19 Project's "100-year flow would be reduced to 90 percent of the existing 25-year peak flow rate"
+20 do not provide substantial evidence or meet the requirements of CEQA when it is unclear when
+21 appropriate storm drains and other drainage features would be installed and operational as part of
+22 the Project.
+
+23 115. Neither the EIR nor the underlying Hydrology Study identify when storm drains
+
+24 will be constructed. iS There is no analysis regarding downstream impacts during construction that
+
+25 could occur until such time as the proposed storm drains are operational.
+
+26 116. The EIR fails to acknowledge or analyze its consistency with the City's recently
+27 certified General Plan Update. The City released the City General Plan Updäte Draft EIR prior to
+28 the release of the Project Final EIR, and certified the City General Plan Update prior to public
+
+22
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+hearing on the Project. The EIR's failure to acknowledge and analyze the goals and policies of
+the Draft City General Plan Update, despite its release prior to circulation of the Project's Final
+EIR constitutes procedural violation of CEQA for failure to analyze the Project's consistency
+
+4 with the most updated planning document in the City.
+
+117. The EIR failed to properly analyze impacts to biological resources caused by the
+Project. The EIR fails to properly analyze impacts to burrowing owl communities, Cooper's
+
+7 Hawk, as well as multiple other species.
+
+118. In addition, the EIR's conclusion that wildlife movement between the Jurupa Hills
+
+on the west and Rattlesnake Mountain on the east will not be impacted is erroneous and without
+10 substantial evidence.
+
+11 119. •Mitigation measures proposed to reduce biological resources impacts are wholly
+12 inadequate to reduce significant impacts to biological resources.
+13 Failure to Adequately Analyze the Project's Cumulative Impacts
+
+14 120. CEQA requires an EIR for a proposed project consider reasonably foresecable
+15 cumulative impacts from a project. Pub. Resources Code, §§ 21100; CEQA Guidelines, § 15130.
+
+16 The EIR fails to provide an adequate cumulative impacts assessment for the Project.
+17 121. The EIR does not adequately assess the cumulative impacts on transportation,
+
+18 noise biological resources, air quality, GHG emissions and utilities and fails to include all other
+
+19 closely related past, present, and reasonably foreseeable probable future projects.
+20 Failure to Adequately Prepare an Alternatives Analysis
+
+21 122. CEQA requires an EIR to examine a range of reasonable alternatives that would
+
+22 feasibly obtain most of the project objectives, but avoid or substantially lessen any significant
+
+23 adverse effects of the project. CEQA Guidelines, § 15126.6.
+
+24 123. CEQA requires an EIR include a reasonable range of alternatives for a proposed a
+25 project that will foster informed decision-making and public participation. CEQA Guidelines.
+
+26 § 15126.6.
+
+27 124. The City erroneously rejects feasible alternatives as infeasible. The City failed to
+28 make findings supported by substantial evidence of infeasibility of project alternatives to reduce
+
+23
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+the Project's significant and unavoidable impacts related transportation, air quality, GHG
+
+2 emissions, and noise while accomplishing most project objectives, including proposals made by
+
+3 the County. In particular, transportation impacts may be feasibly avoided by incorporating
+
+4 additional alternative truck routes entering and exiting the Project Site.
+
+5 125. The EIR also fails to consider a reasonable range of alternatives by improperly
+6 dismissing feasible alternatives, including those suggested by the publie, and relying upon an
+7 long, but improperly selected list of Project objectives to justify the elimination of feasible
+
+8 alternatives.
+
+126. The EIR does not include an alternative which requires heavy truck trips for
+10 inbound and outbound Project traffic to use only City streets, thus localizing impacts to the City.
+11 The failure to identify an alternative that avoids the initial direction of 100% of Project traffic on
+12 County streets, and uses an alternative western access route via Alder Avenue in and out of the
+
+13 Project Site as provided in the VTSP and the City General Plan Update, is not supported by
+14 substantial evidence. By modifying the Project to include the Alder Avenue extension, the
+15 transportation, air quality, GHG and noise burden on the communities east and north of the
+
+16 Project undoubtedly would be reduced and/or eliminated.
+
+17 127. Morcover, the Project's reliance on economic factors to determine infeasibility of
+18 alternatives, particularly Alternative 2 (No Project/Build VTSP) and Alternative 5 (Reduced
+19 Intensity Logistics Center), violates CEQA requiring the EIR to include an economic analysis to
+
+20 provide substantial evidence of infeasibility.
+
+21 128. CEQA requires that an environmentally superior alternative be identified among
+
+22 the alternatives considered. When the "No Project" alternative is the environmentally superior
+
+23 alternative, CEQA requires the EIR identify an environmentally superior alternative among the
+
+24 other alternatives. CEQA Guidelines, § 15126.6, subd. (e).
+
+25 129. By developing two "No Project" alternatives, including Alternative 2, the build-
+26 out of the VTSP, the City intentionally avoids CEQA mandates to identify a truly feasible
+27 environmentally superior project.
+28 ///
+
+24
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+130. Build-out of the VTSP is not a "No Project" alternative, but instead a feasible
+
+2 alternative to the Project. This alternative should have been analyzed as such, and not as a "No
+
+3 Project" alternative.
+
+4 131. When analyzed correctly, Alternative 2 (No Project/VTSP), not the Alternative 5
+
+5 (Reduced Intensity Logistics Center) as selected by the City, would be the environmentally
+
+6 superior alternative. While both the Reduced Intensity Alternative and the No Project/Buildout
+
+7 of VTSP Alternative both would include eight reduced impacts, the Buildout. of the VTSP
+
+8 Alternative would eliminate both significant - and unavoidable noise impacts as well as the
+
+9 significant and unavoidable transportation impact (three impacts eliminated in total), while the
+10 Reduced Intensity Alternative would not eliminate any significant and unavoidable impacts.
+
+11 132. The Project's Selection of Alternative 5 (Reduced Intensity Logistics Center) is
+12 entirely incorrect and prejudicially skews the analysis and consideration of the alternatives by the
+
+13 public and decisionmakers.
+14 Improper Use of Project Design Features in Lieu of Mitigation Measures
+
+15 133. CEQA requires an EIR include, among other things, a detailed statement setting
+
+16 forth "[a]ll significant effects on the environment of the proposed project" and "[m]itigation
+17 measures proposed to minimize significant effects on the environment.3 Pub. Resources Code,
+
+18 § 21100, subd. (b).
+
+19 134. If a project may result in a potentially significant impact which may be reduced by
+20 one or more mitigation measures, this triggers the need to adopt an enforceable mitigation
+21 monitoring program. CEQA Guidelines, § 15091, subd. (d).
+
+22 135. The EIR's incorporation of numerous project design features, provided as specific
+23 plan features in the EIR, in lieu of mitigation measures for many potential impacts, blur the line
+24 between actual project design elements and mitigation measures, thereby defeating the purpose of
+
+25 CEQA in analyzing the environmental impact of a Project on the environment. The EIR's
+26 improper incorporation of mitigation measures prior to analysis to foreclose the possibility of
+27 significant impacts is precisely the type of action CEQA is designed to avoid.
+
+28
+
+25
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+The EIR Includes Improper Mitigation
+
+2 136. Once significant project impacts are identified, CEQA requires an EIR to include
+mitigation measures to minimize, reduce and avoid such impacts. Pub. Resources Code, § 21002;
+
+4 CEQA Guidelines, § 15126, subd. (e).
+
+5 137. The EIR fails to adequately identify, analyze and/or adopt all feasible mitigation
+
+6 measures and/or alternatives that would minimize direct, indirect and cumulative impacts on the
+7 l environment and nearby communities affected by the Project.
+
+8 138. The Project does not include sufficient mitigation measures to reduce significant
+
+9 and unavoidable air quality impacts despite the SCAQMD's recommendations nor reduce
+
+10 significant GHG emissions, transportation, noise and biological resources impacts despite the
+
+11 County's recommendations and other commenters and responsible agency recommendations.
+12 The Project Improperly Defers Mitigation
+
+13 139. The County and other commenters indicated the EIR's analysis of and mitigation
+
+14 for the Project's impacts on hydrology and water quality were inadequate for many reasons.
+15 140. The EIR improperly defers impact analysis and the development of mitigation
+16 measures in contravention of CEQA's requirements that mitigation measures be clearly defined
+
+17 and enforceable.
+
+18 The Final EIR Inadequately Responds to Comments
+
+19 141. The City is required to provide a "good faith, reasoned analysis" in response to
+
+20 comments on the EIR; "[c]onclusory -statements unsupported by factual information will not
+
+21 suffice." CEQA Guidelines, § 15088, subd. (b).
+
+22 142. a When a comment raises a significant environmental issue, the EIR must address
+
+23 the comment "in detail giving reasons why" the comment was not accepted." CEQA Guidelines,
+
+24 § 15088, subd. (c).
+
+25 143. The City failed to respond adequately to comments submitted by the County, other
+
+26 members of the public, and other agencies. Instead, the responses given to numerous comments
+27 are conclusory, evasive, confusing, or otherwise non-responsive, contrary to the requirements of
+28 CEQA. The responses often ignored or improperly dismissed identification of flaws in the City's
+
+26
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 analysis and suggestions of feasible mitigation measures and alternatives.
+
+2 144. For example, the EIR failed to adequately address comments that the Project
+
+3 consider Caltrans' Complete Street Implementation Action Plan 2.0 to reduce traffic congestion.
+
+4 145. The City failed to provide an adequate rationale for rejecting alternatives to the
+
+5 Project proposed by the County and other commenting agencies and persons. By failing to
+
+6 provide adequate responses to public comments and proposed alternatives, Respondents failed to
+
+7 proceed in the manner required by law.
+8 The Statément of Overriding Considerations Is Not Supported By Substantial Evidence
+146. Where no feasible mitigation measures or alternatives are available to avoid or
+10 reduce a project's significant environmental effects, CEQA allows an agency approving a project
+11 to adopt a SOC that describes how specific overriding economic, legal, social, technological, or
+
+12 other benefits outweigh the significant environmental effects. CEQA Guidelines, § 15093.
+13 147. In approving the Project and certifying the EIR, the City concluded that the Project
+14 would result in significant unavoidable impacts. The City adopted a SOC for. the Project,
+15 -asserting findings that specific considerations make infeasible the mitigation measures or
+16 alternatives identified in the EIR for the Project's unavoidable significant impacts and 'that
+
+17 economic, social, and other factors justify approval of the Project despite these unavoidable
+18 significant impacts.
+
+19 148. The SOC inaccurately estimates impacts to, among other things, hydrology,
+
+20 biological resources, and aesthetics. The City's adoption of a SOC that purportedly justifies the
+21 Project's significant adverse impacts on the environment is not supported by substantial evidence
+
+22 and represents a failure to proceed in the manner required by law. Similarly, the finding that no
+
+23 feasible alternatives or additional mitigation measures exist to eliminate or reduce the remaining
+
+24 significant is effects is not supported by substantial evidence.
+
+25 149. a As a result of the foregoing defects, City prejudicially abused its discretion by
+
+26 adopting findings that do not comply with CEQA's requirements and approving the Project in
+27 reliance thereon. Accordingly, both City's certification of the EIR and City's approval of the
+
+28 Project must be set aside.
+
+27
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+SECOND CAUSE OF ACTION
+
+2 (Violation of California Environmental Quality Act - Failure to Recirculate the EIR)
+
+3 150. The County hereby incorporates by reference each and every allegation set forth
+
+4 above.
+
+151. CEQA requires that if significant new information is added to an EIR to after a draft
+
+6 EIR is prepared, but before certification of the final EIR, an amended EIR must be amended and
+recirculated for public review and comment.
+
+8 152. Respondents added substantial changes and new information to the EIR after
+circulation of the DEIR -- including, but not limited to, analyses and documents relating to air
+10 quality impacts, transportation impacts, additional mitigation measures, and additional studies-
+
+11 but prior-to the City's March 12, 2019 decision to certify the EIR as compliant with CEQA.
+12 153. Despite the changes, Respondents failed to recirculate the EIR or any portion of
+13 the EIR as required by CEQA, nor did Respondents provide this additional analysis to the public
+
+14 for review and comment prior to certification of the EIR.
+
+15 154. As a result of Respondents' failure to recirculate the EIR, the public and other
+16 public agencies were deprived of any meaningful opportunity to review and comment on the
+
+17 approved Project, its substantial adverse environmental consequences, and the new information
+18 regarding other unanalyzed environmental effects of the Project.
+
+19 155. By failing to amend and recirculate the EIR, Respondents failed to proceed in the
+20 manner required by law, and their decision to approve the Project was not supported by
+21 substantial evidence.
+
+22 THIRD CAUSE OF ACTION
+
+23 (Violation of the California Environmental Quality Act -
+24 Findings Not Supported by Substantial Evidence)
+
+25 156. The County hereby incorporates by reference each and every allegation set forth
+
+26 above.
+
+27 157. CEQA requires that an agency's findings for approval of a project be supported by
+
+28 substantial evidence in the administrative record and requires that an agency provide an
+
+*, 28
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+explanation of how the record evidence supports the conclusions that it has reached. CEQA
+
+2 Guidelines, §§ 15070, 15071.
+
+3 158. The City violated CEQA and failed to proceed in the manner required by law by
+
+4 adopting findings that are inadequate as a matter of law in that they are not supported by
+substantial evidence in the record.
+
+6 159. The determination that alternatives to the Project that would avoid or lessen the
+
+7 significant impacts are infeasible or otherwise is not reasonable.
+
+160. The determination that various mitigation measures that would avoid or lessen the
+
+9 significant impacts of the Project are infeasible is not reasonable.
+
+10 161. No substantial evidence supports City's findings adopted pursuant to CEQA,
+11 including the findings that the Project will produce less than significant environmental impacts,
+12 on hydrology, aesthetics, land use, and biological resources have been mitigated to less than
+13 significant levels. CEQA Guidelines, § 15091.
+
+14 FOURTH CAUSE OF ACTION*
+
+15 (Violations of State Planning and Zoning Law)
+16 162. The County hereby incorporates by reference each and every allegation set forth
+17 above.
+
+18 163. The City's approval of the Project violates the PZL, California's set of laws
+19 pertaining to the regulation of land uses by local governments including: the general plan
+20 requirement, specific plans, subdivisions, and zoning. The PZL requires each city to prepare and
+21 adopt "…a comprehensive, long term general plan for the physical development of the…city, and
+22 of any land outside its boundaries.." Gov. Code, § 65300. The Project approved by the City is
+
+23 incompatible with the former 2003 City General Plan as well as the current City General Plan
+
+24 Update.
+
+25 164. The general plan is a jurisdiction's "blue print" for future development to which
+
+26 all other land use decisions must conform. Accordingly, any City decision affecting land use and
+27 development, including issuance of the Project Approvals for the Project, must be consistent with
+
+28 the general plan, a requirement known as "vertical consistency".
+
+29
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+165. The Project is inconsistent with the 2003 City General Plan, the applicable
+
+2 General Plan document when the environmental review process began for the Project, because
+
+3 the Project will conflict with numerous General Plan policies, including, but not limited to:
+
+4 a. policies within the Land Use Element,
+
+5 b. policies within the Circulation Element,
+
+6 C. policies within the Air Quality Element
+
+d. policies within the Noise Element
+
+8 e policies with the Conservation Element
+
+9 166.. These issues were not properly addressed by the EIR as the Project is wholly
+10 inconsistent with the 2003 City General Plan. In this location, the Project is not compatible with
+11 the General Plan and thus violates the PZL.
+
+12 167. The EIR also fails to analyze the Project for consistency with the recently-enacted
+13 City General Plan Update. The City General Plan Update and draft EIR for the City General Plan
+
+14 Update, which has been in a development process since 2015, was released for public review on
+15 9, June 9, 2018, prior to completion of the Final EIR for the Project.
+
+16 168. The City General Plan Update was approved on November 13, 2018, prior to the
+17 City Council hearing for the Project. Despite being the operative General Plan document for the
+18 City, the Project did not analyze the Project for consistency with the City General Plan Update
+
+19 nor amend the City General Plan Update.
+
+20 169. Either way, the Project suffers from severe PZL defects: While unclear in the
+21 resolutions of approval for the Project, if the Project amended the 2003 General Plan, with which
+22 it was analyzed for consistency, the Project violates the PZL as the 2003 General was not the
+
+23 operative General Plan at the time of approval of the Project. Moreover, if the Project amended
+24 the City General Plan Update, the Project violates the PZL as the Project was not analyzed for
+25 consistency with the City General Plan Update.
+
+26 170. Nonetheless, the Project is inconsistent with the City General Plan Update because
+27 the proposed Project will conflict with numerous General Plan policies, including, but not limited
+28 to:
+
+30
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+a. policies within the Land Use, Zoning and Urban Development Element,
+2 b. policies within the Community Mobility Circulation Element,
+3 C. policies within the Sustainability and Resilience Element
+
+4 d. policies within the Noise and Safety Element
+
+5 e. policies within the Housing Element
+
+6 171. As a result of the foregoing defects, Respondents did not proceed in the manner
+
+7 required by law, and their decision to approve the Project was not supported by substantial
+
+8 evidence. Accordingly, approval of the Project must be set aside.
+9 The Project Is Inconsistent With the City's Regional Housing Needs Allocation Requirements,
+
+10 172. Califomnia cities are required to identify in the Housing Element of their General
+11 Plans how they will meet their fair share of needed housing in a Regional Housing Needs
+
+12 Allocation ("RHNA").
+
+13 173. The RHNA requires that a community's plan provides for housing units through
+14 appropriate zoning and other efforts. The City's RHNA share for 2014-2021 is 5,977 new
+15 housing units (including 40% or 2,416 affordable units)
+16 174. The Project required the City to re-zöne 291 acres currently programed for
+17 residential uses and originally proposed for 1,154 housing units. Due to the large number of
+
+18 proposed housing units eliminated due to the rezone of Project Site, the City is in violation of
+
+19 state law for failing to account for sufficient sites to provide appropriate zoning for residential
+
+20 uses to meet its RHNA numbers. Accordingly, Respondents did not proceed in the manner
+21 required by law, and their decision to approve the Project was not supported by substantial
+
+22 evidence. Accordingly, approval of the Project must be set aside.
+
+23 FIFTH CAUSE OF ACTION
+
+24 (Violation of the Subdivision Map Act)
+
+25 175. The County hereby incorporates by reference each and every allegation set forth
+
+26 above.
+
+27 176. Respondents' action in granting Real Party a tentative parcel map constitutes a
+
+28 prejudicial abuse of discretion in that Respondent failed to proceed in the manner required by law
+
+31
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+and failed to support its decision by substantial evidence, as follows:
+
+2 d. The proposed map is not consistent with the City's 2003 General Plan or the
+
+3 City's General Plan Update;
+
+4 b. The findings that the site is physically suitable for the type and density of
+
+5 development proposed and the type of improvements will not cause serious
+
+6 public health problems is not supported by substantial evidence.
+
+7 177. As a result of Respondents' violations of the SMA, the County as well as members
+
+8 of the general public will suffer irreparable harm if the relief requested herein is not granted and
+
+9 the Project is commenced in the absence of a full and adequate recirculated EIR, and absent
+10 compliance with all other applicable provisions of SMA.
+
+11 SIXTH CAUSE OF ACTION
+
+12 (Declaratory and Injunctive Relief)
+
+13 178. The County hereby incorporates by reference each and every allegation set forth
+
+14 above.
+
+15 179. The actions of the City in approving the Project and of Real Party in beginning
+16 construction of the Project covered by the approval violate the CEQA and the CEQA Guidelines,
+
+17 the SMA and the City General Plan Update. Therefore, the County is entitled to declaratory and
+
+18 equitable relief to restrain said violations.
+
+19 180. An actual and present controversy now exists between the County, the City and
+
+20 Real Party in that the County maintains the approval of the Project violates CEQA and the CEQA
+21 Guidelines, the PZL, the SMA and the City General Plan, including the City General Plan
+
+22 Update, and the City's Municipal Code. City and Real Party maintain the approval was properly
+
+23 granted.
+
+24 181. The County therefore seeks a declaration that Respondents' actions in certifying
+
+25 the EIR and approving the Project violated CEQA and the CEQA Guidelines, the PZL, the SMA
+
+26 and the City General Plan, including the City General Plan Update, and the City's Municipal
+
+27 Code.
+
+28///
+
+32
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+182. Unless enjoined and restrained by 'order of the Court from issuing the Project
+Approvals, issuing any further ministerial permits or otherwise approving the Project, City will
+permit the Project without proper environmental oversight, leading to the significant
+environmental harm. Unless enjoined and restrained, Real Party will cause significant impacts to
+the County.
+
+0 183. CEQA is intended to inform decisionmakers and the public of potentially
+significant environmental impacts before approvals for projects are given. Unless the City is
+enjoined and restrained pending CEQA compliance, the public and decision makers will be
+
+9 deprived of crucial information, and the public will be robbed of its statutory right to participate
+10 in such considerations.
+11 184. The County therefore prays for preliminary and permanent injunction against the
+12 City and Real Parties and any of their agents from commencing work upon the Project unless and
+13 until such time as City complies with their mandatory duties under CEQA and the CEQA
+14 Guidelines, the PZL, the SMA, the City General Plan, including the City General Update, and the
+15 City's Municipal Code.
+
+16 185. The County has no adequate remedy other than that prayed for herein in that the
+17 subject matter is unique and monetary damages would therefore be inadequate to fully
+18 compensate the County for the consequences of the City's and Real Party's actions in their
+19 continued failure to comply with the Government Code, CEQA and the CEQA Guidelines, the
+20| PZL, the SMA, the City General Plan, including the City's General Plan Update, and the City's
+21 Municipal Code with respect to the Project. The County therefore seeks, and is entitled to,
+22 injunctive relief under Code of Civil Procedure section 526, et seq., and to a stay, preliminary
+23 and/or permanent injunction.
+
+24 PRAYER FOR RELIEF
+
+25 1. That the Court issue a writ of mandate pursuant to Code of Civil Procedure sections
+
+26 1094.5 and 1085, ordering the City to set aside the Project Approvals and further
+27 ordering City to take no further action that is not in full compliance with provisions
+
+28 of the Government Code, CEQA and the CEQA Guidelines, the PZL, the SMA,
+
+33
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+the City General Plan, including the City General Plan Update, and City's
+
+2 Municipal Code;
+
+3 2. That the Court issue preliminary and permanent injunctive and declaratory relief to
+
+4 prevent commencement of any construction of the Project;
+
+5 3. That the Court award the County attorneys' fees under Code of Civil Procedure
+
+6 section 1021.5;
+
+7 4. That the Court award the County costs; and
+
+8 5. That the Court award such other and further relief as it may deem just and proper.
+
+10 DATED: April 12, 2019 MEYERS, NAVE, RIBACK, SILVER & WILSON
+
+11
+
+12 By: Azs
+13 Amrit S. Kulkarni
+
+14 Attorneys for Petitioner and Plaintiff
+County of San Bernardino
+15 3213100.8
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+34
+PETITION AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+707 Wilshire Blvd., 24 Floor Amrit S. Kulkarni
+Los Angeles, California 90017 Attorney at Law
+tel (213) 626-2906 akulkarni@meyersnave.com
+fax (213) 626-0215
+meyers|nave www.meyersnave.com
+
+April 11, 2019
+
+Via E-Mail and U.S. Mail
+
+Honorable Mayor and City Council Members Kenneth R. Hunt, City Manager
+City of Fontana City of Fontana
+c/o Ms: Tonia Lewis, City Clerk 8353 Sierra Avenue
+8353 Sierra Avenue Fontana, California 92335
+Fontana, California 92335
+
+Re: West Valley Logistics Center Specific Plan Project
+Notice of Intent to Commence CEQA Action
+
+Dear Mr. Hunt and Members of the City Council:
+
+Pursuant to Public Resources Code section 21167.5, please take notice that the County of San
+Bernardino intends to file in San Bernardino County Superior Court Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief (*Petition") under the provisions of the California Environmental Quality Act ("CEQA", Public Resources Code
+section 21000 et seq.) against Respondents and Defendants the City of Fontana and the City Council of the City of Fontana (collectively, the "City").
+The Petition challenges the City's March 12, 2019 and March 26, 2019 approval of the West
+Valley Logistics Center Specific Plan Project ("Project"), including certification of the Final Environmental Impact Report (FEIR), Mitigation Monitoring Reporting Program (MMRP) and Statement of Overriding Considerations (SOC), and all Project entitlements, including without limitation General Plan Amendment No. 11-026; Zone Change No. 11-016; Specific
+Plan Amendment No. 11-003; Development Agreement No. 11-002; Tentative Parcel Map
+No. 19156 (TPM No. 13-005). The County seek a writ to void the approval of the Project on
+the grounds that (1) the City failed to comply with the procedures and requirements of CEQA; (2) the FEIR failed to adequately analyze or mitigate the Project's potentially significant environmental impacts, including Air Quality, Biological Resources, Hydrology
+and Water Quality, Traffic, and Noise; (3) the FEIR failed to adequately describe the Project and its Environmental Setting; and (4) the City failed to analyze or adopt feasible alternatives that would reduce the Project's significant environmental impacts. In addition, the action to will also allege that the City failed to comply with applicable provisions of the Planning and Zoning Law (Government Code 65000 et seq.), the City of Fontana General Plan, and the Subdivision Map Act.
+
+A PROFESSIONAL LAW CORPORATION OAKLAND LOS ANGELES SACRAMENTO SANTA
+
+EXHIBIT A
+
+Ms. Tonia Lewis
+April 11, 2019
+Page 2
+
+The Petition being filed will seek the following relief:
+
+1. A writ of mandate pursuant to Code of Civil Procedure sections 1094.5 and 1085, ordering the City to set aside the Project Approvals and further ordering City to take no further action that is not in full compliance with provisions of the Government Code, CEQA, the Planning and Zoning Law, the Subdivision Map Act, the City's General Plan and Municipal Code;
+
+2 Preliminary, and permanent injunctive and declaratory relief to prevent commencement of any construction of the Project;
+
+3. An award of attorneys' fees under Code of Civil Procedure section 1021.5;
+
+4. An award of costs; and
+
+5. Such other and further relief as the Court may deem just and proper.
+The County urges the City to rescind all approvals granted for the Project, to conduct appropriate environmental review, and to prepare the necessary CEQA analysis for the Project as required by law.
+
+If you have any questions, please do not hesitate to contact me.
+
+Very truly yours,
+
+Axis
+
+Amrit S. Kulkarni
+Attorney at Law
+
+ASK:REM
+3213386.2
+
+A PROFESSIONAL LAW CORPORATION OAKLAND LOS ANGELES SACRAMENTO SANTA ROSA
+
+PROOF OF SERVICE
+
+2 STATE OF CALIFORNIA, COUNTY OF LOS ANGELES
+At the time of service, I was over 18 years of age and not a party to this action. Iam employed in the County of Los Angeles, State of California. My business address is 707 Wilshire 4 Blvd., 24th Floor, Los Angeles, CA 90017.
+
+5 On April 16, 2019, I served true copies of the following document(s) described as NOTICE TÒ ATTORNEY GENERAL OF COMMENCEMENT OF CEQA ACTION on the 6 interested parties in this action as follows:
+
+7 SEE ATTACHED SERVICE LIST
+
+8 BY MAIL: I enclosed the document(s) in a sealed envelope or package addressed to the persons at the addresses listed in the Service List and placed the envelope for collection and 9 mailing, following our ordinary business practices. I am readily familiar with Meyers, Nave, Riback, Silver & Wilson's practice for collecting and processing correspondence for mailing. On 10 the same day that the correspondence is placed for coilection and mailing, it is deposited in the ordinary course of business with the United States Postal Service, in a sealed envelope with 11 postage fully prepaid.
+
+12 I declare under penalty of perjury under the laws of the State of California that the
+
+13 foregoing is true and correct.
+
+14 Executed on April 16, 2019, at Los Angeles, California.
+
+15 tlolelae
+16 CLoupl HOLIDAE CRAWFORD
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL OF COMMENCEMENT OF CEQA ACTION
+
+SERVICE LIST
+County of San Bernardino v. City of Fontana, et al.
+2 CIVS1911476
+
+3 Tonia Lewis, City Clerk Respondents and Defendants City of Fontana City of Fontana
+4 8353 Sierra Avenue
+Fontana, CA 92335 City Council of the City of Fontana
+
+5
+UST-CB Partners, L.P.
+6 CT Corporation Service Real Party in Interest
+818 Seventh Street, Suite 930
+Los Angeles, CA 90017
+8 UST-CB Partners, L.P. c/o Estein & Associates USA, Ltd.
+9 4705 S. Apopka Vineland Road, Suite 201 Orlando, FL 32819
+10 Attn: Lance Fair
+Telephone: (407) 909-2220
+11
+
+12 Xavier Becerra, Esq. Office of the Attorney General Attorney General of the State of California
+13 300 South Spring Street Los Angeles, CA 90013-1230
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25 SEN5AI
+26
+
+27
+
+28 19
+
+NOTICE TO ATTORNEY GENERAL OF COMMENCEMENT OF CEQA ACTION
+
+g ./m3 ONIA3038 DNM13M00C CO4
+02 t E C: §8 (2 61OZ
+
+uemejeded 3730%V 807 MV8SND9 AZNJOLLV $3739NV S07 7V83N39 A3NHOLIY ueujeuor LE :Z M8 Gi RUV G102 9h :OI WV 81 MdV 6107 03A3038 CHOBINO ONI3X000
+
+DILIGENT SEARCH - TRANSMITTAL SLIP
+The attached document is being sent to you after a diligent search has been made in ProLaw by Docketing Unit (Room 5207) to determine the assigned attorney/division/section.
+
+TO: Sarah Morrison TO:
+
+CIVIL DIVISION
+Business and Tax PUBLIC RIGHTS DIVISION
+
+Correctional Law Environmental Law
+
+Employment & Admin. Mandates (EAM) Natural Resources Law
+Consumer Law
+Government Law
+Health, Education & Welfare (HEW) Antitrust Law
+
+Licensing Civil Rights Enforcement
+
+Tort & Condemnation Corporate Fraud
+
+Health Quality Enforcement (HQE) Indian and Gaming Law
+'Land:Law
+Solicitor General's Office (Sacramento) Tobacco Litigation/Enforcement
+Charitable Trusts
+FROM: Docketing Unit, Room 5207
+
+I searched By Case Name/Case Number,
+(See screen shot attached) Notes/Instructions
+
+Cierk's Docket Stamp Below:
+Docketed- Los Angeles
+APR 1 9 2019 By: s.Paxiao No. Nor Gourd m frolans
+
+******************************** :#:****
+
+FROM (SDAG Reviewer):
+
+Send To Unassigned Civil Misc:
+(SDAG's) Initials and date:
+
+Send To
+(Insert Name of Division or Section)
+Thank You!
+
+DECEIVET
+MAY : 3 2019
+
+BY:___________.

@@ -1,0 +1,1740 @@
+KARA GRANT LAW
+KARA E. GRANT, SBN 252825
+17595 Harvard, Suite C-202
+
+3 Irvine, CA 92614
+t | 949.579.9330
+
+4 e | kara@grant-law.net Attorneys for Petitioners
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+9 COUNTY OF ORANGE, CIVIL COMPLEX CENTER
+
+10
+
+11 SANTA ANA NEEDS EQUITY, an unincorporated association; WILLIAM CONKLIN, an individual; KARINA CASE NO. 30-2019-01104316-CU-WM-CXC
+
+12 RANGEL CONKLIN, an individual; YOON
+
+13 HEE CHOE, an individual,
+
+14 Petitioners, NOTICE TO ATTORNEY GENERAL
+
+V.
+
+15 CITY OF SANTA ANA; THE CITY
+16 COUNCIL OF THE CITY OF SANTA ANA;
+
+17 PLANNING COMMISSION OF THE CITY OF SANTA ANA; and DOES 1 through 20, inclusive,
+18 ASSIGNED: Hon. Peter Wilson
+
+19 Respondents. DEPT: CX102
+TRIAL DATE: TBA
+
+20 RICHARD KEITH FINKEL; BUNDY-
+FINKEL ARCHITECTS; RUSSELL
+21 FISCHER, LP; CHASE RUSSEL; and ROES
+
+22 through 20, inclusive,
+
+23 Real Parties in Interest.
+
+24
+
+25
+
+26
+27 28 SSS5
+
+NOTICE TO ATTORNEY GENERAL
+
+To the Attorney General of the State of California:
+
+PLEASE TAKE NOTICE, under Public Resources Code Section 21167.7, and Code of
+4 Civil Procedure Section 388, that on October 15, 2019, Petitioners Santa Ana Needs Equity, an
+
+5 unincorporated association, William Conklin, an individual, Karina Rangel Conklin, an individual,
+
+6 and Yoon Hee Choe, an individual (collectively, the "Petitioners") filed a Petition for Writ of
+
+7 Mandate for Violation of the California Environmental Quality Act ("CEQA") and Complaint for
+8 Injunctive Relief (the "Petition") against Respondents, the City of Santa Ana, a California
+9 Municipal Corporation, the City Council of the City of Santa Ana, and the Planning Commission
+10 of the City of Santa Ana (collectively, "Respondents") in the Orange County Superior Court. The
+11 Petition alleges that the following determinations/actions taken by Respondents violated the
+12 California Environmental Quality Act: (1) the determination that the commercial development
+13 project at Tustin Avenue and Fourth Street in Santa Ana, County of Orange, California (including
+14 the recently approved development of 325 N. Tustin Avenue and 301 N. Tustin Avenue) (the
+15 "Project") is categorically exempt from environmental review under CEQA as an in-fill
+16 development project pursuant to Section 15332 of CEQA (14 Cal. § Code Regs. § 15332); (2) the
+17 adequacy of the notice of the Planning Commission hearing concerning the Project; and (3) the
+18 determination that Respondents may approve the Project without further environmental review
+19 under CEQA and/or the preparation of a subsequent environmental review document, and without
+
+20 compliance with the Mitigated Negative Declaration and Mitigation Monitoring and Reporting
+21 Program previously adopted for the Project, as more fully described in the Petition. These
+22 determinations/actions were made in connection with the various Project approvals, including but
+23 not limited to, Conditional Use Permit ("CUP") No. 2019-30, CUP No. 2019-31, and Amendment
+24 to Variance No. 2018-10. A copy of the Petition is attached to this Notice as Exhibit A.
+25
+
+26
+
+27
+28 S55
+
+2
+NOTICE TO ATTORNEY GENERAL
+
+2 DATED: October 22, 2019 Respectfully submitted,
+
+3 KARA GRANT LAW
+
+By: Kauo
+a n Kara E. Grant Lst Attorneys for Petitioners
+
+:5 • 11
+12
+13
+14
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+23
+24
+
+25
+
+26
+
+27
+
+28
+
+2
+NOTICE TO ATTORNEY GENERAL
+
+EXHIBIT A
+
+Electronically Filed by Superior Court of California, County of Orange, 10/15/2019 08:00:00 AM. DAVID H. YAMASAKI, Clerk of the Court By Sarah Loose, Deputy Clerk. 30-2019-01104316-CU-WM-CXC ROA # 2
+
+1 KARA GRANT LAW
+KARA E. GRANT, SBN 252825
+2 17595 Harvard, Suite C-202
+
+3 Irvine, CA 92614
+t | 949.579.9330
+
+4 e | kara@grant-law.net Attorneys for Petitioners
+5
+
+6
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+COUNTY OF ORANGE
+
+10 SANTA ANA NEEDS EQUITY, an 11 unincorporated association; WILLIAM CASE NO. 30-2019-01104316-CU-WM-CXC
+CONKLIN, an individual; KARINA Assigned: Judge Peter Wilson
+
+12 RANGEL CONKLIN, an individual; YOON Dept:CX102
+HEE CHOE, an individual,
+13 VERIFIED PETITION FOR WRIT OF
+Petitioners, MANDATE FOR VIOLATION OF THE
+14 CALIFORNIA ENVIRONMENTAL
+V. QUALITY ACT ("CEQA") AND
+15 COMPLAINT FOR INJUNCTIVE CITY OF SANTA ANA; CITY COUNCIL 16 OF THE CITY OF SANTA ANA: RELIEF
+
+PLANNING COMMISSION OF THE CITY
+17 OF SANTA ANA; and DOES 1 through 20, inclusive,
+18
+Respondents.
+19
+
+20 RICHARD KEITH FINKEL; BUNDY-
+FINKEL ARCHITECTS; RUSSELL
+21 FISCHER, LP; CHASE RUSSEL; and ROES
+
+22 through 20, inclusive,
+
+23 Real Parties in Interest.
+
+24
+
+25
+26
+
+27
+
+28
+
+PETITION FOR WRIT OF MANDATE
+
+Petitioners Santa Ana Needs Equity (SANE), William Conklin, Karina Rangel Conklin and
+2 Yoon Hee Choe (collectively, "Petitioners"), allege the following:
+
+3 INTRODUCTION
+
+1. The City of Santa Ana, along with the developer, have attempted to evade
+5 environmental review under the California Environmental Quality Act ("CEQA") by analyzing
+
+6 and approving a project in piecemeal fashion. In 2016, the developer initially applied to obtain
+7 changes to the general plan and zoning (for multiple properties) so the developer could demolish
+
+8 all existing uses on 301 and 325 N. Tustin Avenue and build a new gas station, convenience store
+9 and retail building (the "Original Project"). The City was required to adopt a Mitigated Negative
+10 Declaration to comply with CEQA and granted the approvals requested. The City was required to
+11 adopt an MND because absent mitigation measures the Original Project would have a substantial
+12 limpact on the environment, including due to hazardous materials released during demolition of the
+13 existing structures and due to Native American cultural and historical resources during grading
+14 and construction. In 2019--at the last minute before development-the developer submitted a
+15 | "revised plan" which proposed to "replace" the proposed retail building on 301 N. Tustin with a
+16 massive automated car wash (the "Revised Project"). The City proceeded to ignore the portions of
+17 the project that had already been implemented-including the general plan and zoning changes-
+18 determined the Revised Project was categorially exempt from CEQA (which was not available
+19 |because of, among other things, the general plan and zoning changes) and abandoned the
+20 previously adopted MND as well as the Mitigation Monitoring and Reporting Program ("MMRP")
+21 adopted to implement the mitigation measures. Such a scheme is prohibited by CEQA.
+
+22 2. CEQA requires the City to conduct subsequent environmental review following the
+23 I MND based on the substantial changes to the project by the addition of the car wash. CEQA does
+24 not authorize the City to abandon the MND previously adopted. Moreover, even if CEQA
+25 allowed the City to evaluate the Revised Project anew, the City is required to include the entire
+26 project in the review, including the portions already completed such as the general plan and zoning
+27 amendments. When the entire project is included, the City is precluded from invoking the
+28 categorical exemption selected. Further, the addition of the car wash would have substantial
+
+2
+PETITION FOR WRIT OF MANDATE
+
+1 impacts on the environment requiring the preparation of an Environmental Impact Report ("EIR"),
+2 subsequent EIR, MND or subsequent MND. But even without the impacts from the car wash, the
+3 substantial environmental impacts identified as part of the original MND still apply to the Revised
+4 Project, which precludes the City from utilizing a categorical exemption for the Revised Project
+5 regardless of how it is analyzed.
+
+6 3. Petitioners seek a writ of mandate from this Court to set aside the Notice of
+7 Exemption, Environmental Review No. 2019-69 (the "NOE") filed by the City of Santa Ana, the
+
+8 City Council of the City of Santa Ana, the Planning Commission of the City of Santa Ana, and
+9 Does 1 through 20 (collectively referred to as, "Respondents" or the "City"), to set aside
+10 Respondents' determination that the Revised Project, including the Revised Project at 301 N.
+11 Tustin Avenue, Santa Ana, in the County of Orange, is categorically exempt from CEQA
+12 environmental review as an in-fill development project pursuant to 14 Cal. Code Regs. Sec.
+13 15332, and to order Respondents to conduct environmental review, including the preparation of an
+14 EIR, Subsequent EIR, MND, or Subsequent MND, as required by CEQA.
+
+15 4. This Petition also seeks to set aside all other approvals Respondents have granted
+16 for the Revised Project, including Conditional Use Permit No. 2019-30, Amendment to Variance
+17 No, 2018-10, and Conditional Use Permit No. 2019-31, for failing to comply with CEQA.
+
+18 5. In addition, this Petition requests that the Court compel Respondents to provide
+19 lpublic notice of all CEQA determinations, all public hearings or meetings discussing a CEQA
+20 determination with adequate time for the public to meaningfully participate, and further to provide
+21 notice to businesses and residents within a sufficient radius of the Revised Project so that
+22 interested parties may meaningfully prepare and appear to protect their interests, and Respondents
+23 may receive important input from the public, including those affected by the Revised Project.
+24 6. On September 9, 2019, Respondents improperly approved the Revised Project and
+25 filed the NOE the following day, September 10, 2019. Accordingly, this Petition is filed within
+26 the 35-day statute of limitations prescribed under CEQA section 21167(d).
+27 /// 28 ul
+
+3
+PETITION FOR WRIT OF MANDATE
+
+1 II. PARTIES, JURISDICTION AND VENUE
+
+2 7. Petitioner, Santa Ana Needs Equity (SANE), is an unincorporated association made
+3 up of residents, business owners and businesses in the City of Santa Ana with a geographic nexus
+4 to the proposed Revised Project. SANE is comprised of individual members, including the
+5 individual petitioners who reside, own property, or work in the vicinity of the Revised Project and
+6 are affected by the Project's environmental impacts as well as other impacts. SANE is organized
+7 to seek fairness and comprehensive economic and environmental equity in Santa Ana's urban
+8 planning, including protecting the interest of the residents, businesses and property owners from
+9 Ithe environmental impacts of the Revised Project and the failure to assess and mitigate
+10 environmental impacts.
+
+11 8. Petitioners William Conklin and Karina Rangel Conklin are concerned citizens who
+12 together own commercial property in Santa Ana, located at 2035 N. Tustin Avenue. Petitioners
+13 are also co-owners of a business at that property, called Speedie Clean Express Car Wash
+14| ("Speedie Wash"). Speedie Wash is located only 1.1 miles from the proposed Project on the same
+15 side of the same street. The Conklins and their business will be adversely affected by the Revised
+16 Project, including its environmental impacts. Petitioners' interests are unique and will be directly
+17 impacted by the Project. The Petitioners as well as the general public will suffer direct harm if
+18 Respondents are permitted to approve the Project without first conducting environmental review
+19 in violation of CEQA.
+
+20 9. Petitioner Yoon Hee Choe, DDS, is a concerned citizen who owns the property
+21 located at 171 N. Tustin Avenue, which is immediately adjacent to the proposed Revised Project.
+22 Petitioner Choe is a licensed dentist and operates a dental and medical practice in the office
+23 building on her property. Petitioner Choe has one tenant who operates a massage business.
+24 Petitioner Choe's interests are unique because of the extremely close proximity of the car wash
+25  tunnel to her building, where she operates a sensitive use, which cannot tolerate vibrations or
+26 noise, and thus will be directly and severely impacted by the environmental impacts of the
+27 Revised Project. According to the plans for the Revised Project, the 4,354-square foot car wash
+28 tunnel that is part of the Revised Project will run the entire length of the property boundary shared
+
+4
+PETITION FOR WRIT OF MANDATE
+
+1 with Petitioner Choe, and the distance between the exterior wall of the car wash tunnel on 301 N.
+2 Tustin Avenue, and the exterior wall of Petitioner Choe's dental office building on 171 N. Tustin
+3 Avenue is inches away, as shown in Real Party in Interest's elevations for the new massive car
+
+4 wash below.
+
+5
+
+Petitioner Choe's
+building and dental office
+a e 10
+11
+
+12
+13
+
+14
+
+15
+
+16 10. Respondents are the lead public agency that erroneously issued the challenged NOE,
+17 and subsequently took discretionary actions to approve the Revised Project.
+
+18 11. Petitioners are ignorant of the true names and capacities of the respondents named
+19 herein 1 as DOES 1 through 20, and therefore, names those respondents by such fictitious names.
+20 Petitioners will amend this Petition and Complaint to allege their true names and capacities when
+21 ascertained. The City of Santa Ana, the City Council of the City of Santa Ana, the Planning
+
+22 Commission of the City of Santa Ana, and Does through 20 are collectively referred to herein as
+23 "Respondents" or the "City".
+
+24 12. Real Party in Interest, Richard Keith Finkel of Bundy-Finkel Associates is identified
+25 as the "Applicant" on the challenged NOE.
+
+26 13. Real Party in Interest, Bundy-Finkel Associates is also identified as the "Applicant"
+27 on the challenged NOE.
+
+28 14. Real Party in Interest, Russell Fischer, LP, is identified as the "Applicant" on
+
+5
+PETITION FOR WRIT OF MANDATE
+
+1 various other Project documents, including but not limited to, the Notice of Public Hearing Before
+
+2 the Santa Ana Planning Commission, for the September 9, 2019 hearing on various entitlements
+
+3 for the Project.
+
+4 15. Real Party in Interest, Chase Russell is also identified as the "Applicant" on certain
+5 City documents in connection with the Project.
+16. Petitioners are ignorant of the true names and capacities of the real parties in interest
+7 named herein as ROES 1 through 20, and therefore, names those real parties in interest by such
+8 fictitious names. Petitioners will amend this Petition and Complaint to allege their true names and
+
+9 |capacities when ascertained. Richard Keith Finkel, Bundy-Finkel Associates, Russell Fischer LP,
+10 Chase Russell, and ROES 1 through 20 are collectively referred to herein as "Real Parties."
+
+11 17. Venue is proper in this Court as this lawsuit arises out of findings that the Project
+12 was exempt from environmental review under CEQA, that decision occurred within the County of
+13 Orange, by Respondents City of Santa Ana, and the Project at issue is located at 325 & 301 N.
+14 Tustin Avenue, in the City of Santa Ana, County of Orange.
+
+15 18. Respondents' actions and failures to act, which gave rise to this Petition, occurred in
+16 Orange County, California. The Project is located within Orange County, California. The
+17 environmental effects resulting from the Project will impact businesses and residents of the City of
+18 Santa Ana, located in the County of Orange.
+
+19 19. Petitioners provided Respondents written notice of the commencement of these
+20 proceedings prior to filing this Petition for Writ of Mandate in compliance with section 21167.5 of
+21 the Public Resources Code. A true and correct copy of the proof of service for that notification is
+22 attached to this Petition as Exhibit A.
+
+23 III. STANDING
+
+24 20. Petitioners have standing to assert the claims alleged in this Petition because they
+25 are beneficially interested in this matter, as required by Code of Civil Procedure section 1086.
+26 Petitioners have a direct and beneficial interest in Respondents' compliance with laws bearing
+27 upon approval of the Project. These interests will be directly and adversely affected by the
+28 Project, which violates the law as set forth in this Petition and would cause substantial harm to the
+
+6
+PETITION FOR WRIT OF MANDATE
+
+1 natural environment and the quality of life in the surrounding community and economic viability
+
+2 of surrounding businesses. In addition, unless the relief requested herein is granted, the
+3 environment will be adversely affected and injured by Respondents' failure to perform any
+4 environmental review of the Project under CEQA, and by approving the Project.
+
+5 21. Petitioners actively participated in the City's administrative approval process in an
+
+6 attempt to ensure Respondents complied with CEQA and all other applicable laws prior to the
+
+7 close of the September 9, 2019 public hearing on the Project, and before issuance of the NOE, and
+8 thus fully exhausted administrative remedies. (Pub. Resources Code, § 21177, subd. (a).)
+22. CEQA allows petitioner who objected to a project to allege in a writ petition all
+10 deficiencies asserted by others. (Citizens for Clean Energy v. City of Woodland (2014) 225
+11 Cal.App.4th 173, 191.) Petitioners and other interested individuals and businesses made oral and
+12 written comments that were submitted to the City before and at the September 9, 2019 Planning
+13 Commission hearing at which Respondents approved the Project.
+
+14
+
+15 IV. STATUTE OF LIMITATIONS
+
+16 23. A challenge to a determination that a project is exempt must be filed within 35 days
+17 after the notice of exemption was filed. (Pub. Res. Code § 21167(d); 14 Cal Code Regs §
+18 15112(c)(5).)
+
+19 24. Petitioners filed an appeal of Respondents NOE and Project approvals on September
+20 19, 2019, which will be heard by the City Council on October 15, 2019. Although Petitioners'
+21 |Appeal is still pending, Respondents filed a NOE concerning the Project on September 10, 2019,
+22 and thus triggered the 35-day statute of limitations to challenge a determination that the Project is
+23 exempt. (Pub. Res. Code § 21167(d).). Accordingly, Petitioners filed the instant Petition to
+24 preserve their rights to challenge the NOE and related determinations.
+
+25 25. Thus, Petitioners filed this Petition prior to the expiration of any applicable statute
+26 of limitations.
+27 ///
+28 /Il
+
+7
+PETITION FOR WRIT OF MANDATE
+
+1 V. PRIVATE ATTORNEY GENERAL DOCTRINE
+
+2 26. Petitioners bring this action as private attorney generals pursuant to Code of Civil
+3 Procedure section 1021.5, and any other applicable legal theory, to enforce important rights
+4 affecting the public interest.
+
+5 27. Issuance of the relief requested in this Petition will confer a significant benefit on
+
+6 the general public by requiring Respondents to carry out their duties under CEQA and other
+7 applicable laws before approving the Project.
+
+8 28. Issuance of the relief requested in this Petition will also result in the enforcement of
+
+9 important rights affecting the public interest by compelling Respondent to engage in a legally
+10 adequate analysis of the Project, and to ensure that the public has a meaningful opportunity. to
+11 review and comment on the impacts and mitigation measures for the Project.
+
+12 29. The necessity and financial burden of enforcement make an award of attorneys' fees
+13 appropriate in this case. Without this Petition, Respondents and Real Parties will proceed with
+14 development of a Project that will cause significant, unmitigated environmental impacts that might
+15 otherwise have been reduced or avoided through legally adequate environmental review, and the
+16 adoption of feasible mitigation measures.
+
+17
+
+18 VI. STATEMENT OF FACTS
+
+19 A. Uses of 301 And 325 N. Tustin Avenue Before the Proposed Project.
+20 30. Real Parties in Interest and project applicant have had a development project
+21 pending for the neighboring properties located at 325 N. Tustin Avenue and 301 N. Tustin Avenue
+22 since 2016. These properties are located in between the intersection of N. Tustin Avenue and
+23 Fourth Street and the 55 Freeway offramp into Santa Ana. Currently, a gas station with a small, a
+24 attached automated car wash, and a convenience store is located on 325 N. Tustin Avenue, as
+25 shown below.
+26 ///
+27 Il
+
+28
+
+8
+PETITION FOR WRIT OF MANDATE
+
+2
+
+3
+
+11ENE1R.m1AL DI
+
+ni
+
+10
+
+11 31. Until approximately June 2019, a single building operated as a restaurant was
+12 located on 301 N. Tustin Avenue. A photo of 301 N. Tustin Avenue with the restaurant and the
+13 adjacent properties (the gas station to the left, and a dentist's office and massage business to the
+14 right) is shown below.
+
+15
+
+a res 16
+
+17
+
+18
+
+19
+
+20
+
+21 8 & * 25
+26
+
+27 ///
+28 /ll
+
+PETITION FOR WRIT OF MANDATE
+
+B.
+
+2 Russel Fisher Proposes the Original Project
+32. In 2016, Real Party in Interest, Richard Finkel, representing Real Party in Interest
+3 and Project Applicant, Russell Fischer LP - a car wash owner and developer that has "been in the
+car wash industry for 30 years and operates six locations in Orange County" - originally submitted
+5 applications to the City for the following:
+
+6 a. "a general plan amendment to re-designate the property at 301 North Tustin
+Avenue from Professional and Administrative Office (PAO), to General
+Commercial (GC), and amendment application to rezone the properties at 301 and
+
+10 b. 325 North Tustin Avenue from Professional (P) to General Commercial."
+
+11 To demolish the restaurant at 301 North Tustin and build a "multi-tenant
+
+12 commercial building with a drive-through window service."
+
+13 c. To demolish the existing uses at 325 North Tustin-a small gas station,
+
+14 convenience store and small car wash - and build a larger gas station and large
+
+15 convenience store (hereinafter, the "Original Project").
+33. Meetings were held to explain the Original Project to the public, particularly nearby
+16 businesses and residents. A Sunshine Ordinance Community Meeting for the Original Project was
+
+17 held on December 13, 2016, because approval of that project required a General Plan Amendment
+18 to re-designate 301 N. Tustin Avenue from Professional & Administrative Office to General
+19 Commercial, and a Zoning Amendment to rezone 301 N. Tustin Avenue and 325 N. Tustin
+20 Avenue from Professional to General Commercial (C2). The Sunshine Meeting notice provided
+21 as follows:
+
+22 (/
+23
+24
+25
+
+26
+
+27
+
+28 SSSSSS
+
+10
+PETITION FOR WRIT OF MANDATE
+
+WNF Rresel Tiches
+
+Russell Fischer Partnership 16061 Beach Boulevard
+
+5 Huntington Beach, CA 92647 (714) 842-4453
+Cordially invites you to a Community Information meeting for:
+
+7
+301 & 325 N Tustin Ave.
+
+A proposed new commercial center including a Gas Station with a 2,800
+
+10 s.f. Convenience Store and a 7,500 s.f. Multi-tenant Retail Building.
+
+11 Date: Meeting Information
+Tuesday, 12/13/16
+
+12 Location: El Ranchito Restaurant 2201 E First St,
+Santa Ana
+
+13 Tima• 5•30 n m ta R•30 n m
+
+14
+
+15 34. Respondents posted the following mockup for the Original Project on its website:
+
+16
+17
+18
+
+19
+
+20
+21 A
+
+22
+
+23
+
+24 Russell Fischer Commercial Center
+301-325 N. Tustin Avenue. View Project Info
+
+25 General Plan:
+PAD (Professional & Administration Office)
+
+Zoning:
+
+26 P (Professional)
+
+27
+
+28
+
+11
+PETITION FOR WRIT OF MANDATE
+
+C. The City Conducts CEQA Environmental Review for the Original Project
+
+2 35. In a letter to Respondents dated June 12, 2018, Mr. Andrew Salas, Chairman of the
+3 Gabrieleño Band of Mission Indians - Kizh Nation (the "Mission Indians Letter"), requested a
+consultation regarding the Original Project pursuant to Senate Bill 18 (SB 18), Government Code
+5 Section 65352.3. The Mission Indians Letter states in pertinent part, that the Original Project "lies
+
+6 within our ancestral tribal territory, meaning descending from, a higher degree of kinship than
+7 traditional or cultural affiliation. Your project is located within a sensitive area and may cause a
+8 substantial adverse change in the significance of our tribal cultural resources . .. to avoid adverse
+9 effects to our triable cultural resources, we would like to consult with you and your staff to
+10 provide you with a more complete understanding of the prehistoric use(s) of the project area and
+11 the potential risks for causing a substantial adverse change to the significance of our triable
+12 cultural resources."
+
+13 36. Respondents conducted environmental review of the Original Project, and finding
+14 the project could have a significant environmental impact on tribal cultural resources at 325 and
+15 301 N. Tustin Avenue, Respondents adopted the MND and MMRP to safeguard those resources
+16 during construction of the Revised Project. The Gabrieleño Mission Indians identified 301 & 325
+17 N. Tustin a Avenue as a sensitive location in light of their oral and written history, identified it as
+18  such for Respondents, and informed Respondents that "to avoid adverse effects to [their] tribal
+19 cultural resources," through mandatory environmental review and a mitigation monitoring and
+20 reporting program to avoid "the potential risks for causing a substantial adverse change to the
+21 significance of [their] tribal cultural resources."
+
+22 37. Respondents prepared an Initial Environmental Study in connection with the
+23 Original Project. The Initial Study found "at least one impact that is either *Potentially Significant
+24| Impact' or 'Less Than Significant with Mitigation Incorporated" including Cultural Resources,
+25 Hazards and Hazardous Materials, Tribal Cultural Resources and Mandatory Findings of
+26 Significance. In August 2018, Respondents made a determination based on the Initial Study that
+27 " the proposed project could have a significant effect on the environment, there will not be a
+28 significant effect in this case because the mitigation measures described on an attached sheet have
+
+12 PETITION FOR WRIT OF MANDATE
+
+1 been added to the project. A MITIGATED NEGATIVE DECLARATION will be prepared."
+2  (italics added.)
+
+3 38. Respondents found that there were a number of items that would result in a
+4 significant impact on the environment and it was only less than significant with mitigation
+5 measures that would be imposed as part of the MND. Respondents found that absent the
+6 mitigation measures the project would "cause a substantial adverse change in the significance of
+7 an archeological resource," "directly or indirectly destroy a unique paleontological resource or site
+
+8 or unique geological feature," and "disturb any human remains including those interred outside of
+9 formal cemeteries." Respondents also found that absent required mitigation measures, the project
+10 would "create a significant hazard to the public or the environment through the routine transport,
+11 use, or disposal of hazardous materials," "create a significant hazard to the public or the
+12 environment through reasonably foreseeable upset and accident conditions involving the release of
+13 hazardous materials into the environment" and "emit hazardous emissions or handle hazardous or
+14 acutely hazardous materials, substances, or waste within on-quarter mile of an existing proposed
+15 school."
+
+16 39. As part of the Original Project (as part of the Revised Project), 325 and 301 North
+17 Tustin were to be graded and the MND and MMRP required Real Parties to hire an expert to
+18 perform a CEQA analysis for any archaeological, paleontological or geologic discoveries and to
+19 excavate them appropriately. Similarly, Real Parties were required to allow an archaeologist to
+20 evaluate and perform any required analysis of any discovered burial sites or sacred lands. In
+21 addition, prior to commence of construction, Real Parties were required to "retain a Native
+22 American Monitor to conduct a Native American Indian Sensitivity Training for construction
+23| personnel" and "retain a Native American Monitor to be on-site during all project related, ground
+24 disturbing construction activities (e.g. pavement removal, auguring, boring, grading, excavation,
+25 potholing, trenching, and grubbing).'
+
+26 40. Prior to demolition, Real Parties were required to conduct an asbestos survey, to
+27 remove all asbestos as required and prepare an abatement report. Real Parties were also required
+28 to remove all lead-based paint as specified.
+
+13
+PETITION FOR WRIT OF MANDATE
+
+41. Further, as part of the Initial Study, Respondents were required to èvaluate whether
+2 the project would result in exposure of persons to or generation of excessive groundborne
+
+3 vibrations or noise levels, if the project would expose people or generate noise levels in excess of
+4 standards established in the local general plan or noise ordinance, or applicable standards of other
+5 agencies, and whether the project would create a substantial temporary or periodic increase in
+6 ambient noise levels in the project vicinity above levels existing without the project. Respondents
+7 conducted these evaluations as part of the Initial Study for the retail building, not the car wash.
+8 Based on the retail building (and without considering a car wash), Respondents found these items
+
+9 I to have a less than significant impact.
+
+10 D. Respondents Approve the Original Project Along with a Mitigated Negative
+11 Declaration and Mitigation Monitoring And Reporting Program
+
+12 42. In 2018, two years after the Original Project was proposed, Respondents prepared a
+13 Mitigated Negative Declaration, Environmental Review No. 2016-156 for the Original Project (the
+14  "MND"), as well as a Mitigation Monitoring and Reporting Program (the "MMRP"). The MND
+15 concluded that the Original Project would have a less than significant environmental impact with
+16 implementation of mitigation measures to address tribal and cultural resources, and hazards,
+17 including asbestos and lead-based paint:
+
+18 i. "The [Original] Project site will be graded prior to construction, and if
+
+19 during grading, it is revealed that previously unidentified archaeological,
+20 paleontological or geologic deposits exist, an expert appropriate to the
+21 nature of the find must be afforded the opportunity to evaluate any
+22 additional finds and to complete an analysis in accordance with CEQA
+23 guidelines, as amended."
+
+24 ii. "If future activities in project site adversely impact previously unidentified
+25 cultural resources, including burial sites or sacred lands, an archaeologist
+26 will be afforded the opportunity to evaluate any additional finds and to
+27 complete an analysis in accordance with CEQA guidelines, as amended."
+28 iii. "Due to the age of the existing building, there is a potential that asbestos
+
+14
+PETITION FOR WRIT OF MANDATE
+
+containing materials (ACM) and, perhaps, lead- based paint (LBP) may be
+
+2 present. Exposure to either ACM or LBP may expose construction workers
+
+3 and people in the vicinity of the project site to potential health risks."
+43. Respondents adopted the MND and MMRP on or about November 20, 2018, and
+5 approved the Original Project. Respondents specifically approved: (a) a resolution approving
+
+6 |general plan amendment No. 2018-05 to re-designate 301 N. Tustin Avenue from Professional &
+7 Administrative Office (PAO) to General Commercial (GC), per Real Parties' request; (b) an
+8 ordinance approving General Plan amendment 2018-08 to rezone 301 and 325 North Tustin
+9 Avenue from Professional to General Commercial (C2); (c) a conditional use permit to allow an
+10 eating establishment with drive-through service at 301 N. Tustin Avenue; and (d) certain variances
+11 that pertained to 325 N. Tustin Avenue only.
+
+12 E. The Developer Demolished the Restaurant on 301 N. Tustin Avenue which
+
+13 Disrupts Petitioner's Dental Business
+
+14 44. Petitioners are informed and believe that in or about February 2019 and May 2019,
+15 the City approved permits to demolish the restaurant on 301 N. Tustin Avenue and Real Parties
+16 demolished the restaurant thereafter.
+
+17 45. Months ago, and with no prior notice to Petitioner Choe, Real Parties began
+18 I demolition of the restaurant building on 301 N. Tustin Avenue. The building was located roughly
+19 in the middle of the site. The demolition caused such severe, jarring vibrations inside Petitioner
+20 Choe's building, and such loud noise inside her building, that patients were scared and decided not
+21 to continue their treatment, Petitioner Choe could not perform the exams or use sensitive, delicate
+22 dental treatments because of the jarring vibrations, and because it prevented Petitioner Choe from
+23 being able to focus on the precise medical tasks she was performing. During demolition,
+24 Petitioner Choe was forced to close her dental practice early, start late, or was unable to take any
+25 patients at all because the severe vibrations and noise made it impossible to do so.
+
+26 46. Petitioners' tenants who operate a massage business in Petitioner Choe's building
+27 on 171 N. Tustin Avenue, were also prevented from operating their business on several occasions
+28 during the restaurant demolition on 301 N. Tustin Avenue, due to the extreme noise and vibrations
+
+'15
+PETITION FOR WRIT OF MANDATE
+
+1 heard and felt from inside the building. After one day of demolition, Petitioner Choe found a
+2 vertical crack in an interior wall in an exam room that spans from the ceiling to the floor. This
+3 crack was not there prior to the demolition of the restaurant building.
+
+4 47. Petitioners are informed and believe that the demolition was done without
+
+5 compliance with the mitigation measures imposed pursuant to the MND. Further, neither the City
+6 nor Real Parties have provided any evidence of such compliance.
+
+7 F. With Only 10 Days-Notice to a Handful of Properties, the City Proposes to
+
+8 Approve the Developer's Revised Project with a Massive Car Wash Instead
+of a Retail Building and Find The Revised Project Categorically Exempt
+10 from CEQA
+
+11 48. Nine months after the Original Project was approved, Respondents posted and
+12 mailed to only a handful of properties a "Notice of Public Hearing before the Santa Ana Planning
+13 Commission," dated August 30, 2019 (the "August 30th Notice"). Respondents' August 30th
+14 Notice was the very first time Respondents informed the public that the project referred to by
+15 Respondents as the "Russell Fischer Commercial Center" and approved for 325 and 301 N. Tustin
+16 Avenue the year prior, no longer included the Retail/Restaurant development on 301 N. Tustin
+17 |Avenue, but instead, "[s]ince the zone change, the property owner has revised the project" to
+18 I"substitute" a massive, automated carwash on 301 North Tustin, including a 4,354 square foot car
+19 wash tunnel and 20 vacuum bays, for the approved retail building. The service station and
+20 convenience store plans for 325 N. Tustin Avenue were unchanged.
+21 49. The August 30th Notice stated that the Planning Commission would hold a Public
+22 Hearing on September 9, 2019, and take action on three items for the "revised" project, which was
+23 described as follows: "The applicant proposes to demolish the existing service station, car wash,
+24 and convenience store to construct a new service station with 3,040-square foot convenience store
+25 and new automated car wash. The project includes a request for (1) Conditional Use Permit No.
+26 2019-30 to allow a car a wash, (2) amendment to Variance No. 2018-10 to allow a reduction in the
+27 City's yard standards, and (3) Conditional Use Permit No. 2019-31 to allow a convenience store to
+28 operate 24 hours a day."
+
+16
+PETITION FOR WRIT OF MANDATE
+
+50. The August 30th Notice also stated that the Revised Project was categorically
+
+2 exempt from CEQA environmental review as an in-fill development project:
+
+3 "[T]he project is categorically exempt from further environmental review pursuant
+
+4 to CEQA Guidelines Section 15332, Class 32, In-fill Development Projects. This exemption applies to in-fill development provided it is consistent with the General Plan and zoning designation. The combined development site is 1.46 acres and surrounded by urban uses. The site was previously developed with commercial uses and has no habitat for endangered, rare or threatened species. The project will not result in any significant impacts related to traffic, noise, air quality or water quality according to the traffic impact analysis and with implementation of water quality requirements."
+
+9 51. Thus, even though Respondents determined in late 2018 that the Original Project for
+10 301 N. Tustin Avenue required environmental CEQA review and adopted the MND and MMRP,
+11 in part because 301 N. Tustin Avenue was found to be located "within a sensitive area and may
+12 cause a substantial adverse change in the significance of [the Gabrieleno Band of Mission Indians
+
+13 Kizh Nation's] tribal cultural resources," Respondents determined that the Revised project by
+14 substituting a massive car wash in the place of the retail building on 301 N. Tustin Avenue would
+15 have no significant effect on the environment and did not need to comply with the previously
+16 adopted MND. Accordingly, Respondents both posted and filed the Notice of Exemption for the
+
+17 Revised Project on September 10, 2019.
+
+18 G. The City Concealed the Revised Project From Petitioners and the Public
+
+19 52. Prior to Respondents publishing and distributing the August 30th Notice, certain
+20 Petitioners inquired about the project development at 301 N. Tustin Avenue because it was well
+21 known that the property owner, Real Party in Interest Russell Fischer, LP, owned six (6) car
+22 washes in Orange County, and Real Party in Interest Richard Finkel of Bundy-Finkel Associates,
+23 is a car wash developer that sits on the board of the Irvine Advisory Group - Carwash Consultants
+
+24 "a consultancy headed by Paul Dadgar that has specialized in all facets of the carwash industry
+25 for over 25 years." Accordingly, astute residents and business owners like Petitioners found it
+26 curious that a car wash owner and a car wash developer would tear down the existing car wash on
+
+27 325 N. Tustin Avenue, and develop on 301 N. Tustin Avenue a multi-tenant commercial retail
+28 center with restaurant.
+
+17
+PETITION FOR WRIT OF MANDATE
+
+53. Petitioner, Karina Conklin, visited the City Planning Department in person in early
+2. July 2019, and specifically inquired as to whether the development at 301 N. Tustin Avenue had
+3 changed from the Original Project approved by Respondents to a project involving a car wash.
+
+4 Respondents informed Ms. Conklin that only the 2018 Original Project was before the City, and
+
+5 referred her to the information page for the "Russell Fischer Commercial Center" on the City's
+
+6 website. (See https://www.santa-ana.org/pb/planning-division/major-planning-projects-and-
+7| documents/russell-fischer-commércial-center). Petitioner Conklin, as a concerned Santa Ana
+
+8 business owner, requested Respondents to inform her if the project changed. Despite Petitioner
+
+9 Conklin's request, Respondents did not include her in the notification list for the August 30th
+10 Notice, which was distributed only to those within 500 feet of the Revised Project.
+
+11 54. Contrary to the City's representation to Petitioner Conklin, Respondents received
+12 new development plans replacing the Retail/Restaurant portion of the project on 301 N. Tustin
+13 Avenue with the massive Revised Project on April 26, 2019. Respondents also received payment
+14 from Real Party in Interest and applicant Russell Fischer for review of the Revised Project on
+15 April 26, 2019. Moreover, Respondents' Planning Department submitted a "Discretionary Action
+16 New Submittal" memo to various City departments on May 1, 2019 regarding the newly proposed
+17 Revised Project for 301 N. Tustin Avenue. Respondents also received a "Revised Focused Traffic
+18 Impact Analysis Report" from Real Parties in Interest for the Revised Project on or about May 17,
+19 |2019. Respondents' project page for the "Russell Fischer Commercial Center" on the City's
+20 website reflected the Original Project until August 29, 2019, when the Revised Project was finally
+21 displayed - four months after Respondents received development plans and payment for the
+22 Revised Project.
+
+23 55. Respondents took active measures to conceal the evolution of the project at 301 N.
+24 Tustin Avenue from the Original Project that, for over three (3) years, had been explained to the
+25 public, discussed at numerous City meetings and hearings, shown to the public with site plans and
+26 project mock ups, and displayed on the project page on the city's website as the Russell Fischer
+27 Commercial Center up until ten (10) days before the September 9th hearing. Moreover,
+28 Respondents should have informed Petitioners that the project at 301 N. Tustin Avenue did in fact
+
+18
+PETITION FOR WRIT OF MANDATE
+
+1 include a car wash when Petitioner expressly inquired in early July. These factors evidence that
+2 the ten day notice distributed only to those within 500 feet of the Revised Project was not intended
+
+3 to inform the public, but rather to conceal the drastic change in the project for 301 N. Tustin
+4 Avenue. If Petitioners were provided adequate notice, they could have obtained experts, had
+5 necessary studies conducted regarding the Revised Project, submitted Public Records Act requests
+
+6 |for project documents and materials, and had time to review and analyze the documents and plans
+7 for the newly proposed Revised Project, before the September 9th hearing. Respondents denied
+8 Petitioners of this opportunity and the result was prejudicial to them.
+
+9 H. Petitioners Submit Written Oppositions and Speak at the Hearing in
+
+10 Opposition
+
+11 56. Prior to the September 9, 2019 hearing on the Revised Project before Respondent's
+12 Planning Commission, Petitioner Choe submitted written comments opposing the Revised Project
+13 stating her concerns over the impact of noise and vibrations on her dental practice because of the
+14 sensitive nature of her work and her medical equipment, as well as her tenant's massage business.
+15 57. Petitioners William Conklin and Karina Conklin also timely submitted written
+16 comments in opposition prior to the hearing addressing, among other things, Respondents'
+17 violation of CEQA. Petitioners also objected that the August 30th Notice was insufficient to afford
+18 linterested persons like themselves an adequate opportunity to prepare and protect their interests.
+19 Petitioners requested that the hearing being continued so that interested parties may have sufficient
+20  time to obtain and review the project materials for the newly Revised Project, but Respondents'
+21 Planning Commission denied that request.
+
+22 58. Petitioner Choe appeared in person at the September 9, 2019 Planning Commission
+23 hearing and voiced her concerns to the Board of Commissioners over the significant
+24 environmental impacts the Revised Project will have on her property and business as an
+25 immediately adjacent, and uniquely sensitive use.
+
+26 59. Petitioners William and Karina Conklin spoke in opposition to the Revised Project
+27 at the September 9th hearing through their representative.
+28 ///
+
+19
+PETITION FOR WRIT OF MANDATE
+
+I. Respondents' Planning Commission Approves the Revised Project and
+
+2 Finds it Exempt From CEQA
+
+3 60. At the September 9, 2019 hearing, the City's Planning Commission approved the
+4 Revised Project by granting two conditional use permits, amending a variance issued for the
+
+5 Original Project, and adopting Notice of Exemption, Environmental Review No. 2019-69, finding
+6 the Revised Project categorically exempt from CEQA environmental review pursuant to Section
+7 15332 for certain infill developments.
+
+J. The City Posts and Files a Notice of Exemption for the Revised Project
+
+9 61. On September 10, 2019, Respondents both filed and posted the NOE for the
+10 |Revised Project, which stated the Project was categorically exempt from CEQA review pursuant
+11 to Section 15332. The NOE states the following under "Reason(s) Why Project Is Exempt From
+12 CEQA:" "The project is consistent with the General Plan and zoning designation. The site is 1.46
+
+13 acres and surrounded by urban uses. The site was previously developed and has no habitat for
+14 endangered, rare or threatened species. The project will not result in any significant impacts
+15 related to traffic, noise, air quality or or [sic] water quality." Respondents did not make a single
+16 reference to the potential for cultural resources or tribal cultural resources on 325 and 301 N.
+17 Tustin Avenue, after August 30, 2019, when the project proposed with the car wash publicly
+18 became the Revised Project. Respondents also did not mention the hazardous substances that
+
+19 could be released into the air from demolition, including asbestos and lead-paint.
+
+20 K. Petitioners File an Appeal to the City Council but the City Refuses to
+
+21 Withdraw the NOE Pending the Hearing
+
+22 62. On September 19, 2019, Petitioners filed an appeal of the City's Planning
+23 Commission's approvals of the Revised Project, including the categorical exemption
+24 determination to the City Council.
+
+25 63. California Public Resource Code section 21151 requires the City to provide an
+26 appeal of the Planning Commission's categorical exemption determination to the City Council.
+27 The City's CEQA guidelines provide for such an appeal as well.
+28 ///
+
+20
+PETITION FOR WRIT OF MANDATE
+
+64. Petitioner requested that the City withdraw the NOE in light of the appeal to the
+2 City Council, but the City refused.
+
+3 65. The City's refusal to withdraw the NOE pending the hearing on the appeal
+
+4 necessitated this writ petition in light of the 35-day statute of limitation to challenge an NOE
+5 pursuant to Section 21167(d) of the Public Resources Code.
+
+L. The City Engages in Prohibited Piecemealing and Fails to Conduct
+
+7 Subsequent Environmental Review
+
+8 66. "The foremost principle under CEQA is that the Legislature intended the act 'to be
+9 interpreted in such manner as to afford the fullest possible protection to the environment within
+10 the reasonable scope of the statutory language.' (Laurel Heights Improvement Assn. v. Regents of
+11 University of California (1988) 47 Cal.3d 376, 390 [citing Friends of Mammoth v. Board of
+12 Supervisors (1975) 8 Cal.3d 247, 259].)
+
+13 67. To that end "CEQA forbids 'piecemeal' review of the significant environmental
+14 impacts of a project." (Berkeley Keep Jets Over the Bay Com. v. Board of Port Comrs. (2001) 91
+15 Cal.App.4th 1344, 1358.) "This standard is consistent with the principle that "environmental
+16 considerations do not become submerged by chopping a large project into many little ones-each
+17 with a minimal potential impact on the environment-which cumulatively may have disastrous
+18 consequences. (Laurel Heights, supra, 47 Cal.3d at p. 396.)
+19 68. Respondents engaged in unlawful piecemealing of the Project in blatant violation of
+20 CEQA by omitting portions of the project for which an MND and MMRP were previously
+21 adopted, approving modifications to the Original Project without further environmental review,
+22 and then carving out handpicked portions from the Revised Project. Respondents then defined
+23 those handpicked selections as the "project" in order to avoid necessary further environmental
+24 review, as well as compliance with the mitigation measures Respondents required for the Original
+25 Project via the MND and MMRP. The Petitioners as well as the general public will suffer grave
+26 harm if Respondents are permitted to continue morphing the Project, via piecemeal modifications,
+27 and ultimately permit development of that Project without necessary mitigation measures, as they
+28 have currently attempted and actually begun to do.
+
+21 PETITION FOR WRIT OF MANDATE
+
+1 69. For purposes of CEQA coverage, a "project" is defined as comprising "the whole of
+2 an action" that has the potential to result in a direct or a reasonably foreseeable indirect physical
+
+3 change to the environment. (14 Cal Code Regs §15378(a).) Thus, the term "project" refers to the
+4 activity for which approval is sought, not to each separate governmental approval that may be
+5 required for the activity to occur. (14 Cal Code Regs §15378(c).) Accordingly, the lead agency
+
+6 must describe the project to encompass the entirety of the activity that is proposed for approval to
+7 ensure that all potential impacts of the proposed project will be examined before it is approved.
+8 | (14 Cal Code Regs §15378(a), (d).) An initial study that fails to describe the entire project is
+
+9 /fatally deficient: "[A] correct determination of the nature and scope of the project is a critical step
+10 in complying with the mandates of CEQA." (Nelson y County of Kern (2010) 190 Cal.App.4th
+11 252, 267 [county violated CEQA by not including new surface mining as part of project when
+12. county was required to approve mining in addition to reclamation plan].)
+13 70. In the August 9, 2018 Initial Study completed for the for the Project, Respondents
+14 defined the originally proposed project, which was the evaluated for environmental impacts, to
+15 include five (5) actions: (1) Development Project Approval for 325 N. Tustin Avenue and 301 N.
+16 Tustin Avenue; (2) Conditional Use Permit for drive through services on 301 N. Tustin Avenue;
+17| (3) Variance application for reduced landscape setback at 325 N. Tustin Avenue; (4) General Plan
+18 Amendment to revise land use designations of two parcels from Professional Administration
+19 Office to General Commercial; and (5) Amendment Application to change the zoning of four
+20 Iparcels from Professional to General Commercial (C2). (Initial Study, p. 10.) Respondents
+21 described the Original Project as follows:
+22 "The proposed project will facilitate the redevelopment of a site with a 2,778-square
+23 foot gas station convenience store, a 2,117-square foot gas pump canopy, and a
+24 7,417-square foot multi-tenant retail building on two parcels totaling 1.46 acres in
+
+25 the City of Santa Ana. The proiect also includes a General Plan Amendment to the
+
+26 Land Use Plan Map, an Amendment Application (zone change) to the Zoning Map
+27 on two properties of the Tustin Avenue Retail Development Project site (1.46 acres)
+28 and three adjacent properties (2.78 acres), which together will be known as the Tustin
+
+22
+PETITION FOR WRIT OF MANDATE
+
+Avenue Retail Project site and total approximately 4.24 acres." (Initial Study, p. 4.)
+
+2 71. Respondents expressly describe the Original Project to include "the demolition of
+3 the existing gas station, gas canopy, and carwash at 325 N. Tustin Avenue and demolition of the
+existing restaurant building at 301 N. Tustin Avenue." (Initial Study, p. 10.)
+
+5 72. Respondents September 24, 2018 staff report to the Planning Commission
+
+6 concerning the Original Project recommended approval of the General Plan Amendment sought by
+7 Real Parties in Interest because it would "create an approximately 4-acre General Commercial
+8 area at the northeast and southeast corners of Tustin Avenue and Fourth Street," and the zone
+9 change because it would "create a continuous block of commercial uses that will stimulate the
+10 economy in the area.' (Staff Report, September 24, 2018.)
+
+11 73. The "Determination" reported by Respondents in the Initial Study was that the
+12 Original Project would have a less than significant effect on the following environmental areas
+13 with mitigation measures incorporated: cultural resources, hazards and hazardous materials, and
+14  tribal cultural resources. It follows then that without these mitigation measures, the Original
+15 Project will have a significant effect on these environmental areas. The specific mitigation
+16 measures adopted for the Original Project are discussed supra in this Petition.
+
+17 74. Thereafter, Respondents prepared the MND for the Original Project,' as well as the
+18 MMRP (SCH # 2018081033). Respondents (City Council) adopted Resolution No. 2018-081
+19 adopting the MND and MMRP on November 20, 2018. The Resolution states that the MND
+20|"concluded that the [Original] [P]roject would have a less than significant environmental impact
+21 with implementation of mitigation measures. Mitigation measures are included to address cultural
+22 resources, hazards, and tribal and cultural resources." The Resolution further states that the "City
+23 Council has, as a result of its consideration and the evidence presented at the hearings on this
+24 matter, determined that, as required pursuant to the California Environmental Quality Act (CEQA)
+
+25
+
+26 To date, Petitioner have been unable to review the MND because Respondents have failed to produce the
+27 MND in response to a Public Records Act Request submitted by Petitioners on September 12, 2019, as well as several other informal requests. The MND is not available on the City's website, nor is it available on 28 the State Clearinghouse Website.
+
+23
+PETITION FOR WRIT OF MANDATE
+
+1 and the State CEQA Guidelines, the MND adequately addresses the expected environmental
+
+2 impacts of this [Original] [P]roject."
+
+3 75. On or about May 20, 2019, Real Parties in Interest applied for, and Respondents
+4 issued, a demolition permit for the demolition of the restaurant building on 301 N. Tustin Avenue.
+5 The demolition occurred in approximately June 2019 and has since been completed.
+
+6 76. On September 10, 2019, Respondents filed and posted the NOE (Notice of
+7 Exemption, Environmental Review No. 2019-69), which states the "project" is categorially
+
+8 exempt from CEQA review pursuant to Section 15332 of the CEQA Guidelines, as in-fill
+
+9 development project. In the NOE, Respondents now define the "proposed project" as:
+10 "Demolition of the existing service station, car wash and convenience store to construct a new
+11 service station with 3,040-square foot convenience store and new automated car wash."
+
+12 77. The "project" as defined in the NOE deviates significantly from the Original
+13 Project, for which the Initial Study, MND and MMRP were adopted. The revised "project" adds
+14 the following: (1) Application for Conditional Use Permit No. 2019-30 to allow a car wash on 301
+15 N. Tustin Avenue; (2) Application for Amendment to Variance No. 2018-10 to allow a reduction
+16 in the City's yard standards for 301 N. Tustin Avenue because Variance No. 2018-10 only applied
+17 to 325 N. Tustin Avenue the retail/restaurant development on 301 N. Tustin Avenue did not
+a 18 require a variance; and (3) Application for Conditional Use Permit No. 2019-31 to allow a
+19 convenience store to operate 24 hours a day. The project location is identified in the NOE as 301
+20 N. Tustin Avenue and 325 N. Tustin Avenue, which are now referenced as within "the General
+21 Commercial (C2) zone."
+
+22 78. Respondents improperly omit the following major components of the Original
+23 Project from the revised project description: (1) General plan amendment No. 2018-05 to change
+24 the designation of the 301 N. Tustin Avenue, 431 N. Tustin Avenue, and 2321 East Fourth Street
+25 to General Commercial; (2) Zoning Amendment Application No. 2018-08 to change the zoning of
+26 the properties at 301 N. Tustin Avenue, 325 N. Tustin Avenue, 401 N. Tustin Avenue, and 2320
+27 East Fourth Street to C2; (3) the retail and restaurant development on 301 N. Tustin Avenue; (4)
+28 Variance No. 2018-10 to allow reduction in the City's yard standards; and (5) demolition of the
+
+24
+PETITION FOR WRIT OF MANDATE
+
+1 restaurant building on 301 N. Tustin Avenue.
+
+2 79. Respondents' revised project definition set forth in the NOE is a blatant attempt to
+
+3 circumvent CEQA by piecemealing the project, and by avoiding subsequent environmental review
+
+4 required by CEQA when project undergoes significant modifications after initial MND approval.
+5 These unlawful and prejudicial efforts are evident from the record. For instance, Respondents
+
+6 erroneously assume that the project is located on properties zoned C2, and a with a General Plan
+7 designation of General Commercial, when these applications and approvals were major
+
+8 components of the Original Project. In fact, development of the proposed car wash on 301 N.
+9 /Tustin Avenue could not occur without those approvals.
+
+10 80. Per the NOE, Respondents improperly abandoned the MND and the MMRP adopted
+11 for the Original Project only months before, and claim as of September 10, 2019, that the revised
+12 project is categorially exempt from CEQA review as an in-fill development project. Accordingly,
+13 Respondents are permitting Real Parties to proceed with development of the revised project
+14 without complying with any of the mitigation measures identified in the MND and MMRP for
+15 cultural and tribal and cultural resources, as well as hazards.
+
+16 81. Because the Revised Project for purposes of CEQA must include all of the
+17 component parts, including the general plan amendment and zone change already completed, the
+18 Revised Project cannot qualify for the infill categorical exemption. As discussed above, the in-fill
+19 development exemption is subject to five limitations including that the project must be consistent
+20 with the applicable general plan designation and all applicable general plan policies, as well as
+
+21 with any applicable zoning designation and regulation (14 Cal Code Regs §15332(a)). As a matter
+22 of law, a project that includes a general plan amendment or a zone changeas was the case
+23  here-is not eligible for the exemption.
+
+24 82. Respondents actions constitute piecemeal project approval prohibited under CEQA,
+25 and negate Respondents' determination that the project is categorically exempt as an in-fill
+26 development project because Respondents cannot carve out the General Plan Amendment and
+27 Zoning Amendment from the project in order to rely on the result of those approvals to satisfy the
+28 requirements for the in-fill exemption. The General Plan Amendment and Zoning Amendment are
+
+25
+PETITION FOR WRIT OF MANDATE
+
+1 a significant part of the Revised Project, which includes the proposed modifications to develop a
+2 car wash on 301 N. Tustin Avenue instead of the retail center, because the car wash could not have
+
+3 been developed on the property without those changes. Commercial development of those
+
+4 properties is the exact reason Real Parties applied for the General Plan Amendment and the
+5 Zoning Amendment because the neither the Original Project, nor the Revised could be developed
+6 without those initial approvals.
+
+7 83. The revised project is also inconsistent with the City's General Plan Goals and
+
+8 Policies because the car wash development will not promote economic growth, sales tax revenue,
+9 or jobs, and it is aesthetically unappealing at an identified gateway to the City.
+
+10 84. In addition, Respondents were required to determine whether subsequent
+11 environmental review of the Original Project was required in light of the modifications Real
+12 Parties requested in 2019 as part of the Revised Project-i.e. the substitution of the car wash for
+13 the retail building. If Respondents determined that no subsequent environmental review was
+14 mandated by the modifications, then the MND and MMRP remained in effect and compliance
+15 with the mitigation measures set forth therein was required. If Respondents determined that
+16 further environmental review was necessary in light of the Modifications, then CEQA required
+17 Respondents to adopt a subsequent environmental review document.
+
+18 85. Further environmental review was required here because the addition of t massive,
+19 automated car wash in the Revised Project creates environmental concerns that are distinct from
+a 20 those associated with a retail building and were not considered in Respondents' Initial Study in
+21 connection with the Original Project, or the MND. For example, the retail building in the Original
+22 Project would produce no significant impacts on noise, vibration or traffic. In contrast, the
+23 addition of the car wash development on 301 N. Tustin Avenue constitutes a substantial change in
+24 light of, among other things, the vibrations, noise and traffic impacts the car wash will generate,
+25 and that the car wash tunnel will be constructed merely inches from a highly sensitive use as a
+
+26 dental office on 171 N. Tustin Avenue.
+
+27 86. Subsequent environmental review was necessary to analyze whether the Revised
+28 Project will have a significant impact on vibrations.
+
+26
+PETITION FOR WRIT OF MANDATE
+
+87. Vibration is sound radiated through the ground. Groundborne noise is rumbling
+2 sound caused by the vibration of room surfaces. According to the EPA's technical guideline on
+3 vibrations, the dental office constitutes a "critical area" that requires lower vibration levels to be
+4 acceptable. The preferred values for Petitioner Choe's office are: 0.0050 (z-axis), 0.0036 (x- and
+5 y-axes), with maximum values of 0.010 (z-axis), 0.0072 (x- and y-axes). Petitioner Choe stated in
+
+6 |her written comments opposing the Car Wash Project, that her medical/dental machinery and
+7 equipment and highly sensitive hand pieces such as the drill for nerve treatment, will cease to
+8 function even at very low vibration levels.
+
+9 88. The vibrations generated by the car wash are "serious environmental impacts" that
+10 Respondents should have evaluated in a subsequent environmental review document when they
+11 revised the Original Project to include a car wash. This is particularly true because of the unique
+12 location of the 4,354 square-foot car wash tunnel on 301 N. Tustin Avenue, only inches from the
+13 dental office building on 171 N. Tustin Avenue, and the opening of the tunnel towards the
+14 sidewalk and professional business uses across the street. (See supra, site plan image, p. 5.) A
+15 vibration impact assessment needed to be performed and considered before the Revised Project
+16 was approved. Similarly, the extremely close proximity of the car wash tunnel to the Petitioner
+17 Choe's building is unusual and thus mandates further assessment and evaluation so that mitigation
+18 measures may be incorporated into the project, including for construction, if possible, and as
+19 |conditions to any project approvals. The vibration and noise disturbance Petitioner Choe suffered
+20 during the restaurant demolition at 301 N. Tustin Avenue, which was significantly further away
+21 from her building than the mere inches to the tunnel of the new car wash, evidences the unusual
+22 circumstances of the Revised Project and need for these evaluations prior to any approvals for the
+23 Project.
+
+24 89. The Revised Project will have a significant impact on noise by the addition of a
+25 massive, automated car wash. According to the Environmental Protection Agency ("EPA"), Noise
+26 levels are generally considered low when they are below 45 dBA, moderate in the 45 to 60 dBA
+27 range, and high above 60 dBA. The car wash will operate from 7:00 am to 7:00 or 8:00 pm, seven
+28 days per week, and will service up to 30,000 cars per month. Prior to its demolition in 2019, 301
+
+27 PETITION FOR WRIT OF MANDATE
+
+1 IN. Tustin Avenue was developed with a restaurant located in the center of the property and had
+2 been used as such since 1965. The generation of noise from the industrial equipment used within
+
+3 the car wash tunnel, the twenty (20) vacuum bays, the extremely close proximity of the tunnel to a
+4 highly sensitive use, and the location of the car wash primarily surrounded by office/professional
+
+5 uses, is unique. The car a wash will have a significant effect on the surrounding environment
+6 especially, Petitioner Choe's property and medical and dental practice, as well as her tenant's
+7 massage business, pedestrian traffic directly in front of the tunnel, and professional/business office
+8 directly across the street.
+
+9 90. Immediately prior to filing this Petition, Petitioners became informed and on that
+10 basis believe that Respondents disclosed for the first time that a noise study had been performed
+11 for the car wash portion of the Revised Project. The LSA Noise Impact Analysis dated July 2019
+12 (the "LSA Noise Study") cites two (2) of Respondents' conditions of approval for the Revised
+13 Project:
+
+14 Conditions of Approval
+15 The City requires that the following conditions of approval be met:
+
+16 21. Submit a technical noise a study prepared by a firm specializing in noise studies to the City for
+17 review by the Planning Division, Police Department, and Code Enforcement Division that demonstrates that the existing exterior noise levels and that the proposed design and
+18 equipment of the car wash will conform to City noise ordinances, and the General Plan, and will minimize noise impacts on adjacent properties.
+
+19 22. A condition of approval for the project will include a requirement for the applicant to submit
+20 a noise study based on updated field measurements within one month of commencement of operations (issuance of a certificate of occupancy), and again on the one-year anniversary
+21 of the commencement of operations, to ensure compliance with the City's noise ordinances.
+
+22 (LSA Noise Study, p. 8.)
+
+23 91. The LSA Noise Study goes on to state: "This analysis has been prepared to satisfy
+24 Condition of Approval 21." (LSA Noise Study, p. 10.) The LSA Noise Study determines that
+25 there are no surrounding sensitive uses because they are all commercial and office uses. (Id. at p.
+26 11.) The City's general plan noise element provides that the desirable maximum noise level for
+27 commercial land use is 65 decibels and the maximum acceptable noise level is 70 decibels. "The
+28 City of Santa Ana does not currently have specific requirements for commercial and medical
+
+28
+PETITION FOR WRIT OF MANDATE
+
+1 office uses within its Municipal Code." (LSA Noise Study, p. 19.)
+
+2 92. The LSA Noise Study found that the "noise levels measured at the end of the car
+3 wash tunnel" alone would be 81.9 dBA 13 feet away in the direction of the businesses across the
+
+4 street and 73.7 dBA 20 feet from the end of the tunnel "90 degrees off-center"---i.e. on the other
+5 side of Petitioner Choe's dental office. No noise analysis was performed from the interior of
+
+6 Petitioner Choe's building, or to assess the noise impact on the interior of her building from noise
+7 emanating through the wall of the tunnel, which is only inches away. The LSA Noise Study also
+8 failed to consider the vibrations that would be generated, and how they would be felt inside her
+9 building.
+
+10 93. Petitioners are informed and believe that Respondents have never before cited to or
+11 disclosed the LSA Noise Study because since its creation in July 2019, Respondents removed
+12 Condition 21 to the CUP approval. The Condition of Approval for the car wash as set forth in the
+13 attachments to the staff report for the September 9, 2019 Planning Commission hearing on the
+14 Revised Project only require compliance with "City noise ordinance standards," and no longer
+15 with the General Plan (the Noise Element) as it did when LSA prepared the Noise Study in July
+16 2019:
+
+17 "Prior to Building & Safety Division plan check submittal, the Applicant shall
+
+18 submit a technical noise study prepared by a professional firm specializing in preparation of noise studies to the City for review by the Planning Division, Police
+19 Department, and Code Enforcement Division that demonstrates that the
+design and equipment of the car proposed wash will conform to City noise ordinances and
+20 will minimize noise impacts on adjacent properties. The Applicant shall, to the best
+
+21 of his or her abilities and at his or her sole cost, utilize the same noise specialists employed at the Applicant's other location(s) to prepare the noise readings and
+22 studies. Prior to issuance of a permanent certificate of occupancy, the Applicant shall hold a "soft opening" to test all noise-generating equipment onsite and make
+23 adjustments as necessary to bring the equipment into compliance with City noise ordinance standards, to the satisfaction of the Planning and Building Agency and
+24 Police Department. The Applicant shall submit an updated and revised noise study
+
+25 based on updated field measurements within one (1) month of commencement of operations, and again on the one-year anniversary of the commencement of
+26 operations, to ensure compliance with the City's noise ordinances.'
+
+27 (CUP 2019-30, Condition to Approval, No. 11)
+
+28 94. Accordingly, with respect to noise, Respondents' have conditioned approval of the
+
+29
+PETITION FOR WRIT OF MANDATE
+
+CUP for the car wash on compliance with nothing because, as LSA pointed out, the Noise
+2 Ordinance does not have "specific requirements for commercial and medical office uses." (LSA
+3 Noise Study, p. 19.)
+
+4 95. There will be a significant impact on noise for the surrounding environment,
+5 including but not limited to, business uses and pedestrian traffic, as there is no specific
+6 requirement that noise remain below any certain level or comply with any specific standard.
+
+7 96. Petitioners' expert conducted a peer review of Real Parties' traffic analysis and
+8 found it deficient in that it used outdated and incomplete data that, when corrected, would show
+
+9 the Revised Project will have a significant impact on traffic, including increasing the collision rate
+10 at the intersection of N. Tustin Avenue and Fourth Street beyond what it currently is, which is
+11 significantly higher than would be expected for this type of intersection. Specifically, "[t]he ten
+12 year average collision rate at this intersection is 0.37 collisions per million entering vehicles . . .
+13 [and] the most recent collision rate during the past three years (2016-2018) the collision rate has
+14 increased to 0.43 collisions per million entering vehicles." (Id.) Significantly, RKE found that
+15 "any increase in traffic generated by the proposed [Car Wash] [P]roject could potentially increase
+16 the collision rate at this intersection.' (RK Engineering, Peer Review of the Revised Project
+17 revised Traffic Study, dated May 17, 2019, prepared by Linscott, Law & Greenspan, Appendix B,
+18 SWITRS data for Intersection of N. Tustin Ave. and 4th Street.)
+
+19 M. The Revised Project does not Qualify for the Infill Exemption
+20 97. Respondents violated CEQA by erroneously finding the Revised Project
+21 | categorically exempt as an in-fill development project pursuant to Section 15332 of the CEQA
+22 Guidelines.
+
+23 98. CEQA section 15332 specifies the five requirements for a project to qualify for the
+24 in-fill development exemption, which are:
+
+25 (a) The project is consistent with the applicable general plan designation
+26 and all applicable general plan policies as well as with applicable zoning
+27 designation and regulations;
+
+28 (b) The proposed development occurs within city limits on a project site of
+
+30
+PETITION FOR WRIT OF MANDATE
+
+-
+
+N no more than five acres substantially surrounded by urban uses;
+(c) The project site has no value as habitat for endangered, rare or
+threatened species;
+
+6 (d) Approval of the project would not result in any significant effects
+relating to traffic, noise, air quality, or water quality; and
+
+7
+
+8 (e) The site can be adequately served by all required utilities and public
+services. (State CEQA Guidelines Section 15332.)"
+99. The Revised Project does not qualify for the in-fill categorical exemption because
+9 the project, within the meaning of CEQA, includes the general plan amendment and zone change,
+10 which were part of the Original Project and are necessary for the development of the Revised
+11 Project.
+
+12 100. The Revised Project also does not qualify for a categorical exemption because
+13 Respondents have already determined that the Original Project-including the portions that
+14 remain in the Revised Project-require an MND and mitigation measures to avoid significant
+15 impacts on the environment. In addition, CEQA does not permit a project to be modified
+16 following the adoption of an MND and then for a categorical exemption to be approved so that the
+17 MND can be disregarded.
+
+18
+
+19 Revised Project would result in significant effects relating to traffic, noise, vibrations, and air
+20 quality. 101. The Revised Project also does not qualify for the categorical exemption because the
+
+21
+
+23 102. In addition, the Revised Project cannot be approved as categorically exempt because
+22 it falls into three exceptions.
+
+24 here:
+
+25 103. CEQA section 15300.2 contains a list of exceptions to the exemptions. Relevant
+
+a.
+
+26 "all exemptions .
+
+27 b. are inapplicable when the cumulative impact of successive
+
+28 projects of the same type in the same place, over time is significant." (subd. (a).)
+"a categorical exemption shall not be used for an activity where there is a
+reasonable possibility that the activity will have a significant effect on the
+
+31
+PETITION FOR WRIT OF MANDATE
+
+environment due to unusual circumstances." (subd. (b).)
+
+C. "a categorical exemption shall not be used for project which may cause a
+substantial adverse change in the significance of a historical resource."
+104. A categorical exemption is also not available because there are unusual
+5 circumstances that will have a significant effect on the environment in connection with the
+
+6 Revised Project, including but not limited to (a) the proximity of the car wash component of the
+7 Revised Project to the building on the adjoining property and the noise and vibrations that will
+8 impact the sensitive uses on that property, (b) that Respondents previously adopted an MND and
+9 MMRP requiring mitigation measures to address significant environmental impacts for the project
+10 and have abandoned the MND and MMRP as part of the approval of the Revised Project, (c) the
+11 existence of cultural resources and tribal cultural resources on the property, and (d) the additional
+
+12 traffic generated by the Revised Project which will increase the collision rate at the intersection of
+
+13 4th Street and N. Tustin Avenue, which is already significantly exceeds the expected rate for this
+14 | type of intersection.
+
+15 105. In the alternative, a categorical exemption is also not available because of the
+16 cumulative impacts of the implemented portions of the Original Project, including the amendment
+17 of the general plan, and zone change and demolition of the restaurant building coupled with the
+18 additional elements of the Revised Project will have a significant impact on the environment as
+19 evidenced by the previously adopted MND and MMRP.
+
+20 106. Respondents were required to, and failed to, evaluate the environmental impacts of
+21 the unmodified portions of the Original Project, as well as the environmental impacts of the work
+22 already completed such as the demolition of the restaurant at 301 North Tustin Avenue, along with
+23 the environmental impacts of the changes made in the Revised Project. The existence of the MND
+24 and MMRP, which required mitigation measures for demolition and during construction of the
+25 entire original project, including the parts that have not been changed in the Revised Project,
+26 demonstrates that Respondents failed to consider and properly address these cumulative impacts in
+27 approving the Revised Project as categorically exempt.
+28 ///
+
+32
+PETITION FOR WRIT OF MANDATE
+
+FIRST CAUSE OF ACTION
+
+[Violation of CEQA Against All Respondents]
+107. Petitioners reallege and incorporate each of the prior allegations as set forth in full.
+108. A court shall issue a writ of mandate ordering a public agency to perform a
+5 mandatory duty under CEQA if the court finds the agency committed a prejudicial abuse of
+6 discretion. (Pub. Res. Code § 21168.5; Code Civ. Proc. § 1085(a).) In the context of CEQA, an
+
+7 abuse of discretion "means the agency failed to proceed as required by law or there was no
+
+8 substantial evidence to support its decision." (Pub. Res. Code § 21168.5.)
+
+9 109. Respondents have abused their discretion and failed to act in a manner required by
+10 CEQA because they:
+
+11 a. Failed to adequately address, analyze, or otherwise consider the adverse
+
+12 environmental impacts, necessary or foreseeable mitigation measures, or a
+13 reasonable range of alternatives to the Revised Project, in an environmental
+14 document as required by CEQA.
+
+15 b. Failed to provide adequate notice to Petitioners and the public to allow them to
+
+16 meaningfully prepare and participate in the hearing on the Revised Project as
+17 required by the right to due process under the US Constitution and the California
+
+18 Constitution;
+
+19 c. Engaged in prohibited piecemeal environmental review by ignoring the Original
+20 Project and abandoning the adopted MND and MMRP;
+21 d. Failed to conduct subsequent environmental review after substantial changes were
+22 made to the Original Project;
+23 e. Found the Revised Project categorically exempt as an in-fill development without
+24 meeting the statutory requirements, including consistency with the General Plan
+25 and zoning, and no significant impacts relating to traffic, noise, air quality and
+26 water quality.
+27 f Found the Revised Project categorically exempt even though (a) the Revised
+28 Project will have a significant effect on the environment due to unusual
+
+33
+•PETITION FOR WRIT OF MANDATE
+
+circumstances, (b) the cumulative impact of successive projects over time is
+significant, and (c) the Revised Project will cause a substantial adverse change in
+the significance of historical resources, so that the exception provided by Guideline
+section 15300.2 applied to the Revised Project;
+
+g. Failed to provide an appeal to the City Council of the Planning Commission's
+determination on the Revised Project as required by CEQA and the City of Santa
+Ana's local CEQA guidelines.
+110. In addition, Respondents determinations in approving the Revised Project and the
+9 categorical exemption were not supported by substantial evidence.
+
+10 111. Further, the lack of sufficient notice to Petitioners and the public deprived
+11 Petitioners and the public of the ability to meaningfully prepare for and participate in the public
+12 hearing regarding the Revised Project. Petitioners were denied sufficient time to hire experts,
+13 conduct necessary tests and studies related to the Revised Project, including a traffic study, noise
+14 study and vibration study, and to prepare. and submit the public comments and materials submitted
+15 for the City Council meeting on October 15, 2019.
+
+16 112. Accordingly, the Court should determine the Revised Project is not categorically
+17 exempt from CEQA as an infill development project, and in turn require necessary environmental
+18 Ireview.
+
+19 PRAYER FOR RELIEF
+
+20 WHEREFORE, Petitioners pray for judgment against all Respondents as follows:
+21 1. For a peremptory writ of mandate directing Respondents to:
+22 a. Rescind, vacate, invalidate, set aside, void or otherwise annul the approval of the
+23 categorical exemption, the notice of exemption, the conditional use permits,
+24 variance amendment, and all other approvals granted for the Revised Project;
+
+25 b. Reinstate the MND and MMRP previously adopted and perform subsequent CEQA
+26 review for the substantial revisions to the project contained in the Revised Project,
+27 including the preparation of a subsequent EIR or subsequent MND if required;
+
+28 C. To include in the Revised Project the portions of the Original Project that have
+
+34
+PETITION FOR WRIT OF MANDATE
+
+2 already been implemented, including the general plan amendment, zone change,
+demolition of the structures on 301 N. Tustin Avenue, and variance;
+d. To otherwise comply with CEQA in any and all actions in connection with
+approvals for the Revised Project.
+e. To stay all actions under the conditional use permit and other City approvals
+
+2. regarding the Revised Project pending final resolution of this action;
+To provide public notice of all CEQA determinations, all public hearings or
+8 meetings discussing CEQA determination in connection with the Revised Project with adequate
+
+9 time for the public to meaningfully participate and to provide notice to businesses and residents
+10 within a sufficient radius of the Revised Project so that interested parties may meaningfully
+11 prepare and appear to protect their interests, and Respondents may receive important input from
+12 the public, including those affected by the Revised Project.
+
+13 3. To provide public notice of all CEQA determinations, all public hearings or
+14 meetings discussing a CEQA determination in connection with the Revised Project to California
+15 Native American tribes who have requested notice, including but not limited to, the Gabrieleno
+16 Band of Mission Indians - Kizh Nation, with adequate time to meaningfully participate, prepare
+17 and appear to protect their interests in their tribal cultural resources.
+18 4. For preliminary and permanent injunctive relief prohibiting Respondents from
+19 taking any further action in connection with the Revised Project pending resolution of this action
+20 and until Respondents have fully complied with CEQA;
+
+21 5. For an award of costs and attorneys' fees, including but not limited to fees
+22 authorized under Code of Civil Procedure section 1021.5; and
+
+23 6.
+
+24 SSSSS For such other equitable relief that the Court finds just and proper.
+
+25
+
+26
+
+27
+
+28
+
+35
+PETITION FOR WRIT OF MANDATE
+
+1 DATED: October 13, 2019 Respectfully submitted,
+
+2 KARA GRANT LAW
+
+By: Kaud Lo Kara E. Grant
+Attorneys for Petitioners
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+36
+PETITION FOR WRIT OF MANDATE
+
+VERIFICATION
+
+2 STATE OF CALIFORNIA, COUNTY OF ORANGE
+have read the following VERIFIED PETITION FOR WRIT OF MANDATE FOR
+
+4 VIOLATION OF THE CALIFORNIA ENVIRONMENTAL QUALITY ACT ("CEQA") AND
+5 COMPLAINT FOR INJUNCTIVE RELIEF and know its contents.
+
+6 I am a party to this action. The matters stated in the foregoing document are true of my
+7 own personal knowledge, except as to matters that are stated on information or belief, and as to
+8 those matters, I believe them to be true.
+
+9 I declare under penalty of perjury under the laws of the State of California that the
+10 foregoing is true and correct, and this Verification was executed on October 13, 2019.
+
+11
+
+12
+
+13 Brul Conlirs
+14 William Conklin
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+37
+PETITION FOR WRIT OF MANDATE
+
+EXHIBIT A
+
+PROOF OF SERVICE
+
+2 STATE OF CALIFORNIA, COUNTY OF ORANGE
+3 I am employed in the County of Orange, State of California. I am over the age of 18 and 4 not a party to the within action. My business address is 17595 Harvard, Suite C-202, Irvine, California 92614.
+5
+On October 13, 2019, served the foregoing document described as:
+
+NOTICE OF INTENT TO FILE VERIFIED PETITION FOR WRIT OF MANDATE FOR VIOLATION OF THE CALIFORNIA ENVIRONMENTAL QUALITY ACT ("CEQA") AND
+8 COMPLAINT FOR INJUNCTIVE RELIEF
+
+9 on the interested parties in this action by placing [XX] the original [ ]a true copy thereof enclosed
+10 in sealed envelopes addressed as follows:
+
+11 City of Santa Ana
+Clerk of the Council, M-30
+12 20 Civic Center Plaza
+Santa Ana, CA 92701
+13
+
+14 [XX] BY MAIL caused such envelope to be deposited in the mail at Irvine, California. The envelope was mailed with postage thereon fully prepaid. I am "readily
+15 familiar" with this firm's practice of collection and processing correspondence for mailing. It is deposited with U.S. postal service on that same day in the
+16 ordinary course of business. I am aware that on motion of party served, service is presumed invalid if postal cancellation date or postage meter date is
+17 more than 1 day after date deposit for mailing in affidavit.
+
+18 [ BY PERSONAL caused to be delivered by hand to the above-listed addressees or to the
+SERVICE addressees on the list attached hereto. A proof of service executed by the
+19 delivery person will be mailed under separate cover.
+
+20 IBY OVERNIGHT
+MAIL/COURIER To expedite the delivery of the above-named document, said document was
+
+21 sent via overnight courier for next day delivery to the above-listed party.
+
+22 ] BY FACSIMILE
+("FAX") In addition to the manner of proof of service indicated above, a copy was sent by FAX to the above-listed party.
+23 I declare under penalty of perjury under the laws of the State of California that the 24 foregoing is true and correct.
+
+25 Executed on October 13, 2019, at Irvine, California.
+
+26
+
+27 Kad Cur KARA E. GRANTN
+28
+
+PROOF OF SERVICE
+
+PROOF OF SERVICE
+
+2 STATE OF CALIFORNIA, COUNTY OF ORANGE
+3 am employed in the County of Orange, State of California. I am over the age of 18 and 4 not a party to the within action. My business address is 17595 Harvard, Suite C-202, Irvine, California 92614.
+5
+
+6 On October 23, 2019, I served the foregoing document described as:
+NOTICE TO ATTORNEY GENERAL
+8on the interested parties in this action by placing | | the original [XX] a true copy thereof enclosed in sealed envelope(s) addressed as follows:
+9
+
+10 Office of the Attorney General 300 South Spring Street
+11 Los Angeles, CA 90013-1230
+
+12 [XX] BY MAIL caused such envelope to be deposited in the mail at Irvine, California. The envelope was mailed with postage thereon fully prepaid. I am "readily 13 familiar" with this firm's practice of collection and processing correspondence
+14 for mailing. It is deposited with U.S. postal service on that same day in the ordinary course of business. I am aware that on motion of party served,
+15 service is presumed invalid if postal cancellation date or postage meter date is more than 1 day after date deposit for mailing in affidavit.
+16 BY PERSONAL I caused to be delivered by hand to the above-listed addressees or to the
+17 SERVICE addressees on the list attached hereto. A proof of service executed by the delivery person will be mailed under separate cover.
+18 ]BY OVERNIGHT To expedite the delivery of the above-named document, said document was
+19 MAIL/COURIER sent via overnight courier for next day delivery to the above-listed party.
+
+20 [ ] BY FACSIMILE In addition to the manner of proof of service indicated above, a copy was sent
+("FAX") by FAX to the above-listed party.
+21
+
+22 I declare under penalty of perjury under the laws of the State of California that the foregoing is true and correct.
+
+23 Executed on October 23, 2019, at Irvine, California.
+24
+
+25 Kaun Qurt
+26 KARA E. GRANT
+
+27
+
+28
+
+PROOF OF SERVICE
+
+RECEIVED
+2019 OCT 28 AMII: 06. ATTORNEY GENERAL LOS ANGELES
+
+:A8
+6107 , 0 AON Iarasal g
+
+•10

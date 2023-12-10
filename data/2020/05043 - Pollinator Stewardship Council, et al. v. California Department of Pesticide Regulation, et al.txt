@@ -1,0 +1,1084 @@
+GREGORY C. LOARIE CCASB 215852) GREGORY D. MUREN (CASB 319313)
+2 EARTHJUSTICE
+50 California Street, Suite 500
+3 San Francisco, CA 94111 T: (415) 217-2000
+4 F: (415) 217-2040 E: gloarie@earthjustice.org
+5 gmuren@earthjustice.org
+
+6 Counsel for Petitioners
+
+7
+
+8
+
+9
+
+10
+SUPERIOR COURT OF CALIFORNIA
+11 COUNTY OF ALAMEDA
+
+12
+POLLINATOR STEWARDSHIP COUNCIL and Case No.:
+13 AMERICAN BEEKEEPING FEDERATION,
+
+14 Petitioners, VERIFIED PETITION
+FOR WRIT OF MANDATE
+15 VS.
+
+16 CALIFORNIA DEPARTMENT OF PESTICIDE
+REGULATION and VAL DOLCINI, in his official (Cal. Envt'l Quality Act,
+17 capacity as Director of Pesticide Regulation, Pub Resources Code § 21080.5)
+
+18 Respondents,
+
+19 and
+
+20 DOW AGROSCIENCES LLC, CORTEVA, INC., and DOES through 10,
+21 Real Parties in Interest.
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Verified Petition for Writ of Mandate
+
+INTRODUCTION
+
+2 1. This lawsuit challenges May 29, 2020 decision by the California Department of
+3 Pesticide Regulation (DPR) to approve-or "register"-a potent new insecticide called sulfoxaflor
+4 (sül-föks-a-flor) for use on a wide variety of crops in California.
+
+5 2.
+
+6 Sulfoxaflor is chemically and toxicologically similar to other neonicotinoid (nãö-
+nikëtinoid) insecticides. Like other neonicotinoids, sulfoxaflor is a "systemic" insecticide, which
+
+8 means it is readily absorbed by and persistent in plants. Once absorbed, the plant's vascular system
+
+9 I distributes the systemic insecticide throughout all of the plant's tissues. Just as chewing insects are
+poisoned by eating the leaves, bark, or roots of a plant "treated" with a systemic insecticide,
+10 pollinating insects like honey bees, Monarch butterflies, and bumblebees are poisoned by eating
+11 pollen or nectar from the treated plant's flowers.
+
+12 3.
+
+13 There is overwhelming scientific evidence that widespread agricultural use of
+
+14 systemic insecticides like sulfoxaflor since the mid-2000s has had a devastating impact on "non-
+
+15 target" beneficial insects, including bees, butterflies, and ladybugs. The impact to managed honey
+bees has been particularly well documented, severe, and consequential to Californians, as managed
+16 honey bees are critical for pollinating our almonds, fruit trees, and other valuable, nutritious crops.
+
+17 4.
+
+18 DPR's decision to approve sulfoxaflor for use on crops ranging from almond trees to
+
+19 milkweed, to kill a broad spectrum of insect pests, puts honey bees and other beneficial insects at
+
+20 substantial additional risk and will exacerbate a growing agricultural and human health crisis.
+5.
+
+21 DPR's decision to approve sulfoxaflor is also illegal. As set forth below, DPR
+
+22 approved sulfoxaflor without properly analyzing and disclosing both the existing environmental
+baseline and the direct, indirect, and cumulative impacts of its decision, as required by the California
+23 Environmental Quality Act (CEQA), the Food and Agricultural Code, and DPR's own regulations.
+24
+
+25 DPR further violated these laws by summarily dismissing feasible alternatives to approving yet
+
+26 another highly toxic, systemic insecticide for use in California agriculture.
+
+6.
+
+27 Petitioners Pollinator Stewardship Council and American Beekeeping Federation ask
+a this Court to issue a writ of mandate directing DPR to set its May 29, 2020 registration decisions for
+28 sulfoxaflor pending compliance with all applicable laws and regulations.
+
+Verified Petition for Writ of Mandate L
+
+1 JURISDICTION AND VENUE
+
+2 7. This Court has jurisdiction under Public Resources Code section 21080.5, subdivision
+
+3 (g), and sections 1085, 1087 and/or 1094.5 of the Code of Civil Procedure.
+
+4 8. Venue is proper in this Court under Code of Civil Procedure section 395, subdivision
+
+5 (a), and section 401, subdivision (1), because DPR is a state agency based in Sacramento County and
+
+6 the California Attorney General has an office in Alameda County.
+
+7 9. Pursuant to Public Resources Code section 21080.5, subdivision (g), Petitioners filed
+
+8 this action within 30 days after DPR filed its Notice of Final Decisions on May 29, 2020.
+
+9 10. Petitioners have provided DPR with written notice of their intention to file this
+10 I petition. (See Exhibit A hereto.)
+
+11 11. Petitioners have served the Attorney General with a copy of this petition, together
+12 a with a notice of its filing. (See Exhibit B hereto.)
+
+13 12. Petitioners are filing concurrently with this petition notice of their intent to prepare
+
+14 the record of the administrative proceedings relating to the agency actions at issue herein.
+
+15 13. Petitioners participated in the administrative process culminating in the pesticide
+
+16 registration decisions at issue herein. Petitioners exhausted all of their administrative remedies prior
+
+17 to filing this action. Petitioners have no plain, speedy, and adequate remedy, in the ordinary course
+
+18 of law.
+
+19 PARTIES
+
+20 14. Petitioner Pollinator Stewardship Council (PSC) is a non-profit organization of
+
+21 beekeepers founded in 2012 to defend managed and native pollinators vital to a sustainable and
+
+22 affordable food supply from the adverse impacts of pesticides. Fully one-third of the nation's food
+
+23 supply requires pollination, and PSC works to protect the pollinators and commercial beekeepers
+
+24 that provide pollinators to the farmers. PSC accomplishes its mission by: (1) ensuring that federal
+
+25 and state agencies enforce and comply with laws to protect pollinators from pesticides; (2) providing
+
+26 advocacy, guidance, and tools for beekeepers to defend their bees from the detrimental effects of
+
+27 pesticides; and (3) raising awareness about the adverse impacts of pesticides on pollinators. PSC's
+
+28 board includes many leading commercial honey beekeepers. Some of these are California-based
+
+Verified Petition for Writ of Mandate 2
+
+4
+
+- businesses, and virtually all of PSC's board and commercial beekeeper members provide honey bee
+
+2 pollination services to California farmers.
+
+3 15. Petitioner American Beekeeping Federation (ABF) is a non-profit organization
+
+4 founded in 1943 dedicated to advancing the interests of all beekeepers, large or small, and other
+
+5 interests associated with the industry to ensure the future of the honey bee. ABF is the largest
+
+6 beekeeping organization in the United States. Approximately 25% of all commercial beekeepers in
+
+7 the United States are members of ABF, and ABF members harvest roughly 30% of the honey
+
+8 produced in the United States each year, much of that from smaller producers. ABF works with
+
+9 beekeepers large and small, as well as those associated with the beekeeping industry, to ensure the
+
+10 future of the honey bee.
+
+11 16. Consistent with their organizational missions and on behalf of their members and
+
+12 supporters, Petitioners have engaged in longstanding campaigns to protect honey bees and other
+
+13 beneficial organisms from pesticides, particularly systemic insecticides like sulfoxaflor. Petitioners
+
+14 a have a concrete and compelling interest in the enforcement of laws and regulations governing DPR's
+15 pesticide regulatory program.
+
+16 17. Petitioners bring this action on their own behalf and on behalf of their members,
+
+17 employees, and supporters who are residents and taxpayers of the state of California and who are
+
+18 adversely affected by DPR's decision to register sulfoxaflor for use in California. As a result of
+
+19 DPR's failures to comply with its legal obligations, Petitioners, their members, and the public at
+
+20 large have suffered injury and will continue to be injured. A writ of mandate from this Court setting
+
+21 aside DPR's registration decisions with respect to sulfoxaflor pending compliance with all applicable
+
+22 laws would redress Petitioners' injuries.
+
+23 18. DPR's registration decisions with respect to sulfoxaflor have had and will continue to
+
+24 have an adverse impact on Petitioners' members' financial, environmental, recreational, and
+
+25 agricultural interests. Petitioners seek to protect their interests and to enforce a public duty owed to
+26 them by DPR. Petitioners and their staff and members have a right to, and a beneficial interest in,
+
+27 DPR's performance of its duties under CEQA, the Food and Agricultural Code, and all other
+
+28 applicable laws and regulations.
+
+3 Verified Petition for Writ of Mandate
+
+] 19. Respondent CALIFORNIA DEPARTMENT OF PESTICIDE REGULATION is a
+
+2 department within the California Environmental Protection Agency. DPR is charged with
+
+3 implementing many state and federal laws regulating pesticide use in California. DPR is responsible
+
+4 for registering and continuously reevaluating all pesticide products offered for sale in California.
+
+5 20. Respondent VAL DOLCINI is the Director of DPR and sued in his official capacity.
+
+6 21. Real party in interest DOW AGROSCIENCES LLC ("Dow") is the registrant of the
+
+7 two pesticide products containing sulfoxaflor at issue in this lawsuit. Dow is 100% owned by
+
+8 Mycogen LLC, Centen Ag LLC ("Centen"), and DDP AgroSciences US DCOMCO, Inc. ("DDP").
+
+9 Mycogen LLC is wholly owned by Centen. Centen and DDP are wholly owned by Pioneer Hi-Bred
+10 International, Inc., which is wholly owned by E. I. du Pont de Nemours and Company ("EID"), a
+
+11 publicly traded company. EID is wholly owned by Corteva, Inc., a publicly traded company.
+12 22. Real party in interest CORTEVA, INC. is a publically traded company that owns
+13 Dow.
+
+14 23. The true names and capacities of real party DOES through 10 are not presently
+15 known to Petitioners. Petitioners may amend this petition and complaint to add the true names and
+
+16 capacities of real party Does at such time as they are discovered.
+
+17 LEGAL BACKGROUND
+
+18 24. DPR has a responsibility under California law to "protect the environment from
+19 environmentally harmful pesticides by prohibiting, regulating, or ensuring proper stewardship of
+20 those pesticides." (Food & Agr. Code, § 11501, subd. (b).) To this end, California law requires
+
+21 DPR to register every pesticide sold in California. (Id., § 12811.) §
+
+22 25. Upon receipt of an application to register a new pesticide product, DPR must conduct
+
+23 a "thorough and timely evaluation." (Food & Agr. Code, § 12824.) At the conclusion of DPR's
+
+24 evaluation, California law authorizes DPR to refuse to register any product:
+
+25 (a) That has demonstrated serious uncontrollable adverse effects either within or outside the agricultural environment.
+26 (b) The use of which is of less public value or greater detriment to the environment
+27 than the benefit received by its use.
+
+28
+
+Verified Petition for Writ of Mandate 4
+
+(c) For which there is reasonable, effective, and practicable alternate material or procedure that is demonstrably less destructive to the environment.
+2
+(d) That, when properly used, is detrimental to
+3 health and safety. domestic animals, or to the public
+
+4 (Id., § 12825.)
+
+5 26. In 1978, the California Legislature confirmed that DPR's decision to register a
+6 pesticide product constitutes a "project" subject to the California Environmental Quality Act
+
+7 (CEQA), Pub. Resources Code § 21000 et seq. (See Stats. 1978, ch. 308, § 3.)
+
+8 27. CEQA is a comprehensive statutory scheme "designed to provide long-term
+
+9 protection to the environment." (Mountain Lion Found. v. Fish & Game Com. (1997) 16 Cal.4th
+
+10 105, 112.) The statute's largely procedural requirements are intended to:
+
+11 (1) inform the government and public about a proposed activity's otential environmental impacts: (2) identify ways to reduce. or avoid. environmental damage; 12 (3) prevent environmental damage by reauiring proiect changes via alternatives or mitigation measures when feasible: and (4) disclose to the public the rationale for
+13 governmental approval of a project that may significantly impact the environment.
+14| (California Bldg. Indus. Assn. V. Bay Area Air Quality Mgmt. Dist. (2015) 62 Cal.4th 369, 382.)
+15 28. With few exceptions, CEQA requires state agencies to prepare an environmental
+16 impact report (EIR) for "any project which they propose to carry out or approve that may have a
+
+17 significant effect on the environment." (Pub. Resources Code, § 21100.) The EIR must "provide
+18 public agencies and the public in general with detailed information about the effect which a
+
+19 proposed project is likely to have on the environment." (Id., § 21061.) It must also "list ways in
+
+20 which the significant effects of such a project might be minimized" and a "indicate alternatives to such
+
+21 project." (Ibid.)
+
+22 29. CEQA allows an agency to adopt an abbreviated "negative declaration" instead of an
+
+23 EIR if the agency conducts an "initial study" and determines there is "no substantial evidence, in
+
+24 light of the whole record, that the project may have a significant effect on the environment." (Pub.
+25 Resources Code, § 21080, subd. (c).)
+
+26 30. CEQA authorizes the Secretary of the California Natural Resources Agency to certify
+
+27 that a regulatory program operated by a state agency requires a plan or other written documentation
+
+28 meeting certain statutorily prescribed criteria. (Pub. Resources Code, § 21080.5, subd. (a).) Among
+
+Verified Petition for Writ of Mandate 5
+
+other things, the plan or other written documentation must include "a description of the proposed
+
+2 activity with alternatives to the activity, and mitigation measures to minimize any significant adverse
+
+3 effect on the environment of the activity," and it must be "available for a reasonable time for review
+
+4 and comment by other public agencies and the general public." (Id., § 21080.5, subd. (d)(3).)
+
+5 31. CEQA exempts regulatory programs certified by the Secretary from the requirement
+
+6 that the agency prepare a separate, stand-alone EIR prior to approving a project that may have a
+
+7 significant effect on the environment. (Pub. Resources Code, § 21080.5, subd. (c).) Instead, CEQA
+
+8 provides "the plan or other written documentation" required by the certified regulatory program
+
+9 "may be submitted in lieu of the environmental impact report" that would otherwise be required.
+
+10 (Id., § 21080.5, subd. (a).)
+
+11 32. An agency operating a certified regulatory program, and the plan or other written
+12 documentation the agency prepares, "remain subject to the broad policy goals and substantive
+
+13 standards of CEQA not affected by the limited exemption set forth in [Public Resources Code]
+
+14 section 21080.5, subdivision (c)." (Pesticide Action Network N. America v. Cal. Dept. of Pesticide
+
+15 Regulation (2017) 16 Cal.App.5th 224, 242.)
+
+16 33. DPR has promulgated regulations governing its pesticide regulatory program. (Cal.
+17 Code Regs., tit. 3, §§ 6145-6314.) Among other things, the regulations prescribe the information
+
+18 that must accompany any application to register a pesticide product. (Id., §§ 6170-6195.) The
+
+19 regulations direct DPR to evaluate registration applications and "give special attention" to several
+20 factors, including the "potential for environmental damage," "toxicity to aquatic biota or wildlife,"
+
+21 and "the availability of feasible alternatives." (Id., §§ 6151, 6158.) The regulations provide that
+
+22 "[i]f any of these factors are anticipated to result in significant adverse impacts which cannot be
+
+23 avoided or adequately mitigated, registration will not be granted unless [DPR's] director makes a
+
+24 written finding that the anticipated benefits of registration clearly outweigh the risks.» (Id., § 6158.)
+
+25 34. DPR's regulations provide "[e]ach proposed decision relating to registration . .. shall
+
+26 be posted . for 30 days for public review and comment." (Cal. Code Regs., tit. § 3, § 6253.) The
+
+27 regulations further require DPR to prepare a "public report," which must include "a description of
+
+28 the proposed action, a statement of any significant adverse environmental effect that can reasonably
+
+Verified Petition for Writ of Mandate 6
+
+be expected to occur, directly or indirectly, from implementing the proposal, and a statement of any
+
+2 reasonable mitigation measures that are available to minimize significant adverse environmental
+
+3 impact." (Id., § 6254.) The public report must "also contain a statement and discussion of
+
+4 reasonable alternatives which would reduce any significant environmental impact." (Id., § 6254,
+
+5 subd. (a).) Prior to taking any final action in regard to a proposed registration decision, DPR must
+
+6 prepare "written evaluation" of any "significant adverse environmental point" raised during the
+
+7 public comment period. (Id., § 6254, subd. (b).)
+
+8 35. In 1979, the Secretary of the California Natural Resources Agency certified DPR's
+
+9 pesticide regulatory program, including the "registration, evaluation, and classification of pesticides"
+
+10 as meeting the requirements of section 21080.5 of the Public Resources Code. (See Cal. Code
+
+11 Regs., tit. 14, § 15251, subd. (i)(1).)
+
+12 FACTUAL BACKGROUND
+
+13 36. Recent and dramatic declines in insect biodiversity threaten to unravel the human
+
+14 food chain. By some estimates, 41% of insect species are at risk of extinction in the next few
+
+15 decades. Scientists warn, "[a] rethinking of current agricultural practices, in particular a serious
+
+16 reduction in pesticide usage and its substitution with more sustainable, ecologically-based practices,
+
+17 is urgently needed to slow or reverse current trends, allow the recovery of declining insect
+
+18 populations and safeguard the vital ecosystem services they provide." (Sánchez-Bayo & Wyckhuys,
+
+19 Worldwide Decline of the Entomofauna: A Review of Its Drivers, 2019 Bio. Conser. 232
+20 <https://www.sciencedirect.com/science/article/pii/S0006320718313636> [as of June 21, 2020].)
+
+21 37. Perhaps no insect is better studied than the Eurasian honey bee (Apis mellifera). Nor
+
+22 is any insect more directly significant to California's agricultural economy. California leads the
+
+23 nation in farm receipts, and its agricultural production includes more than 400 commodities
+
+24 representing over a third of the country's vegetables and two-thirds of the country's fruits and nuts.
+
+25 Many of these agricultural commodities rely on pollination by managed honey bees. California's
+
+26 almond crop alone requires approximately 1.8 million managed honey bee colonies for pollination.
+
+27 38. In 2006, beekeepers across North America reported losing an unprecedented number
+
+28 of their hives. Since 2006, the honey bee crisis has worsened. According to surveys conducted by
+
+Verified Petition for Writ of Mandate 7
+
+- the Bee Informed Partnership, approximately 37.7% of managed honey bee colonies in the United
+
+2 States failed during the 2018-2019 winter, representing an increase of 7 percentage points compared
+
+3 to the prior year, and an increase of 8.9 percentage points compared to the 13-year average winter
+4 colony loss rate of 28.8%. For the entire 12-month survey period from April 1, 2018 to April 1,
+
+5 2019, U.S. beekeepers lost 40.7% of their managed honey bee colonies. (See Bruckner et al., 2018-
+
+6 2019 Honey Bee Colony Losses in the United States: Preliminary Results
+
+7 <https://beeinformed.org/wp-content/uploads/2019/11/2018_2019-Abstract.pdf>[asofJune 21,
+
+8 2020].)
+
+0 39. According to the most recent results of the Bee Informed Partnership surveys, U.S.
+10 beekeepers lost an estimated 43.7% of their colonies between April 1, 2019 and April 1, 2020. This
+11 is the second highest annual colony loss rate reported since the survey began estimating this measure
+
+12 in 2010-2011. This average annual loss rate is greater than last year's estimate of 40.4%, as well as
+
+13 the average annual loss rate since 2010-2011 (39.0%, a 4.7 percentage point increase). (Bruckner et
+14 al., 2019-2020 Honey Bee Colony Losses in the United States: Preliminary Results
+
+15 <https://beeinformed.org/wp-content/uploads/2020/06/BIP_2019_2020_Losses_Abstract.pdf>[asof
+16 June 24, 2020].) These losses are unsustainable.
+
+17 40. There is substantial scientific evidence that widespread agricultural use of systemic
+
+18 insecticides since the early 2000s has precipitated or exacerbated the insect die-off and the current
+
+19 honey bee crisis.
+
+20 41. Systemic insecticides are water soluble, slow to degrade, and readily absorbed by
+
+21 plants. Applying a systemic insecticide to a plant renders the entire plant toxic to insects for many
+22 days or even months thereafter. Insects can therefore be exposed to systemic insecticides in two
+
+23 different ways: (I) through direct contact with the insecticide when it is applied and (2) through
+
+24 indirect contact if they later consume any part of a plant treated with the insecticide. Most older
+25  insecticides, by contrast, are not systemic and require direct contact to kill insects.
+
+26 42. Foraging honey bees that collect pollen, nectar, and guttation (i.e., water secreted
+
+27 from leaves) from crops or weeds that have absorbed systemic insecticides transport the insecticide
+
+28 back to the hive, where it is later consumed by other bees and the developing brood. There is
+
+8 Verified Petition for Writ of Mandate
+
+- substantial scientific evidence that oral exposure to pollen, nectar, and guttation tainted with
+2 systemic insecticides can cause the entire colony to sicken and collapse.
+
+3 43. In 2014, scientists participating in the "Worldwide Integrated Assessment on
+4 Systemic Insecticides" examined 800 peer-reviewed studies in an effort "to understand the diverse
+
+5 ramifications of the global use of systemic pesticides on individual organisms, on ecosystems and on
+
+6 ecosystem processes and services." They concluded:
+
+7 Overall, a compelling body of evidence has accumulated that clearly demonstrates that the wide-scale use of these persistent, water-soluble chemicals is having
+8 widespread, chronic impacts upon global biodiversity and is likely to be having major negative effects on ecosystem services such as pollination that are vital to food
+9 security and sustainable development. There is an urgent need to reduce the use of these chemicals and to switch to sustainable methods of food production and pest
+10 control that do not further reduce global biodiversity and that do not undermine the ecosystem services upon which we all depend. 11
+
+12 (van Lexmond et al., Global Collapse of the Entomofauna: Exploring the Role of Systemic
+
+13 Insecticides, 22 Envtl. Sci. Pollut. Res. 1 (2015) <https://link.springer.com/article/10.1007/s11356-
+
+14 014-3220-1> [as of June 21, 2020].)
+
+44. Since 2000, DPR has registered hundreds of different pesticide products containing a 15
+
+16 systemic insecticidal active ingredient for use on a wide variety of crops in California. Many
+pesticide products containing a systemic insecticidal active ingredient remain registered today. 17
+45. The systemic insecticides most frequently used in California interfere with the same 18
+
+19 receptor in the insect nervous system-the "nicotinic acetylcholine receptor"-causing tremors,
+
+20 paralysis and death. The most frequently used of these "nAChR agonists" are the "nitroguanidine
+neonicotinoids," which include the active ingredients imidacloprid, clothianidin, dinotefuran, and 21
+thiamethoxam. DPR has registered many pesticide products containing nitroguanidine neonicotinoid 22
+active ingredients, including at least 300 products containing imidacloprid; 40 products containing 23
+clothianidin; 45 products containing dinotefuran; and 25 products containing thiamethoxam. 24
+46. There is substantial scientific evidence that agricultural use of registered pesticide 25
+
+26 products containing nitroguanidine neonicotinoids has had and is continuing to have a significant
+
+27 adverse impact on honey bees and other "non-target" organisms in California.
+
+28
+
+9 Verified Petition for Writ of Mandate
+
+47. In 2009, DPR initiated a formal "reevaluation" of all registered pesticide products
+
+2 containing nitroguanidine neonicotinoids, based on evidence their use "may have caused, or is likely
+3 to cause, a significant adverse impact." (See Cal. Code Regs., tit. § 3, § 6220.)
+
+4 48. On January 3, 2018, DPR announced that it could no longer conclude pesticide
+
+5 products containing nitroguanidine neonicotinoids meet the legal requirements for registration under
+
+6 California law. DPR announced it would neither approve new pesticide products containing
+7 nitroguanidine neonicotinoids nor approve new uses for existing products containing nitroguanidine
+8 neonicotinoids pending the completion of its reevaluation of nitroguanidine neonicotinoids.
+
+49. On July 1, 2018, DPR released its final risk determination for nitroguanidine
+10 I neonicotinoids. DPR's risk determination concluded registered use of pesticide products containing
+11 nitroguanidine neonicotinoids frequently results in pollen and nectar that are toxic to honey bee
+12 colonies.
+
+13 50. DPR's reevaluation of pesticide products containing nitroguanidine neonicotinoids is
+14 still pending. DPR has taken no further steps to regulate agricultural use of nitroguanidine
+15 neonicotinoids in response to its final risk determination.
+
+16 51. On December 6, 2019, DPR notified the public of its proposed decision to register
+
+17 two pesticide products that contain a new active ingredient called sulfoxaflor. (Dept. of Pesticide
+18 Regulation, Pesticide Registration Branch; Notice of Proposed and Final Decisions and Public
+
+19 Reports; Vol 2019-49 (Dec. 6, 2019).)
+
+20 52. Sulfoxaflor is chemically and toxicologically similar to neonicotinoids. Like the
+
+21 nitroguanidine neonicotinodis, sulfoxaflor is a systemic insecticide that disrupts the nicotinic
+22 acetylcholine receptor in insects, causing tremors, paralysis, and death. Peer reviewed, scientific
+
+23 research has concluded, "[s]ulfoxaflor can be considered to be a neonicotinoid, the first member of
+
+24 the fourth-generation sulphoximine chemistry class." (Cutler et al., Investigating the Mode of Action
+
+25 of Sulfoxaflor: A Fourth-generation Neonicotinoid, 69 Pest. Manag. Sci. 607 (2013).)
+
+26 53. DPR has concluded that sulfoxaflor is "highly toxic" to honey bees. According to
+
+27 DPR, half of adult honey bees that come into direct contact with 0.379 micrograms of sulfoxaflor
+
+28
+
+Verified Petition for Writ of Mandate 10
+
+will die within 72 hours, and half of adult honey bees that consume just 0.146 micrograms of
+
+2 sulfoxaflor will die within 48 hours.
+
+3 54. DPR's December 6, 2019 notice proposed to register two separate pesticide products
+
+4 containing sulfoxaflor. The first product, marketed under the brand name "Transform CA," contains
+
+5 50% sulfoxaflor by weight. The second sulfoxaflor product is marketed under the brand name
+
+6 "Sequoia CA" and contains 21.8% sulfoxaflor by weight. DPR's notice identifies Dow as the
+
+7 applicant seeking registration for both Transform CA and Sequoia CA.
+
+8 55. DPR's December 6, 2019 notice includes an electronic hyperlink to brief and nearly
+
+9 identical public reports for both Transform CA and Sequoia CA. The public reports for Transform
+
+10 CA and Sequoia CA include a copy of the proposed "label" for each product. The labels prescribe
+11 the conditions under which Transform CA and Sequoia CA may be used, and they specify additional
+
+12 advisories and recommendations for use.
+
+13 56. The proposed label for Transform CA allows use on crops such as barley, wheat,
+
+14 canola, flax seed, milkweed, mustard seed, poppy seed, rapeseed, Chinese artichoke, Jerusalem
+15 artichoke, potato, sweet potato, yam, ginger, chickpea, cowbean, lima bean, kidney bean, pinto bean,
+
+16 and snap bean to control or suppress aphids, plant bugs, leafhoppers, whiteflies, stink bugs, potato
+
+17 psyllid, and thrips.
+
+18 57. The proposed label for Sequoia CA allows use on crops such as broccoli, Brussels
+19 sprouts, cauliflower, bell pepper, hot pepper, sweet pepper, tomato, lettuce, spinach, apple, pear,
+
+20 grape, nectarine, peach, plum, prune, cherry, almond, pistachio, and walnut to control or suppress
+21 aphids, plant bugs, leafhoppers, whiteflies, pear psylla, San Jose scale, thrips, and mealybugs.
+22 58. The proposed labels for both Transform CA and Sequoia CA provide:
+
+23 This product is highly toxic to bees exposed through contact during spraying and while spray droplets are still wet. Do not apply this product or allow it to drift to
+24 blooming crops or weeds while bees or other pollinating insects are actively foraging the treatment area.
+25
+59.
+26 The proposed labels for both Transform CA and Sequoia CA further provide:
+This product is toxic to aquatic invertebrates. Drift and runoff may be hazardous to
+27 aquatic organisms in water adjacent to treated areas. Do not apply directly to water, to areas where surface water iS present or to intertidal areas below the mean high
+28 water mark.
+
+Verified Petition for Writ of Mandate 11
+
+- 60. The public reports for both Transform CA and Sequoia CA assert: "DPR does not
+
+2 expect use of this product in accordance with its label directions and any applicable use restrictions
+
+3 in regulation will have a significant adverse effect on aquatic organisms, pollinators, or other non-
+
+4 target fauna."
+
+5 61. On January 2, 2020, Petitioners provided DPR with extensive written comments
+6 regarding DPR's proposed registration decisions with respect to Transform CA and Sequoia CA.
+
+7 Among other things, Petitioners' comments identified and attached substantial scientific evidence
+
+8 that DPR's proposed registration decisions may have a significant adverse impact on managed honey
+
+9 bees and other beneficial organisms.
+
+10 62. On May 22, 2020, DPR notified the public of its proposed decision to approve a
+11 "special local need" registration under Section 24 of the Federal Insecticide, Fungicide, and
+
+12 Rodenticide Act (FIFRA), 7 U.S.C. § 136v, for the use of Transform CA on alfalfa in Siskiyou,
+
+13 Modoc, Shasta, and Lassen counties to control blue alfalfa aphids. (Dept. of Pesticide Regulation,
+
+14 Pesticide Registration Branch; Notice of Proposed and Final Decisions and Public Reports; Vol
+15 2020-21 (May 22, 2020).) The public report for DPR's proposed special local need registration
+
+16 asserts, "DPR has determined that the acceptance of this proposed [special local need] registration is
+
+17 not expected to have any significant adverse effect that can reasonably be expected to occur, directly
+
+18 or indirectly, to human health or the environment.3
+
+19 63. On May 29, 2020, DPR notified the public of its final decision to register Transform
+
+20 CA and Sequoia CA as proposed on December 6, 2019. (Dept. of Pesticide Regulation, Pesticide
+
+21 Registration Branch; Notice of Proposed and Final Decisions and Public Reports; Vol 2020-22 (May
+
+22 29, 2020).) The notice of DPR's final registration decision includes DPR's "written cvaluation" of
+
+23 public comments received in response to DPR's proposed registration decision. DPR's written
+24 evaluation maintains that registering Transform CA and Sequoia CA as proposed "would not have
+
+25 any reasonably expected significant adverse impacts on human health or the environment."
+
+26 64. On June 17, 2020, Petitioners provided DPR with written comments in response to
+
+27 DPR's May 22, 2020 proposed special local need registration for the use of Transform CA on
+28 alfalfa. Petitioners' comments enclosed and incorporated by reference their January 2, 2020
+
+12 Verified Petition for Writ of Mandate
+
+r comment letter and attached additional scientific evidence confirming DPR's proposed special local
+
+2 need registration will have a significant adverse impact on honey bees and other beneficial insects.
+3 FIRST CAUSE OF ACTION
+
+4 (Failure to Describe the Environmental Baseline)
+
+5 65. Petitioners re-allege, as if fully set forth herein, each and every allegation contained
+
+6 in the preceding paragraphs.
+
+7 66. CEQA requires agencies to analyze and disclose the existing environmental baseline
+
+8 prior to implementing a proposed project. In the context of a certified regulatory program, the
+
+9 California Supreme Court has explained: "To decide whether a given project's environmental
+10 effects are likely to be significant, the agency must use some measure of the environment's state
+
+11 absent the project, a measure sometimes referred to as the 'baseline' for environmental analysis."
+12 (Communities for a Better Env't v. S. Coast Air Quality Mgm't Dist. (2010) 48 Cal.4th 310, 315.)
+13 67. DPR's public reports for Transform CA and Sequoia CA do not adequately describe
+14 the environmental baseline, thereby precluding informed public participation and decision making,
+15 in violation of CEQA, the Food and Agricultural Code, and DPR's own regulations.
+
+16 68. First, the public reports fail to analyze and disclose the environmental baseline with
+17 respect to honey bees and other beneficial organisms. For example, the public reports do not address
+18 substantial scientific evidence documenting dramatic declines in insect abundance and biodiversity
+
+19 and high colony losses among managed honey bees. Nor do the public reports address substantial
+20 scientific evidence that agricultural use of systemic insecticides, including sulfoxaflor and
+21 nitroguanidine neonicotinoids, has contributed to insect declines and colony losses. The public
+22 reports also fail to address substantial evidence that managed honey bees and other insect pollinators
+23 provide critical pollination services for many of California's most important crops, including
+24 almonds, fruit trees, and many fruiting vegetables.
+25 69. Second, the public reports fail to analyze and disclose the environmental baseline
+26 with respect to existing use of systemic insecticides that are chemically and toxicologically similar to
+27 sulfoxaflor, including the nitroguanidine neonicotinoids. For example, DPR's public reports do not
+28
+
+Verified Petition for Writ of Mandate 13
+
+address DPR's prior registration decisions involving nitroguanidine neonicotinoids, nor do the public
+
+2 reports disclose DPR's ongoing reevaluation of nitroguanidine neonicotinoids.
+
+3 70. DPR's failure to provide any real-world context for its registration decisions with
+
+4 respect to Transform CA and Sequoia CA by analyzing and disclosing the environmental baseline
+
+5 absent registration precluded meaningful public participation and informed decisionmaking, in
+
+6 violation of CEQA, the Food and Agricultural Code, and DPR's own regulations.
+
+7 SECOND CAUSE OF ACTION
+
+8 (Failure to Disclose Direct and Indirect Impacts)
+
+9 71. Petitioners re-allege, as if fully set forth herein, each and every allegation contained
+
+10 in the preceding paragraphs.
+
+11 72. DPR's public reports must include "a statement of any significant adverse
+12 environmental effect that can reasonably be expected to occur, directly or indirectly, from
+
+13 implementing the proposal." (Cal. Code Regs., tit. 3, § 6254.) §
+
+14 73. Construing CEQA and DPR's regulations, the First District Court of Appeal has held:
+
+15 [DPR]'s regulations, which require review when a significant adverse effect "can reasonably be expected to occur," are not meaningfully different from CEQA
+16 regulations imposing a fair argument review when an activity "may have a significant environmental effect." The Supreme Court has noted that under the CEOA
+17 Guidelines. "[I]t is appropriate for agencies to apply the fair argument standard in determining whether there is a reasonable possibility of a significant effect on the
+18 environment.'
+
+19 (Pesticide Action Network N. America, supra, 16 Cal.App.5th at pp. 246-47 [quoting Berkeley
+20 Hillside Preservation v. City of Berkeley (2015) 60 Cal.4th 1086, 1115].)
+21 74. CEQA's fair argument standard provides a project "may" have a significant
+22 environmental effect "whenever it can be fairly argued on the basis of substantial evidence that the
+
+23 project may have significant environmental impact." (No Oil, Inc. V. City of Los Angeles (1975) 13
+
+24 Cal.3d 68, 75.)
+
+25 75. The public reports for both Transform CA and Sequoia CA state: "DPR's scientific
+26 evaluation of this project has not identified a significant adverse environmental or human health
+
+27 impact that is reasonably expected to occur from this proposed registration action."
+
+28
+
+Verified Petition for Writ of Mandate 14
+
+76. DPR's public reports fail to analyze and disclose significant adverse effects that can
+
+2 reasonably be expected to occur, directly and indirectly, from DPR's decision to register Transform
+
+3 CA and Sequoia CA.
+
+4 77. First, the public reports fail to analyze and disclose substantial scientific evidence that
+
+5 registering Transform CA and Sequoia CA may have a significant adverse impact on a managed
+
+6 honey bees and other insect pollinators. For example, substantial evidence indicates honey bees and
+
+7 other insect pollinators may be exposed directly to Transform CA and Sequoia CA while foraging on
+
+8 blooming crops or weeds within or near the treated field. Because sulfoxaflor is a systemic
+
+9 insecticide, substantial evidence indicates honey bees and other insect pollinators may also be
+10 exposed indirectly to Transform CA and Sequoia CA through the consumption of pollen, nectar and
+
+11 guttation from crops and weeds that have absorbed sulfoxaflor.
+
+12 78. Second, the public reports fail to analyze and disclose substantial scientific evidence
+13 that registering Transform CA and Sequoia CA may have a significant adverse impact on beneficial
+
+14 insects that are not pollinators, including lady bird beetles, parasitoid wasps, and earthworms.
+
+15 79. DPR's failure to analyze and disclose significant adverse effects that can reasonably
+
+16 be expected to occur, directly and indirectly, as a result of its registration decisions with respect to
+17 Transform CA and Sequoia CA precluded meaningful public participation and informed
+18 decisionmaking, in violation of CEQA, the Food and Agricultural Code, and DPR's own regulations.
+
+19 THIRD CAUSE OF ACTION
+
+20 (Failure to Analyze Cumulative Impacts)
+
+21 80. Petitioners re-allege, as if fully set forth herein, each and every allegation contained
+
+22 in the preceding paragraphs.
+
+23 81. Before registering a pesticide, DPR must conduct "at least a preliminary search for
+
+24 potential cumulative environmental effects, and if any such effect were perceived, at least a
+
+25 preliminary assessment of its significance." (Pesticide Action Network N. America, supra, 16
+
+26 Cal.App.5th at p. 249.) DPR's "cumulative impact analysis must be substantively meaningful." (Id.
+27 at p. 250.)
+
+28
+
+Verified Petition for Writ of Mandate 15
+
+82. In violation of CEQA, the Food and Agricultural Code, and DPR's own regulations,
+
+2 DPR's public reports for both Transform CA and Sequoia CA wrongly assert "it is not reasonably
+foreseeable to predict or analyze cumulative impacts from this proposed registration decision."
+
+83. DPR's cumulative impact analysis is not substantively meaningful, and DPR failed to
+
+5 analyze and disclose cumulative impacts that can reasonably be expected to occur as a result of its
+
+6 decision to register Transform CA and Sequoia CA.
+
+7 84. For example, DPR's public reports fail to analyze and disclose the potential
+
+8 cumulative environmental effect of DPR's decision to register Transform CA and Sequoia CA
+
+9 together with DPR's past, present, and reasonably foreseeable future decisions to register other
+
+10 systemic insecticides, including nitroguanidine neonicotinoids. There is substantial scientific
+
+11 evidence that DPR's numerous registration decisions involving systemic insecticides, including
+
+12 sulfoxaflor and nitroguanidine neonicotinoids, have had a cumulatively significant adverse impact
+
+13 on honey bees and other beneficial organisms.
+
+14 85. Second, DPR's public reports fail to analyze and disclose the potential cumulative
+15 environmental effect of DPR's decision to register Transform CA and Sequoia CA together with
+
+16 DPR's past, present, and reasonably foresecable future "emergency" and "special local need"
+
+17 registration decisions involving sulfoxaflor. For example, DPR has proposed a special local need
+
+18 registration for sulfoxaflor to control blue alfalfa aphids on alfalfa, and DPR has previously granted
+
+19 a special local need registration expiring March 31, 2022 to control aphids on several other crops.
+
+20 DPR has also approved six "emergency exemptions" for sulfoxaflor under Section 18 of FIFRA, 7
+
+21 U.S.C. § 136p, all of which are now expired. There is substantial scientific evidence that DPR's
+
+22 numerous registration decisions involving sulfoxaflor have had a cumulatively significant adverse
+
+23 impact on honey bees and other beneficial organisms.
+
+24 86. DPR's failure to analyze and disclose the cumulative impact of its registration
+
+25 decisions with respect to Transform CA and Sequoia CA precluded meaningful public participation
+
+26 and informed decisionmaking, in violation of CEQA, the Food and Agricultural Code, and DPR's
+
+27 own regulations.
+
+28
+
+Verified Petition for Writ of Mandate 16
+
+FOURTH CAUSE OF ACTION
+
+2 (Failure to Analyze Feasible Alternatives)
+
+3 87. Petitioners re-allege, as if fully set forth herein, each and every allegation contained
+
+4 in the preceding paragraphs.
+
+5 88. "Before allowing pesticide to be registered for a proposed use, [DPR] must consider
+
+6 all feasible alternatives." (Citizens for Non-Toxic Pest Control v. Dept. of Food & Agric. (1986) 187
+7 Cal.App.3d 1575, 1586.) In addition, the public reports prepared by DPR in connection with its
+
+8 registration decisions "must include some consideration of feasible alternatives even if the project's
+9 significant environmental impacts will be avoided through mitigation measures." (Pesticide Action
+10 Network N. America, supra, 16 Cal.App.5th at 245.)
+
+11 89. CEQA defines "feasible" as "capable of being accomplished in a successful manner
+
+12 within a reasonable period of time, taking into account economic, environmental, social, and
+13 I technological factors." (Pub. Resources Code, § 21061.1)
+
+14 90. The public reports for Transform CA and Sequoia CA each identify the same four
+15 alternatives:
+
+16 Alternative # 1: Accept the proposed pesticide product containing a new active ingredient.
+17 Alternative # 2: Require revision of the proposed pesticide product label. Alternative # 3: Adopt regulation.
+18 Alternative # 4: No Action (Decision to Deny the Proposed Pesticide Product Containing a New Active Ingredient.) 19
+91.
+20 The public reports for Transform CA and Sequoia CA both identify Alternative # 1 as
+
+21 DPR's "preferred" alternative, due to the purported "lack of feasibility and speculative nature of
+Alternatives #2, #3, and #4.33
+22
+92.
+23 DPR's cursory discussion of alternatives violates CEQA, the Food and Agricultural
+
+24 Code, and DPR's own regulations.
+
+93.
+25 First, DPR failed to analyze and disclose the potential environmental impact of
+
+26 implementing the no action alternative (Alternative # 4). DPR's failure to evaluate the potential
+
+27 environmental impact of declining to register Transform CA and Sequoia CA makes it impossible
+
+28 for DPR to fulfill its legal obligation to assess whether "a reasonable, effective, and practicable
+
+Verified Petition for Writ of Mandate 17
+
+alternate material or procedure that is demonstrably less destructive to the environment." (Food &
+
+2 Agr. Code, § 12825, to subd. (c).) DPR's failure to undertake a meaningful evaluation of the no-action
+3 alternative's environmental impact also precluded meaningful public participation and informed
+4 decisionmaking, in violation of CEQA, the Food and Agricultural Code, and DPR's own regulations.
+
+5 94. Second, substantial evidence does not support DPR's assertion that the no action
+
+6 alternative or alternatives #2 and #3 are infeasible. DPR's failure to undertake meaningful
+evaluation of the feasibility of any alternative course of action precluded meaningful public
+participation and informed decisionmaking, in violation of CEQA, the Food and Agricultural Code,
+
+9 and DPR's own regulations.
+
+10 FIFTH CAUSE OF ACTION
+
+11 (Failure to Prepare the Functional Equivalent of an EIR)
+
+12 95. Petitioners re-allege, as if fully set forth herein, each and every allegation contained
+
+13 in the preceding paragraphs.
+
+14 96. The functional equivalent of an EIR in a certified regulatory program "must provide
+
+15 public and governmental decisionmakers with detailed information on the project's likely effect on
+16 the environment." (Ebbetts Pass Forest Watch v. Dept. of Forestry (2008) 43 Cal.4th 936, 943.)
+
+17 97. CEQA requires agencies operating a certified regulatory program to prepare the
+18 functional equivalent of an EIR whenever it can be fairly argued based on substantial evidence that
+
+19 the project under consideration may have a significant environmental impact. (See, e.g., City of
+20 Arcadia v. State Water Res. Control Bd. (2006) 135 Cal.App.4th 1392, 1424.)
+
+21 98. DPR's public reports for Transform CA and Sequoia CA do not contain detailed
+
+22 information regarding the environmental impact of DPR's proposed registration decisions. Both
+
+23 public reports conclude "the acceptance of this proposed pesticide product containing a new active
+
+24 ingredient is not expected to have any significant adverse effect that can reasonably be expected to
+
+25 occur, directly or indirectly, to human health or the environment."
+
+26 99. DPR's public reports for Transform CA and Sequoia CA are the "functional
+
+27 equivalent" of negative declarations under CEQA.
+
+28
+
+Verified Petition for Writ of Mandate 18
+
+100. Substantial evidence supports a fair argument that DPR's registration decisions with
+
+2 respect to Transform CA and Sequoia CA may have significant direct, indirect, and cumulative
+adverse environmental impacts on honey bees and other beneficial organisms,.
+
+4 101. DPR violated CEQA, the Food and Agricultural Code, and its own regulations by
+
+5 failing to prepare the functional equivalent of an EIR prior to registering Transform CA and Sequoia
+
+6 CA.
+
+7 REQUEST FOR RELIEF
+
+8 Wherefore, Petitioners respectfully request relief as follows:
+
+9 1. For stay of DPR's May 29, 2020 registration decisions with respect to Transform
+
+10 CA and Sequoia CA;
+11 2. For an alternative and/or peremptory writ of mandate directing DPR. to vacate and set
+
+12 aside its May 29,.2020 registration decisions with respect to Transform CA and Sequoia CA;
+13 3, For costs incurred herein, including attorney fees under Code of Civil Procedure
+14 section 1021.5 and any other applicable law; and
+
+15 4. For all such other equitable or legal relief that the Court considers just and proper.
+16
+
+17 DATED: June 24, 2020
+18 TL GREGORY C. LOARIE (CASB 215859) GREGORY D. MUREN (CASB 319313)
+19 EARTHJUSTICE
+50 California Street, Suite 500
+20 San Francisco, CA 94111 T: (415) 217-2000
+21 F: (415)217-2040
+E: gloarie@earthjustice.org
+22 gmuren@earthjustice.org
+
+23 Counsel for Petitioners
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Verified Petition for Writ of Mandate 19
+
+tareots Lempaototedt.
+
+VERIFICATION
+
+I, Steve Ellis, hereby declare:
+am the president of the board of petitioner Pollinator Stewardship Council. The facts
+alleged in the above Veritied Petition for Writ of Mandate are true to my personal knowledge and
+belief. I declare under penalty of perjury under the laws of the State of California that the above IS 6 true and correct and that this verification is executed on this 22nd'day of June 2020
+
+8
+
+Stove Ellis, President
+Pollinator Stewardship Couneil
+EO
+# CO
+19
+20
+RA85A
+
+Verification
+
+adnte:....
+
+EARTHJUSTICE ALASKA CALIFORNIA FLORIDA MID-PACIFIC NORTHEAST NORTHERN ROCKIES
+NORTHWEST ROCKY MOUNTAIN WASHINGTON, DC INTERNATIONAL
+
+June 24, 2020
+
+Hon. Xavier Becerra
+Office of the Attorney General
+1300 "T Street
+Sacramento, CA 95814-2919
+
+Re: Pollinator Stewardship Council et al. v. Cal. Dept. of Pesticide Regulation et al.
+Dear Attorney General Becerra:
+We are writing to notify you that Pollinator Stewardship Council and American Beekeeping Federation intend to file suit in Alameda County Superior Court on the grounds that, inter alia, the California Department of Pesticide Regulation issued a Notice of Final Decisions to Register Transform CA and Sequoia CA on May 29, 2020 in violation of the California Environmental Quality Act, Public Resources Code § 21000 et seq., and other applicable laws and regulations.
+
+have enclosed a copy of the Verified Petition for Writ of Mandate to be filed on June 24, 2020.
+
+Sincerely,
+
+Gregory C. Loarie
+Gregory D. Muren
+
+Counsel for Pollinator Stewardship Council
+and American Beekeeping Federation
+
+Encl.
+
+50 CALIFORNIA STREET, 5TH FLOOR SAN FRANCISCO, CA 94111
+T: 415.217.2000 F: 415.217.2040 E: gloarie@earthjustice.org w: www.earthjustice.org
+
+LPCETVS 2020
+BY:____________

@@ -1,0 +1,1335 @@
+REMY MOOSE MANLEY, LLP
+HOWARD F. WILKINS III, SBN 203083 CHRISTOPHER L. STILES, SBN 280816
+CHRISTINA L. BERGLUND, SBN 303865
+555 Capitol Mall, Suite 800 Sacramento, CA 95814
+Telephone: (916) 443-2745
+Facsimile: (916) 443-9017
+
+6 Email: cwilkins@rmmenvirolaw.com
+cstiles@rmmenvirolaw.com
+cberglund@rmmenvirolaw.com
+
+8 Attorneys for Petitioner and Plaintiff
+MARINA COAST WATER DISTRICT EXEMPT FROM FILING FEES 9
+[GOVERNMENT CODE § 6103] 10
+
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+12 IN AND FOR THE COUNTY OF MONTEREY
+13
+14 MARINA COAST WATER DISTRICT, AND Case No.: 19CV003305
+DOES 1-100,
+15
+Petitioner and Plaintiff, NOTICE OF COMMENCEMENT OF CEQA 16 ACTION TO THE ATTORNEY GENERAL
+17 V.
+
+18 COUNTY OF MONTEREY, AND DOES 101- [California Environmental Quality Act, Public
+110, Resources Code, § 21000 et seq.; California Code 19 of Civil Procedure, § 1094.5].
+
+20 Respondents and Defendants,
+
+21 CALIFORNIA AMERICAN WATER, AND
+22  DOES 111-120.
+
+23 Real Parties in Interest.
+24
+
+25
+
+3
+26
+
+27 -397
+28
+
+UANOTICE OF COMMENCEMENT OF CEQA ACTION TO THE ATTORNEY GENERAL
+11
+
+TO THE ATTORNEY GENERAL, PLEASE TAKE NOTICE that pursuant to California Code
+2 of Civil Procedure section 388 and California Public Resources Code section 21167.7, Petitioner and
+3 Plaintiff Marina Coast Water District ("MCWD") brings this action against Respondent and Defendant
+4 County of Monterey, and Real Party in Interest California American Water to enforce the California
+5 Environmental Quality Act (Pub. Resources Code, § 21000 et seq.) ("CEQA") based on the allegations
+
+6 listed in MCWD's Petition For Writ of Mandate and Complaint for Injunctive Relief, attached hereto as
+7 Exhibit A.
+
+9 Dated: August 16, 2019 REMY MOOSE MANLEX, LLP
+
+10
+
+11 By: U Ut Howard F. Wilkins III 12 Christopher L. Stiles
+'13 Christina L. Berglund
+
+14 Attorneys for Petitioner MARINA COAST WATER DISTRICT
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+.2 800GE 1L 00886 NOTICE OF COMMENCEMENT OF CEQA ACTION TO THE ATTORNEY GENERAL
+
+NOTICE OF COMMENCEMENT OF CEQA ACTION TO
+THE ATTORNEY GENERAL
+EXHIBIT A
+
+1 * :
+
+ELECTRONICALLY FILED BY
+Superior Court of California,
+County of Monterey
+REMY MOOSE MANLEY, LLP On 8/15/2019 3:12 PM
+
+HOWARD F. WILKINS III, SBN 203083 By: Christina Flores, Deputy
+CHRISTOPHER L. STILES, SBN 280816
+CHRISTINA L. BERGLUND, SBN 303865
+555 Capitol Mall, Suite 800
+Sacramento, CA 95814
+
+5 Telephone: (916) 443-2745
+Facsimile: (916) 443-9017
+
+6 Email: cwilkins@rmmenvirolaw.com
+cstiles@rmmenvirolaw.com
+cberglund@rmmenvirolaw.com
+
+8 Attorneys for Petitioner and Plaintiff
+MARINA COAST WATER DISTRICT
+9 EXEMPT FROM FILING FEES
+
+10 [GOVERNMENT CODE § 6103]
+
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+12 IN AND FOR THE COUNTY OF MONTEREY
+13
+
+14 MARINA COAST WATER DISTRICT, AND Case No.:19CV003305
+DOES 1-100, 15
+
+16 Petitioner and Plaintiff, PETITION FOR WRIT OF MANDATE AND
+COMPLAINT FOR INJUNCTIVE RELIEF
+17 V.
+
+18 COUNTY OF MONTEREY, MONTEREY [California Environmental Quality Act, Public
+COUNTY BOARD OF SUPERVISORS, AND 19 DOES 101-110, Resources Code, $ 21000 et seq.; California Code of Civil Procedure, § 1094.5]
+20 Respondents and Defendants,
+21
+
+22 CALIFORNIA AMERICAN WATER, AND
+
+23 DOES 111-120.
+
+24 Real Parties in Interest.
+
+25
+
+26
+
+27
+
+28
+
+PETITION FOR WRET OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF
+8AI •
+
+Petitioner and Plaintiff Marina Coast Water District ("Petitioner" or "MCWD") alleges as
+
+2 follows:
+INTRODUCTION
+
+1. This action challenges the decision of the COUNTY OF MONTEREY and the
+MONTEREY COUNTY BOARD OF SUPERVISORS (*Board") (collectively the "County" or
+I "Respondents") to approve Resolution 19-258 granting a Combined Development Permit
+(PLN150889), consisting of a Use Permit, an Administrative Permit, and Design Approval, for the
+
+8 desalination plant component of the Monterey Peninsula Water Supply Project ("MPWSP" or
+"Project"). Specifically, MCWD alleges that Respondents' actions in approving the Project violated:
+
+10 (1) the California Environmental Quality Act (Public Resources Code, § 21000 et seq.) ("CEQA")
+
+11 and the CEQA Guidelines (California Code of Regulations, Title 14, § 15000 et seq.) by making
+
+12 CEQA environmental significance, impact, mitigation measure, alternatives, and overriding
+
+13 consideration determinations that do not meet CEQA's informed decision-making and public
+
+14 participation standards, and are not supported by substantial evidence; (2) State Planning and Zoning
+
+15 Law (Government Code, § 65000, et seq.) by approving a Project that is inconsistent with the
+
+16 Monterey County General Plan; (3) the California Water Code (Wat. Code, §§ 10910-10915) for, in
+
+17 part, failing to prepare a Water Supply Assessment ("WSA") for the Project consistent with the
+
+18 California Water Code; and (4) the Monterey County Code.
+
+2.
+19 The MPWSP is a sprawling a and unnecessary desalination project proposed by Real
+
+20 Party in Interest CALIFORNIA AMERICAN WATER ("Cal-Am") that would be constructed in, and
+
+21 near, the City of Marina. The MPWSP project area extends approximately 18 miles, from the town of
+
+22 Castroville in the north to the City of Carmel in the south. To supply source water for the MPWSP,
+
+23 Cal-Am proposes to drill seven slant wells within the City of Marina's coastal zone that would pump
+
+24 approximately 16 million gallons per day ("mgd") of brackish groundwater from the "critically
+
+25 overdrafted" Salinas Valley Groundwater Basin ("SVGB" or "Basin"). The groundwater would then
+
+26 be pumped to the desalination. plant for treatment after which the treated groundwater would be
+
+27 largely exported outside of the Basin to water users on the Monterey Peninsula.
+
+28 3. The California Public Utilities Commission ("CPUC") certified a Final Environmental
+
+P 2
+n COm 1 PON PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF
+
+Impact Report ("EIR") and approved Certificate of Public Convenience and Necessity ("CPCN") for
+2 the MPWSP in September of 2018, allowing Cal-Am to pursue the Project if it could obtain the
+3 necessary permits and agreements. The CPUC's EIR disclosed significant and unavoidable impacts
+
+4 related to air quality, including greenhouse gas ("GHG") emissions, and traffic caused by
+construction activities. A Petition for Writ of Review/Mandate challenging the CPUC's approval is
+6 currently pending before the California Supreme Court.
+
+4. The City of Marina (the "City") was the first responsible agency to consider an
+approval following the CPUC's certification of the EIR. On March 7, 2019, the Marina City Planning
+Commission, denied Cal-Am's application for a coastal development permit ("CDP") to construct the
+10 MPWSP source wells, which at all relevant times herein were Cal-Am's only proposed source of
+11 water for the proposed desalination plant at issue in this Petition and Complaint (Petition"). In
+12 denying Cal-Am's CDP application, the Marina City Planning Commission expressly found the
+13 Marina Local Coastal Plan ("LCP") prohibits both the construction and operation of the MPWSP
+
+14 source wells within Environmentally Sensitive Habitat Area ("ESHA"), as Cal-Am's CDP
+15 application proposed. The Marina City Planning Commission also found that there was significant
+16 new information triggering the need for supplemental review under CEQA, including information
+17 demonstrating that (1) the MPWSP will likely result in new or substantially more severe significant
+18 impacts compared to what was disclosed in the CPUC's EIR, and (2) that an alternative previously
+
+19 found infeasible would in fact be feasible and would substantially reduce impacts caused by the
+20 MPWSP. Cal-Am filed an appeal of that decision to the Marina City Council but subsequently
+21 abandoned its appeal prior the County's consideration of the Project. Cal-Am has appealed the City's
+22 denial to the Coastal Commission, but there are not valid grounds for the Coastal Commission to
+23 reverse the City's decision. Without a CDP, Cal-Am does not have authority to construct the
+24 proposed slant wells. Thus, there was no identifiable source water supply for the MPWSP at the time
+25 the County considered its approval of the Project.
+
+26 5. Marina and the Ord Community residents and businesses will not receive any Project
+27 water because they are not located in Cal-Am's service territory. They will, however, be unfairly
+28 saddled with the Project's severe long-term environmental impacts. Marina is a multi-cultural,
+
+3
+0 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF'
+
+working class, disadvantaged community that is already home to numerous industrial facilities that
+2 support the larger region. The Project proposes to impose another large set of industrial facilities on
+Marina while destroying seven acres of its rare coastal dunes and ESHA, causing significant and
+
+4 unavoidable air quality and traffic impacts, and impairing the groundwater supply that Marina and the
+adjacent Ord Community depend on.
+
+6. The Project's significant economic impacts on Cal-Am's Monterey Peninsula
+ratepayers would also be unjust and burdensome, both because of the exponentially-increased water
+8 cost-already the highest in the nation--and because constructing the MPWSP may make it more
+9 difficult or financially infeasible for Monterey Peninsula Water Management District (*MPWMD")
+10 to implement the Monterey Peninsula voters' direction to explore a takeover of Cal-Am's Monterey
+
+11 District water system due to increased value of its physical assets.
+
+12 7. In the face of overwhelming opposition from the public, the City, and other interested
+13 agencies, the Board voted 3-to-2 to allow Cal-Am to construct the desalination plant despite the fact
+14 that the MPWSP has no source water supply in light of the City's denial and the undisputed fact that
+15 Cal-Am lacks any water rights for the proposed source water for the MPWSP desalination plant.
+16 Notably, the Board member representing the Marina and Ord communities that would bear the brunt
+17 of the MPWSP's significant environmental impacts and the Board member representing the
+18 Monterey Peninsula ratepayers that would be saddled with the Project's exorbitant costs voted against
+19 approving the Project.
+
+20 8. By that same razor thin margin, the Board voted against conducting further
+21 environmental review under CEQA to evaluate significant new information and testimony
+22 demonstrating that there are feasible alternatives that would provide water to the Monterey Peninsula
+23 ratepayers at substantially lower costs and that would avoid or substantially lessen the MPWSP's
+24 significant and unavoidable environmental impacts.
+
+25 9. The same three Board members also voted against conducting further environmental
+26 review under CEQA to evaluate significant new information and testimony provided by multiple
+
+27 experts demonstrating that operation of the MPWSP will result in significant impacts to groundwater
+28 resources that were not disclosed or mitigated in the Final EIR as required by CEQA.
+
+4
+
+•5 ANO EO APETITION FOR WRIT OF MANDATE AND COMPLÄINT FOR INJUNCTIVE RELIEF
+
+10. In approving the desalination plant, the County, as a responsible agency, prejudicially
+
+2 abused its discretion and failed to proceed in the manner required by CEQA by failing to prepare a
+3 subsequent or supplemental EIR. As a result of the County's failure to conduct subsequent
+
+4 environmental review as required by CEQA, the County, other responsible and trustee agencies, and
+
+5 the public were deprived of the opportunity to consider alternatives and mitigation that could have
+6 addressed the desalination plant's significant environmental effects.
+
+11. MCWD seeks a writ of mandate and injunctive relief, vacating and setting aside the
+8 desalination plant approval, and enjoining Cal-Am from proceeding with the desalination plant, on
+the grounds that the County violated CEQA, the Planning and Zoning Law, the Monterey County
+10 Code, and prejudicially abused its discretion when it approved the desalination plant.
+
+11 PARTIES
+
+12 12. MCWD is a publicly-owned county water district formed by the voters in 1960 to
+
+13 provide potable water service to all residential, commercial, industrial, environmental, and fire
+
+14 protection uses in the then unincorporated community of Marina. The City of Marina was
+15 incorporated in 1975, but MCWD has remained a separate agency. MCWD also provides potable
+
+16 water delivery and wastewater conveyance services within the boundaries of the former Fort Ord
+17 Army Base, known as the Ord Community. MCWD is the sole provider of municipal water service
+
+18 for the over 33,000 residents in its Marina and Ord Community service areas, who rely on MCWD
+19 for their domestic drinking water. MCWD, as well as its residential and commercial customers,
+
+20 would be materially injured by the activities that were approved for the Project.
+
+21 13. MCWD is unaware of the true names and capacities of Petitioners and Plaintiffs
+22 fictitiously named herein as DOES 1 through 100, inclusive. MCWD is informed and believes, and
+
+23 thereon alleges, that such fictitiously named Petitioners and Plaintiffs are beneficially interested in
+
+24 Respondents' compliance with its mandatory duties under CEQA and state law before approving the
+
+25 desalination plant, and that such Petitioners and Plaintiffs have standing to be joined as Petitioners
+
+26 and Plaintiffs in this proceeding. MCWD will amend this Petition, with leave of the court if
+27 necessary, to allege the fictitiously named Petitioners' and Plaintiffs' true names and capacities when
+
+28 ascertained.
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIERC7 4J Di
+
+14. Respondent Monterey County is, and at all times mentioned herein was, a political
+2 subdivision of the State of California. The County is, and at all times mentioned herein was,
+3 responsible for administering and carrying out its laws and all applicable federal and state laws,
+
+4 including CEQA and Planning and Zoning Law, in considering discretionary approvals within the
+County.
+
+6 15. Respondent Board is the duly elected legislative body for Monterey County. As the
+is decision-making body, the Board is charged with the responsibilities under CEQA for conducting a
+proper review of the proposed action's environmental impacts and granting the various approvals
+9 necessary for the Project.
+
+10 16. MCWD is unaware of the true names and capacities of Respondents DOES 101
+11 through 110, and sues such respondents by fictitious names. MCWD is informed and believes, and on
+12 the basis of such information and belief, that the fictitiously named respondents are responsible for
+13 actions described in this Petition. When the true identities and capacities of these respondents have
+
+14 been determined, Petitioner will amend this Petition, with leave of the court, if necessary, to insert
+15 such identities and capacities.
+
+16 17. Cal-Am is a privately-owned water corporation under the Public Utilities Code and is
+17 regulated by the CPUC. Cal-Am is a California corporation with its principal place of business in
+18 San Diego, California.
+
+19 18. Cal-Am is not a public entity, but a wholly owned subsidiary of American Water, the
+20 largest investor-owned water and wastewater utility company in the United States. American Water
+
+21 has its headquarters in Voorhees, New Jersey. Cal-Am is named as Real Party in Interest pursuant to
+22 Section 21167.6.5, subdivision (a) of the Public Resources Code. MCWD is informed and believes,
+23 and thereon alleges, that Cal-Am is, and at all times herein mentioned was, the applicant for the
+24 desalination plant.
+
+25 19. MCWD is unaware of the true names and capacities of Real Parties in Interest DOES
+26 11 through 120, and sues such real parties by fictitious names. MCWD is informed and believes, and
+27 based on such information and belief, alleges that the fictitiously named real parties in interest are
+28 directly and materially affected by the actions described in this Petition. When the true identitiés and
+
+6
+NVE RPAR PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCHVE RELIEF
+
+- capacities of these real parties in interest have been determined, MCWD will amend this Petition,
+2 with leave of the court if necessary, to insert such identities and capacities.
+
+3 JURISDICTION AND VENUE
+
+4 20. This court has jurisdiction over the matters alleged in this Petition pursuant to Code of
+
+5 Civil Procedure sections. 526, 526a, 1094.5, and 1087; Public Resources Code section 21168; and
+
+6 Government Code section 65009, subdivision (c)(1). Alternatively, this Court has jurisdiction under
+
+7 Code of Civil Procedure section 1080 and Public Resources code section 21168.5.
+
+8 21. Venue for this action properly lies in the Superior Court for the State of California in
+
+9 and for the County of Monterey pursuant to section 349 of the Code of Civil Procedure. The
+10 desalination plant at issue in this Petition is located within Monterey County.
+
+11 STANDING
+
+12 22. MCWD has a direct and substantial beneficial interest in the County's full and
+
+13 complete compliance with CEQA and all other applicable laws, in approving the desalination plant.
+
+14 23. The County owed a mandatory duty to act within the boundaries of its legal authorities
+
+15 under CEQA before exercising its discretion to approve the desalination plant.
+
+16 24. MCWD also has the right to enforce the public right and duties that CEQA imposes on
+
+17 the County.
+
+18 25. MCWD is a public agency charged with providing safe and reliable water service for
+
+19 residential, commercial, industrial, environmental, and fire protection uses. MCWD serves over
+
+20 33,000 residents in its Marina and Ord Community service areas, who rely on MCWD for their
+
+21 domestic drinking water. MCWD currently pumps all its water supply from groundwater wells in the
+
+22 SVGB that Cal-Am proposes to pump for the MPWSP's source water.
+
+23 26. MCWD has a substantial interest in ensuring the Project's impacts are fully mitigated.
+
+24 Among other reasons, operation of the Project will adversely affect water supplies and water quality
+
+25 in the SVGB, impairing MCWD's water rights, contracts, and ability to provide essential public
+
+26 services.
+
+27 27. MCWD also has public interest standing to enforce the laws violated by the County,
+
+28 including CEQA. *-
+
+7
+D 3 $A SBL PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF N
+
+28: MCWD has no other plain, speedy and adequate remedy in the ordinary course of law
+2 and will suffer irreparable injury unless this court issues the relief requested in this Petition.
+
+29. MCWD also entered into a recorded annexation agreement with the Monterey County
+Water Resources Agency, the City of Marina, the J.G. Armstrong Family, and RMC Lonestar (owner
+of the "Lonestar" property at issue in this litigation): the Annexation Agreement and Groundwater
+6 Mitigation Framework for Marina Area Land dated March 1996. The property at issue in this
+7 litigation is subject to restrictions set forth in the Annexation Agreement. The Annexation Agreement
+protects the groundwater resources of the Salinas River Groundwater Basin. MCWD's rights under
+9 the Annexation Agreement would be materially impaired and harmed by the Project, which is located
+10 on this property.
+
+11 EXHAUSTION OF ADMINISTRATIVE REMEDIES
+
+12 30. MCWD objected to approval of the desalination plant prior to the close of the public
+
+13 hearing on the desalination plant and before the County issued its most recent Notice of
+14 Determination ("NOD"), posted by the County Clerk on July 17, 2019.
+
+15 31. The grounds for noncompliance with CEQA and other applicable laws alleged in the
+16 Petition are consistent with the objections to the Project raised by MCWD or by other members of the
+
+17 public and interested parties in comments or at the public hearings on the desalination plant, and
+
+18 before the County issued its NOD for the desalination plant approvals.
+
+19 32. If any grounds for noncompliance with CEQA or other applicable laws alleged in this
+
+20 Petition were, for some reason, not raised prior to the close of the public hearing on the desalination
+21 plant before the County issued its NOD for the desalination plant, it was because there was no
+
+22 meaningful opportunity for members of the public to raise those objections in writing prior to the
+23 approval of the Project, or because the County failed to give notice required by law.
+
+24 33. MCWD has exhausted its administrative remedies.
+
+25 STATUTE OF LIMITATIONS
+
+26 34. On July 17, 2019, or soon thereafter, the County filed a NOD for the desalination
+
+27 plant. The statute of limitations for a CEQA challenge to the County's decision to approve the Project
+
+28 without preparation of a subsequent or supplemental EIR expires 30 days thereafter, on August 16,
+
+8
+A PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIER L21 il
+
+2019. The Petition was filed in Monterey County Superior Court on or before August 16, 2019.
+
+2 35. The statute of limitations for a State Planning and Zoning Law challenge to the
+3 County's decision to approve a project based on inconsistency with its general plan is 90 days after
+4 the County's decision became final. The Petition was filed in Monterey County Superior Court prior
+
+5 to the 90th day following the County's final decision.
+
+6 36. MCWD filed the Petition prior to the expiration of any and all applicable statutes of
+7 limitation.
+NOTICE OF CEOA SUIT
+37. On August 14, 2019, MCWD sent by email and overnight delivery a letter to the
+10 Monterey County Clerk and Monterey County Board of Supervisors, giving notice to the County of
+11 MCWD's intent to file this Petition. A copy of that notice is attached hereto as Exhibit A. is
+
+12 38. In accordance with Public Resources Code section 21167.7, a copy of this pleading
+
+13 will be provided to the Attorney General.
+
+14 PREPARATION OF THE RECORD
+
+15 39. Pursuant to Public Resources Code, section 21167.6, subdivision (b)(2), MCWD
+
+16 elects to prepare the record of proceedings in this action. Concurrently with this Petition, MCWD is
+
+17 filing a notice of its election to prepare the administrative record.
+
+18 GENERAL ALLEGATIONS
+
+40.
+19 The MPWSP proposed by Cal-Am is a water supply project consisting of multiple
+
+20 components located in multiple jurisdictions. The MPWSP area extends approximately 18 miles,
+from the town of Castroville in the north to the City of Carmel in the south. 21
+41. The primary purpose of the MPWSP is to enable Cal-Am to halt its illegal diversions 22
+of water from the Carmel River, which the State Water Resources Control Board concluded in 1995
+23
+
+24 adversely impacted endangered species and their riparian environment.
+
+42.
+25 Cal-Am's available sources of water supply will permit it to continue serving its
+•
+
+26 present water system's demand and to timely halt its illegal Carmel River diversions, without the
+
+MPWSP.
+27
+43.
+28 To supply source water for the MPWSP, Cal-Am proposes to drill slant wells to draw
+
+9
+0G. JS: AY PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF MET4
+
+brackish groundwater from the shallow coastal aquifers of the SVGB, in close proximity to MCWD's
+
+2 municipal wells and in a volume five times in excess of the volume of groundwater MCWD currently
+
+3 draws.
+
+4 44. Cal-Am lacks any water rights to extract groundwater from the SVGB. Cal-Am has no
+5 overlying water rights, no existing appropriative rights, and no existing prescriptive groundwater
+6 rights for the MPWSP in the SVGB. Cal-Am is barred from establishing future appropriative water
+
+7 rights in surplus water because the SVGB is critically overdrafted. The Sustainable Groundwater
+Management Act further bars Cal-Am from establishing future prescriptive water rights in the SVGB.
+
+45. In 2018, the CPUC, as the lead agency, certified an EIR for the MPWSP. The EIR
+10 concluded that the MPWSP would result in significant and unavoidable impacts related to air quality,
+11 GHG emissions, and traffic. This Petition does not challenge the CPUC's decision to certify the EIR.
+12 MCWD and the City commenced original actions in the Supreme. Court directly challenging the
+13 CPUC's decision to certify the EIR, consolidated as Supreme Court case number S253585.
+
+14 46. The desalination plant is a component of the MPWSP. It includes a pretreatment
+15 facility, a reverse osmosis facility, a post-treatment facility, backwash supply and filtered water
+16 equalization tanks, desalinated product water storage and conveyance facilities, brine storage and
+17 disposal facilities, and an administration building and laboratory facility. The desalination plant will
+18 require approximately 17,000 acre-feet per year of source water to provide the proposed 6.4 mgd of
+19 output.
+
+20 47. The County has permitting authority over the desalination plant because it is located in
+21 the inland unincorporated area of the County- and is therefore a responsible agency under CEQA.
+22 (Pub. Resources Code, § 15381.)
+
+23 48. The City of Marina is the responsible agency that has jurisdiction over the MPWSP's
+24  proposed slant wells, which is the only proposed source of water for the Project. The City of Marina
+25 denied Cal-Am's CDP application for construction of the MPWSP's source wells prior to the
+26 County's consideration and approval of the desalination plant. Therefore, there was no identifiable
+27 source water supplies for the MPWSP at the time the County approved Resolution 19-258 and the
+28 desalination plant. Cal-Am has challenged the City of Marina's denial in a proceeding beforè the
+
+10
+
+it : PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF ELT:
+
+Coastal Commission.
+
+2 49. MCWD is informed and believes, and based thereon alleges, that Cal-Am brought
+forward to the County a request for a Combined Development Permit, consisting of a Use Permit, an
+Administrative Permit, and Design Approval for the desalination plant.
+
+50. MCWD and other concerned stakeholders provided comment letters to the County
+6 Planning Commission urging decisionmakers not to approve the desalination plant without
+subsequent or supplemental environmental review due to the availability of significant new
+
+8 information and a substantial change in circumstances under which the desalination plant would be
+undertaken. (See Pub. Resources Code, § 21166.)
+
+10 51. Under CEQA, any agency granting an approval for project, whether it be the lead
+11 agency or responsible agency, must prepare a subsequent or supplemental EIR if, based on
+12 substantial evidence in the light of the whole record, one or more of the following occurs:
+13 (1) Substantial changes are proposed in the project which will require
+
+14 major revisions of the previous EIR or negative declaration due to the
+involvement of new significant environmental effects or a substantial
+
+15 increase in the severity of previously identified significant effects;
+(2) Substantial changes occur with respect to the circumstances under
+16 which the project is undertaken which will require major revisions of
+17 the previous EIR or Negative Declaration due to the involvement of new significant environmental effects or a substantial increase in the
+18 severity of previously identified significant effects; or
+
+19 (3) New information of substantial importance, which was not known and could not have been known with the exercise of reasonable
+20 diligence at the time the previous EIR was certified as complete or the Negative Declaration was adopted, shows any of the following:
+21 (A) The project will have one or more significant effects not discussed
+22 in the previous EIR or negative declaration;
+
+23 (B) Significant effects previously examined will be substantially more
+severe than shown in the previous EIR;
+24 (C) Mitigation measures or alternatives previously found not to be
+
+25 feasible would in fact be feasible, and would substantially reduce one or more significant effects of the project, but the project proponents
+26 decline to adopt the mitigation mcasure or alternative; or
+
+27 (D) Mitigation measures or alternatives which are considerably different from those analyzed in the previous EIR would substantially
+28 reduce one or more significant effects on the environment, but the
+
+11
+Gobm :0VOBC *: PETTTION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE: RELIEF
+
+project proponents decline to adopt the mitigation measure or
+alternative.
+2 (CEQA Guidelines, § 15162, subd. (a); see Pub. Resources Code, § 21166.) If any of these conditions
+occur, a subsequent or supplemental EIR must be prepared by "the public agency which grants the
+4 next discretionary approval for the project, if any." (CEQA Guidelines, §§ 15162, subd. (c), 15163,
+italics added.)
+6
+52. Since the CPUC's certification of the EIR the record shows the following have
+
+occurred:
+8 a. First, numerous hydrogeologists have provided expert evidence demonstrating that
+there is significant new information establishing that the MPWSP would have new or
+10 substantially more severe groundwater impacts related to water quality and water 11 supply than what was previously analyzed in the EIR.
+12 b. Second, there is significant new information that alternatives previously found not to 13 be feasible would in fact be feasible and would substantially reduce one or more
+14
+15 significant effects of the MPWSP. The record demonstrates that an expansion of the
+
+16 Pure Water Monterey project is a feasible and cost-effective solution to the Monterey
+Peninsula's water supply needs and would substantially reduceif not completely
+17 avoid, many of the MPWSP's significant environmental impacts.
+18
+C. Third, there is significant new information showing that there are mitigation measures
+19 or alternatives available that are considerably different from those previously analyzed
+20 in the EIR and would substantially reduce seawater intrusion of groundwater
+21
+resources.
+22
+53. On or about April 24, 2019, the County Planning Commission held a public hearing
+23 and adopted a resolution approving the desalination plant without conducting subsequent
+24 environmental review in a narrow 6-to-4 vote.
+25 54. MCWD and Public Water Now timely appealed the County Planning Commission's 26 decision to the Board as provided for under the Monterey County Code.
+27 55. MCWD, other concerned stakeholders, and the public provided comment letters to the
+28
+
+12
+DA: G PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF A NH EPL
+
+1 County in support of MCWD's and Public Water Now's appeals to the Board.
+
+2 56. On July 15, 2019, the Board held a public hearing on the Project. MCWD, other
+3 concerned stakeholders, and the public testified in support MCWD's and Public Water Now's
+
+4 appeals. In a narrow 3-to-2 vote, the Board denied MCWD's and Public Water Now's appeals and
+
+5 approved Resolution 19-258 and the desalination plant despite the fact Cal-Am had no source of
+
+6 water for the Project or water rights.
+
+7 57. In an attempt to mitigate the cloud of uncertainty surrounding the MPWSP's lack of
+8| sourcè water supply and circumvent the requirements of its own General Plan, the Board adopted a
+last minute, condition of approval (Condition 22) requiring restoration or adaptive re-use of the
+10 desalination plant site in the event that a source of water is not secured by Cal-Am. The Board did
+11 not, however, evaluate the potential environmental impacts that could result from the condition or
+12 explain how the condition would be implemented.
+
+13 58. The County posted a NOD with the Monterey County Clerk on July 17, 2019.
+
+14 FIRST CAUSE OF ACTION
+Violation of CEQA (Pub. Resources Code, $ 21000 et seq.)
+15 59. MCWD re-alleges and incorporates by reference the preceding paragraphs in their
+16
+entirety.
+17
+60. In order to safeguard the environment, CEQA and the CEQA Guidelines place certain
+18
+
+19 requirements on "responsible agencies." CEQA prohibits a responsible agency from approving :
+project as proposed if there are feasible alternatives or mitigation measures that would substantially
+20
+lessen or avoid any significant effect the desalination plant would have on the environment. (CEQA
+21 Guidelines, § 15096, subds. (g)(1) and (2).)
+22
+61. Under CEQA, an agency granting an approval for a project, whether it be the lead
+23
+agency or a responsible agency, must prepare a subsequent or supplemental EIR when new
+24
+
+25 information of substantial importance shows, in part, that (1) significant effects previously examined
+
+26 will be substantially more severe than shown in the EIR; or (2) alternatives previously found not to be
+feasible would in fact be feasible and would substantially reduce one or more significant effects of
+27
+
+28 the project, but the project applicant declines to adopt the alternative. (CEQA Guidelines, § 15162,
+
+13
+ET PETITION FOR WRIT OF MANDATE AND COMPEAINT FOR INIUNCTIVE RELIEF
+
+subd. (a); see Pub. Resources Code, § 21166.) If any of the conditions listed in CEQA Guidelines
+
+2 section 15162 occur, a subsequent or supplemental EIR must be prepared by "the public agency
+3 which grants the next discretionary approval for the project." (CEQA Guidelines, § 15162, subd. (c).)
+62. The record contains significant new information that the Pure Water Monterey project
+alternative previously found not to be feasible by the CPUC when it certified the EIR would in fact
+6 be feasible and would substantially reduce one or more significant effects of the MPWSP. A
+MPWMD representative testified at the Board hearing that MPWMD and Monterey One Water were
+
+8 in the process of conducting the environmental review for the expansion of the Pure Water Monterey
+project and explained that reliable sources of water have been clearly identified. The representative
+10| further testified that the expansion of the of the Pure Water Monterey project was feasible and could
+
+11 be implemented in time to avoid any water cutbacks to the Monterey Peninsula.
+
+12 63. The Board found by narrow 3-2 vote that the expanded Pure Water Monterey project
+13 alternative is "legally infeasible" because Monterey One Water has yet to approve an expansion of
+14 the Pure Water Monterey project, and that the expansion would require permits from agencies other
+15 than the County. The County, however, failed to identify any accurate reason why the expansion of
+16 the Pure Water Monterey project is legally infeasible. The fact that the expansion of the Pure Water
+17 Monterey project would require permits from other agencies does not render it legally infeasible. Nor it
+18 does the fact that Cal-Am is not pursuing it. As MCWD explained in its comments to the Board, the
+19 courts have rejected the County's rationale for finding the expansion was legally infeasible. (See
+20 Uphold Our Heritage v. Town of Woodside (2007) 147 Cal.App.4th 587, 601 ["willingness of the
+21 applicant to accept a feasible alternative, however, is no more relevant than the financial ability of the
+22 applicant to complete the alternative"].) MCWD's comments to the County further explained that to
+
+23 define legally infeasibility as proposed in the County's resolution would render CEQA meaningless.
+
+24 64. The record also contains significant new information showing that the MPWSP's
+25 groundwater impacts will be substantially more severe than previously analyzed in the EIR. As
+26 MCWD explained in its comments to the Board, this information includes new data and studies that
+27 were not available when the CPUC certified the Final EIR in September 2018.
+
+28 65. The Board erroneously found by a narrow 3-2 vote that the County did not need to
+
+14
+12 F PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF PEE
+
+address this significant new information because the project before the County was limited to the
+
+2 desalination plant. MCWD explained in its comments to the Board why this proposed finding is
+factually and legally inaccurate. Not only is the source water for the desalination plant inextricably
+
+4 intertwined with the desalination plant itself, the desalination plant cannot operate without the source
+wells. Contrary to the Board's finding, the County has ample authority to address impacts associated
+6 with the slant wells and was required to consider this information before approving the Project.
+
+66. The record further contains significant new information showing that there are
+mitigation measures and other alternatives available that are considerably different from those
+previously analyzed in the EIR and would substantially reduce one or more significant effects on the
+10 environment.
+
+11 67. The County prejudicially abused its discretion and violated CEQA when it approved
+12 the desalination plant without preparation of a subsequent or supplemental EIR. The County's
+13 decision to approve the desalination plant without further environmental review is unsupported by
+14 substantial evidence. Among other things, the County:
+
+15 a. failed to prepare a subsequent or supplemental EIR to evaluate significant new
+
+16 information that the MPWSP's groundwater impacts related to water quality and water
+17 supply would be substantially more severe than was evaluated or disclosed in the EIR
+
+18 certified by the CPUC for the Project; and
+19 b. failed to prepare a subsequent or supplemental EIR to evaluate the Pure Water
+20 Monterey expansion project, along with groundwater storage opportunities and
+
+21 feasible alternatives to the construction and operation of the MPWSP that would
+
+22 substantially reduce one or more significant effects of the Project.
+
+23 68. The County also violated CEQA by adopting inadequate findings. The County
+24| improperly limited its CEQA findings only to effects attributable to the desalination plant. In
+25 addition, the County's findings do not provide adequate reasoning or the analytic route from facts to
+26 conclusions, required by law. The Findings of Fact and Statement of Overriding Considerations are
+27 unsupported by substantial evidence in the record.
+
+28 69.. As a result of the foregoing defects and others according to proof, the County
+15
+4 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIER1
+
+prejudicially abused its discretion in approving the desalination plant without preparing a subsequent
+2 or supplemental EIR. Accordingly, the County's approval of the desalination plant must be set aside.
+
+3 SECOND CAUSE OF ACTION
+Violation of CEQA (Pub. Resources Code, $ 21000 et seq.)
+4
+70. MCWD re-alleges and incorporates by reference the preceding paragraphs in their
+5
+entirety.
+6
+71. CEQA requires an analysis of the secondary impacts that might be caused by
+implementing proposed mitigation measures. (CEQA Guidelines, § 15126.4(a)(1)(D).)
+72. Condition 22, which the County added to the Project last-minute, requires that the
+desalination plant be repurposed or the project site restored in the event Cal-Am does not obtain
+10 water rights. This condition could result in potentially significant adverse impacts depending on how
+11 the desalination plant site was repurposed and construction activities associated with restoration.
+12 73. Despite MCWD's comments explaining that the County was required to evaluate the
+13 condition's potential environmental impact, the County failed to evaluate impacts related to
+14 implementation of Condition 22, and in doing so, deprived the public a meaningful opportunity to
+15 consider and comment on this last-minute change to the Project.
+16
+74. Importantly, Condition 22 does not cure the County's failure to consider Cal-Am's
+17 lack of water rights in approving the desalination plant and triggers CEQA review in its own right
+18 due to its potential to result in environmental impacts related to restoration of the project site or
+19 repurposing of the desalination plant.
+20 75. As a result of the foregoing defects and others according to proof, the County
+21 prejudicially abused its discretion in approving the desalination plant without preparing a subsequent 22 or supplemental EIR. Accordingly, the County's approval of the desalination plant must be set aside.
+23 THIRD CAUSE OF ACTION
+24 Violations of Planning and Zoning Law (Gov. Code, $65000 et seq.)
+
+25 76. MCWD re-alleges and incorporates by reference the preceding paragraphs in their
+26 entirety.
+
+27 77. As a general law jurisdiction, Monterey County's planning, zoning and permitting
+
+$28 decisions must comply with State Planning and Zoning Law (Gov. Code, § 65000 et seq.).
+
+16
+ROT 106 NT PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF
+
+78. As explained in Neighborhood Action Group v. County of Calaveras (1984) 156
+2 Cal.App.3d 1176 (Neighborhood), use permits must be consistent with the County's general plan:
+a use permit is struck from the mold of the zoning law ([Government
+Code section] 65901); the zoning law must comply with the adopted general plan (§ 65860); the adopted general plan must conform with state law (§S 65300, 65302) ... These laws delimit the authority of the permit issuing agency to act and establish the measure, of a valid permit.. A permit action taken without compliance with the hierarchy of land use laws is ultra vires as to any defect, implicated by the uses
+sought by the permit.
+
+(Id. at p. 1184 (emphasis added). Land use permits are invalid where the approved project "conflicts
+with a [valid] general plan policy that is fundamental, mandatory, and clear." (Endangered Habitats
+10 League, Inc. v. County of Orange (2005) 131 Cal.App.4th. 777, 782.)
+
+11 79. Furthermore, where the local government approves a project in its quasi-adjudicatory
+12| capacity, as the Board did here, it is that government's burden to demonstrate the use permits
+13 required for that project are consistent with the general plan. (Code Civ. Proc., § 1094.5(b) ["Abuse
+14 of discretion is established if the respondent has not proceeded in the manner required by law, the
+15 order or decision is not supported by the findings, or the findings are not supported by the
+16 evidence"].) The Supreme Court explained the importance of findings in a seminal 1974 case as
+17 follows:
+18 [A] findings requirement serves to conduce the administrative body to
+
+19° draw legally relevant sub-conclusions supportive of its ultimate decision; the intended effect is to facilitate orderly analysis and
+20 minimize the likelihood that the agency will randomly leap from evidence to conclusions.
+21
+
+22 (Topanga Association for a Scenic Community v. County of Los Angeles (1974) 11 Cal.3d 506, 516.)
+Thus, pursuant to Code of Civil Procedure section 1094.5, judicial review of the County Board's 23
+
+24 approval of the Project extends not only to whether the Project and Project approval is consistent with
+the General Plan as a matter of law, but also to (1) whether the Board made the required General Plan
+25
+consistency findings, and (2) whether those findings are supported by the evidence.
+26
+80.-
+27 Since, as shown below, the desalination plant is specifically forbidden under the
+County's Ordinances, and because the Board failed to make the required findings or support with 28
+
+17
+PETFTION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIDE :: FT
+
+record evidence its General Plan consistency findings, the Board lacked the authority to approve the
+2 desalination plant and its approval was ultra vires. Any "permit action taken without compliance with
+the hierarchy of land use laws is ultra vires." (Neighborhood, 1 56 Cal.App.3d at 1184.)
+
+81. The County's General Plan Public Services Element, Policy PS-3.1, prohibits new
+projects that will use or require the use of water without proof, based on specific findings and
+6. supported by evidence, that there is a long-term, sustainable water supply, both in quality and
+quantity to serve the project.
+
+82. The County's General Plan Public Services Element, Policy PS-3.2, requires that in
+9 developing the criteria for proof of : long-term sustainable water supply, the County must consider,
+10 in part, the source of the water supply and the nature of the rights to water from the source.
+
+11 83. Cal-Am has no overlying water rights, no existing appropriative rights, and no existing
+12 prescriptive groundwater rights for the proposed source water for the Project.
+
+13 84. The County finding states the Project is exempt from Policy PS-3.1 of the Public
+
+14 Services Element of the General Plan as public infrastructure or private infrastructure that provides
+
+15 critical or necessary services to the public that will have minor or insubstantial net use of water. The
+16 resolution's suggestion that the MPWSP proposes an "insubstantial new use of water" is not
+17 supported by the record. Moreover, the finding is contrary to the record.
+
+18 85. The record shows that the desalination plant would need to process more than 15 mgd
+19 (or over 16,000 AFY) in order to produce 6.4 mgd (or approximately 7,160 AFY) of desalinated
+
+20 water. Unlike a pipeline or other water infrastructure, the desalination plant uses (or loses) a
+21 substantial amount of water in processingi.e., more than 50%. Thus, the record does not support
+22 the County's conclusion that Project is exempt from the requirements of the Public Services Element
+
+23  of the General Plan because it will have a minor or insubstantial net use of water.
+
+24 86. As a result, the County failed to make any of the required findings under this policy,
+25 which include assessing the following factors that shall be used in developing the criteria for proof of
+26 a long-term sustainable water supply and an adequate water supply system:
+27 a. Water quality;
+
+28
+
+18
+R 3 RPETITION FOR WRIT OF MANDATE AND COMPLÄINT FOR INJUNCTIVE RELIEF
+
+b. Authorized production capacity of facility operating pursuant to a permit from a regulatory agency, production capability, and any
+2 adverse effect on the economic extraction of water or other effect on wells in the immediate vicinity, including recovery rates;
+C. Technical, managerial, and financial capability of the water purveyor
+4 or water system operator;
+d. The source of the water supply and the nature of the right(s) to water
+from the source;
+6 e. Cumulative impacts of existing and projected future demand for water from the source, and the ability to reverse trends contributing to an overdraft condition or otherwise affecting supply; and
+f. Effects of additional extraction or diversion of water on the
+environment including on in-stream flows necessary to support riparian vegetation, wetlands, fish or other aquatic life, and the migration
+10 potential for steelhead, for the purpose of minimizing impacts on the
+environment and to those resources and species.
+11 g. Completion and operation of new projects, or implementation of best
+12 practices, to renew or sustain aquifer or basin functions.
+
+13 (County General Plan, Policy PS-3.2, emphasis added.)
+
+14 87. The County attempted to circumvent these requirements stating that "to prevent an
+15 undesirable condition on the project site in a the event that a source of water is not secured or becomes
+16 unavailable in the future, staff is proposing a condition of approval (Condition 22) to require
+
+17 restoration or adaptive re-use of the site in the event the desalination plant is no longer a viable use."
+18 While this may be a reasonable mitigation measure, it does not exempt the County from making the
+19 required findings under the County's General Plan or from the preparation of a WSA as discussed
+
+20 below.
+
+21 88. Notably, as two Board members explained at the hearing, the County's proposed
+22 findings that the MWPSP was exempt from this policy was inconsistent with the County's prior
+23 interpretation of the General Plan.
+
+24 89. Accordingly, the County prejudicially abused its discretion in finding that the
+25 desalination plant is exempt from Policy PS-3.1.
+
+26 90. For the foregoing reasons, the County violated the State Planning and Zoning Law by
+27 approving a Project that was inconsistent with the County's General Plan and must be set aside and
+
+28 declared void. Accordingly, MCWD prays for relief as set forth below.
+
+19
+Fg PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIER 5933 FA
+
+THIRD CAUSE OF ACTION
+Violation of the Water Code (Wat. Code § 10910 et seq.)
+2 91. MCWD re-alleges and incorporates by reference the preceding paragraphs in their
+3 entirety.
+
+92. Respondents violated the California Water Code (Wat. Code, §§ 10910-10915), by
+a failing to require a public water system to prepare an adequate WSA or preparing a WSA themselves.
+6 93. Section 10910 of the Water Code, enacted as part of SB 610, provides that any county
+that determines that a "project," as defined in section 10912, is subject to CEQA must comply with
+the SB 610 requirements. (Wat. Code, § 10910, subd. (a).) The MPWSP is a "project" as defined in
+Section 10912, because it occupies more than 40 acres of land. It also qualifies as a "project" under
+10 the Water Code because it would demand an amount of water equivalent to, or greater than, the
+11 amount a of water required by a 500-dwelling unit project. (Wat. Code, § 10912, subds. (a)(5) and §
+12 (a)(7); see Center for Biological Diversity v. County of San Bernardino (2010) 185 Cal.App.4th 866,
+13 889.) Therefore, the County was required to prepare a WSA before considering whether to approve
+14 the desalination plant but it did not. it
+15 94. For the foregoing reasons, the County's approval of the desalination plant violates the
+16 California Water Code and must be set aside and declared void. Accordingly, MCWD prays for relief
+17 as set forth below.
+
+18 FOURTH CAUSE OF ACTION
+
+19 Violation of the Monterey County Code; Unsupported Findings
+95.
+201 MCWD re-alleges and incorporates by reference the preceding paragraphs in their
+
+21 entirety.
+
+96.
+22 State law requires that land use decisions, including approving discretionary projects,
+
+23 comply with and be consistent with applicable county codes and zoning ordinances.
+
+24 Monterey County Code Chapter 10.72
+
+25 97. Chapter 10.72 of the Monterey County Code requires desalination facilities in the
+26 County to be owned by public agencies, and not by private companies. (Monterey County Code of
+27 Ordinances, tit. 10, § 10.72.030, subd. (B).).
+
+28 98. The County erroneously found that Chapter 10.72 of the. Monterey County Code does
+
+20
+1 *HRNPETITION FOR WRIT OF MANDATE AND COMELAINT FOR INJUNCTIVE RELIEF
+
+not apply to the desalination plant based on a Settlement Agreement and Mutual Release dated
+
+2 December 4, 2012, among Cal-Am, the County of Monterey, and the Monterey County Water
+Resources Agency, wherein the County agreed not to apply Chapter 10.72 to the MPWSP. Contrary
+
+4 to the Board's finding, the settlement agreement does not excuse the County from enforcing this
+5 chapter here.
+
+6 99. An agreement to circumvent applicable zoning laws is invalid and unenforceable.
+(Summit Media LLC v. City of Los Angeles (2012) 211 Cal.App.4th 921, 934-937 ["An agreement is
+ultra vires when it contractually exempts settling parties from ordinances and regulations that apply
+to everyone else and would, except for the agreement, apply to the settling parties"].) Thus, the
+10| County's settlement agreement is ultra vires. (Ibid.)
+
+1-1 100. Similarly, the County's reliance on the CPUC's advisory decision in its findings is
+12 also in error. The CPUC's advisory decision on this issue was not ripe because there was no actual
+13 controversy a with a properly certificated and necessary privately-owned desalination project proposed
+14 by an investor owned, regulated utility at the time it issued its decision. (Pacific Legal Found. v.
+15 California Coastal Com. (1982) 33 Cal.3d 158, 171-173 [to be justiciable, a case must present both
+16 an actual controversy and an imminent danger of harm].)
+
+17 101. In addition, as the CPUC itself recognized in its prior advisory decision, the CPUC
+18 cannot preempt a local action where the local entity is acting pursuant to statewide or general, as
+19 opposed to local, authority. With the enactment of the Sustainable Groundwater Management Act,
+20 the CPUC's prior advisory opinions cannot stand. The notion that the CPUC's prior advisory opinion
+
+21 preempts subsequently enacted state law relating to groundwater regulation by local entities has no
+22 merit. (Water Code, § 10720.9; see Orange County Air Pollution Control Dist. v. Public Util. Com.
+23 (1971) 4 Cal.3d 945, 954 [no CPUC preemption where both CPUC and local air pollution control
+24 district, through statewide program, had jurisdiction; grant of CPCN annulled for failure to comply.
+
+25 with local air pollution regulations].)
+
+26 102. The County's approval of the desalination plant without an accurate and proper legal
+27 basis for finding the project exempt from Monterey County Code Chapter 10.72 was an abuse of
+28 discretion and must be invalidated. 4A- :
+
+21
+D%8 :8 S PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEFH2K L
+
+Monterey County Ordinances 5302 and 5303
+
+2 103. Monterey County Ordinances 5302 and 5303 enacted a moratorium on drilling new
+
+3 wells to "address seawater intrusion" in the coastal areas of the SVGB, which includes the Project
+
+4 area aquifers, specifically the 180 Foot/180 FTE aquifer in the coastal areas of the 180/400 Foot
+
+5 Aquifer Sub-basin and the Monterey Sub-basin. (Monterey County Ordinance No. 5302, § 1.C.7,
+6 Exhibits A and B.)
+
+104. 'The County's approval violates County Ordinances 5302 (adopted on May 22, 2018)
+
+8 and 5303 (adopted at the Board meeting on June 26, 2018).
+
+105. The County's findings that the desalination is plant is exempt from Ordinances 5302 and
+10 5303 is in error.
+
+11 106. it The County erroneously found that it need not evaluate the MPWSP's compliance
+12 with the moratorium because it is not deciding on the wells for the MPWSP, and no well application
+13 for this project is before the County. Monterey County's "well program" codified in Chapter 15.08 of
+14 the Monterey County Code, however, provides the County's Health Officer with ample discretion to
+15 deny or modify the MPWSP's well permits to address environmental concerns.
+
+16 107. Moreover, the County cannot ignore the moratorium requirements, which apply to all
+17 or portions of the Project under the plain language of the County ordinances, which exempts a well
+18 only if it "supplies potable water for the domestic needs" of a public supply system. (Monterey
+19 County Ordinance No. 5302, § 3.G.) As MCWD explained in its comments on the Project, the
+20 MPWSP slant wells are intended to provide source water for industrial/commercial use in
+
+21 desalination. The desalination plant, not the wells, would later supply "potable water" for domestic
+22 needs, but also for agricultural uses and injection. In addition, the County failed to address the
+23 undisputed fact that a significant portion of the MPWSP product water will be supplied to the
+24 Castroville Seawater Intrusion Project for agricultural uses, which is not exempt under the
+
+25 Ordinances.
+
+26 108. The County's approval of the desalination plant without an accurate and proper legal
+27 basis for finding the project exempt from Monterey County Ordinances 5302 and 5303 was an abuse
+28 of discretion and must be invalidated.
+
+22
+$$7O PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEI 12
+:
+
+Monterey County's Code Section 21.74.050(B)(1)
+
+2 109. Monterey County's Code Section 21.74.050(B)(1) contains the following language:
+In order to grant any use permit, the findings of the Appropriate
+Authority shall be:
+4 1. The establishment, maintenance, or operation of the use or structure applied for, will not, under the circumstances of the particular case, be detrimental to health, safety, peace morals, comfort; and general welfare of persons residing or working in the neighborhood of such proposed use; or be detrimental or injurious to property and improvement in the neighborhood; or to the general welfare of the County.
+
+110.• The Board's findings required by this section were limited to a conclusory statement
+10 that the Project is not detrimental to general welfare that merely references public facilities,
+11 construction noise, and traffic. The only support cited for this conclusion is that "Staff conducted a
+12 site inspection on May 10, 2018, to verify that the site is suitable for this use." As the City of Marina
+
+13 and other members of the public explained, this finding is inadequate for its failure to consider or
+14 evaluate the obvious ways that the Project harms County residents. Specifically, the County failed to
+15 address comments explaining that the general welfare of City and County residents, many of whom
+16 reside or work in close proximity to the desalination plant, is rooted in its environmental, economic,
+
+17 cultural and social values. As the City of Marina explained in its comments, these values are
+18 threatened by the Project.
+
+19 111. The County's finding that the desalination plant is consistent with Section
+20 21.74.050(B)(1) is unsupported by substantial evidence amounting to an abuse of discretion and
+
+21 therefore must be invalidated.
+
+22 Monterey County Code Section 21.66.020
+23 112. Section 21.66.020 of the Monterey County Code prohibits development, including
+24 vegetation removal, excavation, grading, filling, and construction of roads and structures, located in
+25 environmentally sensitive habitats. (Section 21.66.020(D)(1).) The only exception is when the
+26 proposed development is "resource dependent," and resource dependent uses can only be allowed
+27 when "it has been determined through the biological survey that impacts of such uses will not harm
+28 the habitat's long-term maintenance." (Ibid.) Section 21.55.020 further provides that "development
+23
+tR O08 ; r. PETITION FOR WRIT OF MANDATE AND COMPLAÍNT FOR INJUNCTIVE RELIEF *477437 : MINCS
+
+on parcels containing or within one hundred (100) feet of environmentally sensitive habitats shall
+2 only be approved where conditions of approval are available which will mitigate adverse impacts to
+3 and allow for the long-term maintenance of the habitat, as determined through the biological survey."
+(Section 21.66.020(D)(2).)
+
+113. The desalination plant is not resource dependent and therefore cannot be located in an
+6 environmentally sensitive habitat.
+114. Biological surveys conducted for the MPWSP EIR identified federally-threatened
+8 Monterey spineflower at the site, and the potential for sensitive plant species to occur, including
+Congdon's tarplant, as well as impacts to several animal species.
+
+10 115. The record lacks evidence that surveys meeting the requirements specified in the
+11 County Code were completed prior to Cal-Am's applications being deemed complete.
+
+12 116. The County failed to explain how mitigation measures included in the EIR will allow
+13 for long-term maintenance of habitat.
+
+14 117. The County failed to disclose whether portions of the Project that are not part of the
+
+15 current approvals (e.g., pipelines) are consistent with and can be approved under the County's
+16 Standards for Environmentally Sensitive Habitats. The fact that the County has agreed to a
+17 consolidated permit process with the Coastal Commission does not excuse the County from its
+18 obligations to address these impacts under the County Code:
+
+19 118. The County's finding that the desalination plant is consistent with section 21.66.020
+20 (Standards for Environmentally Sensitive Habitat) is unsupported by substantial evidence amounting
+21 to an abuse of discretion and therefore must be invalidated.
+
+22 119. For the foregoing reasons, Respondents prejudicially abused their discretion by
+23 approving the Project in violation of Monterey County Code Chapters 10.72 and 5.08, Monterey
+24 County Ordinances 5302 and 5303, and Monterey County Code Sections 21.74.050(B)(1) and
+25 21.66.020. Accordingly, MCWD prays for relief as set forth below.
+26 PRAYER FOR RELIEF
+
+27 WHEREFORE, Petitioner prays for Judgment as follows:
+
+28 1. For alternative and peremptory writs of mandate directing the County to set aside and it
+
+24
+PETTTION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF'*: r;
+
+vacate the County's approval Resolution 19-258 granting a Combined Development Permit
+2 (PLN150889) for the MPWSP desalination project;
+3 2. For alternative and peremptory writs of mandate directing the County to comply with
+CEQA and the CEQA Guidelines, and to take any other. action as required by Public Resources Code
+5 section 21168.9;
+
+6 3. For alternative and peremptory writs of mandate directing the County to prepare and
+7 certify a supplemental or subsequent EIR for the MPWSP so that it has a proper CEQA it document
+8 before them, along with the requested approvals, that identifies for the decisionmakers and the public
+9 all of the reasonably foreseeable and potentially significant impacts of the project in light of new
+10 information of substantial importance, and enables them to formulate realistic and feasible
+11 alternatives and mitigation measures to avoid or substantially reduce those impacts;
+12 4. For a temporary stay, temporary restraining order, stay, and preliminary or permanent
+13 injunction or other orders enjoining the County and Cal-Am from taking any action to construct any
+14 portion of the desalination plant or to develop or alter the property that will be involved in the
+15 desalination plant in any way that could result in a significant adverse impact on the environment
+16 unless and until a lawful approval is obtained from the County after the preparation and consideration
+17 of an adequate supplemental or subsequent EIR;
+18 5. For costs of the suit;
+
+19 6. For attorney's fees as authorized by the Code of Civil Procedure and other provisions
+20 of law; and
+
+21 7. For other and further relief as the Court finds just and proper.
+22
+
+23 Dated: August 15, 2019 REMY MOOSE MANLEY, LLP
+
+24
+
+25 By: Ob LA Howard F. Wilkins III 26 Christopher L. Stiles
+27 Christina L. Berglund Attorneys for Petitioner
+28 MARINA COAST WATER DISTRICT
+
+Q
+
+25:
+Lix A A0 .PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF
+s6Re A7EA.8 OAIR4: 023•,10
+
+PETITION
+EXHIBIT A
+
+-, ! *
+
+RMM
+REMY| MOOSE| MANLEY
+LLP
+
+Howard F. Wilkins, IlI
+cwilkins@rmmenvirolaw.com
+
+August 14, 2019
+
+Via E-mail and USPS
+
+County of Monterey
+c/o Clerk of Monterey County PO Box 29
+Salinas, CA 93902
+countyclerk@co.monterey.ca.us
+
+Monterey County Board of Supervisors
+168 West Alisal Street, 1 st Floor
+Salinas, CA 93901
+COB@co.monterey.ca.us
+
+Re: Notice of Commencement of CEQA Action for Combined Development Permit (PLN150889).
+Dear Honorable Members of the Board and County Clerk:
+Please take notice that Marina Coast Water District ("MCWD" or "District")
+intends to file a petition and complaint challenging the County of Monterey Board of
+Supervisors' approval of Resolution 19-258 granting a Combined Development Permit (PLN150889) for the desalination component of the Monterey Peninsula Water Supply Project on July 15, 2019 under the California Environmental Quality Act ("CEQA"; Pub. Resources Code, § 21000 et seq.) and the CEQA Guidelines (Cal. Code Regs.,
+titl.14, § 15000 et seq.). This letter provides the required notice under Public Resources Code Section 21167.5. If you have any questions regarding the foregoing or wish to discuss efforts to avoid litigating this matter, please contact me through County Counsel.
+
+Very truly yqu:
+
+Howard F. Wilkins III
+
+cc: Charles J. McKee, County Counsel (via e-mail only)
+
+115, 41832 '555 Capitol Mall; Sulte 800 • Sacramento CA 95814 Phone: (916) 443-2745 l: Fax: (916) 443-9017 |-www.rmmenvirolaw.com
+
+i
+
+1
+
+2 Marina Coast Water District v. County of Monterey, et al. Monterey County Superior Court Case No.: 19CV003305
+
+3
+
+4 PROOF OF SERVICE
+
+5 I, Kathryn A. Ramirez, am employed in the City and County of Sacramento. My business address is 555 Capitol Mall, Suite 800, Sacramento, California 95814 and my email address is kramirez@rmmenvirolaw.com. I am over the age of 18 years and I am not a party to the above-entitled 6 action.
+
+On August 16, 2019, I served the following:
+
+NOTICE OF COMMENCEMENT OF CEQA ACTION AND PETITION FOR WRIT OF
+MANDATE TO THE ATTORNEY GENERAL
+
+10 .
+11 VIA ELECTRONIC TRANSMISSION OR EMAIL by causing a true copy thereof to be electronically delivered to the following person(s) or representative(s) at the email address(es)
+
+12 listed below. I did not receive any electronic message or other indication that the transmission
+was unsuccessful.
+
+13 0
+14 VIA OVERNIGHT DELIVERY by causing true copy thereof to be placed in an envelope or package designated by the express service carrier with delivery fees paid or provided for,
+
+15 addressed to the person(s) or representative(s) as listed below, and deposited a in a dropbox or
+
+16 other facility regularly maintained by the express service carrier.
+
+Z
+
+17 VIA FIRST CLASS MAIL by causing a true copy thereof to be placed in a sealed envelope,
+
+50 with postage fully prepaid, addressed to the following person(s) or representative(s) as listed below, and placed for collection and mailing following ordinary business practices.
+
+19
+
+20 SEE ATTACHED SERVICE LIST
+
+•21 I declare under penalty of perjury that the foregoing is true and correct. Executed this 16th day of August 2019, at Sacramento, California.
+22
+
+23
+
+24 Kathryn A. Ramirez
+
+25
+
+26
+
+27
+
+28
+
+PROOF OF SERVICE
+
+2 Marina Coast Water District v. County of Monterey, et al. Monterey County Superior Court Case No.: 19CV003305
+
+3 SERVICE LIST
+
+OFFICE OF THE ATTORNEY GENERAL
+1300 I Street
+Sacramento, CA 95814 Attorney General
+
+VIA USPS
+
+F 12
+13
+14
+15
+16
+17
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+PROOF OF SERVICE®
+
+DECEIVEN AUG : 0 2019 U BY:___________.

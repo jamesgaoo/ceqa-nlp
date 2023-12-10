@@ -1,0 +1,1430 @@
+F NICKI CARLSEN (State Bar No. 151222) MAX ROLLENS (State Bar No. 308984)
+2 ALSTON & BIRD LLP 333 South Hope Street, 16th Floor
+3 Los Angeles, CA 90071-1410 Telephone: 213-576-1000
+4 Facsimile: 213-576-1100
+
+5 Attorneys for Plaintiff SENTINEL PEAK RESOURCES CALIFORNIA LLC
+6
+
+7
+
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+FOR THE COUNTY OF LOS ANGELES
+10 SENTINEL PEAK RESOURCES Case No.: BS173410
+11 CALIFORNIA LLC,
+
+Petitioner and Plaintiff, NOTICE TO ATTORNEY GENERAL 12 OF THE STATE OF CALIFORNIA
+13 V.
+[Pub. Resources Code § 21167.7]
+14 CITY OF LOS ANGELES; SOUTH LOS ANGELES AREA PLANNING
+15 COMMISSION; THEODORE L. IRVING, in his official capacity as Assistant Zoning
+16 Administrator,
+
+17 Respondents and Defendants.
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL
+
+] TO THE ATTORNEY GENERAL OF THE STATE OF CALIFORNIA:
+
+2 PLEASE TAKE NOTICE that under Public Resources Code §21167.7 and Code of
+
+3 Civil Procedure §388, Petitioner Sentinel Peak Resources California, LLC has filed a Verified
+
+4 Petition for Writ of Mandate and Complaint for Constitutional Violations, Inverse
+
+5 Condemnation, and Damages ("Petition") against the City of Los Angeles, South Los Angeles
+
+6 Area Planning Commission, and Theodore L. Irving, in his official capacity as Assistant
+
+7 Zoning Administrator ("Respondents"), in Los Angeles Superior Court. The Petition alleges
+
+8 that Respondent violated the California Environmental Quality Act by failing to prepare an
+9 initial study or any other environmental review document in connection with its approval of
+10 Case No. ZA-1965-17528(PA5) and Case No. ZA-1965-17528(PA5-1A). A copy of the
+11 Petition is attached to this notice as Exhibit A.
+
+12
+
+13
+
+14 DATED: April 30, 2018 NICKI CARLSEN
+15 MAX ROLLENS
+ALSTON & BIRD LLP
+16
+
+17 LunCaudm Nicki Carlsen 18
+
+19 Attorneys for Plaintiff SENTINEL PEAK RESOURCES CALIFORNIA LLC
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL
+
+EXHIBIT A
+
+NICKI CARLSEN (State Bar No. 151222) MAX ROLLENS (State Bar No. 308984) 2 ALSTON & BIRD LLP
+
+3 333 South Hope Street, 16th Floor CONFORMED COPY
+Los Angeles, CA 90071-1410 ORIGINAL FILED
+Telephone: 213-576-1000 Superior Count of California County of Los Angeles
+Facsimile: 213-576-1100 APR 24 2018
+
+5 Attorneys for Plaintiff SENTINEL PEAK RESOURCES CALIFORNIA LLC Sherri R. Carter, Executive Officer/Clerk
+
+6 By Nancy Alvarez, Deputy
+
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+FOR THE COUNTY OF LOS ANGELES
+10 SENTINEL PEAK RESOURCES BS173410
+
+L1 CALIFORNIA LLC, Case No.:
+
+12 Petitioner and Plaintiff, VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+13 V. CONSTITUTIONAL VIOLATIONS,
+
+14 CITY OF LOS ANGELES; SOUTH LOS INVERSE CONDEMNATION, AND DAMAGES
+ANGELES AREA PLANNING
+I5 COMMISSION; THEODORE L. IRVING, in his official capacity as Assistant Zoning 16 Administrator,
+
+I7 Respondents and Defendants.
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION AND COMPLAINT
+
+INTRODUCTION
+
+2 1. Since January 2017, Petitioner Sentinel Peak California Resources LLC
+
+3 ("Petitioner") has been the owner and operator of what is commonly referred to as the
+
+4 Jefferson Drill Site, located at 1349-1375 Jefferson Boulevard in the City of Los Angeles
+
+5 (the "Jefferson Site").
+
+0 2. Respondent the City of Los Angeles (the "City"), acting by and through its
+
+7 Chief Zoning Administrator ("ZA"), first authorized oil drilling and production at the
+
+8 Jefferson Site in 1965.
+9 3. Since then, the City and its ZAs have approved additional drilling and
+10 redrilling, recognizing the site's public benefits as a domestic source of oil and gas, and
+11 concluding that operations do not negatively impact the surrounding community. The City
+12 and its Fire Department have approved and permitted all existing wells.
+13 4. These prior approvals, and Petitioner's reliance on them, establish vested
+14 property rights to continue current operations under existing conditions.
+15 5. As an oil production facility, the Jefferson Site is subject to broad regulation by
+16 several agencies and has a long history of compliance and peaceful operation. The ZA's
+17 1965 approval (ZA Case No. 17528) contains a comprehensive set of conditions to ensure
+18 the site is operated in a manner to protect the community. In addition, operations are
+19 carefully regulated by the California Division of Oil, Gas, and Geo-thermal Resources
+20 (*DOGGR"), the City's Fire Department ("City Fire"), and the South Coast Air Quality
+21 Management District ("SCAQMD"), all of whom regularly inspect the site and require
+22 compliance with current regulations. Despite frequent inspections and responses to
+23 community concerns, these agencies have not found any community impacts. Neither has
+24 the City. There is not one current, or even recent, notice of violation from the City.
+25 6. In 2016, the City, through its ZA, demanded several times that Petitioner's
+26 predecessor file a "Plan Approval" application, even though it did not seek any new
+27 approvals. As is well-established by the City's prior approvals for the Jefferson Site, the
+28 Plan Approval process is strictly an applicant-initiated procedure that is used to authorize
+
+2
+VERIFIED PETITION AND COMPLAINT
+
+1 new or expanded uses. As those approvals demonstrate, when an applicant proposes new
+
+2 uses it requests a Plan a Approval from the City, who in turn can require those new uses be
+3 subject to operating conditions. That is the extent of what it allowed under the Plan
+
+4 Approval process. It does not provide for and is not an enforcement mechanism; it cannot be
+
+5 used to enforce alleged code violations or abate purported public nuisances.
+
+6 7. Nonetheless, the City insisted that Petitioner's predecessor file a Plan Approval
+
+7 application without any justification-in essence, to reexamine its existing vested uses. The
+
+8 City's demand for a Plan Approval relied on unsubstantiated complaints and a 2014 odor
+incident raised by SCAQMD that had been resolved immediately by Petitioner's
+10 predecessor. The City did not identify any code violations or any violations of the applicable
+
+11 conditions, not a single one.
+12 8. Still, in January 2017, Respondent Theodore L. Irving, in his official capacity
+13 as Assistant ZA, held an unprecedented hearing to reexamine Petitioner's existing vested
+14 uses, Petitioner is unaware of any City staff ever instigating a similar "Plan Approval"
+15 process where there was no application on file.
+16 9: In October 2017, the ZA issued a 50-page decision that adjudicated never-
+17 before-alleged violations and imposed 15 pages of new and revised conditions, which among
+
+18 other things, ordered Petitioner to construct a 45-foot enclosure around the nearly 2-acre
+19 Jefferson Site. According to the ZA, the decision "supersede[d]" all prior approvals.
+
+20 10. To modify existing discretionary approvals, the ZA, like all other City staff,
+21 must follow procedures established by the Los Angeles Municipal Code ("LAMC"). But the
+22 ZA did not rely on or follow the pertinent procedures, which were adopted to ensure vested
+23 rights are protected. The ZA did not even acknowledge Petitioner's vested rights, or try to
+24 meet the requirements for infringing on them.
+25 11. The procedures that led to the decision violated bedrock constitutional
+
+26 principles. For example, the ZA simultaneously alleged and adjudicated new purported
+27 violations that were never presented to Petitioner; it relied extensively on evidence received
+28 more than six months after the hearing, without allowing Petitioner a chance to address or
+
+3
+VERIFIED PETITION AND COMPLAINT
+
+rebut it; and it did not separate its functions, acting as the decision's investigator, prosecutor,
+2 and decision-maker.
+
+3 12. In addition, the ZA did not verify any of the alleged impacts and did not
+
+4 compare them to established legal standards, which was critical because they contradicted
+
+5 the regulatory records showing only minor violations that were immediately corrected. Nor
+
+6 did the ZA study any of the decision's obvious environmental impacts, in violation of the
+
+7 California Environmental Quality Act ("CEQA").
+
+13. The Determination is an abuse of Respondents' discretion, is in excess of their
+9 jurisdiction, is the result of unfair and unconstitutional proceedings, and is brimming with
+10 legal and factual errors--all of which prejudiced Petitioner. Therefore, Petitioner is entitled
+
+11 to a writ of mandate commanding Respondents to set aside the Determination.
+12 PARTIES
+
+13 14. Petitioner Sentinel Peak Resources California LLC is a Delaware limited
+
+14 liability company that owns and manages the Jefferson Site.
+15 15. Respondent City of Los Angeles is a municipal corporation located in Los
+16 Angeles County, California.
+17 16. Respondent South Los Angeles Area Planning Commission is a hearing board
+18 of the City of Los Angeles Planning Department.
+19 17. Respondent Theodore L. Irving is an Assistant Zoning Administrator of the
+20 City of Los Angeles Planning Department.
+21 JURISDICTION AND VENUE
+
+22 18. Venue is proper in. Los Angeles County in accordance with Code of Civil
+23 Procedure §§ 393(b), 398(1)(b), and 394(a) because the Jefferson Site is located in Los
+24 Angeles County.
+25 19. The Court has jurisdiction over this matter in accordance with Code of Civil
+
+26 Procedure § 1094.5 and Public Resources Code $ 21168.
+27 20. Petitioner has performed all conditions precedent to filing this action, including
+28 but not limited to, exhausting all administrative remedies and providing notice to third
+
+4
+VERIFIED PETITION AND COMPLAINT
+
+parties as required by law.
+
+2 ADDITIONAL FACTS
+
+3 21. In 1994, the Associate ZA authorized redrilling and found that "[t]he *Jefferson
+
+4 Drill Site' has been operated in conforinance with all conditions imposed under previous
+
+5 grants" and that no "adverse impacts on adjacent properties and improvements have been
+
+6 identified.»
+
+7 22. In 1999, the Associate ZA allowed Petitioner's predecessor to modify the 1965
+
+8 approval, which required four lots directly north of the Jefferson Site to remain under
+
+9 common ownership. In addition, the City authorized the predecessor to record covenants on
+
+10 the grant deed transferring title to the subsequent owner. The covenants notify owners of the
+11 site's operations, require owners notify all tenants of the operations, and prohibit either from
+12 claiming that they create a nuisance.
+13 23. In 2006, in a proper use of the Plan Approval process, the Associate ZA
+14 approved a request by Sentinel's predecessor to redrill wells ("PA1"). The ZA found that
+15 operations allowed under the PAI approval would be "under strict controls as to the possible
+16 it impacts it may have on the immediate vicinity of the production site" and the approval "will
+17 be of direct benefit to the public as a whole":
+18 In a time where dependence on foreign oil comes at an increasingly higher social, economical and political cost, it can
+19 be found that this approval, by encouraging and facilitating local oil production, under strict controls as to the possible impacts it
+20 may have on the immediate vicinity of the production site, will be of direct benefit to the public as a whole.
+21
+24.
+22 The ZA conditioned the PA1 grant such that it expired after 36 months, and
+
+23 explained that "[u]pon completion of the re-drilling operations, production activities will be
+
+24 resumed under the terms and conditions of previous grants."
+
+25.
+25 In 2007, the Associate ZA approved additional redrilling operations ("PA2"),
+
+26 a again through a proper use of the Plan Approval process. While considering the approval, it
+
+27 was determined that "no complaints had been received from constituents living in the
+
+28 immediate vicinity of the site." Again, the ZA conditioned this approval such that it expired
+after 36 months and concluded that it "will be of direct benefit to the public as a whole."
+5
+VERIFIED PETITION AND COMPLAINT
+
+26. To address the potential for noise impacts during the drilling operations
+
+2 authorized by the PA2 approval, the ZA required in PA2 a "30-foot high sound wall on three
+
+3 sides of the drilling rig." However, due to "concerns as to the visual impacts of the sound
+
+4 wall," the ZA required that the "sound wall shall not be maintained for more than 120
+
+5 continuous days." Sentinel's predecessor requested that a condition in the approval requiring
+
+6 a "10-foot high sound blanket around the drilling rig floor" be omitted "due to concerns . .
+
+7 about workers safety, in that it 'effectively eliminates emergency escape routes for the
+
+8 crew.'3 The ZA granted the request in PA2 "[c]onsidering that no complaints were received
+
+9 from abutting neighbors regarding sounds impacts from the current operation."
+
+10 27. In 2008, the Associate ZA approved additional redrilling ("PA3"). The ZA
+
+11 found that "[s]ince [the PA2 grant] this Zoning Administrator has not been made aware of
+12 any current concern, and the public hearing for this application was consequently waived,
+13 under the assumption that the current conditions of operation at this location are effective in
+14  reasonably mitigating any possible impact of the use of the site for drilling operations. The
+15 same conditions are therefore applied to this application, consistent with the current mode of
+16 operation at the site." The PA.3 was also conditioned such that it expired after 36 months and
+17 found to "be of direct bencfit to the public as a whole."
+18 28. Oil and gas production is a heavily-regulated industry, subject to oversight by
+19 DOGGR, SCAQMD, City Fire, and other agencies. Despite their regular inspections,
+20 extensive regulations, and responses to community complaints, the record contains only a
+21 few minor violations from SCAQMD associated with equipment malfunctions and a single
+22 notice of violation from DOGGR that resulted from the failure to provide timely notification
+
+23 SO an agency representative could witness certain well-related operations. The SCAQMD
+24 violations were immediately remedied to the agency's satisfaction, and the DOGGR
+25 violation has not happened again. The record does not contain any violations from the City,
+26 or any violations that resulted in documented community impacts.
+27 29. All fluids produced at the Jefferson Site are contained within a closed-loop
+28 system, and remain within vapor-controlled tanks and piping. These fluids are then
+
+6
+VERIFIED PETITION AND COMPLAINT
+
+transferred via underground pipelines-regulated by the California State Fire Marshall and
+
+2 U.S. Department of Transportation-which prevents exposure to the community.
+
+3 30. In 2014, SCAQMD conducted an extensive inspection of the Jefferson Site in
+
+4 response to community concerns, called "Blue Sky" inspection, which is generally reserved
+
+5 for refineries. The agency again found no community impacts and did not issue any notices
+
+6 of violation.
+
+7 31. In August 2016, the ZA wrote to Petitioner's predecessor and stated that it was
+
+8 "requiring the filing of a Plan Approval application for a review of compliance with the
+
+• conditions imposed under ZA 1965-17528 (PA3)." The ZA asserted its authority was
+
+10 "[b]ased on the authority provided to the Zoning Administrator in LAMC Section 13.01,
+11 Condition 10 of the [PA3 approval], and evidence received by the Office of Zoning
+12 Administration and established in the record."
+
+13 32. The predecessor responded and explained that the Jefferson Site was in full
+
+14 compliance with all applicable laws and conditions and that the ZA had not demonstrated
+
+15 any legal justification for an intrusion on its vested rights.
+16 3.3. The Associate ZA replied in September 2017, which it asserted "serve[d] as
+17 the second and final notification" that it was "requiring the filing of a Plan Approval
+
+18 application for review of compliance with conditions imposed under ZA 1965-17528
+19 (PA3)." The ZA asserted the same purported authority as before but included four "sources
+20 of evidence" that it alleged supported the request.
+21 34. Petitioner's predecessor responded and addressed how each alleged "source"
+22 of evidence was incorrect or insufficient. For example, the ZA cited an odor complaint
+23 SCAQMD received, which led to a site inspection and report. The predecessor explained
+24 that the inspector had not detected any petroleum or diesel odors at surrounding properties.
+
+25 Further, the report noted that one of the complainants admitted to the investigator that he or
+26 she had not actually smelled any odors, but had called in the complaint fraudulently.
+27 35. The ZA did not respond to the predecessor's second letter, but issued a two-
+
+28 page "Notice of Public Hearing." The notice provided that the hearing's only purpose was
+
+7
+VERIFIED PETITION AND COMPLAINT
+
+"to obtain testimony from affected and/or interested persons regarding the operation of the
+
+2 facility pursuit [sic] to the conditions imposed under ZA-1965-17528(PA3)." The ZA stated
+3 it would consider, "a Zoning Administrator's Approval of Plans to review the applicant's
+
+4 compliance with and the effectiveness of the conditions imposed under ZA-1965-
+
+5 17528(PA3)." It also asserted that "[t]he decision maker will consider all the testimony
+
+6 presented at the hearing, written communication received prior to or at the hearing, and the
+7 status of the operations relative to existing environmental and land use regulations and the
+8 conditions established in the grant ZA-1965-17528 (PA3)."
+9 36. The ZA did not provide Petitioner with any other notice. There was no
+
+10 complaint, brief, or staff report in which the ZA presented its arguments in a form in which
+
+11 Petitioner could respond to them, prepare to respond to them, or. cure them. The ZA did not
+12 issue any charging document or otherwise provide Petitioner with notice of any specific
+13 violation of law, regulation, or operating condition that had purportedly been violated.
+14 37. On January 26, 2017, Respondent Assistant ZA Theodore Irving held the
+15 hearing. At the hearing, the ZA did not present a case against Petitioner and did not allege
+16 any specific violations of law operating conditions that had purportedly been violated. or
+
+17 38. None of the testimony provided at the hearing alleged any specific violations
+18 of law or operating condition that had purportedly been violated.
+19 39. The ZA did not set time limit for its presentation, but limited Petitioner to
+20 only a few minutes, which was inadequate. Petitioner was not allowed to put on any
+21 witnesses, cross-examine adverse witnesses, or rebut evidence.
+22 40. The ZA did not separate its prosecutorial and decision-making functions before
+23 or during the hearing. The ZA served as the investigator and prosecutor in the proceedings
+24 leading up to the hearing, and then acted as the prosecutor and decision-maker at the hearing.
+25 41. Petitioner is informed and believes that the City and its ZAs have allowed, and
+
+26 engaged in, ex parte communications before and after the January 2017 hearing. Petitioner
+27 further alleges that they have had communications between themselves and with third parties
+
+28 without disclosing those communications or providing Petitioner an opportunity to respond
+
+8
+VERIFIED PETITION AND COMPLAINT
+
+to what was said orally or stated in written documents.
+
+2 42. On October 13, 2017. the ZA issued Case No. ZA-1965-17528 (PA5)
+
+3 Approval of Plans--Determination of Methods and Conditions (the "Determination"), which
+
+4 did not actually "approve" anything. As the ZA admits, it "is not a renewal or a re-approval
+5 to allow expansion of the operation."
+
+6 43. The Determination attached, incorporated, and heavily relied on a 17-page
+7 report regarding the Jefferson Site that was prepared by the Los Angeles Petroleum
+8 Administrator. The report is dated September 22, 2017, and was apparently prepared many
+months after the hearing. The report asserted new alleged violations and facts--including
+10 never-before-mentioned purported violations that were approximately 15-years old. The
+11 Petroleum Administrator also recommended new operating conditions. Before issuing the
+12 Determination, the ZA did not provide Petitioner with an opportunity to review this report,
+13 rebut its contents, voluntarily provide the requested changes, or respond in any way.
+14 44. Despite being the prosecutor at the hearing, the ZA was the Determination's
+15 decision-maker. Since the ZA did not provide prior notice of any alleged violations, each
+16 violation alleged in the Determination was new. Some of them were decades old, and no
+17 prior ZA had asserted they were violations. The Determination also included many new
+18 alleged facts, and incorporated the Petroleum Administrator's September 2017 report,
+19 Petitioner was not provided an opportunity to submit evidence on or rebut these new alleged
+20 violations or facts before the Determination was issued. Had the opportunity been provided,
+21 Petitioner could have corrected the many legal and factual errors.
+
+22 45. The ZA did not compare any alleged impacts against standards established by
+23 law. It did not analyze whether a single alleged community impact violated existing
+24 operating conditions, City ordinances, or any other law.
+25 46. Rather, the ZA relied almost exclusively on unsubstantiated testimony from the
+26 community. It never verified whether this testimony was accurate, which was critical since
+27 the documented regulatory records and prior ZA approvals contradict this testimony,
+28 | substantiate the lack of community impacts, and show there were no outstanding notices of
+
+9
+VERIFIED PETITION AND COMPLAINT
+
+P violation.
+
+2 47. The Determination imposed many new conditions on the Jefferson Site and
+
+3 incorporated conditions from the PAI, PA2, and PA3 approvals. The ZA did not study,
+
+4 analyze, or make findings on whether these conditions would alleviate the alleged harm, or
+
+5 whether less onerous operating conditions would work better. The conditions would require
+
+6 Petitioner to curtail or cease it operations, or both, for an unknown time, causing significant
+financial harm to the company and its employees, including irreparable harm to its business
+goodwill and client relationships. The ZA did not find that the conditions bear any
+
+9 relationship to the impacts they supposedly address.
+10 48. The ZA did not study the significant environmental impacts that would result
+
+11 from imposing these new conditions, including the requirement to construct a 45-foot
+12 enclosure around the nearly 2-acre site. If even feasible, constructing the wall will have
+13 significant impacts on underground and above-ground utilities, and will have significant
+14 aesthetic impacts. Other environmental impacts are likely, but unknown, because they have
+15 not been studied. No exemptions apply to such a significant construction project.
+16 49. Petitioner timely appealed the Determination to the South Los Angeles Area
+17 Planning Commission (the "APC") with an initial 15-page letter, supplemented by a 23-page
+18 letter, both of which described the decision's legal and factual problems.
+
+19 50. To file its appeal, Respondents required Petitioner to pay the appeal fees
+20 established for applicants-which totaled approximately $6,000-even though it did not
+21 submit any application. Petitioner's fees should have been only $89.
+22 51. The ZA never replied to the Petitioner's appeal papers. Nor did anyone else
+23 from the City. There was no opposition, brief, or staff report responding to Petitioner's legal
+24 and factual arguments.
+
+25 52. On January 16, 2018, the APC held a hearing on the appeal. Despite being the
+
+26 Determination's decision-maker, the ZA again took on the prosecutorial role before the APC.
+27 The APC did not limit the ZA's presentation time. But it did limit Petitioner's presentation
+
+28 to 10 minutes, which was inadequate to present a case or rebut evidence. Petitioner's
+
+10
+VERIFIED PETITION AND COMPLAINT
+
+counsel was not provided an opportunity to put on witnesses, questions witnesses, or Cross-
+2 examine adverse witnesses.
+
+3 53. The ZA's presentation included new arguments and evidence that it had never
+
+4 previously argued and that were not part of the Determination. Petitioner was not provided
+S an opportunity to prepare to rebut these arguments.
+54. Petitioner is informed and believes that the ZA, who acted as a proseçutor on
+
+7 the appeal, and the APC, the appeal decision-makers, had ex parte communications and did
+
+8 not disclose them or provide an opportunity to respond.
+9 55. On January 25, 2018, the APC issued a Letter of a Determination, which denied
+10 Petitioner's appeal and adopted the Determination in full.
+11 56. The APC did not act like neutral decision-makers or an appellate body. It did
+12 not rule on any of the legal or factual issues Petitioner raised in its appeal or supplemental
+13 submittal, and did not even bother to correct the Determination's undisputed factual errors.
+14 In effect, the APC relied on the ZA, who was acting as a prosecutor on the appeal, to decide
+15 the case for them.
+
+16 57. The Determination will prevent Petitioner from producing oil at the Jefferson
+17 Site because it will require the relocation of underground pipes, which provide the only
+18 feasible method to transport fluids off site. Construction of the enclosure would similarly
+19 require operations be stopped or curtailed. During this time, Petitioner will be deprived of
+20 all beneficial uses of its property. This also substantially interferes with Petitioner's
+21 investment-backed expectation of continued operations in accordance with existing
+22 approvals and vested rights.
+
+23 58. The Jefferson Site is no different from other oil production sites located in the
+
+24 City, and is similar to many other industrial businesses. Respondents have intentionally
+25 treated the Jefferson Site differently from other similarly situated oil production sites and
+26 industrial businesses by initiating never-before-used procedures and imposing never-before-
+27 used conditions, such as an open-air vapor recovery system.
+28 59. The Determination is Respondents' final action and is ripe for judicial review.
+
+11
+VERIFIED PETITION AND COMPLAINT
+
+FIRST COUNT
+(CCP § 1094.5)
+(Prejudicial Abuse Of Discretion: Failed To Proceed In Manner Required By Law)
+
+60. Petitioner incorporates by reference paragraphs 1 through 59 above.
+
+5 61. Code of Civil Procedure 8 1094.5(b) provides that an agency's decision can be
+
+6 challenged on the ground that there was a "prejudicial abuse of discretion." "Abuse of
+7 discretion is established if the respondent has not proceeded in the manner required by law."
+62. In order to justify an interference with the constitutional right to carry on a
+
+0 lawful business it must appear that the interests of the public require such interference and
+
+10 that the means are reasonably necessary for the accomplishment of the purpose, and are not
+11 unduly oppressive upon the business.
+12 63. Petitioner has an established constitutional right to carry on its lawful business
+
+13 at the Jefferson Site according to the terms of its existing discretionary zoning approvals.
+
+14 64. The Determination interferes with Petitioner's vested rights.
+
+15 65. Respondents have not have not attempted to obtain and have not obtained a
+
+16 substantial nuisance or code enforcement determination such that they have established the
+
+17 interests of the public require the Determination and its interference with Petitioner's vested
+
+18 rights.
+
+19 66. Respondents have not established that the conditions imposed by the
+
+20 Determination are reasonably necessary to accomplish the Determination's purported
+21 purpose.
+22 67. The conditions imposed by the Determination are also unduly oppressive on
+
+23 Petitioner.
+
+24 68. By interfering with Petitioner's vested rights without the requisite basis, and by
+25 imposing conditions that are unduly oppressive, Respondents have not proceeded in a
+26 manner required by law.
+
+27 69. In order to modify existing discretionary zoning approvals, Respondents must
+28 follow the procedures and standards set forth in LAMC § 12.27.1. coR
+
+12 VERIFIED PETITION AND COMPLAINT
+
+70. The Determination modified Petitioner's existing discretionary zoning
+
+2 approvals, but Respondents did not follow the procedure and standards set forth in LAMC §
+
+3 12.27.1.
+
+4 71. By not following the required procedures and standards, Respondents have
+
+5 failed to proceed in a manner required by law.
+6 72. In adjudicatory actions, the law requires that agencies use legal standards by
+which to measure alleged violations against.
+
+8 73. When issuing the Determination, Respondents did not establish or use legal
+standards against which they could measure the alleged violations.
+10 74. By not establishing or applying legal standards, Respondents failed to proceed
+11 in a manner required by law.
+
+12 75. The law requires a valid justification for holding a hearing to modify the terms
+
+13 of an existing discretionary zoning approval.
+14 76. Respondents asserted they conducted the hearing that resulted in the
+15 Determination so that they could review compliance with the PA3 approval.
+16 77. By its terms, the PA3 approval is legally inoperative.
+17 78. By conducting a hearing to review a legally inoperative discretionary zoning
+18 approval, Respondents have not proceeded a in a manner required by law.
+19 79. When making a discretionary land use decision, Respondents must consider
+
+20 the decision's environmental impacts and must comply with CEQA.
+
+21 80. When issuing the Determination, Respondents did not consider the project's
+
+22 environmental impacts and did not comply with CEQA.
+•23 81. By not considering the Determination's environmental impacts and by not
+24 complying with CEQA, Respondents did not proceed in the manner required by law.
+
+25 82. The law requires agencies to abide by the provisions of the U.S. and California
+26 Constitutions, including the due process and equal protection clauses.
+27 83. Before, during, and after the proceedings that led to the Determination, and.
+28 through the Determination, Respondents violated Petitioner's rights protected by the U.S.
+
+13
+VERIFIED PETITION AND COMPLAINT
+
+and California Constitution.
+
+2 84. By infringing on Petitioner's constitutional rights, Respondents did not proceed
+
+3 in a manner required by law.
+
+4 85. Therefore, Respondents abused their discretion.
+
+5 86. Respondents' abuse of discretion was prejudicial.
+
+6 87. Petitioner is entitled to a writ of mandate commanding Respondents to set
+
+7 aside the Determination, and to interim and final injunctive relief.
+
+8 88. Petitioner has incurred and will incur attorney's fees bécause of this
+
+9 proceeding, in amounts that cannot yet be determined, which are recoverable in this action
+10 under Government Code 800.
+
+11 SECOND COUNT
+
+12 (CCP § 1094.5)
+13 (Lack of Fair Trial)
+
+14 89. Petitioner incorporates by reference paragraphs 1 through 88 above.
+15 90. Code of Civil Procedure § 1094.5(b) provides that an agency's decision can be
+
+16 challenged on the ground that the agency did not provide a "fair trial."3
+17 91. When issuing the Determination, Respondents acted in an adjudicatory manner
+
+18 and a hearing was required by law.
+19 92. To provide a fair trial, Respondents must act in accordance with the due
+20 process provisions of the U.S. and California Constitutions and the City's rules of procedure.
+21 93. The due process provisions of the U.S. and California Constitutions require
+22 adequate notice and a meaningful opportunity to be heard prior to a governmental
+23 deprivation of property.
+24 94. The Determination deprives Petitioner of its property.
+
+25 95. Respondents did not provide Petitioner with adequate notice or a meaningful
+26 opportunity to be heard before the deprivation.
+27 96. The duê process provisions of the U.S. and California Constitutions also
+28 require that agencies provide an opportunity to review the evidence they consider when
+
+14
+VERIFIED PETITION AND COMPLAINT
+
+-
+
+2 making adjudicatory decisions, and an opportunity to rebut that evidence.
+97. When deciding on the Determination, Respondents relied on evidence that was
+
+4 never presented to Petitioner, and Respondents never provided Petitioner an opportunity to
+review or rebut that evidence before the Determination was issued.
+
+98.
+
+6 The due process provisions of the U.S. and California Constitutions and the
+
+7 City's rules. of procedure also prohibit ex parte communications before, during, and after
+adjudicatory hearings.
+8 99.
+
+9 Petitioner is informed and believes that Respondents allowed, and engaged in,
+
+10 ex parte communications before, during, and after the hearings that resulted in the
+
+11 Determination, and did not provide Petitioner notice or any opportunity to respond to those
+
+communications.
+
+12 100.
+
+13 The due process provisions of the U.S. and California Constitutions also
+
+14 require that, in adjudicatory hearings, an agency must separate its prosecutorial functions
+from its decision-making functions.
+15 101. Before, during, and after the hearings that resulted in the Determination,
+16 Respondents did not separate their functions between
+17 proseçutors and decision-makers.
+
+18 102. Therefore, Respondents did not provide a fair trial.
+
+19 103. Petitioner is entitled to a writ of mandate commanding Respondents to set
+
+20 aside the Determination, and to interim and final injunctive relief.
+104.
+
+21 Petitioner has incurred and will incur attorney's fees because of this
+
+22 proceeding, in amounts that cannot yet be determined, which are recoverable in this action
+under Government Code § 800.
+23 THIRD COUNT
+
+24 (CCP § 1094.5)
+25
+
+26 (Prejudicial Abuse Of Discretion: Decision Is Not Supported By The Findings)
+
+27 105. Petitioner incorporates by reference paragraphs 1 through 104 above.
+
+106,
+
+28 Code of Civil Procedure § 1094.5(b) provides that an agency's decision can be
+challenged on the ground that there was a "prejudicial abuse of discretion." "Abuse of
+
+15
+VERIFIED PETITION AND COMPLAINT
+
+discretion is established if . the order or decision is not supported by the findings."
+
+2 107. between the raw evidence An agency's findings must bridge the analytical gap
+
+3 and the ultimate decision.
+
+4 108. The Determination does not bridge the analytical gap between the raw
+
+5 evidence and ultimate decision. For example, while the Determination imposcs new
+
+6 conditions on the Jefferson Site's operations, Respondents did not make any findings
+
+7 (including necessary sub-conclusions) that bridge the analytical gap between the alleged
+
+8 harm and the conditions imposed. Respondents did not make any findings demonstrating, or
+
+9 explaining, how the conditions would alleviate the alleged harm.
+10 109. Agencies must make. all findings required by applicable law.
+11 110. To interfere with vested rights, the law requires that Respondents make
+12 findings of a substantial impairment of public rights.
+13 111. Respondents did not make any findings of a substantial impairment of public
+
+14 rights that would justify an intrusion on Petitioner's vested rights.
+15 112. To modify existing discretionary land use approvals, Respondents must make
+16 written findings that the "determination does not impair the constitutional rights of any
+17 person." (LAMC § 12.27.1)
+
+18 113. Respondents did not make findings that the Determination "does not impair the
+19 constitutional rights of any person.
+
+20 114. Where applicable, LAMC con 13.01 requires findings based on "actual
+21 observation and experience with drilling."
+22 115. Respondents did not make findings based on "actual observation and
+23 experience with drilling." Respondents could not make findings based on actual observation
+24 and experience with drilling because there has been no recent drilling.
+25 116. Therefore, Respondents did not make the findings required by law.
+26 117. An agency's findings must permit a court to review its decision.
+27 118. To allow for meaningful judicial review, an agency's findings must relate to
+28 standards against which alleged violations can be measured.
+
+16 VERIFIED PETITION AND COMPLAINT
+
+119. Respondents did not make any findings that measure alleged violations against
+2 legal standards.
+120. Therefore, Respondents' findings are insufficient to permit meaningful judicial
+4 review.
+
+5 121. Accordingly, Respondents abused their discretion.
+
+6 122. Respondents' abuse of discretion was prejudicial.
+7 123. Petitioner is entitled to a writ of mandate commanding Respondents to set
+
+8 aside the Determination, and to interim and final injunctive relief.
+
+9 124. Petitioner has incurred and will incur attorney's fees because of this
+10 proceeding, in amounts that cannot yet be determined, which are recoverable in this action
+
+11 under Government Code § 800.
+
+12 FOURTH COUNT
+
+13 (CCP § 1094.5)
+14 (Acted Without, Or In Excess Of, Jurisdiction)
+15 125. Petitioner incorporates by reference paragraphs 1 through 124 above.
+16 126. Code of Civil Procedure 8 1094.5(b) provides that an agency's decision can be
+17 challenged on the ground that the agency "proceeded without, or in excess of, jurisdiction."
+18 127. An agency exceeds its jurisdiction whenever it takkes action outside its defined
+19 authority.
+
+20 128. Respondents do not have authority to initiate proceedings under LAMC LOp
+21 13.01.
+
+22 129. Respondents initiated the proceedings that resulted in the Determination based
+23 on their purported authority under LAMC § 13.01.
+24 130. By initiating § proceedings under LAMC § 13.01, Respondents acted without, or
+25 in excess of, their jurisdiction.
+26 131. Respondents are required to follow the LAMC's procedures and standards for
+27 actions to modify existing discretionary zoning approvals.
+28 132. When issuing the Determnination, which modifies Petitioner's existing
+
+17
+VERIFIED PETITION ÁND COMPLAINT
+
+discretionary zoning approvals, Respondents did not follow the LAMC's procedures and
+2 standards for modifying such approvals.
+
+3 133. By not following the required procedures and standards, Respondents have
+
+4 acted without, or in excess of, their jurisdiction.
+
+5 134. Under the Federal Supremacy Clause and article XI, section 7 of the California
+
+6 Constitution, local laws in conflict with general state laws or federal laws are void.
+
+7 Respondents do not have authority to regulate areas or enforce local laws that are preempted
+8 by general state laws or federal laws.
+9 135, Through the Determination, Respondents are purporting to regulate areas that
+
+10 are preempted by general state laws or federal laws, including the production of oil and gas
+
+11 (such as all "down hole" activities), air quality, hazardous materials, water quality, and labor
+12 laws.
+
+13 136. By regulating areas that are preempted by state and federal law, Respondents
+14 have acted without, or in excess of, their jurisdiction.
+15 137. Respondents must abide by the U.S. and California Constitutions.
+16 138. Respondents have violated Petitioner's rights protected by the U.S. and
+17 California Constitutions including Petitioner's right to due process, equal protection, and
+18 Petitioner's vested rights.
+
+19 139. By violating Petitioner's constitutional rights, Respondents acted without, or in
+20 excess of, their jurisdiction.
+21 140. Petitioner is entitled to a writ of mandate commanding Respondents to set
+
+22 aside the Determination, and to interim and final injunctive relief.
+23 141. Petitioner has incurred and will incur attorney's fees because of this
+
+24 procceding, in amounts that cannot yet be determined, which are recoverable in this action
+25 under Government Code § 800.
+26 ///
+27 111
+
+28 ///
+
+18
+VERIFIED PETITION AND COMPLAINT
+
+FIFTH COUNT
+
+2 (CCP § 1094.5)
+(Prejudicial Abuse Of Discretion: Findings Are Not Supported By The Evidence)
+
+4 142. Petitioner incorporates by reference paragraphs 1 through 141 above.
+143. Code of Civil Procedure § 1094.5(b) provides that an agency's decision can be
+6 challenged on the ground that there was a "prejudicial abuse of discretion." "Abuse of
+discretion is established if.. . the findings are not supported by the evidence."
+
+8 144. The Determination's findings are not supported by the evidence.
+
+O 145. Therefore, Respondents have abused their discretion.
+10 146. Respondents' abuse of discretion was prejudicial.
+11 147. Petitioner is entitled to a writ of mandate commanding Respondents to set
+
+12 aside the Determination, and to interim and final injunctive relief.
+
+13 148. Petitioner has incurred and will incur attorney's fees because of this
+
+14 proceeding, in amounts that cannot yet be determined, which are recoverable in this action
+
+15 under Government Code § 800.
+
+16 SIXTH COUNT
+
+17 (CEQA)
+
+18 149. Petitioner incorporates by reference paragraphs 1 through 148 above.
+
+19 150. CEQA requires a lead agency to conduct an initial study to determine if a
+20 project may have a significant effect on the environment.
+21 151. The Determination is a project.
+
+22 152. No CEQA exemption is applicable to the Determination.
+23 153. Therefore, Respondents were required to prepare an initial study.
+
+24 154. Respondents did not prepare an initial study or any other document providing
+25 environmental review under CEQA.
+
+26 155. Therefore, Respondents have violated CEQA.
+27 156. Plaintiffs have complied with, or will comply with, all conditions required by
+28 CEQA for filing and maintaining this action.
+
+19
+VERIFIED PETITION AND COMPLAINT
+
+157. Petitioner has incurred and will incur attorney's fees because of this
+
+2 proceeding, in amounts that cannot yet be determined, which are recoverable in this action
+3 under Code of Civil Procedure $ 1021.5.
+
+4 SEVENTH COUNT
+
+5 (42 U.S.C. § 1983) §
+
+6 158. Petitioner incorporates by reference paragraphs 1 through 157 above.
+
+7 159. In accordance with 42 U.S.C. § 1983, "[e]very person who, under color of any
+
+8 statute, ordinance, regulation, custom, or usage, of any State or Territory or the District of
+
+9 Columbia, subjects, or causes to be subjected, any citizen of the United States or other
+10 person within the jurisdiction thereof to the deprivation of any rights, privileges, or
+11 immunities secured by the Constitution and laws, shall be liable to the party injured in an
+12 action at law, suit in equity, or other proper proceeding for redress.»
+13 160. Respondents are "persons" for purposes of 42 U.S.C. § 1983 and were acting
+14 or purporting to act under color of law at all times relevant to this action.
+15 161. Petitioner is a "person" for purposes of 42 U.S.C. § 1983.
+16 162. The due process clause of the U.S. Constitution guarantees the right to due
+17 process of law before a governmental deprivation of property.
+18 163. The Determination deprives Petitioner of its property.
+19 164. Respondents did not afford due process before issuing the Determination.
+20 165. Petitioner was damaged by Respondents' deprivation of its procedural due
+2] process rights.
+22 166. The due process clause of the U.S. Constitution also guarantees the right to be
+23 free from arbitrary and capricious government action.
+24 167. The Determination is arbitrary and capricious.
+25 168. Petitioner was damaged by Respondents' arbitrary and capricious actions.
+26 169. The equal protection clause of the U.S. Constitution guarantees the right to
+27 equal protection of the laws, requires that similarly situated property be treated similarly, and
+28 prohibits governmental action that is arbitrary and irrational.
+
+20
+VERIFIED PETITION AND COMPLAINT
+
+170. Respondents have treated the Jefferson Site differently from other properties
+2 that are similarly situated, and there is no basis for this differential treatment. Respondents
+3 also acted arbitrarily and irrationally in issuing the Determination.
+4 171. Petitioner was damaged by Respondents' differential treatment of the Jefferson.
+Site, and by their arbitrary and irrational actions.
+
+6 172. Therefore, Respondents are liable under 42 U.S.C § 1983 for Petitioner's
+
+7 damages.
+
+8 173. Petitioner has incurred and will incur attorney's and expert fees because of this
+
+Q proceeding, in amounts that cannot yet be determined, which are recoverable in this action
+10 under 42 U.S.C. § 1988(b)-(c).
+
+11 EIGHTH COUNT
+
+12 (Inverse Condemnation)
+
+13 174. Petitioner incorporates by reference paragraphs through 173 above.
+
+14 175. The U.S. and California Constitutions provide that private property cannot be
+
+15 taken for public use without just compensation.
+
+16 176. A taking occurs when there is a physical invasion of private property.
+17 177. The Determination physically invades the Jefferson Site by requiring
+18 construction thereon.
+
+19 178. A taking also occurs when a property is deprived of all economically
+
+20 beneficially uses.
+21 179. The Determination will temporarily deprive Petitioner of all economically
+22 beneficial uses of the Jefferson Site.
+
+23 180. A taking also occurs when a regulation substantially interferes with the ability
+24 of a property owner to make economically viable use of, derive income from, or satisfy
+25 reasonable, investment-backed profit expectations with respect to the property.
+26 181. The Determination unreasonably interferes with Petitioner's ability to make
+27 economically viable use of, derive income from, and satisfy its reasonable, investment-
+28 backed profit expectations with respect to the Jefferson Site.
+
+21
+VERIFIED PETITION AND COMPLAINT
+
+182. A taking also occurs when a condition of approval is not "roughly
+2 proportional" to the impact it seeks to address.
+183. The Determination imposes conditions on the Jefferson Site that are not
+4 "roughly proportional" to the alleged impacts it purportedly seeks to address.
+5 184. Therefore, the Determination effects a taking of the Jefferson Site.
+
+6 185. The Determination takes the Jefferson Site for public use.
+
+7 186. The Jefferson Site is Petitioner's private property.
+
+8 187. Therefore, Respondents have taken Petitioner's private property for public use
+
+o and must pay just compensation for the taking.
+10 188. Respondents have not provided any compensation for their taking.
+11 189. Therefore, Respondents must pay Petitioner just compensation for their taking.
+12 190. Petitioner has incurred and will incur attorney's, appraisal, and engineering
+
+13 fees because of this proceeding, in amounts that cannot yet be determined, which are
+14 recoverable in this action under Code of Civil Procedure § 1036 and others.
+
+15 NINTH COUNT
+
+16 (Refund)
+
+17 191. Petitioner incorporates by reference paragraphs 1 through 190 above.
+18 192. § LAMC § 19.01.B provides the fees that must be paid to file an administrative
+19 appeal. § 19.01.B.1.b provides that a "fee of $89 [shall be charged and collected] in the case
+20 of an appeal by a person, other than the applicant, claiming to be aggrieved."
+21 193. Petitioner was not the applicant because it never filed an application. Thus, the
+22 fee for filing its appeal to the APC should have been $89.
+23 194. However, Respondents required Petitioner to pays fees in accordance with §
+
+24 19.01.B.l.a, which provides that "a fee equal to 85 percent of the underlying application
+25 [shall be charged and collected] . when the appeal is made by the applicant." Respondents
+26 required Petitioner pay $6,015.80 to file its administrative appeal.
+27 195. Petitioner paid this fee under written protest so its appeal could be timely filed.
+28 196. Petitioner is entitled to a refund of the excess fees unlawfully charged.
+
+22
+VERIFIED PETITION AND COMPLAINT
+
+I 197. This claim is exempt from the Government Claims Act.
+
+2
+
+3 PRAYER FOR RELIEF
+
+(First Count-Fifth Count: CPP § 1094.5)
+5 1. For a temporary stay of the Determination pending resolution of judicial
+6 proceedings, and other interim and final injunctive relief.
+7 2. For a peremptory writ of mandate commanding Respondents to rescind and set
+
+8 aside the Determination.
+
+9 3. For a peremptory writ of mandate commanding Respondents to take further
+10 action as specially enjoined upon it by law,
+11 4. For a peremptory writ of mandate preventing Respondents from assigning this
+12 matter to the same hearing officers.
+13 5. For a peremptory writ of mandate commanding Respondents to file a return
+14 within 30 days demonstrating compliance with the writ.
+15 6. For attorney's fees under Government Code § 800 for decisions that resulted
+16 from arbitrary and capricious action.
+17 (Sixth Count: CEQA)
+18 7. For a temporary restraining order and preliminary injunction restraining
+19 Respondents' from enforcing the Determination or otherwise attempting to carry out the
+20 project pending trial.
+21 8. For a peremptory writ of mandate directing Respondents to vacate and set
+22 aside their decision that the project is exempt from CEQA.
+23 9. For a peremptory writ of mandate directing Respondents to suspend all activity
+24 that could result in a change or alteration in the environment until necessary actions have
+25 been taken to comply with CEQA
+26 10. For a peremptory writ of mandate directing Respondents to prepare, circulate,
+27 and consider a legally adequate environmental document and otherwise comply with CEQA
+28 in any subsequent action taken to approve the project.
+
+23
+VERIFIED PETITION AND COMPLAINT
+
+-4 11.
+
+2
+
+3 For reasonable attorney's fees, pursuant to Code of Civil Procedure § 1021.5.
+(Seventh Count: 42 U.S.C. § 1983)
+
+12.
+
+4 13. For damages in an amount to be determined according to proof at trial.
+
+5 For reasonable attorney's and expert fees, pursuant to 42 U.S.C. §6 1988.
+
+6 (Eighth Count: Inverse Condemnation)
+
+14.
+
+7 15. For damages in an amount to be determined according to proof at trial.
+
+8
+
+O For reasonable attorney's, appraisal, and engineering fees according to proof,
+pursuant to Code of Civil Procedure § 1036.
+
+10 (Ninth Count: Refund)
+16.
+
+11 For a refund of $5,926.80.
+
+For All Counts
+
+12 17. Costs of suit.
+
+13 18.
+
+14 Such other relief as the Court deems just and proper.
+
+15 DATED: April 24, 2018
+
+16 NICKI CARLSEN
+MAX ROLLENS
+
+17 ALSTON & BIRD LLP
+
+18
+
+19 tul l m-
+
+Attorneys for Plaintiff Nicki Carlsen
+
+20
+
+21 SENTINEL PEAK RESOURCES LLC
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+24
+VERIFIED PETITION AND COMPLAINT
+
+VERIFICATION
+
+2 I, Christine Halley, am the Director of EH&S and Regulatory Affairs of Sentinel Peak
+3 Resources California LLC and am authorized to execute this verification on behalf of it.
+
+4 have read the attached Verified Petition For Writ Of Mandate And Complaint For
+5 Constitutional Violations, Inverse Condemnation, And Damages and am familiar with its
+
+6 contents. The facts provided in the petition and complaint are true of my personal
+7 knowledge, except for those alleged on information and belief, and I believe those to be true.
+
+8
+
+9 DATED: April 24,2018
+
+10 Wi Herllax Christine Halley
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+25
+VRRIRIRD PRTITION AND COMPLAINT
+
+PROOF OF SERVICE
+
+2 I, Dana Camacho, declare:
+
+3 am employed in the County of Los Angeles, State of California. I am over the age of 18 and not a party to the within action. My business address is Alston & Bird LLP, 333 South
+
+4 Hope Street, Sixteenth Floor, Los Angeles, California 90071. I am over the age of eighteen years and not a party to the action in which this service is made.
+5 On April 30, 2018, I served the document(s) described NOTICE TO ATTORNEY
+
+6 GENERAL OF THE STATE OF CALIFORNIA on the interested parties in this action by enclosing the document(s) in a sealed envelope addressed as follows:
+7 SEE ATTACHED SERVICE LIST
+
+8 x BY MAIL: I am "readily familiar" with this firm's practice for the collection and the
+9 processing of correspondence for mailing with the United States Postal Service. In the ordinary course of business, the correspondence would be deposited with the United
+10 States Postal Service at Alston & Bird LLF 333 South Hope Street, 16th Floor, Los Angeles, CA 90071 with postage thereon fully prepaid the same day on which the
+11 correspondence was placed for collection and mailing at the firm. Following ordinary business practices, I placed for collection and mailing with the United States Postal
+12 Service such envelope at Alston & Bird LLP, 333 South Hope Street, 16th Floor, Los Angeles, CA 90071.
+13 - UPS NEXT DAY AIR deposited such envelope in a facility regularly maintained by
+14 UPS with delivery fees fully provided for or delivered the envelope to a courier or driver of UPS authorized to receive documents at Alston & Bird LLP, 333 South Hope
+15 Street, 16th Floor, Los Angeles, CA 90071.
+
+16 0 BY FACSIMILE: I telecopied a copy of said document(s) to the following addressee(s) at the following number(s) in accordance with the written confirmation of
+17 counsel in this action.
+
+1
+18 BY ELECTRONIC MAIL TRANSMISSION WITH ATTACHMENT: On this date, transmitted the above-mentioned document by electronic mail transmission with
+
+19 attachment to the parties at the electronic mail transmission address set forth on the attached service list.
+
+20 X [State]I declare under penalty of perjury under the laws of the State of California that
+21 the above is true and correct.
+
+0
+22 [Federal] [ declare under penalty of perjury that the foregoing is true and correct.
+
+23 Executed on April 30, 2018, at Los Angeles, California
+
+24 "Tina Cumseuo
+25 Dana Camacho
+
+26
+
+27
+
+28
+
+Sentinel Peak Resources California LLC
+
+2 V,
+
+U City of Los Angeles, et al.
+
+LASC Case No. BS173410
+
+5
+
+6 SERVICE LIST
+
+City of Los Angeles
+
+8 Counsel and Public Service Division
+200 North Spring Street, Room 395
+
+9 Los Angeles, CA 90012
+
+10 South Los Angeles Area Planning Commission
+
+11 City of Los Angeles Department of City
+Planning
+
+12 200 North Spring Street
+Los Angeles, CA 90012
+
+13 Theodore L. Irving
+14 Assistant Zoning Administrator
+
+15 City of Los Angeles Department of City Planning
+
+16 200 North Spring Street
+Los Angeles, CA 90012
+
+17 Terry Kaufmann Macias
+18 Jennifer Tobkin
+: Ernesto Velazquez
+19. "Office of the City Attorney
+
+20 City of Los Angeles
+200 N. Main Street, 7th Floor
+
+21. -.Los Angeles, CA 90012
+
+22 .
+
+;
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Case Summary - Online Services - LA Court http://www.lacourt.org/casesummary/ui/casesummary.aspx?#PTY
+
+Español Téng wiet | B301 | #* huykpbh
+IE SUPERIOR COURT OF CALIFORNIA
+COUNTY OF LOS ANGELES Search
+
+Home Online Services Forms & Filings Self-Help Divisions Jury General Info
+Pay Fines, Soarch Recorda... Forms, Fling Fees. Self-Rep, Info, FAQs... Civil, Criminal, Family... Jury Duty Portal, Q&A... Courthouses, ADA, Local Rules….
+
+NRIS ?
+ONLINE SERVICES
+
+Case Access Plesar retumit Not NkLS
+PRINt CASE INFORMATION harks- 0ion DoJDRa W SEARCH
+
+Case Information Register of Actions | Future Hearings | Party information | Documents Filed | Proceedings Held
+
+Case Number: BS173410
+SENTINEL PEAK RESOURCES CALIFORNIA LLC VS CITY OF LOS ANGELE
+Filing Courthouse: Stanley Mosk Courthouse
+Filing Date: 04/24/2018
+Case Type: Writ - Administrative Mandamus (General Jurisdiction)
+Status: Pending
+
+Click here to access document images for this case.
+If this link fails, you may go to the Case Document Images site and search using the number displayed on this page.
+
+FUTURE HEARINGS
+Case Information Register of Actions Future Hearings | Party Information | Documents Filed | Proceedings Held
+
+08/02/2018 at 09:30 am in Department 85 at 111 North Hill Street, Los Angeles, CA 90012
+Trial Setting Conference(AMENDED) Not Mi LA
+DOj PARTY INFORMATION
+Case Information | Register of Actions Future Hearings | Party Information | Documents Filed | Proceedings Held
+Not CARLSEN NICKI - Attorney for Petitioner
+IRVING THEODORE L. IN HIS OFFICIAL - Defendant/Respondent
+0 LOS ANGELES CITY OF - Defendant/Respondent
+SENTINEL PEAK RESOURCES CALIFORNIA LLC - Petitloner
+SOUTH LOS ANGELES AREA PLANNING - Defendant/Respondent
+
+DOCUMENTS FILED
+Case Information | Register of Actions | Future Hearings | Party Information | Documents Filed | Proceedings Heid
+
+Documents Filed (Filing dates listed in descending order)
+
+of 2 5/2/2018 3:40 PM
+
+Case Summary - Online Services - LA Court http://www.lacourt.org/casesummary/ui/casesummary.aspx?#PTY
+
+05/01/2018 Proof of Service
+Filed by Attorney for Plaintiff/Petitioner
+05/01/2018 Notice of Trial Setting Conference
+Filed by Clerk
+
+04/26/2018 Notice of Trial Setting Conference
+Filed by Clerk
+04/24/2018 Petition
+
+PROCEEDINGS HELD
+Case Information Register of Actions Future Hearings | Party Information| •Documents Filed Proceedings Held
+
+Proceedings Held (Proceeding dates listed in descending order)
+None
+
+REGISTER OF ACTIONS
+Case Information Register of Actions Future Hearings | Party| nformation. Documents Filed Proceedings Held
+
+Register of Actions (LIsted In descending order)
+05/01/2018 Proof of Service
+Filled by Attorney for Plaintiff/Petitioner
+05/01/2018 Notice of Trial Setting Conference
+Filed by Clerk
+04/26/2018 Notice of Trial Setting Conference
+Flled by Clerk
+04/24/2018 Petition
+
+NEW SEARCHE
+
+Art Showcased in
+Los Angeles Courthouse Jury Rooms
+
+"Dancing Puppets" by Nancy Artis
+2005 - 3rd Place Professional
+
+Privacy Stalement Disclalmer I Employment ADA J Holidaya Comment on our Websile Copyright 2014 Superior Court of California, County Angeles
+
+2 of 2 5/2/2018 3:40 PM
+
+DECEIVEN h MAY 2 3 2018
+BY:_.

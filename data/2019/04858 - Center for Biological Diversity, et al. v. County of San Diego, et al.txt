@@ -1,0 +1,1435 @@
+John Buse (SBN 163156) Aruna Prabhala (SBN 278865) 2 •Peter Broderick (SBN 293060)
+
+3 CENTER FOR BIOLOGICAL DIVERSITY 1212 Broadway, Suite 800 Oakland, California 94612 4 I Telephone: (510) 844-7100 Facsimile: (510) 844-7150 5 jbuse@biologicaldiversity.org aprabhala@biologicaldiversity.org 6 pbroderick@biologicaldiversity.org
+7
+
+8 Attorneys for Center for Biological Diversity, Preserve Wild Santee, and the
+
+9 California Chaparral Institute
+
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+11 COUNTY OF SAN DIEGO
+
+12 CENTER FOR BIOLOGICAL Case No.
+
+13 DIVERSITY, PRESERVE WILD
+SANTEE, and CALIFORNIA® VERIFIED PETITION FOR WRIT OF
+
+14 CHAPARRAL INSTITUTE, MANDATE
+
+15 Petitioners, [Code Civ. Proc. §§ 1085, 1094.5; Pub. Res. Code § 21000, et seq. (California
+16 V. Environmental Quality Act); Gov. Code §
+
+17 COUNTY OF SAN DIEGO, BOARD OF 65300 et seq. (State Planning and Zoning
+SUPERVISORS OF THE COUNTY OF Law); Fish & Game Code $2800 et seq. (NCCP Act); Code Civ. Proc. § 1060]
+18 SAN DIEGO; and DOES 1 through 20, inclusive,
+
+19 Respondents,
+20
+
+21 JACKSON PENDO DEVELOPMENT
+COMPANY a/k/a JACKSON PENDO
+II DEVELOPMENT: GDCI PROCTOR 22 VALLEY, LP; GDC HOLDINGS, LLC; PROCTOR VALLEY INVESTORS, LLC; 23 GDC INVESTMENTS 11, LP; and DOES
+24 21 through 40, inclusive,
+
+25 Real Parties in Interest/Necessary Parties.
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+1 INTRODUCTION
+
+2 1. This action challenges the decision of San Diego County and its Board of
+3 Supervisors ("Respondents") to approve the Otay Ranch Village 14 and Planning Areas 16/19
+
+4 project ("Project") and certify an Environmental Impact Report ("EIR") for the Project. The
+
+5 Project includes, but is not limited to, a General Plan Amendment, Specific Plan, Zone
+6 Reclassification, and a Tentative Map for a "master-planned community" on approximately
+7 1,283.6 acres in the Proctor Valley region of the unincorporated County.
+
+8 2. Petitioners CENTER FOR BIOLOGICAL DIVERSITY, PRESERVE WILD
+9 SANTEE, and the CALIFORNIA CHAPARRAL INSTITUTE (collectively "Petitioners")
+
+10 demonstrated throughout the administrative process that the Project will have significant
+11 negative environmental impacts on, among other things, biological resources (including special
+12 status species), air quality, greenhouse gases ("GHGs"), water supplies, water quality, fire
+13 safety, energy consumption, aesthetics, traffic, and land use. Yet Respondents failed to disclose
+14 or adequately analyze these impacts, identify and adopt effective mitigation measures to reduce
+15 them, and consider reasonable alternatives to the Project. The Project is also inconsistent with
+16 the County's General Plan in numerous respects. For example, the County impermissibly allows
+17 for the purchase of "offsets" from outside the County to purportedly mitigate the Project's
+18 significant GHG emissions. Respondents' environmental review and approval of the Project
+19 therefore violates the California Environmental Quality Act (CEQA"), Public Resources Code
+20 sections 21000 et seq., and the CEQA Guidelines, 14 Cal. Code Regs sections 15000 et seq. and
+21 the State Planning and Zoning Law, Gov. Code § 65300 et seq.
+22 3. For these reasons, and as described further below, the County's approval of the
+23 Project and certification of the EIR constitute a prejudicial abuse of discretion.
+
+24 THE PARTIES
+
+25 4. Petitioner CENTER FOR BIOLOGICAL DIVERSITY (the "Center") is a non-
+26 profit conservation organization dedicated to the protection of native species and their habitats
+27 through science, policy, and environmental law. The Center has approximately 70,000 members
+28
+1
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+- worldwide, including members who reside within communities in the vicinity of the Project.
+2 The Center has worked for many years to protect imperiled plants and wildlife, open space, air
+3 and water quality, and the overall quality of life for people in unincorporated San Diego County
+4 where the Project is proposed. Members of the Center objected to the approval and construction
+
+5
+
+6 of the Project and will be directly and adversely affected by the Project.
+5. Petitioner PRESERVE WILD SANTEE (*PWS") Santee is a volunteer
+7 community environmental organization that has worked to protect and enhance the quality of
+8 life and preserve natural resources in the City of Santee and adjoining areas since 1994. Preserve
+9 Wild Santee's members offer input into local land use decisions in an effort to produce better
+10 development projects with fewer environmental and fire safety impacts.
+11 6. Petitioner CALIFORNIA CHAPARRAL INSTITUTE ("CCI") is a 501(c)(3)
+12 nonprofit education, research, and advocacy organization dedicated to the preservation of native
+13 shrubland habitats throughout the West and supporting the creative spirit as inspired by nature.
+14 7. Members of the Center, PWS, and CCI have environmental, educational,
+15 recreational, scientific, and aesthetic interests in the Project area and its plants and wildlife.
+16 These interests will be directly and adversely affected by the Project, which violates provisions
+17 of law as set forth in this Petition and which would cause irreversible harm to the natural
+18 environment and its recreational, scientific, and aesthetic assets. The Petitioners and their
+19 members have a direct and beneficial interest in ensuring that Respondents comply with CEQA
+20 and the CEQA Guidelines. The maintenance and prosecution of this action will confer a
+21 substantial benefit on the public by protecting the public from the environmental and other
+22| harms alleged herein.
+23 8. Respondent SAN DIEGO COUNTY (the "County"), a political subdivision of the
+24 State of California, is responsible for regulating and controlling land use in the unincorporated
+25 territory of the County, including implementing and complying with the provisions of CEQA.
+26 The County is the "lead agency" for the purposes of Public Resources Code Section 21067, with
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE 2
+
+CASE NO.
+
+principal responsibility for conducing environmental review of the proposed actions. The
+
+2 County has a duty to comply with CEQA and other state laws.
+
+3 9. Respondent SAN DIEGO COUNTY BOARD OF SUPERVISORS (the "Board")
+is the duly elected decision-making body of the County. As the decision-making body, the
+Board is responsible for granting the various approvals necessary for the Project and for
+6 ensuring that the County has conducted an adequate and proper review of the Project's
+7 environmental impacts under CEQA.
+
+10. On information and belief, Real Party in Interest JACKSON PENDO
+9 DEVELOPMENT COMPANY, also known as JACKSON PENDO DEVELOPMENT ("Real
+10 Party in Interest"), is the Project applicant and developer, is the entity listed on the County's
+11 Notice of Determination filed for the Project on June 27, 2019, is incorporated in the State of
+12 California and does business in the State of California, and is the recipient of the Project
+
+13 approvals that are the subject of this Petition and therefore a real party in interest within the
+14 meaning of Public Resources Code section 21167.6.5.
+15 11. GDCI PROCTOR VALLEY, LP, GDC HOLDINGS, LLC, PROCTOR VALLEY
+16 INVESTORS, LLC, and GDC INVESTMENTS 11, LP are listed on the Applicant's Disclosure
+
+17 of Ownership Interests on Application for Zoning Permits/Approvals form for the Project. On
+18 information and belief, each is an entity registered to do business in the State of California and
+19 does business in the State of California.
+
+20 12. Petitioners do not know the true names and capacities, whether individual,
+21 corporate, associate, or otherwise, of respondents DOES 1 through 20, inclusive, and therefore
+
+22 sue said respondents under fictitious names. Petitioners will amend this Petition to show their
+23 true names and capacities when the same have been ascertained. Each of the respondents is the
+
+24 agent and/or employee of Respondents, and each performed acts on which this action is based
+25 within the course and scope of such respondent's agency and/or employment.
+
+26 13. Petitioners do not know the true names and capacities, whether individual,
+27 corporate, associate, or otherwise, of real parties in interest DOES 21 through 40, inclusive, and
+
+28 3
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+1 therefore sue said real parties in interest under fictitious names. Petitioners will amend this
+2 Petition to show their true names and capacities when the same have been ascertained.
+
+3 JURISDICTION AND VENUE
+
+4 14. This Court has jurisdiction to issue a writ of mandate to set aside Respondents'
+5 decision to approve the Project under California Code of Civil Procedure section 1094.5 (or
+6 alternatively, section 1085) and Public Resources Code section 21168.5 (or alternatively, section
+7 21168) and section 21168.9.
+
+8 15. Venue for this action properly lies in the San Diego County Superior Court
+
+9 because Respondents and the proposed site of the Project are located in the County. Many of the
+10 significant environmental impacts from the Project that are the subject of this lawsuit would
+11 occur in San Diego County, and the Project would affect the interests of San Diego County
+12 residents, including members of the Center, PWS, and CCI who reside in San Diego County.
+13 16. Respondents have taken final agency actions with respect to adopting the EIR and
+14 approving the Project. Respondents had a duty to comply with applicable state laws, including
+15 but not limited to CEQA and the State Planning and Zoning Law, prior to undertaking the
+16 discretionary approvals at issue in this lawsuit.
+17 17. Petitioners have complied with the requirements of Public Resources Code section
+18 21167.5 by serving a written notice of Petitioner's intention to commence this action on
+19 Respondents on July 25, 2019. A copy of the written notice and proof of service is attached
+20 hereto as Exhibit A.
+
+21 18. Petitioners have complied with the requirements of Public Resources Code section
+22 21167.6 by concurrently notifying Respondents of Petitioners' request to prepare the record of
+23 administrative proceedings relating to this action. A copy of the Petitioners' Election to Prepare
+24 Administrative Record of Proceedings is attached hereto as Exhibit B.
+25 19. Petitioners have performed any and all conditions precedent to filing this instant
+26| action and has exhausted any and all administrative remedies to the extent required by law,
+27 including, but not limited to, timely submitting extensive comments objecting to the approval of
+28
+4
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+the Project and identifying to Respondents the deficiencies in Respondents' environmental
+2 review for the Project on April 16, 2018, June 21, 2019, and June 26, 2019.
+
+3 20. This Petition is timely filed in accordance with Public Resources Code section
+4 21167 and CEQA Guidelines section 15112.
+
+5 GENERAL ALLEGATIONS
+
+6 The Proposed Project and Project Site
+
+7 21. The proposed Project site is in the remote Proctor Valley area of San Diego
+
+8 County, northwest of the City of Chula Vista and near the small, unincorporated town of Jamul.
+9 Apart from Proctor Valley Road, the site is undeveloped, with views of Proctor Valley, the San
+10 Miguel and the Jamul Mountains, and the dense trees and shrubs of Upper Otay Reservoir.
+11 22. Proctor Valley is home to an abundance of important biological resources. The site
+12 abuts the 5,600-acre Rancho Jamul Ecological Reserve, owned by the California Department of
+13 Fish and Wildlife ("CDFW"), to the west, north, and east. The Rancho Jamul Ecological
+14 Reserve provides raptor foraging habitat, host plants and nectar resources for the Quino
+15 checkerspot butterfly, habitat occupied by the California gnatcatcher and San Diego fairy
+16 shrimp, burrowing owl locations, and important habitat for numerous other special and protected
+17 species, including mountain lions. Proctor Valley is a wildlife movement corridor for species
+18 traveling between the protected habitat of San Miguel Mountain to the northwest and the Jamul
+19 Mountains to the east. CDFW has acknowledged the importance of water sources in Proctor
+20 Valley for wildlife migration between these two areas.
+
+21 23. The Project site itself supports numerous sensitive natural vegetation communities
+22 including chaparral, coastal sage scrub, riparian and vernal pools. Based on the County's own
+23 data, 22 special-status plants and 28 special-status wildlife species occur on the Project site,
+24 including the federally endangered San Diego fairy shrimp and Quino checkerspot butterfly, the
+25 federally threatened California gnatcatcher, the federally threatened/state endangered Otay
+26 tarplant, the state fully protected golden eagle and white-tailed kite, and the federal candidate
+27 western spadefoot toad.
+28 5
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+1 24. For instance, Proctor Valley contains crucial habitat for the federally endangered
+2 Quino checkerspot butterfly, an orange-and-black butterfly that was once one of the most
+3 abundant butterflies in Southern California, but whose numbers have been drastically reduced
+
+4 due to, among other things, development in its dwindling habitat. The Project proposes to
+5 develop significant portions of Quino checkerspot habitat even though surveys have repeatedly
+6 documented individuals of this now-rare species on or near the Project site.
+
+7 25. Additionally, recent observations and U.S. Geological Survey ("USGS") tracking
+8 data show that federally protected golden eagles frequently travel through Proctor Valley and
+9 forage in the Project site. Recent scientific literature indicates that golden eagles are particularly
+10 sensitive to development-houses, roads, and infrastructure like those proposed for the Project
+11 can cause golden eagles to vacate nearby areas. Development in Proctor Valley would almost
+12 certainly result in the loss of important eagle foraging habitat and the San Miguel
+13 Mountain/Rancho San Diego eagle territory, shrinking available habitat in San Diego County
+14 significantly.
+15 26. The western spadefoot toad, a state species of special concern that is not covered
+16 by existing take authorization under the County's Multiple Species Conservation Program
+17 ("MSCP"), is also present in Proctor Valley. This brown and green amphibian requires shallow,
+18 temporary pools or streams during breeding season; the Project site contains at least 16 such
+19 breeding pools.
+20 27. Proctor Valley is designated as a very high fire hazard severity zone by the
+21 California Department of Forestry and Fire Protection and the California Public Utilities
+22 Commission-the highest fire risk level in California. The designation is well-deserved, as the
+23 area has burned at least 17 times in the last 100 years. For example, the 2007 Harris Fire
+24 affected over 90,000 acres, including a large portion of the Project site. The Project site is at
+25 serious risk for fast-moving, wind-driven fires. According to fire experts, a fire ignited on the
+26 Project site under Santa Ana winds would likely spread southwest towards population centers at
+27 a rate of several miles per hour. The City of Chula Vista's nearest residential development is
+28
+6
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+- less than 1.5 miles away. The steep terrain surrounding the Project site, vegetated by chaparral
+2 and coastal scrub, would make effective fire suppression difficult. The Project will be served by
+
+3
+
+4 a single evacuation route-the planned two-lane Proctor Valley Road.
+28.
+
+5 The proposed Project site is far from existing job centers and other services. The
+City of San Diego is nearly an hour away by car, and by the County's own estimate, future
+6 residents of the Project will drive 50 million miles per year in order to access these jobs and
+7| other goods and services. The Project is the perfect example of the type of car-oriented sprawl
+8 developments that impede the County's ability to achieve state climate goals.
+
+9 29. Rainwater and runoff from the Project site drain into Proctor Valley Creek and
+10 Jamul Creek, tributaries to the Upper and Lower Otay Reservoirs, which provide drinking water
+11 to residents in the City of San Diego. Jamul Creek and the Lower Otay Reservoir are already
+12 listed as impaired water bodies under the Clean Water Act. Development of the Project site
+13 would further impair these hydrological systems.
+14
+
+15 Applicable Land Use Plans
+
+16 30. San Diego County General Plan
+The County approved the Otay Ranch Subregional Plan ("Subregional Plan"), as
+17 part of the County's General Plan, on October 28, 1993. The Subregional Plan establishes land
+18 uses for the nearly 23,000-acre Otay Ranch area (in which the Project is located). The
+19 Subregional Plan generally designates Village 14 and Planning Arcas 16/19 for development but
+20 acknowledges that project-level development approvals cannot occur until after the County
+21
+
+22 considers and addresses site-specific concerns related to such development. Other parcels
+
+23 covered by the Subregional Plan have been developed, though Village 14 and Planning Areas
+16/19 have not.
+
+24 31. In its General Plan, the County committed to preparing a climate action plan with
+25 detailed GHG emissions reduction targets and deadlines and comprehensive and enforceable
+26 GHG emissions reduction measures that will achieve specified quantities of GHG reductions. As
+27 mitigation for the harm to the climate from GHG emissions that would be caused by
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE 7
+
+CASE NO.
+
+development authorized by the General Plan, the County adopted Mitigation Measure CC-1.2,
+2 which requires the preparation of a County Climate Action Plan ("CAP""). On June 20, 2012, the
+3 County adopted a CAP and Thresholds for determining the significance of GHG emissions for
+4 CEQA purposes. This approval was successfully challenged by the Sierra Club in 2014.
+
+5 32. In response, on February 14, 2018, the County Board of Supervisors adopted a
+6 revised CAP and certified an EIR for it. The mitigation and monitoring program adopted by the
+7 County pursuant to that EIR included mitigation measure M-GHG-1, which required certain
+8 projects to mitigate GHG emissions by purchasing carbon offsets. Sierra Club again challenged
+
+9 those approvals, along with the Center. On December 14, 2018, the San Diego Superior Court
+10 granted the petition to set aside the Revised CAP and Mitigation M-GHG-1, finding in part that
+11 Mitigation M-GHG-1 conflicted with the County's General Plan and associated EIR by allowing.
+12 purchase of carbon offsets derived from carbon reduction projects located outside of the County.
+13 33. A major goal of the General Plan is to create a housing stock at a range of prices
+14 (Goal H-1), especially to meet the County's Regional Housing Needs Assessment allocations for
+15 lower income households. The Housing Element recognizes that a critical means of achieving
+16 this goal is to require large-scale residential developers to provide affordable housing.
+17 Accordingly, Policy H-1.9 "[r]equires developers to provide an affordable housing component
+18 when requesting a General Plan amendment for a large-scale residential project when this is
+19 legally permissible."
+20 Multiple Species Conservation Program
+21 34. In response to ongoing threats to federally and state listed endangered species and
+22 continued development pressures, CDFW and the U.S. Fish and Wildlife Service ("USFWS")
+23 prepared an MSCP for San Diego County. The MSCP is a joint Habitat Conservation Plan under
+24 federal law and Natural Community Conservation Plan under state law. The MSCP established
+25 mechanisms intended to ensure the survival and recovery of certain federally and state listed
+26 | species. In turn, it provided the County with limited "take" authorization for MSCP-covered
+27 species pursuant to the federal Endangered Species Act, 16 U.S.C. section 1531 et seq., and the
+28
+8
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+California Endangered Species Act, Fish and Game Code section 2050 et seq. The MSCP does
+2 not cover all of the sensitive or special-status species found on the Project site. For example, it
+3 does not cover (or authorize "take" of) the Quino checkerspot butterfly and the western
+
+4 spadefoot toad.
+35. To implement the MSCP in the vicinity of the Project, the County and the City of
+Chula Vista worked with CDFW and USFWS to a prepare a MSCP Subarea Plan ("Subarea
+7 Plan"). The Project is located within the "South County Segment" of the MSCP Subarea Plan.
+36. CDFW approved the County's take permit pursuant to the Natural Community
+
+9 Conservation Program Act (Fish and Game Code § 2800 et seq.) on March 17, 1998. The
+10 County also entered into an "Implementing Agreement" with CDFW and USFWS to establish
+11 the agencies' roles and responsibilities for carrying out the MSCP and Subarea Plan. According
+12 to CDFW, the County's Subarea Plan, the Implementing Agreement, and the incidental take
+13| permit obligate the County to assemble an MSCP Preserve and mitigate for impacts to covered
+14 species and their habitats.
+15 37. To incorporate the terms of a compromise known colloquially as the "Baldwin
+16 Letter" or "Baldwin Agreement," the MSCP and the Subarea Plan include modifications to, and
+17 expansion of, the open space preserve system originally approved as part of the County's
+18 General Plan (specifically, in the Otay Ranch Subregional Plan). Consistent with the Baldwin
+19 Agreement, the Subarea Plan designates approximately 200 acres of central Proctor Valley
+20 (identified as areas PV-1, PV-2, and PV-3) as "no take authorized" and "Otay Ranch Areas
+
+21 Where No 'Take Permits' Will be Issued." The Subregional Plan designates PV-1, PV-2, and
+
+22 PV-3 as "100 percent conserved," meaning such lands fall within the designated "Hardline
+
+23 Preserve" area. In exchange, the Baldwin Agreement modifications also allowed significantly
+
+24 increased residential density in Otay Ranch Villages 1, 2, 3, 4, 9, 10 and 11, which the City of
+
+25 Chula Vista subsequently developed.
+
+26 38. The EIR prepared for the MSCP also establishes preservation of areas PV-1, PV-2
+27 and PV-3 as mitigation for the impacts of the development authorized by the MSCP. The MSCP
+
+28 9
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+directed the County to modify its General Plan and the Otay Ranch Specific Plan to reflect
+2 changes in development and open space designations as anticipated by the Baldwin Agreement
+3 and incorporated into the MSCP and Subarea Plan. Indeed, both the County and the City of
+4 Chula Vista took the necessary steps to remove other inconsistencies between the MSCP and
+5 their then-existing general plans. However, without explanation or approval, the County failed
+6 to actually re-designate areas PV-1, PV-2, and PV-3 in its General Plan.
+
+7 Regional Transportation Plan/Sustainable Community Strategy
+
+8 39. The San Diego Association of Government ("SANDAG") is the federally
+9 designated regional agency directing overall transportation infrastructure funding. Every four
+10 years it prepares a Regional Transportation Plan ("RTP") for the entire County of San Diego.
+11 After the enactment of SB 375 (Govt. Code § 65080 et seq.), SANDAG has been required also
+12 to prepare a Sustainable Community Strategy ("SCS"), setting out means for using
+13 transportation projects and funding to reduce the environmental impact of transportation, and in
+14 particular to reduce GHG emissions from driving. The RTP and SCS are a combined Plan that is
+15 applicable to the entire County, with numerous policies intended to ensure the County
+16 effectively addresses climate change impacts from transportation and land use.
+
+17 The Project Approvals and EIR
+
+18 40. On or about December 15, 2016 the County issued a Notice of Preparation
+19 ("NOP") for the Project, in which it notified public agencies and interested individuals that, as a
+20 lead agency, it would be preparing a Draft EIR to analyze the proposed Project's potentially
+21 significant environmental impacts. CDFW submitted comments on the NOP and observed that
+22 the proposed development footprint included areas designated in the MSCP Subarea Plan as
+23 "Otay Ranch Areas Where No 'Take Permits' Will Be Issued" and that a proposed project
+24 alternative that included a land-exchange involving CDFW preserve lands would not be feasible.
+25 41. On or about March 1, 2018, Respondents published a Notice of Availability of a
+26 Draft EIR for the Project and circulated the Draft EIR for public review and comment.
+
+27
+
+28 10
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+42. Petitioners and numerous others, including public agencies, organizations, and
+individual members of the public, submitted comments pointing out the serious deficiencies in
+the Draft EIR. For example, commenters explained that the Project would have significant
+4 impacts on air quality, greenhouse gases ("GHGs"), biological resources (including special
+status species), water supplies, water quality, fire safety, energy consumption, aesthetics, traffic,
+
+6 and land use.
+
+43. In a letter to the County on April 16, 2018 before the close of the comment period
+8  on the Draft EIR, Petitioners commented that the Draft EIR failed to comply with CEQA in the
+
+9 following respects:
+
+10 a. The Draft EIR's analysis of and mitigation for impacts to biological resources was
+
+11 inadequate because, inter alia, it failed to disclose, evaluate, and avoid significant
+12 impacts to biological resources including special status species, vernal pools,
+
+13 wetlands and federally designated critical habitat; failed to account for impacts to
+14 the Rancho Jamul Ecological Reserve; and
+
+15 b. the Draft EIR's analysis of and mitigation for GHG impacts was inadequate
+16 because, inter alia, the Draft EIR improperly estimated GHG emissions from the
+
+17 Project, improperly relied on offsets as mitigation for the Project's GHG
+18 emissions, and failed to adopt all feasible mitigation measures; and
+
+19 C. the Draft EIR's analysis of the Projects impacts on water supplies was inadequate.
+
+20 44. In or around September 2018, the County released a Final EIR, for the Project,
+
+21 which included text changes to the Draft EIR and Respondents' responses to public comments
+22 on the Draft EIR. The defects identified in the Draft EIR identified by commenters persisted in
+23 the Final EIR.
+
+24 45. On October 19, 2018, the Planning Commission considered the Project, and voted
+
+25 to recommend approval.
+
+26 46. The Board delayed holding a hearing on the Project, later scheduled a hearing for
+27 December 12, 2018, then again delayed the hearing. In or around May 2019, the Board provided
+28 11
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+1 notice that the Project would be heard before the Board at its June 26, 2019 regularly scheduled
+2 hearing.
+
+3 47. In mid-June 2019, the Center discovered that the County had made unannounced
+
+4 changes to the Final EIR and had replaced several sections of the Final EIR on the County's
+5 website with new versions of those documents. These versions contained changes, including
+
+6 substantive modifications to Final EIR sections on Air Quality, Greenhouse Gas Emissions,
+7 Transportation and Traffic as well as to the proposed mitigation measures and the County's
+
+8 response to public comments, including the Center's.
+
+9 48. In a letter submitted to the County on June 21, 2019, before the final hearing to
+10 approve the Project and certify the Final EIR, Petitioners described deficiencies remaining in the
+11 Final EIR, commenting that the Final EIR failed to comply with CEQA in the following
+12 respects:
+13 a. The EIR's analysis of and mitigation for the Project's impacts to biological
+14 resources, including special status species such as the federally listed Quino
+15 checkerspot butterfly, remained inadequate; and
+
+16 b. the EIR's analysis of and mitigation for the Project's GHG emissions remained
+17 inadequate; and
+18 C. the EIR's water supply analysis remained deficient; and
+
+19 d. the EIR's analysis of and mitigation for the Project's wildfire risks and impacts
+20 was inadequate; and
+
+21 C. the Final EIR did not adequately respond to the Petitioners' comments on the
+22 Draft EIR.
+
+23 49. In a letter submitted to the County on June 26, 2019, prior to the close of the final
+24 hearing to approve the Project and certify the Final EIR, Petitioners commented that:
+25 a.. The County's late changes to the Final EIR, for which it did not provide notice
+26 to the public, impeded public review of the document; and
+
+27
+
+28
+12
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+1 b. the County's proposal to enter into a so-called "Dispute Resolution Agreement"
+2 with CDFW and the applicant that would commit the County to entering into a
+land-exchange deal relating to lands in and around the Project area constituted a
+4 new, separate project for which environmental review had not been conducted;
+
+5 and
+
+6 C. the County should recirculate a revised EIR that studied the new project.
+
+7 Respondents' Approval of the Project and Certification of the EIR
+
+8 50. On June 26, 2019, the Board of Supervisors held a public hearing on the proposed
+9 Project and Final EIR to consider whether to certify the Final EIR and approve the Project.
+10 Members of the public, including members of the Center, PWS, and/or CCI, attended the public
+11 hearing and opposed the certification of the Final EIR and approval of the Project.
+12 51. At the conclusion of the June 26, 2019 hearing, the Board of Supervisors adopted
+13 the Planning Commission's recommendation, certified the Final EIR, approved the Project and
+14 adopted findings in support of the Project approval and EIR certification, and voted to enter into
+15 the Dispute Resolution Agreement, which commits the County to supporting a land exchange
+16 that would drastically alter the Project footprint to, among other things, allow for the
+17 development and destruction of hundreds of acres of the Rancho Jamul Ecological Reserve.
+
+18 52. On June 27, 2019 the County executed the Dispute Resolution Agreement.
+
+19 53. On June 27, 2019, the County recorded a Notice of Determination for the Project,
+20 which stated that the County had approved the Project, certified the EIR, and adopted Findings
+21 and a Statement of Overriding Considerations.
+22 54. As a result of Respondents' actions in approving the Project, certifying the EIR for
+23 the Project, adopting Findings and a Statement of Overriding Considerations, and entering into
+
+24 the Dispute Resolution Agreement, Petitioners and their members will suffer significant and
+25 irreparable harm as described herein. Petitioners have no plain, speedy, or adequate remedy at
+26 law for this irreparable harm. Unless this Court grants the requested writ of mandate to require
+
+27
+
+28 13
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+Respondents to set aside certification of the EIR and approval of the Project, Respondents'
+2 approval will remain in effect in violation of state law.
+
+3 55. Respondents have prejudicially abused their discretion and failed to proceed in the
+
+4 manner required by law in the following ways:
+
+5 FIRST CAUSE OF ACTION
+
+6 Violation of CEQA - Inadequate EIR (Public Resources Code § 21000, et seq.,
+7 CEQA Guidelines 14 Cal. Code Regs. § 15000 et seq.)
+
+8 56. Petitioners hereby incorporate by reference each and every allegation set forth
+9 above.
+
+10 57. CEQA was enacted by the legislature to ensure that long-term protection of the
+11 environment be the guiding criterion in public decisions. CEQA requires the lead agency for a
+12 project with the potential to cause significant environmental impacts to prepare an EIR for the
+13 project that complies with the requirements of the statute, including, but not limited to, the
+14 requirement to analyze the project's potentially significant environmental impacts. The EIR
+15 must provide sufficient environmental analysis such that the decisionmakers can intelligently
+16 and fully consider environmental consequences when acting on the proposed project. Such
+17 analysis must include and rely upon thresholds of significance that are based on substantial
+18 evidence in the record.
+
+19 58. CEQA also mandates that the lead agency analyze and adopt feasible and
+20 enforceable mitigation measures that would reduce or avoid any of a project's significant
+21 environmental impacts. If any of the project's significant impacts cannot be mitigated to a less
+22 than significant level, then CEQA bars the lead agency from approving a project if a feasible
+23 alternative is available that would meet the project's objectives while avoiding or reducing its
+24 significant environmental impacts.
+25 59. CEQA requires that substantial evidence in the administrative record support all of
+26 the agency's findings and conclusions, including those contained in the EIR, and that the agency
+27 explain how the evidence in the record supports the conclusions the agency has reached.
+
+28
+14
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+- 60. Respondents committed a prejudicial abuse of discretion and failed to proceed in a
+2 manner required by law because the Project relies on an EIR that fails to meet the CEQA's
+3 requirements for the disclosure, analysis, mitigation, reduction, and/or avoidance of significant
+
+4 environmental impacts from the Project, including direct and cumulative impacts to wildfire
+5 risks, air quality, GHGs, biological resources, water supplies, water quality, traffic, aesthetics,
+6 land use (including growth inducing impacts) and energy consumption.
+
+7 61. Environmental Setting. The EIR fails to comply with CEQA's requirement to
+cO provide an adequate and accurate description of the environmental setting of the Project area.
+
+9
+
+10 (CEQA Guidelines § 15125.) The EIR's description of the environmental setting is inadequate
+because, inter alia, it fails to:
+11 a.
+
+12 Adequately describe and disclose the Project area's importance as habitat and/or a
+
+13 corridor and linkage for special status wildlife in the vicinity of the Project;
+
+14 b. establish that protocol-level surveys were performed on all appropriate species;
+and,
+
+15 C.
+
+16 describe and disclose the results of all biological surveys conducted on the Project
+
+site.
+
+17 62. Project Description. The EIR's project description is legally inadequate because,
+18 inter alia, the EIR:
+
+19 a. Fails to describe the whole of the Project;
+
+20
+
+21 b. fails to describe and analyze the Project as it was ultimately approved by the
+
+22 County at the Board's June 26, 2019 hearing; and
+
+C.
+
+23 fails to describe the Dispute Resolution Agreement entered into by the County and
+
+24 the California Department of Fish and Wildlife as part of the Project, or disclose
+
+25 how the Dispute Resolution Agreement will foreseeably alter the size, footprint,
+
+26 and location of the Project or result in additional or increased significant
+environmental impacts.
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE 15
+
+CASE NO.
+
+1 63. Air Quality. The EIR fails to adequately disclose, analyze, and/or mitigate the
+2 Project's significant direct, indirect, and cumulative impacts to air quality. The Project will have
+3 significant and long-term air quality impacts that will be felt by residents of the Project, by
+
+4 residents of the Otay Mesa area, and by sensitive wildlife, and that will have a negative impact
+
+5 on wildlife habitat in the region. While the EIR acknowledges the Project will result in
+
+6 significant air quality impacts, it fails to adopt all feasible mitigation measures and consider
+7 alternatives that would reduce these impacts.
+
+8 64. Greenhouse Gases. The EIR fails to adequately disclose, analyze, and/or mitigate
+9 the Project's significant direct, indirect, and cumulative GHG impacts. The EIR's analysis of
+10 GHG impacts is inadequate because, inter alia, the EIR:
+
+11 a. Fails to accurately estimate the GHG emissions that will result from the Project;
+12 b. relies on GHG mitigation measures that are vague, deferred, unenforceable,
+13 and/or inconsistent with the County General Plan and other applicable state,
+14 regional, or local plans, policies, or regulations, and fails to set forth the specific
+15 numerical reductions in GHG emissions these measures will achieve;
+16 C. is inconsistent with other emissions reductions plans, policies and regulations;
+17 d. fails to incorporate all feasible mitigation and avoidance measures;
+18 e. impermissibly relies on off-site offsets to mitigate Project emissions because off-
+
+19 site emissions reductions claimed as offsets are not real, permanent, quantifiable,
+20 verifiable, and enforceable reductions as set forth in Health and Safety Code
+21 Section 38562(d)(1), are not additional to any other requirement of law or
+22 regulation (CEQA Guidelines section 15126.4(c)(3)), and lack legally-required
+23 performance standards; and
+24 f. fails to analyze, disclose, and if necessary, provide adequate mitigation for the
+25 impacts resulting from the Project's inconsistency with County General Plan
+26 Policy COS-20, which requires specified GHG reductions within the County,
+27 given that each Project relies on the ability to use out-of-County GHG offsets.
+28 16
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+65. Biological Resources. The EIR fails to adequately disclose, analyze, and/or
+
+2 mitigate the Project's significant and cumulative impacts to biological resources, including
+3 numerous animal and plant species affected by the Project. Those species include, but are not
+
+4 limited to: golden eagle, Quino checkerspot butterfly, Western spadefoot toad, California
+gnatcatcher, San Diego fairy shrimp, burrowing owl, mountain lion, spreading navarretia, Otay
+
+6 tarplant, Dudleya variegata, and San Diego button-celery. The EIR's biological resources
+7 analysis is inadequate because, inter alia, the EIR:
+a. Relies on mitigation measures that are vague, deferred, and/or unenforceable;
+b. fails to adequately disclose, analyze, and/or mitigate the Project's significant
+10 impacts on habitats and features such as vernal pools, non-riparian wetlands, and
+
+11 preserved areas such as the Rancho Jamul Ecological Reserve, Otay Lakes
+
+12 Cornerstone Lands Preserve and Otay Ranch open space;
+
+13 C. fails to satisfy the requirements of the MSCP. County Subarea Plan and
+14 Biological Mitigation Ordinance; and
+
+15 d. fails to properly analyze the Project's impacts on occupancy and designated
+
+16 critical habitat for Quino checkerspot butterfly.
+
+17 66. Water Supply. The EIR does not adequately disclose, analyze, and/or mitigate the
+18 environmental consequences of supplying water to the Project. The EIR's water supply analysis
+19 is inadequate because, inter alia, the water supply analysis and the EIR:
+
+20 a. Fail to adequately analyze the impacts of providing the Project with long-term
+21 potable water supply;
+
+22 b. fail to accurately describe the uncertainty surrounding regional supplies in light of
+23 increasing drought conditions;
+24 C. fail to analyze cumulative impacts associated with supplying water to the Project;
+
+25 and
+
+26
+
+27
+
+28 17
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+d. present conflicting information, undermining the documents' ability to accurately
+2 disclose, analyze, and/or mitigate the impacts associated with supplying water to
+
+3 the Project.
+
+4 67. Fire Safety. Although the Project site is located in an area designated by the
+
+5 California Department of Forestry and Fire Protection as a Very High Fire Hazard Severity
+
+6 Zone, the Respondents failed to adopt feasible mitigation measures and alternatives that would
+7 reduce or avoid the Project's direct and cumulative fire safety impacts. Among other things, the
+8 Respondents failed to fully consider the likelihood that the Project would increase the risk and
+9 intensity of wildfires which will impact human health and safety and habitat for special status
+10 species. The EIR also fails to assess the Project's impacts on area fire protection services and
+11 utilities.
+
+12 68. Growth-inducing impacts. The EIR fails to adequately disclose, analyze, and/or
+13 mitigate the Project's significant growth-inducing impacts because, inter alia, the EIR contains
+14 limited and inadequate discussion of the growth-inducing impacts of urbanizing a rural,
+15 undeveloped area, and the EIR fails to acknowledge that the Project will induce future growth.
+
+16 69. Energy. The EIR fails to adequately disclose, analyze, and/or mitigate the
+17 Project's significant impacts on energy due to the substantial increase in VMT and fuel
+18 consumption the Project will create.
+19 70. Traffic. The EIR fails to adequately disclose, analyze, and/or mitigate the
+20 Project's significant direct, indirect, and cumulative traffic impacts.
+21 71. Hydrology and Water Quality. The EIR fails to adequately disclose, analyze,
+22 and/or mitigate the direct, indirect, and cumulative impacts the Project will have on hydrology
+23 and water quality.
+
+24 72. Aesthetics. The EIR fails to adequately disclose, analyze, and/or mitigate the
+25 Project's direct, indirect, and cumulative impacts to aesthetics. The EIR is inadequate because,
+26 inter alia, the EIR:
+
+27
+
+28 18
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+a. Fails to properly analyze Project impacts to views along Proctor Valley Road, a
+
+2 designated scenic highway;
+
+3 b. contains insufficient analysis of visual impacts to area trails and recreation areas;
+
+4 C. contains deficient analysis of night time views; and
+d. fails to adequately account for cumulative impacts on scenic views in and around
+the Project site.
+
+73. Land Use. The EIR failure to disclose, analyze, and mitigate the Project's
+inconsistency with applicable land use plans, including but not limited to the MSCP and the
+
+9 General Plan.
+
+10 74. Alternatives. The EIR fails to provide a selection and discussion of alternatives
+11 that foster informed decision-making and informed public participation. The alternatives
+
+12 analysis in the EIR does not meet CEQA's requirement that an EIR consider a reasonable range
+
+13 of alternatives that lessen the Project's significant environmental impacts, and does not focus on
+14 alternatives thät either eliminate adverse impacts or reduce them to insignificance, even if they
+15 would to some degree impede the Project's objectives. The EIR's analysis of alternatives is
+16 inadequate because, inter alia, the EIR:
+17 a. Improperly relies upon an overly narrow statement of purpose and Project
+
+18 objectives;
+
+19 b. does not support its conclusion that no alternative sites exist for the Project;
+
+20 C. includes the Land Exchange Alternative, which would worsen the Project's
+
+21 environmental impacts;
+
+22 d. fails to include quantitative and/or meaningful comparisons of the Project's
+
+23 impacts and the proposed alternatives; and,
+
+24 e. misrepresents the physical conditions of the Project site in the discussion of
+25 alternatives.
+
+26 75. Responses to Comments. The responses to comments in the Final EIR fail to
+27 meet CEQA's requirements in that they neither adequately dispose of all the issues raised, nor
+
+28 19
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+1 provide specific rationale for rejecting suggested Project changes, mitigation measures, or
+
+2 alternatives. CEQA requires that the lead agency evaluate and respond to all environmental
+
+3 comments on the Draft EIR that it receives during the public review period. The responses must
+
+4 describe the disposition of the issues raised and must specifically explain reasons for rejecting
+5 suggestions and for proceeding without incorporating the suggestions. The Final EIR's
+6 responses to comments fail to satisfy the requirements of law.
+
+7 SECOND CAUSE OF ACTION
+
+8 Violation of CEQA - Inadequate Findings and Statement of Overriding Considerations
+9 (Public Resources Code § 21000, et seq.)
+10 76. Respondents' Findings of Fact and Statement of Overriding Considerations violate
+11 the requirements of the CEQA Guidelines. Respondents' findings fail to identify the changes or
+12 alterations that are required to avoid or substantially lessen the project's significant
+13 environmental effects (CEQA Guidelines § 15091(a)(1), and do not provide adequate reasoning
+14 or the analytic route from facts to conclusions, as required by law. The purported benefits of the
+15 Project cited in the Statement of Overriding Considerations do not outweigh the substantial costs
+16 of the Project to public health and the environment. Respondents' Findings and Statement of
+17 Overriding Considerations are not supported by substantial evidence in the record. (CEQA
+18 Guidelines, § 15091(b).)
+19 77. Where mitigation measures and alternatives to a project are not adopted, the
+20 CEQA findings must identify specific economic, legal, social and technological and other
+21 considerations that make infeasible the adoption of mitigation measures or alternatives. All
+22 CEQA findings must be supported by substantial evidence in the record and must disclose the
+23 analytical route by which approval of the Project is justified. The findings regarding the impacts,
+24 mitigation measures, and alternatives relied upon by Respondents' approval of the Project are
+25 not supported by substantial evidence in the record, and the links between evidence and
+26 conclusions are not satisfactorily provided.
+
+27
+
+28
+20
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+78. Respondents' Findings of Fact and Statement of Overriding Consideration fail to
+2 reflect the independent judgment of Respondents.
+
+3 79. a As a result of the foregoing defects, Respondents failed to proceed in a manner
+4 required by law, and their decision to approve the Project was not supported by substantial
+5 evidence.
+
+6 THIRD CAUSE OF ACTION
+
+7 Violation of CEQA - Failure to Recirculate EIR
+
+8 (Public Resources Code § 21000, et seq.)
+
+9 80. Petitioners hereby incorporate by reference each and every allegation set forth
+
+10 above.
+
+11 81. •CEQA requires that if significant new information is added to an EIR after a draft
+12 EIR is prepared, but before certification of the final EIR, the EIR must be amended and
+13 recirculated for public review and comment.
+14 82. The Final EIR for the Project was posted to the County's website after the
+15 Planning Commission's October hearing, on or around November 2018. The County
+16 subsequently made multiple revisions and updates to those Final EIR documents, including
+17 changes to its responses to Petitioners' comments on the Draft EIR. Petitioners and the public
+18 were not provided with notice of these revisions, and the revisions from the previously
+19 published Final EIR documents were not discernable by reviewing the revised documents. These
+20 revisions constituted significant new information requiring recirculation of the EIR.
+
+21 83. In or around mid-June 2019, the County added numerous materials, including a
+
+22 draft so-called Dispute Resolution Agreement, to its agenda for the June 26, 2019 Board hearing
+23 on the Project and EIR. These new materials proposed significant changes to the Project and/or
+24 the adoption of a new, separate project, and contained significant new information regarding the
+25 Project and environmental review for the Project. For example, the Dispute Resolution
+26 Agreement commits the County to supporting a land exchange that would drastically alter the
+27
+
+28 21
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+F Project footprint to, among other things, allow for the development and destruction of hundreds
+2 of acres of the Rancho Jamul Ecological Reserve.
+
+3 84. Despite the significant new information added to the EIR and the proposed
+4 changes to the Project, Respondents failed to recirculate the EIR or any portion of the EIR as
+5 required by CEQA. As a result of Respondents' failure to recirculate the EIR, the members of
+6 the public and public agencies were deprived of the opportunity to meaningfully review and
+7 comment on the Project as approved, its substantial adverse environmental consequences, and
+8 the new information regarding other unanalyzed environmental effects of the Project.
+
+9 85. By failing to recirculate the EIR prior to approving the Project, Respondents failed
+10 to proceed in the manner required by law.
+11 FOURTH CAUSE OF ACTION
+12 Violation of CEQA - Failure to Retain Administrative Record Documents
+13 (Public Resources Code § 21000, et seq.)
+14 86. Petitioners hereby incorporate by reference each and every allegation set forth
+15 above.
+
+16 87. State and local law, including Public Resources Code section 21167.6(e) and
+17 County Board of Supervisors Resolution 17-170 and Policy A-129 require the County to retain
+18 all records necessary to form the complete administrative record of proceedings in an action to
+19 challenge the County's approval of a project under CEQA.
+20 88. On information and belief, the County has deleted or destroyed records relating to
+21 the Project and/or environmental review for the Project, which were required to be retained for
+22 inclusion in the administrative record for this action.
+
+23 89. Respondents prejudicially abused their discretion and failed to proceed in the
+24 manner required by law by failing to preserve records necessary for lawful CEQA review.
+25 FIFTH CAUSE OF ACTION
+
+26 Violation of State Planning and Zoning Law®
+27 (Government Code § 65300, et § seq.)
+28
+22
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+90. Petitioners hereby incorporate by reference each and every allegation set forth
+2 above.
+
+3 91. The California State Planning and Zoning Law requires the legislative body of
+
+4 each county to adopt a general plan for the physical development of the county. The County's
+
+5 General Plan is fundamental land use planning document and serves as the constitution for
+6 future development within the County. Land use actions, including the approvals associated with
+
+7 the Project, must be consistent with the General Plan.
+
+8 92. The Project is inconsistent with mandatory County General Plan policies,
+
+9 including, but not limited to, policies discouraging sprawl; policies discouraging high density or
+10 high intensity development in Very High Fire Hazard Severity Zones; policies requiring GHG
+11 emission reductions to be made within the County (such as Goal COS-20 and Policy COS-20.1);
+12 and policies requiring the provision of affordable housing for projects requesting a General Plan
+13 Amendment (such as Policy H-1.9).
+
+14 93. By approving a project inconsistent with the County's General Plan, Respondents
+15 prejudicially abused their discretion and violated provisions of the State Planning and Zoning
+16 Law, requiring invalidation of the County's approvals.
+17 SIXTH CAUSE OF ACTION
+
+18 Violation of Natural Community Conservation Plan Act and MSCP
+
+19 (Fish & Game Code § 2800 et seq.)
+
+20 94. Petitioners hereby incorporate by reference each and every allegation set forth
+21 above.
+
+22 95. CDFW approved the MSCP, a natural community conservation plan, for the
+23 region in which the Project is located, pursuant to the Natural Community Conservation Plan
+24 Act, Fish and Game Code section 2800 et seq. The MSCP includes both a Subarea Plan and an
+25 Implementing Agreement with the County. Pursuant to these documents, CDFW approved an
+26 "incidental take" permit for the County on March 17, 1998.
+
+27
+
+28 23
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+- 96.
+
+2 The Subarea Plan designates areas of the Project known as PV-1, PV-2, and PV-3
+as "no take authorized" and "Otay Ranch Areas Where No 'Take Permits' Will be Issued." The
+3 MSCP and associated EIR designate PV-1, PV-2, and PV-3 as "100 percent conserved."
+
+4 97. The Project includes development of PV-1, PV-2, and PV-3. Development within
+5 the areas is inconsistent with the MSCP, the Subarea Plan, and the mitigation measures included
+6 in the associated EIR.
+
+7 98.
+
+8 The Fish and Game Code requires implementing agreements to prohibit parties
+
+9 from "adopting, amending, or approving any plan or project without the concurrence of the
+wildlife agencies that is inconsistent with the objectives and requirements" of the NCCP. Fish
+10 and Game Code § 2820(b)(3)(C)).
+
+11 99. Respondents prejudicially abused their discretion and failed to proceed in the
+12 manner required by law by approving the Project, which permits development of areas PV-1,
+13 PV-2 and PV-3 in a manner inconsistent with the MSCP, the Subarea Plan, and the mitigation
+14 | measures included in the associated EIR.
+
+15 100. As such, Respondents' approval of the Project and Dispute Resolution Agreement
+16 must be set aside.
+
+17
+
+18
+
+19 WHEREFORE, Petitioners pray for judgment as follows:
+
+20 1. PRAYER FOR RELIEF
+For alternative and peremptory writs of mandate directing Respondents to vacate
+21 and set aside certification of the EIR, adoption of the Findings and Statement of Overriding
+22 Considerations, and approval of all associated Project permits, entitlements, and approvals;
+23 2. For alternative and peremptory writs of mandate directing Respondents to comply
+24 with CEQA and the CEQA Guidelines and take any other action as required by Public
+25 Resources Code section 21168.9;
+
+26 3. For a temporary stay, temporary restraining order, and preliminary and permanent
+27 injunctions restraining Respondents or Real Parties, and their agents, servants, and employees,
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE 24
+
+CASE NO.
+
+and all others acting in concert with them or on their behalf, from taking any action to
+2 implement, fund or construct any portion or aspect of the Project, pending full compliance with
+3 the requirements of CEQA and the CEQA Guidelines;
+
+4 4. For a declaration that Respondents' actions in certifying the EIR and approving
+5 the Project violated CEQA and the CEQA Guidelines, and that the certification and approvals
+
+6 are invalid and of no force or effect, and that the Project is inconsistent with other applicable
+
+7 plans, policies, or regulations;
+
+8 5. For costs of the suit;
+
+9 6. For attorney's fees as authorized by Code of Civil Procedure section 1021.5 and
+10 other provisions of law; and,
+
+11 7. For such other and future relief as the Court deems just and proper.
+
+12
+
+13
+
+14 DATED: July 25, 2019 CENTER FOR BIOLOGICAL DIVERSITY
+
+15
+
+16 By: for fobie
+
+17 John Buse
+Aruna Prabhala
+18 Peter Broderick
+
+19 Attorneys for Petitioners CENTER FOR
+20 BIOLOGICAL DIVERSITY, PRESERVE WILD
+SANTEE and CALIFORNIA CHAPARRAL
+21 INSTITUTE
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 25
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+1 VERIFICATION
+
+2 am the Director of Programs for the Center for Biological Diversity, which is a party
+
+3 to this action. I am authorized to make this verification for and on its behalf, and make this
+4 verification for that reason. I have read the foregoing document and know its contents. The
+
+5 matters stated in it are true of my own knowledge except as to those matters that are stated on
+
+6 information and belief, and as to those matters I believe them to be true.
+
+7 declare under penalty of perjury under the laws of the State of California that the
+
+8 foregoing is true and correct. Executed this 25 day of July 2019, in Shelter Cove, California.
+
+9
+
+10 -petdbpaN
+
+11 Peter Galvin
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 Verification
+
+EXHIBIT A
+
+CO CENTER for BIOLOGICAL DIVERSITY Because life is good.
+
+Via FedEx
+
+July 25, 2019
+
+San Diego County
+c/o County Counsel
+County Administration Center 1600 Pacific Highway, Suite 355 San Diego, California 92101
+
+Re: Notice of Commencement of Legal Action Pursuant to the California Environmental Quality Act
+
+Dear San Diego County,
+
+The Center for Biological Diversity, Preserve Wild Santee, and California Chaparral Institute (*Petitioners") intend to commence an action for writ of mandate to vacate and set aside the decision of San Diego County and San Diego County Board of Supervisors ("Respondents") approving the Otay Ranch Village 14 and Planning Areas 16/19 (the "Project") and certifying an Environmental Impact Report for the Project. Petitioners submit this notice pursuant to Public Resources Code section 21167.5.
+
+The action will commence on July 25, 2019 and will be based upon on Respondents'
+failure to comply with the California Environmental Quality Act (Public Resources Code § 21000, et seq.) in adopting the Environmental Impact Report and approving the Project.
+
+Sincerely,
+
+fie fumie
+
+Peter Broderick
+Staff Attorney
+Center for Biological Diversity
+
+CENTER fOr BIOLOGICAL DIVERSITY Because life is good.
+
+Via FedEx
+
+July 25, 2019
+
+Board of Supervisors
+San Diego County
+1600 Pacific Highway, Rm 402
+San Diego, CA 92101
+
+Re: Notice of Commencement of Legal Action Pursuant to the California Environmental
+Quality Act
+
+Dear San Diego County Board of Supervisors,
+The Center for Biological Diversity, Preserve Wild Santee, and California Chaparral Institute ("Petitioners") intend to commence an action for writ of mandate to vacate and set aside
+the decision of San Diego County and San Diego County Board of Supervisors (*Respondents") approving the Otay Ranch Village 14 and Planning Areas 16/19 (the "Project") and certifying an Environmental Impact Report for the Project. Petitioners submit this notice pursuant to Public Resources Code section 21167.5.
+
+The action will commence on July 25, 2019 and will be based upon on Respondents' failure to comply with the California Environmental Quality Act (Public Resources Code
+21000, et seq.) and other provisions of law in adopting the Environmental Impact Report and
+approving the Project.
+
+Sincerely,
+dhe fydlare,
+Peter Broderick
+Staff Attorney
+Center for Biological Diversity
+
+1 PROOF OF SERVICE
+
+2 STATE OF CALIFORNIA, COUNTY OF ALAMEDA
+
+3 am employed in Oakland, California. I am over the age of 18 and not a party to the foregoing action.
+
+4 My business address is Center for Biological Diversity, 1212 Broadway, Suite 800, Oakland, California
+5 94612. My email address is trettinghouse@biologicaldiversity.org.
+
+6 On July 25, 2019, I served a true and correct copy of the following document(s):
+
+.7 NOTICE OF COMMENCEMENT OF LEGAL ACTION PURSUANT TO CEQA
+
+8 [] BY ELECTRONIC SERVICE: By electronically mailing a true and correct copy through Center
+9 for Biological Diversity's electronic mail system to the email address(s) shown below.
+10 [x] BY FEDERAL EXPRESS: By placing a true and correct copy thereof in sealed envelope(s). Such
+11 envelope(s) were addressed as shown below. Such envelope(s) were deposited for collection and
+12 mailing following ordinary business practices with which I am readily familiar.
+13 Board of Supervisors
+14 San Diego County San Diego County
+1600 Pacific Highway, Rm 402 c/o County Counsel
+
+15 San Diego, CA 92101 County Administration Center 1600 Pacific Highway, Suite 355 San Diego, California 92101
+16
+
+17 [x] STATE: I declare under penalty of perjury under the law of California that the foregoing is true
+
+18 and correct.
+
+19 Executed on July 25, 2019 at Oakland, California. Chewn Lat den
+
+20 Theresa Rettinghouse
+
+21
+
+22
+
+23
+
+24
+
+25
+
+•26
+
+27
+
+28
+
+PROOF OF SERVICE
+
+EXHIBIT B
+
+- John Buse (SBN 163156) Aruna Prabhala (SBN 278865) 2 Peter Broderick (SBN 293060)
+3 CENTER FOR BIOLOGICAL DIVERSITY 1212 Broadway, Suite 800 Oakland, California 94612 4 Telephone: (510) 844-7100 Facsimile: (510) 844-7150 5jbuse@biologicaldiversity.org aprabhala@biologicaldiversity.org 6 pbroderick@biologicaldiversity.org
+7
+
+8 Attorneys for Center for Biological, Preserve Wild Santee, and the California
+9 Chaparral Institute
+
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+11 COUNTY OF SAN DIEGO
+
+12 CENTER FOR BIOLOGICAL
+
+13 DIVERSITY, PRESERVE WILD Case No.
+
+SANTEE, and CALIFORNIA
+
+14 CHAPARRAL INSTITUTE, PETITIONERS' NOTICE OF ELECTION
+TO PREPARE ADMINISTRATIVE
+
+15 Petitioners, RECORD
+
+16 V. [Pub. Res. Code § 21167.6]
+
+17 COUNTY OF SAN DIEGO, BOARD OF
+SUPERVISORS OF THE COUNTY OF
+
+18 SAN DIEGO; and DOES 1 through 20, | inclusive,
+19 Respondents,
+20
+
+21 JACKSON PENDO DEVELOPMENT COMPANY a/k/a JACKSON PENDO
+DEVELOPMENT; GDCI PROCTOR 22 VALLEY, LP; GDC HOLDINGS, LLC;
+23 PROCTOR VALLEY INVESTORS, LLC; GDC INVESTMENTS 11, LP; and DOES
+24 21 through 40, inclusive,
+
+25 Real Parties in Interest/Necessary Parties.
+26
+
+27
+
+28
+
+Petitioners' Notice of Election to Prepare Administrative Record
+
+TO RESPONDENTS COUNTY OF SAN DIEGO AND BOARD OF SUPERVISORS OF
+
+2 THE COUNTY OF SAN DIEGO:
+In the above-captioned action (the "Action"), Petitioners Center for Biological Diversity,
+
+4 Preserve Wild Santee, and California Chaparral Institute ("Petitioners") petition this Court for a Writ of
+
+5 Mandate, directed to County of San Diego and Board of Supervisors of the County of San Diego
+6 (collectively, "Respondents"). Petitioners challenge Respondents' June 26, 2019 approval of the Otay
+7 Ranch Village 14 and Planning Areas 16/19 Project (the "Project") and certification of the Final
+
+8 Environmental Impact Report ("EIR") for the Project. Petitioners seek a determination that
+9 Respondents' approval of the Project is invalid and void and fails to satisfy the requirements of the
+10 California Environmental Quality Act ("CEQA"), Public Resources Code section 21000 et seq., and the
+
+11 CEQA Guidelines, Title 14, California Code of Regulations, section 15000 et seq.
+
+12 Pursuant to Public Resources Code section 21167.6(b)(2), Petitioners hereby elect to prepare the
+
+13 record of proceedings related to the Action. The record will be organized chronologically, paginated
+14 consecutively, and indexed so that each document may be clearly identified as to its contents and source,
+15 in a form and format consistent with California Rules of Court; Rule 3.2205.
+
+16 Petitioners will include in the record of proceedings all documents, including transcripts, minutes
+17 of meetings, notices, correspondence, reports, studies, proposed decisions, final drafts, and any other
+18 documents or records relating to Respondents' determination to approve the Project.
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+•Petitioners' Notice of Election to Prepare Administrative Record
+
+1 DATED: July 25, 2019
+
+2
+
+3 CENTER FOR BIOLOGICAL DIVERSITY
+
+4 By: foe feaire.
+
+5 John Buse
+
+6 Aruna Prabhala
+Peter Broderick
+
+N
+co Attorneys for Petitioners CENTER FOR
+BIOLOGICAL DIVERSITY, PRESERVE WILD
+SANTEE, and CALIFORNIA CHAPARRAL
+INSTITUTE
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 2
+Petitioners' Notice of Election to Prepare Administrative Record
+
+07 CENTER for BIOLOGICAL DIVERSITY Because life is good.
+
+Via FedEx
+
+July 25, 2019
+
+Mr. Xavier Becerra, Attorney General Attn: Environmental/CEQA Filing
+1300 "I" Street
+P.O. Box 944255
+Sacramento, CA 94244-2550
+
+Re: Notice of Commencement of Legal Action Alleging Environmental Harm
+
+Dear Mr. Becerra:
+
+The enclosed Verified Petition for Writ of Mandate, Center for Biological Diversity et al. V. County of San Diego et al. (San Diego Superior Court), is submitted to your office pursuant to Code of Civil Procedure section 388 and Public Resources Code section 21167.7. This case is
+being pursued under the private attorney general provisions of the Code of Civil Procedure section 1021.5.
+
+The case is being brought by the Center for Biological Diversity, Preserve Wild Santee, and the California Chaparral Institute challenging the County of San Diego's and Board of Supervisor of San Diego County's approval of the Otay Ranch Village 14 and Planning Areas 16/19 project (the "Project"). The Project would be built in a biologically sensitive area within the County of San Diego. The Project would develop over 1,100 acres in the Proctor Valley
+region of the unincorporated County.
+The Center for Biological Diversity, Preserve Wild Santee, and the California Chaparral Institute allege environmental harm that could affect the public generally and the natural resources of the state.
+
+Please acknowledge receipt in the enclosed prepaid, self-addressed envelope. Thank you for your attention to this matter. 1R
+
+Sincerely, fu fyulite.
+Peter Broderick
+Staff Attorney
+Center for Biological Diversity
+Enclosure: Verified Petition for Writ of Mandate
+
+NECEIVEN JUL 2 5 2019 BY:____________

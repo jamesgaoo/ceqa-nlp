@@ -1,0 +1,1872 @@
+ANGELA JOHNSON MESZAROS, CA Bar No. 174130
+
+2 OSCAR ESPINO-PADRON, CA Bar No. 290603 BYRON CHAN, CA Bar No. 306043
+EARTHJUSTICE E-FILED
+
+707 Wilshire Boulevard, Ste. 4300 3/18/2020 11:00 AM
+Los Angeles, CA 90017 Superior Court of California
+4 Tel: (213) 766-1070 County of Fresno
+ameszaros@earthjustice.org By: A. Ramos, Deputy
+|l oespino-padron@earthjustice.org bchan@earthjustice.org
+
+PAULINA TORRES, CA Bar No. 319935
+INGRID BROSTROM, CA Bar No. 245829 CENTER ON RACE, POVERTY & THE ENVIRONMENT 5901 Christie Ave., Ste. 208 Emeryville, CA 94608
+
+10 Tel: (415) 346-4479 ptorres@crpe-ej.org
+
+11 Il ibrostrom@crpe-ej.org
+
+12 Attorneys for Petitioners/Plaintiffs Comite Progreso de Lamont, Committee for a Better Shafter, Committee for a Better Arvin,
+13 Lost Hills in Action, Association of Irritated Residents, and Clean Water Action
+14
+
+15 IN THE SUPERIOR COURT OF THE STATE OF CALIFORNIA
+16 IN AND FOR THE COUNTY OF FRESNO
+
+17 COMITE PROGRESO DE LAMONT, Case No:20CECG01008
+I COMMITTEE FOR A BETTER SHAFTER,
+18 COMMITTEE FOR A BETTER ARVIN,
+LOST HILLS IN ACTION,
+19 ASSOCIATION OF IRRITATED RESIDENTS, VERIFIED PETITION FOR WRIT OF
+and CLEAN WATER ACTION, MANDATE AND COMPLAINT FOR
+20 DECLARATORY AND INJUNCTIVE
+Petitioners/Plaintiffs, RELIEF
+21
+
+22 SAN JOAQUIN VALLEY UNIFIED AIR [Code Civ. Proc., §§ 1085, 1060, 526]
+POLLUTION CONTROL DISTRICT,
+23
+Respondents/Defendants,
+24
+
+25 DOES 1 through 30, inclusive,
+
+Real Parties in Interest.
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+- INTRODUCTION
+
+2 1. California has the largest concentration of petroleum refineries in the western United
+
+3 States, and the third largest number of refineries in the nation after Texas and Louisiana. These
+
+4 refineries are scattered throughout the state, from urban areas such as Los Angeles and the San
+
+5 Francisco Bay Area to rural communities in central California's San Joaquin Valley. Refineries in
+
+6 the San Joaquin Valley are concentrated in and around Bakersfield within Kern County, the largest
+
+7 oil-producing and most polluted county in the state. This region suffers from the worst air quality in
+
+8 the United States, including harmful levels of lung-searing ozone that compromises lung
+
+9 development in children and causes other health complications. Oil and gas operations in the region
+
+10 exacerbate these unhealthy air conditions.
+
+11 2. Refineries routinely subject nearby residents to health burdens from a broad range of
+
+12 processes, including gasoline production, asphalt, road oils, and gasoline blending. According to the
+
+13 California Office of Environmental Health Hazard Assessment, these refinery processes regularly
+
+14 release a number of 188 known toxic air contaminants and several ozone precursors, such as
+
+15 particulate matter and nitrogen oxides. Among these toxic air pollutants are benzene, ammonia,
+16 formaldehyde, and naphthalene. Several of these contaminants have devastating health consequences
+
+17 from short-term and long-term exposures, including neurological damage in infants, leukemia, and
+
+18 decreased lung function.
+
+19 3. In addition to negative health effects, refineries are inherently dangerous operations
+
+20 that often experience explosions, flaring, and fires from malfunctions. These events create life-
+
+21 threatening situations for not only on-site workers but also communities near these hazardous
+
+22 industrial operations. In fact, during the past few years, refineries in Kern County have experienced
+
+23 these potentially catastrophic incidents, alarming local residents and causing several on-site injuries.
+
+24 4. Prompted by the need to alert residents of dangerous refinery malfunctions and to
+25 create transparency into the amount and types of harmful air emissions crossing refinery fencelines
+
+26 and entering communities, Governor Jerry Brown signed Assembly Bill 1647 on October 8, 2017,
+
+27 codifying Health and Safety Code section 42705.6. Under Section 42705.6, all petroleum refineries
+
+28 in the state must design, install, and operate real-time fenceline air monitoring by January 1, 2020,
+2
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 based on air district guidance. In addition, air districts must design, install, and operate real-time
+
+2 community air monitoring systems near sensitive receptors, such as schools, hospitals, and day care
+3 centers, by the same statutory deadline. The air emissions data from these systems must be publicly
+4 available to inform local residents, including air district regulators and emergency first-responders,
+5 of hazardous pollution levels from refinery operations and potential pollution sources at refineries
+6 requiring repairs or other changes to reduce emissions.
+
+7 5. The San Joaquin Valley Unified Air Pollution Control District (Valley Air) is the
+8 regional air district tasked with regulating stationary sources of air pollution throughout the San
+9 Joaquin Valley, including refineries in Kern County. Its mission is to "improve the health and
+10 quality of life" for families throughout the region. In that capacity, the air district is responsible for
+11 implementing Section 42705.6 by developing guidance materials and rules for the preparation,
+12 review, and approval of refinery fenceline and refinery-adjacent community air monitoring system
+13 plans.
+
+14 6. Valley Air neglected to commence a public rulemaking process throughout 2018 and
+15 most of 2019 to develop the necessary guidance materials and rules to implement Section 42705.6.
+16 Air district staff, however, engaged in closed-door meetings with area refineries to discuss and
+17 develop key aspects of these rules, without public notice and input. Only after a failed legislative
+
+18 effort in September 2019 by industry lobbyists to create a last-minute exemption for certain
+
+19 refineries under Section 42705.6, Valley Air scheduled the first public rulemaking meeting on
+20 October 3, 2019- -a mere three months before Section 42705.6's January 1, 2020, compliance
+21 deadline for refinery fenceline and related community air monitoring systems to be operational.
+22 7. At the public meeting on October 3, the air district provided a general overview of
+23 proposed Rule 4460 to implement refinery fenceline air monitoring and Rule 3200 establishing
+24 refinery fees to fund community air monitoring systems. After a second public meeting on
+25 November 5, Valley Air published final rules on November 19. Throughout these public meetings,
+26 environmental and health organizations raised serious deficiencies in the rules and the air district's
+
+27 compliance with Section 42705.6's mandates. Despite community concerns, Valley Air's Governing
+28
+
+3
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+Board adopted the rules on December 19, 2019, without amendments or the required guidance
+
+2 materials.
+
+3 8. Throughout this rulemaking process, Valley Air prioritized oil industry interests over
+4 public health and safety, and its statutory obligations under Section 42705.6. The agency provided
+
+5 unlawful exemptions, neglected to prepare required guidance materials, set the stage for continued
+6 noncompliance, and prepared rules that arbitrarily limit the range of pollutants for monitoring and
+
+7 number of community air monitoring sites.
+
+8 9. The air district's actions jeopardize the health and safety of families that live, work,
+
+9 and play near these refineries in the San Joaquin Valley. Valley Air denied communities near
+
+10 refineries in the region transparency into dangerous releases from refinery malfunctions and real-
+
+11 time emissions information about the range of air pollutants crossing the fenceline and entering their
+
+12 neighborhoods. Petitioners bring this action to secure the air district's compliance with its statutory
+
+13 obligations, and to protect the health and wellbeing of their members and families in the region.
+
+14 PARTIES
+
+15 10. Petitioner COMITE PROGRESO DE LAMONT (CPL) is a community-based
+16 organization in Kern County. Lamont is a small farming community south-southeast of downtown
+
+17 Bakersfield, within less than fifteen miles of all four of the refineries located in the San Joaquin
+
+18 Valley. CPL's mission is "to achieve a healthy environment in Lamont, and to improve community
+19 infrastructure and the quality of the lives of Lamont residents, by involving the community and
+20 creating a voice to be able to advocate and deal with issues that Lamont is facing." CPL's members
+
+21 actively engage on issues relating to oil and gas activity, both locally and statewide. Mountain View
+
+22 Middle School in Lamont is approximately one mile from Kern Oil & Refining Co., a refinery. CPL
+
+23 has serious concerns about the impact Valley Air's unlawful actions will have on its members who
+
+24 work and live in close proximity to the refineries at issue.
+
+25 11. Petitioner COMMITTEE FOR A BETTER SHAFTER (CBS) is a California non- a
+26 profit organization based in Kern County. CBS's members reside in Shafter, California, which has a.
+27 population of about 20,000 people. CBS's mission is to advocate for environmental health, to
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+support the development of economically and environmentally sustainable jobs, to develop and
+
+2 promote community garden projects, and to support community development programs in south
+San Joaquin Valley and Shafter. In addition, CBS strives to empower community members to be
+
+4 active and involved in civic engagement. CBS and its members actively engage on climate issues,
+
+5 particularly the issue of oil and gas operations, locally, regionally and statewide. CBS, whose
+
+6 volunteers and members live in Kern County, is concerned about the health of local residents and the
+
+7 impacts that Valley Air's rules will have on their communities.
+
+8 12. Petitioner COMMITTEE FOR A BETTER ARVIN (CBA) is a California non-profit
+
+9 organization based in Kern County. CBA's fifty members reside in Arvin, California, which has a
+
+10 population of nearly 20,000 people. CBA's mission is to improve the quality of life in Arvin, to
+
+11 inform and unite the community, to address problems facing the community, and to secure equality
+
+12 for all residents. CBA and its members have engaged in advocacy for improved local and regional
+
+13 air quality for many years and are concerned about the safety and health impacts of oil and gas
+14 operations in the San Joaquin Valley. CBA is concerned about the impacts Valley Air's unlawful
+
+15 rules and non-compliance with the Health and Safety Code will have on their members.
+
+16 13. Petitioner LOST HILLS IN ACTION (LHA) is a grassroots community-based
+
+17 organization in Kern County. Lost Hills is a community of about 2,400 residents, tucked between the
+18 I-5 and the Lost Hills Oilfield in Western Kern County. Local air quality is perennial concern for
+
+19 LHA members who are surrounded by oil and gas wells, freeway traffic, and pesticide applications.
+20 LHA members frequently engage in local, regional, and statewide issues relating to oil and gas
+
+21 activity. California Air Resources Board selected Lost Hills as the first community to undergo the
+
+22 "Study of Neighborhood Air Near Petroleum Sources" (SNAPS) to monitor and identify pollution
+
+23 contributing to local air quality. LHA is concerned about Valley Air's refusal to comply with the
+
+24 Health and Safety Code as monitoring and identifying pollution sources throughout the San Joaquin
+
+25 Valley is important to their members.
+
+26 14. Petitioner ASSOCIATION OF IRRITATED RESIDENTS (AIR) is a California non-
+
+27 profit organization based in Kern County. AIR formed in 1991 to advocate for clean air and
+28 environmental justice throughout California's San Joaquin Valley. AIR has dozens of members who
+5
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+reside in Kern, Tulare, Kings, Fresno, and Stanislaus counties. AIR members through themselves,
+
+2 their families, and friends, have direct experience with the health impacts and safety hazards that
+
+3 arise from operations at refineries in the region. AIR is concerned about Valley Air's unlawful rules
+
+4 and failure to comply with the Health and Safety Code.
+
+5 15. Petitioner CLEAN WATER ACTION (CWA) is a non-profit organization with
+
+6 approximately 700,000 members across the United States. CWA's mission is to protect the
+7 "environment, health, and economic well-being and community quality of life." CWA's efforts
+
+8 include addressing pollution from oil and gas activities in the San Joaquin Valley. CWA's members
+
+9 in and around Kern County are concerned about the health and safety impacts caused by refineries in
+
+10 the region, and Valley Air's unlawful actions and non-compliance with the Health and Safety Code.
+
+11 16. Respondent SAN JOAQUIN VALLEY UNIFIED AIR POLLUTION CONTROL
+
+12 DISTRICT (Valley Air) is an air quality regulatory agency with "primary responsibility for control
+13 of air pollution from all sources, other than emissions from motor vehicles" in the San Joaquin
+
+14 Valley Basin. (Health & Saf. Code, §§ 40000, 40600(a).) Valley Air serves a central role in
+15 implementing both the federal Clean Air Act and the California Clean Air Act in the Basin, which
+
+16 includes Fresno, Kings, Madera, Merced, San Joaquin, Stanislaus, and Tulare counties, in addition to
+
+17 a portion of the County of Kern. (Cal. Code Regs., tit. 17, § 60107.)
+
+18 17. By this action, Petitioners seek to protect the health and welfare of their members,
+
+19 including the public. Petitioners' members have an interest in their health and well-being, and in the
+
+20 health and well-being of others, including residents living near petroleum refineries in Kern County.
+
+21 Unless the court grants the relief requested in this case, Petitioners' members and the public will
+
+22 suffer adverse effects and irreparable injuries from Valley Air's failure to comply with the Health
+
+23 and Safety Code.
+
+24 18. At this time, Petitioners do not know the true names and capacities, whether
+
+25 individual, corporate, associate, or otherwise, of Real Parties in Interest DOE 1 through DOE 30,
+
+26 inclusive, and therefore sues said Real Parties in Interest DOE 1 through DOE 30, inclusive, under
+
+27 such fictitious names. Petitioners will amend this Petition and Complaint to show their true names
+
+28 and capacities when known.
+
+6
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+JURISDICTION AND VENUE
+
+2 19. This Court has jurisdiction over the matters alleged in this Petition under Code of
+
+3 Civil Procedure sections 526, 1060 and 1085.
+
+4 20. Venue is proper in the Superior Court of California, County of Fresno under Code of
+
+5 Civil Procedure section 395 because Valley Air's headquarters is located in the County of Fresno.
+
+6 21. Petitioners have performed all conditions precedent to filing this instant action and
+7 have exhausted all available remedies to the extent required by law.
+
+8 22. Petitioners do not have a plain, speedy, or adequate remedy at law unless this Court
+
+9 grants the requested writ of mandate to require that Valley Air meet its statutory obligations and
+
+10 adopt rules that comply with California's Health and Safety Code.
+
+11 STATUTORY BACKGROUND
+
+12 23. Petroleum refineries engage in a range of processes involving the storage and
+13 manufacture of petroleum products. These processes include not only crude oil refining to produce
+
+14 gasoline and other transportation fuels, but also other refining activities that encompass gasoline
+
+15 blending and the production of asphalt materials and road oils for paving.
+
+16 24. Regardless of their size and location, refineries are inherently dangerous operations
+17 | that experience fires, explosions, and flaring events from malfunctions and other process upsets.
+
+18 Several incidents at California refineries in recent years illustrate the hazards these operations pose
+
+19 to onsite workers and surrounding communities. For instance, on August 6, 2012, a large fire at the
+20 Chevron Refinery in Richmond resulted in a plume of black smoke visible for miles, forcing
+
+21 thousands of residents to seek medical treatment for respiratory distress. On February 18, 2015, an
+
+22 explosion occurred at the ExxonMobil refinery in Torrance, injuring several workers and creating a
+
+23 1.7 magnitude earthquake felt miles from the refinery. The explosion propelled an 80,000-pound
+
+24 component that narrowly missed a tank containing hydrogen fluoride, an extremely volatile chemical
+
+25 with the potential to kill or injure thousands of residents near the refinery.
+
+26 25. These emergencies are not exclusive to larger refinery operations in urban areas.
+
+27 Several hazardous incidents have also occurred at refineries in rural parts of the San Joaquin Valley
+
+28 over the years. For example, on January 19, 2005, an explosion at Kern Oil & Refining in
+7
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+*
+
+-
+
+2 Bakersfield killed one worker and severely burned two others. On December 23,.2010, an oil tanker
+
+3 truck caught fire and exploded near a 42,000-gallon oil storage tank at San Joaquin Refining Co. in
+
+4 Bakersfield, threatening a major catastrophe and injuring several workers. On November 29, 2011, a
+
+5 2.5 million gallon storage tank exploded and caught fire at Alon Bakersfield Refining, rattling
+
+6 nearby businesses and residents, and creating a plume of black smoke visible for miles. More
+
+7 recently, on January 8, 2018, fire crews responded to a large fire inside a cooling tower at Kern Oil
+& Refining Co.
+
+8 26.
+
+9 In addition to safety hazards, official air emissions inventories reported by refineries
+
+10 to air districts from routine operations reveal that refineries are among the largest stationary sources
+
+11 of air pollution in the state. All refineries in the state are required to submit emissions inventories
+
+12 annually to local air districts, providing these regulatory agencies with an estimate or approximation
+
+13 of the total air pollution released by each refinery during the prior year.
+
+27.
+
+14 These official air emissions inventories confirm that refineries routinely release
+
+15 significant quantities of volatile organic compounds (VOCs) and criteria pollutants, such as nitrogen
+
+16 oxides and particulate matter, which worsen air quality and negati vely impact public health. For
+
+17 instance, ground level ozone forms through a chemical reaction between nitrogen oxides and VOCs
+
+18 in the presence of sunlight. Ozone can cause premature death from asthma and other respiratory
+illnesses, and compromises lung development in children.
+
+19 28.
+
+20 Similarly, fine particulate matter 10 or 2.5 micrometers in diameter are smaller than
+
+21 the width of a single hair and able to penetrate deep into the lungs and enter the bloodstream. These
+
+22 particulates contribute to cardiovascular and respiratory disease, including strokes, lung cancer, and
+asthma. In the San Joaquin Valley area, Kern County
+
+23 is in non-attainment of federal ozone and
+particulate matter standards set to protect public health.
+
+24 29.
+
+25 Moreover, a report published by the California Office of Environmental Health
+
+26 Hazard Assessment reviewed previous annual refinery emissions inventories and found that
+
+27 refineries release a number of 188 toxic air contaminants and hazardous VOCs, including benzene,
+
+28 toluene, hydrogen sulfide, formaldehyde, ammonia, and naphthalene. These toxic emissions can
+
+8
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+have short-term and long-term health consequences for surrounding communities, including cancer,
+
+2 tumors, developmental defects, memory impairment, cataracts, and tremors.
+
+3 30. Notably, annual official air emissions inventories reported by refineries to air districts
+
+4 severely underestimate actual emissions. These inventories fail to capture releases from fugitive
+
+5 emissions or leaks from various sources at refineries, including process equipment, storage tanks,
+
+6 and malfunctions that bypass pollution controls. If unaddressed, these fugitive emissions can release
+
+7 large amounts of VOCs and other pollutants into the environment and harm public health.
+
+31. Given these refinery safety hazards and significant air emissions, communities near
+refineries throughout California have grown increasingly concerned about potentially catastrophic
+
+10 incidents and harmful releases. In an effort to identify pollution sources at all refineries, to inform
+
+11 appropriate measures to reduce emissions, and to alert residents when pollution levels become
+
+12 hazardous, Assemblymember Al Muratsuchi introduced Assembly Bill (AB) 1647 on February 17,
+
+13 2017, to amend the Health and Safety Code to add section 42705.6. As noted by Assemblymember
+
+14 Muratsuchi, the intent of Section 42705.6 was to cover "all California refineries" and surrounding
+
+15 communities.
+
+16 32. Section 42705.6 required that by January 1, 2020, "the owner or operator of a
+
+17 petroleum refinery shall develop, install, operate, and maintain a fence-line monitoring system in
+
+18 accordance with guidance developed by the appropriate district." (Health & Saf. Code, §
+19 42705.6(c).) The statute defines fenceline monitoring as systems "useful for detecting or estimating
+20 the quantity of fugitive emissions, gas leaks, and other air emissions" from refineries. (Health & Saf.
+
+21 Code, § 42705.6(a)(2).)
+
+22 33. Similarly, each air district "shall design, develop, install, operate, and maintain the
+
+23 refinery-related community air monitoring system[s]" by January 1, 2020. (Health & Saf. Code, §
+24 42705.6(b)(1).) These community air-monitoring systems should be located "at or near sensitive
+
+25 receptor locations near a petroleum refinery" and "may be useful for estimating associated pollutant
+
+26 exposures and health risks and in determining trends in air pollutant levels over time." (Health &
+27 Saf. Code, § 42705.6(a)(1).)
+
+28
+
+9
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+F 34. Further, each air district must develop "guidance" to implement both refinery.
+
+2 fenceline and related community air monitoring systems. (Health & Saf. Code, § 42705.6(b)(1), (c).)
+
+3 This guidance is required to consider "technological capabilities" for air monitoring and "incorporate
+
+4 input from affected parties" in the area. (Health & Saf. Code, § 42705.6(e).)
+
+5 35. The Legislature passed AB 1647 on September 13, 2017. Subsequently, on October 8,
+6 2017, California Governor Jerry Brown signed AB 1647 codifying Section 42705.6. The Secretary
+
+7 of State chaptered the bill that same day, and Section 42705.6 became effective January 1, 2018.
+
+8 RULEMAKING PROCESS
+
+9 36. Starting January 1, 2018, Section 42705.6 tasked local air districts with adopting
+
+10 implementing rules and guidance materials to ensure the development, installation, and operation of
+
+11 refinery fenceline and refinery-related community air monitoring requirements by the January 1,
+
+12 2020, compliance deadline. (Health & Saf. Code, § 42705.6(b)(1), (c).)
+
+13 37. The San Joaquin Valley Unified Air Pollution Control District (Valley Air) is the
+
+14 regulating authority for stationary sources of air pollution in the "Counties of Fresno, Kings,
+
+15 Madera, Merced, San Joaquin, Stanislaus, and Tulare", and "the portion of the County of Kern that
+
+16 is within the San Joaquin Valley Air Basin .. (Health & Saf. Code, § 40600(a).) Accordingly,
+
+17 Valley Air is responsible for implementing Section 42705.6 in the Basin.
+
+18 38. Petroleum refineries in the region are located in and around Bakersfield, the largest
+
+19 municipality in Kern County with a population of about 350,000 people, and include Alon
+
+20 Bakersfield Refining, San Joaquin Refining Co., Kern Oil & Refining Co., and Tricor Refining LLC.
+
+21 These four refineries operate within some of the most environmentally overburdened communities in
+
+22 the state. These communities experience drinking water contamination, toxic pesticide exposures,
+
+23 and unhealthy air quality considered the worst in the nation.
+
+24 39. Despite Valley Air's obligations under Section 42705.6, the air district refused to
+
+25 schedule public meetings throughout 2018 and most of 2019 to develop implementing rules and
+
+26 guidance materials for the preparation, review, and approval of refinery fenceline and refinery-
+
+27 related community air monitoring systems.
+
+28
+
+10
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+40. On February 5, 2019, Valley Air published a rule forecast for 2019, noting the air
+
+2 district would "work closely with affected stakeholders through a robust public process" to develop
+
+3 rules implementing Section 42705.6. Accordingly, the forecast stated air district staff would "hold a
+
+4 Scoping Meeting in early 2019 to receive public input on the development" of these rules.
+
+5 41. Valley Air, however, did not hold this public scoping meeting or invite public input
+
+6 on these implementing rules. Instead, communication records reveal that starting in April 2019, the
+
+7 air district engaged in closed-door meetings and telephone calls with refineries in the region to
+discuss and develop these rules. For instance, e-mail records from these meetings note the air
+
+9 district's willingness to consider the refineries' suggestion to "separat[e] the facilities based on size
+
+10 into different categories for monitoring purposes."
+
+11 42. In September 2019, towards the end of the legislative session, Assemblymember
+
+12 Rudy Salas from Bakersfield used an unsuccessful "gut-and-amend" legislative tactic to create a
+
+13 last-minute exemption under Section 42705.6 for refineries processing below 55,000 barrels per day
+
+14 and with populations of under 3,000 within a one-mile radius. The bill would have benefitted rural
+
+15 refineries in Kern County, in particular Kern Oil & Refining Co. However, due to strong opposition
+
+16 from public health and environmental groups, including several Petitioners, the bill failed to pass.
+
+17 43. After this failed legislative effort by oil lobbyists, Valley Air finally scheduled a
+
+18 public meeting on October 3, 2019, to discuss implementing rules- a mere three months before the
+
+19 January 1, 2020, compliance deadline under Section 42705.6 for refineries and the air district to
+
+20 begin operating air monitoring systems. At this meeting, the air district provided an update on two
+
+21 rules to implement Section 42705.6's requirements: Rule 4460 establishing the general
+
+22 requirements, and the air district's review and approval process for refinery fenceline air monitoring
+
+23 plans, and Rule 3200 setting refinery fees to fund the air district's refinery-related community air
+
+24 monitoring systems.
+
+25 44. On November 5, Valley Air held a second public meeting on these rules. During both
+
+26 the October 3 and November 5 public meetings, the air district neglected to discuss the status of
+27 statutorily mandated guidance materials and to provide for public input on those materials. (Health
+
+28 & Saf. Code, § 42705.6(e).)
+11
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+45. On November 19, shortly after these two stakeholder meetings, the air district
+
+2 released the final Rules 4460 and 3200. Various organizations and community groups, including
+
+3 several of the Petitioners, raised serious deficiencies with these rules. The rules provided for
+
+4 unlawful compliance exemptions, set the stage for continued compliance delays with statutory
+mandates, and contained arbitrary limits on the number of pollutants for monitoring and number of
+
+6 community air monitoring sites. Moreover, the air district neglected to provide the guidance
+
+7 materials for the preparation of refinery fenceline and related community air monitoring plans as
+
+8 mandated by Section 42705.6.
+
+9 46. Despite these concerns, Valley Air's Governing Board adopted the rules on
+
+10 December 19, 2019, without amendments or the required guidance materials. The air district failed
+
+11 to meet its obligations under Section 42705.6. Moreover, several aspects of these rules are unlawful
+
+12 and contrary to the requirements of Section 42705.6 and constitute an abuse of discretion.
+
+13 FIRST CAUSE OF ACTION
+
+14 (Traditional Mandate: Violation of the Health &
+
+15 Safety CodeUnlawful Exemptions)
+
+16 47. Petitioners incorporate by reference the allegations set forth in paragraphs 1 through
+
+17 46 above.
+
+18 48. Section 42705.6 applies to all "petroleum refiner[ies]" in California. (Health & Saf.
+
+19 Code, § 42705.6(c), (f)(1).) Valley Air acknowledged there are four "petroleum refineries" in the
+
+20 region, namely Alon Bakersfield Refining, San Joaquin Refining Co., Kern Oil & Refining Co., and
+
+21 Tricor Refining LLC. In addition, air district staff conceded refineries engage in a variety of
+
+22 activitics, including "refining, blending, or storing a variety of specialized products such as biofuels,
+
+23 asphalt products, drilling fluids, fuel additives, hydraulic fluids, and lubricants" among other
+
+24 processes.
+
+25 49. Rules 4460 and 3200, however, provide unlawful compliance and air pollutant
+26 monitoring exemptions to refineries based on "crude oil" refining activity and capacity. These
+
+27 "crude oil" exemptions serve to both exclude two of the four refineries in the region from complying
+
+28
+
+12
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+whatsoever with Section 42705.6's requirements, and narrow the range of air pollutants for
+
+2 monitoring by the remaining two refineries.
+
+50. First, the rules provide a compliance exemption to refineries "not currently engaged
+
+4 in refining crude oil," after the submission of declarations asserting the refineries are "not refining
+
+5 crude oil." These exempt refineries are not required to plan and install fenceline air monitoring
+
+6 systems, nor pay the necessary fees to fund the air district's development, installation, and operation
+
+7 of refinery-related community air monitoring systems. According to Valley Air, this compliance
+
+8 exemption applies to Alon Bakersfield Refining and Tricor Refining LLC refineries that are
+
+9 purportedly not currently "refining crude oil."
+
+10 51. Reported air emissions inventories, however, confirm these refineries continue to
+
+11 engage in a variety of other petroleum refining activities that release a number of pollutants into
+
+12 surrounding communities, even if not "refining crude oil." Notably, these refineries hold valid
+
+13 operating permits to refine crude and must comply with other federal and state laws and regulations,
+14 including Valley Air rules, applicable to petroleum refineries despite not currently "refining crude
+
+15 oil."
+
+16 52. Second, the rules exempt refineries from monitoring air pollutants based on "crude
+
+17 oil" refining capacity. Under Rule 4460, refineries with a capacity of less than 40,000 "barrels per
+
+18 day" (bpd) of crude oil" need only consider monitoring a limited number of pollutants, namely
+
+19 sulfur dioxide, hydrogen sulfide, and BTEX compounds (benzene, toluene, ethylbenzene, and
+20 xylene).
+
+21 53. Refineries with a capacity of 40,000 bpd or more, however, must consider these
+
+22 pollutants and several others for monitoring, including total volatile organic compounds (VOCs),
+
+23 ammonia, nitrogen oxides, and black carbon. Rule 3200 incorporates this monitoring exemption into
+
+24 refinery-related community air monitoring requirements, providing for reduced air pollutant tracking
+
+25 and fees for refineries with a capacity of less than 40,000 bpd.
+
+26 54. This monitoring exemption applies to San Joaquin Refining Co. and Kern Oil &
+
+27 Refining Co. because they are currently "refining crude oil." Reported air emissions inventories,
+
+28 however, confirm routine operations at these refineries release several air pollutants Rule 4460
+13
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+P
+
+P exempts the refineries from considering for monitoring, such as total VOCs, ammonia, nitrogen
+
+2 oxides, and black carbon. Notably, these emissions inventories do not account for all fugitive
+
+3 emissions and releases from malfunctions and other non-routine events.
+
+4 55. The air district's monitoring exemptions undermine Section 42705.6's purpose to
+
+5 detect and estimate "the quantity of fugitive emissions, gas leaks, and other air emissions" at
+
+6 refineries. (Health & Saf. Code, § 42705.6(a)(2).) Moreover, the exemptions compromise the ability
+
+7 to estimate "associated pollutant exposures and health risks and in determining trends in air pollutant
+
+8 levels over time" using community air monitoring systems. (Health & Saf. Code, § 42705.6(a)(1).)
+
+9 56. On its face, Section 42705.6 does not provide any exemptions to refineries or narrow
+
+10 the application of the statute to refineries solely engaged in "crude oil" refining. Valley Air's
+
+11 interpretation of Section 42705.6 as authorizing the creation of exemptions for refineries based on
+
+12 "crude oil" refining activity or capacity is unlawful and contrary to the plain, commonsense meaning
+13 of the language in the statute.
+14 SECOND CAUSE OF ACTION
+
+15 (Traditional Mandate: Violation of the Health &
+
+16 Safety Code Failure to Prepare Guidance)
+
+17 57. Petitioners incorporate by reference the allegations set forth in paragraphs 1 through
+
+18 56 above.
+
+19 58. Section 42705.6 requires Valley Air to prepare "guidance" documents for the
+20 development, installation, operation, and maintenance of refinery fenceline and refinery-related
+
+21 community air monitoring systems. (Health & Saf. Code, § 42705.6(b)(1), (c).)
+
+22 59. Guidance materials assist in standardizing and preparing the monitoring systems and
+
+23 plans, including location of monitoring equipment, standard operating procedures, equipment
+24 I maintenance procedures, and public notification features. These guidance materials are distinct from
+
+25 implementing Rule 4460, which establishes the monitoring plan review and approval process,
+26 general monitoring plan elements, range of pollutants subject to monitoring, among other basic
+
+27 requirements.
+
+28 //
+
+14
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+- 60.
+
+2 In developing this guidance, the air district is required to "take into account
+
+3 technological capabilities and incorporate input from affected parties" in the area. (Health & Saf.
+
+4 Code, § 42705.6(e).) Both the fenceline and community air-monitoring systems must be developed,
+
+5 installed, and operated in accordance with this guidance. (Health & Saf. Code, § 42705.6(b)(1), (c).)
+
+6 Accordingly, other air districts, such as the South Coast Air Quality Management District, developed
+guidance materials concurrently with implementing rules for Section 42705.6.
+
+7 61.
+
+8 Valley Air did not provide draft guidance materials for public review and input
+
+9 during the October 3 and November 5, 2019, public meetings. Air district staff communications on
+
+10 October 9, 2019, confirm the agency was still in the process of "mimicking the South Coast [Air
+
+11 Quality Management District] refinery monitoring guidelines." Valley Air failed to complete this
+
+12 guidance by the December 19, 2019, Governing Board meeting to adopt Rules 4460 and 3200.
+
+62.
+
+13 The air district's December 19 staff report confirmed that "to provide clarity for
+
+14 petroleum refineries and consistency in submitted air monitoring plans," the agency would "provide
+written guidance .
+
+15 on the required elements of the air monitoring plans to be submitted."Valley
+
+16 Air, however, did not provide a timeline, and did not finalize the required guidance materials.
+
+63. The air district has not issued the
+
+17 necessary guidance documents. In addition, based
+
+18 on information and belief, air district staff does not intend to offer a public process for "affected
+
+19 parties" to provide input. (Health & Saf. Code, § 42705.6(e).) Valley Air's failure to issue guidance
+
+20 materials and provide for input from affected parties, including Petitioners, is unlawful and contrary
+to its obligations under Section 42705.6.
+
+21 THIRD CAUSE OF ACTION
+
+22 (Traditional Mandate: Violation of the Health &
+
+23
+
+24 Safety CodeUnreasonable Delay of Community Air Monitoring Systems)
+
+64.
+
+25 63 above. Petitioners incorporate by reference the allegations set forth in paragraphs 1 through
+
+26 65.
+
+27 Effective January 1, 2018, Section 42705.6 directed that each air district "shall
+
+28 design, develop, install, operate, and maintain" refinery-related community air monitoring systems
+by January 1, 2020. (Health & Saf. Code, § 42705.6(b)(1).)
+15
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+/
+
+66. In an effort to comply with Section 42705.6's mandate that Valley Air develop,
+
+2 install, and operate community air monitoring systems, the air district's Governing Board adopted
+
+3 Rule 3200 on December 19, 2019-less than two weeks before the January 1, 2020, compliance
+
+4 deadline.
+
+5 67. Rule 3200, however, merely requires that refineries pay fees by July 1, 2020, to fund
+
+6 the air district's community air monitoring systems. Other than setting fees, the rule neglects to
+
+7 establish any deadlines for the air district to develop, install, and operate community air monitoring
+
+8 systems.
+
+9 68. Valley Air's unreasonable and ongoing delay to comply with this statutory mandate
+10 since 2018 is unlawful and contrary to Section 42705.6's statutory mandates.
+
+11 FOURTH CAUSE OF ACTION
+
+12 (Traditional Mandate: Violation of the Health & Safety Code-Unreasonable
+13 Delay of Refinery Fenceline Air Monitoring Plan Review and Determination)
+
+14 69. Petitioners incorporate by reference the allegations set forth in paragraphs 1 through
+
+15 68 above.
+
+16 70. Effective January 1, 2018, Section 42705.6 directed that refineries "shall develop,
+
+17 install, operate, and maintain a fence-line monitoring system" by January 1, 2020. (Health & Saf.
+
+18 Code, § 42705.6(c).) To meet this legislative deadline, air districts have the primary responsibility to
+
+19 review and approve fenceline air monitoring plans well before January 1, 2020.
+
+20 71. In an attempt to comply with Section 42705.6's mandate that Valley Air review and
+
+21 approve refinery fenceline air monitoring plans, the air district's Governing Board adopted Rule
+
+22 4460 on December 19, 2019 less than two weeks before the January 1, 2020, compliance deadline
+
+23 for refineries to develop, install, and operate fenceline air monitoring systems.
+
+24 72. Rule 4460 establishes the air district's refinery fenceline air monitoring plan review
+
+25 and approval process, among other requirements. Rule 4460, however, allows for additional delay
+
+26 and creates uncertainty regarding when the air district will complete its review and approve or
+
+27 disapprove refinery fenceline air monitoring plans.
+
+28 //
+
+16
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+73. Under Rule 4460, refineries are required to develop and submit fenceline air
+
+2 monitoring plans to the air district for review by July 1, 2020. After submission, however, the rule
+
+3 does not provide a timeline for Valley Air to complete its review and approve or disapprove refinery
+
+4 fenceline monitoring plans.
+
+5 74. The air district's omission allows for further delays in the installation and operation
+
+6 of refinery fenceline air monitoring systems. Under Rule 4460, a refinery is required to install and
+
+7 operate a fenceline air monitoring system "within 365 calendar days" only after the air district
+
+8 approves the refinery's fenceline air monitoring plan.
+75. Valley Air's unreasonable delay to comply with this statutory mandate to review and
+
+10 approve fenceline air monitoring plans will continue under Rule 4460's fenceline air monitoring
+
+11 plan review and approval process. The air district's ongoing delay is unlawful and contrary to
+
+12 Section 42705.6's statutory mandates.
+
+13 FIFTH CAUSE OF ACTION
+
+14 (Traditional Mandate: Arbitrary and Capricious Rulemaking)
+
+15 76. Petitioners incorporate by reference the allegations set forth in paragraphs 1 through
+
+16 75 above.
+
+17 77. In this rulemaking, Valley Air failed to consider "all relevant factors" adequately and
+18 demonstrate "a rational connection between those factors, the choice made, and the purposes of the
+
+19 enabling statute." (American Coatings Assn., Inc. v. South Coast Air Quality Management Dist.
+
+20 (2012) 54 Cal.4th 446, 460.) Several aspects of Rules 4460 and 3200 are "arbitrary, capricious,
+
+21 entirely lacking in evidentiary support, unlawful, or procedurally unfair." (Ibid.)
+
+22 a. Arbitrary Fenceline Air Pollutant Monitoring Requirements
+
+23 78. Rule 4460 provides for arbitrary and capricious air pollutant monitoring requirements
+
+24 a because only refineries with a capacity of 40,000 or more barrels per day (bpd) must monitor for the
+
+25 full range of air district identified pollutants: sulfur dioxide, nitrogen oxides, total volatile organic
+26 compounds (VOCs), BTEX compounds (benzene, toluene, ethylbenzene and xylene), formaldehyde,
+
+27 acetaldehyde, acrolein, 1,3 butadiene, styrene, hydrogen sulfide, carbonyl sulfide, ammonia,
+
+28
+
+17
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+P*
+
+hydrogen cyanide, hydrogen fluoride, and black carbon. This requirement would apply primarily to
+
+2 Alon Bakersfield Refining (66,000 bpd capacity).
+
+3 79. Refineries with capacity of less than 40,000 bpd, however, must monitor a very
+
+4 limited number of pollutants--erely six of the air district identified pollutants. As a result, Kern a
+Oil & Refining Co. (26,000 bpd capacity), San Joaquin Refining Co. (15,000 bpd capacity), and
+
+6 Tricor Refining LLC (12,500 bpd capacity) will not monitor for most of the pollutants identified by
+
+7 the air district.
+
+8 80. Valley Air's staff report, however, does not provide evidentiary support for the
+
+9 limited air pollutant monitoring requirements for the three refineries with a capacity of less than
+
+10 40,000 bpd. The staff report concludes, without any evidence or detail, that "some listed pollutants
+
+11 may not be present at a particular facility." Valley Air failed to provide any rational connection
+
+12 between the 40,000 bpd threshold and creating an exemption from monitoring pollutants from
+
+13 refining activities.
+
+14 81. Emissions data confirms these three exempt refineries release significant amounts of
+15 several pollutants identified by the air district, including VOCs, nitrogen oxides, ammonia, and black
+16 carbon. Despite this evidence, Rule 4460 arbitrarily permits these three refineries to monitor only for
+
+17 small subset of pollutants.
+
+18 82. Valley Air's decision to limit air pollutant-monitoring requirements and foreclose
+19 consideration of other pollutants for refineries with a capacity of less than 40,000 bpd is arbitrary,
+
+20 capricious, and entirely lacking in evidentiary support. Rule 4460 allows refineries to "not monitor
+
+21 one or more of the specified pollutants" after providing "sufficient justification." Rather than require
+
+22 refineries to consider the full range of pollutants, regardless of bpd capacity, and then justify any
+
+23 exclusion, the rule forecloses that opportunity. Instead, the rule only requires refineries with a
+
+24 capacity of less than 40,000 bpd to monitor for an incomplete and arbitrary list of pollutants.
+25 83. Further, in this rulemaking, the agency failed to consider other relevant factors
+26 outlined in Section 42705.6, including whether the range of selected pollutants will be "useful for
+
+27 detecting or estimating the quantity of fugitive emissions, gas leaks, and other air emissions from the
+
+28
+
+18
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+•1
+
+refinery." (Health & Saf. Code, § 42705.6(a)(2).) Consequently, Valley Air failed to establish a
+
+2 rational connection between its decision and the relevant factors and purpose of Section 42705.6.
+
+3 b. Arbitrary Community Air Monitoring Requirements
+
+4 84. Section 42705.6 requires community air monitoring "at or near sensitive receptor
+
+5 locations" that "may be useful for estimating associated pollutant exposures and health risks and in
+6 determining trends in air pollution levels over time." (Health & Saf. Code, § 42705.6(a)(1).)
+
+7 Petroleum refineries are responsible for the air district's costs of implementing community air
+8 monitoring. (Health & Saf. Code, § 42705.6(f)(1).)
+
+9 85. Rule 3200 establishes the fees for Valley Air to install, operate, and maintain
+
+10 community air monitoring equipment. These fees provide for one community air monitoring station
+
+11 per refinery, and fund pre-determined equipment to track the same arbitrary list of pollutants under
+
+12 Rule 4460. Valley Air's decision to provide only for a single community air monitoring station per
+
+13 refinery is arbitrary, capricious, and entirely lacking in evidentiary support.
+
+14 86. The air district staff failed to explain and the staff report lacks any evidence
+
+15 supporting the sufficiency of a single community monitoring station to "estimat[e] associated
+
+16 pollutant exposures and health risks" and to "determin[e] trends in air pollutant levels over time."
+
+17 (Health & Saf. Code, § 42705.6(a)(1).) Valley Air failed to detail and consider relevant factors,
+
+18 including the location of sensitive receptors, topography in the area, and meteorological and
+
+19 atmospheric conditions. These factors inform the appropriate number and placement of community
+20 air monitoring stations.
+
+21 87. Moreover, the rule applies the same arbitrary and capricious limited air pollutant-
+
+22 monitoring requirements under Rule 4460. and arbitrarily denies the public, including Petitioners, a
+
+23 public comment opportunity despite providing a public review process under Rule 4460 for refinery
+
+24 fenceline air monitoring plans.
+
+25 //
+
+26 //
+
+27 //
+
+28 //
+
+19
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+•
+
+1 PRAYER FOR RELIEF
+
+2 WHEREFORE, Petitioners pray for judgment as set forth below:
+3 I. As to the FIRST CAUSE OF ACTION:
+
+A 1.
+
+5 For a writ of mandate or peremptory writ issued under the seal of this Court pursuant
+to Code of Civil Procedure section 1085 commanding Valley Air to comply with
+
+6 Section 42705.6 by (a) removing compliance exemptions under Rules 4460 and 3200
+
+7 for refineries not currently "refining crude oil"; and (b) removing air pollutant
+
+8
+
+9 monitoring exemptions under Rules 4460 and 3200 for refineries with a capacity of
+
+10 less than 40,000 barrels per day of crude oil to require that all refineries consider
+monitoring the same range of air pollutants identified by the air district;
+
+11 2. For a declaration under Code of Civil Procedure section 1060 that Valley Air is
+
+12
+
+13 violating California's Health and Safety Code by creating unlawful exemptions for
+refineries; and
+
+14 3.
+
+15 For injunctive relief consistent with section I, subdivision 1, above ordering
+compliance with California's Health and Safety Code.
+
+16 II. As to the SECOND CAUSE OF ACTION:
+
+17 1.
+
+18 For a writ of mandate or peremptory writ issued under the seal of this Court pursuant
+
+19 to Code of Civil Procedure section 1085 commanding Valley Air to comply with
+
+20 Section 42705.6 by issuing guidance materials by a specific date and allowing input
+from affected parties through a public process;
+21 2.
+
+22 For a declaration under Code of Civil Procedure section 1060 that Valley Air is
+violating California's Health and Safety Code by failing to prepare guidance
+
+23
+
+24 materials and incorporate input from affected parties through a public process; and
+
+3.
+
+25 For injunctive relief consistent with section II, subdivision 1, above ordering
+compliance with California's Health and Safety Code.
+
+26 //
+
+27 //
+
+28 //
+
+20
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+III. As to the THIRD CAUSE OF ACTION:
+
+2 1. For a writ of mandate or peremptory writ issued under the seal of this Court pursuant
+
+3 to Code of Civil Procedure section 1085 commanding Valley Air to comply with
+
+4 Section 42705.6 by setting deadlines for developing, installing, and operating
+refinery-related community air monitoring systems;
+
+6 2. For a declaration under Code of Civil Procedure section 1060 that Valley Air is
+
+7 violating California's Health and Safety Code by continuing to fail to comply with
+
+8 the statutory mandate; and
+
+9 3. For injunctive relief consistent with section III, subdivision 1, above ordering
+
+10 compliance with California's Health and Safety Code.
+
+11 IV. As to the FOURTH CAUSE OF ACTION:
+
+12 1. For a writ of mandate or peremptory writ issued under the seal of this Court pursuant
+
+13 to Code of Civil Procedure section 1085 commanding Valley Air to comply with
+
+14 Section 42705.6 by setting timeline for review and approval of refinery fenceline air
+
+15 monitoring plans after submission by refineries;
+
+16 2. For a declaration under Code of Civil Procedure section 1060 that Valley Air is
+17 violating California's Health and Safety Code by continuing to fail to comply with
+
+18 the statutory mandate; and
+
+19 3. For injunctive relief consistent with section IV, subdivision 1, above ordering
+
+20 compliance with California's Health and Safety Code.
+
+21 V. As to the FIFTH CAUSE OF ACTION:
+
+22 1. For a writ of mandate or peremptory writ under the seal of this Court pursuant to
+
+23 Code of Civil Procedure section 1085 commanding Valley Air to comply with
+
+24 Section 42705.6 by (a) revising the rules to require that all refinery fenceline and
+
+25 refinery-related community air monitoring systems consider for monitoring the same
+
+26 range of pollutants identified by the air district; (b) considering relevant factors in the
+
+27 selection, number, and placement of refinery-related community air monitoring sites;
+
+28 and (c) establishing a formal public review and comment process for refinery-related
+21
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+*
+
+community air monitoring plans.
+
+2 2. For a declaration under Code of Civil Procedure section 1060 that the approval of the
+
+3 these rules was arbitrary and capricious; and
+
+4 3. For injunctive relief consistent with section V, subdivision 1, above ordering
+
+5 compliance with California's Health and Safety Code.
+
+6 VI. As to ALL CAUSES OF ACTION:
+
+7 1. For costs of the suit;
+
+8 2. For attorneys' fees under Code of Civil Procedure section 1021.5 and other applicable
+
+9 authority; and
+
+10 3. For such other legal and equitable relief as this Court deems appropriate and just.
+
+11 Respectfully submitted,
+12
+
+13 Dated: March 18, 2020
+
+14 OSCAR ESPINO-PADRON, CA Bar No. 290603
+ANGELA JOHNSON MESZAROS, CA Bar No. 174130
+15 BYRON CHAN, CA Bar No. 306043
+EARTHJUSTICE
+16 707 Wilshire Boulevard, Ste. 4300
+17 Los Angeles, CA 90017 Tel: (213) 766-1070
+18 Email: oespino-padron@earthjustice.org
+
+19 ameszaros@earthjustice.org
+bchan@earthjustice.org
+20 PAULINA TORRES, CA Bar No. 319935
+21 INGRID BROSTROM, CA Bar No. 245829
+CENTER ON RACE, POVERTY & THE ENVIRONMENT
+22 5901 Christie Ave., Ste. 208
+
+23 Emeryville, CA 94608 Tel: (415) 346-4479
+
+24 Email: ptorres@crpe-ej.org ibrostrom@crpe-ej.org
+25 Attorneys for Petitioners/Plaintiffs Comite Progreso de
+26 Lamont, Committee for a Better Shafter, Committee for a Better Arvin, Lost Hills in Action, Association of Irritated
+27 Be Residents, and Clean Water Action
+
+28
+
+22
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+VERIFICATION
+2
+
+3 I. Jose Mireles, hereby declare:
+am the President and authorized representative for Comite Progreso de Lamont, a
+community-based organization based in Kern County, California. [ have read the foregoing
+
+6 VERIFIED PETTTION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY
+
+7 AND INJUNCTIVE RELIEF and am familiar with its contents. The facts alleged in it are truc to my
+8 personal knowledge and belief.
+I declare under penalty of perjury under the laws of the State of California that the above is
+
+10 true and correct and that this is verification is executed on this LO day of March 2020 at
+
+11 Delano. California,
+12
+
+13 Yoac L aiol
+
+14 Jose Mireles
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+23
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+VERIFICATION
+
+3 I, Anabel Marquez, hereby declare:
+
+4 am the President and authorized representative for the Committee for a Better Shafter, a
+
+5 non-profit organization based in Kern County, California. I have read the foregoing VERIFIED
+
+6 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+
+7 INJUNCTIVE RELIEF and am familiar with its contents. The facts alleged in it are truc to my
+8 personal knowledge and belief.
+9 declare under penalty of perjury under the laws of the State of California that the above is
+10 true and correct and that this verification is executed on this ./0 day of March 2020 at
+11 California.
+
+12
+
+13 Sedu Dapuyge
+14 Anabel Marquez
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+24
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+VERIFICATION
+2
+
+3 I, Estela Garcia, hereby declare:
+I am the President and authorized representative for the Committee for a Better Arvin, a non-
+
+5 profit organization based in Kern County, California. I have read the foregoing VERIFIED
+
+6 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+
+7 INJUNCTIVE RELIEF and am familiar with its contents. The facts alleged in it are true to my
+personal knowledge and belief.
+I declare under penalty of perjury under the laws of the State of California that the above is
+10 true and correct and that this verification is executed on this /0 day of March 2020 at
+
+11 Delane. California.
+12
+
+13 M C
+
+14 Estela Garcia
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+25
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1
+VERIFICATION
+2
+
+3 I, Saul Ruiz, hereby declare:
+
+4 am the President and authorized representative for the Lost Hills in Action, a community-
+5 based organization in Kern County, California. I have read the foregoing VERIFIED PETITION
+
+6 FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE
+
+7 RELIEF and am familiar with its contents. The facts alleged in it are true to my personal knowledge
+8 and belief.
+
+9 ( declare under penalty of perjury under the laws of the State of California that the above is
+10 true and correct and that this verification is executed on this 1 7 day of March 2020 at
+11 Losf Hills, Califomnia.
+12
+
+13 Saul Buz Madinez
+
+14 Saul Ruiz
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+26
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+F VERIFICATION
+2
+
+3 I, Tom Frantz, hereby declare:
+I am the authorized representative for the Association of Irritated Residents, a non-profit
+
+5 corporation based in Kern County, California. have read the foregoing VERIFIED PETITION FOR
+
+6 WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+7 and am familiar with its contents. The facts alleged in it are true to my personal knowledge and
+
+8 belief.
+
+9 I declare under penalty of perjury under the laws of the State of California that the above is
+
+10 true and correct and that this verification is executed on this 16 day of March 2020 at
+
+11 Shafter California.
+
+12
+
+13 Auva,
+14
+
+15
+
+Tom Frantz 16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+27
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1
+
+2 VERIFICATION
+
+3 I, Robert Wendelgass, hereby declare:
+
+4 am the authorized representative for Clean Water Action, a non-profit corporation based in
+
+5 Washington, D.C. I have read the foregoing VERIFIED PETITION FOR WRIT OF MANDATE
+
+6 AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF and am familiar with its
+
+7 contents. The facts alleged in it are true to my personal knowledge and belief.
+
+8 declare under penalty of perjury under the laws of the State of California that the above is
+
+0 true and correct and that this verification is exccuted on this 16th day of March 2020 at Philadelphia,
+10 Pennsylvania.
+
+11
+
+12 Bis bbsf
+
+13
+
+14 Robert Wendelgass, President & CEO
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22 NECEIVEÇ
+
+23 8 MaiR 2 6 2020
+
+24 BY:_____.
+
+25
+
+26
+
+27
+
+28
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+EARTHJUSTICE
+
+VIA: FIRST-CLASS MAIL
+
+March 23, 2020
+
+Xavier Becerra, Attorney General
+Office of the Attorney General
+2550 Mariposa Mall, Room 5090 Fresno, CA 93721-2271
+
+Re: Service of Pleading Alleging Environmental Damage [Cal. Code of Civ. Proc. $ 388]
+
+Dear Attorney General,
+
+In accordance with California Code of Civil Procedure section 388, enclosed please find a
+copy of the verified petition for writ of mandate in Comite Progreso de Lamont, et al v. San Joaquin Valley Unified Air Pollution Control District (Fresno Superior Court; Case No.
+20CECG01008). This case alleges facts and issues regarding pollution and related adverse environmental effects that may have an impact on the public.
+
+If you have any questions regarding this action, please do not hesitate to contact our office. You can reach Oscar Espino-Padron, the handling attorney in this matter, at (213) 766-1070 of via email at oespino-padron@earthjustice.org.
+Thank you for your time and attention to this matter.
+
+Most respectfully,
+
+Oscar Espino-Padron
+Staff Attorney
+Earthjustice
+
+Enclosure
+
+SUPERIOR COURT OF CALIFORNIA COUNTY OF FRESNO FOR COURT USE ONLY
+Civil Limited Department, Central Division
+1130 "O" Street 3/19/2020
+Fresno, California 93724-0002
+(559) 457-1900
+
+TITLE OF CASE: Filed by Court
+
+Comite Progreso de Lamonte vs. San Joaquin Valley Unified Air Pollution Control District
+
+NOTICE OF ASSIGNMENT OF JUDGE FOR ALL PURPOSES CASE NUMBER:
+20CECG01008
+
+To All Parties and their Attorneys of Record:
+
+This case has been assigned to Alan simpson, Judge for all purposes. All future hearings will be scheduled before this assigned judge.
+
+NOTICE: This assignment for all purposes must be provided to all non-appearing parties by the moving party.
+
+DECLARATION
+
+declare under penalty of perjury under the laws of the State of California that I gave a copy of the Notice of a Assignment of Judge for All Purposes to the person who presented this case for filing.
+
+Date: 3/19/2020 Clerk, by Ashley Ramos , Deputy
+
+CV-47 E11-02 NOTICE OF ASSIGNMENT OF JUDGE FOR ALL PURPOSES
+
+SUM-100
+SUMMONS FOR COURT USE ONLI
+(CITACION JUDICIAL) (SOLO PARA USO DE LA CORTE)
+E-FILED
+NOTICE TO DEFENDANT: 3/19/2020
+(AVISO AL DEMANDADO):
+SAN JOAQUIN VALLEY UNIFIED AIR POLLUTION CONTROL DISTRICT, Superior Court of California
+Respondents/Defendants, [Additional Parties Attachment form is attached] County of Fresno
+
+YOU ARE BEING SUED BY PLAINTIFF: By: A. Ramos, Deputy
+(LO ESTA DEMANDANDO EL DEMANDANTE):
+COMITE PROGRESO DE LAMONT, [Additional Parties Attachment form is attached]
+NOTICE! You have been sued. The court may decide against you without your being heard unless you respond within 30 days. Read the information
+below.
+You have 30 CALENDAR DAYS after this summons and legal papers are served on you to file a written response at this court and have a copy served on the plaintiff. A letter or phone call will not protect you. Your written response must be in proper legal form if you want the court to hear your |case. There may be a court form that you can use for your response. You can find these court forms and more information at the California Courts Online Self-Help Center (www.courtinfo.ca.gov/selfhelp), your county law I brary, or the courthouse nearest you. If you cannot pay the filing fee, ask the court clerk for a fee waiver form. If you do not file your response on time, you may lose the case by default, and your wages, money, and property may be laken without further warning from the court. There are other legal requirements. You may want to call an attorney right away. If you do not know an attorney, you may want to call an attorney referral service. If you cannot afford an attorney, you may be eligible for free legal services from nonprofit legal services program. You can locate these nonprofit groups at the California Legal Services Web site (www.lawhelpcalifornia.org), the California Courts Online Self-Help Center (www.courtinfo.ca.gov/selfhelp), or by contacting your local court or county bar association. NOTE: The court has a statutory lien for waived fees and costs on any settlement or arbitration award of $10,000 or more in a civil case. The court's lien must be paid before the court will dismiss the case. ¡AVISO! Lo han demandado. Si no responde dentro de 30 días, la corte puede decidir en su contra sin escuchar su versión. Lea la información a
+I continuación.
+Tiene 30 DÍAS DE CALENDARIO después de que le entreguen esta citación y papeles legales para presentar una respuesta por escrito en esta corte y hacer que se entregue una copia al demandante. Una carta o una llamada telefónica no lo protegen. Su respuesta por escrito tiene que estar en formato legal correcto si desea que procesen su caso en la corte. Es posible que haya un formulario que usted pueda usar para su respuesta. Puede encontrar estos formularios de la corte más información en el Centro de Ayuda de las Cortes de California (www.sucorte.ca.gov), en la biblioteca de leyes de su condado o en la corte que le quede más cerca. Si no puede pagar la cuota de presentación, pida al secretario de la corte que le dé un formulario de exención de pago de cuotas. Si no presenta su respuesta a tiempo, puede perder el caso por incumplimiento y la corte le podrá quitar su sueldo, dinero y bienes sin más advertencia. Hay otros requisitos legales. Es recomendable que llame un abogado inmediatamente. Si no conoce a un abogado, puede llamar a un servicio de remisión abogados. Si no puede pagar a un abogado, es posible que cumpla con los requisitos para obtener servicios legales gratuitos de un programa de servicios legales sin fines de lucro. Puede encontrar estos grupos sin fines de lucro en el sitio web de California Legal Services, (www.lawhelpcalifornia.org), en el Centro de Ayuda de las Cortes de California, (www.sucorte.ca.gov) o poniéndose en contacto con la corte o el colegio de abogados locales. AVISO: Por ley, la corte tiene derecho a reclamar las cuotas y los costos exentos por imponer un gravamen sobre cualquier recuperación de $10,000 ó más de valor recibida mediante un acuerdo o una concesión de arbitraje en un caso de derecho civil. Tiene que pagar el gravamen de la corte antes de que la corte pueda desechar el caso.
+The name and address of the court is: (El nombre y dirección de la corte es): B. F. Sisk la Courthouse CASE NUMBER: (Número del Caso):
+
+1130 O Street 20CECG01008
+Fresno, CA 93721-2220
+The name, address, and telephone number of plaintiff's attorney, or plaintiff without an attorney, is: (El nombre, la dirección y el número de teléfono del abogado del demandante, o del demandante que no tiene abogado, es):
+Oscar Espino-Padron (CA Bar No. 290603), EARTHJUSTICE, 707 Wilshire Blvd., Ste. 4300, Los Angeles, CA 90017, (213) 766-1070
+DATE: 3/19/2020 Clerk, by Deputy
+(Fecha) (Secretario) A. Ramos (Adjunto)
+(For proof of service of this summons, use Proof of Service of Summons (form POS-010).) (Para prueba de entrega de esta citatión use el formulario Proof of Service of Summons, (POS-010).)
+[SEAL] NOTICE TO THE PERSON SERVED: You are served
+1. as an individual defendant.
+2. as the person sued under the fictitious name of (specify):
+
+3. on behalf of (specify):
+Z under: CCP 416.10 (corporation) CCP 416.60 (minor)
+CCP 416.20 (defunct corporation) CCP 416.70 (conservatee)
+CCP 416.40 (association or partnership) CCP 416.90 (authorized person)
+other (specify):
+4. by personal delivery on (date) Page 1 of 1
+Form Adopted for Mandatory Use
+Judicial Council of California SUMMONS Code of Civil Procedure 55 412.20, 465
+
+SUM-100 [Rev. Juty 1, 2009] www.courts.ca.gov
+
+1
+
+~ SUM-200(A)
+SHORT TITLE: CASE NUMBER:
+
+Comite Progreso, et al. v. San Joaquin Valley Unified Air, et al.
+
+INSTRUCTIONS FOR USE
+This form may be used as an attachment to any summons if space does not permit the listing of all parties on the summons.
+If this attachment is used, insert the following statement in the plaintiff or defendant box on the summons: "Additional Parties
+Attachment form is attached."
+
+List additional parties (Check only one box. Use a separate page for each type of party.):
+
+V Plaintiff Defendant Cross-Complainant Cross-Defendant
+
+COMMITTEE FOR A BETTER SHAFTER, COMMITTEE FOR A BETTER ARVIN, LOST HILLS IN ACTION, ASSOCIATION OF IRRITATED RESIDENTS, and CLEAN WATER ACTION,
+
+Petitioners/Plaintiffs,
+
+Page 1 of 2
+Page 1 of 1
+Form Adopted for Mandatory Use
+Judictal Council of California ADDITIONAL PARTIES ATTACHMENT
+SUM-200(A) [Rev. January 1, 2007] Attachment to Summons
+
+SUM-200(A)
+
+SHORT TITLE: CASE NUMBER:
+
+Comite Progreso, et al. v. San Joaquin Valley Unified Air, et al.
+
+INSTRUCTIONS FOR USE
+This form may be used as an attachment to any summons if space does not permit the listing of all parties on the summons. If this attachment is used, insert the following statement in the plaintiff or defendant box on the summons: "Additional Parties Attachment form is attached."
+
+List additional parties (Check only one box. Use separate page for each type of party.):
+Plaintiff V Defendant Cross-Complainant -7 Cross-Defendant
+1 DOES 1 through 30 inclusive,
+
+Real Parties in Interest.
+
+Page 2 of 2
+Pago 1 of 1
+Forn Adopted for Mandatory Use
+Judicial Council of Californla ADDITIONAL PARTIES ATTACHMENT
+SUM-200(A) (Rev. January 1, 2007] Attachment to Summons
+
+CM-010
+ATTORNEY OR PARTY WITHOUT ATTORNEY (Name, State Bar number, and address): Oscar Espino-Padron (CA Bar No. 290603) FOR COURT USE ONLY
+
+EARTHJUSTICE
+707 Wilshire Blvd., Ste. 4300, Los Angeles, CA 90017 E-FILED
+3/18/2020 11:00 AM
+TELEPHONE NO.: (213) 766-1070 FAX NO. (Optional): (213) 403-4822 ATTORNEY FOR (Name): Petitioners/Plaintiffs COMITE PROGRESO DE LAMONT, et al. Superior Court of California County of Fresno
+SUPERIOR COURT OF CALIFORNIA, COUNTY OF FRESNO
+STREET ADDRESS: 1130 O Street By: A. Ramos, Deputy
+
+MAILING ADDRESS: 1130 O Street
+CITY AND ZIP CODE: Fresno, CA 93721-2220
+BRANCH NAME: B. F. Sisk Courthouse
+CASE NAME: Comite Progreso de Lamont, et al. v. San Joaquin Valley Unified Air Pollution Control District, et al.
+CIVIL CASE COVER SHEET Complex Case Designation CASE NUMBER:
+x Unlimited - Limited Counter Joinder 20CECG01008
+
+(Amount (Amount
+demanded demanded is Filed with first appearance by defendant JUDGE:
+exceeds $25,000) $25,000) (Cal. Rules of Court, rule 3.402) DEPT.:
+Items 1-6 below must be completed (see instructions on page 2).
+1. Check one box below for the case type that best describes this case:
+Auto Tort Contract Provisionally Complex Civil Litigation
+Auto (22) Breach of contract/warranty (06) (Cal. Rules of Court, rules 3.400-3.403)
+Uninsured motorist (46) Rule 3.740 collections (09) Antitrust/Trade regulation (03)
+Other PV/PD/WD (Personal Injury/Property Construction defect (10)
+Damage/Wrongful Death) Tort Other collections (09)
+
+Asbestos (04) Insurance coverage (18) Mass tort (40)
+
+Other contract (37) Securities litigation (28)
+Product liability (24) Environmental/Toxic tort (30)
+Medical malpractice (45) Real Property
+- Eminent domain/Inverse Insurance coverage claims arising from the
+Other PV/PD/WD (23) condemnnation (14) above listed provisionally complex case
+Non-PI/PD/WD (Other) Tort Wrongful eviction (33) types (41)
+Business tort/unfair business practice (07) Other real property (26) Enforcement of Judgment
+Enforcement of judgment (20)
+Civil rights (08) Unlawful Detainer
+Commercial (31) Miscellaneous Civil Complaint
+Defamation (13) Residential (32) E RICO (27)
+Fraud (16) Drugs (38) Other complaint (not specified above) (42)
+Intellectual property (19)
+Professional negligence (25) Judicial Review Miscellaneous Civil Petition
+
+Other non-PI/PD/WD tort (35) Asset forfeiture (05) Partnership and corporate governance (21)
+
+Employment Petition re: arbitration award (11) Other petition (not specified above) (43)
+Wrongful termination (36) Writ of mandate (02)
+Other employment (15) Other judicial review (39)
+
+2. This case is x is not complex under rule 3.400 of the California Rules of Court. If the case is complex, mark the
+factors requiring exceptional judicial management:
+a. Large number of separately represented parties d Large number of witnesses
+b. Extensive motion practice raising difficult or novel e. Coordination with related actions pending in one or more
+issues that will be time-consuming to resolve courts in other counties, states, or countries, or in a federal
+
+C. Substantial amount of documentary evidence court
+f. Substantial postjudgment judicial supervision
+3. Remedies sought (check all that apply): a. monetary b.X  nonmonetary; declaratory or injunctive relief c. punitive
+4. Number of causes of action (specify): 5
+5. This case  is x is not a class action suit.
+6. If there are any known related cases, file and serve a notice of related case. (You may use form CM-015.) Date: March 18, 2020
+Oscar Espino-Padron
+(TYPE OR PR NT NAME) (SIGNATURE OF PARTY OR ATTORNEY FOR PARTY)
+NOTICE
+Plaintiff must file this cover sheet with the first paper filed in the action or proceeding (except small claims cases or cases filed under the Probate Code, Family Code, or Welfare and Institutions Code). (Cal. Rules of Court, rule 3.220.) Failure to file may result
+in sanctions. File this cover sheet in addition to any cover sheet required by local court rule. this case is complex under rule 3.400 et seq. of the California Rules of Court, you must serve a copy of this cover sheet on all other parties to the action or proceeding. Unless this is a collections case under rule 3.740 or a complex case, this cover sheet will be used for statistical purposes only. Page 1 of 2
+
+Form Adopted for Mandatory Use CIVIL CASE COVER SHEET Cal. Rules of Court, rules 2 30, 3.220, 3.400-3.403, 3.740;
+Judicial Council of California Cal. Standards of Judicial Administration, std. 3.10
+CM-010 |Rev. Juty 1, 2007] www.courts.i gov
+
+INSTRUCTIONS ON HOW TO COMPLETE THE COVER SHEET CM-010
+To Plaintiffs and Others Filing First Papers. If you are filing a first paper (for example, a complaint) in a civil case, you must complete and file, along with your first paper, the Civil Case Cover Sheet contained on page 1. This information will be used to compile statistics about the types and numbers of cases filed. You must complete items through 6 on the sheet. In item 1, you must check one box for the case type that best describes the case. If the case fits both a general and a more specific type of case listed in item 1, check the more specific one. If the case has multiple causes of action, check the box that best indicates the primary cause of action. To assist you in completing the sheet, examples of the cases that belong under each case type in item 1 are provided below. A cover sheet must be filed only with your initial paper. Failure to file a cover sheet with the first paper filed in a civil case may subject a party, its counsel, or both to sanctions under rules 2.30 and 3.220 of the California Rules of Court. To Parties in Rule 3.740 Collections Cases. A "collections case" under rule 3.740 is defined as an action for recovery of money owed in a sum stated to be certain that is not more than $25,000, exclusive of interest and attorney's fees, arising from a transaction in which property, services, or money was acquired on credit. A collections case does not include an action seeking the following: (1) tort
+damages, (2) punitive damages, (3) recovery of real property, (4) recovery of personal property, or (5) a prejudgment writ of attachment. The identification of a case as a rule 3.740 collections case on this form means that it will be exempt from the general time-for-service requirements and case management rules, unless a defendant files a responsive pleading. A rule 3.740 collections case will be subject to the requirements for service and obtaining a judgment in rule 3.740. To Parties in Complex Cases. In complex cases only, parties must also use the Civil Case Cover Sheet to designate whether the case is complex. If a plaintiff believes the case is complex under rule 3.400 of the California Rules of Court, this must be indicated by completing the appropriate boxes in items 1 and 2. If a plaintiff designates a case as complex, the cover sheet must be served with the
+complaint on all parties to the action. A defendant may file and serve no later than the time of its first appearance a joinder in the plaintiff's designation, a counter-designation that the case is not complex, or, if the plaintiff has made no designation, a designation that the case is complex. CASE TYPES AND EXAMPLES
+Auto Tort Contract
+Breach of Contract/Warranty (06) Provisionally Complex Civil Litigation (Cal.
+Auto (22)--Personal Injury/Property Breach of Rental/Lease Rules of Court Rules 3.400-3.403)
+Damage/Wrongful Death
+Uninsured Motorist (46) (if the Contract (not unlawful detainer Antitrust/Trade Regulation (03)
+Construction Defect (10)
+case involves an uninsured or wrongful eviction)
+motorist claim subject to Contract/Warranty Breach-Seller Claims Involving Mass Tort (40)
+Securities Litigation (28)
+arbitration, check this item Plaintiff (not fraud or negligence) Environmental/Toxic Tort (30)
+instead of Auto) Negligent Breach of Contract/
+Warranty Insurance Coverage Clalms
+Other PI/PD/WD (Personal Injury) Property Damage/Wrongful Death) Other Breach of Contract/Warranty (arising from provisionally complex
+
+Tort Collections (e.g., money owed, open case type listed above) (41)
+Asbestos (04) book accounts) (09) Enforcement of Judgment Enforcement of Judgment (20) Asbestos Property Damage Collection Case-Seller Plaintiff
+Asbestos Personal Injury/ Other Promissory Note/Collections Abstract of Judgment (Out of
+Case County)
+Wrongful Death Confession of Judgment (non-
+Product Liability (not asbestos or Insurance Coverage (not provisionally
+toxic/environmental) (24) complex) (18) domestic relations)
+Medical Malpractice (45) Auto Subrogation Sister State Judgment
+Other Coverage Administrative Agency Award
+Medical Malpractice- (not unpaid taxes)
+Physicians & Surgeons Other Contract (37) Petition/Certification of Entry of
+Other Professional Health Care Contractual Fraud
+Other Contract Dispute Judgment on Unpaid Taxes
+Malpractice Other PI/PD/WD (23) Real Property Other Enforcement of Judgment
+Case
+Premises Liability (e.g., slip Eminent Domain/Inverse Miscellaneous Civil Complaint
+and fall) Condemnation (14)
+Intentional Bodily Injury/PD/D Wrongful Eviction (33) RICO (27)
+
+(e.g., assault, vandalism) Other Real Property (e.g., quiet title) (26) Other Complaint (not specified
+
+Intentional Infliction of Writ of Possession of Real Property above) (42)
+
+Emotional Distress Mortgage Foreclosure Declaratory Relief Only Injunctive Relief Only (non-
+Negligent Infliction of Quiet Title
+Other Real Property (not eminent harassment)
+Emotional Distress
+Other PWPD/D domain, landlord/tenant, or Mechanics Lien
+
+Non-PI/PD/WD (Other) Tort foreclosure) Other Commercial Complaint
+
+Business Tort/Unfair Business Unlawful Detainer Case (non-tortinon-complex)
+Practice (07) Commercial (31) Other Civil Complaint
+Civil Rights (e.g., discrimination, Residential (32) (non-tort/non-complex) Miscellaneous Civil Petition
+false arrest) (not civil Drugs (38) (if the case involves illegal
+harassment) (08) drugs, check this item; otherwise, Partnership and Corporate
+
+Defamation (e.g., slander, libel) report as Commercial or Residential) Governance (21)
+
+(13) Judicial Review Other Petition (not specified
+
+Fraud (16) Asset Forfeiture (05) above) (43)
+Petition Re: Arbitration Award (11) Civil Harassment
+Intellectual Property (19) Workplace Violence Professional Negligence (25) Writ of Mandate (02) Writ-AdminIstrative Mandamus Elder/Dependent Adult
+Legal Malpractice Abuse Other Professional Malpractice Writ-Mandamus on Limited Court
+(not medical or legal) Case Matter Election Contest
+
+Other Non-PI/PD/WD Tort (35) Writ-Other Limited Court Case Petition for Name Change Petition for Relief From Late
+Employment Review
+Other Judicial Review (39) Claim
+Wrongful Termination (36)
+Other Employment (15) Review of Health Officer Order Other Civil Petition
+Notice of Appeal-Labor Commissioner Appeals
+CM-010 [Rev, July . 2007] CIVIL CASE COVER SHEET Page 2 of 2

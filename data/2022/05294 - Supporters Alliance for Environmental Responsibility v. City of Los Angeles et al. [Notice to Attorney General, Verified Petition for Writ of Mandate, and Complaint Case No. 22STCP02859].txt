@@ -1,0 +1,1331 @@
+REBECCA DAVIS (SBN 271622)
+2 RICHARD T. DRURY (SBN 163559)
+VICTORIA YUNDT (SBN 326186)
+LOZEAU | DRURY LLP
+
+4 1939 Harrison Street, Suite 150
+Oakland, CA 94612
+
+5 Telephone: (510) 836-4200
+E-mail: rebecca@lozeaudrury.com
+6 richard@lozeaudrury.com
+victoria@lozeaudrury.com
+7 Attorneys for Petitioner and Plaintiff
+8 Supporters Alliance for Environmental Responsibility
+
+9 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+10 COUNTY OF LOS ANGELES
+11
+
+12 SUPPORTERS ALLIANCE FOR CASE No.: 22STCP02859
+13 ENVIRONMENTAL RESPONSIBILITY, a
+
+14 California nonprofit corporation, NOTICE TO ATTORNEY GENERAL OF
+VERIFIED PETITION FOR WRIT OF
+MANDATE AND COMPLAINT FOR
+15 Petitioner and Plaintiff, DECLARATORY AND INJUNCTIVE
+
+16 V. RELIEF
+
+17 CITY OF LOS ANGELES, a municipality; CITY COUNCIL OF THE CITY OF LOS ANGELES, a (Pub. Res. Code §§ 21167, 21168, 21168.5; Code
+Civ. Proc. §§ 1085, 1094.5)
+18 municipal body; LOS ANGELES DEPARTMENT OF CITY PLANNING, a CEQA ACTION
+19 municipal body; and DOES 1 through 10, inclusive,
+20 Respondents and Defendants,
+21
+
+22 TRG 9500 W PICO, LLC, a California limited
+liability corporation; CRAIG LAWSON & CO.,
+23 LLC, a California limited liability corporation; JESSICA HENCIER, an individual; and ROES 1
+24 through 10, inclusive,
+
+25 Real Parties in Interest and
+Defendants.
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL
+
+To the Attorney General of the State of California:
+
+2 PLEASE TAKE NOTICE, pursuant to Public Resources Code § 21167.7 and Code of Civil
+
+3 Procedure § 388, that on August 1, 2022, Supporters Alliance for Environmental Responsibility
+
+4 ("Petitioner") filed a Verified Petition for Writ of Mandate and Complaint for Declaratory and
+
+5 Injunctive Relief (*Petition") against the City of Los Angeles, the City Council of the City of Los
+
+6 Angeles, and the Los Angeles Department of City Planning ("City" or "Respondents"), and Real Parties
+7 in Interest, TRG 9500 W PICO, LLC, Craig Lawson & Co., LLC, and Jessica Hencier in the Los
+
+8 Angeles Superior Court.
+
+9 The Petition alleges, inter alia, violations of the California Environmental Quality Act
+
+10 ("CEQA"), Public Resources Code $ 21000 et seq., in connection with the City's unlawful June 29,
+
+11 2022 decisions (1) approving the 9500 Pico mixed-use residential and commercial development project,
+
+12 which consists of the demolition of a car wash, food stand, and office building and the construction of a
+
+13 six-story, 72-foot high mixed-use building consisting of 108 dwelling units and 3,250 square feet of
+
+14 commercial space in the City of Los Angeles, on the south side of Pico Boulevard, between Beverly
+
+15 Drive and Reeves Street ("Project"), and (2) adopting an Initial Study and Negative Declaration without
+
+16 the proper level of environmental review of potentially significant adverse impacts in violation of
+17 CEQA.
+
+18
+
+19 Dated: August 2, 2022 LOZEAU | DRURY LLP
+
+20
+
+21
+
+22 Vatiee tfout
+23 Victoria Yundt
+Attorney for Petitioner Supporters Alliance for
+24 Environmental Responsibility
+
+25
+
+26
+
+27
+
+28
+
+2
+NOTICE TO ATTORNEY GENERAL
+
+PROOF OF SERVICE
+
+2 I, Molly Greene, declare as follows:
+3 am a resident of the State of California, and employed in Oakland, California. I am over the age
+4 of 18 years and am not a party to the above-entitled action. My business address is 1939 Harrison Street,
+
+5 Suite 150, Oakland, CA 94612.
+
+6 On August 2, 2022 I served a copy of the foregoing document(s) entitled:
+
+7 NOTICE TO ATTORNEY GENERAL OF VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+8
+on the following interested parties in the above referenced case:
+9
+
+10 By e-mailing the document(s) listed above to the following e-mail address:
+CEQA@doj.ca.gov
+11
+
+12 I declare under penalty of perjury under the laws of the State of California that the foregoing is
+13 true and correct, and that this declaration was executed August 2, 2022 at
+
+14 Oakland, California.
+
+15
+
+16 Motty Grune
+17 Molly Greene
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+3
+NOTICE TO ATTORNEY GENERAL
+
+EXHIBIT A
+
+Electronically FILED by Superior Court of California, County of Los Angeles on 08/01/2022 06:26 PM Sherri R. Carter, Executive Officer/Clerk of Court, by R. Perez, Deputy Clerk 22STCP02859
+Assigned for all purposes to: Stanley Mosk Courthouse, Judicial Officer:
+
+REBECCA DAVIS (SBN 271622)
+2 RICHARD T. DRURY (SBN 163559)
+VICTORIA YUNDT (SBN 326186)
+LOZEAU | DRURY LLP
+
+4 1939 Harrison Street, Suite 150
+Oakland, CA 94612
+
+5 Telephone: (510) 836-4200
+E-mail: rebecca@lozeaudrury.com
+6 richard@lozeaudrury.com
+victoria@lozeaudrury.com
+7 Attorneys for Petitioner and Plaintiff
+8 Supporters Alliance for Environmental Responsibility
+
+9 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+10 COUNTY OF LOS ANGELES
+11
+
+12 SUPPORTERS ALLIANCE FOR CASE No.: 22STCP02859
+13 ENVIRONMENTAL RESPONSIBILITY, a
+
+14 California nonprofit corporation, VERIFIED PETITION FOR WRIT OF
+MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE
+15 Petitioner and Plaintiff, RELIEF
+
+16 V. (Pub. Res. Code §§ 21167, 21168, 21168.5; Code Civ. Proc. §§ 1085, 1094.5)
+17 CITY OF LOS ANGELES, a municipality; CITY COUNCIL OF THE CITY OF LOS ANGELES, a
+18 municipal body; LOS ANGELES CEQA ACTION
+DEPARTMENT OF CITY PLANNING, a
+19 municipal body; and DOES 1 through 10, inclusive,
+20 Respondents and Defendants,
+21
+
+22 TRG 9500 W PICO, LLC, a California limited
+liability corporation; CRAIG LAWSON & CO.,
+23 LLC, a California limited liability corporation; JESSICA HENCIER, an individual; and ROES 1
+24 through 10, inclusive,
+
+25 Real Parties in Interest and
+Defendants.
+26
+
+27
+
+28
+
+Verified Petition for Writ of Mandate
+
+INTRODUCTION
+
+2 1. Petitioner Supporters Alliance for Environmental Responsibility ("SAFER" or
+
+3 "Petitioner") brings this action to challenge the unlawful actions of Respondents City of Los Angeles,
+
+4 the City Council of the City of Los Angeles, and the Los Angeles Department of City Planning
+
+5 (collectively, "City" or "Respondents") in approving the 9500 Pico mixed-use residential and
+
+6 commercial development project ("Project") without first preparing an Environmental Impact Report
+
+7 ("EIR") in accordance with the requirements of the California Environmental Quality Act ("CEQA"),
+
+8 Public Resources Code § 21000 et seq., and the CEQA Guidelines, title 14, California Code of
+9 Regulations, § 15000 et seq.
+10 2. The Project includes the demolition of an existing a office building, a food stand, and a car
+
+11 wash, along with the construction of a six-story, 72-foot high mixed-use building including 108
+
+12 residential units and 3,250 square feet of commercial space.
+
+13 3. The Project site, where the 108 new residential units will be built, is heavily
+
+14 contaminated with benzene, petroleum hydrocarbons, and other contaminants resulting from the site's
+
+15 historic uses as a gas station and car wash. Petitioner submitted evidence from experts presenting a fair
+
+16 argument that the Project may have significant environmental effects on air quality and greenhouse gas
+
+17 emissions, human health impacts from diesel particulate emissions, impacts from hazardous materials,
+
+18 and energy impacts and that the City's Initial Study and Negative Declaration is not supported by
+
+19 substantial evidence. Respondents are in violation of CEQA by failing to prepare an EIR for the Project
+20 despite substantial evidence in the record of a fair argument that the Project may have significant
+
+21 environmental effects that have not been mitigated.
+
+22 4. At a minimum, the City was required to prepare a mitigated negative declaration
+
+23 (*MND") because the City's approval of the Project included approval of various measures meant to
+24 reduce the Project's environmental impacts.
+
+25 5. Respondents prejudicially abused their discretion in adopting the IS/ND and failing to
+
+26 prepare an EIR or an MND. Alternatively, Respondents prejudicially abused their discretion by relying
+
+27 upon an IS/ND that is not supported by substantial evidence, failing to disclose the Project's baseline
+
+28 conditions for hazardous soil vapors, and improperly classifying mitigation measures as project design
+
+2
+Verified Petition for Writ of Mandate and Complaint
+
+features. Accordingly, the approval of the Project should be set aside and Respondents should be
+
+2 required to prepare an EIR and fully comply with CEQA, Public Resources Code § 21000 et seq., prior
+
+3 to considering whether to approve the Project.
+
+4 PARTIES
+
+5 6. Petitioner Supporters Alliance for Environmental Responsibility is a California nonprofit
+
+6 corporation with members who live and/or work in or near the City of Los Angeles. The primary
+
+7 objective and purpose of SAFER is to contribute to the preservation and enhancement of the
+
+8 environment; to advocate for programs, policies, and development projects that promote not only good
+9 jobs but also a healthy natural environment and working environment, including but not limited to
+
+10 advocating for changes to proposed projects and policies that, if adopted, would reduce air, soil and
+
+11 water pollution, minimize harm to wildlife, conserve wild places, reduce traffic congestion, reduce
+
+12 global warming impacts, and assure compliance with applicable land use ordinances; to work to attain
+
+13 the widest range of beneficial uses of the environment without degradation, risk to health or safety, or
+
+14 other undesirable and unintended consequences; to promote environmentally sustainable businesses and
+
+15 development projects, including providing comments raising environmental concerns and benefits on
+
+16 proposed development projects; to advocate for changes to proposed development projects that will help
+17 a to achieve a balance between employment, the human population, and resource use which will permit
+
+18 high standards of living and a wide sharing of life's amenities by the general public; to take steps to
+
+19 preserve important historic, cultural, and natural aspects of our national heritage, and maintain, wherever
+
+20 possible, an environment which supports diversity and variety of individual choice; and to carry on other
+21 charitable and educational activities associated with this goal as allowed by law.
+
+22 7. SAFER's members who live and/or work near the Project have several legally cognizable
+
+23 interests in the Project and will be negatively affected by the Project's adverse environmental impacts
+
+24 and improper approval. The interests of Petitioner and its members are unique and will be directly
+
+25 impacted by the Project. Petitioner brings this action on behalf of itself and its members, and in the
+
+26 public interest. Petitioner and its members have a direct and beneficial interest in Respondents'
+
+27 compliance with laws bearing upon approval of the Project. These interests will be directly and
+
+28 adversely affected by the Project, which violates provisions of law as set forth in this Petition and would
+
+3
+Verified Petition for Writ of Mandate and Complaint
+
+cause substantial harm to the natural environment and the quality of life in the surrounding community.
+
+2 The maintenance and prosecution of this action will confer a substantial benefit on the public by
+
+3 protecting the public from the procedural, environmental, and other harms alleged herein.
+
+4 8. Petitioner participated in the administrative proceedings by inter alia submitting written
+
+5 and verbal comments on the Project and the City's violations of CEQA. Petitioner brings this action on
+
+6 behalf of itself, its adversely affected members, and the public at large.
+
+7 9. Petitioner has a direct and beneficial interest in the City's compliance with CEQA and the
+
+8 CEQA Guidelines. Petitioner and its members are interested in making sure that the Project is approved
+a in a way that protects the environment and its resources. That interest has been and will continue to be
+
+10 directly and adversely affected by the City's actions challenged herein, which actions violate provisions
+
+11 of law set forth in this Petition, precluded informed public participation, and would cause substantial
+12 harm to the environment. Petitioner will suffer concrete, actual, and imminent injury from the City's
+
+13 prejudicial abuse of discretion as well as from implementation of the proposed Project without full
+
+14 CEQA compliance.
+
+15 10. Respondent CITY OF LOS ANGELES is a municipal corporation in whose jurisdiction
+
+16 the Project will be located. The City is the "lead agency" for the Project for purposes of Public
+
+17 Resources Code § 21067, and has principal responsibility for conducting environmental review of the
+
+18 Project and taking other actions necessary to comply with CEQA.
+
+19 11. Respondent CITY COUNCIL OF THE CITY OF LOS ANGELES serves as the elected
+
+20 governing body of the City of Los Angeles. As the governing body for the City, the City Council was
+
+21 ultimately responsible for reviewing and approving or denying the Project. On June 29, 2022, the City
+
+22 Council voted to approve the Project and the IS/ND under CEQA. The Notice of Determination was
+
+23 filed with the Los Angeles County Clerk's office on June 30, 2022.
+24 12. Respondent LOS ANGELES DEPARTMENT OF CITY PLANNING is a local agency
+
+25 of the City. The Los Angeles Department of City Planning reviews project applications, manages the
+
+26 environmental review of projects for the City, and processes entitlements and approvals. The
+
+27 Department of City Planning is listed on the Notice of Determination as the "Lead City Agency."
+
+28 13. Real Party in Interest TRG 9500 W PICO, LLC is a California limited liability
+
+4
+
+Verified Petition for Writ of Mandate and Complaint
+
+corporation and is listed on the Notice of Determination as the "Project Applicant."
+
+2 14. Real Party in Interest CRAIG LAWSON & CO., LLC is a California limited liability a
+
+3 corporation and is listed on the Notice of Determination as the "Person or Agency Carrying Out the
+
+4 Project If Other Than Lead Agency." The Craig Lawson & Co., LLC is also listed as the "Entitlements
+
+5 Consultant" in the IS/ND.
+
+6 15. Real Party in Interest JESSICA HENCIER is an individual and is an associate project
+
+7 manager of Craig Lawson & Co., LLC. She is also listed on the Notice of Determination as the "Person
+
+8 or Agency Carrying Out the Project If Other Than Lead Agency."
+
+9 JURISDICTION AND VENUE
+
+10 16. This Court has jurisdiction over the matters alleged in this Petition pursuant to Code of
+
+11 Civil Procedure sections 1085 and 1094.5, and Public Resources Code sections 21167, 21168 and
+
+12 21168.5.
+
+13 17. Venue is proper in Los Angeles County Superior Court in accordance with Code of Civil
+
+14 Procedure section 395 because the Project at issue is located in the County of Los Angeles.
+
+15 18. Venue is proper in this Court under California Code of Civil Procedure section 394
+
+16 (actions against a city, county, or local agency) and section 395 (actions generally) because Respondents
+
+17 include a city and local agencies based in the County of Los Angeles and because the cause of action
+
+18 alleged in this Petition arose in the County of Los Angeles and the Project will occur within the County
+
+19 of Los Angeles.
+
+20 19. Petitioner has complied with the requirements of Public Resources Code section 21167.5
+
+21 by serving a written notice on July 29, 2022, of Petitioner's intention to commence this action against
+
+22 Respondents pursuant to CEQA. A copy of the written notice is attached hereto as Exhibit A.
+
+23 20. This action is being filed within 30 days of the posting of the City's Notice of
+
+24 Determination with the Los Angeles County Clerk's office, in accordance with Public Resources Code
+25 section 21167(b).
+
+26 21. Petitioner has complied with the requirements of Public Resources Code section 21167.6
+
+27 by filing a notice of their election to prepare the record of administrative proceedings relating to this
+
+28 action. A copy of the notice is attached hereto as Exhibit B.
+
+Verified Petition for Writ of Mandate and Complaint
+
+22. Petitioner will comply with the requirements of Public Resources Code section 21167.7
+
+2 and Code of Civil Procedure section 388 by sending a copy of this Petition and Complaint to the
+
+3 California Attorney General within the required time period.
+
+4 23. Petitioner has performed any and all conditions precedent to filing this instant action and
+
+5 has exhausted any and all available administrative remedies to the extent required by law.
+
+6 24. Petitioner is an interested entity because its members live and work in the vicinity of the
+
+7 Project site and will be directly affected by the Project. Further, Petitioner is interested in ensuring that
+
+8 the Project is approved in a way which protects the environment and its resources for themselves and
+
+9 future generations.
+
+10 25. Petitioner has no plain, speedy, or adequate remedy in the course of ordinary law unless
+
+11 this Court grants the requested writ of mandate to require Respondents set aside the City's actions taken
+12 in violation of CEQA, to require Respondents to prepare the legally adequate CEQA document for the
+
+13 Project, and to enjoin the City from approving the Project pending completion of legally adequate
+
+14 CEQA review. In the absence of such remedies, Respondents' decision will remain in violation of state
+
+15 law.
+
+16 FACTUAL ALLEGATIONS
+
+17 26. On September 15, 2020, Real Parties in Interest submitted an application to the City for
+
+18 the development and design of the proposed 9500 Pico Mixed-Use Project, Case No. CPC-2020-5837-
+
+19 DB-CU-SPR-VHCA, which consists of the demolition of a car wash, food stand, and office building and
+20 the construction of a six-story, 72-foot high mixed-use building consisting of 108 dwelling units and
+
+21 3,250 square feet of commercial space, including a 1,000 square-foot restaurant and 2,250 square feet of
+
+22 retail, on 10 parcels in the City of Los Angeles, on the south side of Pico Boulevard, between Beverly
+
+23 Drive and Reeves Street.
+
+24 27. The City released an initial study and negative declaration that purported to analyze the
+25 Project's potential environmental impacts. The IS/ND included many mitigation measures that it labeled
+
+26 as project design features, rather than mitigation measures.
+
+27 28. The City scheduled a Planning Commission hearing for September 9, 2021 to consider
+
+28 the proposed 9500 Pico Mixed-Use Project, Case No. CPC-2020-5837-DB-CU-SPR-VHCA, the
+
+6
+
+Verified Petition for Writ of Mandate and Complaint
+
+requested discretionary approvals, and the Initial Study and Negative Declaration, No. ENV-2020-5838-
+
+2 ND, prepared for the Project pursuant to CEQA.
+
+3 29. On August 8, 2021 and September 9, 2021, before the time of the scheduled Planning
+
+4 Commission hearing, Petitioner submitted comments to the Planning Commission regarding the Project
+
+5 (*August 8, 2021 Comment" and "September 9, 2021 Comment," respectively) stating, inter alia, that
+
+6 the IS/ND failed as an informational document, and that there was a fair argument that the Project may
+
+7 have significant adverse air quality, diesel particulate matter, greenhouse gas, hazards and hazardous
+
+8 materials, and energy impacts.
+
+9 30. Petitioner's August 8, 2021 Comment and September 9, 2021 Comment noted that the
+
+10 Project required the City to prepare an Environmental Impact Report, or at least a Mitigated Negative
+
+11 Declaration, to analyze and reduce adverse environmental impacts to a less than significant level.
+12 31. Petitioner's September 9, 2021 Comment was accompanied and supported by comments
+
+13 from Certified Industrial Hygienist Francis Offermann, PE, CIH, ("Offermann September 4, 2021
+
+14 Comment"). Industrial Hygienist Offermann's September 4, 2021 expert comments concluded that the
+
+15 Project would expose future residents to significant cancer risks from formaldehyde emissions as a result
+
+16 of off-gassing from the Project's building materials. a Formaldehyde is a known human carcinogen. After
+
+17 reviewing the IS/ND and related Project materials, Mr. Offermann determined that as a result of
+
+18 formaldehyde emissions, future residents of the Project will raise the risk of cancer by an additional 120
+
+19 per one million people, which far exceeds the South Coast Air Quality Management District's
+20 ("SCAQMD") CEQA significance threshold for airborne cancer risk of 10 per million. Mr. Offermann
+
+21 also concluded that employees of the Project's future restaurant and retail business will be exposed to
+22 formaldehyde levels that will result in an additional 17.7 occurrences per million people, which is 1.77
+
+23 times the SCAQMD threshold of significance. Mr. Offermann's calculations assume all materials are
+
+24 compliant with the California Air Resources Board's formaldehyde airborne toxics control measures.
+25 The IS/ND does not analyze or mitigate the Project's impacts on human health as a result of
+26 formaldehyde emissions.
+
+27 32. Petitioner's September 9, 2021 Comment also included expert comments from Matt
+
+28 Hagemann, P.G., C.Hg., and Dr. Paul E. Rosenfeld, Ph.D., of the environmental consulting firm
+
+Verified Petition for Writ of Mandate and Complaint
+
+Soil/Water/Air Protection Enterprise ("SWAPE"). After reviewing the IS/ND and related documents,
+
+2 SWAPE determined that the IS/ND's analysis and model of the Project's air emissions were based on
+
+3 input parameters that could not be substantiated, or were based on mitigation measures that were not
+
+4 actually included as mitigation measures. As a result of these errors, SWAPE concluded that the
+
+5 Project's air quality emissions and GHG emissions were underestimated. SWAPE prepared an updated
+
+6 air quality emissions model that corrected these errors. When updated, the model demonstrated that the
+
+7 Project would have significant construction-related VOC and NOx emissions. Specifically, SWAPE's
+updated analysis demonstrated that the Project would emit 127.15 lbs/day of VOCs, which exceeds the
+SCAQMD threshold of significance of 75 lbs/day. Similarly, SWAPE's updated analysis demonstrated
+
+10 that the Project would emit 561.2 lbs/day of NOx, more than five times the SCAQMD threshold of
+
+11 significance of 100 lbs/day.
+
+12 33. As part of its expert comments, SWAPE prepared a Health Risk Assessment ("HRA") to
+
+13 determine how Project-related emissions would impact human health. SWAPE's HRA concluded that,
+
+14 as a result of Project-related diesel particulate matter, the Project would result in an excess cancer risk of
+
+15 47.8 per million for infants and 14.8 per million for children. In addition, the excess lifetime cancer risk
+
+16 over the course of the Project's operation of 30 years is 69.9 per million.
+
+17 34. Petitioner's September 9, 2021 Comment also raised concerns about the existing soil
+18 contamination at the Project site. The site is currently under Los Angeles Regional Water Quality
+
+19 Control Board ("LARWQCB") oversight due to previous soil contamination issues. The Project Site was
+
+20 most recently occupied by Century West Car Wash for commercial use. According to the IS/ND, the car
+
+21 wash property was identified as an underground storage tank (UST), leaking UST (LUST), Enforcement
+
+22 Action Listing (ENF), Historic Hazardous Waste & Substances Site (Hist Cortese), Facility and
+
+23 Manifest Data (HAZNET), and EDR Historic Auto Station site in the regulatory database report.
+
+24 35. In response to the identification of contaminated soils on the Project site, a total of 64,759
+
+25 pounds of total petroleum hydrocarbons were removed using soil vapor extraction (SVE) system from
+
+26 April 2001 to March 2004. The LARWQCB issued a "No Further Action" letter for soil remediation on
+
+27 September 17, 2008. However, in its review of the Project at issue, the LARWQCB clarified that its
+
+28 2008 No Further Action letter was based on the 2008 commercial land uses and soil conditions, and it
+
+8
+Verified Petition for Writ of Mandate and Complaint
+
+"does not apply to the [Project's] proposed development." The LARWQCB explained in a March 5, a
+
+2 2021 correspondence to the City that "[b]enzene and other petroleum hydrocarbon concentrations in soil
+
+3 and groundwater" at the Project site "could pose a risk of vapor intrusion into on-site buildings." In
+
+4 addition, the IS/ND admits that "concentrations of petroleum hydrocarbons in soil remaining at 25 feet
+
+5 bgs slightly exceed the human health screening levels for dermal contact, inhalation, and ingestion at
+
+6 residential properties." (IS/ND, p. 58.) As a result of the existing contamination, the LARWQCB has
+
+7 asserted that, for a residential use, like that proposed by the Project, "a soil vapor assessment needs to be
+
+8 completed at the [Project Site] to determine the risk of vapor intrusion into the proposed future building
+at the Site" and "[Century West Car Wash] is required to submit a soil vapor assessment work plan for
+
+10 the installation of soil vapor probes and collection of soil vapor samples at the Site."
+
+11 36. In addition, the IS/ND does not include an adequate description of the Project's site's
+
+12 baseline soil vapor conditions. Instead, the IS/ND states that soil gas sampling is planned to be
+13 completed after site excavation to determine baseline conditions.
+
+14 37. Petitioner's September 9, 2021 Comment noted that the required action by the
+
+15 LARWQCB is substantial evidence of a fair argument that the Project involves significant risks to
+
+16 public health and the environment from soil contamination that the IS/ND failed to adequately disclose,
+
+17 analyze, or mitigate.
+
+18 38. Petitioner's September 9, 2021 Comment also noted that the IS/ND imposed several
+
+19 mitigation measures for soil contamination that are improperly treated as project design elements or
+
+20 features, including:
+
+21 The proposed building is planned to be constructed with an active depressurization system beneath the foundation due to elevated methane gas and a subterranean ventilated parking
+22 structure. Based on these vapor control systems, the exposure route of possible vapor intrusion
+from off-gassing contaminated soil or groundwater, if any, has been eliminated.
+23
+
+24 the subterranean parking structure will be constructed with a ventilation system that will include exhaust fans as well as fresh air intake fans designed to protect occupants from
+25 inhalation of vehicle exhaust. In accordance with the LADBS requirements, the ventilation
+system will ensure at least four air exchange rates per hour for the lowest level of the parking
+26 structure.
+
+27 39. Based on this information, Petitioner's September 9, 2021 Comment concluded that the
+
+28 IS/ND (1) failed to adequately analyze soil contamination impacts, (2) improperly characterized
+
+9
+Verified Petition for Writ of Mandate and Complaint
+
+mitigation measures as project design features thereby avoiding preparation of an MND at minimum,
+
+2 and (3) failed to disclose baseline conditions and improperly deferred mitigation measures to address
+
+3 impacts.
+
+4 40. In addition, Petitioner's September 9, 2021 Comment noted that the IS/ND failed to
+
+5 demonstrate that the Project would not cause wasteful, inefficient, or unnecessary consumption of
+
+6 natural gas, and noted that the City was required to analyze the feasibility of using renewable energy.
+
+7 Instead, the IS/ND improperly relied on the fact that the Project would be within the gas provider's
+
+8 capacity, and that the Project would comply with Title 24 and the Los Angeles Green Building Code, as
+sufficient analysis of energy impacts.
+
+10 41. On September 9, 2021, the Los Angeles City Planning Commission approved the Project,
+
+11 adopted the IS/ND, and made related findings.
+
+12 42. On October 5, 2021, the Planning Commission filed a Letter of Determination officially
+
+13 confirming that all these actions were approved and adopted.
+
+14 43. On October 7, 2021, Petitioner appealed the Planning Commission's decision.
+15 44. An appeal hearing before the Los Angeles City Council Planning and Land Use
+
+16 Management (*PLUM") Committee was scheduled for June 21, 2022.
+
+17 45. On February 10, 2022, Real Parties in Interest provided responses to Petitioner's August
+
+18 8. 2021 and September 9, 2021 comments ("February 10, 2022 Response to Comments").
+
+19 46. On June 21, 2022, prior to the PLUM Committee appeal hearing, Petitioner submitted
+20 additional comments to the City that addressed the Real Parties' February 10, 2022 Response to
+
+21 Comments. These comments were supported by additional expert comments of Mr. Offermann and
+
+22 SWAPE.
+
+23 47. On June 21, 2022, the PLUM Committee denied Petitioner's appeal of the Planning
+24 Commission's Project approvals and CEQA determination.
+
+25 48. On July 29, 2022, the Los Angeles City Council approved the Project, adopted the
+
+26 IS/ND, and made related findings and approvals
+
+27 49. On July 30, 2022, the City filed a Notice of Determination with the Los Angeles County
+
+28 Clerk.
+
+10
+Verified Petition for Writ of Mandate and Complaint
+
+LEGAL BACKGROUND
+
+2 The California Environmental Quality Act ("CEQA")
+
+50. CEQA is an integral part of every public agency's decision-making process. (Pub. Res.
+
+4 Code § 21006.) CEQA was enacted to protect the environment by the establishment of administrative
+
+5 procedures to ensure that long-term protection of the environment shall be the guiding criterion in public
+
+6 decisions.
+
+7 51. The purpose of an EIR is to provide public agencies and the public with "detailed
+
+8 information" about the likely significant environmental effect of a proposed project and ways in which
+
+9 the significant effects might be minimized. (Pub. Res. Code § 21061; see § 21002.1, subd. (a).) An EIR
+
+10 serves not only to protect the environment but also to demonstrate to an apprehensive public that it is
+
+11 being protected. (CEQA Guideline § 15003, subd. (b).)
+
+12 52. All public agencies must prepare, or cause to be prepared, and certify the completion of
+
+13 an EIR on any project which they propose to carry out that may have significant effect on the
+14 environment. (Pub. Res. Code §§ 21100(a), 21151(a).) A significant effect is a "potentially substantial,
+
+15 adverse change." (Pub. Res. Code § 21068.) This means that an activity has a significant effect if it "has
+
+16 the potential to degrade the quality of the environment." (Pub. Res. Code § 21083; 14 CCR § 15065.)
+17 53. An EIR must be prepared where "there is substantial evidence, in light of the whole
+
+18 record before the agency, that the project may have a significant effect on the environment." (Pub. Res.
+
+19 Code § 21080(d).) If there is substantial evidence supporting a "fair argument" that a project a "may"
+20 have a significant environmental effect, the agency "shall" prepare an EIR. (CEQA Guideline
+
+21 15064(a)(1).) The fair argument standard provides a "low threshold" for requiring the preparation of an
+
+22 EIR, with a preference for resolving doubts in favor of an EIR.
+
+23 54. "Substantial evidence" is "enough relevant information and reasonable inferences from
+
+24 this information that a fair argument can be made to support a conclusion, even though other
+
+25 conclusions might also be reached." (CEQA Guideline § 15384(a).) Substantial evidence includes fact, a
+
+26 reasonable assumption predicated upon fact, or expert opinion supported by fact. (Pub. Res. Code §
+27 21080(e)(1).) Where some experts conclude there may be a potentially adverse impact, and other experts
+
+28 disagree, an EIR must still be prepared. (CEQA Guidelines § 15064, subd. (g).)
+
+11
+Verified Petition for Writ of Mandate and Complaint
+
+55. All phases of project planning, implementation, and operation must be considered in an
+
+2 Initial Study. (CEQA § Guideline § 15063(a)(1).)
+
+3 56. To identify potentially significant adverse environmental effects of a project, an initial
+
+4 study must delineate environmental conditions prevailing absent the project, defining baseline of
+
+5 existing physical conditions in the affected area.
+
+6 57. A mitigation monitoring plan must be adopted by the lead agency when an initial study
+7 identifies potentially significant effects, but revisions in the project which would avoid such effects are
+
+8 adopted before the negative declaration and initial study are released for public review. (Pub. Res. Code
+
+9 § 21081.6.)
+
+10 58. Mitigation measures may not be construed as project design elements or features in an
+
+11 environmental document under CEQA if such a mischaracterization is significant. (Lotus V. Department
+12 of Transportation (2014) 223 Cal.App.4th 645.) A "mitigation measure" is a measure designed to
+
+13 minimize a project's significant environmental impacts, (Pub. Res. Code 21002.1(a)), while a
+
+14 "project" is defined as including "the whole of an action, which has a potential for resulting in either a
+
+15 direct physical change in the environment, or a reasonably foreseeable indirect physical change in the
+
+16 environment.' (CEQA Guidelines 15378(a).) Unlike mitigation measures, project elements are
+
+17 considered prior to making a significance determination. Measures are not technically "mitigation"
+
+18 under CEQA unless they are incorporated to avoid or minimize "significant" impacts. (Pub. Res. Code
+19 21100(b)(3).)
+
+20 59. To ensure that a project's potential environmental impacts are fully analyzed and
+
+21 disclosed, and that the adequacy of proposed mitigation measures is considered in depth, mitigation
+
+22 measures a that are not included in a project's design are not to be treated as part of the project
+
+23 description. (Lotus, 223 Cal.App.4th at 654 -55, 656 fn.8.) Mischaracterization of a mitigation measure
+
+24 as a project design element or feature is "significant," and therefore amounts to a material error, when
+
+25 "it precludes or obfuscates required disclosure of the project's environmental impacts and analysis of
+
+26 potential mitigation measures." (Mission Bay Alliance v. Office of Community Investment &
+27 Infrastructure (2016) 6 Cal.App.5th 160, 185.)
+
+28 60. Where an initial study shows that the project may have a significant effect on the
+
+12
+Verified Petition for Writ of Mandate and Complaint
+
+environment, a mitigated negative declaration may be appropriate. However, a mitigated negative
+
+2 declaration is proper only if the project revisions would avoid or mitigate the potentially significant
+
+3 effects identified in the initial study "to a point where clearly no significant effect on the environment
+
+4 would occur, and…there is no substantial evidence in light of the whole record before the public agency
+
+5 that the project, as revised, may have a significant effect on the environment." (Pub. Res. Code §§
+
+6 21064.5; 21080(c)(2); Mejia v. City of Los Angeles (2005) 130 Cal.App.4th 322, 331.) In that context,
+
+7 "may" means a reasonable possibility of a significant effect on the environment. (Pub. Res. Code §§
+
+8 21082.2(a), 21100, 21151(a); Pocket Protectors v. City of Sacramento (2004) 124 Cal.App.4th 903, 927;
+
+9 League for Protection of Oakland's etc. Historic Res. v. City of Oakland (1997) 52 Cal.App.4th 896,
+
+10 904-05.) Otherwise, an agency must prepare an EIR. (14 CCR § 15064(f)(1); Pocket Protectors, 124
+
+11 Cal.App.4th at 931; Stanislaus Audubon Society v. County of Stanislaus (1995) 33 Cal.App.4th 144,
+
+12 150-51; Quail Botanical Gardens Found., Inc. V. City of Encinitas (1994) 29 Cal.App.4th 1597, 1602.)
+
+13 FIRST CAUSE OF ACTION
+
+14 Violation of CEQA - Failure to Prepare an Environmental Impact Report or
+15 Mitigated Negative Declaration
+
+16 (Public Resources Code, § 21000 et seq.)
+
+17 (Code of Civil Procedure § 1085 or in the alternative §1094.5)
+61. Petitioner hereby realleges and incorporates by reference the preceding paragraphs, in
+18 their entirety, as if fully set forth herein.
+19 62. Respondents failed to comply with CEQA by failing to prepare an EIR for the Project
+20 despite substantial evidence in the record of a fair argument that the Project may have one or more
+21 significant environmental impacts, including, but not limited to, the following:
+22 a. There is a fair argument that the Project may have significant impacts on indoor air
+23 quality due to the use of composite wood products that off-gas carcinogenic
+24 formaldehyde. Substantial evidence demonstrates that future residents of the Project and
+25 future workers at the restaurant and retail spaces may be exposed to significant adverse
+26 indoor air quality impacts.
+27 b. There is a fair argument that the cumulative cancer risk posed by formaldehyde used in
+28 the Project together with additional nearby cancer risks may be significant. Substantial
+
+13
+Verified Petition for Writ of Mandate and Complaint
+
+2 evidence demonstrates that future residents of the Project and future workers at the
+
+au p w restaurant and retail spaces may be exposed to a significant cumulative cancer risk.
+c. There is a fair argument that the Project may have significant impacts on air pollution
+because the City underestimated air pollution from the Project. Substantial evidence
+demonstrates that the Project may cause significant adverse air quality effects.
+
+7 d. The City's conclusion that the Project's construction and operation will not have a
+
+8 significant health risk impact on adjacent residents and children is not supported by
+
+9 substantial evidence and a fair argument exists that the health risks from the Project's
+construction and operation may be significant.
+
+10 e.
+
+11 The City's conclusion that the Project will not have a cumulative health risk impact is not
+
+12 supported by substantial evidence and a fair argument exists that the Project will result in
+cumulative health risks.
+
+13
+
+14 f. The City's conclusion that the Project will not have a significant impact on GHG
+
+15 emissions is not supported by substantial evidence and a fair argument exists that the
+
+16 Project may have significant GHG emission impacts.
+
+g.
+
+17 The City's conclusion that the Project will not have a significant a cumulative impact on
+
+18 GHG emissions is not supported by substantial evidence and a fair argument exists that
+
+19 63. the Project may have a significant cumulative impact on GHG emissions.
+
+20 The City further violated CEQA in the following ways:
+
+a.
+
+21 The IS/ND fails to disclose the Project's baseline conditions for soil vapor at the Project
+
+22 site in violation of CEQA. Respondents abused their discretion and failed to act in a
+
+23 manner required by law by approving the Project without a CEQA analysis containing a
+proper baseline within the meaning of CEQA.
+
+24 b.
+
+25 The IS/ND improperly classifies mitigation measures as project design features.
+
+C.
+
+26 Respondents approved the Project while improperly deferring formulation and selection
+
+27 of mitigation measures to reduce potentially significant impacts to a future time after
+
+28 64. Project approval, and outside of public scrutiny, in violation of CEQA.
+Because a fair argument exists that the Project may have one or more significant
+
+14
+Verified Petition for Writ of Mandate and Complaint
+
+environmental impacts, the City must prepare an EIR for the Project to analyze all environmental
+
+2 impacts and to propose all feasible mitigation measures and alternatives to reduce those impacts.
+
+3 65. Alternatively, Respondents prejudicially abused their discretion by adopting an IS/ND,
+
+4 the environmental impact analysis for which is not supported by substantial evidence.
+
+5
+
+6 SECOND CAUSE OF ACTION
+
+7 Violation of CEQA - Failure to Adopt a Mitigation Monitoring Plan for All Revisions to Mitigate
+Project Impacts
+8 (Public Resources Code, § 21000 et seq.)
+9 (Code of Civil Procedure § 1085 or in the alternative §1094.5)
+
+10 66. Petitioner hereby realleges and incorporates by reference the preceding paragraphs, in
+
+11 their entirety, as if fully set forth herein.
+
+12 67. CEQA required adoption of a mitigation monitoring plan where the Initial Study
+
+13 identifies potentially significant effects, but revisions in the project are adopted to avoid or minimize
+
+14 such effects before the Initial Study and Negative Declaration are released for public review. (Pub. Res.
+
+15 Code § 21081.6.)
+
+16 68. The IS/ND includes Project mitigation measures that are intended to reduce air quality
+
+17 impacts, greenhouse gas emissions, and soil contamination impacts.
+
+18 69. The IS/ND improperly labeled each of these mitigation measures as project design
+
+19 elements or features.
+
+20 70. The City did not adopt a mitigation monitoring plan for the changes made to the Project
+
+21 or conditions of Project approval to mitigate or avoid significant environmental effects.
+
+22 71. By proceeding without a mitigation monitoring plan, the City violated CEQA and
+
+23 prejudicially abused its discretion.
+
+24
+
+25 PRAYER FOR RELIEF
+
+26 WHEREFORE, Petitioner respectfully requests the following relief and entry of judgment as
+
+27 follows:
+
+28
+
+15
+Verified Petition for Writ of Mandate and Complaint
+
+1. For peremptory writ of mandate directing Respondents to set aside the approval of the
+
+2 Project, Case No. CPC-2020-5837-DB-CU-SPR-VHCA, including the requested discretionary
+
+3 approvals, and certification of the IS/ND, No. ENV-2020-5838-ND, and its related findings, unless and
+
+4 until Respondents have prepared, circulated, and considered a legally adequate EIR prior to any
+
+5 subsequent approval action;
+
+6 2. For a peremptory writ of mandate directing Respondents and Real Parties in Interest to
+
+7 suspend all activities in furtherance of the Project unless and until Respondents take all necessary steps
+
+8 to bring their actions into compliance with CEQA.
+
+9 3. For a preliminary and permanent injunction staying the effect of Respondents' approval
+
+10 of the Project.
+
+11 4. For a declaratory judgment declaring Respondent's approval of the Project to be null and
+
+12 void and contrary to law;
+
+13 5. For an award of Petitioner's attorneys' fees pursuant to Code of Civil Procedure §
+14 1021.5, and any other applicable authority;
+
+15 6. For an award of costs of suit; and
+
+16 7. For such other and further relief as the court deems just and proper.
+
+17
+
+18
+
+19 Dated: August 1, 2022 LOZEAU DRURY LLP
+
+20
+
+21
+
+22
+
+23 By: Ieatree lphdt
+24 Victoria Yundt
+Attorney for Petitioner
+25
+
+26
+
+27
+
+28
+
+16
+Verified Petition for Writ of Mandate and Complaint
+
+VERIFICATION
+
+2 I, Victoria Yundt, am an attorney for Petitioner in this action. I am verifying this Petition
+
+3 pursuant to California Code of Civil Procedure section 446. Petitioner is absent from the County of
+
+4 Alameda, in which I have my office. I have read the foregoing petition and complaint. I am informed
+
+5 and believe that the matters in it are true, and on that ground, allege that the matters stated in the
+complaint are true.
+6 I declare under penalty of perjury under the laws of the State of California that the foregoing is
+7 true and correct.
+8
+
+9
+
+10
+
+11 Date: August 1, 2022 Veatnee Yld
+12 Victoria Yundt
+Attorney for Petitioner
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+17
+Verified Petition for Writ of Mandate and Complaint
+
+EXHIBIT A
+
+LOZEAU DRURYLLP T 510.836.4200 1939 Harrison Street, Ste. 150 www.lozeaudrury.com
+F 510.836.4205 Oakland, CA 94612 victoria@lozeaudrury.com
+
+July 29, 2022
+
+VIA U.S. MAIL
+
+Eric Garcetti, Mayor Vince Bertoni, Director
+Gil Cedillo, Councilmember Department of City Planning
+Paul Krekorian, Councilmember
+Bob Blumenfield, Councilmember City of Los Angeles
+
+Nithya Raman, Councilmember 200 N. Spring Street, Room 525
+Paul Koretz, Councilmember Los Angeles, CA 90012
+
+Nury Martinez, Councilmember vince.bertoni@lacity.org
+
+Monica Rodriguez, Councilmember Los Angeles Department of City Planning
+Marqueece Harris-Dawson, 200 North Spring Street, Suite 525
+Councilmember Los Angeles, CA 90012
+Curren D. Price, Jr., Councilmember
+Mike Bonin, Councilmember cpc@lacity.org
+
+John Lee, Councilmember Beatrice Pacheco, Chief Clerk
+Mitch O'Farrell, Councilmember
+Kevin de León, Councilmember Los Angeles City Planning
+
+Joe Buscaino, Councilmember 221 North Figueroa Street, Room 1450
+Los Angeles, CA 90012
+Los Angeles City Council beatrice.pacheco@lacity.org
+200 North Spring Street Los Angeles, CA 90012 More Song, City Planning Associate
+CityClerk@lacity.org Los Angeles City Planning
+200 North Spring Street, Room 763
+Holly L. Wolcott, City Clerk Los Angeles, CA 90012
+City of Los Angeles more.song@lacity.org
+200 North Spring Street, Room 360 Los Angeles, CA 90012
+CityClerk@lacity.org
+
+RE: Notice of Intent to File Suit Under the California Environmental Quality Act
+Regarding the 9500 Pico Project (Case No. CPC-2020-5837-DB-CU-SPR-
+VHCA; ENV-2020-5838-ND)
+
+Dear Mayor Garcetti, Honorable Members of the City Council, Clerk Wolcott, Mr.
+Bertoni, Ms. Pacheco, and Mr. Song:
+
+Please take notice, pursuant to Public Resources Code ("PRC") § 21167.5, that Supporters Alliance for Environmental Responsibility ("SAFER") intends to file a Verified Petition for Peremptory Writ of Mandate and Complaint for Declaratory and Injunctive Relief ("Petition") in Los Angeles Superior Court under the provisions of the California
+
+Environmental Quality Act ("CEQA"), Public Resources Code § 21000 et seq., against
+the City of Los Angeles, the City Council of the City of Los Angeles, and the Los
+Angeles Department of City Planning (collectively "City") and against Real Parties in Interest TRG 9500 W PICO, LLC and Craig Lawson & Co., LLC, challenging the June
+30, 2022 decision of the City to (1) approve a Site Plan Review and related entitlements under CPC-2020-5837-DB-CU-SPR-VHCA for the construction of a six-story a mixed-use
+building with 108 residential units above approximately 3,250 square feet of ground floor commercial space and 134 vehicle parking spaces provided within two subterranean levels and a portion of the ground floor, located at 9500-9530 West Pico Boulevard
+("Project"); and (2) adopt the Negative Declaration ENV-2020-5838-ND for the Project. The Petition will argue that an environmental impact report ("EIR") was required for the Project because there is a fair argument that the Project may have significant
+unmitigated adverse environmental impacts.
+Sincerely,
+
+leatirue pod
+Victoria Ann Yundt
+LOZEAU DRURY LLP
+
+PROOF OF SERVICE
+
+I, Molly Greene, declare as follows:
+
+I am a resident of the State of California, and employed in Oakland, California. I am over the age
+of 18 years and am not a party to the above-entitled action. My business address is 1939 Harrison Street,
+Suite 150, Oakland, CA 94612.
+
+On July 29, 2022 [ served a copy of the foregoing document(s) entitled:
+
+Notice of Intent to File Suit Under the California Environmental Quality Act Regarding the
+9500 Pico Project (Case No. CPC-2020-5837-DB-CU-SPR-VHCA; ENV-2020-5838-ND)
+
+X BY MAIL and EMAIL: I placed a true copy of the document(s) listed above in an envelope(s)
+addressed to each of the below-listed parties, sealed the envelope(s), and placed the same with
+postage thereon fully prepaid, in the United States Mail at Oakland, California, and transmitted
+the document to the email addresses listed below.
+
+on the following interested parties in the above referenced case:
+
+Mayor Eric Garcetti and Los Angeles Department of City Planning
+Honorable Members of the City Council 200 North Spring Street, Suite 525
+City of Los Angeles
+200 North Spring Street Los Angeles, CA 90012
+cpc@lacity.org
+Los Angeles, CA 90012
+CityClerk@lacity.org
+
+Holly L. Wolcott, City Clerk Beatrice Pacheco, Chief Clerk
+City of Los Angeles Los Angeles City Planning
+200 North Spring Street, Room 360 221 North Figueroa Street, Room 1450
+Los Angeles, CA 90012 Los Angeles, CA 90012
+CityClerk@lacity.org beatrice.pacheco@lacity.org
+
+Vince Bertoni, Director More Song, City Planning Associate
+Department of City Planning Los Angeles City Planning
+City of Los Angeles 200 North Spring Street, Room 763
+200 N. Spring Street, Room 525
+Los Angeles, CA 90012 Los Angeles, CA 90012
+more.song@lacity.org
+vince.bertoni@lacity.org
+
+I declare under penalty of perjury under the laws of the State of California that the foregoing is true
+and correct, and that this declaration was executed July 29, 2022 at Oakland, California.
+
+MMrlay Prene Molly Greene
+
+EXHIBIT B
+
+REBECCA DAVIS (SBN 271622)
+2 RICHARD T. DRURY (SBN 163559)
+VICTORIA YUNDT (SBN 326186)
+LOZEAU | DRURY LLP
+
+4 1939 Harrison Street, Suite 150
+Oakland, CA 94612
+
+5 Telephone: (510) 836-4200
+E-mail: rebecca@lozeaudrury.com
+6 richard@lozeaudrury.com
+victoria@lozeaudrury.com
+7 Attorneys for Petitioner and Plaintiff
+8 Supporters Alliance for Environmental Responsibility
+
+9 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+10 COUNTY OF LOS ANGELES
+11
+
+12 SUPPORTERS ALLIANCE FOR CASE No.:
+13 ENVIRONMENTAL RESPONSIBILITY, a
+
+14 California nonprofit corporation, PETITIONER'S NOTICE OF INTENT TO
+PREPARE ADMINISTRATIVE RECORD
+
+15 Petitioner and Plaintiff, (Pub. Res. Code §§ 21167, 21168, 21168.5; Code
+
+16 V. Civ. Proc. §§ 1085, 1094.5)
+
+CEQA ACTION
+17 CITY OF LOS ANGELES, a municipality; CITY COUNCIL OF THE CITY OF LOS ANGELES, a
+18 municipal body; LOS ANGELES DEPARTMENT OF CITY PLANNING, a
+19 municipal body; and DOES 1 through 10, inclusive,
+20 Respondents and Defendants,
+21
+
+22 TRG 9500 W PICO, LLC, a California limited
+liability corporation; CRAIG LAWSON & CO.,
+23 LLC, a California limited liability corporation; JESSICA HENCIER, an individual; and ROES 1
+24 through 10, inclusive,
+
+25 Real Parties in Interest and
+Defendants.
+26
+
+27
+
+28
+
+PETITIONER'S NOTICE OF INTENT TO PREPARE ADMINISTRATIVE RECORD
+
+Pursuant to Public Resources Code section 21167.6(b) Petitioner Supporters Alliance for
+
+2 Environmental Responsibility ("Petitioner") hereby notifies all parties that Petitioner elects to prepare
+
+3 the administrative record relating to the above-captioned action relating to Respondents City of Los
+
+4 Angeles, City Council of the City of Los Angeles, Los Angeles Department of City Planning's
+
+5 (*Respondents') unlawful decisions (1) approving the 9500 Pico mixed-use residential and commercial
+
+6 development project ("Project"), and (2) adopting an Initial Study and Negative Declaration without the
+
+7 proper level of environmental review of potentially significant adverse impacts in violation of, inter alia,
+
+8 the California Environmental Quality Act ("CEQA"), Public Resources Code § 21000 § et seq.
+
+9 prepare the administrative record for this Respondents and Real Parties in Interest are directed not to
+
+10 action and not to expend any resources to prepare the administrative record.
+
+11
+
+12
+
+13 Dated: August 1, 2022 LOZEAU DRURY LLP
+
+14
+
+15 L
+Rebecca Davis
+16 Attorneys for Petitioner Supporters Alliance for
+
+17 Environmental Responsibility
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+2
+PETITIONER'S NOTICE OF INTENT TO PREPARE ADMINISTRATIVE RECORD

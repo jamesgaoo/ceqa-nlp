@@ -1,0 +1,1404 @@
+1 GIDEON KRACOV (Cal. Bar No. 179815) JORDAN R. SISSON (Cal. Bar No. 327057)
+2 LAW OFFICE OF GIDEON KRACOV
+801 S. Grand Avenue, 11th Floor
+3 Los Angeles, CA 90017-4645 Tel: (213) 290-6376
+4 gk@gideonlaw.net
+iordan@gideonlaw.net
+5
+Attorneys for Petitioners
+6 MARLENE PEREZ, MARIA GUADALUPE ORTIZ, UNITE HERE LOCAL 11
+
+7
+
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+COUNTY OF ORANGE
+
+9
+
+10 MARLENE PEREZ; MARIA Case No. 30-2022-01281816-CU-WM-CXC
+
+11 GUADALUPE ORTIZ; UNITE HERE
+LOCAL 11,
+
+12 Petitioners, NOTICE TO ATTORNEY GENERAL
+
+13 V. [Code. Civ. Proc. §§ 860-870, 1060, 1085,
+14 CITY OF GARDEN GROVE: CITY OF 1094; Pub Res. Code § 21000 et seq. - Violations of the California Environmental
+
+15 GARDEN GROVE AS SUCCESSOR
+AGENCY TO THE AGENCY FOR Quality Act, Garden Grove Municipal Code, and Validation Statutes]
+16 COMMUNITY DEVELOPMENT;
+GARDEN GROVE HOUSING
+
+17 AUTHORITY; ALL PERSONS
+INTERESTED IN THE MATTER OF
+
+18 THE SEPTEMBER 13, 2022
+APPROVALS OF DISPOSITION OR
+
+19 SALE OF 12291 AND 12311
+THACKERY DRIVE AND THE
+
+20 DISPOSITION AND DEVELOPMENT
+AGREEMENT FOR SALE OR
+
+21 DEVELOPMENT OF 3.72 ACRES AND
+ALL RELATED APPROVALS FOR
+
+22 THE SITE B2 PROJECT; DOES 1
+through 4,
+
+23 Respondents,
+
+24
+
+25 NEWAGE GARDEN GROVE II, LLC;
+KAM SANG COMPANY; DOES 5
+
+26 through 10,
+
+27 Real Parties in Interest.
+
+28
+-1-
+
+NOTICE TO ATTORNEY GENERAL
+
+1 TO THE CALIFORNIA ATTORNEY GENERAL:
+
+2 Pursuant to Pub. Res. Code § 21167.7, Petitioners Marlene Perez, Maria Guadalupe Ortiz,
+
+3 and UNITE HERE Local 11 (collectively "Petitioners") hereby give notice of its Verified Petition
+
+4 for Writ of Mandate filed September 22, 2022 ("Petition"), attached hereto as Exhibit A, which
+
+5 includes claims made under the California Environmental Quality Act (*CEQA").
+
+6 The Petition challenges the actions of the Respondent City of Garden Grove, City of
+
+7 Garden Grove as Successor Agency to the Agency for Community Development and the Garden
+
+8 Grove Housing Authority (collectively "City") in approving the B2 Site 500-room, 23-story hotel
+
+9 with the 600-seat Nick Studio theater (*Project") at the 3.72-acre site located in the City at the
+
+10 northwest corner of Harbor Boulevard and Twintree Avenue. The Petition alleges (among other
+
+11 things) that the City abused its discretion by approving the various Project approvals, including
+
+12 but not limited to the Project's Mitigated Negative Declaration (SCH No. 2022060174)
+
+13 ("MND"). The City adopted the MND instead of an environmental impact report despite
+
+14 substantial evidence (including several environmental experts) indicating the Project's significant
+
+15 impacts on vehicle miles traveled, air quality, land use, and greenhouse gas emissions ("GHG").
+
+16 So too, the City failed to recirculate the MND after substantively changing its GHG threshold,
+
+17 which was made known by a handout provided to the public right before the City Council hearing
+
+18 where it adopted the MND on August 23, 2022. The following day (August 24), the City
+
+19 prematurely filed a notice of determination before the Project's final approval on September 13.
+
+20 Petitioners urge the Attorney General to review the Petition. Here, the City's actions result
+
+21 in greater environmental impacts and sets a dangerous precedent for improper procedures that
+
+22 circumvent CEQA's informed decision-making. Petitioners seek to have the Project's MND, land
+
+23 use entitlements, and Development Agreement disposing of public land, and other approvals set
+
+24 aside, along with such other relief as the Court deems proper. Respectfully submitted,
+
+25 DATED: September 28, 2022 LAW OFFICE OF GIDEON KRACOV
+
+26 /
+
+By: 27 JORDAN SISSON
+28 Attorney for PETITIONERS
+-2-
+
+NOTICE TO ATTORNEY GENERAL
+
+EXHIBIT A
+
+ciectronicany rueu vy Superior Court oi Calliomnia, County or orange, 09/22/2022 02:11:30 PIM. 30-2022-01281816-CU-WM-CXC - ROA # 2 - DAVID H. YAMASAKI, Clerk of the Court By G. Ramirez, Deputy Clerk.
+
+- GIDEON KRACOV (Cal. Bar No. 179815)
+
+2 JORDAN R. SISSON (Cal. Bar No. 327057)
+LAW OFFICE OF GIDEON KRACOV
+
+3 801 S. Grand Avenue, 11th Floor Los Angeles, CA 90017-4645
+
+4 Tel: (213) 290-6376 Assigned for All Purposes
+
+gk@gideonlaw.net Judge Peter Wilson
+
+5 iordan@gideonlaw.net cx-102
+
+Attorneys for Petitioners
+6 MARLENE PEREZ, MARIA GUADALUPE ORTIZ, UNITE HERE LOCAL 11
+
+7
+
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+COUNTY OF ORANGE
+
+q
+
+10 MARLENE PEREZ; MARIA
+
+11 GUADALUPE ORTIZ; UNITE HERE Case No. 30-2022-01281816-CU-WM-CXC
+
+LOCAL 11,
+
+12 Petitioners, VERIFIED PETITION FOR WRIT OF
+
+13 V. MANDATE. COMPLAINT FOR
+INVALIDATION, INJUNCTIVE AND
+
+14 CITY OF GARDEN GROVE; CITY OF DECLARATORY RELIEF
+
+15 GARDEN GROVE AS SUCCESSOR
+AGENCY TO THE AGENCY FOR
+
+16 COMMUNITY DEVELOPMENT;
+GARDEN GROVE HOUSING [Code. Civ. Proc. §§ 860-870, 1060, 1085,
+
+17 AUTHORITY; ALL PERSONS 1094; Pub Res. Code 8 21000 et seq.
+
+INTERESTED IN THE MATTER OF Violations of the California Environmental
+
+18 THE SEPTEMBER 13, 2022 Quality Act, Garden Grove Municipal Code,
+
+APPROVALS OF DISPOSITION OR and Validation Statutes]
+
+19 SALE OF 12291 AND 12311
+THACKERY DRIVE AND THE
+
+20 DISPOSITION AND DEVELOPMENT
+AGREEMENT FOR SALE OR
+
+21 DEVELOPMENT OF 3.72 ACRES AND
+ALL RELATED APPROVALS FOR
+
+22 THE SITE B2 PROJECT; DOES 1
+through 4,
+
+23 Respondents,
+
+24
+
+25 NEWAGE GARDEN GROVE II, LLC; KAM SANG COMPANY; DOES 5
+
+26 through 10,
+
+27 Real Parties in Interest.
+
+28
+--
+
+VERIFIED PETITION FOR WRIT OF MANDATE, COMPLAINT FOR INVALIDATION, INJUNCTIVE, DECLARATORY RELIEF
+
+1 INTRODUCTION
+
+2 1. By this action, Petitioners Marlene Perez, Maria Guadalupe Ortiz, and UNITE
+
+3 HERE Local 11 ("Local 11") (collectively "Petitioners") challenge the unlawful actions of the
+
+4 City of Garden Grove, City of Garden Grove as Successor Agency to the Agency for Community
+
+5 Development and the Garden Grove Housing Authority, (collectively "City" or "Respondents")
+
+6 in approving the B2 Site 500-room, 23-story hotel with the 600-seat Nick Studio theater
+
+7 (*Project") at the 3.72-acre site at the northwest corner of Harbor Boulevard and Twintree
+
+8 Avenue including 11261, 12241, 12271, 12291, 12311 and 12323 Harbor Boulevard and 12246,
+
+9 12252, 12262, 2282, 12292, 12312, 12322, 12251, 12261, 12281, 12291, 12311 and 12321
+
+10 Thackery Drive ("Site") in the City.
+
+11 2. Specifically, on September 13, 2022, the City approved the following actions
+
+12 challenged herein for the Project: Planned Unit Development No. PUD-141-01(A) ("PUD"), Site
+
+13 Plan Review No. SP-107-2022 ("SPR"), and Street Vacation No. SV-002-2022 ("Street
+
+14 Vacation") (collectively "Entitlements"); Mitigated Negative Declaration (SCH No. 2022060174)
+
+15 (*MND") under the California Environmental Quality Act (Pub. Res. Code § 21000 et seq.)
+16 ("CEQA") and "CEQA Guidelines" (14 Cal. Code. Regs. § 15000 et seq.); disposition or sale of §
+17 City-owned land 12291 and 12311 Thackery Drive; and a Disposition and Development
+
+18 Agreement ("DDA") for sale and development of 3.72 acres of City land (collectively
+
+19 "Approvals") to Real Parties in Interest applicant Newage Garden Grove II, LLC and Kam Sang
+
+20 Company ("Real Parties").
+
+21 3. Petitioners allege that the City abused its discretion by approving the Entitlements,
+
+22 the MND, and the Approvals, including but not limited to the sale or disposition of City-owned
+
+23 land and the DDA. As set forth in the First Cause of Action, the City, throughout the approval
+
+24 process, failed to support its CEQA analysis and land-use findings for all the Project Approvals
+
+25 with substantial evidence. Because a MND was used for the Project's environmental review,
+
+26 instead of a more comprehensive environmental impact report ("EIR"), the Project is subject is to
+
+27 the less deferential "fair argument" standard, which requires a lead agency to prepare an EIR
+
+28
+-2-
+
+VERIFIED PETITION FOR WRIT OF MANDATE, COMPLAINT FOR INVALIDATION, INJUNCTIVE, DECLARATORY RELIEF
+
+1 whenever substantial evidence in the record supports a fair argument that a project may have a
+
+2 significant effect on the environment. (See Pub. Res. Code §§ 21100, 21151; Laurel Heights
+
+3 Improvement Ass'n V. Regents of the Univ. of Cal. (1993) 6 Cal.4th 1112, 1123.) This is a very
+
+4 large Project not appropriate for a MND. There is a "fair argument" here of the Project's
+
+5 significant impacts to transportation, vehicle miles traveled (*VMT"), air quality, land use, and
+
+6 greenhouse gas emissions ("GHG") thus, an EIR must be prepared. Moreover, as set forth in the
+
+7 Second Cause of Action, the Entitlements findings do not adequately characterize and address
+
+8 inconsistencies with the City's General Plan and other applicable provisions of the Garden Grove
+
+9 Municipal Code (*"Code" or "GGMC"). By rezoning the property from R-1 to PUD, the City
+
+10 violates various City General Plan goals, objectives, and policies, such as utilizing City land for
+
+11 much-needed housing. All these flaws invalidate Code-required findings necessary to grant the
+
+12 Entitlements. Finally, because the Project involved the disposition of City-owned land previously
+
+13 owned by the City Redevelopment Agency, the Third Cause of Action alleges a procedural claim
+
+14 for "reverse validation" - an in rem proceeding under Code. Civ. Proc. §§ 860 and 863. Under the
+
+15 validation statutes, all persons interested in those sales contracts are also parties to this case as
+
+16 identified in the case caption.
+
+17 JURISDICTION
+
+18 4. This Court has jurisdiction under Pub. Res. Code §§ 21168 or 21168.5 (CEQA
+
+19 actions), Code Civ. Proc. §§ 1085 or 1094.5 (mandamus actions), or Code Civ. Proc. § 860 et seq.
+20 (*Validation" actions). The Project Site is located in the County of Orange. The within action has
+
+21 been timely brought within 90 days of the City granting the Project Approvals pursuant to Gov.
+
+22 Code § 65009. Under Pub. Res. Code § 21167, the within action has been timely brought within
+
+23 30 days of the (premature as discussed below) August 24, 2022 posting of a CEQA Notice of
+
+24 Determination ("NOD") for the Project. Per Pub. Res. Code § 21167.5, Petitioners served a
+
+25 Notice of Intent to File this Petition on the Clerk of the City by mail on September 21, 2022 as
+
+26 reflected in Exhibit A hereto. Concurrent with the filing of this action, Petitioners notified the
+
+27
+
+28
+-3-
+
+VERIFIED PETITION FOR WRIT OF MANDATE, COMPLAINT FOR INVALIDATION, INJUNCTIVE, DECLARATORY RELIEF
+
+1 Attorney General of the State of California of the filing of the action in accordance with Pub. Res.
+
+2 Code § 21167.7.
+
+3 PARTIES
+
+4 5. Petitioners Marlene Perez and Maria Guadalupe Ortiz are resident of City, having
+
+5 a beneficial interest and are impacted by the matters set forth in this Petition. Their interests will
+
+6 be directly affected by the Project and the City's failure to comply with the requirements of
+
+7 CEQA and governing laws in connection with the Project. Petitioners Perez and Ortiz live nearby
+
+8 and frequent the vicinity of the Site and will be affected by the Project's negative environmental
+
+9 impacts including but not limited to traffic, air quality, and inconsistency with applicable land use
+
+10 plans. Petitioners participated in the Project Approvals process by submission of written and oral
+
+11 comments.
+
+12 6. Petitioner Unite Here Local 11 is a non-profit labor organization representing more
+
+13 than 25,000 workers employed in hotels, restaurants, airports, sports arenas, and convention
+
+14 centers throughout Southern California and Phoenix, Arizona. Its members, including hundreds
+
+15 who live or work in the City, join together to fight for improved living standards and working
+
+16 conditions. Local 11's members reside near and frequently visit the vicinity of the Site and will
+
+17 suffer from Project impacts, particularly related to inadequate housing and environmental
+
+18 impacts, which are core issues to the members of Local 11 and, therefore, core areas of concern
+
+19 for the Union. Hence, Local 11 has both public interest standing and associational standing to
+
+20 bring this Action. Petitioner participated throughout the Project Approvals process with
+
+21 submission of comment letters and testifying before City. Petitioners, individually and through
+
+22 their members, objected to the Project Approvals before the close of the Project's public hearing.
+
+23 Petitioners have exhausted all administrative remedies, the City's determinations are final, and no
+
+24 further administrative appeals are available under State or local law. All issues submitted for
+
+25 judicial review in this Petition were sufficiently raised and disputed with Respondents before the
+
+26 Project was approved. Respondents were given notice and the opportunity to act in compliance
+27 with CEQA and other applicable law but failed to do so. It is well-established that any party who
+28
+-4-
+
+VERIFIED PETITION FOR WRIT OF MANDATE, COMPLAINT FOR INVALIDATION, INJUNCTIVE, DECLARATORY RELIEF
+
+-
+
+2 participates in the administrative process can assert all factual and legal issues raised by any
+
+3 commenting party, official, or agency. (See Citizens for Open Government v. City of Lodi (2006)
+
+4 144 Cal.App.4th 865, 875.) Hence, this Petition incorporates in its entirety all factual and legal
+
+5 claims presented to the City during the Project Approvals process, whether by Petitioners, their
+
+6 agents, representative, or by a fellow commenting party participating in the Project Approvals
+
+process.
+
+7 7.
+
+8 Respondent City is a local governmental general law municipal corporation in
+
+9 Orange County, California. Its City Council acts as its Housing Authority and Successor Agency
+
+10 to the Agency for Community Development. The City approved all the Entitlements and Project
+Approvals.
+
+11 8.
+
+12 Real Party in Interest NEWAGE GARDEN GROVE II, LLC is a California
+
+13 limited liability company doing business under the laws of the State of California with its
+
+14 principal place of business in Arcadia, California, which is believed to be a recipient of the
+Project Approvals.
+
+15 9.
+
+16 Real Party in Interest KAM SANG COMPANY, INC. is a California corporation
+
+17 doing business under the laws of the State of California with its principal place of business in
+
+18 Arcadia, California, which is believed to be the recipient of a Project Approvals.
+10.
+
+19 The true names, capacities, corporate, associate or otherwise of Respondents and
+
+20 Real Parties named herein as DOES 1 through 10, inclusive, are unknown to Petitioners who,
+
+21 therefore, sue said Respondents and Real Parties by fictitious names. Petitioners will amend this
+
+22 Petition to show the true names and capacities when they have been ascertained.
+GENERAL ALLEGATIONS
+
+23 11.
+
+24 This action, in part, is an in rem proceeding under Code. Civ. Proc. §§ 860 and 863
+
+25 Validation statutes to invalidate certain contracts relating to the Project Approvals, including the
+
+26 Entitlements, MND, DDA, and all Project Approvals approved and/or authorized by the City on
+
+27 September 13, 2022. In accordance with the Validation statutes, all persons interested in those
+contracts are also parties to this case.
+
+28
+-5-
+
+VERIFIED PETITION FOR WRIT OF MANDATE, COMPLAINT FOR INVALIDATION, INJUNCTIVE, DECLARATORY RELIEF
+
+1 12. On July 7, 2022, the City Planning Commission conditionally approved the
+
+2 Project's PUD, SPR and Street Vacation No. SV-002-2022 relying on the MND. Petitioners
+
+3 submitted comments raising significant environmental impacts to air quality, land use,
+
+4 VMT/transportation and GHG emissions necessitating an EIR instead of a MND, questioning the
+
+5 required Code findings and noting inconsistency with General Plan requirements because of the
+
+6 rezoning the Project Site from R-1 to PUD thereby removing the ability for the Site to be used for
+
+7 high-density residential.
+
+8 13. On July 27, 2022, in accordance with the GGMC, Petitioners Lopez and Local 11
+
+9 appealed the Planning Commission's conditional approval of the Entitlements ("Appeal") to the
+
+10 City Council on grounds of noncompliance with CEQA and required Code land use findings.
+
+11 14. On or around August 17, 2022, without any notice to Petitioners, the City
+
+12 uploaded onto the City's website a Final MND that included an errata and response to comments
+
+13 ("Final MND"). That Final MND was referenced for the first time in the City Council staff report
+
+14 that was released on Friday, August 19, 2022, for the City Council's Entitlements and Appeal
+
+15 hearing scheduled for Tuesday, August 23, 2022--thereby giving the public two business days to
+
+16 review the Final MND. Additionally, the staff report (released August 19, 2022) stated the Appeall
+
+17 was not ripe because none of the Entitlements or MND were final because they were merely
+
+18 conditional recommendations that were not final until Council took final action to approve the
+
+19 PUD.
+
+20 15. In response, Appellants provided comments on August 23, 2022, including two
+
+21 expert letters highlighting the inadequacies of the Entitlements and Final MND. The comments
+
+22 raised concerns about significant environmental impacts to air quality, land use, VMT,
+
+23 transportation, and GHG emissions necessitating an EIR instead of a MND. The comments also
+
+24 questioned the Entitlements' land use findings for compliance with the Code, the City General
+
+25 Plan, the Surplus Land Act, and the "No Net Loss Law" for housing (Cal. Gov. Code § 65863).
+
+26 16. On August 23, 2022, just before the start of the City Council Appeal hearing,
+
+27 Petitioners were provided a 14-page hardcopy of a new, updated Final MND that was dated that
+
+28
+-6-
+
+VERIFIED PETITION FOR WRIT OF MANDATE, COMPLAINT FOR INVALIDATION, INJUNCTIVE, DECLARATORY RELIEF
+
+same day (August 23, 2022) (*Updated Final MND"), giving the public and Petitioners
+
+2 effectively no time to review it. Despite Petitioners' objections, the City gave Petitioners merely
+three minutes during the meeting to respond to the Final MND and Updated Final MND.
+
+4 17. At the conclusion of the August 23, 2022 Council meeting (after minimal
+
+5 discussion) the City denied the Appeal, contingently approved the MND and Entitlements, and
+
+6 introduced and conducted the first reading of the PUD Ordinance noting that under the Code a
+
+7 second reading was required for the Project to be approved.
+
+8 18. On August 24, 2022, a premature CEQA Notice of Determination was filed with
+
+9 the Orange County Clerk even though the Project and its Entitlements had yet to be finally
+
+10 approved because the PUD was not yet final.
+
+11 19. On September 9, 2022, the City released a staff report concerning the second
+
+12 reading of the Project's PUD and--for the first time-new documents about the Project's DA and
+
+13 the City land proposed for sale/disposition to the Project applicants--all of which were scheduled
+
+14 for the Council's decision on September 13, 2022.
+
+15 20. On September 13, 2022, Petitioners submitted another comment letter with
+
+16 additional expert evidence. The letter stated that there is a fair argument of significant impacts
+
+17 requiring preparation of an EIR. The comments also again questioned whether the sale of the City
+
+18 parcels complied with the requirements of the Code, the Surplus Land Act, and Gov. Code §
+
+19 65863.
+
+20 21. On September 13, 2022, the Council finally approved the Entitlements, MND and
+
+21 Project Approvals including the land sales.
+
+22 FIRST CAUSE OF ACTION
+
+23 (Writ of Administrative Mandamus - Code Civ. Proc. § 1094.5 - CEQA Violations)
+
+24 22. Petitioners restate and reallege Paragraphs 1-21 as if fully set forth herein.
+
+25 23. Pursuant to Code Civ. Proc. § 1094.5, Petitioners seek a writ of mandate to
+
+26 overturn the Project Approvals for CEQA violations including the MND's failure to adequately
+
+27
+
+28
+-7-
+
+VERIFIED PETITION FOR WRIT OF MANDATE, COMPLAINT FOR INVALIDATION, INJUNCTIVE, DECLARATORY RELIEF
+
+1 analyze and/or mitigate impacts related to VMT/transportation, air quality, land use inconsistency
+
+2 and GHG emissions.
+
+3 24. A project "may" have a significant effect on the environment if there is a
+
+4 "reasonable probability" that it will result in a significant impact. This is a "low threshold"
+
+5 requiring the preparation of an EIR and preference for resolving doubts in favor of environmental
+
+6 review, even if the overall effect of the project is beneficial. (Mejia v. City of Los Angeles (2005)
+7 130 Cal.App.4th 322, 332; CEQA Guidelines § 15063(b)(1).) "[T]he existence of contrary
+
+8 evidence does not excuse a lead agency from its duty to prepare an EIR." (Pocket Protectors v.
+
+9 City of Sacramento (2004) 124 Cal.App.4th 903, 931; see also Friends of "B" Street v. City of
+
+10 Hayward (1980) 106 Cal.App.3d 988, 1002; Sierra Club v. County of Sonoma (1992) 6
+
+11 Cal.App.4th 1307, 1318 ["decision not to require an EIR can be upheld only when there is no
+
+12 credible evidence to the contrary."].)
+
+13 25. Premature NOD: Here, the SPR and Street Vacation were contingent on the
+
+14 approval of the PUD. The City's own Appeal correspondence confirms this. The PUD was not
+
+15 final until the second reading on September 13, 2022. Hence, no Entitlements were final and,
+
+16 thus, the CEQA review was not final until September 13, 2022. The August 24, 2022 NOD was
+
+17 prematurely filed in advance of the actual Project Approvals (i.e., second reading of PUD). (See
+
+18 e.g., Coalition for Clean Air v. City of Visalia (2012) 209 Cal.App.4th 408, 418, 425 [a
+
+19 prematurely filed notice of CEQA exemption is "invalid"]; County of Amador v. El Dorado
+
+20 County Water Agency (1999) 76 Cal.App.4th 931, 963, fn. 16 [holding notice of CEQA
+
+21 exemption cannot be filed until after the project is approved, a "contrary conclusion would be
+
+22 tantamount to requiring opponents to bring challenges before a project is finally approved, lest
+
+23 they be barred by the statute of limitations. It would also thwart attempts to resolve disputes over
+
+24 a project."]; San Franciscans for Reasonable Growth v. San Francisco (1984) 151 Cal.App.3d
+
+25 61, 70 n9 [discussed in NOD context].). This premature NOD was prejudicial, and sought to
+
+26 prematurely close the administrative record for the CEQA compliance and Updated Final MND
+
+27 which as a matter of law remained open until the final September 13, 2022 Project Approvals.
+
+28
+-8-
+
+VERIFIED PETITION FOR WRIT OF MANDATE, COMPLAINT FOR INVALIDATION, INJUNCTIVE, DECLARATORY RELIEF
+
+- 26.
+
+2 Procedural Violation of CEQA Requiring Recirculation: CEQA requires a lead
+
+3 agency to recirculate a CEQA review when significant new information is added after the public
+
+4 review but before the adoption of the CEQA document. (See Pub. Res. Code 21092.1.) New
+
+5 information is significant if the review is changed in a way that deprives the public of a
+
+6 meaningful opportunity to comment. (See CEQA Guidelines § 15088.5.) Here, significant
+
+7 changes were made. Just hours before City Council's August 23, 2022 hearing to consider the
+
+8 Appeal and MND, the Updated Final MND was released with a brand-new qualitative threshold
+
+9 analysis for GHG emissions prepared that same day. Appellants and public had essentially no
+
+10 time to review the new CEQA threshold for GHGs in the Updated Final MND - even though the
+
+11 GHG threshold issue was a central point of the Appeal and CEQA compliance. The City cannot
+
+12 abandon a quantitative CEQA threshold for GHG emissions at the last minute the night of the
+
+13 Project Approvals hearing and rely on an entirely new qualitative GHG threshold released that
+
+14 night without recirculating the document for public review. This tactic violates CEQA whereby
+
+15 lead agencies could rely on flawed CEQA thresholds, and after being thoroughly discredited on
+
+16 Appeal, switch the thresholds out for different thresholds on the very eve of the CEQA
+
+17 document's approval-thus avoiding any meaningful public review and comment on a new a
+
+18 different CEQA threshold (such as the case here). This circumvents one of CEQA's main goals of
+
+19 informing decision makers and the public. (See CEQA Guidelines § 15002(a)(1); see also
+Citizens of Goleta Valley v. Board of Supervisors (1990) 52 Cal.3d 553, 564.)
+
+20 27.
+
+21 "Fair Argument" VMT/Transportation Impacts: A fair argument of
+
+22 unmitigated VMT/transportation impacts exists. Expert evidence demonstrates, among other
+things:
+
+23
+
+24 The Project appears overparked by as much as 18.4 percent, which is evidence that the
+
+25 Project is not exempt a from a more comprehensive VMT analysis than the one performed
+in the MND, Final MND, and Updated Final MND.
+
+26
+
+27 The new Regional Transportation Plan/Sustainable Communities Strategy ("RTP/SCS")
+
+28 consistency analysis is inadequate given the claimed VMT reduction strategies do not
+
+-9-
+
+VERIFIED PETITION FOR WRIT OF MANDATE, COMPLAINT FOR INVALIDATION, INJUNCTIVE, DECLARATORY RELIEF
+
+1 mitigate the Project's chief VMT-inducing activities (namely the hotel/theater patrons)
+
+2 and also fails to utilize the Site in the most efficient means from a VMT perspective (i.e.,
+
+3 including consideration of multi-family residential use for some component of the
+
+4 Project).
+
+5 The new RTP/SCS analysis in the MND fails to consider numerous project-level
+o mitigation measures discussed in the RTP/SCS Program EIR.
+
+7 Nor does the new RTP/SCS analysis in the MND account for the workforce housing
+
+8 problem, which indicates adding more jobs in the area will generate an average commute
+
+9 distance of 30.2 VMTs per employee round trip-which exceeds the City's 22.56 VMT
+
+10 per service population and the County's 29.01 average VMT per service population
+
+11 metrics that are based on the City's analysis using the Orange County Transportation
+
+12 Model ("OCTAM") described in its General Plan Update.
+
+13 Nor is the proposed mitigation measure GHG-7 likely to reduce VMTs significantly, and
+
+14 it fails to adequately implement an enforceable trip reduction program.
+
+15 Because there is fair argument that the Project will generate significant VMTs,
+
+16 additional mitigation measures should be considered, like those suggested in the new
+
+17 guidance provided by California Air Pollution Control Officers Association
+
+18 ("CAPCOA"), such as incorporating the following:
+
+19 Measure T-5 Implement Commute Trip Reduction Program (Voluntary) - up to 4.0%
+
+20 of employee VMT;
+
+21 Measure T-7 Implement Commute Trip Reduction Program (Mandatory
+
+22 Implementation and Monitoring - up to 26.0% of employee VMT;
+
+23 Measure T-8 Provide Ridesharing Program (employer subsidized) - up to 8.0% of
+
+24 employee VMT;
+
+25 Measure T-9 Implement Subsidized or Discounted Transit Program - up to 5.5% of
+
+26 employee VMT;
+
+27 Measure T-12 Price Workplace Parking - up to 20.0% of employee VMT; and
+
+28
+-10-
+
+VERIFIED PETITION FOR WRIT OF MANDATE, COMPLAINT FOR INVALIDATION, INJUNCTIVE, DECLARATORY RELIEF
+
+L
+
+2 Measure T-13 Implement Employee Parking Cash Out - up to 12% of employee
+
+VMT.
+
+3 28.
+
+4 "Fair Argument" of Air Quality Impacts: A fair argument of unmitigated air
+
+5 quality impacts exists. Expert evidence includes demonstrates, among other things, that:
+
+6 Construction oxides of nitrogen (*NOx"), particulate matter PM2.5, and PM10 emissions
+
+7 are likely to be significant and unmitigated.
+
+oo The MND and Updated Final MND's mitigation measures to lessen air quality impacts
+
+9 associated with construction are unenforceable.
+
+10 The MND, Updated MND, and Updated Final MND fail to require additional, feasible
+
+11 mitigation for what are likely to be significant construction PM10 and PM2.5 impacts.
+
+12 Air quality health impacts from construction activities were not analyzed in the MND and
+
+13 Updated Final MND and are likely significant.
+
+14 Acute health impacts of diesel particulate matter during Project construction and operation
+
+15 were not evaluated in the MND and Updated Final MND and are likely significant.
+
+16 The MND and Updated Final MND rely on faulty parameters to model air emissions and
+
+17 conclude that they are not significant. Expert revised modeling shows potentially
+
+18 significant volatile organic compounds (*VOC(s)") emissions exceeding thresholds.
+
+29.
+
+19 "Fair Argument" of Land Use Impacts: The MND, Final MND, and Updated
+
+20 Final MND failure to accurately characterize and address a fair argument of land use
+
+21 inconsistencies with the City's General Plan and other applicable land use laws. (See e.g., CEQA
+
+22 Guidelines § 15125(d); Pfeiffer v. City of Sunnyvale City Council (2011) 200 Cal.App.4th 1552,
+
+23 1566; Friends of the Eel River, 108 Cal.App.4th at 881.) There is no discussion in any of the
+
+24 MND documents whether the Project complies with various required housing rules, including
+
+25 whether the rezoning of the Project Site harms the City's ability to meet its Regional Housing
+
+26 Needs Assessment ("RHNA") or complies with the "No Net Loss Law" in Gov. Code § 65863
+
+27 that requires adequate housing sites be maintained through the planning period. Here, by rezoning
+
+28 the property from R-1 to PUD, the City is removing the ability for the Site to be used for
+
+-11-
+
+VERIFIED PETITION FOR WRIT OF MANDATE, COMPLAINT FOR INVALIDATION, INJUNCTIVE, DECLARATORY RELIEF
+
+-
+
+2 residential purposes. This rezoning may create a shortfall requiring corrective rezoning elsewhere
+
+3 in the City. The abovementioned issues violate various City General Plan goals, objectives, and
+
+4 policies, such as utilizing General Plan-designated International West Mixed Use ("IW")
+
+5 designated properties such as the Project Site for "some higher density residential that are
+
+6 appropriate for a major entertainment and tourism destinations." (See General Plan, pp. 2-24 - 2-
+
+7 25 [such as policies LU-1.5, LU-IMP-1C, and LU-2.1].) Similarly, there is no discussion how this
+
+8 Project is consistent with the City's Housing Element, which calls for over 19,000 units needed
+
+9 and the City to play "a key role in promoting sites for future development." (See City Housing
+
+10 Element, pp. 12-31, 12-116 [goal H-3 and associated policies]; p. 12-124 [Program 8].) Here, the
+
+11 City permits no housing component for this Sitewhich is inconsistent with its General Plan
+
+12 designation (i.e., IW) and does nothing for the City's RHNA obligations. Additionally, the
+
+13 Project may in fact exacerbate housing shortage issues by creating more service jobs without the
+
+14 commensurate workforce housing needed (as mentioned by VMT experts). These land use
+
+15 inconsistencies are not properly disclosed in the MND, Final MND, or Updated Final MND.
+
+30.
+
+16 "Fair Argument" of GHG Impacts: A fair argument of unmitigated GHG
+impacts exists. Expert evidence demonstrates, among other things:
+
+17
+
+18 The MND, Final MND, and Updated Final MND utilize unsubstantiated input parameters
+to estimate GHG emissions.
+
+19
+
+20 The MND documents fail to correctly apply Tier 4 final mitigation as indicated by the
+South Coast Air Quality Management District ("SCAQMD").
+
+21
+
+22 The MND documents' qualitative analysis utilizes a flawed business-as-usual ("BAU")
+
+23 methodology that is outdated, inconsistent with SCAQMD guidance, and even contrary to
+the City's past practices.
+
+24
+
+25 The Project exceeds applicable SCAQMD Tier 4 thresholds showing impacts are
+significant and requiring additional mitigation.
+
+26
+
+27 The Project is inconsistent with qualitative and quantitative measures under California Air
+Resources Board ("CARB')'s Scoping Plan.
+
+28
+-12-
+
+VERIFIED PETITION FOR WRIT OF MANDATE, COMPLAINT FOR INVALIDATION, INJUNCTIVE, DECLARATORY RELIEF
+
+1
+
+2 The new RTP/SCS consistency analysis in the Final Updated MND is inadequate for
+
+W numerous reasons, including being inconsistent with various qualitative and quantitative
+
+4 measures under the RTP/SCS. Moreover, even if the Project is consistent with the
+
+5 RTP/SCS, which it is not, that alone is not enough to meet the State's longer-term goals
+(i.e., 2030 and 2050 GHG reduction goals).
+
+6
+
+7 Because the Project appears to have a significant GHG impacts, from a quantitative and
+
+8 qualitative perspective, additional mitigation measures are warranted, such as those
+proposed in the RTP/SCS.
+
+9 31.
+
+10 The Project fails to incorporate and impose all feasible, performance-based
+
+11 mitigation measures that have a likelihood of being implemented and enforced. (See City of
+
+12 Maywood v. Los Angeles Unified School Dist. (2012) 208 Cal.App.4th 362, 407 [CEQA requires
+
+13 lead agencies to "craft mitigation measures that would satisfy enforceable performance criteria"].)
+32.
+
+14 The Project fails to support findings and determinations with substantial evidence.
+
+15 (See e.g., CEQA Guidelines 8 15088(c); Berkeley Keep Jets Over the Bay Comm. v. Board of
+
+16 Port Comm'rs (2001) 91 Cal.App.4th 1344, 1367, 1371 [EIR legally inadequate where the agency
+
+17 provides conclusory statements in response to experts and other agencies critique over data and
+
+18 methodology used to assess impacts]; People v. County of Kern (1976) 62 Cal.App.3d 761, 772 a
+
+19 response that "all available data" indicates sufficient groundwater supplies held insufficient where
+the agency fails to identify said data].)
+
+20 33.
+
+21 Petitioners have no plain, speedy, or adequate remedy at law other than the relief
+
+22 sought in this Petition. If the City persists in its refusal to rescind the Project Approvals, and if
+
+23 City and Real Parties are not enjoined or stayed from undertaking acts in furtherance of the
+
+24 Project, Petitioners and the public will suffer irreparable harm from which there is no adequate
+
+25 remedy at law in that the Project will be built in violation of CEQA, operations commence and
+
+26 significant adverse impacts on the environment would occur, contrary to State and local law.
+
+/1 /
+
+27
+
+28
+-13-
+
+VERIFIED PETITION FOR WRIT OF MANDATE, COMPLAINT FOR INVALIDATION, INJUNCTIVE, DECLARATORY RELIEF
+
+- SECOND CAUSE OF ACTION
+
+2
+
+3 (Writ of Mandate and Administrative Mandamus - Code Civ. Proc. §§ 1085, 1094.5 -
+Violations of City Code)
+
+4 34.
+
+5 35. Petitioners restate and reallege Paragraphs 1-33 as if fully set forth herein.
+
+are
+
+6 Actions involving quasi-judicial zoning approvals, such as the case here,
+
+7 subject to an abuse of discretion standard, which is established when the local agency: (a) has not
+
+8 proceeded in the manner required by law; (b) the decision is not supported by findings; and/or (c)
+the evidence does not support the findings. (See Code Civ. Proc. § 1094.5.)
+
+9 36.
+
+10 While planning agencies enjoy some discretion interpreting their zoning laws,
+
+11 "deference has limits" and courts are not bound by unreasonable interpretations contrary to the
+
+12 plain language of regulations and statutes. (Orange Citizens for Parks & Recreation v. Superior
+
+13 Court (2016) 2 Cal.5th 141, 146, 156-157 [rejecting attempts to "downplay the facial
+
+14 inconsistency," Court held city abused its discretion finding residential project consistent with
+
+15 general plan designation where "no reasonable person could conclude that the Property could be
+
+16 developed without a general plan amendment"]; see also Stolman v. City of Los Angeles (2003)
+
+17 114 Cal.App.4th 916, 928-930 [vacating variance based on zoning administrator's interpretation
+contradicted by the plain language of the municipal code].)
+
+18 37.
+
+19 Here, the City failed to support Code required findings for the Entitlements with
+
+20 substantial evidence. (See Topanga Assn. for a Scenic Community v. County of Los Angeles
+
+21 (1974) 11 Cal.3d 506, 515 [this inquiry may not be perfunctory or mechanically superficial, but
+
+22 requires the agency to "set forth findings to bridge the analytic gap between the raw evidence and
+
+23 ultimate decision or order"]; see also West Chandler Boulevard Neighborhood Assn. v. City of
+
+24 Los Angeles (2011) 198 Cal.App.4th 1506, 1522 [city abused its discretion when it "acted on
+
+25 evidence not in the record" where the "conclusory findings did not show how the city council
+
+26 traveled from evidence to action"].) In particular, the PUD and SPR findings do not characterize
+
+27 and address inconsistencies with the City's General Plan and other applicable provisions of the
+
+28 Code. There is no discussion whether the Project harms the City's ability to meet its RHNA
+
+- 14-
+
+VERIFIED PETITION FOR WRIT OF MANDATE, COMPLAINT FOR INVALIDATION, INJUNCTIVE, DECLARATORY RELIEF
+
+1 housing obligations or complies with the "No Net Loss Law" in Gov. Code § 65863 that requires §
+
+2 adequate housing sites be maintained through the planning period. By rezoning the property from
+
+3 R-1 to PUD, the City violates various City General Plan goals, objectives, and policies, such as
+
+4 utilizing General Plan-designated IW designated properties such as the Project Site for "some
+
+5 higher density residential that are appropriate for major entertainment and tourism destinations."
+
+6 (See City General Plan, pp. 2-24 - 2-25 [e.g., policies LU-1.5, LU-IMP-1C, and LU-2.1].)
+
+7 Similarly, there is no discussion how this Project is consistent with the City's Housing Element,
+
+8 which calls for over 19,000 units needed and the City to play "a key role in promoting sites for
+
+9 future development." (See City Housing Element, pp. 12-31, 12-116 [see also Goal H-3 and
+
+10 associated policies], p. 12-124 [Program 8].) Here, the City is not considering any housing
+
+11 component for this Site-which is inconsistent with its General Plan designation (i.e., IW) and
+
+12 does nothing for the City's RHNA obligations. All these issues cut against Code-required
+
+13 findings necessary to grant the SPR and PUD. (See e.g., GGMC §§ 9.32.030-D.3.b &
+
+14 9.12.030.02-F.)
+
+15 38. Petitioners have no plain, speedy, or adequate remedy at law other than the relief
+
+16 sought in this Petition. If the City persists in its refusal to rescind the Project Approvals, and if
+
+17 City and Real Party are not enjoined or stayed from undertaking acts in furtherance of the Project,
+
+18 Petitioners and the public will suffer irreparable harm from which there is no adequate remedy at
+
+19 law in that the Project will be built in violation of the GGMC, operations commence and
+
+20 significant adverse impacts on the environment would occur, contrary to governing law.
+
+21 THIRD CAUSE OF ACTION
+
+22 (Reverse Validation Action, Writ and Declaratory and Injunctive Relief Under Mandamus
+
+23 Code Civ. Proc. §§ 860, 863, 1060 - Invalidating Contracts and Agreements)
+
+24 39. Petitioners restate and reallege Paragraphs 1-39 as if fully set forth herein.
+
+25 40. Pursuant to Code Civ. Proc. §§ 860 and 863, Petitioners seek to invalidate each of
+
+26 the authorizations, actions, determinations, findings, and Project Approvals, including the
+
+27 Entitlements, MND, disposition or sale of 12291 and 12311 Thackery Drive, DDA for sale or
+
+28
+-15-
+
+VERIFIED PETITION FOR WRIT OF MANDATE, COMPLAINT FOR INVALIDATION, INJUNCTIVE, DECLARATORY RELIEF
+
+1 development of 3.72 acres, and all Project Approvals to Real Parties in furtherance of the Project
+
+2 for the reasons set forth in this Petition/Complaint.
+
+3 41. As required by Code Civ. Proc. § 860, this action has been filed within 60 days
+
+4 after the City's final approval of the Project Approvals and therefore is timely. Pursuant to the
+
+5 Validation statutes, Code Civ. Proc. § 1060, and other provisions of the law, Petitioners request
+
+6 that each of the unlawful Project Approvals made by one of more of the Respondents be
+
+7 invalidated; that this Court issue one or more peremptory writs of mandamus ordering the Board
+
+8 or Agency to rescind, set aside and invalidate all or part of the unlawful Project Approvals as
+
+9 proven at trial or hearing on this matter; and request that the Court issue a temporary restraining
+
+10 order, a preliminary injunction, and a permanent injunction, all enjoining Respondents and its
+
+11 agents, servants, and employees, and subdivisions from proceeding with the Project Approvals
+
+12 absent Respondents' full compliance with legal requirements under State and local laws.
+
+13 PRAYER FOR RELIEF
+
+14 WHEREFORE, Petitioners pray for the following relief:
+
+15 1. That the Court enters a peremptory writ of mandate ordering the City to set aside
+
+16 and void the Project Approvals, pending the City's full compliance with the GGMC, State law,
+
+17 and all other applicable land use laws and regulations, and CEQA, including preparation of
+
+18 appropriate CEQA documentation and zoning findings.
+
+19 2. That the Court issue a temporary stay, stay, temporary restraining order, and/or
+
+20 preliminary injunction ordering the City, Real Parties, and (its) their agents and successors to
+
+21 refrain from proceeding with the Project and issuing further Project permits while this Petition is
+
+22 pending.
+
+23 3. That the Court issue a permanent injunction ordering the City and Real Parties to
+
+24 refrain from proceeding with the Project pending the City's full compliance with the GGMC,
+
+25 State law, and all other applicable land use laws and regulations, and CEQA, including
+
+26 preparation of appropriate CEQA documentation and zoning findings.
+
+27
+
+28
+-16-
+
+VERIFIED PETITION FOR WRIT OF MANDATE, COMPLAINT FOR INVALIDATION, INJUNCTIVE, DECLARATORY RELIEF
+
+1 4. That the Court finds each of the unlawful Project Approvals and/or actions made
+
+2 by one or more of the Respondents be invalidated as provided by Code Civ. Proc. § 860 et seq.
+
+3 and other provisions of law; and
+
+4 5. For other and further relief as the Court finds proper under the Code of Civil
+
+5 Procedure.
+
+6
+
+7 DATED: September 22, 2022 LAW OFFICE OF GIDEON KRACOV
+
+8
+
+o
+
+10 By:
+JORDAN SISSON
+11 Attorney for PETITIONERS
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+-17-
+
+VERIFIED PETITION FOR WRIT OF MANDATE, COMPLAINT FOR INVALIDATION, INJUNCTIVE, DECLARATORY RELIEF
+
+1 I, Ada Briceño, have read the VERIFIED PETITION FOR WRIT OF MANDATE and
+
+2 COMPLAINT and know its contents. The matters stated therein are true to my own knowledge
+
+3 and belief, except as stated on information and belief, and to those matters I believe them to be
+
+4 true. declare under penalty of perjury under the laws of the State of California that the foregoing
+
+5 IS true and correct.
+
+6 Executed on September 22, 2022, at Los Angeles County, California.
+
+7
+
+8 By: Ada Azo cuno
+Ada Briceño, on behalf of Petitioner
+9 UNITE HERE Local 11
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+-18-
+
+VERIFIED PETITION FOR WRIT OF MANDATE, COMPLAINT FOR INVALIDATION, INJUNCTIVE, DECLARATORY RELIEF
+
+EXHIBIT A
+
+GK LAW Jordan R. Sisson
+801 South Grand Avenue, 11th Floor
+Los Angeles, California 90017
+Direct: (951) 542-2735
+LAND USE, ENVIRONMENTAL & MUNICIPAL LAWYERS Fax: (213) 623-7755
+E-mail: jordan@gideonlaw.net
+www.gideonlaw.net
+September 21, 2022
+
+VIA US MAIL and EMAIL:
+
+City of Garden Grove
+c/o City Clerk's Office (cityclerk@ggcity.org) Andrea Vital, City Clerk's Office (andreav@ggcity.org) Maria Parra, Senior Planner (mariap@ggcity.org) Liz Vasquez, MPA (lizv@ggcity.org)
+11222 Acacia Parkway
+Garden Grove, California 92840
+
+RE: NOTICE INTENT TO SUE UNDER CALIFORNIA ENVIRONMENTAL QUALITY ACT
+SITE B2 HOTEL PROJECT & DISPOSITION OF PUBLIC LAND
+PUD-141-01, SP-107-2022, SV-002-2022& IS/MND (SCH No. 2022060174)
+ITEM 4A, COUNCIL MEETING AUGUST 23, 2022
+ITEMS 3A - 3D & 5A, CITY COUNCIL MEETING SEPTEMBER 13,2022
+ITEM 3A, SUCCESSOR AGENCY MEETING SEPTEMBER 13,2022
+ITEM 2A, SPECIAL HOUSING AUTHORITY MEETING SEPTEMBER 13,2022
+
+Dear Hon. Mayor and City Councilmembers:
+On behalf of Petitioners Garden Grove residents Marlene Perez and Maria Guadalupe Ortiz, and UNITE HERE Local 11 ("Local 11") ("Petitioners"), this letter is provided to the CITY OF GARDEN GROVE; CITY OF GARDEN GROVE AS SUCCESSOR AGENCY TO THE AGENCY FOR
+COMMUNITY DEVELOPMENT and GARDEN GROVE HOUSING AUTHORITY ("City") in accordance
+with Pub. Res. Code § 21167.5.
+
+Please take notice that pursuant to Pub. Res. Code § 21167, Petitioners will file a Petition for
+Writ of Mandate ("Petition") challenging the City's approval referenced above of the B2 Site 500- room, 23-story hotel with the 600-seat Nick Studio theater ("Project") at the 3.72-acre site at the
+northwest corner of Harbor Boulevard and Twintree Avenue including 11261, 12241, 12271, 12291, 12311 and 12323 Harbor Boulevard and 12246, 12252, 12262, 2282, 12292, 12312, 12322, 12251, 12261, 12281, 12291, 12311 and 12321 Thackery Drive ("Site") in the City.
+Specifically, on September 13, 2022, the City finally approved the following actions challenged herein for the Project including but not limited to: Planned Unit Development No. PUD- 141-01(A), Site Plan Review No. SP-107-2022, and Street Vacation No. SV-002-2022 (collectively "Entitlements"); Mitigated Negative Declaration (SCH No. 2022060174) ("MND") under the California Environmental Quality Act Pub. Res. Code § 21000 et seq. ("CEQA"); disposition or sale of City-owned land 12291 and 12311 Thackery Drive; and a Disposition and Development Agreement ("DDA") for sale and development of 3.72 acres of City land (collectively "Approvals") to Real Parties in Interest applicant Newage Garden Grove II, LLC and Kam Sang Company ("Real Parties").
+
+RE: B2 Hotel Project & Disposition of Public Land
+September 21, 2022
+Page 2 of 2
+
+Petitioners will allege that the City abused its discretion by approving all the Entitlements, the MND, and all the Project Approvals including but not limited to the sale or disposition of City- owned land and the DDA.
+
+In particular, the City throughout the approval process failed to support its CEQA analysis and land-use findings for the Project Approvals as required by law. Because a MND was used for the Project's environmental review, instead of a more comprehensive environmental impact report ("EIR"), the Project is subject to the less deferential "fair argument" standard, which requires a lead agency to prepare an EIR whenever substantial evidence in the record supports a fair argument that a project may have a significant effect on the environment. Pub. Res. Code §§ 21100, 21151; Laurel Heights Improvement Ass'n v. Regents of the Univ. of Cal. (1993) 6 Cal.4th 1112, 1123. This is very large Project not appropriate for a MND. There is a "fair argument" here of the Project's significant impacts to transportation and vehicle miles traveled ("VMT"), air quality, land use and greenhouse gas emissions ("GHG") and an EIR must be prepared. Moreover, the MND should have been recirculated under CEQA when new information and GHG thresholds were added at the last minute by the City Council. So too, the August 24, 2022 CEQA Notice of Determination filed by the City was premature and invalid because it was filed before any of the Project Approvals were final. Also, the MND lacks all feasible, appropriate and enforceable mitigation as CEQA requires.
+Petitioners will seek to have the Project Approvals and CEQA environmental approvals enjoined and set aside, along with such other relief as the Court deems proper.
+
+Sincerely,
+
+LAW OFFICE OF GIDEON KRACOV
+
+Jordan R. Sisson
+Attorney for Petitioners
+
+CADENENE RCIM
+
+1 PROOF OF SERVICE
+
+2 I. Gideon Kracov, being duly sworn, deposes and says:
+
+3 am a citizen of the United States and work in Los Angeles County, California. I am over the
+
+4 age of eighteen years and am not a party to the within entitled action. My address is: 801 S. Grand Av., 11th Fl., Los Angeles, CA 90017. On 9/21/22, I served this list of persons with the
+
+5 following document(s):
+NOTICE INTENT TO SUE UNDER CALIFORNIA ENVIRONMENTAL QUALITY ACT 6 SITE B2 HOTEL PROJECT & DISPOSITION OF PUBLIC LAND
+
+7 The document(s) was served on:
+
+8 City Of Garden Grove
+
+9 City Clerk's Office (Cityclerk@Ggcity.Org) Andrea Vital, City Clerk's Office (Andreav@Ggcity.Org)
+10 Maria Parra, Senior Planner (Mariap@Ggcity.Org) Liz Vasquez, MPA (Lizv@Ggcity.Org)
+
+11 11222 Acacia Parkway Garden Grove, California 92840
+
+12 X By placing a true copy thereof enclosed in a sealed envelope, with postage thereon fully
+13 prepaid, in the United States Post Office mailbox at 801 S. Grand Av., Los Angeles, California 90017, addressed as set forth above. I am readily familiar with my firm's
+14 practice of collection and processing correspondence for mailing. It is deposited with the U.S. Postal Service on the same day in the ordinary course of business. am aware
+
+15 that on motion of party served, service is presumed invalid if postal cancellation date of postage meter date is more than 1 day after date of deposit for mailing in affidavit.
+16 X By transmitting via electronic mail the document(s) listed above to the e-mail addresses
+
+17 set forth herein on this date. E-service agreed to pursuant to stipulation signed by all parties.
+
+18
+
+19 By submitting an electronic version of the document(s) to One Legal, LLC through the user interface at www.onelegal.com.
+
+20 Via hand delivery
+
+21
+
+22 Executed this 9/21/22 at Los Angeles, California
+
+23
+
+24 Gideon Kracov
+25
+
+26
+
+27
+
+28
+-1-
+
+PROOF OF SERVICE
+
+- PROOF OF SERVICE
+
+2 I, Jordan Sisson, declare as follows:
+
+3
+
+4 am a citizen of the United States and work in Los Angeles County, California. I am over the age of eighteen years and am not a party to the within entitled action. My business address is: 801 S. Grand
+
+5 Ave., 11th Floor, Los Angeles, California 90017. On_9/28,2022, I served the following document(s):
+NOTICE OF CEQA ACTION
+
+6 The document(s) was served on:
+
+7 Office of the Attorney General
+
+8 c/o Christie L. Vosburg
+California Department of Justice,
+
+q 1300 Street, 15th Floor
+Sacramento, CA 95814
+10 christie.vosburg@doj.ca.gov
+
+11 X VIA U.S. MAIL By placing a true copy thereof enclosed in a sealed envelope, with postage
+
+12 thereon fully prepaid, in the United States Post Office mailbox at P.O. Box 569, Riverside, CA 92502. I am readily familiar with the office's practice of collection and processing
+
+13 correspondence for mailing. It is deposited with the U.S. Postal Service on the same day in the ordinary course of business. I am aware that on motion of party served, service is presumed
+
+14 X invalid if postal cancellation date of postage meter date is more than 1 day after date of deposit for mailing in affidavit.
+
+15 VIA ELECTRONIC SERVICE OR EMAIL by causing a true copy thereof to be electronically delivered to the person(s) or representatives(s) at the email address(es) as stated
+
+16 on the above/attached service list. I did not receive any electronic message or other indication that the transmission was unsuccessful.
+
+17 PERSONAL SERVICE by serving the above-referenced recipient at said address.
+
+18 Executed this Sep. 28 2022 at Los Angeles County, CA
+
+19 By:
+
+20 JORDAN R. SISSON
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+-1-
+
+PROOF OF SERVICE

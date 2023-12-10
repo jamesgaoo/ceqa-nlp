@@ -1,0 +1,1692 @@
+1 Allan B. Cooper (SBN 60862) acooper@ecjlaw.com
+2 Elizabeth (Ellia) Thompson (SBN 247315) ethompson@ecjlaw.com 3 ERVIN COHEN & JESSUP LLP 9401 Wilshire Boulevard, Ninth Floor 4 Beverly Hills, California 90212-2974
+Telephone: (310) 273-6333
+5 Facsimile: (310) 859-2325
+
+6 Attorneys for Petitioner and Plaintiff, SANTA MONICA BAYSIDE OWNERS ASSOCIATION
+
+7
+
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+COUNTY OF LOS ANGELES, SANTA MONICA COURTHOUSE
+
+9 10
+JESSUPu 11 SANTA MONICA BAYSIDE OWNERS Case No.
+ASSOCIATION,
+12 VERIFIED PETITION FOR WRIT OF
+7 Petitioner and Plaintiff, MANDATE TO SET ASIDE ACTIONS
+13 TAKEN IN VIOLATION OF THE
+NEHOO NIAS3 V. CALIFORNIA ENVIRONMENTAL
+14 QUALITY ACT (PUBLIC RESOURCES
+
+15 CITY OF SANTA MONICA, CALIFORNIA CODE § 21000, et seq.); VIOLATION OF THE CALIFORNIA COASTAL ACT
+COASTAL COMMISSION, and DOES 1 (PUBLIC RESOURCES CODE §30000, et
+16 through 10, inclusive, seq.) AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE
+17 Respondents and Defendants. RELIEF
+
+18 [Code Civ. Proc., §§ 1094.5, 1085; Pub. Res. Code, § 21000, et seq.; Code Civ. Proc., §§ 19 526(a), 10601
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+SANTA MONICA_PWM.6.15.21 1
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+TATT IIATIVE DRI TAR
+
+1 Petitioner and Plaintiff Santa Monica Bayside Owners Association ("Petitioner" or
+2 "SMBOA") seeks relief from the unlawful approval of a Coastal Development Permit by the
+
+3
+
+4 Respondents and Defendants California Coastal Commission ("Commission") and applicant City
+
+5 of Santa Monica ("City") for the demolition of a visitor-serving, six-story public parking garage
+
+6 with 337 parking spaces (Parking Structure #3). This action is brought pursuant to the California
+Environmental Quality Act ("CEQA"; Public Resources Code Section 21000 et seq.) and the
+7 California Coastal Act ("Coastal Act"; Public Resources Code Section 30000 et seq.), as
+
+8 Respondents claim an inapplicable statutory exemption from CEQA, did not perform an adequate
+
+ERVIN COHEN & JESSUP LLP 3 environmental review of the proposed project, and failed to consider substantial evidence
+10 presented by members of the public and Petitioner that this demolition, as approved, will have
+11 significant, unmitigated impacts on the environment and the downtown Santa Monica community.
+12 Petitioner thus requests a writ of mandate and declaratory and injunctive relief under Code of Civil
+13 Procedure Sections 1085 and 1094.5, and alleges as follows:
+
+14 INTRODUCTION
+
+15 1.
+
+16 In an effort to pursue the noble goal of providing more affordable housing, the City
+of Santa Monica ("City") decided in April 2019 to redevelop one of its downtown properties to
+17 accommodate an undefined and unfunded mixed-use project with affordable dwelling units. The
+
+18 problem is that the identified site- -a 30,000 square foot parcel at 1318 & 1320 Fourth Street,
+19 adjacent to the economic juggernaut of the Third Street Promenade--already contains a six-story,
+20 150,000 square foot concrete public parking structure with 337 vehicular spaces, known as
+21 Parking Structure #3. To achieve its ultimate goal, the City apparently feels that it needs to
+22 demolish the heavily-used public facility, which has consistently served Santa Monica residents,
+23 businesses, and beach-going tourists since 1968.
+
+24 2. Prudence, good governance, and the law dictate that demolition of such an
+25 important and integral site in the City's bustling downtown would occur only AFTER robust
+26 public debate and adoption of a plan, including a financial commitment, to execute the
+27 replacement project. Sadly and wrongfully, the City chose not to follow that path. Despite the fact
+28 that a Request for Proposals issued in April 2019 failed to yield a suitable developer for a mixed-
+SANTA MONICA_PWM.6.15.21 2
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+ATYTIATOPIVD DOI IER
+
+1 use project including affordable housing on the site, the City continued to pursue demolition in a
+2 vacuum. It hired a civil engineer in July 2019 to prepare demolition plans, and ultimately
+
+3 submitted a complete application to the California Coastal Commission ("Commission") for the
+4 required Coastal Development Permit ("CDP") in November 2020.
+
+5 3. However, at no point in its dogged pursuit of demolition did the City conduct any
+
+6 outreach or public hearings specifically to consider whether the residents and businesses of Santa
+
+7 Monica thought demolition of Parking Structure #3 was a good idea. Indeed, there has been no
+
+8 discussion by the City with businesses that rely on this particular parking structure about how the
+9 proposed demolition impacts their operations and long-term viability. After enduring nearly 14
+mdnssar g N3HOD ERVIN 10 months of governmental restrictions due to the COVID-19 pandemic, local businesses continue to
+11 face precarious financial circumstances, and property owners regularly confront the difficulty of
+12 leasing vacant commercial space (made even more challenging without the prospect of available
+13 parking due to the City's actions).
+
+14 4. Ignoring the community's and downtown area businesses' concerns, the City
+15 insisted on framing the proposed project as only about providing affordable housing-without a
+16 project having been approved or even determined to be feasible, and in the face of the results of its
+17 a Request for Proposal's having provided a strong indication that such a project is not feasible. Yet
+18 the City sought to secure the Commission's approval only for demolition, even though that
+19 activity and development of the mixed-use affordable housing project are inextricably intertwined;
+
+20 put differently, there was and is no reason or basis to demolish Parking Structure #3 unless and
+21 until there is a feasible project ready to replace it. Over the objections of the Petitioner and several
+
+22 residents and business owners, who challenged not only the necessity and urgency of the proposed
+23 demolition, but also the project's inadequate environmental review, the Commission approved the
+24 City's CDP application on May 13, 2021.
+
+25 5. With no other option, Petitioner filed the instant petition to overturn to the
+26 Commission's unlawful project approval. In particular, Petitioner challenges the City's approach
+
+27 to satisfying the CDP's environmental review requirements dictated by the California
+28 Environmental Quality Act ("CEQA") for two reasons: (1) the City has improperly claimed that
+SANTA MONICA_PWM.6.15.21
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+TATITIAICTIVD DRE TRD
+
+the demolition project qualifies for a statutory exemption as ministerial action, and (2) the City's
+segmenting or "piecemealing" of the project into two projects-demolition and the affordable
+3 housing project-is explicitly prohibited by statute. Moreover, the Commission's approval runs
+
+4
+
+5 counter to established Coastal Act policies ensuring public access to coastal resources.
+
+6.
+
+6 The truth is that the City has purposefully evaded the basic requirements for
+
+7 environmental review in order to push through an unapproved, speculative, infeasible and
+undefined mixed-use affordable housing project. Throughout this process, the City has blatantly
+8 | disregarded the interests and will of the public, including the thousands of residents, businesses,
+
+9
+
+ERVIN COHEN & JESSUP LILP 6 and visitors who regularly rely on Parking Structure #3 to serve as their everyday access to the
+10| beach, shops, restaurants, and offices in the bustling downtown area. The City's unnecessary drive
+11 to demolish Parking Structure #3 now-without an actual plan, developer, or funding in place for
+12 the mixed-use affordable housing project to follow-is premature and would invariably leave an
+13 irreparable, gaping hole in the downtown streetscape. Because the City and Commission abused
+14 their discretion in approving the proposed demolition, and the decision is not supported by
+15 adequate findings, the CDP must be set aside.
+
+16 THE PARTIES
+
+17 7. Petitioner and Plaintiff, SANTA MONICA BAYSIDE OWNERS ASSOCIATION,
+18 is a California nonprofit 501c(3) organization duly formed under the laws of the State of
+19 California. SMBOA is composed of commercial property owners, business owners, and residents
+20 | who are concerned about the current state of the downtown area of Santa Monica as well as its
+21 future viability. The members of the organization participated in the administrative process before
+22 the Commission and submitted written and oral comments to the Commission and the City of
+23 Santa Monica during the administrative process. Petitioner's members are residents and taxpayers
+24  of the City of Santa Monica and are filing this action as private attorneys general.
+
+25 8. As residents, property and business owners, and visitors to the Santa Monica
+26 coastal area, Petitioner and its members have been injured as a result of the Respondents' actions
+27 approving the demolition of Parking Structure #3. Respondents' actions adversely affect the
+28 safety, environmental, aesthetic and economic interests of Petitioner and Petitioner's members.
+SANTA MONICA_PWM.6.15.21
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INTI INOTIVE DII TRR
+
+The interests of Petitioner's members have been and will continue to be adversely affected by
+2 Respondents' unlawful actions in violation of the California Coastal Act ("Coastal Act"),
+3 California Environmental Quality Act ("CEQA") and the Code of Civil Procedure ("CCP"). The
+
+4.
+
+5 relief sought in this Petition would redress Petitioner and Petitioner's injuries.
+
+9. Respondent and Defendant CITY OF SANTA MONICA (the "City") is the public
+6 governmental entity serving the people of the City of Santa Monica.
+
+7 10.
+
+8 Respondent and Defendant CALIFORNIA COASTAL COMMISSION is a
+regulatory agency of the State of California and the government agency charged by law with
+
+NEHOO NIA83 mdnssar 9 administering the provisions of the California Coastal Act, Public Resources Code Section 30000
+10 et seq. and regulating the administration of the City of Santa Monica's Local Coastal Program.
+
+11 11. Petitioner does not know the true names or capacity of the persons or entities sued
+
+us 12 herein as Does through 5, and therefore sues these respondents by fictitious names. Petitioner
+13 will amend the Petition to set forth names and capacity of said respondents along with appropriate
+14 charging allegations when the same have been ascertained.
+
+15
+
+16 JURISDICTION AND VENUE
+
+12. This Court has original jurisdiction over this matter pursuant to Article VI, Section
+17 10 of the California Constitution and Sections 1085 and 1094.5 of the California Code of Civil
+18 Procedure, as well as California Public Resources Code § 21000.
+
+19 13. Venue is proper pursuant to Code of Civil Procedure Sections 394 and 395 in that
+20 Respondents are government entities or agents of the City of Santa Monica and the State of
+21 California, this matter relates to subject property located within, and discretionary, quasi-judicial,
+22 administrative and ministerial actions were decided within this Court's jurisdiction, and this is the
+23 area in which some or all of the parties reside.
+
+24
+
+25 EXHAUSTION OF REMEDIES
+
+14. Petitioner, as well as other parties, provided written objections and presented its
+26 opposition during the only public hearing the Commission's May 13, 2021 meeting-on the
+27 proposed approval of the CDP. Specifically, Petitioner challenged the proposed CDP because the
+28 City's application violated CEQA and the California Coastal Act on all grounds raised herein.
+SANTA MONICA_PWM.6.15.21
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+IMTINATIUR DEY IRR
+
+1 Petitioner has exhausted all available administrative remedies, and objections to the demolition
+2 have been presented orally and in writing to the Respondents.
+
+3 15. Petitioner provided the City with notice that it intended to commence this action, in
+
+4 compliance with California Public Resources Code Section 21167.5. A true and correct copy of
+5 Petitioner's Notice to the City and its proof of service is attached as Exhibit A and incorporated
+
+6 herein by this reference.
+
+7 16. Petitioner has complied with the requirements of California Public Resources Code
+8 .Section 21167.7 and California Code of Civil Procedure Section 388, by mailing a copy of the
+Petition/Complaint and an accompanying Notice to the Attorney General. Proof of service of the
+
+3 10 Verified Petition for Writ of Mandate and Complaint for Injunctive and Declaratory Relief on the
+JESSUP 11 Attorney General is attached hereto as Exhibit B and is incorporated herein by this reference.
+
+12 17. Petitioner has no adequate remedy at law unless this Court grants the requested writ
+
+4g
+NIHOO NIA83 13 of mandate requiring Respondents to set aside their approvals of a Coastal Development Permit
+14 for the demolition of Parking Structure #3. In the absence of such remedy, Respondents' approval
+15 will remain in effect in violation of State law, and Petitioner will suffer irreparable harm because
+16 of significant adverse impacts on coastal resources generated by the Project that will not have been
+17 properly analyzed under the Coastal Act and CEQA.
+
+18 18. Petitioner has satisfied each and every exhaustion-of-remedies requirement that
+19 must be satisfied in order to maintain this action. In particular:
+
+20 A. The violations of law challenged in this action were identified for
+21 Respondents orally and in writing by Petitioner, as well as representatives for Petitioner and other
+22 private citizens prior to the close of the public hearing on the CDP Application, as required by
+23 Public Resources Code Section 21177, subdivision (a).
+
+24 B. Petitioner objected to the CDP's approval prior to the close of the
+25 Coastal Commission's public hearing on the CDP Application, as required by Public Resources
+26 Code section 21177, subdivision (b).
+
+27 C. No further appeals were available and Respondents' CDP Approvals
+28 are now final.
+SANTA MONICA_PWM.6.15.21 6
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+TATTE MIAVPITIT OPT 1DD
+
+19, This petition is timely filed in accordance with Public Resources Code section
+21167 and Title 14 of the California Code of Regulations Section 15112.
+
+STANDING
+
+20. Petitioner has standing a as a party beneficially interested in the issuance of the
+5 requested writ of mandate because the demolition of Parking Structure #3, as alleged more
+6 specifically herein, will have significant adverse impacts on the Petitioner's members and others
+
+7
+
+8 represented by Petitioner who live, work, and/or own property in the downtown Santa Monica
+
+9 coastal area, as well as the general public. Petitioner has a beneficial interest in Respondent's
+
+ERVIN COHEN & JESSUP LLP 10 fulfillment of all their legal duties, as alleged in this pleading.
+STATUTORY SCHEME
+
+11 California Environmental Quality Act
+
+12 21. The California Environmental Quality Act ("CEQA"), Public Resources Code
+13 Section 21000 et seq., establishes a comprehensive scheme to provide long-term protection of the
+14 environment and notify the public of a project's potential impacts on the environment. It
+15 prescribes review procedures a public agency must follow before approving or carrying out certain
+16 .projects. (Pub. Resources Code, § 21000 subd. (a).)
+
+17 22. CEQA must be interpreted in such a manner as to afford the fullest possible
+18  protection to the environment within the reasonable scope of the statutory language. Code of
+19 Regulations Section 15000-15387 ("State CEQA Guidelines), Section 15378 defines a "Project"
+
+20 as "the whole of an action, which has a potential for resulting in either a direct physical change in
+a 21 the environment, or a reasonably foreseeable indirect physical change in the environment, and that
+
+22 is any of the following:
+
+23
+
+24 (1) An activity directly undertaken by any public agency including but not limited to
+
+25 public works construction and related activities clearing or grading of land, improvements
+
+26 to existing public structures, enactment and amendment of zoning ordinances, and the
+
+27 adoption and amendment of local General Plans or elements thereof pursuant to
+
+Government Code Sections 65100-65700.
+
+28
+SANTA MONICA PWM.6.15.21
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+TATIT INATID D DT YED
+
+(2) An activity undertaken by a person which is supported in whole or in part through
+public agency contracts, grants, subsidies, loans, or other forms of assistance from one or
+more public agencies.
+(3) An activity involving the issuance to a person of a lease, permit, license, certificate, or
+other entitlement for use by one or more public agencies."
+
+23. Since the Act only applies to projects of a discretionary, rather than a ministerial
+7 character (Pub. Resources Code § 21080), doubts whether a project is discretionary or ministerial
+8 should be resolved in favor of a finding that it is discretionary. If a project approval features both
+
+9
+
+ERVIN COHEN & JESSUP LLP 425 ministerial and discretionary elements, the project is deemed discretionary and subject to CEQA
+10 review (CEQA Guidelines, § 15268, subd. (d).)
+
+11 24. CEQA is not merely a procedural statute; it imposes clear and substantive
+12 responsibilities on agencies that propose to approve projects, requiring that public agencies not
+13 approve projects that harm the environment unless and until all feasible mitigation measures are
+14 employed to minimize the harm. (Pub. Resources Code, §§ 21002; 21002.1 subd. (b).)
+15 25. Failure to either comply with the substantive requirements of CEQA or to carry out
+16 the full CEQA procedures so that complete information as to a project's potential or actual
+17 impacts is developed and publicly disclosed constitutes a prejudicial abuse of discretion that
+18 requires invalidation of the public agency action regardless of whether full compliance would have
+19 produced a different result. (Pub. Resources Code, § 21005.)
+
+20 26. In order to be considered ministerial, a decision must be one that an administrative
+21 agency itself is forced to follow pursuant to a standard fixed by a statute or ordinance; it cannot be
+22 based upon a standard that the agency exercised its own discretion to create and which it possesses
+23 the discretion to modify or ignore. Thus, formal and informal policies established by a city, by
+24 which it approves building permits for construction projects, does not convert discretionary
+25 decisions involved in the approval process for a major construction (or demolition) project to
+26 ministerial ones within the meaning of Pub. Resources Code, § 21080, which provides that CEQA
+27 applies only to discretionary, not ministerial, projects.
+
+28 ///
+SANTA MONICA_PWM.6,15.21 8
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+TNTIAOTIVD DRT TOD
+
+27. A "discretionary" act or decision is one that "requires the exercise of judgment or
+2 deliberation when the public agency or body decides to approve or disapprove a particular activity,
+3 as distinguished from situations where there has been conformity with applicable statutes,
+4| ordinances, or regulations." (CEQA Guidelines § 15357.)
+
+5 28. A "ministerial" decision is one "involving little or no personal judgment by the
+6 public official as to the wisdom or manner of carrying out the project." A ministerial act or
+
+7 decision involves only the use of fixed standards or objective measurements, and the public
+
+8 official cannot use personal, subjective judgment in deciding whether or how the project should be
+
+9 carried out. (CEQA Guidelines § 15369.)
+
+d1dnssar9 NIHOO NIAN3 10 29. Agencies may not undertake actions that could have a significant adverse effect on
+11 the environment, or limit the choice of alternatives or mitigation measures, before complying with
+12 CEQA. (14 Cal. Code Regs., § 15004(b)(2).) The "lead agency," which is the public agency that
+
+13 has the principal responsibility for carrying out the project, is responsible for conducting an initial
+14 study to determine, in consultation with other relevant state agencies, whether an environmental
+15 impact report, a negative declaration, or a mitigated negative declaration will be prepared for a
+16 project. (Pub. Resources Code, §§ 21067; 21080.1, subd. (a); 21083.3, subd. (a).)
+
+17 30. The Guidelines require "all phases of project planning, implementation, and
+18 operation" to be considered in the Initial Study for a project. (14 Cal. Code Regs., § 15063(a)(1).)
+19 CEQA defines a project as "the whole of an action, which has a potential for resulting in either a
+20 direct physical change in the environment, or a reasonably foreseeable indirect physical change in
+21 the environment." (14 Cal. Code Regs., § 15378(a).)
+
+22 31. An EIR must be prepared "i]f there is substantial evidence, in light of the whole
+23 record before the lead agency, that the project may have a significant effect on the environment..."
+24 (Pub. Resources Code, § 21080 subd. (d).) That is, an EIR must be prepared "if a lead agency is
+25 presented a with a fair argument that a project may have a significant effect on the environment
+26 even though it may also be presented with other substantial evidence that the project will not have
+
+27 a significant effect." (14 Cal. Code Regs., § 15064(f)(1).)
+
+28 ///
+SANTA MONICA_PWM.6.15.21 9
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+TATITINIOTIUE DOT T2E
+
+32. Under certain circumstances, the public agency evaluating a proposed project may
+2. find that an EIR is not required. In such cases, the agency may adopt a negative declaration
+3 ("ND") or a mitigated negative declaration ("MND"). A negative declaration may be prepared and
+
+4
+
+5 adopted for a proposed project that "will not have a significant effect on the environment and does
+
+6 not require the preparation of an environmental impact report." (Pub. Resources Code § 21064.)
+An MND may be prepared or adopted when "revisions in the project plans ... would avoid the
+7 effects or mitigate the effects to a point where clearly no significant effect on the environment
+8 would occur" and "there is no substantial evidence in light of the whole record before the public
+
+ERVIN COHEN & JESSUP LLP 9 agency that the project, as revised, may have a significant effect on the environment." (Pub.
+10 Resources Code § 21064.5.) If neither of these conditions applies to the project in question, the
+11 agency must prepare an EIR.
+12 33. A negative declaration must contain: (1) a description of the project; (2) the
+13 location of the project; (3) a proposed finding that the project does not have a significant
+14 environmental impact; (4) a copy of the initial study documenting the reasons to support the
+15 finding; and (5) mitigation measures, if any, incorporated into the project. (14 Cal. Code Regs., §
+16 15071.)
+
+17 34. Because informing the public about the potential and actual environmental impacts
+18 of a proposed project is a critical function of CEQA, any proposed mitigation measures in the
+19 MND must be made available for public review and comment prior to the adoption of the MND.
+20 •(Pub. Resources Code § 21081.6(c).)
+
+21 California Coastal Act
+
+22 35. The California Coastal Act ("Coastal Act"), Public Resources Code § 30000 et
+23 seq., specifically states one of its primary goals is to "maximize public access to and along the
+24 coast and maximize public recreational opportunities in the coastal zone consistent with the sound
+25 resources conservation principles and constitutionally protected rights of private property owners."
+26 (Pub. Resources Code § 30001.5(c).)
+
+27 36. The Coastal Act also specifies that "Wherever appropriate and feasible, public
+28 facilities, including parking areas or facilities, shall be distributed throughout an area so as to
+SANTA MONICA_PWM.6.15.21 10
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+TATTT IAIATIUE DET TUE
+
+1 mitigate against the impacts, social and otherwise, of overcrowding or overuse by the public of
+2 any single area." (Pub. Resources Code § 30212.5)
+
+3 37. As with other Coastal Act policies, the Coastal Commission has discretion to
+4 determine adequacy of parking for development in the coastal zone, in determining whether to
+5 issue a coastal development permit. (Pub. Resources Code § 30603)
+
+6
+FACTS
+7
+
+8 38. Since its opening in 1968, Parking Structure #3 at 1318 and 1320 Fourth Street in
+
+9 Santa Monica has been an integral part of the downtown landscape and is vital to the local
+9 10 economy. The 337-space public facility is one of the coastal community's most heavily used 1dnSSar 3 NEHOD ERVIN 11 parking structures, providing visitors, residents, and the beach-going public with easy and
+12 affordable access to the City's bustling commercial core and renowned Third Street Promenade. It
+13 not only provides the City of Santa Monica with a constant source of revenue (approximately
+14 $750,000.00 annually), but also supplies local businesses, many of which have no (or limited) on-
+15 site parking, with essential spaces to directly serve their customers and employees.
+
+16 39. Parking Structure #3 was also an important part of the redevelopment strategy for
+17 downtown Santa Monica in the late 1980s. Originally a two-way driving street, Third Street
+18 Promenade was transformed in 1989 into the City's outdoor, pedestrian-only commercial
+19 thoroughfare by relocating parking in newly constructed garage structures directly east and west of
+
+20 the Promenade. Having abundant public parking nearby was one of the motivating factors for the
+21 property owners to assess themselves and agree to pay for the renovation of the Promenade. Now,
+22 the City unilaterally and indiscriminately seeks to change the successful urban design of the
+23 Promenade by removing 337 critical parking spaces.
+
+24 The City Proposes Demolishing Parking Structure #3 Under the Guise of an Affordable Housing Project 25
+
+26 40. Although the six-story, 150,000 square foot parking facility site has been the
+27 subject of various, private redevelopment proposals over the years, no formal or explicit action has
+28• been taken by the City to demolish the structure itself. The latest proposal, initiated by the City in
+SANTA MONICA_PWM.6,15.21 11
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+TNITIAIOTID DET TOO
+
+1 late 2018, called for the replacement of Parking Structure #3 with a mixed-use affordable housing
+2 project, including permanent supportive housing, and possibly ground-floor commercial uses. In
+
+3 April 2019, the City Council approved release of a Request for Proposals ("RFP") for the
+development of affordable housing on the site, and authorized staff to continue to explore similar
+5 opportunities on other Citÿ-owned properties. The RFP process, which concluded in November
+6 2019, failed to meet its objective, and no developer was selected by the City.
+41. Concurrent with the RFP process, on July 23, 2019, the City Council approved an
+8 item on the consent calendar' to award a $176,000 contract to Walter P. Moore and Associates,
+
+9
+
+ERVIN COHEN & JESSUP LAP 4 Inc. (the only proposer) to prepare plans, specifications, and cost estimates for the "Parking
+10 Structure #3 Demolition Project". In its staff report, the City acknowledged that the only prior
+11 action taken by the City Council was the April 9, 2019 authorization of the affordable housing
+12 RFP. At no time did the City publicly authorize, or solicit input on, the independent demolition of
+13 Parking Structure #3.
+
+14
+
+15 The City Quietly Applies to the California Coastal Commission for a Coastal Development Permit
+
+16 42. In late April 2020, in the midst of the COVID-19 pandemic and after several
+17 months of inaction and no public discussion or engagement with the community about Parking
+18 Structure #3, the City stealthily submitted an application to the Commission for a Coastal
+19 Development Permit ("CDP Application") to demolish the building. The City's project description
+20 stated plainly: "Demolishing of the existing parking structure, capping all utility lines at the
+21 property line, paving the lot or installing crushed rock flush with the adjacent properties, drainage
+22 control (if required), chain link fencing around the property". Specifically, the project included the
+23 permanent removal of 337 parking spaces through the demolition of the six-story, 150,000 square
+24| foot concrete building (the "Project").
+25
+
+26
+
+27 As is the City's practice, items on the consent calendar are approved in a single motion by the City Council. The only opportunity for any public discussion on a consent calendar item occurs when a Councilmember "pulls an 28 |item" for discussion. This item was not "pulled", and therefore approved without any comment or debate.
+SANTA MONICA_PWM.6.15.21 12
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+TNITTINATIVE DRT TRR
+
+43. As part of its CDP Application, the City submitted the requisite Local Agency
+2 Review Form claiming the project does not require a documented CEQA analysis, but rather is
+a 3 subject to a "statutory exemption Section 21080(b)(1) ministerial action". The City made this bare
+
+4 assertion without offering any supporting narrative or analysis, applicable regulations or
+
+5 ordinances, or documents justifying the statutory exemption.
+
+6 44. The CDP Application also included a set of undated plans by Walter P. Moore and
+7 Associates, Inc., the City's Contractor, which documented the proposed demolition. The plans also
+
+8 included an Urban Runoff Drainage Plan Worksheet (but only one of the two pages), as required
+by the City. In response to six preliminary questions, the Contractor acknowledged that the project
+§ dUdnssar  NEHOO NIAdE 10 would have impacts to urban runoff. Per the worksheet, answering yes to any of these questions
+11 requires mitigation. Because the proposed Project will result in 30,000 square feet of impervious
+12 area, the City is required to mitigate 1,875 cubic feet of runoff. Under the City's formula, the in
+:13 lieu fee is calculated as $106,872.94. This mitigation was neither cited in the City's Local Agency
+14 Review Form for its CEQA analysis, nor mentioned in the Commission's Staff Report, dated April
+15 23, 2021.
+
+16 45. On May 26, 2020, Commission staff provided the City with a Notice of Incomplete
+17 Application, indicating that "the project appears to be inconsistent with the public access policies
+18 of the Coastal Act because no information has been provided to demonstrate that there is sufficient
+19 public access/public parking without this structure." The City had submitted with its original
+20 application a copy of the Downtown Parking Program Update from July 21, 2009. Commission
+21 staff required the City to prepare and submit a new parking study that included: (1) Existing
+22 demand and use of the Parking Structure #3 and other public parking within a 3-block radius for
+23 summer and winter, (2) all historical parking surveys for Parking Structure #3, (3) any available
+24 historical parking surveys for the surrounding area within 3 blocks of the structure, and (4) a
+25 parking analysis of the City's Coastal Zone demonstrating that the City's parking demand is
+26 adequately met with the proposed demolition and that the demolition of this structure will not
+27 adversely impact public access.
+
+28
+SANTA MONICA_PWM.6.15,21 13
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INTT INOTIER RAT IRR
+
+1
+
+46. The City Submits a Deficient Parking Study With a New Project Scope
+In response to the Commission's request, the City submitted a parking study
+("Parking Study") dated October 9, 2020 by Walker Consultants purporting to analyze the
+adequacy of the parking supply in downtown Santa Monica and the Coastal Zone if Parking
+5 Structure #3 were demolished. In this study, the City represented to the Commission for the first
+
+6
+
+7 time that it "plans to demolish PS3 to provide affordable housing, including supportive housing,
+with possible small scale, ground floor commercial uses." The Parking Study offered no details,
+8 Il information of analysis about the scope and nature of the anticipated mixed-use affordable housing
+
+8 9 project (e.g., number and size of dwelling units, type and size of commercial uses, number of
+
+7 ERVIN COHEN 'dnssar: 10 parking spaces, etc.). Instead, it speculated, without any articulated basis, that "future
+11 development on the site is anticipated to generate nominal parking demand, be self-parked, or
+12 both" and made what it called "a reasonable assumption that the commercial space would be
+13 locally serving for the local pedestrian traffic and not destination commercial uses that would
+14 generate a material number of additional parked cars, if any." The Parking Study was thus
+15 deficient on its face.
+
+16 47. The Parking Study also relied exclusively on data provided to Walker Consultants
+17 by the City, including information regarding public parking inventory, occupancy, and utilization
+18 between April 2018 and March 2020. The Parking Study concluded that despite the fact that
+19 Parking Structure #3 was one of the highest utilized structures of a dozen in the downtown area,
+20 the loss of the facility's 337 parking spaces could be adequately absorbed by the other city
+21 facilities. In reaching this conclusion, the Parking Study, did not examine or analyze the proximity
+
+22 or accessibility of these other facilities to the users of Parking Structure #3 or the Project's
+23 potential impacts to traffic, circulation, or other land use considerations as a result of the reduced
+24 parking capacity at this particular location.
+
+25
+
+26. 48. The Commission Questions the City's Project Scope and Description
+Not until November 16, 2020 did the Commission deem the City's CDP
+27 Application complete. In fact, even after the Commission staff's determination, it raised questions
+28 about the City's deliberate "unbundling" of the proposed demolition from the anticipated mixed-
+SANTA MONICA_PWM.6.15.21 14
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INITNGTIVR RRT IRR
+
+2 use affordable housing project. City conveniently did not disclose to the Commission that the RFP
+
+3 process had concluded 12 months earlier, and no developer was actually selected by the City.
+49. In response to the Commission's concern about the actual scope of the Project, the
+City offered the following:
+
+5
+
+6 "The parking structure is over 60 years and is at critical point in its serviceable Life.
+
+7 Within the next year or two, the structure would require significant capital investment to
+remain functional and open. Considering that selecting a developer for the housing project
+
+9 and entering into an agreement with them could take 2-3 years, the City was faced with the
+
+à 10 decision of using its limited capital to demolish the structure, or invest in the capital
+
+ERVIN COHEN & JESSUPL 3 11 upgrades. However, knowing that within 2-3 years a developer will begin working on the
+
+12 housing project, investing in the structure did not make financial sense. The City would
+
+13 have spent $2-3M to keep the structure open for an additional year or So, only to have it
+torn down by the developer.
+
+14
+
+15 Further, the City has undertaken a Request for Proposals process to select a developer for
+
+16 the future affordable housing development intended for the site. The RFP indicated that the
+
+17 demolition of the parking garage would be undertaken by the City and the site would be
+
+18 delivered to the developer as unimproved. Obtaining a 'clean' site is an important aspect
+
+19 of redeveloping the site, as developers need to demonstrate 'site control'when competing
+
+20 for affordable housing financing administered by the State. A site with an existing multi-
+
+21 story parking structure represents too much uncertainty with respect to demolition period
+
+22 and soils testing and therefore constrains the feasibility of redeveloping the
+
+23 site. Additionally, when funding is awarded for a development, most public funding
+
+24 programs (such as the California Tax Credit Allocation Committee program) have strict
+
+25 deadlines for completing construction, which would not be able to accommodate the time
+
+26 period associated with demolition of the existing parking structure, which is estimated to
+
+27 take up to a year. Therefore, decoupling the demolition of the parking structure from the
+
+28 construction of the new affor dable housing facilitates the financial feasibility of new
+development.
+SANTA MONICA_PWM.6.15.21 15
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+ITTINOTIVR DHT TR7
+
+After selecting a developer, it's the City's intention that the housing project commence as
+close to completion of the demolition project as possible." (emphasis added).
+
+50. As noted above, the City misrepresented that its search for a developer of a mixed-
+use affordable housing project was current, when in fact its RFP had already been
+
+6 conducted and no developer had come forward and selected. In fact, at the time it
+
+7 submitted the CDP Application, the City had no viable, defined mixed-use affordable
+
+8 housing project, no identified (let alone contracted) developer, no financial commitment
+for any proposed housing project, and no demonstrated urgency to proceed with the
+proposed demolition.
+NEHOO NIA83 d7 dnssar! 10
+
+11 The Commission Approves CDP Application Over the Objections of Individuals,
+
+12 Residents, and Businesses
+
+51.
+
+6% On May 13, 2021, at its regular monthly meeting, the Commission conducted a
+13 public hearing on the City's CDP Application (Application No. 5-20-0248) to demolish Parking
+14 Structure #3. In addition to the Petitioner, several individuals, Santa Monica residents, and local
+15 business owners voiced their opposition to the demolition of Parking Structure #3 noting, among
+16 other things, that the proposed Project failed to comply with CEQA, was inconsistent with the
+17 Coastal Act, and unfairly and unnecessarily impacted local businesses. The few individuals who
+18 expressed support for the CDP Application only commented on the potential provision of
+19 affordable housing. Despite the overwhelming public opposition, and no discussion of the
+20 apparent deficiencies of the Project's CEQA analysis, the Commission approved the CDP
+21 Application. On June 7, 2021, the City filed a Notice of Exemption with the State's CEQA
+22 .Clearinghouse and Office of the Los Angeles County Recorder, noting the exemption pursuant to
+23 Section 21080(b)(1) and Section 15268 because "The project involved demolition of parking
+24 structure #3, which is a ministerial action undertaken by the City."
+
+25 52. Because of the City's deficient Application pursuant to CEQA, and Commission's
+26 improper approval of the CDP Application, Petitioner has no choice but to seek relief by filing the
+27 instant Petition and Complaint. The harm facing Petitioner, as well as other business and property
+28  owners located within close walking distance of Parking Structure #3, employees of those
+SANTA MONICA_PWM.6.15.21 16
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+TATTT INIOTIVA RAT IRR
+
+1 businesses, and visitors to the Third Street Promenade and downtown coastal area is irreparable
+2 and substantial given that the City intends to demolish all 337 spaces immediately with no
+3 replacement parking for the businesses and people who rely heavily on it daily. Furthermore,
+4 although Petitioner and other Santa Monica residents and business owners stated their concerns
+
+5 regarding key environmental issues - such as air quality concerns from the substantial amounts of
+6 dust that will be generated by the demolition; the possible lack of mitigation of other
+7 environmental contaminants (one of which is mentioned as probable in the City's Parking Study,
+
+8 but not actually studied); the undeniable effect of traffic congestion in the surrounding area due to
+the unmitigated, sudden loss of a heavily used parking garage and presumed redirection of traffic
+B d'dssar 9 NEHOO NIAX3 10 to other parking sites; and the lack of any information whatsoever regarding the intended
+11 development of the site after Parking Structure #3 is demolished - neither the City nor the
+12 Commission bothered to address any of these issues.
+
+13 FIRST CAUSE OF ACTION
+(Violation of California Environmental Quality Act 14 Public Resources Code § 21080(b)(1), California Code of Regulations §15268 and §15369 -
+Statutory Exemption for Ministerial Action) 15
+
+16 53. Petitioner incorporates herein by reference all the allegations contained in
+17 Paragraphs 1 through 52.
+
+18 54.. In California Code of Regulations Section 15000-15387 ("State CEQA
+19 Guidelines), Section 15378 defines a "Project" as "the whole of an action, which has a potential
+20 for resulting in either a direct physical change in the environment, or reasonably foreseeable
+21 indirect physical change in the environment, and that is any of the following:
+
+22 (1) An activity directly undertaken by any public agency including but not limited to
+
+23 public works construction and related activities clearing or grading of land, improvements
+
+24 to existing public structures, enactment and amendment of zoning ordinances, and the
+
+25 adoption and amendment of local General Plans or elements thereof pursuant to
+
+26 Government Code Sections 65100-65700.
+
+27 (2) An activity undertaken by a person which is supported in whole or in part through
+
+28 public agency contracts, grants, subsidies, loans, or other forms of assistance from one or
+SANTA MONICA_PWM.6.15.21 17
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+ININ INOVFTUE DRI IRR
+
+more public agencies.
+(3) An activity involving the issuance to a person of a lease, permit, license, certificate, or
+other entitlement for use by one or-more public agencies.
+
+55. In Public Resources Code Section 21080, CEQA sets forth certain statutory
+exemptions for projects. In particular, Section 21080(b)(1) provides an exemption for "Ministerial
+
+6 projects proposed to be carried out or approved by public agencies."
+
+7 56. In California Code of Regulations Sections 15000-15387 ("State CEQA
+8 Guidelines"), Section 15369 defines "ministerial" as "a governmental decision involving little or
+no personal judgment by the public official as to the wisdom or manner of carrying out the
+
+9 10 project...A ministerial act or decision involves only the use of fixed standards or objective
+JESSUP 11 measurements, and the public official cannot use personal, subjective judgment in deciding
+12 whether or how the project should be carried out. Common examples of ministerial permits
+0D
+NIHOO NIAR3 13 include automobile registrations, dog licenses, and marriage licenses."
+
+14 57. Section 15268 further clarifies the nature and scope of ministerial projects:
+
+15 "(a) Ministerial projects are exempt from the requirements of CEQA. The determination of
+
+16 what is "ministerial" can most appropriately be made by the particular public agency
+
+'17 involved based upon its analysis of its own laws, and each public agency should make such
+
+18 determination either as a part of its implementing regulations or on a case-by-case basis. a
+
+19 (b) In the absence of any discretionary provision contained in the local ordinance or other
+
+20 law establishing the requirements for the permit, license, or other entitlement for use, the
+
+21 following actions shall be presumed to be ministerial:
+
+22 (1) Issuance of building permits.
+
+23 (2) Issuance of business licenses.
+
+24 (3) Approval of final subdivision maps.
+
+25 (4) Approval on individual utility service connections and disconnections.
+
+26 (c) Each public agency should, in its implementing regulations or ordinances, provide an
+
+27 identification or itemization of its projects and actions which are deemed ministerial under
+
+28 the applicable laws and ordinances.
+SANTA MONICA_PWM.6.15.21 18
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INTI IMATIVR RRI TAR
+
+(d) Where a project involves an approval that contains elements of both a ministerial action
+and a discretionary action, the project will be deemed to be discretionary and will be
+subject to the requirements of CEQA."
+
+58.
+
+5 At the agency's regular meeting on May 13, 2021, the Commission approved the
+City's CDP Application, which included a Local Agency Review Form claiming the Project does
+6 not require a documented CEQA analysis, but rather is subject to a "statutory exemption Section
+7 21080(b)(1) ministerial action". The City made this bare assertion without offering any supporting
+
+8 analysis, applicable regulations or ordinances, or documents justifying the statutory exemption. In
+
+ERVIN z COHEN & JESSUP LLP fact, the City has no approved implementing regulations or ordinances that identify or itemize
+10 certain projects or actions as ministerial, let alone the subject (i.e., demolition) of the CDP
+11 Application.
+
+12 59. The activity cited by the City-demolition of Parking Structure #3-unequivocally
+13 constitutes a "Project" under CEQA. The proposed public works project involves the complete
+14 removal of an existing, 150,000 square foot concrete parking structure and clearing of the 30,000
+15 square foot property, which will have a direct physical change in the environment. Even the City's
+16 anticipated replacement of Parking Structure #3-the construction of an undefined mixed-use
+17 affordable housing project with ground-floor commercial uses-represents a "Project" under
+18 CEQA, too.
+
+19 60. As the lead agency initiating the proposed Project, the City undeniably has the
+20 ability to plan, design, and execute a demolition project at its own discretion. Indeed, it hired a
+21 civil engineer to create demolition plans based on its own specifications and subjective judgment.
+22 Because the City could shape the proposed Project in any way-there are no demonstrated fixed
+23 standards or objective measurements to be applied-the ministerial statutory exemption is not
+24 applicable. Furthermore, the Commission failed to provide any supporting findings, and City did
+25 not supply any to support its determination that the proposed Project was eligible as a statutory
+26 exemption.
+
+27 61. Therefore, the City's use of the statutory exemption under §21081(b)(1) is clearly
+28 improper, and the Commission's approval of the CDP Application and CEQA exemption must be
+SANTA MONICA_PWM.6.15.21 19
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+TAITTINATYUR DRT TRE
+
+set aside pursuant to Government Code Section 1094.5.
+SECOND CAUSE OF ACTION
+
+(Violation of California Environmental Quality Act Public Resources Code §21065,
+
+62. California Code of Regulations §15378 - Piecemealing of Project)
+Petitioner incorporates herein by reference all the allegations contained in
+6 Paragraphs 1 through 61.
+
+7 63. In Public Resources Code Section 21065, CEQA defines "Project" as "any
+8 activity which may cause either a direct physical change in the environment, or a reasonably
+
+ERVIN 5 COHEN & JESSUP ULP 10 foreseeable indirect physical change in the environment, and which is
+(a) An activity directly undertaken by any public agency. any of the following:
+
+11
+
+12 (b) An activity undertaken by a person which is supported, in whole or in part, through
+
+13 contracts, grants, subsidies, loans, or other forms of assistance from one or more public
+agencies.
+
+14
+
+15 (c) An activity that involves the issuance to a person of a lease, permit, license, certificate,
+
+16 or other entitlement for use by one or more public agencies."
+
+64. State CEQA Guidelines §15378(a) reiterates this definition, and notes at the outset
+17 that a "Project means the whole of an action, which has a potential for resulting in either a direct
+18 physical change in the environment, or a reasonably foreseeable indirect physical change in the
+19 environment...". Accordingly, Piecemealing, or segmenting, a proposed project into smaller parts
+20 to avoid a comprehensive environmental review is prohibited under CEQA.
+
+21 65. The City's CDP Application initially described the Project as "Demolishing of the
+22 existing parking structure, capping all utility lines at the property line, paving the lot or installing
+23 | crushed rock flush with the adjacent properties, drainage control (if required), chain link fencing
+24 around the property". Later, after the City submitted an updated parking study as required by the
+25 Commission staff, the City revealed the actual Project scope by acknowledging that the purpose of
+26 the proposed demolition was to clear the site for an anticipated, but undefined and unfunded,
+27 mixed-use affordable housing project.
+
+28 ///
+SANTA MONICA_PWM.6.15.21 20
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INITT NIOTIVP RRT TRR
+
+1 66.
+
+2 On its own, the City's proposed demolition of the 6-story, 150,000 square foot
+concrete structure will unequivocally cause a direct physical change in the environment. Given the
+3 fact that the City's true objective is to build an affordable housing development in place of
+
+4
+
+5 Parking Structure #3, the development is a reasonably foreseeable consequence of the initial
+
+6 demolition, and therefore together constitutes the "whole of the action". Because the actual Project
+necessarily involves the anticipated, mixed-use affordable housing development, the City's
+7 environmental analysis requires proper consideration of its potential impacts as prescribed by
+8 CEQA. No such analysis was conducted by either the City or the Commission.
+
+9 67.
+
+ERVIN COHEN & JESSUP LLP Therefore, the City's deliberate unbundling of the demolition from the ultimate
+10 development of a mixed-use affordable housing project constitutes "piecemealing" in violation of
+11 CEQA §21065 and State CEQA Guidelines §15378, and the Commission's approval of the CDP
+12 Application on this basis also violates CEQA and must be set aside pursuant to Government Code
+13 Section 1094.5.
+
+14 THIRD CAUSE OF ACTION
+
+15 (Injunction Relief)
+
+16 (Code Civ. Proc., §§ 526, 526a)
+
+68.
+
+17 Petitioner incorporates herein by reference all the allegations contained in
+Paragraphs 1 through 1 67.
+18 69.
+
+19 Respondents' failure to comply with CEQA's requirements has caused, and
+threatens to cause, Petitioner and its members irreparable and substantial harm by permitting the
+20 construction of the Project when its approvals do not conform or satisfy the legal requirements.
+21 The laws that are violated by the approval of the CDP Application are intended to protect the
+22 environment and the City's infrastructure, and to ensure the orderly functioning of the City's land
+23
+
+24 use planning process. So long as the approvals for the demolition of Parking Structure #3 remain
+
+25 in effect, Petitioner and the public at large are injured by the flouting of these laws.
+
+70. Petitioner has no plain, speedy, and adequate remedy at law, in that unless
+26 Respondents are enjoined by this Court to rescind the CDP approval, the demolition of Parking
+27 Structure #3 will go forward with unmitigated environmental impacts during construction and
+28 after the site has been razed. No amount of money or other legal remedy can adequately
+SANTA MONICA_PWM.6.15.21 21
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+MITMISTIVD DEI 1ÉD
+
+1 compensate Petitioner and all Santa Monica residents, business owners, and property owners for
+the irreparable harm that they will suffer from the violations of law described herein.
+FOURTH CAUSE OF ACTION
+(Declaratory Relief)
+(Code Civ. Proc., § 1060)
+
+71.
+
+6 Petitioner incorporates herein by reference all the allegations contained in
+Paragraphs 1 through 70.
+
+72.
+
+8 A dispute has arisen between Petitioner and Respondents, in that Petitioner believes
+and contends, for the reasons set forth above, that Respondents' actions as set forth above, were
+9  unlawful and invalid.
+N3HOD NIA83 JESSUP LLP 10 73. A judicial declaration as to the legality of Respondents' actions, as set forth above,
+11 is therefore necessary and appropriate to determine the respective rights and duties of the parties.
+12
+48 13 PRAYER FOR RELIEF
+
+14
+
+15 WHEREFORE, Petitioner respectfully pray for judgment as follows:
+
+1. This Court find that, by approving the Coastal Development Permit for the
+16 demolition of Parking Structure #3, Respondent has not proceeded in a manner required by law
+17 and/or its decision is not supported by substantial evidence;
+18 2. That this Court issue a peremptory writ of mandate commanding Respondent,
+19 California Coastal Commission to (a) vacate and set aside its decision made on May 13, 2021 to
+20 approve the Coastal Development Permit for the demolition of Parking Structure #3 as well as any
+21 additional discretionary or ministerial approvals; and (b) if Respondent Commission again
+22 considers approval of the demolition of Parking Structure #3, it does so only in full compliance
+23 with the California Coastal Act and CEQA;
+24 3. a That this Court issue a peremptory writ of mandate declaring the decision rendered
+25 by Respondent City
+26 discretionary to obtain CDP for the demolition of Parking Structure #3, and any additional
+
+27 or ministerial approvals by Respondent City relating to, or dependent upon the same,
+are null and void and of no force or effect;
+28 ///
+SANTA MONICA_PWM.6.15.21 22
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+tIttnIPrIuIT DTT TET
+
+1 4. The Respondents Commission and City refrain from granting any additional
+2 permits, entitlements, or other approvals related to the demolition of Parking Structure #3, or
+3 entering into any contracts related to the proposed demolition or future development of the
+4 Parking Structure #3 property, until they have each taken action necessary to bring such approvals
+
+5 into compliance with the Coastal Act and CEQA;
+
+6 5.
+
+7 6. That Petitioner be awarded its reasonable costs incurred in this action;
+
+That Petitioner be awarded reasonable attorney's fees pursuant to Cal. Code of
+8 Civil Procedure Section 1021.5; and
+
+7.
+
+NIHOO NIAS3 & JESSUP LLP 10 For other such legal or equitable relief that the Court deems just and proper.
+
+11
+
+12 DATED: June 15, 2021 ERVIN COHEN & JESSUP LLP
+
+13 Allan B. Cooper
+
+14 Elizabeth (Ellia) Thompson
+
+15
+
+16 By: Is/ Elizabeth (Ellia) Thompson
+
+17 Elizabeth (Ellia) Thompson Attorneys for Petitioner and Plaintiff
+
+18 SANTA MONICA BAYSIDE OWNERS
+ASSOCIATION
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+SANTA MONICA_PWM.6.15,21 23
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND TATN INIATIVD DRT TOP
+
+VERIFICATION
+
+STATE OF CALIFORNIA, COUNTY OF LOS ANGELES
+am a Board Member of the Santa Monica Bayside Owners Association, the Petitioner in
+the above captioned action. am also an owner of property in the City of Santa Monica and am a
+5 resident of the County of Los Angeles. have read the foregoing Verified Petition for Writ of
+
+6 Mandate; Complaint for Declaratory and Injunctive Relief, and know its contents. The matters
+
+7 stated therein are true of my own knowledge, except as to those matters which are stated on
+8 information and belief, and as to those matters, believe them to be true.
+I declare under penalty of perjury under the laws of the State of California that the
+JESSUPILP 10 foregoing is true and correct.
+Executed on this day of June, 2021, at Santa Monica, California.
+
+ã 12
+
+13 brtende NIHOD NIAN3 John Alle for
+14 SANTA MONICA BAYSIDE OWNERS
+ASSOCIATION
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+EXHIBIT A
+
+ERVIN COHEN & JESSUP LLP 9401 Wilshire Blvd., 9th Floor
+Beverly Hills, CA 90212-2974
+ethompson@ecjlaw.com
+PH: 310.281.6356
+FX: 310.859.2325
+
+June 15, 2021
+
+Mayor Sue Himmelrich and City Council
+CITY OF SANTA MONICA
+Santa Monica City Hall
+1685 Main Street, Room 209
+Santa Monica, CA 90401
+
+Re: Notice of Intent to Commence CEQA Action
+Santa Monica Bayside Owners Association V. City of Santa Monica; California Coastal Commission
+Dear Mayor Himmelrich and Honorable Councilmembers:
+This is to inform you, as an agent for the City of Santa Monica (the "City"), that the Santa Monica Bayside Owners Association ("SMBOA") will be filing suit against the City and the
+California Coastal Commission (the "Commission") today, June 15, 2021, to challenge the May
+13, 2021 action of the Commission approving a Coastal Development Permit ("CDP"), and approving a statutory exemption pursuant to the California Environmental Quality Act ("CEQA")
+for the demolition of a six-story, 150,000 square-foot parking garage with 337 spaces used for
+visitor-serving vehicle parking ("Parking Garage #3) that is located at 1318-3120 Fourth Street in
+Santa Monica.
+Please take notice pursuant to Section 21167 of the Public Resources Code as weli as
+Code of Civil Procedure section 1021.5, that SMBOA intends to include a cause of action under
+the provisions of CEQA against the City and the Commission. The lawsuit will challenge, among other things, the City's decision to approve the project without preparation of any
+environmental review whatsoever, despite substantial evidence in the record that the project
+may have unmitigated impacts to the environment.
+
+Very truly yours, ShheDinpr- Ellia M. Thömpson
+
+17537.1:10275697.1
+
+PROOF OF SERVICE
+
+SANTA MONICA BAYSIDE OWNERS ASSOCIATION v. CITY OF SANTA MONICA;; CALIFORNIA COASTAL COMMISSION
+STATE OF CALIFORNIA, COUNTY OF LOS ANGELES
+At the time of service, I was over 18 years of age and not a party to this action. I am 5 employed in the County of Los Angeles, State of California. My business address is 9401 Wilshire Boulevard, Ninth Floor, Beverly Hills, CA 90212-2974.
+On June 15, 2021, I served true copies of the following document(s) described as 7 NOTICE OF INTENT TO COMMENCE CEQA ACTION on the interested parties in this action as follows:
+SEE ATTACHED SERVICE LIST
+
+BY MAIL: I enclosed the document(s) in a sealed envelope or package addressed to the
+JESSUP LLP 10 persons at the addresses listed in the Service List and placed the envelope for collection and mailing, following our ordinary business practices. I am readily familiar with Ervin Cohen & 11 | Jessup LLP's practice for collecting and processing correspondence for mailing. On the same day that the correspondence is placed for collection and mailing, it is deposited in the ordinary course 12 of business with the United States Postal Service, in a sealed envelope with postage fully prepaid.
+
+13 I declare under penalty of perjury under the laws of the State of California that the
+NEHOO NIA83 14 foregoing is true and correct.
+
+15 Executed on June 15, 2021, at Beverly Hills, California.
+
+16 /s/ Elaine Acedo
+17 Elaine Acedo
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+•24
+
+25
+
+26
+
+27
+
+28
+
+2 SERVICE LIST
+SANTA MONICA BAYSIDE OWNERS ASSOCIATION v. CITY OF SANTA MONICA;; CALIFORNIA COASTAL COMMISSION
+
+-Mayor Sue Himmelrich and City Council CITY OF SANTA MONICA
+
+5 Santa Monica City Hall 1685 Main Street, Room 209
+
+6 Santa Monica. California 90401
+
+8
+
+ERVIN NIHOO & JESSUP LLP 10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+EXHIBIT B
+
+ERVIN COHEN & JESSUP LLP 9401 Wilshire Blvd., 9th Floor
+Beverly Hills, CA 90212-2974
+ethompson@ecjlaw.com
+PH: 310.281.6356
+FX: 310.859.2325
+
+June 15, 2021
+
+Rob Bonta
+Attorney General, State of California
+Office of Attorney General
+1300 l Street
+Sacramento, CA 95814-2919
+
+Re: Notice of Intent to Commence CEQA Action
+Santa Monica Bayside Owners Association v. City of Santa Monica; California Coastal Commission
+
+Dear Attorney General Bonta:
+Pursuant to Public Resources Code section 21167.5 and Code of Civil Procedure section 388,
+Santa Monica Bayside Owners Association ("SMBOA") hereby gives notice that on June 16, 2021, a
+verified petition for writ of mandate and complaint will be filed against Defendants and Respondents
+the City of Santa Monica and the California Coastal Commission(collectively, "Respondents") in Santa
+Monica Courthouse. The action challenges Respondents' failure to adhere to the requirements of the
+California Environmental Quality Act ("CEQA") when approving the demolition of a six-story, 150,000
+square-foot parking garage with 337 spaces used for visitor-serving vehicle parking ("Parking Garage
+#3") that is located at 1318-1320 Fourth Street in Santa Monica, without any environmental review
+whatsoever.
+
+A copy of the Verified Petition for Writ of Mandate and Complaint for Injunctive Relief is attached to this notice. In addition, I include a copy of the notice of intent to commence action served upon Respondents, and the proof of service of that notice.
+
+Very truly yours, Alae Oltomp M. Thompson
+
+17537.1:10275702.1
+
+1 PROOF OF SERVICE
+
+2
+
+3 SANTA MONICA BAYSIDE OWNERS ASSOCIATION V. CITY OF SANTA MONICA;; CALIFORNIA COASTAL COMMISSION
+
+4 STATE OF CALIFORNIA, COUNTY OF LOS ANGELES
+At the time of service, I was over 18 years of age and not a party to this action. I am 5 employed in the County of Los Angeles, State of California. My business address is 9401
+
+6 Wilshire Boulevard, Ninth Floor, Beverly Hills, CA 90212-2974.
+On June 15, 2021, I served true copies of the following document(s) described as 7 NOTICE OF INTENT TO COMMENCE CEQA ACTION on the interested parties in this
+
+8 action as follows:
+
+9 SEE ATTACHED SERVICE LIST
+
+BY MAIL: I enclosed the document(s) in sealed envelope or package addressed to the 10  persons at the addresses listed in the Service List and placed the envelope for collection and
+11 Jessup LLP's practice for collecting and processing correspondence for mailing. On the same day that the correspondence is placed for collection and mailing, it is deposited in the ordinary course
+
+6U NEHOO NIA83 JESSUP LLP mailing, following our ordinary business practices. I am readily familiar with Ervin Cohen &
+
+12 of business with the United States Postal Service, in a sealed envelope with postage fully prepaid.
+
+13
+
+14 I declare under penalty of perjury under the laws of the State of California that the foregoing is true and correct.
+
+15 Executed on June 15, 2021, at Beverly Hills, California.
+
+16
+
+17 /s/ Elaine Acedo
+
+18 Elaine Acedo
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+1
+
+2 SERVICE LIST
+
+3
+
+4 SANTA MONICA BAYSIDE OWNERS ASSOCIATION V. CITY OF SANTA MONICA;;
+
+Rob Bonta CALIFORNIA COASTAL COMMISSION
+
+5 Attorney General, State of California Office of Attorney General 1300 I Street
+
+6 Sacramento. California 95814-2919
+
+ERVIN N3HOD & JESSUP LLP 10 N
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+J
+
+PROOF OF SERVICE
+SANTA MONICA BAYSIDE OWNERS ASSOCIATION v. CITY OF SANTA MONICA;; CALIFORNIA COASTAL COMMISSION
+
+4 STATE OF CALIFORNIA, COUNTY OF LOS ANGELES
+At the time of service, I was over 18 years of age and not a party to this action. Iam 5 employed in the County of Los Angeles, State of California. My business address is 9401
+
+6 Wilshire Boulevard, Ninth Floor, Beverly Hills, CA 90212-2974.
+On June 15, 2021, I served true copies of the following document(s) described as 7 NOTICE OF INTENT TO COMMENCE CEQA ACTION on the interested parties in this
+
+8 action as follows:
+
+9 SEE ATTACHED SERVICE LIST
+
+ERVIN COHEN & JESSUP LLP BY MAIL: I enclosed the document(s) in a sealed envelope or package addressed to the 10 persons at the addresses listed in the Service List and placed the envelope for collection and mailing, following our ordinary business practices. I am readily familiar with Ervin Cohen & 11 Jessup LLP's practice for collecting and processing correspondence for mailing. On the same day that the correspondence is placed for collection and mailing, it is deposited in the ordinary course 12 of business with the United States Postal Service, in a sealed envelope with postage fully prepaid.
+
+13
+
+14 I declare under penalty of perjury under the laws of the State of California that the
+foregoing is true and correct.
+
+15 Executed on June 15, 2021, at Beverly Hills, California.
+
+16
+
+17 /s/ Elaine Acedo
+
+18 Elaine Acedo
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+•
+
+SERVICE LIST 1
+SANTA MONICA BAYSIDE OWNERS ASSOCIATION v. CITY OF SANTA MONICA;;
+2 CALIFORNIA COASTAL COMMISSION
+
+3
+Rob Bonta
+Attorney General, State of California Office of Attorney General 5 1300 I Street
+Sacramento. California 95814-2919
+6
+
+d'dnssar3 NIHOO NIASE 10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+ATTORNEY OR PARTY WITHOUT ATTORNEY (Neme, State Bar number, and address): CM-010
+Ailan B. Cooper (SBN 60862) FOR COURT USE ONLY
+Eiizabeth (Eliia) Thompson (SBN 247315) ERVIN COHEN & JESSUPLLP
+9401 Wilshire Boulevard, Ninth Floor Beverly HIlls, California 90212-2974 TELEPHONE NO.: (310) 273-6333 FAX NO. (Optional): (310) 859-2325
+ATTORNEY-FOR (NVame): SANTA MONICA BAYSIDE OWNERS ASSOCIATION
+SUPERIOR COURT OF CALIFORNIA, COUNTY OF
+STREET ADDRESS: 1725 Main St.
+MAILING ADDRESS: 1725 Main St.
+CITY AND ZIP CODE: Santa Monica, CA 90401
+BRANCH NAME: Santa Monica Courthouse
+CASE NAME:SANTA MONICA BAYSIDE OWNERS ASSOCIATION v. CITY OF SANTA MONICA, CALIFORNIA COASTAL COMMISSION
+CIVIL CASE COVER SHEET Complex Case Designation CASE NUMBER:
+
+Unlimited - Limited
+(Amount (Amount Counter - Joinder
+
+demanded demanded is Filed with first appearance by defendant JUDGE:
+exceeds $25,000) $25,000) (Cal. Rules of Court, rule 3.402) DEPT.:
+
+Items 1-6 below must be completed (see instructions on page 2).
+Check one box below for the case type that best describes this case:
+Auto Tort Contract Provisionally Complex Civil Litigation
+Auto (22) OOOO Breach of contract/warranty (06) (Cal. Rules of Court, rules 3.400-3.403)
+Unirisured motorist (46) Rule 3.740 collections (09) Antitrust/Trade regulation (03)
+Other PI/PD/WD (Personal Injury/Property
+Damage/Wrongful Death) Tort Other collections (09) Construction defect (10)
+Mass tort (40)
+Asbestos (04) Insurance coverage (18)
+
+Product liability (24) Other contract (37) Securities litigation (28)
+Real Property Environmental/Toxic tort (30)
+Medical malpractice (45) Eminent domain/Inverse Insurance coverage claims arising from the
+Other-PI/PD/WD (23) condemnation (14) above listed provisionally complex case
+Non-PI/PD/WD (Other) Tort 5 Wrongful eviction (33) types (41)
+Enforcement of Judgment
+Business tort/unfair business practice (07) Other real property (26)
+Clvil rights (08) Inlawful Detainer Enforcement of judgment (20)
+
+Defamation (13) = Commercial (31) Miscellaneous Civil Complaint
+
+Fraud (16) Residential (32) RICO (27)
+
+Intellectual property (19) Drugs (38) Other complaint (not specified above) (42)
+Judicial Review Miscellaneous Civil Petition
+Professional negligence (25)
+Other non-PI/PD/WD tort (35) Asset forfeiture (05) Partnership and corporate governance (21)
+
+Employment 00: Petition re: arbitration award (11) Other petition (not specified above) (43)
+Wrongful termination (36) Writ of mandate (02)
+Other employment (15) Other Judicial review (39)
+
+2. This case -is * is not complex under rule 3.400 of the California Rules of Court. If the case is complex, mark the
+factors requiring exceptional judicial management:
+a. Large number of separately represented parties d Large number of witnesses
+b. Extensive motion practice raising difficult or novel e. Coordination with related actions pending in one or more
+issues that will be time-consuming to resolve courts in other counties, states, or countries, or in a federal
+c. ] Substantial amount of documentary evidence court
+f. Substantial postjudgment judicial supervision
+3, Remedies sought (check all that apply): a.  monetary b.% nonmonetary; declaratory or injunctive relief c. -] punitive 4. Number of causes of action (specify):
+5. This case 3 is C is not a class action suit.
+6. If there are any known related cases, file and serve a notice of related case. (You
+Date: 06/15/2021
+Elizabeth (Elia) Thompson
+(TYPE OR PRINT NAME) NOTICE "Zlerer
+Plaintiff must-file this cover sheet with the first paper fited in the action or proceeding (except small claims cases or cases filed under the Probate Code, Family Code, or Welfare and Institutions Code). (Cal. Rules of Court, rule 3.220.) Failure to file may result|
+in sanctions.
+File this cover sheet in addition to any cover sheet required by local court rule.
+If this case is complex under rule 3.400 et seq. of the California Rules of Court, you must serve a copy of this cover sheet on all
+other parties to the action or proceeding. Unless this is a collections case under rule 3.740 or a complex case, this cover sheet will be used for statistical purposes only. Paao 1 of 2l
+
+INSTRUCTIONS ON HOW TO COMPLETE THE COVER SHEET CM-010
+To Plaintiffs and Others Filing First Papers. If you are filing a first paper (for example, a complaint) in a civil case, you must complete and 'file, along with your first paper, the Civil Case Cover Sheet contained on page 1. This information will be used to compile statistics about the types and numbers of cases filed. You must complete items through 6 on the sheet. In ifem 1, you must check one box for the case type that best describes the case. If the case fits both a general and a more specific type of case listed in item 1, check the more specific one. If the case has multiple causes of action, check the box that best indicates the primary cause of action. To assist you in completing the sheet, examples of the cases that belong under each case type in item 1 are provided below. A cover sheet must be filed only with your initial paper. Failure to file a cover sheet with the first paper filed in a civil case may subject a party, its counsel, or both to sanctions under rules 2.30 and 3.220 of the California Rules of Court. To Parties in Rule 3.740 Collections Cases. A "collections case" under rule 3.740 is defined as an action for recovery of money owed of in a sum stated to be certain that is not more than $25,000, exclusive of interest and attorney's fees, arising from: transaction in which property, services, or money was acquired on credit. A collections case does not include an action seeking the following: (1) tort damages, (2) punitive damages, (3) recovery of real property, (4) recovery of personal property, or (5) a prejudgment writ of attachment. The Identification of a case as rule 3.740 collections case on this form means that it will be exempt from the general time-for-service requirements and case management rules, unless a defendant files a responsive pleading. A rule 3.740 collections case will be subject to the requirements for service and obtaining a judgment in rule 3.740. To Parties in Complex Cases. In complex cases only, parties must also use the Civil Case Cover Sheet to designate whether the case is complex. If a plaintiff believes the case is complex under rule 3.400 of the Callfornia Rules of Court, this must be indicated by completing the appropriate boxes in items 1 and 2. If a plaintiff designates a case as complex, the cover sheet must be served with the complaint on all parties to the action. A defendant may file and serve no later than the time of its first appearance a joinder in the plaintiff's designation, a counter-designation that the case is not complex, or, if the plaintiff has made no designation, a designation that
+the case is complex. CASE TYPES AND EXAMPLES
+Auto Tort Contract
+Breach of Contract/Warranty (06) Provisionally Complex Civll Litigation (Cal.
+Auto (22)-Personal Injury/Property Rules of Court Rules 3.400-3.403)
+Damage/Wrongful Death Breach of Rental/Lease
+Contract (not unlawful detainer Antitrust/Trade Regulation (03)
+Uninsured Motorist (46) (If the Construction Defect (10)
+case involves an uninsured or wrongful eviction)
+Contract/Warranty Breach-Seller Claims Involving Mass Tort (40)
+motorist claim subject to Securities Litigation (28)
+arbitration, check this item Plaintiff (not fraud or negligence) Environmental/Toxic Tort (30)
+instead of Auto) Negligent Breach of Contract/
+Warranty Insurance Coverage Claims
+Other PI/PD/WD (Personal Injury! Property Damage/Wrongful Death) Other Breach of Contract/Warranty (arising from provisionally complex
+Collections (e.g., money owed, open Case type listed above) (41)
+Tort
+Asbestos (04) book accounts) (09) Enforcement of Judgment
+Asbestos Property Damage Collection Case-Seller Plaintiff Enforcement of Judgment (20)
+Asbestos Personal Injury/ Other Promissory Note/Collections Abstract of Judgment (Out of
+County)
+Wrongful Death Case
+Product Liabillty (not asbestos or Insurance Coverage (not provisionally Confession of Judgment (non-
+
+toxic/environmental) (24) complex) (18) domestic relations)
+
+Medical Malpractice (45) Auto Subrogation Sister State Judgment
+
+•Medical Malpractice- Other Coverage Administrative Agency Award
+(not unpaid taxes)
+Physicians & Surgeons Other Contract (37) Petition/Certification of Entry of
+Other Professional Health Care Contractual Fraud Judgment on Unpaid Taxes
+Malpractice Other Contract Dispute
+Other PI/PD/WD (23) Real Property Other Enforcement of Judgment
+
+Premises Liability (e.g., slip Eminent Domain/Inverse Case
+Miscellaneous Civll Complaint
+and fall) Condemnation (14)
+Intentional Bodily Injury/PD/WD Wrongful Eviction (33) RICO (27)
+(e.g., assault, vandalism) Other Real Property (e.g., quiet title) (26) Other Complaint (not specified
+above) (42)
+Intentional Infliction of Writ of Possession of Real Property Declaratory Rellef Only
+Emotional Distress Mortgage Foreclosure
+Quiet Title Injunctive Relief Only (non-
+Negligent Infliction of Other Real Property (not eminent harassment)
+Emotional Distress domain, landlord/tenant, or Mechanics Lien
+Other PI/PD/WD
+Non-PI/PD/WD (Other) Tort foreclosure) Other Commercial Complaint
+
+Business Toit/Unfair Business Unlawful Detalner Case (non-tortinon-complex) Other Civil Complaint
+Practice (07) Commercial (31) (non-tort/non-complex)
+Civil Rights (e.g., discrimination, Residential (32) Miscellaneous Civil Petition
+false arrest) (not civil Drugs (38) (f the case involves illegal Partnership and Corporate
+harassment) (08) drugs, check this item; otherwise,
+Defamation (e.g., slander, libel) report as Commercial or Residential) Governance (21)
+Judicial Review Other Petition (not specified
+(13) Asset Forfelture (05) above) (43)
+Fraud (16) Civil Harassment
+Intellectual Property (19) Petition Re: Arbitration Award (11) Workplace Violence
+Professional Negligence (25) Writ of Mandate (02)
+Writ-Administrative Mandamus Elder/Dependent Adult
+Legal Malpractice
+Other Professional Malpractice Writ-Mandamus on Limited Court Abuse
+Election Contest
+(not medical or legal) Case Matter
+Other Non-PI/PD/WD Tort (35) Writ-Other Limited Court Case Petition for Name Change Petition for Relief From Late
+Employment Review Claim
+Wrongful Termination (36) Other Judicial Review (39)
+Other Employment (15) Review of Health Officer Order Other Civil Petition
+
+Notice of Appeal-Labor Commissioner Appeais
+
+AUIAAIAa. bah.d Dona 1
+
+SUM-100
+SUMMONS FOR COURT USE ONLY
+(CITACION JUDICIAL) (SOLO PARA USO DE LA CORTE)
+
+NOTICE TO DEFENDANT: CITY OF SANTA MONICA, CALIFORNIA COASTAL COMMISSION, and
+(AVISO AL DEMANDADO): DOES 1 through 10, Inclusive,
+
+YOU ARE BEING SUED BY PLAINTIFF: SANTA MONICA BAYSIDE OWNERS ASSOCIATION
+(LO ESTÁ DEMANDANDO EL DEMANDANTE):
+
+NOTICEI You have been sued. The court may decide against you without your being heard unless you respond within 30 days. Read the Information
+Ibelow.
+You have 30 CALENDAR DAYS after this summons and legal papers are served on you to file a written response at this court and have : copy
+served on the plaintiff. A letter or phone call will not protect you. Your written response must be in proper legal form if you want the court to hear your case. There may be a court form that you can use for your response. You can find these court forms and more information at the California Courts Online Self-Help Center (www.courtinfo.ca.gov/selfhelp), your county law lIbrary, or the courthouse nearest you. If you cannot pay the fling fee, ask the court clerk for a fee walver form. If you do not file your response on time, you may lose the case by default, and your wages, money, and property may be taken without further warning from the court. There are other legal requirements. You may want to call an attorney right away. If you do not know an attomey, you may want to call an attorney referral service, If you cannot afford an attorney, you may be eligible for free legal services from a nonprofit legal services program. You can locate
+these nonprofit groups at the California Legal Services Web site (www.lawhelpcaliforia.org), the California Courts Online Self-Help Center (www.courtinfo.ca.gov/selthelp), or by contacting your local court or county bar association. NOTE: The court has a statutory lien for waived fees and |costs on any settlement or arbitration award of $10,000 or more In a civil case. The court's lien must be paid before the court will dismiss the case. AVISOI Lo han demandado. Si no responde dentro de 30 dias, la corte puede decidir en su contra sin escuchar su versión. Lea la información a
+|continuación.
+Tiene 30 DIAS DE CALENDARIO después de que le entreguen esta citación y papeles legales para presentar una respuesta por escrito en esta corte y hacer que se entregue una copia al demandante. Una carta o una llamada telefónica no lo protegen. Su respuesta por escrito tiene que estar en formato legal correcto si desea que procesen su caso en la corte. Es posible que haya un formulario que usted pueda usar para su respuesta. Puede encontrar estos formularios de la corte y más información en el Centro de Ayuda de las Cortes de California (www.sucorte.ca.gov), en la biblioteca de leyes de su condado o en la corte que le quede más cerca. Si no puede pagar la cuota de presentación, pida al secretario de la corte que le dé un formulario de exención de pago de cuotas. Si no presenta su respuesta a tiempo, puede perder el caso por incumplimiento y la corte le podrá quitar su sueldo, dinero y bienes sin más advertencia.
+Hay otros requisitos legales. Es recomendable que llame a un abogado inmediatamente. Si no conoce a un abogado, puede llamar a un servicio de remisión a abogados. Si no puede pagar a un abogado, es posible que cumpla con los requísitos para obtener servicios legales gratuitos de un Iprograma de servicios legales sin fines de lucro. Puede encontrar estos grupos sin fines de lucro en el sitio web de California Legal Services, (www.lawhelpcalifornia.org), en el Centro de Ayuda de las Corfes de California, (www.sucorte.ca.gov) o poniéndose en contacto con la corte o el |colegio de abogados locales. AVISO: Por ley, la corte tiene derecho a reclamar las cuotas y los costos exentos por imponer un gravamen sobre cualquier recuperación de $10,000 ó más de valor recibida mediante un acuerdo o una concesión de arbitraje en un caso de derecho civil. Tiene que
+pagar el gravamen de la corte antes de que la corte pueda desechar el caso.
+The name and address of the court is: SANTA MONICA COURTHOUSE (El nombre y dirección de la corte os): CASE NUMBER: (Número del Caso):
+
+1725 Main Street
+Santa Monica, CA 90401
+The name, address, and telephone number of plaintiff's attorney, or plaintiff without an attorney, is: (El nombre, la dirección y el número de teléfono del abogado del demandante, o del demandante que no tiene abogado, es): Elizabeth (Ellia) Thompson, ERVIN COHEN & JESSUP LLP, 9401 Wilshire Boulevard, Ninth Floor, Beverly Hills, California 90212-2974
+DATE(Fecha) Clerk, by Deputy
+(Secretario) (Adjunto)
+(For proof of service of this summons, use Proof of Service of Summons (form POS-010).)
+(Para prueba de entrega de esta citatión use el formulario Proof of Service of Summons, (POS-010)).
+
+[SEAL) NOTICE TO THE PERSON SERVED: You are served
+1. as an individual defendant.
+2. as the person sued under the fictitious name of (specity):
+
+3. on behalf of (specify):
+under: CCP 416.10 (corporation) CCP 416.60 (minor)
+CCP 416.20 (defunct corporation) CCP 416.70 (conservatee)
+CCP 416.40 (assoclation or partnership) CCP 416.90 (authorized person)
+other (specify):
+by personal delivery on (date): Page 1 of 1
+Form Adopled for Mandatory Use
+Judicial Council of California SUMMONS Code of Civil Procedure 55 412.20, 465
+SUM-100 [Rev. July 1, 2009] www.courts.ca.gov
+
+ERVIN COHEN & JESSUP LLP 9401 Wilshire Blvd., 9th Floor
+Beverly Hills, CA 90212-2974
+ethompson@ecjlaw.com
+PH: 310.281.6356
+FX: 310.859.2325
+
+June 15, 2021
+
+Rob Bonta
+Attorney General, State of California
+Office of Attorney General
+1300 I Street
+Sacramento, CA 95814-2919
+
+Re: Notice of Intent to Commence CEQA Action
+Santa Monica Bayside Owners Association v. City of Santa Monica; California Coastal Commission
+
+Dear Attorney General Bonta:
+
+Pursuant to Public Resources Code section 21167.5 and Code of Civil Procedure section 388,
+Santa Monica Bayside Owners Association ("SMBOA") hereby gives notice that on June 16, 2021, a
+verified petition for writ of mandate and complaint will be filed against Defendants and Respondents the City of Santa Monica and the California Coastal Commission(collectively, "Respondents") in Santa Monica Courthouse. The action challenges Respondents' failure to adhere to the requirements of the California Environmental Quality Act ("CEQA") when approving the demolition of a six-story, 150,000
+square-foot parking garage with 337 spaces used for visitor-serving vehicle parking ("Parking Garage #3") that is located at 1318-1320 Fourth Street in Santa Monica, without any environmental review
+whatsoever.
+
+A copy of the Verified Petition for Writ of Mandate and Complaint for Injunctive Relief is
+attached to this notice. In addition, I include a copy of the notice of intent to commence action served
+upon Respondents, and the proof of service of that notice.
+
+Very truly yours, UliOlorpoe
+
+17537.1:10275702.1
+
+DECEIVEM
+JUN 2 1 2021
+BY:________

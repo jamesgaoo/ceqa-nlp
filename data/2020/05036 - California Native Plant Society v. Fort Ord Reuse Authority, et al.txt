@@ -1,0 +1,2593 @@
+1 Molly Erickson, State Bar No. 253198 STAMP ERICKSON ELECTRONICALLY FILED BY
+2 Box 2448 Monterey, CA 93942-2448 Superior Court of California,
+Telephone: (831) 373-1214 County of Monterey
+3
+il erickson@stamplaw.us On 6/3/2020 11:00 AM
+By: Sonia Gama, Deputy
+William P. Parkin, State Bar No. 139718
+5 Pearl Kan, State Bar No. 294563 WITTWER PARKIN LLP
+6 335 Spreckels Dr., Ste. H
+
+7 Aptos, CA 95003-3952 Telephone: (831) 429-4055 I wparkin@wittwerparkin.com 8 pkan@wittwerparkin.com
+Attorneys for Petitioner and Plaintiff
+
+10 California Native Plant Society
+
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+12 COUNTY OF MONTEREY
+
+13
+CALIFORNIA NATIVE PLANT SOCIETY, Case No. 20CV001529
+14
+Petitioner and Plaintiff, Filed June 2, 2020
+
+15
+
+16
+
+17 FORT ORD REUSE AUTHORITY, NOTICE TO ATTORNEY GENERAL
+CITY OF DEL REY OAKS, DOES 1 to
+100,
+18
+
+19 Respondents and Defendants.
+
+20 CITY OF DEL REY OAKS, LOCAL
+AGENCY FORMATION COMMISSION
+21 OF MONTEREY COUNTY, and DOES
+
+22 101 to 200,
+
+Real Parties, Potential Parties,
+23 and/or Recipients of Approvals
+
+24 (Pub. Resources Code, § 21167.6.5).
+
+25
+
+26 To the Attorney General of the State of California:
+
+27 PLEASE TAKE NOTICE, under Public Resources Code section 21167.7 and
+
+28 Code of Civil Procedure section 388, that on June 2, 2020,, Petitioner California Native
+
+1
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA NOTICE TO ATTORNEY GENERAL
+CASE No. 20CV001529
+
+1 a Plant Society filed a petition for writ of mandate against the Fort Ord Reuse Authority
+
+2 and the City of Del Rey Oaks in the Superior Court of California, County of Monterey.
+
+3 The petition names as a real party in interest the Local Agency Formation Commission
+4 of Monterey County.
+
+5 and/or the The petition challenges the actions by the Fort Ord Reuse Authority
+
+6 City of Del Rey Oaks to fail to honor CEQA commitments and to not implement adopted
+
+7 mandatory CEQA mitigations for road projects on the former Fort Ord, all under the
+
+8 California Environmental Quality Act (Pub. Resources Code, § 21000 et seq.). The
+CEQA commitments and CEQA mitigations were adopted to address significant
+
+10 impacts to protected biological resources including maritime chaparral and endangered
+
+11 plants. The accompanying complaint alleges breaches of contract by Fort Ord Reuse
+12 Authority and the City of Del Rey Oaks with regard to a contract between Fort Ord
+
+13 Reuse Authority, the City of Del Rey Oaks and the California Native Plant Society with
+14 regard to a protected plant habitat area on the former Fort Ord.
+
+15 A copy of the filed petition and complaint is attached to this notice.
+16 Respectfully submitted,
+17 Dated: June 3, 2020 STAMP | ERICKSON
+18
+
+19
+
+20 by: Molly Érickson
+21
+
+22 WITTWER PARKIN
+William P. Parkin
+23 Pearl Kan
+
+24 Attorneys for Petitioner and Plaintiff
+25 CALIFORNIA NATIVE PLANT SOCIETY
+
+26
+
+27
+
+28
+
+2
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA NOTICE TO ATTORNEY GENERAL
+CASE NO. 20CV001529
+
+1 PROOF OF SERVICE
+
+2 STATE OF CALIFORNIA, COUNTY OF MONTEREY
+
+3 I am employed in the County of Monterey, State of California. Iam over the age
+
+4 of 18 and not a party to the within action. My business address is Box 2448, Monterey, California 93942-2448.
+
+5 On June 3, 2020, I served the foregoing document(s) described as follows:
+
+6 NOTICE TO ATTORNEY GENERAL
+
+on the Attorney General in this action as follows:
+8 (X) by attaching to the notice a complete copy of the filed petition and placing a true
+9 copy thereof enclosed in a sealed envelope with first class postage fully prepaid and addressed as shown below, and depositing it with the United States Postal
+10 Service.
+
+11 Addressed as follows:
+
+12 Xavier Becerra
+Office of the Attorney General
+13 1300 "I" Street Sacramento, CA 95814-2919
+14 Mailed and executed on June 3, 2020 at Monterey, California.
+15 declare under penalty of perjury under the laws of the State of California that
+16 the above is true and correct.
+
+17
+
+18
+
+19 Molly Erickson
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+3
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA NOTICE TO ATTORNEY GENERAL
+CASE No. 20CV001529
+
+ELECTRONICALLY FILED BY
+Superior Court of California,
+Molly Erickson, State Bar No. 253198 County of Monterey
+STAMP ERICKSON On 6/2/2020 1:51 PM
+2 Box 2448 Monterey, CA 93942-2448 By: Kristen Simonsen, Deputy
+Telephone: (831) 373-1214
+erickson@stamplaw.us
+4
+William P. Parkin, State Bar No. 139718
+5 Pearl Kan, State Bar No. 294563
+WITTWER PARKIN LLP
+6 335 Spreckels Dr., Ste. H
+
+7 Aptos, CA 95003-3952 Telephone: (831) 429-4055 wparkin@wittwerparkin.com 8 pkan@wittwerparkin.com
+
+9 Attorneys for Petitioner and Plaintiff
+
+10 California Native Plant Society
+
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+12 COUNTY OF MONTEREY
+
+13
+CALIFORNIA NATIVE PLANT SOCIETY, Case No.20CV001529
+14
+Petitioner and Plaintiff,
+15
+V. PETITION FOR WRIT OF MANDATE;
+16
+FORT ORD REUSE AUTHORITY, COMPLAINT FOR
+17 CITY OF DEL REY OAKS, DOES 1 to
+100, DECLARATORY RELIEF
+18
+
+19 Respondents and Defendants. (California Environmental Quality Act
+
+20 CITY OF DEL REY OAKS, LOCAL [CEQA; Pub. Resources Code, § 21000 et
+AGENCY FORMATION COMMISSION
+21 OF MONTEREY COUNTY, and DOES seq.], California Public Records Act [Gov.
+101 to 200,
+22 Code, § 6250 et seq.]; breach of contract)
+
+Real Parties, Potential Parties,
+23 and/or Recipients of Approvals (Pub. Resources Code,
+24 § 21167.6.5).
+
+25
+
+26 Petitioner and Plaintiff CALIFORNIA NATIVE PLANT SOCIETY alleges as
+
+follows:
+27
+
+28
+
+1
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+1 PETITION FOR WRIT OF MANDATE
+
+2 - (First claim - California Environmental Quality Act [CEQA]) -
+
+3 against Respondent Fort Ord Reuse Authority)
+
+4 1. California Native Plant Society (CNPS) brings this lawsuit because the
+
+5 Fort Ord Reuse Authority (FORA) as the project proponent of three road projects has
+
+6 abandoned its CEQA commitment as to the road realignment project and as lead
+
+7 agency under the California Environmental Quality Act (CEQA, Pub. Resources Code, §
+
+8 21000 et seq.) has failed to implement mandatory CEQA mitigations that were intended
+
+9 to protect rare plants and habitat.
+
+10 2. FORA adopted these commitments and mitigations for at least three
+
+11 FORA road projects: the 1999 General Jim Moore Boulevard/Highway 218 project, the
+12 2005 General Jim Moore Boulevard/Eucalyptus Road project, and the 2010 South
+
+13 Boundary Road realignment and widening. In 1999 and 2005, respectively, FORA
+14 constructed the two General Jim Moore Boulevard projects in large part; however,
+
+15 material parts remain unimplemented. FORA adopted specific mitigations for the 1999
+
+16 and 2005 road projects but has not fully implemented all of the legally mandated CEQA
+17 mitigations intended to mitigate harm to protected species and habitats and FORA has
+
+18 not obtained all the required permits from the resource agencies. In 2010, FORA as
+
+19 project proponent committed to "successful negotiations with CNPS" prior to
+20 implementing the South Boundary Road realignment project, and the alignment was
+
+21 "dependent upon the outcome of negotiations" with CNPS, as stated in the CEQA
+22 document approved by FORA. FORA has ignored its CEQA project commitments.
+
+23 FORA has not obtained success in the negotiations with CNPS, and FORA is still
+
+24 actively pursuing and enabling the South Boundary Road realignment project.
+
+25 3. To make matters worse, FORA and Del Rey Oaks have destroyed or lost
+
+26 public records that are pertinent to the CEQA mitigation that protected a habitat area
+
+27 near the road projects, including a February 2000 map and the March 2000 minutes
+28  showing that the specific 4.6-acre habitat area on the map was accepted by Del Rey
+
+2
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+1
+
+2 Oaks and CNPS. The minutes and map defined the boundary and acreage of the
+
+3 habitat area that fulfilled the required CEQA Mitigation 3 for the General Jim
+
+4 Moore/Highway 218 project. The acceptance of the 4.6-acre habitat area was
+
+5 consistent with the 1998 contract between FORA, CNPS and Del Rey Oaks, as
+
+6 amended in 1999, that established the protected habitat area through contract. Thus,
+
+7 the protected habitat area was created in two different ways: by adopted CEQA
+mitigation and by FORA-CNPS-Del Rey Oaks contract.
+
+8 4.
+
+9 In 2010, FORA, as project proponent, proposed the South Boundary Road
+realignment project. FORA as lead agency approved an environmental
+10 assessment/initial study (EA/IS) that specifically stated that the South Boundary Road
+
+11
+
+12 realignment would go through the CNPS habitat preserve area. The EA/IS stated that
+the "alignment as proposed by the project would be largely dependent upon the
+13 outcome of negotiations with the California Native Plant Society (CNPS) to relocate a
+14 currently identified habitat preserve area" because CNPS has a designated "habitat
+
+15 preserve area . . . approximately where the proposed project would realign South
+16 Boundary Road and relocate the South Boundary Road/General Jim Moore Boulevard
+17 intersection. Therefore, implementation of the proposed project would require
+18 | successful negotiations with CNPS to relocate their habitat preserve area to an area
+19 south of the currently identified location." (FORA EA/IS for South Boundary Road.) The
+
+20
+
+21 EA/IS provided that "If negotiations with CNPS are unsuccessful, Alternative #2
+
+22 provides an alternate" alignment." Alternative #2 was the existing alignment of South
+
+23 Boundary Road. FORA as lead agency approved the realignment through the habitat
+preserve, based on the commitment of FORA as project proponent that the alignment
+24 would require successful negotiations with CNPS to move a habitat preserve from what
+
+25 FORA called "the currently identified location" to a location "south of the currently
+26 identified location." FORA did not approve Alternative #2. FORA did not discuss the
+27 realignment project with CNPS before FORA acted to approve the project and the
+
+28 EA/IS.
+
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA 3
+PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+5. In 2018, FORA stated to the Monterey County Superior Court in briefing
+
+2 a on a CEQA challenge to the 2010 EA/IS that the EA/IS "addresses and provides for
+
+3 Project impacts" upon the CNPS habitat area, "recognizing that the proposed [South
+4 Boundary Road] project alignment can only proceed if a modification to the reserve can
+
+5 be negotiated with CNPS." (Nov. 2018 brief of FORA, Case no. 17CV004540, Keep
+
+6 Fort Ord Wild v. FORA.) In 2019, after reviewing the briefing and the record in that
+
+7 case, the Superior Court, the Hon. Marla O. Anderson presiding, stated that, "My
+
+8 understanding is that actually the Plant Society is in the driver's seat currently with
+
+9 respect to where the road ultimately is" because "of FORA's recognition that the Native
+
+10 Plant Society may say ... we don't see a way that you can have your new [road
+
+11 alignment] and still preserve our area." (Feb. 11, 2019, Case no. 17CV004540,
+12 transcript, p. 190, lines 5-12.) In late 2019, FORA started negotiating with CNPS. The
+13 negotiations have not been successful. CNPS has not agreed to any reduction in size
+
+14 or "relocation" of the protected 4.6-acre habitat area. The realignment cannot proceed
+
+15 according to FORA's commitment.
+
+16 6. On May 22, 2020, FORA approved the transfer of more than $8.8 million
+17 to the City of Del Rey Oaks to construct the South Boundary Road project and a new
+18 | intersection/roundabout with General Jim Moore Boulevard. FORA refused to assign
+
+19 FORA's commitment that the South Boundary Road realignment project requires
+20 CNPS's express consent. FORA also refused to assign all the unimplemented CEQA
+
+21 road project mitigations to Del Rey Oaks or any other public agency. FORA as an entity
+
+22 will sunset on June 30, 2020 by operation of law.
+
+23 7. In addition to FORA's failure to fulfill its commitment that the South
+
+24 Boundary Road realignment project would require CNPS's express consent, FORA also
+
+25 has ignored its contractual obligations to CNPS that required "permanent protection" of
+
+26 additional habitat area as compensation for the harm caused to the existing CNPS plant
+
+27 reserve #1 by the 1999 FORA General Jim Moore Boulevard road project. The contract
+28 executed by FORA, CNPS, and Del Rey Oaks stated that newly conserved habitat
+
+4
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+"area will be protected from fragmentation and degradation in perpetuity. The
+
+2 boundaries must avoid road widening that would affect the reserve." The contract was
+
+3 entered into in 1998 and amended in 1999 to add a buffer zone in exchange for further
+
+4 harms. In 2000, CNPS and Del Rey Oaks accepted a specific 4.6 acre parcel as the
+
+5 habitat area protected through the contract, as documented and mapped by FORA.
+
+6 FORA and Del Rey Oaks have destroyed or lost their records and the February 2000
+
+7 map that documented the 4.6-acre CNPS protected habitat area. FORA has not
+
+8 ensured a successor in interest to FORA's contractual responsibilities to CNPS. FORA
+
+9 did not include the FORA-CNPS-Del Rey Oaks contract on FORA's list of "FORA's
+10 outstanding obligations" in the transition plan adopted by FORA in December 2018.
+
+11 (FORA Reso. 18-11; see Gov. Code, § 67700(b)(2).). FORA has stated its position that
+
+12 FORA's "Legal counsel has reviewed all agreements and believes that all have been
+
+13 satisfied and/or may no longer be enforceable post FORA sunset." (May 14, 2020
+
+14 FORA Board packet, p. 25 of 133, p. 26 [same].) Thus, FORA having taken the benefits
+
+15 of the contract, now is acting contrary to its responsibilities under the contract at a time a
+
+16 when the rights of CNPS and the protection of the habitat area under the contract are at
+
+17 issue. The protected habitat reserve is in danger of significant harm because FORA
+
+18 has approved the realignment of South Boundary Road directly through the habitat
+
+19 area. CNPS has consistently objected to the realignment of the road, which would
+
+20 cause irreparable loss and harm to rare plants and habitats and would fragment the
+
+21 reserve.
+
+22 8. Now, in 2020, FORA has reneged or intends to renege on its commitment
+
+23 as project proponent that it would negotiate successfully with CNPS before
+24 implementing the South Boundary Road realignment project. That FORA commitment
+
+25 put CNPS in the driver's seat, as documented in FORA's adopted CEQA document.
+26 FORA has thwarted or intends to thwart Mitigation 3 of FORA's General Jim Moore
+27 project requires protection of the habitat reserve in perpetuity, and which prohibits
+28 fragmentation of the reserve. FORA also has violated or intends to violate the terms of
+
+5
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+1 the contract between FORA, CNPS and Del Rey Oaks, which also requires protection of
+
+2 reserve in perpetuity and prohibits fragmentation. FORA will dissolve on June 30, 2020.
+
+3 9. In short, FORA has failed to honor its CEQA commitments and contractual
+
+4 obligations to preserve in perpetuity the land in the manner that was agreed upon by
+
+5 CEQA mitigation and by contract executed by FORA, CNPS and Del Rey Oaks. CNPS
+
+6 has relied on the mitigations and the contract when CNPS forbore from challenging the
+
+7 FORA CEQA project approvals and other development. CNPS has fully performed
+
+8 under the contract. FORA has repudiated and violated, or intends to repudiate and
+9 violate, the FORA contract and not hold up its end of the bargain with CNPS. This
+10 litigation follows.
+
+11 Parties
+
+12 10. Petitioner and Plaintiff CALIFORNIA NATIVE PLANT SOCIETY (at times
+
+13 Petitioner, Plaintiff, and/or CNPS) is a non-profit public benefit corporation under the
+14 laws of the State of California. CNPS through its local Monterey Bay Chapter has been
+15 actively involved for decades in working to protect the biological resources at Fort Ord,
+16 starting in the 1960s.
+
+17 11. CNPS was responsible for FORA's adoption of biological Mitigation 3 for
+18 the General Jim Moore/Highway 218 road project, because CNPS submitted comments
+
+19 on the draft initial study pointing out inadequacies in the document, to which FORA
+20  responded by strengthening the language and adopting Mitigation 3. Mitigation 3 is at
+
+21 issue in this action. CNPS was specifically named in the FORA initial study for the
+
+22 South Boundary Road project, CNPS made CEQA comments on one or more road
+23 project at issue herein, and the CNPS comments were instrumental in one or more of
+
+24 the CEQA mitigations adopted by FORA as a result. CNPS also has raised the issues
+
+25 of the unimplemented mitigations for the General Jim Moore/Eucalyptus Road project.
+
+26 CNPS also is a party to the contract between FORA, CNPS, and the City of Del Rey
+
+27 Oaks executed in 1998 and amended in 1999 intended to help mitigate the significant
+
+28
+
+6
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+1 and unavoidable adverse impacts of the large road projects and other actions by FORA
+
+2 and the Army to harm protected biological resources.
+
+3 12. CALIFORNIA NATIVE PLANT SOCIETY is, and at all times herein
+
+4 mentioned has been, a section 501(c)(3) non-profit organization created with the
+
+5 mission "To conserve California native plants and their natural habitats, and increase
+6 understanding, appreciation, and horticultural use of native plants." Since its beginnings
+
+7 in 1965, the California Native Plant Society has been a leading voice in plant science
+
+8 and native plant appreciation, making it one of the foremost native plant organizations in
+
+9 the world. CNPS is dedicated to conserving California native plants and their natural
+
+10 habitats. CNPS is actively involved in advocacy to further its mission including filing
+
+11 litigation when appropriate. E.g., Save Agoura Cornell Knoll, California Native Plant
+
+12 Society V. City of Agoura Hills (2020) 46 Cal.App.5th 665; California Native Plant
+
+13 Society v. County of EI Dorado (2009) 170 Cal. App.4th1026. CNPS has longstanding
+
+14 interests in rare plants and habitat at Fort Ord, CNPS wrote the CEQA comments that
+
+15 gave rise to the Mitigation 3 at issue in this action, and CNPS a has a contractual interest
+
+16 in the habitat preserve - which CNPS refers to as Plant Reserve 1 North - at issue in -
+
+17 this action, and CNPS has acted in reliance on the mitigations and contract at issue in
+
+18 this action. CNPS has a material beneficial interest in these matters in the public
+
+19 interest and is beneficially interested in the outcome of the actions described below.
+20 CNPS participated in the proceedings giving rise to this action by commenting on CEQA
+21 documents, presenting written and oral comments to FORA and Del Rey Oaks, making
+
+22 California Public Records Act requests to FORA and Del Rey Oaks, meeting with FORA
+23 and Del Rey Oaks, and more. CNPS files this action in the public interest and on behalf
+
+24 of the public. CNPS has standing to pursue this action.
+
+25 13. Petitioner is informed and believes and on that basis alleges that
+
+26 Respondent and defendant FORT ORD REUSE AUTHORITY (FORA) is a public
+
+27 agency and a governmental entity under the laws of the State of California. (Gov.
+
+28 Code, §§ 67650-67700.) FORA is governed by a board of directors including a
+
+7
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+representative of Del Rey Oaks. FORA is subject to the California Environmental
+
+2 Quality Act (CEQA), the California Public Records Act (CPRA), and other laws. FORA
+
+3 is scheduled to sunset on June 30, 2020 by operation of law. (Gov. Code, § 67700(a).)
+
+4 FORA as lead agency adopted the CEQA mitigations and approved the three road
+
+5 projects at issue in this action. FORA also was the proponent of each of the three
+
+6 projects. FORA is a party to the 1998 contract between FORA, CNPS and Del Rey
+
+7 Oaks, as amended in 1999. The FORA engineer was present at and documented a
+
+8 March 2, 2000 meeting at which Del Rey Oaks accepted a 4.6 a acre parcel on a
+February 2000 map as the habitat area to be protected by the FORA-CNPS-Del Rey
+
+10 Oaks contract. FORA did not produce either the meeting minutes or the map to CNPS
+
+11 in response to a request dated December 6, 2019 from CNPS to FORA for the records
+
+12 under the California Public Records Act. FORA should have produced the minutes and
+13 the map because they were responsive to more than one category of records requested
+
+14 by CNPS.
+
+15 14. Petitioner is ignorant of the true names and capacities of Respondents
+
+16 and Defendants DOES 1 to 100 and therefore sues those respondents and defendants
+
+17 by these fictitious names. Petitioner will amend this complaint to allege their true names
+
+18 and capacities when ascertained.
+
+19 15. Petitioner is informed and believes and on that basis alleges that
+20  Respondent and defendant and real party in interest CITY OF DEL REY OAKS ("City"
+21 or "Del Rey Oaks") is a public agency in Monterey County, California. The three FORA-
+
+22 approved road projects at issue in this action are located within the city limits of Del Rey
+23 Oaks. In late May 2020, FORA approved a memorandum of agreement to give Del Rey
+
+24 Oaks $8.8 million that FORA has directed to be used to construct the South Boundary
+
+25 Road realignment project and a South Boundary Road/General Jim Moore intersection
+
+26 project that FORA approved in approximately 2005. Del Rey Oaks is a party to the
+
+27 1998 FORA-CNPS-Del Rey Oaks contract as amended in 1999. On March 2, 2000, Del
+
+28 Rey Oaks accepted the outlined 4.6 acre parcel as the habitat area to be protected by
+
+8
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+the FORA-CNPS-Del Rey Oaks contract, as documented in the meeting minutes dated
+
+2 March 2, 2000 and the February 2000 map attached to the minutes prepared by FORA.
+Del Rey Oaks did not produce either the minutes or the map to CNPS in response to
+
+4 the December 6, 2019 CNPS request for the records under the California Public
+
+5 Records Act. The minutes and the map were responsive to more than one category of
+
+6 records requested by CNPS.
+
+7 16. Petitioner is informed and believes and on that basis alleges that real
+
+8 party in interest LOCAL AGENCY FORMATION COMMISSION OF MONTEREY
+
+9 COUNTY ("LAFCO") is a public agency in Monterey County, California. LAFCO is
+
+10 required under the Fort Ord Reuse Authority Act as follows:
+
+11 "The Monterey County Local Agency Formation Commission
+
+12 shall provide for the orderly dissolution of the authority
+
+13 including ensuring that all contracts, agreements, and
+
+14 pledges to pay or repay money entered into by the authority
+
+15 are honored and properly administered, and that all assets of
+
+16 the authority are appropriately transferred."
+
+17 (Gov. Code, § 67700(b)(1).) LAFCO has asked FORA to address one or more of the
+18 issues identified in this petition, including specifically the status of the CNPS-FORA-Del
+
+19 Rey Oaks contract and other "urgent matters" that are "unresolved issues." (LAFCO
+20  letter to FORA, May 6, 2020, p. 2.)
+21 17. Petitioner is ignorant of the true names and capacities of Real Parties,
+
+22 Potential Parties, and/or Recipients of Approvals DOES 101 to 200 and therefore sues
+
+23 those parties by these fictitious names. Petitioner will amend this complaint to allege
+
+24 their true names and capacities when ascertained.
+
+25 18. Petitioner is informed and believes and thereon alleges that at all times
+
+26 material to the complaint, each of the respondents and defendants and each of the
+
+27 respondents and defendants fictitiously named in this petition and complaint, in addition
+
+28 to acting for himself/herself/itself, and on his/her/its behalf individually, is and was acting
+
+9
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+1 as the agent, servant, employee, and representative of, and with the knowledge,
+
+2 consent, and permission of, and in concert with, each and all of the respondents and
+
+3 defendants and within the course, scope, and authority of that agency, service,
+4 employment, representation, and conspiracy. Petitioner further alleges on information
+
+5 and belief that the acts of each of the respondents and defendants were fully ratified by
+
+6 each and all of the respondents and defendants. Specifically, and without limitation,
+
+7 Petitioner alleges on information and belief that the actions, failures to act, breaches,
+
+8 and misrepresentations alleged herein and attributed to one or more of the specific
+respondents and defendants were approved, ratified and done with the cooperation and
+
+10 knowledge of each and all of the respondents and defendants.
+
+11 Overview of the facts giving rise to this action.
+
+12 19. The facts in this case are complicated. The facts involve at least three
+13 separate FORA road projects that FORA approved in the years 1999, 2005 and 2010,
+
+14 respectively, and a FORA contract entered into in 1998, as amended in 1999, and
+15 further implemented in March 2000 through mutual assent by the parties. FORA has
+
+16 not admitted its failure to honor its commitment to obtain the required consent from
+
+17 CNPS as a prerequisite to proceeding with the realignment of South Boundary Road.
+
+18 FORA has not disclosed its failures to implement material CEQA mitigations for the two
+
+19 General Jim Moore road projects. FORA has never clearly presented the
+
+20 interrelationship of the three road projects or the significance of the contract in light of
+
+21 the three projects.
+
+22 Starting in the 1960s, CNPS secured 13 plant reserves at Fort Ord
+
+23 through negotiations with the United States Army,
+
+24 20. Fort Ord is known for its assemblage of rare maritime chaparral habitat
+25 and the numerous special status plants this habitat supports. (U.S. Army, February
+
+26 1976, Fort Ord Natural Resources Program - 1975 Report, pp.56-59; J.R. Griffin, July
+
+27 1976, Native Plant Reserves at Fort Ord, Fremontia, pp. 25-28.) Historically, CNPS
+28 sought to protect the habitat and plants from development impacts. By December 1989,
+
+10
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+1 CNPS had secured 13 plant reserves on Fort Ord through negotiation with the Army,
+2 agreements with the Army, and CEQA mitigation adopted by the Army as conditions of
+
+3 approval of Army development projects. The preserves were specifically in exchange
+
+4 for harm to the native plant habitats caused by Army construction. In exchange for the
+
+5 agreements, CNPS did not challenge the Army construction actions. (E.g., Dec. 20,
+
+6 1989 agreement between CNPS and Army.) The 13 original CNPS reserves were
+
+7 identified by number 1 through 13.
+
+8 21. Plant reserve is located at the northeast corner of General Jim Moore
+
+9 Boulevard (formerly North-South Road) and Highway 218 (also known as Canyon Del
+
+10 Rey Boulevard) in Del Rey Oaks. Plant Reserve 1 is bounded to the north by South
+
+11 Boundary Road, which is located generally parallel to and near the southern boundary
+
+12 of Fort Ord.
+
+13 22. In enacting the Fort Ord Reuse Authority Act, the Legislature declared four
+
+14 goals to be the policy of the State of California, including to "maintain and protect the
+
+15 unique environmental resources of the area." (Gov. Code, § 67651.)
+
+16 1997-1999 - FORA's "North South Road [General Jim Moore)
+
+17 Highway 218 Improvements Project."
+
+18 23. In approximately 1997, FORA proposed a road project called the "North
+
+19 South Road/Highway 218 Improvements Project." Shortly thereafter, North South Road
+
+20 was renamed "General Jim Moore Boulevard" and from this point on this pleading at
+
+21 times uses the current name for clarity. The project description included the
+22 reconstruction of approximately 1,500 linear feet of General Jim Moore Boulevard from
+
+23 State Highway 218 extending north past South Boundary Road, and included widening
+24 the existing roadway, grading, drainage, and installation of a signal at Highway 218/
+
+25 General Jim Moore Boulevard and associated modifications and turn lanes. (Final
+
+26 EA/IS, fig. 2 [Vicinity/Location], figs 3A and 3B project plans.)
+
+27 24. CNPS objected that the project would have harmful impacts on CNPS
+
+28 Plant Reserve #1 habitat and on rare plants. In February 1998, Del Rey Oaks mayor
+
+11
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+Jack Barlich sent a letter to CNPS, with copies to FORA, stating that Del Rey Oaks
+
+2 wanted to "mitigate any disturbance of habitat that may be caused as a result" of the
+road project, and that Del Rey Oaks endorsed utilizing land "of the City's parcel 29A" to
+
+4 provide the mitigation area being endorsed by the CNPS. FORA, Del Rey Oaks and
+
+5 CNPS negotiated an agreement signed in April 1998 that preserved land north of South
+
+6 Boundary Road and Plant Reserve #1 in exchange for the harmful impacts on the
+
+7 protected Reserve #1 habitat and plants. The contract stated that "The plant preserve
+
+8 [#1] is protected by the December 1989 agreement between the Army and CNPS as
+9 mitigation for loss of habitat caused by construction." The parties agreed that "The area
+
+10 affected [by the project] contains the best example of maritime chaparral in the
+
+11 preserve." (April 1998 contract.) The contract protected the area that CNPS then
+
+12 referred to as Reserve 1 North. In 1999, the contract between FORA, CNPS, and Del
+
+13 Rey Oaks was modified to strengthen Reserve 1 North and to modify one corner of the
+
+14 protected land to accommodate additional road improvements.
+
+15 25. In autumn 1998, FORA released a draft Environmental Assessment
+
+16 (EA/IS) for its North South Road (General Jim Moore) / Highway 218 Improvements
+
+17 Project. In December 1998, CNPS commented on the draft EA/IS. In response FORA
+
+18 amended the EA/IS, and in 1999 FORA approved the EA/IS, adopted CEQA Mitigation
+
+19 3 as one of the mitigations, and approved the project. The EA/IS discussion of impacts
+20 for biological impacts included this paragraph:
+
+21 Through a previous arrangement between the Amy and the
+
+22 California Native Plant Society, a maritime chaparral plant
+
+23 reserve was established south of South Boundary Road
+
+24 along the east side of North-South Road. According to the
+
+25 project plans, the proposed [North-South Road/General Jim
+
+26 Moore] roadway improvements would affect approximately
+
+27 0.33 acre within or directly adjacent to the CNPS reserve
+
+28 area. As a result of negotiations with the CNPS, FORA and
+
+12
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+3 the City of Del Rey Oaks agreed to preserve additional
+
+2 maritime chaparral habitat adjacent to the project site to
+
+3 compensate for potential conflicts with the existing CNPS
+
+4
+
+5 reserve. Pursuant to this agreement, the mitigation measure
+set forth below would reduce this impact to a
+
+6 less-than-significant level."
+
+7 26.
+
+8 Mitigation 3 echoed the EA/IS text noted above. Mitigation 3 included the
+following requirements:
+
+9
+
+10 FORA shall "preserve in perpetuity" maritime chaparral habitat "as a
+
+11 CNPS native plant area" at least "a minimum of 2.0 acres" located in the
+
+12 vicinity of "the northeast corner of North-South Road (which later was
+
+13 renamed General Jim Moore Boulevard) and South Boundary Road plus
+
+14 more land to serve as an "adequate buffer" from the proposed
+development to the north.
+
+15
+
+16 "Markers shall be established by the City of Del Rey Oaks to assure that
+
+17 there is no misunderstanding about the location or condition of the
+preserved area."
+
+18
+
+19 "Before any grading is done in carrying out this [General Jim
+
+20 Moore/Highway 218] project, the surveyor from Del Rey Oaks will meet
+
+21 with CNPS representatives in order to pinpoint and mark these locations."
+
+•
+
+22 "Requirements for this mitigation area are specified as follows."
+
+.
+
+23 "The habitat area shall be protected from fragmentation and degradation
+in perpetuity."
+
+24
+
+25 "No spraying or irrigation drainage shall be directed toward the habitat
+
+area."
+
+26 "No development shall be permitted in the plant reserve."
+
+27 (Final Environmental Assessment/Initial Study for the North-South Road/Highway 218
+28 Improvements Project, April 1999.) Appendix D-1 to the Final EA/IS was the 1998
+
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA 13
+PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+1 contract agreement between FORA, CNPS and Del Rey Oaks. The contract, as
+
+2 amended, is attached to this petition as Exhibit A.
+
+3 27. In 1999, FORA approved the General Jim Moore/Highway 218 project
+
+4 based on a mitigated negative declaration and the revised initial study. In addition to
+5 Mitigation 3 described above to mitigate for impacts to maritime chaparral, the EA/IS
+
+6 required Mitigation 6 because the "project-related impacts to . seaside bird's beak
+
+7 (state endangered) require special consideration" and "state lead agencies are directed
+
+8 under Section 2090 of the CESA to consult with CDFG [California Department of Fish &
+
+9 Game] for actions that could affect state-listed species." CESA is the California
+10 Endangered Species Act. The California Department of Fish and Game, now called
+
+11 California Department of Fish and Wildlife, is a trustee agency under CEQA. (CEQA
+12 Guidelines, §15386(a).) Mitigation 6 required FORA to "initiate consultation with CDFG
+
+13 to establish a project-specific basis for incidental take of seaside bird's beak in
+14 compliance with CESA, prior to project construction." (Final EA/IS, p. 29.)
+15 28. FORA did not comply with Mitigation 6. In May 2000, FORA submitted to
+16 the California Department of Fish & Game "a completed application, including a
+17  mitigation plan a for a permit for the incidental take of seaside bird's beak (Cordylanthus
+
+18 rigidus ssp. littoralis)" (Fish and Game Code, § 2081) that could result from the North-
+
+19 South Road/Highway 218 project at three different locations with the project site
+20 including at the northeast corner of General Jim Moore and South Boundary Road.
+
+21 (2000 FORA application, fig. 4.) FORA's application materials stated that "Biologists
+
+22 estimate that Fort Ord supports between 30 and 50 percent of the distribution of
+
+23 Seaside bird's beak (CDFG 1996)." FORA proposed to restore a degraded range area
+
+24 to establish new Seaside bird's beak colonies, and monitoring and reporting on the
+
+25 efficacy of the restoration as additional measures intended to mitigate the road project's
+26 impacts to Seaside bird's-beak. FORA's biological consultant had told FORA that
+
+27 "There are some unresolved issues with this application package" including "The
+28 mitigation program is not as thorough and habitat-oriented as [CDFG] will want. We can
+
+14
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+1 either spend more time developing it or send it in as is it and take our chances." He also
+
+2 warned that the proposed mitigation site was still in Army hands and FORA would "need
+
+3 to involve the Army and formalize an arrangement with them to pull this off.... The
+
+4 costs for the mitigation program are based on some guestimates and may not be
+
+5 enough to satisfy DFG, especially considering the habitat orientation [that CDFG senior
+
+6 staff] will want." (April 20, 2000 memo from Zander Associates to FORA project
+
+7 manager Jim Feeney, FORA engineer Birch Ohlinger, and director of planning Steve
+
+8 Endsley [former Del Rey Oaks city manager who was on FORA staff from 1999-2019].)
+
+9 Public records indicate that the California Department of Fish & Game did not issue the
+
+10 permit and FORA did not implement Mitigation 6. Thus, all mandatory mitigations for
+
+11 the 1999 General Jim Moore Boulevard/Highway 218 project's impacts to Seaside bird's
+
+12 beak have not been implemented. FORA constructed the project regardless.
+
+13 29. In February 2000, the U.S. Army Corps of Engineers (COE) was actively
+
+14 removing large amounts of vegetation from many acres of land north of South Boundary
+15 Road. CNPS representatives were alarmed about potential harm to the newly protected
+
+16 Plant Reserve 1 North. FORA set up a meeting of the parties to try to resolve the
+
+17 concerns.
+
+18 30. On March 2, 2000, at 2:00 PM, FORA engineer Birchard Ohlinger, Del
+
+19 Rey Oaks city manager Ron Langford, CNPS conservation chair Mary Ann Matthews,
+20 and the developer of a proposed project located to the north of the Reserve 1 North met
+
+21 for an hour and a half at the intersection of General Jim Moore and South Boundary
+
+22 Road. FORA's engineer managed FORA's capital projects, project approvals and
+
+23 project mitigations. Del Rey Oaks city manager Ron Langford was the longtime right
+
+24 hand of Mayor Jack Barlich and who acted at times concurrently as Del Rey Oaks' city
+
+25 clerk, police chief, and in other official roles and duties. Mary Ann (Corky) Matthews
+
+26 was a longtime Monterey Bay CNPS board member and the knowledgeable
+
+27 conservation chair of the chapter. Ms. Matthews is the author of "An Illustrated Field
+
+28 Key to the Flowering Plants of Monterey County and Ferns, Fern Allies, and Conifers,"
+
+15
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+1 first published in 1998. Ms. Matthews submitted CNPS's CEQA comments on various
+
+2 CEQA draft documents prepared by FORA for the road projects at issue in this action.
+
+3 31. That same day, March 2, 2000, FORA engineer Ohlinger prepared
+
+4 minutes. The minutes state in pertinent part as follows:
+
+5 "Meeting was set up as the CNPS habitat area had not been confirmed by
+
+6 the City of Del Rey Oaks. Mass vegetation cutting was ongoing north and
+
+7 south of South Boundary Road. The U.S. Army COE was following a map
+
+8 (attachment 1) showing the habitat area. Confirmation of this area as the
+
+9 preserve was needed from the City Of Del Rey Oaks."
+
+10 At the meeting, Del Rey Oaks and CNPS reviewed the referenced
+
+11 February 2000 map, and Del Rey Oaks and CNPS accepted that the
+
+12 "4.58-acre" parcel labeled "Habitat Area" was to be the protected habitat
+
+13 area in accordance with the terms of the FORA-CNPS-Del Rey Oaks
+
+14 contract. A small version of the map was referenced in and attached to
+15 the March 2, 2000 minutes. A large map given to CNPS.
+
+16 • The minutes and map are attached to this pleading as Exhibit B.
+
+17 The map is shown here:
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+16
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+1 32.
+
+2 Here is a screen shot of the map attached to March 2, 2000 minutes of
+
+3 meeting of FORA, CNPS and Del Rey Oaks, that shows the "Habitat Area" accepted by
+CNPS and Del Rey Oaks:
+
+4
+
+5
+
+6
+
+7
+8
+
+9
+
+10
+
+11 bitat Area
+
+12 0.1
+›ruary 2000
+13
+
+14 Habitat Area
+
+15 a = 4.58 acres
+
+16
+
+17 E Moore Biva. *4909 t
+
+18 South
+
+19
+
+20 118 Boundary Rd.
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA 17
+PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+r,
+
+1 33. In reliance on the assurance from Del Rey Oaks of the habitat area
+2 outlined on the map, CNPS then forbore from challenging the Army's actions to remove
+
+3 vegetation from the surrounding area, and the Army then continued to removed
+
+4 vegetation from the surrounding area, while keeping the "Habitat Area" parcel
+
+5 untouched, as shown by public records including aerial photographs. The March 2,
+
+6 2000 actions of FORA, Del Rey Oaks and CNPS show that the parties meant what they
+
+7 said in the contract: the habitat area accepted by the parties is a minimum of two acres
+
+8 plus adequate buffer. The accepted habitat area parcel is consistent with the terms on
+
+9 the face of the contract.
+
+10 34. FORA engineer Ohlinger sent his memorandum and minutes dated March
+
+11 2, 2000 to Del Rey Oaks, CNPS and the developer of the proposed project to the north.
+
+12 FORA and Del Rey Oaks later destroyed their copies of the minutes and the attached
+
+13 map, or they lost or withheld them, because neither the minutes nor the map were
+
+14 included in the responsive productions by FORA and Del Rey Oaks when in 2019
+
+15 CNPS made requests to the agencies under the California Public Records Act.
+
+16 35. Subsequent to the parties' acceptance of the "Habitat Area" in March
+
+17 2000, official records and maps start referring to the parcel as the "habitat area, " "CNPS
+
+18 parcel," and similar terms.
+
+19 36. In June 2003, the U.S. Army issued a draft Finding of Suitability for Early
+20 Transfer (FOSET). The draft was substantially similar to the final FOSET that was
+
+21 issued in 2004, as described immediately below, particularly with regard to the labeled
+
+22 "habitat area" of five acres.
+
+23 37. In approximately July 2004, the U.S. Army issued a Finding of Suitability
+
+24 for Early Transfer (FOSET) that transferred to FORA more than 340 acres of land north
+
+25 of South Boundary Road; that land was intended to be transferred eventually to Del Rey
+
+26 Oaks. The Army transfer included most of the 268-acre parcel E29a, which is what Del
+
+27 Rey Oaks Mayor Barlich had referred to as "the City's parcel 29A" in his February 1998
+
+28 letter to CNPS conservation chair Mary Ann Matthews. The Army FOSET text stated
+
+18
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+1 that "Included within Parcel E29a is an approximately 5-acre habitat reserve area that is
+
+2 not included in this transfer." The FOSET Table 1 also referred parcel E29a as follows:
+
+3 "The parcel includes a 5-acre habitat reserve that is not included in the transfer." The
+4 1 FOSET Plate 1 shows that the Army had carved out a small parcel from the 345-acre a
+
+5 parcel E29a. The Army called the small parcel "E29a. 1" and labeled it as a "HABITAT
+
+6 AREA" on FOSET Plate 1. The 2003 FOSET Plate 1 is attached to this petition as
+
+7 Exhibit C. The outline of parcel E29a. 1 on Plate 1 is the same outline as of the labeled
+
+8 "Habitat Area" shown on the map provided to CNPS on March 2, 2000.
+
+38. In 2004, the U.S. Army Corps of Engineers documented a walkabout of
+10 the "5 acre parcel known as 'DRO Habitat Area." The Army report attached a map
+
+11 showing the same outlined area that was identified in the March 2000 FORA minutes
+
+12 and attached map, and also the same as the Army's 2003 map. The 2004 Army report
+
+13 iS attached to this petition as Exhibit D.
+
+14 39. In 2005, the Army deeded to FORA hundreds of acres of undeveloped
+15 | land, including parcel E29a, that was intended to go to the City of Del Rey Oaks. The
+
+16 habitat area parcel is identified in the Army deed as "Exception Parcel B" that was not
+
+17 included in the transfer. The description of the property to be transferred included the
+18 specific references that "Excepting also therefrom the following described parcel of land
+
+19 for habitat preserve purposes." Exception Parcel "B" is described as contains "4.63
+
+20 acres more or less." The Army "Covenant to Restrict Use of Property: separately
+
+21 recorded on the land (Dec. 28, 2005 [doc. #2005135588]) attaches as Exhibit A and as
+
+22 Exhibit B the legal description of the property being transferred as excluding "Exception
+
+23 Parcel B" and described by the surveyor as "Excepting also therefrom the following
+24 described parcel of land for habitat preserve purposes" and stating that "Exception
+25 Parcel "B" contains 4.63 acres more or less."
+
+26 40. In or around March 2006, FORA deeded the Parcel E29a land to Del Rey
+
+27 Oaks. The 4.63-acre CNPS habitat reserve was "excepted" from the deed and
+
+28
+
+19
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+described in the same way as the language in the 2005 deeds from the Army to FORA
+
+2 described in the preceding paragraph.
+
+3 2005 - FORA's "General Jim Moore Boulevard/Eucalyptus Road Project"
+
+4 41. In or around March 2005, FORA released an EA/IS for the General Jim
+
+5 Moore Boulevard/Eucalyptus Road project. The project involved some 12,800 linear
+
+6 feet of General Jim Moore Boulevard roadway and related work, including realigning
+
+7 and widening General Jim Moore to 4 lanes to approximately 700 feet north of Highway
+
+8 218, plus an 18-foot wide center median, sidewalks, curbs and gutters. The project
+
+9 included an intersection at General Jim Moore and South Boundary Road "although
+
+10 these improvements may be constructed at a later date." (EA/IS.) Public records show
+
+11 that FORA's biological consultant had found the state endangered Seaside bird's beak
+
+12 at the existing intersection of General Jim Moore Boulevard and South Boundary Road.
+
+13 42. In or around September 2005, the FORA Board adopted the EA/IS,
+
+14 adopted a mitigation monitoring and reporting program, and approved the project. The
+
+15 adopted Biological Resources mitigations included Mitigation Measures (MM) 5 and 6,
+
+16 as follows:
+
+17 MM-5
+
+18 If the Habitat Conservation Plan and Implementation
+
+19 Agreement are not fully executed prior to initiation of
+20 construction, then a preconstruction biological survey shall
+
+21 be performed by a Qualified Biologist and independent
+
+22 authorization for incidental take for sand gilia and seaside
+
+23 bird's beak shall be obtained from the California Department
+
+24 of Fish and Game. The incidental take authorization will
+
+25 likely require mitigation for the loss of plants and suitable
+
+26 habitat for sand gilia and seaside bird's beak. FORA is
+
+27 currently undertaking efforts to mitigate sand gilia losses for
+
+28 other road improvement projects on the former Landfill [at
+
+20
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+oNoGA0 F N the far north end of Fort Ord adjacent to Imjin Road].
+Mitigation would follow what was approved with the
+issuance of take authorizations for previous road projects
+and result in an appropriate replacement ratio and creating
+suitable habitat as determined by the biologist hired to
+perform the preconstruction survey and consistent with
+California Department of Fish and Game requirements. This
+
+9 mitigation will not need to be implemented if there is an
+
+10 approved base wide Habitat Conservation Plan in place.
+MM-6
+
+11 To obtain incidental take authorization for seaside bird's
+
+12
+
+13 beak, the actual extent of Seaside bird's beak habitat and the
+
+number of individuals to be removed shall be determined
+
+14
+
+15 through appropriately timed directed surveys in the summer
+
+16 of 2005. Based on California Department of Fish and Game
+
+17 recommendations for previous mitigation proposals for
+
+18 seaside bird's beak, both the area impacted as well as the
+
+19 number of individuals lost should be mitigated at an
+
+20 appropriate replacement ratio as determined by the
+
+21 biologist hired to perform the time-directed surveys. . . . .
+
+22 This mitigation will not need to be implemented if there is an
+
+23 approved base wide Habitat Conservation Plan in place.
+
+43.
+
+24 2005 General Jim Moore Boulevard Mitigation Measures MM-5 and MM-6
+
+25 have not been implemented. Both mitigations are legally required to be implemented
+
+26 because no Habitat Conservation Plan is in place and none is expected to be in place
+
+27 before FORA sunsets. The mitigation monitoring plan stated for both mitigations as
+
+follows:
+
+28
+
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA 21
+PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+1 Party Responsible for Implementation: FORA
+
+2 Party Responsible for Monitoring/Reporting: FORA
+
+3 44. FORA has not acknowledged that these mitigations have not been
+
+4 implemented and has not assigned responsibility for implementing them.
+
+5 2010 - FORA's South Boundary Road realignment project.
+
+6 45. In 2010 FORA prepared and adopted an EA/IS for the FORA South
+
+7 Boundary Road realignment and widening project. The road realignment would go
+
+8 directly through the protected 4.6-acre CNPS habitat area. The 2010 EA/IS Map 5a, the
+
+9 "South Boundary Road Habitat Map," is attached to this petition as Exhibit E.
+
+10 46. The EA/IS states that FORA must "renegotiate" the location of the habitat
+
+11 reserve area with CNPS before FORA can proceed with the South Boundary Road
+
+12 project, and if FORA cannot renegotiate the location then FORA cannot proceed with
+
+13 the project. The EA/IS language reflects the terms in the FORA-CNPS contract that
+14 require "the permanent protection" of the habitat, that the reserve "area will be protected
+15 from fragmentation and degradation in perpetuity," that "the boundaries must avoid road
+16 widening that would affect the reserve," that "any future widening which would affect the
+
+17 habitat would require renegotiation of this agreement," and that "No development would
+
+18 be permitted in the plant reserve." The EA/IS language also reflects the adopted CEQA
+
+19 Mitigation 3 of the General Jim Moore Boulevard project. There is no dispute that
+20  FORA included as part of the project description that a renegotiated agreement with
+
+21 CNPS is required before FORA can proceed with the road widening project.
+
+22 47. FORA did not consult with CNPS before FORA prepared and adopted the
+23 EA/IS for the South Boundary Road project, and CNPS was unable to comment on the
+
+24 EA/IS because FORA did not contact CNPS. The requirement to renegotiate the CNPS
+25 contract is not listed as a mitigation in the EA/IS.
+
+26 48. In 2014, the public interest organization Keep Fort Ord Wild made a
+27 California Public Records Act Request to FORA for the records showing "The current
+
+28 status of any of the following regarding South Boundary Road: construction, approvals,
+
+22
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+1 and implementation" and "The CEQA review to date of South Boundary Road." In
+
+2 March 2014, FORA responded that there had been no project-specific review and
+
+3 "South Boundary Road CEQA review to date was limited to its inclusion in the basewide
+transportation network as presented in the Base Reuse Plan Environmental Impact
+
+5 Report" that FORA had adopted in 1997. FORA project manager James Arnold stated
+
+6 that environmental review under CEQA would take place in the future and "the timing of
+
+7 environmental review, plan preparation and potential construction will be moved out in
+
+8 time to correspond with Habitat Conservation Plan approval and development fee
+
+9 projections." In a March 2014 email, FORA project manager Arnold explained the
+
+10 status of South Boundary Road:
+
+11 Some biological resource studies were done by an earlier
+
+12 DRO [Del Rey Oaks] proposed developer which indicated
+
+13 that there were listed plant species in the road corridor.
+Lacking the HCP [Habitat Conservation Plan] there was no
+14 mitigation for the takes [of endangered species] that would
+
+15 be required and, therefore; there was no point in undertaking
+
+16 an environmental document knowing that, until the HCP was
+adopted, there was no way to deal with loss of plants.
+17 49. As stated above, FORA has not approved a Habitat Conservation Plan
+18 and has stated that one will not be approved before FORA sunsets.
+19 50. FORA's 2014 response as to the project-specific CEQA review was
+20 contradicted by FORA in 2018 and 2019 during the KFOW v. FORA litigation, when
+21 FORA claimed to have approved project-specific CEQA review of South Boundary Road
+22 in 2010, and FORA prevailed in that litigation primarily for that reason - that the
+23 statutory time to challenge the approvals had expired.
+24 51. Under CEQA the environmental document must clearly identify and
+25 describe all significant effects of the project on the environment, and discuss feasible
+26 mitigation measures for each significant environmental effect that is identified. (§ 21100,
+27 subd. (b); CEQA Guidelines, §§ 15126.2, subd. (a), 15126.4, subd. (a)(1).) Where the
+28
+
+23
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+1 initial study identifies potentially significant environmental effects but those effects can
+
+2 be fully mitigated by changes in the project and the project applicant agrees to
+3 incorporate those changes, the agency may prepare a mitigated negative declaration.
+
+4 This ends CEQA review. (Pub. Resources Code, § 21080, subds. (c), (d).) Here,
+
+5 FORA was the project applicant for the South Boundary Road realignment. The initial
+
+6 study indicated potentially significant environmental effects of the realignment on the
+
+7 CNPS plant reserve. FORA incorporated into the project the requirement that CNPS
+
+8 agreement would be required to realign the road as proposed. FORA thus proceeded
+
+g with a mitigated negative declaration.
+
+10 52. Public Resources Code section 21002.1, subdivision (b) states: that
+
+11 "Each public agency shall mitigate or avoid the significant effects on the environment of
+
+12 projects that it carries out or approves whenever it is feasible to do so." Furthermore,
+
+13 "[a] public agency shall provide that measures to mitigate or avoid significant effects on
+
+14 the environment are fully enforceable through permit conditions, agreements, or other
+15 measures." Section 21003.1 states that "The purpose of these requirements is to
+
+16 ensure that feasible mitigation measures will actually be implemented as a condition of
+
+17 development, and not merely adopted and then neglected or disregarded." The
+
+18 appellate courts have recognized that CEQA requires an agency to take steps to ensure
+
+19 that mitigation measures will actually be implemented as a condition of development,
+20 and not merely adopted and then neglected or discarded.'" (Napa Citizens for Honest
+
+21 Government v. Napa County Bd. of Supervisors (2001) 91 Cal.App.4th 342, 358-359.)
+
+22 There is a presumption that the governing body adopted the mitigation measure in the
+
+23 first place only after due investigation and consideration. (ld.) ) The lead agency is
+
+24 under a continuing duty to ensure the project's conditions of approval are fulfilled.
+
+25 (Sierra Club v. County of San Diego (2014) 231 Cal.App.4th 1152, 1167-1168.)
+
+26 53. FORA's failures to implement the past mitigations for the three road
+
+27 projects and to list the unimplemented mitigations to ensure they are assigned to parties
+
+28 who accept them and carry them out, FORA's denials that the FORA-CNPS-Del Rey
+
+24
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+Oaks contract is enforceable after FORA's sunset, FORA's passing off the South
+
+2 Boundary Road project to Del Rey Oaks for construction despite the opposition of
+
+3 CNPS, are inadequate and contrary to law. FORA has reneged on the position it took
+
+4 with regard to the necessary successful renegotiation with CNPS of the reserve
+
+5 location. That FORA action effectively negates the Mitigation 3 adopted for 3 the General
+
+6 Jim Moore/Highway 218 project, is inconsistent with the law, with public policy, and with
+
+7 FORA's 1999 approvals of the project. FORA has not reviewed the continuing need for
+
+8 the mitigation, has not stated a legitimate or legally adequate reason for its actions, and
+
+9 has not followed a transparent public process in effectively deleting the mitigation.
+
+10 (Napa Citizens for Honest Gov't v. Napa County Bd. of Supervisors (2001) 91 Cal.4th
+
+11 342, 359; Katzeff v. Department of Forestry & Fire Protection (2010) 181 Cal.App.4th
+
+12 601, 614.)
+
+13 54. The public interest in public agencies enforcing their adopted
+14 environmental mitigations is high. There is strong public policy and public interest in
+
+15 favor of ensuring an public agency's commitment to and implementation of its CEQA
+16 mitigations adopted at the time of the agency's project approvals, which is legally
+
+17 required. There is strong public policy and public interest in favor of ensuring the
+
+18 compliance with FORA's adopted mitigations for the loss of habitat and individual
+
+19 species in Fort Ord. California Native Plant Society in this action is representing the
+20 | public and the public interest with regard to the mitigation of impacts resulting from harm
+
+21 to protected species and habitat and the injury to the public interest will be irreparable if
+22 the petition is not heard. If not redressed, FORA's actions would perpetuate public
+23 wrongs and would burden the public and the public resources of the region with the
+
+24 effects of the illegal deletion of environmental mitigations that FORA had adopted to
+
+25 help alleviate the projects' significant and unavoidable impacts.
+
+26 55. FORA's failure to implement mitigation measures is particularly egregious
+
+27 where, as here, two of the large road projects are already mostly built. Respondent's
+
+28 actions include but are not limited to FORA's failures to implement its adopted CEQA
+
+25
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+conditions for its own road projects, and FORA's failure to carry out its own commitment
+
+2 as project proponent and lead agency to ensure CNPS's consent to the South Boundary
+
+3 Road realignment. FORA now wants to construct the South Boundary Road
+
+4 realignment as well as a relocated intersection with General Jim Moore Boulevard which
+
+5 FORA apparently now proposes as a roundabout that would require an even larger
+
+6 footprint and incursion into the Plant Reserve 1 North than a traditional intersection.
+
+7 56. In 2017, CNPS first learned of the approved realignment of South
+
+8 Boundary Road and of the statement in the EA/IS that CNPS had to agree to a
+9 "relocation" of the plant Reserve 1 North. FORA did not give this information to CNPS.
+10 The information came from Keep Fort Ord Wild, which discovered the 2010 EA/IS that
+
+11 FORA had denied existed. CNPS promptly contacted FORA Board in writing and in
+
+12 person. FORA did not respond for more than a year.
+
+13 57. In 2018, in a legal brief filed by FORA as part of a different CEQA litigation
+14 involving South Boundary Road project approvals, FORA stated "The EA/IS also
+15 addresses and provides for Project impacts upon the "reserve" created by agreement
+
+16 between FORA and the California Native Plant Society (CNPS) generally recognizing
+
+17 that the proposed project alignment can only proceed if a modification can be
+18 negotiated with CNPS." The FORA brief further states "[T]he CNPS preserve must
+
+19 remain untouched unless the agreement regarding that preserve is successfully
+20 renegotiated."
+
+21 58. In February of 2019, FORA counsel, as part of the same CEQA litigation
+
+22 involving South Boundary Road, stated in open court: The FORA EA/IS "states
+
+23 squarely that FORA is going to have to reach an agreement with the California Native
+
+24 Plant Society or - and that's the purpose of alternative two, that if it can't then it [FORA]
+
+25 would proceed with the second alternative project under the Initial Study."
+
+26 59. In February 2019, at the Monterey Superior Court hearing, the judge,
+
+27 having reviewed the EA/IS and having heard the arguments of the parties stated "My
+
+28 understanding is that actually the Plant Society is in the driver's seat currently with
+
+26
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+1 respect to where the road ultimately is, whether it's in the approved roadway or whether
+
+2 it is alternative 2. Alternative 2 was specifically put in there because of FORA's
+
+3 recognition that the Native Plant Society may say . . . we don't see a way that you can
+
+4 have your new extension and still preserve our area. So, it still seems like the Native
+
+5 Plant Society is in the driver's seat, not FORA."
+
+6 60. Since February 2019, FORA's actions have contravened its CEQA
+
+7 commitments, its stated position in briefing to the Court, and the Superior Court judge's
+
+8 view. FORA finally met with CNPS for the first time in December 2018, more than eight
+
+9 years after FORA approved the South Boundary Road project. FORA sought
+
+10 alternately to avoid the issue, and to persuade CNPS to consent to the "relocation" of
+
+11 the habitat reserve. FORA and Del Rey Oaks have destroyed, lost or failed to disclose
+12 their records of the March 2000 acceptance and the February 2000 map of the "Habitat
+
+13 Area" accepted by Del Rey Oaks and CNPS, and FORA and Del Rey Oaks tried to
+
+14 obtain a strategic advantage over CNPS by hiding the information. In response CNPS
+15 has steadfastly expressed its concern as to the harmful impacts of the realignment on
+16 the habitat area that is Plant Reserve North. CNPS has explained in person and in
+17 writing to FORA the scientific reasons for CNPS's opposition to putting a road through
+
+18 the habitat area.
+
+19 61. Respondent's actions, and each of them, as described above and as
+20 shown in the record of proceedings herein, constitute a prejudicial abuse of discretion.
+
+21 Respondent failed to proceed in the manner required by law, did not apply or satisfy the
+
+22 procedural and substantive safeguards and requirements of CEQA, and did not
+23 adequately mitigate impacts.
+
+24 62. Petitioner complied with Public Resources Code section 21167.5 by, on
+25 May 31, 2020 mailing notice to the FORT ORD REUSE AUTHORITY, CITY OF DEL
+
+26 REY OAKS, and LOCAL AGENCY FORMATION COMMISSION OF MONTEREY
+
+27 COUNTY, of Petitioner's intent to file an action under CEQA. A certificate of service of
+28 that letter is attached to this pleading as Exhibit F.
+
+27
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+1 63. To the extent that Respondents or Real Parties may argue that the FORA
+
+2 memorandum of agreement (MOA) with Del Rey Oaks that FORA approved on May 22,
+
+3 2020 addresses the issues identified in this petition, the argument fails.
+
+4 64. The purpose of the FORA-Del Rey Oaks MOA is primarily to
+
+5 transfer some $8.8 million from FORA to Del Rey Oaks to construct two specified
+
+6 road projects.
+
+7 65. The MOA makes no mention of the need for implementation of the
+
+8 adopted specific mitigations identified here. The FORA-Del Rey Oaks MOA does
+9 not include the General Jim Moore Boulevard/Highway 218 project as an
+
+10 "Improvement" for which mitigations must be implemented.
+
+11 66. The MOA makes no mention of the need for compliance with the
+
+12 CNPS contract and the FORA commitment to ensure CNPS agreement with the
+
+13 location of the South Boundary Road realignment or else an alternative to the
+
+14 realignment project must be pursued.
+
+15 67. Recital E says that Del Rey Oaks shall carry out all responsibilities
+
+16 as lead agency for the Improvements" but nothing says that Del Rey Oaks will
+
+17 step into FORA's shoes as the South Boundary Road project proponent and
+
+18 either get CNPS consent or not realign the road as currently designed and
+
+19 approved by FORA. In any event, CEQA only authorizes the transfer of lead
+20 agency under specific circumstances not present here, SO the legality and
+21 effectiveness of this very recent FORA-Del Rey Oaks MOA term is unreliable at
+
+22 best.
+
+23 68. CNPS consent to the realignment through Plant Reserve 1 North 1
+
+24 a not listed as a formal mitigation and thus is not addressed in the MOA either by
+
+25 implication or as a mitigation, and the EA/IS does not call it a mitigation. FORA
+
+26 counsel has described the required CEQA consent as a "mitigation" to the
+
+27 Superior Court. (Nov. 2018 brief of FORA, Case no. 17CV004540, Keep Fort
+
+28 Ord Wild V. FORA.)
+
+28
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE: COMPLAINT
+
+1 69. MOA paragraph 27 says "This MOA contains the entire
+
+2 understanding between the Parties and supersedes any prior written or oral
+
+3 understandings and agreements regarding the subject matter of this MOA.
+
+4 There are no representations, agreements, arrangements or understandings, or
+
+5 written, between the Parties relating to the subject matter of this MOA which are
+
+6 not fully expressed herein." This integration clause essentially abandons the
+
+7 FORA commitment to get CNPS consent to the realignment, because it is not
+
+8 "fully expressed" in the MOA and nothing in the MOA assigns that role to Del Rey
+
+9 Oaks. The integration clause also effectively says that the FORA position is that
+
+10 the FORA-CNPS-Del Rey Oaks contract is of no force and effect.
+
+11 70. CNPS objected in writing and in person to the FORA-Del Rey Oaks
+
+12 MOA before FORA approved it.
+
+13 71. Once a public agency incorporates the mitigation measures into the
+
+14 project as conditions of approval, as here, the agency is bound to them. "Having placed
+
+15 these conditions on the .. . . project, the [agency] cannot simply ignore them. Mitigating
+
+16 conditions are not mere expressions of hope." (Lincoln Place Tenants Association v.
+
+17 City of Los Angeles (2005) 130 Cal.App.4th 1491, 1508.) The public policy behind the
+18 commitment to mitigations is perhaps even more significant when the public agency is
+
+19 also the project proponent. The mitigations at issue here remain practical and
+20 workable. The law does not condone FORA's effort to abandon responsibility through
+21 FORA's dissolution regarding FORA's unimplemented mitigations for projects that
+22 FORA has already constructed in large part.
+
+23 72. CNPS and others have presented to FORA and Del Rey Oaks in person
+
+24 and in writing the concerns and issues addressed in this action, and provided copies to
+25 LAFCO. CNPS has standing to pursue this matter.
+
+26 73. CNPS twice has offered to meet with FORA and Del Rey Oaks and has
+27 proposed prompt mediation. FORA and Del Rey Oaks have not accepted the offers to
+
+28 meet or the proposed mediation.
+
+29
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+1 74. After the parcel E29a. 1 left Army ownership, the parcel was given an
+
+2 assessor parcel number and designated APN 031-191-013. As of the preparation of
+
+3 this pleading in late May 2020, public records show that FORA is the owner of record of
+
+4 APN 031-191-013, the 4.6-acre 1 Reserve 1 North parcel.
+
+5 75. The Monterey County Local Agency Formation Commission (LAFCO) is
+
+6 aware of the disputes addressed in this action and LAFCO staff has urged FORA to
+
+7 resolve the disputes prior to FORA's sunset on June 30, 2020.
+
+8 WHEREFORE, Petitioner prays for relief and for entry of judgment as described
+
+9 below.
+
+10 Second Claim - Mandate - California Public Records Act
+
+11 (Against Fort Ord Reuse Authority and City of Del Rey Oaks)
+
+12 76. Petitioner incorporates and realleges the preceding paragraphs 1 through
+
+13 75, as if fully set forth herein.
+
+14 77. On December 6, 2019, CNPS made separate California Public Records
+
+15 Act requests to FORA and to Del Rey Oaks. Each request had the subject line
+16 "Subject: Del Rey Oaks/Fort Ord/plant reserve areas." The requests and asked for
+
+17 access to the records in the following categories.
+
+18 1. All deeds and deed restrictions for and applicable to the rare
+
+19 plant reserve 1A, also referred to as rare plant reserve 1 North. It is
+
+20 called Army Corps of Engineer Parcel Number: E29a.1. ....
+
+21 3. All maps and other graphic, visual, and written references that
+
+22 show and/or refer to one or more of the following: parcel number
+
+23 E29a.1, rare plant preserve 1A, rare plant reserve 1 North, the 1
+
+24 habitat reserve area(s) at the sites, and/or any aspect(s) thereof,
+
+25 including boundaries and acreage.
+
+26 7. All records of communications involving FORA and Del Rey
+
+27 Oaks regarding one or both of the following: South Boundary Road,
+
+28 and plant reserve 1A (aka 1 North)
+
+30
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+8. All agreements of any kind, including but not limited to ...
+
+2 memoranda, negotiation agreements, term sheets, contracts,
+
+3 etc., that reference and/or apply to plant reserve 1A,.
+
+4 78. The March 2, 2000 meeting minutes and the attached February 2000 map
+
+5 are responsive to categories 3, 7 and 8 of the requests. Neither FORA nor Del Rey
+
+6 Oaks produced the minutes or the map. FORA and Del Rey Oaks destroyed, withheld
+
+7 or lost the minutes and the map. The minutes shows the acceptance of the parties of
+
+8 the 4.6-acre habitat area shown on the map and shows the reasons behind the
+9 acceptance of the parties, and the reasons for the forbearance by CNPS. These are
+
+10 public records related to land use, real property contracts and CEQA mitigations, and
+
+11 they should have been preserved in perpetuity by the agencies. Instead, FORA and Del
+
+12 Rey Oaks withheld them, lost them, or destroyed them in violation of law, and the
+
+13 agencies did not produce the records in response to the California Public Records Act
+
+14 requests of CNPS.
+
+15 WHEREFORE, Petitioner prays for relief and for entry of judgment as described
+
+16 below.
+
+17 COMPLAINT FOR DECLARATORY RELIEF
+
+18 (Breach of contract - against Fort Ord Reuse Authority and Del Rey Oaks)
+
+19 79. Petitioner incorporates and realleges the preceding paragraphs through
+20 78, as if fully set forth herein.
+
+21 80. FORA has failed to preserve in perpetuity the habitat area in the manner
+
+22 that was agreed upon by contract executed by FORA, CNPS and Del Rey Oaks. FORA
+23 got the benefit of the contract. FORA also has breached the FORA-CNPS-Del Rey
+
+24 Oaks contract by FORA's anticipatory repudiation when FORA failed to place the
+
+25 contract on the official list of contracts to be assigned due to FORA's dissolution and
+
+26 when FORA stated on May 14, 2020 that FORA's "Legal counsel has reviewed all
+27 agreements and believes that all have been satisfied and/or may no longer be
+28  enforceable post FORA sunset," and by the breach of the covenant of good faith and
+
+31
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+fair dealing by losing, destroying, or failing to disclose the minutes and map that
+
+2 document and show the accepted habitat area, by the failure to communicate and
+
+3 consult with CNPS prior to the adoption of the South Boundary Road EA/IS, by the
+
+4 failure over nine years to reach out to CNPS to discuss the approved realignment until
+
+5 FORA is on the brink of dissolution, by the inaccurate representations of the habitat
+
+6 area as the small 2.25-acre area shown in the South Boundary Road EA/IS, and by
+
+7 improper behavior toward CNPS to try to get CNPS to agree to the realignment and
+
+8 accept a "relocated" habitat area that is smaller than 2 acres.
+
+9 81. FORA as a public entity is going to sunset in June 30, 2020 and still has
+10 not reached a resolution with CNPS with regard to this controversy. FORA has not
+
+11 assigned a successor agency, and no agency has accepted the responsibility, to carry
+
+12 out FORA commitments and FORA mitigations for the FORA projects that would harm
+
+13 Plant Reserve 1 North.
+
+14 82. An actual, present controversy exists as to the legal rights and duties of
+15 the parties in that Petitioner contends that FORA has a duty to carry out its end of the
+16 bargain, and to ensure that a party will step into the shoes of FORA and implement
+
+17 FORA's promises in the FORA-CNPS-Del Rey Oaks contract. Petitioner further
+
+18 contends that FORA and Del Rey Oaks have a duty to deal with Petitioner in good faith
+
+19 and fair dealing under the contract, to provide the FORA and Del Rey Oaks records that
+20 documented the acceptance of the 4.6 acre parcel as the Habitat Area, and to inform
+
+21 Petitioner of the proposed road project that would harm the intent of the FORA-CNPS-
+
+22 Del Rey Oaks contract and the rights of CNPS as described in the contract. FORA
+
+23 denies that it has such duties.
+
+24 83. Petitioner has no adequate and speedy remedy to resolve the parties'
+
+25 dispute other than by declaratory judgment from this Court. Because of the urgency
+
+26 and importance of the issues presented by the parties' dispute, it is necessary and
+
+27 appropriate for the Court to resolve this dispute by issuing a judicial declaration
+
+28 determining the respective rights and obligations of the parties.
+
+32
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+1 84.
+
+2 This issue is appropriate for declaratory relief. "Declaratory relief is
+
+3 appropriate to obtain judicial clarification of the parties' rights and obligations under
+
+4 applicable law." (Californians for Native Salmon v. Department of Forestry (1990) 221
+Cal.App.3d 1419, 1427.)
+WHEREFORE. Petitioner
+
+6 prays for entry of judgment as described below.
+PRAYER
+
+7 PETITION
+
+co
+9 Mandate - first claim - California Environmental Quality Act
+(against Fort Ord Reuse Authority)
+
+10 WHEREFORE, Petitioner prays for:
+
+11
+
+12 1. An order directing FORA to assign and have accepted by a successor agency
+
+13 prior to FORA's sunset the CEQA mitigations that have not been fully implemented for
+the three FORA road projects at issue, or similar relief.
+
+14
+
+15 2. A peremptory writ of mandate directing FORA and its successor in interest to
+
+16 honor FORA's commitment, as stated in the FORA-adopted 2010 Environmental
+
+17 Assessment/Initial Study, that if CNPS consent is not obtained to the South Boundary
+Road realignment project then FORA and its successor in interest cannot construct the
+18 realignment and, in accordance with the adopted EA/IS, "Alternative #2 provides an
+19 alternate" alignment, and Alternative #2 or other alternatives must be explored if the
+20 successor in interest wants to pursue the project, or similar relief.
+
+21
+
+22 3. Other relief that prevents FORA from proceeding with the three road projects
+
+23 at issue in the action unless and until the FORA commitments and CEQA mitigations
+are fully implemented.
+
+24
+
+25 4. An award of attorney fees and costs to Petitioner as permitted by law,
+including Code of Civil Procedure section 1021.5.
+
+26 5. Other temporary and permanent injunctive relief.
+
+27
+
+28 6. Such other relief that the Court considers just and proper.
+
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA 33
+PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+1 Mandate - second claim - California Public Records Act
+
+2 (against Fort Ord Reuse Authority and Del Rey Oaks)
+
+3 WHEREFORE, Petitioner prays for:
+
+4 1. For immediate disclosure of the March 2, 2000 minutes and the February
+
+5 2000 map, which are public records that CNPS requested in December 2019.
+
+6 2. An order requiring FORA and Del Rey Oaks to ensure that the March 2, 2000
+
+7 FORA minutes and the February 2000 map of the "Habitat Area" are made part of their
+8 agency's permanent public records of the CNPS contract and of the records of the
+9 property.
+
+10 3. An award of attorney fees and costs to Petitioner as permitted by law,
+
+11 including Code of Civil Procedure section 1021.5.
+
+12 4. Other temporary and permanent injunctive relief.
+
+13 5. Such other relief that the Court considers just and proper.
+
+14 COMPLAINT
+
+15 (Declaratory relief - against Fort Ord Reuse Authority and Del Rey Oaks)
+
+16 WHEREFORE, Petitioner prays for:
+
+17 1. Injunctive relief that requires FORA to include the FORA-CNPS-Del Rey Oaks
+
+18 contract on the list of FORA obligations that must be assigned and accepted by a
+
+19 successor public agency prior to FORA's dissolution, or other similar relief, or an order
+20 that prohibits FORA from excluding the FORA-CNPS-Del Rey Oaks contract from the
+
+21 list of FORA obligations that must be assigned and accepted by a successor public
+
+22 agency prior to FORA's dissolution, or other similar relief, such that there is a successor
+
+23 in interest to FORA's responsibilities in the contract.
+
+24 2. A judicial determination and a declaration of the rights and duties of the
+
+25 parties in regard to the FORA-CNPS-Del Rey Oaks contract for Plant Reserve 1 North
+
+26 and the alleged breaches of contract by FORA and Del Rey Oaks.
+
+27 3. Specific performance of the contract between FORA, CNPS and Del Rey
+
+28 Oaks.
+
+34
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+1 4. An award of attorney fees and costs to Petitioner as permitted by law,
+2 including Code of Civil Procedure section 1021.5.
+3 5. Other temporary and permanent injunctive relief.
+4 6. Such other relief that the Court considers just and proper.
+
+5
+
+6 Respectfully submitted,
+7 Dated: June 2, 2020 STAMP | ERICKSON
+
+8
+
+9 Wall
+
+10 by: Molly Erckson
+11
+
+12 WITTWER PARKIN
+William P. Parkin
+
+13 Pearl Kan
+
+14 Attorneys for Petitioner and Plaintiff
+CALIFORNIA NATIVE PLANT SOCIETY
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+35
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+VERIFICATION
+
+2 I, Brian LeNeve, declare as follows:
+
+3 am the president of the Board of Directors of the Monterey Bay Chapter of the
+
+4 California Native Plant Society, petitioner and plaintiff in the above matter. I have read
+
+5 the petition and complaint in this matter, and know the contents thereof. The same is
+
+6 true of my own knowledge, except as to matters that are therein alleged on information
+7 and belief, and as to those matters, I believe them to be true.
+
+8 I declare under penalty of perjury under the laws of the State of California that
+9 the foregoing is true and correct, and that this Verification was executed this 2d day of
+10 June, 2020, in Chanel California.
+11
+
+12
+
+13 Brian LeNeve
+14.
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21 22
+28
+24
+
+25
+
+26
+
+27
+
+28
+
+36
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+1 INDEX OF EXHIBITS
+
+2 Exhibit Page(s)
+3 A 1998 FORA-CNPS-Del Rey Oaks contract as amended in 38-43
+
+4 1999
+
+5
+
+6 B March 2, 2000 meeting minutes and attached map of 44-46
+
+7 "Habitat Area"
+
+8
+
+9 C 2003 U.S. Army FOSET Plate 1 47
+
+10
+
+11 D 2004 U.S. Army walkabout report and map 48-51
+
+12
+
+13 E 2010 South Boundary Road Environmental Assessment / 52-53
+
+14 Initial Study (EA/IS) map showing proposed realignment
+
+15 through habitat area
+
+16
+
+17 F Proof of service of California Native Plant Society notice of 54
+
+18 intent to initiate litigation
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+37
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PETITION FOR WRIT OF MANDATE; COMPLAINT
+
+22/14/1990 . 33:28 .530304 MATTHES FAGE. 01
+Exhibits to' petition/complaint, p. 38
+Montersy Bay Chaptep California Native Plant Society,
+
+April 22, 1998
+
+Fort Ord Reuse Autherity 100 12*h Street
+Building 2880
+Marina, CA 93933
+
+This letter describes an agreement that CNP$ off ers to the City of Del Rey Oaks/FORA in regardu to the road widening project that impinges on Plant Reserve #1 at Fort Ord. The plant reserve is protected by the December 1989 agreement between the Army and CNPS as mitigstion for low of habitat cauved by construction. CNPS will secept the babitat low in exchange for permanent protection of comparable habitat acrcea South Boundary Road.
+
+On provious Éeld tripe the representative of FORA and the City of Del Rey Oaka have agreed to minimize the area of maritime chapazral that will be reraoved hy the proponed North South Roud widening. The amount is cotispatod at 0.2 aczes of chaparral. This num ber is approximate. The area affected contains the best oxcople of martime chaparcal in the preserve.
+
+The chapter agrees that prevervaticu of minimum of two acren óf compacable maritime chaparral located approximately at the northeast conser of South Bouadary Road and North- South Road, will comperuate for the lows of chaparral, provided there is an adequate buffar to assure that golf course drainage will not impinge on the habitat, and that the area will be protected frot fragmentation and degradation in perpetuity. The buur.daries must avoid road widoning that would affect the Any future widening which would effect the habitat, would require renegotiation of this agreument. In addition, no apraying or irrigation drainage should be directed towarda the habitat arta. No development would be perritted in the plant reservo.
+
+1! the plant rexerve should be damaged in a manner contrary to the terrcs of this agreement, then the City of Del Rey Owks, the developer, or successOr ouners will restore the area by replanling with site-specific plant matariala to the original configuration. The area involved will be documented with photographa by CNPS and markers established by the City of Del Rey Oaks to assure that there in no misunderstanding about the location  condition of the preserved arcas. If a disagreement srixes on Intorpectation of this agreement, a mutually agreed upon consultant shall be engaged to resolve the dirpute, with fecs and costs paid one third by CNPS and turt- thizd, by the City (or one thind cach by the City and Drmloper). If the diaputod iaane ia uphald
+
+02/11/1994 23; 52 831€! 304 MATTHEWS PAGE 01
+
+Exhibits to petition/complaint, p. 39
+
+and work in required to rectify the problern, all required work and convultant time shall be paid by the City, ar.d/or Developex, including CNPS's share of the initial consultation fec, and the work shall take place in the manner recommended by the consultant
+
+Sincerely Yours' Ratd L.froa w.D.
+Rönald L. Branson, M.D., President
+Muery Ma Tantarss
+Maryi Matthews, Conservation Chair LulOcball MOAaD City of Del Roy Oaka FORA Representative
+Gpclb23.1978 Artl23,)9r.. Date Date
+
+California Native Plaht Society b. 40
+
+July 1, 1999
+
+Mr. Michael A. Houlemard, Jr., Executive Officer
+Fort Ord Reuse Authority
+100 12th St., Bldg. 2880
+Marina, CA 93933
+
+Mayor Jack D. Barlich, Mayor City of Del Rey Oaks
+650 Canyon Del Rey Road Del Rey Oaks, CA
+
+SUBJECT: Modification of Agreement among California Native Plant Society (CNPS), the
+Fort Ord Reuse Authority (FORA), and the City Of Del Rey Oaks (DRO)
+This letter summarizes the June 21, 1999 renegotiation of the April, 1998 agreement (copy attached) among representatives of CNPS, FORA and DRO, regarding the road widening project that impinges on Plant Reserve #1 at the former Fort Ord (Project). Based upon the field trip to the Project site conducted on June 21, 1999 by representatives of the parties and the parties subsequent discussions, the parties agree as follows:
+
+a) The modifications herein to the letter agreemerit noted above pertain to the area adjacent to the intersection of North-South Rd. and South Boundary Rd. More particularly, it is the area to the east of North-South Rd. (on the northeasterly side of the intersection) and to the north of South Boundary Rd.(on the northeasterly side of the intersection).
+
+b) The Project shall be constructed as shown on the enclosed map (identified as Exhibit A) with grading to be limited to the area designated as areas 1 and 2 on Exhibit A. It is expressly understood by the parties that the boundaries shown in Exhibit A are the renegotiated boundaries of the area to be preserved, agreed to by CNPS after FORA agreed to modify the intersection as described in paragraph c below.
+FORA expressly agrees that the Project will not cause any removal of chaparral adjacent to the north side of South Boundary Rd.
+
+c) The areas shown as areas 2 and 3 on Exhibit A shall eventually be planted in a manner a acceptable to CNPS, at FORA's expense, and maintained for at least five years with native plants such as CNPS-approved chaparral or other CNPS-approved plants on native type soil coming from area 1. If it is not possible for such plants to be planted sO as to resist erosion by commencement of the 1999/2000 rainy season, FORA shall ensure that appropriate plantings or other protective measures (jute netting or temporary hydroseed, etc.) are put in place until the long-term planting occurs. That planting shall occur no later than prior to commencement of the 2000/2001 rainy season. All parties agree that it
+
+A Dedicated to the preservation of California native flora
+
+Exhibits to petition/complaint, p. 41
+Page 2
+
+is the intent of this agreement to preserve the appearance of native chaparral along the northeasterly side of the North-South Road intersection with South Boundary Road in the
+Project area,
+
+d) During construction of the Project, the existing fence along South Boundary Rd. shall be kept in place except if removal is necessary for construction purposes the fence shall be replaced by other appropriate temporary protective devices. Upon completion of the work along South Boundary Rd., the fence shall be installed in the Iocation shown on
+Exhibit A.
+
+e) FORA agrees to provide to CNPS a videotape showing the areas and markers addressed by this agreement prior to implementation of the Project. This agreement to provide the videotape replaces the April, 1998 agreement by CNPS to document the area with
+photographs.
+
+f) Except as described herein, all provisions of the agreement dated April 22, 1998 attached hereto, not in conflict with this agreement, shall remain unchanged and in effect.
+This summary of the parties' June 21, 1999 negotiation was originally drafted by FORA and DRO, then modified by CNPS, and subsequently agreed to by all parties. Thus, in the case of uncertainty as to its meaning, it shall not be interpreted against any one party. It may be executed in several counterparts, each of which shail be deemed an original.
+
+Sincerely Yours,
+Crm4L0 Rosemary Donion, President
+
+Enclosed: Exhibit A (map)
+Signatures below constitute concurrence with the terms set forth above:
+Ttsss deani aisur Mary Ann Matthews, Conservation Chair California Native Plant Society Jack D. Barlich, Mayor
+City of Del Rey Oaks
+
+Date Eszure  pa Date
+
+TFE
+Michael A. Houlemard, Jr., Executiyé Officer
+Fort Ord Reuse Authority
+3/4/99
+Date
+
+Exhibits to petition/complaint, p. 42
+
+Page 2
+is the intent of this agreement to preserve the appearance of native chaparral along the northeasterly side of the North-South Road intersection with South Boundary Road in the Project area,
+
+d) During construction of the Project, the existing fence along South Boundary Rd. shall be kept in place except if removal is necessary for construction purposes the fence shall be replaced by other appropriate temporary protective devices. Upon completion of the work along South Boundary Rd., the fence shall be installed in the location shown on Exhibit A.
+
+e) FORA agrees to provide to CNPS a videotape showing the areas and markers addressed by this agreement prior to implementation of the Project. This agreement to provide the videotape replaces the April, 1998 agreement by CNPS to document the area with photographs.
+
+f Except as described herein, all provisions of the agreement dated April 22, 1998 attached hereto, not in conflict with this agreement, shall remain unchanged and in effect.
+This summary of the parties' June 21, 1999 negotiation was originally drafted by FORA and DRO, then modified by CNPS, and subsequently agreed to by all partics. Thus, in the case of uncertainty as to its meaning, it shall not be interpreted against any one party. It may be executed in several counterparts, each of which shall be deemed an original.
+Sincerely Yours,
+Coe, dL0 Rosemary Donion, President
+
+Enclosed: Exhibit A (map)
+Signatures below constitute concurrence with the terms set forth above:
+Durse ddane-Pdedtbesears PFonsee l
+Mary Knn Matthews, Conservation Chair California Native Plant Society Saok-: Bartich, Mayor TosKrd D ResaKuL City of Del Rey Oaks vizt rdfes
+
+Date bzofe Date
+
+Michael A. Houlemard, Jr., Executive Officer
+Fort Ord Reuse Authority
+
+Date
+
+Hopif sechoFxhihits to petition/complaint, p. 43 CRCCMENT AMOIG CALPORAIA Hpnvc PuApTs $outery, 4 Foar do RERd AUTORrRy, Asao tte CaTy OF DEL Rey OAWS cnt EDl c. or EaapianyCAcu) LEGEND
+
+• Area to be planted and maintaloed
+Arér 1.
+Arrow to Area extends into
+Apca westernmost quadrant
+
+hamg wase Latrr Of Ganseaoe)
+Arrows to Areas 2 and 3 exLend LO
+mid-point óf Areas 2 and 3
+
+DoLGE UNE 07P)
+
+NORIN,'SOUTH E SOUTH BOUNDARY ROAD
+mtataedpit net 000• 4t1 1F, 0-10 10 44n
+
+Ex Babir"At
+
+Exhibits to petition/complaint, p. 44
+Fort Ord Reuse Authority 100 12th Street, Building 2880. Marina, CA 93933 Phone: (831) 883-3672 - Fax: (83 i) 883-3675
+
+FAX COVER SHEET
+DATE: 2 Mar 00
+
+TO:
+Oave Miller DBO Dev. Co. Fax: 649-0394 v Mary Mathews California Native Plants Fax:659-0304
+Ron L.angford City of Del Rey Oaks Fax: 394-8511
+
+FRÖM: Birchard Ohlinger, P.E. FAX: (831) 883-3675
+Phone: (831) 883-3672
+NUMBER OF PAGES IN THIS FAX: 3.
+MESSAGE;
+
+Could you please review the attached minutes and let me know if I have forgotten anything,
+
+Sincerely:
+2200 Birvhard Ohlinger
+
+Exhibits to petition/complaint, p. 45
+
+MINUTES OF MEEETING
+
+Locatien: Intersection of South Boundary Rd and Gen. Jim Moore Blvd.
+Däte/Times 2 March 2000 at 2:00 E
+
+People Present: Birchard Ohlinger FORA (831) 883-3672
+Rou Langford Del Rey Oaks (831) 394-8511
+David Miller DBO Devel. (831) 649-0394
+Mary Mathews CNPS (831) 659-2528
+
+1. Meeting was set up as the CNPS habitat arca had nor been confirmed by the City of Del Rey Oaks. Mass vegetation outting was ongoing north and south of South Boundary Road. The U.S. Army COE was following a map (attachment 1) showing tbe habität area. Confirmation of this area as the preserve was needed from the City Of Del Rey Oaks. 3. Dave Milier indicated that other areas within the golf course areas may be better suited for the preserve as they would not be adjacent to the road way which may be kesvily traveled in the future. in 3. Mirs. Mathews indicated that CNPS desires their acreage as olose a proximity to the existing preserve and that the road north of South boundary Rösd is similer to what will be taken within the existing preserve by the intersecton improvement project slated to start in the next few weeks. They have a strong interest in the vegetation growing in the bank along South Boundary Road.
+4. The actual location of the 2 acre preserve within the 4.58 area was not identifled. Por
+the CNPS agreement dated 22 April 1998 and modified on 1 July 1999 a 2 acre buffer
+
+5 ls required thus the approximately 4 acre habitat arca identified on the attäched map. Dave Miller and Ron Langford accepted that the area showii en the attached map shall be the habitat area. 6. One last issue was discussed concerned the South Boundary Raad right of way. The
+Base Reuse Plan Indicates a 140 foot right of way and the Record of Survey indicates
+a 60 foot right of way. It is not knows how this will impact the area in the future.
+
+Meeting adjourned at 3:30
+
+Exhibits to petition/complaint, p. 46
+
+E †OE Boundary F E
+
+"PAI8 eJOON w!o 'ue Area 0007 KuDny 29,C
+
+Exhibits to petition/complaint, p. 47
+
+TR0242 EXPLANATION
+CSt] Transtor Parcol with Mambor
+
+•HABITAT ON Not Pert of mhis tranafer
+
+AREA Ouading with ID Mmbine
+
+E29a
+531a E310 F310* 296 C0ILg TR9261
+
+TR2901
+
+TR$260 -**7
+
+BOUNDARY OF FORMER E29b.1
+
+FORT ORD 800. 800 Feel
+
+Index Mat
+
+Location Map
+
+Percol Boundartes shown are approximate and are not MACTEC Dei Rey Oils FOSET
+
+intendad ta roproseni a tegal doscription ol tbe proporty Fomnar Fort Ord
+Monterwy. Calfomta
+
+JCF * HANFA 52703 00134 10/00 Trunsch
+6/03
+
+•
+
+Exhibits to petition/complaint, p. 48
+
+DER DEPARTMENT OF THE ARMY
+U.S. ARMY ENGINRER DISTRICT, SACRAMENTO CORPS OF ENGINÉERS
+1325 J STREET
+SACRAMENTO, CALIFORNIA 95854-2922
+
+NEPRY ND ATPENE LON OX:
+
+AUG O 3 2004
+
+CESPK-PM
+
+MEMORANDUM FORMs. Gail Youngblood, Fort Ord Office, Army Base Realignment and Closure, Monterey, CA 93944
+
+SUBJECT: Del Rey Oaks 5-acre Parcol Walkabout
+
+I. REFERENCES:
+
+a. U.S. Army Corps of Engineers (USACE), Sacramento District, 200L. Site Del Rey Oaks Group After Action Report Goophysical Sampling, Investigation and Removal, Former Fort Ord. Monterey, California. Final, Prepared by USA Environmental, Inc., April.
+b. U.S Army Corps of Engineers (USACE), 2000. Unexploded Ordnance (UXO) Support During Hazardous, Toxic, arid Radioactive Waste (HTRW) and Construction Activities. EP 75-1-2. Prepared by U.S. Army Engineering and Support Center, Huntsville, November.
+C. Parsons, 2004. Del Rey Oaks Walk about Memorandum for Record. August.
+2. At the request of the US Army Corps of Engineers, Sacramento Distriet, Parsons conducted a "walkabout - A Schonstedt assisted visual reconnaissance" over a 5-acre parcel known as "DRO) Habitat Area" on 7 June 2004. The walkabout was limited to accessible areas only (attached map) Additional details can be found on attached letter from Parsons, 3 August 2004. The area is contained within the Impact Area which was previously used for ordnance training operations. During the walkabout no military munitions (MM) or debris (MD) were found. As result, under EP-75-1-2, the subject area cau be categorized as a low probability area to encounter Unexploded Ordnance (UXO). EP-75-1-2 requires the following: (1) a UXO team consisting of a minimum of two qualified UXO personnel (one UXO Technician III and one UXO Technician II) to support construction activities including oversight and monitoring, (2) OE recognition training for all construction workers performing ground disturbing activities, and (3) on-site UXO safety briefings prior to initiation of any ground disturbing activities. The U.S. Army should make necessary arrangements for disposal of any ordnance found in the subject area.
+
+Exhibits to petition/complaint, p. 49
+
+CESPK-PM
+SUBJECT: Del Rey Oaks S-acre Parcel Walkabout
+
+3, The U.S. Army should evaluate ground disturbing activities performed at the subject site after work is completed to determine if additional ordnance safety measures are required.
+4. If you have any questions, please contact Mr. Juan Koponen, Project Manager, at (83l) 884-9925 ext. 233 or Mr. Clinton Huckins at (831) 884-9925 ext 226.
+Ley Sela, George Siller
+Program Manager U.S. Army Corps of Engineers, Sacramento District
+
+CC (w/encls):
+PM-M (George Siller) (Juan Koponen)
+CO-Monterey (Clinton Huckins)
+
+Exhibits to petition/complaint, p. 50
+
+PARSONS
+Buliding 4522 - 8ih Avanue & Jos Lloyd Way Ord Milkary Community, CA 93944
+
+3 August 2004
+
+MEMORANDUM FOR RECORD, Revised
+
+A site walkabout was performed in accessible arcas of tho S acre DRO Group Habitat arca on June 7,5 2004. Arcas under accessible tree canopies and small pathways with low to moderate growth vegetation were investigated.
+The personnel conducting the site walkabout consisted of two UXO QC personnel, one swept accessible arcas with a Schonstedt GA52Cx flux-gate magnetometor and the second porson carried a Leica Global Positioning System which documented the path walked and checked with the Schonstedt magnetometer. All 12 anomalics encountered were investigated and detcrmined to be Range Related Debris (RRD) consisting of c-ration cans, wire, and assorted miscellancous scrap. No Military Munitions (MM) or Munitions Debris (MD) were encountered.
+As illustrated on the attached site walkabout map, access was restricted due to extremely dense
+vegctation
+
+The table shown below lists the MM/MD items that were encountored outside the 5 acre Habitat parcel
+doring prior DRO Group Military Munitions removal action conducted in CY 2000.
+
+Condition. RIA Code GRID OE Type QTY Depth Weight Nomenclature Expended MD
+Expended
+35 l MD -01 0 Rocket, 2.36inch, practice, MT 0 33 E
+0 331
+MD 0 9 Q 1 FRAGMENTS, UNKNOWN
+FRAGMENT, UNKNOWN •Expended 0
+I 4 0 Grenade, hand, smoke, MI8 series UXO 40 G UXO
+
+The US Army Corps of Enginecrs requires that construction support be provided on sites where the probability of encountering UXO is low. These requirements arc cstablished in BP. 75-1-2, Unexploded Ordnance (UXO) Toxie, and Radioactive Waste (HTRW) and Construction Activities, 20
+November 2000,
+
+Based on information from previous removal actions in the surrounding arca, the level of construction support should include the following: (1) UXO safety support during construction activities including oversight and monitoring, (2) OE recognition training, and (3) on-sito UXO safety briefings prior to initiation of any on-site intrusivo activities.
+Any questions regarding this site walkabout can be addressed by contacting Mike Coon (831) 884- 2306 or Andreas Kothleitner (831) 884-2313.
+
+Regards,
+
+Gary Griffith
+
+Exhibits to petition/complaint, p. 51
+
+MRS-DRO.1 Habital
+Site Walk
+
+MEC/MD
+• UXO
+DMM
+® MD.
+Habitat Area LROD Site Walk Path
+MRS•DRO.1
+Fort Ord Boundary
+
+GA ARAY EORPO CF SHENEERS
+FORMER FORT ORD MONTEREY, CALIFORNIA
+
+u  fon DeMwy parcive
+tet Prectnsh wowzedln pnain itsc dord
+
+Exhibits to petition/complaint, p. 52
+
+Environmental Assessment (EA)/Initial Study (IS)
+
+FOR
+
+South Boundary Road/Gigling Road
+Improvement Project
+Volume II of II
+
+Prepared For:
+Fort Ord Reuse Authority (FORA)
+100 1 2th Street, Bldg, 2880
+Marina, CA 93933
+Contact: James Arnold
+Tel: (831) 883-3672
+
+Prepared by:
+PMC®
+
+585 Cannery Row, Suite 304
+Monterey, CA 93940
+Tel: (831) 644-9174
+
+Creegan and D'Angelo Consulting Enginéers
+225 H Canmery Row
+Monterey, CA: 93940
+Tel: (831) 373-1333
+
+May 2010
+
+Exhibits to petitionie
+
+Legend
+Project Footprint
+20. Foot Temporary Construction Zone
+Coastal Oak Woodland
+Maritime Chaparral
+Paved Roadway
+
+Map 5a Urban/Ruderal
+
+South Boundary Road Hobitai Map
+PMC Aa VAO
+
+Q
+
+Exhibits to petition/complaint, p. 54
+
+1 PROOF OF SERVICE
+
+2 STATE OF CALIFORNIA, COUNTY OF MONTEREY
+
+3 am employed in the County of Monterey, State of California. I am over the age of 18, and not a party to the within action. My business address is Box 2448, Monterey, 4 California 93942. My email address is erickson@stamplaw.us.
+
+5 On May 31, 2020, I served the one-page document described as follows:
+
+6 Letter on behalf of California Native Plant Society with "Subject:
+
+7 Notice of intent to initiate litigation under the California Environmental Quality Act and California Public Records Act"
+
+8 X) via mail through the United States Postal Service in separate envelopes addressed as shown below, and via email and no error message was received, 9 to addresses as stated below.
+
+10 Mailed on May 31, 2020 by Jane Parker, Chair
+11 delivery to the U.S. Post Board of Directors Office in envelopes Fort Ord Reuse Authority 920 2nd Ave. 12 addressed as follows: Marina, CA 93933
+13 Alison Kerr, Mayor
+14 City Council City of Del Rey Oaks
+15 650 Canyon Del Rey Blvd. Del Rey Oaks, CA 93940
+16 LAFCO of Monterey County
+17 c/o Kate McKenna, Executive Officer 132 W. Gabilan St., #102
+18 Salinas, CA 93901
+Emailed on May 31, 2020 To: Josh Metz <josh@fora.org>; Supervisor Jane 19 Parker <district4@co.monterey.ca.us>; Alison Kerr <akerr@delreyoaks.org>; Dino Pick 20 <dpick@delreyoaks.org>; Kate X5016 McKenna <mckennak@monterey.lafco.ca.gov> 21
+
+22 Mailed and emailed on May 31, 2020. Executed on June 1, 2020 at Monterey, California. I declare under penalty of perjury under the laws of the State of California
+23 that the above is true and correct.
+
+24 OTIVE
+25 nECEL U 0, 20200 2020 Ne 9 Molly Erickson
+26 IUN
+
+27 BY: ---
+
+28
+
+CALIFORNIA NATIVE PLANT SOCIETY V. FORA PROOF OF SERVICE
+OF NOTICE OF INTENT TO INITIATE LITIGATION

@@ -1,0 +1,1293 @@
+1 ANGELA JOHNSON MESZAROS, CA Bar No. 174130
+
+2 ameszaros@earthjustice.org
+BYRON CHAN, CA Bar No. 306043
+
+3 bchan@earthjustice.org
+
+4 SHANA E. EMILE, CA Bar No. 319794
+semile@earthjustice.org
+
+5 EARTHJUSTICE
+707 Wilshire Boulevard, Suite 4300
+
+6 Los Angeles, CA 90017
+
+7 Tel: (415) 217-2000
+Fax: (213) 403-4822
+
+8 Counsel for Petitioner/Plaintiff Sierra Club
+
+9
+
+10
+
+11 IN THE SUPERIOR COURT OF THE STATE OF CALIFORNIA
+IN AND FOR THE COUNTY OF LOS ANGELES
+
+12 CENTRAL DISTRICT
+
+SIERRA CLUB,
+13 Case No.:
+
+14 Petitioner/Plaintiff, (California Environmental Quality Act)
+
+15 V. NOTICE TO ATTORNEY GENERAL OF
+
+16 CITY OF GLENDALE, a municipal
+
+17 corporation; GLENDALE CITY COUNCIL, THE STATE OF CALIFORNIA OF
+
+governing body of the City of Glendale; VERIFIED CEQA PETITION FOR WRIT
+OF MANDATE
+
+18 GLENDALE WATER AND POWER, a local
+public agency; and DOES 1-20, inclusive, [Pub. Res. Code § 21167.7]
+
+19
+
+20 Respondents/Defendants.
+
+NS 22 23
+
+24
+
+25
+
+26
+
+27
+
+28
+- 1 -
+NOTICE TO ATTORNEY GENERAL OF THE STATE OF CALIFORNIA OF VERIFIED
+CEQA PETITION FOR WRIT OF MANDATE
+
+1
+
+2 TO THE ATTORNEY GENERAL OF THE STATE OF CALIFORNIA:
+
+3 PLEASE TAKE NOTICE that under California Public Resources Code section 21167.7
+
+4 and California Code of Civil Procedure section 388, Petitioner/Plaintiff SIERRA CLUB
+
+5 (*Petitioner") will file the attached verified petition for writ of mandate under the provisions of
+
+6 the California Environmental Quality Act ("CEQA"), California Public Resources Code section
+
+7 21000, et seq., against Respondents/Defendants CITY OF GLENDALE, GLENDALE CITY
+
+8 COUNCIL, and GLENDALE WATER AND POWER ("Respondents") in Los Angeles County
+Superior Court.
+
+9
+
+10 The petition challenges Respondents' actions in approving and certifying the
+
+11 Environmental Impact Report ("EIR") for replacement of the natural gas fired units at the
+
+12 Grayson Power Plant with five new internal combustion engines (Grayson Repowering
+
+13 Project"), and alleges that Respondents violated CEQA and abused their discretion by certifying
+legally deficient EIR.
+
+14
+
+15
+
+16 Respectfully Submitted,
+
+EARTHJUSTICE
+
+17
+18 DATED: March 18, 2022
+19 Buron Chan BYRON CHAN
+
+20 SHANA E. EMILE
+
+M ANGELA JOHNSON MESZAROS
+
+22 Attorneys for Petitioner/Plaintiff Sierra Club
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+- 2 -
+NOTICE TO ATTORNEY GENERAL OF THE STATE OF CALIFORNIA OF VERIFIED
+CEQA PETITION FOR WRIT OF MANDATE
+
+-
+
+2 DECLARATION OF PROOF OF SERVICE
+
+I, Lupe Ruelas, declare:
+
+3
+
+4 I am a resident of the State of California, and I am over the age of 18 years and not a party to
+
+5 the within entitled action. My business address is 707 Wilshire Boulevard, Suite 4300, Los
+Angeles, CA 90017.
+
+6
+
+7 hereby certify that on March 18, 2022, I served the following document(s):
+
+8 (1) NOTICE TO ATTORNEY GENERAL OF THE STATE OF CALIFORNIA OF
+
+9 VERIFIED CEQA PETITION FOR WRIT OF MANDATE; and
+
+10 (2) PETITIONER'S VERIFIED PETITION FOR WRIT OF MANDATE
+
+11 (X) VIA FIRST-CLASS MAIL by enclosing the document(s) in a sealed envelope or package
+
+12 addressed to the person(s) set forth below and depositing the sealed envelope with the United
+
+13 States Postal Service, with the postage fully prepaid, following this organization's ordinary
+practices with which I am I readily familiar.
+
+14
+
+15 (X) VIA E-MAIL by causing the document(s) to be sent to the person(s) at the e-mail
+address(es) listed below.
+
+16
+
+17 CEQA Coordinator
+
+18 Office of the Attorney General
+Environment Section
+
+19 1300 "I" Street
+Sacramento, CA 95814-2919
+
+20 Email: CEQA@doj.ca.gov.
+
+21
+
+22
+
+23 declare under penalty of perjury under the laws of the State of California that the
+
+24 foregoing is true and correct. Executed on March 18, 2022, in Los Angeles, California.
+
+25
+
+26 Lupe Ruelas
+
+27
+
+28
+
+PROOF OF SERVICE
+
+- ANGELA JOHNSON MESZAROS, CA Bar No. 174130
+
+2 ameszaros@earthjustice.org
+BYRON CHAN, CA Bar No. 306043
+
+3 bchan@earthjustice.org
+SHANA E. EMILE, CA Bar No. 319794
+4 semile@earthjustice.org
+EARTHJUSTICE
+5 707 Wilshire Boulevard, Suite 4300
+
+6 Los Angeles, CA 90017
+Tel: (415) 217-2000
+7 Fax: (213) 403-4822
+
+8 Counsel for Petitioner/Plaintiff Sierra Club
+
+9
+
+10 IN THE SUPERIOR COURT OF THE STATE OF CALIFORNIA
+IN AND FOR THE COUNTY OF LOS ANGELES
+11 CENTRAL DISTRICT
+12 SIERRA CLUB, Case No.:
+13 Petitioner/Plaintiff,
+14 (California Environmental Quality Act)
+
+V.
+15 VERIFIED PETITION FOR WRIT OF
+MANDATE AND COMPLAINT FOR
+16 CITY OF GLENDALE, a municipal
+corporation; GLENDALE CITY COUNCIL, DECLARATORY AND INJUNCTIVE
+
+17 governing body of the City of Glendale; RELIEF UNDER THE CALIFORNIA
+
+18 GLENDALE WATER AND POWER, a local ENVIRONMENTAL QUALITY ACT
+
+public agency; and DOES 1-20, inclusive; [Code Civ. Proc., §§1060, 1085, 1094.5;
+19 Respondents/Defendants. CEQA (Pub. Resources Code, §§ 21000 et
+
+20 seq.)]
+
+3848 24
+25
+
+26
+
+27
+
+28
+- 1 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+- I. INTRODUCTION
+
+2 1.
+
+3 The Grayson Power Plant (*Grayson" or "Power Plant") is an outmoded facility at
+
+4 the end of its useful life in the City of Glendale ("City" or "Glendale"). Rather than taking this
+
+5 moment to develop a realistic picture of its energy needs and how to meet those needs in a way
+
+6 that protects health and the environment, the Glendale City Council adopted a project to install
+
+7 five new natural gas fired engines ("Grayson Repowering Project" or "the Project").
+
+2.
+
+8 As required by the California Environmental Quality Act ("CEQA"), the City
+
+9 prepared an environmental impact report ("EIR") to identify and analyze the environmental
+
+10 impacts of the Grayson Repowering Project. The fundamental goal of CEQA is to ensure that
+
+11 decisionmakers and the public have complete information about the environmental impacts of a
+
+12 proposed project before its approval. However, the EIR for the Grayson Repowering Project
+
+13 misinforms the public and decisionmakers to justify a project that continues to rely on
+combustion to generate electricity.
+
+14 3.
+
+15 The Project Description in the EIR paints an inaccurate and incomplete picture of
+
+16 the Project that dramatically inflates Glendale's energy needs. Glendale Water and Power uses
+
+17 this inflated energy need to arbitrarily reject several viable alternatives, including a feasible clean
+
+18 energy alternative that could accelerate Glendale's transition away from fossil fuels and reduce
+
+19 impacts to health and the environment. This inflated energy need also disguises Glendale's
+
+20 potential sale of excess fossil-fired energy to neighboring regions.
+
+4.
+
+21 Additionally, the EIR overlooks the potentially significant and harmful effects of
+
+22 the Grayson Repowering Project on environmental justice communities. Although the EIR shows
+
+23 that the Project will lead to an increase in air toxins and pollutants, the EIR ignores the resulting
+impacts to surrounding environmental justice communities.
+
+24 5.
+
+25 Further, the EIR includes plans to burn hydrogen as part of the Grayson
+
+26 Repowering Project but fails to analyze the impacts related to burning hydrogen.
+
+6.
+
+27 Despite these deficiencies in the EIR, the Glendale City Council certified the EIR
+
+28 and approved the Grayson Repowering Project. The fundamental flaws in the EIR contradict
+
+- 2 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+-
+
+2 CEQA's requirement to ensure that decisionmakers and the public understand the impacts of
+
+3 projects on the environment and take steps to reduce those impacts when feasible. Accordingly,
+
+4 the EIR is legally deficient and unfit for certification under CEQA.
+
+II. PARTIES
+
+5 7.
+
+6 Petitioner SIERRA CLUB is a non-profit, grassroots environmental organization
+
+7 dedicated to exploring, enjoying, and protecting the wild places of the earth; to practicing and
+
+8 promoting the responsible use of the earth's ecosystems and resources; to educating and
+
+9 encouraging humanity to protect and restore the quality of the natural and human environment;
+
+10 and to using all lawful means to carry out these objectives. Sierra Club is one of the oldest and
+
+11 largest conservation groups in the country, with more than 800,000 members nationally in over
+
+12 60 chapters in the 50 states, the District of Columbia, and Puerto Rico. Sierra Club's particular
+
+13 interest in this case and the issues concerning this case stem from Sierra Club's goals to reduce
+
+14 reliance on fossil fuels and protect the health of vulnerable communities. The Sierra Club's
+
+15 Verdugo Hills Group is one of 14 Regional Groups of the Angeles Chapter of the Sierra Club.
+
+16 The Verdugo Hills Group works in partnership with the Glendale Environmental Coalition as
+well as Burbank activists to support climate, clean
+
+17 energy, solid waste, and other environmental
+
+18 issues. Sierra Club has approximately 1,200 members in the Verdugo Hills Group and nearly
+
+19 40,000 members in the Angeles Chapter that will be impacted by the Grayson Repowering
+
+20 Project. These members live, work, and recreate in cities that are affected by the proposed
+
+21 project. The Sierra Club participated extensively in the CEQA administrative process the City
+
+22 used to develop and approve the Grayson Repowering Project. Specifically, the Sierra Club
+
+23 submitted a petition with over 200 Glendale resident signatures opposing the Grayson
+
+24 Repowering Project, filed comments identifying deficiencies in the City's Draft and Final EIRs,
+and testified at numerous meetings.
+
+25 8.
+
+26 By this action, Petitioner seeks to protect the health, welfare, and economic
+
+27 interests of its members and the general public and to enforce a public duty owed to them by the
+
+28 City of Glendale. Petitioner's members have an interest in their health and well-being, as well as
+
+- 3 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+-
+
+2 conservation, environmental, aesthetic, and economic interests in the Los Angeles environment.
+
+3 Petitioner's members who live, work, and recreate near the Grayson Power Plant and in Los
+
+4 Angeles County have a right to, and a beneficial interest in, the City of Glendale's compliance
+
+5 with CEQA. These interests have been, and continue to be, threatened by the City's decision to
+
+6 certify the EIR and approve the Project in violation of CEQA, and unless the relief requested in
+
+7 this case is granted, will continue to be adversely affected and irreparably injured by the failure
+of the City of Glendale to comply with the law.
+
+8 9.
+
+9 Respondent, CITY OF GLENDALE ("City" or "Glendale") is a political
+
+10 subdivision of the State of California organized and existing under the laws of the State of
+
+11 California, with the capacity to sue and be sued. The City is the lead agency charged with
+
+12 principal responsibility for ensuring the Project's compliance with CEQA, pursuant to Public
+Resources Code section 21067.
+
+13 10.
+
+14 Respondent, GLENDALE CITY COUNCIL is the decision-making body for the
+
+15 City of Glendale. The City Council certified the EIR, approved the Grayson Repowering Project,
+
+16 and filed the Notice of Determination for these actions on February 17, 2022.
+
+11.
+
+17 Respondent, GLENDALE WATER AND POWER ("GWP") is a municipal
+
+18 utility that serves the City of Glendale. GWP prepared the EIR and related CEQA findings that
+the City Council ultimately certified and adopted.
+
+19 12.
+
+20 As referred to herein, "the City" consists of all councils, boards, commissions,
+
+21 and departments, including the current five-member Glendale City Council.
+
+13.
+
+22 The true names and capacities, whether individual, corporate, or otherwise, of
+
+23 DOES 1 through 20, inclusive, are unknown to Petitioner. Petitioner will amend this Petition and
+
+24 Complaint to set forth the true names and capacities of said Doe parties when they have been
+
+ascertained.
+
+25 III. JURISDICTION AND VENUE
+
+26 14.
+
+27 This Court has jurisdiction to issue a writ of mandate to set aside the City's
+
+28 decision pursuant to Code of Civil Procedure section 1094.5, or, in the alternative, pursuant to
+
+- 4 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+-
+
+2 section 1085. Judicial review is governed under Public Resources Code section 21168.5, or, in
+the alternative, pursuant to section 21168.
+
+3 15.
+
+4 This Court has jurisdiction over Petitioner's claim for declaratory relief under
+
+Code of Civil Procedure section 1060.
+
+5 16.
+
+6 Venue is proper in this court pursuant to Code of Civil Procedure section 395
+
+7 because the City of Glendale, its City Council, and the proposed project are currently located, or
+will be located, in Los Angeles County.
+
+8 17.
+
+9 393 and 394. Venue is also proper in the Court pursuant to Code of Civil Procedure sections
+
+10 18.
+
+11 This action was timely filed within 30 days of the Glendale City Council's filing
+
+12 of the Notice of Determination approving the Project and the EIR with the Los Angeles County
+
+13 Clerk on February 17, 2022. The County Clerk posted the Notice on its website that same day, in
+
+14 accordance with Public Resources Code section 21167, subdivision (c) and California Code of
+Regulations, title 14, section 15112, subdivision (c)(1).'
+
+15 19.
+
+16 Petitioner has provided written notice of its intent to file this petition to the City
+
+17 of Glendale, Glendale City Council, and Glendale Water and Power and is including the notice
+
+18 and proof of service as Exhibit A pursuant to the requirements of Public Resources Code section
+21167.5.
+
+19 20.
+
+20 Petitioner has served the Attorney General with a copy of its Petition along with
+
+21 a notice of its filing, in compliance with Public Resources Code section 21167.7 and Code of
+
+22 Civil Procedure section 388, and is including the notice and proof of service as Exhibit B.
+
+21.
+
+23 Petitioner has performed any and all conditions precedent to filing this instant
+
+24 action and has exhausted any and all available administrative remedies to the extent required by
+
+law.
+
+25 22.
+
+26 Petitioner does not have a plain, speedy, or adequate remedy at law because
+
+27 Petitioner and its members will be irreparably harmed by the ensuing environmental damage
+
+28 CEQA Guidelines are codified in title 14, section 15000 et seq. of the California Code of
+Regulations; all references to "CEQA Guidelines" refer to these sections in title 14.
+- 5 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+-
+
+2 caused by implementation of the Grayson Repowering Project and the City of Glendale's
+violations of CEQA.
+
+3 IV. STATEMENT OF FACTS
+
+4 A. The Community and Environmental Setting
+
+5 23.
+
+6 The City of Glendale is home to approximately 203,054 people.2 Located in the
+
+7 San Fernando Valley and Verdugo Mountain regions, Glendale is the fourth-largest city in Los
+Angeles County, encompassing about 30 square miles.3
+
+8 24.
+
+9 Glendale is surrounded by other cities and communities in Los Angeles County,
+
+10 including the City of Los Angeles and Burbank. Glendale is bordered to the northwest by the
+
+11 Sun Valley and Tujunga neighborhoods; to the northeast by La Cañada Flintridge and the
+
+12 unincorporated area of La Crescenta; to the west by Griffith Park; to the east by Eagle Rock and
+
+13 Pasadena; to the south by the Atwater Village neighborhood of Los Angeles; and to the southeast
+
+14 by the Glassell Park neighborhood of Los Angeles. The City sits minutes from downtown Los
+Angeles, Hollywood, and Universal City.
+
+15 25.
+
+16 The Grayson Power Plant is surrounded by several residential neighborhoods
+
+17 including Pelanconi, Grand Central, Riverside Rancho, Fremont Park, Verdugo Viejo,
+
+18 Grandview, and Vineyard. Grayson sits within one mile of four childcare centers and about one
+
+19 mile away from several public schools, including Benjamin Franklin Elementary School,
+
+20 Thomas Jefferson Elementary School, Eleanor J. Toll Middle School, and Herbert Hoover High
+School.
+
+21 26.
+
+22 Glendale sits in the South Coast Air Basin, which has the dirtiest air in the
+
+23 country. The South Coast Air Basin remains in "extreme" nonattainment of various air quality
+
+24 standards established under the Federal Clean Air Act. In particular, the South Coast Air Basin
+
+25
+
+26
+
+27 City of Glendale, About Us, https://www.glendaleca.gov/government/about-us(last visited
+Mar. 18, 2022).
+
+28 Id.
+
+- 6 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+- has never met the Federal Clean Air Act's ozone standards.4
+
+2 27.
+
+3 Ozone is a harmful air pollutant that forms when Volatile Organic Compounds
+
+4 react with Nitrogen Oxides in the presence of heat and sunlight. Ozone compromises lung
+
+5 function in children and causes negative health effects such as coughing and sore throat, burning
+
+6 eyes, aggravated lung diseases and increased asthma attacks, and heightened risk of heart attacks.
+
+28.
+
+7 CalEnviroScreen5 is a mapping tool, developed by California's Office of
+
+8 Environmental Health Hazard Assessment, that assesses communities at the census tract level to
+
+9 identify those most burdened by pollution from multiple sources and those most vulnerable to its
+
+10 effects, considering socioeconomic factors and underlying health status. Based on these factors,
+
+11 census tracts are assigned a percentile score from 1 to 100. The higher a census tract's percentile
+
+12 score, the greater the pollution burdens and population vulnerabilities of residents in that tract.
+
+13 The Grayson Power Plant sits in a census tract that scores in the 98th percentile of
+
+14 CalEnviroScreen, meaning that the tract ranks higher than 98% of all other census tracts in
+
+15 California for a combination of pollution burden and population vulnerability. A majority of the
+
+16 tracts surrounding the Power Plant have a CalEnviroScreen score in the 80th percentile and
+above. See Figure 1.
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23 Nitrogen Oxides are produced from the reaction of nitrogen and oxygen gases in the air during 24 combustion (including natural gas and hydrogen combustion) at high temperatures. Volatile
+25 Organic Compounds, gases that are emitted into the air from products or processes, can be found
+
+26 In natural gas fuel (e.g., formaldehyde and benzene) and can lead to emissions when not
+completely combusted.
+
+27 Cal. Off. of Environmental Health Hazard Assessment, CalEnviroScreen 4.0 Database,
+
+28 https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40 (Enter "800 Air Way, Glendale, CA, 91201, USA" in map search and select first address from drop-down menu).
+- 7 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+1 Figure 1: CalEnviroScreen Map of Pollution Burdened Populations near Grayson
+Power Plant
+2
+
+3
+10 ywopd
+Burbank
+7 10 a Airport
+
+Burbank Park
+Overall Percentile Burbank Giendale
+CalEnviroScreen 4.0 Results Grayson Power Plant AN RAFAEL HILL
+>90 - 100 (Highest Scores)
+
+>80-90 e AVS Sc holl 7 >70 -80 namedar Danyon Landfill
+st Lawn Lakesidle Memoral Park Glendale:own 8 olf Course Hollywood
+rs al Unversal Hills >40 -50 Colorado-Bivd- Studios vo >30 - 40 Griffith Park
+>20 -30
+2=9 02* >10 -20
+
+0 - 10 (Lowest Scores) CFeliz Biva South Pasa
+
+Hollywood
+: Debo
+West
+Hollyw ood
+000 ywood
+
+15 B. Project Background
+16 29. In 2016, GWP proposed the Grayson Repowering Project. The proposed project
+17 involved replacing the existing fossil fuel burning units at Grayson with new fossil fuel burning
+18 units. The new units would provide Glendale with approximately 278 Megawatts (*MW") of
+19 energy. As required by CEQA, GWP released a Draft EIR for the Grayson Repowering Project
+20 on September 15, 2017, and presented the 2018 Final EIR to the Glendale City Council on April
+21 10, 2018.
+
+22 30. The Glendale City Council declined to certify the 2018 Final EIR and directed
+23 GWP to consider clean energy alternatives to meet Glendale's energy needs.
+24 31. In response, GWP issued a Clean Energy Request for Proposals ("RFP"),
+25 evaluated and modeled the proposals received through the Clean Energy RFP, and identified a
+26 new portfolio of resources to meet the City's energy needs. This portfolio included 50 MW of
+27 clean distributed energy resources, such as demand response and energy efficiency programs.
+28
+- 8 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+- 32.
+
+2 Based on this updated portfolio, GWP developed two new project alternatives
+
+3 Alternative 7 and Alternative 8in addition to the six alternatives developed in the previous
+2018 Final EIR.
+
+4 33.
+
+5 The Tesla/Wartsila Repowering Project Alternative ("Alternative 7"), identified
+
+6 by GWP as the "environmentally superior alternative," repowers the Power Plant with five gas-
+
+7 fired engines that will produce 93 MW of energy coupled with a 75 MW/300 MWH battery
+energy storage system.
+
+8 34.
+
+9 The Tesla/Unit 8 Refurbishment Project Alternative ("Alternative 8"), refurbishes
+
+10 existing units at the Power Plant to produce 101 MW of energy coupled with a 75 MW/300
+MWH battery storage system.
+
+11 35.
+
+12 In 2021, GWP issued a Partially Recirculated Draft EIR (°2021 PR-DEIR")
+
+13 identifying and analyzing the environmental impacts of Alternative 7 and Alterative 8.
+
+36.
+
+14 In the 2021 PR-DEIR, GWP claims that Glendale is subject to an excessive
+
+15 reserve obligation and uses this to justify installing new fossil fuel units at the Grayson Power
+Plant and reject clean energy alternatives.
+
+16 37.
+
+17 Specifically, GWP asserts that Glendale is obligated by law to meet an N-1-15
+
+18 reserve obligation. But GWP is not obligated by law to meet an N-1-1 reserve obligation, and its
+
+19 assertion impacts the validity of its entire environmental impact analysis. For example, GWP's
+
+20 assertion of an N-1-1 reserve obligation results in an oversized project that will cause increased
+
+21 environmental impacts beyond what would occur if the Project was sized to meet Glendale's
+
+22 actual, and significantly smaller, reserve obligation. This oversized Project would enable GWP
+
+23 to sell excess energy to neighboring regions during periods of peak demand. Further, GWP uses
+
+24 the purported N-1-1 reserve obligation to dismiss project alternatives that reduce impacts from
+the Grayson Repowering Project.
+
+25 38.
+
+26 The 2021 PR-DEIR also claims that the Grayson Repowering Project will have no
+
+27
+
+28 6 N-1-1 refers to energy reserve for GWP's single largest source of energy (100 MW) and its second largest source of energy (48MW) during peak load conditions.
+- 9-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+-
+
+2 environmental justice impacts. GWP justifies this claim by noting that no environmental justice
+
+3 communities exist in Glendale. But data from CalEnviroScreen shows that the Grayson Power
+
+4 Plant sits in a census tract in Glendale that scores in the highest percentile category for pollution
+
+5 burden and vulnerability of residents to its effects. The communities in Glendale surrounding the
+
+6 Grayson Power Plant also have high percentile scores on CalEnviroScreen. In addition, the
+
+7 Grayson Power Plant sits at the border of Glendale, Burbank, and Los Angeles. Yet GWP
+
+8 refused to identify and analyze potential impacts to overburdened and vulnerable communities in
+
+9 these cities before claiming that the Project will have no environmental justice impacts.
+
+39.
+
+10 Further, the 2021 PR-DEIR fails to analyze foreseeable impacts of the Project
+
+11 from burning hydrogen. The 2021 PR-DEIR discloses GWP's future plan to burn hydrogen in
+
+12 the fossil fuel burning units included in Alternative 7 and Alternative 8. Burning hydrogen can
+
+13 have significant negative impacts on the communities surrounding the Grayson Power Plant.
+
+14 Combustion of hydrogen-natural gas blends produces significant quantities of pollution,
+
+15 including Nitrogen Oxide emissions that far exceed emissions from burning natural gas alone.
+
+16 However, the 2021 PR-DEIR fails to analyze the impact of burning hydrogen and therefore fails
+
+17 to inform the public about the foreseeable impacts from the Grayson Repowering Project.
+
+40.
+
+18 Petitioner, as well as concerned residents from Glendale, Burbank, and Los
+
+19 Angeles, raised concerns about the 2021 PR-DEIR's inflated energy need, its inadequate
+
+20 environmental justice analysis, and its failure to analyze the impacts of burning hydrogen
+
+21 throughout the City's CEQA administrative process. Nevertheless, GWP did not correct these
+
+22 deficiencies in the 2021 PR-DEIR before issuing the 2022 Final EIR for the Grayson
+Repowering Project.
+
+23 41.
+
+24 The Glendale City Council voted to certify the 2022 Final EIR and approve
+
+25 Alternative 7 by a 3-2 vote on February 15, 2022. The Notice of Determination was filed on
+February 17, 2022.
+
+26
+
+27 V. CEQA LEGAL BACKGROUND
+
+42.
+
+28 The California Environmental Quality Act, Public Resources Code sections
+
+10 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+-
+
+2 21000-21177, is a comprehensive statute designed to provide for long-term protection of the
+
+3 environment. It accomplishes this in two ways. First, CEQA is designed to inform is
+
+4 decisionmakers and the public about the potential significant environmental effects of a project.
+
+5 CEQA Guidelines, § 15002, subd. (a)(1). Such disclosure ensures that "long term protection of
+
+6 the environment ... shall be the guiding criterion in public decisions." Pub. Resources Code §
+
+7 21001, subd. (d). The EIR is the "heart" of this requirement. See No Oil, Inc. V. City of Los
+
+8 Angeles (1974) 13 Cal.3d 68, 84. The EIR has been described as "an environmental 'alarm bell'
+
+9 whose purpose it is to alert the public and its responsible officials to environmental changes
+
+10 before they have reached ecological points of no return." County of Inyo v. Yorty (1973) 32
+Cal.App.3d 795, 810.
+
+11 43.
+
+12 Second, CEQA requires public agencies to avoid or reduce environmental damage
+
+13 whenever feasible by considering changes in projects through project alternatives or mitigation
+
+14 measures. See CEQA Guidelines, § 15002(a)(2) and (3); see also Citizens of Goleta Valley v.
+
+15 Board of Supervisors (1990) 52 Cal.3d 553, 564; Laurel Heights Improvement Association v.
+
+16 Regents of the University of California (1988) 47 Cal.3d 376, 399 [as modified on rehg. denied
+
+17 Jan. 26, 1989]. An accurate and complete project description is central to this requirement so
+
+18 "affected outsiders and public decision-makers [can] balance the proposal's benefit against its
+
+19 environmental cost, consider mitigation measures, assess the advantage of terminating the
+
+20 proposal (i.e., the 'no project' alternative), and weigh other alternatives in the balance." County
+
+21 of Inyo v. City of Los Angeles (1977) 71 Cal.App.3d 185, 192-193.
+FIRST CAUSE OF ACTION
+
+22
+
+23 44. (Violation of CEQA: Inaccurate and Incomplete Project Description)
+
+24 Petitioner incorporates herein by reference the allegations contained in the
+foregoing paragraphs.
+
+25 45.
+
+26 CEQA requires an EIR to include an accurate and complete project description
+
+27 that fully discloses and fairly evaluates the nature and objectives of a project. CEQA Guidelines,
+
+28 cop 15124. An accurate and complete project description is necessary SO that the lead agency and
+
+- 11 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+-
+
+2 the public have enough information to "ascertain the project's environmentally significant
+
+3 effects, assess ways of mitigating them, and consider project alternatives." Sierra Club v. City of
+
+4 Orange (2008) 163 Cal.App.4th 523, 533; Save Round Valley Alliance v. County of Inyo (2007)
+157 Cal.App.4th 1437, 1448.
+
+5 46.
+
+6 "An accurate, stable and finite project description is the sine qua non of an
+
+7 informative and legally adequate EIR. San Joaquin Raptor Rescue Center V. County of Merced
+
+8 (2007) 149 Cal.App.4th 646, 655 [quoting County of Inyo V. City of Los Angeles, supra, 71
+
+9 Cal.App.3d at p. 199.] If a project description gives "conflicting signals to decisionmakers and
+
+10 the public about the nature and scope of the activity being proposed" it is fundamentally
+
+11 inadequate, misleading, and meaningful public participation is stultified. Communities for a
+
+12 Better Environment v. City of Richmond (2010) 184 Cal.App.4th 70, 84 [quoting San Joaquin
+Raptor, supra, 149 Cal.App.4th at p. 670.]
+
+13 47.
+
+14 The 2022 Final EIR presents an inaccurate and incomplete Project Description
+
+15 that inflates Glendale's reserve obligation to justify the installation of new fossil fuel burning
+units at the Grayson Power Plant.
+
+16 48.
+
+17 The Project Description fails to disclose to decisionmakers that GWP's proposal
+
+18 to install fossil fuel burning units includes potential plans to produce and sell excess fossil-fired
+energy to neighboring regions.
+
+19 49.
+
+20 The 2022 Final EIR's inflation of the City's reserve obligation leads to the
+
+21 rejection of several viable alternatives to the Project that would have less health and
+
+22 environmental impacts, including an 100% clean energy alternative.
+
+50.
+
+23 By certifying the 2022 Final EIR with an inaccurate and incomplete Project
+
+24 Description, the City committed prejudicial abuse of discretion, failed to proceed in the manner
+
+25 required by law, and acted without substantial evidentiary support in violation of CEQA.
+SECOND CAUSE OF ACTION
+
+26
+
+27 51. (Violation of CEQA: Inadequate Environmental Justice Analysis)
+
+28 Petitioner incorporates herein by reference the allegations contained in the
+
+- 12 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+- foregoing paragraphs.
+
+2 52.
+
+3 The CEQA Guidelines require an EIR to identify and analyze the impacts of a
+
+4 project with "a sufficient degree of analysis to provide decisionmakers with information which
+
+5 enables them to make a decision which intelligently takes account of environmental
+consequences." CEQA Guidelines, § 15151.
+
+6 53.
+
+7 The omission of relevant information is deemed prejudicial if it prevents informed
+
+8 decision making and public participation, "regardless of whether a different outcome would have
+
+9 resulted if the public agency had complied with those provisions." Washoe Meadows Community
+
+10 v. Department of Parks & Recreation (2017) 17 Cal.App.5th 277, 290; citing Pub. Resources
+Code, § 21005, subd. (a).
+
+11 54.
+
+12 The Final EIR improperly dismisses the potential environmental justice impacts
+
+13 of the Grayson Repowering Project. The communities surrounding the Grayson Power Plant
+
+14 have some of the highest percentile scores on CalEnviroScreen, which reflects the
+
+15 disproportionate environmental and socio-economic burdens these communities bear.
+
+16 Nevertheless, the 2022 Final EIR dismisses such information and disregards the potential
+
+17 impacts from the Grayson Repowering Project to these communities. Further, the 2022 Final EIR
+
+18 only considers communities in Glendale when dismissing potential environmental justice
+
+19 impacts, even though the Grayson Repowering Project has the potential to impact communities
+
+20 in Los Angeles and Burbank as well. By excluding communities from these other cities in its
+
+21 analysis of environmental justice impacts, the 2022 Final EIR subverts CEQA's fundamental
+informational requirement.
+
+22 55.
+
+23 By certifying the 2022 Final EIR with an inaccurate and incomplete
+
+24 environmental justice analysis, the City committed a prejudicial abuse of discretion, failed to
+
+25 proceed in the manner required by law, and acted without substantial evidentiary support.
+
+26
+
+27
+
+28
+- 13 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+- THIRD CAUSE OF ACTION
+
+2
+
+3 (Violation of CEQA - Failure to adequately disclose and evaluate the Project's significant
+environmental effects)
+
+4 56.
+
+5 Petitioner incorporates herein by reference the allegations contained in the
+foregoing paragraphs.
+
+6 57.
+
+7 CEQA Guidelines require the preparation of a single EIR for a series of actions
+
+8 that nonetheless constitute a single, larger project. CEQA Guidelines, §§ 15165, 15168, 15378.
+
+58.
+
+9 An EIR must analyze the environmental effects of a future action when (1) it is a
+
+10 reasonably foreseeable consequence of the initial project; and (2) the future expansion or action
+will be significant in that it will likely change the scope or
+
+11 nature of the initial project or its
+
+12 environmental effects. Laurel Heights Improvement Association, supra,
+
+59. 47 Cal. 3d at p. 396.
+
+13 In the 2022 Final EIR, GWP anticipates burning hydrogen at the Grayson Power
+
+14 Plant. Nevertheless, the 2022 Final EIR fails to analyze any of the foreseeable impacts of
+
+15 burning hydrogen at the Grayson Power Plant--including impacts from transporting and storing
+hydrogen.
+
+16 60.
+
+17 By certifying the 2022 Final EIR without analyzing the impacts associated with
+
+18 burning hydrogen at Grayson, the City committed a prejudicial abuse of discretion, failed to
+
+19 proceed in the manner required by law, and acted without substantial evidentiary support.
+
+VI. PRAYER FOR RELIEF
+
+20
+
+21 WHEREFORE, Petitioner prays for judgment as set forth below:
+
+22 A. a For a writ of mandate or peremptory writ issued under the seal of this Court pursuant to
+
+23 Code of Civil Procedure section 1094.5 or in the alternative section 1085, and directing
+the City to:
+24
+
+25 1. Set aside and withdraw its certification of the 2022 Final EIR;
+
+26 2. Set aside and withdraw all approvals for the Grayson Repowering Project; and
+
+27 3. Refrain from granting any further approvals for the Grayson Repowering Project
+
+28 unless and until the City fully complies with the requirements of CEQA.
+
+- 14 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+-
+
+2
+
+3 B. For entry of injunctive relief prohibiting the City of Glendale, Glendale Water and
+
+4
+
+5 Power, and the Glendale City Council from constructing and operating the Project until
+the City complies fully with the requirements of CEQA by voiding the approved 2022
+
+O
+
+7 Final EIR, setting aside and withdrawing all approvals issued in reliance on the 2022
+Final EIR, and conducting a new environmental review process that complies with
+CEQA's requirements as set forth herein.
+
+8
+
+9=9010 vo C. a For a declaratory judgment stating that the City of Glendale, Glendale Water and Power,
+and the Glendale City Council violated CEQA by approving the Grayson Repowering
+Project.
+D. For a declaratory judgment that the City of Glendale, Glendale Water and Power, and the
+Glendale City Council's failure to prepare, consider, and approve or certify an adequate
+environmental analysis under CEQA is a prejudicial abuse of discretion.
+
+16 E. For Petitioner's fees and costs, including reasonable attorneys' fees and costs, as
+
+boo authorized by Code of Civil Procedure section 1021.5 and any other applicable
+provisions of law.
+
+19 F. For such other legal and equitable relief as this Court deems appropriate and just.
+Respectfully Submitted,
+
+20
+
+21 EARTHJUSTICE
+
+22 DATED: March 18, 2022
+
+S ShanSZ
+
+24 SHANA E. EMILE
+BYRON CHAN
+
+25 ANGELA JOHNSON MESZAROS
+
+26 Attorneys for Petitioner/Plaintiff Sierra Club
+
+27
+
+28
+- 15 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE RELIEF
+
+VERIFICATION
+
+2
+
+I. Monica Embrey, hereby declare:
+
+4 am an employee at the Petitioner, Sierra Club, a national non-profit corporation with offices
+
+5 in Los Angeles, California and elsewhere in the United States. I have read the foregoing petition and
+
+6 complaint and am familiar with its contents. All of the facts alleged in the above petition not citations to the record, exhibits, otherwise supported by or other documents are true of my own
+personal knowledge.
+
+8 I declare under penalty of perjury under the laws of the State of California that the above is
+
+9 true and correct and that this verification is executed on this 16 day of March 2022 in Los Angeles,
+California.
+
+10 Mnu
+3 Tmky Monica Embrey
+12 Senior Associate Director, Energy Campaigns
+Sierra Club 13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+- 16 -
+Verified Petition for Writ of Mandate
+
+EXHIBIT A
+Notice to Respondents of Intent to File CEQA
+Action and Proof of Service
+
+EARTHJUSTICE
+
+March 17, 2022
+
+VIA CERTIFIED MAIL & E-MAIL
+
+Aram Adjemian, City Clerk
+City of Glendale
+613 E. Broadway, Unit 110
+Glendale, CA 91206
+aadjemian@glendaleca.gov
+
+RE: Notice of Intent to File California Environmental Quality Act Petition
+Challenging the Certification of the Environmental Impact Report for the
+Grayson Repowering Project (State Clearinghouse No. 2016121048)
+
+Dear City Clerk Aram Adjemian:
+
+PLEASE TAKE NOTICE that as required under California Public Resources Code
+section 21167.5, Sierra Club ("Petitioner") hereby provides notice of its intent to file
+a verified petition for writ of mandate under the California Environmental Quality
+Act ("CEQA") against the City of Glendale, Glendale City Council, and Glendale
+Water and Power ("Respondents") in Los Angeles County Superior Court. (See Pub.
+Res. Code § 21000, et seq.)
+
+Petitioner seeks to challenge the City of Glendale's approval and certification of the
+Environmental Impact Report ("EIR") for the Grayson Repowering Project
+(*Project") on February 15, 2022. Petitioner will file this CEQA challenge based on
+the EIR's failure to adequately disclose and evaluate the Project's significant
+environmental impacts.
+
+Among other relief, Petitioner will request that the Court issue a writ of mandate
+ordering the City of Glendale to vacate the EIR certification and recirculate an EIR
+that conforms to CEQA requirements. Additionally, Petitioner will seek costs and
+attorneys' fees. (See Cal. Civ. Proc. § 1021.5.)
+
+Based on the reasons outlined above, Respondents should immediately vacate the
+
+COMMUNITY PARTNERSHIPS PROGRAM 707 WILSHIRE BOULEVARD, SUITE 4300 LOS ANGELES, CA 90017
+
+T: 213.766.1064 F: 213.403.4822 BCHAN@EARTHJUSTICE.ORG WWW.EARTHJUSTICE.ORG
+
+certification of the EIR and engage in an appropriate CEQA review process that
+results in an adequate EIR.
+
+Respectfully,
+Bipon) Clan Byron Chan, Senior Associate Attorney
+Shana E. Emile, Associate Attorney
+Angela Johnson Meszaros, Managing Attorney
+EARTHJUSTICE
+
+Attorneys for Petitioner Sierra Club
+
+CC: Erik Krause, Deputy Director
+Glendale Community Development Department
+633 E. Broadway, Rm. 103
+Glendale, CA 91206-4386
+ekrause@glendaleca.gov
+
+Michael J. Garcia, City Attorney City of Glendale
+613 E. Broadway, Rm. 220
+Glendale, CA 91206-4391
+mjgarcia@glendaleca.gov
+
+Mark Young, General Manager
+Glendale Water and Power
+141 N. Glendale Ave., Rm. 450
+Glendale, CA 91206
+MYoung@Glendaleca.gov
+
+Page 2 of 2
+
+DECLARATION OF PROOF OF SERVICE
+
+I, Lupe Ruelas, declare:
+
+am a resident of the State of California, and am over the age of 18 years and not a party to the
+within entitled action. My business address is 707 Wilshire Boulevard, Suite 4300, Los Angeles,
+CA 90017.
+
+hereby certify that on March 17, 2022, I served the following document(s):
+
+NOTICE OF INTENT TO FILE CEQA PETITION CHALLENGING THE
+CERTIFICATION OF THE EIR FOR THE GRAYSON REPOWERING PROJECT
+(STATE CLEARINGHOUSE NO. 2016121048)
+
+(X) VIA CERTIFIED MAIL, RETURN RECEIPT REQUESTED by enclosing the
+document(s) in a sealed envelope or package addressed to the person(s) set forth below and
+depositing the sealed envelope with the United States Postal Service, with the postage fully prepaid,
+following this organization's ordinary practices with which I am readily familiar.
+
+(X) VIA E-MAIL by causing the document(s) to be sent to the person(s) at the e-mail address(es)
+listed below.
+
+Aram Adjemian, City Clerk Erik Krause, Deputy Director
+City of Glendale Glendale Community Development Department
+613 E. Broadway, Unit 110 633 E. Broadway, Rm. 103
+Glendale, CA 91206 Glendale, CA 91206-4386
+aadjemian@glendaleca.gov ekrause@glendaleca.gov
+
+Michael J. Garcia, City Attorney Mark Young, General Manager
+City of Glendale Glendale Water and Power
+613 E. Broadway, Rm. 220 141 N. Glendale Ave., Rm. 450
+Glendale, CA 91206-4391 Glendale, CA 91206
+mjgarcia@glendaleca.gov MYoung@Glendaleca.gov
+
+I declare under penalty of perjury under the laws of the State of California that the
+foregoing is true and correct. Executed on March 17, 2022, in Los Angeles, California.
+ML
+Lupe Ruelas

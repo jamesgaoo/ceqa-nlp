@@ -1,0 +1,1824 @@
+P Michael S. McCauley (State Bar No. 186537)
+JONES DAY
+2 555 South Flower Street
+Fiftieth Floor ELECTRONICALLY
+3 Los Angeles, CA 90071.2452 FILED Telephone: +1.213.489.3939 Superior Court of California, 4 Facsimile: +1.213.243.2539 County of San Francisco
+Email: msmccauley@jonesday.com 11/19/2021 5 Clerk of the Court David H. Seidel (State Bar No. 307135) BY: LAURA SIMMONS
+6 JONES DAY Deputy Clerk
+555 California Street, 26th Floor
+7 San Francisco, CA 94104 Telephone: +1.415.626.3939
+8 Facsimile: +1.415.875.5700
+Email: dseidel@jonesday.com 9
+Attorneys for Petitioner
+10 Shawn Farrell
+
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+12 COUNTY OF SAN FRANCISCO
+
+13 CASE NO. CPF-21-517626 Shawn Farrell,
+
+14 Petitioner, Assigned for all purposes to
+
+15 V.
+VERIFIED PETITION FOR WRIT OF
+16 San Francisco Planning Department; San MANDATE UNDER THE
+CALIFORNIA ENVIRONMENTAL
+17 Francisco Board of Supervisors, QUALITY ACT AND OTHER LAWS
+Respondents.
+18 Complaint Filed:
+Trial Date:
+19 Discovery Cutoff: Motion Cutoff:
+20 1525 Pine Street Dev, LLC; Kerman Morris Architects LLP; and DOES 1-50,
+21 Real Parties in Interest. 22
+
+23 INTRODUCTION
+
+24 1. This petition challenges the San Francisco Planning Department and the San
+
+25 Francisco Board of Supervisors' decision to allow the development of an eight-story high rise
+
+26 apartment building without conducting the environmental review required under the California
+27 Environmental Quality Act ("CEQA"), including identifying and studying the potential harmful
+28 effects of this development, preparing an environmental impact report ("EIR"), and evaluating
+VERIFIED PETITION FOR WRIT OF MANDATE
+UNDER CEQA
+
+1 potential measures to mitigate those harmful effects. The proposed project would demolish a
+
+2 culturally and historically significant one-story restaurant called the Grubstake, and build in its
+
+3 place an eight-story apartment building on top of newly-designed commercial space where the
+
+4 Grubstake restaurant and other businesses can operate, all within a narrow lot closely abutting a
+
+5 neighboring six-story residential building.' It would drastically reduce or eliminate natural light
+
+6 in neighboring residences, and potentially create dangerous wind conditions on the neighboring
+
+7 rooftop terraces, or at the street level. The City's2 decision fails to comply with CEQA's most
+
+8 fundamental premise: that projects having any reasonable possibility of significant environmental
+
+9 impacts be adequately studied through an EIR process to ensure that any potential environmental
+
+10 harm can be mitigated to the fullest extent possible. By failing to follow CEQA's mandate for an
+
+11 EIR whenever a project may have a significant effect on the environment, the City has allowed
+
+12 the Project to proceed without adequately analyzing the potentially significant environmental
+
+13 impacts that the Project may cause, thereby foregoing potentially significant mitigating measures.
+
+14 2. Moreover, and separate from the City's CEQA violation, the City's administrative
+
+15 process in green-lighting this Project violated its own procedural rules. This procedural violation
+
+16 a is a separate and independent basis for vacating the City's decision and remanding.
+
+17 3. Petitioner seeks a writ vacating the City's approval of the Project, as proposed, and
+
+18 remanding to the City to prepare an EIR in compliance with CEQA.
+
+19 THE PARTIES
+
+20 4. Petitioner Shawn Farrell is an owner and resident of a condominium unit in the
+
+21 Austin building, located at 1545 Pine Street in San Francisco. The Austin building is directly
+
+22 next to the Grubstake Development Project, located at 1525 Pine Street. Petitioner has an interest
+
+23 in preventing the harmful environmental effects that the Proposed Project may cause to himself,
+
+24 other residents of the Austin building, and the surrounding neighborhood. Petitioner also has an
+
+25 interest in preserving the historical and culturally significant nature of the Grubstake restaurant, at
+
+26 1 Petitioner refers to the proposed project as the "Grubstake Development Project," the
+27 "Proposed Project,' or simply, the "Project."
+
+28 2 Petitioner refers to the SF Planning Department and the SF Board of Supervisors collectively as "San Francisco" or "the City.'
+2
+VERIFIED PETITION FOR WRIT OF MANDATE UNDER CEQA
+
+1 which he has been and will a continue to be a patron. Petitioner wrote letters to the City during the
+
+2 Planning Department and Board of Supervisor's approval processes and spoke during public
+
+3 hearings, objecting to the Project's approval.
+
+4 5. Petitioner is informed and believes, and thereon alleges, that Respondent San
+
+5 Francisco Planning Department is an administrative agency within the City and County of San
+
+6 Francisco, that among other things, develops city plans, performs environmental and historical
+
+7 preservation analysis, and enforces the Planning Code. The Planning Department is under the
+
+8 direction of a Planning Commission, which is made up of seven commissioners appointed by the
+
+9 Mayor and the President of the Board of Supervisors.
+
+10 6. Petitioner is informed and believes, and thereon alleges, that Respondent San
+
+11 Francisco Board of Supervisors is the legislative branch of the City and County of San Francisco.
+
+12 The Board consists of 11 members, representing 11 districts in San Francisco. The Board voted
+
+13 to deny the appeal and approve the Grubstake Development Project without an EIR on
+
+14 October 19, 2021.
+
+15 7. Petitioner is informed and believes, and thereon alleges, that Real Party in Interest
+
+16 1525 Pine Street Dev, LLC, is a California limited liability company that owns and operates the
+
+17 Grubstake restaurant located at 1525 Pine Street in San Francisco, and is the project sponsor of
+
+18 the Grubstake Development Project.
+
+19 8. Petitioner is informed and believes, and thereon alleges, that Real Party in Interest
+
+20 Kerman Morris Architects LLP is an architecture firm based in San Francisco that has been hired
+
+21 by 1525 Pine Street Dev, LLC to design the Grubstake Development Project and work with the
+
+22 City through the approval process, and may be considered a project sponsor as well.
+
+23 9. Petitioner is informed and believes, and thereon alleges, that at all times material
+
+24 hereto, real 1 parties in interest DOES 1 through 50, inclusive, were and now are either the agents
+
+25 or principals of the other real parties in interest, and of each other, or were and now are either the
+
+26 owners, interest holders, or co-obligees of the other real parties in interest and, in such capacity or
+
+27 capacities, stand to be directly affected by this litigation.
+
+28
+
+3
+VERIFIED PETITION FOR WRIT OF MANDATE UNDER CEQA
+
+P JURISDICTION AND VENUE
+
+2 10. This Court has jurisdiction over this action pursuant to Code of Civil
+
+3 Procedure sections 1085 and/or 1094.5, and Public Resources Code sections 21168 and
+
+4 21168.5.
+
+5 11. Venue is proper in this Court pursuant to Code of Civil Procedure sections 393
+
+6 and/or 395 because the proposed Project is located at 1525 Pine Street in San Francisco.
+
+7 GENERAL ALLEGATIONS AND BACKGROUND
+
+8 12. The Grubstake Development Project site at 1525 Pine Street is an approximately
+
+9 3,000 square foot narrow lot with frontages on Pine Street and Austin Street. Currently, the only
+
+10 building on the project site is the Grubstake restaurant. The Project would demolish the existing
+
+11 one-story Grubstake restaurant and construct in its place an eight-story, 79-foot-tall building with
+
+12 21 dwelling units and a large commercial space occupying the ground floor, and mezzanine level
+
+13 of the new building, where the project sponsors propose that the Grubstake restaurant can
+
+14 continue to operate. The Project would reclaim and incorporate some of the culturally and
+
+15 historically significant pieces of the old Grubstake building into the Project.
+
+16 13. The building that currently houses the Grubstake is a one-story lunch-wagon-style
+
+17 diner, consisting of two portions: a lunch wagon originally constructed before 1916 with a sheet
+
+18 metal curved roof, and a main wood-frame rectangular portion that was added to the lunch wagon
+
+19 in 1975. The Grubstake restaurant has operated at the site since the 1960s, and in the 1980s and
+
+20 1990s, it became well known and loved as a welcoming establishment to the LGBTQ community
+
+21 at a time when other business were not open to the LGBTQ community. It was frequented by
+
+22 transgender women and artists who performed and participated in drag shows at nearby venues.
+
+23 It is officially considered a "contributor" to the Polk Gulch LGBTQ Historic District.
+
+24 14. The Grubstake was purchased in 2015 by the current owners, who thereafter
+
+25 proposed plans to demolish the building, and develop the property into a high-rise apartment
+
+26 building on top of commercial space. Those plans were first proposed to the City for approval on
+
+27 May 9, 2016. At that time, the Proposed Project was only six stories high, in conformance with
+
+28 San Francisco building height restrictions. Subsequently, the Proposed Project was modified to
+
+4
+VERIFIED PETITION FOR RIT OF MANDATE UNDER CEQA
+
+-
+
+2 an eight-story building, relying on the California Density Bonus Law codified at California
+
+3 Government Code Sections 65915 - 65918, to seek numerous waivers and concessions, including
+
+a variance in building height.
+
+4 15. The Grubstake Development Project is directly adjacent to a condominium
+
+5
+
+6 building called the Austin, at 1545 Pine Street. The Austin is comprised of two portions: a
+
+7 twelve-story roughly rectangular building, and a six-story portion, which is itself divided into two
+
+8 roughly rectangular portions, with an open corridor between them, or light well, spanning the
+
+9 entire six stories. The two six-story portions directly abut the Grubstake Development Project
+
+10 site. The six-story portions also have open space terraces on their roofs, which residents of the
+twelve-story building can access from the seventh floor.
+
+11 16.
+
+12 The Grubstake Development Project's new eight-story building would be built
+
+13 directly abutting the Austin's six-story portions, enclosing the open light well that runs between
+
+them, and overshadowing by two stories the open
+
+14 roof terraces. As proposed, the development
+
+15 would have a significant impact on the availability of natural light to its surroundings, including
+
+16 by significantly reducing the light that reaches the interior and Grubstake-facing (east-facing)
+
+17 portions of the six-story Austin building. It could also create new and potentially dangerous wind
+
+18 tunnel effects on the roof terraces of the six-story Austin building, since those terraces would be
+fully enclosed on their two longer sides.
+
+19 17.
+
+20 The Proposed Project also has no onsite parking, thus significantly increasing
+
+21 congestion and affecting traffic patterns for pedestrians and vehicles. Moreover, the Proposed
+
+22 Project's residential units' only access is on Austin alley, a narrow one-way alley that is already
+handling more vehicle and foot traffic than may be feasible.
+
+23 18.
+
+24 On January 27, 2021, the SF Planning Department published a preliminary
+
+25 mitigated negative declaration, declaring that the Proposed Project would not have any significant
+environmental impacts, and therefore did not require an EIR under CEQA.
+
+26 19.
+
+27 On February 16, 2021, residents of the Austin building filed an appeal of the
+
+28 preliminary mitigated negative declaration, arguing that the Project's potential significant
+environmental impacts required preparation of an EIR.
+
+5
+VERIFIED PETITION FOR WRIT OF MANDATE UNDER CEQA
+
+P 20. On May 6, 2021, despite several commissioners noting the significant impacts of
+
+2 the Proposed Project on its surroundings, the Planning Commission voted to uphold the
+
+3 preliminary mitigated negative declaration over the appeal's objection, holding that no EIR was
+
+4 required, and adopting the final mitigated negative declaration.
+
+5 21. At the same hearing, on May 6, 2021, the Planning Commission, further noting the
+
+6 potentially significant environmental impacts of the Proposed Project, denied approval of the
+
+7 Project by voting to disapprove issuance of a conditional use authorization. After the
+
+8 Commission denied issuance of a conditional use authorization, the Commission continued the
+
+9 matter.
+
+10 22. On July 22, 2021, the Planning Commission reversed its previous denial, and
+
+11 granted the Project a conditional use authorization, approving the Project.
+
+12 23. On August 20, 2021, residents of the Austin filed an appeal of the final mitigated
+
+13 negative declaration, arguing that the Grubstake Development Project could cause significant
+
+14 environmental impacts, including on natural light, historical and cultural resources (including the
+
+15 demolition of the Grubstake building), transportation, and wind, thus requiring an EIR.
+
+16 24. On September 27, 2021, the Planning Department filed its response to the appeal.
+
+17 25. On October 19, 2021, the San Francisco Board of Supervisors heard the appeal,
+
+18 and voted to deny the appeal and approve the Project.
+
+19 26. On October 22, 2021, the City filed and published its notice of determination,
+
+20 stating that the Grubstake Development Project will not have a significant effect on the
+
+21 environment, and therefore does not require an EIR.
+
+22 COMPLIANCE WITH PREREQUISITES
+
+23 27. Petitioner has performed any and all conditions precedent to the filing of this
+
+24 petition, and has fully exhausted his administrative remedies by participating in the City's
+
+25 administrative processes related to the approval of the Proposed Project without an EIR, to the
+
+26 extent that those processes were available, including Petitioner's submittal of two letters to
+
+27 the City, and testimony at City hearings on the Proposed Project on May 6, July 22, and
+
+28 October 19, 2021.
+
+6
+VERIFIED PETITION FOR WRIT OF MANDATE UNDER CEQA
+
+P 28. Petitioner has no plain, speedy, or adequate remedy at law unless the Court grants
+
+2 the requested relief. In the absence of the requested relief, the Grubstake Development
+
+3 Project will commence without an EIR in violation of CEQA, and thus without adequate
+
+4 study of the potentially significant environmental impacts and mitigation measures.
+
+5 29. Petitioner has complied with Public Resources Code section 21167.5, and, prior to
+
+6 filing this lawsuit, has served upon the San Francisco Planning Commission and San Francisco
+
+7 Board of Supervisors a notice of his intent to file this lawsuit. Copies of those notices are
+
+8 attached collectively as Exhibit A.
+
+9 FIRST CAUSE OF ACTION
+
+10 Violation of CEQA for Failure to Prepare Environmental Impact Report
+
+11 30. Paragraphs through 29 are hereby incorporated as though fully set forth herein.
+
+12 31. CEQA requires a public agency to prepare an environmental impact report before
+
+13 approving a project that may have significant environmental effects. (Pub. Res. Code § 21151.)
+
+14 32. The EIR is "the heart of CEQA," and so fundamental to the CEQA process, that so
+
+15 long as there is evidence to support a fair argument that a project may have a significant adverse
+
+16 impact, an EIR is required. See, e.g., Laurel Heights Improvement Assn. v. Regents of University
+
+17 of California, 47 Cal.3d 376, 392 (1988); Georgetown Pres. Soc'y v. Cty. of El Dorado, 30 Cal.
+
+18 App. 5th 358, 375-76 (2018).
+
+19 33. The City was required to prepare an EIR for the Grubstake Development Project
+
+20 because the City was presented with evidence that the Project may have a significant impact on
+
+21 the environment on multiple, independent grounds, including, but not limited to (1) the
+
+22 demonstrated adverse shadow effects impacting the surrounding natural light; (2) the demolition
+
+23 of a culturally and historically significant building, the Grubstake restaurant; (3) the likely impact
+
+24 on traffic, congestion, and pedestrian safety; and (4) the potential impact on wind.
+
+25 34. The City failed to adequately analyze the potential environmental impacts of the
+
+26 Project through the preparation of an EIR, in violation of CEQA.
+
+27
+
+28
+
+7
+VERIFIED PETITION FOR WRIT OF MANDATE UNDER CEQA
+
+P SECOND CAUSE OF ACTION
+
+2 Violation of San Francisco Planning Code § 306.5
+
+3 35. Paragraphs 1 through 34 are hereby incorporated as though fully set forth herein.
+
+4 36. During the May 6, 2021 San Francisco Planning Commission hearing, the
+
+5 Commission voted to disapprove of the application for a conditional use authorization for the
+
+6 Grubstake Development Project.
+
+7 37. Under San Francisco Planning Code section 306.5, "[w]henever any application
+
+8 for. .. [a] conditional use or variance, or any part thereof, has been disapproved by the Planning
+
+9 Commission .. no application proposing .. [a] conditional use or variance, the same or
+
+10 substantially the same as that which was disapproved, shall be resubmitted to or reconsidered by
+
+11 the Planning Commission . . . within a period of one year from the effective date of final action
+
+12 upon the earlier application."
+
+13 38. Because the Planning Commission disapproved of the Grubstake Development
+
+14 Project's application for conditional use authorization on May 6, 2021, the Planning Commission
+
+15 was precluded from reconsidering the conditional use authorization for one year, until May 6,
+
+16 2022.
+
+17 39. The Planning Commission failed to apply the one-year waiting period under
+
+18 Section 306.5, and reconsidered the conditional use authorization for the same Project on July 22,
+
+19 2021. The City thus proceeded in excess of its jurisdiction, has not proceeded in a manner
+
+20 required by law, and/or has abused its discretion, and thus the approval of the Project must be set
+
+21 aside under California Code of Civil Procedure sections 1094.5 and/or 1085.
+
+22 PRAYER FOR RELIEF
+
+23 WHEREFORE, Petitioner respectfully prays for relief as follows:
+
+24 40. a For a peremptory writ of mandate, issued under the seal of this Court,
+
+25 commanding respondent, the City, forthwith, to vacate, annul, and set aside its adoption of
+
+26 the final mitigated negative declaration for the Grubstake Development Project.
+
+27 41. For a peremptory writ of mandate, issued under the seal of this Court,
+
+28 commanding respondent, the City, to vacate, annul, and set aside its approval of a conditional
+
+8
+VERIFIED PETITION FOR WRIT OF MANDATE UNDER CEQA
+
+- use authorization for the Grubstake Development Project, and to observe the one-year
+
+2 waiting period required under San Francisco Planning Code Section 306.5.
+
+3 42. For a peremptory writ of mandate, issued under the seal of this Court,
+
+4 commanding respondent, the City, to fully comply with CEQA and conduct legally adequate
+
+5 environmental review prior to approving the Grubstake Development Project as it is
+
+6 currently proposed, including preparation of an EIR.
+
+7 43. For a peremptory writ of mandate, issued under the seal of this Court, or a stay
+
+8 and/or temporary restraining order, preliminary injunction and/or permanent injunction
+
+9 restraining, enjoining, and preventing the Respondents and Real Parties in Interest from any
+
+10 construction or other Proposed Project activities until the Project complies with CEQA and
+
+11 administrative law.
+
+12 44. For its costs of suit herein.
+
+13 45. For its attorneys' fees, pursuant to Code of Civil Procedure section 1021.5.
+
+14 46. For such other relief as the Court may deem just and proper.
+
+15
+
+16 Dated: November 19, 2021 Respectfully submitted,
+
+17 By: /s/ Michael S. McCauley
+
+18 Michael S. McCauley
+Jones Day
+19 Attorneys for Petitioner, Shawn Farrell
+8388
+24
+
+25
+
+26
+
+27
+
+28
+
+9
+VERIFIED PETITION FOR WRIT OF MANDATE UNDER CEQA
+
+1 Verification
+
+2 Shawn Farrell, declare:
+
+3 I am the Petitioner in this case and have read the foregoing Petition. I know the contents
+
+4 thereof, and the facts therein stated are true to my own knowledge, except as to those matters
+
+5 stated on information and belief, and as to those matters, I believe them to be true.
+
+6 I declare under penalty of perjury under the laws of the State of California that the
+
+7 foregoing is true and correct.
+
+8 Executed on November 19, 2021 in San Francisco, California.
+
+9
+
+10 By: Allca Zausl
+11 Shawn Farrell
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+10 VERIFIED PETITION FOR WRIT OF MANDATE
+UNDER CEQA
+
+EXHIBIT A
+
+JONES DAY
+
+555 CALIFORNIA STREET, 26TH FLOOR • SAN FRANCISCO, CALIFORNIA 94104
+
+TELEPHONE: +1.415.626.3939 • FACSIMILE: +1.415.875.5700
+
+DIRECT NUMBER: (415) 875-5748
+DSEIDEL@JONESDAY.COM
+
+JP018917 November 18, 2021
+710821-131103
+
+San Francisco Board of Supervisors
+Dr. Carlton B. Goodlett Place
+City Hall, Room 244
+San Francisco, CA 94102-4689
+Email: Board.of.Supervisors@sfgov.org
+
+Re: Notice of Intent to Commence Lawsuit re: 1525 Pine Street Development
+Project (the Grubstake)
+
+To Whom it May Concern:
+
+PLEASE TAKE NOTICE, under Public Resources Code Section 21167.5, that Petitioner,
+Shawn Farrell, intends to file a petition for writ of mandate against Respondents, San Francisco
+Board of Supervisors and San Francisco Planning Department, challenging their failure to
+comply with the California Environmental Quality Act ("CEQA"), Public Resources Code
+Sections 21000, et seq., and other laws, in connection with the 1525 Pine Street development project (the "Project") at the current site of the Grubstake restaurant. The Planning Department approved the Project on May 6 and June 22, 2021, as did the Board of Supervisors on October 19, 2021, without conducting the necessary environmental review as required under CEQA, and
+engaged in other administrative errors that warrant issuance of a peremptory writ of mandate to vacate and remand the approval for this project to comply with CEQA and other laws.
+
+Sincerely,
+
+JONES DAY
+
+Daud Suiud
+By: David H. Seidel
+Attorney for Petitioner
+
+NAI-1523399368v1
+
+AMSTERDAM • ATLANTA • BEIJING • BOSTON BRISBANE • BRUSSELS • CHICAGO • CLEVELAND • COLUMBUS DALLAS DETROIT
+DUBAI DÜSSELDORF • FRANKFURT HONG KONG • HOUSTON IRVINE • LONDON LOS ANGELES MADRID • MELBOURNE
+MEXICO CITY • MIAMI • MILAN • MINNEAPOLIS • MUNICH • NEW YORK • PARIS • PERTH • PITTSBURGH • SAN DIEGO • SAN FRANCISCO
+SÃO PAULO SAUDI ARABIA SHANGHAI SILICON VALLEY • SINGAPORE • SYDNEY TAIPEI • TOKYO WASHINGTON
+
+JONES DAY
+
+555 CALIFORNIA STREET, 26TH FLOOR • SAN FRANCISCO, CALIFORNIA 94104
+TELEPHONE: +1.415.626.3939 FACSIMILE: +1.415.875.5700
+
+DIRECT NUMBER: (415) 875-5748
+DSEIDEL@JONESDAY.COM
+
+JP018917 November 18, 2021
+710821-131103
+
+San Francisco Board of Supervisors
+Dr. Carlton B. Goodlett Place
+City Hall, Room 244
+San Francisco, CA 94102-4689
+Email: Board.of.Supervisors@sfgov.org
+
+Re: Notice of Intent to Commence Lawsuit re: 1525 Pine Street Development Project (the Grubstake)
+To Whom it May Concern:
+PLEASE TAKE NOTICE, under Public Resources Code Section 21167.5, that Petitioner, Shawn Farrell, intends to file petition for writ of mandate against Respondents, San Francisco Board of Supervisors and San Francisco Planning Department, challenging their failure to comply with the California Environmental Quality Act ("CEQA"), Public Resources Code Sections 21000, et seq., and other laws, in connection with the 1525 Pine Street development project (the "Project") at the current site of the Grubstake restaurant. The Planning Department approved the Project on May 6 and June 22, 2021, as did the Board of Supervisors on October 19, 2021, without conducting the necessary environmental review as required under CEQA, and engaged in other administrative errors that warrant issuance of a peremptory writ of mandate to vacate and remand the approval for this project to comply with CEQA and other laws.
+Sincerely, U.S. Postal Service™
+CERTIFIED MAIL® RECEIPT JONES DAY 2571 OTSL TO0O 0h90 STOL Domestic Mail Only
+For delivery information, visit our website at www.usps.com
+ASTATIOA Certified Mail Fee E Dand Suind
+
+Extra Services & Fees (chack bi
+Return Recoipt (hardcopy) By: David H. Seidel
+Retum Rocoipt (eloctronic) L Certiled Mall Restricted Delivery Postmark Attorney for Petitioner
+E Adult Signature Requtred
+E Adult Signaturo Restrictod Deilvery 18 202P
+
+Postage
+
+Total Postage and Fees
+
+Sent Boe.c) Stroot and Apl. No., or PO Box No.: ReCuDes......C.M.Ha... Dr Chclten B.Geadats.Pl Rm244 City, 'State, 2iP148***
+SF 4/02- 4689
+PS Form 3800, April 2015 PSN 7530-02-000-9047 See Reverse for Instructions SSELS • CHICAGO • CLEVELAND • COLUMBUS • DALLAS • DETROIT
+DUBAI • DUSSELDORF • FRANKFURT • HONG KONG HOUSTON IRVINE • LONDON • LOS ANGELES • MADRID • MELBOURNE
+MEXICO CITY • MIAMI • MILAN • MINNEAPOLIS • MUNICH • NEW YORK • PARIS • PERTH • PITTSBURGH • SAN DIEGO • SAN FRANCISCO
+SÃO PAULO • SAUDI ARABIA SHANGHAI SILICON VALLEY SINGAPORE SYDNEY TAIPEI TOKYO WASHINGTON
+
+JONES DAY
+
+555 CALIFORNIA STREET, 26TH FLOOR SAN FRANCISCO, CALIFORNIA 94104
+TELEPHONE: +1.415.626.3939 • FACSIMILE: +1.415.875.5700
+
+DIRECT NUMBER: (415) 875-5748
+DSEIDEL@JONESDAY.COM
+
+JP018917 November 18, 2021
+710821-131103
+
+San Francisco Planning Department
+49 South Van Ness Ave.
+San Francisco, CA 94103
+Email: pic@sfgov.org
+
+Re: Notice of Intent to Commence Lawsuit re: 1525 Pine Street Development
+Project (the Grubstake)
+
+To Whom it May Concern:
+PLEASE TAKE NOTICE, under Public Resources Code Section 21167.5, that Petitioner,
+Shawn Farrell, intends to file a petition for writ of mandate against Respondents, San Francisco
+Board of Supervisors and San Francisco Planning Department, challenging their failure to comply with the California Environmental Quality Act ("CEQA"), Public Resources Code Sections 21000, et seq., and other laws, in connection with the 1525 Pine Street development
+project (the "Project") at the current site of the Grubstake restaurant. The Planning Department approved the Project on May 6 and June 22, 2021, as did the Board of Supervisors on October 19, 2021, without conducting the necessary environmental review as required under CEQA, and engaged in other administrative errors that warrant issuance of a peremptory writ of mandate to vacate and remand the approval for this project to comply with CEQA and other laws.
+
+Sincerely,
+
+JONES DAY
+
+Daid Saud
+By: David H. Seidel
+Attorney for Petitioner
+
+NAI-1523399529v1
+
+AMSTERDAM • ATLANTA • BEIJING • BOSTON BRISBANE • BRUSSELS • CHICAGO • CLEVELAND • COLUMBUS DALLAS DETROIT
+DUBAI DÜSSELDORF • FRANKFURT HONG KONG • HOUSTON IRVINE • LONDON LOS ANGELES MADRID • MELBOURNE
+MEXICO CITY • MIAMI • MILAN • MINNEAPOLIS • MUNICH • NEW YORK • PARIS • PERTH • PITTSBURGH • SAN DIEGO • SAN FRANCISCO
+SÃO PAULO SAUDI ARABIA SHANGHAI SILICON VALLEY • SINGAPORE • SYDNEY TAIPEI • TOKYO WASHINGTON
+
+JONES DAY
+
+555 CALIFORNIA STREET. 26TH FLOOR • SAN FRANCISCO, CALIFORNIA 94104
+TELEPHONE: +1.415.626 3939 • FACSIMILE: +1,415.875.5700
+
+DIRECT NUMBER: (415) 875-5748
+DSEIDEL@JONESDAY.COM
+
+JP018917 November 18, 2021
+710821-131103
+
+San Francisco Planning Department
+49 South Van Ness Ave.
+San Francisco, CA 94103
+Email: pic@sfgov.org
+
+Re: Notice of Intent to Commence Lawsuit re: 1525 Pine Street Development Project (the Grubstake)
+To Whom it May Concern:
+PLEASE TAKE NOTICE, under Public Resources Code Section 21167.5, that Petitioner,
+Shawn Farrell, intends to file a petition for writ of mandate against Respondents, San Francisco Board of Supervisors and San Francisco Planning Department, challenging their failure to comply with the California Environmental Quality Act ("CEQA"), Public Resources Code Sections 21000, et seq., and other laws, in connection with the 1525 Pine Street development project (the "Project") at the current site of the Grubstake restaurant. The Planning Department approved the Project on May 6 and June 22, 2021, as did the Board of Supervisors on October 19, 2021, without conducting the necessary environmental review as required under CEQA, and engaged in other administrative errors that warrant issuance of a peremptory writ of mandate to vacate and remand the approval for this project to comply with CEQA and other laws.
+Sincerely, U.S. Postal Service"
+CERTIFIED MAIL® RECEIPT JONES DAY Domestic Mail Only
+For delivery information, visit our website at www.usps.com
+Daid Sund Certified Mail Fee
+
+Extra Services & Foes (check bax, add foe as appropriara) 9952 OTSC TOOO 0h90 STOL OFFICIALRUASE 100 By: David H. Seidel Return hardcopy)
+C Roturn Receipt (electranic)
+L Certiied Mall Restricted Dellvery NOV Postmark
+
+E Aduit Signature Required 18 °2021 Attorney for Petitioner
+
+Adult Signature Restricted Dellivory
+|Postage
+
+/Total Postage and Fees tinosco d Sont TO S F Phacias.De.et Strost and Apt. No., or PO Box No. Ua Na SS.Au.c Cllÿ, Stato, 21P44 CA 14104
+PS Form 3800, April 2015 PSN 7530-02-000-9047 See Reverse for instructions
+
+AMSTERDAM • • ATLANTA • BEIJING • BOSTON • BRISBANE • BRUSSELS • CHICAGO • CLEVELAND • COLUMBUS • DALLAS • DETROIT
+• DUBAI • DUSSELDORF • FRANKFURT • HONG KONG • HOUSTON • IRVINE • LONDON • LOS ANGELES • MADRID • MELBOURNE
+MEXICO CITY • MIAMI • MILAN • MINNEAPOLIS • MUNICH • NEW YORK • PARIS • PERTH • PITTSBURGH • SAN DIEGO • SAN FRANCISCO
+TOKYO WASHINGTON SILICON VALLEY • SINGAPORE • SYDNEY • TAIPEI • SÃO PAULO SAUDI ARABIA • SHANGHAI •
+
+P Michael S. McCauley (State Bar No. 186537)
+JONES DAY
+2 555 South Flower Street
+Fiftieth Floor ELECTRONICALLY
+3 Los Angeles, CA 90071.2452 FILED Telephone: +1.213.489.3939 Superior Court of California, Facsimile: +1.213.243.2539 County of San Francisco 4
+Email: msmccauley@jonesday.com 11/19/2021 5 Clerk of the Court David H. Seidel (State Bar No. 307135) BY: LAURA SIMMONS
+Deputy Clerk 6 JONES DAY
+555 California Street, 26th Floor
+7 San Francisco, CA 94104 Telephone: +1.415.626.3939
+8 Facsimile: +1.415.875.5700
+Email: dseidel@jonesday.com 9
+Attorneys for Petitioner CPF-21-517626 10 Shawn Farrell
+
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+12 COUNTY OF SAN FRANCISCO
+
+13 Shawn Farrell, CASE NO.
+
+14 Petitioner, Assigned for all purposes to
+
+15 V.
+NOTICE OF PETITIONER'S
+16 San Francisco Planning Department; San ELECTION TO PREPARE
+Francisco Board of Supervisors, ADMINISTRATIVE RECORD/
+17 RECORD OF PROCEEDINGS
+Respondents.
+18 [Public Resources Code § 21167.6(b)(2)|
+
+19
+
+20 1525 Pine Street Dev, LLC; Kerman Morris Architects LLP; and DOES 1-50,
+21 Real Parties in Interest. 22
+23
+24
+
+25
+
+26
+
+27
+
+28
+
+Notice of Petitioners' Election to Prepare Administrative Record/Record of Proceedings
+
+P TO THE HONORABLE COURT AND TO ALL PARTIES OF RECORD AND THEIR
+
+2 ATTORNEYS HEREIN:
+
+3 PLEASE TAKE NOTICE that Petitioner Shawn Farrell ("Farrell") hereby elects, pursuant
+
+4 to Public Resources Code section 21167.6(b)(2), to prepare the administrative record/record of
+
+5 proceedings for this action.
+
+6
+
+Respectfully submitted, 7 Dated: November 19, 2021
+
+8
+
+By: Is/ Michael S. McCauley_ 9
+
+Michael S. McCauley Jones Day 10
+
+Attorneys for Petitioner, Shawn Farrell 11
+
+12
+
+13
+NAI-1523430042v1
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+8588
+24
+
+25
+
+26
+
+27
+
+28
+
+2
+Notice of Petitioners' Election to Prepare Administrative Record/Record of Proceedings
+
+CM-010
+ATTORNEY OR PARTY WITHOUT ATTORNEY (Name. State Bar number dress):
+Michael S. McCauly SBN 186537, David Seidel SBN 307135 FOR COURT USE ONLY
+Jones Day, 555 California Street, 26th Floor, San Francisco, CA 94104
+TELEPHONE NO: 415-626-3939 FAX NO (Optional). 415-875-7500 ELECTRONICALLY
+E-MAIL ADDRESS. msmccauley@jonesday.com; dseidel@jonesday.com FILED
+ATTORNEY FOR (Name). Shawn Farrell Superior Court of California,
+SUPERIOR COURT OF CALIFORNIA, COUNTY OF SAN FRANCISCO County of San Francisco
+
+STREET ADDRESS: 400 McAllister Street 11/19/2021
+MAILING ADDRESS. Clerk of the Court
+CITY AND ZIP CODE San Francisco, CA 94102 BY: LAURA SIMMONS
+BRANCH NAME: Deputy Clerk
+CASE NAME:
+Shawn Farrell v. San Francisco Planning Department; San Francisco Board of Supervisors
+CIVIL CASE COVER SHEET Complex Case Designation CASE NUMBER:
+
+x Unlimited Limited Counter -Joinder
+(Amount (Amount CPF-21-517626
+demanded demanded is Filed with first appearance by defendant JUDGE
+exceeds $25,000) $25,000 or less) (Cal. Rules of Court, rule 3.402) DEPT.
+Items 1-6 below must be completed (see instructions on page 2).
+1. Check one box below for the case type that best describes this case: Auto Tort Contract Provislonally Complex Civll Litigation
+Auto (22) (Cal. Rules of Court, rules 3.400-3.403)
+Uninsured motorist (46) E Breach of contract/warranty (06)
+Rule 3.740 collections (09) Antitrust/Trade regulation (03)
+Other PI/PDAWD (Personal Injury/Property
+Damage/Wrongful Death) Tort Other collections (09)
+Insurance coverage (18) Mass tort (40)
+Asbestos (04) Other contract (37) Securities litigation (28)
+Product liability (24)
+Medical malpractice (45) Real Property 1000OOO Construction defect (10)
+
+Environmental/Toxic tort (30)
+Insurance coverage claims arising from the
+Other PI/PD/WD (23) - Eminent domain/Inverse condemnation (14) above listed provisionally complex case
+Wrongful eviction (33) types (41) Non-PI/PD/WD (Other) Tort Enforcement of Judgment
+Business tort/unfair business practice (07) Other real property (26) Enforcement of judgment (20) Civil rights (08) Unlawful Detainer
+Commercial (31) Miscellaneous Civil Complaint
+Defamation (13)
+Residential (32) RICO (27)
+Fraud (16)
+Intellectual property (19) Drugs (38) Other complaint (not specified above) (42)
+
+Professional negligence (25) Judicial Review Miscellaneous Civil Petition
+
+Other non-PI/PD/WD tort (35) Asset forfeiture (05) Partnership and corporate governance (21)
+
+Employment Petition re: arbitration award (11) Other petition (not specified above) (43)
+Wrongful termination (36) Writ of mandate (02)
+Other employment (15) Other judicial review (39)
+2. This case - is X is not complex under rule 3.400 of the California Rules of Court. If the case is complex, mark the factors requiring exceptional judicial management:
+a. Large number of separately represented parties d. Large number of witnesses
+b. Extensive motion practice raising difficult or novel e. Coordination with related actions pending in one or more in issues that will be time-consuming to resolve courts in other counties, states, or countries, or in a federal
+court C. Substantial amount of documentary evidence Substantial postjudgment judicial supervision
+3. Remedies sought (check all that apply): a. x monetary b. x nonmonetary; declaratory or injunctive relief C. punitive
+4. Number of causes of action (specify): 2 - Violation of CEQA and Violation of San Francisco Planning Code § 306.5
+5. This case - is x is not a class action suit.
+6. If there are any known related cases, file and serve a notice of related case. (You may use form CM-015.)
+Date: November 19, 2021
+Michael S. McCauley Minul Mclurles (TYPE OR PRINT NAME) (SIGNATURE OF PARTY OR ATTORNEY FOR PARTY) NOTICE
+Plaintiff must file this cover sheet with the first paper filed in the action or proceeding (except small claims cases or cases filed under the Probate Code, Family Code, or Welfare and Institutions Code). (Cal. Rules of Court, rule 3.220.) Failure to file may result
+in sanctions. File this cover sheet in addition to any cover sheet required by local court rule.
+If this case is complex under rule 3.400 et seq. of the California Rules of Court, you must serve a copy of this of cover sheet on all
+other parties to the action or proceeding.
+Unless this is a collections case under rule 3.740 or a complex case, this cover sheet will be used for statistical purposes only.
+Page 1 of 2
+Form Adopled for Mandatory Use CIVIL CASE COVER SHEET Cal. Rules of Court, rules 2 30, 3.220, 3.400-3.403. 3.740; Judicial Council of Catifornia Cal Standards of Judicial Administration, std. 3.10
+CM-010 [Rev.September 2021] www.courts.ca.gov
+
+DEPARTMENT OF JUSTICE
+Civil Service of Process Cover Sheet RECEIVED
+SAC 6025 NOV 2:9 Eatel Received
+
+Service of Process Disclaimer: OFFICE OF THE ATTORNEY GENERAL SAN FRANCISCO, CALIFORNIA
+To All Persons Attempting Service Of Process Upon The Office Of The Attorney General: BY CLERK
+
+Please be advised that staff assigned to receive documents delivered to the Attorney General's office are not authorized to accept such documents as properly served. Further, staff are not authorized to receive documents on behalf of any individual. In receiving documents delivered by process servers and other members of the public, office personnel do not thereby waive any right of the State of California, the Attorney General's office, any other entity of the State of California, or any individual to object to the validity of the service.
+
+Please complete this form when delivering documents to the Attorney General's Office:
+Case Name: Sar RAACSCO PUArNIn DEP- SS Snawn FANeu
+
+.County : Court No.:
+
+Document(s) Summons and Complaint/Cross
+served: Complaint 0 Notice of Consumer or Employee and
+0 Notice to Attorney General's Office Objection and check for $15.00
+.
+pursuant to Section Writ of Mandate and Complaint for
+0 Petition For Relief From Late Claim Declaratory Relief
+Filing (Gov. Code Section 946.6) 0 Other (please list):
+Pitchess Motion D Small Claims 0 Deposition Subpoena for Production of Business Records
+
+Process Server's
+Name: ENCAZ MÉNDEZ
+Name of
+Company: (Include Lst LEGA'
+business name,
+address, and
+telephone number) 2c0 UN E ESTER St #201 oaKuArd CA 94607
+Security Signature:
+
+FOR SERVICE DEPUTY'S USE ONLY
+Forwarded to: Date Forwarded:
+
+Name of Service
+Deputy, section,
+and telephone
+number:
+NOTES: NO CASE pumber- Y€ET
+
+The attached document(s) appear(s) to be the responsibility of your section; if they are not, please return them to the service deputy named above, noting the section to which they are to be directed. (Rev. 4/2020)
+
+OFFICE OF THE ATTORNEY GENERAL
+
+DEPARTMENT OF JUSTICE
+
+RECEIPT OF DOCUMENT DISCLAIMER
+
+TO ALL PERSONS ATTEMPTING SERVICE PROCESS UPON THE OFFICE OF THE
+ATTORNEY GENERAL:
+
+PLEASE BE ADVISED THAT STAFF ASSIGNED TO RECEIVE DOCUMENTS
+DELIVERED TO THE ATTORNEY GENERAL'S OFFICE ARE NOT AUTHORIZED
+TO ACCEPT SUCH DOCUMENTS AS PROPERLY SERVED. FURTHER, STAFF ARE
+NOT AUTHORIZED TO RECEIVE DOCUMENTS ON BEHALF OF ANY
+INDIVIDUAL.
+
+In receiving documents delivered by process servers and other members of the public, office staff do not thereby waive any right of the State of California, the Attorney General's Office, any other entity of the State of California, or any individual to object to the validity of the service.
+
+THE INDIVIDUAL WHO HAS RECEIVED THE DOCUMENTS LEFT WITH THE
+OFFICE OF THE ATTORNEY GENERAL IS NOT AN AGENT FOR SERVICE OF
+PROCESS.
+
+P Michael S. McCauley (State Bar No. 186537)
+JONES DAY
+2 555 South Flower Street
+Fiftieth Floor
+3 Los Angeles, CA 90071.2452 Telephone: +1.213.489.3939
+4 Facsimile: +1.213.243.2539
+Email: msmccauley@jonesday.com 5
+David H. Seidel (State Bar No. 307135)
+6 JONES DAY
+555 California Street, 26th Floor
+7 San Francisco, CA 94104 Telephone: +1.415.626.3939
+8 Facsimile: +1.415.875.5700
+Email: dseidel@jonesday.com 9
+Attorneys for Petitioner
+10 Shawn Farrell
+
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+12 COUNTY OF SAN FRANCISCO
+
+13 Shawn Farrell, CASE NO.
+
+14 Petitioner, Assigned for all purposes to
+
+15 V.
+VERIFIED PETITION FOR WRIT OF
+16 San Francisco Planning Department; San MANDATE UNDER THE
+Francisco Board of Supervisors, CALIFORNIA ENVIRONMENTAL
+17 QUALITY ACT AND OTHER LAWS
+Respondents.
+18 Complaint Filed:
+Trial Date:
+19 Discovery Cutoff: Motion Cutoff:
+20 1525 Pine Street Dev, LLC; Kerman Morris Architects LLP; and DOES 1-50,
+21 Real Parties in Interest. 22
+
+23 INTRODUCTION
+
+24 1. This petition challenges the San Francisco Planning Department and the San
+
+25 Francisco Board of Supervisors' decision to allow the development of an eight-story high rise
+
+26 apartment building without conducting the environmental review required under the California
+27 Environmental Quality Act ("CEQA"), including identifying and studying the potential harmful
+28 effects of this development, preparing an environmental impact report ("EIR"), and evaluating
+VERIFIED PETITION FOR WRIT OF MANDATE
+UNDER CEQA
+
+1 potential measures to mitigate those harmful effects. The proposed project would demolish a
+
+2 culturally and historically significant one-story restaurant called the Grubstake, and build in its
+
+3 place an eight-story apartment building on top of newly-designed commercial space where the
+
+4 Grubstake restaurant and other businesses can operate, all within a narrow lot closely abutting a
+
+5 neighboring six-story residential building.' It would drastically reduce or eliminate natural light
+
+6 in neighboring residences, and potentially create dangerous wind conditions on the neighboring
+
+7 rooftop terraces, or at the street level. The City's2 decision fails to comply with CEQA's most
+
+8 fundamental premise: that projects having any reasonable possibility of significant environmental
+
+9 impacts be adequately studied through an EIR process to ensure that any potential environmental
+
+10 harm can be mitigated to the fullest extent possible. By failing to follow CEQA's mandate for an
+
+11 EIR whenever a project may have a significant effect on the environment, the City has allowed
+
+12 the Project to proceed without adequately analyzing the potentially significant environmental
+
+13 impacts that the Project may cause, thereby foregoing potentially significant mitigating measures.
+
+14 2. Moreover, and separate from the City's CEQA violation, the City's administrative
+
+15 process in green-lighting this Project violated its own procedural rules. This procedural violation
+
+16 a is a separate and independent basis for vacating the City's decision and remanding.
+
+17 3. Petitioner seeks a writ vacating the City's approval of the Project, as proposed, and
+
+18 remanding to the City to prepare an EIR in compliance with CEQA.
+
+19 THE PARTIES
+
+20 4. Petitioner Shawn Farrell is an owner and resident of a condominium unit in the
+
+21 Austin building, located at 1545 Pine Street in San Francisco. The Austin building is directly
+
+22 next to the Grubstake Development Project, located at 1525 Pine Street. Petitioner has an interest
+
+23 in preventing the harmful environmental effects that the Proposed Project may cause to himself,
+
+24 other residents of the Austin building, and the surrounding neighborhood. Petitioner also has an
+
+25 interest in preserving the historical and culturally significant nature of the Grubstake restaurant, at
+
+26 1 Petitioner refers to the proposed project as the "Grubstake Development Project," the
+27 "Proposed Project,' or simply, the "Project."
+
+28 2 Petitioner refers to the SF Planning Department and the SF Board of Supervisors collectively as "San Francisco" or "the City.'
+2
+VERIFIED PETITION FOR WRIT OF MANDATE UNDER CEQA
+
+1 which he has been and will a continue to be a patron. Petitioner wrote letters to the City during the
+
+2 Planning Department and Board of Supervisor's approval processes and spoke during public
+
+3 hearings, objecting to the Project's approval.
+
+4 5. Petitioner is informed and believes, and thereon alleges, that Respondent San
+
+5 Francisco Planning Department is an administrative agency within the City and County of San
+
+6 Francisco, that among other things, develops city plans, performs environmental and historical
+
+7 preservation analysis, and enforces the Planning Code. The Planning Department is under the
+
+8 direction of a Planning Commission, which is made up of seven commissioners appointed by the
+
+9 Mayor and the President of the Board of Supervisors.
+
+10 6. Petitioner is informed and believes, and thereon alleges, that Respondent San
+
+11 Francisco Board of Supervisors is the legislative branch of the City and County of San Francisco.
+
+12 The Board consists of 11 members, representing 11 districts in San Francisco. The Board voted
+
+13 to deny the appeal and approve the Grubstake Development Project without an EIR on
+
+14 October 19, 2021.
+
+15 7. Petitioner is informed and believes, and thereon alleges, that Real Party in Interest
+
+16 1525 Pine Street Dev, LLC, is a California limited liability company that owns and operates the
+
+17 Grubstake restaurant located at 1525 Pine Street in San Francisco, and is the project sponsor of
+
+18 the Grubstake Development Project.
+
+19 8. Petitioner is informed and believes, and thereon alleges, that Real Party in Interest
+
+20 Kerman Morris Architects LLP is an architecture firm based in San Francisco that has been hired
+
+21 by 1525 Pine Street Dev, LLC to design the Grubstake Development Project and work with the
+
+22 City through the approval process, and may be considered a project sponsor as well.
+
+23 9. Petitioner is informed and believes, and thereon alleges, that at all times material
+
+24 hereto, real 1 parties in interest DOES 1 through 50, inclusive, were and now are either the agents
+
+25 or principals of the other real parties in interest, and of each other, or were and now are either the
+
+26 owners, interest holders, or co-obligees of the other real parties in interest and, in such capacity or
+
+27 capacities, stand to be directly affected by this litigation.
+
+28
+
+3
+VERIFIED PETITION FOR WRIT OF MANDATE UNDER CEQA
+
+P JURISDICTION AND VENUE
+
+2 10. This Court has jurisdiction over this action pursuant to Code of Civil
+
+3 Procedure sections 1085 and/or 1094.5, and Public Resources Code sections 21168 and
+
+4 21168.5.
+
+5 11. Venue is proper in this Court pursuant to Code of Civil Procedure sections 393
+
+6 and/or 395 because the proposed Project is located at 1525 Pine Street in San Francisco.
+
+7 GENERAL ALLEGATIONS AND BACKGROUND
+
+8 12. The Grubstake Development Project site at 1525 Pine Street is an approximately
+
+9 3,000 square foot narrow lot with frontages on Pine Street and Austin Street. Currently, the only
+
+10 building on the project site is the Grubstake restaurant. The Project would demolish the existing
+
+11 one-story Grubstake restaurant and construct in its place an eight-story, 79-foot-tall building with
+
+12 21 dwelling units and a large commercial space occupying the ground floor, and mezzanine level
+
+13 of the new building, where the project sponsors propose that the Grubstake restaurant can
+
+14 continue to operate. The Project would reclaim and incorporate some of the culturally and
+
+15 historically significant pieces of the old Grubstake building into the Project.
+
+16 13. The building that currently houses the Grubstake is a one-story lunch-wagon-style
+
+17 diner, consisting of two portions: a lunch wagon originally constructed before 1916 with a sheet
+
+18 metal curved roof, and a main wood-frame rectangular portion that was added to the lunch wagon
+
+19 in 1975. The Grubstake restaurant has operated at the site since the 1960s, and in the 1980s and
+
+20 1990s, it became well known and loved as a welcoming establishment to the LGBTQ community
+
+21 at a time when other business were not open to the LGBTQ community. It was frequented by
+
+22 transgender women and artists who performed and participated in drag shows at nearby venues.
+
+23 It is officially considered a "contributor" to the Polk Gulch LGBTQ Historic District.
+
+24 14. The Grubstake was purchased in 2015 by the current owners, who thereafter
+
+25 proposed plans to demolish the building, and develop the property into a high-rise apartment
+
+26 building on top of commercial space. Those plans were first proposed to the City for approval on
+
+27 May 9, 2016. At that time, the Proposed Project was only six stories high, in conformance with
+
+28 San Francisco building height restrictions. Subsequently, the Proposed Project was modified to
+
+4
+VERIFIED PETITION FOR RIT OF MANDATE UNDER CEQA
+
+-
+
+2 an eight-story building, relying on the California Density Bonus Law codified at California
+
+3 Government Code Sections 65915 - 65918, to seek numerous waivers and concessions, including
+
+a variance in building height.
+
+4 15. The Grubstake Development Project is directly adjacent to a condominium
+
+5
+
+6 building called the Austin, at 1545 Pine Street. The Austin is comprised of two portions: a
+
+7 twelve-story roughly rectangular building, and a six-story portion, which is itself divided into two
+
+8 roughly rectangular portions, with an open corridor between them, or light well, spanning the
+
+9 entire six stories. The two six-story portions directly abut the Grubstake Development Project
+
+10 site. The six-story portions also have open space terraces on their roofs, which residents of the
+twelve-story building can access from the seventh floor.
+
+11 16.
+
+12 The Grubstake Development Project's new eight-story building would be built
+
+13 directly abutting the Austin's six-story portions, enclosing the open light well that runs between
+
+them, and overshadowing by two stories the open
+
+14 roof terraces. As proposed, the development
+
+15 would have a significant impact on the availability of natural light to its surroundings, including
+
+16 by significantly reducing the light that reaches the interior and Grubstake-facing (east-facing)
+
+17 portions of the six-story Austin building. It could also create new and potentially dangerous wind
+
+18 tunnel effects on the roof terraces of the six-story Austin building, since those terraces would be
+fully enclosed on their two longer sides.
+
+19 17.
+
+20 The Proposed Project also has no onsite parking, thus significantly increasing
+
+21 congestion and affecting traffic patterns for pedestrians and vehicles. Moreover, the Proposed
+
+22 Project's residential units' only access is on Austin alley, a narrow one-way alley that is already
+handling more vehicle and foot traffic than may be feasible.
+
+23 18.
+
+24 On January 27, 2021, the SF Planning Department published a preliminary
+
+25 mitigated negative declaration, declaring that the Proposed Project would not have any significant
+environmental impacts, and therefore did not require an EIR under CEQA.
+
+26 19.
+
+27 On February 16, 2021, residents of the Austin building filed an appeal of the
+
+28 preliminary mitigated negative declaration, arguing that the Project's potential significant
+environmental impacts required preparation of an EIR.
+
+5
+VERIFIED PETITION FOR WRIT OF MANDATE UNDER CEQA
+
+P 20. On May 6, 2021, despite several commissioners noting the significant impacts of
+
+2 the Proposed Project on its surroundings, the Planning Commission voted to uphold the
+
+3 preliminary mitigated negative declaration over the appeal's objection, holding that no EIR was
+
+4 required, and adopting the final mitigated negative declaration.
+
+5 21. At the same hearing, on May 6, 2021, the Planning Commission, further noting the
+
+6 potentially significant environmental impacts of the Proposed Project, denied approval of the
+
+7 Project by voting to disapprove issuance of a conditional use authorization. After the
+
+8 Commission denied issuance of a conditional use authorization, the Commission continued the
+
+9 matter.
+
+10 22. On July 22, 2021, the Planning Commission reversed its previous denial, and
+
+11 granted the Project a conditional use authorization, approving the Project.
+
+12 23. On August 20, 2021, residents of the Austin filed an appeal of the final mitigated
+
+13 negative declaration, arguing that the Grubstake Development Project could cause significant
+
+14 environmental impacts, including on natural light, historical and cultural resources (including the
+
+15 demolition of the Grubstake building), transportation, and wind, thus requiring an EIR.
+
+16 24. On September 27, 2021, the Planning Department filed its response to the appeal.
+
+17 25. On October 19, 2021, the San Francisco Board of Supervisors heard the appeal,
+
+18 and voted to deny the appeal and approve the Project.
+
+19 26. On October 22, 2021, the City filed and published its notice of determination,
+
+20 stating that the Grubstake Development Project will not have a significant effect on the
+
+21 environment, and therefore does not require an EIR.
+
+22 COMPLIANCE WITH PREREQUISITES
+
+23 27. Petitioner has performed any and all conditions precedent to the filing of this
+
+24 petition, and has fully exhausted his administrative remedies by participating in the City's
+
+25 administrative processes related to the approval of the Proposed Project without an EIR, to the
+
+26 extent that those processes were available, including Petitioner's submittal of two letters to
+
+27 the City, and testimony at City hearings on the Proposed Project on May 6, July 22, and
+
+28 October 19, 2021.
+
+6
+VERIFIED PETITION FOR WRIT OF MANDATE UNDER CEQA
+
+P 28. Petitioner has no plain, speedy, or adequate remedy at law unless the Court grants
+
+2 the requested relief. In the absence of the requested relief, the Grubstake Development
+
+3 Project will commence without an EIR in violation of CEQA, and thus without adequate
+
+4 study of the potentially significant environmental impacts and mitigation measures.
+
+5 29. Petitioner has complied with Public Resources Code section 21167.5, and, prior to
+
+6 filing this lawsuit, has served upon the San Francisco Planning Commission and San Francisco
+
+7 Board of Supervisors a notice of his intent to file this lawsuit. Copies of those notices are
+
+8 attached collectively as Exhibit A.
+
+9 FIRST CAUSE OF ACTION
+
+10 Violation of CEQA for Failure to Prepare Environmental Impact Report
+
+11 30. Paragraphs through 29 are hereby incorporated as though fully set forth herein.
+
+12 31. CEQA requires a public agency to prepare an environmental impact report before
+
+13 approving a project that may have significant environmental effects. (Pub. Res. Code § 21151.)
+
+14 32. The EIR is "the heart of CEQA," and so fundamental to the CEQA process, that so
+
+15 long as there is evidence to support a fair argument that a project may have a significant adverse
+
+16 impact, an EIR is required. See, e.g., Laurel Heights Improvement Assn. v. Regents of University
+
+17 of California, 47 Cal.3d 376, 392 (1988); Georgetown Pres. Soc'y v. Cty. of El Dorado, 30 Cal.
+
+18 App. 5th 358, 375-76 (2018).
+
+19 33. The City was required to prepare an EIR for the Grubstake Development Project
+
+20 because the City was presented with evidence that the Project may have a significant impact on
+
+21 the environment on multiple, independent grounds, including, but not limited to (1) the
+
+22 demonstrated adverse shadow effects impacting the surrounding natural light; (2) the demolition
+
+23 of a culturally and historically significant building, the Grubstake restaurant; (3) the likely impact
+
+24 on traffic, congestion, and pedestrian safety; and (4) the potential impact on wind.
+
+25 34. The City failed to adequately analyze the potential environmental impacts of the
+
+26 Project through the preparation of an EIR, in violation of CEQA.
+
+27
+
+28
+
+7
+VERIFIED PETITION FOR WRIT OF MANDATE UNDER CEQA
+
+P SECOND CAUSE OF ACTION
+
+2 Violation of San Francisco Planning Code § 306.5
+
+3 35. Paragraphs 1 through 34 are hereby incorporated as though fully set forth herein.
+
+4 36. During the May 6, 2021 San Francisco Planning Commission hearing, the
+
+5 Commission voted to disapprove of the application for a conditional use authorization for the
+
+6 Grubstake Development Project.
+
+7 37. Under San Francisco Planning Code section 306.5, "[w]henever any application
+
+8 for. .. [a] conditional use or variance, or any part thereof, has been disapproved by the Planning
+
+9 Commission .. no application proposing .. [a] conditional use or variance, the same or
+
+10 substantially the same as that which was disapproved, shall be resubmitted to or reconsidered by
+
+11 the Planning Commission . . . within a period of one year from the effective date of final action
+
+12 upon the earlier application."
+
+13 38. Because the Planning Commission disapproved of the Grubstake Development
+
+14 Project's application for conditional use authorization on May 6, 2021, the Planning Commission
+
+15 was precluded from reconsidering the conditional use authorization for one year, until May 6,
+
+16 2022.
+
+17 39. The Planning Commission failed to apply the one-year waiting period under
+
+18 Section 306.5, and reconsidered the conditional use authorization for the same Project on July 22,
+
+19 2021. The City thus proceeded in excess of its jurisdiction, has not proceeded in a manner
+
+20 required by law, and/or has abused its discretion, and thus the approval of the Project must be set
+
+21 aside under California Code of Civil Procedure sections 1094.5 and/or 1085.
+
+22 PRAYER FOR RELIEF
+
+23 WHEREFORE, Petitioner respectfully prays for relief as follows:
+
+24 40. a For a peremptory writ of mandate, issued under the seal of this Court,
+
+25 commanding respondent, the City, forthwith, to vacate, annul, and set aside its adoption of
+
+26 the final mitigated negative declaration for the Grubstake Development Project.
+
+27 41. For a peremptory writ of mandate, issued under the seal of this Court,
+
+28 commanding respondent, the City, to vacate, annul, and set aside its approval of a conditional
+
+8
+VERIFIED PETITION FOR WRIT OF MANDATE UNDER CEQA
+
+- use authorization for the Grubstake Development Project, and to observe the one-year
+
+2 waiting period required under San Francisco Planning Code Section 306.5.
+
+3 42. For a peremptory writ of mandate, issued under the seal of this Court,
+
+4 commanding respondent, the City, to fully comply with CEQA and conduct legally adequate
+
+5 environmental review prior to approving the Grubstake Development Project as it is
+
+6 currently proposed, including preparation of an EIR.
+
+7 43. For a peremptory writ of mandate, issued under the seal of this Court, or a stay
+
+8 and/or temporary restraining order, preliminary injunction and/or permanent injunction
+
+9 restraining, enjoining, and preventing the Respondents and Real Parties in Interest from any
+
+10 construction or other Proposed Project activities until the Project complies with CEQA and
+
+11 administrative law.
+
+12 44. For its costs of suit herein.
+
+13 45. For its attorneys' fees, pursuant to Code of Civil Procedure section 1021.5.
+
+14 46. For such other relief as the Court may deem just and proper.
+
+15
+
+16 Dated: November 19, 2021 Respectfully submitted,
+
+17 By: /s/ Michael S. McCauley
+
+18 Michael S. McCauley
+Jones Day
+19 Attorneys for Petitioner, Shawn Farrell
+8388
+24
+
+25
+
+26
+
+27
+
+28
+
+9
+VERIFIED PETITION FOR WRIT OF MANDATE UNDER CEQA
+
+1 Verification
+
+2 Shawn Farrell, declare:
+
+3 I am the Petitioner in this case and have read the foregoing Petition. I know the contents
+
+4 thereof, and the facts therein stated are true to my own knowledge, except as to those matters
+
+5 stated on information and belief, and as to those matters, I believe them to be true.
+
+6 I declare under penalty of perjury under the laws of the State of California that the
+
+7 foregoing is true and correct.
+
+8 Executed on November 19, 2021 in San Francisco, California.
+
+9
+
+10 By: Allca Zausl
+11 Shawn Farrell
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+10 VERIFIED PETITION FOR WRIT OF MANDATE
+UNDER CEQA
+
+EXHIBIT A
+
+JONES DAY
+
+555 CALIFORNIA STREET, 26TH FLOOR • SAN FRANCISCO, CALIFORNIA 94104
+
+TELEPHONE: +1.415.626.3939 • FACSIMILE: +1.415.875.5700
+
+DIRECT NUMBER: (415) 875-5748
+DSEIDEL@JONESDAY.COM
+
+JP018917 November 18, 2021
+710821-131103
+
+San Francisco Board of Supervisors
+Dr. Carlton B. Goodlett Place
+City Hall, Room 244
+San Francisco, CA 94102-4689
+Email: Board.of.Supervisors@sfgov.org
+
+Re: Notice of Intent to Commence Lawsuit re: 1525 Pine Street Development
+Project (the Grubstake)
+
+To Whom it May Concern:
+
+PLEASE TAKE NOTICE, under Public Resources Code Section 21167.5, that Petitioner,
+Shawn Farrell, intends to file a petition for writ of mandate against Respondents, San Francisco
+Board of Supervisors and San Francisco Planning Department, challenging their failure to
+comply with the California Environmental Quality Act ("CEQA"), Public Resources Code
+Sections 21000, et seq., and other laws, in connection with the 1525 Pine Street development project (the "Project") at the current site of the Grubstake restaurant. The Planning Department approved the Project on May 6 and June 22, 2021, as did the Board of Supervisors on October 19, 2021, without conducting the necessary environmental review as required under CEQA, and
+engaged in other administrative errors that warrant issuance of a peremptory writ of mandate to vacate and remand the approval for this project to comply with CEQA and other laws.
+
+Sincerely,
+
+JONES DAY
+
+Daud Suiud
+By: David H. Seidel
+Attorney for Petitioner
+
+NAI-1523399368v1
+
+AMSTERDAM • ATLANTA • BEIJING • BOSTON BRISBANE • BRUSSELS • CHICAGO • CLEVELAND • COLUMBUS DALLAS DETROIT
+DUBAI DÜSSELDORF • FRANKFURT HONG KONG • HOUSTON IRVINE • LONDON LOS ANGELES MADRID • MELBOURNE
+MEXICO CITY • MIAMI • MILAN • MINNEAPOLIS • MUNICH • NEW YORK • PARIS • PERTH • PITTSBURGH • SAN DIEGO • SAN FRANCISCO
+SÃO PAULO SAUDI ARABIA SHANGHAI SILICON VALLEY • SINGAPORE • SYDNEY TAIPEI • TOKYO WASHINGTON
+
+JONES DAY
+
+555 CALIFORNIA STREET, 26TH FLOOR • SAN FRANCISCO, CALIFORNIA 94104
+TELEPHONE: +1.415.626.3939 FACSIMILE: +1.415.875.5700
+
+DIRECT NUMBER: (415) 875-5748
+DSEIDEL@JONESDAY.COM
+
+JP018917 November 18, 2021
+710821-131103
+
+San Francisco Board of Supervisors
+Dr. Carlton B. Goodlett Place
+City Hall, Room 244
+San Francisco, CA 94102-4689
+Email: Board.of.Supervisors@sfgov.org
+
+Re: Notice of Intent to Commence Lawsuit re: 1525 Pine Street Development Project (the Grubstake)
+To Whom it May Concern:
+PLEASE TAKE NOTICE, under Public Resources Code Section 21167.5, that Petitioner, Shawn Farrell, intends to file petition for writ of mandate against Respondents, San Francisco Board of Supervisors and San Francisco Planning Department, challenging their failure to comply with the California Environmental Quality Act ("CEQA"), Public Resources Code Sections 21000, et seq., and other laws, in connection with the 1525 Pine Street development project (the "Project") at the current site of the Grubstake restaurant. The Planning Department approved the Project on May 6 and June 22, 2021, as did the Board of Supervisors on October 19, 2021, without conducting the necessary environmental review as required under CEQA, and engaged in other administrative errors that warrant issuance of a peremptory writ of mandate to vacate and remand the approval for this project to comply with CEQA and other laws.
+Sincerely, U.S. Postal Service™
+CERTIFIED MAIL® RECEIPT JONES DAY 2571 OTSL TO0O 0h90 STOL Domestic Mail Only
+For delivery information, visit our website at www.usps.com
+ASTATIOA Certified Mail Fee E Dand Suind
+
+Extra Services & Fees (chack bi
+Return Recoipt (hardcopy) By: David H. Seidel
+Retum Rocoipt (eloctronic) L Certiled Mall Restricted Delivery Postmark Attorney for Petitioner
+E Adult Signature Requtred
+E Adult Signaturo Restrictod Deilvery 18 202P
+
+Postage
+
+Total Postage and Fees
+
+Sent Boe.c) Stroot and Apl. No., or PO Box No.: ReCuDes......C.M.Ha... Dr Chclten B.Geadats.Pl Rm244 City, 'State, 2iP148***
+SF 4/02- 4689
+PS Form 3800, April 2015 PSN 7530-02-000-9047 See Reverse for Instructions SSELS • CHICAGO • CLEVELAND • COLUMBUS • DALLAS • DETROIT
+DUBAI • DUSSELDORF • FRANKFURT • HONG KONG HOUSTON IRVINE • LONDON • LOS ANGELES • MADRID • MELBOURNE
+MEXICO CITY • MIAMI • MILAN • MINNEAPOLIS • MUNICH • NEW YORK • PARIS • PERTH • PITTSBURGH • SAN DIEGO • SAN FRANCISCO
+SÃO PAULO • SAUDI ARABIA SHANGHAI SILICON VALLEY SINGAPORE SYDNEY TAIPEI TOKYO WASHINGTON
+
+JONES DAY
+
+555 CALIFORNIA STREET, 26TH FLOOR SAN FRANCISCO, CALIFORNIA 94104
+TELEPHONE: +1.415.626.3939 • FACSIMILE: +1.415.875.5700
+
+DIRECT NUMBER: (415) 875-5748
+DSEIDEL@JONESDAY.COM
+
+JP018917 November 18, 2021
+710821-131103
+
+San Francisco Planning Department
+49 South Van Ness Ave.
+San Francisco, CA 94103
+Email: pic@sfgov.org
+
+Re: Notice of Intent to Commence Lawsuit re: 1525 Pine Street Development
+Project (the Grubstake)
+
+To Whom it May Concern:
+PLEASE TAKE NOTICE, under Public Resources Code Section 21167.5, that Petitioner,
+Shawn Farrell, intends to file a petition for writ of mandate against Respondents, San Francisco
+Board of Supervisors and San Francisco Planning Department, challenging their failure to comply with the California Environmental Quality Act ("CEQA"), Public Resources Code Sections 21000, et seq., and other laws, in connection with the 1525 Pine Street development
+project (the "Project") at the current site of the Grubstake restaurant. The Planning Department approved the Project on May 6 and June 22, 2021, as did the Board of Supervisors on October 19, 2021, without conducting the necessary environmental review as required under CEQA, and engaged in other administrative errors that warrant issuance of a peremptory writ of mandate to vacate and remand the approval for this project to comply with CEQA and other laws.
+
+Sincerely,
+
+JONES DAY
+
+Daid Saud
+By: David H. Seidel
+Attorney for Petitioner
+
+NAI-1523399529v1
+
+AMSTERDAM • ATLANTA • BEIJING • BOSTON BRISBANE • BRUSSELS • CHICAGO • CLEVELAND • COLUMBUS DALLAS DETROIT
+DUBAI DÜSSELDORF • FRANKFURT HONG KONG • HOUSTON IRVINE • LONDON LOS ANGELES MADRID • MELBOURNE
+MEXICO CITY • MIAMI • MILAN • MINNEAPOLIS • MUNICH • NEW YORK • PARIS • PERTH • PITTSBURGH • SAN DIEGO • SAN FRANCISCO
+SÃO PAULO SAUDI ARABIA SHANGHAI SILICON VALLEY • SINGAPORE • SYDNEY TAIPEI • TOKYO WASHINGTON
+
+JONES DAY
+
+555 CALIFORNIA STREET. 26TH FLOOR • SAN FRANCISCO, CALIFORNIA 94104
+TELEPHONE: +1.415.626 3939 • FACSIMILE: +1,415.875.5700
+
+DIRECT NUMBER: (415) 875-5748
+DSEIDEL@JONESDAY.COM
+
+JP018917 November 18, 2021
+710821-131103
+
+San Francisco Planning Department
+49 South Van Ness Ave.
+San Francisco, CA 94103
+Email: pic@sfgov.org
+
+Re: Notice of Intent to Commence Lawsuit re: 1525 Pine Street Development Project (the Grubstake)
+To Whom it May Concern:
+PLEASE TAKE NOTICE, under Public Resources Code Section 21167.5, that Petitioner,
+Shawn Farrell, intends to file a petition for writ of mandate against Respondents, San Francisco Board of Supervisors and San Francisco Planning Department, challenging their failure to comply with the California Environmental Quality Act ("CEQA"), Public Resources Code Sections 21000, et seq., and other laws, in connection with the 1525 Pine Street development project (the "Project") at the current site of the Grubstake restaurant. The Planning Department approved the Project on May 6 and June 22, 2021, as did the Board of Supervisors on October 19, 2021, without conducting the necessary environmental review as required under CEQA, and engaged in other administrative errors that warrant issuance of a peremptory writ of mandate to vacate and remand the approval for this project to comply with CEQA and other laws.
+Sincerely, U.S. Postal Service"
+CERTIFIED MAIL® RECEIPT JONES DAY Domestic Mail Only
+For delivery information, visit our website at www.usps.com
+Daid Sund Certified Mail Fee
+
+Extra Services & Foes (check bax, add foe as appropriara) 9952 OTSC TOOO 0h90 STOL OFFICIALRUASE 100 By: David H. Seidel Return hardcopy)
+C Roturn Receipt (electranic)
+L Certiied Mall Restricted Dellvery NOV Postmark
+
+E Aduit Signature Required 18 °2021 Attorney for Petitioner
+
+Adult Signature Restricted Dellivory
+|Postage
+
+/Total Postage and Fees tinosco d Sont TO S F Phacias.De.et Strost and Apt. No., or PO Box No. Ua Na SS.Au.c Cllÿ, Stato, 21P44 CA 14104
+PS Form 3800, April 2015 PSN 7530-02-000-9047 See Reverse for instructions
+
+AMSTERDAM • • ATLANTA • BEIJING • BOSTON • BRISBANE • BRUSSELS • CHICAGO • CLEVELAND • COLUMBUS • DALLAS • DETROIT
+• DUBAI • DUSSELDORF • FRANKFURT • HONG KONG • HOUSTON • IRVINE • LONDON • LOS ANGELES • MADRID • MELBOURNE
+MEXICO CITY • MIAMI • MILAN • MINNEAPOLIS • MUNICH • NEW YORK • PARIS • PERTH • PITTSBURGH • SAN DIEGO • SAN FRANCISCO
+TOKYO WASHINGTON SILICON VALLEY • SINGAPORE • SYDNEY • TAIPEI • SÃO PAULO SAUDI ARABIA • SHANGHAI •
+
+P Michael S. McCauley (State Bar No. 186537)
+JONES DAY
+2 555 South Flower Street
+Fiftieth Floor
+3 Los Angeles, CA 90071.2452 Telephone: +1.213.489.3939
+4 Facsimile: +1.213.243.2539
+Email: msmccauley@jonesday.com 5
+David H. Seidel (State Bar No. 307135)
+6 JONES DAY
+555 California Street, 26th Floor
+7 San Francisco, CA 94104 Telephone: +1.415.626.3939
+8 Facsimile: +1.415.875.5700
+Email: dseidel@jonesday.com 9
+Attorneys for Petitioner
+10 Shawn Farrell
+
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+12 COUNTY OF SAN FRANCISCO
+
+13 Shawn Farrell, CASE NO.
+
+14 Petitioner, Assigned for all purposes to
+
+15 V.
+NOTICE OF PETITIONER'S
+16 San Francisco Planning Department; San ELECTION TO PREPARE
+Francisco Board of Supervisors, ADMINISTRATIVE RECORD/
+17 RECORD OF PROCEEDINGS
+Respondents.
+18 [Public Resources Code § 21167.6(b)(2)|
+
+19
+
+20 1525 Pine Street Dev, LLC; Kerman Morris Architects LLP; and DOES 1-50,
+21 Real Parties in Interest. 22
+23
+24
+
+25
+
+26
+
+27
+
+28
+
+Notice of Petitioners' Election to Prepare Administrative Record/Record of Proceedings
+
+P TO THE HONORABLE COURT AND TO ALL PARTIES OF RECORD AND THEIR
+
+2 ATTORNEYS HEREIN:
+
+3 PLEASE TAKE NOTICE that Petitioner Shawn Farrell ("Farrell") hereby elects, pursuant
+
+4 to Public Resources Code section 21167.6(b)(2), to prepare the administrative record/record of
+
+5 proceedings for this action.
+
+6
+
+Respectfully submitted, 7 Dated: November 19, 2021
+
+8
+
+By: Is/ Michael S. McCauley_ 9
+
+Michael S. McCauley Jones Day 10
+
+Attorneys for Petitioner, Shawn Farrell 11
+
+12
+
+13
+NAI-1523430042v1
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+8588
+24
+
+25
+
+26
+
+27
+
+28
+
+2
+Notice of Petitioners' Election to Prepare Administrative Record/Record of Proceedings

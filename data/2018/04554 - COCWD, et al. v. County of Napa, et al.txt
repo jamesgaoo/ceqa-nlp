@@ -1,0 +1,628 @@
+Rachel Mansfield-Howlett/SBN 248809
+PROVENCHER & FLATT, LLP
+
+2 823 Sonoma Ave.
+Santa Rosa, CA 95404
+3 Phone: 707.284.2378
+Fax: 707.284.2387
+4 Email: Rhowlettlaw@gmail.com
+
+Attorney for Petitioners 6 COCWD and COHA "Circle Oaks"
+7
+
+8
+
+9 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+10 COUNTY OF NAPA
+
+11 COCWD and COHA; Case No. 17CV000063
+
+12 Petitioners, PETITION FOR WRIT OF MANDAMUS
+13 V.
+
+14 COUNTY OF NAPA et al.; California Environmental Quality Act
+15 Respondents, (CEQA)
+
+16
+
+17 HALL BRAMBLETREE
+ASSOCIATES, LP, et al.;
+18
+Real Parties in Interest.
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 Circle Oaks Petition for Writ of Mandamus Napa County Superior Court Case No. 17CV000063
+
+1 Petitioners allege:
+2
+
+3 Introduction
+
+4 1. The Circle Oaks County Water District ("Water District") and Circle Oaks
+
+5 Homes Association (COHA), (collectively, "Circle Oaks", hereafter), bring this
+
+6 mandamus action in the public interest to challenge the environmental review
+
+7 conducted for the Walt Ranch Vineyard Conversion Project and its Erosion Control
+
+8 Plan ("Project", hereafter), proposed by Hall Brambletree Associates, LP ("Walt
+
+9 Ranch" hereafter) in order to enforce mandatory environmental laws protecting the
+
+10 environs of Napa County.
+
+11 The gravity of the issues concerning the Project's impacts to groundwater
+drawdown, depletion, and impairment and the consequent potentially significant 12 impairment of the Circle Oaks Water District's ability to supply water warrants 13 heightened scrutiny of the adequacy of the environmental review conducted for the
+14 Project.
+15 The Project entails the development of 209 net acres of vineyards, includes
+16 overall land disturbance of 316 gross acres and proposes to supply its water demands
+17 from five wells located on the Walt Ranch Project site. The operation of the vineyard
+
+18 entails almost continuous pumping of water from these wells during the high demand
+
+19 months of the year as well pumping for frost protection. The Water District's wells are
+
+20 considerably shallower than Walt Ranch Wells, and are therefore more vulnerable to
+
+21 depletion, are adjacent to the Project site, and draw from the same aquifer. Expert
+
+22 testimony shows that drawdowns during the months of heavy demand, along with
+
+23 other contributing factors, may impact the Water District's ability to supply sufficient
+
+24 water. The Water District is the sole water supplier for approximately 500 people in the
+
+25 Circle Oaks community; they have depended upon this single water source for over 50
+years. The community relies exclusively upon one vertical well and one spring water
+26 source supplied by several horizontal bores for drinking water, and importantly, for
+27
+
+28
+Petition for Writ of Mandamus
+
+1 fire suppression. The EIR failed to disclose the Project's potentially significant impact to
+
+2 Circle Oaks' wells and proposed mitigation is inadequate and incomplete and
+
+3 unlawfully defers study and analysis of this impact until a future time.
+
+4 Of further concern is the Project's use of heavy trucks for the operation of the
+
+5 vineyard and their contribution to the deterioration and collapse of roads that overlay
+the Water District's water and sewer infrastructure that services the Circle Oaks
+6 community. Road collapse will destroy these infrastructure systems. The EIR failed to 7 adequately analyze this issue or to impose adequate mitigation.
+8 Substantive errors, omissions and inadequacies in the environmental review of
+9 the Project's impacts were documented by hydrological, water, geotechnical, and
+10 engineering experts such that the review failed to fulfill CEQA's substantive
+11 requirement to provide full environmental disclosure of the effects of the Project; the
+12 Final EIR failed to adequately respond to comments submitted on the Draft EIR;
+
+13 proposed mitigation and conditions are inadequate and incomplete; and the County's
+
+14 determinations and conclusions are therefore not supported by substantial evidence.
+
+15 A peremptory writ should issue in the first instance, requiring the County to
+
+16 prepare an adequate EIR that complies with CEQA, fairly identifies the Project's actual
+
+17 environmental impacts, and reviews feasible mitigations and alternatives prior to
+
+18 further consideration of the Project. Circle Oaks looks to this Court to enforce the
+mandates of state law.
+19
+Jurisdiction
+20 2. This Court has jurisdiction under Public Resources Code sections 21168 and
+21 21168.5 and Code of Civil Procedure sections 1085 and 1094.5. The parties and the site
+22 are located in the County of Napa.
+23 Parties
+
+24 3. Petitioners are comprised of two organizations. Circle Oaks Homes
+25 Association (COHA) is an incorporated 501(c)4 homeowners group formed in 1964; its
+
+26 mission includes protection of the Circle Oaks' environs. Circle Oaks County Water
+
+27 District was formed in 1964; its mission is to provide high quality water and sewage
+
+28
+Petition for Writ of Mandamus 2
+
+1 services to the Circle Oaks community, including ensuring that there is sufficient water
+
+2 available for fire suppression. Petitioners' members include community residents and
+
+3 concerned citizens who have for many years personally enjoyed and appreciated the
+
+4 unique resources of Napa County and bring this petition on behalf of all others
+
+5 similarly situated who are too numerous to be named and brought before this Court as
+
+6 petitioners. Petitioners' members objected to the adequacy of the EIR and the Project
+approvals.
+7 4. Respondents, County of Napa and its Planning Building & Environmental
+8 Services Department and Board of Supervisors are the governmental bodies that
+9 certified the EIR, approved the Project, and acted as lead agency under CEQA.
+10 5. Real Parties in Interest, Hall Brambletree Assoc., LP and Craig and Kathryn
+11 Hall are listed as the owners /applicants who propose to develop the Project site.
+12 6. Does 1 to 10 are fictitiously named Respondents and Real Parties in Interest
+
+13 whose true names and capacities are currently unknown to Petitioners. If and when
+
+14 their true names and capacities are known, Petitioners will amend this petition to assert
+
+15 them. If any of the listed entities are determined to not be indispensable to the
+
+16 litigation, Petitioners will consider dismissing the party from this litigation.
+
+17 7. The paragraphs below refer to and rely on information in documents relating
+
+18 to this action, all of which will be filed with this Court as part of the Administrative
+
+19 Record of Proceedings and which are here incorporated by reference
+General Allegations
+20 Project Description and Locale
+21 8. The stated purpose of the Project was to develop approximately 356 net acres
+22 of new vineyard within approximately 507 gross acres of total land disturbed on 35
+23 contiguous parcels totaling 2,300 acres pursuant to the Walt Ranch Agricultural Erosion
+24 Control Plan Application (ECPA) P11-00205. This included vegetation removal and
+
+25 earthmoving and grading activities, as well as blasting, ripping and rock
+26 removal associated with soil cultivation, installation and maintenance of drainage and
+
+27 erosion control features, vineyard planting and harvesting, and the ongoing
+
+28
+Petition for Writ of Mandamus 3
+
+1 maintenance and operation of vineyards. The community of Circle Oaks has
+
+2 approximately 4.5 miles of roadway that includes one mile of Circle Oaks Drive, which
+
+3 the Project proposes to use as access.
+
+4 9. The 2,300-acre Walt Ranch (Project site) is located west of State Route 121 in
+
+5 south-central Napa County on the west side of Monticello Road, near Highway 128 and
+
+6 Waters Road, and east of the City of Yountville. The Project is located within the
+Milliken Reservoir Watershed and Capell Creek-Upper Reach Drainage and is adjacent 7 to the Circle Oaks County Water District's wells and infrastructure. The project is in an
+8 Agricultural Watershed zoning district, has an Agriculture, Watershed and Open Space
+9 General Plan designation, and includes Assessor parcel numbers 032- 120-028, 032-480-
+10 007, -008, -011, -012, -013, -014, -015, -016, -017, -018, -019, -020, -021, -022, -023, -024, -
+11 027, -028, 032-490-004, -005, -006, -008, -009, -010, -011, -012, -013, -014, -015, -016, -017, -
+
+12 018, -019, and -020).
+
+13 Administrative Review Process
+
+14 10. The Project's Draft EIR was released for review in July of 2014. Due to the
+
+15 wealth of comments on the Project, the comment period was extended to November 21,
+
+16 2014. The Draft EIR identified potentially significant impacts in the areas of air quality,
+
+17 biological resources, cultural resources, geology and soils, hydrology and water
+
+18 quality, transportation and traffic, hazardous materials, and noise but claimed impacts
+
+19 would be reduced to less-than-significant levels with the implementation of mitigation.
+
+20 The Draft EIR evaluated two alternatives to the Project as well as the CEQA
+required No Project Alternative. The No Project Alternative included the 5.6 acres of
+21 existing vineyard, which would continue to be operated and maintained on the site.
+22 The Reduced Intensity Alternative included the development of less vineyard acreage,
+23 reducing the developed area by approximately 100 gross acres. The Multiple Resource
+24 Protection Alternative was similar to the Project except that vineyard acreage would be
+25 reduced by approximately 82 gross acres of development. An off-site alternative was
+
+26 eliminated from further consideration.
+
+27
+
+28 Petition for Writ of Mandamus 4
+
+1 11. Circle Oaks, Sierra Club, Living Rivers Council, Center for Biological
+
+2 Diversity, and concerned area citizens commented on the adequacy of the Draft EIR,
+
+3 including comments submitted by experts Matt Hagemann, P.G., C.Hg. QSD, QSP,
+
+4 SWAPE Technical Consultation and Greg Kamman, PG, CHG, Principal Hydrologist,
+Kamman Hydrology & Engineering, Inc., regarding the Projects impacts to water,
+
+6 hydrology and water quality, biological resources, greenhouse gasses, roads and
+
+7 infrastructure, noise, heath and safety, cumulative impacts and including, inter alia, that
+the EIR failed to:
+8 adequately describe the environmental setting regarding groundwater
+9 resources; mischaracterized the rate of groundwater recharge on the Project
+10 site, the hydraulic connection between groundwater to be pumped for the
+11 Project and groundwater in the Milliken Sarco Tulocay Groundwater
+12 Deficient Area, and the direction of groundwater flow;
+13 adequately analyze and provide mitigation for impacts related to
+14 groundwater resources including the long term effects of ground water
+15 extraction at the Project site and failed to analyze the significance of pumping
+
+16 more groundwater than is recharged on-site on local groundwater supplies.
+
+17 Mitigation measure 4.6-4 concerning impacts to groundwater resources is
+
+18 inadequate and incomplete, and unlawfully defers the analysis and
+
+19 development of further mitigation measures until after Project approval and
+
+20 the mitigation failed to specify performance standards and is premised on a
+
+21 later determination that impacts to groundwater resources are due to the
+
+22 operation of Walt Ranch prior to implementation of any mitigation measures
+whatsoever;
+23 adequately analyze and account for impacts to increased stream 24 sedimentation in the Napa river drainage that may impact the water quality
+25 of Circle Oaks' wells and did not provide for adequate mitigation;
+26 analyze the significance of increased channel erosion and sediment
+27
+
+28 Petition for Writ of Mandamus 5
+
+1 production caused by increases in peak runoff caused by installing
+
+2 engineered drainage structures that may impact the water quality of Circle
+
+3 Oaks' wells;
+
+4 adequately analyze the Project's impacts to roads; mitigation provides for
+
+5 repaving and damage to sub-surface infrastructure, if the damage is
+
+6 determined to have been caused by Walt operations, during the construction
+
+7 phase of the Project, it does not propose mitigation for road damage due to
+the continuing operations of the Project; 8
+
+9 include review of alternative access ways to the Project; given that the Project
+may seriously impact the roadway and the water and sewer systems of the 10 Circle Oaks community, commentors noted that the EIR must consider ways
+11 to avoid or substantially lessen these impacts;
+12 12. In March 2016 the Final EIR was published. On April 4, 2016 the Planning
+13 Department held a public hearing on the Project and its environmental review. Circle
+14 Oaks, Sierra Club, Living Rivers Council, Center for Biological Diversity and numerousl
+
+15 concerned citizens objected to the adequacy of the EIR on the bases stated and objected
+
+16 to the Final EIR's failure to adequately respond to comments.
+
+17 13. On June 13, 2016 Director of Planning, Building and Environmental Services,
+
+18 David Morrison issued a tentative decision to adopt the Project. Morrison directed staff
+
+19 to prepare the necessary findings pursuant to CEQA that reflected adoption and
+
+20 approval of the Reduced Intensity Alternative and to work with the applicant to
+
+21 prepare a revised Erosion Control Plan. Director Morrison stated he would release his
+final decision on August 1, 2016.
+22 •14. On August 1, 2016 Director Morrison approved the Walt Ranch Vineyard 23 Conversion Project, adopted an Updated Mitigation Monitoring Report and
+24 Groundwater Monitoring and Management Plan, and posted a Notice of
+25 Determination (NOD). The Project was reduced to 209 net acres of vineyard and 316
+26 gross acres of overall land disturbance.
+
+27
+
+28
+Petition for Writ of Mandamus 6
+
+1 15. On August 9, 2016 counsel for Circle Oaks notified counsel for the County
+
+2 and Walt Ranch that Circle Oaks intended to appeal the Planning Director's decisions
+
+3 to the Board of Supervisors; the County's filing of the NOD triggered CEQA's 30-day
+
+4 statute of limitations for filing a CEQA suit even though the Board of Supervisors
+
+5 would not hear the appeal until after the statute had run. Through their respective
+
+6 counsel, Circle Oaks, County of Napa and Walt Ranch entered into a tolling agreement
+to extend the 30-day statute of limitations until after the outcome of the appeal was 7 known.
+8 16. On August 18, 2016 Circle Oaks filed a Notice of Intent to appeal the
+9 Director's decision to the Napa County Board of Supervisors. Sierra Club, Living
+10 Rivers Council and Center for Biological Diversity also appealed the Director
+11 Morrison's decision.
+
+12 17. On September 1, 2016 Circle Oaks, filed an extensive appeal packet that
+
+13 further documented and reiterated the inadequacies and incompleteness of the EIR, the
+
+14 Groundwater Monitoring and Management Plan, and the Director's findings, on the
+
+15 bases stated, and objected to the Updated Mitigation Monitoring Report.
+
+16 Jed Welsh, President of the Water District Board of Directors, stated that the
+
+17 analysis conducted for the drawdown of District wells was not conducted over a long
+
+18 enough period to accurately determine the total effect, given the slow rate of water
+
+19 transfer in the existing cracked volcanic rock, and testing was not conducted to
+determine the effects vineyard ground seepage and runoff would have on the water the
+20 Water District receives from the horizontal springs water source.
+21 Circle Oaks noted that the Groundwater Monitoring and Management Plan
+22 (GWMMP) belatedly provided a vague provision related to a when groundwater levels
+23 "drop to a level which would not support existing land uses or planned uses for which
+24 permits have been granted" on "neighboring property owners' wells." But this
+
+25 standard is not incorporated into the Updated Mitigation Monitoring and Reporting
+
+26 Plan; the updated plan's "Performance Criteria" merely refers to "County standards."
+
+27 The GWMMP effectively concedes potentially significant impacts, yet failed to
+
+28
+Petition for Writ of Mandamus 7
+
+1 incorporate enforceable mitigation and failed to utilize a reliable performance standard.
+
+2 Agencies should not use mitigation measures as a device to avoid disclosing project
+
+3 impacts. (Stanislaus Natural Heritage Project v. County of Stanislaus (1996) 48 Cal.App.4
+
+4 182, 195-196 [EIR was inadequate because it did not evaluate impacts of supplying
+
+5 water to large new development project and instead included a mitigation measure a
+
+6 stating that the project would not proceed at any point that adequate water was not
+available.]) Similarly here, the EIR improperly used the mitigation as a device to avoid
+7 disclosing impacts.
+8 18. On October 17, 2016 Circle Oaks reiterated the numerous objections that had
+9 been lodged with the County, including issues related to deteriorating road conditions
+10 and the potential for road collapse that would affect the Water District's water and
+11 sewer infrastructure and cited to evidence from experts Mark Billings, Certified
+
+12 Infrastructure Inspector, CPII and David V. Cymanski, G.E., KC Engineering Co. that
+
+13 found the reports relied upon in the EIR failed to perform specific geologic and
+
+14 geotechnical investigations for the portion of Circle Oaks Drive affected by the Project.
+
+15 David Cymanski, G.E. provided substantial evidence that roads are failing in two
+
+16 specific areas within the Project's impact area on Circle Oaks Drive and that pavement
+
+17 damage and road subsidence will continue to worsen in both of these areas; the
+
+18 addition of heavy truck traffic from the proposed Walt Ranch Vineyard operations to
+
+19 the roadway will significantly exacerbate the damage and increase the design Traffic
+Index; and that proposed mitigation and conditions failed to provide for ongoing 20 operational road impacts.
+21 19. The members of Circle Oaks met with the Board of Supervisors' members on
+22 several occasions to discuss Circle Oaks' concerns about the Project's impacts on the
+23 community and urged the Board members to consider their proposed Project
+24 conditions and mitigation measures.
+
+25 Circle Oaks noted in their submission to the Board of Supervisors on November
+
+26 17, 2016 that the Groundwater Management and Mitigation Plan lists "potential
+
+27 mitigation measures" with no time tables or method by which the Water District can
+
+28 Petition for Writ of Mandamus 8
+
+1 resolve loss of water supply to Circle Oaks and trends in static well levels which reveal
+
+2 declines in water levels may take months to appear in the Water District's wells, or,
+
+3 could happen with little or no notice. As drafted, the measures do not provide
+
+4 sufficient protection to Circle Oaks' water supplies.
+
+5 Circle Oaks objected to the Revised Conditions of Approval limiting the Walt
+
+6 Ranch to groundwater removal for "vineyards" at 144.5 acre-feet per year based upon
+
+7 209 planted acres of vineyard. Water usage by Walt Ranch should be limited to a pro-
+rated amount based upon actual acres planted with water usage not exceeding 125
+8 acre-feet or less per year, depending on the condition of the aquifer, for all purposes.
+9 20. The Board of Supervisors considered the Appeals on November 18, 22, and
+10 December 6, 2016. Objections to the Project and its environmental review were lodged
+11 by Appellants Circle Oaks, the Sierra Club, Living Rivers Council, and Center for
+
+12 Biological Diversity concerning the deficiencies in the EIR regarding water, hydrology
+
+13 and water quality, roads, biological impacts, and greenhouse gas impacts. At the
+
+14 November 22, 2016 hearing the Board accepted the reports and data submitted by
+
+15 Appellants into the record. Counsel for Living Rivers Council asserted that Walt
+
+16 Ranch's comments stating an alternative site for the Project would have been cheaper
+
+17 to develop than the proposed Project constituted a failure to review a reasonable range
+
+18 of alternatives, including review of an off-site alternative to the Project.
+
+19 21. On December 20, 2016 the Board of Supervisors finalized its findings via
+Resolution No. 2016-181, upholding the Planning Director's decisions, certifying the 20 EIR, and adopting incremental changes to the Project's conditions of approval. Circle
+21 Oaks objected to the findings as inadequate, inaccurate, and unsupported by
+22 substantial evidence.
+
+23 22. On December 20, 2016 the County filed a second NOD that was posted on the
+24 State of California Resources Agency's website on December 27, 2016.
+
+25 23. Circle Oaks timely filed this Petition within the established tolling period,
+
+26 thirty days from the Board of Supervisors' December 20, 2016 final decision. Petitioners
+
+27 have no adequate remedy at law. Absent the relief prayed for in this Petition, the
+
+28 Petition for Writ of Mandamus 9
+
+1 Project will proceed with significant irreparable and irreversible environmental
+
+2 impacts to the Napa environs and the Circle Oaks community. The County has the
+
+3 ability to correct its violations of law but has failed to do so.
+
+4
+VIOLATIONS OF THE
+5
+CALIFORNIA ENVIRONMENTAL QUALITY ACT
+6 24. Petitioners incorporate all previous paragraphs as if fully set forth.
+7 25. The County abused its discretion and failed to act in the manner required by
+8 law in certifying the Environmental Impact Report and approving the Project because:
+9 a. The EIR is inadequate and incomplete and its conclusions are not
+supported by substantial evidence;
+11 b. The EIR failed to adequately describe the Project setting;
+12 C. The EIR failed to review significant environmental impacts related to,
+
+13 inter alia, water, hydrology and water quality, impacts due to
+
+14 sedimentation and runoff, impacts to Circle Oaks' wells and
+
+15 infrastructure, roads, and cumulative impacts;
+
+16 d. The EIR failed to perform an adequate alternatives analysis and failed
+
+17 to consider a reasonable range of alternatives;
+
+e.
+18 The mitigation measures proposed in the EIR, Mitigation Monitoring
+
+19 Plan, the Groundwater Monitoring and Management Plan and
+Conditions of Approval are inadequate and incomplete, lack
+20 identifiable performance standards, and unlawfully defer the study and
+21 analysis of the Project's impacts until after project approval;
+22 f. The County unlawfully approved a project a with significant
+23 environmental impacts when the record discloses feasible alternatives
+
+24 and mitigation measures that would substantially reduce impacts and
+
+25 those alternatives and mitigation measures were not adequately
+
+26 considered or adopted;
+
+27 g. The County's findings certifying the EIR, adopting the related
+
+28 Petition for Writ of Mandamus 10
+
+1 mitigation measures, and approving the Project are not supported by
+
+2 substantial evidence in light of the whole record.
+
+3
+
+4 WHEREFORE, Petitioners pray:
+
+5
+1. That the Court issue a Peremptory Writ of Mandate ordering Respondents 6 to set aside and void all approvals relating to the Walt Ranch Vineyard Project and to 7 refrain from further approval until it fully complies with CEQA; 8 2. That the Court issue a stay order enjoining Respondents and Real Parties 9 in Interest or their agents from engaging in any physical construction or pre-
+10 construction activities in furtherance of the Walt Ranch Vineyard Project while this
+11 Petition is pending;
+
+12 3. For Petitioners' costs and attorney fees pursuant to Code of Civil
+
+13 Procedure section 1021.5; and
+
+14 4. For other and further relief as the Court finds proper.
+
+15
+
+1 16 Dated: January 18, 2017
+
+17 Luulu Maos
+Rachel Mansfield-Howlett 18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+Petition for Writ of Mandamus 11
+
+1,
+
+PROVENCHER & FLATT, LLP ATTORNEYS AT LAW
+823 Sonoma Ave. Santa Rosa, CA 95404
+Phone: 707-284.2380 Fax: 707-284.2387 Douglas B. Provencher Gail F. Flatt
+
+OF COUNSEL
+Janis H. Grattan
+Rachel Mansfield-Howlett
+Roz Bateman Smith
+
+February 20, 2018
+
+Xavier Becerra
+Attorney General's Office California Department of Justice P.O. Box 944255
+Sacramento, CA 94244-2550
+
+Re: COCWD et al. v. County of Napa
+
+Dear Mr. Becerra:
+
+Pursuant to Public Resources Code section 21167, enclosed is a copy of the Petition for Writ of Mandamus filed in this matter.
+
+Sincerely,
+
+RIlOWNS
+Rachel Mansfield-Howlett
+Attorney for Petitioners
+
+Enclosure
+
+PROOF OF SERVICE BY MAIL
+
+I am a citizen of the United States and a resident of the County of Sonoma.
+am over the age of eighteen years and not a party to the within entitled action;
+my business address is 823 Sonoma Ave, CA, 95404.
+On February 20, 2017 I served one true copy of:
+
+PETITION FOR WRIT OF MANDAMUS
+
+by placing a true copy thereof enclosed in a sealed envelope and postage thereon fully prepaid, in the United States Mail in Santa Rosa, Calif. addressed as follows:
+
+Xavier Becerra
+Attorney General's Office California Department of Justice
+P.O. Box 944255
+Sacramento, CA 94244-2550
+
+PURSUANT TO PUBLIC RESOURCES CODE § 21167
+
+declare under penalty of perjury, that the foregoing is true and correct.
+February 20, 2017 in Santa Rosa, CA.
+
+LuunONeo
+
+8
+--
+
+b+ 1 1:: 239330107 2S :7 Hd zZ 0340107
+1O1 40 OLN3WWHOYS N23 A3 513 301330 0NIL3NDCC
+4: 301A00S.V83N20 A300O1V

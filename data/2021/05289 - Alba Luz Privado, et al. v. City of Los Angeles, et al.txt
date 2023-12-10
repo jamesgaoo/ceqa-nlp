@@ -1,0 +1,969 @@
+GIDEON KRACOV (Cal. Bar No. 179815) JORDAN R. SISSON (Cal. Bar No. 327057)
+2 LAW OFFICE OF GIDEON KRACOV 801 South Grand Avenue, 11th Floor
+3 Los Angeles, California 90017-4645 Tel: (213) 629-2071
+4 Fax: (213) 623-7755 gk@gideonlaw.net 5 I jordan@gideonlaw.net
+
+6 Attorneys for Petitioners ALBA LUZ PRIVADO, PEOPLE ORGANIZED FOR WESTSIDE RENEWAL,
+7 and UNITE HERE LOCAL 11
+
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+9
+
+10 COUNTY OF LOS ANGELES
+
+11 ALBA LUZ PRIVADO; PEOPLE Case No.: 21STSP00177
+ORGANIZED FOR WESTSIDE
+12 RENEWAL; and UNITE HERE LOCAL
+11,
+13 NOTICE TO ATTORNEY GENERAL
+Petitioner,
+14 (California Environmental Quality Act
+V. ['"CEQA"], Pub. Res. Code § 2100 et seq.; Code
+
+15 CITY OF LOS ANGELES; and DOES of Civil Procedure §§ 1085, 1094.5)
+
+16 through 5,
+
+17 Respondents,
+
+18 WYNKOOP PROPERTIES, LLC; and
+19 DOES 6 through 10,
+
+20 Real Parties in Interest.
+
+21
+
+22
+
+23 TO THE CALIFORNIA ATTORNEY GENERAL:
+
+24 Pursuant to Pub. Res. Code § 21167.7, Petitioners ALBA LUZ PRIVADO, PEOPLE
+
+25 ORGANIZED FOR WESTSIDE RENEWAL, and UNITE HERE LOCAL 11 (collectively
+
+26 "Petitioners") hereby gives notice of its Verified Petition for Writ of Mandate filed January 22,
+
+27 2021 (*Petition"), attached hereto as Exhibit A, which includes claims made under the California
+
+28 Environmental Quality Act ("CEQA").
+-1-
+
+NOTICE TO ATTORNBY GENERAL
+
+L The Petition
+
+2 challenges the actions of the Respondent CITY OF
+in approving the construction/maintenance LOS ANGELES ("City")
+
+3 four dwelling units and other of a 70,310 square foot, 78 guest rooms hotel with
+uses ("Project") located at 1011
+4 Electric Avenue and 1021-1051 S.
+
+5 Abbot Kinney Boulevard in Venice, California ("Site") in the City. The Petitioners allege, among
+
+6 other things, that the City approved the Project based upon an erroneous interpretation that this nearly 100 percent commercial hotel Project was entitled to a mixed-use exemption from lot consolidation restrictions, stricter density restrictions, and other development controls. In doing
+
+9 so, the Project conflicts with fundamental land use policies and controls intended to increase
+
+10 housing and avoid impacts by co-locating residents to nearby services. However, the Project's Environmental Impact Report failed to disclose,
+11 analyze, or mitigate these glaring land use
+
+12 consistency impacts when approving the Project. The City's actions here result in less housing
+
+13 and greater environmental impacts, which serve as a dangerous precedent for future projects
+
+14 seeking increased development rights based on providing a scintilla of housing (here four units v.
+
+15 78 hotel rooms). The Petitioners seek to have the land use entitlements and CEQA environmental
+
+16 approvals set aside, along with such other relief as the Court deems proper.
+
+17 Petitioners urge the Attorney General to review the Petition.
+
+18 DATED: January 29, 2021 Respectfully submitted,
+
+19 LAW OFFICE OF GIDEON KRACOV
+
+20
+
+21 By:
+JORDAN R. SISSON
+
+22 Attorney for Petitioner ALBA LUZ PRIVADO,
+
+23 PEOPLE ORGANIZED FOR WESTSIDE RENEWAL, and UNITE HERE LOCAL 11
+
+24
+
+25
+
+26
+
+27
+
+28
+
+-2-
+NOTICE TO ATTORNEY GENERAL
+
+EXHIBIT A
+
+Electronically FILED by Superor Court of Callfornia, County of Los Angeles on 01/22r2021 09:40 AM Sherr R. Carter, Executive OmcenClerk of Court, by R. Perez, Deputy Clerk
+
+1 GIDEON KRACOV (Cal. Bar No. 179815) JORDAN R. SISSON (Cal. Bar No. 327057)
+2 LAW OFFICE OF GIDEON KRACOV 801 South Grand Avenue, 11th Floor
+3 Los Angeles, California 90017-4645 Tel: (213) 629-2071
+4 Fax: (213) 623-7755 gk@gideonlaw.net
+5 jordan@gideonlaw.net
+
+6 Attorneys for Petitioners ALBA LUZ PRIVADO, PEOPLE ORGANIZED FOR WESTSIDE RENEWAL,
+7 and UNITE HERE LOCAL 11
+
+8
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+9
+
+10 COUNTY OF LOS ANGELES
+
+11 ALBA LUZ PRIVADO; PEOPLE Case No.: 218TCP00177
+ORGANIZED FOR WESTSIDE
+12 RENEWAL; and UNITE HERE LOCAL
+11,
+13 VERIFIED PETITION FOR WRIT OF
+Petitioner, MANDATE AND INJUNCTIVE RELIEF
+14 V. (California Environmental Quality Act
+15 CITY OF LOS ANGELES; and DOES 1 ['CEQA"], Pub. Res. Code § 2100 et seq.; Code of Civil Procedure §§ 1085, 1094.5)
+16 through 5,
+
+17 Respondents,
+
+18 WYNKOOP PROPERTIES, LLC; and
+19 DOES 6 through 10,
+
+20 Real Parties in Interest.
+
+21
+
+22
+
+23 Petitioners ALBA LUZ PRIVADO, PEOPLE ORGANIZED FOR WESTSIDE
+
+24 RENEWAL ("POWER"*), and UNITE HERE LOCAL 11 ("Local 11") (collectively
+
+25 "Petitioners") bring this action ("Action") on their own behalf, on behalf of their members, on
+
+26 behalf of the general public, and in the public interest against Respondent CITY OF LOS
+
+27 ANGELES ("City") and Real Party in Interest WYNKOOP PROPERTIES, LLC ("Real Party")
+
+28 (collectively, "Respondents") and hereby allege as follows:
+-]-
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+INTRODUCTION
+
+2 1. By this Action, Petitioners challenge the City's authorization of the demolition of
+
+3 roughly 6,214 square feet ("SF") of existing uses (e.g., restaurant, private school, office space,
+
+4 surface parking lot) and the construction/maintenance of a 70,310-SF, 78 guest rooms hotel with
+
+5 four dwelling units and other uses (e.g., three restaurants, office space, spa, and retail
+
+6 components) ("Project") located on eight-consolidated lots at 1011 Electric Avenue and 1021-
+
+7 1051 S. Abbot Kinney Boulevard in Venice, California ("Site") in the City.
+
+8 2. In furtherance of the Project, Real Party requested under Case No. ZA-2012-3354-
+
+9 CUB-CUB-CDP-MEL-WDI-SPP-SPR various local land use approvals including Conditional
+10 Use Permits, Coastal Development Permit ("CDP"), ' Site Plan Review, Project Permit
+11 Compliance Review, Mello Act Compliance Review, Waiver of Dedication and/or
+12 Improvements) (collectively "Entitlements"). So too, under Case No. ENV-2016-4321-EIR, the
+13 Project included the certification of an Environmental Impact Report (i.e., State Clearinghouse
+14 No. 2016061033) ("EIR"), Mitigation Monitoring Reporting Program, Statement of Overriding
+15 Considerations, and other associated findings (collectively "CEQA Approval").
+16 3. Petitioners maintain that the City's granting of the Entitlements and CEQA
+17 Approval (collectively "Project Approvals") violated zoning provisions within the Los Angeles
+18 Municipal Code ("LAMC" or "Code"), applicable land use plans, the California Environmental
+
+19 Quality Act (Pub. Res. Code § 21000 et seq.) ("CEQA"), and "CEQA Guidelines" (14 Cal.
+
+20 Code Regs. § 15000 et seq.).
+
+21 4. Specifically, as alleged in the First Cause of Action, the City abused its discretion
+
+22 when granting the Entitlements based on an erroneous interpretation that this nearly 100 percent
+23 commercial hotel Project was entitled to a mixed-use exemption from lot consolidation
+
+24 restrictions, stricter density restrictions, and other development controls. This action was contrary
+
+25 Only the CDP is subject to administrative appeal to the California Coastal Commission
+26 ("CCC"), which POWER and LOCAL 11 timely filed on January 15, 2021 and currently pending CCC's substantial issue determination. (See generally Pub. Res. Code § 30625; Encinitas
+27 Country Day School, Inc. V. California Coastal Com. (2003), 108 Cal.App.4th 575, 585.) Out of abundance of caution due to short statute of limitation periods (discussed infra par. 6), Petitioners
+28 challenge the City's approval of the CDP in that it was granted in violation of applicable zoning/CEQA requirements discussed herein.
+-2-
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 to LAMC §§ 12.22-A.23, 13.09-B.3, 12.03 and applicable land use plans including the Venice
+
+2 Coastal Zone Land Use Plan ("LUP"), Venice Coastal Zone Specific Plan ("Specific Plan"), and
+
+3 Venice Community Plan ("Community Plan") that collectively limit the mixed use exemption to
+
+4 "predominantly residential" developments that co-locate residents to nearby services. As such,
+
+5 the City failed to disclose, analyze, or mitigate glaring land use consistency impacts in making the
+
+6 CEQA Approval, which was also an abuse of discretion (as alleged in the Second Cause of
+
+7 Action). The City's actions here result in less housing and serve as a dangerous precedent for
+
+8 future projects that may seek increased development rights based on providing a scintilla of
+
+9 housing (here four units v. 78 hotel rooms). The City's actions defining this hotel Project as
+
+10 "predominantly residential" defy common sense and the Code. This ultimately subverts the
+
+11 purpose of the mixed-use exemption that is designed to increase housing opportunities--not
+
+12 hotels.
+
+13 5. For these reasons, Petitioners seek, among other things, that this Court invalidate
+
+14 the Project Approvals until the City satisfies all State and local zoning/CEQA requirements.
+
+15 JURISDICTION
+
+16 6. This Court has jurisdiction under Pub. Res. Code §§ 21168 or 21168.5 and Code
+
+17 Civ. Proc §§ 1085 or 1094.5. The parties and the Project Site are located in Los Angeles County.
+
+18 The within action has been timely brought within 90 days of the City's granting of the
+
+19 Entitlements per Gov. Code § 65009, and timely brought within 30 days of Respondents' posting
+
+20 of the Project's CEQA Notice of Determination ("NOD") pursuant to Pub. Res. Code § 21167.
+
+21 Petitioners served a Notice of Intent to file this Action on the City by mail before filing this
+
+22 Action pursuant to Pub. Res. Code § 21167.5. (See "Exhibit A" attached hereto.) Concurrent
+
+23 with the filing of this Action, Petitioners will timely notify the Attorney General of the State of
+
+24 California of the filing of this Action in accordance with Pub. Res. Code § 21167.7.
+
+25 PARTIES
+
+26 7. Petitioner ALBA LUZ PRIVADO is an individual and resident of the City and
+
+27 lives roughly one-third of a mile from the Project Site. Ms. Privado visits the Project vicinity at
+
+28 least weekly, often daily, and will be affected by the negative impacts of the Project due to the
+-3-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 City's failure to comply with zoning/CEQA requirements. Her proximity and nexus to the Project
+
+2 Site, alone, is sufficient to establish a beneficial interest and standing to bring this Action.2
+
+3 Furthermore, Petitioner has public interest standing given the Project involves the City's duty to
+
+4 enforce applicable zoning laws.3
+
+5 8. Petitioner PEOPLE ORGANIZED FOR WESTSIDE RENEWAL is a
+
+6 membership-based California public benefit corporation located at 5617 Hollywood Boulevard,
+
+7 90028. Founded in 1999 and incorporated in 2003, POWER's mission is to improve the quality of
+
+8 life for low- and moderate-income people in Westside Los Angeles, particularly on affordable
+
+9 housing, quality education, and conimunity safety issues. To this end, POWER and its members
+
+10 have organized several buildings in the Venice area. POWER has associational standing because
+11 its members would individually have standing given they reside/frequent near the Site, would be
+
+12 impacted by the Project, the interests protected by this Action directly relate to the organization's
+
+13 chief purposes, and the relief requested is broad-based not needing participation of individual
+
+14 members in this lawsuit.4 Furthermore, POWER brings this Action to enforce public duty and,
+15 thus, has public interest standing.3
+
+16 9. Petitioner UNITE HERE LOCAL 11 is a labor union representing more than
+
+17 25,000 workers employed in hotels, restaurants, airports, sports arenas, and convention centers
+18 throughout Southern California and Phoenix, Arizona. Its members, including hundreds who live
+
+19 or work in the City, join together to fight for improved living standards and working conditions.
+
+20 Local 11's members reside/frequent near the Site and will suffer from Project impacts,
+
+21 particularly related to inadequate housing and environmental impacts, which are core issues to the
+
+22 function of Local 11. Hence, Local 11 has both public interest standing and associational standing
+23 See e.g., Bozung v. LAFCO (1975) 13 Cal.3d 263, 272; Simons v. City of Los Angeles (1979)
+24 100 Cal.App.3d 496, 500, fn. 4; Citizens Ass 'n for Sensible Dev. V. County of Inyo (1985) 172 Cal.App.3d 151, 158.
+25 See e.g., Save the Plastic Bag Coalition v. City of Manhattan Beach (2011) 52 Cal.4th 155, 166;
+26 Weiss v. City of Los Angeles (2016) : Cal.App.5th 194, 205-206.
+
+27 See e.g., Bhd. of Teamsters & Auto Truck Drivers v. Unemployment Ins. Appeals Bd. (1987) 190 Cal.App.3d 1515, 1522; Simons v. City of Los Angeles (1979) 100 Cal.App.3d 496, 500-501;
+28 Residents of Beverly Glen, Inc. v. Los Angeles (1973) 34 Cal.App.3d 117.
+
+-4-
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+to bring this Action.3, 4 Furthermore, unions have standing to litigate land use and environmental
+
+2 claims, particularly when they have long-standing involvement in said matters (as is the case here
+
+3 with Local 11).5
+
+4 10. Respondent CITY OF LOS ANGELES is a municipal corporation and Charter
+
+5 City under the State Constitution with its elected City Council and Planning Department
+
+6 responsible for enforcing State/local planning laws and serving as the lead agency under CEQA.
+
+7 11. Real Party in Interest WYNKOOP PROPERTIES, LLC is believed to be a
+
+8 California corporation domiciled and operating in Los Angeles County and recipients of the
+
+9 Project Approvals, as identified in the NOD.
+
+10 12. The true names, capacities, corporate, associate, or otherwise of Respondents
+
+11 named herein as DOES 1 through 1 10, inclusive, are unknown to Petitioners who, therefore, sue
+
+12 said Respondents by fictitious names. Petitioners will amend this Action to show the true names
+
+13 and capacities when they have been ascertained.
+
+14 13. Petitioners, individually and through its members, objected to the Project
+
+15 Approvals orally, in writing, and/or by filling speaker cards during the public comment period
+
+16 before the close of the Project's public hearings. Petitioners have exhausted all administrative
+
+17 remedies, the City's determinations are final, and no further City administrative appeals are
+
+18 available under State or local law. All issues submitted for judicial review in this Action were
+
+19 sufficiently raised and disputed with the City before the Project Approvals were finally approved.
+
+20 The City was given notice and the opportunity to act in compliance with the LAMC, CEQA, and
+
+21 other applicable laws but failed to do so.
+
+22 GENERAL ALLEGATIONS
+
+23 14. Here, Petitioners are informed and believe that the Project was granted deviations
+
+24 from normal Code requirements to allow: consolidation of eight lots encompassing an entire City-
+
+25 block, a larger floor-area-ratio of 1.5:1, only four dwelling units comprising merely three percent
+
+26 of the Project's total square footage, and in some places less than a five-foot setback. These
+
+27 See e.g., Bakersfield Citizens v. Bakersfield (2004) 124 Cal.App.4th 1184, 1198; Environmental
+28 Protection Information Center v. California Dept. of Forestry & Fire Protection (2008) 44 Cal.4th 459, 480.
+-5-
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+Project attributes deviate from standards under applicable plans, including the LUP, Specific Plan
+
+2 and Community Plan, as well as the Code. (See e.g., LUP, p. Il-21 - II-22 [Policy I. B. 7.];
+
+3 Specific Plan § 9.A [General Land Use and Development Regulations]; Community Plan, pp. I-2
+
+4 I-3, III-3 -III-5, III-7 [affordable housing goals/objectives]; LAMC § 12.22-A.23 [Mini-
+
+5 Shopping Centers and Commercial Corner Development].)
+
+6 15. The City authorized all these deviations and ultimately the Project Approvals via a
+
+7 mixed-use exemption designed to encourage housing (co-locating housing near commercial
+
+8 services). The City did so based on an erroneous interpretation of three Code sections. However,
+
+9 these sections make clear that the mixed-use exemption can be granted only when the
+
+10 development is one with predominantly residential uses. (LAMC § 12.22-A.23.d(1).) Under the
+11 Code, commercial uses explicitly include hotel guest rooms (LAMC § 13.09-B.3) and hotel guest
+12 rooms are not dwelling units intended for long-term residency (LAMC § 12.03). Thus, it is
+
+13 indisputable that the Project's 78-hotel guest rooms are defined as "hotel" "guest rooms" under
+14 Section 12.03 and, thus, considered "commercial uses" under Section 13.09.B.3. With roughly 97
+15 percent of the Project considered non-residential, no reasonable person could conclude that this
+
+16 Project consists of "predominantly residential" uses as required under Section 12.22-A.23(d)(1).
+
+17 The City's action to exempt the Project from lot-consolidation restrictions, stricter density limits,
+18 and other development controls is an abuse of discretion that runs afoul of the spirit and language
+19 of the Code that allows deviations from the normal Code requirements to encourage housing - not
+20 hotels.
+
+21 16. Additionally, under the Code, a *hotel' may "not include more than one dwelling
+
+22 unit[,l" and an 'apartment hotel' includes "both two or more dwelling units and six or more guest
+
+23 rooms ...." (LAMC § 12.03 [Definitions].) Furthermore, the City Planning precedent
+
+24 demonstrates that guest rooms and dwelling units located in an apartment hotel are to be used for
+
+25 long-term tenancies (i.e., longer than 30 days) and do not allow for short-term stays (i.e., 30 days
+26 or less). Here, however, the Project includes four dwelling units and 78-guest rooms allowed for
+
+27 short-term stays. Thus, the Project is considered an 'apartment hotel' that should have allowed
+
+28 only long-term stays or sought appropriate zoning relief (e.g., variance).
+
+-6-
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 17. Furthermore, the above inconsistencies with applicable Code and plan
+
+2 requirements were not identified in the Project's EIR. Deviations from the zoning requirements
+
+3 come at the expense of housing and the environmental impacts that otherwise would be avoided
+
+4 when co-locating residents near services--the very purpose and intent of the mixed-use
+
+5 exemption under the Code and applicable plans. Failure to identify and analyze these land use
+
+6 inconsistencies masked Project impacts, allowed Respondents to avoid mitigation and forego
+
+7 adequate project alternatives-such as incorporating more dwelling units and true housing into
+
+8 the Project.
+
+9 18. Notwithstanding the above-described deficiencies, the Project's Entitlements were
+
+10 approved by the City's West Los Angeles Area Planning Commission (acting in its appellate
+
+11 capacity) on or around October 29, 2020. On or around December 9, 2020, the Project's EIR was
+
+12 approved by the City Council (acting in its appellate capacity), and Respondents filed the
+
+13 Project's CEQA NOD with the Los Angeles County Registrar-Recorder on or around December
+
+14 24, 2020.
+
+15 FIRST CAUSE OF ACTION
+
+16 (Zoning Violations; Code Civ. Proc. §§ 1085, 1094.5)
+
+17 19. Petitioners restate and reallege Paragraphs 1-18 as if fully set forth herein.
+
+18 20. Actions involving quasi-judicial zoning approvals, such as the case here, are
+
+19 subject to an abuse of discretion standard, which is established when the local agency: (a) has not
+
+20 proceeded in the manner required by law; (b) the decision is not supported by findings; and/or (c)
+21 the evidence docs not support the findings. (See Code Civ. Proc. § 1094.5.)
+
+22 21. Here, the City failed to require a variance or other appropriate entitlements (with
+
+23 associated findings supported by substantial evidence) to authorize the Project's deviations from
+
+24 the Code and applicable land use plans. No reasonable person could read the plain language of
+
+25 LAMC §§ 12.22-A.23.d(1), 13.09-B.3, 12.03 and find the Project qualified for a mixed-use
+
+26 exemption from the lot-consolidation restrictions, stricter density limits, and other development
+
+27 controls. (See Families Unafraid to Uphold Rural etc. County v. Board of Supervisors (1998) 62
+
+28 Cal.App.4th 1332, 1338 [citing No Oil, Inc. V. City of Los Angeles (1987) 196 Cal. App. 3d 223,
+-7-
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+-
+
+2 243].) The exemption granted the Project are only allowed under Code § 12.22-A.23.d(1) for
+
+3 predominantly residential useswhich this Project is not. This determination by the City, which
+
+4 was the basis for the Code exemptions and Project Entitlements was clearly erroneous. (See
+
+5 Horwitz v. City of Los Angeles (2004) 124 Cal.App.4th 1344, 1354.) The City's actions defining
+
+6 this hotel Project as "predominantly residential" defies common sense and the Code. Also, due to
+
+7 the Project's glaring inconsistency with applicable plans, the City's Code required findings for
+
+8 the Entitlements are not supported by substantial evidence. (See e.g., LAMC §§ 11.5.7-C.2,
+12.20.2-G.1, 12.24-E, 16.05-F.)
+
+9 22.
+
+10 Petitioners have no plain, speedy, or adequate remedy at law other than the relief
+
+11 sought in this Action. Petitioners, individually and through its members, have a beneficial interest
+
+12 in the City's compliance with the zoning requirements, which requires greater housing on the Site
+
+13 in order to qualify for a mixed-use exemption from lot-consolidation restrictions, stricter density
+
+14 limits, and other development controls and to be consistent with applicable plans. The City's
+
+15 actions here result in less housing and serve as a dangerous precedent for future projects that may
+
+16 seek increased development rights based on a scintilla of housing. This ultimately subverts the
+
+17 purpose of the mixed-use exemption to increase housing opportunities--not hotels. All
+
+18 Petitioners have public interest standing to enforce the City's public duty to follow its zoning
+
+19 laws and preserve the integrity of the Code and applicable plans, which serve significant policy
+
+20 benefits to all persons within the Venice community. (See La Mirada Avenue Neighborhood
+
+21 Assn. of Hollywood v. City of Los Angeles (2018) 22 Cal.App.5th 1149, 1158-1159 [Supreme
+
+22 Court has consistently recognized the importance of preserving the integrity of a locality's
+
+23 governing general plan for zoning, which vindicates "significant policy benefits" to persons living|
+
+24 near the project, persons living within the planning area, and "all residents of the City who benefit
+
+25 from the trial court's ruling that holds the City Council's zoning decisions to the letter and spirit
+
+26 of the municipal code.".) Furthermore, because housing is a chief purpose of both POWER and
+
+27 Local 11, Petitioners have associational standing to vindicate these rights.
+
+/ /
+
+28
+
+-8-
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+SECOND CAUSE OF ACTION
+
+2 (CEQA Violations; Code Civ. Proc. § 1094.5)
+
+3 23. Petitioners restate and reallege Paragraphs 1-22 as if fully set forth herein.
+
+24. CEQA actions challenging an EIR, such as the case here, are subject to an abuse of
+
+5 discretion standard that is established if the agency has not proceeded in a manner required by
+
+6 law or if the determinations or decision is not supported by substantial evidence. (See Pub. Res.
+
+7 Code § 21168.5; see also Citizens of Goleta Valley v. Bd. of Supervisors (1990) 52 Cal.3d 553,
+
+8 564.)
+
+9 25. The foremost principle in interpreting CEQA is that the Legislature intended the
+
+10 act to be read so as to afford the fullest possible protection to the environment. (See Cmtys, for a
+
+11 Better Env't v. Cal. Res. Agency (2002) 103 Cal.App.4th 98, 109.) A chief purpose of CEQA is to
+
+12 inform decision makers and the public about the potential, significant environmental effects of a
+
+13 project. (See e.g., CEQA § Guidelines § 15002(a)(1); see also Lincoln Place Tenants Ass'n. v. City
+
+14 of Los Angeles (2007) 155 Cal.App.4th 425, 443-44.) Another chief purpose is to avoid or reduce
+
+15 environmental damage by requiring implementation of "environmentally superior" alternatives
+
+16 and all feasible mitigation measures. (Id., subds. (a)(2) & (3); see also Citizens of Goleta Valley,
+
+17 supra, 52 Cal.3d at 564-565.) To these ends, if a project has a significant effect on the
+
+18 environment, the agency may approve the project only if it finds that it has "eliminated or
+
+19 substantially lessened all significant effects on the environment where feasible" and that any
+
+20 significant unavoidable effects on the environment are "acceptable due to overriding concerns."
+
+21 (Pub. Res. Code § 21081; see also CEQA Guidelines 15092(b)(2), subds. (A) & (B).)
+
+22 26. Here, the Project's EIR did not identify, analyze, mitigate, or seek an alternative
+
+23 that addresses the land use inconsistencies between the Project and the Code and applicable plans
+
+24 (e.g., LUP, Specific Plan, Community Plan) (discussed supra). This land use inconsistency
+
+25 analysis was required under CEQA. (See e.g., CEQA Guidelines § 15125(d); Pfeiffer v. City of
+
+26 Sunnyvale City Council (2011) 200 Cal.App.4th 1552, 1566; Friends of the Eel River v. Sonoma
+
+27 County Water Agency (2003) 108 Cal.App.4th 859, 881.) There does not need to be a direct
+
+28 conflict to trigger this requirement; even if a project is "incompatible" with the "goals and
+-9-
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+policies" of a land use plan, the EIR must assess the divergence between the project and the plan,
+
+2 and mitigate any adverse effects of the inconsistencies. (See Napa Citizens for Honest
+
+3 Government v. Napa County Bd. of Supervisors (2001) 91 Cal.App.4th 342, 378-79; see also
+
+4 Pocket Protectors v. City of Sacramento (2004) 124 Cal.App.4th 903 [holding under CEQA that a
+
+5 significant impact exists where project conflicts with local land use policies].) This did not occur
+
+6 here.
+
+7 27. By not identifying said land use inconsistencies, the City failed to serve CEQA's
+
+8 chief purpose of informed decision making. So too, this failure infects the City's findings on the
+9 adequacy of the mitigation measures, alternative analysis, and Statement of Overriding
+10 Considerations. (See e.g., CEQA Guidelines §§ 15091, 15093; Sierra Club v. Contra Costa
+11 County (1992) 10 Cal.App.4th 1212, 1223-1224 [assertions set forth in the statement of
+12 overriding considerations must be supported by the final EIR or information in the record]; City
+13 of Marina v. Board of Trustees of California State University (2006) 39 Cal.4th 341, 368 [where
+14 feasibility of mitigation lacks substantial evidence, "statement of overriding circumstances is
+15 invalid necessarily follows."]; accord County of San Diego v. Grossmont-Cuyamaca Community
+16 College Dist. (2006) 141 Cal.App.4th 86, 108, fn. 18.)
+
+17 28. Petitioners have no plain, speedy, or adequate remedy at law other than the relief
+18 sought in this Action. If the City persists in its refusal to rescind the Project Approvals and allow
+19 the development of the Project, Petitioners, its members, and the public will suffer irreparable
+20 harm from which there is no adequate remedy at law in that the Project will be built, operations
+21 commence, and significant adverse impacts on land use consistency and the environmental
+
+22 impacts avoided when co-locating residents to services. So too, all Petitioners have public interest
+23 standing to enforce the City's duty to follow the State's vital environmental laws, which have
+24 routinely been recognized by the courts as important public rights
+25 /1/
+
+26
+
+27
+
+28
+
+-10-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 PRAYER FOR RELIEF
+
+2 WHEREFORE, Petitioners pray for the following relief:
+G v 1. writ of mandate ordering the City, including all That the Court enter a peremptory
+agents thereof, to set aside and void the Project Approvals (including the Entitlements and CEQA
+
+5 Approvals) pending the City's full compliance with the LAMC, CEQA, and other governing laws
+
+6 - including but not limited to securing the appropriate zoning approvals, making the necessary
+
+7 zoning and CEQA findings, and supporting all conclusions and determinations with substantial
+
+8 evidence;
+
+9 2. That the Court issue a temporary stay, stay, temporary restraining order, and/or
+
+10 injunction ordering the City to refrain from allowing the Project to proceed and issuing further
+
+11 permits while this action is pending;
+
+12 3. That the Court issue a permanent injunction ordering the Project halted pending
+
+13 the City's full compliance with the LAMC, CEQA, and other governing law; and
+
+14 4. For such other and further relief as the Court finds just and proper.
+
+15 Respectfully submitted,
+
+16 DATED: January 22, 2021 LAW OFFICE OF GIDEON KRACOV
+
+17
+
+18 By:
+JORDAN R. SISSON 19 Attorney for Petitioner ALBA LUZ PRIVADO, PEOPLE ORGANIZED FOR WESTSIDE 20 RENEWAL, and UNITE HERE LOCAL 11
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+-11-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+I, Danielle Wilson, on behalf of UNITE HERE LOCAL 11, have read the VERIFIED
+
+2 FIRST AMENDED PETITION FOR WRIT OF MANDATE and know its contents. The matters
+
+3 stated therein are true to my own knowledge and belief, except as stated on information and
+
+4 belief, and to those matters I believe them to be true.
+
+5 declare under penalty of perjury under the laws of the State of California that the
+
+6 foregoing is true and correct.
+
+7
+
+8 Executed on January 22, 2021, at Los Angeles County, California
+
+9
+
+10 Tria
+11 Danielle Wilson, on behalf of Petitioner UNITE HERE LOCAL 11
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+-12-
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+EXHIBIT A
+
+GIDEON KRACOV
+Attorncy at Law
+801 South Grand Avenue
+1Ith Floor
+Los Angeles, California 90017
+
+(213) 629-2071
+Fax: (218) 623-7755 gk@gideonlaw.net
+www.gideonlaw.net
+
+January 21, 2021
+
+VIA U.S. MAIL:
+
+Office of the City Clerk
+City of Los Angeles
+200 N. Spring Street City Hall - Room 360
+Los Angeles, CA 90012
+
+RE: NOTICE OF INTENT TO FILE CEQA PETITION; VENICE PLACE PROJECT (DCP CASE NOS. CPC-2012- 3354 AND ENV-2016-4321; STATE CLEARINGHOUSE # 2016061033)
+Dear City Clerk:
+
+This office serves as counsel to Alba Luz Privado, People Organized For Westside Renewal, and UNITE HERE Local 11 (collectively "Petitioners"). This letter is provided to the City of Los Angeles ("City") in accordance with Pub. Res. Code § 21167.5.
+
+Please take notice that pursuant to Pub. Res. Code § 21167, Petitioners will file a Petition for Writ of Mandate ("Petition") challenging the City's approval of the above-referenced hotel development ("Project"), including various land use entitlements (e.g., Conditional Use Permits, Coastal Development Permit, Site Plan Review, Project Permit Compliance Review, Mello Act Compliance Review, and Waiver of Dedication and/or Improvements) finally approved on or around October 29, 2020; and its California Environmental Quality Act ("CEQA") certification of Environmental Impact Report (State Clearinghous No. 2016061033) ("EIR") finally approved on or
+around December 9, 2020.
+
+The Petition will allege, among other things, that the City did not comply with CEQA due to land use inconsistency neither identified nor mitigated in the EIR, nor accounted for in the EIR's project alterantive analysis, which ultimately infected the adequacy of the City's Statement of Overriding Considerations.
+
+Petitioners will seek to have the land use entitlements and CEQA environmental approval enjoined and set aside, along with such other relief as the Court deems proper.
+
+Sincerely,
+
+LAW OFFICE OF GIDEON KRACOV
+
+Jordan R. Sisson
+Attorney for-Petitioners
+
+PROOF OF SERVICE
+
+2 I, Jordan Sisson, declare as follows:
+
+3 a I am a citizen of the United States and work in Los Angeles County, California. I am over
+
+4 the age of eighteen years and am not a party to the within entitled action. My business address is: 801 S. Grand Ave., 11th Floor, Los Angeles, California 90017. On January 21, 2021, I served the
+
+5 following document(s):
+NOTICE OF INTENT TO FILE CEQA PETITION
+6
+
+7 The document(s) was served on:
+
+8 Office of the City Clerk City of Los Angeles
+9 200 N. Spring Street
+City Hall - Room 360
+10 Los Angeles, CA 90012
+
+11 RESPONDENT
+
+12
+
+13 VIA U.S. MAIL By placing a true copy thereof enclosed in a sealed envelope, with postage thereon fully prepaid, in the United States Post Office mailbox at P.O. Box 569,
+14 Riverside, CA 92502. I am readily familiar with the office's practice of collection and processing correspondence for mailing. It is deposited with the U.S. Postal Service on
+15 the same day in the ordinary course of business. I am aware that on motion of party served, service is presumed invalid if postal cancellation date of postage meter date is
+16 more than 1 day after date of deposit for mailing in affidavit.
+
+17 VIA ELECTRONIC SERVICE OR EMAIL by causing a true copy thereof to be electronically delivered to the person(s) or representatives(s) at the email address(es) as
+18 stated on the above/attached service list. I did not receive any electronic message or other indication that the transmission was unsuccessful.
+19 Executed this January 21,2021 at Riverside, California
+20
+
+21 By:
+JORDAN R. SISSON
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+--
+
+PROOF OF SERVICE
+
+1 PROOF OF SERVICE
+
+2 I, Jordan Sisson, declare as follows:
+
+3 a I am a citizen of the United States and work in Los Angeles County, California. I am over the
+4 age of eighteen years and am not a party to the within entitled action. My business address is: 801 S. Grand Ave., 11th Floor, Los Angeles, California 90017. On January 22, 2021, I served the
+5 following document(s):
+NOTICE OF INTENT TO FILE CEQA PETITION 6
+
+7 The document(s) was served on:
+
+8 Office of the City Clerk
+City of Los Angeles
+9 200 N. Spring Street
+City Hall - Room 360
+10 Los Angeles, CA 90012
+
+11 RESPONDENT
+
+12
+
+13 VIA U.S. MAIL By placing true copy thereof enclosed in sealed envelope, with postage thereon fully prepaid, in the United States Post Office mailbox at P.O. Box 569,
+14 Riverside, CA 92502. I am readily familiar with the office's practice of collection and processing correspondence for mailing. It is deposited with the U.S. Postal Service on
+15 the same day in the ordinary course of business. I am aware that on motion of party served, service is presumed invalid if postal cancellation date of postage meter date is
+16 more than day after date of deposit for mailing in affidavit.
+
+17 VIA ELECTRONIC SERVICE OR EMAIL by causing a true copy thereof to be electronically delivered to the person(s) or representatives(s) at the email address(es) as
+18 stated on the above/attached service list. I did not receive any electronic message or other indication that the transmission was unsuccessful.
+19 PERSONAL SERVICE by serving the above-referenced recipient at said address.
+
+20 Executed this January 22,_2021 at Riverside, California
+21
+
+22 By: JORDAÿR. SISSON
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+-1-
+
+PROOF OF SERVICE
+
+0 0P PROOF OF SERVICE
+
+I, Jordan Sisson, declare as follows:
+
+40.o following document(s):
+
+7 am a citizen of the United States and work in Los Angeles County, California. I am over the age of eighteen years and am not a party to the within entitled action. My business address is:
+
+8 801 S. Grand Ave., 11th Floor, Los Angeles, California 90017. On January 29, 2021, I served the
+
+NOTICE TO ATTORNEY GENERAL OF CEQA PETITION
+The document(s) was served on:
+
+9 Christie L. Vosburg
+
+10 California Attorney General's Office California Department of Justice,
+
+11 1300 I Street, 15th Floor
+Sacramento, CA 95814
+
+12 christie.vosburg@doj.ca.gov
+
+13
+
+14
+
+15
+
+16 VIA U.S. MAIL By placing a true copy thereof enclosed in a sealed envelope, with postage thercon fully prepaid, in the United States Post Office mailbox at 801 S. Grand
+
+17 Ave., 11th Fl., Los Angeles, CA 90017. I am readily familiar with the office's practice of collection and processing correspondence for mailing. It is deposited with the U.S.
+
+18 Postal Service on the same day in the ordinary course of business. am aware that on motion of party served, service is presumed invalid if postal cancellation date of postage meter date IS more than 1 day after date of deposit for mailing in affidavit.
+
+19
+
+20 VIA ELECTRONIC SERVICE OR EMAIL by causing a true copy thereof to be electronically delivered to the person(s) or representatives(s) at the email address(es) as
+
+21 stated on the above/attached service list. I did not receive any electronic message or other indication that the transmission was unsuccessful.
+
+22 PERSONAL SERVICE by serving the above-referenced recipient at said address.
+
+23 Executed this January 29. 2021 at Los Angeles County, California
+
+By:
+
+24
+
+25 JORDAN R. SISSON
+
+26
+
+27
+
+28 0IN3WI8Vd30 E
+8
+N
+
+-1- 301340 01N3WVHOVS 9
+70LLS00 SC:IIWY 1W3N30 A3NYOLIV 03A/3038
+
+PROOF OF SERVICE

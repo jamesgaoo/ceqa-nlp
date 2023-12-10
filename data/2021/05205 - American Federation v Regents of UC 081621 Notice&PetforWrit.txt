@@ -1,0 +1,2977 @@
+MICHAEL R. LOZEAU (Cal. Bar No. 142893)
+
+2 REBECCA L. DAVIS (Cal. Bar No. 271662) BRIAN B. FLYNN (Cal. Bar No. 314005
+LOZEAU | DRURY LLP
+1939 Harrison St., Suite 150
+Oakland, CA 94612
+Tel: (510) 836-4200
+Fax: (510) 836-4205
+
+6 | E-mail:rebecca@lozeaudrury.com
+michael@lozeaudrury.com
+brian@lozeaudrury.com
+
+8 Attorneys for Petitioner and Plaintiff
+
+9
+SUPERIOR COURT OF THE STATE OF CALIFORNIA 10
+COUNTY OF ALAMEDA 11
+
+12 AMERICAN FEDERATION OF STATE, Case No. RG21110157 COUNTY, AND MUNICIPAL
+13 EMPLOYEES LOCAL 3299,
+
+14 Petitioner and Plaintiff, NOTICE TO ATTORNEY GENERAL OF
+VERIFIED PETITION FOR WRIT OF 15 VS. MANDATE
+
+16 THE REGENTS OF THE UNIVERSITY OF
+17 CALIFORNIA,
+
+18 Respondent and Defendant.
+
+19 UNIVERSITY OF CALIFORNIA.
+20 BERKELEY, and DOES 1-10,
+
+21 Real Parties in Interest and Defendants.
+22
+
+23
+
+24 To the Attorney General of the State of California:
+
+25 PLEASE TAKE NOTICE, pursuant to Public Resources Code §21167.7 and Code of
+
+26 Civil Procedure §388, that on August 20, 2021, American Federation of State, County, and
+
+27 Municipal Employees, Local 3299 ( "Petitioner") filed a Verified Petition for Writ of Mandate
+
+28
+
+NOTICE TO ATTORNEY GENERAL
+
+1 ("Petition") against Respondent The Regents of the University of California (*Respondent"), and
+2 Real Party in Interest University of California, Berkeley.
+
+3 The Petition alleges that Respondent certified an EIR for the 2021 Long Range
+
+4 Development Plan for the University of California Berkeley and Housing Projects #1 and #2
+(*Project"), adopted a Statement of Overriding Considerations for the Project, and approved the
+6 2021 LRDP and Housing Project #1 in violation of the California Environmental Quality Act,
+7 Public Resources Code §§21000, et seq. A copy of the Petition is attached to this Notice.
+
+8
+
+9 Dated: August 24, 2021 LOZEAU | DRURY LLP
+
+10
+
+11 By:
+
+12 Rebecca L. Davis American Federation of State, County, and
+13 Municipal Employees, Local 3299
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+2
+NOTICE TO ATTORNEY GENERAL
+
+1 MICHAEL R. LOZEAU (Cal. Bar No. 142893) ENDORSED
+FILED
+
+2 REBECCA L. DAVIS (Cal. Bar No. 271662) ALAMEDA COUNTY
+BRIAN B. FLYNN (Cal. Bar No. 314005
+3 LOZEAU | DRURY LLP AUG 2 0 2021
+1939 Harrison St., Suite 150
+4 Oakland, CA 94612 CLERK OF THE SUPERIOR COURT
+Tel: (510) 836-4200 By.
+5 GINA-FU"Deputy
+Fax: (510) 836-4205
+6 E-mail:rebecca@lozeaudrury.com
+
+7 michael@lozeaudrury.com
+brian@lozeaudrury.com
+
+8 Attorneys for Petitioner and Plaintiff
+9
+
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+11 COUNTY OF ALAMEDA
+
+12 AMERICAN FEDERATION OF STATE, COUNTY, AND MUNICIPAL EMPLOYEES Case No.: RG21110157
+13 LOCAL 3299, VERIFIED PETITION FOR WRIT OF
+14 Petitioner and Plaintiff, MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE
+15 RELIEF
+VS.
+16
+
+17 THE REGENTS OF THE UNIVERSITY OF [CEQA, Pub. Res. Code §21000, et seq.;
+CALIFORNIA, Code of Civil Procedure §§1094.5, 1085]
+
+18
+Respondent and Defendant.
+19
+
+20 UNIVERSITY OF CALIFORNIA, BERKELEY, and DOES 1-10,
+21
+Real Parties in Interest and Defendants.
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+INTRODUCTION
+
+1. Petitioner American Federation of State, County, and Municipal Employees Local
+3299 ("Local 3299" or "Petitioner") brings this action to challenge the unlawful actions of
+
+4 Respondent The Regents of the University of California in certifying the Environmental Impact
+
+5 Report ("EIR") for the University of California Berkeley's (*UC Berkeley") 2021 Long Range
+
+6 Development Plan Update ("2021 LRDP Update") and Housing Projects #1 and #2 (collectively,
+
+7 "the Project"), approving the 2021 LRDP Update and Housing Project #1, and making related
+
+8 findings because the EIR fails to satisfy the requirements of the California Environmental Quality
+seq., and the CEQA Guidelines, title 14, Act ("CEQA"), Public Resources Code § 21000 et
+
+10 California Code of Regulations, § 15000 et seq.
+
+11 2. The Project has three components: (1) the 2021 Long Range Development Plan
+
+12 Update for the University of California, Berkeley campus (*2021 LRDP Update"), (2) Housing
+13 Project #1, also referred to as Anchor House, and (3) Housing Project #2, also referred to as People's
+14 Park.
+
+15 3. UC Berkeley prepared and certified an Environmental Impact Report that included a
+16 programmatic-level analysis for the 2021 LRDP Update and a project-level analysis for Housing
+17 Projects #1 and #2. To date, the University has approved the 2021 LRDP Update and Housing Project
+18 #1 ("Approvals") but has not approved Housing Project #2.
+19
+4.
+20 In certifying the EIR, Respondent failed to comply with CEQA. More specifically,
+
+21 Respondent prejudicially abused their discretion and failed to proceed in the manner required by law
+
+22 by certifying an EIR that does not adequately analyze or mitigate the Project's significant
+
+23 environmental impacts. The EIR also fails to provide a CEQA-compliant alternatives analysis,
+
+24 response to comments, or statement of overriding considerations. As a result of these and other
+
+25 deficiencies, the EIR fails as an informational document.
+
+26 5. Because the EIR violates CEQA, the Approvals that are reliant upon it must be
+
+27 overturned. Therefore, Petitioner respectfully requests that the Court direct Respondents to set aside
+
+28 the certification of the EIR and associated Project Approvals.
+
+2 VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+PARTIES
+
+2 Petitioner and Plaintiff
+
+3 6. Petitioner and Plaintiff American Federation of State, County, and Municipal
+4 Employees Local 3299 is a public services employee union representing thousands of members 5 throughout the University of California system. Some of those members live, work, and recreate near 6
+
+7 the UC Berkeley Campus and in Alameda County, including more than 950 who work at UC
+Berkeley and the Lawrence
+8 Berkeley National Lab. Local 3299's members are predominantly people
+
+9 of color and are among the University of California's lowest-paid workers. Local 3299's purposes
+
+10 include advocating for vital services that keep Local 3299 members and their families safe, make
+
+11 their communities strong, and protect the environment.
+
+12 7. Local 3299 and its members have a direct and beneficial interest in compliance with
+
+13 laws bearing upon approval of the Project. These interests will be directly and adversely affected by
+
+14 the Project, which violate provisions of law as set forth in this Petition and would cause substantial
+
+15 harm to public safety, the natural environment, and the quality of life in the surrounding community.
+
+16 Local 3299 and its members will suffer injury from adverse environmental impacts caused by the
+
+17 construction and operation of the Project if the legal violations alleged in this Petition and Complaint
+
+18 are not remedied. Local 3299 brings this action to represent and advocate for the beneficial interests
+19 of its members in obtaining relief from these legal violations and to protect its members' safety,
+20 advocate for affordable housing, improve quality of life, protect the environment, and ensure that the
+21 University adheres to the requirements of CEQA in evaluating the Project. In addition, increased
+22 demand for housing in the area surrounding the proposed Project is likely to harm Local 3299's
+23 members who live in the area by raising rents, thereby causing economic injury or displacement or 24 both. Local 3299 actively participated in the Project's administrative approval process. Local 3299 25
+
+26 expressed its concerns regarding the Project in writing to the University and urged the University to
+remedy the EIR's deficiencies and to comply with CEQA. 27
+8.
+28 Local 3299 brings this action on behalf of itself, its members, and in the public
+interest. Issuance of the relief requested in this Petition will confer a significant benefit on the general
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+public by requiring Respondents to carry out its duties under CEQA and other applicable laws before
+
+2 approving the Project. Issuance of the relief requested in this Petition will also result in the
+
+3 enforcement of important rights affecting the public interest by compelling Respondents to engage in
+
+4 Project, and to ensure that the public has a meaningful opportunity a legally adequate analysis of the
+5 to review and comment on the impacts and mitigation measures for the Project.
+
+6 9. Local 3299 has no plain, speedy, or adequate remedy in the course of ordinary law
+unless this Court grants the requested writ of mandate to require Respondent to set aside its
+8 certificate of the EIR and the Approvals. In the absence of such remedies, the Regents' decisions
+9 will remain in effect in violation of state law and Local 3299 and its members will be irreparably
+10
+harmed.
+11
+10.
+12 Unless enjoined, Respondent will implement the Project despite its lack of
+
+13 compliance with CEQA. Local 3299 will suffer irreparable harm by Respondent's failure to take the
+
+14 required steps to comply with CEQA's procedures and protect the environment.
+
+15 Respondent and Defendant
+
+16 11. Respondent The Regents of the University of California ("Regents" or "University") is
+
+17 a public trust corporation and state agency established pursuant to the California Constitution vested
+
+18 with administering the University of California including the management and disposition of facilities
+
+19 at the UC Berkeley Campus. The Regents is the lead agency under CEQA for consideration of
+
+20 certification of the EIR and has principal responsibility for approving the 2021 LRDP Update,
+
+21 Anchor House (also referred herein as "Housing Project #1"), and People's Park (also referred herein
+
+22 as "Housing Project #2").
+
+23 Real Parties in Interest and Defendants
+
+24 12. Real Party in Interest University of California, Berkeley, is listed as the applicant on
+
+25 the Notices of Determination for both the 2021 LRDP Update and Anchor House.
+
+26 13. Petitioner and Plaintiff does not know the true names and capacities of Real Parties in
+27 Interest and Defendants fictitiously named herein as DOES 1 through 10, inclusive. Petitioner is
+28 informed and believes, and thereon alleges, that such fictitiously named Real Parties in Interest and
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+Defendants are responsible in some manner for the acts or omissions complained of or pending herein. Petitioner and Plaintiff will amend this Petition to allege the fictitiously named Real Party in
+3 Interest's and Defendants' true names and capacities when ascertained.
+4 JURISDICTION AND VENUE
+
+5 14. This Court has jurisdiction over the matters alleged in this Petition pursuant to Code
+6 of Civil Procedure §§1085 and 1094.5 and Public Resources Code §§21168 and 21168.5. The Court
+7 has jurisdiction to issue declaratory relief pursuant to Code of Civil Procedure § 1060 and injunctive
+8 relief pursuant to Code of Civil Procedure § 525 et seq.
+9 15. Venue is proper pursuant to CCP §§ 393(b) (actions against public officers) and 395
+10 (actions generally) because Respondent is an agency of the State of California. Venue is proper in
+11 this Court because the causes of action alleged in this Petition and Complaint arose in the County of
+12 Alameda, the Project will occur within the County of Alameda, and the environmental impacts of the
+13 Project will be acutely felt within the County of Alameda.
+14 16. This action was timely filed. Petitioner filed this Petition and Complaint prior to the
+15 expiration of any applicable statute of limitations.
+16 17. Petitioner performed all conditions precedent to filing this action by complying with 17 the requirements of PRC § 21167.5 by serving prior notice of the complaint in this action. A copy of 18 the written notice and proof of service is attached as Exhibit A to the Petition in this action. 19 18. Pursuant to PRC § 21167.6(b), Petitioner has elected to prepare the record of
+20 proceedings in this matter, and is simultaneously filing their notice of intent to prepare said record of 21 proceedings with this Petition and Complaint. A true and correct copy of Petitioner's Notice of
+22 Intent to Prepare Record is attached to this complaint as Exhibit B.
+23 19. Petitioner will provide notice of this action to the Attorney General of the State of 24 California, by serving a copy of this Petition along with a notice of its filing, as required by PRC § 25 21167.7 and CCP § 388.
+26 EXHAUSTION OF ADMINISTRATIVE REMEDIES
+27 20. Local 3299 has actively participated in the administrative and environmental review
+28 process prior to close of the public hearings on the Project and before the issuance of the Notices of
+
+5 VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 Determination. Local 3299 has fully exhausted administrative remedies to the extent required by law.
+
+2 Pub. Res. Code §21177(a).
+
+3 21. CEQA allows a petitioner who objected to a project to allege in a petition all
+deficiencies asserted by others. California Clean Energy Committee v. City of Woodland (2014) 225
+Cal.App.4th 173, 191. Local 3299, agencies, interested groups, and individuals commented on
+
+6 the Project and raised each of the legal deficiencies asserted in this Petition and Complaint.
+7 22. The Regents has taken final agency actions certifying the EIR and adopting related
+
+8 Project approvals and findings. The Regents had a mandatory duty to comply with all applicable
+9
+
+10 laws, including CEQA, prior to undertaking the discretionary approvals at issue in this Petition and
+
+11 Complaint. Local 3299 possesses no effective remedy to challenge the Project approvals at issue in
+
+12 this action other than by means of this lawsuit.
+
+13 PROCEDURAL ALLEGATIONS
+
+14 23. The University released a Draft EIR for public review in March 2021. The Draft EIR
+
+15 addressed the 2021 LRDP Update, and the Anchor House and People's Park housing projects.
+
+16 24. Many parties provided written comments on the Draft EIR, including Local 3299,
+17 other organizations, public agencies, and individual members of the public.
+
+18 25. In July 2021, the University released the Final EIR for the Project. The Final EIR
+19 included responses to comments on the Draft EIR and revisions to the Draft EIR, among other
+
+20 things.
+
+21 26. On July 22, 2021, the University held a hearing on the Project and certified the Final
+
+22 EIR for the 2021 LRDP Update and the Housing Projects, approved the 2021 LRDP Update,
+
+23 approved the Anchor House project, and made related findings.
+
+24 FACTUAL ALLEGATIONS
+
+25 The Project and Project Site
+
+26 27. The Project includes three components: (1) the 2021 LRDP Update, (2) Housing
+
+27 Project #1 (Anchor House), and (3) Housing Project #2 (People's Park).
+28
+
+5 VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 28. The 2021 LRDP Update is an overall land use plan intended to guide future growth
+2 and development on the UC Berkley Campus over the next 15 years. It has a buildout horizon of the 3 2036-37 school year and is an update to the University's existing Long Range Development Plan 4 adopted in 2005, which had a buildout horizon year of 2020. The 2021 LRDP Update contemplates 5 an on-campus population of 67,200 persons (an increase of 12,071 from 2020 levels), an additional 6 8,096,249 square feet of development, and an additional 1,240 parking spaces covering 1,081,080
+square feet of space for parking lots and parking structures. Draft EIR at 3-25. 8
+29. The UC Berkely Campus is predominately located 9 within the cities of Berkley and
+Oakland. Draft EIR at 3-6. 10 The "study area" used by the University for the EIR is contiguous with the
+
+11 2021 LRDP Update planning area and includes the majority of UC Berkeley-owned properties. Draft
+
+12 EIR at 3-8. However, it does not include UC Berkeley-owned properties outside of EIR study area,
+
+13 including the University Village in Albany, the Richmond Field Station in Richmond, or various
+
+14 properties outside of the city of Berkeley. Id.
+
+15 30. Housing Project #1, also known as the Helen Diller Anchor House or Anchor House,
+
+16 is specific development that is part of the 2021 LRDP and involves the demolition of the existing
+17 on-site structures and the construction and operation of a new 16-story, 526,000 square foot mixed-
+18 use building with a combination of residential, campus life, academic life, and other uses not operated|
+19 by UC Berkeley. Draft EIR at 3-34. It is located immediately west of the Campus Park in Downtown 20 Berkeley, on a site bounded by Berkeley Way on the north, Oxford Street on the east, University
+21 Avenue on the south, and Walnut Street on the west. Draft EIR at 3-35. Anchor House would provide
+22 housing for 770 students and 46 employees. Draft EIR at 3-34.
+23 31. The Anchor House site is currently occupied by eight apartment units (equivalent to 16 24 beds), surface parking, UC Berkeley office space, UC Berkeley's shuttle maintenance garage, and 25 vacant commercial buildings. Draft EIR at 3-35. UC Berkeley's shuttle garage, referred to as Oxford 26 Garage, is on the northeastern corner of the site and was built in 1930. Id. The garage is also listed is in 27
+
+28 the California State Historic Resources Inventory and was designated City of Berkeley historical
+landmark in 1981. Id.
+
+7 VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 32. Housing Project #2, also known as People's Park, is also a specific development that is
+
+2 part of the 2021 LRDP Update and involves the demolition of the existing on-site structures and park
+
+3 amenities and the construction and operation of two new mixed-use buildings with a combination of
+
+4 residential, campus life, academic life, and other uses not operated by UC Berkeley. Draft EIR at 3-
+50. Housing Project #2 would include three components: (1) a 17-story, 356,000 square foot student
+6 housing building providing beds for 1,187 students and 8 faculty or staff, (2) a 91,970 square foot
+affordable and supportive housing building that would house 125 residents, and (3) 82,000 square
+
+8 feet of open space. Draft EIR at 3-51.
+
+9
+33. Housing Project #2 would be built at the current site of People's Park at 2556 Haste
+10
+
+11 Street. People's Park is a 2.8-acre park with current on-site uses including gardens and lawn space, a
+
+12 restroom building. Draft EIR at 3- paved basketball court, picnic tables, a wooden stage, and a public
+
+13 53. People's Park is currently primarily occupied by people without housing, in multiple
+
+14 encampments. Id. Historically, People's Park has been known for being the site of protests and
+
+15 State Historic Resources Inventory and is a City of community action. It is listed in the California
+16| Berkeley historic landmark. Id.
+17 Wildfire, Public Safety, and Evacuation Impacts
+
+18 34. More than half of the UC Berkeley campus is designated a Very High Fire Severity
+
+19 Zone, including all of Hill Campus West, Hill Campus East, Clark Kerr Campus, and many of the
+20| City Environs properties. Draft EIR at 5.18-1, 3-8. New development in Very High Fire Severity
+
+21 Zones increases the risk of fire ignition, which in turn increases the risk of exposing students,
+22 residents, employees, and visitors to wildfire. "[A]s population increases and development further
+23 encroaches into wildland vegetation, there is an increased risk that a human-caused ignition will
+
+24 coincide in place in and time with hot, dry weather; flammable vegetation; and severe wind conditions,"
+25 Syphard, A. K, Keely, J. E. (2020). Why Are So Many Structures Burning In California? Fremontia,
+26 47(2), 28. The EIR fails to analyze and mitigate the increased risk of wildfire stemming from the
+27 siting of additional development within Wildland Urban Interface Zones and Very High Fire Severity
+28
+Zones on campus.
+
+8 VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 35. In evaluating the hazards created by a project, CEQA Guidelines Appendix G requires
+EIRs to analyze whether a Project will "[e]xpose people or structures, either directly or indirectly, to
+3 a significant risk of loss, injury or death involving wildland fires." CEQA Guidelines Appendix G
+4 §IX(g). The EIR does not adequately address this impact. The EIR does not include an analysis of 5 how the Project and its associated traffic and population increase will impact the ability of UC 6 students, staff, and faculty, as well as nearby neighborhoods, to evacuate in the event of a wildfire. 7
+
+8 Nothing in the EIR analyzes whether the existing roadways are sufficient to accommodate the
+
+9 evacuation of the increased UC campus population and surrounding neighborhoods, including the
+
+10 additional cars and traffic resulting from the Project's increased parking and population. Moreover,
+
+11 the EIR is silent on how the existing campus population plus an additional 12,000 people will be
+
+12 safely evacuated in the event of a fire, including the tens of thousands who will access campus
+
+13 without cars. Without this information, there is no evidence to support the EIR's conclusion that the
+
+14 Project will not impair implementation or physically interfere with an adopted emergency response
+
+15 plan or emergency evacuation plan.
+
+16 36. With its July 17, 2021 comments, Petitioner submitted to Respondent the expert
+
+17 comment of Professor Thomas Cova of the University of Utah who teaches and studies
+
+18 environmental hazards, environmental management, and evacuation hazards. After reviewing the
+19 EIR, Professor Cova explained that the it "fails to account for the increased cars accommodated by
+20 the 1,240 additional parking spaces added by the LRDP, and the impact those cars will have on
+21 evacuation capacity and timing. In addition, the EIR does not analyze how the thousands of additional
+22 students and staff who access campus without cars will safely evacuate in the event of a wildfire or
+23 other emergency." Cova at 1. "Without this information, it is impossible to determine if the Project 24 would substantially impair an adopted emergency response plan or emergency evacuation plan." Id. 25 37. The Final EIR's
+26 response to comments by Petitioner and others raising concerns about
+
+27 the Project's impacts on wildfire and safety were inadequate and conclusory. The EIR does not adopt
+
+28 numerous additional mitigation measures suggested by the public, experts, and the City of Berkeley
+
+9 VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+to reduce wildfire and safety risks, and provides no explanation or evidence that such measures are
+
+2 infeasible.
+
+3 38. Mitigation Measure WF-3, meant to address some wildfire concerns, is uncertain,
+
+4 unenforceable, and constitutes deferred mitigation. MM WF-3 provides: "[e]lectrical lines associated
+
+5 with future electric infrastructure shall be undergrounded, where feasible. UC Berkeley shall verify
+
+6 compliance with this measure as part of plan review prior to construction." Draft EIR at 5.18-26. The
+EIR provides no definition for what is meant by "feasible" in the context of this measure. As a result,
+the MM WF-3 does not require the University to underground any wires, as long as at some point
+9
+
+10 after the CEQA process is complete, it finds any reason at all that doing so would be infeasible.
+
+11 Moreover, there is no evidence that it is infeasible to underground all electrical lines associated with
+
+12 future electric infrastructure. Since the EIR concludes the Project's impact on wildfires is significant
+
+13 and unavoidable, Respondent was required to adopt all feasible mitigation measures.
+
+14 Transportation
+
+15 39. The EIR's discussion of transportation and traffic impacts is deficient. The EIR
+
+16 concludes that the Project will have a less than significant transportation impact because the Project is
+
+17 "generally consistent with the transportation-related goals and policies in the UC Sustainable
+
+18 Practices Policy and the UC Berkeley Sustainability Plan." Draft EIR at 5.15-47. In reaching this
+19 conclusion, the EIR fails to analyze the impacts of the more than 12,000 additional people expected
+
+20 to be on campus by the year 2036, together with the Project's increased reliance on public
+
+21 transportation. Moreover, the EIR not address how the 2021 LRDP Update's increased reliance on
+
+22 public transportation will impact public safety evacuation plans.
+23 Public Services
+
+24 40. The EIR fails to disclose or mitigate impacts to fire and emergency medical services.
+25 The City of Berkeley noted in comments on the Draft EIR that "the Berkeley Fire Department
+26 ("BFD") provides the vast majority of fire and emergency medical protection for the campus." Final
+27 EIR at 5-115. The City of Berkeley explains that responding to calls for higher density and taller
+28 apartment buildings- like the proposed Housing Project #1 and #2 - takes twice the staff and
+
+10 VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 additional fire engines because of the need to evacuate hundreds of people. Final EIR at 5-116. The
+2 EIR acknowledges that "the BFD indicated that projected population growth and development
+3 proposed by UC Berkeley over the buildout horizon of the proposed LRDP Update would require
+4 significant additional resources and facilities in order for the BFD to adequately respond to calls for 5 service." Draft EIR at 5.13-17. Additional needed equipment includes an aerial ladder truck, type
+fire engine, ambulance, mobile air supply truck, and battalion chief to accommodate the increased 7
+
+8 density and height of projects under the proposed LRDP Update. Id. The EIR also acknowledges that
+
+9 "[t]he BFD indicated that a new facility would need to be close to the Campus Park to house these
+
+10 additional resources, and the BFD's Division of Training building would need to be expanded to meet
+
+11 additional training demands of a larger department." Id.
+
+12 41. CEQA requires an EIR to evaluate and mitigate any significant environmental impacts
+
+13 caused by the need for new or expanded facilities to provide public services required by proposed
+
+14 projects. CEQA Guidelines, Appendix G § XV. However, the environmental impacts of the new and
+
+15 expanded facilities required by the Project are never analyzed or mitigated in the EIR.
+
+16 42. In response to the City of Berkeley's comments, the Final EIR quotes the Draft EIR's
+17 statement that "if and when the City of Berkeley would decide to construct a new facility in order to
+18 accommodate additional resources, UC Berkeley would negotiate its proportional share of funding for
+19 the mitigation of any environmental impacts resulting from the construction of the facility." Final EIR
+20 at 5-115. This is not an adequate response to the City of Berkeley's comments (see Cleary v. County
+21 of Stanislaus (1981) 118 Cal.App.3d 348, 357), and fails to analyze the Project as a whole, including 22 it reasonably foreseeable indirect physical changes to the environment.
+23 Historic, Cultural, and Tribal Resources
+24 43. The EIR Study Area includes dozens of historic buildings by renowned architects. The 25 Project will result in the demolition of more than 40 buildings that have been or could be designated 26
+
+27 as landmarks by the City of Berkeley and/or listed in the National Register of Historic Places.
+44.
+28 The Berkeley Architectural Heritage Association ("BAHA") commented that the EIR
+does not contain a comprehensive survey detailing existing baseline condition for historic, tribal, or
+
+1 VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+cultural resources. BAHA also points out that the EIR's historic resource technical reports are based
+
+2 on incomplete and incorrect information, impacted resources were omitted or misdescribed.
+
+3 45. The EIR's discussion of impacts on these and other historic and cultural resources is
+
+4 deficient. For instance, the EIR fails to evaluate the impacts of shadows on the First Church of Christ
+
+5 Scientist, a historic landmark located directly across the street from the 17-story housing building
+6 proposed for Housing Project #2. The Final EIR responds to comments on shadow impacts by
+improperly claiming that they do not need to be analyzed under CEQA. See Bowman v. City of
+8 Berkeley (2004) 122 Cal.App.4th 572, 586; South of Market Community Action Network v. San
+9 was adequate in addressing shadow impacts
+10 Francisco (2019) 33 Cal.App.5th 321, 349-350 (EIR
+
+11 because it described the impacts in detail before concluding that there would be no significant
+
+12 impact.). The EIR's failure to include information about the Project's shading impacts renders the
+
+13 EIR inadequate as an informational document.
+
+14 46. The EIR fails to adequately mitigate the Project's impacts to historic resources. The
+
+15 EIR concludes that the Project's impacts on historical resources will be significant and unavoidable
+16 despite the availability alternatives. Numerous experts, of additional feasible mitigation measures and
+
+17 organizations, and members of the public, including the City of Berkeley, the Berkeley Landmark Heritage Association suggested additional 18 Preservation Committee, and the Berkeley Architectural
+19 feasible mitigation measures that would reduce the Project's impacts on historical resources. These
+
+20 suggested mitigation measures and alternatives were rejected without an adequate explanation and
+
+21 without evidence of infeasibility.
+
+22 47. The mitigation measures there were adopted to reduce impacts on historic resources
+
+23 violate CEQA. For example, Mitigation Measures CUL-1.4 requires that, prior to approval of final
+24 design plans for Housing Project #2, UC Berkeley shall retain an architect meeting the National Park
+
+25 Service Professional Qualifications Standards for historic architecture to review plans for the
+26 proposed student housing and affordable and supportive housing buildings. The historic architect is to
+27 provide input and refinements to the design team regarding fenestration patterns, entry design, and
+
+28 the palette of exterior materials to improve compatibility with neighboring historical resources and to
+
+12 VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+enhance compliance with the Secretary of the Interior's Standards and the City of Berkeley Southside
+2 Design Guidelines. Final EIR at 6-29. Mitigation Measure CUL-1.4 constitutes improperly deferred
+3 mitigation because the EIR provides no reason why MM CUL-1.4 could not be conducted now, sO
+4 that the design recommendations could be reviewed and commented on by the public during the 5 CEQA review process. In addition, MM CUL-1.4 includes no performance standards and does not 6
+
+7 provide the types of actions that could feasibly achieve those standards. Moreover, while the measure
+
+8 requires UC to retain a historic architect to provide input on how to reduce the impact of Housing
+
+9 Project 2 on surrounding historical resources, it does not actually require UC to adopt any of the
+architect's recommendations.
+10
+48.
+11 The EIR's conclusion that the Project's impacts on tribal cultural resources (*TCR") is
+
+12 less-than-significant after mitigation is not supported by the evidence or the law. The EIR claims that
+
+13 Mitigation Measure CUL-2 and CBP CUL-1 would reduce Project impacts on TCRs below
+
+14 significance. Draft EIR, 5.16-8. Mitigation Measure CUL-2 provides a process for consultation
+
+15 between the consulting archeologist and the appropriate tribe to "recommend appropriate and feasible
+16 avoidance, testing, preservation, or mitigation measures." It does not require avoidance if feasible.
+
+17 Draft EIR at 5-4-43 and 5-4-44. This approach cannot be relied on as the basis for concluding that the
+18 Project's impact on TCR would be less-than-significant. See, Save the Agoura Cornell Knoll v. City
+19 of Agoura Hills (2020) 46 Cal.App.5th 665, 731-33 [mitigation measure requiring completion of data
+20 recovery program if preservation becomes impossible does not mitigate impact to a less-than-
+21 significant level].
+22 Greenhouse Gas
+23 49. The EIR's discussion of greenhouse gas effects is inadequate. For instance, there is no is 24 evidence that it is feasible to reduce the Project's significant greenhouse gas emissions to less-than-
+25 significant level, including through the purchase of offset credits.
+26 In addition, the UC Berkeley 2020
+
+27 Sustainability Goals require that the UC Berkely Campus be climate neutral for scope 1 and 2 sources
+
+28 and at least 40 percent of the natural gas combusted onsite must be biogas by 2025. Draft EIR at 5.7-
+19 to 20, 5.7-26. But the EIR contains no discussion specific to how the Project would advance or
+
+13 VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 hinder meeting those requirements or the many other climate-goals discussed in the EIR. Further, the
+
+2 EIR claims the University will start purchasing offsets to comply with the UC Sustainability Policy in
+
+3 2025 to meet net-zero requirements for Scope 1 and 2 emissions, but the EIR does not explain how it
+will reduce its GHG impacts to a less than significant level prior to 2025.
+5 Biological Resources
+
+6 50. The EIR's discussion of the Project's impacts on biological resources is inadequate.
+7 Petitioner's April 21, 2021 comment on the Draft EIR includes the comments of expert wildlife
+
+8 ecologist Dr. Shawn Smallwood, Ph.D who reviewed the EIR and found that the it: (1) failed to
+9
+
+10 establish a proper baseline for wildlife; (2) failed to adequately analyze impacts due to habitat loss;
+
+11 (3) improperly analyzed the Project's impact on wildlife movement; (4) failed to disclose, analyze,
+
+12 and mitigate the Project's impacts to wildlife due to window/vehicle collisions and energy use; (5)
+
+13 inadequately analyzed the Project's cumulative impacts; and (6) failed to incorporate all feasible
+
+14 mitigation measures.
+
+15 51. The Final EIR does not adequately respond to Dr. Smallwood's comments. For
+16 instance, in response to Dr. Smallwood's comments that the Project will have a significant impact on
+
+17 biological resources as a result of habitat loss, the Final EIR states that "preconstruction surveys
+
+18 would be necessary during nesting season to confirm whether proposed development or vegetation
+
+19 management activities would adversely affect nesting birds where suitable habitat is present." Final
+
+20 EIR at 5-423. This response ignores the ongoing impact on species resulting from habitat loss.
+
+21 Housing and Population
+
+22 52. The UC Berkeley campus has the lowest percentage of beds for the student body of
+
+23 any campus in the UC system, requiring many to seek housing in the cities surrounding campus, and
+24 cities further away. Draft EIR at 3-2.
+25 53. The EIR includes an additional 8,492 students, approximately 71% (6,032 students) of
+26 whom will live off-campus in the City of Berkley. Draft EIR at 5.12-9. In addition, the EIR includes
+27 an additional 3,579 faculty and staff, 29% (1,037) of whom are expected to live in Berkeley. Id. In
+28
+total, this amounts to an additional 7,069 people who will need to find housing in the City of Berkley.
+
+14
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 The City of Berkeley's entire housing stock in 2020 included only 51,523 units. Draft EIR at 5.12-11.
+2 To house an additional 7,069 people will require additional housing to be built in Berkeley, and the
+3 EIR failed to analyze the impact of this necessity. As the Alameda County Superior Court recently
+4 held, "[i]ncreases in campus population foreseeably lead to direct and indirect impacts on housing,
+5
+
+6 population, and displacement, and the failure to consider those impacts constitutes prejudicial abuse
+
+7 of discretion." Save Berkeley's Neighborhoods v. Regents of Univ. of Cal., Alameda Sup. Ct. at p. 16
+
+8 (Case No. 19022887) ("SBN v. Regents") (attached hereto as Exhibit C).
+54.
+9 The EIR defends the growth as minimal in relation to regional growth. Draft EIR at
+
+10 5.12-15. A regional comparison does not account for, mitigate, and analyze alternatives to the
+
+11 specific growth-inducing effects of the Project in the particular area in which it is located, including
+
+12 relating to housing. See SBN v. Regents at 14 (Exhibit C).
+
+13 55. In addition to requiring construction of new housing, increased demand for housing in
+
+14 the neighborhoods surrounding campus will also cause displacement of longtime low- and middle-
+
+15 income families because the more than 7,000 new employees and students will flood the surrounding
+
+16 rental market, driving up prices and forcing current renters out.
+
+17 56. The EIR assumes full buildout of the 2021 LRDP Update's development by 2036,
+
+18 a along with a significantly increased campus population, but the EIR and 2021 LRDP Update do not
+19 link the amount of campus population growth with the development of new campus housing, and no
+20 mitigation measure requires the same. As a result, the full campus-population increase could occur
+21 without construction of any additional housing. If this does occur, the impacts on housing in
+22 Berkeley, Oakland, and other nearby cities would be even greater. The EIR fails to analyze the 23 environmental impact of additional housing that will be needed in the City of Berkeley and
+24 elsewhere to make up for such a shortcoming.
+25 57.
+26 No EIR has been prepared that analyzes UC Berkeley's past campus population
+
+27 increase above what was analyzed in the LRDP adopted in 2005. The University improperly
+
+28 attempts to boot-strap these past population increases into the Final EIR, while also claiming that the
+EIR does not need to analyze the impacts of anticipated future campus population growth. Both are
+
+15 VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 inconsistent with recent Court rulings in Save Berkeley Neighborhoods v. The Regents et al (Case
+
+2 No. RG19022887) and The City of Berkeley v. The Regents et al. (Case No. RG19023058) (the
+
+3 "Enrollment Cases Decision"), which made it clear that UCB must it treat its planned population
+
+4 growth as a "project" for CEQA purposes.
+
+5 Impacts to Human Health from Toxic Air Contaminants in Indoor Air.
+
+58. The EIR fails to adequately disclose, evaluate, and mitigate the Project's significant
+adverse impact with to respect to impacts on human health as a result of formaldehyde emissions in
+8 indoor air, and its conclusions are not supported by substantial evidence.
+9
+59. The EIR fails to disclose, evaluate, and mitigate the Project's significant health risks to
+
+10
+
+11 future residents and workers at future buildings that are planned as part of the 2021 LRDP Update,
+
+12 including Housing Projects #1 and #2, resulting from the emissions of formaldehyde into the indoor
+
+13 air. Formaldehyde is a toxic air contaminant (*TAC*). TACs are pollutants with the potential to
+
+14 cause significant adverse health effects. Many composite wood products typically used in building
+
+15 construction contain formaldehyde-based glues which off-gas formaldehyde over a very long time
+
+16 period. The primary source of formaldehyde indoors is composite wood products manufactured with
+17 urea-formaldehyde resins, such as plywood, medium density fiberboard, and particle board. These
+
+18 materials are commonly used in building construction for flooring, cabinetry, baseboards, window
+
+19 shades, interior doors, and window and door trims. The Bay Area Air Quality Management District
+
+20 ("BAAQMD") has established a significance threshold of health risks for carcinogenic TACs of 10 in
+
+21 a million.
+
+22 60. Certified Industrial Hygienist, Francis "Bud" Offermann, PE, CIH, conducted a review
+
+23 of the Project, the EIR, and relevant documents regarding the Project's indoor air emissions. Mr.
+
+24 Offermann concluded that future residents of the Project will be exposed to a cancer risk from
+25 formaldehyde of approximately 120 per million, assuming all materials are compliant with the
+26 California Air Resources Board's formaldehyde airborne toxics control measure. This is more than 12
+27 times the BAAQMD's CEQA significance thresholds for airborne cancer risk of 10 per million.
+
+28
+
+16
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 61. The Final EIR also fails to adequately respond to comments on the Draft EIR raising
+2 this issue. For instance, in response to comments, the EIR dismisses Mr. Offerman's comments as
+3 speculative, but never provides additional detail on the types of building materials that would be used,|
+4 or investigates and discloses what the Project's formaldehyde emissions would actually be, and what
+5 health impact that would have. The Final EIR also claims there is no need to analyze this impact
+because the Project will follow Campus Design Standards, which build off of other applicable
+regulations such requiring the use of materials meeting the CARB Phase 2 standard. Final EIR at 5- 8
+
+9 443-44. This does not adequately respond to Mr. Offermann's comment because Mr. Offermann's
+
+10 analysis is clear that the increased cancer risk of 120 per million is based on materials that already
+meet CARB Phase 2 standards.
+11
+Alternatives 12
+
+13 62. Project Alternative D proposes "Increased Faculty and Staff Housing." Draft EIR at 6-
+
+14 59. "Under Alternative D, the Increased Faculty and Staff Housing Alternative, the proposed LRDP
+
+15 Update would include an additional 1,000 beds for faculty and staff within the Hill Campus East and
+
+16 the Clark Kerr Campus." Id. The only other detail provided about this alternative is as follows: "The
+
+17 Hill Campus East would absorb an additional 600 beds and 400 additional beds would be included
+
+18 under redevelopment within the Clark Kerr Campus. While no specific sites have been selected for
+19 development on the Hill Campus East for this alternative, it is assumed that any new development
+20 would be located in close proximity to existing development and infrastructure.» Id. Without
+21 explanation the EIR arbitrarily sited additional staff and faculty housing at an undisclosed location
+22 within the area of campus with the most undeveloped natural habitat, the most risk of fire, and the
+23 most difficult soil issues. Hill Campus East includes 760-acres of land, much of which is undeveloped 24 and hilly, and which is considered a Very High Fire Severity Zone. Noting only that an additional 600 25 beds would be located somewhere in the 760-acre Hill Campus East, the EIR's description of 26
+
+27 Alternative D is not sufficient to allow the public and decision makers to meaningfully evaluate,
+analyze, and compare Alternative D with the Project. 28
+
+17 VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 63. The EIR's conclusion that the impacts of Alternative D would be greater than the
+
+2 Project's impacts on aesthetics, biological resources, geology and soils, utilities and service systems,
+
+3 and wildfire are not supported by substantial evidence because the analysis is based on unstated and
+
+4 unsupported assumptions about where the additional staff and faculty housing will be located in Hill
+
+5 Campus East.
+6 64. The EIR failed to evaluate a reasonable range of alternatives that would feasibly attain
+7 most of the basic objectives of the Project but would avoid or substantially lessen any of the
+8 significant effects of the Project. A reasonable range of alternatives should have included an analysis
+9 of additional student, staff, and faculty housing that did not include development in open space found
+
+10
+
+11 in Hill Campus East, which is the is most undeveloped, hilly, and fire-prone area of the entire campus.
+
+12 Among other options, UC should have looked at locating the additional housing on the dozens of
+
+13 for redevelopment, increased the density of Anchor House by parcels already deemed appropriate
+
+14 building additional floors, or providing housing on UC Berkley-owned City Environs properties or on
+
+15 other UC Berkeley-owned sites outside of the EIR study area. The EIR also improperly failed to
+16 evaluate an alternative that limited campus population to a lower level. Compared to the Project and
+
+17 Alternative D, any of these alternatives would have reduced environmental impacts and should have
+
+18 been considered. Siting additional staff and faculty housing in Hill Campus East acted as a poison
+
+19 pill, meant to defeat the environmental superiority of this alternative.
+
+20 65. In addition, the alternatives analysis did not contain reasonable range of alternatives
+
+21 that would reduce the impacts of the Project, including Housing Projects #1 and #2, on historical
+
+22 are 39 sites identified as candidate sites for new buildout within resources. The EIR notes that there
+
+23 the LRDP area that are not designate as historical resources. Final EIR at 6-63. The EIR provides no
+
+24 evidence that housing and other development could not be sited on these parcels, eliminating or
+25 substantially reducing the Project's irreversible destruction of historic resources currently at the sites
+
+26 of Housing Project #1 and 2. Moreover, the EIR did not analyze alternative locations, including off-
+27 campus locations such as UC Berkeley City Environs properties, Richmond Bay Campus/Richmond
+28 Field Station, the Mills College Campus, Albany Village, satellite UC Berkeley campuses, or other
+
+18 VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+off-campus sites, that would reduce or eliminate the impacts of Housing Project #1 and 2 on historic
+2 resources.
+
+3 66. Petitioner and other members of the public raised these issues in written and oral
+4 comments on the Draft EIR, but the Final EIR did not adequately respond to such comments and 5 dismissed proposed alternatives as infeasible without supporting evidence or legal justification. 6 Noise and Vibration
+7
+67. The EIR's discussion of noise impacts is deficient. No acoustical report was prepared 8 by an expert in support of the EIR's analysis of potential noise impacts. To fill this informational gap,
+
+10 Petitioner submitted comments of noise expert Deborah A. Jue, INCE-USA, of the firm Wilson Ihrig,
+
+11 who reviewed the EIR and found that it lacked substantial evidence to support baseline noise levels.
+
+12 Ms. Jue also suggested additional feasible mitigation measures to further reduce the Project's
+
+13 significant and unabideable impacts. The Final EIR did not adopt these mitigation measures, despite
+
+14 no evidence of infeasibility.
+
+15 68. The EIR's discussion of construction-related vibration impacts is also deficient. The
+
+16 EIR is not supported by geotechnical report, and no information is provided about the subsurface
+
+17 conditions of the sits of Housing Projects #1 and #2.
+
+18 69. In addition, numerous parties and experts commented on the Project's impact on
+19 historic resources near the Project as a result of pile driving during construction. The Final EIR
+20 responds by noting an intention to use alternative construction methods that do not include
+21 piledriving for Housing Projects #1 and #2, and for future LRDP projects "if feasible." This
+22 constitutes improperly deferred and uncertain mitigation in violation of CEQA. Moreover, the Final
+23 EIR does not disclose or analyze the vibratory impact of alternative construction methods on nearby 24 historic structures.
+25 //
+26 /l
+27
+//
+28
+
+19 VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+FIRST CAUSE OF ACTION
+
+2 Violation of CEQA- Inadequate EIR
+
+3 (Pub. Resources Code §21000, et seq. and CEQA Guidelines § 15000 et seq.)
+
+4 70. Petitioners hereby reallege and incorporate all of the above paragraphs as if fully set
+
+5 forth herein.
+
+71. CEQA was enacted by the legislature to ensure that the long-term protection of the
+environment is guiding criterion in public decisions. Pub. Res. Code, § 21001(d). CEQA requires
+
+8 the lead agency for a project with the potential to cause significant environmental impacts to prepare
+
+9 an EIR for the project that complies with the requirements of the statute, including, but not limited
+
+10 to, the requirement to disclose and analyze the project's potentially significant environmental 11  impacts. Pub. Res. Code, §§21002.1(a), 21100(a), 21151(a); 14 CCR §§15064(a)(1), (f)(1), 15367.
+
+12 The EIR must provide sufficient environmental analysis such that the decisionmakers can
+13 intelligently and fully consider environmental consequences when acting on the proposed project.
+
+14 Such analysis must include and rely upon thresholds of significance that are based on substantial
+
+15 evidence in the record.
+
+16 72. CEQA also mandates that the lead agency analyze and adopt feasible and enforceable
+
+17 mitigation measures that would reduce or avoid each of a project's significant environmental impacts.
+
+18 PRC § 21061; see also §21002.1. If any of the project's significant impacts cannot be mitigated to a
+19 less than significant level, then CEQA bars the lead agency from approving : project if a feasible is 20 alternative is available that would meet the project's objectives while avoiding or reducing its
+21 significant environmental impacts.
+
+22 73. Each of the lead agency's findings and conclusions, including those in the EIR, must
+
+23 be supported by substantial evidence in the administrative record, and the agency must explain how
+24 the evidence in the record supports the conclusions the agency has reached. Topanga Assn. for a
+
+25 Scenic Community v. County of Los Angeles (1974) 11 Cal.3d 506, 515.
+26 74. Respondent committed prejudicial abuse of discretion and failed to proceed in a
+
+27 manner required by law because the Project relies on an EIR that fails to meet the CEQA's
+
+28 requirements for the disclosure, analysis, mitigation, reduction, and/or avoidance of significant
+
+20 VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 environmental impacts from the Project, including direct, indirect, and cumulative impacts relating to
+2 wildfire, public safety, public services, historic, cultural, and tribal resources, transportation,
+3 greenhouse gas emissions, biological resources, housing and population, human health, and noise and
+4 vibrations. These deficiencies rendered the EIR inadequate as an environmental document and
+5 precluded informed decision making and informed public participation.
+6
+75. Wildfire, Public Safety, and Evacuation. The EIR fails to adequately disclose, 7 analyze, and/or mitigate the Project's significant direct, indirect, and cumulative wildfire-related 8 impacts. The EIR's analysis of wildfire-related impacts is inadequate because, inter alia, the EIR: 9
+a. fails to analyze and mitigate all the increased potential for wildfire ignitions resulting 10 from siting additional housing and development in Wildland Urban Interface Zones 11 and Very High Fire Hazard Severity Zones; 12
+
+13 b. fails to analyze and mitigate whether the Project will expose people or structures to a
+significant risk of loss, injury or death involving wildland fires; 14
+C. fails to provide sufficient information to determine how the Project's traffic and 15 population increases will impact evacuation times and procedures and whether it will 16 interfere with existing emergency and evacuation plans; 17
+d. fails to support its findings that the Project will not physically interfere with an 18 adopted emergency response plan or emergency evacuation plan with substantial 19
+evidence;
+20
+e. fails to adopt all feasible mitigation measures to reduce the Project's significant and 21 unavoidable wildfire and safety impacts; and 22 f. adopts mitigation measures that do not comply with CEQA. 23 76. Transportation. The EIR fails to adequately disclose, analyze, and/or mitigate the 24
+
+25 Project's significant direct, indirect, and cumulative impacts on public transportation.
+77.
+26 Public Services. The EIR fails to adequately disclose, analyze, and/or mitigate the
+
+27 Project's significant direct, indirect, and cumulative impacts on the environment from the need for
+
+28 new or expanded public services. The EIR's analysis of public services impacts is inadequate
+because, inter alia, the EIR:
+
+21 VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 a. fails to disclose, analyze, and mitigate impacts stemming from additional facilities and
+
+2 equipment needed by fire and police a services as a result of the Project;
+
+3 b. fails to anlayze the impacts of the project as a whole, including in direct impacts; and
+
+4 C. fails to adequately respond to comments raising concerns about the impacts on the
+environment caused by the need for new or expanded facilities to provide public
+
+6 services.
+
+7
+78. Cultural and Tribal Resources. The EIR fails to adequately disclose, analyze, and/or
+8 mitigate the Project's significant direct, indirect, and cumulative impacts on cultural and tribal
+
+9 resources. The EIR's analysis of cultural and tribal resources impacts is inadequate because, inter
+10
+
+11 alia, the EIR:
+
+12 a. fails to require all feasible mitigation measures and alternatives;
+
+b.
+13 fails to adequately respond to comments;
+
+14 c. adopts deferred mitigation that violates CEQA;
+
+a.
+15 fails to support its finding that the Project's impacts on tribal cultural resources will be
+
+16 less-than-significant with mitigation.
+
+17 79. Greenhouse Gases. The EIR fails to adequately disclose, analyze, and/or mitigate the
+
+18 indirect, and cumulative greenhouse gas effects. The EIR's analysis of greenhouse Project's direct,
+
+19 gas impacts is inadequate because, inter alia, the EIR:
+
+20 a. fails to support its selection of thresholds of significance with substantial evidence in
+
+21 the record;
+
+22 b. relies on greenhouse gas mitigation measures that are vague, ineffective, deferred,
+
+23 and/or unenforceable;
+
+24 C. fails to incorporate all feasible mitigation and avoidance measures;
+
+25 d. impermissibly relies on off-site offsets to mitigate Project's greenhouse gas emissions
+
+26 because the EIR fails to provide substantial evidence that such offsets are available,
+
+27 real, permanent, quantifiable, verifiable, and enforceable reductions; and
+28
+
+22 VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+I e. fails to discuss how the Project would affect the ability to meet the Regents'
+2 requirements for the UC Berkeley Campus.
+80. Biological Resources. The EIR fails to adequately disclose, analyze, and/or mitigate
+4 the Project's significant direct and cumulative impacts to biological resources. The EIR's analysis
+of impacts on biological resources is inadequate because, inter alia, the EIR: 6 a. fails to establish a proper baseline for wildlife;
+b. fails to adequately analyze impacts due to habitat loss; 8
+C. analyzes the Project's impact on wildlife movement using an improper standard; 9
+d.
+10 failing to disclose, analyze, and mitigate the Project's impacts to wildlife due to
+
+11 window/vehicle collisions and energy use;
+
+12 e. inadequately analyzes the Project's cumulative impacts; and
+
+13 f. fails to incorporate all feasible mitigation measures.
+
+14 81. Population, Housing, and Growth Inducement. The EIR fails to adequately
+
+15 disclose, analyze, and/or mitigate the Project's significant direct and cumulative impacts on
+16 population, housing, and grown inducement. The EIR's analysis of impacts on impacts on
+17 population, housing, and grown inducement is inadequate because, inter alia, the EIR:
+18 a. fails to consider the direct and indirect impacts of the Projects' increased campus
+19 population on housing, population, and displacement;
+20 b. fails to adequately discuss the need for construction of additional housing;
+21 C. fails to adequately anlayze the Project's cumulative impact on housing and population
+22 growth;
+23 d. fails to anlayze the impacts of an increased student and staff population without 24 additional housing beyond Housing Projects #1 and 2; and 25 e. fails to analyze impacts of past and projected campus population growth. 26
+82. Health Hazards from TAC Emissions. The EIR fails to adequately disclose, analyze, 27
+and/or mitigate the Project's significant direct and cumulative impacts on human health from the 28
+
+23 VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+emissions of TACs in indoor air. The EIR's analysis of impacts on human health from TAC
+
+2 emissions is inadequate because, inter alia, the EIR:
+
+3 a. fails to disclose and mitigate the impact despite substantial evidence that it will be
+
+4 significant;
+
+5 b. fails to adopt feasible mitigation measure to reduce the significant impact; and
+
+6 C. fails to adequately respond to comments on the Draft EIR providing substantial
+evidence of a significant impact not analyzed and mitigated by the EIR.
+
+83. Baseline. The EIR fails to adequately describe the existing physical environmental
+9 conditions in the vicinity of the Project, including but not limited to environmental conditions relating
+10 to the Project's impacts to biological resources, wildfire, noise, vibrations, historic resources, and
+11
+population.
+12
+84.
+13 Alternatives. The EIR fails to provide an adequate selection and discussion of
+
+14 alternatives for consideration that foster informed decision-making and informed public
+
+15 participation. The alternatives analysis in the EIR does not meet CEQA's requirement that an EIR
+consider a reasonable range of alternatives that lessen the Project's significant environmental
+16 impacts, does not focus on alternatives that either eliminate adverse impacts or reduce them to
+
+17 failed to consider
+
+18 insignificance even if they would to some degree impede the Project's objectives,
+
+19 a feasible alternative that would lessen significant impacts, unlawfully rejects alternatives without
+
+20 adequately analyzing whether their impacts would be less significant that the Project's, and fails to
+support
+21 with substantial evidence its conclusions regarding alternatives.
+
+85.
+22 Response to Comments. The responses to comments in the Final EIR fail to meet
+
+23 CEQA's requirements in that they neither adequately dispose of all the issues raised, nor provide
+
+24 specific rationale for rejecting suggested Project changes, including the consideration or adoption of
+
+25 feasible mitigation measures or alternatives. CEQA requires that a lead agency evaluate and respond
+
+26 to all environmental comments on the Draft EIR that it receives during the public review period. The
+
+responses
+27 must describe the disposition of the issues raised and must specifically explain reasons for
+
+28 rejecting suggestions and for proceeding without incorporating the suggestions. The Final EIR's
+
+responses to comments fail to satisfy the requirements of law. Failing to adequately respond to
+
+24
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 comments rendered the Final EIR inadequate as an informational document.
+2 86. Based upon each of the foregoing reasons, the EIR is legally defective under CEQA.
+3 Respondents prejudicially abused their discretion in violation of CEQA in approving the Project. As
+4 such, the Court should issue a writ of mandate directing Respondents to set aside the certification of
+5 the EIR and approval of the Project.
+6 SECOND CAUSE OF ACTION
+7 Violation of CEQA - Inadequate Findings and Statement of Overriding Considerations
+
+8 (Pub. Res. Code § 21000, et seq. and CEQA Guidelines $ 15000 § et seq.)
+87.
+9 Petitioner hereby reallege and incorporates all of the above paragraphs as if fully set
+forth herein.
+10
+88.
+11 Respondents' Findings of Fact and Statement of Overriding Considerations violate the
+
+12 requirements of CEQA and the CEQA Guidelines. Respondents' findings fail to identify the changes
+
+13 or alterations that are required to avoid or substantially lessen the project's significant environmental
+
+14 effects, and do not provide adequate reasoning or disclose the analytic route from facts to
+
+15 conclusions, as required by law. The purported benefits of the Project cited in the Statement of
+
+16 Overriding Considerations do not outweigh the Project's substantial costs to public health and the
+
+17 environment. Respondents' Findings and Statement of Overriding Considerations are not supported
+
+18 by substantial evidence in the record.
+
+19 89. When an EIR concludes that a project would result in significant environmental
+
+20 effects, but where mitigation measures and alternatives identified in the EIR are deemed infeasible,
+
+21 the CEQA findings must identify the specific economic, legal, social and technological and other
+22 considerations that make infeasible the adoption of mitigation measures or alternatives. All CEQA
+23 findings must be supported by substantial evidence in the record and must disclose the analytical
+24 route by which approval of a project is justified. Here, the findings regarding the impacts, mitigation
+25 measures, and alternatives relied upon by Respondent's approval of the Project are not supported by
+26 substantial evidence in the record, and do not disclose the links between evidence and conclusions.
+27 90.
+28 As a result of the foregoing defects, Respondent failed to proceed in a manner required
+by law, and its decision to approve the Project and adopt Findings of Fact and a Statement of
+
+25 VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1 Overriding Considerations was not supported by substantial evidence.
+
+2 PRAYER FOR RELIEF
+
+3 WHEREFORE, Petitioner respectfully requests the following relief and entry of judgment as
+
+follows:
+
+l. For a stay of Respondent's decisions approving the Project pending trial;
+6 2. For a peremptory writ of mandate directing:
+7
+a. Respondent to vacate and set aside its certification of the Final EIR for the
+8 Project and decisions approving the Project;
+2522 b. Respondent and Real Party in Interest to suspend all activity under the
+certification of the EIR and approval of the Project that could result in any
+change or alteration to the physical environment until Respondent has taken
+all actions necessary to bring the certification and Project approvals into
+14 compliance with CEQA; and
+
+C. 15 Respondent to prepare, circulate, and consider an EIR in compliance with
+
+16 CEQA prior to any subsequent action to approve the Project.
+
+17 3. For a declaration that Respondents' actions certifying the EIR and approving the
+18 Project violated CEQA and the CEQA Guidelines, and declaring that the certification of the EIR and
+
+19 approval of the Project is invalid.
+
+20 4. For the costs of suit.
+
+21 5. For an award of attorneys' fees pursuant to Code of Civil Procedure §1021.5 and any
+
+22 other applicable provisions of law.
+
+23 6. For any other legal and equitable relief as this Court deems just and proper.
+24
+
+25| Dated: August 20, 2021 LOZEAU|DRURY LLP
+
+26 J 27 Rebécca L. Davis
+28 Attorneys for Petitioner
+
+26 VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+EXHIBIT A
+
+LOZEAU DRURYLLP T 510.836.4200 1939 Harrison Street, Ste. 150 www.lozeaudrury.com
+F 510.836.4205 Oakland, CA 94612 rebecca@lozeaudrury.com
+
+August 18, 2021
+
+By U.S. Mail & E-mail
+Office of the Secretary and Chief of Staff to the Regents 1111 Franklin St., 12th floor
+Oakland, CA 94607
+Email: regentsoffice@ucop.edu
+
+Re: Notice of Intent to File Suit Under the California Environmental Quality Act Regarding the Final EIR for UC Berkeley 2021 LRDP Update and Housing Projects #1 and #2 (SCH No. 2020040078)
+To the Regents of the University of California:
+Please take notice that, pursuant to Public Resources Code § 21167.5, the American Federation of State, County, and Municipal Employees, Local 3299 ("Petitioners") intend to file a Verified Petition for Peremptory Writ of Mandate and Complaint for Declaratory and Injunctive Relief ("Petition") under the provisions of the California Environmental Quality Act ("CEQA"), Public Resources Code §§ 21000, et seq., against Respondent the Regents of the University of California challenging its July 22, 2021 decisions including its: (1) certification of the Final EIR
+
+for the UC Berkeley Long Range Development Plan and Housing Projects #1 and #2, (2) adoption of the UC Berkeley 2021 Long Range Development Plan, (3) approval of Housing Project #1 also known as Anchor House, and (4) adopting related findings (collectively, the "Project").
+Among other issues, Petitioner will allege that Respondent failed to proceed in the manner required by law and without substantial evidence by certifying an EIR that fails to properly disclose, analyze, and mitigate the Project's potential significant individual and cumulative
+impacts, and failing to adequately analyze and consider Project alternatives. The petition being filed will seek the following relief:
+1. 2. For a stay pending trial of Respondent's decisions approving the Project. For a peremptory writ of mandate ordering:
+a. Respondent to vacate and set aside its certification of the EIR for the Project
+and decisions approving the Project;
+b. Respondent and Real Party in Interest to suspend all activity under the certification of the EIR and approval of the Project that could result in any change or alternation to the physical environment until Respondent has taken all actions necessary to bring the certification and Project approvals into compliance with CEQA; and
+C. Respondent to prepare, circulate, and consider an EIR in compliance with CEQA prior to any subsequent action to approve the Project.
+3. For the costs of suit.
+
+Re: Notice of Intent to File Suit
+Under the California Environmental Quality Act August 18, 2021
+Page 2 of 3
+
+4. For an award of attorney fees pursuant to Code of Civil Procedure § 1021.5 and any other applicable provisions of law or equity. 5. For any other equitable or legal relief that the Court considers just and proper.
+
+Petitioner urges Respondent to rescind the Notices of Determination and the approvals for the Project, to conduct the appropriate environmental review, and to prepare a revised EIR addressing the concerns raised by Petitioner in written comments, as required by law.
+
+Sincerely,
+
+Rebecca L. Davis
+Lozeau Drury LLP
+
+Re: Notice of Intent to File Suit Under the California Environmental Quality Act
+August 18, 2021 Page 3 of 3
+PROOF OF SERVICE
+
+I, Toyer Grear, declare as follows:
+am a resident of the State of California, and employed in Oakland, California. I am over
+the age of 18 years and am not a party to the above-entitled action. My business address is 1939 Harrison St., Suite 150, Oakland, CA 94612.
+On August 18, 2021, I served a copy of the foregoing document entitled:
+
+Notice of Intent to File Suit Under the California Environmental Quality Act Regarding the EIR for UC Berkeley 2021 LRDP Update and Housing Projects #1 and #2 (SCH No. 2020040078)
+
+on the following party:
+Office of the Secretary and Chief of Staff to the Regents 1111 Franklin St.,12th floor
+Oakland, CA 94607
+Email: regentsoffice@ucop.edu
+
+BY MAIL: By placing the document listed above in a sealed envelope with postage thereon fully prepaid for First Class mail, in the United States mail at
+Oakland, California addressed as set forth above. BY EMAIL: By sending the documents as an electronic mail attachment in PDF format to the e-mail address above.
+declare under penalty of perjury under the laws of the State of California that the foregoing is true and correct, and that this declaration was executed August 18, 2021 at Pittsnurg, California.
+
+Toyer
+
+EXHIBIT B
+
+MICHAEL R. LOZEAU (Cal. Bar No. 142893) REBECCA L. DAVIS (Cal, Bar No. 271662) 2 BRIAN B. FLYNN (Cal. Bar No. 314005
+3 LOZEAU | DRURY LLP
+1939 Harrison St., Suite 150
+4 Oakland, CA 94612
+
+5 Tel: (510) 836-4200
+Fax: (510) 836-4205
+
+6 E-mail:rebecca@lozeaudrury.com
+michael@lozeaudrury.com
+brian@lozeaudrury.com
+
+Co Attorneys for Petitioner and Plaintiff
+
+9
+
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+11 COUNTY OF ALAMEDA
+
+12 AMERICAN FEDERATION OF STATE,
+COUNTY, AND MUNICIPAL Case No.
+
+13 EMPLOYEES LOCAL 3299, PETITIONER'S NOTICE OF INTENT TO
+
+14 Petitioner and Plaintiff, PREPARE ADMINISTRATIVE RECORD
+
+15 VS. [California Environmental Quality Act
+
+16 ("CEQA"), Pub. Res. Code §21000, et seq.; C.C.P. §91094.5, 1085]
+
+17 THE REGENTS OF THE UNIVERSITY OF
+CALIFORNIA,
+
+18 Respondent and Defendant;
+
+19
+
+20 UNIVERSITY OF CALIFORNIA,
+
+21 BERKELEY, and DOES I-10,
+
+22 Real Parties in Interest and Defendants.
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+PETITIONER'S NOTICE OF INTENT TO PREPARE ADMINISTRATIVE RECORD
+
+1 Pursuant to Public Resources Code $21167.6(b)(2), Petitioner American Federation of
+2 State, County, and Municipal Employees, Local 3299 (*Petitioner") hereby notifies all parties
+3 that Petitioner elects to prepare the administrative record relating to the above-captioned action 4
+of California's July 22, 2021 decisions to challenging Respondent The Regents of the University
+approve the UC Berkeley 2021 Long Range Development Plan ("LRDP") and Housing Project
+
+7 #1 (Anchor House), including certifying the EIR for the LRDP and Housing Projects #1 and #2
+8 (People's Park), and adopting related findings. Respondent and Real Parties in Interest are
+9 directed not to prepare the administrative record for this action and not to expend any resources to
+10 prepare the administrative record.
+11
+
+12 Dated: August 20, 2021 LOZEAU | DRURY LLP 13
+
+14
+
+15 L Rebeeca L. Davis
+16 Attórneys for American Federation of State, County, and Municipal Employees, Local 3299
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+2
+PETITIONER'S NOTICE OF INTENT TO PREPARE ADMINISTRATIVE RECORD
+
+EXHIBIT C
+
+ENDORSED FILED ALAMEDA COUNTY
+JUL 0.9 2021
+CLERK OF THE SUPERIOR COURT
+By JHALISA CASTANEDA Depuly
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+7 IN AND FOR THE COUNTY OF ALAMEDA
+
+8
+SAVE BERKELEY'S NEIGHBORHOODS, a Case No. RG19022887
+9 California nonprofit public benefit corporation, Case No. RG19023058
+
+10 Petitioner, ORDER GRANTING PETITIONS FOR
+
+11 V. WRIT OF MANDATE
+
+12 THE REGENTS OF THE UNIVERSITY OF
+
+13 CALIFORNIA; JANET NAPOLITANO, in
+her official capacity as President of the
+
+14 University of California; UNIVERSITY OF
+CALIFORNIA BERKELEY; CAROL T.
+15 CHRIST, in her official capacity as Chancellor of the University of California, Berkeley; and
+16 DOES 1 THROUGH 20,
+
+17 Respondents.
+
+18 CITY OF BERKELEY,
+
+19 Petitioner,
+
+20 V.
+
+21 THE REGENTS OF THE UNIVERSITY OF
+
+22 CALIFORNIA; JANET NAPOLITANO, in
+her official capacity as President of the
+
+23 University of California; UNIVERSITY OF CALIFORNIA, BERKELEY; CAROL T.
+24 CHRIST, in her official capacity as Chancellor
+of the University of California, Berkeley; and
+25 1 DOES 1 through 20,
+Respondents.
+26
+
+Petitioners City of Berkeley and Save Berkeley's Neighborhoods commenced two actions
+seeking a writ of mandate from the Court directing respondent The Regents of the University of
+California ("UC") to set aside a determination of May 16, 2019. (AR1.) UC approved a new
+
+4 development project to create additional academic and residential space for UC Berkeley's
+
+5 Goldman School of Public Policy ("GSPP") on Hearst Avenue (the "Upper Hearst
+
+6 Development"). (AR1.) To document its considerations of the environmental impact of its
+
+7 project under the California Environmental Quality Act ("CEQA"), UC certified a Supplemental
+8 Environmental Impact Report, which tiered from its 2020 Long Range Development Plan
+9| Environmental Impact Report (*2020 LRDP EIR") and made minor amendments to it. (AR1.)
+
+10 For the following reasons, the court grants the writs of mandate. The parties vigorously
+
+11 debate whether the project description was consistent or appropriately defined. UC Berkeley's
+
+12 concession that both the project and its "baseline" are subject to judicial review makes much of
+concludes that the environmental analysis was legally 13 this debate besides the point. The court
+14 insufficient in several respects, and that it cannot accordingly endorse the failure to consider a
+15 reduced enrollment alternative.
+
+16 LEGAL STANDARDS
+
+17 The Legislature intended CEQA "to be interpreted in such a manner as to afford the
+18 fullest possible protection to the environment within the reasonable scope of the statutory
+
+19 language." (Sierra Club v. County of Fresno (2018) 6 Cal.5th 502, 511, quoting Laurel Heights
+
+20 Improvement Assn. v. The Regents of the Univ. of Cal. (1988) 47 Cal.3d 376, 390.) *With
+
+21 narrow exceptions, CEQA requires an EIR whenever a public agency proposes to approve or to
+
+22 carry out a project that may have a significant effect on the environment.* (Ibid., citing same at
+
+23 pp.390-391.) Because the EIR must be certified or rejected by public officials, it is a document
+
+24 of accountability." (Id. at p.512, citing same at p.392.) The general public, "being duly
+25 informed, can respond accordingly to action with which it disagrees." (Ibid., citing same.)
+
+26 When the Court finds a violation of CEQA, a writ must issue. (Pub. Res. Code § 21168.9(b).)
+
+2
+
+1 When the Court is asked to review the decision of a public agency for compliance with
+
+2 CEQA, its review "extend{s] only to whether there was a prejudicial abuse of discretion." (Pub.
+Res. Code § 21168.5.) A public agency has abused its discretion if either (1) the agency "has not
+proceeded in a manner required by law" or (2) the agency's decision is "not supported by
+
+5 substantial evidence." (Ibid.) "Judicial review of these two types of error differs significantly:
+
+6 While we determine de novo whether the agency has employed the correct procedures,
+7 "scrupulously enforc[ing] all legislatively mandated CEQA requirements" [citation), we accord
+
+8 greater deference to the agency's substantive factual conclusions.» (Sierra Club, supra,
+
+9 6 Cal.5th at p.512, quoting Vineyard Area Citizens for Responsible Growth, Inc. v. City of
+10 Rancho Cordova (2007) 40 Cal.4th 412, 435.) Reviewing factual findings, the Court "will
+
+11 resolve reasonable doubts in favor of the administrative decision[] and will not set aside an
+
+12 agency's determination on the ground that the opposite conclusion would have been equally or
+
+13 more reasonable.™ (Id. at p.515.)
+
+14 II. INCREASES IN STUDENT ENROLLMENT AND CAMPUS POPULATION
+
+15 A. ENROLLMENT - "UPDATED BASELINE"
+
+16 In the SEIR, UC Berkeley undertook to study the environmental impacts of the existing
+17 || higher-than-projected campus population as part of the description of an "updated baseline."
+18 The SEIR states that its study of past population increase is not as part of the "project" as that
+
+19 term is used in CEQA. (See AR60, 101-103; AR847; see Guidelines § 15378 [defining "Project"
+
+20 as "the whole of an action, which has a potential for resulting in either a direct physical change
+
+21 in the environment, or I reasonably foreseeable indirect physical change in the environment" and
+22 subject to direction, funding, or discretionary permission by a public agency].) According to the
+
+23 SEIR, UC Berkeley studied the impacts of the increase in its population leading to its "updated
+24 baseline"-even though that increase was not part of the project--because "in its response to
+
+25 comments to the 2020 LRDP EIR, UC Berkeley made a commitment to the City of Berkeley
+
+26
+
+3
+
+1 that, if enrollment increased beyond the projections set forth in the 2020 LRDP, it would
+
+2 undertake additional review under CEQA." (AR60.)
+
+3 It is important to distinguish the SEIR's "updated baseline" analysis from the normal use
+
+4 of the term "baseline" under CEQA. Ordinarily, an environmental impact report studies the
+impacts of a project on the environment. To determine and measure those impacts, the lead
+
+6 agency must determine the environmental conditions as they exist at the time it files its notice of
+7 preparation for the project. (Cal. Code Regs., tit. 14, div. 6, ch.3, ["Guidelines"] § 15125(a).)
+8 Under Guidelines section 15125, "[a]n EIR must include a description of the physical
+
+9 environmental conditions in the vicinity of the project." (Guidelines § 15125(a).) "This
+
+10 environmental setting will normally constitute the baseline physical conditions by which a lead
+
+11 agency determines whether an impact is significant." (Ibid.) "The purpose of this requirement is
+
+12 to give the public and decision makers the most accurate and understandable picture practically
+13 possible of the project's likely near-term and long-term impacts." (Ibid.)
+
+14 The "updated baseline" discussion in the SEIR serves to serve two purposes. First, the to
+
+15 SEIR describes the current campus population as the baseline for its environmental impact
+
+16 analyses of the Upper Hearst Development, including the impact of further population increases.
+
+17 Second, the SEIR includes an analysis for purely informational purposes to "update" the 2020
+
+18 LRDP EIR's projected population-related impacts analyses to analyze the impacts of the increase
+
+19 in campus population above the level studied in the 2020 LRDP EIR (the "Excess Population").
+
+20 The SEIR discusses the potential impacts of the Excess Population and finds that it has had no
+
+21 significant environmental impacts. (See AR101-103.) The SEIR does not consider alternatives
+
+22 to the to enrollment levels that led to Excess Population and does not adopt mitigation measures
+
+23 beyond those already adopted in the 2020 LRDP EIR.
+
+24 The unusual structure of the SEIR's "update" analysis stems at least partly from an issue
+
+25 of legal interpretation. When it was certified in 2005, the 2020 LRDP EIR had projected that
+26 student enrollment at UC Berkeley would stabilize at around 33,450 students. (AR2134
+
+4
+
+1 ["[O]nce our current target is reached, at an estimated two-semester average of 33,450 students,
+
+2 enrollment at UC Berkeley should stabilize."]; see also AR101.) But UC Berkeley's headcount
+did not stabilize. It continued to increase and quickly exceeded those projections, with student
+enrollment in the 2017-2018 school year reaching 40,955, "exceed[ing] the 2020 LRDP
+5 projection by approximately 7,500 students." (AR101.) The record in this action does not
+
+6 include any evidence that UC Berkeley studied the potential effects of the Excess Population
+
+7 before its decision to enroll the additional students who make up the bulk of the increase to its
+
+8 campus population since the 2020 LRDP EIR.
+
+9 Several community members and organizations, including SBN and the City of Berkeley,
+10 responded to UC Berkeley's Draft Supplemental Environmental Impact Report ("DSEIR") for
+
+11 the Upper Hearst Development by requesting that UC Berkeley separate its "updated baseline"
+12| analysis from the analysis of the Upper Hearst Development into a separate EIR. (AR847-848.)
+
+13 Many commenters found the DSEIR confusing and unusual because it combined a future land
+14 development project with a seemingly unrelated increase in student population that has already
+15 happened. UC Berkeley responded to these comments in its Final Supplemental Environmental
+16 Impact Report ("FSEIR"), arguing that an increase in enrollment or population categorically
+
+17 cannot constitute a "project" under CEQA. (AR847, citing Pub. Res. Code § 21080.09.) The
+
+18 FSEIR reasons, it is not possible to produce a meaningful EIR for the population increase
+
+19 because it would not be tethered to an "approval" of a "project." (AR847-848.) The FSEIR also
+20 notes that the GSPP project requires a minor amendment to the 2020 LRDP, and that the EIR
+
+21 analysis for that land-use plan would therefore need to be brought up to date. (Ibid.) The FSEIR
+22 concluded based on those premises that the Excess Population portion of its updated baseline
+23 analysis must be included in the SEIR for the Upper Hearst Development because it could go
+
+24 nowhere else.
+
+25 That conclusion stood on a false premise. UC Berkeley was under the misapprehension
+26 that increases in student enrollment only needed to be considered in the context of the long-range
+
+development plan process, and then only to the extent such projections would "assist in
+determining the amount of physical development required." (See AR847-878.) In 2018, before
+the DSEIR for the Upper Hearst Development was published, Petitioner Save Berkeley's
+Neighborhoods sued UC for failing to study the impacts of these increases in enrollment,
+
+5 alleging that the enrollment increases constituted an unstudied project in violation of CEQA.
+6 (See Save Berkeley's Neighborhoods v. The Regents of the Univ. of Cal. (2020) 51 Cal.App.5th
+
+7 226, 233.) In June 2020, after the DSEIR and FSEIR were published, the Court of Appeal held
+
+8 that UC Berkeley's interpretation of CEQA was incorrect. "CEQA requires public universities
+
+9 to mitigate the environmental impacts of their growth and development." (Id. at p.231.) "In this
+
+10 context, growth includes student enrollment increases, which the Legislature has acknowledged
+
+11 'may negatively affect the surrounding environment." (lbid.) "[WJhen a public university
+
+12 prepares an EIR for a development plan, [Public Resources Code] section 21080.09 requires
+
+13 universities to expand the analysis to include a related feature of campus growth, future
+
+14 enrollment projections, which is entirely consistent with the traditional, broad definition of a
+
+15 CEQA project." (Id. at p.239.) "It does not say that subsequent changes to enrollment plans-
+
+16 with new or increased environmental effects that have not been analyzed and addressed-are
+
+17 exempt from CEQA." (Ibid.)
+
+18 B. ENROLLMENT - HOW TO REVIEW THE "UPDATED BASELINE"
+
+19 The "updated baseline" is a novel concept under CEQA, and it was included because UC
+
+20 Berkeley misunderstood its legal obligations to study the impacts of student enrollment. Yet the
+
+21 inclusion of an erroneous legal analysis in the SEIR does not necessarily require the EIR
+22 certification be set aside. An EIR serves to structure the public consideration of environmental
+
+23 impacts. Courts review an EIR for prejudicial abuse of agency discretion. (Sierra Club, supra, 6
+
+24 Cal.5th at pp.511-512.) But a false legal analysis, like noncompliance with CEQA, is grounds to
+25 grant a writ setting aside the agency approval only if the noncompliance resulted in "a
+
+26 subversion of the purposes of CEQA by omitting information from the environmental review
+
+6
+
+l process." (See Schenck v. County of Sonoma (2011) 198 Cal.App.4th 949, 959.) In other words,
+
+2 so long as the EIR still correctly identifies, analyzes, discusses alternatives, and proposes
+3 mitigation for substantial environmental impacts, it fulfills its public purpose as an informational
+
+4 document, notwithstanding the inclusion of a mistaken legal analysis, and its certification is not
+
+5 an abuse of discretion for that reason. (See Pub. Res. Code § 21168.5 [standard of review is
+6 prejudicial abuse of discretion]; Guidelines § 15151 ["The courts have looked not for perfection
+7 | but for adequacy, completeness, and a good faith effort at full disclosure."].)
+
+8 The next step would normally be to determine whether UC Berkeley's updated baseline
+
+9 analysis is part of the project being studied. An EIR must study and mitigate the impacts of a
+
+10 "project" and consider reasonable alternatives to that "project." (See Pub. Res. Code § 21002.1
+
+11 ['"The purpose of an environmental impact report is to identify the significant effects on the
+12 environment of a project, to identify alternatives to the project, and to indicate the manner in
+
+13 which those significant effects can be mitigated or avoided."]; Guidelines § 15126.2(a) ['"An EIR
+14 shall identify and focus on the significant effects of the proposed project on the environment."];
+
+15 see also Guidelines § 15358 [defining "effects" and "impacts" as including only those direct and
+16 indirect environmental impacts "caused by the project"].) In their briefs, the parties argued about
+
+17 whether UC Berkeley was estopped from denying that the population increase was part of the
+
+18 "project." At the hearing on the petition, however, the parties stipulated that the SEIR's analysis
+19 of the impacts of the increase in enrollment was subject to judicial review in this proceeding
+20 without resolving the issue of whether the increases to student enrollment that led to the Excess
+
+21 Population were a part of the project studied in the SEIR. Given this stipulation, the Court does
+
+22 not need to determine whether that past increase was part of the project under study here.
+
+23 But what standard does the Court review the SEIR's analysis of the past increases in
+24 student enrollment? CEQA provides only one standard for review for an ElR-the Court will
+
+25 grant the writ if it finds that an agency "has not proceeded in a manner required by law" or its
+
+26 conclusions are "not supported by substantial evidence." (See Pub. Res. Code 21168.5.) The
+
+7
+
+J Court does not decide whether the "updated baseline" analysis or the decision to increase
+
+2 enrollment are a part of the project. But because CEQA provides only one standard of review,
+
+3 this Order reviews the factual determinations and procedural conformity under the same
+
+standards as if they were part of project. The parties' arguments in the briefs regarding
+estoppel, waiver, and admission are moot given the parties' stipulation at hearing.
+
+6 C. ENROLLMENT - DESCRIPTION OF THE UPDATED BASELINE
+
+7 Both SBN and the City object to the SEIR on the grounds that it offers an inadequate,
+8 shifting description of the project under study as sometimes including the population increase,
+
+9 sometime not. "An accurate, stable, and finite project description is the [s]ine qua non of an
+
+10 informative and legally sufficient EIR," (See County of Inyo v. City of Los Angeles (1977)
+
+11 71 Cal.App.3d 185, 193, 199.) An EIR is "fundamentally inadequate and misleading" if it offers
+
+12 "conflicting signals to decision-makers and the public about the nature and scope of the activity
+
+13 being proposed." (San Joaquin Raptor Rescue Cir. v. County of Merced (2007) 149 Cal.App.4th
+14 645, 655-656.)
+
+15 The public environmental review process begins with the issuance of a Notice of
+
+16 Preparation ("NOP"). (Pub. Res. Code 21092.) A NOP must provide "sufficient information
+17 describing the project and the potential environmental effects to enable the responsible agencies
+18 to make a meaningful response." (Guidelines § 15082(a)(1).) In this case, UC Berkeley's NOP
+19 describes the "project" as "a public-private partnership that would provide additional academic
+
+20 space for GSPP's undergraduate, graduate, and Global Executive Education programs, and
+21 housing geared toward campus affiliates, principally faculty, graduate and post-doctoral
+
+22 students" including "two separate buildings • an academic building and a residential building
+
+23 (AR51, 53.) It also notes that the project "would involve minor text amendments to the
+
+24 2020 LRDP" to "address the fact that the proposed project conflicts with the existing
+25 applicable land use plan[] and is not consistent with the 2020 LRDP housing element." (AR52.)
+26 The NOP announces that a supplemental EIR, rather than some other kind of informational
+
+8
+
+document, would be prepared because of "changes to the [2020 LRDP] land use plan" and "an
+
+2 increase in current and foreseeable campus population levels above those analyzed in the 2020
+LRDP EIR, based on a general increase in student enrollment and employee levels and growing
+the GSPP program(s)." (AR52.) The NOP also notes that growing enrollment is part of a
+continuing trend, as least in the foreseeable future: "UC Berkeley may continue to expand
+
+6 enrollment", which "depends on various factors including . . . legislative mandates, University
+and State of California policies, available resources, and demographic trends" with an estimated
+
+8 growth of "about 1.5 percent annually, on an average, in the near-term." (AR51.) UC Berkeley
+
+9 eventually circulated a Draft SEIR, which described the project as both (1) "the Upper Hearst
+10 Development for GSPP" that "would have residential and academic components," and (2) a
+
+11 "Minor LRDP Amendment to accommodate the proposed land uses on the Project site."
+
+12 (AR76.) The evaluation of existing population levels above the levels previously studied were
+13 described in the DSEIR not as part of the project but as part of an updated baseline for campus
+14 population. (See, e.g., AR60, 64, 848.)
+
+15 The "updated baseline" analysis does not fit well within a traditional CEQA framework.
+16 As discussed above, the SEIR itself consistently describes the project under study: the "Upper
+17 Hearst Development" involving residential and academic buildings and a minor amendment to
+
+18 the 2020 LRDP's land use plan to allow for that construction, (See, e.g., AR59-60, 69-98, etc.)
+
+19 In its discussion of student enrollment levels, the SEIR distinguishes the impacts of new student
+20 enrollment at the Upper Hearst Development from the impacts of the prior and projected
+
+21 enrollment growth not attributable to the GSPP project. Its apparent goal in doing so is to
+22 provide an environmental analysis for that previously unstudied population increase sufficient to
+
+23 inform the public without having to study the increase as an actual project.
+
+24 Petitioners argue that the SEIR's use of an "updated baseline" to sometimes discuss and
+
+25 sometimes ignore the Excess Population is analogous to the misleading project descriptions in
+
+26 County of Inyo and City of Santee. (See County of Inyo, supra, 71 Cal.App.3d 185; City of
+
+9
+
+1 Santee V. County of San Diego (1989) 214 Cal.App.3d 1438.) But it does not present the same
+
+2 problems as an informational document as the EIRs in those cases. In County of Inyo, the City of
+
+3 Los Angeles abused its discretion by certifying an EIR that discussed an increase in ground
+
+4 water pumping from city-owned land in the Owens Valley for in-valley use while failing to
+discuss and analyze its vaguely defined "recommended project," a plan to divert surface and
+6 groundwater for export to the City of Los Angeles. Los Angeles defined its "project" narrowly
+
+7 while still purporting to disclose and discuss environmental impacts of increased water exports to
+
+8 the City as "not part of the project" because those flows were to be directed through an aqueduct
+
+9 that had been approved before CEQA was enacted-
+
+10 At one point of the Final EIR the contradiction becomes explicit: 'In the process of preparing this environmental impact report, other aspects of
+
+11 Aqueduct System operation have been reevaluated. This includes a reappraisal of the rate of export through the Los Angeles Aqueducts. Thus,
+12 the project description presented below includes references to the rate of export, even though the rate of export was not part of the project . , , .'
+13 (County of Inyo v. City of Los Angeles (1977) 71 Cal.App.3d 185, 196.)
+
+14 Here, UC Berkeley narrowly described its project as the Upper Hearst Development, but also
+
+15 purports to discuss the environmental impacts of the Excess Population as "not part of the
+
+16 project" because all previous unstudied increases in student enrollment were supposedly exempt
+
+17 from CEQA under UC's misreading of Section 21080.09. Upper Hearst Development includes a
+18 small increase in projected student enrollment at the GSPP, but that increase is one part of a
+
+19 continuing trend of increasing student enrollment with potential cumulative effects. But that is
+
+20 not the end of the analysis. Unlike the EIR in County if Inyo, UC Berkeley's SEIR discusses,
+
+21 describes, and considers the impacts of the larger trend in student enrollment in the SEIR.
+
+22 In City of Santee, the Court analyzed a project by the County of San Diego to build a
+
+23 "temporary" jail facility to ease overcrowding in its jail system and analyzed the impacts over
+
+24 seven years. (City of Santee v. County of San Diego (1989) 214 Cal.App.3d 1438.) The Court
+25 emphasized that the County had inappropriately "chopp[ed] a large project into many little ones"
+
+26 because "[n]ot only does a reading of the record support a conclusion that some future action on
+
+10
+
+1 the temporary project was contemplated, it also reflects the EIR here could be considered one
+2 small part of the larger project to ease jail crowding in the entire county." (Id. at p.1454.) "Thus
+
+3 it is reasonably foresecable that the project will continue for a longer term than seven years, and
+it is likewise reasonably foreseeable that the temporary male detention facility will be moved to
+East Mesa either before the end of seven years or at that time." (Ibid.) "These future uses
+
+6 should have been included in the EIR and their cumulative effects discussed." (Ibid.) The SEIR
+in this case does consider increase in student enrollment on its own, but it does divorce that
+8 analysis from its context in its discussion of the "updated baseline."
+
+9 In short, the SEIR attempts to analyze an increase in student enrollment without
+10 admitting that increasing student enrollment is a project subject to review. The SEIR describes
+11 the Upper Hearst Development as the relevant project. That project description does not shift
+
+12 from one part of the SEIR to another. The SEIR situates that project within its larger context of
+
+13 increasing student enrollment and it discusses cumulative effects. The SEIR's definition is clear
+
+14 enough that reasonable members of the public would not be misled about the scope of the project
+
+15 under review, and it is not SO "curtailed, enigmatic or unstable" that it "draws a red herring
+16| across the path of public input." (County of Inyo, supra, 71 Cal.App.3d at p.198.)
+
+17 D. ENROLLMENT -IMPACTS FROM GROWING CAMPUS POPULATION
+
+18 l. Induced Housing Demand and Population Growth
+
+19 The CEQA Guidelines mandate that a lead agency should consider impacts to population
+20 and housing when analyzing a project. (Guidelines § 15126.2(a), (e) [EIR must discuss "changes
+
+21 induced in population distribution" "population concentration" and must "[d]iscuss the ways in
+
+22 which the proposed project could foster economic of population growth, or the construction of
+23 additional housing, either directly or indirectly, in the surrounding environment."].) The
+
+24 Guidelines' Environmental Checklist Form asks the lead agency to determine whether the project
+
+25 (a) would "[i]nduce substantial unplanned growth in an area, either directly (for example, by
+26 proposing new homes and businesses) or indirectly (for example, through extensions of roads or
+
+11
+
+1 other infrastructure)" or (b) would "[d]isplace substantial numbers of existing people or housing,
+
+2 necessitating the construction of replacement housing elsewhere." (Guidelines, appx. G, § XIV,
+
+3 subds. (a), (b).)
+UC Berkeley's DSEIR identified population and housing as an arca in which further
+analysis was required. (AR206.) It projected that student enrollment at UC Berkeley in the
+
+6 2022-2023 academic year would exceed the projections in the 2020 LRDP EIR by more than a
+
+7 third, but employees (and members of their households) were under projections. (AR207.) The
+
+8 DSEIR attributes this increase to an increase in California's college-age population and the
+
+9 state's Master Plan for Higher Education. (AR207.) The DSEIR "assume[s] that most of the
+
+10 additional campus population would live in Berkeley or nearby parts of the Bay Area. (AR207.)
+
+11 It compares the net population increase a projected increase to population for the entire
+12 metropolitan Bay Area and concludes that its increased campus population would not
+13 substantially affect the region as a whole. (AR207.) The DSEIR also noted that UC Berkeley
+
+14 had created only 1,119 of the 2,600 new student beds authorized or anticipated in the 2020
+
+15 LRDP EIR, and that UC Berkeley therefore had excess capacity to accommodate additional
+
+16 student housing to offset any impacts. (AR208.) The DSEIR did not analyze effects on the
+
+17 housing market, reasoning that such impacts were "not in themselves environmental impacts."
+
+18 (AR208.) It concluded that the increase in population "would generally be accommodated
+
+19 without significant adverse impacts" and would not result in new impacts beyond those studied
+
+20 by the 2020 LRDP EIR. (AR208.)
+
+21 The City of Berkeley submitted comments disputing this analysis. The City argued that
+
+22 the DSEIR's comparison to the entire Bay Area was inappropriate because "new students,
+23 faculty, and staff would be drawn to living in Berkeley due to the city's proximity to campus and
+
+24 the campus' location in the heart of the City" but that the net increase of roughly 11,000 students
+
+25 is approximately nine percent of the City's population. (AR1186.) The City also referenced a
+26 2017 survey conducted by UC Berkeley's chancellor's office showing that demand for campus
+
+12
+
+1 housing at UC Berkeley outpaces supply and that UC Berkeley has the lowest percentage of beds
+
+2 to its student body of any UC campus in the state. (AR1185.) The same report found that ten
+3  percent of students had experienced homelessness while attending UC Berkeley, including 20
+4  percent of doctoral students. (AR1185.) The City asserted that this increase in population
+
+5 without an increase in on-campus housing had led to "increased pressure for development in the
+
+6 City" as evidenced by a "marked increase in development applications over prior years
+| particularly for the development of multi-unit housing developments typically marketed to
+8 students." (AR1186.) These new buildings, the City argued--when combined with UC
+9 Berkeley's practice of master-leasing off-campus apartments for student housing-reduce the
+
+10 housing available for non-student residents and displace existing residents, particularly in
+11 historically lower-income neighborhoods in South Berkeley and West Berkeley. (AR1186.) The
+
+12 City also argues the imbalance between rapidly increased student enrollment with little
+
+13 additional student housing development exacerbated student and nonstudent homelessness and
+
+14 caused additional significant environmental impacts, including physical impacts to parks, streets,
+
+15 and public places and increased demand for public safety and public health services due to the
+16 unsafe living conditions in homeless encampments. (AR1187.) The City faulted the DSEIR for
+
+17 not considering these indirect impacts from development, displacement, and homelessness.
+
+18 As part of the Southside Neighborhood Consortium ("SNC"), SBN also submitted
+19 comments on the topic of housing and population. (See AR1656 [Southside Neighborhood
+20 Consortium letter signed by Philip Bokovoy on behalf of SBN].) Like the City, SNC objected
+
+21 that population impacts were compared to population growth in entire Bay Area, not just
+22 Berkeley. (AR1654.) It argued that the increased student population causes "pressure on the
+
+23 local housing market with higher rents and more displacement" and increased "gentrification."
+
+24 (AR1655.) SNC also argued that the increased student population will increase demands for
+25 City services-including police protection, fire and emergency medical services, parks and open
+26 space-more late-night noise and traffic and more incidences of improper refuse disposal and
+
+13
+
+"moving day trash." (AR1655.) Finally, SNC also argued that the DSEIR's conclusion that the
+
+2 fact that the City "already accommodates" a large number of student residents "is the equivalent
+of saying: 'students over the baseline are already here so there is no impact." (AR1656.)
+
+4 UC Berkeley responded to these comments in the FSEIR, which reports that
+
+5 approximately 65% of UC Berkeley students live on campus or within a mile of campus.
+
+6 (AR845.) This statistic does not support the university's comparison of the increase in campus
+7 population to population growth in the greater Bay Area rather than the local area in which the
+
+8 majority of its students reside. The FSEIR also finds that the total increase of 11,285 students by
+
+9 the end of the 2022-2023 academic year (that is, both the Excess Population and the projected
+10 increase from the Upper Hearst Development) would exceed the projected growth in UC
+
+11 Berkeley-provided housing. (AR846.) It concludes that the University's 2020 LRDP planned
+
+12 for a substantial increase in student housing that has not yet been built: "After construction of up
+
+13 to 150 housing units in the proposed Upper Hearst Development, substantial capacity for
+
+14 additional student housing would remain under the 2020 LRDP," and Development of additional,
+
+15 affordable student housing "is consistent with the 2020 LRDP's development plans." (AR855.)
+16 The FSEIR does not analyze whether exceeding the 2020 LRDP student enrollment projections
+
+17 had indirect environmental impacts that were exacerbated leaving significant amounts of planned
+
+18 student housing undeveloped.
+
+19 The FSEIR's responded in part to the City's comments by noting that concerns about
+20 increased campus population are about the "updated baseline,' not the proposed Upper Hearst
+21| Development. (See AR1185 [City's concern regarding impacts of "substantial increase in
+
+22 campus population"]; AR882 [FSEIR's response].) The FSEIR concluded that no response was
+23 | required because the "updated baseline" was not the project under consideration: "[T]he student
+24 population has now increased beyond 2020 LRDP projections with little or no analysis of the
+
+25 potential environmental impacts of this increase in students over the number analyzed in the
+
+26 2020 LRDP EIR." (AR882.) "CEQA [only] requires that UC Berkeley compare the potential
+
+14
+
+1 impacts of the housing project, such as the Upper Hearst Development, with existing
+
+2 environmental conditions at the time CEQA review occurs, including current campus
+
+3 I population." (AR882.) "Review of population increases are typically done as part of an overall
+
+4 LRDP and its EIR." (AR882.) Here, the SEIR dismisses the displacement and indirect
+
+5 population impacts of the "update" portion of the updated baseline as outside the scope of its
+
+6 study, The Court cannot meaningfully review the SEIR's analysis of population impacts when
+
+7 the SEIR declines to reach those conclusions itself in the first place. If the "update" were a
+
+8 project, UC Berkeley's refusal to consider potentially significant environmental impacts would
+
+9 be a prejudicial abuse of discretion, and the Court finds it to be so here. This abuse of discretion
+10 is exacerbated because the analysis does not clearly address the impact of the future student
+li enrollment increase attributed to the "project."
+
+12 The FSEIR responds to the City and SNC's concerns about student and induced
+
+13 nonstudent homelessness by asserting that "CEQA was enacted to protect the environment and
+14 speculation about increased housing insecurity is beyond its scope." (AR883.) "The potential
+
+15 displacement of existing tenants in Berkeley also could result in an incremental increase in the
+16 population of homeless people living in Berkeley, although the social impacts of displacement
+17 are beyond the scope of environmental review under CEQA." (AR856.) In the FSEIR, UC
+
+18 Berkeley also argues that it need it not consider the impacts of induced demand for non-University
+
+19 housing because another agency will consider the environmental impacts of individual
+20 development projects induced by economic forces. "Greater housing demand would increase the
+
+21 incentive to construct additional private housing that caters to UC Berkeley students." (AR856.)
+
+22 "If future projects are proposed that would require the displacement of substantial numbers of
+23 people or existing housing, necessitating the construction of replacement housing elsewhere,
+24 their environmental impacts would be evaluated as required by CEQA on a project-specific
+25 basis." (AR856, citing AR2535 [2020 LRDP Vol. at p.4.10-10].) This analysis fails to
+26 consider whether its past increase in student enrollment caused population displacement.
+
+15
+
+Increases in campus population foreseeably lead to direct and indirect impacts on housing,
+
+2 population, and displacement, and the failure to consider those impacts constitutes a prejudicial
+abuse of discretion.
+The FSEIR concludes that no new displacement impacts would result from the
+
+5 construction of new University housing. "The proposed increase in headcount also may
+
+6 necessitate the construction of new UC Berkeley-provided housing; however, such construction
+
+7 would not require substantial displacements because the 2020 LRDP's land use strategy
+
+8 prioritizes the siting of new housing on UC Berkeley's current property and, where necessary,
+
+9 acquiring other sites where the displacement of existing tenants can be minimized." (AR856.)
+10 This portion of the analysis also fails to consider indirect displacement impacts.
+
+11 2. Demand for Public Services by Excess Population
+
+12 The City argues that UC Berkeley erred in considering the population impacts by
+13 concluding, without substantial evidence, that the increased population would not substantially
+
+14 increase the demand for public services. The Guidelines require a lead agency to consider "other
+
+15 aspects of the resource base such as . public services." (Guidelines § 15126.2(a).) The
+
+16 Environmental Checklist Form asks the lead agency to determine whether the project would
+
+17 "result in substantial adverse physical impacts associated with the provision of new or physically
+
+18 altered government facilities, the construction of which would cause significant environmental
+19 impacts, in order to maintain acceptable service ratios, response times or other performance
+20 objectives" for various public services. (Guidelines, appx. G, § XV.) In response to the Draft 21 SEIR, the City of Berkeley submitted comments and evidence arguing that the increase in
+22 student enrollment had created a significant increase in police services, fire and emergency
+
+23 medical services, and public health services. (AR1187-1193.)
+
+24 The City offered UC Berkeley a report by Economic and Planning Systems, Inc. (the
+25 "EPS Report") as part of its public comments on the project. (AR1221-1309.) The EPS Report
+on the City of being home to UC Berkeley. The Report states 26 broadly analyzes the fiscal impact
+
+16
+
+1 that calls for police service from UC Berkeley and its immediate surroundings increased from 14
+2 percent to 19 percent of the citywide total from 2003 to 2018. (AR1223.) The EPS Report also
+3 states that, although UC Berkeley has its own code enforcement and fire inspection personnel, it
+4 does not maintain its own fire and emergency medical response teams and, as a result, the City's
+
+5 fire department provides the vast majority of fire and emergency medical response protection for
+
+6 UC Berkeley's campus. (AR1223.) It also states that the City's fire department must undertake
+7 special training because of high-density buildings (e.g., student dormitories) and specialized
+
+8 buildings with dangerous contents (e.g., laboratories). (AR1189; see also AR6128 ["UC
+
+9 Berkeley relies on local public safety agencies to provide medical, fire, and emergency response" but
+10 provides information about "hazardous materials [responders] may encounter and how to deal with
+
+11 them ...."].) The EPS Report also notes that increased enrollment has increased demand for the
+
+12 City's public health services. (AR1191.)
+
+13 In the FSEIR, UC Berkeley reasoned that staffing and equipment purchases are "fiscal
+14 matters," whereas "CEQA analysis .. . focuses on environmental impacts that could result from
+15 construction of new facilities that are required to provide fire department services." (AR846; see
+
+16 also AR877 at Response A 8.4 ["As to comments related to how increased student population
+17 places additional burdens on already overtaxed city services, while a this is a matter of concern,
+
+18 under CEQA, staffing and support needs for public services are relevant only to the extent that
+19 | they result in physical changes that have environmental impacts."].) Regarding fire department
+20 response times, UC stated that it would continue to abide by "Continuing Best Practice PUB-2.3"
+21 from the 2020 LRDP EIR: to "continue [its] partnership with [Lawrence Berkeley National
+22 Laboratory], [Alameda County Fire Department], and the City of Berkeley to ensure adequate
+
+23 fire and emergency service levels to the campus and UC facilities," including "consultation on
+24  the adequacy of emergency access routes to all new University Buildings." (AR847.) The
+
+25 FSEIR did not expressly mention public health services in its response. (See AR884.)
+
+26 Importantly, the FSEIR based its conclusion on an absence of evidence produced by the City. It
+
+17
+
+J found that its analysis in the DSEIR was adequate because "[the City] did not provide
+2 information or analysis to suggest that new or physically altered fire protection facilities, the
+
+3 construction of which could cause significant environmental impacts, would be required as a
+
+4 result of the proposed project or increased headcount." (AR884, at Response 8.22.)
+The City did, in fact, provide information indicating that increased service calls "will
+
+6 result in a need for additional personnel and new facilities to accommodate them." (AR1190.)
+After UC Berkeley released the Final SEIR, the City submitted additional evidence of physical
+
+8 impacts. (See SAR239 [letter from City to UC Board of Regents dated May 13, 2019].) The
+
+9 City identified its current plans for a new fire station in South Berkeley, a new ambulance it
+10 already purchased, and its pressing need for larger space for its 911 emergency response call
+
+11 center. (SAR249, SAR340.) The same letter argues that, because Berkeley police spend an
+12 increasing proportion of their time responding to an increasing number of student calls, their
+13 activities necessarily result in increased air pollution, greenhouse gas emissions, and traffic.
+14(SAR248.) The Court found no substantial contradictory evidence that might show that the
+
+15 increased demand on City of Berkeley services caused by from the Excess Population has not
+16 contributed to the City's plans or purchase of new facilities with an impact on the environment,
+
+17 and the SEIR does not cite or discuss any. The Court finds that it was a prejudicial abuse of
+
+18 discretion to certify the SEIR on the basis of this inadequate analysis.
+
+19 3. Noise and Aesthetic Impacts from Excess Population
+
+20 The DSEIR noted that "additional student enrollment could indirectly result in an
+
+21 increase in student rentals of private off-campus housing in Berkeley's residential
+22 neighborhoods," which might result in "incrementally greater noise generated from existing
+23 | sources such as human conversations on sidewalks and residential yards, especially during social
+24 gatherings." (AR208.) It dismissed this concern because the "increased headcount would not
+25 introduce new sources of noise that may disturb residents, since neighborhoods near UC
+26 Berkeley already accommodate a high proportion of off-campus student rentals." (AR208.)
+
+18
+
+1 "Continued implementation of the Berkeley Noise Ordinance would also minimize exposure to
+
+2 high noise levels generated on properties in the city." (AR208.) "Therefore, the Project,
+3 accounting for the updated campus headcount projections, would not result in significant indirect
+
+4 environmental impacts in off-campus neighborhoods." (AR208.)
+Residents living near campus expressed concern with this analysis. SNC commented that
+
+6 the DSEIR did not consider evidence of the noise impacts of increasing student enrollment by
+11,285 students who live primarily in off-campus private housing. (AR1653-1654.) Groups of
+
+8 students living off campus are associated with "increases in noise, late-night traffic, and
+
+9 improper refuse disposal." (AR1654.) Individual commenters also expressed this concern: "The
+10 increase in traffic (and in aggressive driving), difficulties in parking, increase in noise from
+
+11 groups of students, and increase in improperly discarded trash and street dumping are only a few
+
+12 of the changes I have seen." (AR1837.) "[MJini-dorms frequently generate extreme party noise,
+
+13 often into the wee hours of morning," but "calling the police when one is kept awake by party
+
+14 noise is often useless, as they are too busy to go to each screaming party." (AR1861.)
+
+15 Commenters attached pictures of improperly disposed refuse on "move-out day." (AR1865.)
+
+16 The FSEIR repeated assertions from the DSEIR. "[A]dditional student enrollment could
+17  result in an increase in student rentals of private off-campus housing in Berkeley's residential
+
+18 neighborhoods." (AR845.) "However, increased headcount would not introduce new sources of
+19 noise that may disturb residents, since neighborhoods near UC Berkeley already accommodate a
+20 high proportion of off-campus student rentals." (AR845, emphasis added.) The FSEIR reasons
+21 that neighborhoods near campus currently accommodate large numbers of students. This
+22 analysis is an abuse of discretion. The FSEIR compares the its current student enrollment
+23 numbers to the present, post-increase status quo and concludes that the increased in student
+
+24 enrollment will not have any effects. That is, the SEIR fails to compare its increased enrollment
+
+25 to a baseline before the increase. In this, the SEIR fails in its own stated goal of studying the
+26 impacts of its earlier increases in student enrollment. The Court also cannot find substantial
+
+19
+
+1 evidence in the record supporting FSEIR's conclusion that a further marginal increase in student
+2 | enrollment would not exacerbate noise issues or have cumulative impacts.
+
+3 The FSEIR also concludes that other factors will offset or mitigate any noise impacts
+from increased student enrollment. "Continued implementation of the Berkeley Noise Ordinance
+
+5 would also minimize exposure to high noise levels generated on properties in the city."
+
+6 (AR845.) "Good neighbor relations programs and activities established by the [sic] UC
+
+7 Berkeley, like Happy Neighbors, which educates students and their neighbors about community
+
+8 expectations and relevant policies and laws, will also help to minimize exposure to high noise
+
+9 to no evidence on which it based a conclusion that these levels." (AR846.) The SEIR refers
+
+10 programs reduce the impact of the increase in students residing off-campus in private housing on
+
+11 community noise levels, much less a finding that, if there were a noise impact, these programs
+
+12 effectively reduce the impact to insignificance. The SEIR does not propose that UC adopt these
+
+13 programs as mitigation measures to minimize the ongoing impact of its increased student
+
+14 enrollment levels.
+
+15 In response to community comments regarding moving-day trash, the FSEIR also asserts
+
+16 that "[s]poradic littering does not rise to the level of a significant aesthetic impact under CEQA."
+17|| (AR846, 911, 1055.) It also similarly references university programs meant to mitigate the
+18 impact: "Other issues, such as the visual effect of littering caused by students living off-campus,
+
+19 are also addressed through programs such as Cal Move [I]n and Move Out, which is a program
+20 established to decrease the environmental and social impacts of illegal dumping in near-campus
+21 neighborhoods at the start and end of the academic year, and to educate students about
+
+22 responsible disposal and reuse strategies." (AR846.) A "significant effect on the environment"
+
+23 is "a substantial, or potentially substantial, adverse change in any of the physical conditions
+
+24 within the area affected by the project... (Guidelines § 15382.) Under the substantial
+
+25 evidence standard, UC Berkeley could reasonably conclude, based on the reported once-a-year
+was not a "substantial" effect on the environment. 26 nature of this problem, that it
+
+20
+
+1 4. Reasonable Alternatives
+
+2 The City of Berkeley and SBN both fault UC Berkeley for not considering a "reduced
+enrollment" alternative in the SEIR. Normally, a lead agency must "describe feasible measures
+which could minimize significant adverse impacts" and "describe a range of reasonable
+
+5 alternatives to the project, or to the location of the project, which would feasibly attain most of
+the basic objectives of the project but would avoid or substantially lessen any of the significant
+
+7 effects of the project, and evaluate the comparative merits of the alternatives." (Guidelines
+
+8 15126.4(a)(1), § 15126.6(a).) UC Berkeley argues that increased student enrollment was
+
+9 already part of the baseline, but even if it was considered, the SEIR found the increase had no
+10 significant impacts from the this excess population. Thus discussion of a reduced enrollment
+
+11 alternative would have been superfluous. Because the court concludes that the environmental
+12 analysis was flawed, however, this court cannot endorse UC Berkeley's conclusion that the lack
+
+13 of analysis of a reduced enrollment alternative is legally permissible. Moreover, UC Berkeley's
+14 argument does not address the future impact of increased enrollment due to the "project."
+
+15 III. UPPER HEARST DEVELOPMENT - IMPACTS ON HISTORIC RESOURCES
+
+16 SBN and the City both argue that UC Berkeley failed to properly define the historical
+
+17 context of the new buildings on Hearst and performs an incomplete analysis of the impact of the
+18  project on the historical buildings in the surrounding neighborhood. SBN also argues that the
+19 University's mitigation measure improperly defers mitigation for significant historical impacts.
+
+20 The DSEIR identified four buildings as historical resources near the Upper Hearst
+
+21 Development site, relying on the 2020 LRDP EIR and the California Office of Historic
+
+22 Resources Inventory. (AR134 [identifying the Beta Theta Pi House, Cloyne Court, Founder's
+
+23 Rock, and Phi K Psi].) The 2020 LRDP EIR in turn drew its list of historic resources from "the
+
+24 National Register of Historic Places, the State Historic Resources Inventory (State Inventory)
+
+25 compiled by the Northwest Information Center at Sonoma State University, the Physical and
+
+26 Environmental Planning unit in Facilities Services at UC Berkeley, and registers of the cities of
+
+21
+
+1 Berkeley and Oakland." (AR2312; AR2316 [describing Berkeley landmark ordinance]; see also
+
+2 AR2324-2325 [listing designated buildings in the adjacent blocks north of campus]. The DSEIR
+
+3 discussed the historical context of the First Bay Tradition, a style of architecture represented by
+4 numerous buildings in Daley's Scenic Park (also called Daley's Scenic Tract), near the Upper
+5 Hearst Development site. (AR131-140.) The DSEIR found that the Upper Hearst Development
+project would require the demolition of a parking structure, which UC Berkeley had determined
+not to be a historical resource. (AR147.) The Upper Hearst Development would also require the
+
+8 demolition and replacement of "most of the primary site design of the Beta Theta Pi house"
+
+9 including removal of 32 feet of a stream-rock training wall and numerous landscaping features.
+
+10 |(AR147-148.) The Upper Hearst Development would also "envelop [the Beta Theta Pi house]
+
+11 within the site plan of the adjacent academic building, which bears little resemblance to the
+
+12 historic property in terms of materials, design, scale/mass, and setting." (AR148.) Additionally,
+
+13 the "scale, mass, and architectural design/materials of the new buildings" would not be
+
+14 "compatible with the massing, size, scale, and architectural features" of the Beta Theta Pi house,
+
+15 Cloyne Court, or Phi Kappa Psi because "the new buildings would be significantly higher and of
+16 greater mass and scale than all buildings in the immediate vicinity." (AR149.)
+
+17 The DSEIR concluded that the Upper Hearst Development would "impair the integrity of
+
+18 two historical resources identified in the 2020 LRDP" and "would impair the integrity of a third
+
+19 immediately north of the Project site." (AR150.) It proposed a mitigation measure
+
+20 (designated "MM-CUL-1") requiring that, "[p]rior to approval of final design plans for the
+
+21 Upper Hearst Development, UC Berkeley shall retain a historic architect meeting the National
+22 Park Service Professional Qualification Standards for historic architecture to review plans for the
+23 proposed academic and residential buildings" who would "provide input and refinements to the
+
+24 design team regarding modifications to the palette of exterior materials to improve compatibility
+25 with neighboring historical resources and compliance with" national standards. (AR150.) The
+
+26 DSEIR found that the Upper Hearst Development would "degrade the integrity of feeling and
+
+22
+
+setting of historical resources adjacent to the Project site" as a "significant and unavoidable
+
+2 cumulative impact on historical resources" and that MM-CUL-1 would "reduce this impact to
+the extent feasible." (AR150.)
+Several public commenters expressed concern about the DSEIR's description of the
+Upper Hearst Development's historical context. (E.g., AR1206 [City of Berkeley]; AR1150-
+1151 [Berkeley Landmark Preservation Commission]; AR1634-1639 [Berkeley Architectural
+7 Heritage Association].) One particularly thorough letter from the Berkeley Architectural
+
+8 Heritage Association ("BAHA") identified an additional 25 buildings in the neighboring
+9 blocks--eleven of them designated landmarks by the City of Berkeley Landmark Preservation
+10 Commission. (AR1638-1639.) It also argued that the DSEIR analysis did not recognize Daley's
+
+I1 Scenic Park as an independently significant historical resource. (AR1634, 1639.) The eleven
+
+12 listed buildings are "presumptive" historic resources because they are listed on a local historic
+
+13 registry. (AR1638-1639; see Pub. Res. Code § 21084.1; Guidelines § 15064.5(a)(2).) One
+14 building, the Phi Delta Theta chapter house, is listed on the is National Register of Historic Places.
+15 (AR1638.) The other buildings (and Daley's Scenic Park as an area) may constitute historical
+
+16 resources, subject to the discretion of UC Berkeley, based on the evidence. (See Guidelines
+
+17 § 15064.5(a)(3) ['"Any . . . building, structure, site, area, [or] place .. . which lead agency
+
+18 determines to be historically significant ... may be considered to be an historical resource,
+19 provided the lead agency's determination is supported by substantial evidence in light of the
+
+20 whole record."].)
+
+21 The FSEIR responded to comments by noting that the Upper Hearst Development is not
+
+22 situated in a designated historic district (AR897) and that the DSEIR "is not intended as a
+
+23 comprehensive survey or original scholarship on the history of the project site and its
+24 surroundings." (AR862.) The FSEIR noted that many of the buildings that BAHA identified are
+25 located several blocks from the project site and that, "[i]n keeping with standard CEQA and
+26 professional practice," the DSEIR analyzed the potential impacts on historical resources located
+
+23
+
+I within or directly adjacent to the project site. (AR898.) The FSEIR notes that, although the
+
+2 remaining buildings were not discussed in the DSEIR by name, they are part of the historical
+
+3 context and of the nearby neighborhood, which was discussed in some detail. (AR898; see
+
+4 AR131-140.)
+In its follow-up letter to the FSEIR, the City of Berkeley communicated a concern that
+
+6 MM-CUL-1 was an inadequate mitigation measure because it did not reduce the severity of the
+
+7 impact to a "less than significant" level. (SAR257.) The City also objected that it "relegates the
+8 input of a historical architect to the status of unenforceable best practices, and delays this input
+
+9 until a later unspecified date" because it "would merely result in recommendations for exterior
+10 || building materials that would be forwarded to University decision-makers to 'consider,' without
+
+11 any demonstrable enforceability to avoid or reduce the severity of the impact." (SAR257-258.)
+
+12 The City argued that "[t]he deferred input of an historical architect on future proposed redesigns
+
+13 following CEQA review fails to avoid or substantially reduce this impact," which, "contrary to
+
+14 the University's assertions, . . . is not unavoidable." (SAR259.)
+
+15 In its findings acopting the SEIR and approving the project, the University found that the
+
+16 Upper Hearst Development would "degrade the integrity of feeling and setting of historical
+17 resources adjacent to the Project site, which will contribute to a significant and unavoidable
+
+18 cumulative impact on historical resources" and that adopting MM-CUL-1 was feasible and
+
+19 would "reduce this impact to the extent feasible." (AR24-25.) It also found that, "even with
+20 implementation of this measure, significant unavoidable impacts [would] occur" and that
+
+21 "specific economic, legal, social, technological, or other considerations make it infeasible to
+22 reduce this impact to a less than significant level." (AR25.)
+
+23 The DSEIR's inventory of four potentially affected buildings as historical resources is
+
+24 supported by substantial evidence, the inventories consulted for the DSEIR and the 2020 LRDP
+
+25 EIR. (See AR862 [describing "due diligence" steps taken, including site visits, records research,
+
+26 and experts consulted]; see also AR130, 141-145.) The DSEIR also discusses the major
+
+24
+
+historical events and aesthetic and architectural features that give the area north of campus its
+
+2 historical context and value and feeling. In so doing it describes the historical environmental
+
+3 setting of the surrounding area, including the First Bay Tradition and the structures that survived
+
+4 1923 Berkeley Fire.
+
+5 UC Berkeley's decision to exclude the buildings on BAHA's list from consideration is
+
+6 also not an abuse of discretion. The resources in the list may qualify as "historical resources."
+
+7 (See Guidelines § 15064.5(a)(1)-(4).) But CEQA only requires a lead agency to consider as an
+
+8 impact a "substantial adverse change in the significance of an historical resource." (Guidelines
+
+9 15064.5(b).) A "substantial adverse change in [] significance" means "physical demolition,
+
+10 destruction, relocation, or alteration of the resource or its immediate surroundings such that the
+
+11 significance of an historical resource would be materially impaired." (Guidelines
+
+12 § 15064.5(b)(1).) The City and SBN argue that the Upper Hearst Development might "alter[)"
+
+13 the "immediate surroundings" of the additional historical resources identified by BAHA and that
+
+14 UC Berkeley abused its discretion by failing to consider the project's potential impacts on those
+
+15 buildings. The unconsidered buildings are as close as a block away to several blocks away.
+
+16 UC Berkeley did not abuse its discretion in determining that buildings in the "immediate
+
+17 vicinity" of the project site means buildings within the project side or immediately adjacent to
+
+18 it-that is, buildings across the street were included; those a block away were not. The type of
+19 | impact being discussed here (a mismatch of scale and architectural style) may affect the
+20 historical feel of a building, but proposed plans and the description of the environmental setting
+
+21 are substantial evidence from which a reasonable person could conclude that the impact of the
+
+22 project would be insignificant for all but the closest buildings. There is no evidence that the
+
+23 addition of a new building would have a material impact on the historical significance of the
+24 nearby historical structures. (Cf. Taxpayers for Accountable School Bond Spending v. San Diego
+
+25 Unified School Dist. (2013) 215 Cal.App.4th 1013, 1045 [finding no abuse of discretion when
+
+26
+
+25
+
+1 school district failed to consider impact of increased field lighting from new football stadium on
+2 / historical significance of nearby neighborhood].)
+
+3 UC Berkeley's decision not to consider Daley's Scenic Tract as a historical district is also
+not an abuse of discretion. The FSEIR found by substantial evidence that Daley's Scenic Tract
+
+5 is not listed in a national, state, or local historic register. It is therefore not a "mandatory" or
+
+6 "presumptive" historical resource. (See Pub. Res. Code § 21084.1; Guidelines § 15064.5(a)(1),
+
+7 (2); see also Valley Advocates v. City of Fresno (2008) 160 Cal.App.4th 1039, 1051 [discussing
+8 "mandatory,""presumptive," and "discretionary" as common labels for three categories of
+
+9 treatment for historical resources under CEQA].) SBN argues that UC Berkeley abused its
+
+10 discretion by failing to consider whether Daley's Scenic Tract constitutes a discretionary
+11 | historical resource. SBN analogizes this to the Valley Advocates case, arguing that the Court
+
+12 should grant the writ because UC Berkeley "did not, in fact, exercise its discretion" to determine
+
+13 whether Daley's Scenic Tract is a historical resource. (Valley Advocates v. City of Fresno (2008)
+
+14 160 Cal.App. 4th 1039, 1061.) In that case, however, "the City Council [of Fresno] was
+15 misinformed about its discretion" because it had previously denied an application for historical
+
+16 recognition for the same building. (Id. at p.1061.) And although the SEIR does not expressly
+17 consider the regulatory factors for weighing whether a resource could, in UC's discretion, be
+
+18 considered a historical resource, there is no indication that UC Berkeley was under a
+
+19 misapprehension of its ability to do so here. Instead, it appears to have been aware of the history
+
+20 and significance of the scattering of First Bay Tradition homes surviving in Daley's Scenic
+
+21 Tract. (See, e.g., AR134-135, 862, 897.) The SEIR discussed the importance of the
+22  neighborhood as context but did not find the area itself to be a historical resource independent of
+
+23 the collection of historical buildings within it.
+
+24 SBN argues that mitigation measure MM-CUL-1 improperly defers mitigation because it
+
+25 only requires that the architect "provide input and refinements" but no actual requirements. The
+
+26 DSEIR proposed, and UC Berkeley adopted, MM-CUL-1, which provides as follows:
+
+26
+
+Prior to approval of final design plans for the Upper Hearst Development, UC Berkeley shall retain a historic architect meeting the National Park
+2 Service Professional Qualifications Standards for historic architecture to
+
+3 review plans for the proposed academic and residential buildings. The historic architect shall provide input and refinements to the design team
+4 regarding modifications to the palette of exterior materials to improve compatibility with neighboring historical resources and compliance with the
+
+5 Secretary of Interior's Standards. This review shall include, but not be limited to, suggestions for incorporating exterior materials, such as wood or
+6 brick, in the design. (AR150.)
+
+7 UC Berkeley argues that its adoption of MM-CUL-1 should not be judged against the usual
+
+8 standards for mitigation measures because it does not purport to reduce the impact to a "less than
+
+9 significant" level. (Resps.' Opp. to Petr. SBN's Opening Merits Brief, at p.35 [citing AR150];
+
+10 see also AR25 [findings of significant and unavoidable impact]; AR2367 [2020 LRDP EIR ] .)
+
+11 This argument is contrary to the text and policy underlying CEQA: "Each public agency shall
+12 mitigate or avoid the significant effects on the environment of projects that it carries out Or
+
+13 approves whenever it is feasible to do so." (Pub. Res. Code § 21002.1; see also Pub. Res. Code
+
+14 § 21002 ["[I]t is the policy of the state that public agencies should not approve projects as
+
+15 proposed if there are feasible alternatives or feasible mitigation measures available which would
+
+16 substantially lessen the significant environmental effects of such projects."].) Even if a lead
+
+17 agency finds that environmental impacts would remain significant, it still must adopt feasible
+18 measures to mitigate or avoid those impacts.
+
+19 That said, UC Berkeley did not abuse its discretion by adopting MM-CUL-1. UC
+20 Berkeley argues that it is not deferring mitigation because MM-CUL-1 requires it to take specific
+
+21 steps, because those steps are to be guided by the Secretary of the Interior's standards, and
+
+22 because mitigation to historical impacts is inherently subjective and does not lend itself to
+23 objective criteria. As the term is used in CEQA, "[m]itigation' includes: [1I (a) Avoiding the
+24 impact altogether by not taking a certain action or parts of an action[; and] [1] (b) [mJinimizing
+25| impacts by limiting the degree or magnitude of the action and its implementation .. . ."
+26| (Guidelines § 15370.) To ensure that mitigation measures are adequate, an "EIR shall describe
+
+27
+
+feasible measures which could minimize significant adverse impacts." (Guidelines
+2 || § 15126.4.(a)(1).) "Formulation of mitigation measures shall not be deferred until some future
+
+3 time." (Guidelines § 15126.4(a)(1)(B).) "The specific details of a mitigation measure, however,
+4 may be developed after project approval when it is impractical or infeasible to include those
+details during the project's environmental review provided that the agency (1) commits itself to
+
+6 the mitigation, (2) adopts specific performance standards the mitigation will achieve, and (3)
+7 identifies the type(s) of potential action(s) that can feasibly achieve that performance standard
+
+8 and that will considered, analyzed, and potentially incorporated in the mitigation measure."
+
+9 (Ibid.) UC Berkeley's adopted mitigation measure MM-CUL-1 meets these standards because it
+
+10 commits the University to hiring t qualified historical architect, because it requires the
+11 | University to adopt the Secretary of Interior's Standards as a performance standard (see
+
+12 Guidelines §15064.5(b)(3)), and because it identifies changes to exterior materials as the kinds of
+
+13 changes that will be considered and potentially incorporated in the mitigation measure.
+
+14 UC Berkeley also did not abuse its discretion by concluding that the Upper Hearst
+
+15 Development's impact on the historical resources would be significant and unavoidable and that
+16 the benefits of the project outweigh the historical impacts. (See AR25, 40.) SBN argues that UC
+17 Berkeley abused its discretion by rejecting reduced scale alternative. (AR38.) UC's factual
+
+18 findings included a finding that:
+
+19 The Reduced Scale Alternative would meet most of the Project objectives, but to a lesser extent than would the Project. The Alternative would better
+20 meet objectives to maintain the character and setting of surrounding historic
+
+21 buildings and to build facilities that are compatible with the surrounding neighborhood. However, by reducing the scale of the new GSPP, the
+
+22 Alternative would not fully meet objectives related to fulfilling the academic needs of the School's program. Similarly, because the residential
+
+23 building includes fewer residential units than proposed, the alternative would not fully meet objectives to provide housing on-site to serve current
+24 market demand and to address the shortage of campus housing. By
+reducing the scale of development, the Alternative would meet the objective
+25 of accommodating increased School enrollment to a lesser extent than
+
+26 would the Project. The potential removal of additional parking spaces also would not meet the objective of maintaining as much parking as possible
+
+28
+
+1 on-site. Because the Reduced Scale Alternative would meet Project
+
+2 objectives to a lesser a extent than would the Project, the University rejects this alternative. (AR38.)
+3 SBN argues that UC Berkeley did not actually find that the reduced scale alternative was
+
+4 infeasible. UC Berkeley's findings noted that a reduced scale alternative would lessen some
+
+5 impacts but exacerbate others. (See also AR251-254 [discussion in DSEIR reaching same
+6 conclusion].) Substantial evidence supports the university's decision that the environmental
+
+7 benefits of the reduced scale alternative were outweighed by its downsides and that it is
+
+8 infeasible to reduce that impact to a less-than-significant level. (AR24-25.)
+IV. UPPER HEARST DEVELOPMENT -TRAFFIC AND NOISE IMPACTS
+
+10 The City also argues that the SEIR's analysis of the Upper Hearst Development failed to
+i1 adequately analyze potential traffic and noise impacts. The City objected to the DSEIR's traffic
+12 analysis, arguing that the DSEIR assumed without evidence that reducing existing parking at the
+
+13 Upper Hearst Development site would reduce trip generation rather than shift parking demand
+14 elsewhere. (See AR1194.) Responding to the City's comment, the FSEIR justified its reliance
+
+15 on indirect measures of trip generation because alternatives to university parking, such as street
+16 parking and off-campus parking lots, are open to the public and University-affiliated parking
+17 cannot be isolated from general public parking at those locations, so direct observation of trip
+18 generation is infeasible. (AR884-885.) Instead the FSEIR, like the 2020 LRDP EIR from which
+19 it tiers, relies on indirect data, such as survey data, intersection traffic data, on-campus parking
+20 permits and parking lot occupancy rates. (AR885.) "[T]he UC Berkeley-operated parking
+21 supply decreased by about 1,130 spaces (about 15 percent) from 2001-2002 to 2016-2017, and
+
+22 during the same period, the drive-alone mode share for all population groups, as well as Campus
+23 Park trip generation, decreased." (AR885.) The data behind these statements are substantial
+
+24 evidence from which a reasonable agency could conclude that a marginal decrease in parking
+25 availability will marginally decrease car commutes by inducing more students, faculty, and staff
+26
+
+29
+
+to commute by public transportation, bicycle, or foot. This conclusion was not an abuse of
+
+2 discretion.
+
+3 The City also argues that the SEIR failed to consider traffic impacts related to
+
+4 construction of the Upper Hearst Development. (See AR1195.) It did, however, consider those
+
+5 impacts, and it concluded that they "would be less than significant and no mitigation is therefore
+6 required." (AR879.) The City argues that the SEIR's continuing best practices, which were
+
+7 adopted from the 2020 LRDP EIR, "do not include, as they should, City review and approval of
+
+8 the Construction Traffic Management Plans." (AR1195.) The SEIR expressly adopted
+
+9 continuing best practices from the 2020 LRDP EIR, which mandate that the university require
+
+10 contractors to prepare of a construction traffic management plan early in the planning process-
+11 including proposed truck routes, construction hours, employee parking, and equipment staging-
+12 and schedule projects to minimize overlap between excavation and other truck-heavy portions of
+13 construction projects. (AR879, 886 [responding to City's comment at AR1195]; see AR221
+
+14 [describing continuing best practices TRA-3-a, TRA-3-b, and TRA-3-c].) These best practices
+
+15 do not mandate that the University get City approval for its traffic and construction parking
+16 plans, but the City provides no evidence of legal requirement to do so or evidence that failure
+
+17 to do so would result in a significant impact to the environment. UC Berkeley's decision to
+
+18 certify the traffic analysis of the Upper Hearst Development in the SEIR was not an abuse of
+
+19 discretion.
+
+20 The City also objected to the SEIR's analysis of noise impacis of the Upper Hearst
+21 Development's potential noise impacts on nearby noise-sensitive land uses like nearby
+22 multifamily housing developments, student housing, and academic buildings. The City argues
+
+23 that the SEIR's analysis was flawed because it measured the baseline noise level during the
+24 evening commute, resulting in an artificially high baseline for noise impacts. The City also
+25  argues that the SEIR failed to describe the sources of noise that might result from the Upper
+26 Hearst Development, including both ongoing sources of noise like HVAC operations and
+
+30
+
+sporadic sources of noise such as outdoor activities or special events. The City objects that the
+
+2 SEIR reached its conclusion that no significant noise impacts would result without considering
+
+3 the number, size, time, and frequency of events to be held at the event center at the Upper Hearst
+
+4 Development. The City presented these arguments in its comments to the DSEIR. (See
+s AR1202.) In response, the FSEIR noted that peak-hour ambient noise measurements are used to
+
+6 characterize "the worst daily noise exposure near a Project site" and is a "more conservative
+7| approach to assume that new residents on the Project site would be exposed too this noise level."
+8 (AR890.) The FSEIR also concluded that "the noise associated with outdoor events would not
+
+9 cause City of Berkeley Noise Ordinance limits to be violated at nearby sensitive receptors and
+
+10 therefore[] would be less than significant." (AR908; see also AR201-202 [discussing noise from
+11 HVAC and outdoor events, concluding less than significant impact on nearby sensitive
+
+12 receptors].) Certification of the SEIR on this issue was therefore not an abuse of discretion.
+
+13 V. ORDER
+
+14 SBN's petition for writ of 1 andate is GRANTED. The City of Berkeley's petition for
+
+15 writ of mandate is GRANTED. SBN and Berkeley shall meet and confer to draft a proposed
+16 judgment and form of writ consistent with this Order and shall jointly file the proposed judgment
+
+17 and form of writ within 10 court days of service of notice of entry of this order.
+
+18
+Dated: July 9, 2021
+19 Brad Seligman
+
+20 Judge of the Superior Court
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+31
+
+SUPERIOR COURT OF CALIFORNIA COUNTY OF ALAMEDA
+
+Case Number: RG19022887 (Related to RG19023058) Case Name: Save Berkeley's Neighborhoods v. The Regents of the University of California
+
+RE: ORDER GRANTING PETITIONS FOR WRIT OF MANDATE®
+
+CLERK'S CERTIFICATE OF SERVICE
+certify that I am not a party to this cause and that true and correct copy of the foregoing document was mailed first class, postage prepaid, in a sealed envelope, and that the mailing of the foregoing and execution of this certificate occurred at 1225 Fallon Street, Oakland, California.
+
+Executed: 7/9/2021
+
+Ahalisa Cnstaneda
+Courtroom Clerk, Dept. 23
+
+Thomas N. Lippe LAW OFFICES OF THOMAS N. LIPPE, APC 201 Mission Street, 12th Floor San Francisco, CA 94105 Altorneys for Plaintiff Save Berkeley's
+
+lippelaw@sonic.net Neighborhoods in RG19022887
+
+Charles Olson
+Phillip J. Sciranka
+LUBIN | OLSON
+The Transamerica Pyramid 600 Montgomery Street, 14th Floor San Francisco, CA 94111 Attorneys for Respondents in RG19022887 and
+
+I colson@lubinolson.com Auorneys for Respondents and Defendants in RG19023058
+clee@lubinolson.com
+psciranka@lubinolson.com
+/ insaephan@lubinolson.com
+iwilson@lubinolson.com
+
+Alison Krumbein Office of General Counsel UNIVERSITY OF CALIFORNIA 1111 Franklin Street, 8th Floor Attorneys for Respondents in RG19022887 and
+
+Oakland, CA 94607 Altorneys for Respondents and Defendants in
+RG19023058
+Alison.krumbein@ucop.edu
+
+David M. Robinson
+Chief Campus Counsel
+UNIVERSITY OF CALIFORNIA
+200 California Hall Altorneys for Respondents and Defendants in RG19023058 Mail Code No. 1500
+Berkeley, CA 94720
+dmrobinson@berkeley.edu
+
+Winter King
+Robert S. Perlmutter
+Lauren M. Tarpey Jennifer Miao
+SHUTE, MIHALY & WEINBERGER LLP 396 Hayes Street San Francisco, CA 94102 Allorneys for Petitioner and Plaintiff in RG19023058
+king@smwlaw.com
+perlmulter@smwlaw.com
+ltarpey@smwlaw.com
+imiao@smwlaw.com
+
+Farimah Brown, City Attorney Christopher D. Jensen, Deputy City Attorney BERKELEY CITY ATTORNEY'S OFFICE .2180 Milvia Street, Fourth Floor Altorneys for Petitioner and Plaintiff in RG19023058 Berkeley, CA 94704
+fbrown@cityofberkeley.info
+ciensen@cityofberkeley.info
+
+Amanda Monchamp
+Robert Taboada
+MONCHAMP MELDRUM LLP Attorneys for Real Parties in Interest Collegiate
+50 Francisco Street, Suite 450 Housing Foundation in RG19022887 and Atlorneys
+San Francisco, CA 94133 for Real Party in Interest Collegiate Housing Foundation in RG19023058 amonchamp@mlandlaw.com
+rtaboada@mlandlaw.com
+
+Deborah E. Quick
+Phillip J. Wiese Attorneys for Real Parties in Interest American
+MORGAN LEWIS & BOCKIUS LLP Campus Communities; American Campus
+Market Spear Street Tower Communities Services, Inc.; American Campus
+San Francisco, CA 94105 Communities Operating Partnership LP in
+dquick@morganlewis.com RG19022887 and Attorneys for Real Parties in Interest American Campus Communities in phillip.wiese@morganlewis.com RG19023058
+
+Michael C. Niemeyer HAND ARENDALL LLC
+71 North Section Street, Suite B Attorneys for Real Party in Interest Collegiate
+Fairhope, Alabama 36532 Housing Foundation in RG19022887 and
+RG19023058
+mniemeyer@handarendall.com
+
+2
+
+VERIFICATION
+I, Liz Perlman, am the Executive Director of Petitioner American Federation of State,
+County, and Municipal Employees Local 3299. I have read the foregoing Verified Petition for
+Writ of Mandate and Complaint for Declaratory and Injunctive Relief. The facts alleged in the
+above Petition are within my own knowledge and I know these facts to be true, except as to any
+matters alleged therein on information and belief.
+
+I declare under penalty of perjury under the laws of the State of California that the
+foregoing is true and correct and that this declaration was executed on August 20, 2021, in
+Oakland, California. Hiz Palaa
+
+Liz Perlman
+
+1 PROOF OF SERVICE
+2
+
+3 I, Toyer Grear, declare as follows:
+am a resident of the State of California, and employed in Oakland, California. I am over 4 the age of 18 years and am not party to the above-entitled action. My business address is 1939 5 Harrison St., Suite 150, Oakland, CA 94612. On August 24, 2021, I served a copy of the
+6 document(s) entitled:
+
+7 NOTICE TO ATTORNEY GENERAL OF VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF 8
+X By causing the above-named document(s) to be enclosed in sealed envelope(s) with postage thereon fully prepaid and addressed as stated below, and to be deposited in the United States
+10 Mail at Oakland, California.
+
+11 Office of the Attorney General
+12 1515 Clay Street, Suite 2000 Oakland, CA 94612
+13
+
+14 I declare under penalty of perjury that the foregoing is true and correct, and that this
+declaration was executed August 24, 2021.
+15
+
+16 Dnpordnaz
+17 Toyer Grear
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+3
+NOTICE TO ATTORNEY GENERAL
+
+7V83N3L
+3H1:0 1u0
+301L801
+
+IS :Z d 97 90V 0
+
+unty 1EE 183M1A
+2O08:
+
+062S0007172058
+
+38% stamps etoipua
+
+Che -*
+
+W erafddfuhdulrfal,maplb
+
+9 rrison Street, Suite 150 94612 § Drurv ozeau 0007 Street, Suite A 94612-1492 &
+
+ikland,

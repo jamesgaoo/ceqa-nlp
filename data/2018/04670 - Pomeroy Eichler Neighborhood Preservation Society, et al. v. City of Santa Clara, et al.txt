@@ -1,0 +1,619 @@
+Susan Brandt-Hawley/SBN 75907 BRANDT-HAWLEY LAW GROUP
+P.O. Box 1659 Glen Ellen, CA 95442
+4 707-938.3900, fax 707.938.3200 susanbh@preservationlawyers.com
+5 Attorney for Petitioners
+6
+
+7
+
+8
+
+9 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+10
+FOR THE COUNTY OF SANTA CLARA 11
+
+12
+
+13 Pomeroy Eichler Neighborhood Case No.
+
+1,4 Preservation Society, an
+
+15 unincorporated association, Petition for Writ of Mandamus and Ken Kratz;
+16
+
+17 Petitioners, California Environmental Quality Act
+[CEQA] 18 V.
+
+19 City of Santa Clara and City
+20 Council of the City of Santa Clara;
+21
+Respondents,
+22
+
+23 Daryoush Marhamat and
+24 Does 1-10;
+
+25
+Real Parties in Interest.
+26
+
+: 27
+
+28
+
+Petition for Writ of Mandamus 1
+
+1 Petitioners allege:
+
+2 Introduction
+
+3
+
+4 1. The Pomeroy Eichler Neighborhood Preservation Society, an
+
+5 unincorporated association, and Santa Clara resident Ken Kratz (collectively, the
+
+6 Society) bring this mandamus action in the public interest to enforce mandatory
+7
+
+8 environmental and land use laws. The Society challenges the City of Santa Clara's
+
+9 failure to comply with the California Environmental Quality Act (CEQA) before
+
+10 approving the 1075 Pomeroy Avenue Residential Subdivision Project.
+
+11 The City Council approved the four-lot subdivision via rezoning to a Planned
+12
+
+13 Development that is inconsistent with adopted City Codes. The project requires
+
+14 discretionary approvals for demolition, grading, design review, and encroachment, and
+
+15 would have potentially significant environmental impacts on the surrounding mid-
+16
+
+17 century multi-family "Pomeroy Eichler" neighborhood. The City's failure to prepare an
+
+18 environmental impact report before considering approval of the project violated CEQA.
+
+19 Having exhausted administrative remedies, the Society turns to this Court for
+
+20 issuance of a peremptory writ to require the City to comply with mandates of state law.
+21
+
+22 Jurisdiction
+
+23
+
+24 2. This Court has jurisdiction under Public Resources Code section 21168 and
+
+25 CCP section 1094.5. The parties and site are located in the County of Santa Clara.
+
+26
+
+27
+
+28
+
+Petition for Writ of Mandamus 2
+
+R Parties
+
+2
+3. Petitioner Pomeroy Eichler Neighborhood Preservation Society is an 3
+
+4 unincorporated association formed in the public interest in August 2018 after the City's
+
+5 approval of the 1075 Pomeroy Avenue Residential Subdivision Project. The Society's
+
+6 goal is to protect the unique Eichler housing complexes on Pomeroy Avenue from
+7
+
+8 incompatible development. Petitioner Ken Kratz is a member of the Society and a
+
+9 resident of the neighborhood. Peggy Parkin, Diane Harrison, and other community
+
+10 residents and concerned citizens, are members of the Society and enjoy and appreciate
+11 Santa Clara's environmental and historical resources. The Society brings this petition 12
+
+13 on behalf of all others similarly situated that are too numerous to be named and
+
+14 brought before this Court as petitioners. Petitioner Ken Kratz objected to the City's
+
+15 approval of the 1075 Pomeroy Avenue Residential Subdivision Project and exhausted
+16
+administrative remedies on behalf of himself and the later-formed Society. 17
+
+18 4. Respondents City of Santa Clara and its City Council (collectively referred
+
+19 to as the City) are the governmental body and lead agency that approved the project
+20 based on a mitigated negative declaration.
+21
+5. 22 Real party in interest Daryoush Marhamat is the project applicant
+
+23 identified in the CEQA Notice of Determination.
+
+24 6. 1 Does 1 to 10 are fictitiously-named real parties whose true names and
+25
+capacities are currently unknown to the Society members. If and when their true names 26
+
+27 and capacities are known, the Society will amend the petition to assert them.
+
+28
+
+Petition for Writ of Mandamus 3
+
+1 7. The paragraphs below refer to and rely on information in documents
+
+2 relating to this action, all of which will be filed with this Court as part of the record of
+3 proceedings and are here incorporated by reference.
+4
+
+5 General Allegations
+6
+
+Environmental Setting
+
+8 8. The 1075 Pomeroy Avenue Residential Project proposes to divide a 12,400
+
+9 square-foot property, currently containing a single-family home built in 1955, into four
+10
+
+11 parcels each developed with a detached two-story single-family home. The project site
+
+12 is adjacent to the Pomeroy Green and Pomeroy West developments that were designed
+
+13 by famed developer Joseph Eichler.
+14
+9.
+15 Eichler was active in the bay area in the 1950S and 1960s. Eichler homes
+
+16 a including the Pomeroy Eichlers have distinctive mid-century modern architectural
+
+17 style. Eichler is well known nationwide for home designs that featured intimate
+
+18 relationships between in and outdoors, ideal for California living. He was one of the few
+19
+
+20 developers of his time to engage architects to achieve standardized designs affordable to
+
+21 the middle class. Among his signature design features are living rooms with large
+
+22 windows and sliding-glass doors facing back patios ideal for family use. Clubhouses,
+23
+
+24 playgrounds, swimming pools, and extensive landscaping with benches facilitate
+
+25 informal community gatherings in now-iconic Eichler developments.
+
+26 10. The Pomeroy Green and Pomeroy West developments share classic Eichler
+
+27 attributes and are also fine examples of Eichler's fewer and less-known multi-family
+28
+
+Petition for Writ of Mandamus
+
+projects. Both complexes are early examples of intense cluster housing to preserve
+diminishing open space. Eichler aficionados tout his genius for designing intense
+development while preserving privacy in adjacent units housing and buildings. Many
+
+5 contemporary as well as contemporaneous articles and books applaud the Pomeroy
+
+6 Eichler complexes as outstanding examples of innovative cluster housing. They remain
+
+7 of historic and academic interest to practicing architects, architects, architectural
+8
+
+.9 historians, and writers addressing the contemporary American architectural scene.
+
+10
+CEQA Review 11
+
+12 11. Following the Marhamat project application in September 2016 and its
+
+13 review by staff, a 20-day public review period for a proposed mitigated negative
+14 declaration began in September 2017. The City's CEQA Initial Study checklist included 15
+
+16 no discussion of visual or historic resource impacts and made summary findings that
+
+: 17 the project would have no potentially significant environmental impacts.
+
+18 •. - •
+12. The City a filed a CEQA Notice of Determination (NOD) in March 2018,
+19
+
+20 three months before the City Council approved the project in June 2018.
+
+*:
+21
+Project Approval Process
+22
+
+23 13. The City Planning Commission reviewed the project and following a
+
+24 hearing in September 2017 recommended approval based on the mitigated negative
+25 declaration. The City Council considered the project in November 2017, at which time
+26
+
+27 its staff prepared a Notice of Determination. But the Council did not approve the
+
+28
+
+Petition for Writ of Mandamus 5
+
+1 project, instead ordering review by the Historical and Landmarks Commission (HLC)
+
+2 in light of the site's adjacency to Pomeroy Green.
+3
+14. The HLC reviewed the project in January 2018 and recommended that the
+4
+
+5 City Council delay action pending consideration by the State Historical Resources
+
+6 Commission of Pomeroy Green's qualification for the National Register of Historic
+
+7 Places. The HLC made further recommendations; to wit:
+
+8
+
+o "Consider the neighborhood properties (i.e. Pomeroy Green and Pomeroy
+West) as eligible for historical designation based on criteria in the 10 California Register of Historical Resources and criteria A, B, and C of the 11 City's recently adopted historic preservation ordinance.
+12
+
+13 Redesign the proposed project to increase setbacks and reduce shade
+
+14 impacts, lower roof slope, lower overall height, reduce use of stucco finish,
+
+15 replace horizontal siding, provide carports instead of garages, and
+
+16 synchronize window geometry.
+
+17
+
+18 Conduct a staff-facilitated community meeting to review the design and
+find an agreeable solution. 19
+
+20 Return to HLC for review and recommendation."
+
+21
+
+22 15. The City Council did not accept most HLC recommendations and never
+
+23 returned the project to HLC for further review. The Council held a second public
+
+24 hearing in March 2018, and approved the mitigated negative declaration prepared in
+25
+
+26 September 2017. It did not yet approve the project, referring it to its Architectural
+
+27 Review Committee (ARC) to develop design recommendations following a public
+
+28
+
+6 Petition for Writ of Mandamus
+
+process. While approval was still pending, the City filed a premature Notice of
+Determination (NOD) with the County Clerk on March 9, 2018.
+
+16.
+4 Following review by the ARC on March 14 and April 4, the City Council
+
+5 held a further public hearing on June 26, 2018. Among the objectors to approval of the
+
+6 project and failure to prepare an EIR were residents urging the Council to consider that
+7 [a]ppropriate, compatible development near historical properties can bring
+8 great cultural and monetary value to Santa Clara. Incompatible development
+9 may unintentionally harm our city's historic resources... The [project] will be
+10 completely surrounded by 216 Eichler units (78 units at Pomeroy
+11 Green and the 138 units at Pomeroy West). Compatibility is vital. We as Santa
+12 Clara citizens and residents of these communities care for and work hard to
+13 preserve the architectural, cultural, and historical value that Eichlers bring to
+14 Santa Clara, and ask that you provide governmental stewardship for these city
+15 resources in your capacity as our elected representatives...
+
+16
+
+17 Co-petitioner Ken Kratz pointed out that the project would be too massive and too close
+
+18 to the surrounding Pomeroy Green complex, and provided examples of feasible
+
+19 alternate project designs that would be more compatible with the historic surroundings
+20
+
+21 and, unlike the project, would meet standards of all of the City's "zoning ordinances,
+
+22 City Design Guidelines, and the City's Architectural Committee Community Design
+
+23 Guidelines *3 ..." Dave Weinstein, writer and mid-century architecture and design expert,
+
+24 objected to the project: "Pomeroy Green and Pomeroy West are historically important
+25
+
+26 examples of early (1960s) cooperative housing that were built by [Eichler,] the nation's
+
+27 most important builder of mid-century modern tract homes. Both appear eligible for
+
+28 listing on the National Register of Historic Places and the California Register of
+
+Petition for Writ of Mandamus 7
+
+1 Historical Resources. Both residential complexes remain largely intact, preserving their
+
+2 historic qualities. Allowing for [this project design] in a central area between the two
+
+3
+
+4 complexes would irreparably harm the historic fabric." Preservation architect Craig
+
+5 Mineweaser, AIA, concurred.
+
+6 17. The City Council nonetheless approved the project on June 26, 2018, on
+
+7 the basis of the mitigated negative declaration and without preparation of an EIR. Some
+8
+
+9 project revisions and recommendations of the Historical and Landmarks Commission
+
+10 and Architectural Review Committee were imposed but many were not. The codified
+
+11 20-foot setback was rejected in favor of a widely-opposed, problematic 10-foot setback.
+
+12
+18. The City did not file a Notice of Determination after approving the project.
+13
+
+14 A valid NOD triggers a 30-day statute of limitations to file a CEQA challenge to a
+
+15 project based on either a negative declaration or EIR. Without an NOD, a 180-day
+
+16 CEQA statute of limitations runs from the date of project approval. As the adequacy of
+17
+
+18 CEQA review can only be assessed as to an approved project, by statute an NOD must
+
+19 be filed after project approval. a It is required to recite that a lead agency has approved a
+
+20 described project and to give notice of the type and date of CEQA compliance relied
+
+21 upon for the approval. In this case, the statute of limitations was not triggered in March
+22
+
+23 2018 when the City prematurely filed an NOD before approving the project. If the
+
+24 statute of limitations had been triggered at that time, the CEQA statute of limitations
+
+25 would have expired before the project was even approved. This action is timely filed
+26
+
+27 within 180 days of the City Council's project approval date. That date was in June 2018
+
+28 and the CEQA statute of limitations therefore does not run until December 2018.
+
+Petition for Writ of Mandamus 8
+
+1. 19. The Society served a copy of this petition on the Attorney General.
+
+2 20. The Society has no adequate remedy at law. Absent the relief prayed for in
+3
+this petition, the project will proceed with significant irreparable environmental 4
+
+5 impacts to the Santa Clara environment and residents. The City has the ability to
+
+6 correct its violations of law but has failed and refused to do so.
+
+Violation of the California Environmental Quality Act
+
+10 21. The Society incorporates all previous paragraphs as if fully set forth.
+
+11 22. The City of Santa Clara abused its discretion and failed to act in the
+
+12 manner required by law in approving the 1075 Pomeroy Avenue Residential
+
+13 Subdivision project based on a mitigated negative declaration. According to proof
+14
+
+15 following certification of the record of proceedings: 'EP:3
+
+16 a. The City unlawfully approved a project with potentially significant environmental
+
+17 impacts without preparing an EIR to inform its discretion. The record contains
+
+18 a substantial evidence supporting a fair argument of potentially significant 19
+
+20 environmental impacts, including, inter alia, impacts relating to aesthetics/
+
+21 visual impacts and views, impacts to surrounding unique resources, landscaping,
+
+22 sun and shade, light and glare, parking, historic resources, and inconsistencies
+23
+
+24 with the City's Design Guidelines and setbacks and the City's adopted land use
+
+25 plans, codes, and policies, among other environmental impacts supported by
+
+26 evidence in the administrative record.
+
+27
+
+28
+
+Petition for Writ of Mandamus
+
+1 b. The City failed to make CEQA findings and its refusal to prepare an
+
+2 environmental impact report is not based on findings supported by substantial
+3 evidence in the record.
+4
+
+5 C. The City failed to make findings supported by substantial evidence that Pomeroy
+
+6 Green is not an eligible historic resource for purposes of CEQA.
+
+7
+
+8 WHEREFORE, petitioners pray:
+
+q 1. That the Court issue a peremptory writ of mandate ordering the City to set
+10
+
+11 aside and void all approvals furthering the 1075 Pomeroy Avenue Residential
+
+12 Subdivision project and to refrain from reconsideration of project approvals until it
+
+13 fully complies with CEQA by preparing an adequate EIR and adopting feasible
+
+14 alternatives and mitigation measures consistent with City plans and ordinances;
+15
+2.
+16 That the Court enjoin the City and real party in interest and their
+
+17 employees and agents from all construction activities relating to the project while the
+
+18 petition is pending;
+
+19
+3. For the Society's reasonable costs and attorney fees pursuant to Code of
+20
+
+21 Civil Procedure section 1021.5; and
+
+22 4. For other and further relief as the Court finds proper.
+
+23
+
+24
+August 30, 2018 BRANDT-HAWLEY LAW GROUP
+25
+
+26
+
+27 Susan Brandt-Hawley
+
+28 Attorney for Petitioners
+
+Petition for Writ of Mandamus 10
+
+Verification 1
+
+2
+
+3 I am an attorney for petitioners located outside of Sonoma County where I have
+
+4 my law offices, and so I verify this petition on their behalf. I have read this Petition for
+5
+Writ of Mandamus and know its contents. The matters stated in it are true and correct 6
+
+7 based on my knowledge, except as to the matters that are stated on information and
+
+8 belief, and as to those matters, I believe them to be true.
+
+! 9 I declare under penalty of perjury that the above is true and is executed on
+* 10
+.%
+
+11 30 August 2018 at Glen Ellen, California.
+
+12
+
+Susan Brandt-Hawley 13
+
+•- 14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22 Pri
+
+23
+
+24
+
+25
+
+26
+
+27
+
+11 28
+
+Petition for Writ of Mandamus
+
+1 Pomeroy Eichler Neighborhood Preservation Society, et al. v. City of Santa Clara, et al. Santa Clara County Superior Court Case No.
+2
+
+3
+
+4 PROOF OF SERVICE
+
+5 I am a citizen of the United States and a resident of the County of Sonoma. I am
+6 over the age of eighteen years and not a party to this action. My business address is
+7 P.O. Box 1659, Glen Ellen, CA 95442.
+
+8 On August 31, 2018, I served one true copy of:
+
+9
+
+10 Petition for Writ of Mandamus
+
+11 by placing a true copy enclosed in a sealed envelope with prepaid postage, in the United
+12 States mail in Petaluma, California addressed to:
+13
+
+14 SALLY MAGNANANI, Deputy Attorney General State of California
+15 Department of Justice
+
+16 P.O. Box 944255 Sacramento CA 94244-2550
+17
+
+18
+
+19 I declare under penalty of perjury that the foregoing is true and correct and is
+
+20 executed on August 31, 2018, at Petaluma, Callfornia
+
+21
+
+22 lQE
+23 Jeanie Stapleton
+
+24
+
+25
+
+26
+D-
+27.
+
+Proof of Service
+
+Brandt-Hawley Law Group
+Chauvet House • PO Box 1659
+Glen Ellen, California 95442
+707.938.3900 • fax 707.938.3200
+preservationlawyers.com
+
+August 31, 2018
+
+Ms. Sally Magnani Deputy Attorney General Department of Justice
+PO Box 944255 Sacramento, CA 94244-2550
+
+Re: Pomeroy Eichler Neighborhood Preservation Society, et al. v. City of Santa Clara, et al.
+
+Dear Ms. Magnani:
+As required by Public Resources Code section 21167. 7, am forwarding to you a copy of a CEQA Petition for Writ of Mandamus filed in Santa Clara County.
+
+Thank you.
+
+Susan Frandt-Hawley

@@ -1,0 +1,902 @@
+- GIDEON KRACOV (Cal. Bar No. 179815)
+
+2 LAW OFFICE OF GIDEON KRACOV 801 S. Grand Avenue, 11th Floor
+
+3 Los Angeles, CA 90017-4645 /
+
+Tel: (213) 629-2071
+
+4 Fax: (213) 623-7755
+gk@gideonlaw.net
+
+5
+
+6 Attorneys for Petitioners
+
+7
+
+8
+
+9 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+10 COUNTY OF LOS ANGELES
+
+I1
+
+12 MARK ANTHONY ALCALA; WALTER RIVERS; and NORTHRIDGE Case No. BS174924
+
+13 FOR THE ENVIRONMENT AND EQUITABLE DEVELOPMENT,
+
+14 Petitioners and Plaintiffs, NOTICE TO ATTORNEY GENERAL
+
+15 V. California Environmental Quality Act (Cal. Pub Res. Code § 21000 et seq.)
+
+16 BOARD OF TRUSTEES OF THE
+
+17 CALIFORNIA STATE UNIVERSITY; CALIFORNIA STATE UNIVERSITY
+
+18 NORTHRIDGE; DOES 1 through 4,
+
+19 Respondents and Defendants.
+
+20 JUPITER REALTY CORPORATION; DOES 5 through 10,
+21
+
+22 Real Parties in Interest.
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+-]-
+
+NOTICE TO ATTORNEY GENBRAL
+
+l TO THE CALIFORNIA ATTORNEY GENERAL:
+
+2 Petitioners Mark Anthony Alcala, Walter Rivers, and unincorporated association and
+
+3 Northridge for the Environment and Equitable Development (collectively "Petitioners") hereby
+
+4 give notice under Pub. Res. Code § 21167.7 of the Verified Petition filed August 23, 2017
+
+5 (*Petition"), attached hereto as Exhibit A, involving claims made under the California
+
+6 Environmental Quality Act ("CEQA"),
+
+7 The Petitioners challenge the unlawful actions of the Board of Trustees of the California
+
+8 State University ("CSU Board") and its member campus California State University Northridge
+
+9 ("CSUN") (collectively "Respondents") in approving a hotel/restaurant development on the
+
+10 CSUN campus located at 18111 Nordhoff Street in the City of Los Angeles, California
+
+11 (*Project"). Specifically, the Respondents' reliance on a mitigated negative declaration for the
+12 Project in lieu of a more comprehensive environmental impact report, despite expert comments
+
+13 establishing a fair argument that the Project poses various significant environmental impacts;
+
+14 failure to analyze all potentially significant environmental impacts and support their
+
+15 determinations with substantial evidence; and failure to consider adoption of additional feasible
+
+16 mitigation measures.
+
+17 Petitioners urge the Attorney General to review the Petition.
+
+18
+
+19
+
+20 DATED: August 23, 2018 LAW OFFICE OF GIDEON KRACOV
+
+21
+22
+
+23 By: Amma
+GIDEON KRACOV
+24 Attorney for
+PETITIONERS/PLAINTIFFS
+25
+
+26
+
+27
+
+28
+-2-
+
+NOTICE TO ATTORNEY GENERAL
+
+EXHIBIT A
+
+( (
+CONFORMED COPY f:
+ORIGINAL FILED GIDEON KRACOV (Cal. Bar No. 179815) Superlor Court of California 1
+LAW OFFICE OF GIDEON KRACOV Counly of Los Angeles
+AUG 23 2018 2 801 S. Grand Avenue, 11th Floor Los Angeles, CA 90017-4645 Tel: (213) 629-2071 Shem R. Carter, Executive Officer/Clerk of Gourt 3
+Fax: (213) 623-7755 By: Kristina Vargas, Deputy 4 gk@gideonlaw.net
+n
+Attorneys for Petitioners 6
+
+7
+
+8
+
+9 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+COUNTY OF LOS ANGELES
+10
+
+11 MARK ANTHONY ALCALA;
+12 WALTER RIVERS; and NORTHRIDGE Case No. BS 17 4924
+
+FOR THE ENVIRONMENT AND
+13 EQUITABLE DEVELOPMENT,
+VERIFIED PETITION FOR WRIT OF
+14 Petitioners and Plaintiffs, MANDATE
+
+California Environmental Quality Act (Cal. 15 V.
+Pub Res. Code § 21000 et seq.)
+16 BOARD OF TRUSTEES OF THE
+CALIFORNIA STATE UNIVERSITY;
+17 CALIFORNIA STATE UNIVERSITY
+NORTHRIDGE; DOES 1 through 4,
+18 Respondents and Defendants.
+19
+
+20 JUPITER REALTY CORPORATION; DOES 5 through 10,
+21
+
+22 Real Parties in Interest.
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+-1-
+
+VBRIFIED PETITION FOR WRIT OF MANDATE
+
+( (
+
+1 INTRODUCTION
+
+2 1.
+
+3 By this Verified Petition (*Petition"), Petitioners Mark Anthony Alcala, Walter
+
+A Rivers, and Northridge for the Environment and Equitable Development ("NEED") (collectively
+
+5 "Petitioners") challenge the approval by the Board of Trustees of the California State University
+
+6 ("CSU Board") and its member campus California State University Northridge ("CSUN")
+
+7 (collectively "Respondents") in approving the hotel/restaurant project believed to be developed as
+
+8 a public-private-partnership with Jupiter Realty Corporation ("Developer" or "Real Party").
+
+9 Specifically, on July 24, 2018, the CSU Board approved a revision to the CSUN Campus Master
+
+10 Plan and adopted a mitigated negative declaration ("MND") (collectively "Approvals") in
+
+11 furtherance of the demolishion of an existing restaurant and the construction/maintenance of a
+
+12 new resturant, 150-room hotel, 135-vehicle surface parking lot, and other related improvements
+
+13 totaling approximatly 183,000 square feet ("sf.") of development ("Project") on a 2.75-acre site
+on the CSUN campus located in the City of Los Angeles ("Site").
+
+14 2.
+
+15 Petitioners allege that the Approvals for the Project violated the California
+
+16 Environmental Quality Act, Pub. Res. Code 21000 et seq., ("CEQA"). Specifically, as set forth
+
+17 in the First Cause of Action herein, Respondents used an MND in lieu of a more comprehensive
+
+18 Environmental Impact Report ("EIR"), despite expert comments establishing a fair argument that
+
+19 the Project poses various significant environmental impacts including but not limited to air
+
+20 quality and greenhouse gas ("GHG") emissions. As set forth in the Second Cause of Action,
+
+21 Respondents failed to analyze all potentially significant environmental impacts. Finally, as set
+
+22 forth in the Third Cause of Action, Respondents failed to consider adoption of additional feasible
+
+23 mitigation measures that would further reduce potential environmental impacts.
+
+JURISDICTION
+
+24 3.
+
+25 This Court has jurisdiction under Pub. Res. Code §§ 21168 or 21168.5 and Code
+
+26 Civ. Proc §§ 1085 or 1094.5. The parties and the Project Site are located in Los Angeles County.
+
+27 The within action has been timely brought within 90 days of the Project Approval per Gov. Code
+
+28 65009, and timely brought within 30 days of the July 25, 2018 posting of the CEQA Notice of
+
+-2-
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1
+(:) (
+
+Determination for the Project per Pub. Res. Code § 21167. Petitioners served a Notice of Intent
+
+2 to file this Petition on Respondents pursuant to Pub. Res. Code § 21167.5 by mail on August 22,
+
+3 2018 as reflected in Exhibit A attached hereto. Concurrent with the filing of this action,
+
+4 Petitioners have notified the Attorney General of the State of California of the filing of this
+
+5 Petition in .accordance with Pub. Res. Code § 21167.7.
+
+6 4. As alleged herein, the violations by Respondents have affected the beneficial
+
+7 interests of Petitioners and/or their supporting members, as well as enforcement of important
+
+8 rights affecting the public interest. Issuance of the relief requested in this Petition will confer a
+
+9 substantial benefit on the public, including citizens, residents, businesses and taxpayers affected
+
+10 by CSUN, and will result in the enforcement of important public rights by requiring Respondents
+
+11 and Real Party to comply with CEQA and other legal requirements applicable to the proposed
+
+12 Project.
+
+13 5. Petitioners have no plain, speedy or adequate remedy under ordinary law unless
+
+14 this Court grants the requested writ of mandate to require Respondents to set aside the Project
+
+15 Approvals and prohibiting Respondents and Real Party from taking further actions concerning the
+
+16 Project until it has complied with those legal requirements. In the absence of such remedies,
+
+17 Respondents' decisions will remain in effect in violation of state law and injurious to Petitioners.
+
+18 The relief sought by way of this Petition will redress the likelihood of future injury and
+
+19 interference with Petitioners' beneficial interests, their supporting members, and the public's
+
+20 interest in having the law duly followed.
+
+21 PARTIES
+
+22 6. Petitioners Walter Rivers and Mark Anthony Alcala are individuals and residents
+
+23 of the City of Los Angeles and have a beneficial interest and will be impacted by the matters set
+
+24 forth in this Petition. Their interests, and the public interest, will be directly affected by the
+
+25 Project and Respondents' failure to comply with the requirements of CEQA in connection with
+
+26 the Project. Mr. Rivers and Mr. Alcala live nearby and frequent the vicinity of the Site and will
+
+27
+
+28
+-3-
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 be affected by negative Project impacts including but not limited to air quality, GHG, and other
+
+2 CEQA deficiencies.
+
+3 7. Petitioner NEED is an unincorporated association operating under a designated
+4 name by which it is known whose members include affected individuals including Petitioners
+Rivers and Alcala who have a beneficial interest in the matters set forth in this Petition including
+
+6 being affected by the negative impacts of the Project. Petitioner's mission is to ensure
+
+7 responsible development in Los Angeles, particularly the Northridge area, and informed
+
+8 decisionmaking by public officials and state agencies with regard to projects that may cause
+significant impacts to the environment in the City of Los Angeles. NEED was formed after the
+
+10 date of Project Approval pursuant to Pub. Res. Code § 21167(c).
+
+11 8. Petitioners, individually and through their members, objected to the Project
+
+12 Approvals orally and/or in writing before the close of the public hearing on the Project.
+
+13 Petitioners have exhausted all administrative remedies in that the determinations by the
+
+14 Respondents are final and no further administrative appeal procedures are provided by State or
+
+15 local law. All issues submitted for judicial review in this Petition were sufficiently raised and
+
+16 disputed with Respondents before the final approval of the Project. Respondents were given
+
+17 notice and the opportunity to act in compliance with CEQA but failed to do so. It is well-
+
+18 established that any party who participates in the administrative process can assert all factual and
+
+19 legal issues raised by any commenting party, official or agency. Citizens for Open Government v.
+
+20 City of Lodi (2006) 144 Cal.App.4th 865, 875.
+
+21 9. Respondent Board of Trustees of the California State University ("CSU Board") is
+
+22 the governing body of the California State University ("CSU") system, a public institution of
+
+23 higher education established by the California Legislature in 1960 to offer undergraduate,
+
+24 graduate and professional instruction at its member campuses. Ed. Code § 66010.4(b); City of
+
+25 San Diego v. Board of Trustees of California State University (2015) 61 Cal.4th 945, 950.
+
+26 11
+
+27 /11
+
+28
+A-
+
+VBRIFIBD PETITION FOR WRIT OF MANDATE
+
+( (
+
+- 10. Respondent California State-University Northridge ("CSUN") is a member of the
+
+2 CSU system and served as the lead agency during the Project's CEQA review, including the
+
+3 preparation and circulation of the Project's initial study, MND, response to comments received,
+
+4 as well as the initial determinations regarding the Project's impact on the environment.
+5 11. Real Party in Interest Jupiter Realty Corporation ("Developer" or "Real Party") is
+1O believed to be an Illinois corporation selected by CSUN to develop the Project via a public-
+private-partnership and, therefore, Real Party will be the ultimate recipient of the Project
+Approval.
+
+9 12. The true names, capacities, corporate, associate or otherwise of Respondents and
+
+10 Real Parties named herein as DOES 1 through 10, inclusive, are unknown to Petitioners who,
+
+11 therefore, sue said Respondents and Real Parties by fictitious names. Petitioners will amend this
+
+12 Petition to show the true names and capacities when they have been ascertained.
+
+13 GENERAL ALLEGATIONS
+
+14 13. THE SITE: The Project Site lies within an eight-acre, square-lot known as the
+
+15 "Orange Grove" located at the southeast corner of the CSUN campus that fronts the northern side
+
+16 of Nordhoff Street between Lindley Avenue and Matador Drive. The Orange Grove is a remnant
+
+17 of the San Fernando Valley's agricultural heritage that includes a duck/turtle pond, observatory,
+
+18 and numerous Sycamore, Citrus, and other trees. Under the CSUN Master Plan, the vast majority
+
+19 of the Orange Grove is designated as "Character-Defining Open Space" to be maintained,
+
+20 revitalized, and integrate into the daily life of students, faculty, staff and campus visitors. At the
+
+21 northeastern corner of the Orange Grove fronting the southern side of Dearborn Street, an
+
+22 approximate one-acre square-lot is designated for "Auxiliary Campus Services". The southern
+
+23 section of this one-acre lot is currently occupied with a single-story, 6,500 sf. restaurant known as
+
+24 the "University Club" and/or "Orange Grove Bistro". The 2.75 Project Site captures the entire
+
+25 one-acre Auxiliary Campus Service area and extends south into the Orange Grove nearly to
+
+26 Nordhoff Street.
+
+27
+
+28
+-5-
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+() 1
+
+1 14. THE PROJECT: The Project entails a revision to the CSUN Master Plan to allow
+
+2 the demolition of the University Club and construction of a new restaurant and hotel to be
+
+3 developed as a public-private-partnership. Construction will take approximately two years to
+
+4 complete and chiefly include:
+
+5 On the northern portion of the Project Site currently occupied by the Orange Grove
+
+6 trees, a 135-vehicle, 60,000 sf. surface parking lot;
+
+7 Immediately south of the parking lot and replacing the University Club, a single-
+
+8 story (30-foot tall), 13,000 sf. restaurant including a bar and private dining area;
+9 and
+
+10 - Immediately south of the new restaurant and extending towards Nordhoff Street, a
+
+11 six-story (70-foot tall), 150-room hotel with 110,000 sf. of floor area including a
+
+12 conference room, fitness center, pool, and other hotel amenities.
+
+13 15. ENVIRONMENTAL REVIEW & PROJECT APPROVAL: In May 2017, CSUN signed
+
+14 a Letter of Intent ("LOI') with Real Party to develop the Project pursuant to a public-private-
+
+15 partnership with the expectation that construction would commence in early-2018 and be
+
+16 completed in late-2019.
+
+17 16. Between March and April 2018, CSUN raised serious concerns regarding
+
+18 Developer's compliance with the LOI as to Real Party's ability to secure viable equity partners
+
+19 and timely construct the Project.
+
+20 17. On April 26, 2018, CSUN released a Notice of Intent to adopt the Project's MND.
+
+21 18. On May 25, 2018, Mr. Rivers submitted a joint letter commenting on the MND's
+
+22 analysis that included concerns regarding the impacts to the Orange Grove, delays in
+
+23 construction, and potential GHG impacts; which CSUN responded to on Or around July 12, 2018.
+
+24 19. On July 23, 2018, Mr. Rivers submitted a joint letter containing supplemental
+
+25 comments, including expert analysis from environmental consultants regarding air quality and
+
+26 GHG impacts, as well as other CEQA considerations such as the development on character
+
+27 defining open space; which CSUN responded to the following day,
+
+28 •6
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+( (
+
+20. On July 24, 2018, Mr. Alcala and others spoke during the CSU Board meeting
+where concerns were raised regarding Real Party's ability to deliver the Project without missing
+further deadlines, as well as mitigating any risks associated with the Project. Nevertheless, the
+4 CSU Board adopted the MND and approved the Project with Respondents filing with the State
+
+5 Clearinghouse a CEQA Notice of Determination for the Project the following day,
+
+6 FIRST CAUSE OF ACTION
+
+7 FAILURE TO PREPARE AN EIR
+
+8 (WRIT OF ADMINISTRATIVE MANDAMUS - CODE CIV. PRO. $ 1094.5 - CEQA VIOLATIONS)
+9 21. Petitioners restate and reallege Paragraphs 1-20, as if fully set forth herein,
+
+10 22. CEQA has a strong presumption in favor of requiring preparation of an EIR. This
+
+11 presumption is reflected in what is known as the "fair argument" standard, under which an agency
+12 must prepare an EIR whenever substantial evidence in the record supports a fair argument that a
+
+13 project may have a significant effect on the environment. Laurel Heights Improvement Ass'n v.
+14 Regents of the Univ. of Cal. (1993) 6 Cal.4th 1112, 1123; No Oil. Inc, v. City of Los Angeles
+
+15 (1974) 13 Cal.3d 68, 75. A lead agency must prepare an EIR if a project may cause significant
+
+16 effects on the environment, even if the project is beneficial. Pub. Res. Code §§ 21100, 21151 and
+
+17 14 Cal. Code Regs. ("CEQA Guidelines") § 15063(b)(1).
+
+18 23. The fair argument test is a "low threshold" where a project "may" have a
+
+19 significant effect on the is environment if there is a "reasonable probability" that it will result in a
+
+20 significant impact. No Oil, Inc, 13 Cal.3d at 83-84 n. 16. Substantial evidence is enough relevant
+
+21 information and reasonable inference that a fair argument can be made to support a conclusion,
+
+22 even though other conclusions. CEQA Guidelines § 15384(a). Substantial evidence includes
+
+23 facts, reasonable assumptions predicated on facts, and expert opinions supported by facts. Pub.
+
+24 Res. Code §§ 21080(e), 21082.2(c); CEQA Guidelines § § 15064(f)(5), 15384.
+
+25 24. An agency must prepare an EIR whenever it can be fairly argued by substantial
+
+26 evidence that a project may have a significant environmental impact. If there is substantial
+
+27 evidence both for and against preparing an EIR, then the agency must prepare the EIR. Here, as
+
+28 -7-
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+( (O
+
+P fully set forth in the comments submitted by Petitioners and other commenting agencies and/or
+
+2 parties, Respondents were presented with substantial evidence - including expert opinion
+
+3 testimony - • demonstrating that the Project's MND was flawed and failed to fully disclose and
+
+4 analyze potential impacts on air quality, GHG emissions, impacts to character defining open
+space, and an unrealistic construction timeline that avoids more demanding GHG reduction
+mitigation measures to reduce the Project's mobile/operational emissions. Multiple commenters
+informed Respondents that there was a fair argument contrary to the MND's CEQA findings, and
+requested a more thorough Project-specific EIR.
+25. Here, Respondents failed to acknowledge that there was a fair argument of
+10 potentially significant impacts despite being confronted with credible opinions on all of these
+
+11 issues. Respondents should have prepared an EIR. Any one of the impacts listed above would
+lead to the requirement that an EIR was to be prepared. The Respondents' refusal to prepare an 12
+
+13 EIR was not based on substantial evidence and was a failure to proceed according to the law.
+
+14 Accordingly, Respondents should have circulated an EIR for the Project.
+
+15 SECOND CAUSE OF ACTION
+
+16 FAILURE TO ANALYZE ALL POTENTIALLY SIGNIFICANT IMPACTS: FINDINGS NOT BASED ON
+
+17 SUBSTANTIAL EVIDENCE (CEQA, PUB. RES. CODE $ 21000 ET SEQ.)
+
+18 26. Petitioners restate and reallege Paragraphs 1-25, as if fully set forth herein.
+
+19 27. CEQA requires that a lead agency identify all potentially significant impacts of a
+
+20 project. It further requires that the lead agency's findings must be based on substantial evidence.
+
+21 Pub. Res. Code § 21082.2.
+
+22 28. Respondents failed to identify a number of potentially significant impacts as to air
+
+23 quality, GHG emissions, character defining open space, and relied upon unrealistic construction
+
+24 timelines. Its findings that these impacts were not significant, and that they were mitigated to a
+
+25 less than significant level, were not based on substantial evidence.
+
+26 /1/
+
+27 /11
+
+28
+-8-
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+(O (0 r
+
+THIRD CAUSE OF ACTION
+N 60 7 10 10 FAILURE TO MITIGATE SIGNIFICANT IMPACTS; FINDINGS NOT BASED ON SUBSTANTIAL
+EVIDENCE (CEQA, PUB. RES. CODE $ 21000 ET SEO.)
+
+29. Petitioners restate and reallege Paragraphs 1-28, as if fully set forth herein.
+30. CEQA requires an agency to adopt feasible mitigation measures that will
+substantially lessen or avoid the project's potentially significant impacts and to describe those
+A mitigation measures in the CEQA review document. Pub. Res. Code § 21081.6(b), This
+
+upon a 8 obligation is particularly important in the case of an MND as it depends for its it existence
+
+9 finding of no significant impacts.
+
+10 31. A lead agency must impose all feasible mitigation measures to reduce impacts to
+
+11 less than significant levels.
+
+12 32. The MND failed to identify potential significant impacts discussed above and,
+
+13 therefore, waived any consideration to adopt additional feasible mitigation measures that would
+
+14 further reduce potential impacts. For example, Respondents failed to prepare a health risk
+
+15 assessment to identify air quality impacts and feasible mitigation measures. Similarly, the
+
+16 Respondents failed to incorporate GHG mitigation measures advanced under the California Air
+
+17 Resources Board's 2017 Scoping Plan or CSUN's Climate Action Plan. Respondents' failure to
+
+18 consider and adopt these measures represented : failure to proceed by law in violation of CEQA.
+PRAYER FOR RELIEF 19
+
+20 WHEREFORE, Petitioners pray for the following relief:
+
+21 1. That the Court enters a peremptory writ of mandate ordering Respondents to set
+
+22 aside and void the Project Approvals, pending its full compliance with CEQA including
+
+23 preparation of an EIR.
+
+24 2. For a judgment enforcing the duty imposed upon Respondents by CEQA to
+
+25 prepare an EIR adequately addressing potential impacts to the environment in any subsequent
+
+26 action taken regarding the Project.
+27
+
+28
+9.
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+(1) (
+
+1 3. For a judgment enforcing the duty imposed upon Respondents by CEQA to
+2 adequately consider mitigation to reduce significant impacts in any subsequent action taken
+
+3 regarding the Project.
+
+4 4. That the Court issue a temporary stay, stay, temporary restraining order, and/or an
+5 injunction ordering the Respondents, Real Party, their agents and successors to refrain from
+
+6 proceeding with the Project and issuing further permits while this Petition is pending.
+
+7 5. That the Court issue a permanent injunction ordering the Respondents and Real
+
+8 Party to refrain from proceeding with the Project pending Respondents' full compliance with
+9 CEQA including preparation of appropriate CEQA documentation.
+10 6. For Petitioners' costs and fees pursuant to Code of Civil Procedure; and
+11 7. For other and further relief as the Court finds proper,
+
+12
+
+13 DATED: August 23, 2018 LAW OFFICE OF GIDBON KRACOV
+
+14
+
+15
+
+16 By: Moz
+
+17 GIDEON KRACOV
+
+18 Attorney for PETITIONERS
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+-10-
+
+VBRIFIED PETITION FOR WRIT OF MANDATE
+
+(O (O
+
+VERIFICATION ~
+
+2 I, Mark Anthony Alcala, have read the VERIFIED PETITION FOR WRIT OF
+co MANDATE and know its contents. The matters stated therein are true to my own knowledge and
+4 belief, except as stated on information and belief, and to those matters I believe them to be true.
+
+5
+
+6 I declare under penalty of perjury under the laws of the State of California that the
+7 foregoing is true and correct,
+
+8
+
+10 Executed on August 23, 2018, at Phoenix, Arizona.
+
+11
+
+12 Ilaue Anetheny Alcala Mark Anthony Alcala 13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+-11- 28
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+EXHIBIT A
+
+F MO GIDEON KRACOV (
+
+Attorncy at Law
+801 South Grand Avenue
+11th Floor Los Angoles, Callfornia 90017
+
+(213) 629-2071
+Fax: (213) 623-7755 gk@gideonlaw.net
+www.gidconlaw.net
+
+August 22, 2018
+
+VIA U.S. Mail:
+
+Ken Rosenthal, Associate Vice President Michelle Kiss, Trustee Secretariat
+Facilities Planning, Design & Construction CSU Office of the Chancellor
+California State University Northridge California State University 18111 Nordhoff Street 401 Golden Shore
+Northridge, CA 91330 Long Beach, CA 90802
+
+RE: NOTICE OF INTENT TO FILE CEQA PETITION IN THE MATTER OF THE APPROVAL OF THE CSUN ON-
+CAMPUS HOTEL PROJECT (18111 NORDHOFF STREET, LOS ANGELES, CA)
+
+Dear Mr. Rosenthal and Ms. Kiss:
+
+This is to inform you that Petitioners Walter Rivers, Mark Anthony Alcala, and unincorporated association Northridge for the Environment and Equitable Development (collectively "Petitioners") will be filing suit against the Board of Trustees of the California State University ("CSU Board") and California State University Northridge ("CSUN") (collectively "Respondents"), challenging CSU Board's approval of the CSUN on-campus hotel development located at 18111 Nordhoff Street ("Project"), which includes the approval of revisions to the CSUN Master Plan and adoption of the Project's Mitigate Negative Declaration (State Clearinghouse No. 2018041064) ("MND") (collectively "Project Approvals").
+As agents of the CSU Board and CSUN, please take notice, under Pub. Res. Code 21167.5, that Petitioners allege that the Project Approvals violated the California Environmental Quality Act ("CEQA"). Specifically, Respondents use of an MND in lieu of a more comprehensive Environmental Impact Report ("EIR"), failure to analyze all potentially significant environmental impacts and support their determinations with substantial evidence, and failure to consider adoption of additional feasible mitigation measures. Petitioners intend to pray for the following relief:
+1. That the Court enters a peremptory writ of mandate ordering Respondents to set aside and void the Project Approvals, pending its full compliance with CEQA including preparation of an EIR.
+2. For a judgement enforcing the duty imposed upon Respondents by CEQA to prepare an EIR adequately addressing potential individual and cumulative impacts to the environment in any subsequent action taken regarding the Project.
+3. For a judgement enforcing the duty imposed upon Respondents by CEQA to adequately consider mitigation to reduce significant impacts in any subsequent action taken regarding the Project.
+4. That the Court issue a temporary stay, stay, temporary restraining order, and/or an injunction ordering the Respondents, Real Party, their agents and successors to refrain from proceeding with the Project and issuing further permits while this Petition is pending.
+
+Mr. Rosenthal and Ms. Kiss
+• August 23, 2018 M (
+Page 2 of 2
+
+5. That the Court issue a permanent injunction ordering the Respondents and Real Party to refrain from proceeding with the Project pending Respondents' full compliance with CEQA including preparation of appropriate CEQA documentation. 6. For Petitioners' costs and fees pursuant to Code of Civil Procedure; and 7. For other and further relief as the Court finds proper.
+You will be served with the Petition shortly
+
+Sincerely, Ml
+Gideon Kracov
+Attorney for Petitioners
+
+(
+
+1 PROOF OF SERVICE
+
+2 I, Jordan Sisson, being duly sworn, deposes and says:
+3 a I am a citizen of the United States and work in Los Angeles County, California. I am over the age of
+4 eighteen years and am not a party to the within entitled action. My business address is: 801 S. Grand Avenue, 11th Floor, Los Angeles, CA 90017. On August 22, 2018, I served this list of persons with the
+5 following document(s):
+
+-
+6 NOTICE OF INTENT TO FILE CEQA PETITION
+
+7 The document(s) was served on:
+
+8 Ken Rosenthal, Associate Vice President
+Facilities Planning, Design & Construction
+California State University Northridge RESPONDENTS CALIFORNIA STATE
+9 18111 Nordhoff Street UNIVERSITY NORTHRIDGE
+
+10 Northridge, CA 91330
+
+11 Michelle Kiss, Trustee Secretariat
+CSU Office of the Chancellor
+12 California State University RESPONDENTS BOARD OF TRUSTEES OF
+401 Golden Shore THE CALIFORNIA STATE UNIVERSITY
+13 Long Beach, CA 90802
+
+14 X By placing a true copy thereof enclosed in a sealed envelope, with postage thereon fully prepaid, in the United States Post Office mailbox at 801 S. Grand Ave., Los Angeles, California, 15 addressed as set forth above, I am readily familiar with my firm's practice of collection and processing correspondence for mailing. It is deposited with the U.S. Postal Service on the same
+16 day in the ordinary course of business. Iam aware that on motion of party served, service is presumed invalid if postal cancellation date of postage meter date is more than 1 day after date 17 of deposit for mailing in affidavit.
+
+18 By transmitting via electronic mail the document(s) listed above to the e-mail addresses set forth herein on this date.
+19 By submitting an electronic version of the document(s) to One Legal, LLC through the user
+20 interface at www.onelegal.com.
+
+21 Executed this August 22,2018 at Los Angeles, California
+22
+
+23
+By:
+24 JORDAN R. SISSON
+
+25
+
+26
+
+27
+
+28
+
+PROOF OF SERVICE
+
+2 PROOF OF SERVICE
+
+3 1, Jordan Sisson, being duly sworn, deposes and says:
+
+4 am a citizen of the United States and work in Los Angeles County, California. I am over the
+
+5 eighteen years and am not a party to the within entitled action. My business address is: 801 S. Grand
+following document(s): age of
+
+6 Avenue, 1 1th Floor, Los Angeles, CA 90017. On August 23. 2018, I served this list of persons with the
+
+7 NOTICE TO ATTORNEY GENERAL OF CEQA ACTION
+The document(s) was served on:
+
+8 Sally Magnani
+
+9 Department of Justice
+The State of California
+
+3 1300 I Street, Suite 125 Sacramento, CA 94244
+
+11 Sally.magnani@dog.ca.gov
+
+X
+12
+
+13 By placing a true copy thereof enclosed in a sealed envelope, with postage thereon fully prepaid, in the United States Post Office mailbox at 801 S. Grand Ave., Los Angeles, California,
+
+14 addressed as set forth above. am readily familiar with my firm's practice of collection and processing correspondence for mailing. It is deposited with the U.S. Postal Service on the same day in the ordinary course of business. I am aware
+
+15 that on motion of party served, service is
+
+X presumed invalid if postal cancellation date of postage meter date is more than 1 day after date of deposit for mailing in affidavit.
+
+16 By transmitting via electronic mail the herein on this date.
+
+17 document(s) listed above to the e-mail addresses set forth
+
+18 By submitting an electronic version of the document(s) to One Legal, LLC through the user interface at www.onelegal.com.
+
+19
+
+20 Executed this August 23, 2018 at Los Angeles, California
+
+21 S By:
+
+23 JORDAN R. SISSON
+
+24
+
+25
+
+26
+
+27
+
+28
+-1-
+
+PROOF OF SERVICE
+
+30130 Oll. JOD SGE JO AN3HAL
+CO :6 WV 62 9NV 010Z
+7V83:50 A 8OILY 03/3038

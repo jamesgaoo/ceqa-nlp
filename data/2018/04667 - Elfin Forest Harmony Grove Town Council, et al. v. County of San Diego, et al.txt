@@ -1,0 +1,1919 @@
+LAW OFFICES OF ABIGAIL SMITH ABIGAIL A. SMITH SBN 228087
+2 1455 Frazee Road, Suite 500 San Diego, CA 92108 3 Telephone: (951) 506-9925 Facsimile: (951) 506-9725
+4 Email: abby@socalceqa.com
+
+5 Attorneys for Petitioners, Elfin Forest Harmony Grove Town Council, Cleveland National Forest Foundation, and Endangered Habitats League
+6
+
+7
+
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+9 COUNTY OF SAN DIEGO
+
+10
+
+11 ELFIN FOREST HARMONY GROVE CASE NO.:
+TOWN COUNCIL, CLEVELAND
+12 NATIONAL FOREST FOUNDATION, and ENDANGERED HABITATS Assigned to:
+13 LEAGUE, Dept. Action Filed: August 24, 2018
+
+14 Petitioners,
+
+15 V.
+NOTICE TO ATTORNEY GENERAL
+16 COUNTY OF SAN DIEGO, OF PETITION FOR WRIT OF
+
+17 Respondent, MANDATE (CEQA)
+
+18 INTEGRAL COMMUNITIES, LLC; THE EDEN HILLS PROJECT OWNER, LLC; (Pub. Res. C. § 21167.7)
+19 RCS - HARMONY PARTNERS, LLC;
+20 SUNROAD NEVADA ENTERPRISES,
+INC.: and DOES through 100, inclusive,
+21 Real Parties in Interest.
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 Notice to Attorney General
+
+1 TO THE ATTORNEY GENERAL OF THE STATE OF CALIFORNIA:
+
+2 PLEASE TAKE NOTICE, pursuant to Public Resources Code Section 21167.7, that on
+3 August 24, 2018, Petitioners, ELFIN FOREST HARMONY GROVE TOWN COUNCIL,
+4 CLEVELAND NATIONAL FOREST FOUNDATION, and ENDANGERED HABITATS
+5 LEAGUE, filed a Verified Petition for Peremptory Writ of Mandate pursuant to the California
+
+6 Environmental Quality Act ("CEQA") challenging the approval by the COUNTY OF SAN DIEGO
+(the County") of the Valiano Specific Plan Project ("the Project"), which proposes the
+
+8 construction of up to 380 residential units on roughly 240 vacant acres in the unincorporated area
+
+9 of Eden Valley/Harmony Grove in the County of San Diego.
+
+10 Under the County of San Diego General Plan ("General Plan"), the Project site would be
+
+11 limited to 118 units. The Project received a General Plan Amendment to allow the Project to build
+
+12 more than triple the number of allowable units (approximately 380 units) as well as to remove
+
+13 roughly 40 acres of the Project site from the boundaries of the Elfin Forest Harmony Grove
+
+14 Community Subarea Plan, which is a component of the General Plan. As a result, the Project is no is
+
+15 longer subject to the Subarea Plan's minimum lot size requirement of two acres, among other
+
+16 requirements that are intended to preserve the rural character and nature of the planning area. Yet,
+the Project continues to conflict with numerous General Plan policies, particularly those related to
+17 reductions of greenhouse gas emissions ("GHGs") and fire safety, as alleged in the Petition.
+18 The County failed to comply with CEQA in certifying an Environmental Impact Report
+19 ("EIR") for the Project. Among other deficiencies, the EIR ignores the cumulative impacts
+20 associated with approving the Valiano Project together with numerous other residential projects,
+21 including the nearby Harmony Grove Village South Project. The County has approved, or is in the
+22 process of approving, numerous General Plan Amendments to allow similar residential projects in
+23 rural or semi-rural areas to exceed allowable densities as permitted under the General Plan. The
+24 EIR for the Valiano Project fails to evaluate and mitigate the cumulative effects of this
+25 development in terms of inter alia land use and GHG impacts. For these and the other reasons
+26 alleged in the Verified Petition for Peremptory Writ of Mandate (transmitted herewith), the
+27| decisions approving the Project and certifying the Project's EIR must be overturned.
+28 2
+
+Notice to Attorney General
+
+DATED: August 27, 2018 Respectfully submitted,
+LAW OFFICES OF ABIGAIL SMITH
+2
+
+3
+
+4 By: Olt uid Anith
+Abigail A. Smith 5 Attorneys for Petitioner
+6
+
+7
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 3
+
+Notice to Attorney General
+
+PROOF OF SERVICE AND CERTIFICATION
+
+I am employed in the County of San Diego, State of California. I am over the age of 18 and not a party to the within action; my business address is 1455 Frazee Road, Suite 500, San Diego, CA 92108.
+On August 27, 2018, I served the foregoing document(s) described as:
+NOTICE TO ATTORNEY GENERAL OF CEQA PETITION FOR WRIT OF MANDATE
+by causing a true copy thereof to be delivered to the party and address set forth below:
+Office of the Attorney General
+1300 "I" Street
+Sacramento, CA 95814-2919
+
+X BY U.S. MAIL/PRIORITY MAIL: I deposited such envelope for priority mail service with the US Postal Service. am aware that on motion of the party served, service is presumed invalid if the postage cancellation date or postage meter date on the envelope is more than one day after the date of deposit for mailing set forth in this declaration.
+declare under penalty of perjury under the laws of the State of California that the foregoing is true and correct. Executed on August 27, 2018 at San Diego, CA.
+
+Abigail Smith
+
+PROOF OF SERVICE
+
+:l
+
+- LAW OFFICES OF ABIGAIL SMITH
+2 ABIGAIL A. SMITH SBN 228087 1455 Frazee Road, Suite 500 San Diego, CA 92108 3 Telephone: (951) 506-9925
+4 Facsimile: (951) 506-9725 Email: abby@socalceqa.com
+
+5 Attorneys for Petitioners, Elfin Forest Harmony Grove Town Council, Cleveland National
+
+6 Forest Foundation and Endangered Habitats League
+
+7
+
+8
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+9 COUNTY OF SAN DIEGO
+10
+
+11 ELFIN FOREST HARMONY GROVE CASE NO.:
+12 TOWN COUNCIL, CLEVELAND
+NATIONAL FOREST FOUNDATION, and JUDGE:
+13 ENDANGERED HABITATS LEAGUE, DEPARTMENT:
+ACTION FILED: 14 Petitioners,
+15 VS.
+VERIFIED PETITION FOR WRIT OF 16
+COUNTY OF SAN DIEGO, MANDATE AND COMPLAINT FOR
+17 DECLARATORY RELIEF
+
+18 Respondent,
+
+INTEGRAL COMMUNITIES, LLC; THE (Code Civ. Proc. §§ 1094.5 and 1085; Cal. 19
+EDEN HILLS PROJECT OWNER, LLC; Pub. Res. C. § 21000 et seq.; State CEQA 20 RCS - HARMONY PARTNERS, LLC; Guidelines § 15000 et seq.)
+21 SUNROAD NEVADA ENTERPRISES, INC.; and DOES through 100 inclusive, CASE DESIGNATION: CEQA 22
+
+23 Real Parties In Interest.
+
+24
+
+25
+INTRODUCTION
+26
+
+27 1. This action challenges the approval by the County of San Diego of the Valiano
+
+28 Specific Plan project ("the Project") to include the certification of a Final
+
+-] -
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+Environmental Impact Report ("EIR") pursuant to the California Environmental
+
+2 Quality Act ("CEQA") as a well as a General Plan Amendment to allow a dense
+residential project in an area designated by the General Plan for semi-rural
+
+4 development. The Project presents a host of adverse, unmitigated environmental
+
+5 impacts, including serious risks to public safety as a result of fire evacuation issues.
+
+6 The Project - a suburban housing development - also conflicts with numerous
+
+7 policies of the General Plan aimed at preserving semi-rural lands as well as
+
+8 undermines the ability of the County to maintain consistency with the General Plan
+9 in terms of sustainable growth. Accordingly, Petitioners, Elfin Forest Harmony
+
+10 Grove Town Council, Cleveland National Forest Foundation, and Endangered
+11 Habitats League ("Petitioners") respectfully request issuance of a peremptory writ
+12 of mandate setting aside the decisions of Respondent, County of San Diego
+
+13 ("County"), made on or about July 25, 2018, approving the Project.
+14 2. The Project involves the construction of up to approximately 380 housing units on
+15 239 acres of natural lands in the unincorporated area of Eden Valley and Harmony
+16 Grove in the County of San Diego. The County certified an EIR for the Project
+
+17 finding that impacts were significant and unmitigable in the areas of air quality
+18 (conflict with air quality plans), transportation (conflict with transportation plans)
+
+19 and aesthetics (short-term). These significant impacts are largely due to the fact the
+
+20 Project proposes a vastly denser development than envisioned by applicable
+21 regional planning documents. The County's approval of the EIR was in error and
+
+22 fails to comply with CEQA; notably, the County failed to comply with CEQA's
+23 "substantive mandate" to adopt all feasible mitigation and project alternatives prior
+24 to approving a project with significant impacts.
+
+25 3. The County's 2011 General Plan would have limited the Project site to 40
+
+26 residential units. A subsequent amendment in January 2012 as part of the Property
+27 Specific Requests increased this to 118 residential units. The Project includes a
+
+28
+
+-2-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+General Plan Amendment to allow the applicant to further triple this density by
+
+2 developing up to 380 units as well as to remove 44 acres of the "project site" from
+
+3 the boundaries of the Elfin Forest Harmony Grove Community Subarea Plan
+
+4 ("EFHGSP"), which is a component of the County's General Plan. The purpose of
+
+5 removing this acreage is to allow the Project to avoid the strict requirements of the
+
+6 EFHGSP including related to minimum lot sizes. However, even with the General
+
+7 Plan Amendment, there are still conflicts between the Project and numerous other
+
+8 policies of the General Plan including those related to concentrating growth in
+
+9 urban areas and discouraging growth in rural and semi-rural areas. As a result of
+
+10 the numerous conflicts between the Project and the General Plan, the County's
+
+11 approval of the a Project is a prejudicial abuse of discretion, is not supported by
+
+12 substantial evidence, or otherwise fails to comply with the law.
+13 4. Finally, the Valiano Project was approved at the same hearing as two other housing
+
+14 development projects - Harmony Grove Village South ("HGVS") and Otay 250. The
+15 County in fact "bundled" the three projects as part of the same General Plan
+
+16 Amendment. Approving three General Plan Amendments to allow vastly greater
+
+17 building densities in areas not designated for such growth creates internal
+
+18 inconsistencies and conflicts with policies of the General Plan. Petitioners thus seek
+
+19 a declaration that the County's approval of the GPAs creates an internal
+
+20 inconsistency in the General Plan, is an abuse of discretion, or otherwise fails to
+21 comply with the law.
+
+22 5. By this verified petition and complaint, Petitioners allege the following:
+
+23 PARTIES
+
+24 6. Petitioner, Elfin Forest Harmony Grove Town Council ("EFHGTC"), is a 501(c)(3)
+
+25 non-profit corporation that provides a forum for residents in the Elfin Forest and
+26 Harmony Grove communities to address local issues; acts to maintain the area's
+27 rural characteristics, and; represents the community in discussions with outside
+
+28
+
+-3-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+- interests. The Town Council participated extensively in the administrative process
+
+2 leading up to the County's adoption of its 2011 General Plan, and thus has a
+
+3 significant stake in ensuring the County follows through on the commitments it
+4 made there. Members of the Town Council also live, work, and recreate in the
+
+5 vicinity of the proposed Project, and thus will be impacted by the increased
+
+6 traffic, wildfire risk, and other environmental impacts of the Project.
+
+7 7. Petitioner Endangered Habitats League ("EHL") is a tax-exempt non-profit
+
+8 California corporation dedicated to the conservation of native ecosystems and to
+
+9 sustainable land use and transportation planning. Since 1991, EHL has engaged in
+10 planning partnerships across Southern California and worked to create habitat
+
+11 preserve systems, now threatened by climate change. EHL is extremely active in the
+12 San Diego region, where many of its members live and enjoy the biological
+13 diversity in the area, and served on the County advisory committee for the 2011
+
+14 General Plan Update. EHL submitted written comments to the County objecting to
+15 and commenting on the Project and EIR.
+
+16 8. Petitioner Cleveland National Forest Foundation ("CNFF") is a nonprofit
+17 corporation dedicated to preserving the plants, animals, and other natural resources
+18 of Southern California mountains by protecting the land and water they need to
+19 survive. CNFF is committed to sustainable regional land use planning in San Diego
+20 County in order to stem the tide of urban encroachment on wildlands. Members of
+21 CNFF are residents and taxpayers of San Diego County.
+22 9. Respondent County of San Diego ("the County") is a political subdivision of the
+23 State of California. The County is a local governmental agency charged with the
+24 authority of regulating and administering local land use and development within its
+25 territory in compliance with the provisions of its general plan and zoning ordinances
+26 as well as applicable provisions of State law, including CEQA. The County is the
+27
+
+28
+
+-4-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+lead agency for the Project and is therefore charged with the duty of ensuring
+compliance with applicable laws.
+
+3 10. Petitioner is informed and believes, and thereon alleges, that Real Party in Interest,
+
+4 Integral Communities, LLC, is identified as the applicant for the Project, has an
+
+5 ownership interest in the property, and/or claims an interest in the Project approvals
+
+6 at the subject of this lawsuit.
+
+7 11. Petitioner is informed and believes, and thereon alleges, that Real Party in Interest,
+
+8 The Eden Hills Project Owner, LLC, is an applicant for the Project, has an
+
+9 ownership interest in the property and/or claims an interest in the Project approvals
+10 at the subject of this lawsuit.
+
+11 12. Petitioner is informed and believes, and thereon alleges, that Real Party In Interest,
+12 RCS - Harmony Partners, LLC, is the applicant for the Harmony Grove Village
+13 South project and therefore has an interest in the General Plan Amendment ("GPA")
+14 at the subject of this lawsuit.
+15 13. Petitioner is informed and believes, and thereon alleges, that Real Party In Interest,
+16 Sunroad Nevada Enterprises, Inc., is the applicant for the Otay 250 project and
+
+17 therefore claims an interest in the GPA at the subject of this lawsuit.
+18 14. DOES 1 through 100 are individuals or entities that may have an ownership interest
+19 in the property, are project applicants, or claim an interest in the approvals at the
+20 subject of this lawsuit. Petitioners are unaware of the true names or capacities of the
+21 Real Parties in Interest identified herein under the fictitious names DOES 1 through
+
+22 100 inclusive.
+
+23 STATEMENT OF FACTS
+
+24 The Proiect
+
+25 15. The Valiano Specific Plan Project is described as a plan for the development of
+26 approximately 239 acres in the unincorporated area of Eden Valley/Harmony Grove
+27 in the County of San Diego. The Project divides the site into five residential
+
+28
+
+-5-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 planning areas ("Neighborhoods") and will involve a total of 326 units: 273 single
+2 family homes and 53 detached condominium units. The Project also includes
+approximately 54 "secondary" or "accessory dwelling units."
+4 16. The Project site is located two miles west of Interstate 15, 1.5 miles south of State
+5 Route 78, east and south of the City of San Marcos, and one-quarter mile west of
+6 the City of Escondido.
+
+7 17. The site is mostly undeveloped with vegetation and natural terrain. The topography
+8 consists of steeper slopes in northern areas. Some remnant structures remain on the
+9 property from prior agricultural and equestrian uses. The agricultural operations
+10 were abandoned on the site after the 2014 Cocos Fire.
+
+11 18. Surrounding uses include low density, large lot homes in San Marcos to the west,
+12 low density homes, a vineyard and tasting room, and several equestrian ranches,
+13 including a large breeding and training facility to the east, and open space to the
+14 south. Further south is the Harmony Grove Village housing development.
+15 19. The Project proposes that vehicular access shall be provided at Eden Valley Lane,
+16 Mount Whitney Road, and two future access driveways south of Mount Whitney
+17 Road, all connecting to County Club Drive, resulting in Country Club Drive being
+18 the only ingress and egress to the Project site. The Project includes improvements
+19 to Hill Valley Drive, Eden Valley Lane and Mount Whitney Road to County
+20 standards for "Private Roads".
+21 20. The Project includes the installation of a new water main located on Eden Valley
+22 Lane. Because the Project site is currently served by individual on-site septic
+23 systems, a Major Use Permit was approved for an on-site wastewater treatment
+24 facility to provide wastewater service for the Project. The Project will require
+25 annexation into a sewer district to obtain sewer service. The wastewater treatment
+26 plant will be located in the southern portion of the Project site in Neighborhood 5.
+27 21. A portion of Neighborhood 5 will need to be detached from the County Service
+28
+
+-6-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 Area ("CSA") No. 107 and annexed into the San Marcos Fire Protection District
+2 ("SMFPD") for fire service. The Project relies upon SMFPD fire station #3 as well
+cO as the future fire station within the Harmony Grove Village development to the
+4 south for fire service. Despite these claims, the record indicates that presently there
+1A is not adequate fire service to meet the General Plan mandated minimum fire
+
+response time of five minutes.
+
+7 22. The 2011 County of San Diego General Plan designates the site as Semi-Rural 1
+
+8 ("SR1") that allows 1 unit per 1, 2, or 4 acres depending on the slope, and Semi-
+9 Rural 2 ("SR2") that allows 1 unit per 2, 4 or 8 acres. In 2011, in connection with
+10 the County's approval of the new General Plan, the owners of the Project site
+11 requested that the Land Use Designations of the site be amended to Village
+12 Residential 2 ("VR2") to allow 2 units per acre. The County declined to make this
+13 change, and instead the new General Plan retained the SR1 and SR2 land use
+
+14 designations. However, in June 2012, density was increased on one parcel to yield
+15 the current 118 units.
+
+16 23. Under the current General Plan land use designations, including the density increase
+17 granted in 2012, a maximum of 118 units is allowed. The Project applicant
+18 requested a General Plan Amendment to allow for increased density, specifically
+19 changing the site's current land use designations from SR1 and SR2 to Semi-Rural
+
+20 0.5 (1 unit per 0.5, or 2 acres).
+21 24. The entire Project site is located within the San Dieguito Community Plan Area
+22 ("SDCP"), which is a component of the County of San Diego General Plan. The
+23 SDCP focuses intense land uses within the "Village Boundary". The Project site
+
+map. The 24 lies outside the "Village Boundary" as shown on the SDCP land use
+
+25 SDCP states that it anticipates that future growth will be balanced so that areas
+
+26 outside the Village Boundary "keep its rural voice." It further states that "[a]s
+27 population increases in San Diego County and statewide, there will be continual
+28
+
+-7-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+I pressure to put higher density residential into or adjacent to Elfin Forest. However,
+
+2 given the challenges facing this community, this should not be allowed to occur."
+
+3 (emphasis added)
+
+4 25.A portion of the Project site the approximately 44 acres comprising
+
+5 "Neighborhood 5" - is also located within the Elfin Forest Harmony Grove Subarea
+
+6 Plan ("EFHGSP"), a subarea plan within the San Dieguito Community Plan Area.
+
+7 The EFHGSP was adopted in 2011 after years of planning and numerous
+
+8 community meetings; and it was later amended in 2014. The EFHGSP directs and
+9 balances land uses within the rural and semi-rural communities of Elfin Forest and
+
+10 Harmony Grove. The EFHGSP describes that the Elfin Forest community "has
+
+11 extremely strong community spirit that focuses on the preservation of Elfin Forest as
+12 a rural community." The EFHGSP describes that Elfin Forest is situated in two
+13 intersecting valleys - one running north-south and the other running east-west.
+14 These valleys are isolated by the topography of the surrounding hills and are rural in
+
+15 character. The valleys are also home to a diverse mix of native plants and animals,
+16 and the area is "high value habitat" according to regional habitat plans. According
+17 to the EFHGSP, the character of the Elfin Forest community "is based on openness:
+
+18 open land, open spaces, and undeveloped countryside with a low density of homes.
+19 Most homes are well integrated into the natural landscape. The Elfin Forest
+
+20 community encompasses approximately 4,721.1 acres that are developed with
+21 custom single-family homes on large estate lots. The homes must be located on lots
+
+22 no smaller than two acres and must utilize septic systems for sewage management."
+
+23 The EFHGSP notes that "development of vacant parcels by any standard less than
+
+24 two acres per dwelling unit poses the threat of subdivisions coming into our rural
+
+25 community which would be inappropriate." The EFHGSP has policies and
+26 requirements that direct and regulate development of the subject planning areas,
+27 including Policy LU-1.1.2 requiring minimum lot sizes of two acres, Policy LU-
+
+28
+
+-8-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1.1.3 requiring septic systems for any and all development, and Policy LU-1.1.6
+
+2 prohibiting sidewalks.
+
+3 26. The Project, as intentionally designed, does not conform to the specific
+
+4 development policies of the EFHGSP relative to lot size, septic systems or
+
+5 sidewalks. Prior to the release of the RDEIR, the applicant revised the Project
+
+6 application to include a request for a General Plan Amendment to remove the area
+
+7 of "Neighborhood 5" from the EFHGSP so that the entire site will be located
+
+8 outside of the EFHGSP. The County and the applicant assert that this amendment
+9 removes any land inconsistency between the Project and surrounding uses or
+
+10 policies and requirements of the relevant planning documents.
+
+11 27. The current zoning of the Project site is A70 Limited Agriculture. The Project
+
+12 proposes a zoning amendment to change the zoning to S88 (Specific Plan Area).
+13 28. The Project includes the following land use approvals:
+14 a) General Plan Amendment (GPA-13-001) to change the land use
+
+15 designation to allow greater densities than permitted under the current
+
+16 General Plan land use designations as well as to remove "Neighborhood
+17 5" from the EFGHSP;
+
+18 b) Specific Plan (SP-13-001) to establish the guidelines and regulations that
+19 will govern the development of the Specific Plan area, thus establishing
+
+20 the zoning that will govern the Project site;
+21 c) Zone Reclassification (REZ-13-001);
+
+22 d) Vesting Tentative Map (TM 5575);
+23 e) Site Plan (STP-13-003); and
+
+24 f) Major Use Permit (MUP-14-019) relating to the construction of the
+25 wastewater treatment plant.
+
+26 CEQA Review and Project Approval
+
+27 29. The County distributed Notice of Preparation ("NOP") of Environmental Impact
+
+28
+
+-9-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 Report on June 20, 2013 for a 30-day review and comment period.
+
+2 30. On April 30, 2015, the County prepared a Draft Environmental Impact Report
+3 ("DEIR") and released a Notice of Availability ("NOA") of DEIR with a comment a
+4 period ending on June 15, 2015.
+
+5 31.On December 8, 2016, the County released an NOA for a Recirculated Draft
+
+6 Environmental Impact Report ("RDEIR") with a comment period ending on January
+
+7 30, 2017. The NOA describes that the County revised the DEIR in the areas of
+
+8 greenhouse gas emissions (GHGs) and land use. With respect to GHGs, the RDEIR
+9 substantially modified the GHG threshold of significance and supporting analysis,
+10 but, like the DEIR, it concludes that impacts are less-than-significant and no
+11 mitigation is required.
+
+12 32. The County received a total of 176 comment letters on the DEIR and RDEIR during
+13 the public comment periods.
+
+14 33. The Project's Final EIR was prepared in or about February 2018. With respect to
+15 GHGs, the Final EIR includes entirely new analysis pursuant to a different
+16 methodology, and it concludes that impacts are less-than-significant with mitigation.
+17 34. The EIR concludes that the Project will result in significant and unavoidable
+18 impacts in the areas of direct and cumulative air quality impacts,
+19 transportation/traffic, and short-term aesthetics. In all other areas, the EIR claims
+20 that impacts are less-than-significant, or less-than-significant with mitigation
+21 imposed.
+
+22 35.On February 8, 2018, the San Dieguito Community Planning Group ("SDCPG")
+23 considered and recommended denial of the Project by a vote of 11-0-0-2. The noted
+24 issues of concern include the Project's removal of Neighborhood 5 from the
+25 EFHGSP, emergency evacuation, high fire hazards, loss of community character,
+26 significant greenhouse gas emissions, and cumulative growth.
+27 36. On May 11, 2018, the County's Planning Commission held a public hearing on the
+28
+
+-10-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+Project, and despite significant community opposition, voted to recommend
+
+2 approval of the Project to the County of San Diego Board of Supervisors by a vote
+3 of 6-1-0-0.
+
+4 37.On or about July 18, 2018, the County Board of Supervisors published an agenda
+5 regarding a public hearing on the Project. The Agenda describes that the County
+
+6 will hold a public hearing on July 25, 2018 to consider General Plan Amendment
+7 ("GPA") 18-003 that includes three sub-items: "Item A-Harmony Grove Village
+
+8 South; Item B-Valiano; and Item C-Otay 250." Hence the County noticed that
+9 it was "bundling" three major land use amendments under the auspices of a single
+
+10 GPA. The Project had not previously been described as a "bundled" activity.
+11 38. On July 25, 2018, the Board of Supervisors held a public hearing on the Project
+12 including the "bundled" GPA. Numerous persons testified as to the Valiano
+13 Project's adverse environmental effects, though many had to leave after having sat
+
+14 through the two other projects on the Agenda, and they urged the County to deny
+
+15 the Project approvals. Despite these comments, the Board of Supervisors voted to
+
+16 certify the EIR; voted to adopt Findings of Fact, a Mitigation, Monitoring and
+
+17 Reporting Program ("MMRP"), and a Statement of Overriding Considerations; and
+18 voted to approve the other land use approvals including the "bundled" GPA.
+19 39. On July 26, 2018, the County posted the CEQA Notice of Determination ("NOD")
+
+20 for the Project.
+21 JURISDICTION AND VENUE
+
+22 40. This Court has jurisdiction to issue writs of mandate under Code of Civil Procedure
+
+23 Section 1094.5 and declaratory relief under Section 1060.
+
+24 41. Venue is proper in this Court pursuant to CCP Sections 393 and 394 as the Project
+25 is located in the County of San Diego; the relevant Board of Supervisors actions
+26 were taken at the County Administration Building located in zip code 92101, where
+
+27 the County does business; and the Project includes the GPA, a County-wide action.
+
+28 42. The County's approval of the Project will cause Petitioners irreparable injury
+
+-11-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 for which Petitioners have no adequate remedy at law. Petitioners and their
+2 members will be irreparably harmed by the County's actions in approving the
+c Project. Petitioners were harmed by, among other things, the failure of the County
+4 in its certification of the EIR to adequately evaluate the potential impacts of the
+a u Project, and the County's approval of the Project without providing adequate and
+effective mitigation measures contrary to the requirements of State law.
+43. The maintenance of this action is for the purpose of enforcing important public
+
+8 policies of the State of California with respect to the protection of the environment
+9 under CEQA and conformance with state law and local law. The maintenance and
+
+10 prosecution of this action will confer a substantial benefit upon the public by
+11 protecting the public from environmental and other harms alleged in this Petition.
+12 Petitioners are acting as private attorneys general to enforce these public policies
+13 and prevent such harm.
+14 44. Petitioners have performed all conditions precedent to filing the action by
+15 complying with the requirements of Public Resources Code § 21167.5, in notifying
+16 Respondent of the filing of this action (attached hereto as Exhibit "A"), and by
+17 complying with the requirements of Public Resources Code § 21167.6, in notifying
+18 Respondent of Petitioners' election to prepare the record of Respondent's
+19 proceedings in connection with this action (attached hereto as Exhibit "B").
+
+20 EXHAUSTION OF ADMINISTRATIVE REMEDIES
+
+21 45. During the Project's administrative review process, Petitioners commented to the
+
+22 County that the Project would result in potentially significant impacts to/from
+23 including, but not limited to: aesthetics, air quality, biological resources, greenhouse
+24 gases, public safety, traffic, cumulative and growth-inducing impacts. Petitioners
+25 commented that the EIR was legally inadequate; that further mitigation was
+
+26 required; and that project alternatives were feasible. Petitioners commented that the
+27
+
+28
+
+-12-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+proposed GPA was inconsistent with the General Plan, and asked that the County
+give further consideration to the cumulative effects of the "bundling" of GPAs.
+t A 46. As a result of these comments in the record, Petitioners fully exhausted their
+administrative remedies within the meaning of Public Resources Code, § 21177.
+u FIRST CAUSE OF ACTION
+
+6 (Writ of Mandate - Violation of CEQA)
+7
+
+8 47. Petitioners hereby reallege and incorporate paragraphs 1 through 46 above as
+though set forth in full herein.
+
+10 48. The Environmental Impact Report ("EIR") is considered the "heart" of CEQA.
+
+11 (State CEQA Guidelines, § 15003 (a).) The EIR's purpose is "not to generate paper
+
+12 but to compel government at all levels to make decisions with environmental
+
+13 consequences in mind." (State CEQA Guidelines § 15003 (g).) In furtherance of
+
+14 this purpose, CEQA mandates that the EIR inform governmental decisionmakers
+
+15 and the public about the potential, significant environmental effects of proposed
+
+16 projects; identify the ways that environmental damage can be avoided or
+
+17 significantly reduced; and prevent significant, avoidable damage to the environment
+
+18 by requiring changes in projects through the use of alternatives or mitigation
+
+19 measures when the agency finds the changes to be feasible. (State CEQA
+
+20 Guidelines, § 15002.) In fact, CEQA dictates that the lead agency may not approve
+
+21 a project with significant impacts where feasible mitigation measures and
+
+22 alternatives exist. (Public Resources Code, § 21002.)
+
+23 49. CEQA prescribes that an EIR must provide a project description and that the project
+
+24 description must be accurate and complete. (State CEQA Guidelines, § 15124;
+
+25 County of Inyo v. City of Los Angeles (1977) 71 Cal.App.3d 185.) Petitioners and
+
+26 others commented that the EIR's Project Description was misleading and faulty.
+
+27 For example, Petitioners commented that the Project is described as the
+
+28 development of 326 residential units, when in reality, an additional 54 units are
+
+-13-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+-
+
+2 permitted as "secondary" units, meaning that the Project permits up to 380
+
+3 residential units. By way of further example, the County failed to accurately
+
+4 describe the proposed activity where the totality of "the Project" includes the major
+
+5 land use density changes relative to the bundled GPA. There are potentially
+
+6 significant impacts that result from allowing numerous projects to develop at much
+
+7 greater densities than allowed by the General Plan in terms of, e.g., General Plan
+
+8 GHG reduction targets, transportation issues, biology, ability to evacuate in a large
+
+9 wildfire, and affordable housing. By failing to accurately describe the totality of the
+
+10 Project in terms of the cumulative land use changes, the EIR minimizes the
+Project's full impacts.
+
+11
+
+12 50. CEQA provides that an EIR must evaluate all potentially significant environmental
+
+13 impacts of a proposed project including both direct and indirect impacts as well as
+
+14 cumulative impacts. (State CEQA Guidelines, §§ 15126, 15126.2 (a), 15130.)
+
+15 Petitioners and others commented that the EIR fails to adequately disclose, and
+
+16 conclusions are not based on substantial evidence, with respect to impacts to/from
+
+17 including, but not limited to, aesthetics, air quality, biology and habitats, greenhouse
+
+18 gas emissions, hazards, land use, noise, public safety, traffic, cumulative and
+
+19 growth-inducing impacts. By way of example, Petitioners and others commented,
+
+that:
+
+20
+
+21 a) The EIR is not supported by substantial evidence to the extent the EIR
+
+22 concludes that land use impacts are less-than-significant. The County's 2011
+
+23 General Plan, including the San Dieguito Community Plan ("SDCP") and
+
+24 Elfin Forest Harmony Grove Subarea Area Plan ("EFHGSAP"), establishes a
+
+25 commitment to the continuation of rural and semi-rural communities where
+
+26 those designations exist in the General Plan. The Project conflicts with
+
+27 General Plan objectives related to the continuation of rural and semi-rural
+
+28 land uses, and there are significant impacts that result from inconsistency
+
+-14-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+between the Project and surrounding rural residential uses. Further, there are
+
+2 numerous conflicts between the Project and specific General Plan policies
+including, but not limited to: Policies LU-3.2, LU-5.3, LU-13.2, LU-14.4, H-
+4 1.9, H-2.1, COS-11.1, COS-11.3, COS-12.1, COS-13.1, COS-14.1, COS-
+
+5 14.5, COS-15.1, COS-15.4, ME-8.1, N-1.3, S-3.6, S-6.3, S-6.4, and S-6.5.
+
+6 The EIR either does not evaluate consistency with these policies, or it does
+
+7 not demonstrate the Project's conformance with these policies based on
+
+8 substantial evidence in the record.
+9 b) The EIR fails to adequately describe and evaluate that fact that the GPA was
+10 approved to allow more residential units in the semi-rural Project area that
+11 were not planned for in the General Plan, including the Harmony Grove
+12 Village South (HGVS) project. The EIR fails to adequately disclose and
+13 evaluate the effects of this cumulative development in terms of land use and
+
+14 other impacts. Moreover, the EIR fails to disclose and evaluate the
+
+15 combined effects, either in terms of consistency with the policies of the
+
+16 General Plan or impacts on the environment, with respect to a number of
+17 GPAs that have been approved or are currently being processed by the
+
+18 County. The vast majority of these projects require a redesignation of land
+
+19 from either Rural or Semi-Rural to Village land use designations under the
+
+20 General Plan. The EIR does not evaluate the cumulative impact of the
+21 Valiano project in addition to this cumulative development either in terms of
+22 environmental impacts or General Plan consistency.
+23 c) The EIR's conclusion of less-than-significant growth-inducing impacts is not
+24 supported by substantial evidence. An EIR must evaluate any significant
+
+25 environmental effects the project might cause by bringing development and
+26 people into the area affected. (State CEQA Guidelines § 15126.2 (subd. (a).)
+27 An EIR must specifically discuss "growth inducing impacts." (Guidelines §
+28
+
+-15-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1
+
+2 15126.2 (d).) Growth-inducing impacts may occur, for instance, when a
+
+3 project removes an obstacle for growth. "The major expansion of a waste
+
+4 water treatment plant, might, for example, allow for more construction in
+
+5 service areas." (Guidelines 15126.2 (d).) The Project will include the
+
+• construction of a new wastewater treatment; this brings new services to the
+
+7 area and removes obstacles for future growth. The Project also proposes the
+
+8 widening and improvements of existing roadways, some of which are
+
+9 currently dirt roads. The Project's population and housing numbers have not
+
+10 been accounted for in regional projections, and, therefore, the Project's
+
+11 population and housing are not consistent with the growth projected for the
+
+12 area. Consequently, the Project is not "growth-accommodating" as claimed.
+
+13 The Project also creates the potential for negative "precedent-setting" insofar
+
+14 as it proposes an amendment to the General Plan to accommodate the higher
+
+15 densities, and the removal of community plan boundaries to avoid
+
+16 compliance with plan policies; future projects may follow suit in seeking
+
+17 similar amendments. Finally, this Project represents a development pressure
+
+18 on surrounding agricultural uses and large lots to convert to high density
+residential.
+
+19
+
+20 d) The EIR's conclusion of less-than-significant impacts due to wildland fires is
+
+21 not supported and the Project presents significant public safety risks related
+
+22 to fire evacuation both on project-specific and cumulative bases. As
+
+23 Petitioners and others repeatedly commented in the record, the EIR fails to
+
+24 adequately evaluate and mitigate evacuation risk/hazards to the surrounding
+
+25 rural community in the event of a wildland fire. In the Coco's fire in 2014,
+
+26 which burned over 90% of the Project footprint, current residents of Eden
+
+27 Valley and Harmony Grove had difficulties evacuating because of congested
+
+28 road conditions. There is only one narrow two-lane road (Country Club
+
+-16-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+2 Drive) to exit the community. Residents commented during the Project's
+
+J administrative review process that fire evacuation problems can be expected
+
+4 to increase with the Project. The Project's Fire Protection Plan (FPP) fails to
+fully evaluate and mitigate the impact of adding density in a valley prone to
+
+6 devastating fires without improving the road infrastructure to accommodate
+
+7 the higher number of evacuating vehicles. Further, the Project improperly
+
+8 relies on the future construction of a fire station within the nearby Harmony
+Grove project (Mitigation Measure HZ-3). This is inadequate where the
+
+10 County's General Plan requires that all projects meet service response times,
+
+11 and where the EIR does not demonstrate based on substantial evidence that
+
+12 the Project will satisfy the 5-minute service response time applicable to the
+Project site.
+
+13 e)
+
+14 The EIR fails to demonstrate based on substantial evidence that the Project
+
+15 has fully evaluated and mitigated the Project's Greenhouse Gas emissions
+
+16 ("GHGs"). The Project represents a new source of GHG emissions, with the
+
+17 majority of emissions being attributable to mobile sources. As mitigation for
+
+18 the potentially significant impact, the Project relies on the purchase of
+
+19 "carbon credits" However, the EIR fails to demonstrate based on
+
+20 substantial evidence that the purchase of carbon credits allows the County to
+
+21 achieve the emission reduction targets set forth in the County's new Climate
+
+22 Action Plan (CAP) adopted in February 2018. First, the "carbon credits" are
+
+23 ill-defined and not shown to be related to reducing emissions in the County,
+
+24 which is the sole purpose of the County's CAP. The applicant is permitted
+
+25 under the Project's mitigation program to purchase carbon offsets from an
+
+26 unspecified registry without showing that the credits will actually reduce
+
+27 carbon emissions in the County. Based on the nature of the available
+
+28 registries, carbon offsets may (and are likely) to be purchased relating to
+
+-17-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+emissions in other parts of California, or even out of state or out of country.
+2 Second, because there are other approved and proposed GPAs that also rely
+3 on, or intend to rely on, the carbon offsets for mitigation for significant GHG
+4 emissions (e.g. the Harmony Grove Village South project), there is not
+5 substantial evidence in the record to show that the Project's cumulative GHG
+
+6 emissions are reduced below levels of significance. In other words, the
+
+7 record does not evaluate or disclose based on substantial evidence how, if all
+
+8 GPAs rely on carbon offsets, the County can still achieve its emission
+9 reduction targets. Third, the County has determined that carbon offsets are
+10 only available as mitigation if all feasible on-site design features and
+11 mitigation measures have been incorporated into the proposed project, and
+12 all design features and mitigation measures must be supported by substantial
+13 evidence that impacts have been reduced. This rule makes sense since it is
+14 the goal of the 2018 CAP to reduce County-wide emissions and not simply
+15 rely on off-sets in other areas outside the County. However, the Project has
+16 not first adopted all feasible on-site mitigation measures. For instance, the
+17 Project will not be served by public transit which is one tangible way to
+18 reduce mobile GHG emissions - again the most significant source of GHG
+19 emissions due to the Project. Lastly, the 2018 CAP is currently under legal
+
+20 challenge by Sierra Club and other plaintiffs, with the lawsuit alleging that
+21 the carbon offsets are inadequate mitigation under CEQA. More
+22 particularly, the lawsuit alleges that the 2018 CAP does not meet the
+23 emission reduction requirements pursuant to County General Plan Mitigation
+
+24 Measure CC-1.2. The County's reliance on the carbon offsets as mitigation
+25 for the Project, when this mitigation approach is currently under legal
+
+26 challenge, renders the Project's mitigation program uncertain, and therefore
+
+27
+
+28
+
+-18-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+-
+
+2 the record does not demonstrate based on substantial evidence that Project
+
+3 mitigation is enforceable and effective as required.
+
+f)
+
+4 The EIR lacks substantial evidence or fails to disclose relevant information
+
+5 relative to the Project's conformance with applicable regional plans. For
+instance, the Project is located outside of the Urban Area Transit Strategy
+
+7 Boundary, according to SANDAG's Regional Transportation
+
+8 Plan/Sustainable Community Strategy ("RTP/SCS"). The EIR lacks support
+
+9 for the conclusion that the Project is consistent with the RTP/SCS, or the
+
+10 EIR otherwise fails to disclose relevant information relative to conformance
+
+11 with the RTP/SCS, because the Project's density is far greater and the
+
+12 number of dwelling units is higher than what was included in the land use
+
+13 assumptions for San Diego. The Project must therefore evaluate the
+
+14 Project's unplanned growth on regional climate goals and plans. The
+
+15 RTP/SCS assumes the development of denser communities, namely that
+
+16 80% of all housing would be developed within urbanized areas of the
+
+17 western part of San Diego - not the Project area. The RTP/SCS is based on
+
+18 the fact that Vehicle Miles Traveled (*VMT") will be reduced because of the
+
+19 concentration of development in certain urban areas. The Project is contrary
+
+20 to the assumed development patterns and therefore has impacts that have not
+
+21 been adequately evaluated and are not addressed in the mitigation program.
+
+22 g) The conclusion of less-than-significant aesthetic impacts (long-term) is not
+
+23 supported by substantial evidence. The Project entails substantial grading of
+
+24 natural landforms and the construction of homes extending up hillsides as
+
+25 well as installation of manufactured slopes, retaining walls, sound walls, and
+
+26 extensive fencing. The Project introduces an area of mass grading and man-
+
+27 made structures where none currently exists in the visual setting. The
+
+28 conversion of vacant land with sensitive biological areas and natural
+
+-19-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+NmtAO landforms to urban uses will result in irreversible changes to the area.
+Dominant visual elements of the Project on the eastern side will include
+extensive manufactured slopes on the Project's eastern boundary. Slopes for
+instance in Neighborhood 4 will be a maximum of 60 feet. Aesthetic impacts
+are also significant in the long-term because the Project is not consistent with
+policies of the County's General Plan including but not limited to Policy
+7 COS-12.1. The Project does not preserve hillsides and ridgelines: mass
+
+8 grading of natural landforms will occur. Also, the planned residential
+9 development with fencing, sidewalks, and street-lights undermines the
+10 General Plan's goals and policies of preserving the area's decidedly rural
+11 character.
+
+12 51. CEQA establishes a duty on the part of the lead agency to mitigate the
+13 significant environmental impacts of a project. (Public Resources Code § 21002,
+14 21002.1; State CEQA Guidelines, § 15021 (a).) A lead agency may not approve a
+15 project for which there are significant environmental impacts unless the agency
+16 makes findings that: (a) mitigation measures have been required of the project
+17 which avoid or substantially lessen the significant environmental impacts, or (b)
+18 mitigation measures are found to be infeasible based on substantial evidence.
+19 (Public Resources Code §§ 21081, 21081.5; Guidelines, §§ 15091 (a)(b), 15092
+
+20 (b).) Petitioners and others commented that not all feasible mitigation was required
+21 of this Project, and Petitioners and others proposed feasible mitigation that has not
+22 been shown to be infeasible based on substantial evidence in the record. For
+
+23 instance, Petitioners proposed mitigation with respect to, for instance, fire
+
+24 evacuation where they proposed that the Project construct a roadway connection
+
+25 from the Project site to La Moree Road to provide an additional point of
+
+26 ingress/egress.
+
+27
+
+28
+
+-20-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+52. CEQA provides that adopted mitigation measures must be certain and enforceable.
+
+2 (Public Resources Code § 21081.6(b); State CEQA Guidelines, § 15126.6(a)(2).)
+
+3 The lead agency must ensure that mitigation measures are required by or
+
+4 incorporated into the project. (Public Resources Code §21081.6 (b).) Petitioners and
+
+5 others commented that proposed mitigation measures were uncertain, unenforceable,
+
+6 ineffective and/or deferred in violation of CEQA. By way of example, Petitioners
+
+7 and others commented that energy impact mitigation is illusory and unenforceable.
+
+8 The EIR heavily relies on the Project's use of solar energy to find that energy
+
+9 impacts are less-than-significant, i.e., the EIR assumes significant reductions in
+
+10 energy consumption based on the use of solar energy. The EIR implies that the
+
+11 Project's homes will be 100% solar, but solar energy is not an enforceable
+12 requirement. In fact, the EIR indicates that the Project may use solar energy, or
+
+13 encourage participation in SDG&E's EcoChoice program, or "equivalent" measures.
+
+14 SDG&E's EcoChoice is a voluntary program by which individual homeowners must
+15 elect to participate and continue participation; further, the "equivalent" measures are
+
+16 not defined or disclosed. Accordingly, energy mitigation is unenforceable and
+
+17 deferred in violation of CEQA. Moreover, because the EIR relies upon the use of
+18 solar energy in its calculation of GHG impacts, the conclusions of the EIR with
+19 respect to GHG energy emissions are faulty.
+20 53. CEQA provides that a lead agency has a duty to adopt a project alternative if it is
+21 feasible. (Public Resources Code § 21002) A lead agency may not reject an
+
+22 alternative unless the agency makes findings supported by substantial evidence
+23 showing that the alternative is infeasible. (State CEQA Guidelines, §§ 15091 (a)(3),
+24 15092.) Petitioners and others commented that alternatives were available that
+
+25 would lessen the significant impacts of the proposed project but that these
+26 alternatives had not been shown to be infeasible based on substantial evidence in the
+
+27 record. For instance, the General Plan Density Alternative would involve
+
+28
+
+-21-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+- development consistent with existing GPA land use designations and it would result
+
+2 in reduced aesthetic and air quality impacts. The General Plan Density Alternative
+
+3 not only reduces significant project impacts but also meets most of the basic project
+4 objectives. However, the County has not demonstrated based on substantial
+
+5 evidence that the General Plan Density Alternative is infeasible. The County's
+
+6 CEQA Findings of Fact assert that the General Plan Density Alternative would not
+
+7 meet defined Project Objectives to the "same degree" as the proposed project. This
+
+8 is not a finding of infeasibility of the alternative.
+
+9 54. In addition, the Elfin Forest Harmony Grove Town Council extensively commented
+
+10 that the EIR must evaluate an additional alternative-the "Valiano Vineyards"
+
+11 alternative, which was described in great detail, including financial analyses and
+12 independent validation by third party experts, and shown to meet more of the
+13 Project Objectives and significantly decrease all impacts. The County declined to
+
+14 evaluate this feasible alternative in the EIR, which was an error.
+
+15 55. CEQA provides that the statement of overriding considerations ("SOC") shall be
+
+16 supported by substantial evidence in the record. (Public Resources Code, §§ 21081
+17 (b), 21081.5.)
+
+18 56. The Project's SOC is not supported by substantial evidence. For instance, the SOC
+19 is based on unfounded claims such as that the Project with its additional density
+
+20 over existing General Plan land use designations is justified by the need for
+21 additional housing. However, the County General Plan already provides adequate
+22 housing to meet the planning cycle's Regional Housing Needs Assessment
+
+23 ("RHNA") of 22,412 units. Moreover, the General Plan Housing Element states
+
+24 that "locating future growth in [remote, rural communities] is not consistent with
+25 the County's multiple planning objectives." Further, Petitioners demonstrated that
+26 the nature of the need for additional housing was in the moderate and below
+27
+
+28
+
+-22-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+categories, for which the Project as described is not proposing to create additional
+
+2 housing units.
+3 57. CEQA provides that an EIR must be recirculated after significant new information
+
+4 is added after the public comment period. (State CEQA Guidelines § 15088.5.)
+
+5 Significant new information was added to the Final EIR following circulation of the
+
+6 RDEIR, including but not limited to a changed analysis and conclusion with respect
+
+7 to GHG impacts. More particularly, the RDEIR's GHG analysis was based on the
+
+8 County's so-called "Efficiency Metric Document" - an unapproved GHG document
+
+9 that was promulgated by the County in the absence of a final CAP. Following the
+
+10 circulation of the RDEIR and the public comment period thereon, the County
+
+11 adopted a CAP in February 2018. The Final EIR is based on an entirely new
+
+12 threshold of significance and mitigation measures derived from the new CAP.
+
+13 Based on this substantial new information, the County was required to, but did not,
+14 further recirculate the EIR for public review and comment.
+15 58. For these reasons, the County violated CEQA and the Project approvals must be set
+16 aside. (Code Civ. Proc., §§ 1085, 1094.5; Public Resources Code, §§ 21168,
+
+17 21168.5.)
+
+18 SECOND CAUSE OF ACTION
+
+19 (Writ of Mandate - Violation of General Plan)
+
+20 (As to all Parties)
+
+21 59. Petitioners re-allege and incorporate by reference each and every allegation
+22 contained in paragraphs 1-58.
+
+23 60. The Legislature has mandated that every county and city must adopt a
+24 "comprehensive, long-term general plan for the physical development of the county
+25 or city...The general plan has been aptly described as the *constitution for all future
+26 developments' within the city or county'." (Citizens Of Goleta Valley v. Bd. Of
+27 Supervisors (1990) 52 Cal.3d 553, 570.)
+
+28
+
+-23-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+61. "All land use decisions and projects shall be "consistent" with the adopted General
+
+2 Plan. [T]he propriety of virtually any local decision affecting land use and
+
+3 development depends upon consistency with the applicable general plan and its
+
+4 elements' "'The consistency doctrine has been described as 'the linchpin of
+
+5 California's land use and development laws; it is the principle which infuse[s] the
+
+6 concept of planned growth with the force of law'.". (California Native Plant Society
+
+7 V. City of Rancho Cordova (2009) 172 Cal.App.4th 603, 636.) This requirement
+
+8 applics to specific plans: Government Code, § 65454 states that "no specific plan may
+
+9 be adopted or amended unless the proposed plan or amendment is consistent with the
+10 general plan." Similarly, Government Code, § 66473.5 states that "no local agency
+11 shall approve a tentative map... unless the legislative body finds that the proposed
+
+12 subdivision… is consistent with the general plan."
+
+13 62."A project is consistent with the general plan if, considering all its aspects, it will
+14 further the objectives and policies of the general plan and not obstruct their
+
+15 attainment.' A given project need not be in perfect conformity with each and every
+16 general plan policy. To be consistent, a [project] must be 'compatible with' the
+
+17 objectives, policies, general plan land uses and programs specified in the general
+18 plan." (California Native Plant, supra, at 637-638.) However, "[c]onsistency
+19 requires more than incantation, and a county cannot articulate a policy in its general
+
+20 plan and then approve a conflicting project." (Endangered Habitats League v.
+21 County of Orange (2005) 131 Cal.App.4'h 777, 789.)
+
+22 63. The County prominently states on its website that the 2011 General Plan, "is the
+
+23 first comprehensive update of the San Diego County General Plan since 1978 and is
+24 the result of the collective efforts of elected and appointed officials, community
+25 groups, individuals, and agencies who spent countless hours developing a
+
+26 framework for the future growth and development of the unincorporated areas of
+27 the County. This document replaces the previous General Plan and is based on a set
+28
+
+-24-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+of guiding principles designed to protect the County's unique and diverse natural
+
+2 resources and maintain the character of its rural and semi-rural communities. It
+
+3 reflects an environmentally sustainable approach to planning that balances the need
+
+4 for adequate infrastructure, housing, and economic vitality, while maintaining and
+preserving each unique community within the County, agricultural areas, and
+
+6 extensive open space." (emphasis added)
+7 64. The Project is inconsistent with the General Plan's purposes and objectives relative
+to the preservation of rural and semi-rural unincorporated areas of the County as
+
+9 well as the goal to direct urban growth inside Village Boundaries. The Project is
+
+10 inconsistent with the General Plan's "Community Development Model" whereby
+
+11 designated "Villages" would be the only areas of the County with dense residential
+12 neighborhoods, commercial and civic uses, and networks of roads, bike lanes, and
+
+13 walkways.
+
+14 65. The Project is also inconsistent with specific General Plan policies including, but
+15 not limited to: Policy LU-3.2 in that the Project does not present a "range" of
+16 housing types; Policy LU-14.4 in that the Project may induce growth by providing
+
+17 sewer service to any area currently using septic systems; Policy H-1.9 in that there
+
+18 is no affordable housing component to the Project; Policy H-2.1 in that the
+
+19 development "degrade(s) or detract(s) from the character of the rural area"; Policy
+
+20 ME-8.1 regarding the inclusion of transit stops; and Policy S-6.4 in that the Project
+21 has not shown that the minimum travel times will be met for fire service.
+
+22 66. The Project is inconsistent with the purpose and objectives of the SDCP including
+
+23 the objective to direct future growth to ensure that areas outside the Village
+24 Boundary retain their "rural voice."
+
+25 67. The Project is inconsistent with the purpose and objectives of the EFHGSAP
+
+26 because the Project represents a higher density residential project adjacent to rural
+27 residential, large lot uses.
+
+28
+
+-25-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+68. By approving the Project when it is inconsistent with the General Plan, the County's
+2 actions are arbitrary and capricious, are not supported by substantial evidence, or
+3 otherwise fail to comply with the law. (Code Civ. Proc., §§ 1085, 1094.5.)
+4 THIRD CAUSE OF ACTION
+
+5 (Declaratory Relief - Violation of General Plan)
+
+6 (As to all Parties)
+
+7 69. Petitioners re-allege and incorporate by reference each and every allegation
+
+8 contained in paragraphs 1-68.
+9 70. An actual and immediate controversy has arisen and now exists regarding the
+10 legality of the County's action in approving multiple GPAs to allow greater
+11 densities than permitted by the General Plan in areas that are designated by the
+12 General Plan for rural or low-density development.
+13 71. The County is required to follow the law including but not limited to the
+14 requirement that the County must maintain an internally consistent General Plan
+
+15 and must not approve projects or zoning changes that are inconsistent with General
+16 Plan policies.
+
+17 72. The 2011 General Plan adopted a "Community Development Model" to govern
+18 development in the County. In this model, designated "Villages" would be the only
+19 areas of the County with dense residential neighborhoods, commercial and civic
+20 uses, and networks of roads, bike lanes, and walkways. These "Villages" are to be
+21 surrounded by semi-rural areas with low density residential neighborhoods, small-
+22 scale agricultural operations, and rural commercial businesses. The semi-rural areas
+23 are then surrounded by rural lands with very low density residential areas, open
+24 space, habitat, recreation, agriculture, and other rural uses.
+
+25 73. This "environmentally sustainable approach to planning" was carefully crafted to
+26 achieve numerous 2011 General Plan goals, including reduced vehicle miles
+27 traveled, reduced GHG emissions, improved transportation, and the preservation of
+28
+
+-26-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+"each unique community with[ in] the County, agricultural arcas, and extensive open
+space." mtoo 74. Key to this "Community Development Model" is the County's commitment not to
+allow dense residential development outside of existing villages.
+75. Yet, in 2018, the County has already "bundled" numerous GPAs, including the
+amendments authorizing the development of the Valiano, HGVS, and the Otay 250
+7 projects to allow multiple projects to exceed allowable densities and to permit
+
+8 development in areas designated by the General Plan for rural or low-density
+9 development. Furthermore, Petitioners are informed and believe, and thereon
+10 allege, that the County is currently processing upwards of fifty (50) GPA
+11 applications, including the Property Specific Request GPA with forty one Projects,
+12 which will allow additional residential development projects to exceed allowable
+13 densities and to develop suburban housing projects in rural or low-density areas of
+14 the County.
+15 76. By approving multiple GPAs that allow higher density residential development in
+16 areas that are designated by the General Plan for limited growth or rural uses, the
+17 County has created an internally inconsistent General Plan. On the one hand, the
+18 core General Plan principle, and numerous General Plan policies, impose strict
+19 limitations on where development can occur. On the other hand, the County is
+20 continually undermining those limitations by approving amendment after
+21 amendment allowing dense development outside of the designated "Villages."
+22 77. These amendments also compromise the ability of the County to meet other General
+23 Plan requirements such as those related to the reduction of GHGs, transportation
+24 management, and affordable housing. There is not substantial evidence that the
+
+25 County can meet its own General Plan requirements when it has approved multiple
+26 residential projects that substantially deviate from the density allowances of the
+27 General Plan and that will involve growth in areas assumed by the General Plan to
+28
+
+-27-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 be for rural or low density development.
+
+2 78. A judicial declaration is necessary and appropriate at this time in order that the
+3 parties ascertain their rights and obligations with respect to the adoption of the
+4 GPAs.
+
+5 79. Therefore, Petitioners seek a declaration that the County's action in approving the
+6 numerous GPAs for dense development outside of the "Villages" designated in the
+7 2011 General Plan, including the "bundled" GPAs for Valiano, HGVS, and Otay
+8 250, creates an internal inconsistency in the General Plan, is an abuse of discretion,
+9 or otherwise fails to comply with the law.
+
+10 PRAYER FOR RELIEF
+
+11 WHEREFORE, Petitioners pray the following relief on all causes of action:
+12 a) For the court's peremptory writ of mandate requiring Respondent, County of
+13 San Diego, to set aside its decision certifying the EIR for the Project.
+14 b) For the Court's peremptory writ of mandate requiring Respondent to set
+15 aside the General Plan Amendment.
+
+16 c) For the Court's peremptory writ of mandate requiring Respondent to set
+17 aside all Project approvals.
+18 d) For a declaration that Respondent vio lated the General Plan by approving the
+19 Project including the "bundled" General Plan Amendment.
+20 e) For such other and further relief, including preliminary and permanent
+21 injunctive relief, in the event that a Real Party in Interest, or its agents or
+22 instrumentalities, intend to commence construction on the site while this
+
+23 lawsuit is pending.
+24 f) For such other relief as may be just and proper.
+25 g) For the costs of this suit, including attorney's fees, pursuant to Code of Civil
+
+26 Procedure § 1021.5.
+27
+
+28
+
+-28-
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+- DATED: August 22, 2018 Respectfully submitted,
+LAW OFFICES OF ABIGAIL SMITH
+2
+
+M
+By: Qiee Suck A
+Abigail A. Smith 5 Attorneys for Pefitioners
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+-29.
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+I VERIFICATION
+
+2 I, the undersigned, certify and declare that I have read the foregoing Petition for Writ
+3 of Mandate and know its contents. The statement following the box checked is applicable.
+4
+
+5 I am ( ) a member, (x ) an officer of Elfin Forest Harmony Grove Town Council a party
+6 to this action, and I am authorized to make this verification for and on its behalf, and I make
+
+7 this verification for that reason. The matters stated in the document described above are true
+
+8 of my own knowledge and belief except as to those matters stated on information and belief,
+
+9 and as to those matters I believe them to be true.
+
+10
+
+11 I declare under penalty of perjury under the laws of the State of California that the
+
+12 foregoing is true and correct.
+
+13
+Dated: August 21 2018
+14 By: Jacqueline Arsivaud, Board Chair
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFICATION
+
+L VERIFICATION
+
+2
+
+3 I, the undersigned, certify and declare that I have read the foregoing Petition for Writ
+of Mandate and know its contents. The statement following the box checked is applicable.
+
+5 I am (
+
+6 ) a member, Sie omfeer of ClerelAad Kad! bouaL Cceuck'm
+
+7 party to this action, and am authorized to make this verification for and on its behalf, and I
+
+8 make this verification for that reason. The matters stated in the document described above
+
+9 are true of my own knowledge and belief except as to those matters stated on information
+and belief, and as to those matters I believe them to be true.
+
+10
+
+11
+
+12 declare under penalty of perjury under the laws of the State of California that the
+foregoing is true and correct.
+
+13
+
+14 Dated: August 22, 2018 Luacesaflekrdat By:
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFICATION
+
+VERIFICATION
+
+2 I. the undersigned, certify and declare that I have read the foregoing Petition for Writ
+3 of Mandate and know its contents. The statement following the box checked is applicable.
+4
+
+5 I am ( ) a member, (X) an officer of Erdepeed Hebboter Legpu, a party 6 to this action, and I am authorized to make this verification for and on its behalf, and I make
+7 this verification for that reason. The matters stated in the document described above are true
+
+8 of my own knowledge and belief except as to those matters stated on information and belief,
+
+9 and as to those matters I believe them to be true.
+
+10
+
+11 declare under penalty of perjury under the laws of the State of California that the
+
+12 foregoing is true and correct.
+
+13
+
+14 Dated: August 22,2018 By:
+
+15 Dercilvec 16
+
+17
+
+18
+Ngt
+22
+
+23 &A
+26
+27
+
+28
+
+VERIRCATION
+
+EXHIBIT "A"
+
+N m t 0A
+
+8
+
+9
+
+10
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+EXHIBIT "A"
+
+Law Offices of Abigail Smith
+1455 Frazee Road, Suite 500, San Diego, CA 92108
+Abigail A. Smith, Esq. Email: abby@socalceqa.com Telephone: (951) 506-9925 Pacsimile: (951) 50G-9725
+
+VIA U.S. MAIL
+
+August 22, 2018
+
+County of San Diego
+c/o Clerk of the Board
+County Administration Center
+1600 Pacific Highway, Room 402 San Diego, California 92101
+
+Re: Notice of Intent to File CEQA Petition in the Matter of the Approval of the
+Environmental Impact Report (PDS2013-ER-13-08-002) for the Valiano
+Specific Plan project
+
+To the County of San Diego:
+PLEASE TAKE NOTICE, under Cal. Public Resources Code § 21167.5, that this letter serves as written notice of the intent of Petitioners ELFIN FOREST HARMONY
+GROVE TOWN COUNCIL, CLEVELAND NATIONAL FOREST FOUNDATION and
+ENGANGERED HABITATS LEAGUE, to file a Petition for Writ of Mandate under the provisions of the California Environmental Quality Act ("CEQA") against Respondent COUNTY OF SAN DIEGO challenging the County's approval of the Valiano Specific Plan project including certification of the Final Environmental Impact Report and all related approvals, findings, and determinations, including a General Plan Amendment (PDS2013- GPA-13-001), a Specific Plan (PDS2013-SP-13-001), a Zone Reclassification (PDS2013- REZ-13-001), a Tentative Map (PDS2013-TM-5575), and a Major Use Permit (PDS2014- MUP-14-019) made on or about July 25, 2018.
+
+Sincerely,
+
+Ohipid snuth
+
+Abigail Smith, Esq.
+
+1 EXHIBIT "B"
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+EXHIBIT "B"
+
+1 LAW OFFICES OF ABIGAIL SMITH
+
+2 ABIGAIL A. SMITH SBN 228087
+1455 Frazee Road, Suite 500
+3 San Diego, CA 92108
+Telephone: (951) 506-9925
+4 Facsimile: (951) 506-9725
+
+5 Email: abby@socalceqa.com
+Attorneys for Petitioners, Elfin Forest Harmony Grove Town Council, Cleveland National Forest
+6 Foundation and Endangered Habitats League
+
+7
+
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+9 COUNTY OF SAN DIEGO
+10 ELFIN FOREST HARMONY GROVE CASE NO.:
+
+11 TOWN COUNCIL, CLEVELAND
+NATIONAL FOREST FOUNDATION, and JUDGE:
+12 ENDANGERED HABITATS LEAGUE, DEPARTMENT:
+
+Petitioners, ACTION FILED:
+13
+
+14 VS.
+
+15 COUNTY OF SAN DIEGO, PETITIONERS' NOTICE OF
+16 Respondent, ELECTION TO PREPARE
+
+17 ADMINISTRATIVE RECORD
+
+18 INTEGRAL COMMUNITIES, LLC; THE
+EDEN HILLS PROJECT OWNER, LLC;
+19 RCS - HARMONY PARTNERS, LLC; (Public Resources Code § 21167.6)
+SUNROAD NEVADA ENTERPRISES,
+20 INC.; and 1 DOES 1 through 100 inclusive,
+21 Real Parties In Interest.
+22
+
+23
+
+24 TO ALL PARTIES AND THEIR ATTORNEYS OF RECORD:
+
+25 PLEASE TAKE NOTICE that, pursuant to California Public Resources Code §
+26 21167.6, Petitioners ELFIN FOREST HARMONY GROVE TOWN COUNCIL,
+27 CLEVELAND NATIONAL FOREST FOUNDATION, AND ENDANGERED HABITATS
+28
+
+EXHIBIT "B"
+
+1 LEAGUE, hereby notify Respondent, COUNTY OF SAN DIEGO, of Petitioners' election to
+2  prepare the Administrative Record of proceedings relating to this action.
+3
+
+4 DATED: August 22, 2018
+
+5 Respectfully submitted, LAW OFFICES OF ABIGAIL SMITH
+
+6
+
+7 By:
+
+8 Alict fishl Abigail A. Smith
+
+9 Attorneys for Petitioner
+
+5 0=6
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+EXHIBIT"B"
+
+L0:l Nd 82 ONVCI02 6h :Z NJ 67 OnV bh
+:0 C ! cH13WOr0
+:6UY

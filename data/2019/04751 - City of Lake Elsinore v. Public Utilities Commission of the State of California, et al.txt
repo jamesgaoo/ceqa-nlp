@@ -1,0 +1,2858 @@
+1
+
+Case No.
+
+IN THE SUPREME COURT
+OF THE STATE OF CALIFORNIA
+
+CITY OF LAKE ELSINORE,
+Petitioner,
+
+V.
+PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA,
+Respondent,
+
+SOUTHERN CALIFORNIA EDISON COMPANY,
+Real Party in Interest.
+
+From a Decision of the California Public Utilities Commission,
+Decision 18-08-026, as Modified by Decision 18-12-031
+
+Service on Attorney General (Pub. Resources Code § 21167.7)
+
+PETITION FOR WRIT OF MANDATE/
+PETITION FOR WRIT OF REVIEW
+(APPENDIX OF EXHIBITS FILED
+UNDER SEPARATE COVER)
+
+LEIBOLD McCLENDON & MANN, P.C.
+*David H. Mann (SBN 137942)
+david@CEQA.com
+John G. McClendon (SBN 145077)
+john@CEQA.com
+Barbara Z. Leibold (SBN 132077)
+barbara@CEQA.com
+9841 Irvine Center Drive, Suite 230
+Irvine, California 92618
+(949) 585-6300
+(949) 585-6305 (fax)
+
+Attorneys for Petitioner
+CITY OF LAKE ELSINORE
+
+CERTIFICATE OF INTERESTED ENTITIES OR PARTIES
+
+(Cal. Rules of Court, Rule 8.208)
+
+Petitioner City of Lake Elsinore is a California municipal corporation
+
+and governmental entity. No entity or person has an ownership interest in the
+
+City of Lake Elsinore, and the City of Lake Elsinore knows of no person or
+
+entity, other than the parties themselves, with a financial or other interest in the
+
+outcome of this proceeding that must be disclosed under Rule 8.208 of the
+
+California Rules of Court.
+
+Dated: January 16, 2018 Respectfully submitted,
+
+LEIBOLD McCLENDON & MANN, P.C.
+
+By: /s/ David H. Mann
+David H. Mann
+Attorneys for Petitioner
+CITY OF LAKE ELSINORE
+
+2
+
+TABLE OF CONTENTS
+Page:
+
+TABLE OF AUTHORITIES .
+
+INTRODUCTION.. . ......... 10
+
+PETITION FOR WRIT OF REVIEW.. . . . . . . . . . . . . . . . . ... 13
+
+A. Beneficial Interest of Petitioner; Capacities
+Of Respondent and Real Party in Interest. . . . . . . . . . . . . . . 13
+
+B. Jurisdiction, Venue and Timeliness of Petition. . . . . . . . . . . 14
+
+C. Authenticity of Exhibits.. . . . . . . . . . . . . . . . . . . . . .. ... 16
+
+D. Proceedings Before the PUC.. . . . . . . . . .. . ..... 16
+
+E. Basis for Relief. . . . . . . 30
+
+PRAYER. . . . . . . . . . . . . . . . . . . . 32
+
+VERIFICATION...... . . . . . . 33
+
+MEMORANDUM OF POINTS AND AUTHORITIES. . . . . . . . . . . . . . . 34
+
+I. THE COURT SHOULD REVIEW THE PUC'S DECISION ... 34
+
+II. THE COURT SHOULD RESOLVE THE CONFLICT
+BETWEEN PUBLIC UTILITIES CODE SECTION 1756
+AND PUBLIC RESOURCES CODE SECTION 21168.6
+CONCERNING THE PURPORTED SOLE JURISDICTION
+OF THIS COURT IN PUC RELATED CEQA MATTERS. . . . . . 35
+
+III. THE COMMISSION FAILED TO PROCEED IN THE
+MANNER REQUIRED BY LAW WHEN IT APPROVED
+THE EIR FOR THE VALLEY-IVYGLEN PROJECT. . . . . . . . . . 40
+
+A. The Standard of Review Under CEQA. . . . . . . . . . . . . . . . . 40
+
+B. CEQA Must Be Interpreted Broadly and Strictly Enforced. 42
+
+3
+
+Y
+
+TABLE OF CONTENTS
+Page:
+
+C. The Final EIR's Analysis of the Valley-Ivyglen Project's
+Aesthetic Impacts Fails to Adequately Account for
+the Degrading of Views to Residents and Patrons of
+Commercial Developments in the City of Lake Elsinore. . . 43
+
+1. The Final EIR's Emphasis on Freeway Views Ignores
+the Valley-Ivyglen Project's True Visual Impacts. . . 43
+
+2. The "Yardstick" Used to Measure Visual Impacts
+Is Outdated and Has Been Rejected by the
+Federal Agency that Created It. . . . . . . . . . . . . . . . . . 50
+
+3. The Final EIR's Aesthetic Analysis Is Based on Single Circuit Lines/Pole Configurations Even
+Though Much of the Valley-Ivyglen Project within the City Will Be Configured on Double Circuit Poles. . . 55
+
+D. The Final EIR Fails to Adequately Address
+Alternatives to the Valley-Ivyglen Project,
+Especially with Regards to Undergrounding. . . . . . . . . . . . . 58
+
+E. The PUC's Blanket Exclusion of Evidence
+of Significant Environmental Impacts, Mitigation
+Measures, and Alternatives at the Evidentiary
+Hearings Is an Abuse of Discretion. . . . . . . . . . . . . . . . . . . . 61
+
+CONCLUSION. ............. . 67
+
+CERTIFICATE OF COMPLIA: . . . 68
+
+4
+
+TABLE OF AUTHORITIES
+Page:
+
+CASES:
+
+Bakersfield Citizens for Local Control v. City of Bakersfield
+(2004) 124 Cal.App.4th 1184. . . . . . . . . . . . . . . . . . . . . . . . 41, 61, 64
+
+Banning Ranch Conservancy v. City of Newport Beach
+(2017) 2 Cal.5th 918.... . 57
+
+Berkeley Keep Jets Over the Bay Comm. v. Board of Port Comms.
+(2001) 91 Cal.App. 4th 1344. 27, 44, 48, 52, 53
+
+Center for Biological Diversity v. County of San Bernardino
+(2010) 185 Cal.App.4th 866. . . . . . . . . . . . . . . .. .. .. 58
+
+Center for Biological Diversity v. Department of Fish & Wildlife
+(2016) 1 Cal.App.5th 452 . ... 37
+
+City of Huntington Beach v. Public Utility Commission
+(2013) 214 Cal.App.4th 566. . . . . . . . . . . . . . . . . . . . . . . 36
+
+City of Marina v. Board of Trustees of Calif. State University
+(2006) 39 Cal.4th 341.. . . . . . . . . . . . . . . . 41
+
+City of San Diego V. Public Utility Commission Supreme Court Case No. S151176.. . . . . . . . . . . . . .. . . . . . ... .. 38
+
+City of Vernon v. Public Utilities Comm'n.
+(2001) 88 Cal.App.4th 672. . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . 36
+
+Citizens of Goleta Valley v. Board of Supervisors
+(1990) 52 Cal.3d 553. . . . . . . . . . . . . . . 58
+
+Citizens of Goleta Valley v. Board of Supervisors of Santa Barbara County
+(1988) 197 Cal.App.3d 1167. 28,42
+
+5
+
+TABLE OF AUTHORITIES
+Page:
+
+Cleary v. County of Stanislaus
+(1981) 118 Cal.App.3d 348. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+
+Committee for a Progressive Gilroy State Water Res. Control Bd.
+(1987) 192 CA3d 847... . . . . . 37, 38, 39
+
+Consumer Lobby Monopolies v. PUC
+(1979) 25 Cal.3d 891. . . . . . . . . . . . . 34
+
+Desert Environment Conservation Ass'n. Vv. Public Utilities Comm'n.
+(1973) 8 Cal.3d 739. . . . . . . . . . . . . . . . . . 35
+
+Estate of Simpson
+(1954) 43 Cal.2d 594. .. . . . . . . . . . . . . . . 40
+
+Galante Vineyards v. Monterey Peninsula Water Mgmt. Dist.
+(1997) 60 Cal.App.4th 1109... . . ... 61, 64
+
+Laurel Heights Improvement Assn. v. Regents of the University of California
+(1988) 47 Cal.3d 376.. 29
+
+Mount Shasta Bioregional Ecology Ctr. V. County of Siskiyou
+(2012) 210 Cal.App.4th 184 . . . . .... 64
+
+Quail Botanical Gardens Foundation Inc. v. City of Encinitas
+(1994) 29 Cal.App.4th 1597.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+
+Resource Def. Fund v. Local Agency Formation Comm. of Santa Cruz County (1987) 191 Cal.App.3d 886. 43
+
+Save Our Peninsula Committee v. Monterey County Bd. of Supervisors
+(2001) 87 Cal.App.4th 99 42
+
+Save Tara v. City of Hollywood
+(2008) 45 Cal.4th 116. . . . . . . . 41
+
+6
+
+TABLE OF AUTHORITIES
+Page:
+
+Tomlinson v. County of Alameda
+(2012) 54 Cal.4th 281... 42, 64
+
+Tracy First v. City of Tracy
+(2009) 177 Cal.App.4th 912 . . . . . . . . . . . . . . . . . . . . ..... 61, 64
+
+Vineyard Area Citizens for Responsible Growth, Inc. v. City of Rancho Cordova (2007) 40 Cal.4th 412.. ... 41
+
+Walters v County of Plumas (1976) 61 CA3d 460.. . 37, 38
+
+STATUTES:
+
+Code of Civil Procedure § 860 . . . . . . . . . . . . . . . . . . . . 38
+
+Code of Civil Procedure § 1067-1077... . 40
+
+Code of Civil Procedure s0. 1085-1094.5 . . . . . . . . . . . . . . . . . . . . . . . 40
+
+Public Resources Code § 21000 et seq.. . . . . . . . . . . . . . . . .... 65, 67
+
+Public Resources Code § 21001.. . . . . . . . . . . . . . . . . . . . . 43, 44
+
+Public Resources Code § 21002.. . . . . . . . .. . . . . . . . . . . . .......... .. 58
+Public Resources Code § 21100 et seq... 15, 65
+
+Public Resources Code 21168. . . . . ........ . . . . . . . . . . . . . . . . 39
+
+Public Resources Code 8 21168.5. . . . . . . . . . . . . . . . . . . . . .... 15
+
+Public Resources Code § 21168.6.. . . . . . . . . . . . . . . . . . . . . . 12, 35, 37, 40
+
+7
+
+TABLE OF AUTHORITIES
+Page:
+
+Public Resources Code § 21177 . . . . . . . . . . 61
+
+Public Utilities Code § 1701.... . . . . . . . 30
+
+Public Utilities Code 1731... 15
+
+Public Utilities Code 1756.... 12, 14-16, 35-37, 40
+
+Public Utilities Code 1757... . 30, 39
+
+Public Utilities Code 1759.... 14, 15
+
+Water Code § 13330. . . . . . . . 39
+
+REGULATIONS:
+
+Title 14, California Code of Regulations, § Chapter 3. . . . ...... 23, 63
+
+Title 14, California Code of Regulations, § 15000 et seq. . . . . . . . . . . . . . 65
+
+Title 14, California Code of Regulations, § 15126.6 . . . . . . . . . . . . . . 58, 60
+
+Title 14, California Code of Regulations, § 15151. . . . . . . . . . . . . . . . . . . 52
+
+Title 20, California Code of Regulations, § 2.4 . . . . . . . . . . . . . . . . . . . . . 65
+
+Title 20, California Code of Regulations, § 7.3 . . . . . . . . . . . . . . . . 66
+
+Title 20, California Code of Regulations, § 12.6 . . . . . . . . . . . . . . . . . . . . 66
+
+8
+
+TABLE OF AUTHORITIES
+Page:
+
+TREATISES:
+
+Kostka & Zischke, Practice Under Cal. Environmental Quality Act
+(Cont.Ed.Bar 2d ed. 2018) . . . . . . . . . . . . . . . . . 15, 38, 40
+
+9
+
+INTRODUCTION
+
+This petition presents an issue of environmental justice that is relevant
+
+throughout California. But before this issue can be addressed, a threshold
+
+question must be answered: what kind of petition is applicable here- -a petition
+
+for writ of mandate or a petition for writ of review?
+
+On the one hand, a legacy statute (1972) from the early days of the
+
+California Environmental Quality Act ("CEQA") provides that actions against
+
+the Public Utilities Commission ("PUC") proceed only by writ of mandate to
+
+this Court. On the other hand, in 1996 the Legislature amended the Public
+
+Utilities Code to specify that appeals of PUC decisions granting or denying
+
+applications proceed by writ of review to either the courts of appeal or this
+
+Court. Petitioner believes that the latter enacted statute controls over the
+
+former one and that jurisdiction for this petition should lie as a discretionary
+
+writ of review to the Fourth District Court of Appeal. However, with the
+
+leading CEQA treatise concluding otherwise, out of an abundance of caution
+
+Petitioner has filed this petition with this Court. Needless to say, resolution of
+
+the obvious conflict between the two statutes by this Court is sorely needed,
+
+and as discussed in the City's memorandum below, there are good reasons for
+
+this Court to conclude that the 1996 statute supplants the earlier one.
+
+Once the Court resolves this threshold issue, either this Court will, or
+
+the Fourth District Court of Appeal may, adjudicate this petition's key issue
+
+10
+
+of environmental justice: that respondent PUC engages in an institutionalized
+
+pattern and practice of violating CEQA when addressing the visual impacts of
+
+overhead powerlines in developing communities. While this petition concerns
+
+the PUC's approval of a project adding eleven miles of overhead powerlines
+
+in the City of Lake Elsinore (population 66,000), it also represents an
+
+opportunity to rein in the PUC's overt indifference to CEQA and correct a
+
+trajectory that for nearly two generations has deviated from the Legislature's
+
+finding that "[i]t is necessary to provide a high-quality environment that at all
+
+times is healthful and pleasing to the senses and intellect of man" and from
+
+state policy to "[t]ake all action necessary to provide the people of this state
+
+with [] enjoyment of aesthetic [] qualities." (Pub. Resources Code §§ 21000,
+
+subd. (b), 21001, subd. (b).)
+
+The PUC utilizes two methods to dismiss the visual impacts of projects,
+
+both of which violate CEQA. First, the PUC evaluates visual impacts using
+
+so-called objective measures that are either outdated or simply inapposite.
+
+Here, the measure used was published over 30 years ago by the Federal
+
+Highway Administration and titled Visual Impact Assessment for Highway
+
+Projects. These federal guidance and assessment standards were promulgated
+
+to assess visual impacts related to major highway construction and not those
+
+impacting a community's unique cityscape. First published in 1988, the
+
+standards were retired in 2015, yet the PUC adamantly defended its use of the
+
+11
+
+obsolete standards to assess the visual impacts of overhead powerlines along
+
+the City of Lake Elsinore's streets, some only two-lanes wide.
+
+The PUC'S second mechanism, also highly refined, is to aggressively
+
+limit discussion concerning project impacts, mitigation, and alternatives.
+Despite the fact that the PUC held three days of evidentiary hearings in the
+
+proceedings below, its order expressly precluded all evidence "regarding the
+
+identification of significant environmental impacts, mitigation measures and
+
+alternatives, and the environmentally superior alternative." (6PE21:3605.)
+
+Indeed, so aggressive is the PUC in beating back even a suggestion of
+
+visual impact from overhead powerline projects, it refused to correct simulated
+
+views that minimized view impacts by depicting single circuit power lines
+
+(three overhead lines) in the environmental impact report when in fact double
+
+circuit transmission lines (six overhead lines) were planned for that particular
+
+segment on City streets.
+
+The PUC'S indifference to community aesthetic values (and project
+
+impacts in general) and the accompanying quashing of community input has
+
+been fostered within the confusion created by the conflict between Public
+
+Resources Code section 21168.6 and Public Utilities Code section 1756.
+
+References to "PE" are to Petitioner's Appendix of Exhibits in
+Support of Petition (*Petition Exhibits"), filed concurrently. Each reference to "PE" is preceded by the applicable volume number and followed by the
+relevant tab number separated by a colon from the appropriate page reference.
+
+12
+
+Within this confusion, the PUC's crabbed CEQA process has festered
+
+unchecked, and judicial review of this critical issue of statewide concern is
+
+long overdue.
+
+PETITION FOR WRIT OF REVIEW
+
+The City of Lake Elsinore ("City") petitions for a writ of review of
+Decision (D.) 18-08-026 (the "Final Decision"), issued by respondent
+
+California Public Utilities Commission ("PUC" or "Commission") on August
+
+31, 2018, as modified on December 17, 2018 following application for
+
+rehearing, by D. 18-12-031 (the "Rehearing Decision"). (1PE1:6; 1PE2:114.)
+
+By this petition, City alleges:
+
+A. Beneficial Interest of Petitioner; Capacities
+of Respondent and Real Parties in Interest
+
+Petitioner City is, and at all times was, a California municipal corporation
+
+founded in 1883 and incorporated as a general law city effective April 23,
+
+1888. The City encompasses approximately 43 square miles in southwestern
+
+Riverside County and lies within Division Two of the Fourth District Court of
+
+Appeal.
+
+1. The Final Decision approved the Valley-Ivyglen 115 kV
+
+Sub-transmission Line Project ("Valley-Ivyglen Project"), a major portion of
+
+which will be constructed and operate in the City such that many of the
+
+project's impacts will occur in the City.
+
+13
+
+2. The City was a party to the proceedings before respondent PUC
+
+that resulted in the Final Decision approving the Valley-Ivyglen Project.
+
+3. Respondent PUC is the administrative agency responsible for
+
+regulating private, for-profit utility providers in the State of California. (Cal.
+
+Const., art. XII, § 6; Pub. Util. Code, § 701.)2
+
+4. Real party in interest Southern California Edison Company
+
+("SCE") is an investor-owned public utility operating an interconnected and
+
+integrated electric utility system that generates, transmits and distributes
+
+electric energy in portions of Central and Southern California.
+
+B. Jurisdiction, Venue and Timeliness of Petition
+
+5. This petition for writ of mandate/writ of review ("Petition") is
+
+the only available way for the City to obtain appellate review of the PUC'S
+
+decision in the Valley-Ivyglen proceeding. Subdivision (a) of Public Utilities
+
+Code section 1756 authorizes any party aggrieved by a PUC decision to
+
+petition for a writ of review.
+
+6. Subdivision (a) of Public Utilities Code section 1759 provides:
+
+"No court of this state, except the Supreme Court and the court of appeal, ...
+
+shall have jurisdiction to review, reverse, correct, or annul any order or
+
+decision of the commission or to suspend or delay the execution or operation
+
+All further statutory references in this petition are to the Public
+Utilities Code, unless otherwise indicated.
+
+14
+
+thereof..." Therefore, either this Court or Division Two of the Fourth District
+
+Court of Appeal has original jurisdiction of this matter under subdivision (a)
+
+of Public Utilities Code section 1759, which specifies the only judicial
+
+recourse for challenging a PUC decision is by writ of review. However,
+
+because this Petition alleges violations of the California Environmental Quality
+
+Act (Pub. Resources Code, § 21100 et seq.; "CEQA") by the PUC and the
+
+leading CEQA treatise opines that the only judicial recourse for challenging
+
+a PUC CEQA decision is by petition for writ of mandate to this Court, out of
+
+an abundance of caution the City has filed this Petition with this Court. (See
+
+2 Kostka & Zischke, Practice Under Cal. Environmental Quality Act,
+
+(Cont.Ed.Bar 2d ed. 2018) Public Utility and Energy Commission Decisions,
+
+cop 23.153, pp. 23-172 ["Although [Public Utilities Code section 1756 and
+
+Public Resources Code section 21168.5] conflict, the CEQA provision should
+
+control because it is the more specific of the two."].)
+
+7. The Commission issued its Final Decision approving the Valley-
+
+Ivyglen Project on August 31, 2018, 2018. (1PE1:61.) The City filed a timely
+
+application for rehearing on October 1, 2018, within 30 days of the decision's
+
+issuance as required by subdivision (b) of Public Utilities Code section 1731.
+
+(7PE48:4437.) On December 17, 2018, the Commission issued Rehearing
+
+Decision, D.18-12-031, slightly modifying the Final Decision and denying
+
+rehearing of that decision as modified. (1PE2:114.) This petition is filed
+
+15
+
+January 16, 2019 - within 30 days of the denial - and is, therefore, timely
+
+under Public Utilities Code section 1756(a).
+
+C. Authenticity of Exhibits
+
+8. All exhibits in support of this Petition, filed under separate cover
+
+captioned "Appendix of Exhibits in Support of Petition for Writ of Review"
+
+("Petition Exhibits" or "PE"), are true and correct copies of original documents
+
+filed with the PUC in the Valley-Ivyglen Project proceeding, except: (i) exhibit
+
+6PE13:3024 which is a true and correct copy of transcripts of the prehearing
+
+conference held on June 5, 2017; exhibit 6PE14:3064, 6PE15:3249 and
+
+6PE16:3364 which are true and correct copies of transcripts of the evidentiary
+
+hearings held on October 17, 18, and 19, 2017, respectively, and; exhibit
+
+6PE17:3433 which is a true and correct copy of the transcript of the oral
+
+arguments held by the Commission on May 2, 2018. The Petition Exhibits are
+
+incorporated by reference. They are paginated consecutively from pages
+
+through 4467, and references to the Petition Exhibits (or PE) in this petition
+
+are to the consecutive pagination.
+
+D. Proceedings Before the PUC
+
+9. The Valley-Ivyglen Project approval process has been the
+
+subject of multiple Commission proceedings extending over several years.
+
+10. By Application (A.) 07-01-031, filed January 16, 2007, SCE
+
+sought a permit to construct the "Valley Ivy-Glen 115kV Subtransmission Line
+
+16
+
+Project" to relieve loads on existing 115 kV transmission lines and provide a
+second source of power to the Ivyglen Substation, all located in Riverside
+
+County.
+
+11. By D. 10-08-009 issued on August 17, 2010, the PUC granted
+
+SCE's application to construct the Valley-Ivyglen Project. (6PE18:3503.)
+
+12. SCE requested modification to the previously-approved permit
+
+to construct the Valley-Ivyglen Project by way of a petition for modification
+
+filed with the PUC on April 2, 2013 and, thereafter, by way of an amended
+
+petition filed on a May 23, 2014. (6PE19:3523.)
+
+13. By its amended petition for modification, SCE sought to modify
+the Valley-Ivyglen Project project design by (among other things) realigning
+portions of the subtransmission line route and undergrounding a portion of the
+
+line and to modify the construction method and techniques by, among other
+
+things, using shooflies, blasting, and helicopters. (1PE1:15; 6PE19:3532.)
+
+14. The Valley-Ivyglen Project, however, implicated another
+
+pending SCE application before the PUC. By Application (A.) 09-09-022,
+
+filed September 30, 2009, SCE sought a certificate of public convenience and
+
+necessity ("CPNC") to construct the Alberhill System Project (Alberhill
+
+Project") to purportedly relieve projected electrical demand and provide a
+
+second source of electricity. (1PE1:14.)
+
+17
+
+15. Because components of the Valley-Ivyglen Project are required
+
+for construction of the Alberhill Project, the Commission's Energy Division
+
+consolidated the environmental review of the projects. On May 6, 2015, the
+
+Energy Division announced the Notice of Preparation of an Environmental
+
+Impact Report ("EIR") for the projects. (1PE1;16.) The draft EIR issued for
+
+comment in April 2016, and the final EIR issued in April 2017. (1PE1:16.)
+
+16. On April 28, 2016, the assigned Administrative Law Judge
+
+("ALJ"), Hallie Yachnin, issued a ruling giving "notice of anticipated issues
+that will be included in the scope of the proceeding, and directs parties who
+intend to offer evidence on issues addressed in the Environmental Impact
+
+Report (EIR) to do SO by public comment on the draft EIR that issued on April
+
+12, 2016." (6PE20:3596.)
+
+17. The ALJ went on to advise the public that its one and only
+
+opportunity to address deficiencies in the draft EIR would be during the draft
+
+EIR's public review period:
+
+"The final EIR will include and address all such comments, and
+
+will be admitted into the evidentiary record of this proceeding.
+
+Accordingly, as will be further explained at the prehearing
+
+conference, I do not anticipate taking further evidence regarding
+
+the identification of significant environmental impacts,
+
+mitigation measures and alternatives, and the environmentally
+
+18
+
+superior alternative (i.e., issues no. 1, 2 and 3), beyond the final
+
+EIR. Therefore, any person who wishes to present evidence on
+
+the environmental impacts of the proposed project and
+
+alternatives, recommended mitigation, and the environmentally
+
+superior alternative must do so through public comment on the
+
+draft EIR." (Italic in original.)
+
+(6PE20:3600.)
+
+18. The City timely submitted comments to the draft EIR on July 13,
+
+2016, asserting the draft EIR's analysis of project impacts was deficient in
+
+addressing and mitigating aesthetic impacts, hazards to sensitive receptors,
+
+dangers posed by the proposed transmissions line near Skylark Airport, socio-
+
+economic impacts, disproportionate impact to the City's low-income residents,
+
+and failing to propose feasible mitigation measure to address those impacts in
+
+the draft EIR's alternative analysis. (5PE9:1745-1757.)
+
+19. The City's comments pointed to a critical defect in the draft
+
+EIR's visual impact analysis: that it was based on a discredited and
+
+subsequently replaced study first published in 1988 by the Federal Highway
+
+Administration:
+
+"Why has the DEIR so profoundly missed the mark on aesthetic
+
+impacts? Because it utilizes an utterly outdated aesthetic
+
+standard-now 28 years old-that even the notoriously glacial
+
+19
+
+Federal Highway Administration has abandoned. The Federal
+
+Highway Administration's 2015 replacement Guidelines for the
+
+Visual Impact Assessment of Highway Projects acknowledge
+
+that the 1988 guidelines as simply antiquated: 'The new
+
+guidelines recommend engaging the public to a higher degree
+
+than earlier VIA methods, to achieve a better understanding of
+
+how people define visual quality and how they interpret changes
+
+to it.' (p. 1-3). By failing to engage the public and instead
+relying on outdated (and, candidly, inapplicable guidelines for
+
+the Proposed Project), the DEIR consistently understates the
+
+visual impact of the Proposed Projects."
+
+(5PE9:1748.)
+
+20. In responding to the City's 13-page comment letter, the final EIR
+
+initially had this to say in response to the City's visual impact comments:
+
+"248-2: In cases where a visual impact was
+
+identified, mitigation was included to
+
+reduce the impact, which included either
+
+undergrounding or other measures. See
+
+Section 4.1, Aesthetics. In addition, the
+
+CPUC considered undergrounding
+
+20
+
+alternatives. See Chapter 5.0, Comparison
+
+of Alternatives.
+
+248-3: See response to comment 248-2.
+
+248-4: See response to comment 248-2.
+
+248-5: See response to comment 248-2.
+
+248-6: See response to comment 248-2.
+
+248-7: See response to comment 248-2.
+
+248-8: See response to comment 248-2."
+
+(4PE8:1576-1577.)
+
+21. Eighteen months later, a belated but more substantive response
+
+to the City was finally given in the Final Errata to the EIR issued by the Energy
+Division on February 23, 2018. (6PE11:3015-3016.)
+
+22. A prehearing conference was held on June 5, 2017.
+
+(6PE13:3024.)
+
+23. Following the June 5, 2017 prehearing conference, on June 21,
+
+2017, the commissioner assigned to the Valley-Ivyglen Project and the
+
+Alberhill Project, Commissioner Guzman Aceves, issued her "Assigned
+
+Commissioner's Scoping Memo and Ruling" for the proceedings (the
+
+"Scoping Memo"). (6PE21:3601; see also §1701.1, subd. (b).) The Scoping
+
+Memo set deadlines for the parties to serve direct and rebuttal testimony, and
+
+set the evidentiary hearing for October 17 through 19, 2017. (6PE21:3607.)
+
+21
+
+24. The Scoping Memo also identified nine "issues to be
+
+determined." Issues 1, 2 and 3 directly addressed environmental compliance:
+
+"1. What are the significant adverse environmental impacts of
+
+the proposed projects? This issue encompasses consideration of
+whether the project designs comports with Commission rules
+
+and regulations and other applicable standards governing safe
+
+and reliable operations.
+
+2. Are there potentially feasible mitigation measures or project
+
+alternatives that will avoid or lessen the significant adverse
+
+environmental impacts? This issue encompasses consideration
+
+of how to design the proposed projects in a manner that ensures
+
+their safe and reliable operation.
+
+3. As between the proposed projects and the project
+
+alternatives, which is environmentally superior?"
+
+(6PE21:3603.)
+
+25. The Scoping Memo made clear that the Commission would not,
+
+however, entertain evidence of the EIR's deficiency at the evidentiary hearing:
+
+"The EIR addresses 1 issues 1 through 3. CEQA requires the
+
+opportunity for the public to comment on the draft EIR, and
+
+requires the final EIR to consider and address each and every
+
+comment that is received, pursuant to the process and
+
+22
+
+procedures of CEQA and the CEQA Guidelines (Title 14 C.C.R.
+
+Chapter 3.) Given this process under CEQA, the Administrative
+Law Judge's (ALJ's) April 28, 2016 ruling gave notice that no
+evidence would be taken regarding the identification of
+
+significant environmental impacts, mitigation measures and
+
+alternatives, and the environmentally superior alternative (i.e.,
+
+1 issues 1 through 3) beyond the final EIR, and that any person
+
+who wished to present information regarding those issues should
+do so through public comment on the draft EIR. We will not
+
+take further evidence on these issues."
+
+(6PE21:3605.)
+
+26. The evidentiary hearing was held on October 17, 18, and 19,
+
+2017. (6PE14:3064; 6PE15:3249; 6PE16:3364.) All attempts to introduce
+
+direct testimony concerning the feasible project alternatives that would lessen
+
+environmental impacts were rebuffed by the ALJ and stricken. (6PE14:3066-
+
+3068; 6PE22:3609; 6PE23:3620; 6PE24:3629; 6PE25:3631;6PE26:3647.) In
+
+keeping with the Scoping Memo, no evidence regarding project environ-
+
+mental impacts, feasible mitigation measures, or alternatives was permitted at
+
+the evidentiary hearing. (6PE14:3066-3068.)
+
+27. On April 4, 2018, the assigned ALJ, who presided over the
+
+evidentiary hearing, issued a Proposed Decision ("PD") approving the Valley-
+
+23
+
+Ivglen Project application for a permit modification and denying SCE's
+application for a certificate of public convenience and necessity for the
+
+Alberhill Project. (7PE44:4215.)
+
+28. The PD accepted the final EIR's conclusion that the proposed
+
+projects-that is, the Valley-Ivyglen Project and the Alberhill Project--would
+
+have no significant adverse visual impacts within the City. (7PE44:4232-
+
+4233.) In rejecting the City's core complaint concerning the PUC's use of the
+
+Federal Highway Administration's ("FHWA") 1988 Visual Impact Assessment
+for Highway Projects publication because of its bias toward "drivers" and its
+
+accompanying focus on major highway corridors, the PD states:
+"To the contrary, the EIR's selection and application of the 1988
+
+guidelines is fully supported by substantial evidence. [FN] As
+
+it explains:
+
+The FHWA has recently revised its guidelines for visual impact
+
+assessment to allow different levels of documentation and be
+
+more readily understood and practical in its application (FHWA
+
+2015). However, the new FHWA guidelines now focus more on
+
+transportation projects and no longer emphasize several key
+concepts from the earlier guidelines that are applicable to
+various types of projects, such as transmission lines, substations,
+
+and similar industrial-type development projects, in rural,
+
+24
+
+suburban, and urban landscapes. Although the new FHWA
+
+guidelines incorporate many elements from those issued in
+
+1988, the earlier guidelines remain most applicable for assessing
+
+aesthetic impacts of proposed projects situated within diverse
+
+landscape types and on private lands. (EIR, at 4.1-16-4.1-17.)"
+
+(7PE44:4232-4233.)
+
+29. On May 2, 2018, four of the Commissioners along with ALJ
+
+Yachnin heard oral arguments from the parties. (6PE17:3433.)
+
+30. On June 29, 2018, Commissioner Guzman Aceves, the assigned
+
+commissioner, issued an Alternative Proposed Decision ("APD"), also
+
+approving the Valley-Ivglen application for a permit modification and denying
+
+SCE's application for a CPCN for the Alberhill project, but with a proviso that
+
+the denial was "without prejudice" and that SCE could submit a new
+
+application with specific additional information primarily concerning electrical
+
+demand. (7PE46:4352-4353.)
+
+31. The full Commission issued a Final Decision on August 31,
+
+2018, substantially adopting the APD, but with a eleventh hour change that the
+
+Alberhill application would not be "denied" but rather that the proceeding on
+
+Alberhill would be held "open" so that SCE could compile and submit the
+
+requested additional information for future consideration by the Commission.
+
+(1PE1:1, 53.)
+
+25
+
+32. Both the APD and the Final Decision recited the PD's
+
+determination, as set forth above, on the projects' aesthetic impacts in the City.
+
+(7PE46:4336-4337; 1PE1:27-28.)
+
+33. Two parties, the City and Forest Residents Opposing New
+
+Transmissions Lines ("Frontlines"), applied for a rehearing of the
+Commission's Decision 18-08-026 ("Final Decision"), raising claims of error
+
+regarding compliance with CEQA. (7PE48:4437; 7PE47:4420.) The PUC
+
+denied rehearing but also modified its Final Decision to "to clarify the issue
+
+of environmental review with respect to the Commission's future consideration
+
+of the Alberhill Project." (1PE2: 116.)
+
+34. Both the City and Frontlines argued that the Commission
+
+violated CEQA by certifying the final EIR in the Final Decision even though
+
+the Commission had not approved (but rather held "open") SCE's application
+for the Alberhill Project. (7PE48:4441-4444; 7PE47:4422-4423.) In light of
+
+the Commission's clarification in the Rehearing Decision on this issue, the
+
+City does not seek further review from this Court on the issue of segregating
+
+final EIR certification from the potential future approval of the Alberhill
+
+Project.
+
+35. The Commission rejected the City's argument that the final
+
+EIR's analysis improperly relied on the FHW A's Visual Impact Assessmentfor
+
+Highway Projects, publication. Despite the fact that the FHWA had
+
+26
+
+abandoned its use of these guidelines and had issued new guidelines in 2015,
+
+the Commission concluded that the City's "assertion of error lacks merit"
+
+noting that the Commission was free to choose whatever assessment
+
+methodology it felt like:
+
+66 as the lead agency, the Commission is responsible for
+
+determining an assessment methodology that is appropriate for
+
+the projects being reviewed." (1PE2:120.)
+
+36. The Commission also rejected the holding in Berkeley Keep Jets
+
+Over the Bay Comm. v. Board of Port Comms. (2001) 91 Cal.App.4th 1344
+
+("Berkeley Jets") rejecting the use of outdated studies in assessing
+
+environmental impacts. (1PE2:121-122.) There, the court held that "[b]y
+
+using scientifically outdated information derived from the 1991 profile, we
+
+conclude the EIR was not a reasoned and good faith effort to inform
+
+decisionmakers and the public about the increase in TAC emissions that will
+
+occur as a consequence of the Airport expansion." (Berkeley Jets, supra, at p.
+
+1367.)
+
+37. Despite this clear authority, the Commission reasoned that the
+
+holding in Berkeley Jets was limited by its facts and only applicable to air
+
+quailty guidelines:
+
+"However, Berkeley Jets is not applicable to the case at hand.
+
+Berkeley Jets did not concern aesthetics; it concerned
+
+27
+
+quantitative air quality standards regarding toxic air
+
+contaminants that were under the jurisdiction of the California
+
+Air Resources Board ('CARB')."
+
+(1PE2:122.)
+
+38. The Commission also rejected the City's argument that the final
+
+EIR's alternative analysis has created a "strawman" alternative of under-
+
+grounding the entire project which was clearly not feasible and then used that
+
+alternative to torpedo more moderate and focused undergrounding alternatives.
+
+(1PE2:122-123.)
+
+39. CEQA requires the adoption of all feasible alternatives and
+
+mitigation measures that substantially reduce the environmental impacts of
+projects. The fact that an alternative may be more expensive or less profitable
+
+is not sufficient to show that the alternative is financially infeasible. (Citizens
+
+of Goleta Valley v. Board of Supervisors of Santa Barbara County (1988) 197
+
+Cal.App.3d 1167, 1181.)
+
+40. CEQA also requires an EIR to include a reasonable range of
+
+alternatives to the project or to the location of the project which reduce the
+
+environmental impacts of the project: "the discussion of alternatives shall
+
+focus on alternatives to the project or its location which are capable of
+
+avoiding or substantially lessening any significant effects of the project, even
+
+if these alternatives would impede to some degree the attainment of the project
+
+28
+
+objectives, or would be more costly." (Laurel Heights Improvement Assn. v.
+Regents of the University of California (1988) 47 Cal.3d 376, 400.)
+
+41. The Final EIR never presented any undergrounding through the
+City, other than Alternative M to the Valley-Ivyglen Project which calls for
+undergrounding the entire Valley-Ivyglen Project. (2PE4:821-825.)
+
+42. However, the Final EIR quickly rejected this "all underground"
+
+alternative as no better than the proposed project:
+"[u]ndergrounding the entire alignment would neither create nor
+
+avoid a land use conflict that would result in significant
+
+environmental impacts. Impacts would be the same under this
+
+alternative as for the proposed project."
+
+(2PE4:824.)
+
+43. This basis for rejection for the "all underground" alternative, a
+
+completely contrived alternative that was utterly infeasible, then served as the
+basis for rejecting the City's good faith comments that limited undergrounding
+
+alternatives should be considered:
+
+"In addition, note that the CPUC considered undergrounding
+
+alternatives. See undergrounding alternatives. See Chapter 5.0,
+Comparison of Alternatives, for an analysis of undergrounding
+
+alternatives."
+
+(6PE11:3016.)
+
+29
+
+44. The Commission ultimately found that the "City's assertion of
+legal error has no merit," asserting that an "EIR does not need to consider
+every conceivable alternative, but must consider a 'reasonable range' of
+alternatives to foster informed decision-making and public participation."
+
+(2PE2:122.)
+
+E. Basis for Relief
+
+45. Public Utilities Code section 1757(a) governs the reviewing
+
+court's examination of cases properly before it on petition for writ of review
+
+from a Commission decision involving "ratesetting." The Valley-Ivyglen
+
+proceeding was a ratesetting case. (6PE21:3608; see also §1701.1(a) &
+
+(c)(3).)
+
+46. Under Public Utilities Code section 1757(a), this court reviews
+
+a PUC decision involving ratesetting to determine whether, "on the basis of the
+
+entire record which shall be certified by the commission":
+
+(1) "[t]he commission has not proceeded in the manner required
+
+by law";
+
+(2) "[t]he decision of the commission is not supported by the
+
+findings";
+
+(3) "[t]he findings in the decision of the commission are not
+supported by substantial evidence...";
+
+30
+
+(4) "[t]he. .decision of the commission was procured by fraud
+
+or was an abuse of discretion"; or
+
+(5) "[t]he..decision of the commission violates any right of the
+
+petitioner under the Constitution of the United States or the
+
+California Constitution."
+
+47. The City requests the issuance of a writ of mandate or writ of
+
+review on the following grounds:
+
+48. The PUC failed to proceed in the manner required by law, and
+
+abused its discretion when it evaluated visual impacts in the Valley-Ivyglen
+
+Project EIR using measures that are wholly outdated or inapposite to urbanized
+
+communities.
+
+49. The PUC failed to proceed in the manner required by law,
+
+violated its own rules, and abused its discretion when it precluded discussion
+
+concerning project impacts, mitigation, and alternatives from evidentiary
+
+hearings in the Valley-Ivyglen Project proceedings at the PUC.
+
+50. The PUC failed to proceed in the manner required by law, and
+
+abused its discretion, when it failed and refused to correct obvious and
+
+admitted errors in the Valley-Ivyglen Project EIR.
+
+51. The PUC failed to proceed in the manner required by law, and
+
+abused its discretion, when it included extreme and infeasible alternatives in
+
+31
+
+the EIR's alternative analysis and use such alternatives as justification for
+
+refusing to consider other feasible alternatives.
+
+PRAYER
+
+WHEREFORE, City prays that this Court:
+
+1. Issue a writ of mandate or writ of review to inquire into and
+
+determine the lawfulness of the PUC's Valley-Ivyglen Project decision, D. 18-
+
+08-026, as modified by D. 18-12-031;
+
+2. Direct respondent PUC to certify its record in the subject
+
+proceeding to this Court;
+
+3. After review, set aside and annul the PUC's VIF project
+
+decision;
+
+4. Award City its costs of suit pursuant to rule 8.493 of the
+
+California Rules of Court; and
+
+5. Grant such other relief as the Court may deem just and proper.
+
+Dated: January 16, 2018 Respectfully submitted,
+
+LEIBOLD McCLENDON & MANN, P.C.
+
+By: /s/ David H. M
+David H. Mann
+Attorneys for Petitioner
+CITY OF LAKE ELSINORE
+
+32
+
+VERIFICATION
+
+I, David H. Mann, declare as follows:
+
+1. I am the attorney for the City of Lake Elsinore, the petitioner in
+
+this action, and serve as Assistant City Attorney to the City of Lake Elsinore.
+
+2. I have read this Petition for Writ of Mandate/Petition for Writ of
+
+Review ("Petition") and know its contents. The facts alleged in the Petition
+are within my own I personal knowledge and I know those facts to be true.
+Because of my familiarity with the relevant facts pertaining to the proceeding
+
+at the California Public Utilities Commission, I, rather than the petitioner,
+
+verify this Petition.
+
+3. declare under penalty of perjury under the laws of the State of
+
+California that the foregoing is true and correct and that this Verification was
+
+executed on January 16, 2019 at Irvine, California.
+
+/s/ David H. Mann
+David H. Mann
+
+33
+
+MEMORANDUM OF POINTS AND AUTHORITIES
+
+I. THE COURT SHOULD REVIEW THE PUC'S DECISION
+
+The CEQA process at the PUC is broken, propped up by platitude after
+
+platitude lobbed at communities seeking some semblance of the engaged
+
+public process at the heart of CEQA. By ingenious institutional shortcutting,
+the PUC has gutted CEQA by applying it as a veneer to projects with the
+superficial appearance of compliance on the outside but hollow underneath.
+
+The City is entitled to the Court's review on the merits to correct the
+
+Commission's failure to comply with CEQA. Because the Public Utilities
+
+Code specifies that a petition for writ of review is the sole means of obtaining
+
+review of a PUC decision, a timely petition that appears to be meritorious must
+
+be granted; such a petition should not be summarily denied "on policy grounds
+
+unrelated to [its] procedural or substantive merits." (Consumer Lobby
+
+Monopolies v. PUC (1979) 25 Cal.3d 891, 901, fn. 3.)
+
+The Petition here is both meritorious and raises significant issues of the
+
+PUC's compliance with CEQA which have broad public importance to
+
+communities throughout California.
+
+34
+
+II. THE COURT SHOULD RESOLVE THE CONFLICT
+BETWEEN PUBLIC UTILITIES CODE SECTION 1756
+AND PUBLIC RESOURCES CODE SECTION 21168.6
+CONCERNING THE PURPORTED SOLE
+JURISDICTION OF THIS COURT IN PUC RELATED
+CEQA MATTERS
+
+In adopting CEQA in 1972, the California Legislature vested sole
+
+judicial redress of a CEQA action with this Court by way of mandamus relief:
+
+"In any action or proceeding under Sections 21168 or 21168.5
+
+against the Public Utilities Commission the writ of mandate
+
+shall lie only from the Supreme Court to such commission."
+
+(Pub. Resources Code § 21168.6.) At the time, this statute posed no apparent
+
+or even implicit jurisdictional conflict to the different writ of review process
+
+for Supreme Court review of the PUC's decision found in then-existing Public
+
+Utilities Code section 1756. (See Desert Environment Conservation Ass'n. v.
+
+Public Utilities Comm'n. (1973) 8 Cal.3d 739 [Court applied Public Resources
+
+Code section 21168.6 and ruled on petitioners' mandamus CEQA action].)
+
+The conflict arose in 1996 with the enactment of Senate Bill No. 1322
+
+(1995-1996 Reg. Sess.), extending judicial review of PUC decisions to the
+
+courts of appeal. (Stats. 1996, ch. 855, § 5.) Subdivision (a) of Public Utilities
+
+Code section 1756 ("Section 1756") now provides in pertinent part:
+
+"Within 30 days after the commission issues its decision
+
+denying the application for a rehearing, or, if the application was
+
+granted, then within 30 days after the commission issues its
+
+35
+
+decision on rehearing, or at least 120 days after the application
+
+is granted if no decision on rehearing has been issued, any
+
+aggrieved party may petition for a writ of review in the court of
+appeal or the Supreme Court for the purpose of having the
+
+lawfulness of the original order or decision or of the order or
+
+decision on rehearing inquired into and determined."
+
+Thus the confusion was created. If an aggrieved party followed all of the
+
+particularities of Section 1756 and brought a petition for writ of review to
+
+challenge a PUC decision, that party was nonetheless compelled out of an
+
+abundance of caution, to file a petition for writ of mandate with the California
+
+Supreme Court if the challenged PUC action in any way touched upon CEQA.
+
+To date, the California Supreme Court has not resolved this confusion,
+
+and to the extent that courts of appeal have touched on it they have only
+compounded the confusion. For example, in v. City of Vernon v. Public Utilities
+
+Comm 'n. (2001) 88 Cal.App.4th 672, 677, the Second District Court of Appeal
+
+had no problem accepting and deciding an action alleging the PUC's violation
+
+of CEQA ["Vernon filed a petition for review in this court pursuant to Public
+
+Utilities Code section 1756"].) Conversely, in City of Huntington Beach v.
+
+Public Utility Commission (2013) 214 Cal.App.4th 566, 582, the court noted
+
+its prior dismissal of a party's petition alleging violation of CEQA by the PUC
+
+["On June 15, 2011, this court ruled that the petition violated Public Resources
+
+36
+
+Code section 21168.6 to the extent it raised CEQA issues"], and in Center for
+
+Biological Diversity v. Department of Fish & Wildlife (2016) 1 Cal.App.5th
+
+452, 468, the court remarked in passing that "we are not discussing specified
+
+environmental challenges filed against the Public Utilities Commission, which
+
+are filed in our Supreme Court. (§ 21168.6.)."
+
+The CEQA treatises are equally unhelpful. In the only one Petitioner's
+
+counsel found that even addresses the conflict, the commentators opine that the
+
+conflict must be resolved in favor of sole jurisdiction by this Court in all
+
+CEQA challenges to PUC decisions:
+
+"Challenges to California Public Utilities Commission (PUC)
+
+decisions generally are initiated by filing an application for a
+
+writ of review directly with the court of appeal or California
+
+Supreme Court. Pub Util C § 1756. However, when a CEQA
+
+proceeding is brought under Pub Res C §21168 or §21168.5, the
+
+writ of mandate to the PUC must be filed with the supreme
+
+court. Pub Res C §21168.6. Although these provisions conflict,
+
+the CEQA provision should control because it is the more
+
+specific of the two. See Committee for a Progressive Gilroy v
+State Water Resources Control Bd. (1987) 192 CA3d 847, 859
+
+(specific CEQA statute of limitations governs CEQA claim
+
+against water board); Walters V County of Plumas (1976) 61
+
+37
+
+CA3d460, 469 (specific CEQA limitations period applies rather
+
+than more general validating action limitation period)."
+
+(2 Kostka & Zischke, Practice Under Cal. Environmental Quality Act,
+
+[Cont.Ed.Bar 2d ed. 2018] Public Utility and Energy Commission Decisions,
+
+s0p 23.153, pp. 23-172-3.) Kostka and Zischke conclude by declaring that "a
+
+CEQA challenge to a PUC decision should be filed directly to the supreme
+
+court." (Ibid.)
+
+The practical result of this is the judicial equivalent of a hot mess, with
+
+many parties aggrieved by the PUC having to file not one but two petitions
+
+within 30 days of the PUC's decision - with the non-CEQA issues going to a
+
+court of appeal and the CEQA issues going to this Court. (See, e.g., City of
+
+San Diego v. Public Utility Commission, Supreme Court Case No. S151176.)
+
+However, Kostka and Zischke's analysis fails to acknowledge that Section
+
+1756 is also highly specific when compared, for instance, with the validation
+
+statute, Code of Civil Procedure sections 860 et seq., at issue in Walters v.
+
+County of Plumas, supra. Moreover, while acknowledging the court's
+
+conclusion in Committee for a Progressive Gilroy, supra, that a CEQA statute
+
+of limitations trumped a Water Code statue of limitations, Kostka and Zischke
+
+overlook the fact that the court in that case was also persuaded that the CEQA
+
+claims simply could not fit within the writ of review process set out in the
+
+Porter-Cologne Act:
+
+38
+
+"Under the Water Code, 'the court shall exercise its independent
+
+judgment on the evidence.' (Wat. Code. § 13330, subd. (b).) In
+contrast, under CEQA "The court shall not exercise its
+independent judgment on the evidence but shall only determine
+
+whether the act or decision is supported by substantial evidence
+
+in the light of the whole record.' (Pub. Resources Code,
+§ 21168.) It would be anomalous to apply the Water Code
+limitation period and yet simultaneously use the different scope
+
+of review under CEQA."
+
+(Committee for a Progressive Gilroy v. State Water Resources Control Bd.,
+supra, 192 Cal.App.3d at p. 859.) In contrast, Public Utilities Code 1757 is
+fully consistent with the review standards in CEQA.'
+
+(a) No new or additional evidence shall be introduced upon review by the court. In a complaint or enforcement proceeding, or in a ratemaking or licensing decision of specific application that is addressed to particular parties, the review by the court shall not extend further than to determine, on the basis of the entire record which shall be certified by the commission, whether any
+of the following occurred: (1) The commission acted without, or in excess of, its powers or jurisdiction. (2) The commission has not proceeded in the manner required by law. (3) The decision of the commission is not supported by the findings. (4) The findings in the decision of the commission are not supported by substantial evidence in light of the whole record. (5) The order or decision of the commission was procured by fraud or was an
+abuse of discretion.
+(6) The order or decision of the commission violates any right of the petitioner under the Constitution of the United States or the California Constitution.
+(b) Nothing in this section shall be construed to permit the court to hold trial de novo, to take evidence other than as specified by the California Rules of
+
+39
+
+Finally, Kostka and Zischke fail to acknowledge that an aggrieved
+party, when seeking a writ of review under Section 1756, is seeking something
+
+different than a writ of mandate as called out under Public Resources section
+
+21168.6. (Cf. Code Civ. Proc. § § 1067-1077 with Code Civ. Proc. §§ 1085 &
+
+1094.5.) Writs of review and writs of mandate are not the same, and Kostka
+
+and Zischke's opinion ignores a key principle of statutory interpretation: that
+
+court must assume that the Legislature, in enacting Section 1756 in 1996, did
+
+so with Public Resources section 21168.6 in mind and yet chose not to scalpel
+
+CEQA actions from its ambit. (Estate of Simpson (1954) 43 Cal.2d 594, 600.)
+
+The City respectfully submits that an aggrieved party, having fully
+
+followed the prerequisites to seek a writ of review as required by Section 1756,
+
+should be permitted to seek such review from the Court of Appeal for any
+
+issue, whether it be CEQA or anything else. This Petition certainly does not
+
+compel the Court to clear up the confusion, but it does pose that opportunity.
+
+III. THE COMMISSION FAILED TO PROCEED IN THE
+MANNER REQUIRED BY LAW WHEN IT APPROVED
+THE EIR FOR THE VALLEY-IVYGLEN PROJECT
+
+A. The Standard of Review Under CEQA
+
+The Court's review extends "to whether there was a prejudicial abuse
+
+of discretion." (Pub. Resources Code, § 21168.5.) "Abuse of discretion is
+
+established if the agency has not proceeded in a manner required by law or if
+
+Court, or to exercise its independent judgment on the evidence.
+
+40
+
+the determination or decision is not supported by substantial evidence." (Ibid.)
+
+"[Q]uestions of interpretation or application of the requirements of CEQA are
+
+matters of law." (City of Marina v. Board of Trustees of Calif. State University
+(2006) 39 Cal.4th 341, 355-356.) For example, in determining whether an
+agency has proceeded as required by CEQA in deciding whether and when to
+engage in environmental review, the Court has explained that:
+
+Drawing this line raises predominantly a legal question, which
+
+we answer independently from the agency whose decision is
+
+under review. . .. [WJe determine de novo whether the agency
+
+has employed the correct procedures, "scrupulously enforc[ing]
+
+all legislatively mandated CEQA requirements" [citation].
+
+(Save Tara v. City of Hollywood (2008) 45 Cal.4th 116, 131 (alterations in
+original), citing Vineyard Area Citizens for Responsible Growth, Inc. V. City
+
+of Rancho Cordova (2007) 40 Ca1.4th 412, 435.)
+
+In contrast, "[t]he substantial evidence standard is applied to
+
+conclusions, findings and determinations. It also applies to challenges to the
+
+scope of an EIR's analysis of a topic, the methodology used for studying an
+impact and the reliability or accuracy of the data upon which the EIR relied
+
+because these types of challenges involve factual questions." (Bakersfield
+Citizens for Local Control v. City of Bakersfield (2004) 124 Cal.App.4th 1184,
+
+1198.)
+
+41
+
+"In sum, although the agency's factual determinations are subject to
+
+deferential review, questions of interpretation or application of the
+
+requirements of CEQA are matters of law. [Citations.] While we may not
+
+substitute our judgment for that of the decision makers, we must ensure strict
+compliance with the procedures and mandates of the statute." (Save Our
+
+Peninsula Committee v. Monterey County Bd. Of Supervisors (2001) 87
+
+Cal.App.4th 99, 118.)
+
+B. CEQA Must Be Interpreted Broadly and Strictly Enforced.
+
+"CEQA was enacted to advance four related purposes: to (1) inform the
+
+government and public about a proposed activity's potential significant
+
+environmental impacts; (2) identify ways to reduce, or avoid, environmental
+
+damage; (3) prevent environmental damage by requiring project changes via
+
+alternatives or mitigation measures when feasible; and (4) disclose to the
+
+public the rationale for governmental approval of a project that may
+
+significantly impact the environment." (Tomlinson v. County of Alameda
+
+(2012) 54 Cal.4th 281, 285-286 ("Tomlinson").)
+
+To advance these four purposes, CEQA's dictates must be "strictly
+
+enforced."(Citizens of Goleta Valley v. Board of Supervisors of Santa Barbara
+
+County (1988) 197 Cal.App.3d 1167, 1176.) "Only by requiring [the lead
+
+agency] to fully comply with the letter of the law can a subversion of the
+
+important public purposes of CEQA be avoided." (Id.) In turn, there is no
+
+42
+
+such thing as a "harmless error" under CEQA; any violation is "necessarily
+
+prejudicial." (Resource Def. Fund v. Local Agency Formation Comm. of Santa
+
+Cruz County (1987) 191 Cal.App.3d 886, 897-898.)
+
+C. The Final EIR's Analysis of the Valley-Ivyglen Project's
+Aesthetic Impacts Fails to Adequately Account for the
+Degrading of Views to Residents and Patrons of
+Commercial Developments in the City of Lake Elsinore
+
+In Quail Botanical Gardens Foundation, Inc. v. City of Encinitas
+(1994) 29 Cal.App.4th 1597, the court confirmed that a substantial,
+demonstrable negative aesthetic effect has a significant effect on the
+
+environment:
+
+"We further conclude it is inherent in the meaning of the word
+
+*aesthetic' that any substantial, negative effect of a project on
+
+view and other features of beauty could constitute a 'significant'
+
+environmental impact under CEQA."
+
+(Quail Botanical Gardens Foundation, Inc. V. City of Encinitas, supra, 29
+
+Cal.App.4th at 1604.)
+
+1. The Final EIR's Emphasis on Freeway Views Ignores
+the Valley-Ivyglen Project's True Visual Impacts
+
+CEQA implements state policy that government agencies "[t]ake all
+
+action necessary to provide the people of this state with [] enjoyment of
+
+aesthetic [] qualities, and freedom from excessive noise.." (Public Res. Code
+
+§ 21001(b), emphasis added.) State policy also "[r]equire[s] government
+
+43
+
+agencies at all levels to consider qualitative factors" in CEQA documents and
+not just quantitative factors. (Public Res. Code § 21001(g).) The Final EIR's
+aesthetics analysis is fundamentally flawed and violates this policy in exactly
+
+the same way that the noise analysis was flawed and violated it in Berkeley
+
+Keep Jets Over the Bay Comm. v. Board of Port Comms. (2001) 91
+
+Cal.App.4th 1344 ("Berkeley Jets").
+
+In Berkeley Jets, the EIR used a single methodology to assess the
+project's potential noise impacts: a quantitative methodology that exclude any
+
+qualitative analysis of noise impacts on residents "in normally quiet residential
+neighborhoods," such as disturbance of their sleep and "peaceful enjoyment
+of our homes, gardens, and parks." (Id., at pp. 1372-1375.) When area
+
+residents and the Cities of San Leandro and Alameda protested this, the EIR
+
+preparers were "steadfast and consistent" in rebuffing those protests, insisting
+
+that the EIR need not address or mitigate noise impacts that occurred outside
+
+of the noise "corridor" addressed by the EIR's quantitative noise analysis. (Id.,
+
+at pp. 1372-1383) Citing the foregoing CEQA policies, the Berkeley Jets court
+rejected the EIR's single quantitative analysis, finding it deficient for failing
+to qualitatively analyze noise impacts to residents outside the noise corridor
+
+the EIR studied. (Id.)
+
+Repeating the mistakes the Berkeley Jets EIR made in addressing noise
+
+impacts, the Final EIR incorrectly assumed that the only significant visual
+
+44
+
+impacts created by the Valley-Ivyglen Project are those associated with how
+
+the transmission lines will be viewed from the Interstate 15 and State Route 74
+
+highway corridors and thus relied on the Federal Highway Administration's
+
+1988 Visual Impact Assessment for Highway Projects while using no other
+
+criteria for measuring the Project's aesthetic impacts. In doing so, the Final
+EIR ignored the fact that over eleven miles of proposed transmission lines will
+be within the City's municipal boundaries, while virtually none of the
+transmission lines within the City will be within the Interstate 15 and State
+Route 74 highway corridors. Consequently, the Valley-Ivyglen Project is
+simply ill-suited for analysis using criteria developed for the federal interstate
+highway system--and outdated criteria to boot.
+Further, this emphasis on views from highway corridors as opposed to
+
+the degradation of City residents' and retail patrons' views where the lines will
+actually be located can be seen by the photographs included (and excluded) in
+
+the Final EIR:
+
+"Most views focus on the foreground with hills and
+
+mountains in the middleground and background.
+
+Context photos 9 through 17, and 24-28 (Figures
+
+4.1-2c-e) depict the variety of views within the landscape
+
+unit. Lake Elsinore is visible in the middleground from
+
+a variety of vantage points, as shown in context photo 24
+
+45
+
+(Figure 4.1-2d). The City of Lake Elsinore has identified
+
+six vantage points in its General Plan, as described below
+
+in Section 4.1.1.4, 'Scenic Vistas' (City of Lake Elsinore
+
+2011). Context photo 24 (Figure 4.1-2d) shows the view
+
+from Vantage Point 1, located at I-15 just west of
+
+Railroad Canyon Road, where motorists can see Lake
+
+Elsinore." (2PE4:293.)
+
+Context photos 9-17 and 24-28 contain a total of 14 photographs from
+
+different points in the City, but only one of them includes a small portion of
+
+a residential area. (2PE4:297, 299, Figures 4.1-2c and 4.1-2e.) None of the
+
+photographs depict any significant retail development. Yet, current and future
+development throughout the City will be substantially impacted aesthetically
+
+by the Valley-Ivyglen Project.
+
+Additionally, the Final EIR ignores "viewer sensitivity" by people
+
+viewing the transmission lines in retail centers and only makes a passing
+
+reference to "homeowners":
+
+"Viewer sensitivity is high for views seen by people who
+
+are driving for pleasure; people engaging in recreational
+
+activities, such as hiking, biking, or camping; and
+
+homeowners. Viewer sensitivity tends to be lower for
+
+views seen by people driving to and from work, as part
+
+46
+
+of their work, or engaged in personal business activities
+
+(USFS 1995; FHWA 1988) [] Views from recreation
+
+trails and areas, scenic highways, scenic overlooks, and
+
+residential areas are generally assessed as having high
+
+viewer sensitivity." (2PE4:293.)
+
+The Final EIR addresses what it calls "viewer groups" that it identifies
+
+as those "that would have views of the proposed projects." (2PE4:302.) The
+
+viewer groups are identified and their sensitivity to the views of the Projects
+are then listed in Table 4.1-1. (2PE4:302-303.) However, the only viewer
+groups identified are "motorists," "motorist and other travelers" and
+"recreationists." (2PE4:302-303, Table 4.1-1.) No mention is made of the
+tens of thousands of City residents visually impacted by the Valley-Ivyglen
+Project in their community or visual impacts to current and future commercial
+
+developments.
+
+The Final EIR addresses "significance criteria" at page 4.1-43.
+
+(2PE4:334.) While scenic vistas are considered, missing again from the
+
+analysis are impacts to residences and retail centers.
+
+Also missing from the Final EIR's aesthetics analysis are viewpoints
+
+outside highway corridors and from streets within the City in which there are
+
+no existing overhead transmission lines and streets that have overhead lines on
+
+only one side of the street. The proposed Projects' plan to install lines where
+
+47
+
+none currently exist at all and to add a second set of poles and lines in areas
+
+where only one set exists across the street will substantially degrade the
+
+existing visual character and quality of those City streets. The EIR's aesthetics
+
+analysis also fails to account for City streets that have existing modest
+
+transmission lines capable of future undergrounding at a reasonable cost that
+
+will now be burdened with a set of dual transmission lines foreclosing a
+
+financially viable potential for any future undergrounding.
+
+In the instances in which the Final EIR does disclose visual impacts,
+
+that disclosure demonstrates indifference to local impacts within the City in the
+
+same way the EIR in Berkeley Jets was indifferent to noise impacts outside the
+
+noise corridor it analyzed. The Final EIR's analysis of Key Viewpoint
+
+("KV") 8 is emblematic of this approach. (2PE4:326, Figure 4.1-4i.) The City
+
+carefully conditioned the retail and commercial centers bordered by Third
+
+Street and Pasadena Avenue to underground utilities, as demonstrated by the
+
+retail center shown in KV 8 at the corner of Central and Pasadena. (2PE4:326,
+
+Figure 4.1-4i.) Those commercial and retail businesses have thrived in this
+
+modern business center which meets the aesthetic expectations of both its
+
+owners, their patrons, and the community. The Valley-Ivyglen Project lays
+
+waste to those expectations as both it and the Alberhill Project propose running
+
+transmission lines on double circuit poles down Third Street the entire length
+
+of Pasadena Avenue (ASP 3/VIG 4). (1PE3:199, Figure 2.5b.)
+
+48
+
+Despite the City's efforts to successfully implement development of
+
+aesthetically pleasing neighborhoods and retail centers in which utilities are
+
+routinely undergrounded as exemplified on Pasadena Avenue, the Final EIR's
+
+response in effect says: "we don't think anyone will notice these transmission
+
+lines." (2PE4:326, Figure 4.1-4i.) Using the outdated and inapplicable federal
+
+guidelines for interstate freeways and scenic highways, the Final EIR
+
+concludes that visual impacts in the City's prime business park are somehow
+
+"moderately low because it is experienced mostly by people working or
+traveling in the area for work or personal business." (2PE4:313.)
+
+This bias against impacts experienced by both local businesses and the
+
+local community is further exemplified in "moderately low" visual sensitivity
+attributable to the installation of taller power lines on Auto Center Drive (Key
+
+Viewpoint 13) "because it is experienced on a regular basis by a moderate
+
+ber of viewers consisting primarily of local residents, workers, commuters,
+
+and people engaged in shopping and business activities who are focused on the
+
+activities they are engaged in, rather than the surrounding views."4 (2PE4:31,
+
+Figure 4.1-4n; 2PE4:315, Table 4.1-2.) If the Final EIR dismisses the
+
+4 Apparently sensing its indifference to viewer impacts was a bit too
+obvious, the Final EIR changed the phrase in the Draft EIR from "who would
+not have a high concern for visual changes" to "who are focused on the
+activities they are engaged in, rather than the surrounding views." As the City
+understands this change, viewers have gone from not caring about the view in
+the Draft EIR to being too busy to care about the view in the Final EIR.
+
+49
+
+sensibilities of residents, workers, commuters and persons engaged in
+
+commerce within the City, whose sensibilities are left to consider when
+
+assessing visual impacts?
+
+In sum, the Final EIR's aesthetic analysis is premised on a position that
+
+any aesthetic appeal to undergrounding utilities in neighborhoods and
+
+commercial centers is simply illusory. Those users, according to the Final
+
+EIR, will simply not notice above-ground poles and transmission lines because
+
+they are preoccupied with other tasks. (2PE4:315, Table 4.1-2.) This point of
+
+view stands in stark contrast to the development expectations of virtually every
+
+city in California, which routinely mandate the undergrounding of utilities in
+
+new subdivisions and commercial centers. Such undergrounding is performed
+
+routinely because undergrounding of utilities is consistent with the
+
+community's aesthetic sense and expectations for new development.
+
+2. The "Yardstick" Used to Measure Visual
+Impacts Is Outdated and Has Been Rejected
+by the Federal Agency that Created It
+
+Why did the Final EIR miss the mark on the Projects' aesthetic
+
+impacts? Because it utilized an outdated 1988 aesthetic standard - now over
+
+30 years old - that even its author, the Federal Highway Administration, has
+
+abandoned.' (2PE4:292, referencing the Visual Impact Assessment of Highway
+
+5 Final EIR, at p. 4.1-1, referencing the Visual Impact Assessment of
+Highway Projects, Federal Highway Administration, Publication No. FHWA-
+HA-88-054. See City's Motion to Request Judicial Notice, Exhibit 2.
+
+50
+
+Projects, Federal Highway Administration, Publication No. FHWA-HA-88-
+
+054; see also 7PE35:3906 [City's Motion to Request Judicial Notice] and
+
+7PE36:4003 [Exhibit 2 to motion].) The Federal Highway Administration's
+
+2015 replacement Guidelines for the Visual Impact Assessment of Highway
+
+Projects acknowledge that the 1988 guidelines as antiquated: "The new
+
+guidelines recommend engaging the public to a higher degree than earlier VIA
+
+methods, to achieve a better understanding of how people define visual quality
+
+and how they interpret changes to it." (7PE36:4016, Guidelines for the Visual
+
+Impact Assessment of Highway Projects, January 2015, Federal Highway
+
+Administration, Publication No. FHWA-HEP-15-029, 7PE36:4008 [Exhibit 3
+
+to City's Motion to Request Judicial Notice].)
+
+The City expressly informed the Commission of the Federal Highway
+
+Administration's abandonment of the 1988 visual assessment guidelines used
+
+in the Draft EIR and further informed the Commission of the updated 2015
+
+guideline in the City's comment letter to the Draft EIR. (5PE9:1748.) The
+
+initial Response to Comments to the City's comment letter failed to address the
+
+rationale for using the outdated 1988 study but belatedly did so over a year a
+
+later in an errata to the Final EIR. (6PE11:3015.) By failing to engage the
+
+public and instead relying on outdated and inapplicable guidelines for the
+
+51
+
+Valley-Ivyglen Project, the Final EIR consistently understates the projects'
+
+visual impacts.6
+
+The use of the 1988 assessment guideline here is remarkably similar to
+
+the facts in Berkeley Jets, where the EIR relied on a 1991 study evaluating
+
+toxic air contaminates ("TAC"). However, during the comment period, the
+lead agency was alerted by a commentor that the 1991 study had been updated
+
+in 1994. Despite being placed on notice of an updated standard, the final EIR
+
+failed to acknowledge the updated standards. The court found this a clear error
+
+under CEQA:
+
+"the use in the final EIR of data extrapolated from
+
+CARB's 1991 speciation profile # 508 for measuring
+
+aircraft emission of TAC's did not meet the standard of
+
+'a good faith effort at full disclosure' required by CEQA.
+
+(Guidelines, § 15151.) 'Where comments from
+
+responsible experts or sister agencies disclose new or
+
+conflicting data or opinions that cause concern that the
+
+agency may not have fully evaluated the project and its
+
+alternatives, these comments may not simply be ignored.
+
+There must be good faith, reasoned analysis in
+
+6 The City specifically protested the Draft EIR's use of the Federal Highway Administration's 1988 visual assessment guidelines. (Final EIR,
+Appendix M, part M3 Local, beginning on page 9.)
+
+52
+
+response.' (Cleary v. County of Stanislaus (1981) 118
+
+Cal. App. 3d 348, 357 [173 Cal. Rptr. 390], original
+
+italics.) By using scientifically outdated information
+
+derived from the 1991 profile, we conclude the EIR was
+
+not a reasoned and good faith effort to inform
+
+decisionmakers and the public about the increase in TAC
+
+emissions that will occur as a consequence of the Airport
+
+expansion."
+
+(Berkeley Jets, supra, at p. 1367.)
+
+In turn, the Final EIR's use of outdated standards ripples through its
+
+analysis of visual impacts. The lack of adequate analysis of the impact of
+
+above-ground transmission lines from the Valley-Ivyglen Project in residential
+
+and retail locations is especially noteworthy in two areas within the City.
+
+The first area is part of the Valley-Ivyglen (or "VIG") Project and is in
+the area designated VIG 3 and VIG 4 at and near where these segments meet
+
+at a right angle. KV 8 is 8 located along VIG 4 just north of where VIG 3 and 4
+meet. KV 8 depicts the intersection of Pasadena Street and Central Avenue,
+
+a retail area. The Figure 4.1-4i photograph of this intersection and
+
+accompanying visual simulation show the significant aesthetic impact the
+
+poles and transmission lines will have in this area where currently there are no
+
+lines. In spite of the obvious significant impact on aesthetics, the Final EIR
+
+53
+
+concludes that visual sensitivity in this area is "[m]oderately low because it is
+
+experience [sic] mostly by people working or traveling in the area for work or
+
+personal business; the area is not a main thoroughfare used to access
+
+residential or recreational areas." (2PE4:313.) Importantly, this analysis
+
+ignores the obvious impact to the retail area itself and how the poles
+
+transmission lines would be viewed by patrons of the businesses at this
+
+location. There is no discussion of the possibility of undergrounding.
+
+The second area contains transmission lines for both the Valley-Ivyglen
+
+Project and the other project discussed in the Fianl EIR, the Alberhill System
+
+Project (or "ASP") at VIG and ASP 2, beginning in the north at KV 6 and
+
+KV 7 and extending south to the point where each of these segments end, just
+
+east of the Fogarty Substation. Final EIR Figures 4.1-4g and 4.1-4h show
+
+photographs and visual simulations where one set of transmission lines in each
+
+Figure is to be replaced by two, much taller and visually more invasive
+
+transmission lines. (2PE4:324-325.) While the Final EIR concedes that visual
+
+sensitivity is "moderately high" at KV 6 and KV 7, there is no analysis of
+
+undergrounding in this area. (2PE4:313.) In addition, no analysis of visual
+
+impacts south 6 of KV 6 and KV 7 is provided in this segment, even though the
+
+City's General Plan contemplates residential development south of KV 6 and 6
+
+KV 7. (7PE36:4021,4023, City of Lake Elsinore General Plan, adopted
+
+December 13, 2011, 1.0 Alberhill District and 3.0 Business District.)
+
+54
+
+3. The Final EIR's Aesthetic Analysis Is Based on
+Single Circuit Lines/Pole Configurations Even
+though Much of the Valley-Ivyglen Project within
+the City Will Be Configured on Double Circuit Poles
+
+The Final EIR's visual impact analysis is premised on its review of the
+
+simulated views. (2PE4:318-333, Figures 4.1-4a through 4.1-4p .) The City
+
+has had much to say about both the paucity of views analyzed within key
+
+viewpoints within the City and the 1988 Federal Highway Administration
+
+"yardstick" used for measuring those visual impacts. But there is another
+
+problem: the simulated views are wrong.
+Key Viewpoints (KV).6 and KV 7 show simulated single circuit poles
+
+marching two-by-two down Lake Street in Lake Elsinore. (2PE4:324, 325,
+
+Figures 4.1-4g and 4.1-4h.) KV 8 shows a simulated single circuit lines and
+
+poles running along Pasadena A venue in Lake Elsinore which is currently fully
+
+undergrounded. (2PE4:326, Figure 4.1-4i .)
+
+The Final EIR, however, correctly acknowledges that the combined
+
+Valley-Ivyglen Project, when coupled with the Alberhill Project, will hang a
+second circuit on the powerline poles. (1PE3:203.)
+
+Is there a material difference between a visual impacts of single circuit
+
+poles versus double circuit poles? As a point of beginning, there certainly is
+
+a difference. The Final EIR shows depictions of several single circuit poles
+
+and only one double circuit pole on Figure 2-4. (1PE3:193.)
+
+55
+
+Here is the depiction from the Final EIR (1PE3:193, Figure 2-4) of a
+
+single circuit pole (see pole on far left) that appears to have been used for
+purposes of the visual simulations for KV 6, 7 and 8:
+
+do Foit Dyie Calies
+
+NiSA
+
+2-W
+
+Here is the depiction of the only double circuit 115 kV pole depicted in the
+
+Final EIR. (1PE3:193, Figure 2-4.)
+
+Typical Tubular Steel Pole wihth Fiber Optkc Cable doubretcirain
+
+115-kV
+
+NOTTO SCALE Minimura
+
+56
+
+The double circuit poles necessarily include three additional
+
+transmission lines along with the additional pole arms.' The City submited
+
+that the additional lines and pole arms are sufficiently impactful (that is, the
+
+cumulative impact) that it alone could swing the visual impact analysis from
+
+"less than significant" to "significant."
+
+But the PUC was characteristically unmoved.
+
+"To the contrary, as clarified in the errata to the EIR, the visual
+
+simulation for Key Viewpoint 13 (Figure 4.1-4n) provides an
+
+example of the incremental impact associated with adding an
+
+additional circuit to the proposed Valley-Ivyglen structures. The
+
+EIR's conclusion that these changes would be incremental and
+
+would not raise the level of significance beyond that disclosed
+
+under AES-3 (VIG) is reasonable."
+
+(1PE1:28.)
+
+Notably, this Court recently rejected an EIR for similarly failing to
+
+accurately inform the public of a project's potential biological impacts, finding
+
+such failure constituted a prejudicial abuse of discretion. (See Banning Ranch
+
+Conservancy v. City of Newport Beach (2017) 2 Cal.5th 918.) Such is also the
+
+7 The City acknowledges that the depictions are not "apples to apples" in that the light weight steel single circuit poles shown in the first depiction are
+made of different material than the tubular steel pole contained in the second
+depiction. We could not locate a depiction of a sample 115 kV double circuit light weight steel pole in the Final EIR.
+
+57
+
+case here, with the PUC deceiving the public by not providing them with the
+
+correct basic powerline configuration in the view simulation that forms the
+
+very basis for the EIR's visual impact assessment and then nonchalantly
+
+dismissing the additional impacts as "incremental."
+
+D. The Final EIR Fails to Adequately Address
+Alternatives to the Valley-Ivyglen Project,
+Especially with Regards to Undergrounding
+
+CEQA requires the adoption of all feasible alternatives and mitigation
+
+measures that substantially reduce the environmental impacts of projects.
+
+(Public Res. Code § 21002; CEQA Guidelines § 15126.6(a).) The fact that an
+
+alternative may be more expensive or less profitable is not sufficient to show
+
+that the alternative is financially infeasible. (Center for Biological Diversity
+
+v. County of San Bernardino (2010) 185 Cal.App.4th 866, 883.)
+
+CEQA also requires an EIR to include a reasonable range of
+
+alternatives to the project or to the location of the project which reduce the
+
+environmental impacts of the project. (CEQA Guidelines § 15126.6(a);
+
+Citizens of Goleta Valley v. Board of Supervisors (1990) 52 Cal.3d 553.)
+
+Further, "the discussion of alternatives shall focus on alternatives to the project
+
+or its location which are capable of avoiding or substantially lessening any
+
+significant effects of the project, even if these alternatives would impede to
+
+some degree the attainment of the project objectives, or would be more costly."
+
+(CEQA Guidelines § 15126.6(b).)
+
+58
+
+The proposed Projects include the undergrounding of transmission lines
+
+outside the City. Indeed, VIG Alternatives B-1, B-2, C, and M all involve
+
+undergrounding. (1PE3:278, 280, sections 3.3.2, 3.3.3, 3.3.4, and 3.3.5
+
+thereto.)
+
+Originally, "the Alternatives Screening Report considered 14
+
+alternatives for the proposed Valley-Ivyglen Project and retained 9 of those
+
+alternatives for consideration in the EIR. The Alternatives Screening Report
+
+considered 33 alternatives for the Alberhill Project and retained five of those
+
+alternatives for consideration in the EIR." (1PE3:273.) Of the nine VIG
+
+project alternatives, three more were eliminated as identified on Page 3-4 of
+
+the Final EIR, leaving only Alternatives B1, B2, C, M, and the no project
+
+alternative for consideration in the Final EIR. (1PE3:275-276.) Of the five
+
+ASP project alternatives, three more were eliminated as identified on page 3-5
+
+of the Final EIR, leaving only Alternatives B, DD, and the no project
+alternative for consideration in the Final EIR. (Ibid.)
+
+Alternatives B1, B2, and C to the Valley-Ivyglen Project all involved
+
+undergrounding in areas outside the City of Lake Elsinore. (1PE3:155.)
+
+Though it analyzes undergrounding alternatives in certain areas, the Final EIR
+
+never presents any undergrounding through Lake Elsinore, other than
+
+Alternative M to the Valley-Ivyglen Project which calls for undergrounding
+
+the entire VIG project. (1PE3:280.)
+
+59
+
+Clearly, then, undergrounding is technically feasible. And
+
+undergrounding the 115 kV lines, at least through portions of Lake Elsinore,
+would reduce impacts to aesthetics, socioeconomic issues, and urban decay to
+
+less than significant.
+
+The Final EIR's analysis of Land Use and Planning for Alternative M
+
+states that "[u]ndergrounding the entire alignment would neither create nor
+
+avoid a land use conflict that would result in significant environmental
+
+impacts. Impacts would be the same under this alternative as for the proposed
+
+project." (2PE4:824.) This conclusion is clearly false.
+
+The undergrounding of the proposed Projects would avoid many of the
+
+land use conflicts of the proposed Projects. Only by manipulating the aesthetic
+
+impact analysis by using the Federal Highway Administration's outdated 1988
+
+visual impact assessment guidelines was the Final EIR able to reach the
+
+preposterous conclusion that undergrounding was an environmental "wash"
+
+when compared to the proposed Projects.
+
+In summary, the Final EIR fails to comply with CEQA's directive to
+
+"describe a reasonable range of alternatives to the project, or to the location of
+the project." (CEQA Guidelines § 15126.6(a).)
+
+60
+
+E. The PUC's Blanket Exclusion of Evidence
+of Significant Environmental Impacts,
+Mitigation Measures, and Alternatives at the
+Evidentiary Hearings Is an Abuse of Discretion
+
+In order for a party to exhaust its administrative remedies, Public
+
+Resources section 21177(a) requires that the alleged grounds for
+
+noncompliance with CEQA must have been presented to the agency either
+
+during the public comment period provided by CEQA or before the close of
+
+the public hearing on the project.
+
+Courts of appeal have generally interpreted Public Resources section
+
+21177(a) to allow project opponents to present evidence and objections at any
+
+time before the close of the public hearing on the project. (See Tracy First v.
+City of Tracy (2009) 177 Cal.App.4th 912 ("Tracy First") [objections
+
+submitted during public hearing on EIR certification and project approval];
+Bakersfield Citizens for Local Control v. City of Bakersfield (2004) 124
+Cal.App.4th 1184, 1199 ("Bakersfield Citizens for Local Control") [objections
+
+submitted at public hearing on project approval held after EIR was certified];
+
+Galante Vineyards v. Monterey Peninsula Water Mgmt. Dist. ("Galante
+
+Vineyards") (1997) 60 Cal.App.4th 1109, 1120 [objections submitted at public
+
+hearing before EIR's certification].)
+
+The PUC, however, a operates with a decidedly different set of ad hoc
+
+rules. On April 28, 2016, ALJ Hallie Yachnin advised the public that its one
+
+61
+
+and only opportunity to address deficiencies in the draft EIR would be only
+
+during the draft EIR's public review period:
+
+"The final EIR will include and address all such comments, and
+
+will be admitted into the evidentiary record of this proceeding.
+
+Accordingly, as will be further explained at the prehearing
+
+conference, I do not anticipate taking further evidence regarding
+
+the identification of significant environmental impacts,
+
+mitigation measures and alternatives, and the environmentally
+
+superior alternative (i.e., issues no. 1, 2 and 3), beyond the final
+
+EIR. Therefore, any person who wishes to present evidence on
+
+the environmental impacts of the proposed project and
+alternatives, recommended mitigation, and the environmentally
+superior alternative must do so through public comment on the
+
+draft EIR."
+
+(6PE20:3600; italics in original.)
+
+Commissioner Guzman Aceves hammered home that the Commission
+
+would not, under any circumstances, entertain evidence of the EIR's deficiency
+
+at the evidentiary hearing:
+
+"The EIR addresses issues through 3. CEQA requires the
+
+opportunity for the public to comment on the draft EIR, and
+
+requires the final EIR to consider and address each and every
+
+62
+
+comment that is received, pursuant to the process and
+
+procedures of CEQA and the CEQA Guidelines. (Title 14
+
+C.C.R. Chapter 3.) Given this process under CEQA, the
+
+Administrative Law Judge's (ALJ's) April 28, 2016 ruling gave
+
+notice that no evidence would be taken regarding the
+
+identification of significant environmental impacts, mitigation
+
+measures and alternatives, and the environmentally superior
+
+alternative 1 (i.e., issues 1 through 3) beyond the final EIR, and
+
+that any person who wished to present information regarding
+
+those issues should do so through public comment on the draft
+
+EIR. We will not take further evidence on these issues."
+
+(6PE21:3605.)
+
+Despite this admonition, both the City and The Utility Reform Network
+
+("TURN") submitted direct (written) testimony that indirectly implicated the
+
+EIR's alternative analysis. But ALJ Yacknin would have none of it and struck
+
+the submitted testimony. (6PE14:3066-3068.) The evidentiary hearing was
+
+held on October 17, 18, and 19, 2017. (6PE14:3064; 6PE15:3249;
+
+6PE16:3364.) In keeping with the Scoping Memo, no evidence regarding
+project environmental impacts, feasible mitigation measurers, or alternatives
+
+was permitted at the evidentiary hearing. (6PE14:3066-3068.)
+
+63
+
+The City submits that this blanket prohibition violates the four core
+
+principals of CEQA enunciated by this Court in Tomlinson,$ is inconsistent
+
+with the lower court rulings in Tracy First, Bakersfield Citizens for Local
+Control, and Galante Vineyards discussed above, and violates the PUC's own
+
+rules.
+
+Petitioner recognizes the holding in Mount Shasta Bioregional Ecology
+
+Ctr. v. County of Siskiyou (2012) 210 Cal.App.4th 184 that an agency may
+
+reject evidence submitted before its hearing if its rules require evidence to be
+provided before the hearing. There, the county had adopted by resolution
+
+specific rules. One rule required that all documentary evidence be submitted
+
+at least five days before the applicable hearing. The CEQA petitioner had
+submitted a 16-page letter with 101 pages of supporting literature as its only
+evidence of an air quality emissions issues the day before the public hearing
+at the county. The court held that the county was within its rights to exclude
+
+the letter from board of supervisors' consideration of the project. (Id., at
+
+pp. 201-202 ["The Board excluded the letter from the evidence before it for
+
+consideration. Absent error in this regard, the letter is not properly part of the
+record before us on review of the Board's decision."].)
+
+8 See this Court's identification in Tomlinson, infra at III.B., p. 42, of
+CEQA's four related purposes.
+
+64
+
+Except for its ad hoc process of systematically excluding evidence of
+
+significant environmental impacts, mitigation measures and alternatives at
+
+evidentiary hearings exemplified in the proceeding below, the PUC has no
+such similar "rule" and has not gone through the critical rulemaking process
+
+necessary to impose such a rule. With respect to compliance with CEQA, the
+
+PUC's Rules of Practice and Procedure, Rule 2.4 regarding CEQA
+
+compliance states that:
+
+"Applications for authority to undertake any projects that are
+subject to the California Environmental Quality Act of 1970,
+
+Public Resources Code Sections 21000 et seq. (CEQA) and the
+
+guidelines for implementation of CEQA, California Code of
+
+Regulations, Title 14, Sections 15000 et seq., shall be consistent
+
+with these codes and this rule."
+
+(Cal. Code Regs., tit. 20, § 2.4, subd. (a).)
+
+The commitment to comply with CEQA found in section 2.4 of the
+PUC's Rules and Procedures is not accompanied with any sort of authorized
+
+blanket exclusion of evidence of significant environmental impacts, mitigation
+
+measures and alternatives, and the environmentally superior alternative.
+
+Notably, the PUC's rules regarding the issuance of scoping memos
+
+neither contemplates nor authorizes the blanket exclusion of evidence:
+
+65
+
+"7.3. (Rule 7.3) Scoping Memos. The assigned Commissioner
+
+shall issue the scoping memo for the proceeding, which shall
+
+determine the schedule (with projected submission date) and
+
+issues to be addressed. In an adjudicatory or ratesetting
+
+proceeding in which there is evidentiary hearing, the scoping
+
+memo shall also designate the presiding officer. In a proceeding
+
+initiated by application or order instituting rulemaking, the
+
+scoping memo shall also determine the category and need for
+
+hearing."
+
+(Cal. Code Regs., tit. 20, § 7.3.)
+
+Indeed, the only blanket exclusion imposed on PUC evidentiary
+
+hearings is the exclusion of any "discussion, admission, concession or offer to
+
+settle, whether oral or written, made during any negotiation on a settlement...."
+
+(Cal. Code Regs., tit. 20, § 12.6.)
+
+At the bottom of this is a process in which CEQA is to seen but not
+
+heard. The record here with its thousands of pages of CEQA documents is the
+
+veneer of compliance. Those commentors - and here there were hundreds -
+
+are nicely packed away at the close of the draft EIR comment period with a
+
+process designed to ensure they are not substantively heard from again.
+
+(5PE9:1705-2242; 6PE10:2244-3014.)
+
+66
+
+CONCLUSION
+
+The Legislature has mandated in CEQA that "all agencies of the state
+
+government which regulate activities ... [that] affect the quality of the
+
+environment, shall regulate such activities so that major consideration is given
+
+to preventing environmental damage." (Pub. Resources Code § 21000, subd.
+
+(g).) Because the Public Utilities Commission failed to comply with CEQA
+
+prior to issuing its Final Decision, the City respectfully asks this Court to grant
+
+its petition for writ of mandate/petition for writ of review as prayed.
+
+Dated: January 16, 2019 Respectfully submitted,
+
+LEIBOLD McCLENDON & MANN, P.C.
+
+By: /s/ David H. Mann
+David H. Mann
+Attorneys for Petitioner
+CITY OF LAKE ELSINORE
+
+67
+
+CERTIFICATION OF COMPLIANCE
+
+Counsel of Record hereby certifies that, pursuant to Rule 8.204( c)(1)
+of the California Rules of Court, the enclosed Petition for Writ of Mandate/
+Petition for Writ of Review was produced using 13-point or greater Times
+New Roman type and contains 11,694 words, including footnotes and
+excluding tables and certifications, which is less than the total words permitted
+by the above-cited Rule of Court. Counsel relies on the word count of the
+
+WordPerfect X8 word processing program used to prepare this document.
+
+By: /s/ David H. Mann
+David H. Mann
+
+68
+
+PROOF OF SERVICE
+[Code Civ. Pro. § 1013a; revised 5/1/88]
+
+STATE OF CALIFORNIA
+ss.
+COUNTY OF ORANGE
+
+am employed in the County of Orange, State of California. I am over the age of 18 and not a party to the within action. My business address is 9841 Irvine Center Drive, Suite 230, Irvine, California 92618.
+
+On January 16, 2019, I served the foregoing document described as PETITION FOR
+WRITOF MANDATE/PETITION FOR WRIT OF REVIEW on the parties shown on the Attached
+Service List as follows:
+
+E-SERVICE (Electronic Service Through TrueFiling) Based on an agreement of the
+parties to accept service by electronic transmission through TrueFiling, I caused the above-
+referenced documents(s) to be sent to the person(s) at the electronic address(es) listed on
+the attached Service List.
+
+OD (By Overnight Delivery) I caused such envelope(s) containing the foregoing document to be delivered to FedEx for overnight delivery to the parties on the attached
+service list.
+
+SCE (Supreme Court E-service) Pursuant to California Rule of Court Rule 8.212, I electronically transmitted such document(s) to the California Supreme Court by sending
+it to that Court's electronic service address.
+
+FAX (By Fax) I caused such document(s) to be transmitted by facsimile to A transmission report was properly issued by the fax machine and the transmission was reported as complete and without error to the number listed herein.
+Executed on January 16, 2019, in Irvine, California.
+
+I declare under penalty under the laws of the State of California that the foregoing
+is true and correct. l'ornesl Carmen Ortiz
+
+69
+
+SERVICE LIST
+for:
+CITY OF LAKE ELSINORE V. PUBLIC UTILITIES COMM. OF THE STATE OF CALIFORNIA
+[Supreme Court Case No.
+
+Executive Director of the Public Utilities Commission: By: OD
+
+Alice Stebbins, Executive Director
+California Public Utilities Commission
+505 Van Ness Ave.
+San Francisco, CA 94102
+
+General Counsel the Public Utilities Commission: By: OD
+
+Arocles Aguilar, General Counsel
+California Public Utilities Commission
+505 Van Ness Ave.
+San Francisco, CA 94102
+
+Agent for Service of Process for Southern California Edison: By: OD
+
+Cristina E. Limon
+Agent for Service of Process
+Southern California Edison Company
+2244 Walnut Grove Ave.
+Rosemead CA 91770
+
+Attorneys for SCE: By: OD
+
+Tammy Jones, Senior Attorney
+Southern California Edison Company
+2244 Walnut Grove Avenue, 3rd Floor
+Rosemead, CA 91770
+
+Califonia Attorney General: By: OD
+
+Xavier Becerra, Attorney General
+California Department of Justice
+Office of the Attorney General
+1300 "T" Street
+Sacramento, CA 95814-2919
+
+70
+
+Case No.
+
+IN THE SUPREME COURT
+OF THE STATE OF CALIFORNIA
+
+CITY OF LAKE ELSINORE,
+Petitioner,
+V.
+PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA,
+Respondent.
+
+SOUTHERN CALIFORNIA EDISON COMPANY,
+Real Party in Interest.
+
+From a Decision of the California Public Utilities Commission,
+Decision 18-08-026, as Modified by Decision 18-12-031
+
+Service on Attorney General (Pub. Resources Code $ 21167. 7)
+
+PROOF OF SERVICE OF CD OF
+APPENDIX OF EXHIBITS TO
+PETITION FOR WRIT OF MANDATE/
+PETITION FOR WRIT OF REVIEW
+
+LEIBOLD McCLENDON & MANN, P.C.
+*David H. Mann (SBN 137942)
+david@CEQA.com
+John G. McClendon (SBN 145077)
+john@CEQA.com Barbara Z. Leibold (SBN 132077)
+barbara@CEQA.com
+9841 Irvine Center Drive, Suite 230
+Irvine, California 92618
+(949) 585-6300
+(949) 585-6305 (fax)
+
+Attorneys for Petitioner
+CITY OF LAKE ELSINORE
+
++6P
+
+PROOF OF SERVICE
+[Code Civ. Pro. § 1013a; revised 5/1/88]
+
+STATE OF CALIFORNIA
+
+COUNTY OF ORANGE
+
+I am employed in the County of Orange, State of California. I am over the age of 18 and not a party to the within action. My business address is 9841 Irvine
+Center Drive, Suite 230, Irvine, California 92618.
+
+On January 16, 2019, I served the foregoing document described as PROOF OF SERVICE OF CD OF APPENDIX OF EXHIBITS TO
+PETITION FOR WRIT OF MANDATE/PETITION FOR WRIT OF
+REVIEW on the parties shown on the Attached Service List as follows:
+
+E-SERVICE (Electronic Service Through TrueFiling) Based on an agreement of the parties to accept service by electronic transmission through TrueFiling, I caused the above-referenced documents(s) to be sent to the person(s) at the electronic address(es) listed on the attached Service List.
+
+OD (By Overnight Delivery) I caused the envelope(s) containing the
+foregoing document to be delivered to FedEx for overnight delivery to the
+parties on the attached service list.
+
+SCE (Supreme Court E-service) Pursuant to California Rule of Court Rule 8.212, I electronically transmitted such document(s) to the California Supreme Court by sending it to that Court's electronic service address.
+FAX (By Fax) I caused such document(s) to be transmitted by facsimile to A transmission report was properly issued by the fax
+machine and the transmission was reported as complete and without error to
+the number listed herein.
+
+Executed on January 16, 2019, in Irvine, California.
+I declare under penalty under the laws of the State of California that the
+foregoing is true and correct. (ouns Carmen Ortiz
+
+SERVICE LIST
+for:
+CITY OF LAKE ELSINORE V. PUBLIC UTILITIES COMM. OF THE STATE OF
+CALIFORNIA
+[Supreme Court Case No.
+
+Executive Director of the Public Utilities Commission: By: OD
+
+Alice Stebbins, Executive Director
+California Public Utilities Commission
+505 Van Ness Ave.
+San Francisco, CA 94102
+
+General Counsel the Public Utilities Commission: By: OD
+
+Arocles Aguilar, General Counsel
+California Public Utilities Commission
+505 Van Ness Ave.
+San Francisco, CA 94102
+
+Agent for Service of Process for Southern California Edison: By: OD
+
+Cristina E. Limon
+Agent for Service of Process Southern California Edison Company
+2244 Walnut Grove Ave.
+Rosemead CA 91770
+
+Attorneys for SCE: By: OD
+
+Tammy Jones, Senior Attorney Southern California Edison Company
+2244 Walnut Grove Avenue, 3rd Floor
+Rosemead, CA 91770
+
+Califonia Attorney General: By: OD
+
+Xavier Becerra, Attorney General
+California Department of Justice
+Office of the Attorney General
+1300 "I" Street
+Sacramento, CA 95814-2919
+
+è
+§ AFTORNE E -
+2 § % SP
+
+SE : Nd LI NVN G10Z
+301330 O1N3WV8OVS 7VA3N3D AINMOIIV LINn ONT13N500

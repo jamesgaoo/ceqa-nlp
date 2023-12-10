@@ -1,0 +1,595 @@
+1 Evan J. Wynns FILED
+
+2 SBN #315107 Superior Court Of California,
+Sacramento
+
+3 Staff Attorney for Helping Hand Tools 12/07/2018
+mrubalcaba
+4 124 Brewster St By Deputy
+Cazu Numbur:
+5 San Francisco CA, 94110 34-2018-80003026
+
+6 (415) 518 1232
+
+7 evanwynns@gmail.com
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+9
+IN AND FOR THE COUNTY OF SACRAMENTO
+10
+HELPING HAND TOOLS, Case No.: Number
+11
+
+12 Plaintiff,
+
+13 VS. PETITION FOR ADMINISTRATIVE
+
+14 CALIFORNIA ENERGY COMMISSION; MANDATE (CODE CIV. PROC. §§ 1085 &
+
+15 VANTAGE DATA CENTERS LLC 1094.5)
+
+16 Defendants
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+PETITION FOR ADMINISTRATIVE MANDATE (CODE CIV. PROC. §§ 1085 & 1094.5) - 1
+
+1
+
+2
+
+3 INTRODUCTION
+
+4 1. This action arises out of the application for the licensing of a power producing
+
+5 facility (the project) by an entity known as Vantage Data Centers (Vantage or Applicant), which
+
+6 seeks to build a data storage facility to serve tech-based businesses in Santa Clara, California.
+7 Respondent California Energy Commission (CEC, Commission, or Respondent) has granted
+Vantage a Small Power Plant Exemption from full oversight (SPPE) and simultaneously
+
+9 proposes to adopt a mitigated negative declaration, or negative declaration, under the California
+
+10 Environmental Quality Act (CEQA). Petitioner Helping Hand Tools (2HT) opposes these actions
+
+11 and seeks a writ of mandate to compel production of an Environmental Impact Report (EIR)
+
+12 assessing the project more fully.
+
+13 JURISDICTION AND VENUE
+
+14 2. Venue is proper because Respondent California Energy Commission is a state
+
+15 Agency based and holding its hearings in the County of Sacramento. The particular committee
+
+16 appointed by the Commission to decide on Vantage's application for an SPPE likewise held its
+
+17 hearings on the matter in the California Energy Commission offices in Sacramento.
+
+18 3. Petitioner 2HT is a public benefit organization founded to represent the people of
+
+19 California in matters regarding their environmental health and safety, particularly as it applies to
+
+20 combating unnecessary fossil fuel emissions from industrial sources. Petitioner has members
+
+21 throughout California, including within the area impacted by Vantage's proposed project.
+
+22 4. Applicant Vantage, the real party in interest, is a limited liability corporation
+
+23
+
+PETITION FOR ADMINISTRATIVE MANDATE (CODE CIV. PROC. §§ 1085 & 1094.5) - 2
+
+headquartered.in Santa Clara, California, which submitted an application to the Respondent in
+
+2 Sacramento County for the purpose of obtaining an exemption and CEQA clearance to move
+
+3 ahead with the proposed project.
+
+4 5. No adequate remedy at law exists because the CEQA process fills a unique role in
+
+5 protecting California's environment, and the failure to prepare an EIR will damage that
+6 environment in ways that are impossible to assess and countermand without comprehensive
+
+7 environmental review. Further, the effects of letting projects go unregulated whose fossil fuel
+
+8 emissions impacts are greater than they might appear at first glance pose even more risk as
+
+9 climate change accelerates. For these reasons, legal remedies would be inadequate to counteract
+
+10 the potential harm posed by the actions of the Respondent and Vantage.
+
+11 6. Administrative remedies have been exhausted because Respondent has
+12 improperly combined the initial assessment of whether to prepare an EIR under CEQA with the
+13 SPPE application proceeding. Petitioner has commented at length on the proceeding weighing
+
+14 Vantage's application for an SPPE, and has filed multiple motions urging Respondent to
+
+15 abandon its course of action allowing the project to go forward unregulated. By combining the
+
+16 CEQA deliberation process with that considering the grant of an SPPE and circumventing or
+
+17 shortening the public comment process required by law, Respondent has foreclosed on
+
+18 meaningful opportunities to comment on and influence the CEQA decisionmaking process. and
+
+19 thereby denied Petitioner's access to relief through administrative remedies.
+
+20 STATEMENT OF FACTS
+
+21 7. As part of their plan to construct a data storage facility in Santa Clara, California,
+
+22 Vantage intends to build a backup generating facility, known as the McLaren Backup Generating
+
+23 Facility (MBGF). To serve potential supplementary power needs, the MBGF is planned to
+
+m A PETITION FOR ADMINISTRATIVE MANDATE (CODE CIV. PROC. $§ 1085 & 1094.5) - 3
+
+include an array of 47 diesel generators, employing the combustion of diesel fuel to run engines
+
+2 and supply emergency electrical power as needed to the facility. The MBGF has therefore
+
+3 applied to the CEC to grant an SPPE, which the Commission is empowered to do by statute in
+
+4 certain cases.
+
+5 8. Vantage's application to the California Energy Commission for an SPPE followed
+
+6 their submission for a permit to build in the City of Santa Clara (the City or Santa Clara). The
+
+7 City, as part of its process in assessing the project's environmental impacts, compelled Vantage
+
+8 to produce of a Mitigated Negative Declaration (MND), which the City then proposed to adopt in
+9 February of 2016.
+
+10 9. By filing for an SPPE, Vantage obliged the Commission to take over from the
+
+11 City as lead agency for the purposes of determining the need for environmental assessment under
+
+12 CEQA. The CEC since then has relied heavily on data in the proposed MND to determine
+
+13 whether it should grant Vantage's application for an SPPE.
+
+14 10. Despite its stated intent to adopt an MND, which requires public disclosure and a
+
+15 period for debate on proposed mitigation measures, the filing on record with the Office of
+
+16 Planning and Research states that a negative declaration has been prepared for the project. It also
+
+17 states that mitigation measures were not made a condition of the project. It is thus unclear
+
+18 whether CEC has cleared this project to go forward without need for mitigation measures or has
+
+19 adopted the original MND as proposed by Santa Clara.
+
+20 11. In granting the SPPE, the CEC applied a standard for assessing generating
+
+21 capacity in opposition to the one recommended by 2HT. The standard for assessment suggested
+
+22 by 2HT is based on a calculation of the total maximum generating capacity of each generating
+
+23 unit minus the base load for which that capacity is constantly relied upon. Instead, CEC opted to
+
+A A PETITION FOR ADMINISTRATIVE MANDATE (CODE CIV. PROC. §§ 1085 & 1094.5) - 4
+
+use a different standard, one recommended by CEC staff and based upon a calculation of likely
+2 demand and consequent deployment of the generating facilities. For previously approved
+
+3 projects, the Commission has historically used and recommended the nameplate standard.
+
+4 12. The Bay Area Air Quality Management District has not yet received an
+
+5 application for the 47 Diesel generators contemplated by this project yet, SO the District could not
+
+6 determine what the likely frequency of deployment of the MBGF would be, and therefore was
+
+7 unable to estimate its likely emissions levels with accuracy.
+
+8 13. The latest draft of Vantage's application for an SPPE, docketed as document
+
+9 222057, states on page 40 of Appendix B that the project would include 32 diesel generators.
+
+10 Subsequent plans include 47 diesel generators with no update to the submitted data.
+
+11 14. CEC staff never modeled the NO2 and diesel particulate matter emissions of the
+
+12 facility with all 47 generators running, though emergency operators might conceivably require
+
+13 full deployment of all generators.
+
+14 15. CEC staff itself stated on page 69 of the proposed decision document, docketed as
+
+15 document 2251 12, that the operation of just two generators for an eight-hour testing period could
+
+16 trigger significant impact readings in the 98th percentile, or eighth highest value for National
+
+17 Ambient Air Quality Standard (NAAQS) sensors.
+
+18 16. The Initial Study and Proposed MND document, docketed as document 223911,
+
+19 freely admits that the project will operate in an area with a population of below average income,
+
+20 which is also largely composed of ethnic minorities. The same document concludes on page 169,
+
+21 based on no proffered evidence, that there will be no likely significant impact on these
+
+22 environmental justice populations through emissions.
+
+23
+
+PETITION FOR ADMINISTRATIVE MANDATE (CODE CIV. PROC. §§ 1085 & 1094.5) - 5
+
+1 17. The same Initial Study and Proposed MND contains no proposed alternatives to
+
+2 the project in its proposed form.
+
+3 18. In November of 2018, the CEC both granted the SPPE and has simultaneously
+
+4 proposed to adopt the MND or a negative declaration without further separate proceedings as to
+
+5 whether adoption of the MND or negative declaration is proper for this project.
+
+6 19. Petitioner Helping Hand Tools (2HT or Petitioner) is an environmental
+
+7 stewardship organization based in Tracy, California. It is the mission of Helping Hand Tools to
+
+8 safeguard the wellbeing of the people of California by assiduously opposing the installation of
+
+9 polluting industrial facilities. This applies particularly to those which unnecessarily burn fossil
+
+10 fuels and ignore the dire need of Californians to speed the switch of the state's energy supply
+
+11 system to renewable power sources in order to improve the health of California's people and
+
+12 natural resources, and to mitigate climate change. In service of this mission, 2HT has commented
+
+13 at length on the CEC proceeding regarding Vantage's application for an SPPE. 2HT has
+
+14 provided the majority of commentary in this matter opposing the grant of an SPPE. 2HT has
+
+15 proposed many grounds for denying both the SPPE and the adoption of an MND or negative
+
+16 declaration. Most saliently, these include:
+
+17 a. The Commission's use of a standard in calculating the generating capacity of the
+
+18 proposed facility's diesel engines that is unsupported by law;
+
+19 b. The Commission's failure to test all 47 of the proposed diesel engines running in
+
+20 operation simultaneously or for a representative period of time;
+
+21 C. Vantage's refusal to fully assess the likely emissions impact as completely as reasonably
+
+22 possible;
+
+23
+
+PETITION FOR ADMINISTRATIVE MANDATE (CODE CIV. PROC. §§ 1085 & 1094.5) - 6
+
+- d. Respondent's conflation of a lack of concrete data on the ongoing emissions impacts of
+
+2 the a project with a finding of no significant impact;
+c t e. The failure of the proposed MND or negative declaration to adequately address emissions
+impacts, environmental justice concerns, and feasible alternatives to the project in its
+
+5 proposed form.
+
+6 20. Petitioner 2HT contends that the grant of the SPPE was improper; that the process|
+
+7 by which the CEC proposes to adopt the MND is unlawful; and that substantial evidence exists
+
+8 that this project is likely to cause significant environmental impacts. Instead, 2HT urges
+9 preparation of a comprehensive EIR under CEQA. 2HT now seeks a writ of administrative
+
+10 mandate under Cal. Code Civ. Proc. § 1085 and § 1094.5 asking the Court to set aside the grant
+
+11 of the SPPE as improper, to void the CEC's adoption of the MND or negative declaration as both
+12 procedurally unlawful and substantively incorrect, and to order the CEC to compel preparation of
+
+13 a full EIR as CEQA requires.
+
+14
+
+15 LEGAL AND REGULATORY FRAMEWORK
+
+16 21. Petitioners request the grant of a writ of mandate under both Cal. Code of Civ.
+
+17 § Proc. § 1085, which allows challenges to agency authority in a ministerial capacity; and Cal.
+
+18 Code of Civ. Proc. § 1094.5, which allows for challenges of an agency's exercise of
+
+19 administrative authority.
+
+20 22. Petitioner contends that Respondent has violated several California statutes and
+
+21 regulations, both in its grant of an SPPE to Vantage, and in its adoption of an MND or negative
+
+22 declaration authorizing the MBGF without a full environmental review under CEQA. Likewise,
+
+23 Respondent's provision of notice and process allowing for public participation was clearly
+
+PETITION FOR ADMINISTRATIVE MANDATE (CODE CIV. PROC. §§ 1085 & 1094.5) - 7
+
+deficient, violating both California statutes pertaining to these rights on behalf of stakeholders,
+
+2 and the due process provisions of the US Constitution.
+
+3 23. Respondent has authority to grant SPPEs for thermal generating facilities "not
+
+4 exceeding 100 megawatts"' under 20 Cal. Code of Reg. § 1934 et seq.
+
+5 24. 14 Cal. Code of Reg. § 15051 empowers Respondent to act as lead agency for making
+
+6 determinations under CEQA for all power plant siting cases in California.
+
+7 24. CEQA, codified under Cal. Pub. Res. § Code § 21000 er seq., requires the lead agency
+
+8 to make a determination as to whether a proposed project may have significant impacts. The lead
+agency may only approve the proposed negative declaration if there are no significant impacts';
+
+10 or in the case of an MND, if the proposed mitigation measures would bring the likely level of
+
+11 impacts below the threshold for significance. The lead agency may adopt a negative declaration*;
+
+12 or if the potentially significant impacts have been sufficiently mitigated in the project's proposal,
+
+13 a mitigated negative declaration (MND)* only if there is no substantial evidence in the record of
+
+14 significant environmental impacts resulting from the project. Otherwise, a lead agency must
+
+15 compel the applicant for project approval to prepare an Environmental Impact Report (EIR)' so
+
+16 that the public and governmental agencies may assess the full potential environmental impacts of
+
+17 the project, as well as evaluate the potential mitigation measures proposed to address these
+
+18 impacts.
+
+19
+
+20
+
+21
+
+22 20 Cal. Code of Reg. § 1936. 2 14 Cal. Code of Reg. § 15204 (a) Cal. Pub. Res. Code § 21064.
+23 Cal. Pub. Res. Code § 21064.5. Cal. Pub. Res. Code § 21061; 14 Cal. Code of Reg. § 15121. PETITION FOR ADMINISTRATIVE MANDATE (CODE CIV. PROC. §§ 1085 & 1094.5) - 8
+
+1 25. Both CEQA and Title 20 of the Cal. Code of Reg. contain notice provisions, requiring
+2 the lead agency to provide notice and a fair hearing to concerned stakeholders in power plant
+
+3
+
+4 siting proceedings. Adoption of an MND requires notice', posting at the site', and publication of
+the proposed MND*.
+
+5
+
+6 26. CEQA guidance denies the lead agency the power to adopt an MND and reject
+preparation of an EIR, if:
+
+7 a.
+
+8 There are feasible alternatives that would substantially lessen any significant adverse
+
+O impacts the project may have on the environment'; or
+
+10 b. Notice of the proposed adoption of the MND is inadequate, or if the lead agency
+
+11 provides insufficient opportunity for interested parties to comment on the proposed
+plan'°; or
+
+12 C.
+
+13 The lead agency does not specifically respond to evidence that the proposed activity
+
+14 would have a substantial adverse impact on the environment'.
+FIRST CAUSE OF ACTION
+
+15
+
+16 27. The first cause of action is a violation of the statute governing the grant of an SPPE.
+
+17 Petitioner contends that Respondent both applied an unlawful standard in assessing the
+
+18 generating capacity of the proposed project; and did not fully assess the potential environmental
+impacts of the project.
+
+19
+
+20
+
+21 6 14 Cal. Code of Reg. § 15072 (a).
+
+22 14 Cal Code of Reg. § 15072 (b) (2). 14 Cal. Code of Reg. § 15072 (b) (I).
+
+23 Cal. Pub. Res. Code § 21080.5 (d) (2) (B) 10 Cal. Pub. Res. Code § 21080.5 (d) (2) (F)
+
+AA Cal. Pub Res. Code § 21080.5 (d) (2) (D). PETITION FOR ADMINISTRATIVE MANDATE (CODE CIV. PROC. 5§ 1085 & 1094.5) - 9
+
+SECOND CAUSE OF ACTION
+
+2 28. The second cause of action is a failure to apply the structures of CEQA in adopting an
+
+3 MND or negative declaration for this project. Specifically, 2HT argues that:
+
+i. By combining the SPPE proceeding with its process contemplating adoption of
+the MND, the CEC failed to comply with the notice and due process requirements
+
+of CEQA; and
+
+ii. CEC failed to comply with CEQA when it did not adequately address evidence of
+excessive emissions from the proposed project; and
+
+iii. CEC failed to comply with CEQA when it did not adequately address the
+
+10 potential environmental justice impacts of the proposed project; and
+
+11 iv. CEC failed to comply with CEQA when it did not adequately address possible
+
+12 alternatives to the proposed project.
+
+13 DAMAGES
+
+14 29. Damages resulting from this action include potential emissions exceeding the
+
+15 levels set by various federal, state, and local agencies, and subsequent adverse environmental
+
+16 effects harming the health and safety of the surrounding community of the people of California.
+
+17 This would also include direct adverse impacts on the designated environmental justice
+
+18 communities nearby.
+
+19 30. Failure to follow emissions standards as regards greenhouse gases also negatively
+
+20 impact California's goals of combating climate change.
+
+21 31. Additionally, CEC's adoption of an improper standard for issuing exemptions
+
+22 from state power plant siting regulations may result in future cases where that improper standard
+
+23
+
+AA PETITION FOR ADMINISTRATIVE MANDATE (CODE CIV. PROC. §§ 1085 & 1094.5) -
+10
+
+2 is applied to other applications, incurring similar adverse environmental effects and allowing the
+construction of power production facilities that violate state law.
+
+3
+
+4 PRAYER FOR RELIEF
+
+5 32.
+
+6 Petitioners ask that the court issue a peremptory writ, directing Respondents to
+
+7 vacate their issue of an SPPE and direct Respondents to order Vantage to prepare an EIR under
+CEQA in order to proceed with the project.
+
+8 33.
+
+9 Petitioners ask for declaratory relief in setting the standard for calculation of
+
+10 generating capacity for purposes of the grant of a small power plant exemption for power plants
+
+11 in California as the nameplate standard, rather than the demand standard.
+
+34.
+
+12 Petitioners ask that the Court award legal fees and costs to 2HT in this matter.
+
+13 attest that the foregoing is true and correct.
+
+14
+
+15
+
+16 Dated this 7th Day of December 2018.
+
+17
+
+18
+
+g Evan J. Wynns SBN # 315107
+
+21
+
+22
+
+23
+PETITION FOR ADMINISTRATIVE MANDATE (CODE CIV. PROC. §§ 1085 & 1094.5) -
+11
+
+SUPERIOR COURT OF CALIFORNIA
+County of Sacramento
+720 Ninth Street Room 102
+
+Cae Sacramento, CA 95814-1380
+(916) 874-5522 www.saccourt.ca.gov
+NOTICE OF CASE ASSIGNMENT
+Proceeding for Writ of Mandate and/or Prohibition
+
+Case Number: 34-2018-80003026-CU-WM-GDS
+
+This case has been assigned for all purposes to the judicial officer indicated below pursuant to rule 3.734 of the California Rules of Court and Sacramento Superior Court Local Rulc 2.01; it is exempt from the requirements of the Trial Court Delay Reduction Act and the Case Management Program under Chapter 11 of the Sacramento Superior Court Local Rules.
+
+JUDGE COURT LOCATION DEPT.
+Richard K. Sueyoshi Gordon D. Schaber Courthouse 28
+
+The petitioner shall serve all partics with a copy of this order and a copy of the Sacramento Superior Court Guide to the Procedures for Prosecuting Petitions for Prerogative Writs. The Guide is available in Room 102 of the courthouse, from the clerk of the department to which this matter has been assigned, and on the "Civil" page of the Sacramento Superior Court internet website (www.saccourt.ca.gov).
+
+Scheduling
+Contact the clerk in the assigned department to schedule any judicial proceedings in this
+matter, including hearings on ex parte applications and noticed motions.
+
+JUDGE DEPT. PHONE
+Hon. James P. Arguelles P 17 (916) 874-5511
+Hon. Steven M. Gevercer 27 (916) 874-6697
+Hon. Richard K. Sucyoshi 28 (916) 874-6695
+Hon. Allen Sumner 42 (916) 874-5672
+
+Other Information
+Pursuant to Local Rule 2.01, all documents submitted for filing in this case shall be filed in person at the Civil Front Counter (Room 102) or by mail addressed to the Clerk of the Sacramento Superior Court, Attn: Civil Division-Room 102, with the exception of certain documents filed on the day of the hearing. For specific requirements, please see the
+Sacramento Superior Court Guide to the Procedures for Prosccuting Petitions for Prerogative Writs.
+Any administrative record must be lodged with the assigned department.
+
+Date: 12/07/2018 Signed: s/AL Rubaicatia
+
+Maryann Rubalcaba, Deputy Clerk
+
+Notice of Case Assignment
+CVIE-181 (Rev 12 16 2012) Page 1 of l
+
+OA
+RECEIVEN OFFICE OF THE ATTORNEY GENERAL JAN 1 4 2019
+DEPARTMENT OF JUSTICE .3 Civil Service of Process Cover Sheet A43
+
+SAC SF OAK LA SD FR Stamp & Time
+
+Service of Process Disclaimer:
+
+To All Persons Attempting Service of Process Upon The Office Of The Attorney General:
+Please be advised that staff assigned to receive documents delivered to the Attorney General's Office are not authorized to accept such documents as properly served. Further, staff are not authorized to receive documents on behalf of any individual. In receiving documents delivered by process servers and/or other members of the public, office personnel do not thereby waive any right of the State of California, the Attorney General's Office, any other entity of the State of California, or any individual to object to the validity of the service.
+Please complete this form when delivering documents to the Attorney General's Office: Case Name: HELPING HAND TOOLS VS. CALIFORNIA ENERGY COMMISSION, et al.
+
+County : SACRAMENTO sourt No.: 34-2018-80003026
+Document(s) _ Summons and Complaint/Cross Notice of Consumer or Employee
+served: Complaint/Amended Complaint and Objection and check for $15.00 0 Notice to Attorney General's Office 0 Writ of Mandate and Complaint for pursuant to Section Declaratory Relief . Petition For Relief From Late Claim 7 Other (please list): Petition for
+Filing (Gov. Code, § 946.6) Administrative Mandate; Notice ol
+1 Pitchess Motion Case Assignment
+O0 Small Claims
+Deposition Subpoena for Production
+of Business Records
+Document(s) For (Specify State Xavier Becerra, California Attorney General
+Agency):
+Process Server's
+Name:
+Name of Justia Kogecs
+Company: OnDemand Legal, Inc.
+(business name, (901 H Street, Suite 107
+address, and Sacramento CA 95814
+number) 916-329-8630
+Receptionist
+| Signature: #ZS DROEN FOR SERVICE DEPUTY'S USE ONLY
+Forwarded to: ARuy magnani Date Forwarded:
+
+Name of Service
+Deputy, section, MlicaARODIE-EAM
+and telephone
+number: MIPZ10-74g0 NOTES: IvROINK LtQA 1ó20 Ou
+
+The attached document(s) appear(s) to be the responsibility of your section; if they are not, please return them to the Service Deputy named above, noting the section to which they are to be directed. (Rev. 7/2014).

@@ -1,0 +1,1531 @@
+MANATT, PHELPS & PHILLIPS, LLP
+GEORGE M. SONEFF (Bar No. CA 117128)
+2 E-Mail: Gsoneff@manatt.com
+DAVID T. MORAN (Bar No. CA 217647)
+3 E-Mail: DMoran@manatt.com
+JENNIFER J. LYNCH (Bar No. CA 285901)
+4 E-Mail: JLynch@manatt.com
+
+5 2049 Century Park East. Suite 1700 Los Angeles, CA 90067 Telephone: (310) 312-4000
+6 Facsimile: (310) 312-4224
+
+7
+Attorneys for Petitioner and Plaintiff 8 CALIFORNIA-AMERICAN WATER COMPANY
+
+9
+
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+11 COUNTY OF MONTEREY
+
+12
+
+13 CALIFORNIA-AMERICAN WATER Case No.
+COMPANY, a California corporation,
+14 PETITIONER CALIFORNIA-
+Petitioner, AMERICAN WATER COMPANY'S
+15 VERIFIED PETITION FOR WRIT OF
+V. MANDATE
+16
+MONTEREY PENINSULA WATER
+17 MANAGEMENT DISTRICT, a public agency, [CCP § 1085, § 1094.5 and Public
+and the MONTEREY PENINSULA WATER Resources Code § § 21167, 21168,
+21168.5
+18 MANAGEMENT DISTRICT BOARD OF
+DIRECTORS, and DOES 1 through 25,
+19 inclusive,
+
+20 Respondents.
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+MANATT, PHELPS &
+PHILLIPS, LLP
+ATTORNEYS AT LAW
+ANGELES VERIFIED PETITION FOR WRIT OF MANDATE
+
+-
+
+2 Petitioner and Plaintiff CALIFORNIA-AMERICAN WATER COMPANY ("Cal-Am")
+
+3 hereby petitions this Court for a writ of mandamus pursuant to Code of Civil Procedure section
+
+4 1085, or alternatively, section 1094.5, directed to Respondents MONTEREY PENINSULA
+
+WATER MANAGEMENT DISTRICT and the MONTEREY PENINSULA WATER
+
+5
+
+6 MANAGEMENT DISTRICT BOARD OF DIRECTORS (collectively, "District"). In support,
+Cal-Am hereby alleges as follows:
+
+7 NATURE OF THE CASE
+
+8 1.
+
+9 On November 6, 2018, Monterey voters approved Measure J, which directed the
+
+10 District to, among other things, "acquire through negotiation, or through eminent domain if
+
+11 necessary, all assets of California-American Water, or any successor in interest to California
+
+12 American Water, for the benefit of the District as a whole." One of the primary goals of the
+acquisition is to lower the cost of water service to ratepayers.
+
+13 2.
+
+14 Pursuant to Measure J, the District seeks to acquire Cal-Am's Monterey Water
+
+15 System (MWS), which has approximately 40,000 active service connections providing water to
+
+16 approximately 100,000 people. The MWS is not for sale however, and the District is not
+
+17 presently authorized to own and operate a retail water system. Thus, the District will be required
+
+18 to acquire the MWS through eminent domain. But before doing so, the District must first apply
+
+19 to, and receive authorization from, the Local Agency Formation Commission of Monterey
+
+20 County ("LAFCO") to activate its latent power to provide water production and distribution
+
+services for retail customers.
+
+21 3.
+
+22 As a predicate to its LAFCO application, and as required by the California
+
+23 Environmental Quality Act ("CEQA"), the District engaged in an environmental review process
+
+24 for its proposed project to acquire and operate the MWS that serves the Monterey Peninsula and
+
+25 outlying areas within unincorporated Monterey County (the "Project"). As part of that review, on
+
+26 November 4, 2020, the District adopted Resolution No. 2020-17 certifying the District's
+
+27 environmental impact report ("EIR"), which purported to analyze both the acquisition and the
+subsequent operation of the MWS.
+
+28
+
+MANATT, PHELPS &
+PHILLIPS, LLP
+ATIOHNINS AT LAW - 2-
+
+LOS ANCHIS VERIFIED PETITION FOR WRIT OF MANDATE
+
+- 4.
+
+2 In fact, the District's EIR sidestepped any analysis of the environmental impacts
+
+3 resulting from its operation of the MWS by declaring, in conclusory fashion, that the District will
+
+4 operate the MWS in precisely the same manner as Cal-Am's current operations. And yet, on the
+
+5 same day the District certified its EIR, the District also "received" a proposed operations plan for
+
+6 the MWS, which proposed numerous operational changes to be implemented upon the District's
+
+7 acquisition of the system. The operational changes contemplated in the operations plan would
+a have a significant impact on the environment, but the EIR did not consider them.
+
+8 5.
+
+9 By ignoring its actual plans for operating the MWS, and instead assuming that it
+
+10 would operate the system exactly the same as Cal-Am, the District avoided any meaningful
+
+11 assessment of the environmental effects of its Project. This assumption was nothing more than a
+
+12 ploy to enable the District to complete the environmental review quickly and painlessly so it
+could move on to seek LAFCO approval.
+
+13 6. Cal-Am requests that this Court issue a writ of mandate under Code of Civil
+
+14
+
+15 Procedure section 1085, or alternatively section 1094.5, directing the District to vacate and set
+
+16 aside its approval of Resolution 2020-17 Certifying the Monterey Peninsula Water Management
+
+17 District Potential Acquisition of Monterey Water System and District Boundary Adjustment EIR.
+
+PARTIES
+
+18 7.
+
+19 Cal-Am is a California corporation and investor-owned public utility regulated by
+
+20 the California Public Utilities Commission, with corporate headquarters located in San Diego,
+
+21 California. Cal-Am is engaged in the business of delivering reliable water and wastewater
+
+22 services to approximately 675,000 people in the State of California. At all times relevant to the
+
+23 allegations in this Petition, Cal-Am was and is the owner and operator of the MWS and other
+assets sought to be acquired by the District.
+
+24 8.
+
+25 Cal-Am is directly and beneficially interested in the District's decisions with
+respect to the Project.
+
+26 9.
+
+27 The District is a public a water management district, based in Monterey, California.
+
+28 Its Board of Directors are the governing and decision-making body for the District.
+
+MANATT, PHELPS &
+PHALLIPS, LLP
+ATIORNEYS AT LAW - 3 -
+
+LOS ANGHUS VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 10. Cal-Am is unaware of the true names and/or capacities of Respondents DOES
+
+2 through 25, inclusive, and therefore sues said Respondents by such fictitious names. DOES
+
+3 through 25, inclusive, are persons or entities presently unknown to Cal-Am who have or claim
+
+4 some legal or equitable interest or other responsibility in or for the Project. Cal-Am will amend
+
+5 this Petition to insert the true names and/or capacities of DOES 1 through 25, inclusive, when the
+
+6 same have been ascertained.
+
+7 JURISDICTION AND VENUE
+
+8 11. This Court has jurisdiction under Code of Civil Procedure sections 1085 and
+
+9 1094.5, as well as Public Resources Code sections 21168, 21168.5, and 21168.9.
+
+10 12. Venue is proper in this Court under Code of Civil Procedure sections 393, 394 and
+
+11 395, because the District is a public a agency situated in the County of Monterey, as the acts and
+
+12 omissions alleged herein took place within the County of Monterey.
+
+13 GENERAL FACTUAL ALLEGATIONS
+
+14 A. Cal-Am Provides Water and Wastewater Service Throughout Monterey County.
+
+15 13. Cal-Am is the owner and operator of several water and wastewater service systems
+
+16 located throughout Monterey County. One of the systems owned and operated by Cal-Am is the
+
+17 Monterey Water System ("MWS"), which serves a 55 square-mile area on the Monterey
+
+18 peninsula. The MWS is comprised of a "main" system and a number of smaller satellite systems
+
+19 referred to as the "central satellites." The main system (which includes the service areas of
+
+20 Hidden Hills, Bishop and Ryan Ranch) serves approximately 40,000 active service connections
+
+21 and the central satellites (which are not part of the District's Project) serve approximately 1,000
+
+22 additional service connections. Many of the Cal-Am employees serving and maintaining the
+
+23 MWS also serve and maintain the central satellites (including the Ralph Lane, Ambler Park, Toro,
+
+24 Chualar, and Garrapata water systems) and other Cal-Am systems in the region.
+
+25 14. For more than 55 years, Cal-Am has owned and operated the MWS, which
+
+26 includes wells, pipelines, storage facilities, hydrants, valves, and water treatment facilities, all of
+
+27 which are necessary to produce and distribute water supplies within the service area. Cal-Am
+
+28
+
+MANATT, PHBLPS &:
+PHILLIPS, LLP - 4 -
+
+ATTORNEYS AT LAW
+LOS ANGELES VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 also holds water rights to supply the system, and it operates the Sand City Desalination Plant,
+
+2 which Cal-Am leases from the City of Sand City.
+
+3 B. The Water Supply for the MWS Is Limited
+
+4 15. The MWS is entirely dependent on local water sources for its water supply. The
+
+5 system's primary sources of supply are series of wells located along the Carmel River pumping
+
+6 from the Carmel Valley Aquifer and the Seaside Groundwater Basin. Cal-Am also supplements
+
+7 the MWS water supply with water from Aquifer Storage and Recovery ("ASR") and the Sand
+
+8 City Desalination Plant, both of which are designed to reduce demand on the Carmel Valley
+
+9 Aquifer.
+
+10 16. Because water is a precious commodity in high demand, the California State Water
+
+11 Resources Control Board ("SWRCB") is empowered to preserve, enhance and manage
+
+12 California's water resources and to ensure proper resource allocation and efficient use. As part of
+
+13 its work, the SWRCB has determined that an excessive amount of water has historically been
+
+14 diverted from the Carmel River. In July 2016, the SWRCB adopted Order WR 2016-0016,
+
+15 imposing restrictions on Cal-Am's water diversions from the river that will go into effect on
+
+16 December 31, 2021. In addition, the adjudication of the Seaside Groundwater Basin in 2006
+
+17 established a "natural safe yield" for the basin that requires pumpers, including Cal-Am, to reduce
+
+18 pumping every three years until 2021.
+
+19 17. Cal-Am also relies on water delivered from Pure Water Monterey, a groundwater
+
+20 replenishment project that recycles water and injects it into the Seaside Groundwater Basin. Cal-
+
+21 Am negotiated water purchase agreement to secure an allotment of 3,500 acre feet per year of
+
+22 water from Pure Water Monterey. However, in order to increase the water supplied from Pure
+
+23 Water Monterey to meet that allotment, two additional injection wells are proposed. It is
+
+24 currently unknown when or if Pure Water Monterey will be able to supply the full 3,500 acre feet
+
+25 per year allotted to the Cal-Am.
+
+26 18. Cal-Am is also currently in the process of planning, entitling and constructing the
+
+27 Monterey Peninsula Water Supply Project (*Water Supply Project"), which includes a 6.4 million
+
+28 gallons per day desalination plant with sub-surface intake wells and related infrastructure
+MANATT, PHELPS &
+PHILurS, LLP - 5-
+
+ATTORNEYS AT LAW
+LOS ANCELS VERIFIED PETITION FOR WRIT OF MANDATE
+
+improvements to convey source water to, and then deliver produced water from, the Water
+
+2 Supply Project's Desalination Plant. As recently as June 15, 2020, the District publicly and
+
+3 formally opposed the Water Supply Project Desalination Plant and urged the California Coastal
+
+4 Commission to deny approval of the Coastal Development Permit necessary for construction of
+
+5 the Water Supply Project Desalination Plant's sub-surface intake wells and certain pipelines,
+
+6 asserting that desalination is not necessary to meet water supply demands on the Monterey
+
+7 Peninsula.
+
+8 C. The District's "Project" to Take The MWS.
+
+9 19. Since at least 2018, the District has sought to acquire Cal-Am's MWS for the
+
+10 purported purpose of lowering the cost of service to ratepayers. The District proposes to sever the
+
+11 MWS from Cal-Am's other water and wastewater systems operating in Monterey County, and
+
+12 take existing MWS facilities, infrastructure, and land, including, but not limited to (according to
+
+13 the District's Environmental Impact Report): Cal-Am's lease of the Sand City Desalination Plant,
+
+14 33 water wells, six water treatment facilities, 614 miles of water pipeline, the Monterey Pipeline
+
+15 and Pump Station, 74 pump stations and one planned pump station, 108 water storage facilities,
+
+16 117 assessor parcels totaling 4,753 acres, and associated fire hydrants and distribution valves,
+
+17 vehicles and equipment, water supply contracts, easements, and records, books, and accounts.
+
+18 Because a portion of the MWS is located outside of the District's boundaries, acquisition of the
+
+19 MWS will require annexation of those areas into the District service area.
+
+20 20. In addition, the District proposes to take Cal-Am's planned facilities associated
+
+21 with the Water Supply Project, including the Carmel Valley Pump Station, the 6.4 million gallon
+
+22 per day Desalination Plant (that the District has steadfastly opposed in whole), and all associated
+
+23 infrastructure improvements, property, and rights-of-way. The District also seeks to take all Cal-
+
+24 Am water rights associated with the MWS.
+
+25 21. In addition to acquisition, the District's Project also includes the District's
+
+26 subsequent operation of the MWS.
+
+27
+
+28
+
+MANATT, PHELPS & PHILLIPS, LLP - 6 -
+
+ATTORNEYS AT LAW
+LOs ANGELES VERIFIED PETITION FOR WRIT OF MANDATE
+
+D. The District's Flawed Environmental Review.
+
+2 22. On or about April 6, 2020, the District published a Notice of Preparation ("NOP")
+
+3 for an Environmental Impact Report ("EIR") for the "Potential Acquisition of Monterey Water
+
+4 Supply and District Boundary Adjustment." The NOP described the Project as "the acquisition
+
+5 and subsequent operation of" the Monterey Water Supply System.
+
+6 23. On or about June 12, 2020, the District published a Notice of Availability
+
+7 ("NOA") of an Environmental Impact Report for the Project. Concurrently with the NOA, the
+
+8 District released its Draft Environmental Impact Report ("DEIR") for the Project. Although the
+
+9 DEIR purported to analyze the Project's environmental impacts, it also wrongly claimed that the
+
+10 Project was exempt from environmental review.
+
+11 24. The project description provided in the DEIR, which establishes the foundation for
+
+12 each environmental impact analysis contained therein, assumed that absolutely no change in
+
+13 operations would occur as a result of the Project. Despite references made in the DEIR to an
+
+14 "operations planning document," no such operations planning document was analyzed in the
+
+15 DEIR or provided to the public concurrently with the DEIR. Instead, the DEIR deferred the
+
+16 details of operations planning to later date, and in place of such details merely stated that "for
+
+17 the purpose of the technical analysis in the EIR" no change in operations would occur.
+
+18 25. Pursuant to the NOA, the public was given from June 18, 2020, through August 3,
+
+19 2020, to submit comments to the District on the DEIR. On July 31, 2020, Cal-Am submitted a
+
+20 detailed comment letter, explaining to the District that the DEIR violates CEQA (Pub. Resources
+
+21 Code, § 21000 et seq.) and the State CEQA Guidelines (Cal. Code Regs., tit. 14, § 15000 et seq.)
+
+22 in numerous ways, including, but not limited to:
+
+23 improper and illegal piecemealing;
+
+24 failing to account for numerous components of the Project;
+
+25 failing to disclose the scope of operational and physical changes that will occur as
+
+26 a result of severing the MWS from Cal-Am's other water and wastewater systems;
+
+27 failing to account for the reasonably foresecable environmental impacts relating to
+
+28 "substantially" lower water rates;
+
+MANATI, PHELPS &
+PHILLIPs, LLP - 7 -
+
+ATTORNEYS AT LAW
+1OS ANCELES VERIFIED PETITION FOR WRIT OF MANDATE
+
+failing to account for how the District will address pumping limits effective in
+
+2 2021 and beyond without a change in operations;
+cn * relying on assumptions regarding future water supply that are not consistent with
+reality;
+ignoring the Project's potential for growth inducement;
+
+6 improperly deferring mitigation; and
+
+7 failing to provide a reasonable range of project alternatives.
+
+8 26. As part of its comment letter, Cal-Am requested that the District provide all
+"operations planning documents" to the public, and that the DEIR be revised to account for any
+
+10 potentially significant environmental impacts that may occur as a result of any planned change in a
+
+11 operations contained in those operations plans.
+
+12 27. On or about October 6, 2020, the District responded to Cal-Am's July 31 comment
+
+13 letter. However, none of the District's responses adequately addressed or ameliorated the issues
+14 raised by Cal-Am regarding the DEIR's numerous legal deficiencies. In response to Cal-Am's
+
+15 request that any and all operations planning documents be released to the public with the DEIR,
+
+16 and the DEIR be revised to account for those documents, the District cavalierly responded that
+
+17 the "operations planning documents... mentioned by the District... are part of the LAFCO of
+
+18 Monterey County application process. These are not CEQA documents and thus are not required
+
+19 at this stage in the project." Thus, although the District's environmental review was predicated
+
+20 on the assumption that operation of the system would not change in any meaningful way, the
+
+21 District boldly alleged that its actual written plan for operating the system was irrelevant to its
+
+22 review.
+
+23 28. Shortly thereafter, the District released a Final Environmental Impact Report
+
+24 (*FEIR") to the public via posting on the District's website. Together, the DEIR and FEIR
+
+25 constitute the EIR.
+
+26 E. District Certifies its Flawed EIR.
+
+27 29. On October 15, 2020, the District released its Agenda for its October 19, 2020,
+
+28 regular meeting of its Board of Directors. Agenda Item No. 9 on the Agenda was: "Consider
+MANATT, PHELPS & - 8- PHILLIPS, LLP
+ATTORNEYS AT LAW
+LOS ANGELES VERIFIED PETITION FOR WRIT OF MANDATE
+
+-
+
+2 Certification of Final EIR for the Potential Acquisition of Monterey Water System and District
+
+3 Boundary Adjustment." Item No. 10 on the Agenda was: "Consider Adoption of Proposed
+Operations Plans for Rule 19.8 Acquisition of Monterey Water System." No CEQA
+
+4 determination was noticed or identified on the Agenda for Agenda Item No. 10.
+
+5 30.
+
+6 Concurrently with the release of the October 19, 2020 Agenda, the District
+
+7 released to the public a staff-drafted Agenda Report for Agenda Item No. 10, which, like the
+
+8 Agenda, made no mention of CEQA. Attached as exhibits to the Agenda Report were two
+
+9 documents: (1) The Monterey Peninsula Water System Operations Plan ("Operations Plan"),
+
+10 dated October 9, 2020, and (2) The Monterey Water System Contract Management Plan
+("Contract Management Plan"), dated September 2020.
+
+11 31.
+
+12 On October 19, 2020, several hours prior to the scheduled start of the regular
+
+13 meeting of the Board of Directors, Cal-Am submitted a second comment letter to the District.
+
+14 The letter requested that the District include the Agenda Report for Agenda Item No. 10, as well
+
+15 as the Operations Plan and Contract Management Plan, within the administrative record for
+Agenda Item No. 9, considering certification of the EIR for the Project.
+
+16 32.
+
+17 At the October 19, 2020, regular meeting of the Board of Directors, the Board
+
+18 voted to postpone consideration of both Agenda Items Nos. 9 and 10 because the Board had not
+
+19 been given enough time to review the considerable amount of information provided to them on
+October 15, 2020, with release of the meeting's agenda.
+
+20 33.
+
+21 On October 23, 2020, the District released its agenda for an October 29, 2020,
+
+22 Special Meeting of its Board of Directors. Agenda Item No. 2 on the October 29, 2020 Special
+
+23 Meeting Agenda was "Consider Certification of Final EIR for the Potential Acquisition of
+
+24 Monterey Water System and District Boundary Adjustment." In relation to Agenda Item No. 2,
+
+25 District Staff recommended that the Board of Directors: "(i) Approve Resolution 2020-17
+
+26 Certifying the Monterey Peninsula Water Management District Potential Acquisition of Monterey
+
+27 Water System and District Boundary Adjustment Environmental Impact Report, including the
+
+28 Findings attached thereto (ii) approve the Mitigation Monitoring and Reporting Program provided
+
+MANATT, PHELPS &
+PHILLIPS, LLP contained [sic] as an Exhibit to the Findings, and (iii) direct staff to file a Notice of Determination
+
+ATTORNEYS ATLAN - 9-
+
+LOS ANGELES VERIFIED PETITION FOR WRIT OF MANDATE
+
+of compliance with the California Environmental Quality Act at the State Office Planning and
+
+2 Research." Neither Staff's recommendation, nor Resolution 2020-17, expressly referenced
+
+3 approval of the Project.
+
+4 34. The October 29, 2020 Special Meeting Agenda also included Agenda Item No. 3:
+
+5 "Consider Adoption of Proposed Operations Plans for Rule 19.8 Acquisition of Monterey Water
+
+6 System." In relation to Agenda Item No. 3, District Staff recommended that the Board of
+
+7 Directors: "adopt both plans and include them in the LAFCO application." The Agenda Report
+
+8 for Agenda Item No. 3 explains that "in order to prepare the Board to consider in the future a
+
+9 Resolution of Public Necessity for the potential acquisition of California American Water (Cal-
+
+10 Am) Company's Monterey Water System, the Monterey County Local Agency Formation
+
+11 Commission (LAFCO) must allow the District to activate certain latent powers authorized by its
+
+12 legislation, as well as consider annexation of approximately 56 parcels to the District. LAFCO
+
+13 will require, in the District's application, a 'Plan for Providing Services' which is a description of
+
+14 the services to be provided, financing, capacity of existing systems, and other related
+
+15 information." The Operations Plan and Contract Management Plan purportedly constitute the
+
+16 District's "plan for providing services," which the District just days earlier declared were "not
+
+17 CEQA documents" and "not required" to be considered in relation to the Project's EIR.
+
+18 35. On October 28, 2020, Cal-Am submitted third comment letter to the District
+
+19 regarding the flaws in the EIR, and the piecemealing caused by considering the EIR separate from
+
+20 the Operations Plan and Contract Management Plan. The letter also highlighted for the District
+
+21 that its Operations Plan and Contract Management Plan indicate a future change in operations of
+
+22 the MWS if the District were to assume ownership and control - directly contrary to the EIR's
+
+23 repeated contention that there will be no changes to the manner of operation of the MWS as a
+
+24 result of the Project. Those operational changes would have potentially significant environmental
+
+25 impacts. Some examples identified by Cal-Am include:
+
+26 The Operations a Plan specifies a new level of hydraulic performance for the
+
+27 system: "storage tanks must have the ability to refill the entire pressure zone
+
+28 capacity within 8 hours to have the lanks full at the start of the next day.
+MANATT, PHIBLPS &
+PHILLIPS, LLP - 10 -
+
+ATTORNEYS ATLAW
+LOS ANCELES VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 (Operations Plan at p. 47). Achieving that level of water supply and pumping
+
+2 capacity would require infrastructure improvements throughout the system.
+
+3 • The Operations Plan states: *All [fire] hydrants shall be Dry Barrel and have an
+
+4 isolation valve on the bury." (Operations Plan at p. 57). Converting all of the
+
+5 system's fire hydrants to Dry Barrel would require replacing thousands of fire
+
+6 hydrants. Dry Barrel hydrants are used in areas where freezing occurs regularly,
+
+7 and are unnecessary in Monterey.
+
+8 The Operations Plan specifies that all storage tanks in excess of one million
+9 gallons capacity must undergo dry inspections - i.e., with the tank completely
+drained - every three years. (Operations Plan, Table 12-6) The MWS includes
+11 numerous tanks with a capacity in excess of one million gallons. Just in Pebble
+12 Beach, there are three tanks with a capacity of five million gallons each, meaning
+
+13 that every year in Pebble Beach alone a large tank would be drained, unnecessarily
+
+14 wasting a substantial volume of water.
+
+15 36. At its October 29, 2020, Special Meeting, the Board discussed the DEIR, including
+
+16 its myriad flaws. For example, Directors Evans and Byrne pointed out significant flaws in the
+
+17 EIR's cumulative impacts list and analyses; Directors Hoffman and Byrne pointed out that the
+
+18 EIR's assumptions about employee commutes were unsubstantiated; and Director Byrne
+
+19 lamented that the EIR's water supply assumptions were unrealistic and that the EIR ignores that
+
+20 lowered water rates are likely to result in population growth and new housing. Despite the fact
+
+21 that the District's own Directors found the EIR inadequate in these respects, staff made no effort
+
+22 to correct or revise the EIR.
+
+23 37. Moreover, Directors agreed with Cal-Am that operations would change as a result
+
+24 of the Project. Director Hoffman stated that, based on the Operations Plan, "they would
+
+25 definitely change the operation of the water system" and there "is a disconnect between the EIR
+
+26 and the [Operations Plan], and as long as the EIR references the [Operations Plan], . .. as long as
+
+27 it's referenced in the EIR, this claim of no change in operation just isn't true." Instead of
+
+28 directing staff to analyze that admitted change in operations, Directors Hoffman and Byrne
+MANATT, PHELPS &
+PHILLIPS, LLP - 11 -
+
+ATTORNESATIAW
+TOS ANGHUES VERIFIED PETITION FOR WRIT OF MANDATE
+
+requested that any reference to there being no change in operations simply "be deleted" from the
+
+2 EIR. Regardless, again, staff made no effort to correct or revise the EIR in response to these
+
+3 comments from the Board of Directors.
+
+4 38. Also during their deliberations, several directors and staff members acknowledged
+
+5 the role of the Operations Plan and Contract Management Plan in the Project and their relevance
+
+6 to the EIR, despite the EIR's statements to the contrary. General Counsel to the Board of
+
+7 Directors explained to the Board that "the next item" on the agenda - the adoption of the
+
+8 Operations Plan and Contract Management Plan - "influences what action you are taking under
+
+9 the EIR." In response to the Directors' comments about the EIR misrepresenting the contents of
+
+10 the Operations Plan, the District's General Manager responded that they can "address it in the
+
+11 Operations Plan."
+
+12 39. Ultimately, the Board of Directors voted 6-1 to approve Resolution No. 2020-17
+
+13 and certify the EIR with no changes.
+
+14 40. When Director Byrne cast her vote for certification of the EIR, she stated, "Even
+
+15 though feel that the EIR has got so much speculation to it, I will vote yes."
+
+16 F. District "Receives" the Operations Plan and Contract Management Plan
+
+17 41. In tacit acknowledgement of the myriad problems associated with the District's
+
+18 refusal to consider its Operations Plan as part of its environmental review, staff changed its
+
+19 recommendation and advised the Board to "receive" rather than "adopt" the Operations Plan and
+
+20 Contract Management Plan during the Special Meeting. Specifically, when introducing Agenda
+
+21 Item No. 3, Mr. Stoldt stated: "The staff recommendation has changed to receive the operations
+
+22 plans, not adopt them, and although marked final, we will treat them as drafts, and will endeavor
+
+23 to address some of the specific comments that have been made about inconsistencies between
+
+24 what has been suggested in the plans and current operations and maybe include a disclaimer so
+
+25 that it's clear that the intent is to operate for a transitional period of time, exactly or as close to
+
+26 exactly, the way current operations are, preferably with current staff and personnel, etc."
+
+27
+
+28
+
+MANATT, PHELPS &
+PHILLIPS, LLP - 12 -
+
+ATTORNEYS AT LAW
+LOS ANGELES VERIFIED PETITION FOR WRIT OF MANDATE
+
+42. Mr. Stoldt recommended that adoption of the plans be postponed until "at a point
+
+2 in time that it's required either for LAFCO or a bench trial, should you choose to go that way."
+
+3 Ultimately, the Board voted 7-0 to "receive" the Operations Plan and Contract Management.
+
+4 43. Notwithstanding the fact that the Board did not "approve" the Project at its
+
+5 October 29, 2020 Special Meeting (or at any time), the District filed a Notice of Determination
+
+6 for the Project on October 30, 2020, with both the California Office of Planning and Research,
+
+7 and Monterey County.
+8 STANDING, EXHAUSTION AND OTHER JURISDICTIONAL REQUIREMENTS
+
+9 44. Cal-Am participated in the administrative process that resulted in the County's
+
+10 decision to certify the Monterey Peninsula Water Management District Potential Acquisition of
+
+11 Monterey Water System and District Boundary Adjustment Environmental Impact Report.
+
+12 45. Cal-Am has exhausted all administrative remedies prior to filing this action.
+
+13 Specifically, Cal-Am has objected to the District's actions relating to the Project in multiple
+
+14 correspondences with the District. Cal-Am has submitted written public comments to the District
+
+15 during the public review and comment period for the DEIR, prior to, and in reference to, the
+
+16 District's October 19, 2020 Board of Directors Meeting, and prior to, and in reference to, the
+
+17 District's October 29, 2020 Board of Directors Meeting. Cal-Am also submitted oral comments
+
+18 during the District's October 29, 2020 Board of Directors Meeting.
+
+19 46. Cal-Am has complied with all conditions imposed by law prior to filing this
+
+20 action, including complying with the requirement of Public Resources Code section 21167.5, by
+
+21 providing notice to the District that this action would be filed. Cal-Am served a Notice of Intent
+
+22 to File this Petition on the District by mail on November 20, 2020, a true and correct copy of
+
+23 which is attached hereto as Exhibit A.
+
+24 47. Cal-Am has also complied with Public Resources Code section 21167.7 by
+
+25 providing notice and copy of this Petition to the California Attorney General on November 24,
+
+26 2020.
+
+27 48. Cal-Am hereby, and by a separate election filed herewith, notifies the District that
+
+28 Cal-Am requests a cost estimate for preparing the record of proceedings and reserves the right to
+
+MANATT, PHBLPS & PHO.UPs, LLP • 13 -
+
+ATTORNEYS ATLAW
+LOS ANGELES VERIFIED PETITION FOR WRIT OF MANDATE
+
+elect to prepare the record of proceedings for the Project and its EIR in compliance with Public
+
+2 Resources Code section 21167.6, subdivision (b)(2) after receiving Respondents' cost estimate.
+
+3 49. No valid statute of limitation bars this complaint.
+
+4 50. Cal-Am does not have a plain, speedy, or adequate remedy at law.
+
+5 51. The maintenance of this action is for the purpose of enforcing important public
+
+6 policies of the State of California with respect to the protection of the environment and public
+
+7 participation under CEQA. The maintenance and prosecution of this action will confer a
+
+8 substantial benefit upon the public by protecting the public from the environmental and other
+
+9 harms alleged in this Petition. As such, Cal-Am is entitled to the recovery of attorneys' fees
+
+10 under California Civil Procedure Code section 1021.5.
+
+11 LEGAL BACKGROUND
+
+12 52. CEQA mandates "that the long-term protection of the environment . .. shall be the
+
+13 guiding criterion in public decisions." (Pub. Resources Code, § 21101(d).) To that end, CEQA
+
+14 requires that public agencies analyze and disclose the environmental impacts of their actions prior
+
+15 to their approval. (Pub. Resources Code, § 21080(a); State CEQA Guidelines [Cal. Code Regs.,
+
+16 tit. 14, § 15000 et seq.], §§ 15004, 15352(b); Save Tara v. City of West Hollywood (2008) 45
+
+17 Cal.4th 116.)
+
+18 53. CEQA's mandates are procedural and informational, as well as substantive.
+
+19 CEQA requires that public agencies avoid or significantly reduce environmental impacts
+
+20 whenever feasible by implementing project alternatives and mitigation measures. (Pub.
+
+21 Resources Code, § 21001(g).)
+
+22 72. A public agency abuses its discretion and fails to proceed in the manner required
+
+23 by law when its actions or decisions do not substantially comply with the requirements of CEQA.
+
+24 (Pub. Resources Code, §§ 21168, 21168.5.)
+
+25 54. Where a proposed project may result in significant environmental effects, CEQA
+
+26 requires public agencies to prepare an environmental impact report, the purpose of which is "to
+
+27 identify the significant effects on the environment of a project, to identify alternatives to the
+
+28
+
+MANATT, PHELPS &
+PHILLIPS, LLP - 14 -
+
+ATTORNEYS AT LAW
+LOS ANGE.AS VERIFIED PETITION FOR WRIT OF MANDATE
+
+project, and to indicate the manner in which those significant effects can be mitigated or
+
+2 avoided." (Pub. Resources Code, § 21002.1(a).)
+
+55. Whether an environmental impact report fails to include the information necessary
+
+4 for an adequate analysis of an environmental issue is a question of law, and when reviewed by the
+
+5 courts, the courts do not defer to an agency's determinations. (Madera Oversight Coalition, Inc.
+
+6 V. County of Madera (2001) 199 Cal.App.4th 48, 102 ["whether an EIR is sufficient as an
+
+7 informational document is a question of law subject to independent review by the courts"].)
+
+8 56. Failure to comply with the basic substantive requirements of CEQA is necessarily
+prejudicial error, requiring the decertification of any environmental impact report and vacation of
+
+10 any approvals adopted in reliance upon the same. (North Coast Rivers Alliance v. Kawamura
+
+11 (2015) 243 Cal.App.4th 647, 671.)
+
+12 57. An EIR's project description must include all relevant aspects of & project,
+
+13 including reasonably foreseeable future activities that are part of the project. (Laurel Heights
+
+14 Improvement Association v. Regents of the Univ. of California (1988) 47 Cal.3d 376.)
+
+15 58. A single project may not be divided into smaller, individual pieces in order to
+
+16 avoid the lead agency's responsibility to consider the environmental impacts of the project as a
+
+17 whole. Such illegal practice constitutes impermissible project segmenting. (Orinda Association
+
+18 V. Board of Supervisors (1986) 182 Cal.App.3d 1145, 1171; County of Inyo v. City of Los Angeles
+
+19 (1977) 71 Cal.App.3d 185, 193.)
+
+20 FIRST CAUSE OF ACTION
+
+21 (For Writ of Mandate, Public Resources Code 21167,
+
+22 Violation of CEQA - Illegal Project Segmentation and Piecemealing)
+
+23 59. Cal-Am incorporates by reference the allegations contained in paragraphs 1
+
+24 through 58, above.
+
+25 60. The District has violated CEQA by failing to prepare an adequate environmental
+
+26 impact report that meets all of CEQA's procedural and substantive mandates prior to the Board of
+
+27 Director's decision on October 29, 2020 to adopt Resolution 2020-17 Certifying the Monterey
+
+28
+
+MANATT, PHELPS & PHILLIPS, LLP - 15 -
+
+ATTORNEYS AT LAW
+106 ANCHS VERIFIED PETITION FOR WRIT OF MANDATE
+
+Peninsula Water Management District Potential Acquisition of Monterey Water System and
+
+2 District Boundary Adjustment Environmental Impact Report.
+
+3 61. The District has violated CEQA by engaging in improper and illegal piecemealing
+4 and project segmentation, which occurs when a public agency chops up a proposed project into
+smaller pieces to create the illusion of fewer environmental impacts, and to hide the true
+
+6 magnitude of its actions. (Tuolumne County Citizens for Responsible Growth, Inc. V. City of
+
+7 Sonora (2007) 155 Cal.App.4th 1214 [CEQA "cannot be avoided by chopping up proposed
+
+8 projects into bite-sized pieces which, individually considered, might be found to have no
+
+9 significant effect on the environment"].) CEQA requires that public agencies analyze the "whole
+
+10 of the project," which includes all related actions, all implementation actions, and all reasonably
+
+11 foreseeable subsequent actions. (State CEQA Guidelines, § 15378(a), (c)-(d).)
+
+12 62. The District committed illegal project piecemealing when it refused to
+13 acknowledge the Operations Plan and the Contract Management Plan in the Project EIR, despite
+
+14 those plans' clear relevance to the Project. The DEIR stated numerous times that operations of
+
+15 the MWS after District acquisition would remain the same as current operations, despite the fact
+
+16 that at the same time the District was preparing the DEIR, it was simultaneously preparing the
+
+17 Operations Plan and Contract Management Plan for the MWS that indicated operations would
+
+18 change in numerous ways. By piecemealing changes in operations, the District has failed to
+
+19 disclose the full and true impacts of the Project.
+
+20 63. The District also committed illegal project piecemealing when it refused to
+
+21 identify future water supply sources necessary to meet water demand on the MWS after District
+
+22 acquisition. By piecemealing decisions associated with future water sources, the District has
+
+23 failed to disclose the full and true impacts of the Project.
+
+24 64. The District also committed illegal project piecemealing when it claimed in its EIR
+
+25 that any future rate changes occurring as a result of the District's acquisition of the MWS would
+
+26 be statutorily exempt under Public Resources Code section 21080(b)(8), given that lowered rates
+
+27 are precisely the purpose of the proposed Project, and thus, are part and parcel of the "whole" of
+
+28 the District's action. As even admitted by the District, lower rates result in greater water use.
+MANATT, PHRIPS & PHILLIPS, LI,P - 16 -
+
+ATTORNEYS AT LAW
+LOs ANCELES VERIFIED PETITION FOR WRIT OF MANDATE
+
+-
+
+2 Therefore, by piecemealing changes in water rates, the District has failed to disclose the full and
+true impacts of the Project.
+
+3 65. By committing illegal piecemealing and project segmentation to hide and
+
+4 downplay the potential impacts of the District's Project, the District failed to proceed in the
+
+5 manner required by law, and thereby prejudicially abused its discretion by failing to comply with
+
+6 CEQA's mandates.
+
+7 SECOND CAUSE OF ACTION
+
+8 (For Writ of Mandate, Public Resources Code § 21167,
+
+9
+
+10 Violation of CEQA - Incomplete, Misleading, Vague Project Description)
+
+66.
+
+11 Cal-Am incorporates by reference the allegations contained in paragraphs 1
+through 65, above.
+
+12 67.
+
+13 The District has violated CEQA by failing to provide a complete, adequate, and
+
+14 concrete project description within the EIR. EIR project descriptions must be accurate, stable,
+
+15 consistent, complete, include all components of a proposed project, and include all foreseeable
+
+16 future activities that are consequences of the project to be approved. (County of Inyo v. City of
+
+17 Los Angeles (1977) 71 Cal.App.3d 185, 199.) An accurate and completed project description is
+
+18 necessary to determine the scope of environmental review. (Id. at p. 192 ["An accurate, stable,
+and finite project description is the sine qua
+
+19 non of an informative and legally sufficient EIR"].)
+
+20 The District's failure to provide an accurate project description violates CEQA on its own, and
+
+21 also undermines each and every environmental impact analysis contained within the EIR.
+
+68.
+
+22 Among other ilings, the EIR's project description is impermissibly vague and
+
+23 incomplete in that it fails to describe reasonably foreseeable changes in operations that will occur
+
+24 if the District acquires the MWS. The District states that following its takeover of the MWS, the
+
+25 District plans to "substantially" reduce water rates, yet provides no description of how operations
+
+26 and maintenance will necessarily change to reduce operating costs enough to accommodate these
+
+27 lower rates. Further, the District acknowledges that several studies have shown that lowered
+water rates result in greater water use and demand, yet the project description provides no
+28 explanation as to how operations will change to accommodate this increased demand, or, in the
+MANATT, PHELPS &
+PHILLIPs, LLP
+ATTORNEYS ATLAW - 17 -
+
+LOS ANGI.IS VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 alternative, what types of conservation measures, including permissible rate design structures, the
+
+2 District will (newly) establish to counteract such increased demand. By omitting these
+
+3 operational changes from the project description, the project description fails to accurately
+
+4 describe all aspects of the proposed Project with the potential to cause environmental effects.
+
+5 69. The EIR's project description is also impermissibly vague and incomplete in its
+
+6 failure to identify reasonably foreseeable changes in the District's future water supply sources.
+
+7 The District acknowledges that current water sources will be subject to restrictive regulations
+
+8 effective in 2021, but provides absolutely no details as to how the District plans to replace this
+
+9 water. By omitting this key detail from the project description, the project description fails to
+
+10 accurately describe all aspects of the proposed Project with the potential to cause environmental
+
+11 effects.
+
+12 70. The EIR's project description is also unstable. Key aspects of the Project are still
+
+13 being determined, revised, and considered by the District. For example, during its October 29,
+
+14 2020 Board of Directors Special Meeting, several District directors raised concerns that
+
+15 statements in the EIR were inconsistent with statements made in the Operations Plan and Contract
+
+16 Management Plan. Yet, instead of fixing the inaccuracies in the EIR, the Board of Directors
+
+17 certified the EIR, and District Staff then explained that it would go back and make edits and
+
+18 revisions to the Operations Plan and Contract Management Plan, making such bizarre statements
+
+19 as, "[i]t's clear that the EIR trumps the operations plan. The operations plan has not been
+
+20 approved and it's being presented to you after this." CEQA mandates that the project description
+
+21 of the EIR must reflect the plans proposed for adoption by the District, not the other way around.
+
+22 71. By failing to provide an accurate, complete, and stable project description in its
+
+23 EIR, the District has failed to proceed in the manner required by law, and thereby prejudicially
+
+24 abused its discretion by failing to comply with CEQA's mandates.
+
+25
+
+26
+
+27
+
+28
+
+MANATI, PHELPS &
+PHILLIrS, LLP - 18 -
+
+ATTRNINSSATLAW
+LOS ANCHC.AS VERIFIED PETITION FOR WRIT OF MANDATE
+
+THIRD CAUSE OF ACTION
+
+2 (For Writ of Mandate, Public Resources Code § 21167,
+
+3 Violation of CEQA - Inadequate Analysis of Environmental Impacts)
+
+4 72. Cal-Am incorporates by reference the allegations contained in paragraphs 1
+
+5 through 71, above.
+
+6 73. The District has violated CEQA by failing to adequately analyze the full, true
+7 environmental impacts of the Project on the existing environment. (Pub. Resources Code,
+
+8 §21100(b); State CEQA Guidelines, §§ 15126, 15126.2).
+9 74. The District has failed to analyze the potential environmental impacts of changed
+
+10 operations, including those operational changes that will be necessary for the District to
+
+11 "substantially" reduce water rates, those operational changes that will be necessary to meet
+
+12 dramatically increased water demand resulting from those substantially reduced rates, and those
+
+13 operational changes that the District vaguely alludes to in reference to controlling future water
+
+14 demand increases. Operational changes could result in impacts associated with air quality,
+
+15 biological resources, cultural and tribal cultural resources, energy use and conservation,
+
+16 geological hazards, greenhouse gas emissions, hazards and hazardous materials, hydrology, water
+
+17 quality, water consumption and conservation, land use planning, population and housing, public
+
+18 services, and transportation. Relatedly, the District has failed to analyze adequately and disclose
+
+19 cumulative impacts associated with operational changes.
+
+20 75. The District has failed to adequately analyze and disclose impacts to groundwater
+
+21 supplies and hydrology. This failing is caused, in part, in the EIR's water supply analysis being
+
+22 based on wholly unreasonable assumptions. First, the EIR claims that water supplies from the
+
+23 Water Supply Project Desalination Plant will serve WMS customers beginning in 2020.
+
+24 However, at the time the EIR was drafted, the Water Supply Project Desalination Plant's
+
+25 subsurface intake wells were not yet even entitled, in part due to the District's formal opposition
+
+26 to the Project. Ironically, while the EIR relying on Water Supply Project desalinated water was
+
+27 out for public review, the District was simultaneously formally opposing the Desalination Plant's
+
+28 Coastal Commission approval. Second, the EIR claims that increased demand would not result in
+MANATT, PHELPS &
+PHILlIPs, LLP - 19 -
+
+ATIORNEYS AT LAW
+LOS ANGIOIS VERIFIED PETITION FOR WRIT OF MANDATE
+
+increased pumping in the Carmel Valley Aquifer or Seaside Groundwater Basin due to regulatory
+
+2 controls. Yet, the EIR provides no mention of what other water supply sources will then be
+
+3 required to meet increased demand. By failing to acknowledge how increased water demand will
+
+4 be met, the EIR fails to account for any environmental impacts associated with utilizing that new
+
+5 water source.
+
+6 76. The District has failed to adequately analyze any impacts associated with increased
+
+7 water demand. The purported purpose of the Project is to "substantially" reduce water rates, and
+
+8 the EIR acknowledges that reduced rates cause increased demand. Yet, the EIR nevertheless
+
+9 concludes, without support, that any analysis of such impacts is too speculative to undertake.
+
+10 77. As a result of failing to provide an accurate, complete and stable project
+
+11 description, the EIR's analysis of all other impacts is also flawed. The Project is likely to result
+
+12 in additional impacts, including impacts associated with growth inducement, that the District has
+
+13 failed to consider and disclose.
+
+14 78. As such, the District has failed to proceed in the manner required by law, and
+
+15 thereby prejudicially abused its discretion by failing to comply with CEQA's mandates.
+
+16 FOURTH CAUSE OF ACTION
+
+17 (For Writ of Mandate, Public Resources Code § 21167,
+
+18 Violation of CEQA - Deferral of Mitigation)
+
+19 79. Cal-Am incorporates by reference the allegations contained in paragraphs ]
+
+20 through 78, above.
+
+y 80. The District has violated CEQA by adopting Mitigation Measure GHG-1, which
+22 fails to describe how the District will actually reduce its greenhouse gas emissions to below the
+85 significance threshold identified in the EIR. GHG-1 fails to identify mitigation criteria, fails to
+explain why deferral of mitigation formulation is impossible at this time, and fails to guarantee
+25 actual greenhouse gas emissions reductions.
+
+26 81. By impermissibly deferring mitigation necessary to reduce the Project's impacts to
+
+27 below a level of significance, the District has failed to proceed in the manner required by law, and
+
+28 thereby prejudicially abused its discretion by failing to comply with CEQA's mandates.
+MANATT, PHELPS &
+PHILLIPS, LLP - 20 -
+
+ArTONNEYS ATLAN
+LOS ANGELES VERIFIED PETITION FOR WRIT OF MANDATE
+
+FIFTH CAUSE OF ACTION
+
+2 (For Writ of Mandate, Public Resources Code § 21167,
+
+3 Violation of CEQA - Failing to Recirculate EIR)
+
+4 82. Cal-Am incorporates by reference the allegations contained in paragraphs 1
+
+5 through 81, above.
+
+6 83. The District has violated CEQA by failing to revise and recirculate the DEIR,
+
+7 despite its failure to meet CEQA's substantive and procedural mandates.
+
+8 84. The District has violated CEQA by failing to adequately respond to comments
+
+9 raised by Petitioner and others during the public comment and review period for the DEIR.
+
+10 85. The District has violated CEQA by releasing significant new information to the
+
+11 public, including, but not limited to, the Operations Plan and Contract Management Plan, to the
+
+12 public without revision and recirculation of the DEIR.
+
+13 86. By failing to substantially revise the DEIR and recirculate it for public review and
+
+14 comment prior to certification, the District has failed to proceed in the manner required by law,
+
+15 and thereby prejudicially abused its discretion by failing to comply with CEQA's mandates.
+16 SIXTH CAUSE OF ACTION
+
+17 (For Writ of Mandate, Public Resources Code § 21167,
+
+18 Violation of CEQA - Filing Notice of Determination With No Project Approval)
+
+19 87. Cal-Am incorporates by reference the allegations contained in paragraphs
+
+20 through 86, above.
+
+21 88. After a public agency decides to approve or carry out a project for which an EIR
+
+22 has been prepared, the agency must file a notice of determination. (State CEQA Guidelines, o.
+
+23 15094(a), 15373.)
+
+24 89. While the District did not formally approve the Project as part of its adoption of
+
+25 Resolution No. 2020-17 on October 29, 2020, it nonetheless filed a Notice of Determination for
+
+26 the Project with the California Office of Planning and Research and the County of Monterey.
+
+27 90. Further confusing the issue, statements made at the Board's October 29, 2020,
+
+28 Special Meeting indicate the Board believed that by certifying the EIR, it was, in fact, approving
+MANATT, PHELPS &
+PHILLIPs, LLP - 21 -
+
+ATTORNRYS AT LAW
+Los ANGELTS VERIFIED PETITION FOR WRIT OF MANDATE
+
+the Project. For example, the District's General Counsel stated. "The EIR is to approve continued
+
+2 operations of the facilities by the public agency other than Cal-Am."
+
+3 91. Because the Project was not actually approved, the Notice of Determination was
+
+4 filed in violation of the CEQA and cannot be a valid basis for establishing a statute of limitations
+
+5 relative to the proposed Project.
+
+6 92. By filing a Notice of Determination prior to Project approval, the District has
+
+7 failed to proceed in the manner required by law, and thereby prejudicially abused its discretion by
+
+8 failing to comply with CEQA's mandates.
+
+9 PRAYER FOR RELIEF
+
+10 WHEREFORE, Cal-Am prays for the following relief:
+
+l. For writ of mandate directing the County to vacate Resolution 2020-17 Certifying
+12 the Monterey Peninsula Water Management District Potential Acquisition of Monterey Water
+
+13 System and District Boundary Adjustment Environmental Impact Report;
+
+14 2. For a preliminary and permanent injunction prohibiting the District from taking
+
+15 any actions in furtherance of the Potential Acquisition of Monterey Water System and District
+
+16 Boundary Adjustment Project unless and until the District complies with CEQA's substantive and
+
+17 procedural mandates;
+
+18 3. For costs of suit and attorneys* fees to the extent allowed by law; and
+
+19 4. For such other relief as the Court determines is just and proper.
+
+20
+
+21 Dated: November 24, 2020 MANATT, PHELPS & PHILLIPS, LLP
+
+22
+
+23 By: Daud 7. Moran
+
+24 David T. Moran
+Attorneys for Petitioner
+25 CALIFORNIA-AMERICAN WATER
+COMPANY
+
+26 327076923.1
+
+27
+
+28
+
+MANATT, PHELPS &
+PHILLIPS, LLP - 22 -
+
+ATTORNEYS AT LAW
+LOS ANGELIS VERIFIED PETITION FOR WRIT OF MANDATE
+
+VERIFICATION
+
+2 I, Christopher Cook, declare as follows:
+
+3
+
+4 I am the Director of Operations Central Division for California American Water
+
+5 Company and am authorized to make this verification for and on its behalf. I have read the
+
+6 foregoing Verified Petition for Writ of Mandate and know its contents. I am informed and
+
+7 believe and on that ground allege that the matters stated in it are true and correct.
+
+8 declare under penalty of perjury under the laws of the State of California that the
+foregoing is true and correct and that this verification was executed on November 23% 2020 at
+Monterey County, California.
+10
+
+11
+
+12
+
+13 Christopher Cook
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+MUNE 25
+
+26
+
+27
+
+28
+
+MANATT, PHELPS & 326878608.3
+PHILLITS, LLP
+ATTORNEYS AT LAW - 23 -
+
+LS ANCEI H5 VERIFIED PETITION FOR WRIT OF MANDATE
+
+EXHIBIT A
+
+manatt David T. Moran
+Manatt, Phelps & Phillips, LLP
+Direct Dial: (310) 312-4365
+dmoran@manatt.com
+
+November 20, 2020
+
+VIA FEDERAL EXPRESS
+
+Monterey Peninsula Water Management District Monterey Peninsula Water Management District Board of Directors
+Harris Court, Building G
+Monterey, CA 93930
+
+Re: Notice of Commencement of CEQA Litigation Challenging the Certification of the Environmental Impact Report for the Potential Acquisition of
+Monterey Water System and District Boundary Adjustment
+
+Dear Sir/Madam:
+
+Please take notice that California American Water Company intends to file suit against the Monterey Peninsula Water Management District and the Monterey Peninsula Water Management District Board of Directors for failing to comply with the requirements of the California Environmental Quality Act ("CEQA") (Pub. Resources Code, § 21000 et seq.) and the State CEQA Guidelines (Cal. Code Regs., tit. 14, § 15000 et seq.) in certifying the District's Environmental Impact Report (State Clearinghouse No. 2020040069). This notice is given pursuant to Public Resources Code section 21167.5.
+
+Sincerely,
+
+David 7. Moran
+
+David T. Moran
+
+DTM
+
+2049 Century Park East, Suite 1700, Los Angeles, California 90067 Telephone: 310.312.4000 Fax: 310.312.4224
+Albany | Boston | Chicago | Los Angeles | New York | Orange County Palo Alto | Sacramento | San Francisco | Washington, D.C.
+
+manatt
+Monterey Peninsula Water Management District
+November 20, 2020
+Page 2
+
+PROOF OF SERVICE
+
+I, Brigette Scoggins, declare as follows:
+am employed in Los Angeles County, Los Angeles, California. I am over the age of eighteen years and not party to this action. My business address is Manatt, Phelps & Phillips, LLP, 11355 West Olympic Boulevard, Los Angeles, California 90064-1614. On November 20, 2020, I served the within: LETTER RE NOTICE OF COMMENCEMENT OF CEQA
+LITIGATION CHALLENGING THE CERTIFICATION OF THE ENVIRONMENTAL
+IMPACT REPORT FOR THE POTENTIAL ACQUISITION OF MONTEREY WATER SYSTEM AND DISTRICT BOUNDARY ADJUSTMENT on the interested parties in this action addressed as follows:
+
+Monterey Peninsula Water Management District
+5 Harris Court, Building G
+Monterey, CA 93930
+
+Monterey Peninsula Water Management District Board
+of Directors
+5 Harris Court, Building G
+Monterey, CA 93930
+
+0 (BY MAIL) By placing such document(s) in a sealed envelope, with postage thereon fully prepaid for first class mail, for collection and mailing at Manatt,
+Phelps & Phillips, LLP, Los Angeles, California following ordinary business practice. ] am readily familiar with the practice at Manatt, Phelps & Phillips, LLP for collection and processing of correspondence for mailing with the United States Postal Service, said practice being that in the ordinary course of business, correspondence is deposited in the United States Postal Service the same day as it is placed for collection.
+
+x (BY OVERNIGHT MAIL) I caused such documents to be delivered to the office
+of the addressee(s) at the address(es) set forth above by overnight delivery via Federal Express or by a similar overnight delivery service.
+I declare under penalty of perjury under the laws of the State of California that the foregoing is true and correct and that this declaration was executed on November 20, 2020, at
+Los Angeles, California.
+
+327088297.1 lfthuger deorgend Brigette/Scoggins 4
+
+ATTORNEY GENERAL SAN DIEGO
+
+2020 DEC -2 AMIO:12
+
+manatt David T. Moran Manatt, Phelps & Phillips, LLP Direct Dial: (310) 312-4365
+dmoran@manatt.com
+
+November 24, 2020
+
+VIA FEDEX
+
+Xavier Becerra
+Office of the Attorney General of the State of California
+1300 "I" Street
+Sacramento, CA 95814
+
+Re: Notice of Commencement of CEQA Litigation
+California-American Water Company v. Monterey Peninsula Water
+Management District et. al.
+Dear Attorney General Becerra:
+Enclosed please find a copy of Plaintiff and Petitioner California-American Water Company's Verified Petition for Writ of Mandate filed on November 24, 2020 in the Monterey County Superior Court. The petition alleges, inter alia, that Respondents Monterey Peninsula
+Water Management District and the Monterey Peninsula Water Management District Board of Directors violated the California Environmental Quality Act (*CEQA") (Pub. Resources Code, § 21000 et seq.) when certifying the District's Environmental Impact Report for the Potential Acquisition of Monterey Water Supply and District Boundary Adjustment (State Clearinghouse No. 2020040069). This petition is provided to you in compliance with Public Resources Code
+section 21167.7 and Code of Civil Procedure section 388.
+
+Sincerely,
+
+David T. Moran
+David T. Moran
+
+DTM
+
+2049 Century Park East, Suite 1700, Los Angeles, California 90067 Telephone: 310.312.4000 Fax: 310.312.4224
+Albany | Boston | Chicago | Los Angeles | New York | Orange County | Palo Alto | Sacramento | San Francisco | Washington, D.C.
+
+manatt
+Xavier Becerra
+Office of the Attorney General of the State of California
+November 24, 2020
+Page 2
+
+PROOF OF SERVICE
+
+I, Brigette Scoggins, declare as follows:
+I am employed in Los Angeles County, Los Angeles, California. I am over the age of eighteen years and not a party to this action. My business address is Manatt, Phelps & Phillips, LLP. 2049 Century Park East, Suite 1700, Los Angeles, California 90067. On November 24, 2020, I served the within: Letter re Notice of Commencement of CEQA Litigation California-American Water Company v. Monterey Peninsula Water Management District et. Al. and Plaintiff and Petitioner California-American Water Company's Verified Petition for Writ of Mandate on the interested party in this action addressed as follows:
+
+Xavier Becerra
+Office of the Attorney General of the State of California
+1300 I Street
+Sacramento, CA 95814
+
+x (BY OVERNIGHT MAIL) I caused such documents to be delivered to the
+office of the addressee(s) at the address(es) set forth above by overnight
+delivery via Federal Express or by a similar overnight delivery service.
+
+*N.
+I declare under penalty of perjury under the laws of the State of California that the foregoing is true and correct and that this declaration was executed on November 24, 2020, at Los Angeles, California. /bthezcaa. Deonpenz Brigette Scoggins
+
+327094125.1
+
+PECEIVER
+DEC 1 1 2020
+
+BV: ___.._____.

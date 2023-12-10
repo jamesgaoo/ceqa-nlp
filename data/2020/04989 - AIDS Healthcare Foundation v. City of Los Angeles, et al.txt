@@ -1,0 +1,1484 @@
+- Dean Wallraff (SBN 275908)
+2 Kathleen R. Unger (SBN 272279)
+3 ADVOCATES FOR THE ENVIRONMENT
+
+4 10211 Sunland Blvd.
+Shadow Hills, CA 91040
+5 Phone: (818) 353-4268
+
+6 Facsimile: (818) 864-3224
+
+7 dw@aenv.org; ku@aenv.org
+
+8 Counsel for Petitioner,
+9 AIDS Healthcare Foundation
+
+10
+
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+12 FOR THE COUNTY OF LOS ANGELES
+
+13
+14 AIDS HEALTHCARE FOUNDATION, a
+
+15 California Nonprofit Corporation CASE NO. 19STCP05445
+
+16 PLAINTIFF AND PETITIONER,
+17
+
+18 V. NOTICE TO ATTORNEY GENERAL
+
+19
+
+20 CITY OF LOS ANGELES, a municipal
+
+21 corporation; LOS ANGELES CITY COUNCIL,
+
+22 governing body of the City of Los Angeles;
+
+23 LOS ANGELES DEPARTMENT OF CITY
+
+24 PLANNING, a local public agency; DOES 1-
+10,
+
+25
+
+26 DEFENDANTS AND RESPONDENTS,
+
+27
+28 SOUTHERN CALIFORNIA FLOWER GROWERS,
+
+29 INC., a California corporation; ROES 1-10,
+
+30 REAL PARTIES IN INTEREST.
+31
+
+32
+
+33 To the Attorney General of the State of California:
+
+34 PLEASE TAKE NOTICE, under Public Resources Code $ 21167.7 and Code of Civil
+
+35 Procedure $ 388, that on December 16, 2019, AIDS Healthcare Foundation filed a
+petition for writ of mandate against the City of Los Angeles, Los Angeles City Council,
+
+NOTICE TO ATTORNEY GENERAL
+
+-
+2 and Los Angeles Department of City Planning in Los Angeles County Superior Court.
+
+3 The petition alleges that the City of Los Angeles violated the California Environmental
+
+4 Quality Act, Public Resources Code $$ 21000-21189.3 (CEQA); the Subdivision Map
+
+5 Act, Government Code $$ 66410-66499.38); Planning and Zoning Law, Government
+
+6 Code $S 65000-66210; City of Los Angeles General Plan; and Los Angeles Municipal
+
+7 Code by approving a project with potential substantial adverse effects on the
+
+8 environment without the environmental review required by CEQA, and in violation of
+
+9 legal requirements including that the project be consistent with the applicable general
+
+10 plan. The project at issue is the Southern California Flower Market Project located at
+
+11 711-765 S. Wall Street, 306-326 E. 7th Street, and 742, 750-752 S. Maple Avenue, Los
+
+12 Angeles, CA 90014, in Los Angeles County. A copy of the petition is attached to this
+notice.
+13
+14 Dated: December 18, 2019
+15 Respectfully Submitted,
+
+16 ADVOCATES FOR THE ENVIRONMENT
+
+17
+18
+19 HHGRG By: Kathleen R. Unger
+20 Attorneys for Petitioner,
+
+21 AIDS Healthcare Foundation
+
+22
+
+23
+24
+
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+
+35
+
+2
+NOTICE TO ATTORNEY GENERAL
+
+1 Dean Wallraff (SBN 275908)
+2 Kathleen R. Unger (SBN 272279)
+
+3 ADVOCATES FOR THE ENVIRONMENT
+10211 Sunland Blvd.
+4 Shadow Hills, CA 91040
+5 Phone: (818) 353-4268
+6 Facsimile: (818) 864-3224
+
+7 dw@aenv.org; ku@aenv.org
+
+8 Attorneys for Petitioner,
+9 AIDS Healthcare Foundation
+
+10
+SUPERIOR COURT OF THE STATE OF CALIFORNIA 11 FOR THE COUNTY OF LOS ANGELES 12
+13 AIDS HEALTHCARE FOUNDATION, a CASE NO. 19STCP05445
+14
+20999838 California Nonprofit Corporation
+
+PLAINTIFF AND PETITIONER, VERIFIED PETITION FOR WRIT OF
+MANDATE AND COMPLAINT FOR
+V. INJUNCTIVE RELIEF
+
+CITY OF LOS ANGELES, a municipal California Environmental Quality Act corporation; LOS ANGELES CITY COUNCIL, (Pub. Resources Code, $ 21000-21189.3);
+governing body of the City of Los Angeles; Subdivision Map Act (Gov. Code,
+23 LOS ANGELES DEPARTMENT OF CITY § 66410-66499.38); Planning and Zoning
+PLANNING, a local public agency; DOES 1- Law (Gov. Code, §S 65000-66210); City
+24 10, of Los Angeles General Plan; Los Angeles Municipal Code 25
+26 DEFENDANTS AND RESPONDENTS,
+
+27 SOUTHERN CALIFORNIA FLOWER GROWERS,
+28 INC., a California corporation; ROES 1-10,
+29
+
+30 REAL PARTIES IN INTEREST.
+31
+
+32
+
+33
+34
+35
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+Introduction 2
+
+1. This action challenges and seeks to enjoin the action of the City of Los Angeles,
+4 Los Angeles City Council (City Council), and Los Angeles Department of City
+5 Planning (collectively, City or Respondents) on November 12, 2019, and all
+6 subsequent actions certifying an environmental impact report (EIR) (No. ENV-
+7 2016-3991-EIR) for land-use entitlements including amending the City's General
+8 Plan to change the land-use designation for the Project Site from Light Industrial
+9 to Community Commercial land use within the Central City Community Plan
+10 (Community Plan), and increase Floor Area Ratio (FAR) to 3.9:1 in lieu of the
+11 3:1 FAR otherwise permitted for Height District 2D, a Vesting Zone Change and
+12 Height District Change from M2-2D to (T)(Q)C2-2D, a Site Plan Review, a
+13 Master Conditional Use Permit for on-site sales and consumption of alcoholic
+14 beverages, a Vesting Tentative Tract Map, and other related actions (Project
+15 Entitlements) for the Southern California Flower Market Project (Project), a
+16 proposed mixed-use development that will encompass two buildings, the North
+17 Building and South Building, and proposes to build 323 residential apartment
+18 units and 64,363 square feet of office space, 4,385 square feet of retail space,
+19 63,785 square feet of wholesale space and storage, 13,420 square feet of food and 868 beverage space, and 21,295 square feet of event space on a 3,86-net-acre site
+located at 709-765 South Wall Street; 306-326 East 7th Street; 750-752 South
+23 Maple Avenue (Project Site).
+2. 24 In approving the Project, the City violated the California Environmental Quality
+Act, Public Resources Code $$ 21000-21189.3 (CEQA) and the CEQA 25 Guidelines, California Code of Regulations, title 14, S$ 15000-15387 plus 26 appendices (CEQA Guidelines); the Subdivision Map Act, Government Code 27 SS 66410-66499.38; the Planning and Zoning Law, Government Code $$ 65000- 28 66210; the City's General Plan, and the Los Angeles Municipal Code. 29 3. The City abused its discretion in approving the Project and related 30 environmental documentation, as described below. 31
+
+32 Parties
+33 4. Plaintiff and Petitioner AIDS Healthcare Foundation, a California nonprofit 34 public benefit corporation (AHF or Petitioner), is nonprofit organization in 35
+
+2
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+1 Los Angeles whose mission is to rid the world of AIDS through a network of
+2 pharmacies, thrift stores, healthcare contracts, and other strategic partnerships;
+m + 100N 000 generating new, innovative ways of treatment, prevention, and advocacy. There
+is significant relationship between health outcomes and access to safe,
+affordable housing. People with HIV are less likely to be able to stay adherent to their medications and more likely to become sicker and more infectious when
+they lack stable housing and/or are homeless. AHF also operates the Heathy
+Housing Foundation, which provides affordable housing to hundreds of very
+
+10 low-income people and people at risk of homelessness in Los Angeles. The
+Healthy Housing Foundation also advocates for affordable housing and against
+11 gentrification. Petitioner, its employees, customers, and the many persons whom
+12 Petitioner serves are beneficially interested in and will be impacted by the
+13 outcome of this Project.
+14 5. Defendant and Respondent City of Los Angeles is a California charter city 15 located in the County of Los Angeles, California. The Project is within the 16 jurisdictional limits of the City. 17
+18 6. Defendant and Respondent Los Angeles City Council is the elected governing
+
+19 body of the City and is the body responsible for the decision being challenged
+herein. 20
+21 7. Defendant and Respondent Los Angeles Department of City Planning is an
+22 agency of the City responsible for developing, applying, and enforcing state and
+
+23 local land-use and zoning laws within the jurisdictional limits of the City.
+
+24 8. Defendants and Respondents Does 1-10 are entities of which the true names and
+25 capacities are unknown to Petitioner at this time. Petitioner therefore sues said
+26 Respondents by fictitious names. Petitioner will amend this petition to show the
+27 true names and capacities of Does 1-10 when ascertained.
+28 9. Petitioner is informed, believes, and on that basis alleges that Real Party in
+29 Interest Southern California Flower Growers, Inc. (Applicant), is a California
+30 corporation that is the owner of the Project Site and is the applicant to the City
+31 for the Project's General Plan amendments, vesting tentative tract map, and
+32 other associated entitlements.
+33 10. Real Parties in Interest Roes 1-10 are entities of which the true names and
+34 capacities are unknown to Petitioner at this time. Petitioner therefore sues said
+35
+
+3
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+I
+2 Real Parties in Interest by fictitious names. Roes 1-10 are agents of Applicant
+
+3 who are responsible in some manner for the conduct described in this petition,
+
+4 or other persons or entities who claim some legal or equitable interest in the
+
+5 subject matter of this action. Petitioner will amend this petition to show the true
+
+6 names and capacities of Roes 1-10 when ascertained.
+
+7 Jurisdiction and Venue
+C 0 11. Pursuant to Code of Civil Procedure (CCP) $$ 1094.5 and 1085 and Public
+
+10 Resources Code 5$ 21168, 21168.5, and 21168.9, this Court has jurisdiction to
+
+11 issue a writ of mandate to set aside Respondents' decision to certify the EIR and
+
+12 purported approval of the Project.
+12.
+13 Venue is proper in this Court because the Project lies entirely within the County
+
+14 of Los Angeles and the environmental impacts of the Project will be acutely felt
+
+15 in this County. The cause alleged in this petition, or some part of that cause, arise
+
+16 in this county. (CCP $ 393; Cal. State Parks Foundation v. Super. Ct. (2007) 150
+
+17 Cal.App.4th 826.) Venue is also proper in this Court pursuant to CCP §§ 394
+
+18 (actions against a city, county, or local agency), and 395 (actions generally), since
+
+19 the City of Los Angeles is in the County of Los Angeles.
+
+20 13. This petition is timely filed within 30 days after Respondents' decision to issue a
+
+21 Notice of Determination in accordance with Public Resources Code $ 21167.
+
+22 14. This case is properly classified as an unlimited civil case, and therefore is within
+
+23 the jurisdiction of this Court, because it is not one of the types
+
+24 limited civil cases in CCP $$ 86, 86.1, or 87. of cases listed as
+
+25 15. Petitioner has provided written notice of its intention to file this petition to
+
+26 Respondents in compliance with Public Resources Code § 21167.5.
+
+27
+
+28 16. Petitioner has concurrently filed a notice of their election to prepare the record
+
+29 of administrative proceedings relating to this action, in compliance with Public
+Resources Code $ 21167.6 or other applicable laws.
+30
+
+31 17. Petitioner has performed any and all conditions precedent to filing this instant
+
+32 action and has exhausted administrative remedies to the extent required by law
+
+33 under Public Resources Code $ 21177. Petitioner and/or other agencies and
+
+34 individuals raised each of the legal deficiencies asserted in this petition orally or
+
+35 in writing during the Respondents' decision-making process.
+
+4
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+HNMPLODN DO 18. The violations by Respondents as alleged herein have affected the beneficial
+interests of Petitioner and/or its supporting members. The relief sought by way
+of this Petition will redress this beneficial interest and the likelihood of future
+injury and interference with Petitioner's interests, and those of its supporting
+members.
+
+19. Petitioner has no plain, speedy, or adequate remedy in the course of ordinary law
+unless this Court grants the requested writ of mandate to require Respondents to
+set aside its certification of the Project and environmental documents. In the
+10 absence of such remedies, Respondents' decisions will remain in effect in
+violation of state law and injurious to Petitioner. 11
+12 Statutory Framework
+
+14 California Environmental Quality Act
+15 20. Passed in 1970 as a state counterpart to the National Environmental Policy Act,
+
+16 the California Environmental Quality Act (CEQA) requires state and local
+
+17 agencies to identify the potentially significant environmental impacts of their
+
+18 actions, and then to avoid or mitigate those impacts if feasible.
+
+19 21. CEQA requires that an agency analyze the potential environmental impacts of its
+20 proposed actions in an environmental impact report (except in certain limited
+21 circumstances). (See, e.g., Pub. Resources Code (PRC), $ 21100 et seq.) The EIR
+22 is the very heart of CEQA. (Dunn-Edwards v. BAAQMD (1992) 9 Cal.App.4th
+
+23 644, 652.) "The 'foremost principle' in interpreting CEQA is that the Legislature
+
+24 intended the act to be read SO as to afford the fullest possible protection to the
+
+25 environment within the reasonable scope of the statutory language." (Cmtys. for
+
+26 a Better Env't v. Cal. Resources Agency (2002) 103 Cal.App.4th 98, 109.)
+27 22. CEQA has two primary purposes. First, CEQA is designed to inform decision
+28 makers and the public about the potential, significant environmental effects of a
+29 project. (CEQA Guidelines $ 15002(a)(1).) "Its purpose is to inform the public
+30 and its responsible officials of the environmental consequences of their decisions
+31 before they are made. Thus, the EIR protects not only the environment but also
+32 informed self-government." (Citizens of Goleta Valley v. Bd. of Supervisors
+33 (1990) 52 Cal.3d 553, 564.) The EIR has been described as "an environmental
+34 *alarm bell' whose purpose it is to alert the public and its responsible officials to
+35 environmental changes before they have reached ecological points of no return."
+
+5
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+2 (Berkeley Keep Jets Over the Bay v. Bd. of Port Comrs. (2001) 91 Cal.App.4th
+
+3 1344, 1354.)
+
+4 23. Second, CEQA requires public agencies to avoid or reduce environmental
+
+5 damage when "feasible" by requiring "environmentally superior" alternatives
+
+6 and all feasible mitigation measures. (CEQA Guidelines $ 15002(a)(2) and (3);
+
+7 Citizens of Goleta Valley, supra, 52 Cal.3d at 564.) The EIR serves to provide
+
+8 agencies and the public with information about the environmental impacts of a
+
+9 proposed project and to "identify ways that environmental damage can be
+
+10 avoided or significantly reduced." (CEQA Guidelines $ 15002(a)(2).)
+
+11 24. The required CEQA environmental review involves both substantive and
+
+12
+13 procedural steps. Public participation plays an important and protected role in
+the CEQA process. (Laurel Heights Improvement Association v. Regents of the
+
+14
+
+15 University of California (1988) 47 Cal.3d 376, 392 ["The EIR process protects not
+only the environment but also informed self-government"]; Concerned Citizens
+16 2Y:.5 of Costa Mesa, Inc. v. 32nd District Agricultural Association (1986) 42 Cal.3d 929,
+936 [members of the public have a "privileged position" in the CEQA process].)
+"Each public agency should include provisions in its CEQA procedures for wide
+public involvement, formal and informal, consistent with its existing activities
+and procedures, in order to receive and evaluate public reactions to
+
+22 environmental issues related to the agency's activities." (CEQA Guidelines §
+15201.) The lead agency must consider all "comments it receives on a draft a
+
+23 environmental impact report, proposed negative declaration, or proposed
+24 mitigated declaration." (PRC S 21091(d)(1); CEQA Guidelines $ 15074(b).)
+
+25
+
+26 25. Procedurally, a lead agency may not approve a project until the public has been
+
+27 given a full and adequate opportunity to participate and comment on the project.
+
+28 26. CEQA also disallows approval of a project that fails to comply with other laws. A
+
+29 lead agency may not approve a project with significant unavoidable impacts
+
+30 unless it is "otherwise permissible under applicable laws and regulations." (PRC
+§ 21002.1(c).)
+31
+
+32 27. Recirculation of an EIR prior to certification is addressed in PRC $ 21092.1 and
+
+33 CEQA Guidelines $ 15088.5. "When significant new information is added to an
+
+34 environmental impact report after notice has been given pursuant to Section
+
+35 21092…but prior to certification, the public agency shall give notice again
+
+6
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+1
+2 pursuant to Section 21092 and consult again pursuant to Sections 21104 and
+
+w 21153 before certifying the environmental impact report." (PRC $ 21092.1.)
+
+4 28. "Significant new information" includes a disclosure showing that:
+
+5 (1) A new significant environmental impact would result from the project or
+
+6 from a new mitigation measure proposed to be implemented.
+
+7 (2) A substantial increase in the severity of an environmental impact would
+8 result....
+
+9
+10 (3) A feasible project alternative or mitigation measure considerably different
+
+11 from others previously analyzed would clearly lessen the significant
+environmental impacts of the project...
+12
+13 (4) The draft EIR was so fundamentally and basically inadequate and
+
+14 conclusory in nature that meaningful public review and comment were
+precluded.
+15
+16 (CEQA Guidelines § 15088.5; Mountain Lion Coal. v. Fish and Game Comm'n
+
+17 (1989) 214 Cal.App.3d 1043.)
+
+18 29. In Laurel Heights Impr. Assn. v. Reg. of Univ. of Cal. (1993) 6 Cal. 4th 1112, 1130
+
+19 ("Laurel Heights II"), the Supreme Court explained that PRC $ 21092 favors EIR §
+
+20 recirculation prior to certification. The Court stated:
+
+21 Section 21092.1 was intended to encourage meaningful public comment.
+
+22 [Citation omitted.] Therefore, new information that demonstrates that an
+
+23 EIR commented upon by the public was so fundamentally and basically
+
+24 inadequate or conclusory in nature that public comment was in effect
+
+25 meaningless triggers recirculation under section 21092.1.
+
+26
+27 Subdivision Map Act
+
+28 30. The Subdivision Map Act, Government Code $$ 66410-66499.38 (Subdivision
+
+29 Map Act or Act), requires local agencies to review and approve all land
+
+30 subdivisions. The Act regulates the process for approving subdivisions and sets
+
+31 substantive requirements for approval of land subdivisions.
+
+32 31. The Act requires that a local agency deny approval of a land subdivision, referred
+
+33 to as a tentative map or a parcel map, if it makes any of the following findings:
+
+34 "(a) That the proposed map is not consistent with applicable general and specific
+
+35 plans.... (b) That the design or improvement of the proposed subdivision is not
+
+7
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+H consistent with applicable general and specific plans. (c) That the site is not 2 physically suitable for the type of development. (d) That the site is not physically
+suitable for the proposed density of development. (e) That the design of the 4 subdivision or the proposed improvements are likely to cause substantial 5 environmental damage or substantial and avoidably injure fish or wildlife or 6 their habitat. (f) That the design of the subdivision or type of improvements is 7 likely to cause serious public health problems. (g) That the design of the 8 subdivision or type of improvements will conflict with easements, acquired by 9 the public at large, for access through or use of, property within the proposed 10 subdivision…' (Gov. Code, $ 66474.)
+11
+
+12 Planning and Zoning Law
+13 32. The Planning and Zoning Law, Government Code $$ 65000-66210 (Planning
+14 and Zoning Law), governs the land-use planning process for city, county, and
+15 local government agencies within the State of California.
+16 33. The Planning and Zoning Law mandates that cities and counties prepare a 17 24858 General Plan to govern the long-term, physical development of the land under
+city and county jurisdiction addressing the following eight mandatory elements:
+land use, circulation, housing, conservation, open space, noise, safety, and
+environmental justice. (Gov. Code, $$ 65300, 65302.)
+34. The Planning and Zoning Law requires that "[i]f the approval of a development
+23 project results in fewer units by income category than identified in the
+
+24 jurisdiction's housing element for that parcel and the jurisdiction does not find
+
+25 that the remaining sites in the housing element are adequate to accommodate the
+
+26 jurisdiction's share of the regional housing need by income level, the jurisdiction
+
+27 shall within 180 days identify and make available additional adequate sites to
+
+28 accommodate the jurisdiction's share of the regional housing need by income
+
+29 level..." (Gov. Code, § 65863(c)(2).)
+
+30 The City's General Plan Housing Element
+31 35. The Housing Element of the City's General Plan sets out a number of objectives
+32 and policies for the City concerning affordable housing, including producing "an
+33 adequate supply of rental and ownership housing in order to meet current and
+34 projected needs" by "[e]xpand[ing] affordable rental housing for all income
+35
+
+8
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+1 groups" as well as "[p]romot[ing] a more equitable distribution of affordable
+2 housing opportunities throughout the City" through "policies and incentives to
+include affordable housing in residential development, particularly in mixed use
+development, Transit Oriented Districts and designated Centers" that would
+5 "[f]oster the development of new affordable housing units citywide and within
+6 each Community Plan area." (General Plan Housing Element 2013-2021 at pp. 6-
+A c 6, 6-10.)
+
+36. In particular, the Housing Element requires the City to create "affordable
+
+10 housing requirements for projects that…receiv[e] zone changes that result in
+significantly more units than otherwise permitted...." (General Plan Housing 11 Element 2013 -021 at p. 6-19.) 12
+13 The Central City Community Plan
+14 37. The Central City Community Plan (Community Plan), part of the City's
+15 General Plan, identifies land-use issues related to residential uses, including the
+16 goal to create increased housing for all income levels. It highlights concern about
+17 a lack of affordable housing and homelessness issues in the Community Plan
+18 area.
+19 38. The Community Plan recognizes that the majority of the area's residents live in 20 21 mostly low-income, overcrowded neighborhoods. Reflecting a concern with a
+22 need for affordable housing, the Community Plan identifies a lack of affordable
+housing for workers and a need to increase the range of housing choices for 23 those who live and work in the area.
+24
+39.
+25 The Community Plan sets out several objectives including "increas[ing] the
+
+26 range of housing choices available to Downtown employees and residents,"
+
+27 "foster[ing] residential development which can accommodate a full range of
+
+28 incomes," and "preserv[ing] the existing low-income housing stock." The
+
+29 Community Plan also contains objectives, policies, and programs to promote
+
+30 mixed-income neighborhoods, develop new affordable housing options,
+
+31 construct low-income housing, and provide housing opportunities for homeless
+individuals.
+32
+
+33
+
+34
+
+35
+
+9
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+1
+
+2 The Los Angeles Municipal Code's Affordable Housing Requirements
+(Measure JJJ)
+3 40.
+4 The Los Angeles Municipal Code (Municipal Code or LAMC) imposes
+
+5 additional affordable housing requirements on projects with ten or more
+
+6 residential dwelling units seeking a general plan amendment, zone change, or
+
+7 height district change resulting in an increase in allowable residential floor area
+
+8 density or height or a residential use where not previously allowed. (LAMC $
+
+9 11.5.11.)
+
+10 41. Section 11.5.11, subd. (a)(1) of the LAMC requires that rental projects seeking a
+
+11 general plan amendment, zone change, or height district change resulting in a
+
+12 residential density increase greater than 35% allocate "no less than 5% of the total
+
+13 units at rents affordable to Extremely Low Income households, and either 6% of
+
+14 the total units at rents affordable to Very Low Income households or 15% of the
+
+15 total units at rents affordable to Lower Income households."
+
+16 42. Section 11.5.11, subd. (a)(1) of the LAMC requires that rental projects seeking a
+17 general plan amendment, zone change, or height district change to allow
+
+18 residential uses where residential uses were not previously allowed allocate "no
+08d less than 5% of the total units at rents affordable to Extremely Low Income
+households, and either 11% of the total units at rents affordable to Very Low
+
+22. Income households or 20% of the total units at rents affordable to Lower Income
+households."
+23
+24 The Los Angeles Municipal Code as to Conditional Use Permits for Alcohol
+
+25 Sale and Dispensing
+43.
+26 The City's Municipal Code requires a conditional use permit (CUP or
+
+27 Conditional Use) for the sale or dispensing of alcoholic beverages, including
+
+28 beer and wine. (LAMC $ 12.24(W).)
+
+29 44. The City is required to deny a CUP unless it properly finds that (1) "the project
+
+30 will enhance the built environment in the surrounding neighborhood," (2) "the
+
+31 project's location, size, height, operations and other significant features will be
+
+32 compatible with and will not adversely affect or further degrade adjacent
+
+33 properties, the surrounding neighborhood, or the public health, welfare and
+
+34 safety," and (3) "the project substantially conforms with the purpose, intent and
+
+35 provisions of the General Plan, the applicable community plan, and any
+
+10
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+1 applicable specific plan." (LAMC S 12.24(E).)
+2 45. In addition, the Municipal Code requires the City to deny a CUP if the sale or M WLOON dispensing of alcohol will (1) "adversely affect the welfare of the pertinent
+community,' (2) "result in an undue concentration of premises for the sale or
+dispensing for consideration of alcoholic beverages.in the area of the City
+involved, giving consideration to applicable State laws and to the California
+Department of Alcoholic Beverage Control's guidelines for undue
+concentration." and (3) "detrimentally affect nearby residentially zoned
+communities in the area of the City involved." (LAMC $ 12.24(W)(1)(a).) 10
+
+11 Private Attorney General
+12 46. This proceeding involves enforcement of important rights affecting the public
+13 interest. Issuance of the relief requested in this petition will confer a substantial
+14 benefit on the public, including citizens, residents, businesses, and taxpayers of
+15 the City, and will result in the enforcement of important public rights by
+16 requiring Respondents to comply with CEQA and other legal requirements
+17 applicable to the proposed Project; by voiding the Project approvals and 18 prohibiting Respondents and Real Parties in Interest from taking further actions 19 with respect to the Project until it has complied with those legal requirements;
+20 and by prohibiting Respondents from undertaking any portion of the Project
+21 until they have fully complied with these legal requirements.
+22
+23 47. Petitioner is entitled to recover attorneys' fees as provided in CCP $ 1021.5 if it
+prevails in this action. The necessity and financial burden of enforcement of 24 these public rights entitle Petitioner to an award of reasonable attorneys' fees 25 pursuant to that section. 26
+27 Factual Background
+28 48. On May 22, 2017, the City published the Notice of Preparation (NOP)
+29 identifying the scope of the environmental issues for the Project. The NOP was
+30 sent to responsible agencies and interested parties for a 30-day review period.
+31 49. On June 8, 2017, the City held a Public Scoping Meeting for the Project. 32
+
+33 50. The Draft EIR for the Project (No. ENV-2016-3991-EIR) was issued on
+
+34 September 20, 2018, for a 45-day review period with the comment period
+
+35 expiring on November 5, 2018.
+
+11
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+- 51. On September 20, 2018, a Notice of Availability and a Notice of Completion of 2 the Draft EIR were issued.
+3 52.
+4 On April 12, 2019, the City issued the Final EIR for the Project.
+
+5 53. The Final EIR concluded that the following impacts are significant but
+
+6 determined to be mitigated to less than significant levels:
+
+7 a. Air Quality
+
+8 b. Geology and soils
+9 C. Noise
+10 d. Tribal cultural resources
+11 54. The Final EIR determined that the 12 Project would not result in any significant
+
+13 and unavoidable environmental impacts.
+
+14 55. On July 26, 2019, and August 7, 2019, the City prepared two Errata to the Final
+
+15 EIR, dated and posted on the Department of City Planning website. The first
+
+16 Erratum clarified the Project Description as to the floor area of event space, and
+17 modified Mitigation Measure E-1. In Erratum No. 2, Project Design Feature L-1
+18 was revised to clarify the language regarding the coordination requirements
+4878 between the Los Angeles Metropolitan Transportation Authority (Metro) and
+other public transit agencies.
+56. On June 3, 2019, the City's Deputy Advisory Agency approved Vesting Tentative
+Tract Map No. 74568 case and certified the EIR, and certified that the Final EIR
+23 had been completed in compliance with CEQA; reflects the City's independent
+24 judgment and analysis; and has been presented to the decision-making body,
+25 which reviewed and considered the information in it before approving the
+26 Project.
+
+27 57. On July 13, 2019, the Deputy Advisory Agency's decision was appealed by the
+28 American Florists Exchange and the Coalition for Responsible Equitable
+29 Economic Development (CREED LA).
+30 58. On August 8, 2019, the City Planning Commission (CPC) heard the appeals filed
+31 by the American Florists Exchange and CREED LA. At the hearing, the CPC
+32 voted to deny the appeals, sustained the actions of the Advisory Agency in
+33 certifying the EIR and in approving VTT Map No. 74568, and for the related
+34 Case No. CPC-2016-3990-GPA-VZC-HD-MCUP-SPR, recommended that the
+35
+
+12
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+1
+2
+A0 City Council (1) approve a General Plan Amendment to the Central City
+Community Plan to re-designate the Site from Light Industrial to Community
+
+5 Commercial land use; (2) remove Footnote No. 2 to allow a for a Floor Area Ratio
+
+6 (FAR) increase to 3.9:1 in lieu of the 3:1 FAR otherwise permitted for existing
+
+7 Height District 2D; and (3) approve a Vesting Zone Change and Height District
+
+00 Change from M2-2D to (T)(Q)C2-2D. In addition, the CPC approved a Master
+
+9 59. Conditional Use and Site Plan Review for the Project.
+
+10 On August 26, 2019, the City Planning Commission issued separate Letters of
+
+11 Determination for both Case Nos. CPC-2016-3990-GPA-VZC-HD-MCUP-SPR
+
+12 60. and VTT Map No. 74568 effectuating its August 8, 2019 decision.
+
+13 On September 5, 2019, Petitioner appealed both Case Nos. CPC-2016-3990-
+
+14 GPA-VZC-HD-MCUP-SPR and VTT Map No. 74568 to the Planning and Land
+
+15 Use Management (PLUM) Committee of the Los Angeles City Council. In its
+
+16 appeal letter, Petitioner argued that the Project failed to comply with the City's
+
+17 affordable housing requirements, especially under Measure JJJ. Also, a second-
+
+18 61. level Tract Appeal was filed by CREED LA.
+
+19 On October 18, 2019, a third Erratum was issued by the City to modify the
+
+20 existing analysis regarding the Project. Erratum No. 3 included several
+
+21 attachments, including a new "Updated Geotechnical Investigation, Southern
+
+22 California Flower Mart Proposed Mixed-Use Development, 747 & 755 South
+
+23 Wall Street, Los Angeles, California," which was prepared by Geocon West, Inc.,
+
+24 in September 2019, a memo supplementing the air-quality analysis for the
+
+25 Project, and new analysis of construction noise and vibrations, including at the
+Textile Building Lofts.
+
+26 62.
+
+27 On October 28, 2019, Petitioner submitted a comment letter to support its
+
+28 appeal to the PLUM Committee, which argued that the Project (1) does not
+
+29 comply with Measure JII's affordable housing requirements, (2) does not comply
+
+30 with the City's Housing Element of the General Plan and the Central City
+
+31 Community Plan, and (3) fails to provide substantial evidence to support the
+
+32 required findings to approve the Master Conditional Use Permit for the sale and
+
+33 dispensing of alcohol.
+63.
+34 On October 29, 2019, the PLUM Committee of the Los Angeles City Council
+
+35 held a public hearing to consider the Project and the pending appeals by
+
+13
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+- Petitioner and CREED LA for both Case Nos. CPC-2016-3990-GPA-VZC-HD-
+2 MCUP-SPR and VTT Map No. 74568. PLUM made the following 3 recommendations for City Council action:
+4
+
+5 a. find that the Advisory Agency has reviewed and considered the
+
+6 information contained in the EIR prepared for the Project; certify that the
+
+7 EIR was completed in compliance with CEQA, that the EIR was presented
+
+8 to the Advisory Agency as a decision-making body of the lead agency, and
+
+9 that the EIR reflects the independent judgment and analysis of the lead
+
+10 agency; and adopt the Mitigation Monitoring Program (MMP) prepared
+
+11 for the EIR;
+
+12 b. adopt the findings of the PLUM Committee as the Findings for Council;
+
+13 C. resolve to grant in part and deny in part the appeals filed by Petitioner and
+14 CREED LA;
+
+15 d. approve the Vesting Tentative Tract Map;
+16 e. request the applicant to work with CREED LA for the construction of the
+17 Project,
+18 f. request the applicant to further evaluate the cost and the affordability of the 19 8388 housing project;
+g. approve the Master Conditional Use Permit, Site Plan Review, General
+Plan Amendment to the Central City Community Plan; Vesting Zone
+Change, and Height District Change;
+24 h. and other related recommendations.
+
+25 64. The PLUM Committee voted to forward the Project to the City Council for its
+26 consideration.
+
+27 65. At the October 29, 2019 hearing, the PLUM Committee made modifications to
+28 the Project, including to the MMP and conditions of approval. Among these
+29 modifications, the MMP added new significant information regarding a new
+30 "Updated Geotechnical Investigation, Southern California Flower Mart
+31 Proposed Mixed-Use Development, 747 & 755 South Wall Street, Los Angeles,
+32 California," which was prepared by Geocon West, Inc., in September 2019,
+33 which was included as Attachment 1 to Erratum No. 3. Additionally, Project
+34 Description in the Letter of Determination and Conditions of Approval were
+35 modified to include the North area parking building. Third, new analysis of
+
+14
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+1 construction noise at the Textile Building Lofts was included.
+N 0H100A 00 66. On November 12, 2019, the City Council considered and adopted the PLUM
+Committee Report related to the Project and the pending appeals, approving the
+Project.
+
+67. On November 15, 2019, the City issued a Notice of Determination, effectuating
+actions the City Council took at its November 12, 2019 meeting.
+
+First Cause of Action
+(Violations of CEQA; EIR Does Not Comply with CEQA)
+10 68. Petitioner realleges and incorporates paragraphs 1-67 as if fully set forth here. 11
+69. 12 CEQA requires the lead agency for a project to prepare an EIR that complies
+
+13 with the requirements of the statute. The lead agency also must provide for
+
+14 public review and comment on the project and associated environmental
+
+15 documentation. An EIR must provide an adequate project description and
+
+16 sufficient environmental analysis such that decision-makers can intelligently
+
+17 consider environmental consequences when acting on the proposed project.
+
+18 70. Respondents violated CEQA by certifying a Final EIR that fails to adequately
+19 disclose, analyze, and mitigate the Project's environmental impacts, including
+20 but not limited to:
+21 a. Failure to recirculate the Draft EIR despite the inclusion of significant new
+22 information in the Final EIR and new substantive analysis in the EIR
+23 Errata, including the modifications to the Project as well as the Project's
+24 Mitigation Monitoring Plan, new information regarding a new noise study,
+
+25 and new information regarding the North Parking Addition.
+
+26 b. Failure to provide an adequate project description. The EIR's project
+27 description is inadequate in significant ways, including that it fails to
+28 include the North Parking Addition in the Project description.
+29 C. Adoption of inadequate mitigation measures. Some of the approved
+30 mitigation measures are vague, deferred, unenforceable, ineffective, or
+31 inadequate to truly mitigate the Project's impacts. Among these ineffective
+32 and inadequate mitigation measures is Mitigation Measure C-1 regarding
+33 air quality impacts during construction, which relies on incorrect modeling
+34 and is unlikely to reduce impacts to less than significant.
+35
+
+15
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+-
+2
+3 d. Failure to adequately disclose, analyze, or mitigate potential geology and
+
+4 soil impacts, including from construction of the North Parking Addition.
+
+5 Additionally, the analysis lacks substantial evidence to support the
+
+00 N O conclusion that the Project will not result in significant geology or soil
+impacts. The EIR lacks adequate analysis to show Mitigation Measure E-1
+will be effective, and the conclusion that it will result in less than significant
+impacts is unsupported. The measure is vague, uncertain, and improperly
+deferred.
+
+10 e.
+
+11 Failure to adequately analyze or mitigate the Project's impacts on air
+
+12 quality by failing to adequately disclose, analyze, or mitigate the Project's
+
+13 impact to air quality, including operational emissions, and especially as to
+
+14 the release of criteria air pollutants and toxic air contaminants such as
+
+15 diesel particulate matter and their impacts to sensitive receptors in and
+
+16 f around the Project Site. The analysis is based on a flawed emissions model.
+
+17 Failure to adequately disclose, analyze, or mitigate the Project's impact on
+
+18 greenhouse-gas emissions. The EIR fails to support the conclusion that
+
+19 greenhouse-gas emissions will be less than significant. Appropriate
+
+20 significance thresholds were not selected, and the EIR does not adequate
+
+21 justify the selection of thresholds. In particular, the EIR's analysis of
+
+22 greenhouse-gas emissions violates CEQA because it adopts, as a
+
+23 significance threshold, whether the Project is compatible with the
+
+24 applicable regulatory plans and policies to reduce greenhouse-gas
+
+25 emissions, including AB 32, but fails to demonstrate compliance with AB
+
+26 32 under the criteria given in Center for Biological Diversity v. Dept. of Fish
+
+27 and Wildlife (2015) 62 Cal.4th 204.
+
+g.
+
+28 Failure to adequately disclose, analyze, or mitigate the Project's impact on
+
+29 land use and planning, including by failing to consider or mitigate for the
+
+30 Project's inconsistencies with the City's General Plan and Community
+
+31 Plan. The analysis is cursory and conclusory despite the Project's
+
+32 introduction of new residential uses on the Project Site.
+
+33
+34 h. Failure to adequately disclose, analyze, or mitigate the Project's noise
+impacts by failing to adequately analyze, disclose, or mitigate for the
+
+35 Project's construction noise impacts as well as operational noise impacts,
+particularly on nearby sensitive receptors. Mitigation measures for noise
+
+16
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+2 impacts are vague and inadequate, and the record lacks support to show
+
+G they are feasible and enforceable and will be effective to reduce noise and
+
+4 vibration impacts.
+
+un • i. Failure to adequately disclose, analyze, or mitigate the Project's impact on
+population and housing, by failing to analyze the Project's induced
+
+LO 0 gentrification and displacement impact on low-income residents and
+associated human-health impacts.
+j.
+
+10 Failure to adequately disclose, analyze, or mitigate the Project's impact on
+transportation and traffic, including by failing to analyze, disclose, or
+
+11 mitigate for impacts on local traffic as well as freeway traffic. The EIR and
+
+12 traffic analysis do not adequately evaluate construction and operation
+
+13 impacts on surrounding land uses. The construction traffic management
+
+14 plan is improper mitigation. Additionally, the analysis of parking supply
+
+15 and capacity is inadequate, and the Parking Demand Study is deficient. is
+
+16
+
+17 k. Failure to adequately analyze or mitigate the Project's cumulative impacts.
+
+18 The EIR's analysis of cumulative air-quality impacts violates CEQA
+
+19 because the analysis is based on the contention that the air-quality impacts
+
+20 of nearby projects are not significant, and therefore the Project's air-quality
+
+21 cumulative impacts are not significant.
+71.
+22 CEQA requires a detailed good-faith response to comments the agency disagrees
+
+23 with. Many unadopted mitigation measures were proposed in public comments
+
+24 on the Project, and Respondents failed to adequately respond to some of those
+comments.
+
+25
+
+26 72. Many of the mitigation measures adopted for the Project are couched as Project
+
+27 Design Features in the EIR. This violates CEQA, since there is no legal
+
+28 mechanism under which Respondents can enforce them. CEQA requires
+
+29 mitigation measures to be labeled as such and to be enforceable.
+73.
+30 As a result of the foregoing defects and others according to proof, Respondents
+
+31 prejudicially abused their discretion by certifying an EIR that does not comply
+
+32 with CEQA and by approving the Project in reliance thereon. Accordingly,
+
+33 Respondents' certification of the Final EIR and purported approval of the Project
+must be set aside.
+34
+
+35
+
+17
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+2 Second Cause of Action
+
+3 (Violations of CEQA; Failure to Substantially Support Factual Findings and
+
+4 Overriding Considerations)
+74.
+5
+75. Petitioner realleges and incorporates paragraphs 1-67 as if fully set forth here.
+
+6 CEQA requires that a lead agency's findings for the approval of a project be
+
+7 supported by substantial evidence in the administrative record. CEQA further
+
+8 requires that a lead agency provide an explanation of how evidence in the record
+
+9 supports the conclusions it has reached.
+
+10 76. Respondents violated CEQA by adopting findings that are inadequate as a matter
+
+11 of law as they are not supported by substantial evidence in the record, including
+
+12 but not limited to the following:
+
+13
+
+14 a. The determination that the no new information or evidence was presented
+
+15 to the City, especially regarding (1) the changes made in the Notices of
+
+16 Errata dated July 26, 2019, August 7, 2019, and October 18, 2019, and (2)
+
+17 the City's post-Final EIR changes to the Mitigation Monitoring Program.
+
+800S. b. The determination that certain environmental impacts would be less than
+significant or that adopted mitigation measures would avoid or lessen the
+Project's significant effects on the environment.
+c. The determination that alternatives to the Project and proposed mitigation
+measures that would have avoided or lessened the significant impacts of the
+Project were infeasible, including but not limited to the no-Project
+
+24 alternative and the other alternatives examined in the EIR.
+77.
+25 As a result of the foregoing defects, Respondents prejudicially abused their
+
+26 discretion by making determinations or adopting findings that do not comply
+
+27 with the requirements of CEQA and approving the Project in reliance thereon.
+
+28 Accordingly, Respondents' certification of the Final EIR and purported approval
+
+29 of the Project must be set aside.
+
+30 Third Cause of Action
+
+31
+
+32 (Violations of Subdivision Map Act)
+78.
+33 Petitioner realleges and incorporates paragraphs 1-67 as if fully set forth here.
+
+34 79. Respondents abused their discretion under the Subdivision Map Act in
+
+35 approving the Project's tentative vesting tract map because the findings are not
+
+18
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+1 supported by substantial evidence. Substantial evidence before Respondents at
+2
+OoNaIA the time of the approval required the denial of the Project due to its
+inconsistency with the Subdivision Map Act's substantive requirements.
+80. The Project is inconsistent with the Subdivision Map Act's requirements,
+including because the Project's location and design are inconsistent with
+applicable general and specific plans. Moreover, the Project site is not physically
+suitable for the type of development and the density of the Project as approved.
+Finally, the Project is likely to cause substantial environmental damage and
+
+10 serious public health problems and conflicts with easements acquired by the
+
+11 public at large.
+
+12 81. The Project is also inconsistent with applicable general plan and community plan
+
+13 and local codes governing development density as required by the Subdivision
+
+14 Map Act.
+
+15 82. As a result of the foregoing defects, Respondents prejudicially abused their
+
+16 discretion by making determinations and adopting findings that do not comply
+
+•17 with the requirements of the Subdivision Map Act. Accordingly, Respondents'
+18 approval of the Project must be set aside.
+19 858 Fourth Cause of Action
+(State Planning and Zoning Law, Violation of City's General Plan, Central City
+Community Plan)
+
+23 83. Petitioner realleges and incorporates paragraphs 1-67 as if fully set forth here.
+
+24 84. As required by state law, the City has a General Plan that governs land use
+
+25 planning throughout the City.
+
+26 85. The Community Plan is integrated into the land use element of the City's
+
+27 General Plan and applies to the Project Site.
+
+28 86. The Project fails to comply with the objectives and policies set out in the City's
+29 Community Plan, as well as the framework, air quality, conservation, housing,
+30 noise, open space, service systems/public recreation, safety, and mobility
+31 elements and objectives of the General Plan.
+32 87. In particular, the Project's decision regarding units set aside for affordable
+33 housing conflicts with the objectives and policies of the Housing Element of the
+34 City's General Plan and the Community Plan. The moderate-income units
+35
+
+19
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+Hd
+2 proposed for the Project will not serve the neighborhood residents or meet the
+needs of individuals who are homeless, individuals at risk of homelessness, and
+
+4 other special-needs populations, including persons living with HIV/AIDS. The
+
+5 City's conclusion to the contrary is erroneous.
+88.
+6 The Project is inconsistent with the zoning for the Project Site as provided in the
+
+7 City's Municipal Code, including because it is inconsistent with density limits,
+
+8 permitted floor-area-ratio, and affordable housing requirements for the Project
+
+9 Site.
+
+10 89.
+
+11 Respondents failed to issue a finding and failed to support any such finding with
+substantial evidence that addresses potential displacement of residents with
+
+12 regard to potential displacement of residents in relation to the Project.
+
+13 90.
+
+14 As a result of the foregoing defects, Respondents prejudicially abused their
+
+15 discretion by making determinations and adopting findings that do not comply
+
+16 with the requirements of the City's General Plan. Accordingly, the Court should
+
+17 order that Respondents' approval of the Project as well as construction and
+
+18 operation of the Project be vacated and stayed and declare that Respondents
+violated its lawful duties under the City's Municipal Code.
+
+19
+
+20 Fifth Cause of Action
+
+21 (Los Angeles Municipal Code, Measure JJJ)
+
+22 91. Petitioner realleges and incorporates paragraphs 1-67 as if fully set forth here.
+
+23 92.
+
+24 Measure JJJ was adopted by the voters in 2016. Both the Project and the City's
+implementation of Measure JJJ in the Municipal Code are inconsistent with
+
+25 Measure JJJ as adopted by the voters.
+
+26 93.
+
+27 Section 11.5.11, subd. (a)(1) of the LAMC requires that rental projects seeking a
+
+28 general plan amendment, zone change, or height district change resulting in a
+
+29 residential density increase greater than 35% allocate "no less than 5% of the total
+
+30 units at rents affordable to Extremely Low Income households, and either 6% of
+
+31 the total units at rents affordable to Very Low Income households or 15% of the
+total units at rents affordable to Lower Income households."
+
+32 94.
+33 Section 11.5.11, subd. (a)(1) of the LAMC requires that rental projects seeking a
+
+34 general plan amendment, zone change, or height district change to allow
+
+35 residential uses where residential uses were not previously allowed allocate "no
+less than 5% of the total units at rents affordable to Extremely Low Income
+
+20
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+-
+2
+L000Nc AW households, and either 11% of the total units at rents affordable to Very Low
+Income households or 20% of the total units at rents affordable to Lower Income
+households."
+
+95. Respondents granted the Project a General Plan Amendment, Zone Change, and
+Height District Change resulting in a residential density increase greater than
+35% and permitting residential uses where residential uses were not previously
+allowed.
+
+9 96.
+
+10 The Project does not provide any of its residential housing units to extremely low
+
+11 97. income, very low income, or lower income households.
+
+12 As a result of the foregoing defects, Respondents prejudicially abused their
+
+13
+14 discretion by making determinations and adopting findings that do not comply
+with the requirements of the City's Municipal Code. Accordingly, the Court
+
+15 should order that Respondents' approval of the Project as well as construction
+
+16 and operation of the Project be vacated and stayed and declare that Respondents
+
+17 violated lawful duties under the City's Municipal Code.
+
+18
+19 Sixth Cause of Action
+
+20 (Los Angeles Municipal Code, Master Conditional Use for On-Site and Off-Site
+Alcohol Sales)
+
+21
+22 98.  Petitioner realleges and incorporates paragraphs 1-67 as if fully set forth here.
+99.
+
+23 The City's Municipal Code requires a CUP for the sale or dispensing of alcoholic
+
+24 beverages, including beer and wine. (LAMC $ 12.24(W).)
+
+25 100. The City is required to deny a CUP unless it properly finds that (1) "the project
+
+26 will enhance the built environment in the surrounding neighborhood," (2) "the
+
+27 project's location, size, height, operations and other significant features will be
+
+28 compatible with and will not adversely affect or further degrade adjacent
+
+29 properties, the surrounding neighborhood, or the public health, welfare and
+
+30 safety," and (3) "the project substantially conforms with the purpose, intent and
+
+31 provisions of the General Plan, the applicable community plan, and any
+
+32 applicable specific plan." (LAMC S 12.24(E).)
+
+33
+34 101. In addition, the Municipal Code requires the City to deny a CUP if the sale or
+dispensing of alcohol will (1) "adversely affect the welfare of the pertinent
+
+35 community," (2) "result in an undue concentration of premises for the sale or
+dispensing for consideration of alcoholic beverages…in the area of the City
+
+21
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+involved, giving consideration to applicable State laws and to the California
+2 Department of Alcoholic Beverage Control's guidelines for undue
+concentration…" and (3) "detrimentally affect nearby residentially zoned
+4 communities in the area of the City involved." (LAMC $ 12.24(W)(1)(a).)
+
+6 102. The Project will not enhance the built environment in the surrounding
+
+7 neighborhood; is not compatible with adjacent properties, the surrounding
+
+8 neighborhood, or the public health and safety; and does not substantially
+
+9 conform with the purpose, intent, and provisions of the City's General Plan,
+
+10 applicable community plans, or any applicable specific plan.
+
+11 103. In addition, the Project will adversely affect the welfare of the pertinent
+
+12 community, result in an undue concentration of premises for the sale or
+
+13 dispensing for consideration of alcoholic beverages, and detrimentally affect
+
+14 nearby residentially zoned communities.
+
+15 104. In particular, Respondents failed to support with substantial evidence the finding
+
+16 that there is not an "undue concentration" of premises for the sale or dispensing
+
+17 of alcoholic beverages in the area under the State of California Department of
+
+18 Alcoholic Beverage Control Guidelines, noting that there are 28 licenses in the
+
+19 Project's Census Tract, far in excess of the State of California's Department of
+
+20 Alcoholic Beverage Control licensing criteria that allocate three on-sale licenses
+
+21 and one off-sale license to the Project's Census Tract.
+
+22 105. As a result of the foregoing defects, Respondents prejudicially abused their
+23 discretion by making determinations and adopting findings that do not comply
+24 with the requirements of the City's Municipal Code. Accordingly, the Court
+25 should order that Respondents' approval of the Project as well as construction
+26 and operation of the Project be vacated and stayed and declare that Respondents
+27 violated lawful duties under the City's Municipal Code.
+28
+29 Prayer for Relief
+
+30 WHEREFORE, Petitioner prays for judgment in its favor and for relief as follows:
+
+31 A. For a writ of mandate commanding Respondents to vacate and withdraw the
+32 certification of the EIR and all Project Entitlements for the Project; requiring
+33 Respondents to comply with CEQA, the Subdivision Map Act, Planning and
+
+34 Zoning Law, City General Plan, and Los Angeles Municipal Code; and ordering
+
+35 Respondents and Real Parties in Interest to cease any and all activity related to
+
+22
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+OONOGAON the Project that may result in a physical change to the environment unless and
+until the Project is re-approved following the certification of a legally sufficient
+EIR for the Project;
+B. For a temporary stay, temporary restraining order, and preliminary and
+permanent injunctions enjoining Respondents and Real Parties in Interest, and
+their agents, employees, officers, or representatives, and all persons acting in
+concert or participating with Real Parties in Interest from taking any action to
+
+10 implement the Project, unless and until Respondents fully comply with CEQA,
+the Subdivision Map Act, Planning and Zoning Law, City General Plan, and Los
+
+11 Angeles Municipal Code;
+
+12 C.
+
+13 For a declaration of the rights and duties of the parties hereto, including but not
+
+14 limited to a declaratory judgment that Respondents violated their duty pursuant
+
+15 to CEQA, the Subdivision Map Act, Planning and Zoning Law, City General
+Plan, and Los Angeles Municipal Code;
+
+16 D.
+
+17 For Petitioner's fees and costs, including reasonable attorneys' fees and costs, as
+
+18 authorized by California Code of Civil Procedure $ 1021.5 and any other
+applicable provisions of law; and
+19 E.
+20 For such other relief as this Court deems appropriate and just.
+
+21 Dated: December 16, 2019
+
+22 Respectfully Submitted,
+ADVOCATES FOR THE ENVIRONMENT
+
+23
+24
+
+25
+26 SHRJ By: Kathleen R. Unger
+
+27 Attorneys for Petitioner,
+
+28 AIDS Healthcare Foundation
+
+29
+
+30
+31
+
+32
+
+33
+
+34
+
+35
+
+23
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+Verification
+I am President of AIDS Healthcare Foundation, which is a party to this
+action, and I am authorized to make this verification on its behalf.
+I have read the foregoing Petition and am familiar with its contents. The
+matters stated therein are true of my own knowledge except as to those matters that
+are stated on information and belief, and as to those matters, I believe them to be
+true.
+I declare under penalty of perjury under the laws of the State of California
+that the foregoing is true and correct.
+
+Dated: December 16, 2019
+
+Michael Weinstein, President
+AIDS Healthcare Foundation
+
+VERIFICATION OF PETITION FOR WRIT OF MANDATE
+
+Proof of Service
+
+I, Benita Wallraff, declare:
+Iam over the age of 18 years and not a party to this action. My business address is
+10211 Sunland Blvd., Shadow Hills, CA 91040, which is located in the county where the
+service described below occurred.
+On December 18, 2019, I served the following document, a copy of which is
+attached to this Proof of Service:
+Notice to Attorney General
+By first-class mail by enclosing it in an envelope and depositing the sealed envelope with
+the United States Postal Service, with postage fully prepaid, addressed as follows:
+
+Office of the Attorney General
+300 South Spring Street
+Los Angeles, CA 90013-1230
+
+I certify and declare under penalty of perjury under the laws of the State of
+California that the foregoing is true and correct.
+
+Date: December 18, 2019 B)Waleskl
+RECEIVEU 2019 DEC 23 PMII: 0 ATTORNEY GENERAL LOS ANGELES Benita Wallraff
+
+3e DECEIVEN JAN 2 3 2020
+
+F 3 d BY:___..c._.----
+
+E E BNIA/3038 DNI13X000 s/.13 (50
+14 & S3730NV S0T
+330 610Z 3 IN8OLIV 1V3N3D AGNMOLIV
+8Z & Wd CZ 330 610Z
+ONIOBANO 9NI13X30C
+
+PROOF OF SERVICE

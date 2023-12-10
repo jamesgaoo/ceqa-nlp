@@ -1,0 +1,1400 @@
+1 Michael W. Stamp, State Bar No. 72785 Molly Erickson, State Bar No. 253198 2 STAMP| ERICKSON 479 Pacific Street, Suite One 3 Monterey, CA 93940 Telephone: (831) 373-1214 4 Facsimile: (831) 373-0242
+
+5 Attorneys for Petitioner
+
+6 Keep Fort Ord Wild
+
+7 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+8 COUNTY OF MONTEREY
+
+10 KEEP FORT ORD WILD, Case No. 18CV000883
+Filed March 9, 2018
+Petitioner,
+11
+V.
+12 NOTICE TO CALIFORNIA ATTORNEY
+
+MARINA COAST WATER DISTRICT, GENERAL
+13 MARINA COAST WATER DISTRICT
+BOARD OF DIRECTORS, and DOES
+14 1-25,
+
+15 Respondents.
+
+16
+
+17 To the Attorney General of the State of California:
+
+18 PLEASE TAKE NOTICE, under Public Resources Code section 21167.7 and
+
+19 Code of Civil Procedure section 388, that on March 9, 2018, Keep Fort Ord Wild filed a
+
+20 petition for writ of mandate against the Marina Coast Water District, Marina Coast
+
+21 Water District Board of Directors, and Does 1-25 in the Superior Court of California,
+
+22 County of Monterey.
+
+23 The petition is filed under the California Environmental Quality Act (CEQA, Pub.
+
+24 Resources Code, § 21000 et seq.). The petition challenges the actions by the Marina
+
+25 Coast Water District and its board of directors purportedly to approve a project to
+
+26 annex territory and amend its sphere of influence primarily in the former Fort Ord, and
+
+27 take other related actions, on the basis of various environmental documents and
+
+28 claims including a mitigated negative declaration, multiple claims of exemption, and a
+
+1
+KEEP FORT ORD WILD V. MARINA COAST WATER DISTRICT NOTICE TO ATTORNEY GENERAL
+CASE No. 18CV000883.
+
+1 claim that the annexation and sphere of influence amendment project is not a project
+2 under CEQA. The petition alleges the approvals did not comply with CEQA, and
+3 significant unanalyzed and unmitigated environmental harm would result.
+
+4 A copy of the filed petition is attached to this notice.
+
+5 Respectfully submitted,
+6 Dated: March 13, 2018 STAMP | ERICKSON
+7
+
+8 MolL L
+9 Michael W. Stamp
+10 Molly Erickson
+
+11 Attorneys for Petitioner
+
+12 Keep Fort Ord Wild
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+2
+KEEP FORT ORD WILD V. MARINA COAST WATER DISTRICT NOTICE TO ATTORNEY GENERAL
+CASE No. 18CV000883
+
+ELECTRONICALLY FILED BY
+Superior Court of California,
+Michael W. Stamp, State Bar No. 72785 County of Monterey
+Molly Erickson, State Bar No. 253198 On 3/9/2018 3:46 PM
+2 STAMP ERICKSON By: Janet Nicholson, Deputy 479 Pacific Street, Suite One
+3 Monterey, CA 93940 Telephone: (831) 373-1214 Facsimile: (831) 373-0242
+
+5 Attorneys for Petitioner Keep Fort Ord Wild 6
+
+7 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+8 COUNTY OF MONTEREY
+
+9
+
+10 KEEP FORT ORD WILD, Case No. 18CV000883
+
+Petitioner,
+11
+V. PETITION FOR WRIT OF MANDATE 12
+MARINA COAST WATER DISTRICT, (California Environmental Quality Act
+13 MARINA COAST WATER DISTRICT BOARD OF DIRECTORS, and DOES 1- [CEQA], Pub. Resources Code, § 21000
+
+14 25, et seq.)
+
+15 Respondents.
+
+16
+
+17 Petitioner KEEP FORT ORD WILD alleges as follows:
+Overview 18
+1 .
+19 This case is brought under the California Environmental Quality Act
+
+20 (CEQA; Pub. Resources Code § 21000 et seq.) and other laws. It challenges the
+
+21 failure of Marina Coast Water District (Marina Coast) to comply with CEQA when the
+
+22 board of directors purportedly approved an annexation project in reliance on an
+
+23 inadequate negative declaration, inapplicable exemptions, and a claim that the a
+
+24 annexation is not a project under CEQA.
+
+25 Background on Finite and Limited Groundwater Supply in Marina and Fort Ord.
+2.
+26 Marina Coast is the water provider for the City of Marina and Fort Ord.
+
+27 For years, Marina Coast has relied upon the Deep Aquifer as the source of most if not
+
+28 all of the water it provides to its customers. The Deep Aquifer is a small and finite
+
+KEEP FORT ORD WILD V. MARINA COAST WATER DISTRICT PETITION FOR WRIT OF MANDATE
+(CEQA)
+
+1 source of ancient water that is tens of thousands of years old, as stated in the 2003
+
+2 WRIME Deep Aquifer Investigative Study and as Marina Coast has acknowledged in its
+
+3 2015 Urban Water Management Plan. The age of the water shows that the aquifer is
+
+4 not being actively recharged. Thus, all pumping decreases the amount of remaining
+
+5 water in the aquifer, and the decrease is not being offset with appreciable recharge.
+
+6 That pumping is sometimes called "mining" water. Once the Deep Aquifer water is
+
+7 gone, it is gone. Overdraft pumping or mining is not sustainable. The Deep Aquifer is
+
+8 a not a sustainable source of water supply.
+
+9 3. Several years ago Keep Fort Ord Wild went to extraordinary lengths to
+10 uncover records about the Deep Aquifer through repeated requests under the
+11 California Public Records Act. The records produced included the 2003 WRIME study.
+12 Marina Coast had not publicized the WRIME study, had not posted it on its website, it
+13 and had not revealed its contents to the public. Marina Coast had not given the Deep
+
+14 Aquifer study to the Fort Ord Reuse Authority (FORA), and FORA had never asked for
+15 it or referred to it. Since the time that Keep Fort Ord Wild obtained the WRIME study
+16 from Marina Coast, the issues around the Deep Aquifer have become more widely
+17 known, largely through KFOW's efforts.
+
+18 4. Marina Coast has no reasoned estimate of how much water remains in
+
+19 the Deep Aquifer. The WRIME study shows that the amount of water in the Deep
+
+20 Aquifer is "small." It is not disputed that the Deep Aquifer is susceptible to seawater
+21 intrusion, including from wells into the Deep Aquifer that enable leakage from the
+22 contaminated upper aquifers. According to the WRIME study, increased pumping of
+23 the Deep Aquifer would be expected to increase the rate of seawater intrusion in the
+
+24 middle and upper aquifers.
+
+25 5. Marina Coast in its 2015 Urban Water Management Plan claims that
+26 "MCWD is currently the only significant user of the Deep Aquifer" but that claim does
+
+27 not reflect current information. In the last few years, additional wells have been drilled
+
+28 into the Deep Aquifer in Marina Coast Water District's existing sphere of influence.
+
+2
+KEEP FORT ORD WILD V. MARINA COAST WATER DISTRICT PETITION FOR WRIT OF MANDATE
+(CEQA)
+
+1 Those wells pump an unknown large amount of water every year - thousands of acre
+2 feet - to irrigate berry fields newly developed on former non-irrigated grazing lands in
+3 the Armstrong Ranch area. This places an additional demand on the limited and finite
+
+4 water Deep Aquifer supply. Marina Coast has not researched the amount of Deep
+
+5 Aquifer water being pumped by those additional pumpers. The new wells overlie areas
+
+6 of known severe seawater intrusion. The new wells are located geographically close to
+7 Marina Coast's wells, especially to wells 10, 11 and 12. Attached as Exhibit A to this
+
+8 petition is an excerpt from the October 2017 report by Monterey County Water
+
+9 Resources Agency showing the wells in the Deep Aquifer as of August 1, 2017.
+
+10 6. Attached as Exhibit B to this petition is Figure 2.2 from Marina Coast's
+11 2015 Urban Water Management Plan. Exhibit B shows the location of Marina Coast's
+12 wells. The Armstrong Ranch wells are in the pale blue sphere of influence immediately
+13 north of Marina Coast's well 12. Marina Coast has drilled its wells farther and farther
+
+14 inland as seawater intrusion has worsened. The seawater intrusion front continues to
+15 migrate inland in the vicinity of Marina and the Ord Community.
+16 7. Attached as collective Exhibit C to this petition are the most recent maps
+17 from Monterey County Water Resource Agency as to the seawater intrusion in the 180-
+18 foot and 400-foot aquifers based on 2015 data. New and more current seawater
+19 intrusion maps based on 2017 data are due to be released at any time by Monterey
+20 County Water Resource Agency.
+
+21 8. Marina Coast's own pumping records show that all of its current pumping
+22 is from the Deep Aquifer. Attached as Exhibit D is a March 1, 2018 statement by
+
+23 Marina Coast of the depths of its current wells. The screening depths are the depth of
+24 the water supply that is being pumped. Exhibit D shows that Marina Coast's wells are
+25 accessing the water supply in the Deep Aquifer. Exhibit D shows that Marina Coast's
+
+26 pumping is from a depth greater than 400 feet below ground. Exhibit D shows that
+27 Marina Coast's position is that two of its wells' pump depths are "unk[n]own."
+28 9. According to the certified Fort Ord Reuse Plan environmental documents,
+
+3
+KEEP FORT ORD WILD V. MARINA COAST WATER DISTRICT PETITION FOR WRIT OF MANDATE
+(CEQA)
+
+1 Future development on Fort Ord reflects the need to
+2 withdraw only an amount of water through Fort Ord wells
+
+3 which would result in a safe yield extraction from the Basin.
+For the purposes of this EIR, a "safe yield" water supply
+4 pertaining to Fort Ord is water extracted from the aquifers
+
+5 (180-foot, 400-foot and 900-foot) which will result in the
+
+6 1997 chloride contour lines (not yet determined) remaining
+stable and not moving further inland relative to the 1997
+7 conditions.
+
+8 (Fort Ord Reuse Plan Final Program EIR, Volume II, 1997.) However, as the seawater
+9 intrusion maps show, the chloride contour lines in Marina and Fort Ord have not
+
+10 remained stable and instead have moved significantly further inland relative to 1997
+
+11 conditions. (See Exh. C to this petition.)
+
+12 10. One scientific study has stated as follows: "If the water resources of the
+
+13 deep-aquifer system are to be further developed, the extent and characteristics of
+
+14 these resources will need to be better defined. This may require the installation of a
+
+15 network of additional multiple-well monitoring sites as has been completed in many
+
+16 other coastal aquifer systems in California. This type of network would allow the
+
+17 collection of water-level and water-chemistry data through time to help assess the
+
+18 effects of development on the water resources of the coastal aquifer systems in the
+
+19 Salinas Valley." (Geohydrology of a Deep-Aquifer System Monitoring-Well Site at
+20 Marina, Monterey County, California, U.S. Geological Survey, 2002, p. 34.) Marina
+
+21 Coast has not installed a network of monitoring sites or taken other steps to adequately
+
+22 monitor the Deep Aquifer resources.
+
+23 11. According to Marina Coast's 2015 Urban Water Management Plan, its
+
+24 wells numbered 10, 11, 12 and 34 are in the Deep Aquifer. According to Marina Coast,
+
+25 these wells produce groundwater from depths of 705' to 1960,' and their pump levels
+
+26 are at depths of 480', 520', 500', and 460' respectively. (See Exhibit D to this petition.)
+
+27 Keep Fort Ord Wild alleges that the other productive Marina Coast wells, numbers 30
+
+28 and 35 (35 is also known as Watkins Gate), produce groundwater from depths of up to
+
+4
+KEEP FORT ORD WILD V. MARINA COAST WATER DISTRICT PETITION FOR WRIT OF MANDATE
+(CEQA)
+
+535' and 648', respectively, with pump levels of 410' and 502.' Thus, the Watkins Gate
+2 well pump level of 502' is 22' below the pump levels of wells 10, 12, and 34, and
+3 Marina Coast acknowledges that wells 10, 12 and 34 are extracting from the Deep
+4 Aquifer.
+
+5 12. Marina Coast claims its pumping other than from the Deep Aquifer is from
+6 the heavily overdrafted 400-foot aquifer in the Salinas Valley. To the extent that is true,
+7 that source of supply is also at extreme risk. The 400-foot aquifer suffers from
+8 seawater intrusion for more than six miles inland from the coast.
+
+9 13. Marina Coast's actions show a policy and procedure that Marina Coast
+10 intends to pump the Deep Aquifer until it is gone. Marina Coast has no currently
+11  available backup source of potable water. Marina Coast has no alternative supply in
+12 the likely and foreseeable event that the supply from the Deep Aquifer and/or the 400-
+13 foot Aquifer is reduced, runs dry, or becomes contaminated by saltwater or from
+14 another source. In the meantime, Marina Coast continues to pump and provide water
+15 to existing customers and new customers.
+
+16 14. The Fort Ord Reuse Plan is based on 1983 seawater intrusion
+17 information. (Fort Ord Reuse Plan Final Program EIR, Volume II, 1997, p. 28.) Since
+18 the Reuse Plan was adopted in 1997, neither Marina Coast nor the Fort Ord Reuse
+19 Authority has updated the Reuse Plan's development proposals. Thus, the Reuse Plan
+20| does not reflect the information about the Deep Aquifer revealed in 2003 or the steadily
+21 increasing saltwater intrusion into the groundwater supply.
+22 15. Based on information and belief, KFOW alleges that no environmental
+23 review of the impacts of cumulative water demands of Marina and Fort Ord on the
+24 Deep Aquifer is contemplated by Marina Coast or any other agency. For the
+25 foreseeable future there is no source of potable water supply for Marina and Fort Ord
+26 other than the Deep Aquifer. No other potable supplies for Fort Ord have final
+27 environmental review or are funded. It is not foreseeable that any other potable supply
+28
+
+5
+KEEP FORT ORD WILD V. MARINA COAST WATER DISTRICT PETITION FOR WRIT OF MANDATE
+(CEQA)
+
+1 for Fort Ord and/or Marina will be online and producing by the time the contemplated
+2 development is approved and constructed in Fort Ord and/or Marina.
+
+3 16. In approximately October 2017, the Monterey County Water Resources
+
+4 Agency a scientists recommended a moratorium on new wells in the Deep Aquifer and
+
+5 new wells in the 400-foot aquifer near to the seawater intrusion front because of the
+
+6 agency's concerns regarding seawater intrusion and harm to the Deep Aquifer.
+
+7 Keep Fort Ord Wild
+
+8 17. Petitioner Keep Fort Ord Wild (KFOW) is an unincorporated association
+
+9 under California law. Petitioner and its members are beneficially interested in the
+10 enforcement and application of public interest laws, open government laws,
+11 environmental laws and laws assuring public disclosure and responsible decision
+12 making by local governments. Petitioner and its members are beneficially interested in
+13 the way and manner that water and land use decisions are made and in the
+14 environmental consequences and effects of pumping water supply for development in
+15 Fort Ord and Marina, including the impacts of the development pursuant to the Reuse
+16 Plan. Petitioner's members live, work, own businesses in, and recreate in Marina,
+
+17 Seaside, Monterey, Del Rey Oaks, the unincorporated County, and Fort Ord. The
+
+18 water policies and water actions of Marina Coast affect the health and safety in these
+
+19 areas.
+
+20 18. Members of Keep Fort Ord Wild have been active in Fort Ord issues for
+
+21 several years. Keep Fort Ord Wild through its counsel and its members regularly
+22 participate in public meetings of the Marina Coast Water District, the Fort ord Reuse
+23 Authority, the City of Seaside, the City of Marina, the County of Monterey, the
+24 Monterey County Board of Supervisors Fort Ord Committee, and more. KFOW
+25 successfully brought a California Public Records Act lawsuit that forced FORA to
+
+26 produce an insurance policy for which FORA had paid more than $100 million. KFOW
+27 successfully brought a CEQA lawsuit that forced FORA to rescind its approval of a
+
+28 contract regarding a specific alignment of the proposed new Eastside Parkway.
+
+6
+KEEP FORT ORD WILD V. MARINA COAST WATER DISTRICT PETITION FOR WRIT OF MANDATE
+(CEQA)
+
+1 KFOW's lawsuit against the City of Seaside resulted in the decertification of the EIR for
+
+2 the Monterey Downs project, a mega-development proposed for Fort Ord with
+3 significant and inadequately studied impacts on water supply. KFOW has also
+
+4 participated in several other material matters relating to Fort Ord, environmental
+
+5 impacts, and planning.
+
+6 19. Petitioner and others have brought the issues raised in this petition to the
+
+7 attention of the Marina Coast Water District board of directors and district counsel.
+
+8 Petitioner has asked for relief. These requests include personal appearances and
+
+9 letters by KFOW representatives and KFOW counsel. Marina Coast has not
+
+10 responded to the requests or remedied the harms and violations identified by this
+
+11 petition, causing significant impacts to Petitioner and its members. Petitioner has given
+
+12 Marina Coast repeated invitations to meet, and Marina Coast has not responded to any
+13 of them. Petitioner standing in this action, and has exhausted all administrative
+14 remedies reasonably and legally available to Petitioner. This action is timely brought.
+
+15 Marina Coast Water District.
+
+16 20. Petitioner is informed and believes and on that basis alleges that
+
+17 respondent Marina Coast Water District is a public agency organized and operating
+
+18 under California law including the County Water District Law codified at Division 12,
+
+19 section 30000 and following of the California Water Code. Respondent has a
+20 five-member Board of Directors elected by voters in the Marina area. Respondent is
+
+21 subject to the California Environmental Quality Act (CEQA).
+
+22 21. Respondent Marina Coast Water District Board of Directors is the
+23 governing body of the water district. The board has five members who are directly
+
+24 elected. The two respondents are collectively referred to in this petition at times as
+
+25 Marina Coast or Respondents.
+
+26 22. Marina Coast is the water purveyor and provider for the City of Marina
+27 and for Fort Ord. Fort Ord is a former United States Army base adjacent to cities of
+
+28 Marina, Seaside, Del Rey Oaks, and Monterey. The Fort Ord military base closed in
+
+7
+KEEP FORT ORD WILD V. MARINA COAST WATER DISTRICT PETITION FOR WRIT OF MANDATE
+(CEQA)
+
+1 1994, at which time the Department of Defense transferred land to governmental
+
+2 entities and other entities. (Gov. Code, § 67650 et seq.)
+
+3 23. it Marina Coast has argued it has a contract with the Fort Ord Reuse
+
+4 Authority to provide water to land on Fort Ord. However, no environmental analysis
+
+5 has been performed on that contract or the provision of water by Marina Coast to Fort
+
+6 Ord pursuant to the contract.
+
+7 24. Marina Coast Water District has taken the position that it is the lead
+
+8 agency under CEQA for this annexation project that Marina Coast proposes to carry
+
+9 out. The Local Agency Formation Commission of Monterey County (LAFCo) has taken
+
+10 the position that it is a responsible agency under CEQA for the project. The LAFCo
+
+11 board of directors has not considered or acted upon the project.
+
+12 Does
+
+13 25. Keep Fort Ord Wild currently does not know the true names of DOES
+
+14 1-25, who may have some interest in the action such that they may be respondents or
+
+15 real parties, and therefore names them by such fictitious names. Keep Fort Ord Wild
+16 will seek leave from the court to amend this petition to reflect the true names and
+
+17 capacities of DOES 1-25 inclusive once ascertained.
+
+18 The Project at Issue in this Petition: Annexation and Sphere of Influence Amendment.
+
+19 26. 2011 Effort: In 2011, Marina Coast Water District considered a service
+
+20 area annexation and sphere of influence amendment. Marina Coast prepared a CEQA
+21 document -- a draft initial study/negative declaration - which considered expanding the
+
+22 service area to include all of the former Fort Ord. Marina Coast proposed to annex all
+
+23 Fort Ord land, including the permanent open space lands and habitat areas, and
+24 including the area now known as the Fort Ord National Monument. Marina Coast
+
+25 circulated this CEQA document for public review from approximately October 31, 2011
+
+26 through December 15, 2011, and Marina Coast held a public hearing to receive oral
+27 comments on January 10, 2012. Marina Coast received written comments on the
+
+28 CEQA documents from Keep Fort Ord Wild and approximately a dozen other
+
+8
+KEEP FORT ORD WILD V. MARINA COAST WATER DISTRICT PETITION FOR WRIT OF MANDATE
+(CEQA)
+
+1 organizations, individuals and agencies. Based on the comments received, Marina
+
+2 Coast did not pursue its 2011 annexation proposal.
+
+27. 2017 Effort: In 2017, Marina Coast tried again. In December 2017,
+
+4 Marina Coast released a revised CEQA document on a revised proposal for an
+
+5 annexation and sphere of influence amendment. The revised proposal is to annex
+
+6 portions of Fort Ord land, but not all of it. The revised annexation proposal does not
+
+7 include areas of approved and planned future development, such as, for example, the
+
+8 Seaside East development, the Del Rey Oaks developments, and the City of Monterey
+
+9 development areas, to name a few. The revised CEQA document circulated by Marina
+
+10 Coast was an initial study and proposed negative declaration.
+
+11 The January 22, 2018 Marina Coast Water District Board Meeting.
+
+12 28. On January 22, 2018, the Marina Coast board of directors regular
+13 4 meeting agenda included item 9.A, described as follows:
+14 9. Public Hearing
+
+15 A. Public Hearing for the Public Draft Initial Study/Negative
+
+16 Declaration for the Ord Community Sphere of Influence
+Amendment and Annexation
+17
+29. The agenda item description was solely on the CEQA documents -
+18
+
+19 specifically the draft initial study and proposed negative declaration. The agenda item
+
+20 did not mention project approval as an action item.
+30.
+21 At its January 22, 2018 meeting, the board took action later reported by
+Marina Coast as follows: "Following the public hearing the Board directed staff to
+22
+prepare written responses to public comments before considering taking further action
+23
+on the Public Draft IS/ND." (Feb. 20, 2018 Marina Coast staff report, item 10.A.)
+24 The February 20, 2018 Marina Coast Water District Board Meeting.
+25
+31.
+26 The February 20, 2018 Marina Coast board meeting agenda item 10.A
+was as follows:
+27
+A.
+28 Consider Adoption of Resolution No. 2018-09 to Adopt the Public
+Draft Initial Study/Negative Declaration for the Ord Community
+
+9
+KEEP FORT ORD WILD V. MARINA COAST WATER DISTRICT PETITION FOR WRIT OF MANDATE
+(CEQA)
+
+1 Sphere of Influence Amendment and Annexation; Find that the Ord
+
+2 Community Sphere of Influence Amendment and Annexation is not
+subject to CEQA and is exempt from CEQA under CEQA 3 Guidelines sections 15301 (Existing Facilities), 15319
+4 (Annexations of Existing Facilities and Lots for Exempt Facilities),
+5 and 15061, subd. (b)(3) (the "common sense" exemption); and
+Direct Staff to File an Application with the Local Agency Formation 6 Commission
+7 Action: The Board of Directors will consider adopting the Public
+8 Draft Initial Study/Negative Declaration for the Ord Community
+
+9 Sphere of Influence Amendment and Annexation find that the Ord
+Community Sphere of Influence Amendment and Annexation is not
+10 subject to CEQA and is exempt from CEQA under CEQA
+11 Guidelines sections 15301 (Existing Facilities), 15319
+
+12 (Annexations of Existing Facilities and Lots for Exempt Facilities),
+
+13 and 15061, subd. (b)(3) (the "common sense" exemption); and
+direct staff to file an application with the Local Agency Formation
+14 Commission.
+
+15 32. The February 20, 2018 agenda item did not describe any action to
+
+16 approve the annexation project. The agenda item did not describe any changes to the
+
+17 project description.
+
+18 33. At the February 20, 2018 Board meeting, KFOW's legal counsel spoke
+
+19 publicly on the record to the board, its general manager, and district counsel. KFOW
+
+20 spoke in opposition to the proposed project approval. KFOW also provided written
+
+21 materials providing argument and evidence as to the annexation. The KFOW letter
+
+22 also offered to meet with Marina Coast to resolve the controversies, and pointed out
+
+23 that Marina Coast controls the calendar, not KFOW. KFOW pointed out that the
+
+24 approval of the project was not on the agenda and thus the project could not be
+
+25 approved legally at the meeting. KFOW provided copies of the letter for each of the
+
+26 board members and district counsel. Later that evening, the board purported to
+
+27 approve the project by approving a resolution.
+
+28
+
+10
+KEEP FORT ORD WILD V. MARINA COAST WATER DISTRICT PETITION FOR WRIT OF MANDATE
+(CEQA)
+
+34. It is not clear what project the board "approved." There were numerous
+2 last-minute changes to the project description that were different from the project
+description in the circulated environmental document. The changes were not clearly
+
+4 and adequately stated by Marina Coast, and thus KFOW and others were not able to
+
+5 evaluate the potential environmental impacts of the changes.
+
+6 The February 21, 2018 Notice of Determination and Notice of Exemption.
+
+7 35. On February 21, 2018, Marina Coast Water District filed with the County
+
+8 Recorder a CEQA Notice of Exemption and a CEQA Notice of Determination. On each
+
+9 of the filed notices, the "Project title" is described by Marina Coast as "Ord Community
+
+10 Sphere of Influence Amendment and Annexation." The two notices appear to be
+
+11 designed to trigger the CEQA statutes of limitations in which litigation must be filed.
+
+12 The statutes of limitations have short time frames.
+13 36. A notice of determination is properly filed by an agency "after deciding to
+14 carry our or approve the project." (CEQA Guidelines, § 15075, subd. § (a), italics
+
+15 added.) Similarly, a notice of exemption is properly filed after the project has been
+16 approved. "When a public agency decides a that a project is exempt from CEQA ... , the
+17 agency may file a notice of exemption. The notice shall be filed, if at all, after approval
+18 of the project." (CEQA Guidelines, § 15062, subd. (a), italics added.) "A notice of
+19 exemption may be filled out and may accompany the project application through the
+20 approval process" but it "shall not be filed ... until the project has been approved." (Id.
+21 at subd. (b), italics added; see CEQA Guidelines, § 15061, subd. (d).) (San Lorenzo
+
+22 Valley Community Advocates for Responsible Education v. San Lorenzo Valley Unified
+23 School District (2006) 139 Cal.App.4th 1356, 1374.) By filing the notice of
+
+24 determination and the notice of exemption, Marina Coast has indicated its position that
+
+25 it has approved a project.
+
+26
+
+27
+
+28
+
+11
+KEEP FORT ORD WILD V. MARINA COAST WATER DISTRICT PETITION FOR WRIT OF MANDATE
+(CEQA)
+
+1 The February 20, 2018 Action by Marina Coast Was a Project Approval.
+
+2 37. The CEQA Guidelines define approval as the agency's "earliest
+3 commitment" to a project. (CEQA Guidelines, § 15352, subd. (b), italics added.) Just
+as the CEQA statute requires environmental review before a project's approval, not
+necessarily its final approval (Pub. Resources Code, §§ 21100, 21151), SO the
+
+6 guideline defines "approval" as occurring when the agency first exercises its discretion
+
+7 to approve the project in all or in part, or a execute a contract, or grant financial
+8 assistance, not when the last discretionary decision is made. (CEQA Guidelines,
+
+9 § 15352, subd. (b); Save Tara V. City of West Hollywood (2008) 45 Cal.4th 116, 134.)
+
+10 38. KFOW alleges the February 20, 2018 vote was Marina Coast's first
+
+11 commitment to the project, and Marina Coast was required to comply with CEQA prior
+
+12 to its actions. The actions by Marina Coast board relied on an inadequate
+13 environmental document and on inapplicable CEQA claims of exemption. Marina
+
+14 Coast improperly found that no exceptions to the CEQA exemptions applied, and that
+15 the project was not a project under CEQA. Each action was a prejudicial abuse of a
+
+16 discretion and a failure to proceed in the manner required by law.
+
+17 39. An action to certify or approve an environmental document or
+18 determination is different from an action to approve a project. Each separate action
+
+19 must be stated on an agenda. The Brown Act states that "[n]o action or discussion
+
+20 shall be undertaken on any item not appearing on the posted agenda." (Gov. Code,
+
+21 § 54954.2, subd. (a)(2); see San Joaquin Raptor Rescue Center v. County of Merced
+
+22 (2013) 216 Cal.App.4th 1167 1170.) KFOW and its members did not have meaningful
+
+23 or adequate legal notice the Marina Coast Board intended to approve an annexation
+
+24 project. KFOW and its members intended to submit information to Marina Coast for its
+
+25 review prior to project approval, and KFOW and its members were actively gathering
+
+26 its evidence and preparing its arguments to submit, but was not able to do sO
+
+27 adequately or gather all of the pertinent and important evidence before the Marina
+
+28
+
+12
+KEEP FORT ORD WILD V. MARINA COAST WATER DISTRICT PETITION FOR WRIT OF MANDATE
+(CEQA)
+
+Coast board acted illegally. Thus KFOW has been materially prejudiced by the Board's
+
+2 action to approve the project without first complying with the Brown Act.
+40. The Brown Act, also known as the California open meeting law, has a
+
+4 clear and forcefully stated purpose: "In enacting this chapter, the Legislature finds and
+
+5 declares that the public commissions, boards and councils and the other public
+
+6 agencies in this State exist to aid in the conduct of the people's business. It is the
+7 intent of the law that their actions be taken openly and that their deliberations be
+8 conducted openly. "The people of this State do not yield their sovereignty to the
+9 agencies which serve them. The people, in delegating authority, do not give their
+10 public servants the right to decide what is good for the people to know and what is not
+11 good for them to know. The people insist on remaining informed so that they may
+12 retain control over the instruments they have created." (Gov. Code, § 54950.)
+13 Government Code section 54954 subdivision (a) sets forth the agenda requirements
+14 for regular meetings: "At least 72 hours before a regular meeting, the legislative body
+15 of the local agency, or its designee, shall post an agenda containing a brief general
+16 description of each item of business to be transacted or discussed at the meeting,
+17 including items to be discussed in closed session . . . . No action or discussion shall be
+
+18 undertaken on any item not appearing on the posted agenda . . . ." Government Code
+19 section 54954(b) makes an exception to the general agenda requirements set forth in
+20 section 54954(a); none of the exceptions are applicable here or were claimed by
+21 Marina Coast in any event. The Brown Act agenda requirement "serves to facilitate
+22 public participation in all phases of local government decisionmaking." (San Joaquin
+23 Raptor Rescue Center v. County of Merced (2013) 216 Cal.App.4th 1167, 1176.)
+24 41. Petitioner alleges that Respondents abused their discretion and failed to
+25 proceed in a manner required by law when Respondents approved the project in
+26 reliance on inadequate environmental review, an inadequate negative declaration,
+27 inapplicable exemptions, improper conclusion that no exceptions applied, an improper
+28 conclusion that the annexation is not a project, and failure to provide the notice
+
+13
+KEEP FORT ORD WILD V. MARINA COAST WATER DISTRICT PETITION FOR WRIT OF MANDATE
+(CEQA)
+
+1 required by law. There is a fair argument that an environmental impact report is
+
+2 required. Petitioner alleges that the violations include, inter alia, the illegal
+3 piecemealing of the environmental review by omitting consideration of the cumulative
+
+4 impacts of water pumping in order to serve water to undeveloped areas of Fort Ord that
+
+5 are planned for development and even include approved projects. Cumulative impacts
+
+6 is one of the exceptions that defeat the use of a CEQA exemption.
+
+7 42. To enhance protection of the environment, CEQA defines "project"
+
+8 broadly to encompass "the whole of an action, which has a potential for resulting in
+
+9 either a direct physical change in the environment, or a reasonably foreseeable indirect
+
+10 physical change in the environment." (CEQA Guidelines, § 15378, subds. (a), (c).)
+
+11 The definition precludes "piecemeal review which results from 'chopping a large project
+
+12 into many little ones-each with a minimal potential impact on the environment-which.
+13 cumulatively may have disastrous consequences.'" (Rio Vista Farm Bureau Center v.
+
+14 County of Solano (1992) 5 Cal.App.4th 351, 370, quoting Bozung V. Local Agency
+
+15 Formation Com. (1975) 13 Cal.3d 263, 283-284.)
+
+16 JURISDICTION AND VENUE
+
+17 43. This Court has jurisdiction over this action pursuant to Code of Civil
+18 Procedure sections 1085 (traditional mandate) and 1094.5 (administrative mandate),
+
+19 Public Resources Code sections 21168 and 21168.5 (judicial review under CEQA), and
+20 other law. The Court has jurisdiction to issue injunctive relief pursuant to Code of Civil
+
+21 Procedure section 525 et seq. Venue is proper in this Court in the first instance,
+22 because both the Respondent public agency, Respondent board of directors, and the
+
+23 land at issue in the annexation are located in the County of Monterey.
+
+24 STANDING
+
+25 44. Petitioner a has a direct and beneficial interest in Marina Coast's full and
+26 complete compliance with CEQA and other legal requirements applicable to the project
+
+27 and to the actions of Respondents.
+28
+
+14
+KEEP FORT ORD WILD V. MARINA COAST WATER DISTRICT PETITION FOR WRIT OF MANDATE
+(CEQA)
+
+1 45. Marina Coast has a mandatory duty to comply with CEQA and other legal
+
+2 requirements applicable to the annexation project. Petitioner has a right to enforce
+
+3 these mandatory duties.
+
+4 46: Petitioner has no other plain, speedy and adequate remedy at law, and
+
+5 will suffer irreparable injury unless the Courts grant the relief requested in this petition.
+
+6 47. An actual controversy has arisen and now exists between the Petitioner
+
+7 and Marina Coast relating to the legality of the manner in which Marina Coast has
+
+8 proceeded in approving the project and the CEQA analysis and in proceeding to
+
+9 approve the submittal of the project to Monterey County Local Agency Formation
+10 Commission for approval. Petitioner contends that Marina Coast has violated CEQA
+
+11 and other legal requirements. Petitioner is informed and believes, and based thereon
+12 alleges, that Marina Coast disputes these contentions and contend that Marina Coast's
+13 actions were given in compliance with all such legal requirements.
+14 EXHAUSTION
+
+15 48. Representatives of Keep Fort Ord Wild have raised the issues in this
+16 petition by speaking at public meetings of the Marina Coast Board of Directors and
+17 writing letters to the Marina Coast Board of Directors, pointing out the problems and
+18 offering to meet in an effort to resolve the concerns before the Marina Coast Board
+
+19 acted, and before the Board actions and the Marina Coast filing of the CEQA notices
+20| triggered the short CEQA statutes of limitations.
+21 49. On February 28, 2018 and on March 6, 2018, Keep Fort Ord Wild wrote
+22 letters to Marina Coast asking Marina Coast to cure and correct the Brown Act
+23 violation, and offering to meet with Marina Coast to settle the controversies. On March
+
+24 7. 2018, Keep Fort Ord Wild faxed both previous letters to Marina Coast. Later on
+25 March 7, 2018, Marina Coast published its agenda for what Marina Coast calls a
+26 regular meeting of the Marina Coast Board of Directors on March 12, 2018. The
+
+27 agenda does not include an item to cure and correct the Brown Act violation.
+
+28
+
+15
+KEEP FORT ORD WILD V. MARINA COAST WATER DISTRICT PETITION FOR WRIT OF MANDATE
+(CEQA)
+
+1 50. Petitioner performed all required conditions precedent to filing this action
+
+2 by complying with the requirement of Public Resources Code section 21167.5 by
+
+3 sending the letters described above, and also by on March 8, 2018 providing written
+
+4 notice by email, facsimile and United States Postal Service to the Marina Coast Water
+
+5 District that Keep Fort Ord Wild intended to initiate litigation under CEQA, and sending
+
+6 the same notice again by mail on the morning of March 9, 2018. Proof of service of
+
+7 that notice is incorporated herein as Exhibit E to this petition.
+
+8 51. As of the signing of this petition, Keep Fort Ord Wild has not received a
+
+9 response from Marina Coast and files this petition out of an abundance of caution due
+
+10 to the potential running of the CEQA statutes and the lack of response by Marina Coast
+
+11 to repeated entreaties from Keep Fort Ord Wild.
+
+12 52. This petition timely challenges the February 20, 2018 Marina Coast
+
+13 approvals of the project and the February 21, 2018 filing by Marina Coast of the CEQA
+14 notice of exemption and CEQA notice of determination.
+
+15 INADEQUATE REMEDY AT LAW. STAY/INJUNCTION
+
+16 53. Petitioner seeks a temporary and permanent injunctions and/or stays of
+
+17 the effect of the approvals of the project and activities authorized under the project
+
+18 approvals during the pendency of these proceedings. The injunctive relief sought by
+
+19 Petitioner is intended to avoid harm to the environment. Petitioner and its members
+
+20 will continue to suffer adverse and irreparable environmental harm from Respondents'
+
+21 failure to comply with CEQA and other laws in approving and carrying out the project,
+
+22 as described herein, until and unless this Court provides the relief prayed for in this
+
+23 petition. Petitioner has no plain, speedy or adequate remedy at law for this harm.
+
+24 54. This Court has authority to issue an order to Marina Coast to suspend all
+
+25 project related activities until Marina Coast has fully complied with CEQA and other
+
+26 applicable laws. This Court has authority to issue preliminary relief on a showing of
+
+27 greater harm to Petitioner and likelihood of success on the merits. This Court further
+
+28 has authority to issue temporary or permanent injunctive relief to suspend project
+
+16
+KEEP FORT ORD WILD V. MARINA COAST WATER DISTRICT PETITION FOR WRIT OF MANDATE
+(CEQA)
+
+1 related activities pending compliance with a writ. (Pub. Resources Code, § 21168.9,
+2 subd. (a)(2); Laurel Heights Improvement Ass'n v. Regents of University of California
+
+3 (1988) 47 Cal.3d 376, 424.)
+
+4 PRIVATE ATTORNEY GENERAL
+
+5 55. This proceeding involves enforcement of important rights affecting the
+
+6 public interest. Compliance with the mandatory duties under CEQA helps protect the
+
+7 environment and reduce environmental impacts. This action will convey a substantial
+
+8 benefit on the public and a large class of persons who do not have the resources or
+
+9 ability to bring this lawsuit to vindicate their rights. Issuance of the relief requested in
+
+10 this petition will confer a substantial benefit on the public. Petitioner brings this action
+
+11 as a private attorney general pursuant to Code of Civil Procedure section 1021.5.
+
+12 Petitioner and its members do a not have a substantial financial interest in the subject
+
+13 matter of this petition and Petitioner brings this lawsuit in the public interest.
+14 WHEREFORE, Petitioner prays for entry of judgment as described below.
+15 PRAYER - CALIFORNIA ENVIRONMENTAL QUALITY ACT
+
+16 WHEREFORE, Petitioner prays for relief as follows:
+17 1. A peremptory writ of mandate directing Respondents: (a) to invalidate and
+18 vacate its February 20, 2018 action finding that the project is not a project under
+
+19 CEQA; (b) to invalidate and vacate its February 20, 2018 action finding that the project
+20 is exempt from CEQA; (c) to invalidate and vacate its February 20, 2018 action
+21 adopting an initial study/negative declaration for the project; (d) to invalidate and
+22 vacate its February 20, 2018 action authorizing staff to submit an application for the
+23 Ord Community Sphere of Influence Amendment and Annexation to the Local Agency
+24 Formation Commission of Monterey County until Respondents have taken action
+25 necessary to bring its approval of project into compliance with CEQA; (e) to rescind the
+26 notice of determination and notice of exemption filed on February 21, 2018; (f) to
+27 refrain from taking any action that relies upon any of Respondents' actions of February
+
+28
+
+17
+KEEP FORT ORD WILD V. MARINA COAST WATER DISTRICT PETITION FOR WRIT OF MANDATE
+(CEQA)
+
+1 20, 2018 and February 21, 2018 set forth in this petition; and (g) to comply with CEQA
+
+2 in any subsequent action or actions taken to approve the project.
+
+3 2. Other relief that prevents Respondents' actions, determinations, and
+
+4 approvals for the project from taking effect and/or that requires Respondents to
+5 rescind, modify, or invalidate its actions related to the project:
+
+6 3. Temporary and permanent Injunctive relief.
+
+7 4. An award of attorney fees and costs to Petitioner as permitted by law,
+8 including Code of Civil Procedure section 1021.5 and the catalyst theory.
+
+9 5. Such other and further relief that the Court may consider just and proper and
+
+10 in the interests of justice.
+
+11 Dated: March 9, 2017 STAMP | ERICKSON
+
+12
+
+13 Mella
+14 Michael W. Stamp
+
+15 Molly E. Erickson
+
+16 Attorneys for Petitioner Keep Fort Ord Wild
+
+17
+
+18 Table of Exhibits to Petition
+19 Exhibit A: Monterey County Water Resources Agency map of wells as of August 1,
+20 2017 in the Deep Aquifer, October 2017 report
+21 Exhibit B: Figure 2.2, Marina Coast Urban Water Management Plan, 2015
+22 Exhibit C: Seawater intrusion maps based on 2015 data, Monterey County Water
+23 Resources Agency, published 2017
+24 Exhibit D: Well pumping information produced by Marina Coast Water District, 2018
+25
+Exhibit E:
+26 Proof of service of Keep Fort Ord Wild's letter of intent to initiate litigation
+
+27
+
+28
+
+7 18
+KEEP FORT ORD WILD V. MARINA COAST WATER DISTRICT PETITION FOR: WRIT OF MANDATE
+(CEQA)
+
+VERIFICATION
+; Michael Salemno, declare as follows:
+Iam the authortzed representative of Keep Fort Ord Wild, petitioner in the above
+matter. t have read the petition in this matter, and know the contents thereof. The
+":
+same is true of my own knowledge, except as to matters that are therein alleged on nte
+
+information and belief, and as to those matters, I believe them to be true.
+I declare under penalty of perjury under the laws of the State of Califomia that
+the foregoing is true and correct, and that this Verification was executed this gth day
+of March, 2018, in Marina, California
+
+Michael Salemo
+
+15
+
+20
+21
+22 8N0RN&
+
+KEEP FORT ORD WILD V. MARINA GOAST WATER DISTRICT PETION FOR WRIT OF MÁNDATE (CEQA)
+
+RECOMMENDATIONS
+TO ADDRESS THE
+EXPANSION OF
+SEAWATER INTRUSION
+IN THE SALINAS
+VALLEY
+GROUNDWATER BASIN
+
+Monterey County
+Water Resources Agency
+Special Reports Series 17-01
+
+October 2017 BRE Y CON 47231 SINO NRovad OR
+
+Exhibit A, p. 2 Recommendations to Address the Expansion of Seawater Intrusion in the Salinas Valley Groundwater Basin Section 5
+
+5.2.4 Wells in the Deep Aquifers
+The use of the Deep Aquifers for groundwater production has been driven by the need to drill deeper in order to avoid seawater intrusion, with wells being installed to subsequently deeper elevations with fresh-water-bearing materials (Feeney and Rosenberg, 2003). Most available hydrogeologic data on the Deep Aquifers have been obtained through well drilling activities and related well or aquifer testing rather than through an intentional aquifer-wide study. Wells of all types have been installed in the Deep Aquifers, including production wells for agricultural purposes; domestic, industrial, and municipal water supply wells; and monitoring wells.
+
+Déep Aquiter Wells (33)
+2015 Chlbride Lines  500 mq/L)
+Pressure 180 Eoot Aquifer Seawafer Intrusion Extent
+I Pressure 400-Foot Aquifer Seawater Intrusion Extent
+
+e/ MOWRA ale: 323/2017:
+
+Figure.18- Welis in the Deep Aquifers
+5.2.5 Well Installation History in the Deep Aquifers
+The first production well in the Deep Aquifers was installed in 1974. As of August 1, 2017, a total of 41 wells have been installed in the Deep Aquifers: 33 production wells and & monitoring wells (Figure 19). One of the production wells was destroyed in 2004, so 40 wells remain in the Deep Aquifers at present. Of the 32 existing production wells, 18 are agricultural wells, 7 are municipal wells, 3 are residential wells, 3 are industrial wells, and one has an unknown usage.
+Well Completion Reports for wells in the Deep Aquifers are provided in Appendix E and a table detailing installation dates, depths, and well types for the Deep Aquifers can be found in Appendix F.
+
+47
+Exhibit A, p. 2.
+
+Exhibit B. p. 1
+Marina Coast Water District 2015 Urban Water Management Plan
+
+Figure 2.2 MCWD Service Areas
+
+Legend:
+MCWD Service Area - Contral Marina
+MCWD Service Area - Ord Community
+MCWD Sphere of Influence
+Ord Deyelopnient Parcels
+Habitat/Open Space/Parkland
+Municipal Boundary
+
+Well 12
+
+Well 30
+
+Well 31
+
+Well 29g •Well 34
+
+Well 35
+
+Exhibit B, p. 1
+6/6/2016
+
+1975
+1993 1995
+
+1993 CASTROVILLE
+
+1995 2009
+
+1997 2015
+
+1993 2005
+1990 cnn. 2001 2001 201
+MONTEREY® 1995
+BAY 2000
+1985 1993
+
+2005
+
+2015 ROMUARD 2015
+
+2011
+2003 2005
+
+2015
+2001
+
+1990
+
+2005 2015
+
+1975 2007 183'
+
+MARINA
+2015 BLANCO RD SALINAS
+
+RESERVASTIAN BIA DERALION RD DEMSRD
+
+Historic Seawater Intrusion Map
+Pressure 400-Foot Aquifer - 500 mg/L or Greater Chloride Areas
+-Cities M 1993 MR: 2003
+1959 B8A 1995 EN3 2005
+1975 SN 1997 #E 2007
+1985 *SE 1999 2009
+The scale and configuration of a 1990 E.2001 12011/2013 project boundaries and information 12015 ExbibitC.1
+Miles Map Date: 6/7/2017 0.5 1.5 2 Seawater Intruded Areas By Year
+
+1975
+
+1019
+
+CASTROVILLE 2003
+
+1965
+1944
+
+01 MONTEREY
+BAY
+
+2011 ESPINOSARC
+
+1993 2015
+
+1985
+
+2005
+
+2007 2009
+2011
+
+183 1999
+
+SALINAS MARINA
+
+2005 2009 2011
+2007 RESERW ELANCO RB NESERVATIONRE 2015 EIONRO /
+
+SEASIDE
+
+Historic Seawater Intrusion Map Pressure 180-Foot Aquifer - 500 mg/L or Greater Chloride Areas
+-Cities E 1993 SMEN 2005
+1944 EE 1997 2007
+
+The scale and configuration of all 1965 # 1999 2009
+project boundaries and information 2001 2011/2013
+:EabikitCak 1975
+1985 #43 2003 2015
+Miles Map Date: 6/7/2017 0.5 1 1.5 2 * Seawater Intruded Areas By Year
+
+Print
+Exhibit D, p. 1
+
+Subject: RE: request for Marina Coast well information
+
+From: Paula Riso (priso@mcwd.org)
+
+To: erickson@stamplaw.us;
+
+Date: Thursday, March 1, 2018 11:02 AM
+
+Ms. Erickson,
+
+Per your request, please see the attached information regarding the MCWD Wells. There is also more information to be found in 2015 Urban Water Management Plan (see link).
+
+t
+
+Thank you,
+
+Paula
+
+http://www.mcwd.org/docs/engr_files/MCWD_2015_UWMP_Final.pdf
+
+From: Molly Erickson [mailto:erickson@stamplaw.us
+Sent: Monday, February 26, 2018 6:15 PM
+To: Paula Riso <priso@mcwd.org>
+Subject: request for Marina Coast well information
+
+Ms. Riso:
+
+I seek access the information that shows the following current information for each Marina Coast well: Well 10, 11, 12, 29, 30, 31, 34, and 35 (Watkins Gate)
+
+1. The depth that the pump is set.
+
+2. The depths where each well is screened/perforated.
+
+1 of 2 3/6/2018, 2:41 PM
+
+Print
+
+Exhibit D, p. 2
+
+When I asked a similar question before, Marina Coast simply provided the information in an email.
+If Marina Coast can do that again, there is no need for Marina Coast to produce the responsive
+records under the California Public Records Act. Or feel free to send me the records. Please
+contact me if you have any questions about this request. Thank you.
+
+Regards,
+
+Molly
+
+Molly Erickson
+STAMP | ERICKSON
+479 Pacific Street, Suite One
+Monterey, CA 93940
+tel: 831-373-1214, x14
+
+Attachments
+
+• Well Log 10-WG.pdf (171.61KB)
+
+2 of 2
+
+Exhibit D, p. 3
+
+well # Completed Depth Screen Locations Pump Depth
+10 1550' 930'-970' 480'
+990'-1010'
+1040'1080'
+1190'-1210'
+1500-1540'
+
+11 1660' 970'-1100' 520'
+1540'-1570'
+1610'-1650'
+
+12 1970' 1410'1440' 500'
+1500'-1550'
+1680'-1720'
+1800'-1830'
+1850'-1900'
+1920'-1960'
+
+29 557' 315'-535' Unkown
+
+30 552' 315' -405' 410'
+440'-485'
+525'-535'
+
+31 490' 285'-471' Unkown
+
+34 1095' 705'-1085' 460'
+
+Watkins Gate 658' 430'-450' 502'
+460-473'
+548'-563'
+576'-588
+613'-648'
+
+Exhibit E, p. 1
+
+PROOF OF SERVICE
+
+2 STATE OF CALIFORNIA, COUNTY OF MONTEREY
+am employed in the County of Monterey, State of California. I am over the age
+
+4 of 18, and not a party to the within action. My business address is 479 Pacific St., Suite One, Monterey, California 93940. My email address is erickson@stamplaw.us.
+
+5 On March 8, 2018, I served the attached one-page document described as follows:
+6
+LETTER STATING "KEEP FORT ORD WILD NOTICE OF INTENT TO SUE"
+7
+(X) via my email and no error message was received, via facsimile and no error 8 message was received, and via mail through the United States Postal Service as stated below.
+9
+To: Tom Moore <directormoore@mcwd.org>; 10 Emailed to all district
+directors (Moore, Shriner, "directorshriner@mcwd.org"
+11 Gustafson, Lee and Cortez), <directorshriner@mcwd.org> district counsel Roger "hgustafson@outlook.com"
+12 Masuda, and general manager Keith Van der <hgustafson@outlook.com>; "directorlee@mcwd.org" <directorlee@mcwd.org>; 13 Maaten at approximately 4:50 PM on March 8, 2018 "directorcortez@mcwd.org" <directorcortez@mcwd.org> 14 Co: "kvandermaaten@mcwd.org" <kvandermaaten@mcwd.org>;' 15 "rmasuda@calwaterlaw.com"
+<rmasuda@calwaterlaw.com>; 16 Paula Riso <priso@mcwd.org>
+17 Faxed to 831-883-5995 at Facsimile nümber för Marina Coast Water
+approximately 4:50 PM on District 18 March 8, 2018
+19 Mailed on March 8, 2018 by Tom Moore, President delivery to the U.S. Post Board of Directors
+.20 Office and again on the Marina Coast Water District morning of March 9, 2018 out 11 Reservation Road 21 of an abundance of caution Marina CA 93933
+
+22
+
+23 Emailed, faxed and mailed on March 8, 2018, and mailed again on March 9, 2018. Executed on March 9, 2018 at Monterey, California.
+24 declare under penalty of perjury under the laws of the State of California that
+25 the above is true and correct.
+
+26
+*-• m- 27 Molly Erickson
+28
+Exhibit E, p. 1
+KEEP FORT ORD WILD V. MARINA COAST WATER DISTRICT PROOF OF SERVIGE
+OF NOTICE ÓF INTENT TO SUE •.- w*
+
+Exhibit E, p. 2
+
+Michael W. Stamp 479 Pacific Street, Suite One
+Molly Erickson STAMP | ERICKSON
+Attorneys at Law Monterey, California 93940 T: (831) 373-1214 F: (831) 373-0242
+March 8, 2018
+
+Vía email, U.S. Postal Service, and facsimile to (831) 883-5995
+Tom Moore, President
+Board of Directors
+Marina Coast Water District
+
+Re: Keep Fort Ord Wild notice of intent to sue
+
+Dear Marina Coast Water District President Moore and directors:
+On February 27, 2018, we sent you and your legal counsel a "cure and correct" letter identifying actions taken by Marina Coast on February 20, 2018 that appear to be in violation of the Brown Act. On March 6, 2018, we sent you and your legal counsel a follow up letter. On March 7, 2018, we faxed you the two letters. We have not heard back from you on any of these. Since then, Marina Coast has released its agenda for its regular board meeting on March 12, 2018. The agenda does not include an item that would cure and correct the Brown Act violations.
+
+The Brown Act violations by Marina Coast led to the filing on February 21, 2018 by Marina Coast of a CEQA notice of determination and a CEQA notice of exemption. The filing of those notices potentially started the running of short CEQA statutes of limitations. Again, the CEQA filings were based on Marina Coast actions taken in violation of the Brown Act, which may invalidate or void the actions taken thus far. The CEQA and Brown Act issues are intertwined.
+This is written notice that Keep Fort Ord Wild intends to file a petition under the California Environmental Quality Act and other laws to challenge the actions of the Marina Coast Water District Board of Directors on February 20, 2018 to approve an annexation project in reliance on a negative declaration, exemptions, and a claim that the project was not a project under CEQA. (See Pub. Resources Code, § 21167.5.)
+Once again, we offer to meet with you in an effort to settle these controversies. Please let us know if you would like to meet. Thank you.
+Very truly yours,
+STAMP ERICKSON Muy Qk Molly Erickson
+CC by email; Marina Coast Water District counsel and general manager LAFCo Monterey County Exhibit E, p. 2
+
+1 PROOF OF SERVICE
+
+2 STATE OF CALIFORNIA, COUNTY OF MONTEREY
+
+3 am employed in the County of Monterey, State of California. I am over the age
+
+4 of 18, and not a party to the within action. My business address is 479 Pacific St., Suite One, Monterey, California 93940. My email address is erickson@stamplaw.us.
+
+5 On March 13, 2018, I served the attached document described as follows:
+
+6 NOTICE TO CALIFORNIA ATTORNEY GENERAL
+
+7 with the filed Petition for Writ of Mandate stapled to the notice
+X)
+8 on the Attorney General in this action as follows: by attaching to the notice a complete copy of the filed petition and placing a true copy thereof enclosed in a
+9 sealed envelope with first class postage fully prepaid and addressed as shown below, and depositing it with the United States Postal Service.
+
+10 Addressed as follows:
+
+11 Xavier Becerra
+
+12 Sally Magnani Office of the Attorney General 1300 "I" Street
+13 Sacramento, CA 95814-2919
+
+14
+
+15 Mailed and executed on March 13, 2018, at Monterey, California.
+
+16 declare under penalty of perjury under the laws of the State of California that the above is true and correct.
+17
+
+18 1LL, Q
+19 Molly Erickson
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+KEEP FORT ORD WILD V. MARINA COAST WATER DISTRICT NOTICE TO ATTORNEY GENERAL
+CASE No. 18CV000883
+
+RECEIVED ATTORNEY GENERAL
+2018 MAR 15 AM lg: 06
+DEPARTMENT OF JUSTICE SACRAMENTO OFFICE

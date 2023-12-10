@@ -1,0 +1,1655 @@
+MICHAEL B. JACKSON SBN 053808
+
+2 20 Crescent St. / P. O. Box 207
+Quincy, CA 95971
+3 Tel.: (530) 283-1007
+Fax: (530) 283-4999
+4
+Attorney for Plaintiffs and Petitioners
+5 CALIFORNIA SPORTFISHING PROTECTION
+
+6 ALLIANCE, CALIFORNIA WATER IMPACT NETWORK, and AQUALLIANCE
+7
+
+8
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+10 FOR THE COUNTY OF SACRAMENTO
+11
+
+12 CALIFORNIA SPORTFISHING
+PROTECTION ALLIANCE, No.
+13 CALIFORNIA WATER IMPACT
+NETWORK, and AQUALLIANCE, VERIFIED PETITION FOR WRIT OF
+14 MANDATE AND COMPLAINT FOR
+
+15 Petitioners and Plaintiffs DECLARATORY AND INJUNCTIVE RELIEF, and for ATTORNEYS' FEES
+
+16 VS.
+
+17 STATE WATER RESOURCES CONTROL BOARD, and DOES 1 through
+18 20,
+
+19 Respondents and Defendants,
+
+20 DOES 21 through 200,
+
+21 Real Parties in Interest
+
+22
+
+23 Petitioners and Plaintiffs California Sportfishing Protection Alliance, California Water
+24 Impact Network, and AquAlliance [collectively 'Petitioners'] hereby petition the Court for a writ
+25 of mandate against Respondent and Defendant State Water Resources Control Board [the 'Board']
+26 and by this Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive
+27 Relief and for Attorneys' Fees ['Verified Petition'] hereby allege as follows:
+28
+
+Verified Petition for Writ of Mandate & Complaint Page
+
+1 INTRODUCTION
+2 1. This is a public interest citizen suit to enforce the California Environmental Quality
+3 Act, Public Resources Code [PRC] section 21000 et seq. [CEQA], the federal Clean Water Act,
+4
+33 U.S.C. section 1251 et seq., the Porter-Cologne Water Quality Control Act, Water Code
+5 section 13000 et seq. [the 'Porter-Cologne Act'], and the Public Trust Doctrine. Petitioners bring
+6 this action to challenge the Board's decision to approve the Final Substitute Environmental
+7 Document ['SED'] and approval of the San Joaquin River and South Delta Water Quality Bay-
+8 Delta Plan Amendments to the Water Quality Control Plan for the San Francisco Bay
+9 Sacramento-San Joaquin Delta Estuary [the 'Project'] through its adoption of Resolution 2018-
+10 0059. In taking these actions the Board violated CEQA, the Clean Water Act, the Porter-Cologne
+11 Act, and the Public Trust Doctrine.
+12
+2. CEQA is California's preeminent environmental law. It requires all public agencies to
+13 examine the potential adverse impacts of their actions before taking them. It is designed to
+14 protect California's extraordinary environmental resources from uninformed and needlessly
+15
+destructive agency actions.
+16 3. CEQA requires the Board to fully examine the impacts of its actions and to carefully
+17
+consider alternatives and mitigation measures that would reduce those impacts. "[I]f there are
+18 feasible alternatives or feasible mitigation measures available which would substantially lessen
+19 the significant environmental effects" of a project, then CEQA mandates that the Board cannot
+20 approve the project. PRC § 21002.
+21 4. The Clean Water Act, the Porter-Cologne Act, and the Public Trust Doctrine require
+22 the Board to identify beneficial uses of navigable waters, including those dependent on public
+23 trust resources, and to establish and achieve the water quality standards necessary to protect them.
+24 5. The Board improperly approved the Project without adequately examining the
+25 environmental impacts of doing so, without studying a reasonable range of alternatives, without
+26 adequately protecting public trust resources and uses, and without compliance with state and
+27 federal laws protecting the San Joaquin River, the South Delta, and their tributaries, including
+28
+Verified Petition for Writ of Mandate & Complaint 2
+
+L their public trust resources and uses.
+2 VENUE AND JURISDICTION
+3
+v 6. This Court has jurisdiction over this proceeding pursuant to Code of Civil Procedure
+
+5 ['CCP'] sections 526 (injunctive relief), 1060 (declaratory relief), and 1085 (traditional
+mandamus); PRC sections 21168 and 21168.5 (mandamus review); and article VI, section 10 of
+6 the California Constitution.
+7. Venue is proper in this Court pursuant to CCP sections 393 (actions against public
+8 officers) and 395 (actions generally) because the Board's offices are located in Sacramento.
+9 8. Pursuant to CCP section 388, Petitioners are serving the California Attorney General
+10 with a copy of this verified petition and complaint. Consistent with PRC section 21167.5,
+11 Petitioners timely served the Board with notice of this suit.
+12 PARTIES
+13 9. Petitioner California Sportfishing Protection Alliance [CSPA] is a California non-profit
+14 public benefit organization established in 1983, with its principal place of business in Stockton,
+15 California. CSPA's organizational purpose is the protection, preservation and enhancement of the
+16 public trust, fisheries and associated aquatic and riparian ecosystems of California's waterways.
+17 This mission is implemented through active participation in federal, state and local agency
+18 processes, education and organization of the fishing community, restoration efforts, and vigorous
+19 enforcement of environmental laws enacted to protect fisheries, habitat and water quality.
+20 Members of CSPA reside along the Central Valley watershed and in the Bay-Delta where they
+21 view, enjoy, and routinely use the ecosystem for boating, fishing, and wildlife viewing. CSPA's
+22 members derive significant and on-going use and enjoyment from the aesthetic, recreational, and
+23 conservation benefits of California's rivers.
+24 10. Petitioner California Water Impact Network [C-WIN] is a California non-profit public
+25 benefit organization with its principal place of business in Santa Barbara, California. C-WIN's
+26 organization purpose is the protection and restoration of fish and wildlife resources, scenery,
+27 water quality, recreational opportunities, agricultural uses, and other natural environmental
+28
+Verified Petition for Writ of Mandate & Complaint 3
+
+resources and uses of the rivers and streams of California, including the Bay-Delta, its watershed
+2 and its underlying groundwater resources. C-WIN has worked to rid water contracts of "paper
+3 water" and bring water demands in line with actual supply as well as to implement the California
+4 constitutionally mandated Public Trust Doctrine. C-WIN has members who reside in, use, and
+5 enjoy the Bay-Delta and inhabit and use its watershed. They use the rivers of the Central Valley
+6 and the Bay-Delta for nature study, recreation, and aesthetic enjoyment.
+7 11. Petitioner AquAlliance is a California public benefit corporation headquartered in
+8 Chico, California. Its mission is to defend northern California waters and the ecosystems these
+9 waters support and to challenge threats to the hydrologic health of the Sacramento River
+10 watershed. This includes escalating attempts to divert and withdraw more water from the
+11 hydrologic region. AquAlliance's members include farmers, scientists, businesses, educators, and
+12 residents all of whom have significant financial, recreational, scientific, aesthetic, educational,
+13 and conservation interests in the aquatic and terrestrial environments that rely on waters of the
+14 Sacramento River Watershed and the Bay-Delta estuary. This hydrologic system provides water
+15 for orchards, homes, gardens, businesses, wetlands, streams, rivers, terrestrial habitat, and myriad
+16 species, which in turn allows AquAlliance members to live, farm, study, fish, hunt, cycle,
+17 photograph, camp, swim, and invest in northern California.
+18 12. Respondent and Defendant California State Water Resources Control Board [the
+19 'Board'] is a state agency charged with responsibility to determine water rights, manage water 20 quality, and assure safe and reliable drinking water. Water Code § 174 et seq. The Board is also
+21 responsible for carrying out the requirements of sections 303(c) of the Clean Water Act, 33
+22 U.S.C. §§ 1313(c), and 40 C.F.R. §130.3. Its certification of the SED and approval of the Project
+23 on December 12, 2018 was subject to and violated the requirements of CEQA, the federal Clean
+24 Water Act, the Porter-Cologne Water Act, the Public Trust Doctrine, and the CCP. The Board is
+25 the lead agency under CEQA for environmental review of the project.
+26 13. The true names and capacities of respondents DOES 1-20, inclusive, are unknown to
+27 Petitioners, who therefore sue such respondents by fictitious names pursuant to CCP section 474.
+28
+Verified Petition for Writ of Mandate & Complaint 4
+
+Petitioners are informed and believe, and based on such information and belief allege, that the
+2
+fictitiously named respondents are state or local officials or agencies who are responsible, in
+3 whole or in part, for the approval and implementation of the Project. Petitioners will, with leave
+4 of Court if necessary, amend this Verified Petition if and when the true names and capacities of
+5
+said Doe respondents have been ascertained.
+6 14. Petitioners are not aware that any specific real parties in interest exist. The true
+7 names and capacities of real parties in interest DOES 21-200, inclusive, are unknown to
+8 petitioners, who therefore sue such real parties in interest by fictitious names pursuant to CCP
+9
+section 474. Petitioners are informed and believe, and based on such information and belief
+10 allege, that the fictitiously names real parties in interest have a direct interest a in approval of the
+11
+Project. Petitioners will, with leave of Court if necessary, amend this Verified Petition if and
+12 when the true names and capacities of said Doe real parties in interest have been ascertained.
+13
+GENERAL ALLEGATIONS
+14
+
+15 15. Petitioners have authorized their attorneys to file this lawsuit on their behalf to
+vindicate their substantial beneficial interest in securing the Board's compliance with the law. 16 16. Petitioners have performed any and all conditions precedent to the filing of this 17 Verified Petition and Complaint and have exhausted any and all available administrative remedies 18
+to the extent required by law.
+19 17. Petitioners have no plain, speedy and adequate remedy in the ordinary course of law 20 within the meaning of CCP section 1086 in that, unless this Court issues its writ of mandate
+21 setting aside the Board's Record of Decision approving the SED and approval of the Project, and 22 ordering it to comply with the laws whose violation is alleged herein, the environmental interests
+23 of petitioners and the public that are protected by those laws will be substantially and irreparably 24 harmed. No monetary damages or other legal remedy could adequately compensate Petitioners 25 for the harm to their beneficial interests, and to the environment, occasioned by the Board's 26 unlawful conduct.
+27 18. Petitioners are entitled to declaratory relief under CCP section 1060 because an actual 28
+Verified Petition for Writ of Mandate & Complaint 5
+
+1 controversy exists between Petitioners and the Board. Petitioners content that the Board has acted
+2 in violation of applicable laws and must therefore vacate and set aside its approval of the Project.
+3 Petitioners are informed and believe that the Board disputes this contention. A judicial resolution
+4
+of this controversy is therefore necessary and appropriate.
+5 19. Petitioners are also entitled to injunctive relief under CCP section 526 because
+O approval of the Project threatens irreparable environmental harm. Unless enjoined, the Board will
+7 implement the Project despite its lack of compliance with applicable laws, causing undue and
+8 unnecessary environmental degradation. Petitioners would thereby suffer irreparable harm due to
+9 the Board's failure to take the required steps to adequately protect the environment. Injunctive
+10 relief is thus warranted under CCP section 525 et seq. and PRC section 21168.9 to prevent
+11 irreparable harm to the environment.
+12 LEGAL BACKGROUND
+13
+CEQA
+14 20. CEQA is California's primary statutory mandate for environmental protection. It
+15 applies to all state and local agencies, and requires them to "first identify the [significant]
+16 environmental effects of projects, and then to mitigate those adverse effects through the
+17 imposition of feasible mitigation measures or through the selection of feasible alternatives."
+18 Sierra Club v. State Board of Forestry (1994) 7 Cal.4th 1215, 1233. Its most important
+19 substantive imperative requires "public agencies to deny approval of a project with significant
+20 adverse effects when feasible alternatives or feasible mitigation measures can substantially lessen
+21 such effects." Sierra Club v. Gilroy City Council (1990) 222 Cal.App.3d 30, 41.
+22 21. CEQA's mandate for detailed environmental review "ensures that members of the
+23 [governmental decision-making body] will fully consider the information necessary to render
+24 decisions that intelligently take into account the environmental consequences" of their proposed
+25 action. Mountain Lion Foundation v. Fish and Game Commission (1997) 16 Cal.4th 105, 133;
+26 PRC §§ 21080.5(d)(2)(D), 21091(d)(2); 14 C.C.R. [CEQA Guidelines] ('Guidelines') § 15088.
+27 The CEQA process thus "protects not only the environment but also informed self-government."
+28
+Verified Petition for Writ of Mandate & Complaint 6
+
+1 Citizens of Goleta Valley v. Board of Supervisors (1990) 52 Cal.3d 553, 564. 2 22. California "public agencies" must comply with CEQA when they approve 0 v 1no discretionary projects. PRC § 21080(a).
+23. The Board is a "public agency" and "state agency" as defined in CEQA. PRC
+21063.
+
+24. CEQA authorizes the Secretary of the Resources Agency to certify regulatory 7 programs that provide sufficient information in lieu of an Environmental Impact Report ['EIR']. 8 PRC § 21080.5(a). When a regulatory program is certified, projects prepared under that program 9 are exempt "from [CEQA] Chapter 3 (commencing with Section 21100), Chapter 4 (commencing 10 with Section 21150), and Section 21167, except as provided in Article 2 (commencing with 11 Section 21157) of Chapter 4.5." PRC § 21080.5(c). "Such programs are exempt from certain 12
+procedural aspects of CEQA because 'they involve the same consideration of environmental 13 issues as is provided by use of [Environmental Impact Reports ("EIRs")] and negative 14 declarations."" John R. Lawson Rock & Oil, Inc. v. State Air Resources Board (2018) 20 15 Cal.App.5th 77, 95 (quoting Poet, LLC v. State Air Resources Board (2013) 218 Cal.App. 4th 681, 16 709). An agency approving a project that is part of a certified regulatory program must "conform 17 not only to the detailed and exhaustive provisions of the [applicable regulatory program], but also 18 to those provisions of CEQA from which it has not been specifically exempted by the 19 Legislature." Sierra Club v. State Board of Forestry (1994) 7 Cal.4th 1215, 1229. Any "certified 20 program remains subject to other provisions in CEQA, such as the policy of avoiding significant 21 adverse effects on the environment where feasible." Guidelines 15250; Pesticide Action 22
+Network North America v. Department of Pesticide Regulation ('PANNA') (2017) 16 Cal.App.5th 23 225, 241.
+24 25. The Resources Agency has determined that the Board's basin planning program is a 25 certified regulatory program that does not require the preparation of an Environmental Impact 26
+Report [EIR], Negative Declaration, or an initial study. Guidelines §§ 15250, 15251(g). Instead, 27 the Board is required to prepare a substitute environmental document that comports with the 28
+Verified Petition for Writ of Mandate & Complaint 7
+
+1 requirements of PRC section 21080.5(d)(3)(A) and Guidelines section 15252. In so doing, the 2 Board is required to examine the cumulative impacts of its approval. PANNA, 16 Cal.App.5th at 3 248-251; Laupheimer v. State of California (1988) 200 Cal.App.3d 440, 462. The Board's 4 regulations governing its certified regulatory program are contained within California Code of 5 Regulations, Title 23, sections 3775-3781.
+6 26. In applying these CEQA procedures, an agency may not segment a project to avoid 7 examining the entirety, or whole, of the project. Guidelines § 15378(a), (c), (d). CEQA's 8 "requirements cannot be avoided by chopping up proposed projects into bite-size pieces which, 9 individually considered, might be found to have no significant effect on the environment or to be 10 only ministerial." Plan for Arcadia, Inc. v. City Council of Arcadia (1974) 42 Cal.App.3d 712, 11 726; Tuolumne County Citizens for Responsible Growth, Inc. v. City of Sonora (2007) 155 12 Cal.App.4th 1214, 1230 (sequential review frustrates CEQA's purposes if it "could result in 13 mitigation measures being adopted in the second matter that are less effective than what would 14 have been adopted if the matters had been analyzed as single project"). 15
+The Sacramento-San Joaquin Delta Reform Act
+16 27. To address the indisputably perilous state of the Delta, in 2009 the California 17 Legislature enacted the Sacramento-San Joaquin Delta Reform Act, Water Code section 85000 et 18 seq. ['Delta Reform Act'], declaring that "[t]he Sacramento-San Joaquin Delta watershed and 19 California's water infrastructure are in crisis and existing Delta policies are not sustainable." 20 Water Code § 85001(a), emphasis added. The Legislature found that "the Delta'.. . is a critically 21 important natural resource for California and the nation. It serves Californians concurrently as 22 both the hub of the California water system and the most valuable estuary and wetland ecosystem 23 on the west coast of North and South America." Water Code § 85002. "Resolving the crisis 24 requires fundamental reorganization of the state's management of Delta watershed resources." 25 Water Code § 85001(a), emphasis added.
+26 28. The Delta Reform Act required the Board to "develop new flow criteria for the Delta 27 ecosystem necessary to protect public trust resources. In carrying out this section, the [B]oard 28
+Verified Petition for Writ of Mandate & Complaint 8
+
+1 shall review existing water quality objectives and use the best available scientific information.
+2 The flow criteria for the Delta ecosystem shall include the volume, quality, and timing of water
+3 necessary for the Delta ecosystem under different conditions. The flow criteria shall be
+4 developed in a public process by the board within nine months of the enactment of this division."
+5 Water Code § 85086(c)(1).
+6 The Porter-Cologne Water Quality Control Act and the Federal Clean Water Act
+7 29. Congress adopted the Clean Water Act "to restore and maintain the chemical,
+g physical and biological integrity of the Nation's waters." 33 U.S.C. § 1251(a).
+9 30. The Clean Water Act's implementing regulations make clear that water quality
+10 "criteria must be based on sound scientific rationale and must contain sufficient parameters or
+11 constituents to protect the designated use. For waters with multiple use designations, the criteria
+12 shall support the most sensitive use. 40 C.F.R. § 131.11(a).
+13 31. The Clean Water Act requires each state to develop water quality control standards
+14 that protect existing instream uses. A water quality control plan cannot lower or allow
+15 degradation of water quality standards. 40 CX.F.R. § 131.12(a).
+16
+32. The Clean Water Act's anti-degradation policy demands that "instream water uses and
+17 the level of water quality necessary to protect the existing uses shall be maintained and 18 protected." 40 C.F.R. § 131.12(a)(1). "Where the quality of the waters exceeds levels necessary
+19
+to support the protection and propagation of fish, shellfish, and wildlife and recreation in and on
+20 the water, that quality shall be maintained" unless a number of specific requirements are met. 40
+21
+C.F.R. § 131.12(a)(2).
+22 33. The Porter-Cologne Act provides the Board with authority to oversee and regulate
+23 water quality and beneficial use. It governs the Board's development and approval of water
+24 quality control plans. Each plan must designate or establish the beneficial uses of water to be
+25 protected, water quality objectives that will ensure the reasonable protection of the beneficial
+26 uses, and a program of implementation designed to achieve the objectives. Water Code §§
+27 13050(j), 13241.
+28
+Verified Petition for Writ of Mandate & Complaint 9
+
+-
+
+2 34. The Porter-Cologne Act mandates that state water quality standards be no less
+
+3 stringent than the Clean Water Act's standards. Water Code 13377. Under the authority
+
+4 provided by the Porter-Cologne Act, the Board adopted California's anti-degradation policy in
+
+5 Resolution No. 68-16.
+
+6 The Public Trust Doctrine
+
+7 35. Water Code section 85023 states, "the longstanding constitutional principle of
+
+8 reasonable use and the Public Trust Doctrine shall be the foundation of state water management
+
+9 policy and are particularly important and applicable to the Delta."
+
+10 36. In National Audubon Society v. Superior Court ("National Audubon") (1983) 33
+
+11 Cal.3d 419, 426, the court noted that the public trust doctrine mandates that "before state courts
+
+12 and agencies approve water diversions, they . consider the effect of such diversions upon
+
+13 interests protected by the public trust, and attempt, So far as feasible, to avoid or minimize any
+
+14 harm to those interests." The National Audubon Society Court went on to explain:
+
+15 Just as the history of this state shows that appropriation may be necessary for efficient
+
+16 use of water despite unavoidable harm to public trust values, it demonstrates that an appropriative water rights system administered without consideration of the public
+
+17 trust may cause unnecessary and unjustified harm to trust interests. As a matter of
+
+18 practical necessity the state may have to approve appropriations despite foreseeable harm to public trust uses. In so doing, however, the state must bear in mind its duty
+
+19 as trustee to consider the effect of the taking on the public trust, and to preserve, so far as consistent with the public interest, the uses protected by the trust.
+
+20 Ibid. (citations omitted)
+
+21 37. "Public trust easements are traditionally defined in terms of navigation, commerce
+
+22 and fisheries. They have been held to include the right to fish, hunt, bathe, swim, to use for
+
+23 boating and general recreation purposes the navigable waters of the state, and to use the bottom of
+
+24 the navigable waters for anchoring, standing, or other purposes." Marks v. Whitney (1971) 6
+
+25
+
+26 Cal.3d 251,259. For nearly 50 years it has been settled law in California that public trust values
+
+27 also "encompass .. . the preservation of those lands in their natural state, so that they may serve
+
+28 as ecological units for scientific study, as open space, and as environments which provide food
+
+Verified Petition for Writ of Mandate & Complaint 10
+
+-
+
+2 and habitat for birds and marine life, and which favorably affect the scenery and climate of the
+
+area."
+
+3
+
+4 38. Although compliance with CEQA "may assist an agency in complying with its duties
+
+5 under the public trust doctrine . . . [,] CEQA review of a project does not necessarily or
+
+6 automatically satisfy the agency's affirmative duties to take the trust into account and protect
+
+7 public trust uses whenever feasible." San Francisco Baykeeper Inc. v. State Lands Com.
+
+8
+
+9 ("Baykeeper II") (2018) 29 Cal.App.5th 562, 571. "[A] public trust use is not any use that may
+
+10 confer a public benefit, but rather a use that facilitates public access, public enjoyment, or public
+use of trust land." Id. at 570.
+11
+
+12 FACTUAL BACKGROUND
+
+13 39. "[T]he Sacramento-San Joaquin River Delta is a natural resource of statewide,
+
+14 national, and international significance, containing irreplaceable resources." PRC § 29701. The
+
+15
+
+16 Delta is the largest and most productive estuarine system on the West Coast of North and South
+
+17 America, but its future is in peril. It is the State of California's avowed policy "to recognize,
+
+18 preserve, and protect those resources of the delta for the use and enjoyment of current and future
+generations." Id.
+19
+
+20 40. The Delta's imminent ecologic collapse is well-recognized and indisputable. It has
+
+21 two principal causes. First, an unsustainable proportion of the Delta's freshwater flows has been
+
+22 diverted for decades by the Central Valley Project ('CVP) and the California (or 'State') Water
+
+23
+
+24 Project ('SWP). Second, for too long, agricultural diverters have discharged sub-surface drainage
+
+25 and surface runoff contaminated with salt, selenium, and other toxic substances into ground water
+
+26 and the rivers that are tributary to the Delta. This one-two punch of diminished freshwater flows
+
+27 and increased temperature, salinity, herbicides, pesticides, and heavy metals has pushed the Delta
+
+28 to the brink of ecologic collapse.
+
+Verified Petition for Writ of Mandate & Complaint 11
+
+-
+
+2 41. Due to excessive diversions of water for consumptive use, many species of fish
+
+W
+
+4 endemic to the Delta have already gone extinct, including the Sacramento perch, formerly one of
+
+5 the most abundant fishes of the Delta, which disappeared in the 1970s. Just 12 indigenous
+
+6 species remain, and these are in grave danger. Since the SWP and CVP began operation, the
+
+7 Sacramento River winter and spring run Chinook salmon, Central Valley steelhead, North
+American green sturgeon and Delta smelt have been driven perilously close to extirpation.
+
+9 42. Winter run Chinook salmon were declared threatened under the federal Endangered
+
+10
+
+11 Species Act ['ESA'] in 1990 (55 Fed.Reg. 46515) and then, due to continuing population declines,
+
+12 declared endangered in 2005 (70 Fed.Reg. 37160). Their critical habitat in the Sacramento River
+
+13 and its tributaries was designated in 1993. 58 Fed.Reg. 33212. Spring run Chinook salmon
+declared threatened, and their critical habitat designated under the ESA in 2005. 70 were
+
+14
+
+15 Fed.Reg.37160, 52488. Central Valley steelhead were declared threatened in 2000 (65 Fed.Reg.
+
+16 52084) and their critical habitat was designated in 2005 (70 Fed.Reg. 52488). The Southern
+
+17 district population segment ['DPS'] of North American green sturgeon was declared threatened in
+
+18
+
+19 2006 (71 Fed.Reg. 17757) and its critical habitat was designated in 2008 (73 Fed.Reg. 2084).
+
+20 Delta smelt were declared endangered in 1993 (58 Fed.Reg. 12854) and their critical habitat was
+designated in 1994 (59 Fed.Reg. 65256).
+
+21
+
+22 43. In addition to harming many fish species in the Delta, the excessive use of Delta
+
+23 water exports to irrigate contaminated soils in the San Joaquin Valley pollutes ground and surface
+
+24 waters that flow into the Delta. Irrigation leaches pollutants from the toxic soils underlying many
+
+25 of the areas irrigated with Delta water. The subsurface drainage and surface runoff from these
+
+26
+
+27 contaminated soils contain pollutants including selenium, arsenic, boron, mercury, uranium,
+chromium, molybdenum and sodium chlorides and
+
+28 sulfates. The resulting pollution of the Delta
+and its San Joaquin Valley tributaries threatens the Delta's water quality and the fish and wildlife
+Verified Petition for Writ of Mandate & Complaint 12
+
+1 dependent on them.
+
+2 44. The 1992 Central Valley Project Improvement Act, Pub.L. No. 102-575, 106 Stat.
+W v 4600, 4715-16 ['CVPIA'] acknowledged and attempted to remedy the decline of these fish
+
+w populations. CVPIA Section 3406(b)(1) mandates that the "natural production of anadromous
+
+6 fish in the Central Valley rivers and streams will be sustainable, on a long-term basis, at levels not
+
+7 less than twice the average levels attained during the period of 1967-1991" by 2002.
+
+8 45. In 1995 the United States Environmental Protection Agency ['USEPA'] adopted a
+
+9 salinity standard of 0.44 dS/m (or milliMhos ("mmhos")/cm) electrical conductivity ['EC'] on a
+10 14-day running average in the Lower San Joaquin River in the reach from Jersey Point to
+11 Vernalis in wet, above normal, and below normal water years for the protection of estuarine
+spawning habitat using striped bass as the index species. In dry and critical water years, USEPA 12
+
+13
+
+14 proposed the 0.44 mmhos/cm criteria for only the reach from Jersey Point to Prisoners Point. 60
+
+15 Fed.Reg. 4664, 4696 (Jan. 24, 1995); 40 CFR § 131.37. This federal standard was established to
+
+16 protect both habitat and recreational beneficial uses including the sport fishery, and has never
+17 been withdrawn.
+
+18 46. The Bay-Delta Water Quality Control Plan adopted by the Board in 1995 includes
+19
+salinity objectives for the San Joaquin River at Vernalis, as well as three locations within the 20
+
+21 southern Delta. These objectives provide for a maximum 30-day running average of mean daily
+
+22 EC of 0.7 mmhos/cm from April through August and of 1.0 mmhos/cm from September through
+
+23 March for all water year types. These standards are less protective of public trust resources and
+24 uses than the federal salinity standards.
+25 47. The Board's revised Decision 1641 ['D-1641'] implements portions of the 1995 Bay-
+26 Delta Water Quality Control Plan. It sets requirements for Delta outflow that include numeric 27
+outflow requirements and the position of the low salinity zone where salinity is below two parts 28
+Verified Petition for Writ of Mandate & Complaint 13
+
+1 per thousand ('X2').
+
+2 48. On or about February 13, 2009, the Board filed a Notice of Preparation with the
+ud 71n Governor's Office of Planning and Research, notifying the public that it proposed to "review and
+update [the] water quality objectives, including flow objectives and the program of
+
+6 implementation" of the Water Quality Control Plan for the San Francisco Bay/Sacramento-San
+
+7 Joaquin Delta Estuary ['Bay-Delta Plan'] and "changes to water rights and water quality
+
+8 regulation consistent with the program of implementation." 2009 Notice of Preparation, p. 2.
+9 The Notice of Preparation states that the Board intended to "stage its environmental review" and
+10 that it "anticipates preparing substitute environmental documentation to support any water quality
+11 control plan updates, as appropriate and one or more Environmental Impact Reports (EIRs) to 12
+
+13 support any water right decision(s) or order (s) that may be needed to support changes to water
+
+14 rights to implement any changes to the Bay-Delta Plan." id., p. 3. It also states that the Board
+
+15 "may alternatively choose to prepare one EIR to inform both the water quality control planning
+
+16 and water rights implementation described in this notice." Id. The Project was assigned State
+17 Clearinghouse Number 2009022056.
+18 49. The Board determined that the baseline for the Project would be "the physical
+19
+
+20 conditions in 2009 as they existed under the 2006 Bay-Delta Plan." SED Volume 1, p. ES-51.
+
+21 50. As required by the Delta Reform Act, Water Code section 85086, on or about August
+
+22 3, 2010, the Board adopted the Final Report on Development of Flow Criteria for the
+
+23 Sacramento-San Joaquin Delta Ecosystem ['Delta Flow Criteria Report']. The Delta Flow
+24 Criteria Report establishes a flow criteria of "60% of unimpaired San Joaquin River inflow from
+25 February through June." Delta Flow Criteria Report, p. 4. The Board resolution adopting the
+26 Delta Flow Criteria Report acknowledges that the Delta Flow Criteria Report determines "flow 27
+criteria for the Delta ecosystem necessary to protect public trust resources." Resolution 2010- 28
+Verified Petition for Writ of Mandate & Complaint 14
+
+1 0039, p. (emphasis added).
+
+2 51. On or about April 1, 2011, the Board filed a second Notice of Preparation for the
+3 Project with the Governor's Office of Planning and Research. This Notice of Preparation states
+4
+
+5 that "[t]he proposed project includes review of and potential amendments to water quality
+
+6 objectives for the protection of southern Delta agricultural beneficial uses; San Joaquin River
+
+7 flow objectives for the protection of fish and wildlife beneficial uses; and the program of
+
+8 implementation for those objectives included in the 2006 Bay-Delta Plan. The proposed project
+
+9 also includes potential changes to the monitoring and special studies program included in the
+10 2006 Bay-Delta Plan." 2011 Notice of Preparation, p. 4. Thus, by 2011, the Board indicated it
+11 would divide the whole of its action into parts, addressing the Project separately from other 12
+
+13 portions of the Bay-Delta Plan amendment.
+
+14 52. On or about January 1, 2013, the Board circulated a Draft SED and opened public
+
+15 comment on the adequacy of the draft SED. The Board conducted a public hearing to accept oral
+
+16 comments on the sufficiency of the draft SED on March 20 and 21, 2013. Petitioners, among
+17 others, provided oral comments on the 2013 draft SED during this public hearing and also
+18 provided oral testimony on June 19th at an information workshop and filed written comments on 19
+the draft SED on March 29, 2013.
+20
+
+21 53. Representatives of the Petitioners attended the December 16, 2016 hearing and filed
+
+22 written comments on December 12, 2016 and March 17, 2017. Petitioners' written comments
+
+23 from March 17, 2017 pointed out that, after full review of the Draft Revised SED, "'we [could]
+24 find no reasoned analysis for choosing the 40% flow recommendation." p. 2 of the March 17,
+25 2017 comment letter.
+26 54. The Draft Revised SED presented Lower San Joaquin River ['LSJR'] Alternatives and 27
+
+28 Southern Delta Water Quality ['SDWQ'] Alternatives. Alternative 1, the No Project Alternative,
+
+Verified Petition for Writ of Mandate & Complaint 15
+
+was the same for both LSJR and SDWQ Alternatives, and was modeled to reflect full compliance
+2 with D-1641 and existing southern Delta Salinity objectives.
+55. The LSJR Alternatives present a range of unimpaired flows: LSJR Alternative 2 4
+
+5 would set the range of minimum flows between 20 and 30 percent of unimpaired flow in the
+Stanislaus, Tuolumne and Merced Rivers, with a minimum flow no less than 20 percent of
+
+7 unimpaired flow from February to June. LSJR Alternative 3, which the Revised Draft SED
+
+8 identifies as the recommended LSJR Alternative, sets the range of minimum flow between 30 and
+
+9 50 percent of unimpaired flow, with a starting point of 40 percent of unimpaired flow. During the
+10 months of February to June, LSJR Alternative 3 would set the minimum flow at no less than 30
+11 percent of unimpaired flow. LSJR Alternative 4 would include a range of minimum flows of 50- 12
+
+13 60 percent of unimpaired flow, with a starting base flow of 60 percent of unimpaired flow, and a
+
+14 minimum total flow from February to June of no less than 50 percent of the unimpaired flow for
+
+15 that period.
+
+16 56. The SDWQ Alternatives address salinity objectives. SDWQ Alternative 2, which the
+17 Revised Draft SED identifies as the recommended alternative, would increase the numeric
+18 salinity objective to 1.0 dS/m as a maximum 30-day running average of mean daily EC for all
+19
+months in the southern Delta, and change the locations used to measure compliance with that 20
+
+21 standard. SDWQ Alternative 3 would increase the salinity objective even more, to 1.4 dS/m for
+
+22 all months.
+
+23 57. The Revised Draft SED failed to examine any other alternative that could reasonably
+
+24 achieve the fish doubling goals established in the CVCPIA and incorporated into prior Bay-Delta
+25 Water Quality Control Plans.
+26 58. Petitioners again provided oral comments to the Board on November 29, 2016.
+27
+
+28 59. Petitioners, among others, submitted timely written comments on the Draft Revised
+
+Verified Petition for Writ of Mandate & Complaint 16
+
+-
+
+2 SED and proposed Project on March 17, 2017. Petitioners notified the Board that the proposed
+Project did not adopt sufficient instream flow requirements to protect fish as detailed in the
+
+4 Board's Delta Flow Criteria Report, relied upon vague, ineffective and abuse-inviting "adaptive
+
+5 management," and relaxed salinity objectives in the South Delta in violation of anti-degradation
+
+6 rules and the water quality standards adopted by the USEPA in 1995.
+
+7 60. On or about July 6, 2018, the Board announced that it would address "the Sacramento
+
+8
+
+9 River, its tributaries, Delta eastside tributaries (including Calaveras, Cosumnes, and Mokelumne
+
+10 rivers), Delta outflows, and interior Delta flows" in a separate update that it plans to consider as
+
+11 the "Sacramento/Delta Update" to the Bay-Delta Plan. July 2018 Framework for the
+
+12 Sacramento/Delta Update to the Bay-Delta Plan, p. 1.
+
+13 61. On or about July 6, 2018, the Board released its Final SED and Proposed Final
+
+14
+
+15 Amendments for public review, and Petitioners addressed the update in oral comments on August
+21, 2018.
+
+16
+
+17 62. The Board did not substantively amend the SED in response to comments it received
+
+18 on the Draft Recirculated SED, and instead it merely made clarifications and minor
+
+19 modifications. SED Volume 3, 1-3.
+
+20 63. Petitioners submitted written comments regarding the Final SED and Proposed Final
+
+21 Amendments to the Water Quality Control Plan for the San Francisco Bay/Sacramento-San
+
+22
+
+23 Joaquin Delta Estuary on July 27, 2018. These detailed comments addressed deficiencies in the
+
+24 proposed Project. In particular these comments noted the environmental superiority of a higher
+
+25 flow alternative, and its necessity to restore public trust resources and uses.
+
+26 64. The Board originally calendared its hearing to consider whether to adopt the Project
+
+27 and SED for its Board Meeting scheduled for August 21-22, 2018. The Board then continued the
+
+28 item to its November 2018 Board Meeting. In November the Board voted to continue the item
+
+Verified Petition for Writ of Mandate & Complaint 17
+
+until its December 2018 Board Meeting. Petitioners again made oral comments at the November
+
+2 Board Meeting.
+3 65. On December 12, 2018, the Board held a public hearing to consider the SED and
+4
+
+5 Project. That morning, the California Department of Water Resources ['DWR'] and the California
+
+6 Department of Fish and Wildlife ['CDFW'] presented a voluntary settlement agreement
+
+7 framework that was entirely different from the Project and the Project alternatives presented in
+
+8 the SED. This so-called alternative proposal was prepared without public participation following
+
+9 private meetings between water users and state agencies that were not publicly noticed as
+10 required, and were expressly limited to parties with financial interests who signed confidentiality
+11 agreements. The proposal was presented long after the Board had closed its period for public
+12
+
+13 comments addressing the sufficiency of the SED, denying the public's - and Petitioners' right to
+
+14 review and comment on the proposal as required by applicable law.
+
+15 66. Petitioners are informed and believe that the Board determined that this proposal
+
+16 could not be an alternative to the Project because the SED did not examine the environmental
+
+17 impacts of the proposal in comparison to the Project, and the Board and its staff lacked sufficient
+18 information to make conclusions regarding its environmental impacts.
+19 67. On the evening of December 12, 2018, the Board voted to certify the SED and
+20
+
+21 approve the Project with modifications. It adopted CEQA Findings and Statement of Overriding
+
+22 Considerations ("CEQA Findings") for the Project addressing the Project's significant and
+
+23 unmitigable impacts on: (1) aesthetics, including cumulative impacts, (2) agricultural resources
+
+24 and forestry resources, including cumulative impacts, (3) air quality, including cumulative
+
+25 impacts, (4) biological resources including cumulative impacts on both aquatic and terrestrial
+26 resources, (5) cultural resources, including cumulative impacts, (6) geology and soils, including
+27
+
+28 cumulative impacts, (7) greenhouse gases and energy, including cumulative impacts, (8) hazards
+
+Verified Petition for Writ of Mandate & Complaint 18
+
+l and hazardous materials, including cumulative impacts, (9) hydrology and water quality,
+2 including cumulative impacts, (10) groundwater resources, including cumulative impacts, (11)
+3 land use and planning, (12) noise, including cumulative impacts, (13) mineral resources,
+4
+including cumulative impacts, (14) public services, (15) recreational resources, including 5
+
+6 cumulative impacts, (16) transportation and traffic, and (17) service providers and utilities and
+
+7 service systems, including cumulative impacts.
+68. The Board's CEQA Findings state that "alternatives with fewer significant
+environmental impacts than the Plan Amendments are infeasible."
+10 69. As approved, the Project adopts SDWQ Alternative 2's year-round southern Delta
+11 numeric salinity objective, 1.0 dS/m as a maximum 30-day running average of mean daily EC for 12
+all months.
+13
+
+14 70. As approved, the Project adopted LSJR Alternative 3's flow objectives. It sets LSJR
+
+15 flow objectives for February through June at "40 percent of unimpaired flow, based on a
+
+16 minimum 7-day running average, from each of the Stanislaus, Tuolumne, and Merced Rivers."
+
+17 SED Appendix K, p. 29. "This required percentage of unimpaired flow, however, may be
+18 adjusted within the range allowed by the LSJR flow objectives through adaptive methods ...."
+19
+Id.
+20
+
+21 71. As approved, the Project also states:
+
+22 the LSJR base flow objectives for February through June shall be implemented by requiring a minimum base flow of 1,000 cfs, based on a minimum 7-day running 23 average, at Vernalis at all times. This minimum base flow, however, may be adjusted
+24 within the range allowed by the LSJR base flow objective through adaptive methods detailed below. When the percentage of unimpaired flow requirement is insufficient
+25 to meet the minimum base flow requirement, the Stanislaus River shall provide 29 percent, the Tuolumne River 47 percent, and the Merced River 24 percent of the
+26 additional total outflow needed to achieve and maintain the required base flow at
+Vernalis.
+27 Id.
+
+28 72. The Project's minimum base flows are significantly lower than the flows identified in
+Verified Petition for Writ of Mandate & Complaint 19
+
+H
+
+2 the Delta Flow Criteria Report as necessary to protect public trust resources, and consequently are
+
+3 insufficient to protect, let alone restore, those resources.
+
+4 73. As approved, the Project establishes criteria for adaptive management adjustments.
+
+5 For the "required percentage of unimpaired flow" to be "adjusted to any value between 30 percent
+
+6 and 50 percent, inclusive," on an annual basis, the Executive Director and all members of the
+
+7 Stanislaus, Tuolumne, and Merced Working Group ['STM Working Group'] must agree to the
+
+8
+
+9 change. Id., p. 30. Likewise, all members of the STM Working Group must agree for the
+
+10 Executive Director to approve, on an annual basis, changes to "the required base flow for
+
+11 February through June" pursuant to the Board's approval, which allows that base flow to "be
+
+12 adjusted to any value between 800 and 1,200 cfs, inclusive." Id., p. 31.
+
+13 74. As approved, the Executive Director may also implement changes when
+
+14 recommended by at least one member of the STM Working Group. These changes include:
+
+15
+
+16 The required percent of unimpaired flow for February through June may be managed as a total volume of water and released on an adaptive schedule during that period
+
+17 where scientific information indicates a flow pattern different from that which would occur by tracking the unimpaired flow percentage would better protect fish and
+
+18 wildlife beneficial uses. The total volume of water must be at least equal to the volume of water that would be released by tracking the unimpaired flow percentage
+
+19 from February through June.
+
+20 The release of a portion of the February through June unimpaired flow may be
+
+21 delayed until after June to prevent adverse effects to fisheries, including temperature, that would otherwise result from implementation of the February through June flow
+
+22 requirements. The ability to delay release of flow until after June is only allowed when the unimpaired flow requirement is greater than 30 percent. If the requirement
+
+23 is greater than 30 percent but less than 40 percent under (a) above, the amount of flow
+
+24 that may be released after June is limited to the portion of the unimpaired flow requirements over 30 percent. (For example, if the flow requirement is 35 percent, 5
+
+25 percent may be released after June.) If the requirement if 40 percent or greater under (a) above, then 25 percent of the total volume of the flow requirement may be released after June.
+26 (For example, if the requirement is 50 percent, at least 37.5 percent unimpaired flow must be released in February through June and up to 12.5
+
+27 percent unimpaired flow may be released after June. Id., pp. 30-31.
+
+28 75. The STM Working Group is expected to include water diverters, resource agencies,
+Verified Petition for Writ of Mandate & Complaint 20
+
+1 and "other persons or entities" with appropriate expertise. Id., p. 32.
+
+2 76. The Board filed a Notice of Decision with the Governor's Office of Planning and
+Research on February 26, 2019.
+*
+FIRST CAUSE OF ACTION
+
+• (Violation of CEQA)
+
+(Alleged by All Petitioners Against All Respondents)
+77. The paragraphs set forth above and below are realleged and incorporated herein by
+
+9 reference.
+
+10 78. Petitioners bring this First Cause of Action pursuant to PRC sections 21168 and
+11 21168.5, on the grounds that the Board committed a prejudicial abuse of discretion by failing to 12
+
+13 proceed in the manner required by law, in approving a deeply flawed Project based on a legally
+
+14 inadequate SED.
+
+15 79. The purpose of an SED is to provide agencies and the public with information about a
+
+16 proposed project's potential environmental effects, ways to minimize those effects, and potential
+17 alternatives to the project. PRC § 21080.5(d)(3)(A). A project described in an SED may not be
+18 "approved or adopted as proposed if there are feasible alternatives or feasible mitigation measures
+19
+available that would substantially lessen a significant adverse effect that the activity may have on 20
+
+21 the environment." PRC § 21080.5(d)(2)(a). The Board's Project approval and certification of the
+
+22 SED violates CEQA in at least the following respects:
+
+23 The Project is Improperly Segmented
+
+24 80. CEQA requires agencies to prepare environmental documents regarding the impacts
+25 of "projects" that may have significant environmental impacts. Guidelines § 15064(a)(1), CEQA
+26 defines "project" to mean "the whole of an action." Guidelines § 15378(a). "The term 'project' 27
+
+28 refers to the activity which is being approved and which may be subject to several discretionary
+Verified Petition for Writ of Mandate & Complaint 21
+
+1 approvals by governmental agencies. The term 'project' does not mean each separate
+2 governmental approval." Guidelines § 15378(c). Accordingly, agencies "must consider the
+3 whole of an action, not simply its constituent parts, when determining whether [the action] will
+4
+
+5 have a significant environmental effect (Citizens Assoc. for Sensible Development of Bishop Area
+
+6 V. County of Inyo (1985) 172 cal.App.3d 151)." Guidelines § 15003(h); see also Guidelines :
+
+7 15378(a), (c).
+
+8 81. CEQA thus intends to ensure "that environmental considerations do not become
+
+9 submerged by chopping a large project into many little ones - each with a minimal potential
+10 impact on the environment - which cumulatively may have disastrous consequences." Bozung v.
+11 Local Agency Formation Com. (1975) 13 Cal.3d 263, 283-284. 12
+
+13 82. Here, instead of studying all of its interdependent actions together, the Board has
+
+14 improperly segmented its Project. The Board has split the amendments necessary to update the
+
+15 Bay-Delta Plan into parts. The Project addresses only the San Joaquin River and south Delta
+
+16 tributaries, and not the Sacramento/Delta update to the Bay-Delta Plan, despite the interconnected
+17 nature of the Delta ecosystem. By splitting the Project into parts, the Board has frustrated
+18 informed decision-making regarding the impacts of the combined actions on the Delta ecosystem
+19 and mitigation measures to alleviate those impacts. 20
+
+21 83. This segmentation violates CEQA's demand for unified and comprehensive
+
+22 environmental review:
+
+23 Theoretical independence is not a good reason for segmenting the environmental
+
+24 analysis of the two matters. Doing so runs the risk that some environmental impacts produced by the way the two matters combine or interact might not be analyzed in the
+25 separate environmental reviews. Furthermore, if the two matters are analyzed in sequence .. and the combined or interactive environmental effects are not fully
+26 recognized until the review of the second matter, the opportunity to implement effective mitigation measures as part of the first matter may be lost. This could result 27 in mitigation measures being adopted in the second matter that are less effective than
+
+28 what would have been adopted if the matters had been analyzed as a single project.
+
+Verified Petition for Writ of Mandate & Complaint 22
+
+Tuolumne County Citizens for Responsible Growth, Inc. v. City of Sonora (2007) 155 Cal.App.4th
+
+2 1214, 1230. The Board's segmented review subverts CEQA's informational purposes.
+3 The Board's Discussion of Alternatives Violates CEQA
+4
+84. Under CEQA, an agency must focus on alternatives that would lessen significant 5
+
+6 effects, even if they "would impede to some degree the attainment of the project objectives, or be
+
+7 more costly." Guidelines § 15126.6(b).
+
+85. LSJR Alternative 4 calls for higher base flows that are more likely to provide the
+
+9 temperature benefits necessary for fish. SED Volume 1, ES-16, 19-20. The SED claims that
+10 LSJR Alternative 3 has fewer impacts than LSJR Alternative 4. Yet LSJR Alternative 3 has
+11 significant and unavoidable impacts in the same resource areas as those of LSJR Alternative 4:
+12
+
+13 groundwater, recreational resources and aesthetics, agricultural resources, service providers, and
+
+14 energy and greenhouse gases. SED Volume 1, 18-5.
+
+15 86. The Board failed to consider a reasonable range of alternatives in the SED, as none of
+
+16 the alternatives studied in the SED are sufficient to achieve fish recovery or the salmon doubling
+17 goals.
+18 The SED Was Unlawfully Approved Because Feasible Alternatives and
+19 Mitigations Exist That Would Substantially Lessen Project Impacts
+
+20 87. A Project described in an SED may not be "approved or adopted as proposed if there
+21 are feasible alternatives or feasible mitigation measures available that would substantially lessen a
+22 significant adverse effect that the activity may have on the environment." PRC$21080.5(d)(2)(a). 23
+88. It is settled law that the environmental document must identify feasible mitigation 24
+
+25 measures regardless of whether such mitigation falls within the Board's - or some other agency's -
+
+26 authority. City of Marina V. Board of Trustees (2006) 39 Cal.4th 355, 366; City of San Diego v.
+
+27 Board of Trustees (2015) 61 Cal.4th 945, 957-958; Habitat and Watershed Caretakers v. City of
+
+28 Santa Cruz (2013) 213 Cal.App.4th 1277, 13-4-1305.
+Verified Petition for Writ of Mandate & Complaint 23
+
+-
+
+2 89. The SED's discussion of the Project's agricultural resource impacts declines to address
+how many of those impacts could be further mitigated through changes in farming techniques.
+
+4 SED Volume 1, pp. 11-50, 11-55. The SED discloses that it left that issue unaddressed because
+
+5 the Board does not believe it has authority to order such mitigation as part of the plan
+
+6 amendment. SED Volume 1, p. 11-50. The SED's failure to address ways in which impacts to
+agriculture may be reduced through improved irrigation practices allows the document to
+
+9 overstate the potential harms to agriculture associated with LSJR Alternative 4. This improperly
+
+10 skews the analysis in favor of LSJR Alternative 3's less-protective flow regime, at the expense of
+
+11 a Alternative 4, which is a feasible alternative that, unlike Alternative 3, requires minimum flows
+
+12 for fish that approach the flows recognized by the Delta Flow Criteria Report as necessary to
+
+13 protect public trust resources.
+
+14 The Project's Adaptive Management Component Violates CEQA
+
+15
+
+16 90. The Board included provisions to alter the Project's implementation by allowing staff
+
+17 and the STM Working Group to modify flow objectives. The Project has delayed the
+
+18 development of clear parameters that identify which environmental conditions can trigger or
+
+19 prevent implementation of these flow modifications or other adaptive adjustments. Because these
+
+20 parameters are undeveloped, the SED cannot adequately disclose the Project's potentially
+
+21 significant impacts.
+
+22 The Board's Findings and Statement of Overriding Consideration Are Not
+
+23 Supported by Substantial Evidence and Are Otherwise Invalid
+
+24 91. If a project will have "significant environmental effects," CEQA requires the agency
+
+25 to make "one or more written findings for each of those significant effects, accompanied by a
+
+26
+
+27 brief explanation of the rationale for each finding." Guidelines § 15091(a). There are three
+"possible findings":
+
+28 (1) Changes or alterations have been required in, or incorporated into, the project Verified Petition for Writ of Mandate & Complaint 24
+
+1 which avoid or substantially lessen the significant environmental effect . . . .
+2 (2) Such changes or alterations are within the responsibility and jurisdiction of another
+W public agency and have been adopted… or can and should be adopted by such other agency.
+4
+(3) Specific economic, legal, social, technological, or other considerations make
+infeasible the mitigation measures or project alternatives identified in the final EIR.
+o Guidelines § 15091(a). The findings "shall be supported by substantial evidence in the record."
+7 Guidelines § 15091(b).
+
+92. Where, as here, an agency approves a project that has significant environmental
+
+10 effects that "are not avoided or substantially lessened," the agency must "state in writing the
+
+11 specific reasons to support its action." Guidelines §§ 15093(b); 15096h); 15064(a)(2). This
+
+12 "statement of overriding considerations shall be supported by substantial evidence," Guidelines §
+
+13 15093(b), and is to be made in addition to the findings required under section 15091. Guidelines
+14 § 15091(f).
+15
+93. Requiring such findings and, when necessary, a statement of overriding 16
+
+17 considerations, ensures that the agency carefully considers the proposed action's environmental
+
+18 effects and makes its decision-making process transparent. The "intended effect is to facilitate
+
+19 orderly analysis and minimize the likelihood that the agency will randomly leap from evidence to
+
+20 conclusions." Topanga Assn. for a Scenic Com. v. County of Los Angeles (1974) 11 Cal.3d 506,
+21 516-517. Since they lay out the agency's rationale, findings also help courts to police agency
+22 compliance with CEQA's required procedures. Mira Mar Mobile Com. V. City of Oceanside
+23
+
+24 (2004) 119 Cal.App.4th 477, 496 (noting that "findings must 'bridge the analytic gap between the
+
+25 raw evidence and ultimate decision,' so as to allow a reviewing court 'to trace and examine the
+
+26 agency's mode of analysis') (citation omitted).
+
+27 94. In order to make the findings required under CEQA, an environmental document
+
+28 must properly identify and fully analyze the Project's myriad significant environmental impacts. Verified Petition for Writ of Mandate & Complaint 25
+
+1 As discussed above, the SED fails to do so. The Board's CEQA findings, which are based on this
+2 impacts analysis, are therefore necessarily defective.
+3 95. The Board's Statement of Overriding Considerations is invalid for the following
+A reasons among others: (a) it assumes that the significant effects of the Project cannot be
+
+O mitigated to a less than significant level through the adoption of a feasible, less damaging
+
+7 alternative, despite the existence of several such alternatives, as alleged above; (b) its claims are
+
+8 not supported by substantial evidence; and (c) the Board identifies areas where significant and
+unavoidable Project effects might be mitigated by approvals outside its control, yet it neither
+10 proposes any particular regulation that might mitigate such impacts, nor finds that the relevant
+11 agencies can and should adopt such a proposal, as required by PRC section 21081(a)(2). This 12
+
+13 violates CEQA. PRC §§ 21081(a)(2), 21081.5; Guidelines §§ 15091(b), 15093(b); Uphold Our
+
+14 Heritage v. Town of Woodside (2007) 147 Cal.App.4th 587, 597-603.
+
+15 SECOND CAUSE OF ACTION
+
+16 (Violation of Clean Water Act)
+
+17 (Alleged by All Petitioners Against All Respondents)
+18 96. The paragraphs set forth above and below are realleged and incorporated herein by 19
+reference.
+20
+
+21 97. The Clean Water Act's anti-degradation policy demands that "instream water uses and
+
+22 the level of water quality necessary to protect the existing uses shall be maintained and
+
+23 protected." 40 C.F.R. § 131.12(a)(1). "Where the quality of the waters exceeds levels necessary
+
+24 to support the protection and propagation of fish, shellfish, and wildlife and recreation in and on
+25 the water, that quality shall be maintained" unless a number of specific requirements are met. 40
+26 C.F.R. § 131.12(a)(2).
+27
+
+28 98. Yet the Board's Project approval relaxes the salinity objectives, thereby allowing
+
+Verified Petition for Writ of Mandate & Complaint 26
+
+increased salinity, which will result in lower water quality and will violate the Clean Water Act's
+
+2 anti-degradation policy. SED Volume 1, pp. 23-2, 23-28; 40 C.F.R. § 131.12(a). The existing
+3 federal standard limits salinity to 0.44 dS/min EC, and the 2006 Bay Delta Plan's salinity water
+4
+
+w quality objective limited salinity to 0.7 dS/m EC during the months of April through August. As
+
+O approved, however, the Project allows 1.0 dS/m EC during those months - a substantial increase.
+
+7 SED Volume 1, p. 23-7.
+
+8 99. The Board admits that "[w]ater quality conditions in the LSJR Watershed and
+
+9 southern Delta vary both seasonally and annually and are strongly affected by streamflow levels,
+10 due to dilution of the salt loads and other constituents in the affected areas." SED Volume 1, p.
+11 23-28. It further acknowledges that "by raising the salinity water quality objective in the 12
+
+13 Southern Delta, the proposed plan amendments may appear to relax the objective and authorize a
+
+14 lowering of water quality." SED Volume 1, pp. 23-2, 23-7.
+
+15 100. The Board claimed that the amendments will not degrade water quality. SED
+
+16 Volume 1, p. 23-28. But this assertion is disingenuous. Despite the Board's adoption of the
+17 existing salinity standard in D-1485 in 1978, the Board has continually delayed the compliance
+18 deadline and has therefore failed to enforce the current salinity standards. SED Volume 1, pp. 23-
+19
+5 to 23-6. Now, 40 years later, the SED claims that relaxing the standard does not violate the 20
+
+21 Clean Water Act's anti-degradation policies because the current standard is so often exceeded that
+
+22 relaxing it will not alter the water quality. This repeated, shameless relaxation of the existing
+
+23 standard strikes at the heart of the anti-degradation requirements, which exist to restore and
+
+24 maintain water quality, not allow its repeated degradation. 40 C.F.R. § 131.12(a).
+25 101. The Board's Project approval violates the Clean Water Act's demand that water
+26 quality criteria protect the most sensitive use, as it fails to implement sufficient flow criteria to
+27
+
+28 protect the imperiled salmon and other fish that depend on adequate flow for survival.
+
+Verified Petition for Writ of Mandate & Complaint 27
+
+THIRD CAUSE OF ACTION
+
+2 (Violation of Porter-Cologne Act)
+3 (Alleged by All Petitioners Against All Respondents)
+4
+102. The paragraphs set forth above and below are realleged and incorporated herein by
+
+6 reference.
+
+7 103. Pursuant to the Porter-Cologne Act's mandate that state water quality standards be
+
+8 no less stringent than the Clean Water Act's (Water Code § 13377), the Board adopted
+California's anti-degradation policy in Resolution No. 68-16. Asociation de Gente Unida por el
+10 Agua v. Central Valley Regional Water Quality Control Board (2012) 210 Cal.App.4th 1255,
+11 1278-1286 (citing Res. No. 68-16 and the Board's Guidance Memorandum [Feb. 16, 1995] at pp. 12
+
+13 4-6). Resolution No. 68-16 demands that high quality waters "be maintained until it has been
+
+14 demonstrated to the State that any change will be consistent with maximum benefit to the people
+
+15 of the State, will not unreasonably affect present and anticipated beneficial use of such water and
+
+16 will not result in water quality less than that prescribed in the policies." See also SED Volume 1,
+17 p. 23-1.
+18 104. The Board's proposed relaxation of salinity objectives contravenes California's anti-
+19
+degradation policy. Resolution 68-16 (October 28, 1968); Water Code § 13377. Relaxing the 20
+
+21 salinity objective from 0.7 dS/m to 1.0 dS/m will result in lower water quality, "unreasonably
+
+22 affect present and anticipated beneficial use of such water," and "result in water quality less than
+
+23 that prescribed" in the current policies. Id.
+
+24 105. The Board's claim that the proposed amendments will not degrade water quality
+25 fails. SED Volume 1, p. 23-28. It is the Board's own ongoing delay in enforcement of water
+26 quality standards that has led to the current standard repeatedly being exceeded. The SED's claim 27
+
+28 that relaxing the standard will not violate the state's anti-degradation policy takes advantage of
+Verified Petition for Writ of Mandate & Complaint 28
+
+H
+
+2 that ongoing failure to comply with current standards and negates the purpose of the anti-
+
+3 degradation policy - "to achieve [the] highest water quality consistent with maximum benefit to
+
+4 the people of the State and .. . to promote the peace, health, safety and welfare of the people of
+
+5 the State." Resolution 68-16 (October 28, 1968). The Project approval is contrary to the
+
+6 mandates of the Porter-Cologne Water Act and Resolution 68-16.
+
+7 FOURTH CAUSE OF ACTION
+
+8 (Violation of the Public Trust Doctrine)
+
+9
+
+10 (Alleged by All Petitioners Against All Respondents)
+
+11 106. The paragraphs set forth above and below are realleged and incorporated herein by
+
+reference.
+12
+
+13 107. Water Code section 85023 states, "the longstanding constitutional principle of
+
+14 reasonable use and the Public Trust Doctrine shall be the foundation of state water management
+
+15 policy and are particularly important and applicable to the Delta."
+
+16
+
+17 108. In National Audubon Society v. Superior Court (1983) 33 Cal.3d 419, 426, the court
+
+18 noted that the public trust doctrine mandates that "before state courts and agencies approve water
+diversions they
+19 consider the effect of such diversion upon interests protected by the public
+
+20 trust, and attempt, so far as feasible, to avoid or minimize any harm to those interests." The
+
+21 National Audubon Society Court went on to explain:
+
+22 Just as the history of this state shows that appropriation may be necessary for efficient
+
+23 use of water despite unavoidable harm to public trust values, it demonstrates that an
+
+24 appropriative water rights system administered without consideration of the public trust may cause unnecessary and unjustified harm to trust interests. As a matter of
+
+25 practical necessity the state may have to approve appropriations despite foreseeable harm to public trust uses. In so doing, however, the state must bear in mind its duty
+
+26 as trustee to consider the effect of the taking on the public trust, and to preserve, so far as consistent with the public interest, the uses protected by the trust.
+
+27 Id. (citations omitted)
+
+28 109. "Public trust easements are traditionally defined in terms of navigation, commerce Verified Petition for Writ of Mandate & Complaint 29
+
+and fisheries. They have been held to include the right to fish, hunt, bathe, swim, to use for
+2 boating and general recreation purposes the navigable waters of the state, and to use the bottom of
+3 the navigable water for anchoring, standing, or other purposes." Marks v. Whitney, 6 Ca.3d at
+v
+259. For nearly 50 years it has been settled law in California that public trust values also
+
+"encompass . the preservation of those lands in their natural state, so that they may serve as 6
+
+7 ecological units for scientific study, as open space, and as environments which provide food and
+
+8 habitat for birds and marine life, and which favorably affect the scenery and climate of the area."
+9 110. The Public Trust Doctrine "imposes an obligation on the state trustee [here, the
+10 Board] 'to protect the people's common heritage of streams, lakes, marshlands and tidelands,
+11 surrendering that right of protection only in rare cases when the abandonment of that right is 12
+
+13 consistent with the purposes of the trust." Baykeeper II, 29 Cal.App.5th at 569, quoting San
+
+14 Francisco Baykeeper, Inc. v. State Lands Com. ("Baykeeper I") (2015) 242 Cal.App.4th 202, 234
+
+15 and National Audubon, 33 dCal.3d at 441. The Public Trust Doctrine "impose[s] an affirmative
+
+16 duty" on the Board "to take the public trust into account" before authorizing private parties to
+17 extract public resourcers - in this case, water from the public's rivers, tributary to the "South
+18 Delta. Baykeeper II, 29 Cal.App.5th at 570-571. Although "the state trustee has broad discretion
+19
+to promote [one public trust use] over other legitimate trust uses,' it does not have discretion 20
+
+21 to promote non-public trust uses over "legitimate trust uses." Id. at 577. But the Board did
+
+exactly that here. It allowed diversions of water for irrigation a non-public trust use - that 22
+
+23 deprive the Delta of the flows that the Board has found to be "necessary" to protect public trust
+
+24 resources. Resolution 2010-0039, p. 1. The Delta Flow Criteria Report establishes the minimum
+25 flows necessary to protect trust resources, and the Project directly violates them.
+26 111. The Project will adversely affect numerous public trust resources, including flows 27
+and habitat necessary for fish, wildlife, and recreation, because it sets base flow requirements 28
+Verified Petition for Writ of Mandate & Complaint 30
+
+1 significantly lower than the flows established in the Delta Flow Criteria Report. Even during
+
+2 adaptive management, the flows are likely to remain too low. The Project impermissibly
+3 promotes a non-public trust use • farmland irrigation - over the needs and at the expense (indeed,
+4
+
+5 potential extirpation) of the Delta's imperiled fish and wildlife, as documented by the Delta Flow
+
+6 Criteria Report, found by the Board in Resolution 2010-0039, and confirmed by the experts
+
+7 during the years of public comment on the Project.
+
+8 112. Feasible alternatives exist that would mitigate or avoid the Project's significant
+
+9 adverse impacts on the Delta's public trust resources and uses including, but not limited to, an
+10 alternative that sets higher base flows. Such an alternative would have beneficial effects on fish
+11 and wildlife, and attain most of the Project's basic objectives.
+12
+
+13 113. By approving the Project despite the fact that feasible alternatives exist that would
+
+14 preserve public trust resources to a far greater extent than the Project, the Board abdicated its
+
+15 affirmative statutory and constitutional "duties to take the trust into account and protect public
+
+16 trust uses whenever feasible," and impermissibly promoted a non-public trust use - farm irrigation
+17 at the expense of public trust resources. Baykeeper Il, 29 Cal.App.5th at 571, 577.
+18
+FIFTH CAUSE OF ACTION
+19
+
+20 (Writ of Mandate, Declaratory and Injunctive Relief to Set Aside
+
+21 Project Approvals as Contrary to CCP S8 1085 and 1094.5)
+
+22 (Alleged by All Petitioners Against All Respondents)
+
+23 114. The paragraphs set forth above and below are realleged and incorporated herein by
+
+24 reference.
+
+25 115. The Board proceeded in excess of its jurisdiction and abused its discretion in
+26 purporting to approve the Project and to certify the SED thereon, because such approvals violate 27
+
+28 CCP sections 1085 and 1094.5 in the following respects, among others:
+
+Verified Petition for Writ of Mandate & Complaint 31
+
+-
+
+2 law.
+
+3 a. such approvals were not granted in accordance with the procedures required by
+
+L
+5 b. such approvals were not based on the findings required by law; and
+
+a c. such approvals were not
+
+record before the Board.
+
+A based on, or were contrary to, the evidence in the
+
+8 among others:
+
+O o 116. The Board failed to proceed in the manner required by law in the following respects,
+
+10
+11 a. The Board violated CEQA as alleged hereinabove;
+
+12 b. The Board violated the Clean Water Act as alleged hereinabove;
+
+13 c. The Board violated the Porter-Cologne Act as alleged hereinabove; and
+
+14
+
+15 d. The Board violated the Public Trust Doctrine as alleged hereinabove.
+
+16 117. The Board's actions in approving the Project without complying with the procedures
+
+17 required by CCP sections 1085 and 1094.5 exceeded the Board's jurisdiction and constitute a
+
+18 prejudicial abuse of discretion, and therefore are invalid and must be set aside.
+
+19 PRAYER FOR RELIEF
+
+20 WHEREFORE, Petitioners pray for relief as follows:
+
+21
+
+22 1. For interlocutory and permanent injunctive relief restraining the Board from taking any
+
+action to carry out the Project pending, and following, the hearing of this matter;
+
+23
+
+24 2. For a peremptory writ of mandate directing the Board to set aside and vacate its
+approval of the Project, and certification of its SED;
+
+25
+
+26 3. For declaratory relief declaring the Project, its approval, and its SED to be unlawful;
+
+27 4. For a peremptory writ of mandate directing the Board to suspend all activity
+
+28 implementing the Project that could result in any change or alteration in the physical environment
+until it has taken all actions necessary to bring its approval of the Project and its SED into
+
+Verified Petition for Writ of Mandate & Complaint 32
+
+2 compliance with CEQA, the Clean Water Act, the Porter-Cologne Act, Public Trust Doctrine and
+the Code of Civil Procedure;
+3
+
+4 5. For attorneys' fees under Code of Civil Procedure section 1021.5;
+6. For costs incurred in this action; and
+7. For such other equitable or legal relief as the Court may deem just and proper.
+
+8 Dated: March 26, 2019
+3 0 Respectfully submitted,
+
+10
+
+11
+
+12 'Muehad B frelosen MICHAÈL B. JACKSON
+
+13 Attorney for CALIFORNIA SPORT-
+
+14 FISHING PROTECTION ALLIANCE,
+CALIFORNIA WATER IMPACT
+
+15 NETWORK, and AQUALLIANCE
+
+16
+
+17
+
+18
+
+19
+
+20 VERIFICATION
+
+21 I, Michael B. Jackson, am the attorney for Petitioners/Plaintiffs in this action. I make this
+
+22 verification on behalf of the Petitioners/Plaintiffs because such parties and their representatives
+
+23 are
+
+24 absent from the county in which my office is located. have read the foregoing Verified
+
+25 Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief and Attorneys'
+
+26 Fees and know its contents. The facts therein alleged are true and correct to the best of my
+
+27 knowledge and belief, and are based on documents within the public records underlying the
+
+28 approvals herein challenged.
+
+Verified Petition for Writ of Mandate & Complaint 33
+
+I declare under penalty of perjury under the laws of the State of California that the
+
+2 foregoing is true and correct, and that this Verification was executed in Quincy, California on
+
+March 26, 2019.
+4
+
+Iuedul Bechun
+
+8 MICHAEL B. JACKSON
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+Verified Petition for Writ of Mandate & Complaint 34
+
+PROOF OF SERVICE
+2
+County of Plumas, 3 I am a citizen of the United States of America and a resident of the
+
+4 California. I am over the age of 18 years and am not a party to the within entitled action. My
+
+5 business address is 20 Crescent Street, P. O. Box 207, Quincy, California, 95971.
+6 hereby certify that on April 1, 2019, I served one true copy of
+NOTICE TO ATTORNEY GENERAL
+8
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR O DECLARATORY AND INJUNCTIVE RELIEF, and for ATTORNEYS' FEES Case No. 34-2019-80003108 10
+
+11 by enclosing the documents in an envelope and depositing the sealed envelope with the U.S.
+12 Postal Service, with postage fully prepaid, addressed as follows:
+13 Xavier Becerra Jeanine Townsend
+14 Attorney General of California Clerk to the Board P. O. Box 944255 State Water Resources Control Board 15 Sacramento, CA 94244-2550 P. O. Box 2000
+Sacramento, Calif. 95814 16
+
+17 certify under penalty of perjury that the foregoing is true and correct. Executed on
+
+18 April 1, 2019, in Quincy, California.
+
+19
+20 Ratauschi 21 Ruth W. Jackson
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+MICHAEL B. JACKSON SBN 053808
+
+2 20 Crescent St. / P. O. Box 207 Quincy, CA 95971
+
+3 Tel.: 530-283-1007
+Fax: 530-283-4999
+
+4 Attorney for Plaintiffs and Petitioners
+CALIFORNIA SPORTFISHING PROTECTION
+
+6 ALLIANCE, CALIFORNIA WATER OMPACT
+NETWORK, and AQUALLIANCE
+
+7
+
+8
+
+9 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+10 FOR THE COUNTY OF SACRAMENTO
+
+11
+
+12 CALIFORNIA SPORTFISHING
+PROTECTION ALLIANCE,
+13 CALIFORNIA WATER IMPACT No. 34-2019-80003108
+
+14 NETWORK, and AQUALLIANCE, NOTICE TO ATTORNEY GENERAL
+
+15 Petitioners and Plaintiffs,
+
+VS.
+16 STATE WATER RESOURCES
+
+17 CONTROL BOARD, and DOES 1through 20,
+18
+
+19 Respondents and Defendants,
+
+20 DOES 21 through 200,
+
+21 Real Parties in Interest
+
+22
+
+23 To the Attorney General of the State of California:
+
+24 PLEASE TAKE NOTICE, under Public Resources Code $ 21167.7 and Code of Civil
+
+25 Procedure § 388, that on March 27, 2019, Petitioners California Sportfishing Protection Alliance,
+
+26 California Water Impact Network, and AquAlliance filed a petition for writ of mandate against
+
+27 the State Water Resources Control Board [SWRCB] in Sacramento County Superior Court. The
+
+28 petition alleges that the SWRCB violated the California Environmental Quality Act by
+
+L
+NOTICE TO ATTORNEY GENERAL
+
+improperly segmenting the project, failing to consider a reasonable range of alternatives, failing 2
+to adopt available, feasible alternatives or mitigation measures, modifying flow objectives that 3 alter the project's implementation, and failing to properly identify and fully analyze the project's 4 myriad significant environmental impacts in connection with its approval of the Final Substitute 4n Environmental Document [SED] and approval of the San Joaquin River and South Delta Water 6 Quality Bay-Delta Plan Amendments to the Water Quality Control Plan for the San Francisco 7 Bay / Sacramento-San Joaquin Delta Estuary through its adoption of Resolution 2018-0059. A 8
+copy of the petition is attached to this notice.
+9
+
+10
+
+11 Date: April 1, 2019 Nudhalbs Laolken 12
+MICHAEL B. JÁCKSON 13 Attorney for Petitioners Calfornia Sport- fishing Protection Alliance, California Water 14 Impact Network, and AquAlliance
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Page 2 Notice to Attorney General
+
+CM-010
+ATTORNEY OR PARTY WTHOUT ATTORNEY (N State Bar number, and address): *MICHAEL B. JACKSON SBN 053808 FOR COURT USE ONLY
+20 Crescent St. / P. O. Box 207 Quincy, CA 95971
+TELEPHONE NO.: 530-283-1007 FAX NO.: 530-283-4999 ATTORNEY FOR (Namo): CSPA, C-WIN, AquAlliance
+SUPERIOR COURT OF CALIFORNIA, COUNTY OF Sacramento
+STREET ADDRESS: 720 9th St.
+MAILING ADDRESS:
+CITY AND ZIP CODE: Sacramento, CA 95814
+BRANCH NAME:
+CASE NAME:
+CSPA, C-WIN, and AquAlliance vs. State Water Res. Control Board
+CIVIL CASE COVER SHEET Complex Case Designation CASE NUMBER:
+V Unlimited Limited
+(Amount (Amount - Counter D Joinder
+demanded demanded is Filed with first appearance by defendant JUDGE:
+
+exceeds $25,000) $25,000 or less) (Cal. Rules of Court, rule 3.402) DEPT:
+Items 1-6 below must be completed (see instructions on page 2).
+1. Check one box below for the case type that best describes this case:
+Auto Tort Contract Provisionally Complex Civil Litigation
+Auto (22) Breach of contract/warranty (06) (Cal. Rules of Court, rules 3.400-3.403)
+Uninsured motorist (46) Rule 3.740 collections (09) Antitrust/Trade regulation (03)
+Other PI/PDAWD (Personal Injury/Property Other collections (09) Construction defect (10)
+Damage/Wrongful Death) Tort Insurance coverage (18) Mass tort (40)
+Asbestos (04)
+Product Iiability (24) Other contract (37) Securities litigation (28)
+Real Property Environmental/Toxic tort (30)
+Medical malpractice (45) Eminent domain/Inverse Insurance coverage claims arising from the
+Other PI/PD/D (23) condemnation (14) above listed provisionally complex case
+Non-PI/PD/WD (Other) Tort Wrongful eviction (33) types (41)
+Business tort/unfair business practice (07) Other real property (26) Enforcement of Judgment
+Civil rights (08) Unlawful Detainer Enforcement of judgment (20)
+Defamation (13) Commercial (31) Miscellaneous Civil Complaint
+Fraud (16) Residential (32) RICO (27)
+Intellectual property (19) Drugs (38)
+Judicial Review Other complaint (not specified above) (42)
+Professional negligence (25) Miscellaneous Civil Petition
+Other non-PI/PD/WD tort (35) Asset forfeiture (05)
+Employment Petition re: arbitration award (11) Partnership and corporate governance (21)
+Wrongful termination (36) Writ of mandate (02) Other petition (not specified above) (43)
+
+Other employment (15) Other judicial review (39)
+2. This case is is not complex under rule 3.400 of the California Rules of Court. If the case is complex, mark the factors requiring exceptional judicial management:
+a. Large number of separately represented parties d. Large number of witnesses
+b. Extensive motion practice raising difficult or novel e. Coordination with related actions pending in one or more courts
+issues that will be time-consuming to resolve C. Substantial amount in other counties, states, or countries, or in a federal court
+of documentary evidence f. Substantial postjudgment judicial supervision
+3. Remedies sought (check all that apply): a.  monetary b.7 nonmonetary; declaratory or injunctive relief c. punitive
+4. Number of causes of action (specify): five 5. This case  is M is not a class action suit. 6. If there are any known related cases, file and serve a notice of related case. (You may use form CM-015.)
+Date: March 27, 2019
+
+(TYPE OR PRINT NAME) Mnofol ,pebseon NOTICE Plaintiff must file this cover sheet with the first paper filed in the action or proceeding (except small claims cases or cases filed under the Probate Code, Family Code, or Welfare and Institutions Code). (Cal. Rules of Court, rule 3.220.) Failure to file may result in sanctions.
+• File this cover sheet in addition to any cover sheet required by local court rule. If this case is complex under rule 3.400 et seq. of the California Rules of Court, you must serve a copy of this cover sheet on all other parties to the action or proceeding. Unless this is a collections case under rule 3.740 or a complex case, this cover sheet will be used for statistical purposes only. Page 1 of 2
+Form Adopted for Mandatory Use Judiciai Council of Califomia CIVIL CASE COVER SHEET Cal. Rules of Court, rules 2.30, 3.220, 3.400-3.403, 3.740;
+CM-010 [Rev. July 1, 2007] Cal. Standards of Judicial Administration, std. 3.10
+www.courtinfo.ca.gov
+
+RECETVER APR J 3 2019 BY:_____

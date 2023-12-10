@@ -1,0 +1,2610 @@
+1 Maureen F. Gorsen (SBN 170158) Maureen.gorsen@sidley.com 2 SIDLEY AUSTIN LLP
+1999 Avenue of the Stars
+3 Los Angeles, CA 90067 Telephone: +1 310 595 9644
+4 Facsimile: +1 310 595 9501
+
+5 David R. Carpenter (SBN 230299) drcarpenter@sidley.com
+6 SIDLEY AUSTIN LLP
+555 West Fifth Street
+7 Los Angeles, CA 90013
+Telephone: +1 213 896 6000
+Facsimile: +1 213 896 6600
+
+9 Attorneys for Petitioner and PlaintiffCR&R
+
+10 Environment Services, Inc.
+
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+12 FOR THE COUNTY OF RIVERSIDE
+
+13 CR&R ENVIRONMENTAL SERVICES, INC., Case No. CVRI 2200320
+
+14 Petitioner and Plaintiff, NOTICE TO ATTORNEY GENERAL
+
+15 VS. [Public Resources Code, § 21167.7; Code of
+16 CALIFORNIA DEPARTMENT OF TOXIC Civil Procedure, § 388]
+SUBSTANCES CONTROL; MEREDITH
+17 WILLIAMS, in her capacity as Director of the
+
+18 Department of Toxic Substances Control; and DOES through 100, inclusive,
+
+19 Respondents and Defendants.
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL
+
+1 TO ALL PARTIES AND TO THEIR ATTORNEYS OF RECORD:
+
+2 PLEASE TAKE NOTICE pursuant to Public Resources Code, § 21167.7 and Code of Civil
+
+3 Procedure, § 388, that on January 25, 2022, Petitioner and Plaintiff CR&R Environmental
+4 Services, Inc. filed a Verified Petition for Writ of Mandate and Complaint for Declaratory and
+5 Injunctive Relief ("Petition") against Respondents and Defendants California Department of
+
+6 Toxic Substances Control ("DTSC") and Meredith Williams, and hereby furnish a copy of the
+7 Petition as Exhibit A.
+
+The Petition alleges, among other things, that DTSC is violating the California
+
+9 Administrative Procedures Act and the California Environmental Quality Act by imposing new
+10 testing requirements on Engineered Municipal Solid Waste ("EMSW") conversion.
+
+11
+
+12 DATED: January 28, 2022 SIDLEY AUSTIN LLP
+
+13
+
+14 Wde teo By:
+
+15 Maureen F. Gorsen
+Attorneys for Petitioner
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+2
+NOTICE TO ATTORNEY GENERAL
+
+EXHIBIT A
+
+Electronically FILED by Superior Court of California, County of Riverside on 01/25/2022 02:08 PM Case Number CVRI2200320 0000009446000 - W. Samuel Hamrick Jr., Executive Officer/Clerk of the Court By Amia Brown, Clerk
+
+Maureen F. Gorsen (SBN 170158) Maureen.gorsen@sidley.com
+2 SIDLEY AUSTIN LLP
+1999 Avenue of the Stars
+3 Los Angeles, CA 90067
+Telephone: +1 310 595 9644
+4 Facsimile: +1 310 595 9501
+
+5 David R. Carpenter (SBN 230299) drcarpenter@sidley.com
+6 SIDLEY AUSTIN LLP
+555 West Fifth Street
+7 Los Angeles, CA 90013
+Telephone: +1 213 896 6000
+8 Facsimile: +1 213 896 6600
+
+Attorneys for Petitioner and Plaintiff CR&R
+Environment Services, Inc.
+10
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+11
+FOR THE COUNTY OF RIVERSIDE
+12
+
+13 CR&R ENVIRONMENTAL SERVICES, INC., Case No. CVRI2200320
+
+14 Petitioner and Plaintiff, VERIFIED PETITION FOR WRIT OF
+
+15 MANDATE AND COMPLAINT FOR
+VS. DECLARATORY AND INJUNCTIVE
+RELIEF
+16 CALIFORNIA DEPARTMENT OF TOXIC
+I SUBSTANCES CONTROL; MEREDITH
+17 WILLIAMS, in her capacity as Director of the [Code Civ. Proc., §§ 1060, 1085; California
+Department of Toxic Substances Control; and Administrative Procedure Act ("APA"), Gov.
+DOES through 100, inclusive, Code § § 11340 et seq.; California 18 Environmental Quality Act ("CEQA"), Pub.
+
+19 Respondents and Defendants. Res. Code § 21000 et seq.]
+
+20 Petitioner and Plaintiff CR&R Environmental Services, Inc. ("CR&R") hereby submits this
+
+21 Complaint and petitions this Court for a writ of mandate against Respondents California
+
+22 Department of Toxic Substances Control ("DTSC") and Meredith Williams, in her capacity as
+
+23 Director of DTSC (collectively, "DTSC," or "Respondents"). By this Verified Petition and
+
+24 Complaint, CR&R alleges as follows:
+
+25 INTRODUCTION
+
+26 1. CR&R turns municipal solid waste (stuff in your black trash can) into a cost-effective
+
+27 and environmentally friendly biofuel used in making cement. This process-called "Engineered
+
+28 Municipal Solid Waste conversion," or "EMSW conversion"--has enormous benefits. It diverts
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+1 trash from landfills and reduces reliance on fossil fuels, all while saving money for local
+
+2 governments and the public. Because of these benefits, EMSW conversion is expressly authorized
+by the California Public Resources Code and has been integrated into Riverside County's waste
+
+4 management plan.
+
+5 2. Despite this statutory authority and these overwhelming benefits, DTSC would
+
+6 regulate EMSW conversion out of existence. DTSC has adopted a de facto regulation that a
+
+7 company cannot accept EMSW for conversion unless it meets testing protocols that are not only
+
+8 unnecessary and unfounded, but are logistically impossible and economically unfeasible. As a
+result, cement producers have no choice but to stop using EMSW. That means more reliance on
+
+10 fossil fuels and more waste ends up in landfills all at the greater expense to local governments
+
+11 and the public. CR&R, in turn, is at risk of losing the millions of dollars that it has invested in its
+
+12 EMSW processing facility and, just prior to Christmas, was already forced to lay off employees
+13 dedicated to those operations.
+
+14 3. DTSC's EMSW testing requirements are a form of underground regulation that
+15 violates the California Administrative Procedure Act because the requirements are being imposed
+16 without notice and comment rulemaking and other procedural safeguards. Independently, DTSC's
+17 conduct is arbitrary, capricious, and unreasonable, as DTSC's actions would nullify the statute
+
+18 authorizing EMSW conversion, lack legal or scientific foundation, and are not reasonably related
+
+19 to (much less necessary for) protecting the public from exposure to hazardous waste. To the
+
+20 contrary, DTSC's actions will end up harming the environment, local governments, and their
+21 residents by promoting the use of fossil fuels and interfering with critical waste-management
+
+22 infrastructure. Indeed (and among other legal problems), DTSC's regulatory actions have
+
+23 environmental impacts that are required to pass, but have not been subjected to, CEQA review.
+
+24 4. In sum, this is a classic case of an agency myopically focusing on one regulatory
+
+25 measure (control of potentially hazardous waste) without thinking about the practical implications
+
+26 of its actions, performing any cost-benefit analysis, or considering the effect on other public policy
+27 goals and the interests of affected stakeholders. Accordingly, CR&R seeks, among other relief,
+
+28 declaratory relief and a writ of mandate prohibiting DTSC from imposing its testing requirements
+
+2
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+1 (including threatening companies with penalties for engaging in EMSW conversion without
+
+2 meeting the testing requirements). Moreover, because DTSC's actions are causing CR&R
+immediate, actual, and irreparable harm, CR&R is seeking a preliminary injunction pending
+4 adjudication of this action.
+
+5 PARTIES
+
+6 5. CR&R is an environmental services and recycling company that develops and
+
+7 implements innovative programs to reduce landfill waste and promote sustainable energy
+
+8 generation. CR&R owns and operates a recycling transfer station and bioenergy facility in Perris,
+
+9 California, where it sorts and processes waste from over 20 neighboring cities and towns to produce
+10 a clean-burning biofuel, referred to as EMSW. CR&R developed and operates its facility in
+11 accordance with permit issued by the County of Riverside under authority delegated by the
+12 California Department of Resources Recycling and Recovery (CalRecycle), and consistent with the
+13 statutory authorization for EMSW conversion in Public Resources Code Section 40131.2.
+
+14 6. DTSC is an agency of the State of California, organized and existing under and
+
+15 pursuant to Health and Safety Code Section 58000 et seq. DTSC is authorized to administer and
+
+16 enforce California's Hazardous Waste Control Law (Health & Saf. Code §§ 25100 et seq.)
+17 ("HWCL") and its implementing regulations (22 Cal. Code Regs. §§ 66260.1 et seq.) but may not
+
+18 do so in an unlawful manner.
+
+19 7. Respondent Meredith Williams is sued in her official capacity as the Director of
+
+20 DTSC. The Director serves as the chief executive of DTSC and ultimately is responsible for the
+21 decisions made by DTSC concerning its implementation of applicable laws and regulations. Dr.
+22 Williams was appointed to serve as Director by Governor Gavin Newsom on December 19, 2019.
+
+23 JURISDICTION AND VENUE
+
+24 8. This Court has jurisdiction over this proceeding pursuant to the California
+25 Constitution, Article VI, Section 10: Code of Civil Procedure Sections 525, 526, 1060 and 1085,
+
+26 Government Code Section 11350; and Public Resources Code Sections 21080.5, 21168.5 and
+
+27 21168.9.
+
+28
+
+3
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+1 9. Venue in this Court is proper under Code of Civil Procedure Sections 393(b) and
+2 401(1) because Respondent DTSC and the Attorney General maintain offices in Riverside County.
+
+3 In addition, operations at CR&R's facility that are affected by DTSC's actions are located in
+
+4 Riverside County.
+
+5 10. CR&R provided written notice of its intention to commence this action to
+
+6 Respondents, in compliance with Public Resources Code Section 21167.5. A copy of that notice
+
+7 and proof of service, along with a Notice of Commencement filed concurrently with this Petition,
+
+8 is attached hereto as Exhibit A.
+
+11. Concurrent with the filing of this Petition, CR&R filed a notice requesting that
+
+10 Respondent DTSC prepare the administrative record for this action, in accordance with Public
+
+11 Resources Code Section 21167.6(a). This notice is attached as Exhibit B.
+
+12 12. CR&R will serve the Attorney General with a copy of this Petition, along with a
+13 notice of its filing, upon filing in compliance with Public Resources Code Section 21167.7.
+
+14 STATEMENT OF FACTS
+
+15 A. The California Integrated Waste Management Act and Statutory Authorization
+
+16 for EMSW Conversion
+
+17 13. The California Integrated Waste Management Act of 1989 ("IWMA"), which is
+
+18 administered by the Department of Resources Recycling and Recovery ("'CalRecycle"), requires
+19 cities, counties, and regional agencies to develop integrated waste management plans that meet
+
+20 various conditions and targets. Since the passage of the IWMA, the Legislature has enacted
+21 directives and programs to increase the diversion of waste from landfills, reduce greenhouse gas
+
+22 emissions, and encourage technologies that process solid waste into fuel sources capable of
+
+23 replacing fossil fuels.
+
+24 14. In 2013, the Legislature passed Assembly Bill No. 1126 ("AB 1126") (attached as
+
+25 Exhibit C), which amended the California Public Resources Code to define and authorize EMSW
+
+26 conversion as a technology available to municipalities for use in their waste-management plans.
+
+27 Proponents of the bill noted that its passage was necessary in order "to provide the best-possible
+28 environmental protection and oversight while minimizing unnecessary burdens," and that "EMSW
+
+4
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+-
+
+2 conversion ... would allow.. . facilities to replace fossil fuel energy sources such as coal, thereby
+
+3 reducing California's [Greenhouse Gas] emissions." (Ex. D, California AB 1126 Senate Committee
+Report (Aug. 30, 2013), at 5.)
+
+4 15.
+
+5 CalRecycle, along with local enforcement agencies like the Riverside County Health
+
+6 Department, regulates the operation of solid waste facilities, including EMSW conversion facilities.
+B. CR&R's Perris Transfer Station
+
+7 16.
+
+8 By the early-1990s, all County landfills in Southwest Riverside County had closed.
+The remaining landfills able to serve the area are located near Corona (El Sobrante Landfill) or
+
+10 Moreno Valley (Badlands Landfill). Both are over 20 miles from the center of Riverside's waste
+
+11 collection area and require movement on heavily congested freeways (I-15 and I-215).
+17.
+
+12 CR&R operates the Perris Transfer Station, located in the City of Perris in southwest
+
+13 Riverside County. The facility has been in operation since 1996 providing waste transfer and
+recycling services to the communities of southwest Riverside
+
+14 County. The facility currently
+
+15 processes thousands of tons of municipal solid waste, recyclables, green and food waste, and
+construction/demolition wastes per day.
+
+16 18.
+
+17 The purposes of the facility are the removal of recyclable materials from the regional
+
+18 municipal solid waste stream, the sorting and refinement of organic waste for use as biofuel, and
+
+19 the transfer of residual waste for disposal. The facility primarily accepts municipal solid waste
+
+20 (including organics) and recyclable materials from the incorporated cities and surrounding
+
+21 unincorporated areas of Riverside County. The recycling and processing activities at the Perris
+
+22 Facility assist these communities in meeting the recycling and waste reduction requirements of the
+Integrated Waste Management Act.
+
+23 19.
+
+24 After the Legislature passed AB 1126, CR&R invested approximately $15 million in
+
+25 developing facilities to process EMSW, for Riverside and surrounding communities. Last year (and
+
+26 until DTSC's interference), CR&R's EMS W-operations were able to divert approximately 120 tons
+
+27 of waste per day away from landfills. CR&R expects that, if EMSW conversion were allowed to
+
+28 continue, CR&R's Perris Transfer Station would be able to divert over 500 tons of waste per day
+away from landfills, as more companies begin using the technology.
+
+5
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+- C. The Perris Transfer Station's Hazardous Waste Screening and EMSW
+
+2 Refinement Process
+
+3 20.
+
+4 The Public Resources Code sets forth requirements for EMSW conversion. (See Cal.
+
+5 Pub. Res. Code 40131.2.) The requirements include, among other things, that "[t]he waste to be
+
+6 converted is beneficial and effective in that it replaces or supplements the use of fossil fuels," "[t]he
+
+7 conversion is efficient and maximizes the net calorific value and burn rate of the waste," "[t]he
+
+8 waste has an energy content equal to, or greater than, 5,000 BTU per pound," and "[t]he waste
+
+9 received at the facility for conversion is handled in compliance with the requirements for the
+
+10 handling of solid waste . . . , and no more than a seven-day supply of that waste
+facility at any one is stored at the
+
+11 time." (Id.) The statute also requires that "[t]he waste to be converted, the
+
+12 resulting ash, and any other products of conversion do not meet the criteria or guidelines for the
+
+13 identification of a hazardous a waste adopted by the Department of Toxic Substances Control
+
+14 pursuant to Section 25141 of the Health and Safety Code." (Id.) CR&R employs a multi-stage
+
+15 process to ensure its EMSW is environmentally friendly, is screened for hazardous waste, and
+meets or exceeds all appropriate standards.
+
+16 21.
+
+17 First, the facility does not accept hazardous wastes or designated medical or special
+
+18 wastes, nor does it accept wastes containing greater than 50 percent moisture by weight (with the
+exception of liquid food wastes). It also does not accept waste that contains asbestos or lead-based
+
+19 materials.
+
+20 22.
+
+21 Waste is rigorously pre-screened on arrival. Appropriate on-site personnel
+
+22 (supervisors, scalehouse attendants, spotters, and equipment operators) are provided with training
+
+23 in the identification of potentially hazardous materials or other unacceptable wastes that may enter
+
+24 the facility. Every vehicle entering the site must check in and identify the contents of the load while
+
+25 being weighed at the scalehouse; suspicious loads are sight-inspected even before they are released
+
+26 for pre-screening. If questionable is waste is found, the load is refused. A list of the most commonly
+seen hazardous materials is posted at the scalehouse.
+
+27 23.
+
+28 Inspections of all incoming waste loads occur on the tipping floor as the waste is
+dumped from each truck. Inspection is provided by the on-floor spotters, equipment operators, and
+
+6
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+facility supervisors. If non-acceptable materials are suspected or identified at any location, the
+
+2 materials are isolated, and the supervisor is notified for further examination and identification. The
+
+3 supervisor attempts to establish the character, exact source, amount, and extent of the non-
+
+4 acceptable waste.
+
+5 24. If the material is suspected of being potentially hazardous, the supervisor contacts
+
+6 the Hazardous Materials Management Division of the Riverside County Department of Health
+
+7 a Services and/or a licensed hazardous waste disposal company to identify and remove the material
+
+8 from the site. Hazardous waste or other unacceptable waste materials are handled by a qualified
+
+9 hazardous waste clean-up contractor who removes, transports, and disposes of the waste at a
+
+10 permitted hazardous waste facility, in compliance with all federal, state, and local regulations.
+
+11 25. Materials found in the waste load that are not considered to be extremely hazardous,
+
+12 but are not considered acceptable materials, such as car batteries, oil and paint, or drugs, are
+13 removed from the waste load on the tipping floor either mechanically or by on-floor spotters. These
+14 materials are placed in the hazardous waste storage container, which is inspected on a regular basis
+15 to assure that proper storage procedures are being adhered to. At least once every 90 days, materials
+16 in the storage container are removed by a licensed hazardous waste disposal company and disposed
+
+17 of at a permitted disposal or recycling facility.
+
+18 26. Following pre-screening for hazardous waste, incoming waste is sorted to remove
+
+19 metal, glass, recyclables, and other materials unsuitable for use as biofuel. The remaining material
+
+20 is then run through a shredding process, followed by phases of both ferrous and non-ferrous
+
+21 magnetic sorting in order to remove both magnetic and non-magnetic metal fragments. It is then
+
+22 subjected to wind sifter separation, followed by secondary shredding. The remaining waste material
+23 undergoes 24/7 quality control monitoring using near-infrared cameras, where it is evaluated to
+24 ensure there are no unacceptable levels of moisture, chlorine, or BTU content. CR&R then
+
+25 transports the EMSW to a CEMEX Construction Materials Pacific, LLC ("Cemex") cement plant
+
+26 in Apple Valley, California using trucks, a number of which are zero-emission trucks that run on
+
+27 methane processed from green waste.
+
+28
+
+7
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+1 27. Over the past three years, CR&R has engaged in its EMSW operations without
+
+2 incident, and has been subject to numerous inspections and tours by various agencies, such as
+
+3 CalRecycle, the California Air Resources Board, the regional Air Quality Management District,
+
+4 and the Local Enforcement Agency for Riverside's Department of Environmental Health. In
+
+5 addition, the Riverside County Hazardous Materials Management Division periodically inspects
+
+6 the site it as it pertains to the proper handling, storage, and disposal of hazardous waste, the storage
+
+7 and handling of hazardous materials, and the operation of any underground storage tanks used for
+
+8 fuel or other hazardous materials.
+
+9 D. The Use of EMSW Conversion in Making Cement'
+
+10 28. EMSW conversion is particularly used by cement producers for fueling their kilns.
+11 Running the kilns is an energy-intensive process that involves temperatures up to 3,000 degrees
+12 Fahrenheit. Historically, cement producers have relied on fossil fuels, such as coal. EMSW
+
+13 conversion, in contrast, is generally cheaper and helps reduce emissions, as biogenic EMSW
+14 produces 56% less CO2 per unit of heat than coal (the typical alternative), while non-biogenic
+15 EMSW produces 84% less. Moreover, because the kilns burn so hot, EMSW is incinerated without
+
+16 any resulting ash-i.e., it is a zero-waste process.
+
+17 29. Currently, all of the EMSW that CR&R processes is sold as a product (not as
+
+18 discarded waste), and is purchased by Cemex and used in its cement manufacturing process. Cemex
+
+19 is a subsidiary of a multinational construction materials company that for years has been using
+
+20 EMSW conversion as a fuel source in other countries, including in Europe.
+
+21 30. CR&R is currently in discussions with other cement companies to provide them with
+22 EMSW for similar EMSW conversion operations. CR&R is informed and believes, and on that
+23 basis alleges, that other cement companies see EMSW conversion as a cost-effective and
+
+24 environmentally beneficial alternative to fossil fuels and would enter into contracts with CR&R to
+
+25 purchase EMSW for conversion, absent the threat of unreasonable regulatory interference by
+
+26 DTSC, as further described below.
+
+27
+
+28 Paragraphs 28 through 36 are alleged on information and belief, based on CR&R's investigation.
+
+8
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+- E. DTSC's Arbitrary Imposition of Unworkable Standards Effectively Precludes
+
+2 EMSW Conversion, Harming CR&R and the Environment
+
+3 31. On July 28, 2021, during an unrelated site visit at the Cemex Apple Valley Cement
+* Facility in Victorville, California, DTSC inspectors learned that Cemex was employing EMSW
+
+5 biofuel to heat its cement kilns.
+
+6 32. As the DTSC inspectors explained to Cemex, their July 28, 2021 site visit was related
+
+7 to their "investigation of Kleen Blast Abrasives (KBA) facilities for ERM [Excluded Recyclable
+
+8 Material] management." (Ex. E, 10/28/21 Cemex Investigation Report, at 4.) EMSW was not
+mentioned as a reason for their visit. However, during the inspection, DTSC inspectors learned that
+
+10 Cemex was employing EMSW biofuel as fuel in its cement manufacturing process, leading the
+
+11 DTSC inspectors to their first foray into exploring this material and wondering if they could have
+
+12 a role in regulating this product made from municipal solid waste. Thus, DTSC decided to sample
+
+13 the EMSW and a run a Waste Extraction Test ("WET") for total metals, soluble metals, PCBs, and
+
+14 aquatic toxicity.
+
+15 33. DTSC reported that its analysis of the sample slightly exceeded a regulatory threshold
+
+16 for lead toxicity; no other toxicities were detected or alleged. Several months later, on October 28,
+
+17 2021, DTSC issued an investigation report to Cemex characterizing the EMSW as a "hazardous
+
+18 waste" and stating that Cemex must immediately cease accepting EMSW that is a "hazardous
+
+19 waste" as fuel for its cement kiln. (Ex. E, at pp. 14-15, 18.)
+
+20 34. On November 10, 2021, Cemex and DTSC met to discuss DTSC's summary of
+
+21 violations, and on November 19, 2021, Cemex provided a letter disputing the report's findings and
+
+22 requesting clarification. (See Ex. F.) As Cemex explained, DTSC's characterization of EMSW as
+
+23 "hazardous waste" was unsubstantiated, including because (among other reasons) it was not based
+
+24 on any representative sampling. Cemex's letter also tried to explain the public benefits of using
+
+25 EMSW and the rigorous regulatory oversight that already existed.
+
+26 35. On December 8, 2021, DTSC responded that Cemex could continue to burn EMSW,
+
+27 but it "must test each batch of EMSW that arrives to determine if that load exhibits any hazardous
+
+28 waste characteristics." (Ex. G, 12/8/21 DTSC Response Letter, at 1, emphasis in original.) Under
+
+9
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+-
+
+2 the testing requirement required by DTSC, Cemex would have to hold and store each shipment of
+
+3 EMSW brought to it while waiting for test results, and any loads exceeding the alleged thresholds
+
+4 "must be rejected." (Id.) DTSC's letter did not address the feasibility of these testing requirements
+
+5 and did not respond to Cemex's discussion of the public benefits of EMSW or the extensive
+regulations and oversight already in place.
+
+6 36.
+
+7 The following day, Cemex responded that DTSC's requirements were so burdensome
+
+8 as to be logistically impossible, effectively precluding Cemex from engaging in EMSW conversion
+
+9 entirely. (Ex. H. 12/9/21 Cemex Response Letter.) Among other reasons given were the following:
+
+10 The Victorville plant receives an average of six to eight loads of EMSW per day
+
+11 from CR&R, typically consisting of between eighteen and twenty-five tons, and the
+
+12 plant is not configured to isolate or reject individual loads.
+
+13 The turnaround time for expedited sampling ranges between four and ten calendar
+
+14 days. Under Cemex's solid waste permit (and by statute), EMSW may only remain
+
+15 on site for a maximum of seven days, meaning that the maximum permissible
+
+16 holding time would in many cases be reached before the sample was returned.
+
+17 At a price of $750 dollars per sample, the cost of obtaining an expedited analysis of
+each sample would average $30,000 per week.
+
+18
+
+19 In it addition, it was impossible for CR&R to conduct the requested testing, as CR&R
+
+20 lacks the ability to isolate and hold shipments of EMSW at its facility due to both
+operational limitations and permitting issues.
+
+21
+
+22 Cemex's letter thus informed DTSC that Cemex had no choice but to cease accepting EMSW.
+37.
+
+23 The impact on CR&R was drastic and immediate. Because Cemex was CR&R's only
+
+24 existing customer for EMSW, the direct and foreseeable effect of DTSC's actions has been to bring
+
+25 CR&R's EMSW operations to a halt. Moreover, the testing requirements that DTSC would impose
+are frustrating CR&R's ability to contract with other cement producers.
+
+26 38.
+
+27 Accordingly, following a $15 million dollar investment in building its EMSW
+
+28 facility, that facility now sits idle, and CR&R has been forced to lay off employees. In addition, an
+average of 120 tons of waste which should have been converted to clean-burning fuel in accordance
+
+10
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+-
+
+2 with the directives of the California legislature is sent to landfills daily, where it will eventually
+
+3 generate methane, and in its place the Cemex plant is being forced to burn less environmentally
+
+4 friendly fuels. The effects of DTSC's first foray into attempting to regulate the EMSW product as
+
+5 a "hazardous waste" on the State's climate policy goals are severe and counterproductive.
+FIRST CAUSE OF ACTION
+
+6
+
+7 Declaratory and Injunctive Relief (Code Civ. § Proc. § 1060; Gov. Code § 11350)
+39.
+
+8 paragraphs. CR&R re-alleges and incorporates herein by reference the allegations of all foregoing
+
+9 40.
+
+10 The APA provides that "[a]ny interested [party] may obtain a judicial declaration as
+to the validity of any regulation .
+
+11 by bringing an action for declaratory relief in the superior court
+in accordance with the Code of Civil Procedure." (Gov. Code § 11350(a).)
+
+12 41.
+
+13 The APA defines "regulation" as "every rule, regulation, order, or standard of general
+
+14 application or the amendment, supplement, or revision of any rule, regulation, order, or standard
+
+15 adopted by any state agency to implement, interpret, or make specific the law enforced or
+administered by it, or to govern its procedure." (Gov. Code § 11342.600.)
+
+16 42.
+
+17 If a policy or procedure falls within the definition of a "regulation" within the
+
+18 meaning of the APA, the promulgating agency must comply with the procedures for formalizing
+
+19 such regulation, which include public notice, (Gov. Code § 11346.5), and approval by the Office
+of Administrative Law, (Gov. Code §§ 11349.1, 11349.3).
+
+20 43.
+
+21 A regulation may be declared invalid if "the agency's determination that the
+regulation is reasonably necessary to effectuate the purpose of the
+22 statute, court decision, or other
+
+23 provision of law that is being implemented, interpreted or made specific by the regulation is not
+supported by substantial evidence.3* (Gov. Code § 11350(b)(1).)
+
+24 44.
+
+25 The APA requires regulations to meet standards of "necessity," "authority," "clarity,"
+"consistency," "reference" and "nonduplication." (Gov. Code 11349.1(a).)
+
+26 45.
+
+27 DTSC has adopted sua sponte and de facto regulation that every "batch" of EMSW
+
+28 must be tested prior to use in order to meet the requirements for EMSW conversion. DTSC has
+further defined "batch" to mean "truckload." Although the rule was adopted through ad hoc
+
+11
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+dealings with Cemex, CR&R is informed and believes, and on that basis alleges, that the testing
+
+2 requirements would apply to any cement producer that contracts with CR&R and seeks to engage
+
+3 in EMSW conversion.
+
+4 46. This spontaneously created rule constitutes a "regulation" under the APA. That is
+
+5 because the newly created EMSW testing requirements operate as a rule for the interpretation and
+
+6 implementation of section 40131.2 of the Public Resources Code-i.e., the requirements for
+
+7 EMSW conversion.
+
+8 47. DTSC failed to follow any of the necessary rulemaking procedures prior to imposing
+
+9 this regulation, including notice and comment and review by the Office of Administrative Law.
+10 The testing requirements therefore constitute an impermissible underground regulation, and should
+
+11 be declared invalid.
+
+12 48. This case presents a justiciable issue, in that CR&R's EMSW operations are directly
+
+13 affected by the testing requirements and there is a present and actual controversy between CR&R
+14 and DTSC as to the validity of DTSC's testing regimen within the meaning of the APA.
+
+15 49. A declaratory judgment in this matter would afford relief from the uncertainty, cost,
+16 disruption, conflict, and controversy giving rise to this proceeding, and would provide direction to
+
+17 CR&R and other affected parties regarding the validity of DTSC's testing requirements.
+18 SECOND CAUSE OF ACTION
+
+19 Writ of Mandate (Code Civ. Proc. § 1085)
+
+20 50. CR&R re-alleges and incorporates herein by reference the allegations of all foregoing
+21 paragraphs.
+
+22 51. "A writ of mandate may be issued by any court to any ... board, or person, to compel
+23 the performance of an act which the law specially enjoins, as a duty resulting from an office, trust,
+24 or station, or to compel the admission of a party to the use and enjoyment of a right .. . to which
+
+25 the party is entitled, and from which the party is unlawfully precluded by that ….. board, or person."
+26 (Code Civ. Proc. § 1085(a).)
+
+27
+
+28
+
+12
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+1 52. "The writ must be issued in all cases where there is not a plain, speedy, and adequate
+
+2 remedy, in the ordinary course of law. It must be issued upon the verified petition of the party
+3 beneficially interested." (Code Civ. Proc. § 1086.)
+
+4 53. A writ may be issued to compel an agency's compliance with the law or to prevent
+
+5 an abuse of discretion, including where an agency's action is not authorized by statute or is arbitrary
+
+6 and capricious.
+
+7 54. As explained above, DTSC's actions and EMSW testing requirements are not
+
+8 authorized by statute and are arbitrary, capricious, and unreasonable for several reasons, including
+
+9 but not limited to the following:
+
+10 a. Compliance with DTSC's testing requirements is logistically impossible and
+
+11 economically infeasible, meaning that DTSC's testing requirements would
+
+12 effectively nullify the statutory authorization for EMSW conversion.
+
+13 b. It is contrary to DTSC regulations and arbitrary and capricious to characterize EMSW
+
+14 as a hazardous waste and/or to impose such testing requirements based on analysis
+
+15 of a single, non-representative sample from a heterogenous shipment.
+
+16 C. Given the extensive regulation of EMSW by other agencies and the history of safe
+17 and beneficial EMSW conversion operations, DTSC's conduct is not rationally
+
+18 related to the protection of health or safety.
+
+19 d. DTSC's testing requirements are arbitrary, capricious, and unreasonable because
+
+20 their inevitable effect is to harm the environment by increasing the amount of waste
+21 sent to landfills and increasing cement producers' reliance on fossil fuels- contrary
+
+22 to the State's public policy objectives. These adverse effects clearly outweigh any
+23 alleged marginal benefit that DTSC was purportedly seeking to achieve.
+
+24 e. DTSC's conduct was arbitrary and capricious because DTSC did not consider the
+
+25 effect of its actions on local governments and their ability to use EMSW conversion
+
+26 as part of their waste management plans, or the increased costs associated with
+27 cement companies' use of more expensive fossil fuels.
+
+28
+
+13
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+f. DTSC's conduct was arbitrary and capricious because it did not consider the impact
+
+2 on local businesses that invested in EMSW technology, including CR&R. CR&R is
+informed and believes and, on that basis alleges, that DTSC was aware that CR&R
+4 was Cemex's supplier and of the impact that DTSC's action would have on CR&R.
+
+5 But DTSC made no effort to contact or consult with CR&R before taking its actions.
+
+6 55. CR&R seeks a writ of mandate compelling DTSC to withdraw its testing
+
+7 requirements in general and specifically as applied to Cemex, thus permitting Cemex to resume
+
+8 using CR&R's EMSW, without threat of penalty for failing to comply with DTSC's corrective
+
+9 action demands.
+
+10 56. CR&R has no plain and speedy or adequate remedy at law other than the relief sought
+
+11 herein, and will be irreparably harmed if the corrective action sought by DTSC is not rescinded.
+
+12 THIRD CAUSE OF ACTION
+
+13 Violation of CEQA (Pub. Res. Code § 21000 et seq.)
+
+14 57. CR&R re-alleges and incorporates herein by reference the allegations of all foregoing
+
+15 paragraphs.
+
+16 58. CEQA and the State CEQA Guidelines, (14 Cal. Code Regs., §§ 15000 et seq.),
+17 ("CEQA Guidelines") require public agencies to evaluate and, if feasible, avoid or mitigate
+
+18 potentially significant environmental impacts from public projects that they propose to carry out or
+
+19 approve. (See CEQA § 21002.1; CEQA Guidelines § 15002(a).)
+
+20 59. CEQA also prohibits "piecemealing" of a project's environmental effects and
+21 requires an agency to assess the "whole of an action" which "has a potential for resulting in either
+22 a direct physical change in the environment, or a reasonably foreseeable indirect physical change
+
+23 in the environment." (CEQA Guidelines § 15378(a).)
+
+24 60. CEQA applies to any action taken by a public agency "which may cause either a
+
+25 direct physical change in the environment, or a reasonably foreseeable indirect physical change in
+
+26 the environment." (CEQA § 21065(a).) CEQA requires public agencies to evaluate and avoid or
+
+27 mitigate environmental impacts, including those resulting from agency rulemaking.
+
+28
+
+14
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+F 61. DTSC's action has esulted in the landfilling of over a hundred tons of waste per day
+
+2 that would otherwise be converted to biofuel and cleanly disposed of. Further, it has required the
+
+3 Cemex facility to burn less environmentally friendly fuels in place of clean-burning biofuel. These
+4 consequences alone violate CEQA. Furthermore, DTSC failed to even consider whether its
+
+5 rulemaking constituted a it project, as it was required to do for CEQA purposes, much less conduct
+
+6 the required environmental impact analysis.
+
+7 62. By failing to conduct environmental review as required by CEQA, DTSC committed
+
+8 a prejudicial abuse of discretion, failed to proceed in the manner required by law, and failed to
+
+9 support its actions with substantial evidence as required by CEQA Section 21168.5.
+10 FOURTH CAUSE OF ACTION
+
+11 Inverse Condemnation (Cal. Const., art. I, § 19; U.S. Const., amends. IV, XIV)
+
+12 63. CR&R re-alleges and incorporates herein by reference the allegations of all foregoing
+13 paragraphs.
+
+14 64. The California Constitution guarantees "just compensation" whenever private
+15 property is "taken or damaged for a public use." (Cal. Const., art. I, $ 19(a).) The U.S. Constitution
+
+16 guarantees "just compensation" whenever private property is "taken for public use." (U.S. Const.,
+17 amend. IV.) Inverse condemnation occurs when there is a public taking of a (or interference with)
+18 land without formal eminent domain proceedings.
+
+19 65. DTSC's actions have prevented CR&R from using its facility for its intended
+
+20 purpose, thereby rendering said property valueless and unusable. CR&R owns its entire EMSW
+21 facility, including the land, buildings, and processing equipment. This facility was purpose-built to
+22 supply EMSW, and it cannot be used for any other purpose. The facility represents a $15 million
+
+23 dollar investment, the value of which has been reduced to zero by DTSC's invalid exercise of
+
+24 rulemaking authority. DTSC has caused extreme interference with CR&R's property without
+
+25 lawful authority and without formal exercise of the power of eminent domain, resulting in inverse
+
+26 condemnation.
+
+27
+
+28
+
+15
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+1 FIFTH CAUSE OF ACTION
+
+2 Injunctive Relief (Code Civ. Proc. § 526)
+
+3 66. CR&R re-alleges and incorporates herein by reference the allegations of all foregoing
+4 paragraphs.
+
+5 67. DTSC's unlawful, arbitrary, and capricious conduct, as above, is causing CR&R
+
+6 immediate and irreparable harm by effectively prohibiting EMSW conversion, thereby destroying
+
+7 CR&R's operations as an EMSW supplier. Specifically, DTSC's actions forced Cemex (CR&R's
+
+8 sole EMSW customer) to cease accepting EMSW. Moreover, CR&R was in the process of securing
+
+9 contracts with other cement producers to supply EMSW, but as long as DTSC's testing
+
+10 requirements stand, CR&R will be unable to secure new contracts. By eliminating CR&R's EMSW
+
+11 customer base, DTSC has already forced CR&R to lay off employees and is causing CR&R to
+
+12 suffer daily losses. Absent relief, CR&R's investment in its EMSW facility could be lost entirely,
+
+13 and CR&R's business as a whole is at risk.
+
+14 68. CR&R has no adequate remedy at law for the injuries alleged herein. Only this
+
+15 Court's exercise of its equitable powers can protect CR&R from sustaining irreparable harm.
+
+16 69. While injunctive relief would prevent irreparable injury to CR&R, any resulting
+
+17 injury to Respondents (if any at all) would be negligible. Indeed, Respondents cannot be harmed
+
+18 by being required to follow appropriate rulemaking procedures for the adoption of new regulations,
+
+19 or by being required to conduct the prescribed environmental impact analysis prior to shutting down
+
+20 an entire industry.
+
+21 70. The public interest would also be served by injunctive relief because DTSC's
+
+22 demands are crushing a nascent industry, interfering with local waste-management plans, and
+23 negatively impacting the environment. DTSC's actions are causing approximately 120 tons of
+24 additional solid waste to be sent to a landfills on a daily basis. Moreover, they are forcing cement
+25 kilns to burn less environmentally friendly fuels instead of clean biofuel, increasing CO2 emissions
+
+26 and thwarting California's emission reduction targets.
+
+27
+
+28
+
+16
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+PRAYER FOR RELIEF
+
+2 WHEREFORE, CR&R prays for entry of judgment as follows:
+0T 1. For a judicial declaration as alleged herein,
+2. For the issuance of a peremptory writ of mandate pursuant to Code Civ. Proc. § 1085.
+
+3. For the issuance of a peremptory writ of mandate directing Respondents to comply with
+CEQA, the CEQA Guidelines, and to take any other action required by law.
+
+7 4. For damages for inverse condemnation according to proof at trial.
+
+8 5. For preliminary and permanent injunctive relief as appropriate pursuant to Code Civ. Proc.
+
+9 98 525 et seq.
+
+10 6. For the costs of this suit, including attorney's fees, pursuant to Code of Civil Procedure §
+
+11 1021.5 and any other applicable law: and
+
+12 7. For such other relief as the Court finds just and proper.
+
+13
+
+14 DATED: January 21, 2022
+
+SIDLEY AUSTIN LLP 15
+
+16
+By: Mfeeevtoo
+17 Maureen F. Gorsen
+Attorney for Petitioner 18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+17
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+1 VERIFICATION
+
+2
+I, Michael Silva, declare under penalty of perjury that:
+3 am the Vice President of the Bioenergy Division at CR&R Environmental Services, Inc.
+4
+("CR&R"). I am authorized to make this verification on behalf of CR&R.
+5 I have read CR&R's Verified Petition for Writ of Mandate and Complaint, and the exhibits
+6 attached thereto. The matters stated within are true and correct to the best of my knowledge.
+declare under penalty of perjury under the laws of the State of California that the 8
+foregoing is true and correct.
+9 Executed on January 21, 2022, in Los Angeles, California.
+10
+
+11
+
+12 AfalSLda Michael Silva
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+18
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+EXHIBIT A
+
+SIDLEY AUSTIN LLP
+SIDLEY 555 WEST FIFTH STREET
+LOS ANGELES, CA 90013
++1 213 896 6000
++1 213 896 6600 FAX
+
++1 310 595 9644
+AMERICA ASIA PACIFIC EUROPE MAUREEN.GOR SEN@SIDLEY.COM
+
+January 21, 2022
+
+Via FedEx and Email
+
+Meredith Williams
+California Department of Toxic Substances Control
+1001 "I" Street
+Sacramento, CA 95814
+Meredith.Williams@dtsc.ca.gov
+
+Re: CR& R Environmental Services, Inc. v. California Department of Toxic Substances Control, et al. - Notice of Commencement of Petition for Writ of Mandate and Request for Meet and Confer
+
+Dear Ms. Williams:
+
+This letter is to notify you that CR&R Environmental Services, Inc. ("CR&R") will file suit against the California Department of Toxic Substances Control ("DTSC") for writ of mandamus and declaratory relief based on its de facto regulation that a company cannot accept Engineered Municipal Solid Waste ("EMSW"') for conversion unless the company first tests each batch. CR&R understands that DTSC imposed those requirements on CR&R's customer, CEMEX Construction Materials Pacific, LLC ("Cemex"), in correspondence with Cemex on or around December 8, 2021. Those requirements caused Cemex to immediately stop purchasing EMSW from CR&R because the testing protocols demanded are logistically impossible and economically unfeasible. CR&R further understands and believes that such testing protocols would be applied to any other EMSW customer--thus effectively eliminating CR&R's EMSW-processing business and nullifying the Legislature's express statutory authorization of EMSW conversion.
+
+CR&R's complaint will contain further background information about CR&R, the environmental benefits of EMSW conversion, and the immediate and irreparable harm being caused to CR&R. The complaint will assert causes of action for, among other relief, (1) declaratory relief for failure to observe the requirements of the regulations adopted by the California Administrative Procedure Act("APA") (Gov. Code §§ 11340 etseq.), (2) writ of mandate because the testing protocols are arbitrary, capricious, and unreasonable, and (3) declaratory relief for failure to comply with the California Environmental Quality Act ("CEQA") (Pub. Res. Code §§ 21000 et seq.). This notice is given pursuant to Public Resources Code section 21167.5.
+
+Sidley Austin (CA) LLP a Delaware limited liabiity partnership doing business s Sidley Austin ILP and pracfcing in afifation with Sidey Austin partnerships
+
+SIDLEY
+
+Page 2
+
+CR&R also respectfully requests DTSC meet and confer on a schedule for briefing CR&R's preliminary injunction motion within a week of receiving this letter, otherwise we will
+proceed with an OSC. We intend to contact you regarding this letter within 5 business days and if 5 there is a convenient time, kindly advise us. If you prefer to reach us immediately, please contact me at (310) 595-9644 or David R. Carpenter at (213) 896-6679.
+
+Sincerely,
+
+Is Maureen Gorsen
+
+Maureen Gorsen
+
+ACTIVE 277148342
+
+From: Williams, Meredith@DTSC <Meredith.Williams@dtsc.ca.gov>
+Sent: Friday, January 21, 2022 11:54 AM
+To: Cadena, Bianca
+Cc: Gorsen, Maureen F.; Carpenter, David R. (LA Partner); Hafetz, Lawrence@DTSC
+Subject: RE: CR&R Environmental Services, Inc. - Notice of Commencement of Petition for Writ of Mandate
+and Request for Meet and Confer
+
+Hello,
+
+Please consider this acknowledgement of receipt of this letter.
+
+Regards,
+Meredith
+
+Meredith Williams (she/her/hers)
+Director
+916-322-0504
+I meredith.williams@dtsc.ca.gov
+Department of Toxic Substances Control
+1001 "I" Street, P.O. Box 806, Sacramento,
+California 95812-0806
+California Environmental Protection Agency
+
+Please conserve water!
+
+From: Cadena, Bianca <bcadena@sidley.com>
+Sent: Friday, January 21, 2022 10:41 AM
+To: Williams, Meredith@DTSC <Meredith.Williams@dtsc.ca.gov>
+Cc: Gorsen, Maureen F. <maureen.gorsen@sidley.com>; Carpenter, David R. (LA Partner) <drcarpenter@sidley.com> Subject: CR&R Environmental Services, Inc. - Notice of Commencement of Petition for Writ of Mandate and Request for Meet and Confer
+
+EXTERNAL:
+
+Ms. Williams,
+
+Attached please find a letter from Maureen Gorsen concerning the above-identified subject matter.
+Thank you,
+
+Bianca
+
+BIANCA CADENA
+Senior Managing Associate
+
+1
+
+SIDLEY AUSTIN LLP
+555 West Fifth Street
+Los Angeles, CA 90013
++1 213 896 6606
+bcadena@sidley.com
+www.sidley.com
+
+SIDLEY
+
+************************************
+
+This e-mail is sent by a law firm and may contain information that is privileged or confidential. If you are not the intended recipient, please delete the e-mail and any attachments and notify us
+immediately.
+
+.***************************
+
+2
+
+1 Maureen F. Gorsen (SBN 170158)
+Maureen.gorsen@sidley.com
+2 SIDLEY AUSTIN LLP 1999 Avenue of the Stars
+3 Los Angeles, CA 90067 Telephone: +1 310 595 9644
+4 Facsimile: +1 310 595 9501
+
+5 David R. Carpenter (SBN 230299)
+drcarpenter@sidley.com
+6 SIDLEY AUSTIN LLP
+555 West Fifth Street
+7 Los Angeles, CA 90013
+Telephone: +1 213 896 6000
+8 Facsimile: +1 213 896 6600
+
+Attorneys for Petitioner and Plaintiff CR&R
+Environment Services, Inc.
+10
+
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+12 FOR THE COUNTY OF RIVERSIDE
+
+13
+
+14 CR&R ENVIRONMENTAL SERVICES, INC., Case No.
+
+15 Petitioner and Plaintiff, NOTICE OF COMMENCEMENT OF
+PETITION FOR WRIT OF MANDATE 16 VS.
+
+17 CALIFORNIA DEPARTMENT OF TOXIC [Public Resources Code, § 21167.5]
+SUBSTANCES CONTROL; MEREDITH
+18 WILLIAMS, in her capacity as Director of the Department of Toxic Substances Control; and
+19 DOES through 100, inclusive,
+
+20 Respondents and Defendants.
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE OF COMMENCEMENT OF PETITION AND WRIT OF MANDATE
+
+1 TO ALL PARTIES AND TO THEIR ATTORNEYS OF RECORD:
+
+2 PLEASE TAKE NOTICE that on January 21, 2022, and concurrent with filing : Petition
+
+3 for Writ of Mandate in litigation bearing the same caption, and which includes a cause of action
+
+4 under the California Environmental Quality Act, Public Resources Code §§ 2100 et seq.,
+
+5 Petitioner and Plaintiff served this Notice of Commencement to the California Department of
+
+6 Toxic Substances Control in accordance with the requirements of Section 21167.5.
+
+7
+
+8 DATED: January 21, 2022 SIDLEY AUSTIN LLP
+
+10 By: Wcese
+
+11 Maureen F. Gorsen
+Attorneys for Petitioner
+12
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+2
+NOTICE OF COMMENCEMENT OF PETITION AND WRIT OF MANDATE
+
+EXHIBIT B
+
+- Maureen F. Gorsen (SBN 170158)
+Maureen.gorsen@sidley.com
+2 SIDLEY AUSTIN LLP
+1999 Avenue of the Stars
+3 Los Angeles, CA 90067 Telephone: +1 310 595 9644 4 Facsimile: +1 310 595 9501
+
+5 David R. Carpenter (SBN 230299)
+drcarpenter@sidley.com
+6 SIDLEY AUSTIN LLP
+555 West Fifth Street
+7 Los Angeles, CA 90013 Telephone: +1 213 896 6000
+8 Facsimile: +1 213 896 6600
+
+9 Attorneys for Petitioner and Plaintiff CR&R
+Environment Services, Inc.
+10
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+11
+FOR THE COUNTY OF RIVERSIDE
+12
+
+13 CR&R ENVIRONMENTAL SERVICES, INC., Case No.
+
+14 Petitioner and Plaintiff, NOTICE OF REQUEST TO PREPARE
+THE ADMINISTRATIVE RECORD
+15 VS.
+
+16 CALIFORNIA DEPARTMENT OF TOXIC [Public Resources Code, § 21167.6(a)]
+
+17 SUBSTANCES CONTROL; MEREDITH WILLIAMS, in her capacity as Director of the Department of Toxic Substances Control; and
+18 DOES through 100, inclusive,
+
+19 Respondents and Defendants.
+
+20
+
+21
+
+88 &
+25
+
+26
+
+27
+
+28
+
+NOTICE OF REQUEST TO PREPARE THE ADMINISTRATIVE RECORD
+
+1 TO ALL PARTIES AND TO THEIR ATTORNEYS OF RECORD:
+
+2 PLEASE TAKE NOTICE that, pursuant to Public Resources Code, § 21167.6(a),
+
+3 Petitioner and Plaintiff herein request that Respondents and Defendants California Department of
+
+4 Toxic Substances Control and Meredith Williams prepare the record of proceedings in the above-
+
+5 entitled action.
+
+6
+
+7 DATED: January 21, 2022 SIDLEY AUSTIN LLP
+
+8
+
+By:
+
+10 Maureen F. Gorsen Attorneys for Petitioner
+11
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+2
+NOTICE OF REQUEST TO PREPARE THE ADMINISTRATIVE RECORD
+
+EXHIBIT C
+
+Assembly Bill No. 1126
+
+CHAPTER 411
+
+An act to amend Sections 40121, 40180, 40192, 40194, 40200, 40201, 41700, 41721, 41780.05, 41781, and 50001 of, and to add Section 40131.2 to, the Public Resources Code, relating to solid waste.
+
+[Approved by Governor September 28, 2013. Filed with
+Secretary of State September 28, 2013.]
+
+LEGISLATIVE COUNSEL'S DIGEST
+AB 1126, Gordon. Solid waste: engineered municipal solid waste (EMSW) conversion.
+(1) The California Integrated Waste Management Act of 1989 (act), which is administered by the Department of Resources Recycling and Rccaxeveccrns nch cieinguncy end mreion erscna wis rey to devalon plan. With certain exceptions, the source reduction and recycling element of that plan is required to divert 50% of all solid waste, through source reduction, recycling, and composting activities. Existing law allows the 50% diversion requirement to include, pursuant to specified conditions, not more than 10% through biomass conversion, which is defined as the controlled combustion of specific materials for use in producing electricity or heat. Existing law defines the term "transformation" and excludes from
+that definition composting, gasification, and biomass conversion.
+This bill would define the terms "EMSW conversion" and "EMSW
+conversion facility," and would make conforming changes to existing definitions with regard to those operations and facilities. The bill would additionally exclude EMSW conversion from the definition of transformation, and would allow a transformation facility that meets specified requirements relating to EMSW conversion to elect to be considered an
+EMSW facility for purposes of the act, except as provided. (2) The act requires the integrated waste management plan required to be adopted by a county to include a countywide siting element that provides a description of the areas to be used for the development of certain facilities. The act excludes certain solid wastes, for purposes of determining the base rate for the diversion of solid waste, and requires that the amount of solid waste diverted include solid waste diverted from a disposal facility or transformation facility. Existing law requires the department to determine compliance with the act's 50% diversion requirement, based on the jurisdiction's change in its per capita disposal rate and specifies the procedure for determining that rate. This bill would require the countywide siting element to include a description of the areas to be used to for the development of adequate EMSW
+
+90
+
+Ch. 411
+
+conversion, thereby imposing a state-mandated local program by imposing new duties upon local agencies. This bill would additionally exclude certain used tires or waste tires or biomass materials that are converted at an EMSW conversion facility from the per capita disposal determination and would require, for purposes of the solid waste calculation used in the base rate determination, the amount of solid waste to include solid waste diverted from an EMSW conversion facility. (3) Existing law prohibits person from establishing or expanding a solid waste facility in a county, after a countywide or regional agency integrated waste management plan has been approved, unless the solid waste facility is, among other things, a disposal facility or a transformation facility that meets certain criteria. This bill would additionally include, as one of those facilities, an EMSW conversion facility.
+(4) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement. This bill would provide that no reimbursement is required by this act for a specified reason.
+
+The people of the State of California do enact as follows:
+
+SECTION 1. Section 40121 of the Public Resources Code is amended
+to read:
+40121. "Disposal facility" or "facility" means a facility or location where disposal of solid waste occurs or an EMSW conversion facility. SEC.2. Section 40131.2 is added to the Public Resources Code, to read: 40131.2. (a) "Engineered municipal solid waste conversion" or "EMSW conversion" means the conversion of solid waste through a process that meets all of the following requirements: (1) The waste to be converted is beneficial and effective in that it replaces or supplements the use of fossil fuels. (2) The waste to be converted, the resulting ash, and any other products of conversion do not meet the criteria or guidelines for the identification of a hazardous waste adopted by the Department of Toxic Substances Control pursuant to Section 25141 of the Health and Safety Code. (3) The conversion is efficient and maximizes the net calorific value and
+burn rate of the waste. (4) The waste to be converted contains less than 25 percent moisture and less than 25 percent noncombustible waste.
+(5) The waste received at the facility for conversion is handled in compliance with the requirements for the handling of solid waste imposed pursuant to this division, and no more than a seven-day supply of that waste, based on the throughput capacity of the operation or facility, is stored at the
+facility at any one time.
+
+90
+
+-3 - Ch. 411
+
+(6) No more than 500 tons per day of waste is converted at the facility where the operation takes place. (7) The waste has an energy content equal to, or greater than, 5,000 BTU per pound.
+(8) The waste to be converted is mechanically processed at a transfer or processing station to reduce the fraction of chlorinated plastics and materials. (b) "Engineered municipal solid waste conversion facility" or "EMSW facility" means a facility where municipal solid waste conversion that meets the requirements of subdivision (a) takes place. (c) Notwithstanding Section 40201, a transformation facility where solid waste conversion takes place that meets all of the requirements of subdivision (a) may elect to be considered an EMSW facility for purposes of this division and Division 31 (commencing with Section 50000), except that if a portion of a transformation facility's operations does not meet the requirements of subdivision (a), the facility shall be considered to be a transformation facility. SEC. 3. Section 40180 of the Public Resources Code is amended to read: 40180. "Recycle" or "recycling" means the process of collecting, sorting, cleansing, treating, and reconstituting materials that would otherwise become solid waste, and returning them to the economic mainstream in the form of
+raw material for new, reused, or reconstituted products which meet the quality standards necessary to be used in the marketplace. "Recycling" does not include transformation, as defined in Section 40201 or EMSW conversion.
+SEC. 4. Section 40192 of the Public Resources Code is amended to read: 40192. (a) Except as provided in subdivisions (b) and (c), "solid waste disposal," "disposal," or "dispose" means the final deposition of solid wastes onto land, into the atmosphere, or into the waters of the state. (b) For purposes of Part (commencing with Section 40900), "solid waste disposal," "dispose," or "disposal" means the management of solid waste through landfill disposal, transformation, or EMSW conversion, at a permitted solid waste facility, unless the term is expressly defined otherwise. (c) For purposes of Chapter 16 (commencing with Section 42800) and Chapter 19 (commencing with Section 42950) of Part 3, Part 4 (commencing with Section 43000), Part 5 (commencing with Section 45000), Part 6 (commencing with Section 45030), and Chapter 2 (commencing with Section 47901) of Part 7, "solid waste disposal," "dispose," or "disposal" means the final deposition of solid wastes onto land. SEC. 5. Section 40194 of the Public Resources Code is amended to read: 40194. "Solid waste facility" includes a solid waste transfer or processing station, a composting facility, a gasification facility, a transformation facility, an EMSW conversion facility, and a disposal facility. For purposes of Part 5 (commencing with Section 45000), "solid waste facility" additionally includes solid waste operation that may be carried out pursuant to an enforcement agency notification, as provided in regulations adopted by the
+department.
+SEC. 6. Section 40200 of the Public Resources Code is amended to read:
+
+90
+
+Ch. 411
+
+40200. (a) "Transfer or processing station" or "station" includes those facilities utilized to receive solid wastes, temporarily store, separate, convert, or otherwise process the materials in the solid wastes, or to transfer the solid wastes directly from smaller to larger vehicles for transport, and those facilities utilized for transformation. (b) "Transfer or processing station" or "station" does not include any of the following:
+(1) A facility, whose principal function is to receive, store, separate,
+convert, or otherwise process in accordance with state minimum standards,
+manure.
+(2) A facility, whose principal function is to receive, store, convert, or otherwise process wastes that have already been separated for reuse and are not intended for disposal.
+(3) The operations premises of a duly licensed solid waste handling operator who receives, stores, transfers, or otherwise processes wastes as an activity incidental to the conduct of refuse collection and disposal business in accordance with regulations adopted pursuant to Section 43309. (4) An EMSW conversion facility. SÉC. 7. Section 40201 of the Public Resources Code is amended to read: 40201. "Transformation" means incineration, pyrolysis, distillation, or biological conversion other than composting. "Transformation" does not include composting, gasification, EMSW conversion, or biomass conversion. SEC. 8. Section 41700 of the Public Resources Code is amended to read: 41700. Each county shall prepare a countywide a siting element that provides a description of the areas to be used for development of adequate transformation, EMSW conversion, or disposal capacity concurrent and consistent with the development and implementation of the county and city source reduction and recycling elements adopted pursuant to this part. SEC. 9. Section 41721 of the Public Resources Code is amended to read: 41721. (a) The countywide siting element shall be approved by the county and by a majority of the cities within the county that contain majority of the population of the incorporated area of the county except in those counties that have only two cities, in which case the element is subject to approval of the city that contains the majority of the population of the incorporated area of the county. Each city shall act upon the countywide siting element within 90 days after receipt of the siting element. If a city fails to act upon the siting element within 90 days after receiving the siting element, the city shall be deemed to have approved the siting element as
+submitted.
+(b) Notwithstanding subdivision (a), siting element providing for an EMSW conversion facility is only required to be approved by the city in which it is located, or if the EMSW is not located in a city, by the county. SEC. 10. Section 41780.05 of the Public Resour Code is amended
+to read:
+41780.05. (a) After January 1, 2009, pursuant to the review authorized by Section 41825, the department shall determine each jurisdiction's compliance with Section 41780 for the years commencing with January 1,
+
+90
+
+Ch. 411
+
+2007, by comparing each jurisdiction's change in its per capita disposal rate in subsequent years with the equivalent per capita disposal rate that would have been necessary for the jurisdiction to meet the requirements of Section 41780 on January 1, 2007, as calculated pursuant to subdivisions (c) and (d).
+(b) (1) For purposes of paragraph (5) of subdivision (e) of Section 41825, in making a determination whether a jurisdiction has made good faith effort to implement its source reduction and recycling element or its household hazardous waste element, the department shall consider, but is not limited to the consideration of, the jurisdiction's per capita disposal rat and whether the jurisdiction adequately implemented its diversion programs. (2) When determining whether a jurisdiction has made a good faith effort pursuant to Section 41825 to implement its source reduction and recycling element or its household hazardous waste element, the department shall consider that an increase in the per capita disposal rate is the is result of the amount of the jurisdiction's disposal increasing faster than the jurisdiction's growth. The department shall use this increase in the per capita disposal rate that is in excess of the equivalent per capita disposal rate as a factor in determining whether the department is required, pursuant to Section 41825, to more closely examine a jurisdiction's program implementation efforts. This examination may indicate that a jurisdiction is required to expand
+existing programs or implement new programs, in accordance with the procedures specified in Article 4 (commencing with Section 41825) and in Article 5 (commencing with Section 41850). (3) When reviewing the level of Sections 41825 and 41850, the department shall proeren, imeglementaztion pumcani in use, as a determining compliance with Section 41780, the amount determined pursuant
+to subdivision (d) when comparing a jurisdiction's per capita disposal rate in subsequent years. (c) (1) (A) Except as otherwise provided in this subdivision, for purposes of this section, "per capita disposal" or "per capita disposal rate" means the total annual disposal, in pounds, from a jurisdiction divided by the total population in a jurisdiction, as reported by the Department of Finance, divided by 365 days. (B) "Per capita disposal" does not include used tires or waste tires, as defined in Article 1 (commencing with Section 42800) of Chapter 16 of Part 3, that are converted at an EMSW conversion facility. (C) "Per capita disposal" does not include biomass material, as defined in subdivision (a) of Section 40106, that is converted at an EMSW
+conversion facility.
+(2) (A) If a jurisdiction is predominated by commercial or industrial activities and by solid waste generation from those sources, the department may alternatively calculate per capita disposal to reflect those differing conditions.
+(B) When making a calculation for a jurisdiction subject to this paragraph, "per capita disposal" or "per capita disposal rate" means the total annual disposal, in pounds, from a jurisdiction divided by total industry employment
+
+90
+
+Ch. 411
+
+in a jurisdiction, as reported by the Employment Development Department, divided by 365 days. (C) The department shall calculate the per capita disposal rate for jurisdiction subject to this paragraph using the level of industry employment in a jurisdiction instead of the level of population in a jurisdiction. (3) If the department determines that the method for calculating the per capita disposal rate for a jurisdiction provided by paragraph (1) or (2) does not accurately reflect that jurisdiction's disposal reduction, the department may use an alternative per capita factor, other than population or industry employment, to calculate the per capita disposal rate that more accurately reflects the jurisdiction's efforts to divert solid waste. (d) The department shall calculate the equivalent per capita disposal rate for each jurisdiction as follows: (1) Except as otherwise provided in this subdivision, the equivalent per capita disposal rate for a jurisdiction shall be determined using the method specified in this paragraph. (A) The calculated generation tonnage for each year from 2003 to 2006,
+inclusive, shall be multiplied by 0.5 to yield the 50 percent equivalent disposal total for each year. (B) The 50 percent equivalent disposal total for each year shall be multiplied by 2,000, divided by the population of the jurisdiction in that year, and then divided by 365 to yield the 50 percent equivalent per capita disposal for each year. (C) The four 50 percent equivalent per capita disposal amounts from the years 2003 to 2006, inclusive, shall be averaged to yield the equivalent per capita disposal rate. (2) If a jurisdiction is predominated by commercial or industrial activities and by solid waste generation from those sources, the department may alternatively calculate the equivalent per capita disposal rate to reflect those conditions by using the level of industry employment in a jurisdiction instead of the level of population in that jurisdiction. (3) If the department determines that the method for calculating the equivalent per capita disposal rate for a jurisdiction a pursuant to this subdivision does not accurately reflect a jurisdiction's per capita disposal rate that would be equivalent to the amount required to meet the 50 percent diversion requirements of Section 41780, the department may use an
+alternative per capita factor, other than population or industry employment, to calculate the equivalent per capita disposal rate that more accurately reflects the jurisdiction's diversion efforts. (4) The department shall modify the percentage used in paragraph (1) to maintain the diversion requirements approved by the department for a rural jurisdiction pursuant to Section 41787 or for a reduction
+pursuant to Section 41786. granted
+(5) The department may modify the years included in making a calculation pursuant to this subdivision for an individual gurisdiction to eliminate years in which the calculated generation amount is shown be representative or accurate, based upon a generation study completed in
+
+90
+
+-7- Ch. 411
+
+one of the five years 2003 to 2007, inclusive. In these cases, the department shall not allow the use of an additional year other than 2003, 2004, 2005, 2006, or 2007. (6) The department may modify the method of calculating the equivalent per capita disposal rate for an individual jurisdiction to accommodate the incorporation of a new city, the formation of a new regional agency, or changes in membership of an existing regional agency. These modifications shall ensure that a new entity has a new equivalent per capita disposal rate and that the existing per capita disposal rate of an existing entity is adjusted to take into account the disposal amounts lost by the creation of the new
+entity.
+(7) The department shall not incorporate generation studies or new base year calculations for a year commencing after 2006 into the equivalent per capita disposal rate, unless a generation study that included the year 2007 was commenced on or before June 30, 2008.
+(8) If the department determines that the equivalent per capita disposal rate cannot accurately be determined for a jurisdiction, or that the rate is no longer representative of a jurisdiction's waste stream, the department shall
+evaluate trends in the jurisdiction's per capita disposal to establish a revised equivalent per capita disposal rate for that jurisdiction. SEC. 11. Section 41781 of the Public Resources Code is amended to
+read:
+41781. (a) Except as provided in Sections 41781.1, and 41781.2, for the purpose of determining the base rate of solid waste from which diversion requirements shall be calculated, "solid waste" includes only the following: (1) The amount of solid waste generated within a local agency's jurisdiction, the types and quantities of which were disposed of at a permitted disposal facility as of January 1, 1990. Nothing in this section requires local agencies to perform waste characterization in addition to the waste characterization requirements established under Sections 41030, 41031, 41330, 41331, and 41332. (2) The amount of solid waste diverted from a disposal facility, transformation facility, or EMSW facility, through source reduction, recycling, or composting. (b) For the purposes of this section, "solid waste" does not include solid
+waste that would not normally be disposed of at a disposal facility.
+(c) For the purposes of this chapter, the amount of solid waste from which the required reductions are measured shall be the amount of solid waste existing on January 1, 1990, with future adjustments for increases or decreases in the quantity of waste caused only by changes in population or changes in the number or size of governmental, industrial, or commercial operations in the jurisdiction. SEC. 12. Section 50001 of the Public Resources Code is amended to
+read:
+50001. (a) Except as provided by subdivision (b), after a countywide or regional agency integrated waste management plan has been approved by the Department of Resources Recycling and Recovery pursuant to
+
+90
+
+Ch. 411
+
+Division 30 (commencing with Section 40000), a person shall not establish or expand a solid waste facility, as defined in Section 40194, in the county unless the solid waste facility meets one of the following criteria: (1) The solid waste facility is a disposal facility, a transformation facility, or an EMSW conversion facility, the location of which is identified in the countywide siting element or amendment to that element, which has been approved pursuant to Section 41721. (2) The solid waste facility is a facility that is designed to recover for reuse or recycling at least 5 percent of the total volume of material received by the facility, and that is identified in the nondisposal facility element that has been approved pursuant to Section 41800 or is included in an update to that element. (b) Solid waste facilities other than those specified in paragraphs (1) and (2) of subdivision (a) shall not be required to comply with the requirements of this section.
+(c) The person or agency proposing to establish a solid waste facility shall prepare and submit a site identification and description of the proposed facility to the task force established pursuant to Section 40950. Within 90 days after the site identification and description iS submitted to the task force, the task force shall meet and comment on the proposed solid waste facility in writing. These comments shall include, but are not limited to, the relationship between the proposed solid waste facility and the implementation schedule requirements of Section 41780 and the regional impact of the facility. The task force shall transmit these comments to the person or public agency proposing establishment of the solid waste facility, to the county, and to all cities within the county. The comments shall become part of the official record of the proposed solid waste facility. (d) The review and comment by the local task force shall not be required for an update to a nondisposal facility element. SEC. 13. No reimbursement is required by this act pursuant to Section 6 of Article XIIIB of the California Constitution because a local agency or school district has the authority to levy service charges, fees, or assessments sufficient to pay for the program or level of service mandated by this act,
+within the meaning of Section 17556 of the Government Code.
+
+O
+
+90
+
+EXHIBIT D
+
+14
+
+SENATE RULES COMMITTEE AB 1126
+Office of Senate Floor Analyses
+1020 N Street, Suite 524
+(916) 651-1520 Fax: (916) 327-4478
+
+THIRD READING
+
+Bill No: AB 1126
+Author: Gordon(D), et al
+Amended: 8/14/13 in Senate
+Vote: 21
+
+SENATE ENVIRONMENTAL QUALITY COMMITTEE: 9-0, 6/26/13
+AYES: Hill, Gaines, Calderon, Corbett, Fuller, Hancock, Jackson, Leno, Pavley
+
+SENATE APPROPRIATIONS COMMITTEE: Senate Rule 28.8
+
+ASSEMBLY FLOOR: 78-0, 5/29/13 See last page for vote
+
+SUBJECT: Solid waste: biomass conversion: engineered municipal solid
+waste conversion
+
+SOURCE: Author
+
+DIGEST: This bill establishes regulatory standards for facilities that convert engineered municipal solid waste (EMSW).
+
+ANALYSIS:
+
+Existing law under the Integrated Waste Management Act of 1989 (Act):
+1. Requires each city or county source reduction and recycling element to include an implementation schedule that shows a city or county must divert 25% of solid waste from landfill disposal or trans formation by January 1, 1995, and must divert 50% of solid waste on and after January 1, 2000 through source reduction, recycling, and composting activities.
+
+CONTINUED
+
+AB 1126
+Page 2
+
+2. Declares that it is the policy goal of the state to divert 75% of the state's solid
+waste through source reduction, recycling and composting by 2020.
+3. Defines "transformation" as incineration, pyrolysis, distillation, or bio logical conversion and does not include composting, gasification, or biomass
+conversion.
+
+4. Defines "transfer or processing station" as those facilities utilized to receive
+solid wastes, temporarily store, separate, convert, or otherwise process the
+materials in the solid wastes, or to transfer the solid waste directly from smaller
+to larger vehicles for transport and those facilities utilized for trans formation.
+
+5. Defines "solid waste disposal" for the purposes of preparing integrated waste management plans, as the management of solid waste through landfill disposal,
+trans formation.
+
+6. Defines "disposal facility" to mean a facility or location where disposal or solid
+waste occurs.
+
+7. Specifies that "solid waste facility" include a solid waste transfer or processing station, a composting facility, gasification facility and a disposal facility.
+8. Requires each county to prepare a countywide siting element that provides a description of the areas to be used for development of adequate transformation or disposal capacity concurrent and consistent with the development and implementation of the county and city source reduction recycling requirements and requires the countywide siting element to be approved by the county and by a majority of cities within the county with a majority of the population. a
+9. Prohibits a person from disposing of solid waste, arranging for the disposal of solid waste, transporting solid waste for purposes of disposal, or accepting solid waste for disposal, except at a solid waste disposal facility for which a solid waste facilities permit has been issued, as specified.
+10. Prohibits the establishment or expansion of a solid waste facility in the county unless the solid waste facility is a disposal facility or a transformation facility which is identified in the countywide siting element or amendment to the element, or is a solid waste facility that is designed to recover for reuse or
+recycling at least 5% of the total volume of material received by the facility and has been identified in the nondisposal facility element that has been approved, as specified.
+
+CONTINUED
+
+AB 1126
+Page
+
+This bill:
+
+1. Defines "EMSW conversion," as the conversion of solid waste through a
+process that meets all the following requirements:
+
+A. The waste to be converted is beneficial and effective in that it replaces or supplants the use of fossil fuels.
+
+B. The waste to be converted, the resulting ash, and any other products of
+conversion do not meet the criteria or guidelines for the identification of a
+hazardous waste adopted by the Department of Toxic Substances Control, as
+specified.
+
+C The conversion is efficient and maximizes the net calorific value and burn
+rate of the waste.
+
+D. The waste to be processed contains less than 25% moisture and less than
+25% noncombustible waste.
+
+E. The waste to be processed is handled in compliance with the solid waste handling requirements, as specified, and no more than a seven-day supply of that waste, based on the throughput capacity of the operation or facility, is stored at the facility at any one time.
+
+F. No more than 500 tons per day of waste is converted at the facility where the operation takes place.
+
+G. The waste has energy content equal to or greater than 5,000 British Thermal
+Units per pound after conversion.
+
+H. The waste to be converted is mechanically processed at a transfer or
+processing station to reduce the fraction of chlorinated plastics and materials that do not maximize the net calorific value and burn rate of the waste.
+
+2. Defines an "EMSW conversion facility" as a facility where a municipal solid waste conversion that meets the above requirements takes place. Excludes EMSW conversion from the definition of transformation, and provides that a transformation facility that conducts EMSW conversion is an EMSW
+conversion facility.
+
+3. Specifies that "recycling" does not include EMSW conversion.
+
+CONTINUED
+
+AB 1126
+Page 4
+
+4. Specifies that "solid waste disposal" includes processed EMSW conversion and that a "solid waste facility" or "disposal facility" includes an EMSW conversion facility.
+
+5. Specifies that a "transfer a or processing station" does not include an EMSW
+conversion facility.
+
+6. Specifies that "transformation" does not include processed EMSW conversion.
+7. Requires a countywide siting element to include a description of areas to be used for MSW conversion and allows a siting element provided for an MSW conversion facility to only is approved by the city in which it is located, or if the MSW is not located in a city, by the county.
+
+8. Specifies that tires and biomass processed by conversion facilities are not considered disposal under the Act.
+
+9. Prohibits the establishment or expansion of a solid waste facility in the county unless the solid waste facility is a disposal facility, transformation, or EMSW facility, which is identified in the countywide siting element or amendment to
+the element, or is a solid waste facility that is designed to recover for reuse or recycling at least 5% of the total volume of material received by the facility and has been identified in the nondisposal facility element that has been approved, as specified.
+
+10. Excludes certain used tires or waste tires or biomass materials from the solid waste calculation used in that base rate determination and the per capita
+disposal determination and requires the amount of solid waste to include solid
+waste diverted from an EMSW conversion facility.
+
+Background
+
+Municipal solid waste. MSW refers to the stream of garbage collected through community sanitation services. Although MSW consists mainly of renewable resources such as food, paper, and wood products, it also includes nonrenewable materials derived from fossil fuels, such as tires and plastics. According to the 2008 Statewide Waste Characterization Study, the California waste stream is
+composed ofprimarily food and green waste (e.g., lumber, leaves, etc.) at about 47%, with the next highest contributors being paper, plastic and metal waste comprising 17.3%, 9.6%, and 4.6%, respectively.
+
+CONTINUED
+
+AB 1126
+Page
+
+FISCAL EFFECT: Appropriation: No Fiscal Com.: Yes Local: Yes
+ARGUMENTS IN SUPPORT: According to the author, "AB 1126 defines an
+EMSW conversion facility and properly identifies it as a solid waste facility under CalReycle's regulatory authority. This permitting pathway is needed because current statute 1S outdated and does not adequately address the new types of waste- to-energy technologies and processes that have started to be commercialized in California. Existing state solid waste rules do not adequately define these facilities to provide the best-possible environmental protection and oversight while minimizing unnecessary burdens. Under this bill, EMSW conversion would be clearly defined, and would allow these facilities to replace fossil fuel energy sources such as coal, thereby reducing California's GHG emissions. Properly utilized, AB 1126 would help California meet the goals outlined in AB 32.3
+
+ASSEMBLY FLOOR: 78-0, 5/29/13
+AYES: Achadjian, Alejo, Allen, Ammiano, Atkins, Bigelow, Bloom,
+Blumenfield, Bocanegra, Bonilla, Bonta, Bradford, Brown, Buchanan, Ian Calderon, Campos, Chau, Chávez, Chesbro, Conway, Cooley, Dahle, Daly, Dickinson, Donnelly, Eggman, Fong, Fox, Frazier, Beth Gaines, Garcia, Gatto, Gomez, Gonzalez, Gordon, Gorell, Gray, Grove, Hagman, Hall, Harkey, Roger Hernández, Jones, Jones-Sawyer, Levine, Linder, Logue, Lowenthal, Maienschein, Mansoor, Medina, Melendez, Mitchell, Morrell, Mullin, Muratsuchi, Nazarian, Nestande, Olsen, Pan, Patterson, Perea, V. Manuel Pérez, Quirk, Quirk-Silva, Rendon, Salas, Skinner, Stone, Ting, Wagner, Waldron, Weber, Wieckowski, Wilk, Williams, Yamada, John A. Pérez NO VOTE RECORDED: Holden, Vacancy
+
+RM:ej 8/21/13 Senate Floor Analyses
+SUPPORT/OPPOSITION: NONE RECEIVED
+**** END ****
+
+EXHIBIT E
+
+15
+
+Department of Toxic Substances Control
+
+Jared Blumenfeld
+Secretary for Meredith Williams, Ph.D., Director Gavin Newson
+700 Heinz Ave, Suite # 200 Governor Environmental Protection Berkeley CA 94710
+
+Office of Criminal Investigations Investigation Report
+OCI Case # 15286
+
+Facility/ Site Name: Cemex Cement
+Facility/Site Address: 16888 E St., Victorville, CA 92394 & 24724 Quarry Rd, Apple Valley, CA 92307
+EPA ID: CAD008236887 & CAL000458760
+Sampling Location: Cemex Clinker Manufacturing Plant
+Date(s) of Site Visit(s): July 28, 2021
+Date of Report: October 28, 2021
+Report Completed by: Pragya Pandey
+
+I. Purpose of Investigation and Findings
+On July 28, 2021, the Department of Toxic Substances Control (DTSC), Office of Criminal Investigations (OCI) conducted an investigation at Cemex Cement plant located at 16888 E St., Victorville, CA 92394 and Cemex Quarry located at 24724 Quarry Rd, Apple Valley, CA 92307 (Site). This investigation was conducted to determine any violations of California's Hazardous Waste Control Law related to the management of contaminated spent blast grit, Excluded Recyclable Material (ERM) and any other activities taking place on Site.
+Violations were found during the July 28, 2021, Site visit. The violations identified are based on observations, photos, analytical lab results, and statements documented in this report. OCI identified the following violations:
+1. California Code of Regulations., title 22, section 66265.31 - Cemex failed to minimize the release of hazardous waste and hazardous waste constituents by allowing spent material hazardous waste to remain in open piles that would result in dispersal of this waste into the environment.
+
+2. Health & Safety Code § 25189.7 (a) - Cemex illegally burned non-RCRA hazardous waste in the form of Engineered Municipal Solid Waste (EMSW) in the incinerator as fuel for clinker production on Site.
+
+Cemex Cement
+OCI Case Number:15286
+July 28, 2021
+
+3. Health & Safety Code § 25189.2 (c) & 25189.2(d)- Cemex illegally treated and disposed of hazardous waste by mixing hazardous waste which had been improperly characterized and improperly managed as ERM into the cement manufacturing process.
+
+4. Health & Safety Code § 25189.2 (d) -Cemex illegally stored non-RCRA hazardous waste spent abrasive material received from outside generators in an open pile onto the unpaved ground as well as stored non-RCRA hazardous waste in form of engineered municipal solid waste on the unpaved ground in a pile. a
+5. Health & Safety Code §25201(a) - Cemex illegally accepted hazardous waste from multiple generators in process of accepting hazardous waste spent abrasives from Kleen Blast Abrasives and not managing it as per ERM management requirements.
+
+II. Representatives Present
+
+DTSC Personnel
+Pragya Pandey, Senior Environmental Scientist (Specialist) DTSC, Hazardous Waste Management Program/OCI 700 Heinz Avenue, Suite 200
+Berkeley, CA 94710
+(916) 823-2742
+Email:Pragya.Pandey@dtsc.ca.gov
+
+Dylan Clark. Senior Environmental Scientist (Supervisory)
+DTSC, Hazardous Waste Management Program/OCI 8800 Cal Center Drive
+Sacramento, CA
+(916) 255-3731 Email: Dylan.Clark@dtsc.ca.gov
+
+Ali Tohami, Environmental Scientist
+DTSC, Enforcement and Emergency Response Program/OCI 5796 Corporate Ave Cypress, CA 90630
+(714) 484-5355
+Email: Ali.Tohami@dtsc.ca.gov
+
+Catherine Gallardo, Investigator DTSC, Enforcement and Emergency Response Program/OCI
+700 Heinz Avenue, Suite 200
+Berkeley, CA 94710
+(510) 540-3748
+Email: Catherine.Gallardo@dtsc.ca.gov
+
+Marco Salas, Investigator DTSC, Enforcement and Emergency Response Program/OCI 8800 Cal Center Drive
+
+Page: 2
+
+Cemex Cement
+OCI Case Number:15286
+July 28, 2021
+
+Sacramento, CA
+(916) 255-3762
+Email: Marco.Salas@dtsc.ca.gov
+
+Steven Friesen, Associate Industrial Hygienist
+1515 Tollhouse Rd
+Clovis, CA 93611
+559-297-3934
+Email: Steven.Friesen@dtsc.ca.gov
+
+Cemex Cement Personnel
+
+Alejandra V. Silva, Environmental Manager
+Cemex USA
+Email: alejandrav.silva@cemex.com
+(760) 381-7649
+Lilian Deprimo, Senior Environmental Director
+Cemex USA Cement Operations Email: Lillian.deprimo@cemex.com
+Consent given by: Zachary b. Allie (Cemex Legal Counsel) & Alejandra V. Silva
+III. Background Information
+
+Facility Information: Cemex Cement is a cement manufacturing company and have multiple facilities in California. This report is focused on Cemex operations in Apple Valley CA, where Cemex has a Quarry and clinker production operation (Attachment 1, Site Maps). During the investigation we also visited Cemex facility in Victorville where they have a cement manufacturing plant. Cemex accepts hazardous waste spent abrasives labelled as Excluded Recyclable Material (ERM) from Kleen Blast Abrasives company which claims to be the generator of this waste. Cemex Cement stores the spent abrasives on unpaved ground and uses it as an additive to the cement Clinker they produce at the Apple Valley location. Cemex transports the clinker from the quarry location to the cement manufacturing plant in Victorville via railroad system owned by Cemex. Based on CERS info, Cemex cement is a Large Quantity Generator (Attachment 2, CERS Info).
+Inspection history: This is DTSC's first inspection at Cemex Cement. Cemex is periodically inspected by San Bernardino County Fire Department (CUPA) in San Bernardino County. In the past, they have had CUPA violations (Attachment 3, CUPA Inspection History).
+This Site visit was to understand hazardous waste management practices at the Cemex Victorville and Apple Valley sites and confirm compliance with the hazardous waste control laws. All original photographs taken during July 28, 2021, investigation will be shared using one drive. Description of the photographs can be viewed in the Attachment 4, Photographic Log. The original photos are saved in electronic format on the DTSC drives. A disc, thumb drive or
+
+Page: 3
+
+Cemex Cement
+OCI Case Number:15286
+July 28, 2021
+
+Microsoft OneDrive link can be used to transfer and share the photographs to anyone needing a
+copy.
+
+IV. Summary of Site Visit
+
+On July 28, 2021, DTSC staff Dylan Clark, Ali Tohami, Catherine Gallardo, Marco Salas, Steven Friesen and I, Pragya Pandey, visited Cemex Cement (Site), located at 16888 E St., Victorville, CA to perform an inspection of the facility and ensure compliance with the hazardous waste management and control laws. Upon reaching outside the Victorville facility, Clark and I decided to go to the facility first to get the consent to conduct site inspection. We signed at the security checkpoint and reached the office at 0915 hours, we parked our state vehicles and approached the office to meet Alejandra V. Silva, Environmental Manager for Cemex Cement company in Victorville, CA. We were met by a staff member who offered us to wait in the conference room while Silva finishes her call. Upon Silva's arrival we introduced ourselves and handed our business cards to her. We explained our investigation of Kleen Blast Abrasives (KBA) facilities for ERM management and Cemex Victorville being a recycler of the material KBA mixed, treated and delivered at the Cemex facility, we wanted to understand how Cemex manages this material at their Site. We explained that to understand their management practices we will also have to do a walkthrough of the Site and take pictures and collect samples to confirm compliance with the hazardous waste control laws.
+
+Silva explained that she cannot give consent for walkthrough, pictures or sample collection. She also stated that Cemex already shared the information DTSC had requested, and she does not understand the purpose of our visit. We explained that there were multiple questions were either unanswered or incomplete and DTSC staff would like to see the area where the ERM material is stored and processed to confirm storage and management requirements for the ERM. Silva called Lillian Deprimo, Senior Environmental Director for Cemex USA Cement Operations and informed her of DTSC's visit. I shared the printed copy of Health and Safety Code Section 25185 and 25143.2 (f) with Silva to share DTSC's authority to inspect the facility and confirm compliance with hazardous waste management rules at their Sites. Silva made a copy of those documents and sent them to Deprimo. While Silva waited for Deprimo's response Clark asked Silva questions related to the management of spent abrasive material, received by Cemex facility.
+
+Summary of information asked for during the investigation and the answers provide by Silva and Cemex staff:
+Q. Is spent blast abrasives always received in truckloads at the Apple Valley site and Victorville
+sites?
+A. The material is received only at Apple Valley location where it is unloaded in open stockpiles.
+Q. Do the truckloads arrive directly from KBA, or do they come from the Apple Valley location? A. The spent material is only received at Apple Valley plant.
+Q. Where is spent abrasives initially stored after receipt from KBA?
+A. The spent material is stored on unpaved ground in open near the area of processing/feeding.
+
+Page: 4
+
+Cemex Cement
+OCI Case Number: 15286
+July 28, 2021
+
+Q. Are the spent blast abrasives being stored out in the open on paved or unpaved ground at
+both sites?
+A. Spent blast material is stored on unpaved ground and without any type of liners.
+Q. How long is it stored in a stockpile at Cemex before being moved for processing? A. Once they receive the ERM from KBA it is used in matter of 3-4 days, since the Apple Valley plant is active 24/7.
+
+Q. What other locations is spent abrasives taken to and temporarily stored/processed on the
+ground?
+A. There are no other locations than the one previously identified.
+
+Q. What precautions is Cemex taking to prevent hazardous waste constituents from being windblown (i.e., watering piles, covering piles, storing on concrete pad, etc.)
+A. None.
+
+Q. What paperwork is provided by is KBA driver? (Generator information, placards, labels on trucks, containers, etc.).
+A. Has not been answered yet
+
+Q. When is the last time they received a load of spent abrasives? A. Silva stated Cemex received last load from KBA was in September 2020.
+
+Q. How long have Cemex been receiving spent blast abrasives from KBA? A. Has not been answered yet
+
+Q. Where else do they get their virgin silica source from?
+A. Quarry/ raw materials
+
+Q. How much do they pay for their virgin silica sources (per ton or pound)? A. Has not been provided
+
+Q. Do they get SPENT blast abrasives from other non-KBA businesses? If so, who? How much?
+A. No.
+
+Q. Are there any restrictions or thresholds regarding how much heavy metal levels (lead, copper, zinc concentrations) can be in the spent abrasives? If so, what are they?
+A. Not answered
+
+Q. Why does Cemex require annual testing for total metals and soluble metals on the spent abrasives? (If it is ERM, there should be no limit and the material specifications, attachment A of the Contract, does not specify a maximum limit for heavy metals)
+A. Not answered
+
+Page: 5
+
+Cemex Cement
+OCI Case Number:15286
+July 28, 2021
+
+Q. Does Cemex require that the spent abrasives not contain other miscellaneous pieces of wood, metal, etc.?
+A. Not Answered
+
+Q. If spent blast abrasives is a valuable ingredient, why do they charge to receive it instead of pay money for it? A. Cemex Sr. Environmental Director, Deprimo said that this does not preclude it from being managed as ERM. For the ERM acceptance legitimacy criteria we can review 40 CFR Part 241
+and contact her if we still have questions.
+
+Q. Is raw mix fed to cement kiln in distinct batches or is it a continuous fed into kiln?
+A. Continuous.
+
+Q. If fed in batches, how big are those batches, in terms of tons or pounds?
+A. Not Applicable.
+
+Q. How many batches per day?
+A. Not Applicable.
+
+Q. What are fuel sources for the cement kiln?
+A. Fuel sources include Engineered Municipal Solid Waste (EMSW) and Tire Fluff.
+Q. Does Cemex use other fuels/materials besides primary ingredients (limestone, sand, fly ash, iron, clay, etc.) which are fed into the kiln either as an ingredient or a fuel?
+A. EMSW and Tire Fluff as fuel and bag house dust as an ingredient to the cement
+manufacturing.
+
+Q. Does the cement kiln have any air pollution controls that mitigate the heavy metals emissions? If so, what are they?
+A. Bag houses preventing releases of dust
+
+Q. Were they aware that they were subject to ERM exclusion requirements and had they read them (25143.9, 25143.2, 25143.10, 66266.21- testing, reporting, storage, land disposal restrictions)?
+A. Deprimo replied that Cemex is aware of these regulations.
+Q. Have they ever had their Clinker tested for heavy metals, pursuant to 66261.21? A. Not answered
+
+Q. What other off-site and on-site generated hazardous waste do they process in their cement kiln pursuant to their air pollution control permit?
+A. None
+
+Q. Who is it from and where is it stored?
+
+Page: 6
+
+Cemex Cement
+OCI Case Number: 15286
+July 28, 2021
+
+A. N/A
+END OF QUESTION & ANSWER SECTION
+
+Silva also explained that ERM is mixed with raw material and ground in mill. This material goes from mill to kiln feed where it goes through pyro process at 3000-degree Fahrenheit and clinker is produced. She explained that the clinker is small ball shaped material made out of mixture in the kiln feed. This clinker is brought to the Victorville location to process further to make cement by grinding and adding gypsum into it. Clark asked if the bag house dust is if generated in the process of making clinker, to which Silva said yes and she also added that the bag house dust goes back into the process since it is a closed loop system.
+Deprimo called back after receiving documents from Silva and informed that she had questions for the DTSC staff. Silva put her phone on speaker so Clark and I could talk to Deprimo and explain the purpose of our visit. Deprimo asked if we were at Cemex location due to ongoing KBA investigation or we were trying to inspect Cemex. Clark and I explained that we were there to conduct inspection of Cemex facilities regarding their ERM management. Deprimo informed us that DTSC did not have consent to collect samples and take pictures, but we could go to the Apple Valley site to observe where KBA material was stored. Deprimo also added that in the meantime she will talk to Cemex legal to see if we can get consent to take pictures and samples. We shared DTSC legal counsel contact information with Silva to pass it on to Deprimo and their legal counsel.
+
+Clark left the facility and drove off to inform other team members that we do not have consent to take pictures and collect samples, but we could observe the management of ERM on Apple Valley Site. Upon reaching outside the security check point where all other state vehicles were parked, Clark discussed next steps and the possibility that we may not get consent to take samples and pictures. I waited in state vehicle for Clark and others to come back before we can head to Apple Valley Site. Clark and other DTSC staff arrived at the Cemex Victorville conference room and completed the company required Covid safety forms and shared their business cards with Silva. At this time Silva received a call from Cemex legal counsel informing her that DTSC had consent to take pictures and collect samples.
+Silva suggested that it would be better to take minimum number of vehicles go to the Apple Valley site due to safety concerns and only four DTSC staff could be out there due to Mine Safety and Health Administration (MSHA) requirement that requires only MSHA certified person to be onsite at the Apple Valley operation. She explained that there were only two MSHA certified employees at the time at the Apple Valley site and one MSHA certified Cemex employee can accompany only two DTSC employees. As per her suggestion, I rode to Apple Valley site with Silva, while Gallardo and Tohami used one state car and Clark and Salas did the same for the trip to Apple Valley from Victorville. Upon reaching Apple Valley Site, Silva asked us to wait outside the office before she discusses the inspection details with engineers at that office and makes space for us all to go inside due to Covid restrictions Cemex following for the safety of their staff. After ten minutes Silva came back and informed that only four of DTSC staff could do the site walkthrough and take pictures and collect samples. Clark decided that him, Salas and Tohami would go for the site walkthrough while Gallardo and I would wait at their
+conference room.
+
+Page: 7
+
+Cemex Cement
+OCI Case Number:15286
+July 28, 2021
+
+(Note: The next part of report is partially based on the information provided by staff who went for site walkthrough. Details of each sample collected can be found in the section V Sample Activities).
+
+Silva, and two plant operators led Clark, Tohami and Salas around the plant to a stretch of dirt containing large piles of raw materials used to make clinker. These piles were located on the far west side of the facility, on the left of the plant (refer Attachment 4, Photographic Log). The piles of dirt were mixtures of silica and other rocks used in the production of concrete. Clark asked if any of the piles belonged to Kleen Blast and, if so, where that material is stored. CEMEX operators stated that Kleen Blast spent abrasive was there at one point but has since been used and iS no longer among these piles. Clark asked where the Kleen Blast piles were initially stored before they were used. DTSC staff was then directed to an area of unpaved ground behind the piles and was told that this is where the Kleen Blast piles used to be. Clark decided to sample in this area where the Kleen Blast piles were kept and currently were bare ground. These samples were collected to see if there was any leaching from the Kleen Blast piles of spent abrasives into the ground.
+At approximately 1320 hours, Clark took samples CEM-1a and CEM-1b (co-located samples) into 32-ounce jars, which were taken from the ground behind the piles of raw materials about to enter
+the clinker making process. At approximately 1336 hours, Clark took samples CEM-2a and CEM- 2b (co-located samples) into 32-ounce jars, which were taken from the ground behind the raw material piles approximately 30 feet further away from the sample 1 (Attachment 1). Note that the samples beginning with CEM-02 were both labelled as CEM-02b initially, however when Clark noticed the mistake upon placing the samples into a cooler the mistake was corrected, one sample was re-labelled CEM-02a, and the sample was photographed again.
+At approximately 1400 hrs., Silva, Clark, Tohami and Salas returned to the conference room after collection of samples 1 and 2 and shared sample details with me. Clark asked what types of alternate fuels they use for the kiln. Silva said they use fuel known as Engineered Municipal Solid Waste (EMSW), tire fluff (parts of shredded tires), sometimes agricultural fuel (2019 last shipment). Clark asked if they burned oil filters and Silva said they do not.
+made note of important details to complete sample receipt while they again took leave to inspect area where fuel for the kiln is stored. At around 1415 hours they were taken around the plant to a warehouse on the eastern border where they saw the kiln fuel storage area. On the way they walked by two clinker producing operations. They observed a truck unloading material onto a large pile inside the warehouse. Silva informed us that this is EMSW. She said they receive shipments of it every day and have a permit with Cal Recycle. Silva also mentioned that they take daily samples of this material, and Clark requested to see those analysis reports. Clark asked if he could collect the samples from the material Silva called fuel. Silva asked if she could collect
+these samples. At approximately 1430 hours, Silva collected sample CEM-03A into a plastic bag, which contained the EMSW from the pile. After collection, Silva stated that she took a little from different parts of the pile, so it was a composite sample. Near the entrance of the warehouse, DTSC staff observed small piles of black and brown material. Silva identified this black material to be "tire-fluff" (shredded pieces of tire). Silva also stated that the brown material is wood. Both are also used as fuel for the kiln. We requested to take samples of the tire-fluff, and at approximately 1432 hours, Silva took a sample of the tire-fluff into a plastic a bag, and Tohami
+
+Page: 8
+
+Cemex Cement
+OCI Case Number:15286
+July 28, 2021
+labelled it as sample CEM-04A. Co-located samples were not requested for samples CEM-03A and CEM-04A because Silva stated she samples them nearly every day.
+After sampling, DTSC staff along with Cemex staff walked back into the conference room and l completed the sampling receipt, which both Silva and I signed (Attachment 5, Sample Receipt). At around 1505 hours we left Apple Valley Site. Upon reaching Victorville site Silva asked if she could make copy of all the documents DTSC prepared during the visit along with sample receipt. We handed her all the documents. While she asked someone to photocopy the documents, she called Deprimo to summarize our visit to the Apple Valley site. Silva brought the documents back after making a copy for her use. At around 1605 hours we thanked Silva for her co-operation and left Cemex Victorville Site.
+
+V. Sampling Activities
+Summary:
+Clark collected a total of four samples from the Site on July 28, 2021. Two sample sets were collected from the ground where Cemex Apple Valley stores ERM received from KBA, and two samples were collected of the fuel used at Apple Valley facility in their incinerator unit. Co- located/duplicate samples were collected from each sample location and distinguished using an "a" and "b" at the end of each sample number. Two dirt like samples ending in "a" were given to the Site. Site did not want fuel samples as they collect their own samples every day for these two materials.
+
+Co-located samples were collected by alternately scooping the sample material into each jar. Tohami submitted DTSC's set of samples to the Environmental Chemistry Lab (ECL) in Pasadena for analyses of Total Threshold Limit Concentration (TTLC) also referred as total metals, Soluble Limit Threshold Concentration (STLC) using the California Waste Extraction Test (CA WET) also referred as soluble metals, Toxicity Characteristics Leaching Procedure (TCLP), total PCB's and Fish Bioassay to determine if the wastes exhibited a characteristic of hazardous waste, i.e., toxicity.
+We collected the samples based on our experience of recycling operation and the types of waste generated onsite as a result of this operation.
+Sample Locations are identified on the Site Sampling Map (Attachment 1).
+Near the end of our inspection, I provided Silva with the sampling receipt which she and I signed, and she made a copy of sampling receipt for her records (Attachment 5). Clark provided Silva with the requested samples, which ended in "a" we retained the samples ending in "b" from the sample set. Two other incinerator fuel samples were collected as single samples since facility did not want duplicate for their analysis. DTSC kept these samples, and they were ending in "A".
+
+Sampling Roles:
+
+Dylan Clark - Primary sampler (Samples 1 and 2) Alejandra V. Silva - Primary Sampler (Samples 3 and 4) Ali Tohami - Assistant sampler, sample documentation, Photographer Marco Salas - Site Safety Monitoring
+
+Page: 9
+
+Cemex Cement
+OCI Case Number:15286
+July 28, 2021
+
+Sampling Equipment, and QA Procedures:
+
+Sample containers used: New 32-oz. certified clean, clear glass jars.
+Sample devices used: New disposable plastic scoops or a gloved hand were used to collect samples.
+Disposable outer gloves were changed between each set of samples collected.
+Samples were labeled with identifying information, evidence tape was applied to each container, and the samples were photographed near where they were collected.
+Personal Protective Equipment Used:
+Primary and assistant samplers wore Level D protection.
+
+Sampling strategy:
+The samples collected were selected based upon locations where hazardous waste was suspected of being illegally stored/disposed by asking questions.
+The samples were collected from accessible points of wastes suspected to be hazardous wastes. We collected samples from the ground.
+
+Chain of Custody:
+Clark maintained custody of the samples as they were being collected on July 28, 2021. Clark collected the samples CEM-01a/b and CEM-02a/b, Tohami labelled the samples and sealed them with the evidence tape. Clark observed the samples CEM-03A and CEM-04A being collected and once labeled and sealed with evidence tape, Clark placed the samples into a cooler.
+
+Once investigation was complete, Clark transferred the chain of custody of the samples to Tohami, Tohami locked the cooler in the back of the state-owned vehicle and kept control of the keys until samples were delivered to the ECL Pasadena. On July 29, 2021, Tohami transported the samples to the DTSC's Environmental Chemistry Laboratory located at 757 South Raymond Avenue, Suite 105, Pasadena, CA 91105, and transferred custody of the samples along with the respective Sample Analysis Request/Chain of Custody form to Scott Giatpaiboon, Research Scientist II, at Environmental Chemistry Lab (ECL). Tohami and Giatpaiboon signed and dated the form and Giatpaiboon provided a copy to Tohami. (Attachment 6, Sample Analysis Request/Chain of Custody form).
+Samples CEM-03A to CEM-04A were also sent to the Advanced Technologies Laboratory (Contract Lab) in Sugar Hill, CA for Fish bioassay (Attachment 6, Sample Analysis Request/Chain of Custody form).
+Sample Details:
+
+Sample CEM-01a/b: A new plastic scoop was used to collect brown dirt like solid material as sample from the unpaved ground in the raw materials storage area. This is the area where Cemex stored the spent hazardous waste abrasives on the ground. The ground was extremely
+
+Page: 10
+
+Cemex Cement
+OCI Case Number: 15286
+July 28, 2021
+
+hard, and Clark dug the material from the ground to fill two 32oz. clear glass jar. Sample was transferred into two 32 oz. clear glass jars alternating between each jar per scoop. (Photos IMG0076-IMG0078).
+
+Sample CEM-02a/b: Co-located samples were collected from the ground behind the raw material piles approximately 30 feet further away from the clinker plant - than sample 1 (Attachment 1). Note that the samples beginning with CEM-02 were both labelled as CEM-02b initially, however when Clark noticed the mistake upon placing the samples into a cooler the mistake was corrected. One sample was re-labelled CEM-02a, and the sample was photographed again.
+A new plastic scoop used to collect brown dirt like solid material as sample. The ground was extremely hard, and Clark dug the material from the ground to fill two 32 oz. clear glass jars alternating between each jar per scoop (Photos IMG0080-IMG0082 & IMG0085).
+Sample CEM-03A: This sample was collected by Silva in a gallon plastic bag from a pile of EMSW that Cemex burns for fuel. Silva used her gloved hand and collected a composite sample by placing handfuls of the EMSW into the bag from several locations in the pile. The pile was tens of cubic yards in size. Sample matrix was solids which appeared to be in the form of shreds of plastics, paper, and other garbage. (Photos IMG0093, IMG0096 & IMG0097).
+Sample CEM-04A: This sample was collected by Silva in a gallon plastic bag from a pile of shredded tires, which Silva specified as tire fluff that is burned as a fuel by Cemex. Silva used her gloved hand and collected a composite sample by placing handfuls of the tire fluff into the bag from several locations in the pile. The pile of tire fluff was less that a cubic yard when the sample was collected. (Photos IMG0094-IMG0097).
+
+VI. Laboratory Results and Waste Determination
+All samples were analyzed using EPA-approved SW-846 Test Methods for Evaluating Solid Waste, Physical/Chemical Methods or the DTSC ECL-approved test methods. Four (4) samples were collected during the investigation. All samples were analyzed for total metals, soluble
+metals using the CA WET and total PCBs. Samples CEM-03A and CEM-04A were sent to the contract lab for fish bioassay (Fish Toxicity). Significant results are reported in Table 1 on the next page and complete results can be viewed in Attachment 7, Analytical Laboratory Reports.
+Sample CEM-01b: This sample of dirt was analyzed for total metals, soluble metals and PCBs. Sample exceeded STLC for lead. Sample had CA WET concentration of 7.10 mg/l (STLC 5.0 mg/l). Thus, the sample exhibits the characteristic of toxicity per 22 CCR § 66261.24(a(2). There were no other hazardous waste threshold exceedances. Total lead was measured at 104 mg/kg in the sample.
+
+Sample CEM-02b: This sample of dirt was analyzed for total metals, soluble metals and PCBs. Sample did not exceed any hazardous waste thresholds. The soluble lead (CA WET) was measured as 1.19 mg/l and the total lead measured as 25.4 mg/kg.
+Sample CEM-03A: Sample of EMSW was analyzed for total metals, soluble metals, PCBs, and aquatic toxicity. Sample exceeded hazardous waste STLC for lead 5.08 mg/l (STLC 5.0 mg/l). There were no other hazardous waste threshold exceedances. To confirm the results the sample
+
+Page: 11
+
+Cemex Cement
+OCI Case Number:15286
+July 28, 2021
+was reanalyzed at a later date and the soluble lead concentration was measured to be 5.36 mg/l. A third "duplicate" extraction and analysis was done and measured at 5.38 mg/l. Each of the three CA WET run on the sample exceeded the STLC. Thus per 22 CCR § 66261.24(a)(2) the EMSW is a California hazardous waste.
+
+Sample CEM-04A: This sample was analyzed for total metals, soluble metals, PCBs, and fish bioassay. Sample did not exceed any hazardous waste thresholds.
+
+Page: 12
+
+Cemex Cement
+OCI Case Number:15286
+July 28, 2021
+
+Table 1: Summary of Significant Sample Results
+
+OCI Significant Analytical Results with
+Sample ID Sample Description; Photograph # Hazardous Waste Exceedances in Bold Legal Citation
+
+Brown colored dirt like material was Total Metals (mg/kg)
+collected from the unpaved ground Lead: 104 (TTLC: 1,000)
+CEM-01b where facility stored hazardous waste 22 CCR § 66261.24(a)(2)
+spent abrasives. Soluble Metals (CA-WET) (mg/l)
+Photos IMG0076-IMG0078 Lead: 7.10 STLC (5.0)
+Brown colored dirt like material was
+collected from the unpaved ground Total Metals (mg/kg)
+Lead: 25.4 CEM-02b where facility stored spent abrasive (TTLC: 1,000)
+
+materials. Soluble Metals (CA WET) (mg/l)
+Photos IMG0076-IMG0078 Lead: 1.19 (STLC 5.0)
+
+Soluble Metals (CA WET) (mg/l)
+Composite sample of Engineered Lead: 5.08 (STLC 5.0)
+CEM-03A Municipal Solid Waste (EMSW).
+Photos IMG0095-IMG0097 Soluble Metals (CA WET) Reanalysis & 22 CCR § 66261.24(a)(2)
+duplicate results
+Lead: 5.36 mg/L & 5.38 mg/L (STLC 5.0)
+
+Page: 13
+
+Cemex Cement
+OCI Case Number:15286
+July 28, 2021
+
+VlI. Summary of Violations
+
+The summary of violations is presented below along with the details of the violations
+
+Violation # 1
+Violation Citation: California Code of Regulations., title 22, § 66265.31 [via 66262.34(a)(4)] - Facilities shall be maintained and operated to minimize the possibility of a fire, explosion, or any unplanned sudden or non-sudden release of hazardous waste or hazardous waste constituents
+to air, soil, or surface water which could threaten human health or the environment.
+
+Violation Description/Evidence: On and/or before July 28, 2021, Cemex failed to minimize
+the possibility of a release of hazardous waste or hazardous waste constituents to the air, soil, or surface water which could threaten human health and the environment. On July 28, 2021, DTSC staff collected samples from the unpaved ground where Cemex Apple Valley facility located at 24724 Quarry Rd, Apple Valley, CA 92307, (Site) stored hazardous waste spent sandblast abrasives it believed to be Excluded Recyclable Material (ERM) but was not being managed properly and thus does not maintain the exclusion. This waste was kept uncovered on unpaved ground without any liners. DTSC staff collected sample CEM-01b from the unpaved ground in this location. The concentration of soluble lead in the sample exceeded the soluble threshold limit concentration (STLC) for lead. Sample CEM-02b taken approximately 30 feet away from the sample CEM-01b did not exceed the STLC for lead, (1.19 mg/L). The total lead was also 1 of the total lead found in sample CEM-01b. Thus, background lead in the area was measured as well below hazardous waste thresholds and indicates that the lead was
+released from the placement of hazardous waste uncovered on unpaved ground.
+
+Violation Classification: This is a class 1 violation.
+
+Corrective Action: Within 30 days of receiving this SOV, Cemex shall a submit a workplan to DTSC that describes in detail the permanent measures designed to prevent releases and to mitigate current or potential threats to human health and/or the environment. These measures shall ensure proper ERM/hazardous waste management to prevent migration of hazardous constituents into the air, soil and/or environment.
+
+Violation # 2
+Violation Citation: Health & Safety Code § 25189.7 (a) - The burning or incineration of any hazardous waste, or the causing thereof, is prohibited when the burning or incineration is at a facility which does not have a permit from the department issued pursuant to this chapter, or at any point which is not authorized according to this chapter.
+Violation Description/Evidence: On or before July 28, 2021, Cemex illegally burned non-RCRA hazardous waste in the form of Engineered Municipal Solid Waste (EMSW) in the incinerator as fuel for clinker production on Site. On July 28, 2021, DTSC staff asked Cemex employee regarding the description of material observed on the ground. Cemex employee explained that this material is called EMSW, which is received daily and used as a fuel for the incinerator.
+Page: 14
+
+Cemex Cement
+OCI Case Number:15286
+July 28, 2021
+
+EMSW sample CEM-03A exceeded the STLC for Lead and hence it is hazardous waste. Cemex
+does not have a permit or authorization from the department to burn hazardous waste.
+
+Violation Classification: This is a class 1 violation.
+
+Corrective action: Immediately cease using EMSW which is hazardous waste, as fuel for the incinerator. Provide supporting documents for the compliance to the department within 30 days of this SOV.
+
+Violation # 3
+Violation Citation: Health & Safety Code § 25189.2 (c)- A person who disposes, or causes the disposal of, a hazardous or extremely hazardous waste at a point that is not authorized according to the provisions of this chapter is liable for a civil penalty of not more than seventy thousand dollars ($70,000) for each violation and may be ordered to disclose the fact of this violation or these violations to those persons as the court or, in the case of an administrative action, a hearing officer, may direct. Each day on which the deposit remains is a separate a additional violation, unless the person immediately files a report of a the deposit with the department and is complying with an order concerning the deposit issued by the department, a hearing officer, or a court of competent jurisdiction for the cleanup. Health & Safety Code § 25189.2 (d) - A person who treats or stores, or causes the treatment or storage of, a hazardous waste at a point that is not authorized according to this chapter, shall be liable a for a civil penalty not to exceed seventy thousand dollars ($70,000) for each separate violation or, for continuing violations, for each day that the violation continues.
+Violation Description/Evidence: On or before July 28, 2021, Cemex illegally treated and disposed of hazardous waste by mixing hazardous waste which had been improperly characterized and improperly managed as ERM into the cement manufacturing process, not performing the required leachability testing, and not performing the required study of the end product to which might have qualified Cemex to use the material in a manner which is resulting in use constituting disposal.
+On or before July 28, 2021, Cemex illegally treated and disposed of hazardous waste spent material received from an outside vendor in the process of manufacturing cement. On July 28, 2021, DTSC staff asked a Cemex employee regarding the acceptance and storage of hazardous waste which Cemex claimed to be ERM received from Kleen Blast Abrasives in the form of spent abrasives. Cemex does not test every batch of the cement to perform the required leachability testing and studies for each batch of cement, nor does Cemex account for and track the dilution
+factors required by the regulations for each generator of spent abrasives used by Cemex in the manufacture of cement. The spent abrasive is added to the process to make clinker at no predefined or established ratio compared with other sand. This clinker is added to the cement
+which is used on land and causes use constituting disposal.
+According to California Code of Regulations, title 22, section 66261.2(d)(1)(A)(2), Spent materials are wastes if used to produce products that are applied to or placed on the land or are otherwise
+
+Page: 15
+
+Cemex Cement
+OCI Case Number:15286
+July 28, 2021
+
+contained in products that are applied to or placed on the land (in which cases the product itself is a waste). This is also known as use constituting disposal.
+Cemex, the generators and Kleen Blast Abrasives, have failed to perform the required leachability testing and studies required by 22 CCR 66266.21 to confirm compliance with use constituting disposal regulation and to meet applicable requirements for the ERM recycling exclusion. Thus, Cemex is not eligible to treat hazardous waste in the manufacturing of the cement product.
+
+Violation Classification: This is a class 1 violation.
+
+Corrective action: Immediately cease illegal treatment and disposal of adding improperly characterized and improperly managed ERM into the cement manufacturing process (resulting in use constituting disposal) until Cemex implement procedures for the required leachability testing and studies to confirm compliance with the use constituting disposal regulation. Within 30 days from this SOV provide documentation confirming compliance.
+
+Violation # 4
+
+Violation Citation: Health & Safety Code § 25189.2 (d) - A person who treats or stores, or causes the treatment or storage of, a hazardous waste at a point that is not authorized according to this chapter, shall be a liable for a civil penalty not to exceed seventy thousand dollars ($70,000) for each separate violation or, for continuing violations, for each day that the violation continues.
+
+Count # 1
+Violation Description/Evidence: On or before July 28, 2021, Cemex illegally stored hazardous waste spent abrasive material received from Kleen Blast Abrasives uncontained on unpaved ground. On July 28, 2021, Cemex representatives informed DTSC (specifically, Salas, Tohami and Clark) that Cemex stores hazardous waste spent abrasives it believed to be ERM on uncontained unpaved ground without any liners. The waste abrasives labelled as ERM from Kleen Blast by definition is a hazardous waste when not properly managed in a manner that qualifies for the ERM exclusion.
+According to California Code of Regulations, title 22, section 66262.34(a), hazardous waste may be accumulated on-site by the generator for 90 days or less without a permit or grant of interim status from DTSC provided the waste is placed in containers or tanks and the containers or tanks are properly labeled per California Code of Regulations, title 22, sections 66262.34(a)(2) & 66262.34(f). Cemex failed to properly containerize their hazardous waste and they are not the generators of the waste. Thus, Cemex stored hazardous waste without a permit or authorization from DTSC.
+
+Violation Classification: This is 1 a class 1 violation.
+
+Corrective action: Immediately cease storing hazardous waste or ERM uncontained on unpaved grounds. The hazardous waste spent abrasives should be managed to ensure that it
+Page: 16
+
+Cemex Cement
+OCI Case Number: 15286
+July 28, 2021
+cannot leach to the ground or be blown off site, be tracked off site by employees, customers, or vehicles, or be otherwise released to the environment. Within 30 days from this SOV, Cemex shall provide documentation of the procedures it will implement to meet the ERM regulations or otherwise properly manage spent material received from off Site generators.
+
+Count # 2
+Violation Description/Evidence: On or before July 28, 2021, Cemex illegally stored non-RCRA hazardous waste in form of solid waste in a pile on paved ground in a building on Site. On July 28, 2021, DTSC staff asked Silva about alternate fuels used at the facility. Silva explained that one alternate fuel is a material called EMSW. She said it is received daily and the company has a Cal Recycle permit to accept this waste (Attachment 8, Solid Waste Facility Permit). Section 14 of the permit prohibits Cemex from accepting hazardous waste. DTSC staff asked if they could collect a sample of this material to confirm the chemical characteristics of this waste. Silva offered to collect this sample for DTSC and provided a composite sample. This sample CEM-03A exceeded the STLC for lead and hence it is hazardous waste.
+
+As discussed above hazardous waste can be accumulated on Site if the company is the generator, Cemex is not the generator. Thus, Cemex stored hazardous waste without a permit or authorization from DTSC.
+
+Violation Classification: This is a class violation.
+
+Corrective action: Immediately cease storing hazardous waste without a permit. Cemex shall containerize all hazardous waste received as EMSW on Site and have trained personnel manage it appropriately per California Code of Regulations, title 22, division 4.5.
+
+Violation # 5
+Violation Citation: Health & Safety Code § 25201(a) - Except as provided in subdivisions (c) and (d), no owner or operator of a storage facility, treatment facility, transfer facility, resource recovery facility, or disposal site shall accept, treat, store, or dispose of a hazardous waste at the facility, area, or site, unless the owner or operator holds a hazardous waste facilities permit or other grant of authorization from the department to use and operate the facility, area, or site, or the owner or operator is operating under a permit-by-rule pursuant to the department's
+regulations, or a grant of conditional authorization or conditional exemption pursuant to this
+chapter.
+
+Count # 1
+Violation Description/Evidence: On or before July 28, 2021, Cemex illegally accepted hazardous waste by (1) accepting spent abrasives with hazardous waste characteristics that did
+not qualify as ERM
+On or before July 28, 2021, Cemex illegally accepted hazardous waste spent material from outside vendor(s) to incorporate in the manufacture of cement. On July 28, 2021, DTSC staff asked a Cemex employee regarding the acceptance of spent abrasive material which Cemex
+Page: 17
+
+Cemex Cement
+OCI Case Number:15286
+July 28, 2021
+
+received from KBA labeled as purported ERM. The spent abrasives was improperly characterized and improperly managed, and thus the spent abrasives do not qualify for the ERM exclusion. Cemex is accepting hazardous waste on its site without a permit or any grant of authorization from the department.
+
+Violation Classification: This is a class 1 violation.
+
+Corrective action: Immediately cease accepting hazardous waste in the form of ERM. Within 30 days of receiving this SOV, Cemex shall provide documentation showing that it has stopped accepting hazardous waste in the form of ERM.
+
+Count # 2
+Violation Description/Evidence: On or before July 28, 2021, Cemex illegally accepted non- RCRA hazardous waste in form of EMSW, which is used in the incinerator as fuel for its Clinker
+production. On July 28, 2021, Silva explained that this material is called EMSW, which is received daily and used as a fuel for the incinerator. EMSW sample CEM-03A, exceeded STLC for Lead and hence it is hazardous waste. Cemex has a Solid Waste Permit to accept the waste however it states in the permit they are prohibited from accepting hazardous waste.
+Violation Classification: This is 1 a class 1 violation.
+Corrective action: Immediately cease accepting EMSW that is hazardous waste. Within 30 days of receiving this SOV, Cemex shall provide the documentation showing that it has stopped it accepting hazardous waste in the form of EMSW as fuel for incinerator.
+
+VIII. Attachments
+
+Attachment 1. Site Maps
+Attachment 2. CERS Info
+Attachment 3. CUPA Inspection History Attachment 4. Photographic Log
+Attachment 5. Sampling Receipt Attachment 6. Sampling Analysis Request/Chain of Custody form Attachment 7. Analytical Laboratory Reports Attachment 8: Solid Waste Facility Permit
+
+IX. Signatures
+
+Pragya Pandey 10/28/2021
+Pragya Pandey Date Signed
+Senior Environmental Scientist (Specialist)
+Office of Criminal Investigations
+
+Page: 18
+
+Cemex Cement
+OCI Case Number:15286
+July 28, 2021
+LLra 10l28l2520
+Dylan Clark Senior Environmental Scientist (Supervisory) Date Signed
+Office of Criminal Investigation
+
+Page: 19
+
+EXHIBIT F
+
+16
+
+/eemex
+
+November 19, 2021
+
+Dylan Clark, Senior Environmental Scientist (Supervisory) Pragya Pandey, Senior Environmental Scientist (Specialist) Department of Toxic Substances Control700 Heinz Ave, Suite #200 Berkeley, CA 94710
+
+Re: CEMEX Construction Materials Pacific, LLC ("CEMEX") Victorville Quarry Plant (*Plant") - Investigation Report dated October 28, 2021 ("Report")
+
+Dear Mr. Clark and Ms. Pandey:
+Enclosed is the data analysis for Engineered Municipal Solid Waste ("EMSW') that CEMEX committed to provide by today's date, in the form of a letter from Peter Krasnoff, P.E. of WEST Environmental Services & Technology ("WEST Letter"). The WEST Letter is provided as Attachment 1.
+
+The WEST Letter evaluates 13 samples of EMSW that since 2017 have been collected by CEMEX for waste analysis and the July 28, 2021 sample collected by DTSC. Consistent with Department of Toxic Substances Control ("DTSC") requirements, the analysis was conducted in accordance with the United States Environmental Protection Agency (USEPA) SW-846 Guidance for the Characterization of Solid Wastes, i.e., SW-846. It concludes that the EMSW is not a hazardous waste.
+
+CEMEX has identified a number of reasons (referenced below) as to why the violations alleged in the Report (both those directed to the use of EMSW and others related to the prior use of spent abrasives supplied by Kleen Blast) are unsubstantiated and should be withdrawn, together with related requirements for corrective action. In the case of the EMSW, the WEST Letter demonstrates that DTSC cannot, consistent with SW-846, demonstrate the EMSW is a hazardous waste, based on a single sample of a heterogeneous waste. Nor can DTSC demonstrate a basis for any corrective action that would require the Plant to stop using EMSW as a fuel source. As has been discussed, that step would have significant repercussions on the regulatory program intended to divert municipal solid waste from landfills for use as an alternative fuel and to reduce greenhouse gas emissions.
+
+To the extent that DTSC is not prepared to promptly withdraw such alleged violations, and given the upcoming deadline for CEMEX to respond to the Report (Monday, November 29), CEMEX proposes the following course of action:
+
+CEMEX Construction Materials Pacific, LLC
+Victorville Quarry Plant
+Investigation Report dated October 28, 2021
+2|Page
+
+On an interim basis, DTSC will allow CEMEX to continue to utilize EMSW based on the current data presented in the WEST Letter;
+CEMEX will collect additional data to be used in refining the characterization of the EMSW, to be presented to DTSC on or before by January 31, 2022;
+The date for CEMEX to respond to the Report will be deferred until after the additional data is presented and DTSC would defer any further steps in the enforcement process with respect to the alleged violations identified in the Report; and
+During this period, CEMEX will not accept or use the Kleen Blast material at the Plant.
+Given the shortness of time, CEMEX requests a prompt response to the above proposal.
+Below is an overview of the basis on which CEMEX disputes the violations alleged in the Report, first with respect to EMSW and then with respect to the Kleen Blast material. This is an initial response and does not necessarily include all of the data and information that CEMEX might later rely upon.
+
+1. Engineered Municipal Solid Waste "EMSW")
+The violations regarding EMSW relate to alleged illegal burning, storage and acceptance of non-RCRA hazardous waste in the form of EMSW. CEMEX disputes these allegations primarily because EMSW is not a non-RCRA hazardous waste, and instead was a properly permitted and approved alternative fuel source. As a matter of public policy, it is important that EMSW remain a source of fuel for the CEMEX facility due to the environmental and social benefits of its use in a cement kiln.
+
+Characterization of EMSW
+
+The plant was permitted by the County of San Bernardino as an EMSW conversion facility in 2014, and is regularly inspected.1 As required by the permit, samples of the EMSW are submitted to a state-certified laboratory on a quarterly basis to determine whether it contains any metals in excess of either its Total Threshold Limit Concentration ("TTLC") and, in some instances, its Soluble Limit Threshold Concentration (STLC).2 The sampling and analysis of the wastes for hazardous characterization has been conducted in accordance with
+
+1San Bernardino County Solid Waste Permit #36-AA-0484, Mojave Desert Air Quality Management District- Air Permit B005362; Title V Permit No. 100005, and CEQA Negative Declaration issued November 18, 2014.
+
+United States Operations 10100 Katy Freeway, Suite 300, Houston, Texas 77043. USA. Phone: (865) 541-5595
+
+CEMEX Construction Materials Pacific, LLC Victorville Quarry Plant Investigation Report dated October 28, 2021
+3|Page
+
+the United States Environmental Protection Agency (USEPA) SW-846 Guidance for the Characterization of Solid Wastes, i.e., SW-846.3
+The goal of CEMEX's sampling is to collect representative samples of the wastes, i.e., "exhibiting average properties of the whole waste.4 In accordance with SW-846, for the EMSW, a sufficient number of samples have been collected "over a period of time sufficient to represent the variability of the wastes" [underline in original].5
+Since 2017, CEMEX has collected and analyzed 13 samples of the EMSW.6 The results of the testing, together with the results from the sample collected by DTSC on July 28, 2021, revealed varying concentrations of heavy metals, including lead. Statistical evaluation and additional sampling analysis can be found in the WEST Letter. CEMEX is continuing to collect EMSW samples and will continue to update its waste analysis accordingly.
+Ultimately, the sample results (including DTSC sample) were subjected to the statistical approach specified in USEPA SW-846 for defining the 90% Upper Confidence Level and summarized below for Lead.
+
+90 UCL Lead
+Total = 46.9 mg/kg Mean lead = 32.6 mg/kg STLC <5 mg/l by definition
+A more detailed summary of the laboratory analytical results for lead in the EMSW is presented in Table 1 of the WEST Letter. As noted in the WBST Letter, the laboratory data certificates, and associated chain-of-custody forms have been submitted to DTSC using electronic file transfer protocol. The results of the laboratory testing have been evaluated pursuant to the USEPA's recommended protocols.
+
+Public Benefits of Using EMSW
+CEMEX utilizes EMSW to support its decarbonization goals (as replacement for fossil fuel for heating CEMEX's cement rotary kiln). The use of the EMSW reduces CEMEX's carbon footprint by reducing the need for fossil fuel and natural gas in the manufacture of cement. CEMEX also utilizes EMSW to facilitate diversion of municipal solid wastes from landfills for over 20 cities and towns in California. Use of EMSW provides important environmental and social benefits such as reduction of CO2, reduction of methane, support of AB1126 (discussed below), and providing a safe method to decrease the volume of materials that are
+
+2 https://dtsc.ca.gov/defining-hazardous-waste/ Ibid.
+4 https://www.epa.gov/sites/default/files/2015-10/documents/chap9_0.pdf Ibid. SW-846 indicates that a minimum of four samples are needed to characterize a variable waste stream. Cemex and DTSC each collected a sample on July 28, 2021. See DTSC, Office of Criminal Investigations Investigation Report, OCI Case # 15286, October 28, 2021.
+
+United States Operations 10100 Katy Freeway, Suite 300, Houston, Texas 77043. USA. Phone: (865) 541-5595
+
+CEMEX Construction Materials Pacific, LLC Victorville Quarry Plant
+Investigation Report dated October 28, 2021 4|P ag e
+
+landfilled.
+
+The municipal solid waste is sourced from nearby cities and towns is processed by a supplier, CR&R. Per California Assembly Bill 1126 (AB 1126), the EMSW conversion is required to meet certain requirements, including: 1) waste to be converted is beneficial in that it replaces or supplements the use of fossil fuels; 2) the waste to be converted is handled in compliance with requirements for solid wastes; 3) no more than seven-days supply is stored at the facility; 4) the waste contains less than 25-percent moisture and less than 25- percent noncombustible waste; and 5) no more than 500 tons per day of waste is converted.
+The use of the EMSW also reduces the production of methane in landfills, which represents another benefit in reducing greenhouse gas emissions, as each pound of methane is equivalent to 25 pounds of carbon dioxide.7
+In addition, the use of EMSW aids the local communities in meeting their requirements to reduce the amount of waste sent to landfills. The EMSW is supplied from CR&R, which according to its website, is a Southern California most successful waste collection, processing and recycling companies serving more than 3 million people and over 25,000 businesses throughout Orange, Los Angeles, San Bernardino, Imperial and Riverside counties. CR&R is the only source of engineered fuels available to the CEMEX Victorville Plant. The CR&R process includes removing recyclables, separating, sorting and shredding.
+
+For the above reasons, the alleged violations that CEMEX used hazardous waste as are fuel is not accurate in consideration of all the analytical test results. Accordingly, CEMEX requests that DTSC remove the requirement to cease using, storing, and accepting EMSW (Corrective Action for Violation #2; Violation #4, Count #2; and Violation #5, Count #2).
+
+2. Kleen Blast Abrasive Material
+
+As previously communicated, CEMEX used the Kleen Blast Material as an ingredient (silica source) in the cement manufacturing process. Specifically, the Kleen Blast material is added to the kiln feed in certain proportions and fed to the cement kiln (industrial furnace) which operates at 2000 to 3000°F. The Kleen Blast material chemically reacts under endothermic conditions with the other minerals (e.g. Calcium, Iron, Alumina) to form the kiln intermediate product known as clinker. The clinker mills along with gypsum to produce cement. is subsequently ground in the finish The cement kiln is subject to Air District regulations and V hold a Title V permit authorized under the Clean Air Act.
+DTSC's Report asserted a number of alleged violations related to acceptance, storage and use of Kleen Blast as a raw material. DTSC asserts that the Kleen Blast material was a hazardous waste because a soil sample taken from the area in which the Kleen Blast material
+
+https://ww2.arb.ca.gov/ghg-descriptions-sources
+
+United States Operations 10100 Katy Freeway, Suite 300, Houston, Texas 77043. USA. Phone: (865) 541-5595
+
+CEMEX Construction Materials Pacific, LLC Victorville Quarry Plant Investigation Report dated October 28, 2021 5|Page
+
+had formerly been placed had an exceedance of the STLC for lead. However: (1) an analysis of sample results for the Kleen Blast material does not indicate the material was a hazardous waste; and (2) the single sample relied upon by DTSC was taken from soil and not the actual Kleen Blast material.
+
+Based on multiple samples (21) of the Kleen Blast material analyzed between 2015 to 2019, the Kleen Blast material does not meet the criteria for classification as a California hazardous waste since the concentrations in both the total metals and the leachable metals (STLC and TCLP) were below the California hazardous waste thresholds. 8 This is consistent with the supplier's characterization of the material in its contract with CEMEX as being non-hazardous.9
+
+The sample results have been analyzed using the statistical approach specified in USEPA SW-846 for defining the 90% Upper Confidence Level, and for lead are provided in "Table Summary of Abrasive Blast Material Sampling" (Attachment 2) and summarized below.
+
+90 UCL Lead
+Total = 30.3 mg/kg
+STLC = 0.7 mg/l
+TCLP = 0.2 mg/l
+These results can be compiled and provided to DTSC in has been provided with respect to the EMSW. a report similar to the report that
+
+DTSC's assertion that the Kleen Blast material is a hazardous waste is based on a single soil sample. Since the Kleen Blast material was no longer on-site at the time the soil sample was collected (its use ended in September 2020), the soil sample collected by DTSC is not appropriate or adequate to conclude "that the lead [detected in the sample] was released from the placement of hazardous waste uncovered on unpaved ground". Report at 2. DTSC has not considered that there could have been many other reasons for the presence of the lead (e.g., it was reflective of background or activities). Specifically, given that the Kleen Blast material had been repeatedly shown to be below non-RCRA hazardous waste levels, then correlation between lead in the material to soil concentrations is not technically feasible or accurate.
+
+On the above basis, the corrective action requirements should be eliminated (submit a workplan (Corrective Action for Violation #1); cease illegal treatment and disposal of adding improperly characterized and managed ERM (Corrective Action for Violation #3); cease storing or accepting hazardous waste or ERM (Corrective Action for Violations #4 and #5)) for the following reasons and as outlined above:
+
+Sample results consistently show that the Kleen Blast material was below California
+
+Sample results were provided to DTSC on 10/23/2020 as Attachment 4 Analytical Results. Contract provided to DTSC on 10/23/2020 as Attachment
+
+United States Operations 10100 Katy Freeway, Suite 300, Houston, Texas 77043. USA. Phone: (865) 541-5595
+
+CEMEX Construction Materials Pacific, LLC Victorville Quarry Plant Investigation Report dated October 28, 2021
+6|P a g e
+
+hazardous waste thresholds.
+
+- There is no evidence or technical support that demonstrate that the concentration of lead in the soil samples were attributed to the Kleen Blast material or that there is a basis for requiring a workplan to characterize soil conditions; and
+- CEMEX is currently not receiving or storing Kleen Blast materials.
+This submission is being made by CEMEX subject to a full reservation of rights and subject to its right to raise additional grounds and evidence in response to the Report and the violations asserted in the Report. Should you have any questions or comments, please feel free to contact me at (865) 719-9925.
+
+Sincerely,
+Sithon Aahems
+Lillian DePrimo
+Sr. Director Environmental
+
+cC: Meredith Williams, Ph.D.
+Ross Colburn
+
+United States Operations 10100 Katy Freeway, Suite 300, Houston, Texas 77043. USA. Phone: (865) 541-5595
+
+Attachment 1
+
+WEST 711 Grand Avenue, Suite 220 San Rafael, California 94901
+415.460.6770 • Fax 415.460.6771
+Environmental Services & Tochnology main@westenvironmental.com
+
+November 19, 2021
+
+Zachary B. Allie, Esq.
+Cemex
+10100 Katy Freeway, Suite 300 Houston, TX 77043
+
+Subject: Engineered Municipal Solid Waste (EMSW) Characterization Data, Cemex, Victorville, CA
+
+Dear Mr. Allie:
+
+Pursuant to your request, West Environmental Services & Technology, Inc., (WEST) has prepared the following summary of the engineered municipal solid waste (EMSW) testing for the material used at Cemex's facility in Victorville, California. The EMSW is generated from municipal solid waste from over 20 cities and towns in California. Testing of the EMSW has been conducted quarterly since October 2017. The testing results confirm that the EMSW does not contain chemicals above applicable regulatory thresholds used to characterize wastes as hazardous. A summary of the testing and analysis is presented below.
+1.0 BACKGROUND
+
+Cemex's facility in Victorville, California includes an existing limestone quarry with primary crushing facilities and Portland cement manufacturing. The cement manufacturing process involves heating the limestone (and other raw materials) in a rotary kiln, referred to as calcining. The calcining process utilizes heat primarily from combusting fossil fuels to oxidize the carbonates and other minerals at temperatures greater than 1,000 degrees Celsius.
+Cemex, as part of its decarbonization plan, obtained a permit from the San Bernardino County Division of Environmental Health Services for an EMSW conversion facility at its Victorville plant.' The municipal solid waste from nearby cities and towns is diverted from disposal in landfills and is processed to reduce the fraction of chlorinated plastics (e.g., polyvinyl chloride piping) and non-combustible recyclable materials.2 The EMSW is used by Cemex as replacement for fossil fuel for heating its cement rotary kiln. Per California Assembly Bill 1126 (AB 1126), Cemex's EMSW conversion facility meets certain requirements, including: 1) waste to be converted is beneficial in that it replaces or supplements the use of fossil fuels; 2) the waste to be converted is handled in compliance with requirements for solid wastes; 3) no more than seven-days supply is stored at the facility; 4) the waste contains less than 25-percent moisture and less than 25-percent noncombustible waste; and 5) no more than 500 tons per day of waste is converted.
+
+https://cms.sbcounty.gov/Portals/50/Black%20Mountain%20Quarry%20Plant%20Kiln%202%20Conversion%20 Facility_Initial%20Study.pdf?ver=2020-11-24-153313-427 2 Ibid.
+
+Mr. Allie
+November 19, 2021
+Page 2 WEST Irironmental Services & Trchnologs
+The use of the EMSW reduces Cemex's carbon footprint by reducing the need for fossil fuel and natural gas in the manufacture of cement. In addition, the use of EMSW aids the local communities in meeting their requirements to reduce the amount of waste sent to landfills. The use of the EMSW also reduces the production of methane in landfills, which represents another benefit in reducing greenhouse gas emissions, as each pound of methane is equivalent to 25 pounds of carbon dioxide.3
+
+2.0 EMSW TESTING
+
+As part of Cemex's waste analysis plan, samples of the EMSW are submitted to a state-certified laboratory quarterly to determine whether it contains any metals in excess of either its Total Threshold Limit Concentration (TTLC) and, when applicable, its Soluble Limit Threshold Concentration (STLC).4 Consistent with California Environmental Protection Agency (CalEPA) Department of Toxic Substances Control (DTSC) requirements, the sampling and analysis of the wastes for hazardous characterization is conducted in accordance with the United States Environmental Protection Agency (USEPA) SW-846 Guidance for the Characterization of Solid Wastes, i.e., SW-846.5
+Since 2017, Cemex has collected and analyzed 13 samples of the EMSW and DTSC has collected and analyzed one sample.' The goal of Cemex's sampling is to collect representative samples of the wastes, i.e., "exhibiting average properties of the whole waste.»7 In accordance with SW-846, enough samples have been collected "over a period of time sufficient to represent the variability of the wastes" [underline in original].8
+The results of the testing revealed varying concentrations of heavy metals, including lead. The concentration of lead in the EMSW has varied between 6.74 milligrams per kilogram (mg/kg) and 148 mg/kg. Two samples were submitted for analysis of soluble lead by the California Waste Extract Test (WET) and one sample was submitted for testing by the USEPA Toxic Characteristic Leaching Potential (TCLP). The results for solubility testing revealed soluble lead varying from 0.106 mg/l (TCLP) to 5.3 mg/l (WET).
+A summary of the laboratory analytical results for lead in the EMSW is presented in Table 1. The laboratory data certificates and associated chain-of-custody forms have been submitted to DTSC using electronic file transfer protoco
+
+3.0 DATA ANALYSIS
+
+The results of the laboratory testing have been evaluated pursuant to the USEPA's recommended protocols.
+
+3 https://ww2.arb.ca.gov/ghg-descriptions-sources
+4 https://dtsc.ca.gov/defining-hazardous-waste/ Ibid.
+$ Cemex and DTSC each collected a sample on July 28, 2021. See DTSC, Office of Criminal Investigations Investigation Report, OCI Case # 15286, October 28, 2021. 7 https://www.epa.gov/sites/default/files/2015-10/documents/chap9_0.pdf Ibid. SW-846 indicates that a minimum of four samples are needed to characterize a variable waste stream.
+
+Mr. Allie
+November 19, 2021
+Page 3 WEST Eaviccomontal Services & Techmnolagy
+
+3.1 WASTE CHARACTERIZATION
+
+In accordance with SW-846, the results of the EMSW testing have been evaluated using the calculated 90 percent upper confidence level of the mean (90 UCL).9 As identified by the USEPA, the 90 percent UCL is to be used for comparison with applicable regulatory thresholds to determine whether the waste contains chemicals at levels that would characterize it as hazardous. The 90 UCL for the lead in the EMSW has been calculated at 46.9 milligrams per kilogram (mg/kg), which is less than its TTLC of 1,000 mg/kg (Table 1).10
+While one sample was reported to contain soluble lead above its STLC,the 90 UCL total lead concentration has been calculated at less than 50 mg/kg. The EMSW therefore does not contain soluble lead at its 90 UCL concentration that would exceed its applicable STLC through the leaching using the California Waste Extraction Test (WET). The WET procedure involves mixing 50 grams of material with 500 milliliters of citric acid solution, which results in a minimum of 10 to 1 dilution.11 Therefore, for the EMSW to be characterized as hazardous, the 90 UCL of the EMSW would need to contain at least 50 mg/kg of lead to result in a WET with lead at or above its STLC of 5 milligrams per liter (mg/l). If 100-percent of the lead in the EMSW is assumed to be extractable, the 90 UCL of WET results would be 4.69 mg/l, i.e., less than 5.0 mg/l. The laboratory analyses did not reveal the presence of other metals above their respective TTLCs or 90 UCLs greater than 10 times their applicable STLCs.
+4.0 SUMMARY
+
+Cemex utilizes EMSW to support its decarbonization goals and facilitate diversion of municipal solid wastes from landfills for over 20 cities and towns in California. As part of Cemex's use of EMSW, it has conducted routine testing of the EMSW, which has revealed the absence of metals, including lead above its TTLC. Based on the 90 UCL of lead in the EMSW, the EMSW also does not contain lead at its 90 UCL concentration that could exceed the STLC. Cemex is continuing to collect EMSW samples and will continue to update its waste analysis accordingly.
+Please call me at 415/971-1600 if you have any questions or wish to discuss this further.
+Sincerely, Petr- Kh e OI C44031 Peter M. Krasnoff, P.E. EXP. 6/30/23
+
+Principal Engineer
+
+Attachment: Table :
+
+9 Tbid.
+10 Calculation was performed in accordance with SW-846 Table 9-1. 11 The 500 milliliters of extractant 0.2 molar citric acid solution contains greater than 500 milligrams.
+
+TABLE 1
+SUMMARY OF EMSW SAMPLING
+Cemex, Apple Valley, California
+
+Lead
+Total WET TCLP
+Date (mg/kg) (mg/l) (mg/l)
+10/20/17 8.9
+3/30/18 2.61
+4/10/19 41.2
+7/19/19 6.74
+10/1/19 14.3
+1/28/20 7.91
+4/2/20 148
+7/16/20 5.54
+10/8/20 15.1 ND ND
+1/29/21 69.8 0.106
+4/27/21 24.8
+7/28/21 40.2
+7/28/21 60.2
+9/17/21 11.5
+Sample Mean 32.6 0.106
+
+Variance of Sample 1,554.9
+Standard Deviation of Sample 39.43|
+Standard Error 10.5
+Degrees of Freedom 13
+Tabulated "t" value 1.350
+
+Confidence Interval 32.6
+plus/minus 14.2|
+90 UCL 46.9
+Regulatory Threshold 1,000 5.0 50
+
+Attachment 2
+
+TABLE 1
+SUMMARY OF ABRASIVE BLAST MATERIAL SAMPLING Cemex, Apple Valley, California
+
+Lead
+Total WET TCLP
+Date (mg/kg) (mg/l) (mg/l)
+12/23/15 2.73 <1.0 <1.0
+1/7/16 7.65 0.127 0.011
+1/8/16 5.44
+1/11/16 7.18
+1/12/16 114 0.302
+4/20/16 0.390
+5/5/16 0.117
+5/10/16 0.162
+11/3/16 <0.5 <0.05 <0.01
+12/6/16 6.36 0.217 <0.01
+12/9/16 8.56 0.243 0.019
+8/29/17 50.1 2.61| 0.35
+9/5/17 20.6 0.532 0.085
+9/21/17 8.91 0.076 <0.01
+9/27/17 <0.5 <0.05 <0.01
+10/2/17 4.07 <0.05 <0.01
+8/1/18 6.87 0.477 <0.01
+9/4/18 6.29 0.216 <0.01
+9/11/18 40.2 0.61 0.24
+9/14/18 10.7 <0.051 <0.01
+7/30/19 49 1.5 <0.01
+Sample Mean 21.8 0.5 0.1
+
+Variance of Sample 860.5 0.5 0.0
+Standard Deviation of Sample 29.3345 0.6961| 0.1487|
+Standard Error 6.4 0.2 0.0
+Degrees of Freedom 16 17 14
+Tabulated "t" value 1.337 1.333 1.345
+
+Confidence Interval 21.8 0.5 0.1 Iplus/minus 8.6 0.2 0.0
+90 UCL 30.3 0.7 0.2
+Regulatory Threshold 1,000| 5.0 5.0
+
+EXHIBIT G
+
+17
+
+Department of Toxic Substances Control
+
+Jared Blumenfeld Meredith Williams, PhD, Director
+Gavin Newsom
+Secretary of the EPA 700 Heinz Avenue, Suite 200
+Berkeley, CA 94710 Governor
+
+December 8, 2021 Sent Via Email to: alejandrav.silva@cemex.com
+
+Alejandra V. Silva
+Environmental Manager
+Cemex Cement LLC
+16888 North E Street
+Victorville, CA 92394
+
+RESPONSE TO CEMEX CEMENT NOVEMBER 19, 2021 CORRESPONDENCE
+RELATED TO CONTINUED USE OF EMSW AND REQUEST FOR EXTENSION OF
+TIME TO RESPOND TO INSPECTION REPORT
+
+Dear Alejandra V. Silva,
+On November 10, 2021, the Department of Toxic Substances Control (DTSC) and Cemex Cement LLC (Cemex) representatives convened a meeting to discuss the Summary of Violations (SOV) issued to Cemex as a result of DTSC's July 28, 2021, a investigation and sample collection at the 24724 Quarry Rd, Apple Valley CA location. At this time, Cemex representatives informed DTSC it would provide DTSC with a response to the SOV, which would include the results of an analysis done on Engineered Municipal Solid Waste (EMSW) and would need a prompt reply in regard to the EMSW corrective action being required. DTSC received this response letter dated November 19, 2021.
+
+This letter is in response to the request made by Cemex management regarding the clarification on EMSW acceptance and continued use, i.e., burning, of EMSW as a fuel in a kiln at the Cemex Apple Valley facility. This letter also responds to Cemex's request dated December 6, 2021, for an extension of time to respond to the October 28, 2021, inspection report.
+DTSC's position on this question is that Cemex Apple Valley facility can receive and burn the EMSW that is not hazardous waste. Cemex Cement must test each batch of EMSW that arrives to determine if that load exhibits any hazardous waste characteristics. This should be done per the guidelines in Chapter 9 of SW-846. Per EPA guidance, a waste determination must be made on each unit of waste generated. When waste streams vary over time (as would be expected with EMSW and DTSC
+
+@ Printed on Recycled Paper
+
+Alejandra V. Silva
+Cemex Cement LLC
+12/8/2021
+Page-2
+
+sampling results have shown) testing of each shipment of waste needs to be done per the Chapter 9 guidelines. 9
+Beginning with the receipt of this letter, Cemex shall submit weekly to DTSC sampling procedures and test results for loads received until March 1, 2022. At that time the need
+to continue to submit testing results to DTSC will be reevaluated.
+Any loads that exceed hazardous waste thresholds must be rejected and the generators/transporters of such loads must be informed of the results with-in 24 hours.
+
+DTSC also requests contact information for all EMSW generators that provide EMSW to the Cemex Apple Valley facility and any and all analytical data for the bag house dust generated onsite during the year 2020 be provided to DTSC.
+DTSC grants Cemex's request to respond to the inspection report to Monday, January 24, 2022, subject to the following terms and conditions: Cemex must test each batch of EMSW in accordance with the aforementioned requirements, and Cemex is prohibited from receiving, processing, or burning hazardous waste, including without limitation hazardous waste EMSW.
+
+If you have any questions regarding the Investigation Report, or if you wish to meet with DTSC to discuss any questions or concern you have, please call Pragya Pandey at 916-823-2742 or email at Pragya.Pandey@dtsc.ca.gov. The weekly sampling procedures and test results should also be submitted to DTSC through Pragya Pandey.
+
+Sincerely,
+Pragya Pandey
+Pragya Pandey Senior Environmental Scientist (Specialist)
+Department of Toxic Substances Control
+Office of Criminal Investigations
+Berkeley, CA 94710
+
+EXHIBIT H
+
+18
+
+/cemEx Revised 12/10/2021 for minor
+typographical errors
+December 9, 2021
+
+Dylan Clark, Senior Environmental Scientist (Supervisory)
+Pragya Pandey, Senior Environmental Scientist (Specialist)
+Department of Toxic Substances Control
+700 Heinz Ave, Suite #200
+Berkeley, CA 94710
+
+Via email: Dylan.Clark@dtsc.ca.gov; Pragya.Pandey@dtsc.ca.gov
+
+Re: Cemex Construction Materials Pacific, LLC ("Cemex") Victorville Quarry Plant - Department of Toxic Substances Control ("DTSC") Letter dated December 8, 2021
+Thank you for your December 8, 2021 letter ("Letter"). Cemex' appreciates DTSC's willingness to extend the deadline for responding to the October 28, 2021 inspection report (*Inspection Report") from December 13, 2021 to January 24, 2022. Cemex cannot, however, accept or meet DTSC's conditions on the further use of EMSW at its Victorville facility during the extension period. Those reasons are outlined below.
+
+Under the circumstances, Cemex will stop accepting engineered municipal solid waste ("EMSW") effective tomorrow. That step will have immediate repercussions for the company that processes and provides the EMSW, CR&R. The CR&R facility processes up to 3,000 tons day of municipal solid waste and Cemex is currently the facility's only current customer.4 Cemex's inability to accept the EMSW will also impact the entire AB1126 program developed to divert municipal solid waste from landfills and utilize it as a fuel as a means of reducing greenhouse gases.3
+
+Turning to the specific conditions identified in the Letter:
+DTSC's requirement for "each batch" (apparently each load of EMSW) to be tested is inconsistent with the applicable waste characterization guidance on which DTSC relies. The Letter states that each "batch" is to be tested "to determine if that load exhibits any hazardous waste characteristics." (emphasis added). DTSC thus apparently views each a load as a separate batch. The Plant receives on average 6-8 loads per day of EMSW,
+each consisting of 18-25 tons. Given the ambiguity of DTSC's direction, this means DTSC could be requiring the collection and analysis of up to eight samples per day. However, DTSC's requirement is ambiguous as to DTSC's intent regarding each batch [emphasis in original] versus testing "each unit of waste...each shipment of waste…[and/or] loads."
+
+The Letter refers to Cemex Cement LLC as "Cemex." In fact, the Plant is operated by Cemex Construction Materials Pacific, LLC.
+
+2 Cemex assumes that this municipal solid waste, if it cannot be processed for use as EMSW, will have to landfilled.
+More details regarding the AB1126 program was provided in Cemex's November 19. 2021 submission.
+
+DTSC bases the requirement for each load to be tested on potential variability between each load. Letter at 1-2. It cites in support of this requirement the noted variability in the single sample collected by DTSC (the analysis of which was slightly above the characteristic waste threshold for lead). It is not apparent how a single sample out of more than 15 samples collected and analyzed over a five-year period supports the conclusion that each load requires testing. DTSC did not address in its Letter the statistical analysis of those sampling results presented in the letter from Peter Krasnoff, P.E, of WEST Environmental Services & Technology (*WEST Letter") as part of Cemex's November 19, 2021 submission. The WEST Letter demonstrates consistent with the requirements of the applicable guidance, the United States Environmental Protection Agency SW-846, Guidance for the Characterization of Solid Waste ("SW- 846") that EMSW is not a hazardous waste.
+
+The EMSW, which consists of shredded municipal solid waste from which certain types of materials have been removed, is in fact heterogeneous in terms of its content, but there is no basis for concluding that it is variable across individual loads. SW-486 specifically contemplates that random samples of such material be used to characterize it.
+
+The Letter also cites to SW-846 as requiring that "each unit of waste generated" be characterized. To the extent DTSC views that as a requirement that each unit be
+sampled, there is no support in SW-486 for that conclusion. In contrast to DTSC's
+position, SW-846 does not specify and/or even recommend testing of each batch of a
+randomly heterogeneous waste. Rather, SW-846 indicates that "If a batch of waste is randomly heterogeneous with regard to its chemical characteristics and that random chemical heterogeneity remains constant from batch to batch, accuracy and appropriate precision can usually be achieved by a simple random sampling [emphasis in original]." In simple random sampling "a suitable number of samples is randomly selected from the
+population."
+
+The requirement to isolate and test each load of EMSW pending receipt of sampling results is not practical and cannot be done in compliance with Cemex's solid waste permit. As noted above, the Plant receives on average 6-8 loads per day of EMSW, each consisting of 18-25 tons. The facility is not configured to allow for the isolation of individual loads, such
+that loads could be "rejected."4
+
+The turnaround time for sampling would be a minimum of four to five business days (and up to ten calendar days), assuming the samples are sent by overnight delivery from Victorville to a laboratory that would agree to provide results within 72-hours based on expedited processing.5 Actual processing times could be longer due to laboratory and shipping delays.
+In addition, under Cemex's solid waste permit, EMSW can only remain on-site for a
+
+4 Cemex is prepared to provide more details as to why the isolation of individual loads is not operationally possible.
+5 The cost of expedited processing would be minimum of $750 per sample. The cost of sampling eight loads per day during a five-day week (a total of 40 samples) would be $30,000.
+
+maximum of seven days. That holding time would most likely be reached before sampling results are received. Further, if a "batch" failed as conditioned by DTSC, the processing of a waste profile for acceptance at a Class 1 landfill typically requires weeks, during which time Cemex would be in violation of its seven-day storage permit. Therefore, the DTSC conditions are not feasible and functionally prohibit Cemex from further use of EMSW.
+There is also no option for sampling of the EMSW to be conducted by CR&R. CR&R has informed Cemex that it lacks the ability to isolate and hold shipments of EMSW at its facility, both because of space and operational limitation and due to permitting concerns.
+Cemex cannot manage EMSW in a manner that would allow it to comply with the
+prohibition on use of any EMSW load as to which the analytical results exceed thresholds for characteristic hazardous waste. The Letter states that Cemex is prohibited from using any load as to which the testing identifies "hazardous waste characteristics." Letter at 2. Cemex
+would be required to notify the "generator/transporter" (CR&R) within 24 hours to "reject" the load. Cemex would not be able to comply with this requirement because of its inability to isolate and then "reject" individual loads. Even if it could, DTSC's position seemingly would require that large volumes of material - that but for the EMSW process would have been disposed of in a municipal solid waste landfill - be managed as hazardous waste.
+Cemex requests that DTSC reconsider the conditions it has placed on Cemex's use of EMSW in connection with the further extension of the deadline for a response to the Inspection Report. Cemex is prepared to meet with DTSC at the earliest opportunity to discuss alternative conditions
+that would allow it to continue its use of EMSW while continuing to collect additional sampling to confirm that the EMSW is not a hazardous waste. In that regard, Cemex is prepared to continue collecting and analyzing weekly composite samples of EMSW. It will arrange for expedited analysis of the weekly sample and provide a weekly report to DTSC regarding the results of such sampling. As part of that weekly report, Cemex would incorporate any new sampling results into the WEST Letter's waste characterization analysis, specifically to update the calculation of the 90
+percent upper confidence level of the mean for total lead, mean lead and soluble level threshold
+concentration.
+
+Sincerely,
+
+Lillian DePrimo
+Sr. Director Environmental
+
+cC: Antonia Becker (Antonia.Becker@dtsc.ca.gov)
+Ross Colburn (Ross.Colburn@dtsc.ca.gov
+Paige Fennie (Paige.Fennie@dtsc.ca.gov)
+David Sadwick (David.Sadwick@dtsc.ca.gov)
+
+1 PROOF OF SERVICE
+
+2
+STATE OF CALIFORNIA
+SS 3
+COUNTY OF LOS ANGELES
+T
+
+5 am employed in the County of Los Angeles, State of California. I am over the age of 18
+
+6 years and not a party to the within action. My business address is 555 West Fifth Street, Los
+
+7 Angeles, CA 90013.
+
+8 On January 28, 2022, I served the foregoing document(s) described as cccc on all
+
+9 interested parties in this action as follows: NOTICE TO ATTORNEY GENERAL
+
+10
+x (VIA U.S. MAIL) I served the foregoing document(s) by U.S. Mail, as follows: I 11 placed true copies of the document(s) in a sealed envelope addressed to each interested party as shown above. I placed each such envelope with postage thereon 12 fully prepaid, for collection and mailing at Sidley Austin LLP, Los Angeles, California. am readily familiar with Sidley Austin LLP's practice for collection and 13 processing of correspondence for mailing with the United States Postal Service. Under that practice, the correspondence would be deposited in the United States 14 Postal Service on that same day in the ordinary course of business.
+15 On the parties in this action as follows:
+
+16
+Office of the Attorney General
+17 1300 "I" Street
+Sacramento. CA 95814-2919
+18
+
+19 I declare under penalty of perjury under the laws of the State of California that the
+
+20 foregoing is true and correct.
+
+21 Executed on January 28, 2022, at Los Angeles, California.
+
+22
+
+23 mQa Crsor
+24 LouAnn Crosby
+
+25
+
+26
+
+27
+
+28

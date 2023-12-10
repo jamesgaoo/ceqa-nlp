@@ -1,0 +1,1377 @@
+ELLISON FOLK (State Bar No. 149232) PATRICK L. WOOLSEY (State Bar No. 329891) 2 SHUTE, MIHALY & WEINBERGER LLP
+396 Hayes Street 3 San Francisco, California 94102 Telephone: (415) 552-7272 4 Facsimile: (415) 552-5816 folk@smwlaw.com 5 I pwoolsey@smwlaw.com
+
+6 Attorneys for Petitioners SAVE SAWMILL MOUNTAIN and CENTRAL 7 SIERRA ENVIRONMENTAL RESOURCE CENTER
+
+8
+
+9 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+10 COUNTY OF TUOLUMNE
+
+11 SAVE SAWMILL MOUNTAIN and Case No.
+CENTRAL SIERRA ENVIRONMENTAL 12 RESOURCE CENTER, VERIFIED PETITION FOR WRIT OF
+MANDATE
+13 Petitioners,
+
+14 CCP § 1094.5 (alternatively 1085); Public V. Resources Code § 21000 et seq.
+15 COUNTY OF TUOLUMNE; COUNTY ("CEQA"); State Planning & Zoning Law
+OF TUOLUMNE BOARD OF 16 SUPERVISORS; and DOES through 20, inclusive,
+17
+Respondents. 18
+
+19| HARDIN FLAT LLC: HANSJI
+CORPORATION; TERRA VI 20 YOSEMITE LODGE; and DOES 21
+
+21 through 40, inclusive.
+
+Real Parties in Interest.
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+1 INTRODUCTION
+
+2 1. This action challenges the December 31, 2020 decision of the County of
+3 Tuolumne and its Board of Supervisors (collectively, "Respondents") to approve the Terra
+
+4 Vi Yosemite Lodge project (*Project") and to certify the associated Environmental Impact
+5 Report ("EIR"). The County's approval-made late in the afternoon of December 31st and
+6 just hours before a new a Board of Supervisors would be seated-will allow the construction
+7 of a resort-style hotel with 100 guestrooms, 26 cabin guestrooms, 5 employee apartments,
+8 a helipad, a dining room/bar, and a public market. Located just west of a prime gateway
+9 into Yosemite National Park, the project site is designated as a Very High Fire Hazard
+10 Severity Zone, and the Project will draw hundreds of daily visitors to an undeveloped
+11 natural site surrounded by rural residential and National Forest land. The impacts of the
+12 Project will be made all the worse by the Yosemite Under Canvas project, a 99-room
+13| "glamping" project that will be located immediately across Highway 120 from the Project
+14 and was approved by Tuolumne County on December 17, 2020.
+
+15 2. In its haste to approve the Project before the end of 2020, the County made
+16 numerous procedural and substantive errors. The County neglected to respond to
+17 comments on the draft EIR as required by the California Environmental Quality Act,
+18 Public Resources Code section 2100 et. seq. ("CEQA"), even though it was clearly
+19 informed of this failure at the public hearing on the Project. Rather than correct this failing,
+20 the County inaccurately claimed that the comments had not been submitted during the
+21 public comment period, notwithstanding direct testimony (supported by the evidentiary
+22 record) that the comments had been timely submitted. The County also failed to include a
+23 Mitigation Monitoring and Reporting Program ("MMRP") in the draft EIR as explicitly
+24 required by the County's own code of ordinances. And the County repeatedly underplayed
+25 the impacts of the Project and failed to adopt adequate mitigation to address these impacts.
+26 The EIR fails to adequately analyze or mitigate the Project's myriad environmental effects,
+27 including impacts on public safety due to significant wildfire risk, evacuation and
+28 emergency response, water quality and water supply, potential impacts to neighbors' wells,
+2
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+1 local housing market impacts, noise impacts from the helipad as well as Project
+2 construction and operation, traffic, and roadway hazards.
+
+3 3. This petition challenges the Board of Supervisors' reliance on the EIR
+4 prepared for the Project because the County failed to ensure that the EIR disclosed,
+5 analyzed, and mitigated the Project's many foreseeable impacts as required by CEQA and
+6 the CEQA Guidelines, Title 14, California Code of Regulations, section 15000 et. seq. The
+7 Project is also inconsistent with the County's General Plan and Zoning Ordinance,
+8 designed to limit the impacts of commercial development and to protect significant natural
+9 areas such as the Project site and its environs. For all these reasons and as further detailed
+10 in this petition, the County's approval of the Project and certification of the EIR violate
+11 CEQA and the Planning and Zoning Law and must be overturned.
+12 PARTIES
+
+13 4. Petitioner Save Sawmill Mountain is an unincorporated association of
+14 residents of Tuolumne County who are committed to protecting the rural character and
+15 natural resources of Tuolumne County, particularly those areas in close proximity to
+16 Yosemite National Park. Members of Save Sawmill Mountain live and/or recreate in the
+17 Sawmill Mountain/Hardin Flat area where the Project will be located, and they will be
+18 adversely impacted by the Project.
+
+19 5. Central Sierra Environmental Resource Center ("CSERC") is a California
+20 nonprofit organization formed in 1991 to defend water and wildlife across the foothills and
+21 forests of the Central Sierra Nevada from sprawling or inappropriate new development,
+22 destruction of habitat, and other threats to open space or wild places. CSERC members
+23 live, own property, and/or recreate in Tuolumne County and are affected by the Project.
+24 For more than three decades CSERC has represented public benefit resources including
+25 wildlife, water resources, and scenic values in the region. CSERC and its members are
+26 directly, adversely, and irreparably affected, and will continue to be prejudiced by the
+27 Project and its components, as described herein, until and unless this Court provides the
+28 relief prayed for in this Petition. The interests that CSERC seeks to further in this action
+3
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+are within the purposes and goals of the organization, and CSERC and its members have a
+2 direct and beneficial interest in Respondents' compliance with CEQA and the CEQA
+Guidelines. The maintenance and prosecution of this action will confer a substantial
+benefit on the public by protecting the public from the environmental and other harms
+5 alleged herein.
+
+6 6. Respondent County of Tuolumne, a political subdivision of the State of
+7 California, is responsible for regulating and controlling land use in the unincorporated
+
+8 territory of the County, including implementing and complying with the provisions of
+9 CEQA. The County is the "lead agency" for the purposes of Public Resources Code
+
+10 Section 21067, with principal responsibility for conducing environmental review of the
+11 proposed actions. The County has a duty to comply with CEQA and other state laws.
+12 7. Respondent County of Tuolumne Board of Supervisors is the duly elected
+13| decision-making body of the County. As the decision-making body, the Board of
+14| Supervisors is charged with the responsibilities under CEQA for conducting a proper
+15 review of the proposed action's environmental impacts and granting the various approvals
+16 necessary for the Project.
+17 8. Petitioners are unaware of the true names and capacities of Respondents
+18 fictitiously named Does through 20 and sue such respondents by fictitious names.
+19 Petitioners are informed and believe, and on the basis of such information and belief,
+20 allege the fictitiously named respondents are also responsible for the actions described in
+21 this Petition. When the true identities and capacities of these respondents have been
+22 determined, Petitioners will amend this Petition, with leave of the Court if necessary, to
+23 insert such identities and capacities:
+
+24 9. Real Party in Interest Terra Vi Yosemite Lodge is listed as the "Project
+25 Proponent" on the County's December 31, 2020 Notice of Determination related to the
+26 Project. Terra Vi Yosemite Lodge is named as a Real Party in Interest in this action
+27 pursuant to Public Resources Code section 21167.6.5(a).
+
+28 10.. Petitioners are informed and on that basis allege that Real Party in Interest
+4
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+F Hansji Corporation will develop and operate the Terra Vi Lodge and wholly owns Terra Vi
+2 Yosemite Lodge.
+
+3 11. Real Party in Interest Hardin Flat LLC is identified in Project documents as
+
+4 the owner of the property where the proposed Project would be constructed. As the
+
+5 property owner, Hardin Flat LLC has a material interest in Respondents' approval of the
+6 Project and is directly and materially affected by the actions challenged in this Petition.
+
+7 12. Petitioners are unaware of the true names and capacities of Real Parties in
+Interest Does 21 through 40 and sue such real parties in interest by fictitious names.
+9 Petitioners are informed and believe, and based on such information and belief, allege that
+10 the fictitiously named real parties in interest are directly and materially affected by the
+11 actions, described in this Petition. When the true identities and capacities of these real
+12 parties in interest have been determined, Petitioners will amend this Petition, with leave of
+13 the Court if necessary, to insert such identities and capacities.
+14 JURISDICTION AND VENUE
+
+15 13. This Court has jurisdiction over the matters alleged herein pursuant to Code
+16 of Civil Procedures sections 526, 527, 1085, 1087, and 1094.5, and Public Resources Code
+17 sections 21168 and 21168.5.
+
+18 14. Venue for this action properly lies in the Superior Court for the State of
+19 California in and for the County of Tuolumne pursuant to Code of Civil Procedure section
+20 394.
+
+21 15. Petitioners have performed any and all conditions precedent to filing the
+22  instant action and have exhausted any and all available administrative remedies to the
+23 extent possible and required by law. Petitioners submitted numerous objections to the
+24 approvals for the Project and appealed the Planning Commission's approval of the Project
+25 to the County Board of Supervisors.
+
+26 16. Respondents have taken final agency actions with respect to certifying the
+27 EIR and granting approvals for the Project. Respondents have a duty to comply with
+28 applicable state laws, including but not limited to CEQA and the Planning and Zoning
+5
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+1 Law, prior to undertaking the discretionary approvals at issue in this lawsuit. Petitioners
+2 possess no effective remedy to challenge the approvals at issue in this action other than by
+3 means of this lawsuit.
+
+4 17. On January 28, 2021, Petitioners complied with Public Resources Code
+
+5 section 21167.5 by emailing and mailing to Respondents a letter stating that Petitioners
+6 planned to file a Petition for Writ of Mandate seeking to invalidate Respondents' approvals
+
+7 for the Project. Attached hereto as Exhibit A is a true and correct copy of this letter.
+
+8 18. On January 28, 2021, Petitioners are complying with Public Resources Code
+
+9 section 21167.7 and Code of Civil Procedure section 388 by furnishing the Attorney
+10 General of the State of California with a copy of the Petition. Attached hereto as Exhibit B
+11 is a true and correct copy of the letter transmitting the Petition to the Attorney General.
+12 19. Pursuant to Public Resources Code section 21167.6(b)(2), Petitioners elect to
+13 prepare the record of proceedings in this action. Concurrently with this Petition, Petitioners
+14 are filing a notice of election to prepare the administrative record.
+15 20. Petitioners have no plain, speedy, or adequate remedy in the course of
+16 ordinary law unless this Court grants the requested writ of mandate to require Respondents
+17 to set aside their certification of the EIR and approvals for the Project. In the absence of
+18 such remedies, Respondents' approvals will remain in effect in violation of state law, and
+19 the environment and Petitioners will be irreparably harmed. No money damages or legal
+20 remedy could adequately compensate for that harm.
+
+21 STATEMENT OF FACTS
+
+22 21. The proposed Project entails construction of a large resort hotel consisting of
+23. 126 guestrooms both in a lodge and cabin-style buildings, housing for 20 employees, a
+24 public market, a helipad, and indoor and outdoor facilities designed to host over 500
+25 people daily. Site development would cover at least 13 and as much as 19 acres and
+26 includes 286 parking spaces. The Project would require construction of an on-site
+27 wastewater treatment system and a graywater system, neither of which was described in
+28 the draft EIR. Although it is located directly adjacent to Highway 120, the Project would
+6
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+1 rely on a small, undeveloped Forest Service Road as the primary access to the Project site.
+2 The Project would also require the development of onsite wells sufficient to meet all
+3 Project water demands, since no public water supply is accessible at this location. All of
+4 this infrastructure would be constructed on an environmentally sensitive, currently
+5 undeveloped natural site surrounded by rural residential and National Forest land.
+
+6 22. The EIR describes the Project site as composed of two parcels, one zoned
+7 primarily C-K for "commercial recreational" use and the other zoned partly C-K for
+8 "commercial recreational" use and partly O for open space. However, a portion of the
+western parcel, referred to as APN 068-120-060, also contains a parcel deeded from
+10 Caltrans to Carol Manly, predecessor to Hardin Flat LLC, the current owner of the Project
+11 site. At the time it was deeded to Carol Manly in 2003, the Caltrans parcel was zoned as a
+12 timberland production district (TPZ). The Caltrans parcel was never rezoned for
+13 commercial use.
+
+14 23. Some areas of the Project site were severely burned in the 2013 Rim Fire.
+15 After that fire in December 2015, Gregory Robert Manley, the agent for Hardin Flat LLC,
+16 entered into a grant agreement with CAL FIRE, the state agency responsible for forestry
+17 management, that resulted in the property owner receiving grant funding in the amount of
+18 $34,000 to manage the property for forestry production and carbon sequestration. In
+19 exchange, Manley agreed to keep the property in its status as commercial timberland and
+20 not to develop the property for at least 10 years. Although this grant agreement would not
+21 expire until 2025, the property owner abandoned any commitment to the agreement when
+22 it proposed the Terra Vi project in 2018.
+23 24. The County issued the Notice of Preparation for the EIR on May 2, 2019.
+24 Because the County failed to file the NOP with the State Clearinghouse as required by
+25 CEQA, it released the NOP again on November 15, 2019. In its comments on the NOP,
+26 Save Sawmill Mountain expressed concern that the County's list of potentially significant
+27 Project impacts did not address many impact areas and requested that the County conduct a
+28 full review of the Project and alternatives.
+7
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+25. The County released the Notice of Availability for the draft EIR for the
+2 Project on June 17, 2020 and provided just over 40 days-until July 30--for the
+3 submission of public comments.
+
+4 26. On the same day it released the Project draft EIR, the County also released
+5 the draft EIR for the Yosemite Under Canvas project (a resort lodge operation designed to
+6 accommodate at least 250 guests) which is located immediately across Highway 120 from
+
+7 the Project. Because the time for public comment on the Project EIR overlapped with the
+8 review period for the Under Canvas project, many members of the public requested an
+9 extension of time so that they would have sufficient time to understand the impacts of both
+10 projects and to inform the County of their concerns. Combined, the two EIRs totaled
+11 thousands of pages of detailed written materials for citizen review. The County denied the
+12 many requests for additional time for public review and also denied a request to extend the
+13 comment period for the directly adjacent Yosemite Under Canvas project's EIR.
+14 27. Notwithstanding the constraints imposed by the County's overlapping review
+15 periods, Petitioners and others diligently participated in the County's administrative
+16 process for the Project. Concerned citizens, Save Sawmill Mountain, and CSERC, along
+17 with the Tuolumne River Trust, another well-established, local environmental
+18 organization, submitted extensive comments on the draft EIR.
+
+19 28. Comments submitted on the draft EIR raised concerns over the failure to
+20 adequately evaluate the Project's significant impacts, in particular, impacts to surrounding
+21 community, guests, and staff from severe wildfire risks as well as impacts related to traffic
+22 safety, water quality and water supply, potential impacts to neighbors' wells, and the
+23 additional strain the project would pose for already over-stretched and inadequate public
+24 services (especially ambulance, law enforcement, and fire response) and for the local rental
+25 housing market. Commenters criticized the draft EIR's inconsistent project description and
+26 its failure to evaluate a reasonable range of project alternatives. Commenters also noted the
+27 Project's many inconsistencies with the County General Plan's land use designation of
+28 commercial recreation, which prohibits commercial development that is not connected to
+8
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASENO.
+
+1 public water and sewer services. Commenters also objected to the helipad and the draft
+2 EIR's failure to evaluate the noise impacts of allowing helicopter takeoffs and landings in
+3 close proximity to a rural residential area.
+
+4 29. The County issued the final EIR on November 20, 2020-the Friday before
+5 Thanksgiving-and set the Planning Commission hearing for the Project just 10 days later
+
+6 on December 1, 2020. The final EIR made substantial modifications to the Project and its
+7 environmental review that had not previously been disclosed to the public. Among other
+8 changes, the Project was revised to include an on-site packaged wastewater treatment
+
+9 system, it proposed moving the helipad, and it included a graywater sewage treatment
+10 facility. The final EIR also included six new technical appendices with entirely new
+11 environmental analyses that had been omitted from the draft EIR. The noise appendix
+12 alone was over 80 pages in length, and, although it contained substantial new information,
+13 it still failed to adequately analyze or mitigate the Project's significant noise impacts. The
+14 final EIR also omitted necessary information about the new wastewater treatment facility,
+15 the proposed graywater system, and the proposal for treating water supply from the
+16 Project. Notwithstanding this substantial new information and limited review time,
+17 members of the public, including Save Sawmill Mountain, rushed to submit comments on
+18 the final EIR.
+
+19 30. Also on November 20, 2020, Patrick Koepele of the Tuolumne River Trust
+20 emailed a copy of the Trust's comments on the draft EIR that had been previously
+21 submitted on July 30, 2020 during the public comment period. Because the County had
+22 failed to respond to the Trust's comments on the Under Canvas EIR, Mr. Koepele was
+23 concerned that it would also overlook the Trust's comments on the Terra Vi project. Mr.
+24 Koepele again raised his concern over the County's failure to respond to comments on the
+25 Project EIR on November 24 and December 1, 2020. Notwithstanding his attempts to
+26 bring this to the County's attention, the County never responded to the Trust's comments
+27 on the draft EIR.
+
+28 31. At its December 1 hearing on the Project, the Planning Commission heard
+9
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+1 testimony from residents throughout the County in opposition to the Project. An over-
+2 whelming majority of commenters expressed concerns about the wildfire impacts of the
+3 Project that would affect public safety, its impacts on water supply and quality, potential
+4 impacts of the project to neighbors' wells, its traffic safety impacts, its noise impacts, the
+inadequacy of public services, and the need to consider a better range of project
+
+6 alternatives. Members of Save Sawmill Mountain and other members of the public also
+7| objected that the Project was inconsistent with the County's General Plan and Zoning
+
+8 Ordinance and that the County had failed to demonstrate that the Forest Service road relied
+
+upon for Project access could legally be used to access the site. At that meeting, after
+10 public testimony, Planning Commissioners approved the Project without modification.
+
+11 32. On December 3, 2020, Clare Cosovich filed an appeal of the Planning
+12 Commission's approval of the Project. Petitioners are informed and believe, and on that
+13 basis allege, that Ms. Cosovich is engaged to a member of the Manly family, which owns
+14 the property where the Project will be located. Although Ms. Cosovich never submitted
+15 comments on the Project and never objected to its approval, she asserted in her appeal that
+16 the County had not demonstrated that adequate water supply existed for the Project. The
+17 County set the hearing on her appeal for December 18, 2020.
+18 33. Save Sawmill Mountain filed a separate appeal of the Planning
+19 Commission's decision to the Board of Supervisors on December 11, 2020. The County
+20 combined the Cosovich appeal with Save Sawmill Mountain's and scheduled the Board of
+21 Supervisors' hearing on the appeals for December 29, 2020. Although the Cosovich appeal
+22 is posted on the County's website, Save Sawmill Mountain's appeal is not.
+23 34. Prior to the Board of Supervisor's hearing on the Project, on December 28,
+24 2020, Save Sawmill Mountain submitted a letter elaborating on previous comments on
+25 legal inadequacies in the EIR and detailing the final EIR's failure to adequately address
+26 these issues. Among other deficiencies, Save Sawmill Mountain noted the EIR failed to
+27 adequately analyze greenhouse gas impacts of the Project and improperly dismissed
+28 mitigation as infeasible.
+10
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+1 35. At the December 29, 2020 hearing, many members of the public from
+2 throughout Tuolumne County objected to the approval of the Project and continued to
+3 press their concerns that the EIR had not adequately evaluated or mitigated project impacts
+
+4 and that the Project was inconsistent with the County's General Plan and Zoning
+5 Ordinance. Although Ms. Cosovich was permitted to appear at the hearing as an appellant,
+6 she testified that she actually did not oppose the Project, and instead criticized those
+7| objecting to the Project.
+
+8 36. Petitioner CSERC testified that the County had failed to respond to its
+9 comments on the draft EIR, even though those comments had been submitted during the
+10 public comment period on the draft EIR. Following this comment, the Board took a "thirty
+11 minute recess." When the Board came back after almost an hour, the Board chair
+12 announced that the County had determined that CSERC was correct that the County had
+13 failed to respond to CSERC's comments and that the hearing would be continued to
+14 December 31, 2020. No vote was taken to continue the hearing.
+15 37. On December 30, 2020 Save Sawmill Mountain submitted comments
+16| objecting to the County's apparent discussion of the failure to respond to CSERC's
+17 comments and continuance of the hearing in violation of the Brown Act. Save Sawmill
+18 Mountain also noted that the County's action violated its obligation to provide a fair
+19 hearing on the appeal as required by Code of Civil Procedure section 1094.5
+20 38. The County posted responses to CSERC's comments on the draft EIR at 2:51
+21 p.m. on December 30, 2020. Because the County's responses to CSERC's comments were
+22 posted as "errata" less than 24 hours before the Board of Supervisors hearing on the
+23 Project, CSERC did not have adequate time to fully review those responses, although
+24 CSERC staff invested many hours into that effort. CSERC was not provided the
+25 opportunity to file its own appeal of the Project or to obtain a fair hearing on that appeal
+.26 before the Board.
+
+27 39. At the December 31 hearing, which began at 9:00 a.m. the following
+28 morning, the Board of Supervisors reopened the public hearing and took additional
+11
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+testimony from the public. Among those who objected to approval of the Project was the
+2 Tuolumne River Trust, who discovered after hearing the testimony from CSERC on
+3 December 29, 2020 that the County had also failed to respond to the Trust's comments on
+
+4 the draft EIR, even though those comments had been initially submitted on July 30, 2020
+
+5 during the public comment period on the draft EIR and resubmitted by the Trust twice,
+6 once on November 20, 2020 and again on December 1, 2020.
+
+7 40. After receiving the testimony from the Trust, the Board took an abrupt
+8 recess, returning 30 minutes later to resume public testimony. At the close of public
+9 testimony, the Board took another break and returned over an hour later. When the Board
+10 resumed the hearing, County staff acknowledged that the County had failed to respond to
+11 the Trust's comments on the draft EIR. However, County staff incorrectly asserted that the
+12 comments had not been submitted until December 1, 2020 and therefore were untimely. As
+13 the email correspondence between the Trust and the County clearly indicates, the
+14 comments were first submitted on July 30, 2020 and only resubmitted in November and
+15 again in December after the Trust learned that the County had failed to respond to its
+16 comments on the adjacent Under Canvas project. Based on the County's misrepresentation
+17 of the timing of the Trust's comments, the County asserted that it did not need to respond
+18 to the Trust's comments, instead of continuing the hearing to allow for such responses to
+19 be prepared and published, and to allow the Trust an opportunity to review those
+20 comments and to prepare an appeal. Copies of the Trust's correspondence with the County,
+21 including its original comments, are attached as Exhibit C.
+
+22 41. Counsel for Save Sawmill Mountain attempted to correct the record, but the
+23 County refused to hear further comments from appellant. Although the County prevented
+24 appellants from providing additional information, it continued to allow the Project
+25 proponent to present testimony throughout the remainder of the hearing.
+26 42. At the December 31 hearing, some members of the Board of Supervisors
+27 expressed concern over the Project's impacts on water supply, particularly its potential
+28 effects on neighboring wells. One member also proposed eliminating the Project's helipad
+12
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+1 due to its significant noise impacts. However, staff discouraged the Board from making
+2 changes to the Project, advising that the adequacy of the EIR rested upon the Board's
+3 judgment that no additional mitigation was needed. At that point, the Project was
+
+4 approved. The only modification from the Planning Commission's approval of the Project
+
+5 was the inclusion of a measure regarding the Project's greenhouse gas emissions that had
+6 not been included in the EIR and had only been proposed on December 29, 2020.
+
+7 43. The County filed a Notice of Determination that same afternoon, on
+8 December 31, 2020.
+
+9 FIRST CAUSE OF ACTION
+
+10 Violation of CEQA (Public Resources Code § 21000 et seq.)
+11 44. Petitioners reallege and incorporate by reference the preceding paragraphs in
+12 their entirety.
+
+13 45. CEQA is designed to ensure that government agencies incorporate the goal
+14 of long-term protection of the environment into their decisions that may affect the
+
+15 environment. CEQA applies to any discretionary action taken by an agency that may cause
+16 a reasonably foreseeable change in the environment.
+
+17 46. In furtherance of its goal of environmental protection, CEQA requires that an
+18 agency prepare an EIR a for a project whenever substantial evidence in the record supports a
+19 fair argument that the project may have a significant impact on the environment. As the
+20 cornerstone of the CEQA process, the EIR must disclose and analyze a project's
+21 potentially significant environmental impacts. In addition, the EIR also must inform
+22 decision-makers and the public of feasible mitigation measures and alternative project
+23 designs or elements that would lessen or avoid the project's significant adverse
+24 environmental impacts.
+
+25 47. CEQA also mandates that the lead agency adopt all feasible mitigation
+26 I measures that would reduce or avoid any of the project's significant environmental
+27 impacts. If any of the project's significant impacts cannot be mitigated to a less-than-
+28 significant level, the project can be approved only if the agency finds that the project's
+13
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+1 benefits would outweigh its unavoidable impacts.
+
+2 48. Under CEQA, all findings required for any agency's approval of a project
+3 must be legally adequate and supported by substantial evidence in the administrative
+4 record, and CEQA further requires that an agency provide an explanation of how the
+5 evidence in the record supports the conclusions that the agency has reached.
+49. Respondents violated CEQA by certifying an EIR for the Project that is
+inadequate and fails to comply with the requirements of CEQA and the CEQA Guidelines.
+8 The EIR's deficiencies include, but are not limited to, the following:
+
+9 d. The EIR relies on an inconsistent and inadequate project description
+10 that, among other legal deficiencies, omits key elements of the Project, including the
+11 wastewater treatment facility, the helipad, and the water supply treatment system, fails to
+12 acknowledge the cancellation of the CAL FIRE grant agreement and the associated
+13 conversion of the site from commercial timberland use, and fails to properly describe the
+14 number of employees necessary a to support the Project. As a result of this inadequate and
+15 inconsistent project description, the EIR fails to properly identify significant project
+16 impacts, mitigation measures, and alternatives. For example, the EIR's project description
+17 substantially underestimates the number of employees needed for the Project and therefore
+18 underestimates housing impacts, water quality and water supply impacts, traffic impacts,
+19 and wildfire safety impact, among others.
+
+20 b. The EIR fails to adequately analyze the Project's significant wildfire
+
+21 and fire safety impacts. Among other legal flaws, the EIR improperly includes mitigation
+22 measures and conditions of Project approval as part of its project description in order to
+
+23 find that the Project will have no significant impacts on wildfire and fire safety, even
+
+24 though the Project will bring hundreds of people to an area designated as a Very High a Fire
+25 Hazard Severity Zone and will increase the risk of fire ignition through ignition sparks, fire
+26 pits, smoking by guests, and potential ignitions due to sparking from vehicles and
+27 equipment. As a result, the EIR fails in its role as an informational document, and it fails to
+
+28 identify all feasible mitigation measures necessary to address the Project's wildfire and
+14
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+- safety impacts.
+
+2 C. The EIR fails to adequately analyze or mitigate the Project's impacts
+3 on emergency access, evacuation, and emergency response. Although evacuation during
+
+4
+
+5 wildfire events has become a significant factor in the ability to save lives, the EIR provides
+
+6 a only a cursory evaluation of this issue. For example, the EIR assumes no impact to
+emergency evacuation would occur--in part because the Project has access to Highway
+7 120 via Forest Service Route 1S03. However, the County has no jurisdiction over roads in
+8 the Forest Service system and federal regulations preclude the use of such roads for
+commercial development. Even if Route 1S03 were available as an evacuation route, the
+10 EIR still fails to determine whether an adequate evacuation opportunity exists, including
+11 basic questions such as whether the road capacity is sufficient for the number of people
+12 evacuating, the amount of time necessary to implement a full evacuation, and whether that
+13 time period is acceptable to ensure the safety of Project guests,
+14 residents in the area, and
+other users of Highway 120 who will be also be evacuating at the same time in the event of
+15a wildfire or other emergency.
+16 d.
+
+17 The EIR fails to adequately analyze or mitigate the Project's impacts
+on water supply. For example, despite detailed public comments underscoring the
+18 unreliability of wells in fractured bedrock during drought periods or critical dry water
+19 years, the EIR's analysis was based on a few weeks of monitoring conducted outside of the
+20 monitoring time period established by the State Water Resources Control Board, and after
+21 a year of above average rainfall. As a result, the EIR could not adequately characterize the
+22 environmental conditions that prevail in the Project area, nor could it accurately assess the
+23 effect that groundwater pumping for the Project will have on existing groundwater supplies
+24 and surrounding wells during a critical dry water year or during multiple dry years in a
+25 prolonged drought period. Project planning documents do not discuss any alternative water
+26 supply as a backup in the event that Project wells prove inadequate. Furthermore, above
+27 and beyond the potential for minimally tested Project wells to fail during multiple dry
+28 water years, the EIR failed to accurately assess the significant cumulative effects of
+
+VERIFIED PETITION FOR WRIT OF MANDATE 15
+
+CASE NO.
+
+1 simultaneous groundwater pumping by the Project and the Under Canvas project's wells,
+
+2 which in combination could draw down or cause the failure of nearby currently existing
+3 wells of Project neighbors. Because the EIR failed to identify the Project's potentially
+4 significant impacts on water supply and impacts to the wells on adjacent properties, it
+5 failed to propose mitigation necessary to address those impacts.
+
+6 e. The EIR fails to adequately analyze or mitigate significant noise
+7 impacts, including the failure to adequately characterize the existing noise environment
+8 and the failure to identify sensitive receptors and to measure how noise levels from the
+
+9 Project would affect these receptors. The EIR fails entirely to provide an adequate analysis
+10 of noise impacts from the helipad and simply assumes the noise impacts will be significant
+11 and unavoidable without making any serious attempt to explain for the public what those
+12 impacts would be. The EIR also fails to evaluate the impact of the Project in degrading the
+13 exceptionally quiet ambient noise conditions that currently exist at the Project site. The
+14 Project in combination with the Under Canvas project directly across the street would
+15 cause a highly significant increase in noise that was not considered as a cumulative impact.
+16 f. The EIR fails to adequately analyze or mitigate significant traffic and
+17 traffic safety impacts. Among other deficiencies, the draft EIR failed to include any
+18 analysis of vehicle miles traveled, deferring that legally mandated analysis to the final EIR.
+19 The analysis that was ultimately conducted failed to capture all traffic from the Project and
+20 underestimated vehicle miles traveled for many of the same reasons that the initial traffic
+21 analysis was inadequate.
+22 g. The EIR fails to adequately analyze or mitigate significant air quality
+
+23 and climate change impacts, including the failure to account for the impacts from Project
+24 traffic, construction and operations, and the impacts associated with the cancellation of the
+25 CALFIRE reforestation and GHG reduction grant agreement.
+
+26 h. The EIR fails to adequately analyze or mitigate water quality impacts,
+27 in particular impacts from the onsite treatment of millions of gallons of Project wastewater
+28 each year and the impacts of the Project's leach fields on neighboring wells and water
+16
+VERIFIED PETITION FOR WRIT OF MANDATE.
+CASE NO.
+
+quality. This failure is compounded by the failure to consider the cumulative discharge of
+2 treated effluent by the Project in combination with the discharge of millions of gallons per
+3 year of additional treated septic effluent by the Under Canvas project adjacent to the
+4 Project. The EIR also fails to consider the potential effects of Project wastewater discharge
+
+5 on water quality in the Tuolumne River.
+
+6 i. The EIR fails to adequately analyze housing impacts and impacts to
+7| public services, including emergency response services. In addition to underestimating the
+
+8 number of Project employees, the EIR fails to adequately assess impacts from the
+
+9 employees it claims will be needed for the Project. The EIR improperly dismisses impacts
+10 that would result from further adding to the already significant delays in emergency
+11 response times and exacerbating strain on over-stretched public services, both of which
+12 would affect the physical environment.
+13 j. The EIR fails to adequately analyze or mitigate the Project's impacts
+14 on biological resources, including impacts to sensitive species and wetlands.
+15 k. The EIR fails to adequately analyze or mitigate significant cumulative
+16 impacts, including but not limited to water quality and water supply, fire and fire safety, air
+17 quality and greenhouse gas emissions, traffic and traffic safety, and noise. The Project is
+18 just one of a number of new or expanded developments along the Highway 120 corridor,
+19 yet the EIR dismisses the significance of the Project's cumulative impacts both by
+20 underestimating impacts from the Project itself and by failing to evaluate how these
+21 impacts will combine with those from other projects to impact the environment.
+22 I. The EIR improperly defers analysis and mitigation of Project impacts,
+23 including:
+
+24 i. reliance on a future emergency evacuation protocol that fails to
+25 include enforceable performance standards or to ensure safe evacuation in the event of an
+26 emergency;
+27 ii. reliance on an inadequate and uncertain plan for addressing
+28 emergency response times;
+17
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+iii. reliance on a "Wildland Fire Protection Plan" consisting of
+
+2 vague and otherwise unenforceable measures;
+
+3 iv. deferral of mitigation for water quality impacts, including those
+4 related to stormwater runoff and drainage;
+
+5 V. deferral of mitigation for traffic safety impacts, including those
+6 related to sight lines and project egress;
+
+7 vi. reliance on federal and state agencies to assess the impacts of
+8 the helipad and a proposal to relocate the helipad, if feasible, that is undefined and
+9 unenforceable; and
+
+10 vii. reliance on the claim that the Project will comply with state
+11 and local regulatory standards without providing any evidence that compliance with such
+12 standards is feasible.
+
+13 50. Respondents violated CEQA by failing to analyze a reasonable range of
+14 project alternatives and by improperly rejecting feasible alternatives that would reduce the
+15 Project's significant environmental impacts.
+16 51. Respondents violated CEQA by failing to recirculate the EIR after adding
+17 substantial new information and changes to the Project after the draft EIR was circulated
+18 for public review.
+
+19 52. Respondents violated CEQA by failing to adequately respond to comments
+
+20 on the EIR, including, but not limited to, failing to respond entirely to comments of the
+21 Tuolumne River Trust, only responding to CSERC's comments on the eve of the Board of
+22 Supervisor's December 31, 2020 hearing on the Project, and by ignoring or rotely
+23 dismissing comments by concerned citizens that identified flaws in the County's analysis,
+24 requests for additional information, and suggestions of feasible mitigation measures and
+25 alternatives.
+
+26 53. Respondents violated CEQA by adopting inadequate findings. The County's
+27 findings do not provide adequate reasoning or the analytic route from facts to conclusions,
+28 as required by law. The County also failed to adopt findings regarding the Project's
+18
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+1 reliance on Forest Route1S03, which is under the jurisdiction of another agency.
+
+2 54. As a result of the foregoing defects, Respondents prejudicially abused their
+3 discretion by certifying an EIR that does not comply with the requirements of CEQA and
+4 precluded informed decision-making. As such, Respondents' certification of the EIR and
+5 approval of the Project must be set aside.
+
+6 SECOND CAUSE OF ACTION
+
+7 Violation of State Planning and Zoning Law
+
+8 55. Petitioners reallege and incorporate by reference the preceding paragraphs in
+9 their entirety.
+
+10 56. Government Code section 65300 et. seq. requires the legislative body of each
+11 county to adopt a general plan for the physical development of the unincorporated areas of
+12 the county. The general plan must contain a statement of development policies, one or
+13 more diagrams, and text setting forth objectives, principles, standards, and plan proposals,
+14 and it must include mandatory elements. The general plan serves as a charter for future
+15 development to which all other land use decisions must conform.
+
+16 57. A conditional use permit and/or a site development permit must be consistent
+17 with the County's General Plan.
+
+18 58. The Project is inconsistent with the policies in the County General Plan
+19 designed to minimize fire hazards, limit noise impacts, and require that commercial
+20 development be connected to public utilities. For example, General Plan Policy 3.A.2
+21 requires "new commercial development to be served by public water systems, except for
+22 development in areas designated as Special Commercial on the General Plan land use
+23 diagrams." The Project is indisputably a commercial development, but the Project site is
+24 not designated as Special Commercial, and so the development is required to be served by
+25 a public water system. The water system proposed for the Project does not meet the
+26 definition of a public water system as defined by the County Code.
+27 59. Violation of the requirement that the Project use be consistent with zoning
+28 for the Project site. Because the Caltrans parcel has never been rezoned for commercial use
+19
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+1 under the rezoning procedures required by County Code Chapter 17.70, section 17.06.020,
+
+2 or section 17.42.080, the parcel retains its timberland production district (TPZ) zoning and
+3 the Project is not consistent with the zoning for that portion of the site.
+
+4 60. Respondents' approval of the Project therefore violates the requirements of
+
+5 state law and is thus arbitrary and capricious and a prejudicial abuse of discretion. Because
+
+6 Respondents did not proceed in the manner required by law and their decision was not
+7 supported by substantial evidence, the approval of the Project should be set aside.
+
+8 THIRD CAUSE OF ACTION
+
+9 (Violation of Code of Civil Procedure § 1094.5)
+
+10 61. Petitioners reallege and incorporate by reference the preceding paragraphs in
+11 their entirety.
+
+12 62. Code of Civil Procedure section 1904.5 requires that the County provide a
+13 fair hearing on Save Sawmill Mountain's appeal. The County violated this requirement by
+14 repeatedly failing to provide the public notice and opportunity to comment required by
+15 law, rushing to approve the Project before the end of 2020 when a new Board of
+16 Supervisors would be seated, refusing to respond to comments submitted by members of
+17 the Tuolumne River Trust, responding to CSERC's comments in late afternoon on the day
+18 before the Board of Supervisors hearing on the Project, and depriving petitioners and other
+19 members of the public of an adequate opportunity to review these comments and
+20 responses, and by refusing to allow appellants the opportunity to speak on matters raised
+21 by the Board while allowing the Project applicant to speak at the hearing.
+
+22 63. The County also denied CSERC's rights to appeal and to a fair hearing by
+23 posting its responses to CSERC's initial comments less than 24 hours before the Board of
+24 Supervisors hearing on the Project. Due to the County's untimely last-minute responses,
+25 CSERC was not given adequate time to review those responses or to prepare an appeal.
+26 CSERC was effectively denied the opportunity to file its own appeal of the Project or to
+27 obtain a fair hearing of that appeal before the Board.
+28
+20
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASENO.
+
+1 FOURTH CAUSE OF ACTION
+
+2 (Violation of County Code)
+
+3 64. Petitioners reallege and incorporate by reference the preceding paragraphs in
+4 their entirety.
+
+5 65. Tuolumne County Code section 17.72.220 provides that "[m]onitoring
+6 and/or reporting plans for projects for which an EIR is prepared shall be included in the
+7 draft EIR. The plan shall be subject to the same public review and comment afforded to all
+
+8 other portions of the EIR." (emphasis added).
+66. The draft EIR for the Project failed to include an MMRP as required by
+10 County code section 17.72.220.
+
+11 67. The Project approval violates sections 17.06.020 and 17.06.060 of the
+12 County Code. Because the Caltrans' parcel has never been rezoned for commercial use, the
+13 Project is not consistent with the timberland production zoning for that portion of the
+14 Project site.
+
+15 68. By failing to include an MMRP in the DEIR, the County violated its own
+16 code and deprived the public of a full opportunity to review and comment on the MMRP
+17 along with the rest of the DEIR.
+
+18 PRAYER FOR RELIEF
+
+19 WHEREFORE, Petitioners pray for judgment as follows:
+20 1. For alternative and peremptory writs of mandate directing Respondents to
+21 vacate and set aside their certification of the EIR and approval of the Project.
+22 2. For alternative and peremptory writs of mandate directing the Respondents
+23 to comply with the requirements of CEQA and the CEQA Guidelines and take any other
+24 action as required by Public Resources Code section 21168.9, State Planning and Zoning
+25 Law, Code of Civil Procedure section 1094.5, and the County Code;
+26 3. For a temporary stay, temporary restraining order, and preliminary and
+27 permanent injunctions restraining Respondents, Real Parties in Interest, and their
+28 representative agents, servants, and employees, and all others acting in concert with
+21
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+1 Respondents or Real Parties in Interest or on their behalf, from taking any action to
+
+2 implement the Project pending full compliance with the requirements of CEQA and the
+
+3 CEQA Guidelines, State Planning and Zoning Law, and the County Code;
+
+4 4. For costs of the suit;
+
+5 5. For attorneys' fees under Code of Civil Procedure section 1021.5 and other
+6 applicable authority; and
+
+7 6. For such other and further relief as the Court deems just and proper.
+8 DATED: January 28, 2021 SHUTE, MIHALY & WEINBERGER LLP
+
+9
+
+10
+By:
+11 ELLISON FOLK
+12 PATRICK L. WOOLSEY
+
+13 Attorneys for Petitioners
+14 SAVE SAWMILL MOUNTAIN and CENTRAL SIERRA ENVIRONMENTAL
+15 RESOURCE CENTER
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+22
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+VERIFICATION r
+
+2 STATE OF CALIFORNIA, COUNTY OF TUOLUMNE COUNTY
+
+3 I, John Buckley, am the Executive Director of the Central Sierra Environmental Resource Center, a party to this action. I am authorized to make this verification for and on 4 its behalf, and I make this verification for that reason. I have read the foregoing Petition for Writ of Mandate ("Petition"). I am familiar with its contents. All facts alleged in the above 5 Petition not otherwise supported by exhibits or other documents are true of my own knowledge. 6 I declare under penalty of perjury under the laws of the State of California that the 7 foregoing is true and correct.
+
+8 Executed on January 272021, at Tugn Horte, California.
+
+10 John Buckley
+Print Name of Signatory Éuckly. Siguature 11
+
+12 1332214.3
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+23
+VERIFIED PETITION FOR WRIT OF MANDATE
+CASE NO.
+
+EXHIBIT A
+
+SHUTE MIHALY
+WEINBERGER LLP
+
+396 HAYES STREET, SAN FRANCISCO, CA 94102 ELLISON FOLK
+T: (415) 552-7272 F: (415) 552-5816 Attorney
+www.smwlaw.com Folk@smwlaw.com
+
+January 28, 2021
+
+Via E-Mail and U.S. Mail
+Heather Ryan
+County Clerk
+Tuolumne County
+2 S. Green Street, Second Floor
+Sonora, California 95370
+HRyan@co.tuolumne.ca.us
+
+Re: Notice of Commencement of CEQA and Planning and Zoning Law
+Litigation Challenging Approval of the Terra Vi Yosemite Lodge
+Project
+Dear Ms. Ryan:
+This letter is to notify you that Save Sawmill Mountain and the Central
+Sierra Environmental Resource Center will file suit against the County of Tuolumne ("County") and its Board of Supervisors for failure to observe the requirements of the California Environmental Quality Act ("CEQA"), Public Resources Code section 21000 et seq., the CEQA Guidelines, California Code of Regulations section 15000 et seq., and state law in connection with its December 31, 2020 approval of the Terra Vi Yosemite Lodge Project, Site Development Permit SDP18-003, and certification of an
+environmental impact report for the Project. This notice is given pursuant to Public
+Resources Code section 21167.5.
+Please note that, pursuant to Public Resources Code section 21167.6, the record of proceedings for County's actions includes, among other items, all "internal
+agency communications, including staff notes and memoranda related to the project or to
+compliance with [CEQA]." Because all e-mails, text messages, recordings, and other
+internal communications related to the Plan are part of the administrative record for the
+lawsuit to be filed by Petitioners, the County may not destroy or delete such documents prior to preparation of the record in this case.
+Very truly yours,
+
+SHUTE, MIHALY & WEINBERGER LLP
+
+Ellison Folk
+
+PROOF OF SERVICE
+At the time of service, was over 18 years of age and not a party to this action. I am employed in the County of San Francisco, State of California. My business address is 396 Hayes Street, San Francisco, California 94102.
+On January 28, 2021, I served a true copy of the following document described as:
+NOTICE OF COMMENCEMENT OF CEQA AND PLANNING AND ZONING
+LAW LITIGATION CHALLENGING APPROVAL OF THE TERRA VI
+YOSEMITE LODGE PROJECT
+
+on the parties in this action as follows:
+Heather Ryan
+County Clerk
+Tuolumne County
+2 S. Green Street, Second Floor Sonora, California 95370
+HRyan@co.tuolumne.ca.us
+BY E-MAIL OR ELECTRONIC TRANSMISSION: I caused a copy of the
+document to be sent from e-mail address Larkin@smwlaw.com to the person at the e- mail address listed above. I did not receive, within a reasonable time after the transmission, any electronic message or other indication that the transmission was
+unsuccessful.
+
+BY MAIL: I enclosed the document in a sealed envelope or package addressed to the person at the address listed above and placed the envelope for collection and mailing, following our ordinary business practices. I am readily familiar with Shute, Mihaly & Weinberger LLP's practice for collecting and processing correspondence for mailing. On the same day that the correspondence is placed for collection and mailing, it is deposited in the ordinary course of business with the United States Postal Service, in a sealed envelope with postage fully prepaid.
+I declare under penalty of perjury under the laws of the State of California that the
+foregoing is true and correct.
+Executed on January 28, 2021, at San Francisco, California.
+
+Patucia Pourw
+Patricia Larkin
+
+1332189.1
+
+SHUTE, MIHALY 0WEINBERGER II.P
+
+EXHIBIT B
+
+SHUTE MIHALY
+WEINBERGER LLP
+
+396 HAYES STREET, SAN FRANCISCO, CA 94102 ELLISON FOLK
+
+T: (415) 552-7272 F: (415) 552-5816 Attorney
+www.smwlaw.com Folk@smwlaw.com
+
+January 28, 2021
+
+Via U.S. Mail
+
+Attorney General Xavier Becerra
+Office of the Attorney General
+1300 "I" Street
+Sacramento, California 95814
+
+Re: Notice of Filing CEQA Litigation: Save Sawmill Mountain, Central
+Sierra Environmental Resource Center v. County of Tuolumne et al.
+
+Dear Attorney General Becerra:
+Enclosed please find a copy a of the Petition for Writ of Mandate ("Petition") in the above-captioned action. The Petition is provided to you in compliance with Public Resources Code section 21167.7 and Code of Civil Procedure section 388. Please
+acknowledge receipt in the enclosed prepaid, self-addressed envelope. Thank you.
+Very truly yours,
+
+SHUTE, MIHALY & WEINBERGER LLP
+
+C
+
+Ellison Folk
+Encl.
+
+1332188.1
+
+EXHIBIT C
+
+From: Patrick Koepele <patrick@tuolumne.org>
+Date: Thu, Jul 30, 2020 at 4:53 PM
+Subject: Terra Vi DEIS comments
+To: Quincy Yaley <QYaley@co.tuolumne.ca.us>
+
+Quincy - our comments on the Terra Vi DEIS are attached.
+
+Best,
+Patrick
+
+Patrick Koepele
+Executive Director
+patrick@tuolumne.org
+209-588-8636
+
+Tuolumne
+River Trust
+
+Nature Matters. Take a Walk. Watch the River Flow.
+
+Tuolumne
+River Trust
+
+July 30, 2020
+OFFICES
+57 Post Street, Suite 711
+San Francisco, CA 94104 Tuolumne County Community Development Department
+(415) 882-7252 2 S. Green Street
+1031 15th Street, Suite 6
+Modesto, CA 95354 Sonora, CA 95370
+(209) 236-0330
+
+67 Linoberg Street Sonora, CA 95370 Comments in response to Terra Vi Lodge Yosemite DEIR for SDP18-003
+(209) 588-8636
+
+www.tuolumne.org I submit these comments on behalf of the Tuolumne River Trust. We are concerned that
+the project does not adequately evaluate the impacts to water resources and elevated
+
+BOARD MEMBERS wildfire risk from the project.
+John Nimmons, Chair Harrison "Hap" Dunning, Vice Chair 1. Inadequate Public Review Period. In a letter dated July 14, 2020, we requested
+Camille King, Secretary an extension to the minimum public review and comment period to provide an
+John Kreiter, Treasurer Eric Heitz, additional 30 days. Given the length of the document (1,866 pages) and the fact that the
+Chair Emeritus
+Susan Stern, Imm. Past county published at nearly the same time the 1,263 page DEIR for the adjacent
+
+Chair proposed Under Canvas project, this would have been an appropriate request to grant. Cindy Charles
+Eddie Corwin Instead, the County decided to ignore TRT's and other similar requests and move
+Kerstyn Crumb
+Bob Hackamack forward with the minimum review period required under the California Environmental
+Bill Maher
+Len Materman Quality Act (CEQA). This is disrespectful to Tuolumne County residents and does a
+
+Marty McDonnell disservice to the spirit of transparency in decision-making.
+Eric Riemer
+Sue Ellen Ritchey
+Bart Westcott 2. HYD-2. The DEIR claims that the proposed project would not substantially
+
+ADVISORS decrease groundwater supplies or interfere substantially with groundwater recharge.
+
+John Amodio We believe that this is an inaccurate assessment.
+Rvan Blake
+Abigail Blodgett
+Karyn Bryant The project site is roughly 64 acres of forest land sloping away from the highway
+Sally Chenault
+Ann Clark, Ph.D. ridgeline. If anyone was arbitrarily picking where to choose to establish a commercial
+
+William Collins recreational development that would be totally reliant upon well water, then picking a
+Joe Daly Bradley Danicls sloping ridgeline area would be amongst the last choices.
+Aaron Dickinson
+*Tim Eichenberg
+.R Adm, James B The DEIS estimate of water use is based on a roughly 50% occupancy capacity, or 272
+Greene, Jr, USN (ret.) Chris Guptill occupants. It is notable that in recent years, Yosemite has attracted more and more
+Samuel A. Harned visitors, each year seemingly breaking previous records. As such, the 50% occupancy Noah Hughes Brian Korpics may be too low. As a more conservative estimation approach, the DEIS should estimate
+Cecily Majerus
+Homero Mejia peak water use based on maximum occupancy, or 556 people, plus 20 resident
+Gcrald Meral, Ph.D.
+Amy Meyer employees and an unknown number of non-resident employees, and anticipate that
+Jenna Olsen peak use to extend for many months. Peak water usage may actually be closer to 32,000
+David Ragland
+Richard Roos-Collins gpd. The pump tests do not estimate capacity of the wells at peak pumping for extended
+Jon Rosenfield, Ph.D.
+Norwood Scott periods during dry years, and as such the information presented in the DEIS is
+Ron Stork inadequate.
+Patricia Sullivan
+Steve Welch
+Holly Welles, Ph.D.
+Jennifer White, Ph.D.
+John Woolard
+
+Current geological technology is inadequate to accurately assess or predict exactly where subsurface
+water in fractured bedrock lies beneath the soil surface. The DEIR, states that the Terra Vi property and
+the adjacent Yosemite Under Canvas property are "on different sides of a watershed boundary and likely
+accessing different fracture zones." (page 4.16-7). This is not accurate. The Terra Vi property actually
+a straddles the ridge, with a portion of the property sloping away to the north, and the remainder sloping
+towards the Yosemite Under Canvas property to the south. Regardless, it is speculation to state that the
+fracture zones beneath the two properties are distinct because they are on opposite sides of a
+watershed boundary.
+
+In fact, the DEIR does observe that onsite well-pumping impacts were observable in onsite and offsite
+monitoring wells to the north. One would expect these impacts to be more exacerbated during
+sequential dry years.
+
+Additionally, although the DEIR states average annual rainfall, it makes no estimate of natural recharge
+of the area's groundwater and it is therefore impossible to assess whether natural recharge is sufficient
+to meet ongoing, year-round operations proposed by this project. In reality, there is very little upslope areas that would act as a recharge basin, a SO local recharge may be truly limited.
+Furthermore, the well pumping tests were conducted in 2019, a very wet water year with 125% of average precipitation in the San Joaquin Basin (of which the Tuolumne Watershed is a subwatershed).
+The pumping tests do not provide an assessment of what groundwater conditions would be like during
+sequential dry or critically dry years.
+There is no secondary water supply backup as an option at the project site. If the project's wells fail
+during a drought or during a year that has low overall precipitation, the project cannot simply shift to
+connect to the closest public water system, as was the solution for some sites with well failures during the recent multi-year drought. There is no close-by public water system available to connect to because this project and the neighboring Terra Vi Lodge proposal are leap-frog development far from public
+water or sewer.
+
+No mitigation measures are proposed for groundwater usage because the DEIR erroneously concludes
+no significant impacts to groundwater. We disagree. Based on these facts described above, we believe
+that the projects impacts to groundwater supply would be significant.
+The final DEIR should fully acknowledge that there is currently no solid evidence that during multiple dry
+water years or during a severe drought that the pumping of wells from the project site will be adequate
+to supply water to the Terra Vi project at a rate sufficient to meet water demands of the up to nearly
+550 occupants on site, plus additional visitors to the market and restaurants, restrooms, kitchen,
+laundry, etc.
+
+The final DEIR should also acknowledge that numerous DEIR statements purportedly describing the
+adequacy of the project's water supply are speculative assertions based upon unproven conjecture rather than factual evidence, and that in reality the limited water testing of wells to date does not
+
+provide grounds for the County to approve project wells as proven sufficient water supply - especially
+since there iS no backup water supply alternative option.
+
+3. HYD-1, HYD-3, HYD-5 - Water Quality concerns for the proposed project are significant in scope
+and represent a significant impact to the environment. The project proposes a number of features,
+including onsite sewage management through a septic system, many new, hardened structures and
+surfaces, etc. that, in combination, will generate significant additional runoff carrying pollutants
+downslope and downstream. The project site is situated atop the ridge dividing the South Fork and
+Middle Fork of the Tuolumne River. Any water, pollutants, sediment, sewage, etc generated at the
+project site will make its way downhill by force of gravity and has the potential to enter the Tuolumne
+River and/or groundwater.
+
+Additional hardened surfaces will increase the amount of water that moves downhill rather than
+infiltrating groundwater areas. This has the double-impact of a) decreasing groundwater recharge; and
+b) increasing runoff and pollutants entering waterways. This is a significant impact. The project
+proponents have not proposed mitigation sufficient to address these impacts.
+
+Furthermore, the overall size of the project that will accommodate tens of thousands of guests and
+employees each year will generate significant amounts of human waste. Due to the remote location of
+the project site, the project cannot connect with municipal utilities and wastewater treatment facilities.
+As such, the project proposes to rely on septic systems and associated leach fields to handle the waste.
+The DEIS does not provide sufficient assessment of how the effluent from the septic system may impact
+groundwater, which is a source of drinking water for nearby homes. The Highway 120 Corridor Soils
+Report is not actually report. Rather, it is a 1-page statement with minimal information about design
+guidelines or limits to allow the public to understand what the site may or may not be able to
+accommodate. As such, this report is insufficient and the opinion that the site can accommodate the
+black water generated by the project is impossible to judge.
+
+There is serious potential for the project to pollute nearby drinking water wells of adjacent properties.
+Additionally, runoff from septic effluent may make its way downstream to the Tuolumne River, pollute
+the river and cause algal blooms. This represents a significant impact.
+
+4. PS-9, PS-10, PS-11, PS-12 - Impacts to Recreational Facilities. The DEIS states that impacts to
+park and recreational facilities will be less than significant because there will be a limited number of full
+time employees (33). While it may be true that the addition of 33 FTEs for operations of this project will
+not significantly impact recreational resources, the true impact will come from the potential demand
+that up to 556 guests per day, or up to nearly 196,000 guests per year, place on nearby recreation
+resources within the Stanislaus National Forest and Yosemite National Park.
+
+The DEIS states that incorrectly states that the proposed project would simply accommodate people
+who are already planning to visit the area, and would therefore not represent an increase in visitor use.
+This is speculative. Furthermore, many of the people who do visit the area generally pass through on
+their way to Yosemite rather than stopping and lodging at this particular location, which is close to river
+
+access points along the Middle and South Forks of the Tuolumne, most of which are undeveloped,
+fishing and swimming holes. Of the 100,000-200,000 thousand guests staying at Terra Vi each year, a
+significant number will not only wish to enter Yosemite National Park, but also explore the nearby
+recreational opportunities along the rivers and forests to fish, swim, bike, hike, and enjoy other
+recreational activities. The Stanislaus National Forest has very limited developed recreational facilities in
+this locations and they are completely unprepared to handle a significant influx in visitor usage. Just over
+the past few months of summer during the Covid-19 pandemic, the Stanislaus National Forest (and
+indeed National Forest across the country) have experienced significant increase in visitation and stress
+on their facilities.
+This lodging facility is highly likely to encourage and enable additional uses of nearby National Forest
+lands. The DEIS significantly underestimates this impact. In reality this will be a very significant impact,
+especially when considered cumulatively with the adjacent Yosemite Under Canvas and Thousand
+Trails/Yosemite Lake RV Expansion. The DEIS inadequately assesses these impacts. This is a significant
+impact.
+
+Conclusion
+The issues of water, wastewater, and recreation have not been properly addressed, nor have sufficient
+mitigation measures been considered and incorporated in the project. The County must require these
+issues be addressed prior to finalizing the EIR.
+
+Sincerely,
+RAA buAh
+Patrick Koepele
+Executive Director
+
+From: Patrick Koepele <patrick@tuolumne.org>
+Date: Tue, Nov 24, 2020 at 9:57 AM
+Subject: Re: Under Canvas TCPC Hearing Notice To: Natalie Rizzi <NRizzi@co.tuolumne.ca.us>
+Cc: Quincy Yaley <QYaley@co.tuolumne.ca.us>
+
+Natalie and Quincy - checking in with you again. It appears that my Terra Vi comments were not included. I'd like to register my disappointment in how comments are handled. The county can
+and should do better.
+
+Patrick
+
+Patrick Koepele
+Executive Director
+patrick@tuolumne.org
+209-588-8636
+
+Tuolumne
+River Trust
+
+Nature Matters. Take a Walk. Watch the River Flow.
+
+On Fri, Nov 20, 2020 at 3:47 PM Patrick Koepele <patrick@tuolumne.org> wrote:
+Natalie and Quincy this is extremely disappointing. After putting in the time and effort and
+submitting comments on time, it is upsetting that our comments weren't given proper consideration. It seems incumbent upon the county to ensure that its firewall isn't weeding out properly submitted comments. I have been away this week but I see the news reports that the project was approved despite many opposing comments. I also understand that there were no adjustments or new mitigation measures required to mitigate the significant impacts of the project. This is very upsetting to learn.
+
+In addition to the Under Canvas comments, I submitted comments on the Terra Vi project within
+the comment period deadline. I will forward my copy of that email separately. Can you please confirm receipt of those comments?
+
+Thank you,
+Patrick
+
+Patrick Koepele
+Executive Director
+patrick@tuolumne.org
+209-588-8636
+
+Tuolumne
+River Trust
+
+Nature Matters. Take a Walk. Watch the River Flow.
+
+On Tue. Nov 17, 2020 at 10:05 AM Natalie Rizzi <NRizzi@co.tuolumne.ca.us> wrote:
+Good morning Patrick,
+
+We have had IT look into this issue and it appears that the emails you have sent Quincy and I have been blocked and marked as spam. This email is the only one that I have received from you. The previous email and email sent on July 20 did not come through and did not show up in my
+Junk Email folder.
+
+We have reviewed your comments and are working on a response to a them. You should expect a response from Quincy or later today. In the future, I am not sure if there is another email that you can use to send comments from as it appears that this address is being blocked by the County's firewall. I typically respond via email letting you know that I have received the
+comments.
+
+Natalie Rizzi
+
+Land Use Coordinator
+
+Community Development Department
+
+Tuolumne County
+Office: (209) 533-5936
+Fax: (209) 533-5616
+Email: nrizzi@co.tuolumne.ca.us
+
+From: Patrick Koepele <patrick@tuolumne.org>
+Sent: Friday, November 13, 2020 4:49 PM To: Natalie Rizzi <NRizzi@co.tuolumne.ca.us>
+Ce: Quincy Yaley <QYaley@co.tuolumne.ca.us>; John Gray <JGray@co.tuolumne.ca.us>;
+Cindy Charles <cindy@ccharles.net> Subject: Re: Under Canvas TCPC Hearing Notice
+
+Natalie,
+
+timely submitted comments on the Under Canvas DEIR on July 20, but find no record of them in the FEIR information posted on the website.
+
+I attach my comments again here and will forward my email to you containing my comments
+separately.
+
+I request the meeting be postponed and my comments be given due consideration.
+
+Thank you,
+
+Patrick
+
+Patrick Koepele
+
+Executive Director
+
+patrick@tuolumne.org
+209-588-8636
+
+Nature Matters. Take a Walk. Watch the River Flow.
+
+On Fri, Nov 6, 2020 at 2:56 PM Natalie Rizzi <NRizzi@co.tuolumne.ca.us> wrote:
+Attached, please find the hearing notice for the Tuolumne County Planning Commission for Under Canvas Site Development Permit SDP18-002 and Conditional Use Permit CUP20-018 to
+be considered on November 18, 2020. Don't hesitate to contact me with any questions.
+
+Natalie Rizzi
+
+Land Use Coordinator
+Community Development Department
+Tuolumne County
+Office: (209) 533-5936
+Fax: (209) 533-5616
+Email: nrizzi@co.tuolumne.ca.us
+
+From: Patrick Koepele <patrick@tuolumne.org>
+Date: Fri, Nov 20, 2020 at 3:48 PM
+Subject: Fwd: Terra Vi DEIS comments To: Natalie Rizzi <nrizzi@co.tuolumne.ca.us>, Quincy Yaley <QYaley@co.tuolumne.ca.us>
+
+Please see my comments on the Terra Vi project below. Can you please confirm that you have a copy of these?
+% : 48 --I .M Thank you.
+
+Patrick Koepele
+Executive Director
+patrick@tuolumne.org
+209-588-8636
+
+Tuolumne
+River Trust
+
+Nature Matters. Take a Walk. Watch the River Flow.
+
+---------- Forwarded message
+From: Patrick Koepele <patrick@tuolumne.org>
+Date: Thu, Jul 30, 2020 at 4:53 PM
+Subject: Terra Vi DEIS comments
+To: Quincy Yaley <QYaley@co.tuolumne.ca.us>
+
+Quincy our comments on the Terra Vi DEIS are attached.
+
+Best,
+Patrick
+
+Patrick Koepele
+Executive Director
+patrick@tuolumne.org
+209-588-8636
+
+Tuolumne
+River Trust
+
+Nature Matters. Take a Walk. Watch the River Flow.
+
+ATTORNEY GENERAL SAN DIEGO
+
+2021 FEB -3 AM 9:59
+
+FEB 1 5 224
+BM.
+
+SHUTE MIHALY -WEINBERGER LIP
+
+396 HAYES STREET, SAN FRANCISCO, CA 94102 ELLISON FOLK
+T: (415) 552-7272 F: (415) 552-5816 Attorney
+www.smwlaw.com Folk@smwlaw.com
+
+January 28, 2021
+
+Via U.S. Mail
+
+Attorney General Xavier Becerra
+Office of the Attorney General
+1300 "I" Street
+Sacramento, California 95814
+
+Re: Notice of Filing CEQA Litigation: Save Sawmill Mountain, Central
+Sierra Environmental Resource Center v. County of Tuolumne et al.
+
+Dear Attorney General Becerra:
+a Enclosed please find a copy of the Petition for Writ of Mandate ("Petition") in the above-captioned action. The Petition is provided to you in compliance with Public Resources Code section 21167.7 and Code of Civil Procedure section 388. Please
+acknowledge receipt in the enclosed prepaid, self-addressed envelope. Thank you.
+Very truly yours,
+
+SHUTE, MIHALY & WEINBERGER LLP
+
+G
+
+Ellison Folk
+Encl.
+
+1332188.1

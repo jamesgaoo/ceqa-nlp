@@ -1,0 +1,1981 @@
+Environmental Law Clinic
+
+Creun Quadrangfe StanfordLawSchool MillsLegalClinic 559 Nethan Abbolt Way
+Stanford. CA 94305-8610
+Tel 650 725-8671 June 5, 2020
+fax 050 723-4426
+www.law.stanford.edu Via First Class Mail
+
+California Attorney General
+1300 I Street
+Sacramento, CA 95814-2919
+
+Re: Notice of Intent to File CEQA and CESA Petition
+
+To Whom it May Concern:
+
+Pursuant to California Public Resources Code $ 21167.7 and California Code of Civil
+Procedure § 388, please take notice that San Francisco Baykeeper, The Bay Institute, Natural
+Resources Defense Council, Inc., Golden State Salmon Association, and Defenders of Wildlife
+intend to commence an action in the Superior Court of California for the County of Alameda under the California Environmental Quality Act ("CEQA") against the Department of Water Resources ("DWR") and the California Department of Fish and Wildlife ("DFW"), and under the
+California Endangered Species Act ("CESA") against DFW, concerning DWR's and DFW's approvals of the project known as the Long-Term Operation of the State Water Project ("Project") and DFW's Incidental Take Permit No. 2081-2019-066-00 ("ITP') for the Project. DWR certified the Final Environmental Impact Report for the Project on March 27, 2020, and filed a Notice of Determination with the Office of Planning and Research on March 30, 2020.
+The petition for writ of mandate filed in this action, a copy of which is enclosed with this
+letter, will allege, among other things, that DWR and DFW failed to properly follow CEQA's procedures and requirements including, but not limited to: failure to maintain a consistent and adequate Project description, failure to analyze a reasonable range of alternatives, failure to a analyze and disclose significant environmental impacts, failure to identify feasible mitigation
+measures to avoid or substantially lessen the Project's significant adverse environmental impacts, failure to adequately analyze and consider the whole of the action, failure to adequately analyze and disclose the Project's cumulative impacts, failure to support the "no significance" conclusion with substantial evidence, and, as to DWR only, failure to recirculate the Final Environmental Impact Report for additional public review and comment.
+The petition will also allege, among other things, that, under CESA, DFW's "no jeopardy" conclusion, as well as its conclusion that conditions in the ITP will fully mitigate impacts to CESA-listed fish species, are not supported by the evidence.
+
+The petition will seek, among other things, a peremptory writ of mandate declaring that
+DWR and DFW have violated CEQA and CESA and vacating and setting aside the Project's
+approvals, including the findings that the Project satisfies CEQA's and CESA's requirements,
+until the Project is brought into full compliance with CEQA and CESA.
+
+Community Law & Criminal Defense * Environmental Law *. Immigrants' Rights * International Human
+Rights and Conflict Resolution * Intellectual Property and Innovation * Organizations and Transactions
+Religious Liberty + Supreme Court Litigation • Youth and Education Law Project
+
+California Attorney General Page 2
+June 5, 2020
+
+Please contact us if you require further information.
+
+Sincerely,
+
+Dullu Stue
+Deborah A. Sivas
+Matthew J. Sanders
+
+• DEBORAH A. SIVAS (CA Bar No. 135446)
+MATTHEW J. SANDERS (CA Bar No. 222757)
+2 ENVIRONMENTAL LAW CLINIC
+Mills Legal Clinic at Stanford Law School
+3 Crown Quadrangle, 559 Nathan Abbott Way Stanford, California 94305-8610
+Telephone: (650) 725.8571 Facsimile: (650) 723.4426
+dsivas@stanford.edu Il matthewjsanders@stanford.edu
+Attorneys for Petitioners San Francisco Baykeeper, The Bay Institute, Natural Resources Defense Council, Inc., Golden State Salmon Association, and Defenders of Wildlife
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+10
+COUNTY OF ALAMEDA
+11
+
+12
+SAN FRANCISCO BAYKEEPER THE BAY Case No.
+13  INSTITUTE, NATURAL RESOURCES
+DEFENSE COUNCIL, INC., GOLDEN VERIFIED PETITION FOR WRIT OF
+14 STATE SALMON ASSOCIATION, and MANDATE
+
+15 DEFENDERS OF WILDLIFE, (Pursuant to Code of Civ. Proc §§ 1085, Petitioners, 1094.5; Pub. Res. Code § 21000 et seq.; 16 Fish & Game Code § 2050 et seq.)
+V.
+17 [Action includes claims under California
+CALIFORNIA DEPARTMENT OF WATER Environmental Quality Act (CEQA)] 18 I RESOURCES and CALIFORNIA
+DEPARTMENT OF FISH AND WILDLIFE, Action Filed: June 5, 2020
+19
+Respondents. 20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+6 INTRODUCTION
+
+2 1. The San Francisco Bay-Delta ("Delta") is formed by the confluence of California's
+
+3 two longest rivers, the San Joaquin and the Sacramento. Fresh water from these rivers and their
+4 tributaries mixes with the salt water from the Pacific Ocean to form an estuary. This estuary supports
+
+5 hundreds of plant and animal species, including the four critically imperiled fish species at the center
+6 of this case: Delta Smelt, Longfin Smelt, Spring-run Chinook Salmon and Winter-run Chinook
+
+7 Salmon.
+
+2. Over the last 31 years, Longfin Smelt, Delta Smelt, Spring-run and Winter-run
+9 Chinook Salmon have been listed as threatened or endangered under the California Endangered
+10| Species Act ("CESA"), Fish & Game Code § 2050 et seq. The California State Legislature has
+11 declared that the "conservation, protection, and enhancement" of these and other fish species facing
+12 extinction is a matter of statewide concern. Scientists and policymakers alike agree that protections
+13 for threatened and endangered fish species must be strengthened to ensure their continued survival.
+
+14 3. Since being listed under CESA, populations of Longfin Smelt, Delta Smelt, Spring-
+15 run and Winter-run Chinook Salmon ("CESA-Listed Fish Species") have continued to decline toward
+
+16 extinction.
+
+17 4. A major driver of the CESA-Listed Fish Species' decline is the operation of the State
+18 Water Project ("SWP"), a massive water delivery system in California operated by the California
+19 Department of Water Resources ("DWR"). On average, the SWP exports approximately 2.5 million
+20 | acre-feet of water from the Delta and upstream tributaries per year for use by water contractors,
+21  including for the agricultural industry, and towns and cities.
+
+22 5. The SWP is operated in conjunction with the federally managed Central Valley
+
+23 Project ("CVP"), one of the largest water delivery systems in the country. The CVP is operated by
+24 United States Bureau of Reclamation (*Reclamation") and delivers an average of approximately
+
+25 seven million acre-feet of water per year to agricultural, municipal, and industrial consumers. The
+
+26 CVP is comprised of approximately 20 dams and reservoirs spanning some 400 miles within
+
+27 California. The operations of the SWP and CVP are coordinated pursuant to a Coordinated
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 Operation Agreement, and their operations overlap at particular freshwater sources and water-
+
+2 management facilities within the State, including the pumping facilities in the Delta.
+
+3 6. The SWP and CVP harm the CESA-Listed Fish Species by storing, diverting, and
+exporting water, which alters the timing and volume of river flows, entrains and kills these Species
+5 by drawing them into pumping infrastructure, damages their habitat, and disrupts fish-migration
+
+patterns.
+
+7. Against a backdrop of persistent population declines and scientific evidence showing
+the need to increase protections for the CESA-Listed Fish Species, DWR decided to modify its
+ongoing, long-term SWP operations. In November, 2019, DWR notified the public of its proposed
+10 plan to modify the SWP's long-term operations (the "Long-Term Operations Project" or "Project").
+11 Instead of protecting the CESA-Listed Fish Species, the proposed changes threaten to facilitate and
+12 accelerate their ongoing decline by continuing to dramatically alter the hydrologic landscape of the
+13 Delta without adequate environmental safeguards.
+
+14 8. The California Environmental Quality Act ("CEQA"), Pub. Res. Code § 21000 et seq.,
+15 required DWR to thoroughly analyze the impacts of the Project on the environment in an
+16 Environmental Impact Report, and to ensure that any significant adverse impacts were either avoided
+17 | or mitigated.
+
+18 9. On March 27, 2020, DWR issued its Final Environmental Impact Report ("FEIR") and
+19 Notice of Determination for the Long-Term Operations Project. The FEIR found that the Long-Term
+20| Operations Project would not have significant environmental impact upon the CESA-Listed Fish
+21 Species, and certified Refined Alternative 2b as the environmentally superior alternative.
+
+22 10. The FEIR is inadequate under CEQA. Among other deficiencies, it fails to maintain a
+23 consistent project description; omits crucial analyses of foresecable impacts on the CESA-Listed Fish
+24 Species; fails to analyze any alternatives that would strengthen protections for the CESA-Listed Fish
+25 || Species; and relies on vague, unenforceable, and, in some cases, irrelevant mitigation measures to
+26 wrongly conclude that the Long-Term Operations Project will not have significant adverse impacts
+
+27 on the CESA-Listed Fish Species.
+
+28
+
+2
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 11. DWR prepared the FEIR and reached these conclusions despite concerns raised by
+2 Petitioners San Francisco Baykeeper, The Bay Institute, Natural Resources Defense Council, Inc.,
+3 Golden State Salmon Association, and Defenders of Wildlife, and other stakeholders.
+
+4 12. DWR's failure to conduct adequate environmental review will lead to calamitous
+5 outcomes for the CESA-Listed Fish Species. The risk of extinction for these Species will continue to
+
+6 increase, and their populations will continue to decline, as a result of operations described in the
+
+7 Long-Term Operations Project.
+
+8 13. As the agency charged with managing California's fish and wildlife, the California
+9 Department of Fish and Wildlife ("DFW") has primary responsibility for ensuring that the CESA-
+10 Listed Fish Species do not go extinct. DFW served as a responsible agency in the Long-Term
+11 Operations Project CEQA review process.
+
+12 14. DFW's legal violations compound those that DWR made. As a responsible agency,
+13 DFW was required to independently analyze the Long-Term Operations Project's environmental
+14 impacts on the CESA-Listed Fish Species, and withhold its approval until it was certain that DWR
+15 had complied with CEQA's requirements. Instead, DFW issued CEQA Findings that rubber-stamped
+16 DWR'S conclusions in the FEIR, likely resulting in catastrophic consequences for the wildlife,
+17 including the CESA-Listed Fish Species, that DFW is charged to conserve.
+
+18 15. As the state agency charged with administering and enforcing CESA, DFW had an
+19 additional obligation to ensure that "[n]o person or public agency . . . take" an endangered or
+20 threatened species unless authorized by law. Fish & Game Code $ 2080. CESA provides that DFW
+21 may issue an Incidental Take Permit ("ITP") to authorize the catch, capture, or killing of endangered
+
+22 or threatened species only where specific conditions are met, including that the impacts of the take
+23 are minimized and fully mitigated, and where such issuance will not jeopardize the continued
+24 existence of the listed species.
+
+25 16. DFW's issuance of the ITP violated CESA. For instance, CDFW failed to adequately
+26 demonstrate that the Project will minimize and fully mitigate take of CESA-Listed Fish Species, and
+27 that issuance of the permit would not jeopardize their continued existence.
+
+28
+
+3
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+17. Accordingly, Petitioners seek a peremptory writ of mandate:
+
+2 a. Declaring that Respondents DWR and DWR have violated CEQA in certifying
+
+3 an inadequate and unlawful FEIR;
+
+4 b. Ordering DWR and DFW to vacate and set aside their Long-Term Operations
+uo Project approvals, including their CEQA Findings, certification of the FEIR,
+and Notice of Determination, until the Project is brought into full compliance
+A 0 with CEQA and CESA; and
+
+C. Enjoining all activity in reliance on the FEIR until Respondents fully comply
+with CEQA.
+
+10 18. Petitioners also seek a peremptory writ of mandate:
+
+11 a. Declaring that Respondent DFW has violated CESA;
+
+12 b. Ordering DFW to set aside its Long-Term Operations Project approvals,
+
+13 including its ITP, until the Project is brought into full compliance with CEQA
+
+14 and CESA; and
+
+15 C. Enjoining all activity in reliance on the ITP until Respondent DFW fully
+
+16 complies with CESA.
+
+PARTIES 17
+
+18 19. Petitioner BAYKEEPER, d/b/a SAN FRANCISCO BAYKEEPER ("San Francisco
+19 Baykeeper") is a regional nonprofit public benefit corporation organized under the laws of the State
+20 of California. San Francisco Baykeeper's mission is to protect and enhance the water quality of the
+21San Francisco Bay-Delta estuary for the benefit of its ecosystems and human communities. Founded
+
+22 in 1989, San Francisco Baykeeper is the premier legal and policy advocate for the San Francisco
+23 Bay-Delta estuary. Through its on-the-water presence, San Francisco Baykeeper patrols hundreds of
+24 miles of waterways throughout the Bay-Delta, investigating pollution problems and bringing
+
+25 enforcement actions against polluters directly when necessary. San Francisco Baykeeper also uses
+
+26 targeted administrative and legal advocacy before state and regional regulators, playing a lead role in
+27 developing sound and legal standards, permits, and regulations to protect and restore the Bay-Delta.
+
+28
+
+4
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+A key area of San Francisco Baykeeper's focus is ensuring that state and federal environmental laws
+2 are properly implemented and enforced. San Francisco Baykeeper's office is located in Alameda is
+3 County, California. San Francisco Baykeeper has approximately 3,000 members and supporters,
+most of whom reside in the San Francisco Bay-Delta's watershed. Many of San Francisco
+Baykeeper's members and supporters live and/or own property along, and/or regularly visit and use
+6 the San Francisco Bay, the Delta, and the Central Valley rivers that flow into this estuary for
+
+7 recreational experiences and aesthetic enjoyment. San Francisco Baykeeper submitted detailed
+
+8 comments to DWR, jointly with the other Petitioners herein, relating to DWR's issuance of the Draft
+
+9 Environmental Impact Report ("DEIR"). San Francisco Baykeeper also submitted comments to
+10 DFW regarding inadequacies of DWR's application for an ITP under CESA.
+
+11 20. Petitioner BAY.ORG d/b/a THE BAY INSTITUTE ("The Bay Institute") is a
+12 nonprofit conservation organization, located in San Francisco, dedicated to protecting, restoring, and
+13 inspiring conservation of the ecosystems of the Bay and its watershed. The Bay Institute's supporters
+14 mostly live around the Bay or its watershed, regularly visit and use the Bay, the Delta, and the
+
+15 Central Valley for recreational experience, aesthetic enjoyment, and/or livelihood in the commercial
+16 fishing, sportfishing, and boating industries, and have a direct interest in the survival and perpetuation
+17 of fish species and other aquatic resources. The Bay Institute regularly participates in administrative
+18 and judicial proceedings to protect, enhance, and restore declining populations of native California
+
+19 fish species that depend on the Delta, including successful efforts to list the Delta Smelt under the
+
+20 federal Endangered Species Act; to invalidate and replace an insufficiently protective Biological
+21 Opinion for Delta Smelt under the Endangered Species Act; and to list the Longfin Smelt as a
+
+22 threatened species under the California Endangered Species Act. The Bay Institute has worked
+23 collaboratively with government agencies, independent academic experts, water users, and
+24 landowners to design and implement large-scale ecological restoration programs through the
+25 CALFED Bay-Delta Program, the Central Valley Project Improvement Act, and other initiatives.
+26 The Bay Institute submitted detailed comments to DWR, jointly with the other Petitioners herein,
+
+27
+
+28
+
+5
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 relating to DWR's issuance of the DEIR, and also submitted comments to DFW regarding
+
+2 inadequacies of DWR's application for an ITP under CESA.
+
+21. Petitioner NATURAL RESOURCES DEFENSE COUNCIL, INC. ("NRDC") is a
+nonprofit environmental organization with more than 375,000 members nationwide, including more
+than 71,000 members in California. NRDC maintains an office in San Francisco, California.
+
+6 NRDC's purpose is to safeguard the Earth: its people, its plants and animals, and the natural systems
+on which all life depends. The organization works to restore the integrity of the elements that sustain
+life-air, land, and water---and to defend endangered natural places. For decades, NRDC has
+9 advocated extensively for the protection of the nation's waterways and wildlife, including the
+10 Longfin Smelt, Delta Smelt, and Winter-run and Spring-run Chinook Salmon. NRDC has brought
+11 and intervened in lawsuits designed to ensure that state and federal water project operations do not
+12 jeopardize the continued existence of threatened and endangered fish species or adversely modify
+13 those species' critical habitat. NRDC submitted detailed comments to DWR, jointly with the other
+14 Petitioners herein, relating to DWR's issuance of the DEIR, and also submitted comments to DFW
+15 regarding inadequacies of DWR's application for an ITP under CESA.
+
+16 22. Petitioner GOLDEN STATE SALMON ASSOCIATION ("Golden State Salmon") is
+17  a non-profit organization that works to protect and restore California's largest salmon producing
+18  habitat in the Central Valley for the communities that rely on salmon as a long-term, sustainable
+
+19 commercial, recrcational, and cultural resource. Golden State Salmon's members include
+20 commercial and recreational Salmon fishermen, businesses, restaurants, a Native American tribe,
+21 environmentalists, elected officials, and community members that rely on Salmon. Golden State
+
+22 Salmon's headquarters are in San Francisco, California. Golden State Salmon and its more than
+23 3,500 members have a direct interest in the survival and perpetuation of Salmon and other aquatic
+24 resources that depend upon Central Valley Rivers, the Delta, the Bay, and its estuary. Most of
+25 Golden State Salmon's members live in the Bay's watershed, and many rely on this region for their
+26 livelihood in the commercial fishing, sportfishing, and boating industries. In addition, many Golden
+27 State Salmon members regularly visit and use the Bay, its estuary, and the Central Valley rivers that
+
+28
+
+6
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+flow into the Bay and its estuary for recreational experiences and aesthetic enjoyment. Golden State
+Salmon regularly participates in administrative proceedings on behalf of its members to protect,
+enhance, and restore declining populations of Central Valley Salmon that depend on Central Valley
+4 rivers and the Delta. Golden State Salmon has worked collaboratively with government agencies,
+independent academic experts, water users, and landowners on large-scale ecological restoration
+
+6 programs through the Central Valley Project Improvement Act and other initiatives. Golden State
+
+7 Salmon has submitted protests and petitions for reconsideration of revisions to the water quality
+standards in the Bay-Delta Plan. Since its founding in 2011, Golden State Salmon has also submitted
+written comments to, and testified at, public workshops regarding the need to implement water
+10 quality standards for the Bay and Delta, and to update and improve those standards. Golden State
+11 Salmon submitted detailed comments to DWR, jointly with the other Petitioners herein, relating to
+
+12 DWR's issuance of the DEIR, and also submitted comments to DFW regarding inadequacies of
+
+13 DWR's application for an ITP under CESA.
+
+14 23. Petitioner DEFENDERS OF WILDLIFE ("Defenders") is a non-profit corporation
+15 with hundreds of thousands of members across the nation, including tens of thousands of members in
+16 California. Defenders is dedicated to the protection of all native animals and plants in their natural
+17 communities. Through education, advocacy, litigation, and other efforts, Defenders works to
+18 preserve species and the habitats upon which they depend. Defenders has been closely involved in
+19 policy and litigation matters associated with water quality and species habitat in the Sacramento
+20 River, San Joaquin River, and Delta region for many years, including litigation and regulatory actions
+21 intended to benefit Winter-run and Spring-run Chinook Salmon, Delta Smelt, and their habitats.
+22 Defenders has submitted written comments in support of more protective water quality standards for
+23 the Delta and its tributary rivers, filed litigation to oppose infrastructure projects that would impact
+24 these imperiled fish and their habitats, and worked to secure funding for habitat restoration projects in
+25 the Sacramento River, San Joaquin River, and Delta. In addition to Delta Smelt, Longfin Smelt and
+26 Salmonids, Defenders strives to protect a broad range of species that depend upon the health of the
+27 Sacramento and San Joaquin River watersheds and the Delta, including giant garter snakes, migratory
+
+28
+
+7
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+waterfowl and shorebirds, and Southern Resident orcas. Defenders submitted detailed comments to
+2 DWR, jointly with the other Petitioners herein, relating to DWR's issuance of the DEIR, and also
+
+3 submitted comments to DFW regarding inadequacies of DWR's application for an ITP under CESA.
+
+4 24. Respondent CALIFORNIA DEPARTMENT OF WATER RESOURCES is a
+Department of the State of California headquartered in Sacramento. DWR operates the SWP. DWR
+is the lead agency for the approval of the Long-Term Operations Project under CEQA; it certified the
+7 FEIR for the Project and issued a Notice of Determination approving the Project.
+
+25. Respondent CALIFORNIA DEPARTMENT OF FISH AND WILDLIFE is a state
+
+9 agency headquartered in Sacramento charged with conserving, protecting, and managing California's
+10 fish, wildlife, and native plant resources for their intrinsic value and their use and enjoyment by the
+11 public. DFW's duties include administering and enforcing CESA, including issuing ITPs pursuant to
+12 section 2081 of the Fish and Game Code. As CEQA responsible agency, DFW certified CEQA
+13 Findings and filed a Notice of Determination approving the Long-Term Operations Project. DFW
+14 also issued findings under CESA and approved the ITP for the Project.
+
+15 JURISDICTION AND VENUE
+
+16 26. This Court has jurisdiction over this matter pursuant to Code of Civil Procedure
+17 sections 1085 and/or 1094.5, Public Resources Code section 21168 and/or 21168.5, and Government
+18 Code sections 11342.2 and 11350.
+
+19 27. Pursuant to Code of Civil Procedure sections 393, 395 and 401, venue for this action
+20 properly lies in the Alameda County Superior Court because a substantial part of the events or
+21 omissions giving rise to the causes of action asserted herein occurred within this judicial district. In
+22 addition, the Attorney General maintains an office in Alameda County. Further, the SWP's Harvey
+23 O. Banks Delta Pumping Plant is located in Alameda County. The operation of this pumping plant,
+24  which is used to pump and export water out of the Delta, creates many of the harmful conditions that
+25  give rise to this action. These pumps entrain and kill fish, including the CESA-Listed Fish Species.
+26 The pumps also reduce the total amount of water flowing out of the Delta and into San Francisco
+27 Bay, part of which lies within Alameda County, which in turn alters the basic water quality
+
+28
+
+8
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+conditions and biological productivity of the habitat for these and other species in both the Delta and
+2 San Francisco Bay. Finally, as set forth above, Petitioners maintain offices and/or have many
+
+3 members who reside within this judicial district.
+
+4 EXHAUSTION OF ADMINISTRATIVE REMEDIES
+
+5 28. Petitioners have exhausted all administrative remedies, as required by Public
+
+6 Resources Code section 21177, by submitting written comments to DWR on the DEIR prior to
+7 project approval requesting compliance with CEQA, CESA, and other laws, including adequate
+8 environmental review. All CEQA issues raised in this petition were raised in a timely manner before
+
+9 DWR by Petitioners, other members of the public, or public agencies within the public comment
+10 period.
+
+11 29. CESA does not provide a formal opportunity for public comment on a draft ITP.
+12 Nonetheless, Petitioners provided DFW with extensive comments relating to deficiencies in DWR's
+13 application for the Long-Term Operations Project ITP before DFW issued the ITP. Thus, to the
+14 extent applicable, Petitioners have exhausted all administrative remedies under CESA prior to filing
+
+15 this action.
+
+16 30. On June 5, 2020, Petitioners' counsel transmitted to DWR and DFW a Notice of Intent
+17 to File CEQA Petition as required by Public Resources Code section 21167.5, providing notice of
+18 Petitioners' intent to file this Petition. See Exhibit A hereto.
+
+19 31. Petitioners have complied with Public Resources Code section 21167.7 and Code of
+20 Civil Procedure section 388 by serving, on June 5, 2020, a copy of this Petition on the Attorney
+21 General and providing notice of the Petition. See Exhibit B hereto.
+
+22 32. This Petition is timely filed pursuant to Public Resources Code section 21167 and
+23 California Code of Regulations, title 14, section 15112(c)(1) ("CEQA Guidelines"). On March 30,
+24 2020, DWR filed the Notice of Determination with the Office of Planning and Research. On April 6,
+25 2020, the Judicial Council of California issued Emergency Rule 9 of the California Rules of Court 9
+26| ("Emergency Rule 9"), which provides that, "[n]otwithstanding any other law, the statutes of
+27 limitation for civil causes of action are tolled from April 6, 2020, until 90 days after the Governor
+
+28
+
+9
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 declares that the state of emergency related to the COVID-19 pandemic is lifted." On April 29, 2020,
+
+2 DWR, DFW, and Petitioners entered into a tolling agreement in which the parties agreed that
+
+3 Emergency Rule 9 applies to Petitioners' causes of actions under CEQA and CESA. As of the date
+
+4 of filing this Petition, DWR and DFW have not terminated the tolling agreement, nor has the
+5 Governor lifted the state of emergency related to the COVID-19 pandemic.
+
+6 STATUTORY FRAMEWORK
+
+7 I. The California Environmental Quality Act
+
+8 33. A lead agency under CEQA must prepare an EIR to gather and disclose to public
+
+9 agencies and the public detailed information about a proposed project's potential impacts on the
+10 environment and measures to reduce or avoid significant impacts to the environment from the
+11 proposed project.
+
+12 34. The EIR must contain a clear description of a proposed project, and that description
+13 must remain consistent and accurate throughout the CEQA process. A "project" under CEQA
+14 includes the whole of an action that may result in either a direct or reasonably foreseeable indirect
+15| physical change in the environment.
+
+16 35. The EIR must consider a reasonable range of alternatives to the proposed project,
+17 including a no action alternative.
+
+18 36. In preparing the EIR, the lead agency must consider whether a proposed project's
+19 adverse impacts are significant, and the agency must make specific written findings for each
+20 significant impact identified in an EIR. Specifically, the agency must make one of three findings:
+
+21 a. That changes or alterations have been required or incorporated in the project
+
+22 that avoid or substantially lessen the project's significant environmental
+
+23 impact(s);
+
+24 b. That such changes or alterations are within the responsibility and jurisdiction
+
+25 of another public agency, and that such changes have been adopted or can and
+
+26 should be adopted by that agency; or
+
+27
+
+28
+
+10
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+C. Specific economic, legal, social, technological, or other considerations make
+
+2 the mitigation measures or project alternatives identified in the EIR infeasible.
+
+37. These findings must be supported by substantial evidence in the administrative record.
+
+4 38. Regulations implementing CEQA mandate that the lead agency find that an impact is
+
+5 significant if certain conditions are met, including if it would "cause a fish or wildlife population to
+
+6 drop below self-sustaining levels" or if it would "substantially reduce the number or restrict the range
+7 of an endangered, rare, or threatened species."
+
+8 39. An EIR must describe feasible measures that could minimize the adverse impacts of a
+9 project on the environment to a less than significant level.
+10 40. Further, the EIR must consider the project's cumulative impacts.
+
+11 41. Besides lead agencies, CEQA requires responsible agencies to review proposed
+12 projects and issue findings. Responsible agencies include any public agency other than the lead
+13 agency that has discretionary approval authority over the project.
+
+14 42. Every responsible agency must independently consider the information in the EIR and
+15 | make its own findings regarding whether and how to approve the project. The responsible agency's
+16 findings must be supported by substantial evidence in the record.
+
+17 43. A lead or responsible agency's failure to proceed in accordance with CEQA's
+18 mandates or to support its CEQA findings with substantial evidence is a reversible abuse of
+
+19 discretion.
+
+20 II. The California Endangered Species Act
+
+21 44. CESA prohibits the "take" of endangered or threatened species unless otherwise
+22 authorized by law. The Fish and Game Code defines "take" to mean to "hunt, pursue, catch, capture,
+
+23 or kill, or to attempt to hunt, pursue, catch, capture, or kill" any species listed under CESA as
+24 threatened or endangered.
+
+25 45. CESA's take prohibition applies to state agencies, including DWR.
+
+26 46. CESA authorizes DFW to permit the incidental take of species listed as threatened or
+27 endangered under CESA by issuing an ITP where certain conditions are met, including:
+
+28
+
+11
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+a. The impacts of the take must be minimized and fully mitigated; and
+
+b. Issuance of the ITP must and does not jeopardize the continued existence of
+the species. DFW must make this jeopardy determination based on the best
+scientific and other information that is reasonably available, including a
+4n consideration of the species' capability to survive and reproduce, and any
+adverse impacts of the taking on those abilities in light of known population
+trends; known threats to the species; and reasonably foreseeable impacts on the
+species from other related projects and activities.
+
+9 FACTUAL ALLEGATIONS
+
+10 I. The Continued Decline of Endangered and Threatened Fish Species in the San
+11 Francisco Bay-Delta
+
+12 47. The populations of the CESA-Listed Fish Species in the San Francisco Bay-Delta
+13 have declined precipitously over the past decades. Due to insufficient flows, entrainment, and other
+14| impacts attributable to the SWP and CVP, Longfin Smelt abundance has declined by 99.9 percent
+15 since 1967, and Delta Smelt abundance has declined to the point where they are nearly undetectable
+16 in sampling programs in which they were once common. Historically, annual returns of Winter-run
+
+17 Chinook Salmon and Spring-run Chinook Salmon numbered in the tens of thousands and hundreds of
+18 thousands, respectively, but recent returns of both runs have numbered in the hundreds or low
+
+19 thousands.
+
+20 48. State and federal agencies have concluded that it is necessary to increase protections
+21 for the CESA-Listed Fish Species, including increasing Delta outflows, to halt the decline of the
+22 native fish species, including the CESA-Listed Fish Species, in the Delta and its watershed.
+
+23 49. In 2010, DFW reported to the state legislature that changes in Delta flows resulting
+24 from upstream diversions and operations of the State and federal water projects upstream of and in
+25| the Delta had modified the Delta ecosystem so severely that current Delta water flows for
+26 environmental resources are not adequate to maintain, recover, or restore the functions and processes
+
+27 that support native Delta fish, including the CESA-Listed Fish Species.
+
+28
+
+12
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+50. In 2017, the California State Water Resources Control Board affirmed DFW's
+
+2 conclusions, finding in its Scientific Basis Report in Support of New and Modified Requirements for
+3 Inflows from the Sacramento River and its Tributaries and Eastside Tributaries to the Delta, Delta
+
+4 Outflows, Cold Water Habitat, and Interior Delta Flows that significant scientific information
+5  indicates that restoration of more natural flow function throughout the watershed from natal streams
+6 to the nearshore ocean is needed now to reverse the native fish species' declines.
+
+7 51. In 2018, pursuant to its scientific findings that current Delta outflow levels are
+8 inadequate to protect the Bay-Delta ecosystem, the State Water Resources Control Board released its
+9 Framework for the Sacramento/Delta Update to the Bay-Delta Plan, which proposed significantly
+10 increasing Delta outflows and strengthening other environmental protections.
+
+11 52. Reclamation, which operates the CVP, is authorized to take fish species listed under
+12 the federal Endangered Species Act ("ESA") pursuant to federal Biological Opinions issued by the
+13 National Marine Fisheries Service and the U.S. Fish and Wildlife Service ("2008 and 2009 Biological
+14 Opinions"). Reclamation does not have an ITP authorizing the take of fish species listed under
+15 CESA by the CVP.
+
+16 53. In 2016, due in significant part to the continued decline of ESA-listed fish populations
+
+17 in the Delta, including most of the CESA-Listed Fish Species, Reclamation asked the National
+18 Marine Fisheries Service and the U.S. Fish and Wildlife Service to reinitiate consultation regarding
+19 the 2008 and 2009 Biological Opinions. In August, 2016, all three agencies agreed to reinitiate
+20 consultation, in part due to new science indicating the need to strengthen protections under the 2008
+
+21 and 2009 Biological Opinions.
+
+22 54. That same month, the Secretary of the United States Department of the Interior issued
+23 a memorandum stating that the protections in the 2008 and 2009 Biological Opinions should be
+24 increased to avoid causing the extinction of Delta Smelt and Winter-run Chinook Salmon, and that
+25 increased protections for these endangered and threatened species would likely require the CVP and
+26 SWP to reduce water diversions from the Delta.
+
+27
+
+28
+
+13
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 55. Yet, in 2019, Reclamation issued a biological assessment outlining a proposed water-
+2 operations plan for the CVP that would substantially increase diversions from the Sacramento and
+
+3 San Joaquin River watersheds, increase exports of water from the Delta to the Central Valley and
+4 southern California, and weaken or eliminate safeguards for endangered species that were included in
+
+5 the 2008 and 2009 Biological Opinions.
+
+6 56. On July 1, 2019, biologists at the National Marine Fisheries Service finalized a
+7 Biological Opinion that concluded that Reclamation's proposed plan was likely to jeopardize several
+8 listed species, including Winter-run Chinook Salmon and Spring-run Chinook Salmon. Nonetheless,
+
+9 the National Marine Fisheries Service and the Fish and Wildlife Service issued new Biological
+10 Opinions on October 1, 2019 (*2019 Biological Opinions"), concluding that Reclamation's proposed
+11 plan was not likely to jeopardize the continued existence of Winter-run Chinook Salmon, Spring-run
+12 Chinook Salmon, or Delta Smelt. This conclusion was an about-face from both the 2008 and 2009
+13 Biological Opinions and the National Marine Fisheries Service's July 1,2019, Biological Opinion.
+
+14 57. On February 20, 2020, the California Natural Resources Agency, the California
+15 Environmental Protection Agency, and the California Attorney General filed suit in federal court
+16 challenging the federal ESA process. The lawsuit contends that Reclamation's new CVP operations
+
+17 and the 2019 Biological Opinions are unlawful under the ESA, the Administrative Procedure Act,
+18 and the National Environmental Policy Act. The State issued a press release announcing that the
+19 2019 Biological Opinions would cause imminent and irreparable harm to protected species. On April
+20 21, 2020, the State of California amended its complaint to contend that Reclamation's operations
+
+21 were also unlawful under CESA. The State sought a preliminary injunction, asserting that operations
+22 of the CVP were causing irreparable harm to Delta Smelt and Longfin Smelt, two of the species listed
+23 under CESA and permitted to be taken pursuant to DFW's ITP for the Long-Term Operations
+24 Project. On May 12, 2020, the United States District Court for the Eastern District of California
+25 granted the State's motion for a preliminary injunction on federal-law grounds.
+
+26
+
+27
+
+28
+
+14
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+IT. The Joint Operations of the SWP and CVP
+
+2 58. The SWP is a major water-storage and -diversion project operated by DWR. It stores
+water upstream of, and diverts water from, the Delta through its network of dams, reservoirs, canals,
+
+4 and pumping facilities for agricultural and municipal uses. Two of the SWP's primary components
+
+5 are the Banks Pumping Plant in the south Delta, which pumps water from Clifton Court Forebay into
+
+6 the California Aqueduct, and Oroville Dam on the Feather River.
+
+59. The CVP, meanwhile, is a federal water-storage and -diversion project operated by
+
+8 Reclamation. The CVP is comprised of approximately 20 dams and reservoirs, including some of the
+storage and diversion facilities in California, such as Shasta and Keswick Dams on the largest water
+10 Sacramento River and the Trinity Dam on the Trinity River. The CVP's C.W. Bill Jones Pumping
+
+11 Plant is in the south Delta, along with the SWP's Banks Pumping Plant.
+
+12 60. The operations of the SWP and CVP are closely coordinated. For example, the SWP
+13 and CVP divert water together pursuant to the Agreement between the United States of America and
+14 the State of California for Coordinated Operation of the Central Valley Project and State Water
+15| Project ("Coordinated Operation Agreement"), which was most recently amended in 2018 with the
+16  execution of an Addendum. As amended, the Coordinated Operation Agreement specifies how the
+17 CVP and SWP will share responsibility for meeting water-quality standards in the Delta and specifies
+18 how the CVP and SWP will share export capacity in the Delta when pumping is limited. In addition,
+19 the Coordinated Operation Agreement as amended specifies how the SWP and CVP will meet
+20 |l demand for water in the Sacramento Valley, which includes requirements for the CVP to deliver
+21 water to certain settlement contractors of the SWP. As a result, the CVP and SWP coordinate the
+22 operation of upstream reservoirs, including the CVP's Shasta Dam and Folsom Dam, and the SWP's
+23 Lake Oroville, in order to ensure that the coordinated operations release adequate water from
+24 upstream reservoirs to meet water-quality standards in the Delta and water diversions in the
+
+25 Sacramento Valley.
+
+26 61. The SWP and CVP share some facilities and water. Both the SWP and CVP use the
+
+27 San Luis Reservoir and the San Luis Complex, a section of the California Aqueduct. In addition, a
+
+28
+
+15
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 pipeline, known as the Delta-Mendota Canal/California Aqueduct Intertie, connects the Delta-
+2 Mendota Canal, a CVP facility, and the California Aqueduct, a SWP facility, allowing water to be
+3 pumped between CVP and SWP operations as needed. At times, each project relies on the other to
+
+4 deliver its water. For example, in some months, when the CVP Jones Pumping Plant diversion is
+
+5 pumping at maximum capacity, the SWP exports CVP water through its own Banks Pumping Plant.
+
+6 The Intertie allows the SWP to provide as much as 35,000 acre-feet of water annually to the CVP.
+
+7 III. The SWP, Alone and in Conjunction with the CVP, Causes Significant Harm to
+8 CESA-listed Fish Species.
+
+62. The coordinated operations of the SWP and CVP likely jeopardize the continued
+10 existence of the critically imperiled CESA-Listed Fish Species, including by damaging their habitats
+
+11 in rivers downstream of major SWP and CVP dams and altering the Delta's hydrologic landscape.
+
+12 63. The SWP and CVP operate a system of dams that block certain CESA-Listed Fish
+13 Species from accessing cool water habitat upstream and contribute to lethal warming of downstream
+
+14 habitat.
+
+15 64. The coordinated operations of the SWP and CVP alter river flow above, into, and
+16 through the Delta by impounding water in upstream reservoirs like Shasta and Oroville Dams
+17 (thereby altering the quality, quantity, and timing of downstream flows) and by reducing stream
+18 flows via diversions. San Joaquin River flows are often entirely drawn into the SWP and CVP export
+19 pumps, meaning that almost no water from the San Joaquin River and its tributaries reaches the San
+20 Francisco Bay.
+
+21 65. In addition, the coordinated operations of the SWP and CVP reduce Delta outflow--
+22 water that would normally flow through the Delta into San Francisco Bay- as a result of upstream
+23 impoundments and diversions as well as by drawing this water into massive pumping machinery in
+24 || the Delta. Substantial peer-reviewed science and agency research has concluded that the volume of
+
+25 Delta outflows is positively correlated with the survival and abundance of several of the CESA-
+26 Listed Fish Species. In short, increased flows improve the likelihood that these fish will survive and
+27 recover, while decreased flows increase the likelihood of their extinction.
+
+28
+
+16
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 66. These massive pumping operations reverse the natural flow in the Old and Middle
+2 Rivers, which are distributary channels of the San Joaquin River in the Delta, causing them to flow
+
+3 uphill towards the pumps to the south- a "reverse" or "negative" flowinstead of towards the ocean
+
+4 to the west.
+
+5 67. By drastically altering the Delta's natural flow patterns, the SWP and CVP interfere
+
+6 with the rearing and migration of the CESA-Listed Fish Species, causing indirect mortality.
+7 Furthermore, the alteration of Delta flow patterns draws these fish into the canals leading to the
+
+8 export pump machinery ("entrainment"), which results in direct mortality.
+
+9 68. Evidence shows that fish entrainment increases dramatically as the magnitude of
+10 reverse flows in Old and Middle River increases. Although some fish are "salvaged" from pump
+11 facilities and later trucked and released, that number is only a small portion of the total number of
+12  entrained fish; the vast majority of entrained fish die.
+
+13 69. As a result of coordinated operations of the SWP and CVP, the CESA-Listed Fish
+
+14 Species, once abundant in the Bay-Delta, are now approaching extinction.
+
+15 A. Longfin Smelt
+
+16 70. Longfin Smelt were listed as threatened under CESA in 2009.
+
+17 71. The Bay-Delta supports the largest remaining Longfin Smelt population in California.
+18 Longfin Smelt were once abundant in the Bay-Delta, even contributing to a commercial fishery. Due
+
+19 to insufficient Delta outflow to the Bay, direct and indirect mortality of fish entrained by the CVP
+20 and SWP water pumps, and other stressors, Longfin Smelt abundance has declined by more than 99.9
+
+21 percent since DFW began its Fall Midwater Trawl survey in 1967.
+
+22 72. The volume of fresh water flowing from Central Valley rivers through the Delta in the
+23 winter and spring is, by far, the most important factor in determining juvenile Longfin Smelt
+
+24 abundance. Longfin Smelt population levels increase as Delta outflows increase, and population
+
+25 levels decrease as Delta outflows decrease.
+
+26
+
+27
+
+28
+
+17
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 B. Delta Smelt
+
+2 73. The Delta is home to the only Delta Smelt population on Earth. Delta Smelt were
+3 listed as threatened under the ESA and CESA in 1993; DFW elevated their status to endangered
+
+4 under CESA in 2009.
+
+5 74. Delta Smelt spend most of their life in the Delta's low-salinity zone where saline and
+
+6 fresh waters mix, although they migrate upstream into freshwater to spawn. Because Delta Smelt
+
+7 rely on freshwater and low-salinity habitats for spawning and rearing, they are particularly vulnerable
+8  to the SWP and CVP's water storage, diversion, and export operations, which affect Delta Smelt
+9 habitat quantity and quality. In particular, as fresh water is stored, diverted, or exported, Delta Smelt
+10  habitat shifts upstream from the Suisun Bay to less hospitable river channels in the Delta. The
+11 distribution of Delta Smelt tracks the low-salinity zone; as Delta outflow declines Delta Smelt move
+12 into areas where they are unlikely to survive.
+
+13 75. The scientific community broadly agrees that CVP and SWP water exports and the
+14 corresponding reductions in Delta outflows significantly and adversely affect Delta Smelt abundance
+
+15 and survival from one life stage to the next. The California Natural Resources Agency's 2016 Delta
+
+16 Smelt Resiliency Strategy called for increased summer Delta outflows to help protect and restore the
+17 Delta Smelt population.
+
+18 76. In 2018 and 2019, the Fall Midwater Trawl index, which reflects Delta Smelt
+
+19 abundance, registered zero for the first time in history, meaning that the population has declined to
+20 the extent that the species is undetectable by DFW's Fall Midwater Trawl aquatic sampling program.
+
+21 C. Winter-run Chinook Salmon
+
+22 77. Winter-run Chinook Salmon were listed as threatened under the federal ESA in 1989;
+23 their status was elevated to endangered in 1994. Winter-run Chinook Salmon have been listed as
+
+24 endangered under CESA since 1989.
+
+25 78. Until the 1960s, Winter-run Chinook Salmon populations approached 120,000 fish. In
+26 recent years, only several hundred to a few thousand Winter-run Chinook Salmon returned to spawn
+
+27 in the Upper Sacramento River.
+
+28
+
+18
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+79. Adult Winter-run Chinook Salmon typically migrate upstream from the ocean through
+2 the Sacramento-San Joaquin Delta from November through July, spawning in late spring and through
+
+3 the summer in the upper Sacramento River.
+
+4 80. Winter-run Chinook Salmon used to spawn in perennial cold-water sources that these
+5 fish need to reproduce successfully, but Reclamation's Shasta and Keswick dams have blocked their
+6 historic spawning grounds. As a result, Winter-run Chinook Salmon have been reduced to single,
+7  small population that relies exclusively on a small stretch of the a upper Sacramento River below
+8 Keswick Dam to spawn.
+
+9 81. The operations of the CVP's Shasta and Keswick dams pursuant to the Coordinated
+10 Operation Agreement pose a particular threat to the Winter-run Chinook Salmon population. When
+11 dam operators maintain an inadequate supply of cold water, warm water released from the dams
+12 flows through Chinook Salmon nests located downstream, causing their eggs to die.
+
+13 82. In 2014 and 2015, endangered Winter-run Chinook salmon were nearly completely
+14 wiped out by lethal water temperatures below Shasta and Keswick Dams, with estimated
+15 temperature-dependent mortality of 77 percent in 2014 and 85 percent in 2015.
+
+16 83. SWP operations harm Chinook Salmon by, for example, reducing Delta inflows and
+17 outflows and contributing to reverse flows in the Old and Middle Rivers. These changes disrupt
+18 salmon migration patterns and reduce the survival of juvenile salmon migrating down the Sacramento
+19 River, through the Delta, and into San Francisco Bay.
+20 D. Spring-run Chinook Salmon
+
+21 84. Spring-run Chinook Salmon were listed as threatened under both the ESA and CESA
+22 in 1999.
+
+23 85. Historically, the Central Valley supported as many as 600,000 Spring-run Chinook
+24 Salmon each year between the late 1880s and 1940s. In recent years, spawning Spring-run Chinook
+25 Salmon returns have numbered between several hundred to just over 20,000 fish.
+
+26 86. Adult Spring-run Chinook Salmon typically begin migrating into fresh water from
+27 March through September. They spawn in the Sacramento River and its tributaries, including the
+
+28
+
+19
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+Feather River, from August through October.
+
+2 87. Similarly to Winter-run Chinook Salmon, operations of the CVP's Shasta and
+
+3 Keswick dams and the SWP's Oroville Dam harm Spring-run Chinook Salmon by disrupting Spring-
+
+4 Run Chinook Salmon migration patterns and providing too little cool water from dams, in turn
+5 causing significant temperature-related mortality to Spring-run Chinook Salmon eggs.
+
+6 88. The State Water Resources Control Board concluded that high water temperatures
+
+7 below these dams caused significant, and potentially complete, mortality of Spring-run Chinook
+
+8 Salmon eggs in the Sacramento River during 2014.
+
+9 IV. DWR's Process for Modifying the SWP's Long-Term Operations
+
+10 A. The Draft Environmental Impact Report
+
+11 89. DWR issued a Notice of Preparation under CEQA for the Long-Term Operations
+12 Project on April 19, 2019. DWR issued the DEIR on November 21, 2019, and formally accepted
+13  public comments on the DEIR until January 6, 2020.
+
+14 90. The Notice of Preparation asserted that the DEIR would analyze the potential impacts
+15 associated with long-term SWP facility operations, as well as the addendum to the Coordinated
+16 Operation Agreement executed on December 12, 2018. The Notice of Preparation stated that "[t]he
+17 | CEQA project encompasses SWP water diversion, storage, and conveyance facilities and SWP
+18 service areas throughout the state, as shown in Figure 1." SWP facilities shown on "Figure 1"
+19 include the SWP's Oroville Dam complex on the Feather River.
+
+20 91. The DEIR considered five alternatives: the No Project Alternative, Alternative 2a,
+
+21 Alternative 2b, Alternative 3, and Alternative 4. None of these alternatives proposed reducing
+22 exports and increasing Delta inflows and outflows, which would have strengthened protections for
+23 the CESA-Listed Fish Species.
+
+24 92. Although the DEIR recognized that Oroville Reservoir is one of the principal SWP
+
+25 facilities, the DEIR generally only considered the environmental effects of SWP operations in the
+26 Delta, and the DEIR generally excluded consideration of environmental impacts from the coordinated
+
+27 operations of the CVP and SWP upstream of the Delta.
+
+28
+
+20
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+93. DWR identified Alternative 2b as its preferred alternative in the DEIR. That
+
+2 alternative would increase overall water exports from the SWP and decrease overall flows into and
+
+3 through the Delta in some years.
+
+4 94. The DEIR asserted that none of the alternatives, including Alternative 2b, would cause
+5 significant environmental impacts to any of the CESA-Listed Fish Species.
+
+95. DWR failed to adequately analyze the environmental impacts that would result from
+the coordinated operations of the CVP and SWP under Alternative 2b, despite the DEIR repeatedly
+describing the Long-Term Operations Project as the coordinated operations of the SWP and CVP.
+
+96. Petitioners and other stakeholders submitted detailed, similar comments on the DEIR
+10 expressing serious concern about, among other things, the DEIR's failure to consider an alternative
+11 that would increase protections for the CESA-Listed Fish Species, failure to provide a consistent
+12 project description, failure to analyze Alternative 2b's cumulative impacts, failure to adequately
+13 analyze the impacts from the coordinated operations of the CVP and SWP, failure to consider
+14 impacts from upstream operations of the SWP and/or CVP, and failure to use credible scientific
+15 analysis of impacts to the CESA-Listed Fish Species and other fish species.
+
+16 97. Petitioners requested that DWR revise the DEIR to address and correct these and other
+17 deficiencies and circulate it for public review.
+
+18 B. The Final Environmental Impact Report
+
+19 98. DWR did not recirculate a revised DEIR or address the numerous legal deficiencies
+20 identified by Petitioners and other parties during the comment period. Instead, DWR revised
+21 Alternative 2b and created a new alternative called "Refined Alternative 2b." Refined Alternative 2b
+22 combined selected elements from the alternatives analyzed in the DEIR to create a new project
+
+23  alternative not considered in the DEIR.
+
+24 99. DWR certified Refined Alternative 2b as the environmentally superior alternative
+
+25 without allowing for public review or comment.
+
+26 100. Refined Alternative 2b authorized Delta inflow, Delta outflow, and Old and Middle
+27 River flow levels that are likely to continue to imperil the CESA-Listed Fish Species. Further,
+
+28
+
+21
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 ll Refined Alternative 2b allowed for water export operations that would significantly harm the CESA-
+2 Listed Fish Species.
+
+3 101. On March 27, 2020, DWR adopted Refined Alternative 26 as its preferred alternative
+4 for the Long-Term Operations Project and certified its FEIR. On March 30, 2020, DWR filed a
+5 Notice of Determination for the Long-Term Operations Project with the State Clearinghouse.
+
+6 102. Because DWR chose not to correct the deficiencies in the DEIR raised by Petitioners
+and others during the public comment period before certifying the FEIR, the FEIR does not
+
+8 adequately analyze and account for the significant adverse impacts of the Long-Term Operations
+9 Project on the CESA-Listed Fish Species and other fish species.
+
+10 103. Despite concerns raised by Petitioners and other parties that Project operations
+
+11 upstream of the Delta do and will adversely alter the quality, quantity, and timing of Delta flows
+12 | downstream, the FEIR does not analyze impacts from the Long-Term Operations Project at Lake
+
+13 Oroville.
+
+14 104. The FEIR does not analyze the environmental impacts of the coordinated operations of
+15 | the SWP and CVP upstream of the Delta.
+
+16 105. The FEIR does not account for the fact that DWR and Reclamation have concluded
+
+is 17 that it is reasonably foreseeable that they will request, and that the State Water Resources Control
+18 Board will likely grant, waivers of protective measures for fish species, including the CESA-Listed
+19  Fish Species, during droughts in the near term.
+
+20 106. The FEIR does not analyze projected changes in climate over the long term.
+
+21 107. The FEIR does not model the Old and Middle River reverse flows that are included in
+
+22 the Project description and that the Project authorizes, and as a result the analysis in the FEIR
+23 understates the Project's likely harm to the CESA-Listed Fish Species.
+
+24 108. Although the Notice of Preparation asserted that the EIR would analyze the effects of
+25 implementation of the 2018 Addendum to the Coordinated Operation Agreement, instead the FEIR
+26 included the effects of implementation of the 2018 Addendum to the Coordinated Operation
+27 Agreement in the environmental baseline used in the FEIR. As a result, the FEIR fails to analyze the
+
+28
+
+22
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+effects from implementing the 2018 Addendum to the Coordinated Operation Agreement, including
+2  increased temperature in the Feather River resulting in reduced survival of Chinook Salmon eggs and
+3 Ijuveniles.
+
+4 109. The FEIR uses faulty statistical analysis to analyze changes to Longfin Smelt
+5 abundance as a result of the Long-Term Operations Project, thereby underestimating negative
+6 impacts on Longfin Smelt. For example, DWR finds the reductions in Delta outflow caused by the
+7 Project will lead to a four- to 11-percent reduction in the median abundance of Longfin Smelt. By
+
+8 dividing the difference in median values by an inappropriate variability metric, DWR. used a
+9 statistically invalid approach to reduce its projected declines in Longfin Smelt abundance to zero to
+10 two percent.
+
+11 110. Despite the FEIR's flawed modeling of effects on the Longfin Smelt population, those
+12 estimated declines in abundance do not account for all of the Project's impacts to this species,
+13 including anticipated increases in entrainment of larval and juvenile Longfin Smelt.
+
+14 111. Furthermore, the FEIR does not estimate entrainment of larval Longfin Smelt during
+15 April and May at all, despite the fact that (a) larvae Longfin Smelt are abundant in April and May and
+16 are present in the Delta many months of the year, particularly from January through June, and (b)
+17 water exports by the CVP and SWP are expected to increase in these months. This omission allowed
+
+18 DWR to inaccurately conclude that the Project would not cause a significant increase in Longfin
+
+19 Smelt larvae entrainment.
+
+20 112. The FEIR assumes Reclamation's cooperation to ensure that operations of the SWP
+21  and CVP maintain the Old and Middle River flow levels required by the Project. The FEIR's
+22 operational modeling and impact analyses unreasonably assume that Reclamation meets 100 percent
+23 | of its proportional share of Old and Middle River requirements. At the same time, DWR disclaims
+24 responsibility for ensuring that Reclamation's proportional share of these requirements is actually
+25 met.
+
+26 113. The FEIR repeatedly fails to define measures that are intended to prevent or mitigate
+27 impacts to fish species, including the CESA-Listed Fish Species, leaving them to DWR's discretion
+
+28
+
+23
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+. 1 | to implement on an as-needed, real-time basis.
+
+2 114. For example, DWR relies on a "collaborative real-time risk assessment decision-
+3 making process" to minimize impacts on state and federally listed fish species, but the FEIR does not
+4 specify what circumstances would warrant a "risk assessment," which agency has the authority to call
+
+5 for an assessment, or which factors will be considered in the assessment.
+
+6 115. Similarly, the FEIR touts an "adaptive management" plan to allow DWR to provide
+
+7 "spring maintenance flows to better understand how the management of water and habitat across
+8 various hydrologic conditions would benefit listed fish species." However, this plan does not require
+
+9 DWR to provide spring maintenance flows to benefit fish species in a given year.
+
+10 116. The FEIR erroneously concludes that neither the Long-Term Operations Project nor
+11 any of the other alternatives will cause significant impacts to the CESA-Listed Fish Species or other
+12 fish species.
+
+13 V. DFW's CEQA Process and Approval of the Long-Term Operations Project
+
+14 117. As a responsible agency under CEQA for the Long-Term Operations Project, DFW
+15 submitted comments to DWR in response to the Notice of Preparation issued in May, 2019, and
+16| submitted comments in response to the DEIR issued in November, 2019.
+
+17 118. Once DWR published the FEIR, CEQA required DFW, as a responsible agency for the
+18 Long-Term Operations Project, to independently consider the FEIR and issue its own findings under
+19 CEQA.
+
+20 119. On March 31, 2020, DFW adopted DWR's Findings that the Long-Term Operations
+
+21 Project would not have a significant impact on the environment and filed a Notice of Determination
+22 with the State Clearinghouse approving the Project.
+
+23 VI. DFW's CESA Process and Issuance of the ITP
+
+24 120. On December 13, 2019, while the comment period for the FEIR remained open, DWR
+25 applied to DFW for an ITP for the Long-Term Operations Project. This permit would allow DWR to
+26 incidentally "take," or catch, capture, or kill, the CESA-Listed Fish Species, all of which are listed as
+27 threatened or endangered under CESA.
+
+28
+
+24
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+121. To comply with CESA, DFW needed to make certain findings, including that:
+
+2 a. Allowing DWR to catch, capture, or kill the CESA-Listed Fish Species
+
+3 through its implementation of the Long-Term Operations Project would not
+
+4 jeopardize the continued existence of those Species; and
+
+5 b. All adverse impacts from the authorized taking would be minimized and fully
+
+6 mitigated.
+
+7 122. On March 31, 2020, DFW issued DWR ITP 2081-2019-066-00 in connection with the
+8 Long-Term Operations Project, authorizing the incidental take of the CESA-Listed Fish Species for
+
+9 ten years.
+
+10 123. Also on March 31, 2020, and in reliance on the FEIR and the ITP, DFW adopted
+11 Findings under CESA, including findings that all authorized impacts associated with issuance of the
+12 ITP to DWR were minimized and fully mitigated and that issuance of the ITP would not jeopardize
+13 the continued existence of any CESA-Listed Fish Species.
+
+14 124. Contrary to DFW's CESA Findings, the ITP allows DWR to maintain or decrease
+15 Delta inflow to levels that do not protect, and will harm, the CESA-Listed Fish Species. For
+16 example, the ITP allows flows in the Sacramento River and tributaries that will reduce survival of
+17 juvenile Winter-run Chinook Salmon and Spring-run Chinook Salmon migrating downstream.
+
+18 125. The ITP does not require DWR to ensure Delta outflows sufficient to fully mitigate
+19 impacts to certain CESA-Listed Fish Species and avoid jeopardizing these Species. For example, the
+20 levels of Delta outflow anticipated under the Project place Longfin Smelt and Delta Smelt at great
+21 risk of extinction.
+
+22 126. The ITP allows DWR to operate to reverse flows in Old and Middle River that are
+23 more negative than levels that were previously authorized, causing additional harm to CESA-Listed
+24 Fish Species. For instance, allowing these Old and Middle River reverse flows is likely to is increase
+25 | entrainment and mortality of Longfin Smelt, Delta Smelt, Spring-run Chinook Salmon, and Winter-
+26 run Chinook Salmon, and to reduce the survival of juvenile Winter-run Chinook Salmon and Spring-
+27 run Chinook salmon migrating through the Delta.
+
+28
+
+25
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+127. The ITP fails to sufficiently limit water exports, which will likely worsen entrainment-
+
+2 related impacts for Delta Smelt, Longfin Smelt, Winter-run Chinook Salmon, and Spring-run
+
+3| Chinook Salmon.
+
+4 128. For instance, the ITP allows the Project to increase Delta exports during April and
+5 May and allow DWR to operate to reverse Old and Middle River flows greater than any that have
+
+6 previously been deemed protective of the CESA-Listed Fish Species. These exports and reverse flow
+7 will increase the proportion of the Delta Smelt and Longfin Smelt populations that are entrained each
+
+8 year during the larval and juvenile life stages. The FEIR estimates, for example, that salvage of
+9  Longfin Smelt juveniles and sub-adults will increase by 62 percent, 105 percent, and 195 percent in
+10  below-normal, above-normal, and wet years, respectively.
+
+11 129. The Project as authorized by the ITP also will entrain more juvenile Spring-run
+12 Chinook Salmon and Winter-run Chinook Salmon. For example, the FEIR estimates that Juvenile
+13 Spring-run Chinook Salmon loss will increase by 19 percent and 56 percent in above-normal and wet
+14 years, respectively.
+
+15 130. The ITP fails to ensure that impacts to the CESA-Listed Fish Species are minimized
+16 | and fully mitigated. For instance, the ITP's Conditions of Approval that purportedly restrict water
+
+17 exports and increase Delta outflow are too weak and allow too much discretion to fully mitigate the
+18  impacts from the increased exports that the ITP authorizes. For example, the "collaborative real-time
+
+19 risk assessment" decision-making processes do not describe how the assessments will inform real-
+20 time decision-making, or how that real-time decision-making process will actually avoid or lessen the
+21 Project's impacts on the CESA-Listed Fish Species.
+
+22 131. In some places, the ITP allows for replacing required conditions of approval with
+
+23 undefined voluntary agreements.
+
+24 132. Further, as in the FEIR, the ITP assumes Reclamation's cooperation to meet Old and
+25 Middle River flow requirements, but acknowledges that DWR is responsible only for ensuring its
+
+26
+
+27
+
+28
+
+26
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 proportional share of these requirements. Consequently, the ITP does not ensure that the Conditions
+2 of Approval related to Old and Middle River flow requirements will be successfully implemented.
+
+133. The ITP relies on preexisting mitigation obligations that have not been implemented,
+4| including the completion of 8,800 acres of habitat restoration required by prior permits. The ITP
+
+5 requires an additional 396.3 acres of new habitat restoration as a mitigation measure for impacts to
+6 Longfin Smelt. However, the evidence does not demonstrate that such habitat restoration will
+7 mitigate impacts to Longfin Smelt, and the method used to calculate the amount of habitat restoration
+8 required is not supported by the best available science.
+
+134. DFW failed to comply with its duties under CESA because it fails to explain how the
+10 ITP's mitigation measures will fully mitigate the Project's significant adverse impacts on the CESA-
+11 Listed Fish Species.
+
+12 135. DFW fails to comply with its duties under CESA because it fails to explain how the
+13 Project will not jeopardize the continued existence of the CESA-Listed Fish Species in light of
+14 known population trends and other reasonably foreseeable projects, which includes the operations of
+15 the CVP that the State has already found are not scientifically adequate and fall short of protecting
+16 the CESA-Listed Fish Species and the State's interests.
+
+17 FIRST CAUSE OF ACTION
+
+18 (Violations of CEQA Against DWR and DFW)
+
+19 136. Petitioners reallege and incorporate by reference each and every allegation set forth
+20 above.
+
+21 137. DWR and DFW failed to comply with law and prejudicially abused their discretion in
+22 certifying the FEIR and approving the Project in violation of CEQA, including but not limited to the
+23 following violations:
+
+24 I. Failure to Maintain a Consistent and Accurate Project Description
+
+25 138. CEQA requires agencies to maintain a consistent and accurate project description
+26 throughout the CEQA process.
+
+27
+
+28
+
+27
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+139. The FEIR fails to provide a stable project description for the Long-Term Operations
+2 Project. For example, the FEIR inconsistently describes whether Reclamation's operations of the
+3 CVP are part of the Project. The FEIR simultaneously assumes that DWR and Reclamation will
+
+4 jointly achieve Old and Middle River flow requirements and disclaims responsibility for ensuring that
+5 Reclamation's "proportional share" of these requirements are met.
+
+6 140. The FEIR fails to maintain a consistent and accurate project description by authorizing
+7 DWR to operate to the following Old and Middle River reverse-flow scenarios, then omitting
+8 modeling and analysis of these same flow scenarios:
+O a. Old and Middle River flow levels of negative ("-") 6,250 cfs;
+10 b. Old and Middle River flow levels of -6,000 cfs lasting for longer than 7 days;
+
+11 C. Old and Middle River flow levels of -6,000 cfs in a wet or critically dry water
+
+12 year type;
+
+13 d Old and Middle River flow levels of -6,000 cfs occurring more frequently than
+
+14 once per month in January or February of an above-normal or below-normal
+15 water-year type, or more frequently than once in either January or February in
+
+16 a dry year; and
+
+17 e. Monthly average Old and Middle River flow levels more negative than -3,500
+
+18 cfs in March or April, more negative than -4,061 cfs in May, or more negative
+
+19 than -5,000 cfs in June.
+
+20 141. As a result of its inconsistent project description, the FEIR denies the public and
+21 decision-makers an accurate assessment of the Project's environmental impacts.
+
+22 II. Failure to Consider and Analyze a Reasonable Range of Alternatives
+
+23 142. The FEIR fails to consider and analyze a reasonable range of alternatives. For
+24 example, the FEIR fails to analyze an alternative that would increase protections for the CESA-Listed
+25 Fish Species, despite scientific consensus that increased protections, including increased Delta
+26| inflow, increased Delta outflow, and reduced export-pumping in the Delta at certain times of year, are
+27  necessary to ensure the continued viability of these Species.
+
+28
+
+28
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+143. The FEIR violates CEQA's mandate to describe a reasonable range of project
+2  alternatives that could feasibly attain most of the Project's basic objectives while avoiding or
+3 substantially lessening any significant impacts.
+
+4 III. Failure to Adequately Analyze and Disclose Significant Environmental Impacts
+
+5 144. CEQA requires an EIR to contain sufficient information, analysis, and disclosure to
+6 inform the public and the decisionmakers of a project's direct and indirect impacts on the
+
+7 environment.
+
+8 145. The FEIR for the Long-Term Operations Project fails as an informational document
+
+9 for the following reasons, among others:
+
+10 a. The FEIR's climate-change analysis is inadequate because it considers only
+
+11 projected climate changes centered around the year 2035, thereby ignoring the
+12 fact that the SWP will operate for many decades to come. Because the FEIR
+13 limits its climate-change analysis to 2035, it does not adequately capture
+
+14 cumulative and reasonably foreseeable impacts to the CESA-Listed Fish
+
+15 Species.
+
+16 b. The FEIR fails to adequately disclose the Project's likely environmental
+
+17 impacts on endangered and threatened fish species, including the CESA-Listed
+
+18 Fish Species, during droughts. Through Temporary Urgency Change petitions
+
+19 to the State Water Resources Control Board, DWR and Reclamation have
+
+20 consistently secured changes to waive or weaken protective measures for these
+
+21 and other species during California's recent drought, and will likely do so
+22 again during future droughts. By omitting the impacts of similar waivers in the
+
+23 future on the CESA-Listed Fish Species, the FEIR fails to disclose the
+24 Project's true environmental impacts.
+
+25 C. The FEIR improperly defines the Project's environmental baseline by, for
+
+26 example, including the 2018 Addendum to the Coordinated Operation
+
+27 Agreement in the baseline. The new baseline thereby obscures the Project's
+
+28
+
+29
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+true impact on endangered and threatened species, including the CESA-Listed
+N m + Ut Fish Species, living in the Delta from implementation of the 2018 Addendum
+to the Coordinated Operation Agreement, which was defined as part of the
+Project in the Notice of Preparation.
+
+d. The FEIR uses flawed and incomplete scientific modeling and analysis. For
+
+6 instance, it fails to use credible scientific methods to analyze the impacts of
+
+7 reduced Delta outflow on Longfin Smelt abundance and fails to adequately
+co analyze the Project's entrainment-related impacts on Longfin Smelt population
+
+abundance.
+10 e. The FEIR fails to model all reverse Old and Middle River flow scenarios
+
+11 authorized by the Project. These errors produced an FEIR that underestimates
+
+12 the Project's impact on the CESA-Listed Fish Species.
+
+13 146. These and other analytical flaws cause the FEIR to obscure the Project's true,
+14 significant impacts.
+
+15 IV. Failure to Identify Feasible Mitigation Measures to Avoid or Substantially Lessen
+16 the Project's Significant Adverse Environmental Impacts
+
+17 147. An EIR must describe feasible measures that could minimize project's significant
+18 adverse impacts on the environment, and a public agency may not approve a project as proposed if it
+19  excludes feasible mitigation measures that would substantially lessen the adverse environmental
+
+20 impacts of a project.
+
+21 148. Because DWR erroneously concludes that the Project and all of the alternatives will
+22 cause no significant impacts across each and every fish species in the Delta, the FEIR fails to identify
+23 any feasible or credible mitigation measures that would avoid or substantially lessen the Project's
+24  significant adverse environmental impacts.
+
+25 149. Because both DWR and DFW approved the Project in reliance on the FEIR, both
+26 agencies violated CEQA by failing to identify feasible mitigation measures to lessen the Project's
+27 significant impacts to the CESA-Listed Fish Species.
+
+28
+
+30
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+V. Failure to Adequately Analyze and Consider the Whole of the Action
+
+2 150. CEQA requires that an EIR analyze the impacts of the whole of a project on the
+
+3 environment.
+
+4 151. The FEIR fails to adequately analyze and consider environmental impacts arising from
+5 the whole of the Long-Term Operations Project for the following reasons, among others:
+
+6 a. Failure to analyze the Project's upstream impacts, including with coordinated
+
+7 CVP operations;
+
+8 b. Failure to adequately analyze and consider the effects of implementing the
+2018 Addendum to the Coordinated Operation Agreement; and
+
+10 C. Failure to analyze the CVP's and SWP's coordinated operations.
+
+11 VI. Failure to Accurately Analyze and Disclose the Project's Cumulative Impacts
+
+12 152. An FEIR must fully consider a proposed project's cumulative impacts.
+
+13 153. The FEIR fails to fully analyze and disclose the SWP's cumulative impacts by, for
+14 example, failing to adequately account for impacts to the CESA-Listed Fish Species from the Project
+
+15 in conjunction with the operation of the CVP.
+
+16 154. The FEIR erroneously concludes that the Project's contributions to cumulative
+
+17 impacts are not cumulatively significant. The FEIR admits that SWP operations and other past and
+18 present projects have caused significant cumulative impacts on aquatic resources, including the
+19 CESA-Listed Fish Species.
+
+20 155. Coordinated operations of the SWP and CVP account for more than half of the total
+
+21 water diversions in the Bay-Delta watershed in some years, and the decline of the CESA-Listed Fish
+22 Species has accelerated as combined diversions of the CVP and SWP have increased over the past
+23 several decades. Operations of the two projects adversely impact the CESA-Listed Fish Species, for
+24 example, because they:
+
+25 d. Reduce flow volume to San Francisco Bay;
+
+26 b. Disrupt migration and rearing habitat in the Delta;
+
+27 C. Cause significant direct mortality as a result of entrainment; and
+
+28
+
+31
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+d Release warm water into fish habitat below dams, killing juvenile fish and
+
+eggs.
+
+156. By failing to acknowledge that the SWP's long-term operations contribute
+4 substantially to these adverse impacts, the FEIR fails to adequately analyze and fully disclose the
+5 Long-Term Operations Project's cumulative impacts.
+
+VII. Failure to Support "No Significance" Conclusion with Substantial Evidence
+
+157. An agency abuses its discretion where it issues findings under CEQA that are not
+supported by substantial evidence.
+
+158. The best available science demonstrates that the CESA-Listed Fish Species in the
+10 Delta and its watershed need increased protections. By (a) failing to account for the Project's effects
+11 on reservoir storage, temperature, and release patterns upstream, (b) authorizing inadequate Delta
+12 inflows and outflows, and (c) allowing increased water exports, the Project fails to improve, and in
+13 some cases would worsen, existing conditions for fish species, including the CESA-Listed Fish
+14 Species, that were already declining under the status quo.
+
+15 159. DWR abused its discretion by concluding that the Long-Term Operations Project will
+16 have no significant environmental impacts, since the FEIR's protective measures are inadequate to
+17 render the Project's adverse impacts insignificant.
+
+18 160. DFW abused its discretion by concluding that the Project will have no significant
+19 impacts by relying on DWR's deficient FEIR and the inadequate mitigation measures in the ITP.
+20 These measures may never occur and are insufficient by themselves to prevent further declines and
+21 potential extinction of the CESA-Listed Fish Species.
+
+22 161. DWR's and DFW's findings that the Project will not have significant impacts on the
+23 CESA-Listed Fish Species are not supported by substantial evidence and are therefore an abuse of
+24 discretion.
+
+25 VII. Failure to Re-Circulate the FEIR for Additional Public Review and Comment
+
+26 (DWR only)
+
+27 162. An agency must recirculate an FEIR for additional public review and comment where
+
+28
+
+32
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 the FEIR contains significant new information or changes and/or is so fundamentally inadequate and
+
+2 conclusory that meaningful public review and comment were precluded.
+
+3 163. In the FEIR, DWR adopts and approves a newly created alternative, Refined
+4 Alternative 2b, as the final Long-Term Operations Project. DWR never gave the public the
+5 opportunity to review or comment on this alternative or its underlying analysis. DWR's failure to do
+6 so violated CEQA.
+
+7 164. DWR and DFW's failure to satisfy CEQA's environmental-review requirements
+8 constitutes a prejudicial abuse of discretion and is actionable under California Public Resources Code
+
+9 section 21168 and/or 21168.5 and California Code of Civil Procedure section 1094.5 and/or 1085.
+
+10 165. Petitioners have a clear, present, and beneficial right to the proper performance by
+11 DWR and DFW of their duties as alleged herein. Petitioners are beneficially interested in the
+
+12 issuance of a writ of mandate by virtue of the facts set forth above, in that Petitioners and the general
+13 public will otherwise be adversely affected by DWR and DFW's actions.
+
+14 166. Because DWR and DFW believe their CEQA review was adequate, Petitioners have
+15 no other plain, speedy, or adequate remedy at law. Petitioners are entitled to seek a preemptory writ
+16 of mandate declaring that Respondents have not satisfied the requirements of CEQA and to seek an
+17 order vacating their approvals in furtherance of the Long-Term Operations Project.
+
+18 SECOND CAUSE OF ACTION
+
+19 (Violations of CESA Against DFW)
+20 167. Petitioners reallege and incorporate by reference every allegation set forth above.
+
+21 168. Respondents prejudicially abused their discretion by (1) issuing an ITP to DWR for
+22 the Project without complying with the requirements of CESA; (2) by issuing a decision unsupported
+23 by DFW's factual findings; and (3) by making factual findings not supported by the evidence.
+24 Respondent's prejudicial abuses of discretion include the following:
+
+25
+
+26
+
+27
+
+28
+
+33
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 I. DFW's "No Jeopardy" Conclusion Is Not Supported by the Evidence.
+
+2 169. CESA forbids DFW from issuing an ITP where doing so would jeopardize the
+3 continued existence of a species listed as threatened or endangered under CESA. In making this
+
+4 determination, DFW must support its decision with substantial evidence.
+
+170. DFW failed to support its determination that the ITP, which weakens protections for
+
+6 the CESA-Listed Fish Species, will not jeopardize the continued existence of these Species.
+
+7 171. Populations of the CESA-Listed Fish Species have continued to decline under the
+8 previous set of CESA protections, including those tied to the 2008 and 2009 Biological Opinions.
+
+172. Under adopted Refined Alternative 2b and the ITP, the Long-Term Operations Project
+
+10 will only hasten the continuing decline of the CESA-Listed Fish Species. The ITP authorizes Delta
+11 inflow, Delta outflow, and reverse Old and Middle River flow levels that will adversely impact
+12 CESA-Listed Fish Species.
+
+13 173. The Project's effects on temperatures and flows downstream of the CVP and SWP
+14 reservoirs have not been analyzed, but they are likely to be highly detrimental to the incubating eggs
+15 of CESA-listed Chinook Salmon.
+
+16 174. The mitigation measures in the ITP fail to ensure that the Project's adverse impacts on
+
+17 CESA-Listed Fish Species are fully mitigated.
+
+18 175. The best available scientific information shows that the sharp declines of the CESA-
+19 Listed Fish Species will not be arrested, and their extinction prevented, without increased protections.
+20 Such protections include, among other things, improved temperature and flow conditions downstream
+21 of CVP and SWP reservoirs, increased Delta outflows and Delta inflows, and measures such as
+22 reduced export pumping to reduce entrainment (direct mortality) and indirect mortality of CESA-
+
+23 Listed Fish Species from coordinated pumping by the SWP and CVP in the Delta.
+
+24 176. The evidence shows that the ITP will not only fail to provide these protections, but in
+25 fact will weaken protections for the CESA-Listed Fish Species that have been in place for the last
+26 decade.
+
+27 177. The State has already concluded that operations of the CVP under the federal
+
+28
+
+34
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+Biological Opinions "are not scientifically adequate and fall short of protecting species and the state's
+2 interests."
+
+3 178. Accordingly, in light of the expected continuous adverse impacts on the CESA-Listed
+4  Fish Species and other species from the coordinated operations of the CVP and SWP, and the State's
+
+5 recent findings that Reclamation's operations of the CVP are not scientifically adequate and fall short
+
+6 of protecting those species and the State's interests, the evidence does not support DFW's no-
+7  jeopardy determination or its decision, in issuing the ITP. to allow DWR to catch, capture, and kill
+
+8 these threatened and endangered species as part of the Long-Term Operations Project.
+
+II. DFW's Finding that Conditions in the ITP Will Fully Mitigate Impacts to CESA-
+10 Listed Fish Species Is Not Supported by the Evidence.
+
+11 179. CESA requires DFW to find that mitigation measures fully mitigate and offset the
+12 impacts to CESA-protected species, including the CESA-Listed Fish Species, caused by the Long-
+13 Term Operations Project.
+
+14 180. The best available scientific information shows that the declines in the CESA-Listed
+15 Fish Species as a result of the CVP and SWP operations will not be arrested, and their extinction
+16 prevented, without increased protections. Such protections include improved temperature and flow
+17 controls in Chinook Salmon spawning and rearing habitats below SWP and CVP reservoirs,
+18 increased Delta outflows and Delta inflows, and measures, such as reduced export pumping, to
+19 reduce entrainment in the CVP and SWP export pumping infrastructure (direct mortality) and indirect
+20 mortality for CESA-Listed Fish Species.
+
+21 181. The FEIR finds that the incremental impacts of the Long-Term Operations Project
+22 would worsen conditions for CESA-Listed Fish Species as compared to the environmental baseline.
+23 This finding demonstrates that the ITP's protective measures will fail to fully mitigate adverse
+24 impacts to CESA-Listed Fish Species from the incremental impacts of the Project.
+
+25 182. The ITP fails to ensure that the Project's adverse impacts to the CESA-Listed Fish
+26 Species, including reduced water flows into the Delta, higher upstream water temperatures,
+
+27
+
+28
+
+35
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+entrainment and indirect mortality of CESA-Listed Fish Species related to water exports by the SWP
+2 pumping facilities, and other impacts are fully mitigated.
+
+183. The ITP authorizes Delta inflow, outflow, and Old and Middle River flow levels that
+
+are insufficient to mitigate the impacts to the CESA-Listed Fish Species. Among other flaws, the ITP
+5  determines that DWR is responsible only for mitigating its "proportional share" of the impacts of the
+6 Project, which fails to meet CESA's obligation for state agencies "to conserve, protect, restore, and
+
+7 enhance any endangered species or any threatened species and its habitat."
+
+8 184. In addition to failing to fully mitigate the incremental impacts of the Project on CESA-
+
+9 Listed Fish Species as compared to the environmental baseline, the ITP also fails to fully mitigate the
+10| impacts that result from the operations of the State Water Project as a whole.
+
+11 185. The mitigation measures described in the ITP are inadequate, vague, and
+12 unenforceable, and therefore fail to ensure that the Project's adverse impacts on CESA-Listed Fish
+13 Species are fully mitigated. For example, as in the FEIR, DFW relies on Reclamation to voluntarily
+14 meet its proportional share of requirements. However, because Reclamation will operate under the
+15 parameters set by the 2019 Biological Opinions, which impose no limit on the magnitude of reverse
+16 Old and Middle River flows, there is no evidence that Reclamation will meet its proportional share of
+17  these ITP requirements.
+
+18 186. Accordingly, the evidence does not support DFW's findings that the Conditions of
+19 Approval in the ITP are sufficient to minimize and fully mitigate the Project's impacts to CESA-
+20 Listed Fish Species pursuant to Fish and Game Code section 2081(b)(2).
+
+21 187. DFW's failure to satisfy its CESA obligations constitutes a prejudicial abuse of
+
+22 discretion and is actionable under California Code of Civil Procedure section 1094.5 and/or 1085.
+
+23 188. a Petitioners have a clear, present, and beneficial right to the proper performance by
+24 DFW of its duties as alleged herein. Petitioners are beneficially interested in the issuance of a writ of
+25 mandate by virtue of the facts set forth previously, in that Petitioners and the general public will
+26 otherwise be adversely affected by DFW's actions.
+
+27
+
+28
+
+36
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 189. Because DFW believes its actions under CESA were sufficient, Petitioners have no
+2 other plain, speedy, or adequate remedy at law. Petitioners are entitled to seek a preemptory writ of
+3 mandate declaring that DFW has not satisfied the requirements of CESA and to seek an order
+
+4 vacating its approval in furtherance of the Long-Term Operations Project, including the Project's
+
+5 ITP.
+
+6 PRAYER FOR RELIEF
+
+7 WHEREFORE, Petitioners pray for the following relief:
+
+8 1. A peremptory writ of mandate:
+
+9 (i) Declaring that Respondents DWR and DWR have violated CEQA in certifying
+
+10 an inadequate and unlawful FEIR;
+
+11 (ii) Ordering DWR and DFW to vacate and set aside their approvals in furtherance
+
+12 of the Long-Term Operations Project, including their CEQA Findings,
+
+13 certification of the FEIR, and Notice of Determination, unless and until the
+
+14 Project is brought into full compliance with CEQA and CESA; and
+
+15 (iii) Enjoining any and all activity in reliance on the FEIR until Respondents fully
+
+16 comply with CEQA;
+
+17 2. A peremptory writ of mandate:
+
+18 (i) Declaring that Respondent DFW has violated CESA;
+
+19 (üi) Ordering DFW to set aside its approvals in furtherance of the Long-Term
+20 Operations Project, including its ITP, unless and until the Project is brought
+
+21 into full compliance with CEQA and CESA; and
+
+22 (iii) Enjoining any and all activity in reliance on the ITP until Respondent DFW
+
+23 fully complies with CESA;
+
+24 3. For costs of suit, including but not limited to reasonable attorney's fees; and
+
+25 4. For all such other equitable and legal relief that the Court deems just and proper.
+
+26
+
+27
+
+28
+
+37
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+.1 DATED: June 5, 2020 ENVIRONMENTAL LAW CLINIC
+Mills Legal Clinic at Stanford Law School 2
+
+By: Dullu Surar
+DEBORAH A. SIVAS
+MATTHEW J. SANDERS
+0O Attorneys for Petitioners
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+38
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+,1 VERIFICATION
+
+2 I, Matthew J. Sanders, declare that:
+
+1. am an attorney at law duly admitted and licensed to practice to before all courts of this
+
+4 State. I have my professional office at Stanford Law School, 559 Nathan Abbott Way, Stanford,
+
+5 California, 94305.
+
+2. I one of the attorneys for Petitioners San Francisco Baykeeper, The Bay Institute,
+
+7 Natural Resources Defense Council, Inc., Golden State Salmon Association, and Defenders of
+Wildlife. Iam signing this verification because such parties and their representatives are absent from
+the county in which my office is located, and because facts in the Verified Petition for Writ of
+10 Mandate are within my knowledge.
+
+11 3. have read the foregoing Verified Petition for Writ of Mandate and know the contents
+12 thereof. The factual allegations therein are true of my own knowledge, except as to those matters that
+13 are therein alleged on information and belief, and as to those matters, I believe them to be true.
+
+14 I declare under penalty of perjury under the laws of the State of California that the foregoing
+15 is true and correct. Executed this 5th day of June, 2020, in Menlo Park, California.
+
+16
+
+17
+
+18 MatthwIsard
+MATTHEW J. SANDERS
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+39
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+EXHIBIT A
+
+!
+••
+
+:
+
+1•
+
+EXHIBIT A
+
+Environmental Law Clinic
+
+Crown Quadrangle 559 Nathan Abbolt Way Stanford. CA 94305-8610 MillsLegalClinic Tel 650 725-8571
+Fax 650 723-4426
+www.law.stanford.edu nfordLawSchool June 5, 2020
+
+Via First Class Mail
+
+Karla Nemeth, Director
+California Department of Water Resources 6*•. PO Box 942836
+Sacramento, CA 94236-0001
+
+Charlton H. Bonham, Director
+California Department of Fish and Wildlife
+P.O. Box 944209
+Sacramento, CA 94244-2090
+
+Re: Notice of Intent to File CEQA and CESA Petition
+
+Dear Director Nemeth and Director Bonham:
+
+Pursuant to California Public Resources Code § 21167.5, please take notice that San Francisco Baykeeper, The Bay Institute, Natural Resources Defense Council, Inc., Golden State Salmon Association, and Defenders of Wildlife intend to commence an action in the Superior
+Court of California for the County of Alameda under the California Environmental Quality Act
+("CEQA") against the Department of Water Resources ("DWR") and the California Department of Fish and Wildlife ("DFW"), and under the California Endangered Species Act ("CESA") against DFW, concerning DWR's and DFW's approvals of the project known as the Long-Term Operation of the State Water Project (*Project") and DFW's Incidental Take Permit No. 2081-
+2019-066-00 ("ITP") for the Project. DWR certified the Final Environmental Impact Report for the Project on March 27, 2020, and filed a Notice of Determination with the Office of Planning
+and Research on March 30, 2020.
+
+The petition for writ of mandate filed in this action will allege, among other things, that DWR and DFW failed to properly follow CEQA's procedures and requirements including, but
+not limited to: failure to maintain a consistent and adequate Project description, failure to analyze
+
+Project's significant adverse environmental impacts, failure to adequately analyze and consider a reasonable range of alternatives, failure to analyze and disclose significant environmental
+impacts, failure to identify feasible mitigation measures to avoid or substantially lessen the
+
+the whole of the action, failure to adequately analyze and disclose the Project's cumulative
+impacts, failure to support the "no significance" conclusion with substantial evidence, and, as to DWR only, failure to recirculate the Final Environmental Impact Report for additional public
+review and comment.
+
+The petition will also allege, among other things, that, under CESA, DFW's "no jcopardy" conclusion, as well as its conclusion that conditions in the ITP will fully mitigate impacts to CESA-listed fish species, are not supported by the evidence.
+
+Community Law & Criminal Defense Environmental Law + Immigrants' Rights * International Human
+Rights and Conflict Resolution * Intellectual Property and Innovation * Organizations and Transactions
+Religious Liberty + Supreme Court Litigation * Youth and Education Law Project
+
+Karla Nemeth, Director, DWR Page 2
+Charlton H. Bonham, Director, DFW
+June 5, 2020
+
+The petition will seek, among other things, a peremptory writ of mandate declaring that DWR and DFW have violated CEQA and CESA and vacating and setting aside the Project's
+approvals, including the findings that the Project satisfies CEQA's and CESA's requirements,
+until the Project is brought into full compliance with CEQA and CESA.
+
+Please contact us if you require further information.
+
+Sincerely,
+
+Dulles Saue
+Deborah A. Sivas
+Matthew J. Sanders
+
+EXHIBIT B -...-
+
+EXHIBIT B
+
+Environmental Law Clinit
+
+Crown Quadrangle StanfordLawSchool MillsLegalClinic 559 Nathan Abbolt Way Stanford. CA 94305-6610
+Te! 650 725-8571 June 5, 2020
+Fax 650 723-4426
+www.iaw.siamford.edu Via First Class Mail
+
+California Attorney General
+1300 I Street
+Sacramento, CA 95814-2919
+
+Re: Notice of Intent to File CEQA and CESA Petition
+
+To Whom it May Concern:
+
+Pursuant to California Public Resources Code 8 21167.7 and California Code of Civil
+Procedure § 388, please take notice that San Francisco Baykeeper, The Bay Institute, Natural Resources Defense Council, Inc., Golden State Salmon Association, and Defenders of Wildlife intend to commence an action in the Superior Court of California for the County of Alameda
+under the California Environmental Quality Act ("CEQA") against the Department of Water Resources ("DWR") and the California Department of Fish and Wildlife ("DFW"), and under the California Endangered Species Act ("CESA") against DFW, concerning DWR's and DFW's approvals of the project known as the Long-Term Operation of the State Water Project
+("Project") and DFW's Incidental Take Permit No. 2081-2019-066-00 ("ITP") for the Project.
+DWR certified the Final Environmental Impact Report for the Project on March 27, 2020, and
+filed a Notice of Determination with the Office of Planning and Research on March 30, 2020.
+
+The petition for writ of mandate filed in this action, a copy of which is enclosed with this letter, will allege, among other things, that DWR and DFW failed to properly follow CEQA's procedures and requirements including, but not limited to: failure to maintain a consistent and adequate Project description, failure to analyze a reasonable range of alternatives, failure to analyze and disclose significant environmental impacts, failure to identify feasible mitigation
+measures to avoid or substantially lessen the Project's significant adverse environmental impacts, failure to adequately analyze and consider the whole of the action, failure to adequately analyze and disclose the Project's cumulative impacts, failure to support the "no significance" conclusion
+with substantial evidence, and, as to DWR only, failure to recirculate the Final Environmental Impact Report for additional public review and comment.
+The petition will also allege, among other things, that, under CESA, DFW's "no jeopardy" conclusion, as well as its conclusion that conditions in the ITP will fully mitigate impacts to CESA-listed fish species, are not supported by the evidence.
+The petition will seek, among other things, a peremptory writ of mandate declaring that DWR and DFW have violated CEQA and CESA and vacating and setting aside the Project's
+approvals, including the findings that the Project satisfies CEQA's and CESA's requirements, until the Project is brought into full compliance with CEQA and CESA.
+
+Community Law • Criminal Defense + Environmental Law & Immigrants' Rights * International Human
+Rights and Conflict Resolution * Intellectual Property and Innovation * Organizations and Transactions
+Religious Liberty + Supreme Court Litigation + Youth and Education Law Project
+
+California Attorney General Page 2
+June 5, 2020
+
+Please contact us if you require further information.
+
+Sincerely,
+
+Dullu Suan
+Deborah A. Sivas
+Matthew J. Sanders
+
+PECEIVE
+JUN : 2020
+
+BY:________

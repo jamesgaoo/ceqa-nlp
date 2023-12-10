@@ -1,0 +1,964 @@
+William P. Parkin, SBN 139718
+
+2 Yuchih Pearl Kan, SBN 294563
+Antoinette Ranit, SBN 327711
+
+3 WITTWER PARKIN LLP
+335 Spreckels Dr., Ste. H
+
+4 Aptos, CA 95003
+Telephone: (831) 429-4055
+Facsimile: (831) 429-4057
+5 wparkin@wittwerparkin.com
+pkan@wittwerparkin.com
+6 aranit@wittwerparkin.com
+
+7 Attorneys for Petitioner
+
+8 EAST MEADOW ACTION COMMITTEE
+
+9 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+10 COUNTY OF SANTA CRUZ
+
+11
+
+12 EAST MEADOW ACTION COMMITTEE. an Case No.:
+unincorporated association,
+
+13 Petitioner, NOTICE TO ATTORNEY GENERAL
+
+14 VS. [CEQA CASE]
+
+15 REGENTS OF THE UNIVERSITY OF
+CALIFORNIA: UNIVERSITY OF
+16 CALIFORNIA, SANTA CRUZ, and DOES
+
+17 THROUGH 15,
+
+18 Respondents
+
+CAPSTONE DEVELOPMENT PARTNERS
+19 LLC; COLLEGIATE HOUSING
+
+20 FOUNDATION, and DOES 16 THROUGH
+30,
+
+21 Real Parties in Interest.
+
+22
+
+23
+
+NOTICE TO ATTORNEY GENERAL
+nd
+
+.*
+
+2 To the Attorney General of the State of California:
+
+3 PLEASE TAKE NOTICE, under Public Resources Code Section 21167.7, and Code of
+
+4 Civil Procedure Section 388, that on April 15, 2021, Petitioner East Meadow Action Committee
+
+5 filed a Petition for Writ of Mandamus against Respondents Regents of the University of
+
+6 California and University of California, Santa Cruz in the above referenced Court.
+
+7 The Petition alleges that Respondents violated the California Environmental Quality Act
+
+8 when reapproving the Student Housing West project, and a Statement of Overriding
+
+9 | Considerations and Mitigation and Monitoring Reporting Program. The Petition further names
+
+10 Capstone Development Partners LLC and the Collegiate Housing Foundation as Real Parties in
+
+11 Interest.
+
+12 A copy of the Petition for Writ of Mandamus is enclosed herewith.
+
+13
+WITTWER PARKIN LLP
+14 Dated: April 15, 2021
+
+15 By:
+
+16 William P. Parkin
+Attorneys for Petitioner
+17 EAST MEADOW ACTION
+COMMITTEE
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+NOTICE TO ATTORNEY GENERAL
+2
+
+PROOF OF SERVICE BY MAIL
+
+2
+certify and declare as follows:
+3
+I am over the age of 18, and not a party to this action. My business address is 335 4
+
+5 Spreckels Drive, Suite H, Aptos, California which is located in Santa Cruz County where the
+mailing described took place.
+6
+I am familiar with the business practice at my place of business for the collection and 7
+processing of correspondence for mailing with the United States Postal Service. Correspondence 8
+so collected and processed is deposited with the United States Postal Service that same day in the 9
+ordinary course of business.
+10
+On April 15, 2021, the following document(s):
+11
+1. Notice to Attorney General 12 2. Petition for Writ of Mandamus
+
+13 Was placed for deposit in the United States Postal Service in a sealed envelope, with postage
+
+14 fully paid to:
+
+15 Attorney General of the State of California
+1300 "I" Street
+16 Sacramento, CA 95814
+
+17 I certify and declare under penalty of perjury that the forgoing is true and correct.
+
+18
+
+19 Dated: April 15, 2021
+Debbie Downing
+20
+
+21
+
+22
+
+23
+
+NOTICE TO ATTORNEY GENERAL
+
+William P. Parkin, SBN 139718
+
+2 Yuchih Pearl Kan, SBN 294563 Antoinette Ranit, SBN 327711
+3 WITTWER PARKIN LLP
+335 Spreckels Dr., Ste. H
+4 Aptos, CA 95003
+
+5 Telephone: (831) 429-4055
+Facsimile: (831) 429-4057
+6 wparkin@wittwerparkin.com /l pkan@wittwerparkin.com
+7 aranit@wittwerparkin.com
+
+8 Attorneys for Petitioner
+9 EAST MEADOW ACTION COMMITTEE
+
+10
+
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+12 COUNTY OF SANTA CRUZ
+
+13
+
+14 EAST MEADOW ACTION COMMITTEE, an Case No.:
+unincorporated association,
+15 Petitioner, VERIFIED PETITION FOR WRIT OF 16
+VS. MANDAMUS
+
+17 REGENTS OF THE UNIVERSITY OF [CEQA CASE]
+18 CALIFORNIA; UNIVERSITY OF
+CALIFORNIA, SANTA CRUZ, and DOES -
+19 THROUGH 15,
+
+20 Respondents,
+21 CAPSTONE DEVELOPMENT PARTNERS
+22 LLC; COLLEGIATE HOUSING
+
+23 FOUNDATION, and DOES 16 THROUGH
+30,
+24
+
+25 Real Parties in Interest.
+
+26
+
+27
+
+28
+
+2 INTRODUCTION
+
+3 1. On March 14, 2019, the Regents of the University of California ("Regents"),
+
+4 approved the design of the Student Housing West Project and the Santa Cruz campus Long-
+
+5 Range Development Plan Amendment Number 2 to the University of California Santa Cruz
+
+6 2005 Long Range Development Plan to change the land use designation of 17 acres of Campus
+
+7 Resource Land to Colleges and Student Housing, Certified an Environmental Impact Report
+
+8 ("EIR") (SCH No. 2017092007), adopted California Environmental Quality Act findings and a
+
+9 statement of overriding considerations, and adopted a Mitigation and Monitoring Reporting
+
+10 Program ("Project") on behalf of the Project Applicant, University of California Santa Cruz
+
+11 ("UCSC"). The Project involves a "public-private partnership" between the University of
+
+12 California and two out-of-state Real Parties in Interest from Alabama.
+
+13 2. The UCSC Main Campus is located in the "Westside" neighborhood of the City
+
+14 of Santa Cruz, California. The Project, as approved, includes construction of student housing
+
+15 at two sites on campus, the "Hagar Site" and the "Heller Site."
+
+16 3. Respondents plan to build the Hagar Site in the heart of the iconic UCSC East
+
+17 Meadow. It is impossible to overstate the importance of the East Meadow to the symbolism
+
+18 and culture of UCSC or its value to UCSC staff, alumni, and visitors. Since the inception of
+
+19 UCSC, the East Meadow has stood as an iconic gateway to UCSC and embodies the values and
+
+20 beauty of the UCSC Main Campus. Preservation of the East Meadow was a fundamental
+
+21 consideration of the original design of the campus. Thomas D. Church, the famous landscape
+
+22 architect who designed the UCSC Main Campus and helped create the original 1963 Long
+
+23 Range Development Plan for this campus stated, "the great meadow toward the south of the
+
+24 campus should not be built upon [and] that the first buildings to be encountered entering the
+
+25 site would be at the crest of the hill where the trees begin." This driving principle has formed
+
+26 the foundation of UCSC's land use planning and policies since the creation of the first Long
+
+27 Range Development Plan in 1963. The 2005 Long Range Development Plan further
+28 recognizes, "The 'Great Meadow,' stretching between Hagar Drive and Empire Grade, has
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+2
+
+become a cherished campus symbol, a spectacular foreground to the center campus."
+
+2 4. In addition to its natural beauty, the UCSC East Meadow serves as important
+habitat for dozens of coastal plant and animal species. The UCSC East Meadow contains 80
+
+4 acres of rare coastal prairie grassland, including purple needlegrass, which is classified as a
+
+5 rare and sensitive natural community. Many other native coastal plant and animal species rely
+
+6 on and can regularly be seen in this relatively undisturbed habitat.
+
+7 5. The Project proposes to permanently destroy 17.1 acresover twenty percent-
+
+8 of the East Meadow and indirectly infringing upon and damaging the remainder of this
+9 meadow, to construct a small amount of family-student housing. Adding insult to injury, this
+10 small amount of housing is to be pre-fabricated. The Regents and UCSC ("Respondents")
+11 recognized the severe impacts of this choice, while also noting the immeasurable aesthetic
+12 value of this location and its importance to life at UCSC, finding that aesthetic impacts to this
+
+13 meadow will be "significant and unavoidable." Sadly, the proposed loss of the East Meadow
+14 comes at an absurdly lopsided cost, as development of the currently undisturbed Hagar Site
+15 will comprise roughly 57 percent of the total Project area but will only create less than five
+
+16 percent of total Project housing. Specifically, whereas the Heller Site would provide
+
+17 approximately 2,900 beds for student housing on 13 acres of land, the Hagar Site would only
+
+18 provide 140 beds on 17.1 acres of land. Regardless, Respondents elected to bulldoze the East
+
+19 Meadow, choosing to trade this iconic gateway and symbol of UCSC for a few beds that could
+20 be placed in a more reasonable location. Cynically, Respondents created a Hobson's Choice,
+
+21 shaping their review of the Project to preordain destruction of the East Meadow, while
+
+22 studiously refusing to truly consider feasible alternatives to the Project that would avoid the
+
+23 destruction of the UCSC East Meadow.
+
+24 6. On October 30, 2020, this Court filed a judgment and writ of mandate ordering
+25 Respondents to set aside the March 14, 2019 adoption of CEQA Findings and Statement of
+26 Overriding Considerations approving the Project and the Mitigation Monitoring and Reporting
+27 Program for the Project, and approval of the design of the Project. On March 18, 2021, the
+
+28 Regents reapproved the design of the Project.
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+3
+
+1 7. Petitioner East Meadow Action Committee (*Petitioner") challenges the
+
+2 reapproval of the Project on the grounds that the Project does not comply with the California
+
+3 Environmental Quality Act ("CEQA"-Pub. Resources Code § 21000 et seq.) because, inter
+
+4 alia, the Respondents failed to adequately consider feasible alternatives to the Project and
+
+5 skewed the Project reapproval to the detriment of viable alternatives.
+
+6 8. On March 18, 2021, Respondent Regents filed a Notice of Determination, and,
+
+7 pursuant to Public Resources Code Section 21167, this action was filed within 30 days thereof.
+
+8 II
+
+9 PARTIES
+
+10 ,9. Petitioner hereby incorporates by reference Paragraphs 1 through 8 as if fully
+
+11 set forth herein.
+
+12 10. East Meadow Action Committee is an unincorporated association of current and
+
+13 former UCSC staff, students, and alumni, as well as residents and taxpayers of and within the
+
+14 City of Santa Cruz and the County of Santa Cruz. Petitioner East Meadow Action Committee
+
+15 has a strong interest in the preservation of the environment, and, as its namesake specifies,
+
+16 especially the protection of the UCSC East Meadow. Members of Petitioner East Meadow
+
+17 Action Committee reside in the City of Santa Cruz and in the County of Santa Cruz, and
+
+18 include residents affected by the Project and whose interests will be adversely affected by the
+
+19 violations of CEQA. Petitioner and its members submitted comments on the Project that
+20 addressed the inadequacies of Respondents' environmental review.
+
+21 11. Respondent Regents of the University of California is public trust corporation
+
+22 and state agency established pursuant to Article IX, section 9, of the California Constitution,
+
+23 and is vested with administering the University of California. On March 18, 2021, Respondent
+
+24 Regents of the University of California, reapproved the Project and adopted a Statement of
+
+25 Overriding Considerations.
+
+26 12. Respondent University of California, Santa Cruz is listed as the Project
+
+27 Applicant in the Notice of Determination. Respondent Regents of the University of California
+
+28 have created several University of California campuses, including the University of California,
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+
+Santa Cruz. Upon information and belief, all University of California Campuses, including the
+
+2 University of California, Santa Cruz, are subsumed entities of Respondent Regents of the
+
+3 University of California.
+
+4 13. The true names and capacities, whether individual, corporate, or otherwise, of
+
+5 1 Does 1 through 15, are unknown to Petitioner who therefore sues said Respondents by such
+
+6 fictitious names and will seek leave to amend this Petition for Writ of Mandamus when their
+
+7 identities have been ascertained.
+
+8 14. Petitioner is informed and believes that at all times herein alleged, Respondents
+
+9 and each of them were the agents and employees of each of the remaining Respondents and
+
+10 while doing the things herein alleged, were acting within the course and scope of such agency
+
+11 and employment.
+
+12 15. Real Party in Interest Capstone Development Partners LLC is a limited liability
+
+13 corporation based in the State of Alabama and registered to conduct business in the State of
+
+14 California. Real Party in Interest Capstone Development Partners LLC was identified in the
+
+15 Notice of Determination as one of two parties undertaking the Project. Capstone Development
+16 Partners LLC is properly named as a Real Party in Interest pursuant to Public Resources Code
+
+17 section 21167.6.5(a), which states Petitioner shall name as a Real Party in Interest any person
+18 or persons identified in the Notice of Determination filed by Respondent Regents.
+
+19 16. Real Party in Interest Collegiate Housing Foundation is a non-profit 501(c)(3)
+20 tax-exempt organization. On information and belief, Real Party in Interest Collegiate Housing
+
+21 Foundation is headquartered and maintains its principal place of business in Fairhope,
+
+22 Alabama. Real Party in Interest Collegiate Housing Foundation was identified in the Notice of
+
+23 Determination as one of two parties undertaking the Project. Collegiate Housing Foundation is
+
+24 properly named as a Real Party in Interest pursuant to Public Resources Code section
+25 21167.6.5(a), which states Petitioner shall name as a Real Party in Interest any person or
+
+26 persons identified in the Notice of Determination filed by Respondent Regents.
+
+27 17. The true names and capacities, whether individual, corporate, or otherwise, of
+
+28 Does 16 through 30, are unknown to Petitioner who therefore sues said Real Parties in Interest
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+5
+
+by such fictitious names and will seek leave to amend this Petition for Writ of Mandamus
+
+2 when their identities have been ascertained.
+
+3 18. Petitioner is informed and believes that at all times herein alleged, Real Parties
+
+4 in Interest and each of them were the agents and employees of each of the remaining Real
+
+5 Parties in Interest and while doing the things herein alleged, were acting within the course and
+
+6 scope of such agency and employment.
+
+7 II
+
+8 STANDING
+
+9 19. Petitioner hereby incorporates by reference paragraphs 1 through 18 as if fully
+
+10 set forth herein.
+
+11 20. Reapproval of the Project will adversely affect the interests of Petitioner East
+
+12 Meadow Action Committee. Petitioner East Meadow Action Committee is an unincorporated
+
+13 association of current and former UCSC staff, students, and alumni, as well as residents and
+
+14 taxpayers of and within the City of Santa Cruz and the County of Santa Cruz. Petitioner East
+
+15 Meadow Action Committee has a strong interest in the preservation of the environment, and
+
+16 especially the protection of the UCSC East Meadow. Members of Petitioner East Meadow
+
+17 Action Committee reside in the City of Santa Cruz and in the County of Santa Cruz, and
+
+18 include residents affected by the Project and whose interests will be adversely affected by the
+
+19 violations of CEQA. Reapproval of the Project and approval of the Statement of Overriding
+
+20 Considerations will adversely affect these interests of Petitioner East Meadow Action
+
+21 Committee and its members. Members and representatives of Petitioner East Meadow Action
+
+22 Committee, on behalf thereof, have submitted comments on and objections to the lack of
+
+23 compliance with CEQA during the administrative proceedings where the Project was
+
+24 considered. Accordingly, Petitioner East Meadow Action Committee is an "aggrieved person"
+
+25 within the meaning of Public Resources Code § 21177. The claims asserted and relief
+
+26 requested are broad-based, so that participation in the litigation by individual members is not
+
+27 required.
+
+28 21. Jurisdiction of this Court is invoked pursuant to California Code of Civil
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+6
+
+Procedure §§ 1085 and 1094.5; California Public Resources Code § 21167; CEQA Guidelines
+
+2 § 15112; the Constitution of the State of California; the Constitution of the United States; and
+
+3 other applicable laws and regulations.
+
+IV
+
+EXHAUSTION OF ADMINISTRATIVE REMEDIES
+
+6 22. Petitioner hereby incorporates by reference paragraphs 1 through 21 as if fully
+
+7 set forth herein.
+
+8 23. Petitioner has performed all conditions precedent to the filing of this Petition by
+9 themselves or others, raising each and every issue known to them before Respondents, in
+10 compliance with Public Resources Code § 21177, Code of Civil Procedure §§ 1085 and
+
+11 1094.5, and other applicable laws.
+
+12 24. Notice of the filing of this action as required by Public Resources Code §
+13 21167.5 was mailed to Respondent on April 15, 2021. (Letter and Proof of Service are
+
+14 attached hereto as Exhibit "A.")
+
+15 V
+
+16 FIRST CAUSE OF ACTION
+
+17 Violation of the California Environmental Quality Act [Public Resources Code § 21000 et seq.J
+18 25. Petitioner bereby incorporates by reference paragraphs 1 through 24 as if fully
+19 set forth herein.
+20 26. Respondents' reapproval of the Project constitutes an abuse of discretion
+21 because, inter alia, Respondents failed to adequately consider feasible alternatives to the
+22 Project, and the Regents of the University of California failed to consider and make proper
+23 findings regarding feasible alternatives that would avoid significant and unavoidable impacts to
+24 the iconic East Meadow.
+25 27. CEQA requires Respondents to consider a reasonable range of feasible
+26 alternatives. (Pub. Resources Code § 21002.) Far from being an esoteric or academic exercise,
+27 the alternatives analysis is supposed to serve both the informational and substantive purposes
+28
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+7
+
+1 of CEQA. In particular, it is impermissible for Respondents to approve the Project if there are
+
+2 feasible alternatives or mitigation measures that serve to lessen the significant impacts of the
+Project. (Pub. Resources Code § 21002.) Failure to adequately evaluate Project alternatives
+
+4 violates CEQA. Here, Respondents failed these mandates of CEQA, inter alia, because
+
+5 Respondents failed to adequately consider a reasonable range of feasible alternatives that
+
+6 would have reduced or avoided the significant environmental impacts of the Project, including
+
+7 to the UCSC East Meadow; Respondents presented only "straw" alternatives to the Project that
+
+8 Respondents designed specifically for rejection; and Respondents otherwise skewed and
+9 misstated the analysis of Project alternatives in a manner that misinformed the public and
+10 improperly foreclosed adoption of these less impactful alternatives.
+
+11 28. The Regents were ordered to set aside certain Project approvals because the
+12 financial information was reviewed after Project approval and was not included in the record
+13 because the University claimed it was confidential. Again, the financial information was not
+14 timely available for review as part of the agenda packet for the Regents' meeting of March 17-
+15 18, 2021. It was purportedly provided to the Board of Regents but was not available to the
+16 public. The information was initially intended to be confidential. The memorandum to the
+
+17 Board of Regents states in all caps that the materials "CONFIDENTIAL: NOT FOR PUBLIC
+18 DISTRIBUTION." The lack of transparency has affected public participation and hindered
+
+19 EMAC's arguments regarding the financial analysis.
+
+20 29. The cost analysis adds the extension of utilities to certain alternatives (North
+
+21 Remote Site, East Campus Infill, Ranch View Terrace, Arboretum and West Empire Grade)
+
+22 when utilities must also be extended to the East Meadow, but the Project cost simply says that
+23 such infrastructure is "included in site." Additional escalation costs were applied to
+
+24 alternatives which improperly inflated the cost of alternatives. Additional contingencies were
+25 added to the alternatives that improperly inflated costs over and above the contingencies in the
+
+26 Project on the basis that the site and conditions of the Project are well know. Opportunity costs
+27 are improperly added into the cost of alternatives, which are actually the costs already "sunk"
+28 into the Project. Finance costs of 23.1% were applied to the Project and the alternatives, alike.
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+8
+
+1 However, because the alternatives were increased inappropriately, the 23.1% exacerbates the
+
+2 cost disparity. Soft costs of 9.6% were applied to the Project and alternatives. However, again
+
+3 because the alternatives were improperly inflated, the 9.6% for soft costs exponentially
+
+4 increases the error. Thus, the cost comparisons are erroneous as a matter of law. The premise
+of the inflated costs for the alternatives is that the Project is frozen in its proposed form and
+
+6 cannot be changed without incurring such costs. However, the California Supreme Court has
+
+7 held in its Laurel Heights decision:
+
+8 A basic tenet of CEQA is that an environmental analysis "should be prepared as early
+9 as feasible in the planning process to enable environmental considerations to influence
+project program and design and yet late enough to provide meaningful information for
+10 environmental assessment." [Citation.] .... We agree that environmental resources and the public fisc may be ill served if the environmental review is too early. On the other
+11 hand, the later the environmental review process begins, the more bureaucratic and
+
+12 financial momentum there is behind a proposed project, thus providing a strong incentive to ignore environmental concerns that could be dealt with more easily at an
+13 early stage of the project. This problem may be exacerbated where, as here, the public agency prepares and approves the EIR for its own project. For that reason, "EIRs
+14 should be prepared as early in the planning process as possible to enable environmental
+
+15 considerations to influence project, program or design." [Citation.] The University's own "Procedures for Implementation of the California Environmental Quality Act"
+16 state, "... in planning for each University project, environmental concerns are taken into account as early as possible .. to influence project program and design."
+17 Laurel Heights Improvement Assn. V. Regents of University of California (1988) 47 Cal.3d 376,
+18 395. Increasing the costs of the alternatives because the University has done work for the
+19 proposed Project is not an "apples to apples" comparison, which in turn is exacerbated by the
+20 financing and soft cost percentages, violates the Supreme Court's holding in Laurel Heights.
+21
+30. CEQA and relevant caselaw further mandate that Respondents adopt all CEQA
+22 findings prior to the approval of the Project. (14 Cal. Code Regs. § 15091.) Crucially,
+23 Respondent Regents, as the lead agency according to CEQA, was required to find whether
+24 there were any feasible alternatives or mitigation measures that would serve to reduce the
+25 significant impacts of the Project on the environment. (14 Cal. Code Regs. § 15091(a)(3).)
+26
+31. Further complicating the findings of infeasibility, the Draft 2021 LRDP and
+27 Draft 2021 LRDP EIR have been released for public review and comment. To accommodate
+28
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+9
+
+r student population growth, the LRDP calls for areas for development that the Regents'
+
+2 Statement of Overriding Considerations state are infeasible for development of student
+
+3 housing. If development in these areas, and other areas that have not been considered as part
+
+4 of the Project, are now being proposed for development, then the finding of infeasibility cannot
+
+5 be made. The alternatives must be truly infeasible City of Marina v. Board of Trustees of
+
+6 California State University (2006) 39 Cal. 4th 341, 368-369; see also County of San Diego v.
+
+7 Grossmont-Cuyamaca Community College Dist. (2006) 141 Cal.App.4th 86, 98, 108, fn.18.
+
+8 The Regents cannot make findings that student housing in specific locations is infeasible while
+
+9 at the same time in a parallel proceeding finding those same locations to be feasible for exactly
+10 the same purpose. It is noteworthy that increased costs for the North Remote Site were added
+
+11 forest clearance, a fire access road and extending utilities, and East Campus Infill requires
+
+12 added grading. However, if these sites are being developed under the proposed 2021 LRDP,
+13 these costs are going to be incurred in any event.
+
+14 32. Furthermore, even if the findings could be made, the Project cannot be
+15 reapproved without further environmental review due to the pending approval of the 2021
+16 LRDP which will develop areas that the findings conclude are infeasible. The proposed new
+
+17 LRDP opens a panoply of options for the housing that is proposed for the East Meadow.
+18 Public Resources Code section 21166 states as follows:
+
+19 When an environmental impact report has been prepared for a project pursuant to this
+
+20 division, no subsequent or supplemental environmental impact report shall be required by the lead agency or by any responsible agency, unless one or more of the following
+21 events occurs:
+
+22 (a) Substantial changes are proposed in the project which will require major revisions of the environmental impact report. 23 (b) Substantial changes occur with respect to the circumstances under which the project
+24 is being undertaken which will require major revisions in the environmental impact report.
+25 (c) New information, which was not known and could not have been known at the time the environmental impact report was certified as complete, becomes available. 26
+
+27 Subsection (b) and (c) apply to the Project. See also, 14 Cal. Code Regs. 15162. Therefore,
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+10
+
+1 the Project cannot be reapproved without further environmental review due to the expansion of
+
+2 development into areas that were not considered by the Project. Moreover, this is a substantial
+
+3 change in circumstances and new information that was not available at the time the Project was
+
+4 first approved.
+
+5 33. The failure to analyze the impact of additional development contemplated under
+
+6 the new LRDP is segmentation or piecemeal environmental review. The CEQA Guidelines
+
+7 state that "Project' means the whole of an action, which has a potential for resulting in either a
+
+8 direct physical change in the environment, or a reasonably foreseeable indirect physical change
+
+9 in the environment [including] [a]n activity directly undertaken by any public agency... ." 14
+
+10 Cal. Code Regs. § 15378(a). A project is defined broadly in order to maximize environmental
+
+11 protection. City of Santee v. County of San Diego (Santee) (1989) 214 Cal.App.3d 1438, 1452;
+
+12 McQueen v. Board of Directors of the Mid-peninsula Regional Open Space District (1988) 202
+
+13 Cal.App.3d 1136, 1143 (disapproved on other grounds). A project must be defined and
+
+14 accurately described to ensure an "intelligent evaluation of the potential environmental effects
+
+15 of a proposed activity." Burbank-Glendale-Pasadena Airport Authority v. Hensler (1991) 233
+
+16 Cal.App.3d 577, 592 (citing McQueen v. Bd. of Directors, supra, 202 Cal.App.3d at 1143-44).
+
+17 "A narrow view of a project could result in the fallacy of division, that is, overlooking its
+
+18 cumulative impact by separately focusing on isolated parts of the whole." Id. Precedent has
+
+19 long established that the environmental impacts of a project cannot be "submerged by
+20 chopping a large project into many little ones, each with a potential impact on the environment,
+
+21 which cumulatively may have disastrous consequences." See, Burbank-Glendale-Pasadena
+
+22 Airport Authority v. Hensler, supra, 233 Cal.App.3d at 592; Bozung v. Local Agency
+
+23 Formation Comm'n (1975) 13 Cal.3d 263, 274, 283-284; Orinda Ass'n v Board of Supervisors
+
+24 (1986) 182 Cal.App.3d 1145, 1171.
+
+25 34. Reapproval of the Project constitutes an abuse of discretion and a failure to
+
+26 proceed in a manner required by law.
+
+27
+
+28 VI
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+11
+
+1 ATTORNEYS' FEES
+
+2 35. Petitioner hereby incorporates by reference paragraphs 1 through 31 as if fully
+
+3 set forth herein.
+
+4 36. In pursuing this action, Petitioner will confer a substantial benefit on the People
+
+5 of the State of California and therefore is entitled to recover from Respondents and Real Parties
+
+6 in Interest reasonable attorneys' fees and costs pursuant to California Code of Civil Procedure
+
+7 § 1021.5 and other provisions of the law.
+
+8 VII
+
+9 INJUNCTION
+
+10 37. Petitioner hereby incorporates by reference paragraphs 1 through 33 as if fully
+
+11 set forth herein.
+
+12 38. An actual controversy has arisen concerning Respondents' failure to comply
+
+13 with CEQA (Pub. Resources Code § 21000 et seq.), as set forth above.
+
+14 39. At all times mentioned herein, Respondents have been able to comply with
+
+15 CEQA, prepare adequate environmental review, and comply with all relevant provisions of
+
+16 law. Notwithstanding such an ability, Respondents have failed and continue to fail to perform
+
+17 their duty to comply with CEQA and all other relevant provisions of law.
+
+18 40. Petitioner is informed and believe, and on that basis allege, that Respondents are
+19 threatening to proceed with development of the Project in the near future. Said implementation
+
+20 of the Project will irreparably harm the environment and will result in significant and
+
+21 unmitigated adverse environmental impacts.
+
+22 41. Petitioner possesses no speedy, adequate remedy at law, in that implementation
+
+23 and development in connection with the Project will permanently and forever harm, injure,
+
+24 degrade, and impact the environmental values of the City of Santa Cruz, the County of Santa
+
+25 Cruz, the UCSC Main Campus, and the State of California. Petitioner will suffer irreparable
+
+26 and permanent injuries if Respondents' actions described herein are not set aside.
+
+27 42. A stay and/or restraining order and preliminary and permanent injunction
+
+28 should issue restraining Respondents from proceeding with development of the Project.
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+12
+
+1 43. In order to preserve the status quo, a stay and/or restraining order and
+
+2 preliminary and permanent injunction should issue staying Respondents' reapproval of the
+
+3 Project.
+
+4 PRAYER
+
+5 WHEREFORE, Petitioner prays for judgment as follows:
+
+6 1. For Alternative and Peremptory Writs of Mandate ordering Respondents to set
+
+7 aside any and all Project approvals, including, but not limited to, reapproval of the design of
+
+8 the Student Housing West Project, Santa Cruz campus; adoption of CEQA findings and a
+9 statement of overriding considerations; and adoption of a Mitigation and Monitoring Reporting
+
+10 Program for the Project.
+
+11 2. For an order staying Respondents or other Project applicants from engaging in
+
+12 any activity pursuant to the Project until the environmental review and the Project complies
+
+13 with California statutes and regulations, including but not limited to the requirements of
+
+14 CEQA.
+
+15 3. For reasonable attorneys' fees, pursuant to California Code of Civil Procedure
+
+16 1021.5, and other provisions of law;
+
+17 4. For costs of suit; and
+
+18 5. For such other and further relief as the Court may deem proper.
+
+19
+
+20 Dated: April 15, 2021 Respectfully submitted,
+WITTWER PARKIN LLP
+
+21
+
+22
+By:
+23 William P. Parkin
+
+24 Attorneys for Petitioner
+EAST MEADOW
+25 ACTION COMMITTEE
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+13
+
+VERIFICATION
+
+3 J, Paul Schoellhamer, am an authorized representative of Petitioner East Meadow
+
+3 Action Committee, a party to this action. I have read the foregoing Petition for Writ of
+4 Mandamus and know the contents thereof. is The same is true of my own knowledge, except as
+
+5 to those matters which are therein alleged on information and belief, and as to those matters, I
+
+6 believe them to be true. This verification was exccuted on April 15, 2021, in Watsonville,
+
+7 California.
+
+8
+
+9
+10 Paul Schoellhamer
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WIIT OF MANDAMUS
+14
+
+EXHIBIT A
+Notice of Intent to Commence Litigation
+
+wittwer parkin
+
+April 15, 2021
+
+Regents of the University of California
+Office of the Secretary and Chief of Staff to the Regents 1111 Franklin Street, 12th Floor
+Oakland, CA 94607
+
+Chancellor Cynthia K. Larive
+University of California, Santa Cruz 1156 High Street
+Santa Cruz, CA 95064
+
+Alisa Klaus, Sr. Environmental Planner
+University of California, Santa Cruz 1156 High Street, Mailstop PPDO Santa Cruz, CA 95064
+
+RE: Notice of Intent to Commence Litigation
+
+Dear Regents, Chancellor Larive, and Ms. Klaus:
+Pursuant to the requirements of Public Resources Code Section 21167.5, this letter will serve as notice that East Meadow Action Committee (Petitioner) will commence litigation against the Regents of the University of California and University of California, Santa Cruz (Respondents).
+This litigation challenges the actions of Respondents in reapproving the Student Housing West Project, adopting CEQA findings and a Statement of Overriding Considerations, and adopting a Mitigation and Monitoring Reporting Program on behalf of the Project Applicant, University of California, Santa Cruz.
+The litigation has been commenced because the actions listed in the preceding paragraph do not comply with the requirements of the California Environmental Quality Act (Public Resources Code § 21000 et seq.).
+Very truly yours,
+WITTWER PARKIN LLP
+
+William P. Parkin
+
+WITTWER PARKIN LLP / 335 SPRECKELS DR., STE. H / APTOS, CA / 95003 / 831.429.4055
+
+WWW.WITTWERPARKIN.COM /LAWOFFICE@WITTWERPARKIN.COM
+
+1 PROOF OF SERVICE BY MAIL
+
+2
+
+3 certify and declare as follows:
+
+4 am over the age of 18 and not a party to this action. My business address is
+5 WITTWER PARKIN LLP, 335 Spreckels Drive, Suite H, Aptos, California which is located in
+6
+
+7 Santa Cruz County where the mailing described below took place.
+
+8 am familiar with the business practice at my place of business for the collection and
+9  processing of correspondence for mailing with the United States Postal Service.
+
+10 Correspondence so collected and processed is deposited with the United States Postal Service
+11 that same day in the ordinary course of business.
+12
+On April 15, 2021 the following document(s):
+13
+1. 14 NOTICE OF INTENT TO COMMENCE LITIGATION
+
+15 were placed for deposit in the United States Postal Service in a sealed envelope, with postage
+
+16 fully paid to:
+
+17 Regents of the University of California
+18 Office of the Secretary and Chief of Staff to the Regents 1111 Franklin Street, 12th Floor
+19 Oakland, CA 94607
+
+20 Chancellor Cynthia K. Larive Alisa Klaus, Sr. Environmental Planner
+21 University of California, Santa Cruz
+1156 High Street University of California, Santa Cruz 1156 High Street, Mailstop PPDO
+22 Santa Cruz, CA 95064 Santa Cruz, CA 95064
+
+23 certify and declare under penalty of perjury that the forgoing is true and correct.
+24
+
+25 Dated: April 15, 2021
+26
+
+27 Debbie Downing
+
+28
+
+DECEIVEN
+APR 1 9 2021
+BY:____________

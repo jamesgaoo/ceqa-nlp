@@ -1,0 +1,3254 @@
+1 RUDDER LAW GROUP, LLP
+JOSHUA SAFRAN, ESQ. (SBN 215462)
+2 1101 Marina Village Pkwy, Ste. 201 Alameda, CA 94501
+3 jsafran@rudderlawgroup.com Tel. No. (510) 576-6766
+4
+HOLL LAW & MEDIATION
+5 BENJAMIN HOLL, ESQ. (SBN 200630) 369 Pine St., Ste 420
+6 San Francisco, CA 94104
+benjamin@holl-lm.com
+7 Tel. No. (415) 324-8860
+
+8 Attorneys for Petitioners and Plaintiffs BERKELEY ADVOCATES FOR SMART HOUSING
+9 & GLEN STEVICK
+
+10
+=g SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+COUNTY OF ALAMEDA
+
+(Unlimited Jurisdiction)
+13
+
+14
+BERKELEY ADVOCATES FOR SMART CASE NO.: RG20048859
+15 HOUSING, an unincorporated association;
+GLEN STEVICK, an individual; NOTICE TO ATTORNEY GENERAL
+16
+Petitioners and Plaintiffs,
+17
+V.
+18
+CITY OF BERKELEY, a California municipal
+19 corporation; and DOES 1 through 1 10, inclusive,
+
+20 Respondents and Defendants.
+
+21
+
+22 To the Attorney General of the State of California:
+
+23 PLEASE TAKE NOTICE, under Public Resources Code section 21167.7 and
+
+24 Code of Civil Procedure section 388, that on January 2, 2020, Petitioners and Plaintiffs, Berkeley
+
+25 Advocates for Smart Housing and Glen Stevick (collectively, "Petitioners"), filed a Verified
+
+26 Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief against the
+
+NOTICE TO ATTORNEY GENERAL
+
+City of Berkeley ("City") in Alameda County Superior Court. The Petition and Complaint
+
+2 alleges, among other things, that City violated the California Environmental Quality Act
+
+3 ("CEQA") by failing to adequately conduct environmental review under CEQA prior to making
+
+4 its decision to take a series of unlawful acts that run counter to law and serve to severely
+
+5 exacerbate the housing crisis in the City. For example, the City has vigorously continued
+
+6 pursuing enforcement actions against existing ADUs, threatening their owners with criminal
+
+7 prosecution, draconian fines, and liens against their property. The City has refused to recognize
+
+8 the amnesty provisions granted by the Legislature and has gone so far as to declare that counsel
+
+9 requesting amnesty on behalf of ADU owners are violating the State Bar's Rules of Professional
+
+10 Conduct. In the process, the City has deprived ADU owners of basic due process rights, refused
+
+11 to recognize facts and substantial evidence in the record, refused to hand over relevant public
+
+12 records, refused to ministerially issue permits to legalize ADUs as mandated by State law, and
+
+13 refused to evaluate the specific and cumulative environmental impacts of demolishing existing
+
+14 housing.
+
+15 A copy of the Petition and Complaint is attached to this notice.
+
+16
+
+17 DATED: January 3, 2020 RUDDER LAW GROUP, LLP
+18
+
+19
+
+20 By: Suasd
+21 Attorncys for Petitioners and Plaintiffs BERKELEY ADVOCATES FOR SMART
+
+22 HOUSING & GLEN STEVICK
+
+23
+
+24
+
+25
+
+26
+
+2
+
+NOTICE TO ATTORNEY GENERAL
+
+FILED BY FAX
+ALAMEDA COUNTY
+January 02, 2020
+1 RUDDER LAW GROUP, LLP
+JOSHUA SAFRAN, ESQ. (SBN 215462) CLERK OF THE SUPERIOR COURT
+2 1101 Marina Village Pkwy, Ste. 201 By Cheryl Clark, Deputy
+Alameda, CA 94501 CASE NUMBER:
+3 jsafran@rudderlawgroup.com
+
+4 Tel. No. (510) 576-6766 RG20048859
+
+HOLL LAW & MEDIATION
+5 BENJAMIN HOLL, ESQ. (SBN 200630) 369 Pine St., Ste 420
+6 San Francisco, CA 94104
+benjamin@holl-lm.com
+7 Tel. No. (415) 324-8860
+8 Attorneys for Petitioners and Plaintiffs BERKELEY ADVOCATES FOR SMART HOUSING
+& GLEN STEVICK
+
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+12 COUNTY OF ALAMEDA
+
+13 (Unlimited Jurisdiction)
+
+14
+BERKELEY ADVOCATES FOR SMART CASE NO.:
+15 HOUSING, an unincorporated association; GLEN STEVICK, an individual; VERIFIED PETITION FOR WRIT OF
+16
+Petitioners and Plaintiffs, MANDATE (CCP §§ 1085, 1086 1094.5)
+
+17 COMPLAINT FOR DECLARATORY
+V.
+18 AND INJUNCTIVE RELIEF (CCP
+
+CITY OF BERKELEY, a California municipal §§ 526, 1060)
+
+19 corporation; and DOES 1 through 10, inclusive, IMMEDIATE STAY REQUESTED
+
+20 Respondents and Defendants. (CCP 1094.5(g))
+
+21 [Health and Safety Code $17980.12; Government Code $§6250 et seq.; Public
+
+22 Resources Code §§ 21168, 21168.5]
+
+23
+
+24 Petitioners and Plaintiffs Berkeley Advocates for Smart Housing and Glen
+
+25 Stevick (collectively, "Petitioners"), by this verified petition and complaint, allege against the
+
+26 City of Berkeley ("City") and Does 1 through 10 as follows:
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIER
+
+INTRODUCTION
+
+2 1. California is in the midst of an unprecedented and historic housing crisis.
+
+3 In Senate Bill ("SB") 330, the Housing Crisis Act of 2019, the State Legislature declared a
+
+4 Statewide housing emergency. Specifically, they found that "California is experiencing a
+
+5 housing supply crisis, with housing demand far outstripping supply" and that this has
+
+6 "[i]ncreased poverty and homelessness." They further found that the "housing crisis is severely
+
+7 impacting the state's economy" and that this has been caused, in part, by the "activities and
+
+8 policies of many local governments," such as the City of Berkeley. Indeed, they found that
+
+9 "[m]any local governments do not give adequate attention to the economic, environmental, and
+
+10 social costs of decisions that result in disapproval of housing development projects, reduction in
+
+11 density of housing projects, and excessive standards for housing development projects." It is the
+
+12 Legislature's specific intent to "meaningfully and effectively" curb "the capability of local
+
+13 governments to deny, reduce the density for, or render infeasible housing development projects."
+
+14 2. In response to this housing crisis, the Legislature recently took dramatic
+
+15 action and passed not only SB 330 but Assembly Bill ("AB") 68, AB 881, AB 1482, and SB 13.
+
+16 Together this legislation mandates that local jurisdictions, such as the City of Berkeley, eliminate
+
+17 onerous permitting restrictions that delay or prevent legalization of existing unpermitted
+
+18 Accessory Dwelling Units ("ADUs"), grant unpermitted ADU owners a five-year amnesty from
+
+19 enforcement actions, and streamline the legalization process for these ADUs by replacing the
+
+20 Byzantine discretionary permitting schemes previously used with simple ministerially approved
+
+21 permits.
+
+22 3. In this factual and legal context, the City of Berkeley has taken a series of
+
+23 unlawful acts that run counter to law and serve to severely exacerbate the housing crisis in the
+
+24 City. For example, the City has vigorously continued pursuing enforcement actions against
+
+25 existing ADUs, threatening their owners with criminal prosecution, draconian fines, and liens
+
+26 against their property. The City has refused to recognize the amnesty provisions granted by the
+
+2
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+1 Legislature and has gone so far as to declare that counsel requesting amnesty on behalf of ADU
+
+2 owners are violating the State Bar's Rules of Professional Conduct. In the process, the City has
+
+3 deprived ADU owners of basic due process rights, refused to recognize facts and substantial
+
+4 evidence in the record, refused to hand over relevant public records, refused to ministerially issue
+
+5 permits to legalize ADUs as mandated by State law, and refused to evaluate the specific and
+
+6 cumulative environmental impacts of demolishing existing housing.
+
+7 4. As a last resort, the petitioners and plaintiffs in this action, on behalf of
+
+8 themselves and the public generally, turn to this Court to gain the measure of justice they are due
+
+9 and to compel the City to comply with law.
+
+10 PARTIES
+
+11 5. Petitioner and Plaintiff Berkeley Advocates for Smart Housing is a California
+
+12 unincorporated association composed of residents of the City of Berkeley and other housing
+
+13 advocates who are committed to and specially interested in housing policy reform in the City of
+14 Berkeley, in general, and, specifically, in the City's approval of much needed housing to address
+
+15 the housing crisis in the City as well as the City's strict compliance with state and local housing
+
+16 laws and related environmental laws. Berkeley Advocates for Smart Housing's members
+
+17 supported the recent passage of historic statewide housing legislation, including AB 68, AB 881,
+18 AB 1482, SB 13, and SB 330, and are uniquely interested in seeing these laws quickly and
+
+19 appropriately implemented in the City of Berkeley. Berkeley Advocates for Smart Housing's
+
+20 membership includes, but is not limited to Jerry Von Sternberg, Kimberly Chiovitti, Glen
+
+21 Stevick, Laura Menard, Hudson Lemon, John Stevick, and Margrett Lewis. The members of
+
+22 Berkeley Advocates for Smart Housing are concerned that the City's actions complained of
+
+23 herein will adversely impact public health and safety, the environment, the health of their
+
+24 community, neighborhood, and families as well as infringe upon property rights of individual
+
+25 members of Berkeley Advocates for Smart Housing. Berkeley Advocates for Smart Housing has
+
+26 been aggrieved by the City's failures and refusals to comply with law, its lack of transparency,
+
+3
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+1 its due process violations, the dearth of meaningful opportunities for public participation, its
+
+2 failure to adopt adequate findings, and its failure to conduct adequate environmental review.
+
+3 6. Petitioner and Plaintiff Glen Stevick is a member of Berkeley Advocates for
+
+4 Smart Housing and a resident of the City of Berkeley. He is one of the owners of that certain real
+
+5 property commonly known as 1722 Walnut Street in the City of Berkeley which is adversely
+
+6 impacted by the City of Berkeley's unlawful acts, complained of herein. Glen Stevick's rights
+
+7 and property interests have been violated by the City of Berkeley and, unless the City is
+
+8 restrained from further unlawful acts, such rights and interests will be further prejudiced by the
+
+9 unlawful actions of the City of Berkeley. Glen Stevick is expressly authorized to represent the
+
+10 interests of his spouse and co-owner of the subject property in this action.
+
+11 7. Petitioners are informed and believe and thereon allege that: Respondent and
+
+12 Defendant City of Berkeley is a California municipal corporation governed by the laws of the
+13 State of California and located within Alameda County.
+
+14 8. The true names and capacities of respondents Does through 10 are unknown
+
+15 to Petitioners, who will amend this petition and complaint to insert their true names and
+
+16 capacities when ascertained.
+
+17 9. Petitioners are informed and believe and thereon allege that, at all relevant
+
+18 times, each of the respondents and defendants, including Does through 10, was the agent or
+
+19 employee of each of the remaining respondents and defendants and, while acting within the
+
+20 scope and course of that agency, took part in the acts or omissions alleged in this petition and
+
+21 complaint.
+
+22 10. Petitioners are informed and believe and thereon allege that Does through 10
+
+23 are responsible or liable in some manner for the occurrences alleged in this petition and
+
+24 complaint. Each charging allegation in this petition and complaint, and each reference to
+
+25 "respondent," "defendant," "City," or "City of Berkeley" refers to both the named respondent
+
+26 and defendant and to respondents and defendants Does 1 through 10.
+
+4
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+p JURISDICTION & VENUE
+
+2 11. This Court has jurisdiction over this action pursuant to sections 1085, 1086,
+
+3 1094.5, 526, 1060, and 187 of the Code of Civil Procedure, section 17980.12 of the Health and
+
+4 Safety Code, sections 6258 and 6259 of the Government Code, Article 6, section 10 of the
+
+5 California Constitution, and sections 21168 and 21168.5 of the Public Resources Code.
+
+6 12. Venue for this action properly lies in the Superior Court of the State of
+
+7 California in and for the County of Alameda pursuant to section 393 of the Code of Civil
+
+8 Procedure because the City of Berkeley and the actions complained of took place in Alameda
+
+9 County.
+
+10 GENERAL ALLEGATIONS
+
+11 13. That certain real property commonly known as 1722 Walnut Street (the
+
+12 "Property") in the City of Berkeley ("City") is owned by individuals Elizabeth Scherer and
+
+13 Plaintiff and Petitioner Glen Stevick (the "Owners"), who are members of Berkeley Advocates
+
+14 for Smart Housing ("BASH").
+
+15 14. The lot area of the Property is approximately 5,479 sq. ft. and is currently
+
+16 zoned R-4, Multi-Family Residential District, which district is designed for "relatively high
+
+17 density residential areas" and permits the establishment of ADUs.
+
+18 15. In roughly 1917, the rear portion of the Property was developed with an
+
+19 accessory structure (the "Legacy Structure") that has been continuously used for various
+
+20 purposes over the years. The Legacy Structure was clearly depicted on historic Sanborn maps of
+
+21 the area. The Legacy Structure was subsequently redeveloped into a cottage (the "Cottage")
+
+22 a which is a prior noncomforming ADU. The Cottage does not occupy a footprint greater than the
+
+23 Legacy Structure.
+
+24 16. On or about December 13, 2016, representatives of the City conducted a
+
+25 highly detailed inspection of every aspect of the Cottage.
+
+26
+
+5
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+1 17. On or about June 29, 2017, representatives of the City, Code Enforcement
+
+2 Officer Wanda Drouillard and Code Enforcement Assistant Planner Nicholas Mcllroy,
+
+3 conducted another highly detailed inspection of every aspect of the Cottage, including its
+
+4 appliances, electrical wiring, drainage piping, vent piping, water piping, gas piping, windows,
+
+5 framing and heating.
+
+6 18. After its exhaustive inspection of the Cottage, in a "Notice of Violation" sent
+
+7 to the Owners, dated November 14, 2017, the City opined that work had been done on the
+
+8 Cottage without necessary permits, that the Cottage had "multiple windows that are within three
+
+9 feet of the property line," that the "addition" of the Cottage "reduces usable open space and
+
+10 increases the lot coverage to over the maximum forty percent."
+
+11 19. The Notice of Violation did not conclude that any basic health and safety
+
+12 standards had been violated. Nor did the Notice of Violation conclude that any significant
+
+13 habitability issues existed within the Cottage.
+
+14 20. In addition to the inspections of December 13, 2016 and June 29, 2017,
+
+15 representatives of the City subsequently inspected the Cottage on a number of other occasions
+
+16 (all of these inspections being collectively referred to herein as the "City Inspections"). At no
+
+17 time before, during, or after the City Inspections did representatives of the City conclude that any
+
+18 basic health and safety standards had been violated or that any significant habitability issues
+
+19 existed within the Cottage.
+
+20 21. Based upon the plain language of the Notice of Violation and the
+
+21 representations of City staff, the Owners reasonably concluded that the key violation identified in
+
+22 the Notice of Violation was the technical deficiency of duly issued permits for the redevelopment
+
+23 work historically undertaken to transform the Legacy Structure into the Cottage and that the
+
+24 Cottage would be "legalized" upon submittal of the plans and payment of the fees demanded by
+
+25 City staff.
+
+26
+
+6
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+F 22. The Owners objected to the language in the Notice of Violation which
+
+2 referred to the "addition" of the Cottage "reducing" open space and "increasing" lot coverage
+when, in fact, the Cottage was no larger than the Legacy Structure and resulted in no net new
+
+4 loss of open space or increase in coverage.
+23. However, the Owners agreed to submit the plans and pay the fees demanded
+
+6 by City staff both because it was the Owners' understanding that the "legalization" process was
+
+7 essentially a paper exercise to formally confirm the Cottage's existence and because the Notice
+
+8 of Violation threatened draconian enforcement measures absent such compliance including
+
+9 criminal prosecution, liens, and demolition of the Cottage.
+
+10 24. Petitioners are informed and believe and thereon allege that the City's
+
+11 administrative enforcement action against the Cottage was part of a broader policy and practice
+
+12 of the City to initiate enforcement actions against similarly situated ADUs throughout the City
+
+13 (the "ADU Enforcement Plan").
+
+14 25. Petitioners are informed and believe and thereon allege that the City
+
+15 completely failed to conduct requisite environmental review under the California Environmental
+
+16 Quality Act ("CEQA") (California Public Resources sections 21000, et seq.) prior to committing
+
+17 itself to the course of action embodied in the ADU Enforcement Plan.
+
+18 26. Petitioners are informed and believe and thereon allege that the City's
+
+19 implementation of the ADU Enforcement Plan is continuous and ongoing.
+
+20 27. Petitioners are informed and believe and thereon allege that just within the
+
+21 1600 block of Walnut Street in the City of Berkeley, eight properties are improved with ADUs
+
+22 which are situated less than four feet from the property line, including ADUs at 1614 Walnut
+
+23 Street, 1625-7 Walnut Street, 1629 Walnut Street, 1632 Walnut Street, 1631-3 Walnut Street,
+
+24 1634 Walnut Street, 1640 Walnut Street, and 1643 Walnut Street. Similar numbers of such
+
+25 ADUs exist within the 1500 block of Walnut Street. Petitioners are informed and believe and
+
+26
+
+7
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+thereon allege that similar numbers of such ADUs may be found block after block after block in
+
+2 the City of Berkeley.
+
+3 28. Petitioners are informed and believe and thereon allege that, unless restrained
+
+4 by the Court, the ADU Enforcement Plan will ultimately result in the demolition of thousands of
+
+5 habitable housing units in the City of Berkeley in violation of law.
+
+6 29. In response to the City's threatened administrative enforcement action against
+
+7 the Cottage, on or about January 29, 2018, the Owners submitted an application to bring the
+
+8 Cottage into compliance with all applicable City laws, to the extent the Cottage did not already
+
+9 so comply.
+
+10 30. In a letter dated March 19, 2018, the City determined that the following
+
+11 permits would be required to legalize the Cottage: a variance to "increase" allowing lot coverage,
+
+12 to "provide" less than the required amount of usable open space, to "provide" fewer than the
+
+13 required number of parking spaces, and to "reduce" a required south-side yard setback; a use
+
+14 permit to "establish" a "new" a dwelling unit; and, an Administrative Use Permit to "reduce" the
+
+15 required building separation and to "reduce" the required rear yard.
+
+16 31. Again, the Owners made objections based upon the fact that the Cottage was
+
+17 already in existence and not a new structure, but continued to provide multiple further submittals
+
+18 in response to continued and somewhat varying instructions from City staff.
+
+19 32. The City finally deemed the Owner's application complete on or about
+
+20 September 5, 2018.
+
+21 33. On or about November 8, 2018, the City's Zoning Adjustments Board
+
+22 ("ZAB") conducted a hearing and issued a Notice of Decision. The ZAB found that the Cottage
+
+23 was "aesthetically pleasing," had "minimal impact to air, views, or light of the existing or
+
+24 neighboring properties," and was "within 0.5 miles of Downtown BART, 0.1 miles of the closest
+
+25 bus stop, 0.2 miles of the closest trans-bay bus stop, and 0.2 miles of the closed UC Berkeley
+
+26 shuttle."
+
+8
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+2
+
+3 be needed: 34. Despite these findings, and much to the surprise of the Owners, the ZAB
+
+A stated that it "denied" the following permits which City staff had unilaterally determined would
+
+a. Use Permit to construct a new dwelling unit, under Berkeley Municipal Code
+("BMC") Section 230.40.030;
+
+-56UE0ESO. b. Administrative Use Permit ("AUP") to reduce the rear yard setback for two or
+
+C. more Main Buildings which contain dwelling units under BMC 230.40.070.0.1;
+AUP to reduce the required building separation between two or more main
+building that contain dwelling units under BMC 230.40.070.0.2;
+d. Variance to decrease the required left side yard setback below minimum
+
+e. requirement per BMC 230.40.070.0;
+
+f. Variance to further increase the non-conforming lot coverage over the maximum
+requirement per BMC 230.40.070.E;
+Variance to not provide and to further decrease the non-conforming Useable Open
+Space per dwelling below the minimum requirement per BMC 230.40.070.F;
+
+and,
+
+g.
+
+19 Variance to not provide the minimum parking requirement (one space) for a new a
+dwelling unit per BMC 230.40.080.A.
+
+20
+
+21 35. The ZAB's decision was premised on factually erroneous findings, including
+
+22 a total failure to consider the existence of the Legacy Structure, and made legal conclusions that
+
+23 were unsupported by substantial evidence in the record and constituted an abuse of discretion.
+
+24 The ZAB did not provide the Owners a meaningful opportunity to be heard, treated the Property
+
+25 as though it were not already improved with the Cottage, chose to interpret the City's Code with
+
+26 regard to the Cottage in a manner disparate from its policy and practice for thousands of other
+ADUs in the City, and ignored the specific mandates and conditionally permitted uses provided
+for in the R-4 District.
+
+9
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+1 36. The Owners subsequently caused a timely and duly filed administrative appeal
+
+2 of the ZAB's decision to be brought before the City Council of the City of Berkeley ("City
+
+3 Council").
+
+4 37. On or about March 26, 2019, the City Council held a hearing to consider the
+
+5 administrative appeal.
+
+6 38. At the hearing, the City Council offered to make findings to confirm the
+
+7 consistency of the Cottage with applicable municipal ordinances in exchange for a permanent a
+
+8 deed restriction limiting occupancy of the Cottage to low-income tenants. The Owners were
+
+9 willing to agree to such a limitation for a term of years, but not a perpetual deed restriction. In
+
+10 response, the City Council rubberstamped the ZAB's denial based on the same factually
+
+11 erroneous findings and legal conclusions that were unsupported by substantial evidence in the
+
+12 record and constituted an abuse of discretion. Again, the City Council did not provide the
+
+13 Owners a meaningful opportunity to be heard, treated the Property as though it were not already
+
+14 improved with the Cottage, chose to interpret the City's Code with regard to the Cottage in a
+
+15 manner disparate from its policy and practice for thousands of other ADUs in the City, and
+
+16 ignored the specific mandates and conditionally permitted uses provided for in the R-4 District.
+
+17 39. Further, the City conducted no meaningful environmental review in
+
+18 accordance with CEQA prior to committing itself to the definite course of action of mandating
+
+19 the cumulatively considerable reduction of available housing stock in the City and made no
+
+20 consideration of housing policy or impacts to affordable housing.
+
+21 40. The City, then, issued Resolution No. 68,829-N.S. (the "Resolution"), a true
+
+22 and correct copy of which is attached hereto as Exhibit A.
+
+23 41. The Resolution purported: to adopt the findings for denial made by the ZAB,
+
+24 affirm the decision of the ZAB to deny the permits requested by the Owners, dismiss the
+
+25 Owners' administrative appeal with stipulations that allowed for the current resident of the
+
+26 Cottage to remain for the term of the lease, prohibit any other rental or occupation of the
+
+10
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+Cottage, and allow the Cottage "to remain for six months from the date of issuance of the Notice
+
+2 of Decision to allow time for the property owners to find an alternative off-site location for the
+
+3 structure."
+
+4 42. No environmental review was conducted under CEQA prior to issuance of the
+
+5 Resolution.
+
+6 43. The plain meaning of the Resolution is impermissibly vague and ambiguous
+
+7 and its practical effect, if any, on the Property or the Cottage is confusingly silent.
+
+8 44. Further, neither the Resolution nor any "Notice of Decision" were timely
+
+9 transmitted to the Owners.
+
+10 45. Upon ultimate receipt of the Resolution, the Owners were reasonably
+
+11 confused by the language of the Resolution. It was unclear to them what the Resolution intended
+
+12 by an "off-site" location, whether the Resolution mandated that the Cottage be, somehow,
+
+13 physically lifted and relocated, and, if so, how and where such a relocation could be expected to
+
+14 occur.
+
+15 46. On or about August 23, 2019, the Owners received an informal email from
+
+16 Senior Planner Leslie Mendez indicating, for the first time, that the City had determined that the
+
+17 Cottage could "no longer be on the property" as of November 3, 2019. It was, again, unclear to
+
+18 Owners what "no longer on the property" entailed.
+19 47. On October 15, 2019, the Owners wrote a letter to Senior Planner Leslie
+
+20 Mendez, indicating that since they had last spoken, the Governor of California had signed several
+
+21 ADU-related bills into law and that the State had declared a housing shortage emergency. The
+
+22 letter further stated:
+
+23 In this context, it is both surprising and troubling that the City seems intent on trying to
+24 reduce Berkeley's available housing stock, in general, and to gin up an enforcement action based on superficial and hypertechnical read of obscure zoning requirements
+25 the very types of "excessive standards" decried by the Legislature - against our ADU, in
+particular.
+26
+
+11
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+FNMT1N O In order to give you and the City more time to consider the new State Laws, please be advised that California Health and Safety Code section 17980.12 mandates that where a City takes an enforcement action against an ADU, such as ours, built prior to January 1, 2020 - even if the City considers it "nuisance" to be "abated" - the City must provide
+notice that the owner of the ADU "has a right to request a delay in enforcement ... for five years." We are under the impression that the City has not issued us such a notice. Further, the City must provide a form allowing ADU owners, such as myself, to request such a delay in enforcement. We ask that the City send us a copy of the City's form for this
+purpose.
+
+With the passage of SB 13 on October 9, 2019, the State of California allows for our
+cottage to stand. We look forward to working with you and the City of Berkeley on any
+cg remaining issues and the development of a program advocating additional smart infill
+
+9 units like our cottage. Additionally, we request and look forward to the notice and five- year delay in enforcement form required by the California Health and Safety Code.
+
+10 48. Petitioners are informed and believe and thereon allege that these allegations
+
+11 quoted from the Owners' letter of October 15, 2019 are true and correct and such allegations are
+
+12 hereby incorporated herein.
+
+13 49. Confusingly, Senior Planner Leslie Mendez responded to the Owner's letter
+
+14 by email, on or about October 29, 2019, wherein the City:
+
+15 a. Rejected the Owner's assertion that they were covered by the five-year amnesty
+
+16 from enforcement actions provided by Health and Safety Code section 17980.12
+
+17 (the "Amnesty Protection") and opined that, as a matter of law, the Amnesty
+18 Protection does not provide coverage to the Cottage because that provision of the
+
+19 Health and Safety Code applies only to "notices to correct a violation of a
+20 building standard" and not to notices for "failure to comply with the Zoning
+21 Ordinance;"
+22 b. Made an unsubstantiated, nonresponsive, and nonsensical finding that the Cottage
+
+23 "does not meet the minimum setback requirements that would allow ministerial
+
+24 approval of the project";
+
+25 c. Created new findings from whole cloth that "there is no pathway" to approve the
+
+26 Cottage "without the required 4-foot setbacks";
+
+12
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+HNM v d. Demanded "compliance" with the Resolution by having the Cottage "removed.
+from the property" by November 3, 2019;
+
+e. Arbitrarily and contradictorily mandated that the Cottage be "relocated,"
+presumably elsewhere on the Property "so that it has a minimum 4-foot side yard
+and rear yard setback";
+f. Arbitrarily mandated eviction of existing Cottage tenants and fabricating random
+"compliance" dates under the threat of unspecified "resumption" of "Code
+Enforcement" action;
+
+g. Inexcusably neglected to provide the state-mandated form the City must provide
+10 allowing ADU owners to request Amnesty Protection as specifically requested by
+
+11 the Owners.
+
+12 50. On October 30, 3019, the Owners sent Senior Planner Leslie Mendez an email
+
+13 stating that they understood her response to mean that "the City has determined that we are not
+
+14 eligible for [the Amnesty Protection] as a matter of law. We understand the City's position and
+
+15 will ask an attorney to confirm the City's approach on this." This email further indicated that the
+
+16 Owners understood the City to it be stating that it would "commence enforcement action" against
+
+17 the Cottage unless the Owners applied to "relocate" the Cottage by January 3, 2020. The Owners
+
+18 indicated that if those were their "only options," they would prefer to prepare submittals by
+
+19 January 3, 2020.
+
+20 51. On November 5, 2019, Senior Planner Leslie Mendez responded to the
+
+21 Owners by email, indicating that the City had determined that Cottage could remain on the
+
+22 Property and that the City would not take any enforcement action so long as the Owners
+
+23 submitted "building permits" by the end of the day of January 3, 2020 to move the Cottage *4
+
+24 feet from the rear and side yard setback."
+
+25 52. On November 28, 2019, counsel for Petitioners sent the City a letter entitled
+
+26 "Request for Reversal of City Denial of Amnesty Request per Health and Safety Code
+
+13
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+1 §17980.12; and, Request for Public Records" concerning the Property, the ADU Enforcement
+
+2 Plan, and the City's compliance with applicable laws. A true and correct copy of this letter
+
+3 (without exhibits) is attached hereto as Exhibit B and incorporated herein.
+
+4 53. This 67-page letter of November 28, 2019 (the "Rudder Law Group Letter"),
+
+5 explained in great detail why the Property should be afforded Amnesty Protection pursuant to
+
+6 Health and Safety Code §17980.12 and requested specific records related to the Property and the
+
+7 ADU Enforcement Plan pursuant to the Public Records Act (Government Code §§ 6250 et seq.)
+
+8 and the California Constitution. Specifically, this letter explained in detail why the Amnesty
+
+9 Protection protects against enforcement actions brought for alleged zoning violations of the type
+
+10 included in the City's enforcement action against the Cottage.
+
+11 54. On December 10, 2019, the City Council considered a staff report (the "Staff
+
+12 Report") recommending adoption of an urgency ordinance amending the City's existing
+
+13 ordinances regulating ADUs (the "ADU Ordinance") to comply with new state laws. A true and
+
+14 correct copy of the Staff Report is attached hereto as Exhibit C.
+
+15 55. The Staff Report made findings that Assembly Bill 881 requires local
+
+16 jurisdictions, such as the City, to relax or eliminate restrictions on the development of ADUs.
+
+17 The Staff Report found that the intent behind this new law was to "increase statewide production
+
+18 of ADUs by requiring every jurisdiction to ministerially approve" ADU projects, "apply only a
+
+19 specific set of development standards identified" in the new law, and implement shortened
+
+20 permitting timelines. The Staff Report further found that local ADU ordinances, such as the City
+
+21 of Berkeley's, are "null and void if not in compliance with new State law." The Staff Report
+
+22 found that the City's existing ADU Ordinance "does not conform to new State law." The Staff
+
+23 Report further concluded that under the new State law, an ADU application "must be approved
+
+24 over the counter" as long as an ADU application meets specified development standards.
+
+25
+
+26
+
+14
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+1 56. On December 10, 2019, the City Council adopted Ordinance No. 7,683-N.S.
+
+2 (the "New ADU Ordinance"), as an urgency ordinance, adopting the recommendations, findings,
+
+3 and conclusions made in the Staff Report.
+
+4 57. The New ADU Ordinance found that a "severe housing crisis exists in the
+
+5 state with the demand for housing outpacing supply" and that ADUs "provide flexible
+
+6 opportunities for infill housing." The New ADU Ordinance completely amended and restated the
+
+7 City's ADU Ordinance by replacing the ADU Ordinance's mandates and restrictions with those
+
+8 set forth in Government Code §65852.2. Further, the New ADU Ordinance relaxed regulation of
+
+9 ADUS by mandating a 60-day ministerial approval process for ADUs on all lots that allow
+
+10 residential uses and by prohibiting "a setback requirement for an existing living area or accessory
+
+11 structure or a structure constructed in the same location and to the same dimensions as an
+
+12 existing structure that is converted to an accessory dwelling unit or to a portion a of an accessory
+13 dwelling unit."
+
+14 58. By its own terms and by amending and restating the ADU Ordinance, the New
+
+15 ADU Ordinance voided and invalidated the bases for the Notice of Violation, the findings
+
+16 adverse to the Cottage made by the ZAB and the City Council, and the Resolution.
+
+17 59. Notwithstanding the passage of the New ADU Ordinance and the substantial
+
+18 evidence in the record including records of the City Inspections and the detailed analysis
+
+19 provided in the Rudder Law Group Letter, in a letter dated December 16, 2019 (the "City
+
+20 Attorney Letter"), the City by and through Assistant City Attorney Christopher D. Jensen, made
+
+21 the following determinations:
+
+22 a. The Cottage has "never been inspected to determine [sic] it meets even basic
+
+23 health and safety requirements;"
+
+24 b. The Cottage "does not comply with the four-foot side and rear yard setbacks that
+25 are required" under the New ADU Ordinance and Government Code
+
+26 §6582.2(c)(2)(C);
+
+15
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIBF
+
+HN0TInI C. The Cottage is not eligible for the Amnesty Protection under Health and Safety
+Code $17980.12 because that section "plainly" applies to "building standards"
+which would not include the types of violations alleged by the City with respect to
+the Cottage;
+d. California attorneys who make arguments such as those contained in the Rudder
+Law Group Letter regarding the eligibility of ADUs for the Amnesty Protection
+are per se acting unethically and violate Rule of Professional Conduct Rule 3.1;
+60:50. e. The Cottage "has not been inspected by the City's Building & Safety Division,
+and it is therefore impossible to conclude that even basic health and safety
+standards have been met";
+f. The City's ADU Enforcement Plan and enforcement actions to remove the
+Cottage are not "projects" within the meaning of CEQA and, even if they were,
+the City "has not taken action to demolish" the Cottage and "in any event" a
+14 "project" involving the "demolition and removal of individual small structures" is
+09 "exempt from environmental review under CEQA. (CEQA Guidelines, §
+15301(I).)";
+17 g. If the Owners do not apply for "building permits for the relocation" of the Cottage
+18 by January 3, 2020, such inaction "will result in the removal of the illegal unit
+19 from the Property."
+
+20 60. A true and correct copy of the City Attorney Letter is attached hereto as
+
+21 Exhibit D.
+
+22 61. On December 13, 2019, four days after a response was required by law, the
+
+23 City notified counsel for Petitioners that it was providing some records responsive to the request
+24 for public records set forth in the Rudder Law Group Letter. However, the City completely failed
+
+25 to provide any public records relating to: Senate Bill 13; Health and Safety Code § 17980.12
+
+26 and/or the City's interpretation and/or implementation of the Amnesty Protection;
+
+16
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+1 communications relating to denial of the Amnesty Protection for the Cottage; communications to
+
+2 or from Senior Planner Leslie Mendez relating to the Owners, the Property, the Cottage, the
+
+3 denial of the Amnesty Protection for the Cottage, Senate Bill 13 and/or Health and Safety Code
+
+4 $17980.12; or ADUs other than the Cottage inspected, approved, denied and/or subjected to code
+
+5 enforcement actions by the City.
+
+6 62. Further, the City announced that, as a matter of City policy, it was refusing to
+
+7 disclose any "electronic mail communications and internal memoranda between City officials."
+
+8 The City cited as the basis for this blanket refusal Government Code §6255, asserting that all
+
+9 electronic mail communications and all internal memoranda between City officials are
+
+10 necessarily and ipso facto subject to the deliberative process exemption.
+
+11 63. A true and correct copy of this response from the City is attached hereto as
+
+12 Exhibit E.
+
+13 64. Petitioners have duly evaluated the City's purported order that the Cottage be
+
+14 "relocated." Petitioners have concluded that no practical or feasible methodology is available
+
+15 which would allow such a "relocation" without causing the destruction of the Cottage. Even if
+
+16 such methodology were available, which it is not, no reconfiguration of the Cottage on the
+
+17 Property would allow for such an on-Property "relocation" without running afoul of the four-foot
+
+18 setbacks the City is currently demanding. Hence, any order requiring "relocation" of the Property
+
+19 is functionally and actually a demand for demolition and destruction of the Cottage. Petitioners
+
+20 are informed and believe and thereon allege that the City is fully aware that there is no
+
+21 substantive distinction between "relocation" of the Cottage and destruction of the Cottage and
+
+22 have cynically used the euphemism "relocation" to soften the blow of their draconian demand
+
+23 that the Cottage be destroyed.
+
+24 65. Given the very short period of time until the City's threatened initiation of
+
+25 draconian penalties against Petitioners, Petitioners have done all they can to exhaust all out-of-
+
+26 court remedies and have complied with all jurisdictional, legal, and statutory prerequisites to
+
+17
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+1 bringing this action.
+
+2 66. Petitioners have provided the City with written notice of the commencement
+
+3 of this action in accordance with Public Resources Code section 21167.5. Such notice is attached
+
+4 to this Petition and Complaint as Exhibit F.
+
+5 67. Petitioners are serving a copy of this Petition and Complaint on the California
+
+6 Attorney General in accordance with Public Resources Code section 21167.7 and Code of Civil
+
+7 Procedure section 388.
+
+8 68. Petitioners are serving a request for preparation of the record on the City
+
+9 concurrently with the service of this Petition and Complaint in accordance with Public Resources
+
+10 Code section 21167.6(a).
+
+11 69. Petitioners have no plain, speedy, or adequate remedy at law to redress the
+
+12 claims set forth in this Petition and Complaint.
+
+13 70. Petitioners, and the public generally, will suffer irreparable harm if
+
+14 Respondent and Defendant City of Berkeley is not required to comply with law.
+
+15 FIRST CAUSE OF ACTION
+16 (Writ of Administrative Mandate - CCP § 1094.5)
+
+17 71. Petitioners incorporate by reference the allegations of all preceding
+
+18 paragraphs as though set forth here in full.
+
+19 72. The City Council's adoption of the Resolution was unlawful. This action was
+
+20 based upon legal conclusions that were unsupported by substantial evidence in the record and
+
+21 was premised on factually erroneous findings, including a total failure to consider the existence
+
+22 of the Legacy Structure, the fact that redevelopment of the Cottage resulted in no net new loss of
+
+23 open space or increase in lot coverage, and the fact that the Property was already improved with
+
+24 the Cottage. The City Council did not provide the Owners, or the public generally, with proper
+
+25 and adequate notice. The City Council did not provide the Owners, or the public generally, with
+
+26 a meaningful opportunity to be heard. The City Council chose to interpret the City's Code with
+
+18
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+1 regard to a the Cottage in a manner disparate from its policy and practice for thousands of other
+
+2 ADUs in the City and ignored the specific mandates and conditionally permitted uses provided
+
+3 for in the R-4 District. Further, the City Council improperly attempted to use the promise of
+
+4 approvals to coerce the Owners into agreeing to an unlawful permanent deed restriction and,
+
+5 when they declined this quid pro quo, the City Council punished the Owners with the terms and
+
+6 conditions set forth in the Resolution. Further, the City Council took this action without properly
+
+7 and diligently evaluating Petitioners' property rights.
+
+8 73. The City Council's adoption of the Resolution was unlawfully made without
+
+9 adequately reviewing the potentially significant environmental effects of the Resolution under
+
+10 CEQA. Despite the City's meritless, disingenuous argument in the City Attorney Letter that the
+
+11 Resolution was not a "project" within the meaning of CEQA, Public Resources Code $21065 is
+
+12 clear that a discretionary action by the City, such as adoption of the Resolution, is precisely a
+
+13 "project" if it will either have a direct or reasonably foreseeable indirect impact on the
+
+14 environment. As the City was forced to concede in the City Attorney Letter, CEQA Guidelines
+
+15 §15301(I)(1) expressly recognizes that an action that will lead to the demolition or removal of a
+
+16 "single-family residence" such as the Cottage is a type of "project" within the meaning of
+
+17 CEQA. The City's disingenuous argument that the Resolution could have used a categorical
+
+18 exemption for its CEQA coverage betrays the simple fact that it did not. The record is devoid of
+
+19 any consideration of a categorical exemption under CEQA Guidelines §15301(l)(1), and the City
+
+20 did not issue any notice of exemption. Further, even if the City did rely on such a categorical
+
+21 exemption, which it did not, such exemption would have been disqualified due to the exceptions
+
+22 found in CEQA Guidelines $$15300.2(b)&(c) because of the Resolution's cumulatively
+
+23 considerable impacts due to the cumulative impact of successive actions to remove housing units
+
+24 of the same type over time as part of the ADU Enforcement Plan and because of the reasonable
+
+25 possibility that the demolition and removal mandated by the Resolution would have a significant
+
+26 effect on the environment due to the unusual circumstances of demolishing a residential unit in
+
+19
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+the middle of a high density urban area. The City's failure to comply with the basic mandates of
+
+2 CEQA is inexcusable and the related assertions it makes in the City Attorney Letter are without
+
+3 probable cause and for the improper purpose of harassing and maliciously injuring the Owners
+
+4 and the public generally.
+
+5 74. Further, the Resolution is legally void and invalid because of the enactment of
+
+6 AB 881, Government Code $65852.2, and the New ADU Ordinance. These enactments preempt,
+
+7 replace, invalidate, void and invalidate the bases for the Resolution, the Notice of Violation, the
+
+8 findings adverse to the Cottage made by the ZAB and the City Council, and the planning,
+
+9 building, and zoning standards announced by the City to be applicable to the Cottage.
+
+10 75. The City's issuance of its determination in the City Attorney Letter that the
+
+11 Cottage is ineligible for the Amnesty Protection is unlawful and in direct violation of the plain
+
+12 language of Health and Safety Code §17980.12 and Government Code §65852.2(n). This
+
+13 determination was made without substantial evidence in the record and was premised on
+
+14 factually erroneous findings. In making this decision, the City did not provide proper and
+
+15 adequate notice or a meaningful opportunity to be heard. Further, the City took this action in
+
+16 violation of Section 38 of the Charter of the City of Berkeley which reserves to the City Council
+
+17 the corporate powers of the City. The authority to set policy for the City in this respect is not
+
+18 vested in Senior Planner Leslie Mendez or Assistant City Attorney Christopher D. Jensen. Their
+
+19 determinations regarding the Amnesty Protection and their authority to so determine are without
+
+20 probable cause and for the improper purpose of harassing and maliciously injuring the Owners
+
+21 and the public generally. Further, this determination, which would lead to demolition of the
+
+22 Cottage, was unlawfully made without adequately reviewing its potentially significant
+
+23 environmental effects under CEQA.
+
+24 76. The City's issuance of its determination in the City Attorney Letter that the
+
+25 Cottage may not be now legalized through issuance of a ministerial permit is unlawful and in
+
+26 direct violation of the plain language of Government Code $65852.2 and the New ADU
+
+20
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+1 Ordinance. This determination was made without substantial evidence in the record and was
+
+2 premised on factually erroneous findings, including the demonstrably false assertions that the
+
+3 Cottage was not inspected by the City and that a four-foot setback would be required. The City
+
+4 brazenly, unlawfully, and willfully ignored key facts including the occurrence of the City
+
+5 Inspections, the existence of the Legacy Structure, and the fact that the Cottage does not occupy
+
+6 a footprint greater than the Legacy Structure. In making this decision, the City did not provide
+
+7 proper and adequate notice or a meaningful opportunity to be heard. Further, the City took this
+
+8 action in violation of Section 38 of the Charter of the City of Berkeley which reserves to the City
+
+9 Council the corporate powers of the City. The authority to set policy for the City in this respect is
+
+10 not vested in Senior Planner Leslie Mendez or Assistant City Attorney Christopher D. Jensen.
+
+11 Their refusal to allow issuance of a ministerial permit for the Cottage is without probable cause
+
+12 and for the improper purpose of harassing and maliciously injuring the Owners. Further, this
+
+13 determination which would lead to demolition of the Cottage was unlawfully made without
+
+14 adequately reviewing its potentially significant environmental effects under CEQA.
+
+15 77. As such, in approving and continuing to implement the Resolution and in
+
+16 making the determinations set forth in the City Attorney Letter, the City has acted in excess of its
+
+17 jurisdiction and has not proceeded in a manner required by law. Its actions in this regard were
+
+18 arbitrary and capricious and constitute a prejudicial abuse of discretion.
+
+19 78. Accordingly, Petitioners who are beneficially interested, and who are
+
+20 substantially prejudiced, and whose interests are adversely impacted, by such actions are entitled
+
+21 to issuance of a writ of mandate directing the City of Berkeley to void and set aside the
+
+22 Resolution and the determinations made in the City Attorney Letter, and to promptly issue a
+
+23 ministerial approval legalizing the Cottage.
+
+24 79. WHEREFORE, Petitioners pray relief as set forth below.
+
+25
+
+26
+
+21
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+1 SECOND CAUSE OF ACTION
+
+2 (Writ of Mandate - CCP $§ 1085, 1086)
+
+3 80. Petitioners incorporate by reference the allegations of all preceding
+
+4 paragraphs as though set forth here in full.
+
+5 81. The City's decision to pursue, and ongoing implementation of, the ADU
+Enforcement Plan is unlawful. This decision was made without substantial evidence in the record
+6
+
+7 and was premised on factually erroneous findings. In making this decision, the City did not
+
+8 provide proper and adequate notice or a meaningful opportunity to be heard. Further, the City
+
+9 took this action in violation of Section 38 of the Charter of the City of Berkeley which reserves
+
+10 to the City Council the corporate powers of the City. The authority to set policy for the City as to
+if and whether to cause the demolition of thousands of habitable residential units is not vested in
+11
+
+12 City staff. Further, this decision was unlawfully made without adequately reviewing its
+
+13 potentially significant environmental effects, including cumulative effects, under CEQA.
+
+14 82. Further, the ADU Enforcement Plan is legally void and invalid because of the
+
+15 enactment of AB 881, Government Code §65852.2, and the New ADU Ordinance. These
+
+16 enactments preempt, replace, invalidate, void and invalidate the bases for the ADU Enforcement
+
+Plan.
+17
+
+18 83. The City's decision, announced in the City Attorney Letter, to declare that any
+
+19 counsel for ADU owners similarly situated to the Owners who request protection under the
+
+20 Amnesty Protection, are per se acting unethically and violate Rule of Professional Conduct Rule
+
+21 3.1 was unlawful, in excess of the City's jurisdiction, and was made without substantial evidence
+
+22 in the record and was premised on legally and factually erroneous findings. This decision will
+
+23 adversely affect thousands of ADU owners in the City of Berkeley whose Constitutional rights to
+
+24 counsel and due process rights will be adversely affected by the chilling effect such a formal
+
+25 declaration, made under color of law, will have on attorneys who would otherwise consider
+
+26 representing such beneficially interested property owners. This decision was a cynical and
+
+22
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+malicious attempt by the City to dissuade attorneys from challenging the City's unlawful
+
+2 conduct. Further, this decision was made without probable cause and for the improper purpose of
+
+3 harassing and maliciously injuring Berkeley ADU owners and their counsel.
+
+4 84. The New ADU Ordinance imposes limits on ADUs which are more restrictive
+
+5 than those permitted under Government Code $65852.2 and, as such, it violates the express
+
+6 terms of Government Code §65852.2 and is ab initio invalid and void. AB 881 was deliberately
+
+7 designed to require cities such as the City to apply permissive state rules for ADU applications
+
+8 unless and until the city adopts a fully compliant local ADU ordinance. A city cannot avoid that
+
+9 aspect of the law by adopting an urgency ordinance unless that ordinance itself fully complies
+
+10 with state law. Nor can a city adopt limits a on ADUs that are more restrictive than those allowed
+
+11 by state law in the guise of "public safety"; the Legislature has already weighed concerns about
+
+12 the impacts of density against the vital need for additional housing supply in California's cities,
+
+13 and AB 881 reflects the outcome of those deliberations.
+
+14 85. Under the Public Records Act (Government Code §§ 6250 et seq.) and the
+
+15 California Constitution, Petitioners have a right to inspect and the City has a duty to a provide
+
+16 promptly and without delay public records subject to disclosure.
+
+17 86. Petitioners submitted a valid request for records. City did not timely respond
+
+18 to this request but, when it did, the City did not disclose all of the records requested, admitted
+
+19 that it possessed additional responsive records, and refused to disclose all such records.
+
+20 87. The City cannot demonstrate that any record, other than attorney-client
+
+21 communications, subject to Petitioners' request, or any portion of such records, are exempt under
+
+22 express provisions of the Public Records Act or any other authority, or that on the facts of this
+
+23 particular case the public interest served by not disclosing such records clearly outweighs the
+
+24 public interest served by disclosing such records.
+
+25 88. Further, the City's policy that all electronic mail communications and all
+
+26 internal memoranda between City officials are necessarily and ipso facto subject to the
+
+23
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+1 deliberative process exemption under Government Code §6255 is unlawful. Well established
+
+2 California case law prohibits blanket declarations of "deliberative process" and requires a
+
+3 specific, fact-based balancing test on a document by document basis.
+
+4 89. Each of these actions by the City were unlawful, arbitrary, capricious,
+
+5 entirely lacking in evidentiary support, contrary to established public policy, in excess of the
+
+6 authority granted by law, and procedurally unfair. The City has a clear and present duty a to, and
+
+7 should be compelled to, comply with law, correct its unlawful acts, and perform its mandatory
+
+8 duties.
+
+9 90. Code of Civil Procedure § 1085(a) authorizes Courts to issue a writ of mandate
+
+10 to compel the performance of an act that the law specifically requires. Writ relief is also
+
+11 available to compel a public officer to perform a mandatory, ministerial act. Pursuant to Code of
+
+12 Civil Procedure §1085, writ relief is also available to correct a legislative decision that is
+
+13 arbitrary, capricious, entirely lacking in evidentiary support, contrary to established public
+
+14 policy, unlawful, or procedurally unfair. Further, Courts may rely upon mandamus under Code
+
+15 of Civil Procedure $1085 to review the validity of a quasi-legislative action. Where, as here, an
+
+16 administrative agency has exceeded its authority in the exercise of its quasi-legislative powers, a
+
+17 a Court may issue a writ of mandate.
+
+18 91. Petitioners and their members are beneficially interested in the outcome of
+
+19 this proceeding and hereby seck to procure the enforcement of a public duty. Petitioners have no
+
+20 plain, speedy and adequate remedy at law, other than this proceeding, to compel the City to
+
+21 proceed in a manner required by law to enforce its own laws.
+
+22 92. WHEREFORE, Petitioners pray relief as set forth below.
+
+23 THIRD CAUSE OF ACTION
+24 (Declaratory Relief - CCP § 1060)
+
+25 93. Petitioners incorporate by reference the allegations of all preceding
+
+26 paragraphs as though set forth here in full.
+
+24
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+1 94. An actual controversy has arisen and now exists between Petitioners and the
+
+2 City relating to their respective rights and duties. Petitioners contend that the City's actions
+
+3 complained of in this Petition and Complaint were unlawful and that City has a mandatory to
+
+4 take specific actions. Petitioners are informed and believe and thereon allege that the City
+
+5 disputes Petitioners' allegations and contends that its actions were in all respects proper and
+
+6 lawful.
+
+7 95. A judicial determination is necessary and appropriate at this time so that
+
+8 Petitioners and the City may ascertain their respective rights and duties.
+96. Specifically, Petitioners seek judicial declarations that:
+a. The Notice of Violation is void and of no further force or effect; E S b. The Resolution is void and of no further force or effect;
+
+C. The City comprehensively inspected the Cottage during the City Inspections and
+at no time before, during, or after the City Inspections did representatives of the
+14 City conclude that any basic health and safety standards had been violated or that
+15 any significant habitability issues existed within the Cottage;
+16 d. The Legacy Structure was redeveloped into the Cottage and the Cottage does not
+occupy a footprint greater than the Legacy Structure;
+18 e. No practical or feasible methodology is available which would allow relocation of
+2868 the Cottage without causing its destruction;
+f. The Cottage and similarly situated ADUs in the City of Berkeley are eligible for
+the protections of the Amnesty Protection;
+22 g. The Cottage and similarly situated ADUs in the City of Berkeley are not subject
+23 to a setback requirement;
+
+24 h. The Cottage and similarly situated ADUs in the City of Berkeley may be
+
+25 legalized through issuance of a ministerially approved permit;
+
+26 i. The ADU Enforcement Plan is unlawful, legally void, and invalid;
+
+25
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+FNMtU j. The City's decision, announced in the City Attorney Letter, to declare that any
+counsel for ADU owners similarly situated to the Owners who request protection
+under the Amnesty Protection, are per se acting unethically and violate Rule of
+Professional Conduct Rule 3.1 was unlawful, inappropriate, and in excess of the
+City's jurisdiction;
+k. The New ADU Ordinance is in violation of Government Code $65852.2 and is ab
+
+6EE-0. initio invalid and void;
+
+1. The City's failure to disclose public records was unlawful; and,
+m. The City's policy that all electronic mail communications and all internal
+memoranda between City officials are necessarily and ipso facto subject to the
+deliberative process exemption under Government Code §6255 is unlawful.
+97. WHEREFORE, Petitioners pray relief as set forth below.
+13 FOURTH CAUSE OF ACTION
+14 (Injunctive Relief - CCP § 526) §
+
+15 98. Petitioners incorporate by reference the allegations of all preceding
+
+16 paragraphs as though set forth here in full.
+
+17 99. Petitioners have no plain, speedy and adequate remedy at law, other than this
+
+18 proceeding to compel the City to take the actions requested by this Petition and Complaint.
+
+19 100. The City is threatening to take draconian actions including misdemeanor
+
+20 prosecutions, unconscionably steep fines, the recordation of liens, against the Owners, and
+
+21 against similarly situated ADU owners in the City of Berkeley, unless they initiate the
+
+22 demolition of the Cottage and similarly situated ADUs within the City of Berkeley. Unless and
+
+23 until the City is enjoined from taking these unlawful acts by order of this Court, Petitioners,
+
+24 owners of ADUs similarly situated to the Cottage, and the public generally will suffer great and
+
+25 irreparable injury.
+
+26 101. The City has a mandatory duty to provide the Cottage and other similarly
+
+26
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+1 situated ADUs in the City of Berkeley with the Amnesty Protection and, yet, refuses to do so.
+
+2 Unless and until the City is compelled to take these acts by order of this Court, Petitioners,
+
+3 owners of ADUs similarly situated to the Cottage, and the public generally will suffer great and
+
+4 irreparable injury.
+
+5 102. The City has a mandatory duty to ministerially issue permits to legalize
+
+6 the Cottage and other similarly situated ADUs in the City of Berkeley and, yet, refuses to do so.
+
+7 Unless and until the City is compelled to take these acts by order of this Court, Petitioners,
+
+8 owners of ADUs similarly situated to the Cottage, and the public generally will suffer great and
+
+9 irreparable injury.
+10 103. WHEREFORE, Petitioners pray relief as set forth below.
+FS023 PRAYER FOR RELIEF
+WHEREFORE, Petitioners pray:
+
+1. For a peremptory writ of mandate directing the City to:
+14 (a) Void and set aside the Notice of Violation;
+
+15 (b) Void and set aside the Resolution;
+
+16 (c) Void and set aside its decision that the Cottage must be
+17 "removed";
+
+18 (d) Void and set aside its decision that the Cottage and similarly
+
+19 situated ADUs in the City of Berkeley are ineligible for the protections of the Amnesty
+20 Protection;
+
+21 (e) Void and set aside its decision that the Cottage and similarly
+22 situated ADUs in the City of Berkeley are subject to setback requirements
+23 (f) Void and set aside the ADU Enforcement Plan;
+
+24
+
+25
+
+26
+
+27
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+P (g) Void and set aside its decision to declare that any counsel for ADU
+
+2 owners similarly situated to the Owners who request protection under the Amnesty Protection,
+
+3 are per se acting unethically and violate Rule of Professional Conduct Rule 3.1;
+
+4 (h) Void and set aside the New ADU Ordinance and adopt a new ADU
+
+5 ordinance that complies with law;
+
+6 (i) Void and set aside its decision to withhold the public records
+
+7 requested by Petitions;
+
+8 (i) Void and set aside its policy that all electronic mail
+
+9 communications and all internal memoranda between City officials are necessarily and ipso facto
+
+10 subject to the deliberative process exemption under Government Code §6255;
+
+11 (k) Cease and desist in its efforts to take administrative enforcement
+
+12 action related to the Cottage and other similarly situated ADUs;
+
+13 (1) Provide the Cottage and other similarly situated ADUs in the City
+
+14 of Berkeley with the Amnesty Protection; and,
+
+15 (m) Ministerially issue permits to legalize the Cottage and other
+
+16 similarly situated ADUs in the City of Berkeley;
+
+17 2. For an alternative writ of mandate directing the City to take the actions set
+
+18 forth in the preceding paragraph or to show cause before this Court why they have not done so.
+
+19 3. For a judicial declaration of the rights of the parties with respect to the
+
+20 matters set forth in this Petition and Complaint.
+
+21 4. For an immediate stay and preliminary and permanent injunction
+
+22 enjoining and restraining the City from further enforcement actions related to the Cottage and
+
+23 other similarly situated ADUs in the City of Berkeley.
+
+24 3. For Petitioners' costs of suit.
+
+25
+
+26
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+1 4. For an award of reasonable attorneys' fees under Code of Civil Procedure
+
+2 section 1021.5, and such other laws as may provide for recovery of costs and fees as private
+
+3 attorneys general.
+
+4 5. For such other relief as the Court deems just and proper.
+
+5
+DATED: January 1, 2020
+RUDDER LAW GROUP, LLP
+n
+6550500E5O• By: S Josnua Safran
+Attorneys for Petitioners and Plaintiffs BERKELEY ADVOCATES FOR SMART
+HOUSING & GLEN STEVICK
+
+2R58 22
+23
+
+24
+
+25
+
+26
+
+29
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIEF
+
+VERIFICATION -
+
+2 I have read the foregoing Verified Petition for Writ of Mandate and Complaint for
+3 Declaratory and Injunctive Relief and know its contents.
+4
+a I am a party to this action, and am authorized to make this verification for and on
+5
+
+6 behalf of myself and Berkeley Advocates for Smart Housing, and I make this verification for that
+
+7 reason. I am informed and believe and on that ground allege that the matters stated in the
+
+8 foregoing Petition and Complaint are true.
+
+9 Executed at Berkeley, California, on January 1, 2020.
+
+10 I declare under penalty of perjury under the laws of the State of California that the
+11 foregoing is true and correct.
+12
+13
+14 dlydiesad 15
+
+16
+
+17
+
+18
+
+283 21
+22
+
+23
+
+24
+
+25
+
+26
+
+30
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DEC. & INJUNCTIVE RELIER
+
+EXHIBIT
+A
+
+RESOLUTION NO. 68,829-N.S.
+
+DENYING USE PERMIT/VARIANCE #ZP2018-0021 TO LEGALIZE AN UNPERMITTED
+DETACHED DWELLING UNIT IN THE REAR YARD AREA OF AN EXISTING 8-UNIT
+APARTMENT BUILDING AT 1722 WALNUT STREET IN THE MULTI-FAMILY
+RESIDENTIAL (R-4) ZONING DISTRICT
+
+WHEREAS, on January 29, 2018, John Stevick ("Applicant") filed an application to legalize a detached dwelling unit located in the rear yard area of an existing eight-story apartment building located at 1722 Walnut Street ("Project"); and
+WHEREAS, on September 5, 2018, staff deemed this application complete; and
+WHEREAS, on November 8, 2018, at a duly noticed public hearing, the Zoning Adjustments Board denied Use Permit/Variance #ZP2018-0021 for the reasons set forth in a notice of decision released on November 15, 2018; and
+
+WHEREAS, on November 15, 2018, staff issued the notice of the ZAB decision; and
+
+WHEREAS, on November 28, 2018, Margrett Lewis and Joe Priest filed an appeal of the
+ZAB decision with the City Clerk; and
+WHEREAS, on March 26, 2019, the Council held a public hearing to consider the ZAB's decision, and, in the opinion of this Council, the facts stated in or ascertainable from the public record, including comments made at the public hearing, warrant denying the project.
+NOW THEREFORE, BE IT RESOLVED by the Council of the City of Berkeley that the Council hereby adopts the findings for denial made by the ZAB in Exhibit A, affirms the
+decision of the ZAB to deny Use Permit/Variance #ZP2018-0021, and dismisses the appeal with stipulations that allow for the current resident to remain for the term of the lease; prohibit any other rental or occupation of the structure; and allow the structure to remain for six months from the date of issuance of the Notice of Decision to allow time for the property owner to find an alternative off-site location for the structure.
+
+Resolution No. 68,829-N.S. Page 1 of 2
+
+The foregoing Resolution was adopted by the Berkeley City Council on April 23,
+2019 by the following vote:
+
+Ayes: Bartlett, Davila, Hahn, Harrison, Robinson, and Arreguin.
+
+Noes: None.
+
+Abstain: Droste, Kesarwani, and Wengraf.
+
+Absent: None, Hune Seuegrim Jesse Arreguin, Mayof)
+
+Attest:
+Mark Numainville, City Clerk
+
+Resolution No. 68.829-N.S. Page 2 of 2
+
+EXHIBIT A to Resolution
+
+FINDINGS FOR DENIAL
+NOVEMBER 8, 2018
+1722 Walnut Street
+Use Permit/Variance #ZP2018-0021 to permit a ninth dwelling unit on a lot with an existing two-story, eight unit apartment building.
+
+PERMITS REQUIRED
+Use Permit to construct a new dwelling unit, under BMC Section 23D.40.030 Admirfistrative Use Permit (AUP) to reduce the rear yard setback for two or more Main Buildings which contain dwelling units under BMC 23D.40.070.D.1
+Administrative Use Permit (AUP) to reduce the required building separation between two or more
+main building that contain dwelling units under BMC 23D.40.070.D.2 Variance to decrease the required left side yard setback below minimum requirement per BMC 23D.40.070.D
+Variance to further increase the non-conforming lot coverage over the maximum requirement per BMC 23D.40.070.E
+Variance to not provide and to further decrease the non-conforming Useable Open Space per dwelling below the minimum requirement per BMC 23D.40.070.F Variance to not provide the minimum parking requirement (one space) for a new dwelling unit per BMC 23D.40.080.A
+
+I. VARIANCE FINDINGS
+Pursuant to Berkeley Municipal Code Section 23B.44.030.B, the City cannot make the findings required by Berkeley Municipal Code Section 23B.44.030.A, and therefore must deny the
+Variances to: (1) to permit a 2.2-foot side yard setback where a minimum of 4 feet is required for a first story by BMC 23D.40.070.D; (2) to not provide off-street parking space that is required for the new dwelling by BMC 23D.40.080.A; (3) to further increase the existing non-conforming 60% lot coverage to 61% where the maximum is 45% for a property with two-story building per BMC
+23D.40.070.E; and (4) to not provide the required Useable Open Space and further reduce the existing non-conforming open space to 990 square feet, where double that (1,800 square feet) is required by BMC 23D.40.070.F, for the following reasons:
+
+i, There are exceptional or extraordinary circumstances or conditions applying to the land, building or use referred to in the application, which circumstances or conditions do not apply generally to land, buildings and/or uses in the same Disfrict:
+The applicant has provided no evidence, nor can staff find evidence of circumstance or conditions that apply to the land, building or use which do not generally apply to land buildings and/or uses in the same District. Neither access to public transportation nor existence of an
+illegal condition are considered unique or otherwise exceptional or extraordinary. Similarly, due to the age of buildings and the various changes made over time to the Zoning Ordinance, many buildings and sites are non-conforming in this District to varying degrees, including the subject
+site. This finding cannot be made.
+
+EXHIBIT A to Resolution
+1722 WALNUT STREET- USE PERMIT/VARIANCE #ZP2018-0021 FINDINGS & CONDITIONS
+November 8, 2018 Page 2 of 2
+
+ii. The granting of the application is necessary for the preservation and enjoyment of substantial property rights of the subject property's owner:
+Staff interprets property rights as a property owner's ability to use his or her property in a manner consistent with the applicable provisions of the Ordinance; the application cannot be used to support any condition that a property is in, or made to be, that is unlawful. Nor is it related to the financial viability or profitability of property. The applicant has not provided evidence that the use of the property with its unpermitted condition is necessary for the preservation and enjoyment of substantial property rights. In fact, the property owners purchased, and have
+managed, a property with eight lawful, rental dwelling units for several years. This finding cannot be made.
+
+fii. The establishment, maintenance or operation of the use or the construction of a building, structure or addition thereof, to be approved will not, under the circumstances of the particular case, materially affect adversely the health or safety of persons residing or working in the neighborhood of the property of the applicant and will not, under the circumstances of the particular case, be materially detrimental to the public welfare or injurious to property or improvements in said neighborhood; and that the granting of the Variance will promote the
+municipal health, welfare and safety and benefit the a City as a whole:
+
+One of the purposes of the R-4 District is to "Make available housing for persons who desire both convenience of location and a reasonable amount of Useable Open Space." The project site is currently non-conforming for Useable Open Space and exceeds allowable lot coverage, the proposed project exacerbates both these conditions. The project, therefore, alsa conflicts with the purposes of the Zoning Ordinance in that it exceed the appropriate intensity of development of land and buildings through excessive lot coverage (BMC 23A.04.030.C) and does not provide for adequate usable open space or off-street parking (BMC 23A.04.030.E), This Finding cannot be made.
+
+File: Ncobnas1 PlanningSLANDUSE Wrojects by AddressWalnuN1722\Z2018-002 NDocument finals\2018-11-08ZA. Finding for Denial- Revised_ 1722 Walnul.docx
+
+EXHIBIT
+
+B
+
+N
+
+RUDDER LAW GROUP JOSHUA SAFRAN
+(510) 384-7627
+JSAFRAN@RUDDERLAWGROUP.COM
+
+November 28, 2019
+
+Farimah Faiz Brown, Esq.
+City Attorney
+2180 Milvia Street
+4.th Floor
+Berkeley, CA 94704
+
+By Federal Express, Email (fbrown@cityofberkeley.info) & Facsimile ((510) 981-6960)
+Request for Reversal of City Denial of Amnesty Request per Health and Safety Code §17980.12; and,
+Request for Public Records
+1722 Walnut Street (#ZP2018-0021)
+Dear City Attorney Brown:
+Please be advised that we have been retained to represent Berkeley Advocates for Smart Housing ("BASH"), an unincorporated association of Berkeley residents committed to housing policy reform in the City of Berkeley. Our clients' members have supported the recent passage of historic statewide housing legislation, including AB 68, AB 881, AB 1482, SB 13, and SB 330, and are uniquely interested in seeing these laws quickly and appropriately implemented in Berkeley. Given the current housing crisis in Berkeley and the recent passage of these historic laws, including the five-year "amnesty" provisions of SB 13, BASH was disappointed to receive a decision from the City denying one of our client's member's reasonable request for amnesty, under Health and Safety Code §17980.12, to stay an enforcement action by the City to compel "removal" of an existing accessory dwelling unit.
+We submit this letter to: (1) request that the City reverse its decision (the "Amnesty Denial") of October 29, 2019, issued by Senior Planner Leslie Mendez, a true and correct copy of which is attached hereto as Exhibit A; and, (2) request the public records specified below.
+
+I. Procedural History
+That certain real property commonly known as 1722 Walnut Street (the "Property") in the City of Berkeley is owned by individuals Elizabeth Scherer & Glen Stevick (the "Owners"), who are members of BASH. The lot area of the Property is approximately 5,479 sq. ft. and is currently zoned R-4, Multi-Family Residential District, which district is designed for "relatively high density residential areas" and permits the
+
+1101 MARINA VILLAGE PKWY, SUITE 201, ALAMEDA, CA 94501
+www.RUDDERLAWGROUP.COM
+
+establishment of Accessory Dwelling Units ("ADUs"). In roughly 1917, the rear
+portion of the Property was developed with an accessory structure that has been
+continuously used for various purposes over the years. This structure was
+subsequently redeveloped into a cottage (the "Cottage") which is a prior
+noncomforming ADU.
+On or about January 29, 2018, the Owners submitted an application for a use permit and variance to bring the Cottage into compliance with applicable City laws, to the extent the Cottage did not already so comply. The City deemed the application complete on or about September 5, 2018. A true and correct copy of the Owners' operative submittal is attached hereto as Exhibit B.
+On or about November 8, 2018, the City's Zoning Adjustments Board ("ZAB") conducted a hearing and issued a Notice of Decision. The ZAB found that the Cottage was '"aesthetically pleasing,' has "minimal impact to air, views, or light of the existing or neighboring properties," and is "within 0.5 miles of Downtown BART, 0.1 miles of the closest bus stop, 0.2 miles of the closest trans-bay bus stop, and 0.2
+miles of the closed UC Berkeley shuttle."1 Despite these findings, the ZAB stated that it "denied" the following permits which City staff had unilaterally determined would be needed:
+
+Use Permit to construct a new dwelling unit, under BMC Section 230.40.030
+Administrative Use Permit (AUP) to reduce the rear yard setback for two or
+more Main Buildings which contain dwelling units under BMC 230.40.070.0
+.1
+Administrative Use Permit (AUP) to reduce the required building separation
+between two or more main building that contain dwelling units under BMC
+230.40.070.0.2
+Variance to decrease the required left side yard setback below minimum
+requirement per BMC 230.40.070.0
+Variance to further increase the non-conforming lot coverage over the
+maximum requirement per BMC 230.40.070.E
+Variance to not provide and to further decrease the non-conforming Useable
+Open Space per dwelling below the minimum requirement per BMC
+230.40.070.F
+Variance to not provide the minimum parking requirement (one space) for a new dwelling unit per BMC 230.40.080.A
+A true and correct copy of the ZAB's Notice of Decision is attached hereto as Exhibit
+C. The ZAB's decision was premised on factually erroneous findings and made legal
+conclusions that were unsupported by substantial evidence in the record and
+constituted an abuse of discretion. The ZAB did not provide the Owners a meaningful opportunity to be heard, treated the Property as though it were not already improved with the Cottage, chose to interpret the City's Code with regard to
+
+Further, it should be noted that the City inspected the Property on numerous occasions and found no habitability issues with the Cottage and required no corrections.
+
+2
+
+the Cottage in a manner disparate from its policy and practice for thousands of other
+ADUs in the City, and ignored the specific mandates and conditionally permitted
+uses provided for in the R-4 District.
+The Owners subsequently caused a timely and duly filed administrative appeal of the ZAB's decision to be brought before the City Council. A true and correct copy of
+this administrative appeal is attached hereto as Exhibit D.
+On or about March 26, 2019, the City Council held a hearing to consider the
+administrative appeal. At the hearing, the Council offered to make findings to
+confirm the consistency of the Cottage with applicable municipal ordinances in exchange for a permanent deed restriction limiting occupancy of the Cottage to low- income tenants. The Owners were willing to such limitation for a term of years, but not a perpetual deed restriction. In response, the City Council rubberstamped the ZAB's denial based on the same factually erroneous findings and legal
+conclusions that were unsupported by substantial evidence in the record and
+constituted an abuse of discretion. Again, the Council did not provide the Owners a meaningful opportunity to be heard, treated the Property as though it were not already improved with the Cottage, chose to interpret the City's Code with regard to a the Cottage in a manner disparate from its policy and practice for thousands of other ADUs in the City, and ignored the specific mandates and conditionally permitted uses provided for in the R-4 District.
+Further, the City conducted no meaningful environmental review in accordance
+with CEQA prior to committing itself to the definite course of action of mandating the cumulatively considerable reduction of available housing stock in the City and made no consideration of housing policy or impacts to affordable housing. The City, then, issued Resolution No. 68,829-N.S. (the "Resolution"), a true and correct copy of which is attached as Exhibit E. hereto.
+The plain meaning of the Resolution is impermissibly vague and ambiguous and its practical effect, if any, on the Property or the Cottage is confusingly silent. Neither the Resolution nor any related notice of decision was timely transmitted to the
+Owners.
+
+On or about August 23, 2019, the Owners received an informal email from Senior
+Planner Leslie Mendez indicating, for the first time, that the City had (somehow) determined that the Cottage could "no longer be on the [Property]" as of November 3, 2019. It was unclear how or why this conclusion was reached or what "no longer on the Property" entailed. A true and correct copy of this email is attached as Exhibit E, hereto, and purported to transmit, for the first time, a "notice of decision" relating
+to the Resolution.
+
+On October 15, 2019, the a Owners wrote a letter to Senior Planner Leslie Mendez,
+indicating that since they had last spoken, the Governor of California had signed several ADU related bills into law. The letter further stated:
+
+3
+
+In SB 330, the State Legislature declared a Statewide housing emergency. Specifically, they found that "California is experiencing a housing supply crisis, with housing demand far outstripping supply" and that this has "[i]ncreased poverty and homelessness." They further found that the
+"housing crisis is severely impacting
+the state's economy" and that this has been caused, in part, by the "activities
+and policies of many local governments," such as the City of Berkeley. Indeed, they found that "[m]any local governments do not give adequate attention to
+the economic, environmental, and social costs of decisions that result in
+disapproval of housing development projects, reduction in density of housing projects, and excessive standards for housing development projects." It is the Legislature's specific intent to "meaningfully and effectively" curb "the capability of local governments to deny, reduce the density for, or render infeasible housing development projects." This declaration mirrors our original arguments supporting the cottage.
+In this context, it is both surprising and troubling that the City seems intent on trying to reduce Berkeley's available housing stock, in general, and to gin up an enforcement action based on a superficial and hypertechnical read of obscure zoning requirements the very types of "excessive standards" decried by the Legislature - against our ADU, in particular.
+In order to give you and the City more time to consider the new State Laws, please be advised that California Health and Safety Code section 17980.12 mandates that where a City takes an enforcement action against an ADU, such as ours, built prior to January 1, 2020 - even if the City considers it a "nuisance" to be "abated". the City must provide notice that the owner of the ADU "has a right to request a delay in enforcement ... for five years." We are under the impression that the City has not issued us such a notice. Further, the City must provide a form allowing ADU owners, such as myself, to request such a delay in enforcement. We ask that the City send us a copy of
+the City's form for this purpose.
+With the passage of SB 13 on October 9, 2019, the State of California allows for our cottage to stand. We look forward to working with you and the City of Berkeley on any remaining issues and the development of a program advocating additional smart infill units like our cottage. Additionally, we request and look forward to the notice and five-year delay in enforcement form required by the California Health and Safety Code.
+A true and correct copy of this letter is attached as Exhibit G, hereto.
+Confusingly, Senior Planner Leslie Mendez responded to the Owner's letter by email
+(set forth in Exhibit A), by:
+(A) making the Amnesty Denial, discussed in greater detail below;
+
+4
+
+(B) making an unsubstantiated, nonresponsive, and nonsequitorial finding that the Cottage "does not meet the minimum setback requirements that would allow ministerial approval of the project";
+(C) creating new findings from whole cloth that "there is no pathway" to
+approve the Cottage "without the required 4-foot setbacks";
+(D) demanding "compliance" with the Resolution by having the Cottage
+"removed from the property" by November 3, 2019, despite the fact that
+neither removal nor the given date were mandated by the Resolution;
+(E) arbitrarily and contradictorily mandating that the Cottage be "relocated,"
+presumably elsewhere on the Property "so that it has a minimum 4-foot side yard and rear yard setback";
+(F) arbitrarily mandating eviction of existing Cottage tenants and fabricating random "compliance" dates under the threat of unspecified "resumption" of "Code Enforcement" action;
+(G) inexcusably neglecting to provide the state-mandated form the City must provide allowing ADU owners to request a delay in enforcement as specifically requested by the Owners.
+It is our understanding that the City is currently threatening unspecified "code
+enforcement" action by January 3, 2019.
+
+II. The Amnesty Denial Should Be Reversed
+As discussed in the Owner's letter of October 15, 2019, the State Legislature recently declared a Statewide housing emergency in Senate Bill No. 330. Specifically, the Legislature found that "California is experiencing a housing supply crisis, with housing demand far outstripping supply" and that this has "[i]ncreased poverty and homelessness." They further found that the "housing crisis is severely impacting the state's economy" and that this has been caused, in part, by the "activities and policies of many local governments," such as the City of Berkeley. Indeed, they found that "[m]any local governments do not give adequate attention to the economic, environmental, and social costs of decisions that result in disapproval of housing development projects, reduction in density of housing projects, and excessive standards for housing development projects.' It is the Legislature's specific intent to "meaningfully and effectively" curb "the capability of local governments to deny, reduce the density for, or render infeasible housing development projects."
+To address this housing crisis in places such as Berkeley, the State of California enacted Senate Bill No. 13 which added Section 17980.12 (the "Amnesty Provision") to the Health and Safety Code ("HSC"). This section mandates that where a City takes an enforcement action against an ADU, such as the Cottage, built prior to January 1, 2020 - even if the City considers it a "nuisance" to be "abated" . the City must provide notice that the owner of the ADU "has a right to request a delay in
+
+5
+
+enforcement .. for five years." Further, the City must provide a form allowing ADU
+owners, such as the Owners, to request and receive such a delay in enforcement.
+In the City's Amnesty Denial, the City opines that, as a matter of law, the Amnesty Provision does not provide coverage to the Cottage because that provision applies
+only to "notices to correct a violation of a building standard" and not to notices for "failure to comply with the Zoning Ordinance."
+While the Amnesty Denial is unclear, impermissibly conclusory, vague, and unsupported by either fact or law, we take it, in light most favorable to the City, to mean that it is the City's legal opinion that the Amnesty Provision applies only to ADUs that are found to be in violation of "building standards" within the meaning of the "State Housing Law," HSC §§1790 et seq.
+We emphatically reject this interpretation of the Amnesty Provision.
+First, HSC §17920(c) specifically defines "building standard" to mean a "building
+standard" within the meaning of HSC §18909. That section defines "building
+standard" very broadly to mean "any rule, regulation, order, or other requirement that specifically regulates, requires, or forbids the method of use, properties, performance, or types of materials used in the construction, alteration, improvement, repair, or rehabilitation of a building, structure, factory-built housing, or other improvement to real property" (emphasis added).
+It would be simply unreasonable and an abuse of discretion to conclude that the 7
+permits deemed required by the City - including those required to "construct" the Cottage and regulating the location of the Cottage on the lot, building separations, setbacks, the footprint of the Cottage, and associated parking requirements - would not be considered "requirements that specifically regulate the method of use and properties of a structure or other improvements to real property" within the plain meaning of HSC $18909. See Resolution, Findings for Denial, "Permits Required"; see
+also Resolution, Variance Findings (e.g. Finding ili governing the "establishment,
+maintenance or operation of the use or the construction of a building, structure or addition thereof").
+Second, the type of "building standards" discussed by the State Housing Law
+specifically include the granting of "variances from local use zone requirements"
+(HSC §17959.5), the number of efficiency units in an area zoned for residential use
+(HSC §17958.1), "local use zone requirements, local fire zones, building setback, side
+and rear yard requirements, and property line requirements" (HSC §17922(c)), and setback requirements for parking (HSC §17922.9(c)). These are precisely the types of violations alleged by the City in relation to the Cottage.
+Third, Section (10) of the Legislative Counsel's Digest for Senate Bill No. 13, attached hereto as Exhibit H specifies that the State Housing Law establishes "statewide construction and occupancy standards for buildings used for human habitation" and
+states that the Amnesty Provision would authorize owners of ADUs, such as the Cottage, who receive "a notice to correct violations or abate nuisances to request
+
+6
+
+that the enforcement of the violation be delayed for 5 years if correcting the violation is not necessary to protect health and safety." No mention is made of some hyper-technical distinction between "building" and "zoning" standards.
+For all of these reasons, the Amnesty Denial is simply unsupportable and the requested five-year amnesty under the Amnesty Provision should be granted for the Cottage. In this context, it is also surprising and troubling that the City seems intent on trying to reduce Berkeley's available housing stock, in general, and to gin up an enforcement action based on a superficial and hyper-technical read of obscure zoning requirements - the very types of "excessive standards" decried by the Legislature - against the Cottage, in particular.
+
+III. Request for Public Records
+To better understand these issues, we submit this request for public records pursuant to the California Constitution (as amended by Proposition 59) and the Public Records Act (Government Code §§ 6250 et seq.). This request seeks records relating specifically to the Property, the Owners, the Amnesty Denial, and the project referred to by the City as "ZP2018-0021" (the "Project").
+For purposes of this request, we provide the following clarifying definitions for the following terms:
+"All" and "any" each mean "any and all."
+"Amnesty Denial" means the City's decision of October 29, 2019, issued by Senior Planner Leslie Mendez, a true and correct copy of which is attached hereto as Exhibit A.
+"City" means the City of Berkeley, including its officers, staff, managers,
+appointees, employees, contractors, agents, representatives, attorneys, and
+consultants.
+
+"Communications" mean all verbal and written communications of every kind between and among the parties specified, including but not limited to
+telephone calls, conferences, conversations, meetings, notes, correspondence,
+emails, and memoranda.
+"Owners" means any individual known to the City having an ownership
+interest in the Property, as defined below.
+"Project" means the application, submittals relating to, and the project referred to by the City as "ZP2018-0021."
+"Property" mean that certain real property commonly referred to as 1722
+Walnut Street in Berkeley, California.
+
+7
+
+"Records" include, without limitation, all writings and documents of every type in your possession, control, or custody, including but not limited to the
+following items, whether printed or reproduced by any process, including documents sent and received by electronic mail, or written or produced by
+hand: computer data files, information stored in electronic media, including on computer tapes, disks, or diskettes, tapes, inputs, outputs, and printouts;
+notes; letters; correspondence; communications; telegrams; memoranda;
+summaries and records of telephonic and telegraphic communications;
+summaries and records of personal conversations; diaries; appointment books; reports (including any and all draft, preliminary, intermediate, and final reports); surveys; studies; comparisons; tabulations; budgets;
+workpapers; charts; plans; maps; drawings; engineering and other diagrams; photographs; film; microfilm; microfiche; tape and other mechanical and electrical audio and video recordings; data compilations; log sheets; ledgers; vouchers; accounting statements; books; pamphlets; bulletins; minutes and
+records of meetings; transcripts; stenographic records; testimony and
+exhibits, including workpapers; copies, reports, and summaries of interviews
+and speeches; reports and summaries of investigations; opinions and reports
+of consultants; reports and summaries of negotiations; press releases; newspaper clippings; drafts and revisions of draft of documents; and any and
+all other records, written, electrical, mechanical, and otherwise.
+"Relating to" means concerning, pertaining to, referring to, describing, mentioning, containing, evidencing, constituting, dealing with, discussing,
+considering, analyzing, studying, reporting on, commenting on, setting forth,
+supporting, recommending or otherwise concerning in any manner
+whatsoever the subject matter of the request.
+"Writing" means any handwriting, typewriting, printing, photostating,
+photographing, photocopying, transmitting by email or facsimile, and every
+other means of recording upon any tangible thing any form of
+communication or representation, including letters, words, pictures, sounds,
+or symbols, or combinations thereof, and any record thereby created,
+regardless of the manner in which the record has been stored.
+We hereby request the following categories of Records:
+1. All Records containing the names of any of the Owners.
+2. All Records relating to the Owners, the Property, the Amnesty Denial, and/or
+the Project.
+3. All Records containing the address 1722 Walnut Street.
+4. All Records relating to Senate Bill No. 13, including the City's lobbying efforts
+for or against said bill.
+5. All Records relating to Health and Safety Code §17980.12.
+
+8
+
+6. All Records relating to the City's interpretation of Health and Safety Code
+§17980.12.
+
+7. All Records relating to the City's implementation of Health and Safety Code
+§17980.12.
+
+8. All staff reports and agenda-related materials relating to the Project.
+9. All transcripts of any hearing relating to the Project.
+10. All audio recordings of any hearing relating to the Project.
+11. All video recordings of any hearing relating to the Project.
+12. All Communications relating to the Owners, the Property, the Amnesty Denial, and/or the Project.
+13. All Communications to or from Senior Planner Leslie Mendez relating to the
+Owners, the Property, the Project, and/or the Amnesty Denial.
+14. All Communications to or from Senior Planner Leslie Mendez relating to
+Senate Bill No. 13 and/or Health and Safety Code §17980.12.
+15. All Records and Communications relating to ADUs inspected, approved, denied and/or subjected to code enforcement actions by the City in the last
+10 years..
+Pursuant to Government Code § 6253.1, if you have any difficulty identifying responsive Records, we request that you provide assistance and suggestions for identifying responsive Records and for overcoming any practical basis for denying
+access.
+
+To the extent that there are any responsive Records, or portions thereof, which the City determines to be exempt from disclosure and seeks to withhold, please provide
+us with prompt notification of the City's intent to withhold such Records, together
+with an index and general description of such Records, the names and titles or
+positions of each person responsible for the denial of our request, and the reason(s)
+for the denial, pursuant to Government Code §§6257, 6256.2.
+We agree to appropriately reimburse you for your copying, scanning, and reproduction costs. Where feasible, we strongly prefer electronic copies of all responsive Records. It is our understanding that, by submitting this single request to
+your office, you will notify all appropriate divisions and departments within the City
+to produce any and all responsive Records.
+We would very much appreciate it if your response could be expedited, and we agree to receive responsive Records on a rolling basis, as they are identified.
+Please be advised that these documents may become part of the administrative
+record for legal action against the City. Failure to provide the documents requested
+
+9
+
+may be construed as evidence of obfuscation, delay, and bad faith. Pursuant to Government Code §6258, we may institute proceedings for injunctive or declarative relief or writ of mandate in Alameda County Superior Court against the City to enforce our rights to inspect or receive a copy of the documents requested. Pursuant to Government Code § 6259, in such an action against the City, the court may award costs and reasonable attorney fees to be paid by the City of Berkeley.
+Thank you for your cooperation in this matter, and please do not hesitate to contact
+me with any questions.
+
+For all of these reasons, we request that: the City's decision relating to the provision
+of a five-year code enforcement amnesty for the Cottage, issued on October 29, 2019 by Senior Planner Leslie Mendez, be reversed; that the Owners be provided with the form mandated by HSC §17980.12 (as requested but not received some time ago); and, that the Owners be granted the five-year amnesty from all code enforcement actions relating to the Cottage as required by law.
+PLEASE BE ADVISED: Because the City has arbitrarily established a "code a enforcement" date of January 3, 2020, we ask that the City meaningfully respond to this letter no later than 5:00 pm on December 12, 2019. Absent a reversal of
+the Amnesty Denial, BASH will challenge such denial as its first case to enforce the
+implementation of Senate Bill No. 13 in the City of Berkeley, along with the pursuit of all other related legal and equitable remedies available in Alameda County
+Superior Court.
+
+Very truly yours, Lua St
+Joshua Safran, Esq.
+
+CC: Leslie Mendez (LMendez@cityofberkeley.info) Timothy Burroughs (TBurroughs@cityofberkeley.info) Christopher D. Jensen (CJensen@cityofberkeley.info}
+Wanda Drouillard (WDrouillard@cityofberkeley.info)
+James Frank (JFrank@cityofberkeley.info)
+
+10
+
+EXHIBIT
+C
+
+Page 1 of 28
+
+CITY OF A377839 30
+
+Office of the City Manager ACTION CALENDAR
+
+To: December 10, 2019
+
+From: Honorable Mayor and Members of the City Council
+Dee Williams-Ridley, City Manager
+Submitted by: Timothy Burroughs, Director, Department of Planning and Development
+Subject: Urgency Ordinance Amending Accessory Dwelling Unit (ADU) Ordinance to Comply with New State Law and Establish Interim Limits on Development;
+Amending BMC Chapter 23C.24
+
+RECOMMENDATION
+Adopt an urgency ordinance amending Berkeley Municipal Code Chapter 23C.24 (Accessory Dwelling Units) to comply with new State law and establish interim limits on ADU development pending further analysis, deliberation and adoption of local
+regulations, in order to help ensure public safety.
+
+FISCAL IMPACTS OF RECOMMENDATION
+None.
+
+CURRENT SITUATION AND ITS EFFECTS
+Assembly Bill 8811 (see Attachment 2) signed by Governor Newsom on October 9,
+2019, requires local jurisdictions to relax or eliminate restrictions on the development of accessory dwelling units (ADUs). The intent behind the new law is to increase statewide production of ADUs by requiring every jurisdiction to ministerially approve projects, apply only a specific set of development standards identified in the State law, and implement shortened permitting timelines. New regulations go into effect on January 1,
+2020. A local ordinance will be null and void if it is not in compliance with new State law.
+The new State law effectively means that as long as an ADU application meets the
+development standards included in AB 881, the application must be approved over the counter with a Zoning Certificate.
+
+Like cities throughout California, Berkeley's existing ADU Ordinance (https://www.codepublishing.com/CA/Berkeley/), found in Berkeley Municipal Code (BMC) Chapter 23C.24, does not conform to new State law. The Planning Commission
+began the standard process for adopting permanent Zoning Ordinance amendments to
+bring the BMC into compliance with State requirements, receiving a briefing from staff on the new regulations at its November 6, 2019 meeting (see Attachment 3). However,
+
+1 https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB881; Note that only Section 1.5 of the Bill is in effect as of January 1, 2020.
+
+2180 Milvia Street, Berkeley, CA 94704 Tel: (510) 981-7000 • TDD: (510) 981-6903 • Fax: (510) 981-7099 E-Mail: manager@CityofBerkeley.info Website: http://www.CityofBerkeley.info/Manager
+
+Page 2 of 28
+Urgency Ordinance: Accessory Dwelling Units ACTION CALENDAR
+December 10, 2019
+
+the new law is complex and will require additional meetings and public input, including a public hearing, prior to recommending amendments to the City Council, a process expected to take up to six months.
+
+Since the City does not have time to complete this process prior to January 1, 2020,
+absent an urgency ordinance, State law would govern Berkeley's land use regulation as
+it relates to ADUs. Among other implications, this would mean that Berkeley's current
+prohibition on ADUs in certain areas of the city, due to health and safety concerns, would no longer be in effect.
+This is of particular concern in Berkeley Fire Zones 2 and 3 (see Attachment 4), especially in consideration of recent PG&E Public Safety Power Shutoff events and heightened awareness of fires in California. Updates to the 2019 Local Hazard
+Mitigation Plan? and adopted City Council referrals regarding development in the wildland-urban interface and ADU parking requirements in the hills directly reflect concern for evacuation planning and public safety in the event of a natural disaster.
+Existing and new State ADU regulations3 acknowledge the importance of these concerns, allowing cities to designate areas where ADUs are restricted based on potential impacts to traffic flow and public safety. In Berkeley's existing ordinance, ADUs are not allowed in the ES-R (Environmental Safety - Residential) District (Berkeley Fire Zone 3) due to fire hazards and limited emergency access/egress. Similarly, ADUs located in the Hillside Overlay, which includes almost all of Berkeley Fire Zone 2 (see Attachment 5), currently require an Administrative Use Permit (AUP) and approval by the Fire Department on lots that front on a street with less than 26 feet of pavement width. The Planning Commission and staff in the Planning and Fire Departments have begun and will continue to discuss Zoning Ordinance amendments that both address local conditions and are in compliance with new State law. However, these amendments will not be adopted by January 1, 2020.
+After January 1, 2020, Berkeley will not have the authority to apply discretionary standards such as AUP requirements on ADU locations. Therefore, the proposed urgency ordinance would temporarily impose non- discretionary restrictions in order to maximize public safety.
+State law allows a jurisdiction to adopt urgency ordinances to protect the public health, safety and welfare of its residents. The proposed urgency ordinance would continue to meet the health and safety goals of Berkeley's existing protections by prohibiting ADUs in Berkeley Fire Zone 3, and on roads in Berkeley Fire Zone 2 that are less than 26 feet
+in width. This urgency ordinance would foster public safety for the following reasons:
+
+2 https://www.cityofberkeley.info/uploadedFiles/Fire/Level_3_- General/City%20of%20Berkeley%202019%20Final%20Draft%20LHMP%20-%20COMPLETE%2009- 19-19%20Reduced.pdf 3 See California Government Code Section 65852.2(a)(1)(A)
+
+Page 2
+
+Page 3 of 28
+Urgency Ordinance: Accessory Dwelling Units ACTION CALENDAR
+December 10, 2019
+
+Berkeley's current ordinance already prohibits ADUs in Berkeley's Fire Zone 3. This area is exceptionally vulnerable to fire and earthquake hazards and is characterized by substandard vehicular access, steep slopes, inadequate water pressure, proximity to the Hayward Fault, and proximity to vegetated wildlands. It is also within the State's Very High Fire Hazard Severity Zone (see Attachment 6).
+Many of the City's narrow streets fall within the boundaries of Berkeley's Fire Zone 2 (see Attachment 4). The existing AUP requirement for ADUs in Berkeley's Fire Zone 2 was implemented in consultation with the Fire Department to address accessibility challenges on narrow and curving roads. Fire response requires deployment of hoses and other equipment that restrict vehicle and pedestrian movement along roads. Roads narrower than 26 feet are likely to be obstructed by the operations
+required by fire and emergency medical responses.
+
+In addition, Fire Department operations are impacted by increased density in Fire Zones 2 and 3 because:
+
+O Increased density translates to an increased number of people that may need
+assistance in the event of an emergency and increased numbers of people trying to evacuate narrow and windy roads. Berkeley does not want to replicate
+conditions experienced in the Oakland firestorm of 1991.
+O Accessibility issues could be exacerbated by increased density if new residents own cars and park on the street. This is a likely outcome, as off-street parking is not required for ADUs, and replacement off-street parking for primary dwelling
+units will not be required as of January 1, 2020.
+The existing AUP requirement for ADUs in Fire Zone 2 has allowed the Fire Department to require mitigations that protect public safety. Since these protections are
+discretionary and are not part of new State law, Berkeley will need to amend its Zoning Ordinance to add these requirements to a ministerial review process. As the Planning
+Commission begins working on such permanent Zoning Ordinance amendments, staff will consult with the California Department of Housing and Community Development (HCD) and the City Attorney to propose a set of objective standards that meet the Fire Department's needs and provide clarity to applicants who live in Fire Zone 2.
+In the interim, City Council is asked to adopt this urgency ordinance to maximize public safety in Fire Zones 2 and 3. The new regulations would take effect immediately upon adoption, pursuant to California Government Code Section 65858. As drafted, it would apply prospectively to projects submitted after January 1, 2020. California Government
+Code Section 65858 provides that urgency ordinances expire forty-five (45) days following their adoption unless the Council adopts an extension for up to a total of one year during that initial period. Staff would return to the Council meeting of January 21,
+
+Page 3
+
+Page 4 of 28
+Urgency Ordinance: Accessory Dwelling Units ACTION CALENDAR
+December 10, 2019
+
+2020 for this purpose. An urgency ordinance and an extension thereof requires eight affirmative votes of a nine member legislative body to be adopted.
+
+BACKGROUND
+California's State Legislature has passed significant packages of housing-related laws in the last three legislative sessions in order to address the State's housing crisis. This year's housing package included over 20 housing-focused bills that affect a variety of regulations throughout the Berkeley Municipal Code (BMC) including those pertaining to ADUs and Junior ADUs.
+
+ENVIRONMENTAL SUSTAINABILITY
+ADUs have the potential to decrease vehicles miles traveled and greenhouse gas
+emissions and increase availability of housing near campus, transit and jobs.
+RATIONALE FOR RECOMMENDATION
+Adoption of the proposed urgency ordinance on January 1, 2020 is needed to ensure public safety in the City of Berkeley.
+ALTERNATIVE ACTIONS CONSIDERED
+Council could take no action and allow the development standards for ADUs imposed
+by AB 881 go into effect on January 1, 2020.
+
+CONTACT PERSON
+Alene Pearson, Principal Planner, Department of Planning and Development, 510-981-
+7489
+
+Attachments:
+1: Draft Ordinance
+2: Section 1.5 of Assembly Bill (AB) 881 3: Planning Commission Staff Report on New ADU Legislation (November 2019)
+4: Berkeley Fire Zone Map 5: Hillside Overlay and Fire Zone 3 Map 6: Berkeley Hillside Conditions Map
+
+Page 4
+
+Page 5 of 28
+
+ORDINANCE NO. -N.S.
+
+URGENCY ORDINANCE AMENDING ACCESSORY DWELLING UNIT (ADU) ORDINANCE TO COMPLY WITH NEW STATE LAW AND ESTABLISH INTERIM LIMITS
+ON DEVELOPMENT; BERKELEY MUNICIPAL CODE CHAPTER 23C.24
+
+BE IT ORDAINED by the Council of the City of Berkeley as follows:
+
+Section 1. Findings
+a. A severe housing crisis exists in the state with the demand for housing outpacing supply.
+b. Accessory dwelling units (ADUs) provide flexible opportunities for infill housing. C. On October 9, 2019, Governor Newsom signed into law Assembly Bill (AB) 881
+which is intended to increase the state's supply of affordable housing by facilitating the construction of ADUs and Junior ADUs.
+d. AB 881 amends California Government Code Section 65852.2 and, among other limitations on local authority, requires cities, counties, and utility districts to significantly relax regulation of ADUs by requiring a 60-day ministerial approval of
+ADUs on all lots that allow residential uses. These amendments to California
+Government Code Section 65852.2 become effective January 1, 2020.
+e. California Government Code Section 65852.2(a)(4), as amended, provides that
+any existing local ADU ordinance failing to meet the requirements of the new state
+law shall be null and void unless and until the local agency adopts a new ordinance a complying with California Government Code Section 65852.2. In the absence of a valid local ordinance, the new state law instead provides a set of default standards governing local agencies' regulation and approval of ADUs. f. Berkeley's current ADU Ordinance, adopted by City Council on May 29, 2018, protects fire hazard areas by 1) prohibiting ADUs in the Environmental Safety-
+Residential District and 2) requiring discretionary review and approval by the Fire Department of ADUs in the Hillside Overlay. These measures order to mitigate impacts to public safety. were adopted in
+
+g. Amendments to Government Code section 65852.2, effective January 1, 2020,
+provide no protections for fire hazard areas and provide no mechanism for
+discretionary review. However, as amended, Government Code section 65852.2
+will allow jurisdictions to prohibit ADUs from areas where their allowance would
+create an impact to public safety. h. Because Government Code section 65852.2 takes effect on January 1, 2020, ADUs would be permitted in high fire risk zones without discretionary review unless
+the City adopts an ADU ordinance that limiting the construction of ADUs in such zones that complies with the requirements of Government Code section 65852.2 before its effective date. The potential for construction of ADUs in high fire risk
+zones without discretionary review creates a current and immediate threat to the public health, safety, and welfare, and the approval of Zoning Certificates or building permits in such high fire risk zones would result in such an immediate
+threat to public health, safety, and welfare.
+
+Page 6 of 28
+
+Section 2. That Berkeley Municipal Code Chapter 23C.24 is amended to read as follows:
+
+Chapter 23C.24 Accessory Dwelling Units
+
+Sections:
+
+23C.24.010 Applicability of Regulations
+23C.24.020 Purposes
+23C.24.030 Permit Procedures
+23C.24.040--Special-Provisions
+23C.24.050-- -Development-Standards
+23C.24.060-Modification-of-Development Standards-with-an-Administrative-Us
+Permit
+23C.24.070-Findings
+
+23C.24.010 Applicability of Regulations
+The provisions of this Chapter apply to all lots that are occupied-by-one legally-established
+Single-Family Dwelling zoned for residential use except 1) in the following zoning districts:
+Environmental Safety-Residential (ES-R), Manufacturing (M), Mixed Manufacturing
+(MM), Mixed Use-Light Industrial (MU-LI), and Unclassified (U) ; and 2) on a lot with
+frontage on a roadway with less than 26 feet in pavement width in the Hillside Overlay.
+
+23C.24.020 Purposes
+The purposes of this Chapter are to:
+
+A. Implement California Government Code Section 65852.2 and 65852.22 as it-may be
+amended from-time-to-time.
+
+B. Increase overall supply and range of housing options in Berkeley while-maintaining
+residential-character-of neighberhoeds.
+
+C.Minimize-impaets of new-Aceessery-Dwelling Units-on-neighbering-properties.
+
+C. Expedite small-scale infill development on-lets with Single Family Dwellings,
+particularly-where-develepment-potential-is-otherwise-limited.
+
+Page 2
+
+Page 7 of 28
+
+D. Support Housing Element goals of facilitating construction of Accessory Dwelling
+Units and increasing the number of housing units that are more affordable to Berkeley
+residents.
+
+E. Encourage development of Accessory Dwelling Units in zoning districts with
+compatible land uses and infrastructure.
+
+23C.24.030 Permit Procedures
+Zoning Certificates will be issued for Accessory Dwelling Units and Junior Accessory
+Dwelling Units per California Government Code Section 65852.2 and 65852.22. The
+Zoning-Officer-shall-issue-a-Zoning-Gertificate to-establish-an-Aecessory-Dwelling-Unit-in
+compliance-withthis Chapter if allrequirements ofSection 23C.24.050-and other
+applicable requirements of this Title are met. The Zoning Officer may approve an
+Administrative-Use Permit to establich an-Accessory-Dwelling Unit-that-is-not-in
+complianse-with-Seetion-23G-24.050.A-or-Sections-23G.24.050-C-threugh-F, subjeet-to
+the-findings-in Seetion 23G.24:070. (Ord. 7599-NS § 2-(part), 2048)
+
+23G.24.040 Special Provisions
+A.An Accessory Dwelling Unit-may-be-created as fellews:
+
+1.Conversion-of Existing Spaee: Within the-existing-dimensions-of the exterior
+walls and/or-roef-ef a Primary Dwelling Unit-oran existing-legally-established
+Aecessory-Structure-er Accessery-Building (e.g., the building envelope-does not
+change), in-which-case-Sectiens 23C.24-050-C-through-F do-not-apply.
+
+2.Expansion-of Existing-Space: By extending the existing dimensions-of-the
+exterior walls and/or-roof of a Primary Dwelling-Unit-or an-existing-legally established
+Accessory Structure er Aecessory Building (e.g., the building envelope changes).
+Sectien 23G.24.040.A.1-applies-to-conversion-of-noncenforming-existing-space.
+
+3. New Building: By construeting a new detached-building or by-construeting-a-new
+Primary Dwelling Unit-with-an Accessory-Dwelling Unit.
+
+B. Only one Aecessory Dwelling Unit is allowed on a-lot.
+
+Page 3
+
+Page 8 of 28
+
+C. An-Aecessory-Dwelling Unit may not-be-subdivided, whether-by land-or air-rights,
+condominium-or-other-mechanism, and-may net-be-sold, transferred, or-otherwise
+conveyed-separately-or-independently-from the-Primary-Dwelling Unit-or-other-portions-of
+the property.
+
+D. The owner of a property that has an Accessory Dwelling Unit-must reside- in either
+the Primary-Dwelling Unit-or-the-Aecessery-Dwelling Unit. Prior to issuance of a-Building
+Permit, all-owners-of recerd-of the subject property-shall sign and file-a Declaration of
+Restrictions-with-the Gounty Recorder, in-a-form-satisfactory-to-the Zoning-Officer, that
+makes any-transfer-of the-property-specifically-subject-to the-restrietions-contained-in this
+Chapter-and requires-that-either the Primary Dwelling-Unit-or-the-Aecessery Dwelling Unit
+be occupied by the owner-of the-subjeet-property. Non-occupancy by an-owner for-periods
+of-up-to-three-years-is-allowed before the property will-be found-to-be-in-noncomplianee
+with-this-requirement.
+
+E.Accessory Dwelling Units-are-not subject-te Design Review.
+
+F.-Verification-of-neighber preapplication-contact is-required-fer-AecessoryDwelling
+Units-subject to-an Administrative Use Permit. Signatures-must-be-collected from all
+adjacent and abutting-lots-that have-residentialoecupants, regardless of-zoning-distriet.
+
+G.Accessory-Dwelling Unit-projections-allewed into yards-are-subjeet-to-Main Building
+develepment standards-set-forth-in Table 23D.04.030.
+
+H.An Accessory-Dwelling Unit is not required-to-be-equipped-with fire-sprinklers-if
+sprinklers-are-not required for-the-Primary Dwelling Unit, consistent-with Galifornia
+Government Gede Section-65852.2.
+
++.An-Aceessery-Dwelling-Unit-is-net considered-a-new residential-use for-the-purposes
+of-calculating-utility-connection-fees-or-capacity-charges, consistentwith Galifornia
+Government Gede-Sectien-65852.2 (Ord.7599-NS § 2-(part), 2018)
+
+23.24.050-Development-Standards
+A. Fire Access-Requirement: An-Accessory Dwelling Unit-is-not allowed on a let with
+frontage-on a-readway-with-less-than 26-feet in-pavement width, unless an Administrative
+Use-Permit -is-approved, subject-to the-findings specified in-Section 23G.24.070 A.
+
+Page 4
+
+Page 9 of 28
+
+B. Unit Size: The Gross-Floor Area-of-an-Accessory Dwelling Unit-may be-ne-greater
+than-850 square-feet.
+
+C.Height: An-Aecessory-Dwelling Unit that-is-oreated-by-New-Building or-by-Expansion
+te-an Accessory Structure or Aecessery Building-or-by Expansion-of a-Primary-Dwelling
+Unit-cannet exceed the following height limits:
+
+1,--14-feet Maximum-Height.
+
+2. 18-feet-Maximum Height-with an Administrative Use-Permit.
+
+3.-14-feet Average-Height-in the Hillside Overlay Distriet with an-Administrative
+Use Permit.
+
+4. 18 feet-Average-Height in-the Hillside-Overlay with an additional-Administrative
+Use Permit.
+
+D. Setbacks:
+
+1.An -Accessory Dwelling Unit-must be-located outside-the-required front-yard
+setback.
+
+2.An-Accessory-Dwelling-Unit-must be set-back at least-4-feet-from the-rear-and
+side-property-lines-unless-an-Administrative-Use-Pormit is-appreved:
+
+3. AN AGcessory Dwelling Unit constructed above a-garage shall-have a required
+rear and-side setback-of no less-than five feet, subjeet to-the provisions in
+Chapters 23€.04 and-23C.08.
+
+E. Usable Open-Space: The subjest lot-shall meet-the-usable-open-space-requirements
+of the applicable zoning distriet unless an Administrative-Use-Permit-is approved.
+
+F.Lot Goverage: The-subject let shall-meet the let-coverage requirementsof-the
+applicable zoning-distriet-unless-an-Administrative-Use-Permit is-approved.
+
+G. Parking-Requirements:
+
+1.- Parking is not-required-for-an Accessory Dwelling Unit.
+
+Page 5
+
+Page 10 of 28
+
+2If-creation-of-an-Accessery Dwelling Unit-requires the removal of a required off-
+street-parking-space-for-the-Primary-Dwelling-Unit, a-replacement-off-street-parking
+space-must-be provided:
+
+3.Replacement parkingis-not-subject-tethe applicable--standards of
+Section-23D.12.050-norSection-23D.12.080, and-may-be-located within the
+required front and-side-setbacks-when-located-within an-existing driveway that dees
+not-comply with-these-standards. (Ord. 7599-NS § 2 (part), 2018)
+
+23C.24.060-Modification-ef Develepment Standards-with an-Administrative Use-Permit
+An-Accessory-Dwelling-Unit that does-not conferm-to-the-develepment-etandards-in
+Section-23C.24.050.C-through-F-may-be-permitted-with-an-Administrative-Use-Permit
+subjeet-to the-applicable-findings-in-Section-23C.24 .070 (Ord. 7599-NS § 2 (part), 2018)
+
+23G.24.070-Findings
+A.Ir-order-to-approve-an-Administrative-Use Permit-under Seetion- 23C.24.050.A-te
+allow an Accessery Dwelling Unit-on a lot-with-frontage-on a readway with-less-than 26
+feet-of pavement-width, the Zoning Officer must be provided-with-evidence that the-Fire
+Chief-has-determined-that the project-will meet-minimum-fire-safety-requirements.
+B.In-order-te approve-an-Administrative Use-Permit under Section 23C.24-050-G
+through-F, the Zoning-Officer-must-find-on-the-basis-of-substantial-evidence-that-the
+Accessory-Dwelling-Unit would-not-be-detrimental-te-the-residential-charaster-of the
+neighborhood, would-not-unreasenably-obstruet sunlight, air, or-views, and would-not
+intreduce-unreasenable privacy-impacts-to-the immediate-neighbers. (Ord. 7599-NS § 2
+(part), 2018)
+
+Section 3. Votes Required, Immediate Effectiveness
+Based on the findings and evidence in Section of this Urgency Ordinance, the Council determines that this Ordinance is necessary for the immediate preservation of the public health, peace and safety in accordance with Article XIV Section 93 of the Charter of the City of Berkeley and must therefore go into effect immediately. This ordinance shall go into effect immediately upon a four-fifths vote of the City Council, in satisfaction of the Charter of the City of Berkeley and Government Code Section 65858.
+
+Page 6
+
+11/15/2019 Bp Aue AB881 /ggessory dwelling units.
+Caliyfonnii -ATTAGHMENT-2n
+
+LEGISLATIVE INFORMATION
+
+Home Bill Information California Law Publications Other Resources My Subscriptions My Favorites
+
+AB-881 Accessory dwelling units. (2019-2020)
+
+•-
+
+SHARE THIS: 5 Date Published: 10/10/2019 09:00 PM
+
+Assembly Bill No. 881
+
+CHAPTER 659
+
+An act to amend, repeal, and add Section 65852.2 of the Government Code, relating to housing,
+
+Approved by Governor October 09, 2019. Filed with Secretary of State
+October 09, 2019. ]
+
+LEGISLATIVE COUNSEL'S DIGEST
+
+AB 881, Bloom. Accessory dwelling units.
+
+(1) The Planning and Zoning Law provides for the creation of accessory dwelling units by local ordinance, or, if a local agency has not adopted an ordinance, by ministerial approval, in accordance with specified standards and conditions. Existing law requires the ordinance to designate areas where accessory dwelling units may be
+permitted and authorizes the designated areas to be based on criteria that includes, but is not limited to, the
+adequacy of water and sewer services and the impact of accessory dwelling units on traffic flow and public
+safety.
+
+This bill would instead require a local agency to designate these areas based on the adequacy of water and sewer services and the impact of accessory dwelling units on traffic flow and public safety. The bill would also
+prohibit a local agency from issuing a certificate of occupancy for an accessory dwelling unit before issuing a certificate of occupancy for the primary residence.
+(2) Existing law requires an ordinance providing for the creation of accessory dwelling units, as described above,
+to impose standards on accessory dwelling units, including, among other things, lot coverage. Existing law also requires such an ordinance to require that the accessory dwelling units be either attached to, or located within,
+the living area of the proposed or existing primary dwelling, or detached from the proposed or existing primary
+dwelling and located on the same lot as the proposed or existing primary dwelling.
+This bill would delete the provision authorizing the imposition of standards on lot coverage and would prohibit an
+ordinance from imposing requirements on minimum lot size. The bill would revise the requirements for an
+accessory dwelling unit by providing that the accessory dwelling unit may be attached to, or located within, an attached garage, storage area, or an accessory structure, as defined.
+(3) Existing law prohibits a local agency from requiring a setback for an existing garage that is converted to an accessory dwelling unit or to a portion of an accessory dwelling unit. Existing law requires that an accessory
+dwelling unit that is constructed above a garage have a setback of no more than 5 feet.
+This bill would instead prohibit a setback requirement for an existing living area or accessory structure or a
+structure constructed in the same location and to the same dimensions as an existing structure that is converted
+to an accessory dwelling unit or a to a portion of an accessory dwelling unit. The bill would also instead require a
+setback of no more than 4 feet for an accessory dwelling unit that is not converted from an existing structure or
+3 new structure constructed in the same location and to the same dimensions as an existing structure.
+
+https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB881
+
+11/15/2019 Bp Rge A2881 Azgessory dwelling units.
+(4) Existing law provides that replacement offstreet parking spaces, required by a local agency when a garage, a carport, or covered parking structure is demolished in conjunction with the construction of an accessory dwelling
+unit or converted to an accessory dwelling unit, may be located in any configuration on the same lot as the
+accessory dwelling unit, except as provided.
+
+This bill would instead prohibit a local agency from requiring the replacement of offstreet parking spaces when a
+garage, carport, or covered parking structure is demolished or converted, as described above.
+(5) Existing law requires a local agency to ministerially approve or deny a permit application for the creation of
+an accessory dwelling unit or a junior accessory dwelling unit within 120 days of receiving the application.
+This bill would instead require local agency to ministerially approve or deny a permit application for the
+creation of an accessory dwelling unit or junior accessory dwelling unit within 60 days from the date the local
+agency receives a completed application if there is an existing single-family or multifamily dwelling on the lot. The bill would authorize the permitting agency to delay acting on the permit application if the permit application
+is submitted with a permit application to create a new single-family or multifamily dwelling on the lot, as
+specified.
+
+(6) Existing law prohibits a local a agency from utilizing standards to evaluate a proposed accessory dwelling unit
+on a lot that is zoned for residential use that includes a proposed or existing single-family dwelling other than the
+criteria described above, except, among one other exception, a local agency may require an applicant for a permit to be an owner-occupant of either the primary or accessory dwelling unit as a condition of issuing a
+permit.
+
+This bill, until January 1, 2025, would prohibit a local agency from imposing an owner-occupant requirement, as described above.
+
+(7) Existing law authorizes a local agency to establish minimum and maximum unit size limitations on accessory dwelling units, provided that the ordinance permits an efficiency unit to be constructed in compliance with local
+development standards.
+
+This bill would prohibit a local agency from establishing a minimum square footage requirement for either an attached or detached accessory dwelling unit that prohibits an efficiency unit, as defined. The bill would also
+prohibit a local agency from establishing a maximum square footage requirement for either an attached or
+detached accessory dwelling unit that is less than 850 square feet, and 1,000 square feet if the accessory dwelling unit contains more than one bedroom. The bill would also instead prohibit a local agency from
+establishing any other minimum or maximum size for an accessory dwelling unit, size based upon a percentage of the proposed or existing primary dwelling, or limits on lot coverage, floor area ratio, open space, and
+minimum lot size for either attached or detached dwelling units that prohibits at least an 800 square foot
+accessory dwelling unit that is at least 16 feet in height and with a 4-foot side and rear yard setbacks.
+(8) Existing law prohibits a local agency from imposing parking standards for an accessory dwelling unit if,
+among other conditions, the accessory dwelling unit is located within ½/ mile of public transit.
+
+This bill would make that prohibition applicable if the accessory dwelling unit is located within ½ mile walking
+distance of public transit, and would define public transit for those purposes.
+(9) Existing law requires a local agency to ministerially approve an application for a building a permit to create
+within a zone for single-family use one accessory dwelling unit per single family lot of the unit that is contained
+within the existing space of a single-family residence or accessory structure when specified conditions are met,
+including that the side and rear setbacks are sufficient for fire safety.
+This bill would instead require ministerial approval of an application for a building permit within a residential or
+mixed-use zone to create the following: (1) one accessory dwelling unit and one junior accessory dwelling unit
+per lot with a proposed or existing single-family dwelling if certain requirements are met; (2) a detached, new
+construction accessory dwelling unit that meets certain requirements and would authorize a local agency to
+impose specifled conditions relating to floor area and height on that unit; (3) multiple accessory dwelling units
+within the portions of an existing multifamily dwelling structure provided those units meet certain requirements;
+or (4) not more than 2 accessory dwelling units that are located on a lot that has an existing multifamily
+dwelling, but are detached from that multifamily dwelling and are subject to certain height and rear yard and
+side setback requirements.
+
+https://leginfo.legislature.ca.gov/faces/bilTextClient.xhtml?bill_id=201920200AB881
+
+$1/15/2019 Bp Roe A23881 /zgessory dwelling units.
+(10) Existing law prohibits a local agency, special district, or water corporation from considering an accessory
+dwelling unit to be a new residential use for purposes of calculating fees or capacity charges.
+
+This bill would establish an exception from the above-described prohibition in the case of an accessory dwelling
+unit that was constructed with a new single-family home.
+(11) Existing law requires a local agency to submit a copy of the adopted ordinance to the Department of
+Housing and Community Development and authorizes the department to review and comment on the ordinance.
+This bill would instead authorize the department to submit written findings to the local agency as to whether the
+ordinance complies with the statute authorizing the creation of an accessory dwelling unit, and, if the
+department finds that the local agency's ordinance does not comply with those provisions, would require the department to notify the local agency within a reasonable time. The bill would require the local agency to consider the department's findings and either amend its ordinance to comply with those provisions or adopt it
+without changes and include specified findings. If the local agency does not amend it ordinance or does not adopt those findings, the bill would require the department to notify the local agency and authorize it to notify it
+the Attorney General that the local agency is in violation of state law, as provided. The bill would authorize the
+department to adopt guidelines to implement uniform standards or criteria to supplement or clarify the
+provisions authorizing accessory dwelling units.
+
+(12) Existing law defines the term "accessory dwelling unit" for these purposes to mean an attached or a
+detached residential dwelling unit which provides complete independent living facilities for one or more persons.
+This bill would revise the definition to additionally require an accessory dwelling unit be located on a lot with a
+proposed or existing primary residence in order for the provisions described above to apply.
+(13) This bill would incorporate additional changes to Section 65852.2 of the Government Code proposed by SB 13 to be operative only if this bill and SB 13 are enacted and this biil is enacted last.
+(14) By increasing the duties of local agencies with respect to land use regulations, this bill would impose a
+state-mandated local program.
+(15) The California Constitution requires the state to reimburse local agencies and school districts for certain
+costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.
+This bill would provide that no reimbursement is required by this act for a specified reason.
+
+(16) This bill would include findings that the changes proposed by this bill address a matter of statewide concern
+rather than municipal affair and, therefore, apply to all cities, including charter cities.
+Vote: majority Appropriation: no Fiscal Committee: yes Local Program: yes
+THE PEOPLE OF THE STATE OF CALIFORNIA DO ENACT AS FOLLOWS:
+SEC. 1.5. Section 65852.2 of the Government Code is amended to read:
+
+A 65852.2. (a) (1) A local agency may, by ordinance, provide for the creation of accessory dwelling units in areas
+zoned to allow single-family or multifamily dwelling residential use. The ordinance shall do all of the following:
+(A) Designate areas within the jurisdiction of the local agency where accessory dwelling units may be permitted.
+The designation of areas may be based on the adequacy of water and sewer services and the impact of
+accessory dwelling units on traffic flow and public safety. A local agency that does not provide water or sewer
+services shall consult with the local water or sewer service provider regarding the adequacy of water and sewer
+services before designating an area where accessory dwelling units may be permitted.
+(B) (i) Impose standards on accessory dwelling units that include, but are not limited to, parking, height,
+setback, landscape, architectural review, maximum size of a unit, and standards that prevent adverse a impacts on
+any real property that is listed in is the California Register of Historic Resources. These standards shall not include
+requirements on minimum lot size.
+(ii) Notwithstanding clause (i), a local agency may reduce or eliminate parking requirements for any accessory
+dwelling unit located within its jurisdiction.
+
+(C) Provide that accessory dwelling units do not exceed the allowable density for the lot upon which the
+accessory dwelling unit is located, and that accessory dwelling units are a residential use that is consistent with
+the existing general plan and zoning designation for the lot.
+
+11/15/2019 Bp age AF4881 /xgessory dwelling units.
+(D) Require the accessory dwelling units to comply with all of the following:
+
+(I) The accessory dwelling unit may be rented separate from the primary residence, but may not be sold or
+otherwise conveyed separate from the primary residence.
+(ii) The lot is zoned to allow single-family or multifamily dwelling residential use and includes a proposed or
+existing dwelling.
+(iii) The accessory dwelling unit is either attached to, or located within, the proposed or existing primary
+dwelling, including attached garages, storage areas or similar uses, or an accessory structure or detached from
+the proposed or existing primary dwelling and located on the same lot as the proposed or existing primary
+dwelling.
+
+(iv) If there is an existing primary dwelling, the total floor area of an attached accessory dwelling unit shall not
+exceed 50 percent of the existing primary dwelling.
+
+(v) The total floor area for a detached accessory dwelling unit shall not exceed 1,200 square feet.
+
+(vi) No passageway shall be required in conjunction with the construction of an accessory dwelling unit.
+
+(vii) No setback shall be required for an existing living area or accessory structure or a structure constructed in
+the same location and to the same dimensions as an existing structure that is converted to an accessory dwelling
+unit or a to a portion of an accessory dwelling unit, and a setback of no more than four feet from the side and rear
+lot lines shall be required for an accessory dwelling unit is that is not converted from an existing structure or a new
+structure constructed in the same location and to the same dimensions as an existing structure.
+
+(viii) Local building code requirements that apply to detached dwellings, as appropriate.
+(ix) Approval by the local health officer where a private sewage disposal system is being used, if required.
+(x) (I) Parking requirements for accessory dwelling units shall not exceed one parking space per accessory
+dwelling unit or per bedroom, whichever is less. These spaces may be provided as tandem parking on a
+driveway.
+
+(II) in Offstreet parking shall be permitted in setback areas in locations determined by the local agency or through tandem parking, unless specific findings are made that parking in setback areas or tandem parking is not
+feasible based upon specific site or regional topographical or fire and life safety conditions.
+
+(III) This clause shall not apply to an accessory dwelling unit that is described in subdivision (d),
+(xi) When a garage, carport, or covered parking structure is demolished in conjunction with the construction of
+an accessory dwelling unit or converted to an accessory dwelling unit, the local agency shall not require that
+those offstreet parking spaces be replaced.
+
+(xii) Accessory dwelling units shall not be required to provide fire sprinklers if they are not required for the
+primary residence.
+(2) The ordinance shall not be considered in the application of any local ordinance, policy, or program to limit residential growth.
+(3) A permit application for an accessory dwelling unit or a junior accessory dwelling unit shall be considered and
+approved ministerially without discretionary review or a hearing, notwithstanding Section 65901 or 65906 or any
+local ordinance regulating the issuance of varlances or special use permits. The permitting agency shall act on
+the application to create an accessory dwelling unit or a junior accessory dwelling unit within 60 days from the
+date the local agency receives a completed a application if there is an existing single-family or multifamily dwelling
+on the iot. If the permit application to create an accessory dwelling unit or a junior accessory dwelling unit is
+submitted with a permit application to create a new single-family dwelling on the lot, the permitting agency may
+delay acting on the permit application for the accessory dwelling unit or the junior accessory dwelling unit until
+the permitting agency acts on the permit application to create the new single-family dwelling, but the application
+to create the accessory dwelling unit or junior accessory dwelling unit shall be considered without discretionary
+review or hearing. If the applicant requests delay, the 60-day time period shall be tolled for the period of the
+A delay. A local agency may charge a fee to reimburse it for to costs incurred to implement this paragraph, including
+the costs of adopting or amending any ordinance that provides for the creation of an accessory dweiling unit.
+
+https://leginfo.legislature.ca.gov/faces/bil/TextClient.xhtml?bil_jd=201920200AB881
+
+11/15/2019 Bp Zne A15881/ggessory dwelling units.
+(4) An existing ordinance governing the creation of an accessory dwelling unit by a local agency or an accessory
+dwelling ordinance adopted by local agency shall provide an approval process that includes only ministerial provisions for the approval of accessory dwelling units and shall not include any discretionary processes,
+provisions, or requirements for those units, except as otherwise provided in this subdivision. If a local agency
+has an existing accessory dwelling unit ordinance that fails to meet the requirements of this subdivision, that
+ordinance shall be null and void and that agency shall thereafter apply the standards established in this
+subdivision for the approval of accessory dwelling units, unless and until the agency adopts an ordinance that
+complies with this section.
+(5) No other local ordinance, policy, or regulation shall be the basis for the delay or denial of a building permit or
+a use permit under this subdivision.
+(6) This subdivision establishes the maximum standards that local agencies shall use to evaluate a proposed
+accessory dwelling unit on a lot that includes a proposed or existing single-family dwelling. No additional
+standards, other than those provided in this subdivision, shall be used or imposed, including any owner-occupant
+requirement, except that a local agency may require that the property be used for rentals of terms longer than
+30 days.
+(7) A local agency may amend its zoning ordinance or general plan to incorporate the policies, procedures, or
+other provisions applicable to the creation of an accessory dwelling unit if these provisions are consistent with
+the limitations of this subdivision.
+
+(8) An accessory dwelling unit that conforms to this subdivision shall be deemed to be an accessory use or an
+accessory building and shall not be considered to exceed the allowable density for the lot upon which it is
+located, and shall be deemed to be a residential use a that is consistent with the existing general plan and zoning
+designations for the lot. The accessory dwelling unit shall not be considered in the application of any local
+ordinance, policy, or program to limit residential growth.
+(b) When a local agency that has not adopted an ordinance governing accessory dwelling units in accordance
+with subdivision (a) receives an application for a permit to create an accessory dwelling unit pursuant to this
+subdivision, the local agency shall approve or disapprove the application ministerially without discretionary
+review pursuant to subdivision (a). The permitting agency shall act on the application to create an accessory
+dwelling unit or a junior accessory dwelling unit within 60 days from the date the local agency receives a
+completed application if there is an existing single-family or multifamily dwelling on the lot. If the permit
+application to create an accessory dwelling unit or a junior accessory dwelling unit is submitted with permit
+application to create a new single-family dwelling on the lot, the permitting agency may delay acting on the
+permit application for the accessory dwelling unit or the junior accessory dwelling unit until the permitting
+agency acts on the permit application to create the new single-family dwelling, but the application to create the
+accessory dwelling unit or junior accessory dwelling unit shall still be considered ministerially without
+discretionary review or a hearing. If the applicant requests a delay, the 60-day time period shall be tolled for the period of the delay. If the local agency has not acted upon the completed application within 60 days, the
+application shall be deemed approved.
+
+(c) (1) Subject to paragraph (2), a local agency may establish minimum and maximum unit size requirements
+for both attached and detached accessory dwelling units.
+
+(2) Notwithstanding paragraph (1), a local agency shall not establish by ordinance any of the following:
+(A) A minimum square footage requirement for either an attached or detached accessory dwelling unit that
+prohibits an efficiency unit.
+(B) A maximum square footage requirement for either an attached or detached accessory dwelling unit that is
+less than either of the following:
+
+(i) 850 square feet.
+(ii) 1,000 square feet for an accessory dwelling unit that provides more than one bedroom.
+(C) Any other minimum or maximum size for an accessory dwelling unit, size based upon a percentage of the proposed or existing primary dwelling, or limits on lot coverage, floor area ratio, open space, and minimum lot
+size, for either attached or detached dwellings that does not permit at least an 800 square foot accessory
+dwelling unit that is at least 16 feet in height with four-foot side and rear yard setbacks to be constructed in
+compliance with all other local development standards.
+https://leginfo.legislature.ca.gov/faces/bilTextClient.xhtml?bil_id=201920200AB881
+
+11/15/2019 Bpane A6881 /zgessory dwelling units.
+(d) Notwithstanding any other law, a local agency, whether or not it has adopted an ordinance governing accessory dwelling units in accordance with subdivision (a), shall not impose parking standards for an accessory
+dwelling unit: in any of the following instances:
+(1) The accessory dwelling unit is located within one-half mile walking distance of public transit.
+(2) The accessory dwelling unit is located within an architecturally and historically significant historic district.
+
+(3) The accessory dwelling unit is part of the proposed or existing primary residence or an accessory structure.
+(4) When on-street parking permits are required but not offered to the occupant of the accessory dwelling unit.
+(5) When there is a car share vehicle located within one block of the accessory dwelling unit.
+(e) (1) Notwithstanding subdivisions (a) to (d), inclusive, a local agency shall ministerially approve an application
+for a building permit within a residential or mixed-use zone to create any of the following:
+(A) One accessory dwelling unit or junior accessory dwelling unit per lot with a proposed a or existing single-family
+dwelling if all if of the following apply:
+
+(i) The accessory dwelling unit or junior accessory dwelling unit is within the proposed space of a single-family
+dwelling or existing space of a single-family dwelling or accessory structure and may include an expansion of not
+more than 150 square feet beyond the same physical dimensions as the existing accessory structure. An
+expansion beyond the physical dimensions of the existing accessory structure shall be limited to accommodating
+ingress and egress.
+
+(ii) The space has exterior access from the proposed or existing single-family dwelling.
+
+(Ili) The side and rear setbacks are sufficient for fire and safety.
+
+(iv) The junior accessory dwelling unit complies with the requirements of Section 65852.22.
+(B) One detached, new construction, accessory dwelling unit that does not exceed four-foot side and rear yard
+setbacks for a lot with a proposed or existing single-family dwelling. The accessory dwelling unit may be a combined with a junior accessory dwelling unit described in subparagraph (A). A local agency may impose the following conditions on the accessory dwelling unit:
+A (i) A total floor area limitation of not more than 800 square feet.
+(ii) A height limitation of 16 feet.
+(C) (I) Multiple accessory dwelling units within the portions of existing multifamily dwelling structures that are
+not used as livable space, including, but not limited to, storage rooms, boiler rooms, passageways, attics,
+basements, or garages, if each unit complies with state building standards for dwellings.
+(ii) A local agency shall allow at least one accessory dwelling unit within an existing multifamily dwelling and
+shall allow up to 25 percent of the existing multifamily dwelling units.
+
+(D) Not more than two accessory dwelling units that are located on a lot that has an existing multifamily
+dwelling, but are detached from that multifamily dwelling and are subject to a height limit of 16 feet and four-
+foot rear yard and side setbacks.
+(2) A local agency shall not require, as condition for ministerial approval of a permit application for the creation of an accessory dwelling unit or a junior accessory dwelling unit, the correction of nonconforming zoning
+conditions.
+
+(3) The installation of fire sprinklers shall not be required in an accessory dwelling unit if sprinklers are not if
+required for the primary residence.
+(4) A local agency shall require that a rental of the accessory dwelling unit created pursuant to this subdivision
+be a for a term longer than 30 days.
+
+(5) A local agency may require, as part of the application for a permit to create an accessory dwelling unit connected to an onsite water treatment system, a percolation test completed within the last five years, or, if the
+percolation test has been recertified, within the last 10 years.
+
+https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bil_id=201920200AB881
+
+11/15/2019 Bp age AF 881 /ggessory dwelling units.
+(6) Notwithstanding subdivision (c) and paragraph (1) a local agency that has adopted an ordinance by July 1,
+2018, providing for the approval of accessory dwelling units in multifamily dwelling structures shall ministerially
+consider a permit application to construct an accessory dwelling unit that is described in paragraph (1), and may
+impose standards including, but not limited to, design, development, and historic standards on said accessory
+dwelling units. These standards shall not include requirements on minimum lot size.
+(F) (1) Fees charged for the construction of accessory dwelling units shall be determined in accordance with Chapter 5 (commencing with Section 66000) and Chapter 7 (commencing with Section 66012).
+(2) An accessory dwelling unit shall not be considered by a local agency, special district, or water corporation to
+be a new residential use for purposes of calculating connection fees or capacity charges for utilities, including
+water and sewer service, unless the accessory dwelling unit was constructed with a new single-family dwelling.
+
+(3) (A) A local agency, special district, or water corporation shall not impose any impact fee upon the
+development of an accessory dwelling unit less than 750 square feet. Any impact fees charged for an accessory
+dwelling unit of 750 square feet or more shall be charged proportionately in relation to the square footage of the
+primary dwelling unit.
+(B) For purposes of this paragraph, "impact fee" has the same meaning as the term "fee" is defined in subdivision (b) of Section 66000, except that it also includes fees specified in Section 66477. "Impact fee" does
+not include any connection fee or capacity charge charged by a local agency, special district, or water
+corporation.
+
+(4) For an accessory dwelling unit described in subparagraph (A) of paragraph (1) of subdivision (e), a local
+agency, special district, or water corporation shall not require the applicant to install a new or separate utility
+connection directly between the accessory dwelling unit and the utility or impose a related connection fee or
+capacity charge, unless the accessory dwelling unit was constructed with a new single-family home.
+(5) For an accessory dwelling unit that is not described in subparagraph (A) of paragraph (1) of subdivision (e), a
+local agency, special district, or water corporation may require a new or separate utility connection directly between the accessory dwelling unit and the utility. Consistent with Section 66013, the connection may be
+subject to a connection fee or capacity charge that shall be proportionate to the burden of the proposed
+accessory dwelling unit, based upon either its square feet or the number of its drainage fixture unit (DFU)
+values, as defined in the Uniform Plumbing Code adopted and published by the International Association of
+Plumbing and Mechanical Officials, upon the water or sewer system. This fee or charge shall not exceed the
+reasonable cost of providing this service.
+
+(g) This section does not limit the authority of local agencies to adopt less restrictive requirements for the
+creation of an accessory dwelling unit.
+
+(h) (1) A local agency shall submit a copy of the ordinance adopted pursuant to subdivision (a) to the Department of Housing and Community Development within 60 days after adoption. After adoption of an
+ordinance, the department may submit written findings to the local agency as to whether the ordinance complies
+with this section.
+
+(2) (A) If the department finds that the local agency's ordinance does not comply with this section, the department shall notify the local agency and shall provide the local a agency with a reasonable time, no longer than 30 days, to respond to the findings before taking any other action authorized by this section.
+(B) The local agency shall consider the findings made by the department pursuant to subparagraph (A) and shall
+do one of the following:
+(i) Amend the ordinance to comply with this section.
+(li) Adopt the ordinance without changes. The local agency shall include findings in its resolution adopting the
+ordinance that explain the reasons the local agency believes that the ordinance complies with this section despite
+the findings of the department.
+
+(3) (A) If the local agency does not amend its ordinance in response to the department's findings or does not
+adopt a resolution with findings explaining the reason the ordinance complies with this section and addressing
+the department's findings, the department shall notify the local agency and may notify the Attorney General that
+the local agency is in violation of state law.
+
+https://leginfo.legislature.ca.gov/faces/bilTextClient.xhtml?bi_id=201920200AB881
+
+11/15/2019 BpPäye A8881 4zgessory dwelling units.
+(B) Before notifying the Attorney General that the local agency is in violation of state law, the department may
+consider whether a local agency adopted an ordinance in compliance with this section between January 1, 2017,
+and January 1, 2020.
+
+(i) The department may review, adopt, amend, or repeal guidelines to implement uniform standards or criteria
+that supplement or clarify the terms, references, and standards set forth in this section. The guidelines adopted
+pursuant to this subdivision are not subject to Chapter 3.5 (commencing with Section 11340) of Part 1 of
+Division 3 of Title 2.
+
+(j) As used in this section, the following terms mean:
+(1) "Accessory dwelling unit" means an attached or a detached residential dwelling unit that provides complete
+independent living facilities for one or more persons and is located on a lot with a proposed or existing primary
+residence. It shall include permanent provisions for living, sleeping, eating, cooking, and sanitation on the same parcel as the single-family or multifamily dwelling is or will be situated. An accessory dwelling unit also includes
+the following:
+
+(A) An efficiency unit.
+(B) A manufactured home, as defined in Section 18007 of the Health and Safety Code.
+(2) "Accessory structure" means structure that is accessory and a incidental to a dwelling located on the same
+lot.
+
+(3) "Efficiency unit" has the same meaning as defined in Section 17958.1 of the Health and Safety Code.
+(4) "Living area" means the interior habitable area of a dwelling unit, including basements and attics, but does
+not include a garage or any accessory structure.
+(5) "Local agency" means a city, county, a or city and county, whether general law or chartered.
+(6) "Neighborhood" has the same meaning as set forth in Section 65589.5.
+(7) "Nonconforming zoning condition" means a physical improvement on a property that does not conform with
+current zoning standards.
+
+(8) "Passageway" means a pathway that is unobstructed clear to the sky and extends from a street to one
+entrance of the accessory dwelling unit.
+
+(9) "Proposed dwelling" means a dwelling that is the a subject of a permit application and that meets the
+requirements for permitting.
+
+(10) "Public transit" means a location, including, but not limited to, a bus stop or train station, where the public
+may access buses, trains, subways, and other forms of transportation that charge set fares, run on fixed routes,
+and are available to the public.
+(11) "Tandem parking" means that two or more automobiles are parked a on a driveway or in any other location
+on a lot, lined up behind one another.
+
+(k) A local agency shall not issue a certificate of occupancy for an accessory dwelling unit before the local agency
+issues a certificate of occupancy for the primary dwelling.
+(I) Nothing in this section shall be construed to supersede or in any way alter or lessen the effect or application
+of the. California Coastal Act of 1976 (Division 20 (commencing with Section 30000) of the Public Resources
+Code), except that the local government shall not be required to hold public hearings for coastal development
+permit applications for accessory dwelling units.
+(m) A local agency may count an accessory dwelling unit for purposes of identifying adequate sites for housing,
+as specified in subdivision (a) of Section 65583.1, subject to authorization by the department and compliance
+with this division.
+
+(n) In enforcing building standards pursuant to Article 1 (commencing with Section 17960) of Chapter 5 of Part:
+1.5 of Division 13 of the Health and Safety Code for an accessory dwelling unit described in paragraph (1) or (2)
+below, a local agency, upon request of an owner of an accessory dwelling unit for a delay in enforcement, shall delay enforcement of a building standard, subject to compliance with Section 17980.12 of the Health and Safety
+Code:
+https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_jd=201920200AB881
+
+11/15/2019 Bp äue 49881/2gessory dwelling units.
+(1) The accessory dwelling unit was built before January 1, 2020.
+(2) The accessory dwelling unit was built on or after January 1, 2020, in a local jurisdiction that, a at the time the
+accessory dwelling unit was built, had a noncompliant accessory dwelling unit ordinance, but the ordinance is
+compliant at the time the request is made.
+(o) This section shall remain in effect only until January 1, 2025, and as of that date is repealed.
+
+https://eginfo.legislature.ca.gov/faces/bilTextClient.xhtml?bil_Id=201920200AB881
+
+Page 20 of 28
+
+CITY OF ATTg ATTACHMENT 3
+from Planning Commission
+November 6, 2019
+
+Planning and Development Department
+Land Use Planning Division
+
+STAFF REPORT
+
+DATE: November 6 2019
+
+TO: Members of the Planning Commission
+
+FROM: Alene Pearson, Principal Planner Katrina Lapira, Assistant Planner
+
+SUBJECT: 2019 State Housing Legislation
+
+BACKGROUND
+California's State Legislature has passed significant packages of housing-related laws in the last three legislative sessions in order to address the State's housing crisis. This year's housing package included over 20 housing-focused bills that affect a variety of regulations including Accessory Dwelling Units (ADUs), density bonus, and streamlined permitting.
+Jurisdictions across the State are working to understand new regulations, many of which take effect on January 1, 2020. Berkeley staff are consulting with the City Attorney and other municipalities to understand requirements. A number of land use law firms have
+provided summaries' of the new legislation (see Attachments 1 through 3) and guidance
+documents from California Department Housing and Community Development (HCD) are forthcoming. This report provides an initial analysis, identifies areas where the Planning Commission will be making recommendations, and discusses overlap with Council Referrals.
+
+Laws affect land use policies, implementation procedures and specific zoning standards. Planning Commission will ultimately recommend Zoning Ordinance (ZO) amendments to City Council for consideration. This report summarizes four important bills (see Attachments 4 through 7) affecting housing policies and practices:
+AB-881 - Accessory Dwelling Units
+AB-1763 -- Density Bonuses
+AB-1485 - Streamlining
+SB-330 -- Housing Crisis Act of 2019
+
+1 Summaries are provided for informational purposes only. The City of Berkeley has not consulted with authors or firms about content or analysis.
+
+Page 21 of 28 Item 11
+2019 State Housing Legislation Planning Commission
+November 6, 2019
+
+AB-881 -- Accessory Dwelling Units
+
+As of January 1, 2020, a new set of ADU regulations take effect statewide. Local ordinances are superseded by these regulations, except where noted. The list below
+outlines main points of the new law - providing references to some Government Code sections (GC) and highlighting opportunities to refine local ordinances.
+
+1. Allowable Lots: ADUs are allowed in all districts that allow residential uses.
+ADUs would be allowed on lots that include a proposed or existing dwelling unit,
+Local ordinances can restrict ADUs from areas 1) without adequate water and
+sewer service and 2) in areas where ADUs create impacts to traffic flow and
+public safety. GC 65852.2 (a)(1)(A)
+
+2. Approval Process: Jurisdictions must ministerially approve or disapprove building permit applications for ADUs within 60-days of receiving a complete application. If an ADU building permit is associated with an application for a new
+primary dwelling unit, ministerial approval of the ADU can be delayed until there
+is an action on the permit for the primary dwelling unit.
+3. Development Standards: ADUs will have to adhere to and can impose only the following development standards (unless modified by local ordinance as set forth in italics below):
+o Maximum height of 16 feet
+O Rear and side setbacks of 4 feet
+
+O Maximum size:
+A detached ADU shall not exceed 1200 square feet An attached ADU shall not exceed 50% of the floor area of an existing or proposed primary dwelling unit. GCS 65852.2 (a)(1)(D)(iv)
+Local ordinances can reduce maximum ADU size to no less than 850 square feet for a studio and 1-bedroom ADU and no less than 1000 square feet for ADUs
+with more than one bedroom.
+
+Local ordinances can impose development standards on ADUs that prevent adverse impacts to any real property listed in the California Register of Historic Resources. GC 65852.2 (a)(1)(B)(i)
+
+Local ordinances can impose development standards for lot coverage and open space as long as those standards allow for at least an 800 square foot ADU that is 16 feet in height. GC 65852.2 (c)(2)(C).
+4. Parking: Replacement parking for the primary dwelling unit is not required if the
+ADU physically replaces the location of an existing garage, carport or covered
+parking structure.
+
+Page 2 of 6
+
+Page 22 of 28 Item 11
+2019 State Housing Legislation Planning Commission
+November 6, 2019
+
+5. Sprinklers: Fire sprinklers are required for the ADU if they are required for the
+primary dwelling unit.
+
+6. Fees
+a. No impact fees may be levied on ADUs that are less than 750 square feet. For ADUs larger than 750 square feet, impact fees must be proportional to the square footage of the primary dwelling unit. GC 65852.2 (f)(3) b. ADUs shall not be considered new residential uses for the purposes of calculating connection fees or capacity charges for utilities, unless the ADU is created with a newly constructed primary dwelling unit. GC 65852.2 (f)(2). c. ADUs carved out of existing dwelling units shall not require new or separate utility hook-ups. All other ADUs may require new hook-ups and will be charged utility fees proportionate to its size and/or burden. GC 65852.2 (f)(4),(5).
+
+Local Ordinance: Cities can charge fees to cover costs associated with meeting the new 60-day timeline. Fees can include costs incurred adopting new ADU ordinances. GC 65852.2 (a)(3)
+
+7. Owner Occupancy, Rental and Sale of ADUs: Properties with ADUs cannot
+require owner-occupancy of the ADU or the primary dwelling unit. ADUs can be
+rented separate from the primary dwelling unit, but the rental term shall be for
+30-days or more. GC 65852.2 (e)(4). ADUs may not be sold separately from primary dwelling unit. GC 65852.2 (a)(1)(D)(i)
+
+8. Number of ADUs
+a. Single Family (Primary) Dwelling Unit: One ADU is allowed on all lots with
+one primary dwelling unit. The ADU can be attached to the primary dwelling unit or can be a detached structure. In addition, the lot can have a Junior ADU (J-ADU) attached to either the ADU or the primary dwelling unit. b. Multifamily Dwelling Units Attached: Multiple ADUs can be created within existing areas of multifamily dwellings that are not used as livable space (i.e. storage rooms, basements, garages, attics). At a minimum, one ADU is allowed. At a maximum, the
+number of ADUs cannot exceed 25% of the number of multifamily dwelling units. Gc 65852.2 (e)(1)(C)(i),(ii) Detached: There can be no more than two detached ADUs on lots with
+multifamily dwellings, subject to the abovementioned development
+standards. GC 65852.2 (e)(1)(D)
+
+9. Non-conforming Structures: If an ADU is constructed in the same location and
+to the same dimensions as an existing non-conforming structure, it does not have to comply with the rear and side setbacks. GC 65852.2 (a)(1)(D)(vii). Additionally, the jurisdiction cannot require the correction of nonconforming zoning conditions in order to ministerially approve an ADU. GC 65852.2 (e)(2).
+
+Page 3 of 6
+
+Page 23 of 28 Item 11
+2019 State Housing Legislation Planning Commission
+November 6, 2019
+
+Berkeley Context:
+
+Planning Commission Action: As of January 1, 2020, Berkeley's ADU Ordinance will be considered null and void. Until Berkeley's ADU Ordinance is updated to reflect new law, State regulations will be in effect. Staff is working on amendments for Planning Commission consideration. As part of this effort, a J-ADU Ordinance will be adopted.
+Referrals: Listed below are requests from City Council referrals that pertain to ADUs (see Attachment 8). Some requests have been resolved with the passage of AB-881, others are included in AB-881 - but need additional consideration and refinement from
+the City - and some topics are not included in AB-881. Over the next few months, Planning Commission will be considering these items while developing Berkeley's new ADU Ordinance.
+
+AB-881 Dictates Action with New Regulations:
+o Reconsider the owner-occupancy requirements (May 15, 2018)
+O Rectify ADU regulations for demolition and conversion of legaily non-confirming structures (May 15, 2018)
+O Consider allowing multiple ADUs on a lot (May 15, 2018)
+O Consider allowing ADUs for multifamily dwellings (May 15, 2018)
+O Clarify regulations for ADUs created through residential additions (Sept 13, 2018)
+AB-881 Provides Guidance and Requires City Action:
+o Adopt a J-ADU ordinance (May 2, 2017)
+o Consider public safety issues in the Very High Fire Zone (Feb 27, 2018)
+O Reconsider off-street parking regulations on narrow roads (Sept 13, 2018)
+
+These are not included in AB-881:
+
+O Consider incentives for affordability restrictions (May 15, 2018)
+o Consider incentives for universal design (September 13, 2018)
+o Require signed receipt of information on rent control, tenant protections and short term rental rules when ADU permits are issued (Sept 13, 2018)
+
+AB-1763 -- Density Bonuses
+
+AB-1763 modifies GC 65915 to include 100% affordable housing projects?. Under the new law, projects that provide 20% of their units to moderate income households3 and 80% of their units to lower income households4 will be eligible for State Density Bonus. Under this program, 100% affordable projects do not have to provide off-street parking. Projects that are more than half a mile from major transit stops5 receive an 80% density bonus. Projects that are within half a mile of major transit stop have no maximum density,
+
+2 100% affordable housing projects include all (base and bonus) units, except manager's unit(s) 3 Moderate income households: 120-80% of the Area Median Income (AMI) 4 Lower income households: Less than 80% of the AMI
+5 Major transit is defined as fixed rail a service or a bus stop for a rapid line or a line with 15 minute headways at commute hours, per Public Resources Code 21155.
+
+Page 4 of 6
+
+Page 24 f 28 Item 11
+2019 State Housing Legislation Planning Commission
+November 6, 2019
+
+receive four incentives or concessions, and are provided an additional three stories or 33 feet in height.
+
+Berkeley Context:
+
+Planning Commission Action: No action is required. In March 2019, City Council adopted a new Density Bonus Ordinance (Chapter 23C.14) that points to GC 65915.
+This was done intentionally to ensure that as State law evolved, Berkeley's ZO would
+not need to be amended.
+Referrals: The Planning Commission and its Subcommittee on Affordable Housing developed a multi-phase approach to address six Density Bonus referrals. The approach included 1) adopting a new Density Bonus Ordinance; 2) developing a local density incentive program that would result in affordable housing production in excess State Density Bonus requirements; and 3) recommending density standards. AB-1763 directly responds to the second phase of the outlined approach.
+
+AB-1485 - Streamlining
+
+AB-1485 modifies SB-35, which was signed by Governor Brown in the fall of 2017. SB-
+35 requires streamlined permit processing for qualified housing developments in cities that have not met their Regional Housing Needs Allocation (RHNA) targets and/or have not submitted their Housing Element Annual Progress Reports. AB-1485 provides additional options for developers (i.e. percentage of units at different affordability levels) requesting streamlining. AB-1485 clarifies project approval timelines taking into consideration length of potential litigation and/or construction. Furthermore, AB-1485
+requires jurisdictions to ministerially process subsequent permits needed for a project that has received its SB-35 approval. Finally, AB-1485 explains how to calculate the percentage of a project that is residential (e.g. exclude underground space such as parking garages and basements).
+
+Berkeley Context:
+
+Planning Commission Action: No action is required.
+
+Referrals: On December 5, 2017 City Council adopted a referral to allow ministerial approval of housing projects that receive Housing Trust Fund monies and/or housing projects that have more than 50% below market rate units with 20% of the BMR units designated for those earning up to 50% AMI (extremely low and very low income households). Affordability levels in this referral are deeper than those required by SB- 35. Additionally, the referral asks for design review and a community meeting as part of ministerial review.
+
+SB-330 -- Housing Crisis Act of 2019
+
+SB-330 places a moratorium on regulations that limit housing development. It dictates a new project intake process - requiring a preliminary application - and freezes applicable
+
+Page 5 of 6 5
+
+Page 25 of 28 Item 11
+2019 State Housing Legislation Planning Commission
+November 6, 2019
+
+regulations and fees at the time the preliminary application is submitted. It shortens timelines to approve projects and limits the number of allowable project hearings6 to five. SB-330 primarily affects permit processing procedures, but it also restricts jurisdictions from adopting new zoning regulations or policies that limit housing or density. This includes objective standards and invalidates any regulations adopted after January 1, 2018 that reduce allowable density or restrict development.
+
+Berkeley Context:
+
+Planning Commission Action: As new ZO amendments are considered, Planning Commission and staff will have to evaluate if proposals are reducing density or
+restricting development.
+Referrals: N/A
+
+NEXT STEPS
+Staff will continue to work with the City Attorney and HCD to evaluate the interpretations
+presented in this staff report. Planning Commission is asked to provide feedback on this summary, with particular attention to the analysis of AB-881.
+
+Attachments:
+1. New California Housing Laws by Best, Best and Kreiger
+2. California's 2020 Housing Laws: What You Need to Know by Holland and Knight
+3. California Housing Law Update by Meyers and Nave
+4. AB-881 -- Accessory Dwelling Units 5. AB-1763 -. Density Bonuses
+6. AB-1485 - Streamlining (SB-35)
+7. SB-330 - Housing Crisis Act of 2019
+8. ADU Referrals
+
+& A project hearing is broadly defined as a city-held meeting, workshop, work session, commission
+meeting, public hearing, subcommittee meeting, appeal or departmental meeting.
+
+Page 6 of 6 6
+
+Attachment 4 Page 26 of 28
+
+City of Berkeley
+Fire Zone Map
+
+Legend
+1_ _ 1 CA Very High Hazard Severity Zone
+0 Berkeley Fire Zone
+Berkeley Fire Zone
+Berkeley Boundary
+Pavement Width
+Less than or equal to 20 feet
+21 to 26 feet
+
+Greater than 27 feet
+
+Updated: November 14, 2019
+
+800 1,600 3,200
+IFeet
+CITY OF BERKELEY
+ELEY Land Use Ptanning Division Dep.t of Planning & Developmont 2120 Milvia Street, 2nd Floor Berkeley, CA 94704
+
+Attachment 5 PHiHside Overlay and Fire Zones 2 and 3
+
+Legend
+ZZ) Hillside Overlay
+Berkeley Fire Zone 2
+1 Berkeley Fire Zone 3
+
+foroats " 4tas.r.
+
+Updated:
+November 14, 2019
+
+800 1,600 3,200
+Feel
+CITY OF BERKELEY
+
+aT Land Use Planning Division
+Dopt of Planning & Development 2120 Milvia Street, 2nd Floor Beckeley. CAB4704
+
+Attachment ( Page 28 of 28
+City of Berkeley Hillside Conditions Map
+
+Legend
+I. -1 Very High Hazard Severity Zone ZZZ cGs Sesimic Hazard Zone: Liquefaction
+CGS Seismic Hazard Zone: Earthquake Fault
+CGS Seismic Hazard Zone: Landslide
+ES-R Zoning District
+Hillside Overlay
+Pavement Width
+Less than or equal to 20 feet
+-1as aua ras 21 to 26 to feet
+
+Greater than 27 feet
+
+Updated: November 14, 2019
+
+800 1,600 3,200
+iFeet
+CITY OF BERKELEY
+AT3 Land Ueo Planning Division Dop.t of Pianning & Development 2120 Milia Sireet, 2nd Floor Berkeley, CA 94704
+
+EXHIBIT
+
+D
+
+CITY OF 14373J9 Office of the City Attorney
+
+December 16, 2019
+
+Via E-mail at jsafran@rudderlawgroup.com
+
+Joshua Safran
+Rudder Law Group
+1101 Marina Village Parkway, Suite 201
+Alameda, CA 94501
+
+RE: 1722 Walnut Street, Berkeley, California
+
+Dear Mr. Safran:
+
+write in response to your letter to Farimah Brown dated November 28, 2019. A response to the Public Records Act request in your letter [will be/has been] delivered separately.
+As you are aware, the owners of the property located at 1722 Walnut Street (*Property") built a 354-square-foot, 11.25-foot tall detached one-bedroom cottage in the rear yard area of the Property without obtaining required zoning approvals and building permits. In January 2018, the owners
+applied to legalize the illegally constructed and unpermitted unit. The City's Zoning Adjustments Board ("ZAB") denied the application to legalize the illegal structure because the unpermitted unit was inconsistent with development standards for the Property and the Board was unable to make findings necessary to approve the required variances from those development standards. The City Council denied the appeal of ZAB's decision on March 26, 2019. (Resolution 68,829-N.S.)
+On October 15, 2019, John Stevick contacted Senior Planner Leslie Mendez regarding recent amendments to state Accessory Dwelling Units ("ADU") law. As of January 1, 2020, this new
+state legislation will require local jurisdictions to permit the construction of ADUs on multifamily properties under certain circumstances, and will also require local agencies to delay enforcement of certain building standards for up to five years. On December 10, 2019, the City adopted an
+urgency ordinance to bring its Zoning Ordinance into conformance with newly enacted state law. The urgency ordinance, codified at Berkeley Municipal Code ("BMC") Chapter 23C.24, took effect immediately.
+
+On October 29, 2019, Ms. Mendez responded to Mr. Stevick and informed him that based on the newly enacted state law, the Property owners had two options to correct the Zoning Ordinance violations on the Property: they could either (1) comply with City Council Resolution 68,829-N.S. and remove the illegal unit from the Property; or (2) relocate the illegal unit to comply with the four-foot minimum setbacks that are required under state law and the recently amended provisions of BMC Chapter 23C.24. Ms. Mendez instructed Mr. Stevick to reply to the Planning Department by November 1, 2019 to inform the Department how the Property owners wish to proceed. On
+
+2180 Milvia Street, Berkeley, CA 94704 Tel: 510.981.6998 TDD: 510.981.6903 Fax: 510.981.6960 E-mail: attorney@cityofberkeley.info
+
+Joshua Safran
+December 16, 2019
+Page 2
+
+October 30, 2019, Mr. Stevick informed the City that the Property owners would prefer to submit the required building permits if no other alternatives were available.
+
+On November 28, 2019, we received your letter on behalf of "Berkeley Advocates for Smart Housing" ("BASH"). As initial matter, it is not clear what, if any, standing BASH has to insert itself into a code enforcement matter to which it is not a party. But even setting aside your client's apparent lack of standing, your letter misstates applicable law and elides the fact that the illegal unit has been constructed without permits, did not comply with the Zoning Ordinance when it was
+constructed, does not comply with the current version of the Zoning Ordinance-which has been
+amended to incorporate by reference new state ADU legislation-and has never been inspected to determine it meets even basic health and safety requirements, much less all of the provisions of the
+Building Standards Code.
+
+First, your letter simply fails to address the undisputed fact that the illegal unit does not comply with the four-foot side and rear yard setbacks that are required under BMC Chapter 23C.24 and Government Code section 65852.2(c)(2)(C). As noted above, the Property owners were given the option of moving the illegal unit to comply with this requirement.
+Second, your reliance on the newly enacted provisions of Health & Safety Code section 17980.12 is misplaced. Section 17980.12 plainly applies to "a notice to correct a violation of any provision of any building standard." (Health & Safety Code, § 17980.12(a)(1).) A development standards adopted pursuant to the Zoning Ordinance is not a building standard adopted pursuant to the procedures of the Building Standards Code, see Health & Safety Code section 18938.5 et seq. Your argument to the contrary is disingenuous and a violation of Rule of Professional Conduct Rule 3.1.
+
+Third, even with respect to building standards, the delay in enforcement available under Health & Safety Code section 17980.12 is available only if correcting a Building Standards Code violation "is not necessary to protect health and safety." (Health & Safety Code, § 17980.12(a)(2).) Because the Property owners elected to construct the illegal unit surreptitiously and without any permits, the unit has not been inspected by the City's Building & Safety Division, and it is therefore impossible to conclude that even basic health and safety standards have been met.
+Finally, while you allude in passing to the California Environmental Quality Act (*CEQA"), there is no project on the Property that is subject to CEQA. "CEQA applies only to projects that a public
+agency proposes to carry out or approve, and does not apply to projects that the agency rejects or disapproves." (Las Lomas Land Co., LLC v. City of Los Angeles (2009) 177 Cal. App. 4th 837, 848.) The City denied the permits and variances that would have been required to legalize the
+illegally constructed unit. The denial of the Use Permit application is not subject to CEQA. With
+respect to the demolition of the illegal unit, the City has not taken action to demolish the unit, and
+in any event, a project involving the "[dJemolition and removal of individual small structures" is exempt from environmental review under CEQA. (CEQA Guidelines, § 15301(I).)
+
+The Property owners retain the option of applying for building permits for the relocation and
+construction of the illegal unit by January 3, 2020 to allow for the ministerial approval of the unit
+as an ADU under BMC Chapter 23C.24. Until such time as the violations of the Zoning Ordinance
+2180 Milvia Street, Berkeley, CA 94704 Tel: 510.981.6998 TDD: 510.981.6903 Fax: 510.981.6960
+E-mail: attorney@cityofberkeley.info
+
+Joshua Safran
+December 16, 2019
+Page 3
+
+are corrected, the illegal unit may not be rented or inhabited for any duration of time, and the applicant may not advertise for the rental of the illegal unit. Failure to act to correct the violations
+of the Zoning Ordinance and Resolution 68,829-N.S. will result in the removal of the illegal unit
+from the Property.
+
+Sincerely,
+CA Christopher D. Jensen
+Assistant City Attorney
+
+2180 Milvia Street, Berkeley, CA 94704 Tel: 510.981.6998 TDD: 510.981.6903 Fax: 510.981.6960
+E-mail: attorney@cityofberkeley.info
+
+EXHIBIT
+E
+
+jsafran@rudderlawgroup.com
+
+From: Schoonover, Steve <SSchoonover@cityofberkeley.info>
+Sent: Friday, December 13, 2019 3:23 PM
+To: 'jsafran@rudderlawgroup.com'
+Subject: City of Berkeley - Public Records Act Request - Re: 1722 Walnut
+
+Good Afternoon,
+
+This email is in response to the Public Records Act Request for Documents contained in your 'Letter to Berkeley City
+Attorney re 1722 Walnut (Nov 28, 2019)" emailed on November 28, 2019.
+
+The Planning Department has completed its search of the documents you requested. We have compiled an electronic folder with the submittal. The documents contained are larger in file size than we are able to transmit via email. Please contact me so we can schedule a time for you or your representative to bring in a zip drive or cd so we can complete the
+transmittal of files at your earliest convenience.
+
+Additionally, please be advised that the City is withholding from disclosure electronic mail communications and internal
+memoranda between City officials as such documents are exempt from disclosure under Government Code section 6255
+and will not be disclosed. These documents contain the personal notes and comments of City staff which were not
+prepared in anticipation that they would be subject to public scrutiny. Disclosure of these documents which reflect the
+deliberative process would impede the effective functioning of government as employees would be reluctant to maintain informal notes or engage in open discussion and debate regarding pending matters if their notes regarding
+such matters will be subject to public scrutiny. The City must encourage public officials to speak frankly and openly with
+City staff regarding pending matters. This is the only way to ensure that all possible views on an issue are considered
+before a final governmental decision is made. It is for these reasons, that under Government Code section 6255, the
+City's interest in not disclosing the documents outweighs the public interest in the documents. Additionally, the City is
+withholding from disclosure written communications by electronic mail by the City Attorney to City staff as such
+communications are confidential attorney/client privileged communications and exempt from disclosure under Section
+6254 (k).
+
+Agendas and meeting videos for all Berkeley City council meetings can be found here:
+https://www.cityofberkeley.info/citycouncil/
+
+Permit history and related Zoning documents can be found here:
+https://permits.cityofberkeley.info/Community/default.aspx
+
+Respectfully,
+
+Stephen Schoonover
+City of Berkeley
+Planning & Development
+Land Use Division
+1947 Center St., 2nd Floor
+Berkeley, CA 94704
+510-981-7486
+sschoonover@cityofberkeley.info
+(Gender pronouns he, him, his)
+
+EXHIBIT
+
+F
+
+N
+
+RUDDER LAW GROUP JOSHUA SAFRAN
+(510) 384-7627 •
+JSAFRAN@RUDDERLAWGROUP.COM
+
+December 30, 2019
+Farimah Faiz Brown, Esq.
+City Attorney
+2180 Milvia Street
+4.th Floor
+Berkeley, CA 94704
+
+By U.S. Mail
+NOTICE OF INTENT TO FILE CEQA PETITION
+
+Dear City Attorney Brown:
+PLEASE TAKE NOTICE, under Public Resources Code section 21167.5, that
+Petitioners and Plaintiffs Berkeley Advocates for Smart Housing and Glen Stevick intend to file a petition and complaint under the provisions of the California Environmental Quality Act against respondent and defendant City of Berkeley, challenging: the City's adoption of Resolution No. 68,829-N.S. without undertaking environmental review; the City's issuance of its determination in the letter dated
+December 16, 2019 by and through Assistant City Attorney Christopher D. Jensen
+that the Accessory Dwelling Unit at 1722 Walnut Street, and similarly situated Accessory Dwelling Units in the City of Berkeley, are ineligible for the amnesty protections provided for in Health and Safety Code section 17980.12 without undertaking environmental review; the City's issuance of its determination in the letter dated December 16, 2019 by and through Assistant City Attorney Christopher D. Jensen that the Accessory Dwelling Unit at 1722 Walnut Street, and similarly situated Accessory Dwelling Units in the City of Berkeley, may not be now legalized through issuance of a ministerial permit; the City's decision to pursue, and ongoing
+implementation of, a policy and practice to initiate enforcement actions against
+allegedly nonconforming Accessory Dwelling Units throughout the City during the
+present housing crisis.
+
+Very truly yours,
+OunSte
+Joshua Safran, Esq.
+
+1101 MARINA VILLAGE PKWY, SUITE 201, ALAMEDA, CA 94501
+WWW.RUDDERLAWGROUP.COM
+
+1 RUDDER LAW GROUP, LLP
+
+2 JOSHUA SAFRAN, ESQ. (SBN 215462) 1101 Marina Village Pkwy, Ste. 201 Alameda, CA 94501
+3 jsafran@rudderlawgroup.com Tel. No. (510) 576-6766
+4
+HOLL LAW & MEDIATION
+5 BENJAMIN HOLL, ESQ. (SBN 200630) 369 Pine St., Ste 420
+6 San Francisco, CA 94104
+benjamin@holl-lm.com
+7 Tel. No. (415) 324-8860
+
+8 Attorneys for Petitioners and Plaintiffs
+BERKELEY ADVOCATES FOR SMART HOUSING
+9 & GLEN STEVICK
+
+10 11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+COUNTY OF ALAMEDA
+12
+
+13 (Unlimited Jurisdiction)
+
+14
+BERKELEY ADVOCATES FOR SMART CASE NO.:
+15 HOUSING, an unincorporated association;
+GLEN STEVICK, an individual; PROOF OF SERVICE
+16
+Petitioners and Plaintiffs,
+17
+V.
+18
+CITY OF BERKELEY, a California municipal
+19 corporation; and DOES through 10, inclusive,
+
+20 Respondents and Defendants.
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+PROOF OF SERVICE
+
+1 I am over 18 years of age, not a party to this action and employed in the County of
+
+2 Alameda, California at 1101 Marina Village Pkwy, Ste. 201, Alameda, California 94501. On the
+
+3 date below, I served the following document:
+
+4 NOTICE OF INTENT TO FILE CEQA PETITION
+5
+
+6 BY MAIL. I placed a true copy of the document in a sealed envelope addressed as
+
+7 indicated below on the below-mentioned date in Portland, Oregon and deposited the sealed
+
+8 envelope with the United States Postal Service with the postage fully prepaid.
+Farimah Faiz Brown, Esq. City Attorney
+10 2180 Milvia Street 4th Floor
+11 Berkeley, CA 94704
+I declare under penalty of perjury under the laws of the State of California that the 12
+
+13 foregoing is true and correct and that this declaration was executed on December 31, 2019.
+
+14 OSt Joshua Safran 15
+
+16
+S
+18
+283 22
+
+23
+
+24
+
+25
+
+26
+
+2
+
+PROOF OF SERVICE
+
+L93HY A2Avr AZOZ
+
+2
+B

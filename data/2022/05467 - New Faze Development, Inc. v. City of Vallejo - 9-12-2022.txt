@@ -1,0 +1,1185 @@
+}
+
+- ARTHUR F. COON (Bar No. 124206)
+BRYAN W. WENTER (Bar No. 236257) 2 | KENNETH A. STAHL (Bar No. 326495) MILLER STARR REGALIA 3 A Professional Law Corporation | 1331 N. California Blvd., Suite 600
+4 Walnut Creek, California 94596 Telephone: 5 | Facsimile: 925 935 9400
+
+Email: 925 933 4126
+
+6 arthur.coon@msrlegal.com
+bryan.wenter@msrlegal.com
+
+7 ken.stahl@msrlegal.com
+Attorneys for Petitioner and Plaintiff 8 NEW FAZE DEVELOPMENT, INC.
+
+9
+
+10
+
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+12 COUNTY OF SOLANO
+13 NEW FAZE DEVELOPMENT, INC., a
+
+14 California corporation, Case No.
+
+15 Petitioner and Plaintiff, NOTICE TO ATTORNEY GENERAL
+
+16 [Pub. Resources Code, § 21167.7; Code Civ.
+Proc., § 388]
+
+17 CITY OF VALLEJO, a California municipal corporation, and DOES through 20,
+
+18 inclusive, CEQA Action
+
+Action Filed:
+
+19 Respondent and Defendant.
+
+20 TO THE ATTORNEY GENERAL OF THE STATE OF CALIFORNIA:
+
+21 PLEASE TAKE NOTICE, under Public Resources Code Section 21167.7 and
+22 Code of Civil Procedure Section 388, that on September 7, 2022, Petitioner and Plaintiff New
+23 Faze Development, Inc. ("Petitioner") filed in the above-captioned matter a verified Petition for
+
+24 Writ of Mandate and Complaint for Declaratory Relief ("Petition") against Respondent and
+25 Defendant City of Vallejo ("Respondent) alleging, inter alia, violations of the California
+26 Environmental Quality Act ("CEQA"; Pub. Resources Code, § 21000 et seq.) and challenging
+27 Respondent's unlawful actions and omissions in connection with its failures to properly review,
+28 process, respond to, and conduct timely CEQA review of Petitioner's applications for a housing
+
+NWFZ-5762512670441.1 -1-
+NOTICE TO ATTORNEY GENERAL
+
+development project ("Project") in the City of Vallejo and its unlawful downzoning of the Project
+2 Site. A true and correct copy of the Petition is enclosed.
+
+3 Dated: September 7, 2022 MILLER STARR REGALIA
+
+4
+
+By: Pinueti Stall
+
+6 Kenneth A. Stahl
+
+7 Attorneys for Petitioner and Plaintiff NEW FAZE
+DEVELOPMENT, INC.
+
+8
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NWFZ-57625\2670441.1 -2-
+NOTICE TO ATTORNEY GENERAL
+
+1 ARTHUR F. COON (Bar No. 124206)
+BRYAN W. WENTER (Bar No. 236257) 2 KENNETH A. STAHL (Bar No. 326495) MILLER STARR REGALIA
+3 A Professional Law Corporation 1331 N. California Blvd., Suite 600
+4 Walnut Creek, California 94596
+Telephone: 925 935 9400
+5 Facsimile: 925 933 4126
+Email: arthur.coon@msrlegal.com
+6 bryan.wenter@msrlegal.com
+
+7 ken.stahl@msrlegal.com
+Attorneys for Petitioner and Plaintiff NEW FAZE 8 DEVELOPMENT, INC.
+
+0
+
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+COUNTY OF SOLANO
+11
+
+12
+Case No.
+13 NEW FAZE DEVELOPMENT, INC., a California corporation,
+
+14 Petitioner and Plaintiff, VERIFIED PETITION FOR WRIT OF
+MANDATE AND COMPLAINT FOR
+
+15 DECLARATORY RELIEF
+
+16 CITY OF VALLEJO, a California municipal [CCP §§ 1060, 1085, 1094.5, Gov. Code,
+corporation, and DOES 1 through 20, § 65589.5; Pub. Resources Code, § 21000 et
+17  inclusive, seq; Cal. Code Regs., tit. 14, § 15000 et seq.]
+
+18 Respondent and Defendant. CEOA Action
+
+19
+
+20 Petitioner and Plaintiff NEW FAZE DEVELOPMENT, INC. alleges as follows:
+GENERAL ALLEGATIONS
+21
+1.
+22 Petitioner and Plaintiff NEW FAZE DEVELOPMENT, INC., a California
+
+23 corporation ("Petitioner"), is the developer of certain real property located in the City of Vallejo
+
+24 ("City"), County of Solano, north of Borges Lane and Mira Vista Way, comprising 121.78 acres
+
+25 and designated as assessor's parcel numbers 0068-570-010, -20, -30, -40, -50, -60, -70, -80, -90,
+
+26 and -100 (*Project Site").
+
+2.
+27 On July 7, 2021, Petitioner submitted to the City a preliminary application
+
+28 (the "Preliminary Application"), pursuant to Senate Bill 330 (SB 330), also known as the Housing
+
+NWFZ-57625\2649999.5 -1-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+Crisis Act (Gov. Code § 65941.1), to construct a residential subdivision of 415 homes on the
+2 Project Site, to be known as the "Borges Ranch" (the "Project"). Pursuant to related provisions of
+3 the Housing Accountability Act ("HAA"; Gov. Code, § 655889.5), submission of the Preliminary
+4 Application had the effect of "freezing" in place the City's development standards applicable to
+the Project as of the date of submission, such that the Project cannot be subjected to any
+6 development standards enacted after that date, except in circumstances narrowly prescribed by the
+7 HAA. (Gov. Code, § 65589.5(o)(2).)
+
+8 3. Subsequently, on December 23, 2021, Petitioner submitted a formal
+
+o development application (the "Formal Development Application") for the Project under the Permit
+10 Streamlining Act ("PSA"; see, Gov. Code, §§ 65940, 65941, 65941.1(d), 65941.5). Upon
+11 submission of the Formal Development Application, under Government Code Section 65943(a)
+12 the City had 30 days to review and respond in writing to that Formal Development Application,
+13 setting forth an "exhaustive" list of any incomplete items in the application, otherwise the Formal
+14 Development Application would be deemed complete as a matter of law. The City failed to do so,
+15 or even to acknowledge the filing of the Formal Development Application, improperly
+16 mischaracterizing the Formal Development Application in a "courtesy letter" as a "Formal
+17 Preliminary Application," which does not exist under any law; accordingly, the Formal
+18 Development Application was deemed complete as a matter of law as of January 24, 2022.
+
+19 4. Once the Formal Development Application was deemed complete, under
+20 the California Environmental Quality Act ("CEQA"; Pub. Resources Code, § 21000 et seq.), the
+21 City then had 180 days, or until July 24, 2022, to adopt a mitigated negative declaration for the
+22 Project, unless it elected to prepare an Environmental Impact Report ("EIR"), in which case it had
+23 one year to certify an EIR. (Pub. Resources Code, §§ 21100.2(a), 21151.5(a).) Further, the City
+24 was required by the HAA (Gov. Code, § 65589.5(j)(2)), to provide written documentation
+25 notifying Petitioner of any development standards with which the Project was inconsistent within
+26 60 days after the Formal Development Application was deemed complete and an explanation of
+27 the reasons why the City considers the Project inconsistent, otherwise it would be deemed
+28 consistent as a matter of law.
+
+I| NWFZ-57625\2649999.5 -2-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+5. As of the filing of this Petition and Complaint, the City has neither adopted
+2 a mitigated negative declaration nor elected to prepare an EIR for the Project. Further, the City
+3 has improperly and illegally claimed that the Preliminary Application was not complete, based on
+
+4 the alleged absence of information not expressly required, and thus not allowed to be required, by
+4 the statute (Gov. Code, § 65941.1(b)(3)), and despite the fact that SB 330 contemplates no role for
+6 the City in determining the completeness of preliminary applications submitted under SB 330.
+7 (Gov. Code, § 65941.1(c)(3).) Based on its illegal claims and purported determinations in
+
+8 contravention of SB 330, the City continues to wrongly claim that it can subject the Project to
+9 development standards enacted after submission of the Preliminary Application. The City also
+10 incorrectly claims that the Formal Development Application is not complete, that its CEQA
+11 timelines have hence not yet begun to run, and that it has no legal obligation to undertake
+12 environmental review or even process the Formal Development Application for the Project.
+13 Finally, as noted, the City has never notified Petitioner of any development standards with which
+14 the Project is inconsistent.
+
+15 6. Petitioner's interests in providing needed housing and in lawful, orderly,
+16 consistent, timely, and environmentally sound land use planning and development application
+17 processing and approvals in the City, and its vested and other legal rights as applicant and
+18 developer with respect to the Project, will be severely adversely affected if the City continues to
+19 violate CEQA, the PSA, the HAA, and SB 330 by failing to timely prepare, complete, and adopt
+20 or certify a CEQA document for the Project, making improper and unauthorized determinations as
+
+21 to the completeness of the Preliminary Application, and refusing to recognize and accept the
+22 Formal Development Application as complete. Petitioner is now, and will continue to be, severcly
+23 adversely affected by the City's unlawful actions related to the Project, and is beneficially
+24 interested in the relief sought by this Petition and Complaint.
+
+25 7. Petitioner is informed and believes, and based thereon alleges, that the City
+26 is, and at all times herein mentioned was, a municipal corporation duly organized and existing
+27 under its own Charter and all applicable laws of the State of California, including, but not limited
+28 to, CEQA, the PSA, the HAA, and SB 330. The City is, and at all times hercin mentioned was,
+
+I NWFZ-57625\2649999.5 -3-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+the lead agency responsible for carrying out and complying with CEQA and the administrative
+2 regulations promulgated thereunder ("CEQA Guidelines"; Cal. Code Regs., tit. 14, § 15000 et
+3 seq.).
+
+4 8. Petitioner is unaware of the true names and capacities of the parties
+
+5 fictitiously sued herein as DOES 1 through 20, and will amend this Petition and Complaint to set
+6 forth their true names and capacities when the same have been ascertained. Petitioner is informed
+
+7 and believes, and based thereon alleges, that said fictitiously-named Respondents and Defendants
+8  were the agents and employees of other fictitiously-named or actually-named Respondents and
+9 Defendants, and acting within the scope of such agency and/or employment, took some part in the
+10 acts or omissions hereinafter set forth, or are the principals and took part in such acts or omissions,
+11 by reason of which said fictitiously-named Respondents and Defendants are liable to Petitioner for
+12 the relief prayed for herein.
+
+13 APPLICABLE STATE HOUSING LAWS
+
+14 9. SB 330 allows housing development applicants to submit a "preliminary
+15 application" prior to a full formal development application in order to gain early developer-
+16 controlled vested rights. SB 330 directs the California Department of Housing and Community
+17 Development and every city and county in the state to create a standardized a preliminary
+18 application checklist and form that applicants may use for purposes of satisfying the requirements
+19 of a preliminary application. Once an applicant elects to submit a preliminary application and
+20 submits the 17 items specified in SB 330, as well as the applicable permit processing fee, the
+21 preliminary application is deemed submitted without any action or input by the relevant
+22 jurisdiction. (Gov. Code, § 65941.1(a)). No information beyond that expressly identified in
+23 subdivision (a) of the statute may be required or requested in order for a preliminary application to
+24 be deemed submitted. (Gov. Code, § 65941.1(b)(3).) Submittal of a preliminary application
+25 creates certain vested rights in the existing development standards, meaning that jurisdictions are
+26 prohibited from applying development standards, including standards that would result in denial of
+27 a project or reduction of its density, that were not in place at the time the preliminary application
+28 was submitted. (Gov. Code, § 65589.5(0).) SB 330 expressly provides that the law does not
+
+NWFZ-57625\2649999.5 -4-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+require local agencies like the City to make an affirmative determination as to the completeness of
+2 a preliminary application in order for the same to have been deemed submitted in compliance with
+3 SB 330. (Gov. Code, § 65941.1(d)(3).) The vested rights conferred by the HAA accrue upon
+4 submittal of the preliminary application, regardless of any purported "completeness"
+5 determination by the local jurisdiction or any other entity. (Gov. Code, § 65589.5(o)(2).)
+
+6 10. Separately and independently, SB 330 contains an "anti-downzoning"
+7 provision that prohibits jurisdictions, including the City, from changing any of their land use
+
+8 regulations, on land where housing is an allowed use, to a less intensive a use, including prohibiting
+9 the reduction of permitted densities or the intensity of land use below what was allowed under the
+10 land use regulations in effect on January 1, 2018. (Gov. Code, § 66300(b)(1)(A).) §
+
+11 (1. Once a preliminary application is submitted under SB 330, an applicant
+12 then has 180 days to submit a formal development application for the project under the PSA.
+13 (Gov. Code, § 65941.1(d)(1).) An applicant may also submit a formal development application
+14 under the PSA without having previously submitted a preliminary application. Regardless of
+15 whether an applicant has submitted a preliminary application, once the formal development
+16 I application is submitted the jurisdiction has 30 days to either determine in writing that the formal
+17 development application is complete, or to provide the applicant in writing with an "exhaustive
+18 list" of any items that are incomplete. (Gov. Code, § 65943(a).) The only items a city is allowed is
+19 to list as incomplete are those items actually contained in the preexisting submittal requirement
+20 checklist the city is required to maintain pursuant to Government Code section 65940. If a city
+21 determines that a formal development application is incomplete, "it must specify those parts of the
+22 application which are incomplete and shall indicate the manner in which they can be made
+23 complete, including a list and thorough description of the specific information needed to complete
+24 the application." (Gov. Code, § 65943(a).) The city must also provide a process for the applicant
+25 to appeal the incompleteness determination in writing to the governing body of the jurisdiction.
+26 (Gov. Code, § 65943(c).)
+
+27 12. If city fails to either timely determine in writing that the formal
+28 development application is complete or to timely provide the required exhaustive written list of
+
+NWFZ-57625\2649999.5 -5-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+1 incomplete items within 30 days after the formal development application is submitted, the
+2 application is deemed complete as a matter of law. (Gov. Code, § 65943(a).) If a city determines
+
+3 that the application is incomplete within the 30-day timeframe, the applicant can resubmit the
+
+4 application, giving the jurisdiction another 30-day period to respond. A city may not respond to
+
+5 any resubmission by requiring new information that was not requested in the original
+6 incompleteness letter. (Id.)
+
+7 13. Once a formal development application is deemed complete under the PSA,
+8 several deadlines are triggered under CEQA. In particular, a jurisdiction has 180 days from the
+
+9 date the formal development application is deemed complete to process a negative declaration or
+10 mitigated negative declaration for the project. (Pub. Resources Code, § 21100.2(a).) Alternatively,
+11 if the jurisdiction elects to require an EIR, it has year from the date the formal application is
+12 deemed complete to process the EIR. (Pub. Resources Code, § 21151.5.)
+
+13 14. In addition, the HAA also requires jurisdictions to provide written
+14 documentation notifying the applicant in writing within 60 days after the formal development
+15 application is deemed complete, if the housing project has more than 150 units, of any applicable
+16 development standards with which the project is inconsistent and an explanation of the reasons
+17 why it considers the application inconsistent, or else the application is deemed consistent with
+18 those standards as a matter of law. (Gov. Code, § 65589.5(j)(2).) The HAA prohibits local
+19 governments from rejecting or reducing the density of any project that is consistent with all
+20 applicable objective development standards in place at the time the application is deemed
+
+21 complete, unless the City can prove by a preponderance of the evidence that the project poses a
+22 significant and unavoidable public health and safety hazard. (Gov. Code, § 65589.5(ÿ)(1).)
+23 "Objective" standards are standards the application of which "involv[es] no personal or subjective
+24 | judgment by a public official" and which are "uniformly verifiable by reference to an external and
+25 uniform benchmark or criterion available and knowable by both the development applicant or
+26| proponent and the public official." (Gov. Code, § 65589.5(h)(8).)
+
+27
+
+28
+
+NWFZ-57625\2649999.5 -6-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+STATEMENT OF FACTS
+
+2 15. In 2019, Petitioner proposed to build a residential subdivision of 399 homes
+3 on the Project Site, and deposited $213,000 with the City as part of an agreement to pay for
+4 environmental consultants for the Project. The Project requested several discretionary
+entitlements but was consistent with all of the City's applicable, objective development standards.
+6 The Project Site has a General Plan land use designation of "Primarily Residential Single Family"
+(R-SF), which allows single-family homes with maximum permitted density of 12 units per acre.
+8 The zoning for the Project Site is Rural Residential, which corresponds to the General Plan land
+9 use designation and allows "very low-density residential development." At 7.8 units per acre, the
+10 Project is consistent with both the General Plan land use designation and the zoning for the Project
+11 Site.
+
+12 16. Under the HAA, if a project is consistent with the applicable, objective
+13 development standards in effect at the time an application is deemed complete, the City is
+14 prohibited from rejecting the project or reducing its density unless the City can prove by a
+15 preponderance of the evidence that the project poses a significant and unavoidable public health
+16 and safety impact. (Gov. Code, § 65589.5()(1).)
+
+17 17. The City determined on May 24, 2019 that Petitioner's application was
+18 incomplete. Subsequently, on June 22, 2021, in violation of Government Code section
+19 66300(b)(1)(A), the City adopted new zoning regulations that dramatically decreased permitted
+20 residential densities on many parcels, including the Project Site, below what was permitted on
+21 January 1, 2018. This City-wide "downzoning" introduced new Hillside Development Standards
+22 (Zoning Code section 16.212) that apply to any subdivision, new use, or structure on any "hillside
+23 | parcel," which is defined as any parcel with an average slope of 15 percent or greater. The
+24 Hillside Development Standards introduce a new permitting requirement with a subjective method
+25 of calculating slopes, prohibit development on land with slopes exceeding 30%, and allow the
+26 City's Planning Director to approve development on slopes exceeding 20% if certain findings can
+27 be made. If the City's downzoning were applicable to and applied to the Project Site, these new
+28  Hillside Development Standards would reduce the allowed density of the Project by
+
+NWFZ-57625\2649999.5 -7-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+approximately 50%. The City's unlawful downzoning ordinance was to take effect 30 days after
+
+2 its adoption, on July 22, 2021.
+
+3 18. On July 7, 2021, Petitioner submitted its Preliminary Application pursuant
+4 to Senate Bill 330 for a slightly modified version of the Project with 386 homes, along with the
+
+5 required permit processing fee of $5,000, which was cashed by the City that same day. Consistent
+6 with SB 330, the intention in filing the Preliminary Application was to freeze the existing
+7 applicable development standards in effect prior to the unlawful downzoning that was to take
+8 effect on July 22, 2021.
+
+9 19. On July 23, 2021, one day after the illegal downzoning ordinance
+10 purportedly took effect, City staff orally informed Petitioner that the Preliminary Application was
+11  incomplete, and therefore did not freeze the pre-existing development standards in place. The City
+12 made this unlawful determination based on the purported absence of information that is not
+13 expressly identified in Government Code section 65941.1(a) (see Gov. Code, § 65941.1(b)(3)),
+14 and notwithstanding that SB 330 expressly contemplates no role for local or other agencies
+15 (including the City) in determining the "completeness" of a preliminary application. (Gov. Code,
+16 § 65941.1(d)(3) ["This section shall not require an affirmative determination by a city
+17 regarding the completeness of a preliminary application or a development application for purposes
+18 of compliance with this section."].) The timing of the City's conveying this information exactly
+19 one day after its downzoning purportedly became effective obviously made it impossible for
+20 Petitioner to revise and resubmit the Preliminary Application in time for any revised application to
+
+21 obtain vested rights under the prior zoning. The City subsequently followed up with a letter on a
+22 August 17, 2021, further elaborating on its unauthorized contention that the Preliminary
+
+23 Application was incomplete.
+
+24 20. On December 23, 2021, Petitioner filed the Formal Devclopment
+25 Application pursuant to Government Code sections 65940, 65941, 65941.1(d), and 65941.5 for a
+26 slightly modified version of the Project with 415 homes. The cover letter accompanying that
+27 application explained that Petitioner disagreed with the City's determination that the Preliminary
+28 Application was incomplete and that the City had no role in determining the completeness of a
+
+NWFZ-57625\2649999.5 -8-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+- Preliminary Application. The letter further explained that, separate and apart from those issues,
+2 the City's downzoning was illegal under SB 330 and that the new Hillside Development Standards
+3
+
+4 a are subjective and cannot serve as a lawful basis for the City to disapprove the Project or reduce its
+density. The letter also explained that Petitioner was nevertheless submitting a Formal
+5 Development Application independent of the Preliminary Application. The cover letter clearly
+6 identified the application as a Formal Development Application under Government Code sections
+
+7 65940, 65941, 65941.1(d)), and 65941.5, and a not a Preliminary Application under SB 330. Along
+8 with the letter, the applicant also attempted to provide a check for any required processing fees but
+9 the City planner who accepted the Formal Development Application assured the applicant that no
+10 additional fees were required.
+
+11 21. Under the PSA, Government Code section 65943, the City had 30 days
+12 from the date of the submittal of the Formal Development Application, or until January 24, 2022,
+13 to either determine in writing that the Petitioner's Formal Development Application was complete,
+14 or to provide Petitioner in writing with an "exhaustive list" of any items that were incomplete;
+15 otherwise, that application would be deemed complete. Furthermore, once the application was
+16 deemed complete, under the HAA, Government Code section 65589.5(j)(2), the City had 60 days
+17 to notify the Petitioner in writing of any applicable development standards with which the
+18 application was inconsistent; otherwise, it would be deemed consistent with those development
+
+19 standards as a matter of law.
+
+20 22.
+
+21 The City did not provide either a written determination of completeness or
+the required comprehensive written list of incomplete items within 30 days after the submittal of
+22 the Formal Development Application. Instead, on January 18, 2022, Petitioner received a
+23  "courtesy letter" from the City's Interim Planning and Development Services Director, Christina
+24 Ratcliffe. Interim Director Ratcliffe thanked Petitioner for "submitting a formal preliminary
+25 application to the City of Vallejo on December 23, 2021 on behalf of your client, Ncw Faze
+26 Development," despite the fact that the December 23, 2021 application was expressly not a
+27 preliminary application but was clearly identified only as a formal development application.
+28 (Emph. added.) Ms. Ratcliffe claimed that the letter was being sent as a "courtesy" and purported a
+
+NWFZ-57625\2649999.5 -9-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+to list "several items that must be addressed for the preliminary application to be deemed
+2 sufficient to constitute preliminary application under applicable state law." As noted above,
+3 Petitioner did not submit a preliminary application on December 23, 2021, but rather a Formal
+4 Development Application consisting of approximately 1,500 pages and sheets of materials.
+5 Furthermore, the law provides no role for the City in determining the completeness or sufficiency
+6 ofa preliminary application, and the City's January 18 letter did not direct any comments to, or
+7 even acknowledge the submission of, Petitioner's Formal Development Application, as the
+8 comments were limited only to what the City had mischaracterized as a "preliminary application,"
+9 and referenced only allegedly missing items listed in the statutory list of items required for
+10| preliminary applications. (Gov. Code, § 65941.1(a).) The letter did not acknowledge the Formal
+11 Development Application, much less state that the Formal Development Application was
+12 incomplete in any way, as required by Government Code section 65943(a), and did not refer to the
+13 City's checklist submittal requirements for formal development applications or to items identified
+14 therein as being missing or incomplete. The letter also did not notify or provide to Petitioner any
+15 process to appeal the incompleteness determination, as required by Government Code section
+16 65943c). Finally, the letter did not identify any applicable development standards with which the
+17 City contends the Project was inconsistent, nor has it ever done so, as is required by Government
+18| Code section 65589.5(j)(2).
+
+19 23. On March 29, 2022, Petitioner's counsel wrote Interim Director Ratcliffe to
+20 advise that the City's January 18 letter improperly purported to respond to a nonexistent "formal
+21 preliminary application" and had not responded in any way to the Formal Development
+22 Application that Petitioner had actually submitted. Hence, counsel informed Interim Director
+
+23 Ratcliffe that under Government Code section 65943(a), the Formal Development Application
+24 was now a deemed complete as a matter of law. Counsel further informed Interim Director Ratcliffe
+
+25 that the Project was now also deemed consistent with all applicable objective development
+26 standards for purposes of the HAA (Gov. Code, § 65589.5(j)(2)), because the City had failed to
+27 identify in writing any standards with which the Project was inconsistent within 60 days of the
+28 Project's Formal Development Application being deemed complete on January 24, 2022.
+
+NWFZ-57625\2649999.5 -10-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+24. On May 3, 2022, having received no response to its earlier March 29 letter,
+2 Petitioner's counsel again wrote Interim Director Ratcliffe to remind the City that the Formal
+3 Development Application filed on December 23, 2021, had been deemed complete under
+4 Government Code section 65943(a) as of January 24, 2022, and also deemed consistent with all
+5 applicable development standards under Government Code section 65589.5(j)(2) as of March 25,
+6 2022. The letter further reminded Interim Director Ratcliffe that under CEQA, the City had 180
+7 days from the date of the deemed-complete Formal Development Application, or until July 24,
+8 2022, to process a negative declaration or mitigated negative declaration for the Project.
+9 Alternatively, if the City elected to require an Environmental Impact Report ("EIR"), it had year
+10 from the deemed-complete Formal Development Application, or until January 24, 2023, to process
+11 an EIR. The May 3 letter also requested that the City account for the more than $200,000 that
+12 Petitioner had paid the City and its environmental consultants for work in connection with the
+13 Project's CEQA review, noting that it had not reccived any official reports of work performed on
+14 the CEQA review.
+
+15 25. On May 18, 2022, Vallejo Assistant City Attorney Laura Zagaroli wrote
+16 Petitioner's counsel in response to the May 3 letter. The letter contended for the first time that the
+17 Formal Development Application was purportedly incomplete, and therefore the Project was not
+18 |l deemed consistent with the applicable development standards, because Petitioner had allegedly not
+19 paid $3,000 in required permit fees. The letter did not identify any other purported deficiencies in
+20 the Formal Development Application.
+
+21 26. On May 25, 2022, Petitioner's counsel wrote in response to Ms. Zagaroli's
+22 letter, pointing out and providing documentation showing that Petitioner had, in fact, already paid
+23 a $5,000 permit fee (by a check that had been cashed by the City) nearly a year earlier and
+24 informing Ms. Zagaroli that the staff planner who accepted the Formal Development Application
+25 refused to accept any additional fees and stated no additional fees were due. Petitioner's counsel
+26 reiterated that the Project's Formal Development Application, as a matter of law, was now deemed
+27 | complete and deemed consistent due to the City's failure to provide the written documentation
+
+28
+
+NWFZ-57625\2649999.5 -]1-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+F required by controlling state law, and repeated Petitioner's request for an accounting with respect
+2 to the over $200,000 in consulting fees paid.
+
+3 27. Petitioner has not received any correspondence from the City in response to
+4 the May 25 letter. The City did not process negative declaration or any other CEQA document
+5 by its deadline of July 24, 2022, nor did it notify Petitioner or the public of whether it had elected
+6 to procced with CEQA review by means of a negative declaration or an EIR. The City also has
+7 not provided Petitioner with any accounting relating to the substantial consultants' fees that
+8 Petitioner paid to it, despite Petitioner's repeated requests for the same, as described above.
+
+Q 28. Thus, notwithstanding the fact that Public Resources Code sections
+10 21100.2(a) and 21151.5(a) require that negative declaration be completed and adopted within
+
+11 180 days after the date on which Petitioner's Formal Development Application was deemed
+12 complete, a negative declaration has not yet been completed or adopted for the Project, nor has the
+13 City notified Petitioner or the public of any election to proceed by preparing an EIR.
+
+14 29. This action is timely filed, and Petitioner has exhausted all administrative
+15 remedies made available to it to the extent the same are not inadequate or futile. Petitioner has
+16 further satisfied the requirements of Public Resources Code section 21177 to the extent applicable
+17 prior to filing this action. Petitioner has performed all conditions precedent to the filing of this
+18 action.
+
+19 30. Petitioner has complied with the requirements of Public Resources Code
+20 section 21167.5 by mailing a written notice of the commencement of this action to the City prior
+
+21 to filing this Petition and Complaint. A true and correct copy of the notice provided pursuant
+22 thereto, with proof of service thereof, is attached hereto as Exhibit A.
+
+23 31. Petitioner has complied with the provisions of Code of Civil Procedure
+24 section 388 and Public Resources Code section 21167.7 by mailing a copy of the Petition and
+25 Complaint to the Attorney General of the State of California. A true and correct copy of
+26 Petitioner's Notice to Attorney General of the State of California is attached hereto as Exhibit B.
+
+27 32. Petitioner brings this action to vindicate its own legal and property rights, as
+28 well as to enforce important rights affecting the public intcrest, as a private attorney general under
+
+NWFZ-57625\2649999.5 -12-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+Code of Civil Procedure section 1021.5, and to redress arbitrary and capricious government action
+2 pursuant to Government Code 800 and all applicable law.
+
+3 FIRST CAUSE OF ACTION
+
+4 (Writ of Mandate - Violations of CEQA)
+
+5 33. Petitioner hereby incorporates herein by reference, as though set forth in
+6 full, each of the allegations set forth in paragraphs 1 through 32, above.
+
+7 34. Public Resources Code section 21151.5 provides, in pertinent part, that the
+8 City ".shall establish, by ordinance or resolution, time limits that do not exceed the following:
+9 (A) One hundred eighty days for completing and adopting negative declarations..." (Pub.
+10 Resources Code, § 21151.5(a)(1)(B).) As further set forth in Public Resources Code section
+11 21151.5(a)(2), the statutorily mandated 180 day limit "shall be measured from the date on which
+
+12 an application requesting approval of the project is received and accepted as complete by the local
+
+13 agency.'
+
+14 35. Petitioner is informed and believes, and based thereon alleges, that the City
+15 has not completed or adopted a negative declaration for the Project, notwithstanding that the
+16 Project entitlement application was deemed complete as a matter of law on January 24, 2022 -
+17 more than the required 180 days ago.
+
+18 36. Petitioner is further informed and believes, and based thereon alleges, that
+19 the City has not yet determined whether to proceed by negative declaration or by processing an
+20 EIR for the Project.
+
+21 37. The City's failure to complete and adopt a negative declaration or clect to
+
+22 process an EIR for the Project constitutes a prejudicial abuse of discretion in that the City has
+23 failed to proceed in the manner required by law. In particular, the City has failed to comply with
+24 the provisions of Public Resources Code section 21151.5 because the City has not completed and
+25 adopted a negative declaration for the Project, despite that the application was deemed complete
+26 more than 180 days ago. Nor has the City made any determination to proceed with and timely
+27 process an EIR for the Project.
+
+28
+
+NWFZ-57625\2649999.5 -13-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+38. Petitioner has no plain, speedy, or adequate remedy in the ordinary course
+
+2 of law, as shown by the representations in this Verified Petition and Complaint, and traditional
+mandamus under Code of Civil Procedure section 1085 is the prescribed remedy for violations of
+4 this type,
+
+5 WHEREFORE, Petitioner prays for judgment as hereinafter set forth.
+
+6 SECOND CAUSE OF ACTION
+
+7 (Writ of Mandate - Violations of Permit Streamlining Act)
+
+8 39. Petitioner hereby incorporates herein by reference, as though set forth in
+9 full, each of the allegations set forth in paragraphs 1 through 38, above.
+
+10 40. The Permit Streamlining Act ("PSA") requires jurisdictions to provide
+
+11 applicants, within 30 days of a submitted formal development application, with an "exhaustive
+12 list" in writing of any items that are incomplete, or else the application is deemed complete. (Gov.
+13 Code, § 65943(a).) The City is subject to that requirement and must also provide a process for an
+14 applicant to appeal any incompleteness determination in writing to the governing body of the
+15 jurisdiction. (Gov. Code, § 65943(c).) If a city determines that a formal application is incomplete
+16 within the 30-day PSA timeframe, the applicant can resubmit the application, giving the
+17 jurisdiction another 30-day period to respond to the resubmittal. (Gov. Code, § 65943(a).) An
+18 application's deemed complete date triggers important deadlines for the lead agency/permitting
+19| jurisdiction under CEQA and the HAA.
+
+20 41. The City's "responses" to the Formal Development Application submitted
+
+21 by Petitioner in this case reflect clear effort to avoid the requirements of the PSA, the HAA, and
+22 CEQA, while also attempting to deprive Petitioner of previously-obtained vested rights. The
+23 City's "courtesy letter" on January 18, 2022 did not respond at all to the Formal Development
+24 Application submitted on December 23, 2021, did not provide any process for an appeal, and
+25 cannot reasonably be interpreted as or construed as the exhaustive and comprehensive
+26 | incompleteness determination the City was required to make, and to which Petitioner was legally
+27 entitled, under Government Code Section 65943(a). When Petitioner informed the City of the
+28  inadequacy of its response, the City then pretextually claimed that Petitioner had not paid the
+
+I| NWFZ-57625\2649999.5 -14-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+required processing fee, when, in fact, the fee had been paid and the check cashed by the City
+2 many months earlier, and the City planner who accepted the Formal Development Application did
+
+3 not accept the check that accompanied the Formal Development Application and stated that no
+
+4 additional fees were due.
+
+5 42. Petitioner has no plain, speedy, or adequate remedy in the ordinary course
+6 of law, as shown by the representations in this Verified Petition and Complaint, and traditional
+7 mandamus under Code of Civil Procedure section 1085 is the prescribed remedy for violations of
+
+8 this type.
+
+9 WHEREFORE, Petitioner prays for judgment as hereinafter set forth.
+10 THIRD CAUSE OF ACTION
+
+11 (Writ of Mandate - Violations of SB 330 and the HAA)
+
+12 43. Petitioner hereby incorporates herein by reference, as though set forth in
+13 full, each of the allegations set forth in paragraphs 1 through 42, above.
+
+14 44. SB 330 prohibits cities and counties from reducing permitted residential
+15 densities and intensities of use below what was permitted on January 1, 2018. Nevertheless, on
+16 June 22, 2021, the City through its downzoning illegally reduced densities on parcels including the
+17 Project Site below what was permitted on January 1, 2018.
+
+18 45. SB 330 and the HAA further permit housing development project applicants
+19 to submit a "preliminary application," freezing in place development standards applicable at the
+20 time of submission so that, with limited exceptions, the City cannot deny the project or reduce its
+
+21 density based on inconsistency with development standards adopted after the submission of the
+22 preliminary application. (Gov. Code, § 65589.5(o).)
+
+23 46. The City processed Petitioner's Preliminary Application in a manner clearly
+24  intended to avoid the requirements and in violation of SB 330 and the HAA. The City waited until
+25 one day after its illegal downzoning took effect to inform Petitioner that the Preliminary
+26 Application was "incomplete," based on alleged failure to provide items not identified in, or
+27 permitted to be required by, the relevant statute, and despite the fact that SB 330 provides no role
+28 for the City to make any purported completeness determination at all with respect to a preliminary
+
+NWFZ-57625\2649999.5 -15-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+1 application. The timing of the determination had the intended effect of preventing Petitioner from
+2 resubmitting any revised Preliminary Application so as to freeze in place the pre-existing
+3 development standards.
+
+4 47. The City may not apply to the Project the new development standards
+5 purportedly adopted as part of the June 22, 2021 downzoning for three separate and independent
+6 reasons: (1) Petitioner's Preliminary Application had the effect of conferring vesting rights in the
+7 Petitioner to proceed with the project under the standards in place at the time the Preliminary
+8 Application was submitted; (2) the downzoning was illegal and invalid as applied to the Project
+
+9 because it reduced permitted residential densities on the Project Site below what was permitted on
+10 January 1, 2018; and (3) the new standards are inapplicable because they are not objective
+11 standards as defined in Government Code section 65589.5(h)(8).
+
+12 48. Petitioner has no plain, speedy, or adequate remedy in the ordinary course
+13 of law, as shown by the allegations in this Verified Petition and Complaint, and traditional
+14 mandamus under Code of Civil Procedure section 1085, Government Code section 1094.5, and/or
+15 section 65589.5 is the prescribed remedy for violations of this type.
+16 WHEREFORE, Petitioner prays for judgment as hereinafter set forth.
+
+17 FOURTH CAUSE OF ACTION
+
+18 (Declaratory Relief)
+
+19 49. Petitioner hereby incorporates herein by reference, as though set forth in
+20 full, each of the allegations set forth in paragraphs 1 through 48, above.
+
+21 50. An actual controversy has arisen and now exists between Petitioner, on the
+
+22 one hand, and the City, on the other hand, in that Petitioner contends, and is informed and
+23 believes, and based thereon alleges, that the City denies, that the City has failed to comply with
+24 SB 330, the PSA, the HAA, and/or CEQA, all as described in more detail above.
+
+25 51. It is necessary and appropriate at this time that the Court issue a declaratory
+26 judgment so that all parties hereto and the public as a whole may know the illegality or the legality
+27 of the actions of the City, as set forth in more detail above.
+
+28 WHEREFORE, Petitioner prays for judgment as hereinafter set forth.
+
+Il NWFZ-57625\2649999.5 -16-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+(1) For a writ of mandate directing, ordering and compelling the City to comply
+2 with the procedural requirements and provisions of CEQA and the CEQA Guidelines by
+3 immediately adopting negative declaration or, alternatively, clecting to prepare an EIR for the
+
+4 Project and expeditiously preparing the same;
+(2) For a writ of mandate directing, ordering and compelling the City to comply
+6 with the procedural requirements and provisions of the PSA by accepting Petitioner's Formal
+7 Development Application as complete and processing it;
+
+8 (3) For a writ of mandate directing, ordering and compelling the City to comply
+
+9 with the procedural requirements and provisions of SB 330 and the HAA by accepting the
+10 Petitioner's Project as consistent with all applicable development standards, disregarding any
+11 standards adopted through its illegal downzoning, and refraining from making or purporting to
+12 enforce determinations regarding the completeness of preliminary applications;
+
+13 (4) For a declaratory judgment that Respondent City's failure to timely
+14 undertake and complete required CEQA review within the statutorily required time period has
+15 violated, or will violate, the provisions of CEQA and the CEQA Guidelines, as well as that the
+
+16 City has violated provisions of SB 330, the HAA, the PSA, and CEQA, as described herein;
+
+17 (5) For attorneys' fees pursuant to Government Code section 65589.5(k)(1)(A),
+18 Code of Civil Procedure section 1021.5, Government Code section 800, and all applicable law,
+19 and costs of suit incurred herein; and
+
+20 (6) For such other and further relief as the Court may deem just and proper.
+21
+
+22
+
+23 Dated: September 7, 2022 MILLER STARR REGALIA
+
+24
+
+25 By: péynett Stztt
+
+26 KENNETH A. STAHL
+
+27 Attorneys for Petitioner and Plaintiff NEW FAZE
+DEVELOPMENT, INC.
+28
+
+NWFZ-S7625\2649999.5 -17-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+VERIFICATION
+
+2 I, Allen Warren, am the President and Chief Executive Officer of Petitioner and
+3 Plaintiff NEW FAZE DEVELOPMENT, INC. in this action and I am authorized to execute this
+4 verification on its behalf. I have read the foregoing Verified Petition for Writ of Mandate and
+
+5 Complaint for Declaratory Relief and am familiar with its contents. The facts recited in this
+
+6 Petition and Complaint are true of my personal knowledge, unless stated on information and
+7 belief, and as to those facts and matters, I am informed and believe them to be true.
+
+8 I declare under penalty of perjury under the laws of the State of California that the
+is 9 foregoing is true and correct.
+
+California. 10 Executed on September 7, 2022, at Jacra merb Colu d. 11
+Allen Warren 12
+
+ET 13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NWEZ-57625\2649999.5 -18-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+EXHIBIT A
+
+ARTHUR F. COON (Bar No. 124206) BRYAN W. WENTER (Bar No. 236257)
+2 KENNETH A. STAHL (Bar No. 326495)
+MILLER STARR REGALIA
+3 A Professional Law Corporation 1331 N. California Blvd., Suite 600
+4 Walnut Creek, California 94596
+Telephone: 925 935 9400
+5 Facsimile: 925 933 4126
+Email: arthur.coon@msrlegal.com
+6 bryan.wenter@msrlegal.com ken.stahl@msrlegal.com
+7
+Attorneys for Petitioner and Plaintiff 8 NEW FAZE DEVELOPMENT, INC.
+
+9
+
+10
+
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+12 COUNTY OF SOLANO
+
+13 NEW FAZE DEVELOPMENT, INC., a Case No.
+
+14 California corporation,
+Petitioner and Plaintiff, NOTICE OF INTENT TO COMMENCE
+CEQA ACTION
+15
+V.
+16 [Pub. Resources Code, § 21167.5]
+
+17 CITY OF VALLEJO, a California municipal corporation, and DOES 1 through 20, CEQA Action
+inclusive,
+18
+Respondent and Defendant. 19
+
+20 TO: CITY OF VALLEJO
+
+21 PLEASE TAKE NOTICE that, pursuant to Public Resources Code § 21167.5,
+
+22 Petitioner and Plaintiff New Faze Development, Inc. ("Petitioner") will commence a civil action
+23 substantially as captioned above under the California Environmental Quality Act ("CEQA"; Pub.
+24 Resources Code, § 21000 et seq), inter alia, against the City of Vallejo ("Respondent")
+25 challenging Respondent's unlawful actions and omissions under CEQA and other laws in
+26 connection with its failures to properly review, process, respond to, and conduct timely CEQA
+27 review of Petitioner's applications for a housing development project ("Project") on an
+28 approximately 121.78-acre parcel of real property ("Project Site") located in the City of Vallejo,
+
+NWFZ-57625\2670429.1 -1-
+NOTICE OF INTENT TO COMMENCE CEQA ACTION
+
+1 County of Solano, California (APNs 0068-570-010, -20, -30, -40, -50, -60, -70, -80, -90,
+2 and -100), and Respondent's unlawful downzoning of the Project Site.
+
+3 The action will be filed in the Solano County Superior Court, on or about
+4 September 7, 2022.
+5 Dated: September 6, 2022 MILLER STARR REGALIA
+
+6
+
+7 By: Jemmeti Stu
+
+8 KENNETH A. STAHL
+Attorneys for Petitioner and Plaintiff NEW FAZE 9 DEVELOPMENT, INC.
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NWFZ-57625\2670429.1 -2-
+NOTICE OF INTENT TO COMMENCE CEQA ACTION
+
+PROOF OF SERVICE
+
+2 New Faze V. City of Vallejo Case No.
+3
+
+4
+At the time of service, was over 18 years of age and not a party to this action. Iam 5 employed in the County of Contra Costa, State of California. My business address is 1331 N. California Blvd., Suite 600, Walnut Creek, CA 94596.
+On September 6, 2022, I served true copies of the following document(s) described as NOTICE OF INTENT TO COMMENCE CEQA ACTION on the interested parties in this action as follows:
+
+City of Vallejo 9 c/o Dawn G. Abrahamson, City Clerk 555 Santa Clara Street, Third Floor 10 Vallejo, CA 94590
+
+11 Tel: (707) 648-4527 Fax: (707) 648-4535 Email: dawn.abrahamson@cityofvallejo.net 12
+BY MAIL: I enclosed the document(s) in a sealed envelope or package addressed to the 13 persons at the addresses listed in the Service List and placed the envelope for collection and
+14 mailing, following our ordinary business practices. I am readily familiar with the practice of Miller Starr Regalia for collecting and processing correspondence for mailing. On the same day that correspondence is placed for collection and mailing, it is deposited in the ordinary course of 15 business with the United States Postal Service, in sealed envelope with postage fully prepaid. I am a resident or employed in the county where the mailing occurred. The envelope was placed in 16 the mail at Walnut Creek, California.
+
+17 I declare under penalty of perjury under the laws of the State of California that the
+
+18 foregoing is true and correct.
+
+19 Executed on September 6, 2022, at Walnut Creek, California.
+
+20
+
+21 Karen L. Irias
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NWFZ-57625\2670429.1 -3-
+NOTICE OF INTENT TO COMMENCE CEQA ACTION
+
+EXHIBIT B
+
+ARTHUR F. COON (Bar No. 124206) BRYAN W. WENTER (Bar No. 236257) 2 KENNETH A. STAHL (Bar No. 326495)
+MILLER STARR REGALIA
+3 A Professional Law Corporation 1331 N. California Blvd., Suite 600
+4 Walnut Creek, California 94596
+Telephone: 925 935 9400
+5 Facsimile: 925 933 4126
+Email: arthur.coon@msrlegal.com
+6 bryan.wenter@msrlegal.com ken.stahl@msrlegal.com
+7
+Attorneys for Petitioner and Plaintiff 8 NEW FAZE DEVELOPMENT, INC.
+
+9
+
+10
+
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+12 COUNTY OF SOLANO
+
+13 NEW FAZE DEVELOPMENT, INC., a Case No.
+
+14 California corporation, NOTICE TO ATTORNEY GENERAL Petitioner and Plaintiff,
+15 [Pub. Resources Code, § 21167.7; Code Civ.
+
+16 Proc., § 388] §
+CITY OF VALLEJO, a California municipal 17 corporation, and DOES 1 through 20, CEQA Action
+inclusive,
+18 Action Filed:
+Respondent and Defendant.
+19
+
+20 TO THE ATTORNEY GENERAL OF THE STATE OF CALIFORNIA:
+
+21 PLEASE TAKE NOTICE, under Public Resources Code Section 21167.7 and
+22 Code of Civil Procedure Section 388, that on September 7, 2022, Petitioner and Plaintiff New
+
+23 Faze Development, Inc. (*Petitioner") filed in the above-captioned matter a verified Petition for
+24 Writ of Mandate and Complaint for Declaratory Relief ("Petition") against Respondent and
+25 Defendant City of Vallejo ("Respondent) alleging, inter alia, violations of the California
+26 Environmental Quality Act ("CEQA"; Pub. Resources Code, § 21000 et seq.) and challenging
+27 Respondent's unlawful actions and omissions in connection with its failures to properly review,
+28  process, respond to, and conduct timely CEQA review of Petitioner's applications for a housing
+
+NWFZ-57625\2670441.1 -1-
+NOTICE TO ATTORNEY GENERAL
+
+development project ("Project") in the City of Vallejo and its unlawful downzoning of the Project
+2 Site. A true and correct copy of the Petition is enclosed.
+3 Dated: September 7, 2022
+
+4 MILLER STARR REGALIA
+
+5
+
+6 By: enaetd Stall
+
+7 Kenneth A. Stahl
+Attorneys for Petitioner and Plaintiff NEW FAZE
+
+8 DEVELOPMENT, INC.
+
+3o l1
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NWFZ-57625\2670441.1 -2-
+NOTICE TO ATTORNEY GENERAL
+
+PROOF OF SERVICE
+
+2 New Faze V. City of Vallejo Case No.
+3
+
+4
+At the time of service, I was over 18 years of age and not a party to this action. Iam 5 employed in the County of Contra Costa, State of California. My business address is 1331 N. California Blvd., Suite 600, Walnut Creek, CA 94596.
+6
+On September 7, 2022, served true copies of the following document(s) described as 7 NOTICE TO ATTORNEY GENERAL on the interested parties in this action as follows:
+8 City of Vallejo CEQA Coordinator
+c/o Dawn G. Abrahamson, City Clerk Office of the Attorney General 9 555 Santa Clara Street, Third Floor Environment Section
+Vallejo, CA 94590 1300 "I" Street
+10| Tel: (707) 648-4527
+Fax: (707) 648-4535 Sacramento, CA 95814-2919
+
+11 Email: dawn.abrahamson@cityofvalleio.net And by email to: CEQA@doi.ca.gov
+
+12 BY MAIL: I enclosed the document(s) in a sealed envelope or package addressed to the
+13 persons at the addresses listed in the Service List and placed the envelope for collection and mailing, following our ordinary business practices. I am readily familiar with the practice of
+
+14 Miller Starr Regalia for collecting and processing correspondence for mailing. On the same day that correspondence is placed for collection and mailing, it is deposited in the ordinary course of business with the United States Postal Service, in a sealed envelope with postage fully prepaid. 15 am a resident or employed in the county where the mailing occurred. The envelope was placed in
+16 the mail at Walnut Creek, California.
+I declare under penalty of perjury under the laws of the State of California that the 17 foregoing is true and correct.
+18 Executed on September 7, 2022, at Walnut Creek, California.
+
+19
+
+20
+Karen L. Irias
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+I NWFZ-57625\2670441.1 -3-
+NOTICE TO ATTORNEY GENERAL
+
+PROOF OF SERVICE
+
+2 New Faze V. City of Vallejo Case No.
+3
+
+4
+At the time of service, I was over 18 years of age and not a party to this action. Iam 5 employed in the County of Contra Costa, State of California. My business address is 1331 N. California Blvd., Suite 600, Walnut Creek, CA 94596.
+6
+On September 7, 2022, I served true copies of the following document(s) described as 7 NOTICE TO ATTORNEY GENERAL on the interested parties in this action as follows:
+
+8 City of Vallejo c/o Dawn G. Abrahamson, City Clerk CEQA Coordinator
+9 555 Santa Clara Street, Third Floor Office of the Attorney General Environment Section Vallejo, CA 94590 1300 "I" Street
+10 Tel: (707) 648-4527
+
+11 Fax: (707) 648-4535 Sacramento, CA 95814-2919
+Email: dawn.abrahamson@cityofvallejo.net And by email to: CEQA@doi.ca.gov
+
+12 BY MAIL: enclosed the document(s) in a sealed envelope or package addressed to the
+13 persons at the addresses listed in the Service List and placed the envelope for collection and mailing, following our ordinary business practices. I am readily familiar with the practice of Miller Starr Regalia for collecting and processing correspondence for mailing. On the same day 14 that correspondence is placed for collection and mailing, it is deposited in the ordinary course of business with the United States Postal Service, in a sealed envelope with postage fully prepaid. 15 am resident or employed in the county where the mailing occurred. The envelope was placed in
+16 the mail at Walnut Creek, California.
+declare under penalty of perjury under the laws of the State of California that the 17 foregoing is true and correct.
+18 Executed on September 7, 2022, at Walnut Creek, California.
+19
+
+20
+Karen L. Irias 21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+II NWFZ-57625\2670441.1 -3-
+NOTICE TO ATTORNEY GENERAL

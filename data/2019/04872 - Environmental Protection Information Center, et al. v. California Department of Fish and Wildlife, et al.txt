@@ -1,0 +1,704 @@
+EARTHJUSTICE
+
+January 31, 2019
+
+Via U.S. Certified Mail, Return Receipt Requested
+
+Hon. Xavier Becerra
+Office of the Attorney General
+1515 Clay Street
+Oakland, CA 94612-1499
+
+Re: Environmental Protection Information Center and Center for Biological Diversity v. California Department of Fish and Wildlife
+
+Dear Attorney General Becerra:
+Pursuant to California Civil Code of Procedure section 388, I hereby notify you that the Environmental Protection Information Center and the Center for Biological Diversity intend to file suit in Alameda County Superior Court on the grounds that, inter alia, the California Department of Fish and Wildlife approved the Green Diamond Resource Company Humboldt Marten Safe Harbor Agreement in violation of the California State Safe Harbor Agreement Program Act, Fish & Game Code § 2089.2 et seq., and other applicable laws and regulations
+I have enclosed a copy of the Verified Petition for Writ of Mandate and Complaint for Declaratory Relief filed on January 31, 2019.
+
+Sincerely,
+Mds Heather r. Lewis
+Gregory C. Loarie
+
+Counsel for Environmental Protection Information
+Center and Center for Biological Diversity
+
+Encl.
+
+CALIFORNIA OFFICE 50 CALIFORNIA STREET, SUITE 500 SAN FRANCISCO, CA 94111
+
+T: 415.217.2000 F: 415.217.2040 CAOFFICE@EARTHJUSTICE.ORG WWW.EARTHJUSTICE.ORG
+
+HEATHER M. LEWIS, State Bar No. 291933 hlewis@earthjustice.org ENDOEA 2 GREGORY C. LOARIE, State Bar No. 215859 gloarie@earthjustice.org EARTHJUSTICE ALAMB
+50 California Street, Ste. 500 San Francisco, CA 94111 JAN 3 1 2019 4
+Tel: 415-217-2000 / Fax: 415-217-2040 CLERK OF THE SUPERIOR C COURT By
+5 CURTIYAH GANTER_ Attorneys for Petitioners and Plaintiffs Veptly 6
+
+7
+
+8
+
+IN THE SUPERIOR COURT OF THE STATE OF CALIFORNIA IN AND FOR THE COUNTY OF ALAMEDA 10
+
+11 ENVIRONMENTAL PROTECTION INFORMATION CENTER, and CENTER FOR Case No.
+12 BIOLOGICAL DIVERSITY, non-profit RG19004883
+
+13 organizations, VERIFIED PETITION FOR WRIT OF
+
+14 Petitioners and Plaintiffs, MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+V.
+15
+CALIFORNIA DEPARTMENT OF FISH AND 16 WILDLIFE, a state agency,
+17 Respondent and Defendant.
+
+18 and
+
+19 GREEN DIAMOND RESOURCE COMPANY, a
+20 for-profit corporation, and DOES through V,
+Real Parties in Interest. 21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Verified Petition for Writ of Mandate and Complaint for Declaratory Relief
+
+INTRODUCTION
+
+2 1. This lawsuit is the latest chapter in an ongoing effort to ensure that the small,
+3 surviving population of Humboldt martens in California does not succumb to extinction. Intensive
+4| logging and fur trapping so devastated Humboldt martens that for 50 years scientists presumed the
+5 forest-dwelling mammal to be extinct, until it was rediscovered in remote northern California in
+6 1996. The surviving population of martens is still perilously close to extinction, due in large part to
+7 ongoing logging in the old-growth coastal forests it calls home.
+8 2. Petitioners and plaintiffs in this case (collectively, the Centers) have been working to
+9 bring the Humboldt marten back from the brink of extinction for nearly a decade. The Centers
+10 submitted a petition to list the Humboldt marten as endangered under the federal Endangered
+11 Species Act in 2010. When the U.S. Fish and Wildlife Service declined to list the species, the
+12 Centers challenged that decision in federal court and won. In October 2018, the Service proposed to
+13 list the Humboldt marten as threatened under federal law, and a final listing rule is due this year.
+14 3. Meanwhile, the Centers also petitioned the California Fish and Game Commission
+15 (the Commission) to list the Humboldt marten under the California Endangered Species Act
+16 (CESA). The Commission granted the Centers' petition and designated the Humboldt marten as
+17 endangered under CESA in August 2018.
+18 4. However, at the same time the Commission was considering the Centers' petition to
+19 protect Humboldt martens under CESA, the Commission's sister agency, the California Department
+20 | of Fish and Wildlife (the Department), was simultaneously undercutting the protections CESA
+21 would afford by approving a "safe harbor agreement" with Green Diamond Resource Company
+22 (Green Diamond). Green Diamond is one of the largest timber companies in the marten's current
+23 range, and it owns a key piece of land that lies between the core population of Humboldt martens
+24 and an area of prime habitat in the Redwood State and National Parks. Green Diamond's logging
+25 practices pose a significant ongoing threat to the marten's survival.
+26 5. Under the California State Safe Harbor Agreement Program Act (Safe Harbor Act),
+27 the Department has authority to permit private landowners to undertake activities that harm species 28| protected by CESA-activities that CESA would therefore otherwise prohibit-if the landowner
+
+2
+Verified Petition for Writ of Mandate and Complaint for Declaratory Relief®
+
+-
+
+2 agrees to terms that will result in certain conditions being met. For example, the agreement must
+result in a "net conservation benefit" to the species; any harm to the species must be "incidental" to
+3 the landowner's activities; the landowner must commit to avoid or minimize harm to the protected
+4| species; the agreement cannot "jeopardize the continued existence" of the species; and the agreement
+5
+
+6 must establish a mechanism for monitoring the status of the species.
+6.
+
+7 This lawsuit challenges the "Green Diamond Resource Company Humboldt Marten
+Safe Harbor Agreement" adopted by the Department on April 27, 2018 (the Agreement), because it
+8 fails to meet the requirements of the Safe Harbor Act. Instead, the Agreement grants Green Diamond
+
+10 free reign to continue to "take" (i.e., harm or kill) Humboldt martens and despoil their habitat, while
+Green Diamond promises only to undertake conservation measures that are either infeasible or
+11 already required by law or regulation. The Agreement relies on conclusory assertions instead of
+12 objective scientific methodologies, and does not satisfy the Safe Harbor Act. In the end, the
+13 Agreement not only fails to provide a net conservation benefit to the Humboldt marten, it poses an
+14 additional threat to the marten's survival.
+15 7.
+
+16 The Department's approval of the Green Diamond Safe Harbor Agreement was a
+
+17 prejudicial abuse of discretion, and the Centers ask this Court to hold that Agreement invalid.
+
+PARTIES
+
+18 8. Petitioner ENVIRONMENTAL PROTECTION INFORMATION CENTER (EPIC)
+19| is a non-profit, public benefit corporation with approximately 3,000 members, organized under the
+20 laws of the State of California. Headquartered in Arcata, California, EPIC's mission is to advocate
+21 for the protection of northwest California's forests and wildlife, using an integrated, science-based
+22 approach, combining public education, citizen advocacy, and strategic litigation. To this end, EPIC
+23 monitors state and federal environmental management activities to ensure compliance with
+24 current
+
+law and works to protect and restore ancient forests, watersheds, and native species throughout
+25 northwestern California, including both public and industrial forestlands. EPIC also serves as a
+26 community resource center
+27 9. for members of the public working to protect forest ecosystems.
+
+28 Petitioner CENTER FOR BIOLOGICAL DIVERSITY (CBD) is a non-profit
+organization with offices in Oakland, Los Angeles, and elsewhere throughout California and the
+
+3
+Verified Petition for Writ of Mandate and Complaint for Declaratory Relief
+
+United States. CBD is actively involved in environmental protection issues throughout California
+2 and North America and has over 50,000 members, including many throughout California. CBD's
+mission includes protecting and restoring habitat and populations of imperiled species, reducing
+4| greenhouse gas pollution to a preserve a safe climate, and protecting air quality, water quality, and
+5 public health. CBD has a long history of environmental protection through science, policy,
+
+6 education, and legal advocacy in California.
+
+10. Collectively, the Centers' members and staff include individuals with a wide variety
+8 of interests in Humboldt martens and their habitat, ranging from scientific, professional, and
+9 educational to recreational, aesthetic, moral, and spiritual interests. The Centers jointly authored and
+10 submitted the petitions to protect the Humboldt marten under CESA and the federal Endangered
+11 Species Act, and their members and constituents are adversely affected and aggrieved by the
+12 Department's approval of a safe harbor agreement that does not provide a net conservation benefit
+13 and otherwise fails to comply with the law. An actual controversy has arisen and now exists between
+14 the Centers and the Department regarding their respective rights and duties. The Department's
+15 decision to grant Green Diamond the authority to take Humboldt marten without complying with law
+16 has made it more likely it that Humboldt martens will continue to decline and become extinct. The
+17 Centers and their members are therefore injured, because their use and enjoyment of Humboldt
+18 martens is threatened by Department's decision to enter into the Green Diamond Resource Company
+19 Humboldt Marten Safe Harbor A greement. These are actual, concrete injuries to the Centers, caused
+20 by the Department's failure to comply with the Safe Harbor Act. The relief requested will fully
+21 redress those injuries.
+22 11. Respondent CALIFORNIA DEPARTMENT OF FISH AND WILDLIFE is a state
+23 agency charged with implementing and enforcing the state's fish and wildlife conservation laws,
+24| including the Safe Harbor Act. The Department is responsible for providing data and expert analysis
+25 to inform the decisions of the California Fish and Game Commission as they designate candidate,
+26 threatened, and endangered species under CESA. This petition and complaint challenges the
+27| Department's approval of a safe harbor agreement with Green Diamond Resource Company for the
+28 Humboldt marten.
+
+4
+Verified Petition for Writ of Mandate and Complaint for Declaratory Relief
+
+12. Real Party in Interest GREEN DIAMOND RESOURCE COMPANY is a logging
+2 company that owns and manages timberlands in eight states. In California, Green Diamond manages
+3 approximately 373,000 acres primarily in Humboldt and Del Norte Counties. Green Diamond
+4 entered into the Safe Harbor Agreement for the Humboldt marten that is the subject of this petition
+5 and complaint.
+
+6 13. The true names and capacities, whether individual, corporate, or otherwise, of DOES
+through V are unknown to the Centers. The Centers will amend this petition and complaint to set
+
+forth the true names and capacities of said Doe parties when they have been ascertained. The Centers
+9 allege that each of said Does is a Real Party in Interest.
+10 JURISDICTION AND VENUE
+11 14. This Court has jurisdiction to review the Department's approval of the Green
+12 Diamond Safe Harbor Agreement pursuant to Code of Civil Procedure section 1094.5, or, in the
+13 alternative, pursuant to section 1085. This Court has jurisdiction to issue declaratory relief under
+14 Code of Civil Procedure section 1060.
+15 15. Venue is proper in this court pursuant to Code of Civil Procedure sections 395 and
+16 401(1), because the Department is a state agency and the California Attorney General has an office
+17 in Alameda County.
+18 16. The Centers served the Attorney General with a copy of this petition and complaint a
+19| along with a notice of its filing.
+20 17. The Centers are filing concurrently with this petition and complaint a request that the
+21 Department prepare the record of proceedings relating to the safe harbor agreement at issue.
+22 18. The Centers have a beneficial interest in ensuring the Department does not allow take
+23 of Humboldt marten under the safe harbor agreement at issue, and a beneficial interest in ensuring
+24 that the Department strictly follow state law requirements, including its obligation to protect
+25 California's endangered species.
+26 19. The Centers have exhausted all available administrative remedies.
+27 20. The Centers do not have any plain, speedy, or adequate remedy at law, because the
+28 Centers and their members will be irreparably harmed by the environmental damage caused by the
+
+5
+Verified Petition for Writ of Mandate and Complaint for Declaratory Relief
+
+I Department's approval of the Green Diamond Safe Harbor Agreement, which may cause the
+2 Humboldt marten to further decline and become extinct.
+3 STATEMENT OF FACTS
+
+4 The Humboldt Marten
+
+5 21. Humboldt martens (Martes caurina humboldtensis) are small, carnivorous mammals
+6 with long, slender bodies, fox-like faces, and large triangular ears. They are close relatives of minks,
+7 otters, and fishers. Humboldt martens inhabit old-growth forests with multi-layered canopy
+8 structures that provide cover from predators, and dense, mature shrub layers that provide shelter for
+resting and denning.
+10 22. Though Humboldt martens were once widespread from Sonoma County north to the
+11 Oregon-Washington border, today fewer than 200 Humboldt martens remain in California.
+12 23. The coastal forests of northern California and Oregon that serve as the marten's
+13 habitat are some of the most intensely logged forests in the country. After over: century of poorly
+14 managed logging, the Humboldt marten has been eliminated from more than 90 percent of its
+15 historical range.
+16 24. Current and historical logging has also made Humboldt martens more vulnerable to
+17| predation. Clear-cutting and short rotation forestry have replaced the diverse and complex forests of
+18 northern California with tree plantations that lack the dense shrub layers and canopy structures that
+19 martens depend on for shelter from predators. Humboldt martens experience much higher predation
+20 rates in these commercially managed forests.
+21 25. In addition to logging, extensive and unregulated fur trapping contributed to the
+22 precipitous decline of Humboldt martens in California. Some early fur trappers reported capturing 50
+23 martens-more than a quarter of the current population estimate-in a single winter.
+24 26. From 1946 to 1996, there was not a single verified sighting of a Humboldt marten in
+25 California, and the species was presumed extinct. In 1996, scientists rediscovered a single population
+26 in far northern California on national forest lands.
+27 27. Today, the Humboldt marten still teeters on the brink of extinction. Logging
+28 continues to threaten the marten's remaining habitat, which is increasingly fragmented; these small,
+
+6
+Verified Petition for Writ of Mandate and Complaint for Declaratory Relief
+
+geographically isolated patches of habitat cannot support the same population abundance as larger,
+2 contiguous areas. The marten's small population size also reduces the resiliency of the species and
+renders the marten vulnerable to extinction through disease, lack of genetic diversity, and
+susceptibility to large-scale disturbances such as wildfires. Scientists estimate that a single wildfire
+could burn 70 percent of the marten's occupied habitat. The widespread use of rodenticides and
+other toxicants at illegal marijuana cultivation sites also poses a significant threat to the small marten
+population.
+
+28. California's remaining Humboldt martens live in two isolated populations: the core
+9 population, in a 300-square-mile area that straddles Humboldt, Del Norte, and Siskiyou Counties;
+10 and the California-Oregon border population, in 80 square miles of Del Norte County. The U.S. Fish
+11 and Wildlife Service estimated in July 2018 that the core population consists of only 60 to 80
+12 individual martens. The Service was unable to estimate the size of the border population, noting that
+13 only 12 individual martens have been detected, and that the small patch of habitat would not support
+14 more than 100 animals.
+15 29. Recognizing the perilous status of the Humboldt marten and the challenges to its
+16 survival, the Centers sought to secure protection for the marten under the federal and state
+17 Endangered Species Acts.
+18 30. In 2010, the Centers petitioned the U.S. Fish and Wildlife Service to list the
+19 Humboldt marten as threatened or endangered under the federal Endangered Species Act, 16 U.S.C.
+20| § 1531 et seq. In 2015, the Service found listing was not warranted, and the Centers challenged that
+21 determination in federal court. The Centers' lawsuit was successful, and in 2017 a federal judge
+22 ordered the Service to reevaluate its scientific findings on the Humboldt marten. In October 2018,
+23 the Service released its updated findings and proposed to list the Humboldt marten as threatened. (83
+24 Fed. Reg. 50574 (Oct. 9, 2018).)
+25 The CESA Listing Process
+26 31. On a parallel track, the Centers petitioned the Commission to list the Humboldt
+27 marten under CESA on June 1, 2015.
+28
+
+7
+Verified Petition for Writ of Mandate and Complaint for Declaratory Relief
+
+32. CESA is modeled after the federal Endangered Species Act and declares "it is the
+2| policy of the state to conserve, protect, restore, and enhance any endangered species . . . ." (Fish &
+3 G. Code § 2052.) In enacting CESA, the Legislature recognized that numerous species have been
+
+4 rendered extinct as a result of human activities; that other species are in danger of extinction; that
+5 California's native species are of substantial ecological, educational, historical, recreational,
+6 aesthetic, economic, and scientific value to the people of the state; and that the protection and
+7 enhancement of such species and their habitat is of statewide concern. (Id. § 2051.)
+8 33. CESA directs the Commission to compile a list of endangered and threatened species.
+9 An "endangered species" is "a native species or subspecies .. . which is in serious danger of
+10 becoming extinct throughout all, or a significant portion, of its range," and a "threatened species" is
+11 "likely to become an endangered species in the foreseeable future." (Id. §§ 2062, 2067.)
+12 34. CESA allows interested parties to petition the Commission to add to the list of
+13 endangered or threatened species. (Id. § 2071.) The Commission refers such petitions to the
+14| Department for preparation of a preliminary scientific analysis referred to as a "petition evaluation."
+15 (Id. § 2073.) After reviewing the Department's petition evaluation and soliciting public comment,
+16 the Commission must then determine whether there is sufficient information to indicate that listing
+17| the species may be warranted. (Id. § 2074.2.) If there is, the Commission must accept the petition,
+18 designate the species as a "candidate" for listing, and direct the Department to prepare a more
+19 thorough, peer-reviewed status report for the species. (Id. §§ 2074.2, 2074.6.) Upon receipt of the
+20 Department's final status report, the Commission then holds an additional public hearing and
+21 determines finally whether to list the species as endangered or threatened. (Id. § 2075.5.)
+22 35. Once a species is listed as endangered or threatened, CESA grants certain legal
+23 protections to those species. For example, CESA prohibits the "take" of any endangered or
+24 threatened species. (Id. § 2080.) "Take" § means to "hunt, pursue, catch, capture, or kill, or attempt to
+25 hunt, pursue, catch, capture, or kill." (Id. § 86.) CESA also prohibits importing, exporting,
+26 possessing, purchasing, and selling listed species, or attempting any of those actions. (Id. § 2080.)
+27 Any person who takes an endangered or threatened species will be guilty of a misdemeanor, the
+28
+
+8
+Verified Petition for Writ of Mandate and Complaint for Declaratory Relief
+
+punishment for which is fine between $25,000 and $50,000, and/or less than one year of
+2 imprisonment. (Id. §§ 12000, 12008.1.)
+3 36. On February 11, 2016, the Commission accepted the Centers' petition to list
+Humboldt martens under CESA and directed the Department to prepare a comprehensive scientific
+
+5 review of the marten's status in California. On August 23, 2018, after considering the Department's
+6 status review and other information, the Commission voted to list the Humboldt marten as
+7| endangered.
+8 37. According to final findings adopted by the Commission on December 13, 2018, the
+9 Commission based its decision to list the Humboldt marten as endangered "most fundamentally on
+10 the fact that historic trapping and habitat loss has extirpated Humboldt martens from significant
+11 portions of the species' range." The Commission cited with approval a finding from the U.S. Fish
+12 and Wildlife Service's report on the Humboldt marten that "habitat loss and degradation from
+13 historical and current logging is the most plausible reason the marten is absent from much of its
+14 historical range." The Commission also considered the ongoing threats of habitat fragmentation,
+15 small population size, wildfires, increased predation due to degraded habitat, and exposure to
+16 toxicants. Considering the cumulative effects of these varied threats, the Commission found that
+17 listing Humboldt martens as endangered under CESA is warranted.
+18 The Green Diamond Safe Harbor Agreement
+19 38. On February 9, 2016 two days before the Commission accepted the Centers'
+20 petition to list Humboldt martens under CESA-Green Diamond informed the Department that it
+21 wished to develop a safe harbor agreement for the Humboldt marten on its property.
+22 39. Recognizing that "[a] significant portion of the state's current and potential habitat for
+23 [endangered and threatened] species exists on property owned by private citizens," the Legislature
+24 enacted the Safe Harbor Act in 2009 to "encourage landowners to manage their lands voluntarily to
+25| benefit endangered, threatened, or candidate species . and not be subject to additional regulatory
+26 restrictions as a result of their conservation efforts." (Fish & G. Code § 2089.2, subds. (b), (c).)
+27 Though the Act does not "relieve landowners of any legal obligation with respect to endangered,
+28
+
+()
+Verified Petition for Writ of Mandate and Complaint for Declaratory Relief
+
+threatened, or candidate species," it allows the Department to authorize incidental take if certain
+2 statutory conditions are met. (Id. §§ 2089.2, 2089.6.)
+3 40. The Department may approve a safe harbor agreement only if it makes a finding that
+4 /"implementation of the agreement is reasonably expected to provide a net conservation benefit to the
+5 species listed in the application." (Id. § 2089.6, subd. (3).) In addition, the agreement must specify
+6 "baseline conditions," which describe the existing population size and/or the extent and quality of
+habitat for the protected species on the private land. (Id. § 2089.4, subd. (b).) All safe harbor
+agreements must also include a monitoring program that allows the Department to evaluate whether
+9 the agreement is achieving the promised conservation benefits, as compared to the baseline
+10 conditions. (Id. § 2089.6, subd. (6).)
+11 41. In addition to providing a net conservation benefit, a safe harbor agreement must "not
+12 jeopardize the continued existence of the species." (Id. § 2089.6, subd. (4).) This determination must
+13 be "based on the best scientific and other information that is reasonably available," and must take
+14| into account known population trends, known threats to the species, and "reasonably foreseeable
+15 impacts on the species.' (Id. §§ 2089.6, subd. (4); 2081, subd. (c).)
+16 42. The Department may only approve a safe harbor agreement if the private landowner
+17 submits a complete application package that includes: detailed descriptions of the management
+18 actions the landowner plans to take; how those management actions will provide a net conservation
+19 benefit for the species in the timeframe provided in the agreement; the possible incidental take that
+20 may be caused by the management actions; anticipated changes in species populations and habitat
+21 over the duration of the agreement; and the proposed monitoring program. (Id. § 2089.8.)
+22 43. Green Diamond's industrial timberlands are essential to the conservation and
+23 recovery of the Humboldt marten. A five- to ten-mile-wide band of Green Diamond's property
+24 overlaps with the Humboldt marten's core population area on its east side, and abuts the Redwood
+25 State and National Parks to the west. This portion of Green Diamond's property, if managed
+26 properly, could serve as a critical link a between one of the remaining populations of martens in
+27 California and areas of suitable habitat where scientists have periodically detected martens in recent
+28 I years.
+
+10
+Verified Petition for Writ of Mandate and Complaint for Declaratory Relief
+
+44. Reproduced below is a map that appears as Figure in the Green Diamond Safe
+2 Harbor Agreement, which purports to show the Humboldt marten's extant population areas.
+
+DEL NORTE CO A'GREEN DIAMOND
+RESOURCE COMPANY
+
+10
+
+11
+
+12
+
+13
+
+14 HUMBOLOT CO
+
+15
+TRINITY CO
+
+16
+
+17
+
+18
+
+19
+
+20 Detoctic (GDRCo: Canerasl
+Detaction (RSL. GORCo 2013 -2015)
+Orlectlons (GDRCo 2004, 2006 Track Plalies) 21 Deleetion (K Slauson 1996 - 2009}
+No Detection (GDRCo 2002. 2003 Cameras) 22 • Dataction (GDRCo 2010 - 2011 Cameras)
+No Detectien (ODRCo 1994, 1995, 2004, 2008 Track Plates) 23 No Detacuon (K. Siauson 1994 • 2008)
+
+24 Marten Extant Population Area
+
+Entolled Lands
+25 Major Roads
+Couny Border
+26
+
+27
+
+28 Figure 4. Marten Extant Population Area
+
+11
+Verified Petition for Writ of Mandate and Complaint for Declaratory Relief
+
+45. Reproduced below is a map that appears as Figure in the Green Diamond Safe
+Harbor Agreement, which purports to show primary land ownership within the Green Diamond Safe
+3 Harbor Agreement area.
+4 DEL NORTE CO
+
+5 M GREEN DIAMOND
+RESOURCE COMPANY
+
+6
+
+8
+
+o 10
+11
+12 HUMBOLDT CO
+
+13
+
+14
+
+15
+16 TRINITY CO
+
+17
+
+18
+
+19 Primary Ownership
+
+Graan Diamand
+
+20 Hoopa Valley Indian Res,
+
+Tribal t
+
+21 Yurok Tribal Lanss
+
+22 Humboldt Redwood Company
+
+Sieera Pacife Ind
+
+23 Other Privale
+
+USFSIBLM
+
+24 Nanonal Parkk
+
+25 nd Lands
+
+Other Publlc
+
+26 Noads
+County Border
+
+27
+
+28 Figure 1. Primary Ownership within Marten Safe Harbor Agreement Arca
+
+12
+Verified Petition for Writ of Mandate and Complaint for Declaratory Relief
+
+46. Soon after Green Diamond requested immunity under the Safe Harbor Act, the
+2 Department began to work with Green Diamond to draft a safe harbor agreement. The Department
+3 did not provide any notice to the public that it was doing so, nor did it publicly post drafts of the
+4 Agreement or request public input. Though the Centers authored two listing petitions for the
+
+5 Humboldt marten and have substantial expertise on the marten, the Department did not receive input
+
+6 on the Green Diamond Safe Harbor Agreement from the Centers or other members of the public.
+47. Staff at the Department disagreed that the conservation measures Green Diamond
+proposed for its safe harbor agreement would be effective, and that the measures proposed were
+sufficient to comply with the Safe Harbor Act. Department staff expressed concern that, among other
+10 things, the management activities proposed by Green Diamond would not a provide a net conservation
+11 benefit to the Humboldt marten.
+12 48. On April 27, 2018, while the Department was still conducting its status report for the
+13 Humboldt marten CESA listing petition, the Department approved the Green Diamond Safe Harbor
+14 Agreement, against the recommendations of its own experts.
+15 49. The Agreement between Green Diamond and the Department covers all of Green
+16 Diamond's forestland subject to timber harvesting rights in Del Norte and Humboldt Counties.
+17 Thirty-eight percent of the enrolled land is within nine miles of currently known extant marten
+18 populations.
+
+19 50. The Agreement authorizes take of Humboldt martens if that take is incidental to the
+20 activities covered in the Agreement-namely, road construction, timber harvest operations, and
+21 forest management practices. In return, Green Diamond promises to undertake management
+22 activities that-according to the Agreement-are reasonably expected to provide a net conservation
+23 benefit to Humboldt martens.
+
+24 51. In fact. the conservation benefits promised by the Agreement are illusory. As a result,
+25 the Agreement gives Green Diamond free reign to take an endangered species without requiring
+26 sufficient corresponding benefit.
+27
+
+28
+
+13
+Verified Petition for Writ of Mandate and Complaint for Declaratory Relief
+
+52. For example, the Agreement commits Green Diamond to two types of management
+2 activities-assisted dispersal and habitat management- neither of which can be reasonably expected
+3 to provide a net conservation benefit.
+4 53. The benefits of the assisted dispersal activities are highly uncertain, as evidenced by
+5 the fact that the Agreement's first commitment is to fund a study regarding the feasibility of assisted
+6 dispersal. Martens are highly vulnerable to stress, and may die from stress when trapped for study or
+dispersal. Because assisted dispersal of martens is not feasible, the assisted dispersal management
+8 activities set forth in the Agreement will have no conservation benefit whatsoever. Even if assisted
+9 dispersal were feasible, dispersal could amount to a mere relocation of Humboldt marten from extant
+10 population areas to areas outside of Green Diamond's property, essentially removing the endangered
+11 species from the areas that Green Diamond wants to clear-cut.
+12 54. Likewise, the Agreement's habitat management activities fail to provide a net
+13 conservation benefit, because the activities identified are activities that Green Diamond is already
+14 obligated to undertake by law or pursuant to other plans and agreements. For example, the
+15 Agreement credits Green Diamond's promise to comply with a pre-existing Aquatic Habitat
+16 Conservation Plan-a plan that Green Diamond is already legally required to implement under the
+17 federal Endangered Species Act. In essence, the Safe Harbor Agreement grants Green Diamond
+18 CESA immunity, and in return, Green Diamond continues its business as usual.
+19 55. The Green Diamond Safe Harbor Agreement also relies on inaccurate, unjustified, or
+20 overly vague metrics to determine what impact the Agreement might have on the Humboldt marten.
+21 For example, in establishing the baseline conditions against which the conservation benefit (or harm)
+22 of the Agreement will be measured, the Agreement uses average forest age as an indicator of habitat
+23 quality, without explaining why average age is the appropriate indicator, or identifying the average
+24 age that provides suitable marten habitat. This baseline cannot provide a reliable measure of the
+25 viability of the Humboldt marten population, and consequently the Department cannot reliably
+26 evaluate whether Humboldt martens have been harmed or helped by the Agreement.
+27 56. Similarly, the Agreement provides no detail on the number of martens that might be
+28 harmed or killed, instead making a generic statement that the Department authorizes Green Diamond
+
+14
+Verified Petition for Writ of Mandate and Complaint for Declaratory Relief
+
+to take Humboldt marten if that take is incidental to Green Diamond's logging activities. Such take,
+2 according to the Agreement, might be incidental to road construction, timber harvesting, and forest
+3 management, and the take may include destruction of habitat, vehicular strikes, and accidental
+entrapment in water storage equipment. Despite offering no quantification of potential take, the
+
+5 Agreement concludes, without basis, that this blanket take authorization will not jeopardize the
+6 continued existence of the Humboldt marten.
+
+7 57. Throughout the Agreement, Green Diamond commits to mitigation measures that it is
+8 already required to undertake by existing law or regulation, and the Department's findings regarding
+9 the benefits to martens are conclusory and largely unsupported. The Agreement allows Green
+10 Diamond to harm and kill martens without liability, and in exchange Green Diamond has promised
+11 to do little more than to continue to comply with its pre-existing obligations. What is more, the
+12 Agreement is so unspecific and vague as to make a meaningful evaluation of the impacts of the
+13 Agreement impossible. a This Agreement poses a real and present danger to the survival of the
+14| endangered Humboldt marten.
+15 CAUSE OF ACTION
+
+16 (Violation of the Safe Harbor Act)
+
+17 58. The Centers incorporate herein by reference the allegations contained in the foregoing
+18 paragraphs.
+
+19 59. The Green Diamond Safe Harbor Agreement is illegal, and the Department's
+
+20 approval of the Agreement violates the Safe Harbor Act. Among other things, the Agreement fails
+
+21 to: establish baseline conditions based on the "best available science and objective scientific
+22 methodologies" (Fish & G. Code § 2089.4. subd. (b)); avoid or minimize take "to the maximum
+
+23 extent practicable" (Id. § 2089.6, subd. (5)); and establish a monitoring program "based on objective
+24 scientific methodologies" that allows the Department evaluate whether a net conservation benefit is
+
+25 achieved (Id. § 2089.6, subd. (6)). The Department also failed to base its determination that the
+26 Agreement "will not jeopardize the continued existence of the species" on "the best scientific and
+
+27 other information that is reasonably available." (Id. §§ 2089.6, subd. (4); 2081, subd. (c).)
+
+28
+
+15
+Verified Petition for Writ of Mandate and Complaint for Declaratory Relief
+
+60. The Department's decision to approve the Green Diamond Safe Harbor Agreement
+2 was in excess of its jurisdiction and constitutes prejudicial abuse of discretion. The Department
+3 failed to proceed in the manner required by law, the decision is not supported by the written
+4 findings, and the Department's decision and findings are not supported by substantial evidence in the
+5 record. The Department's action was also arbitrary and capricious, and without a reasonable or
+rational basis. (See Code Civ. Proc. §§ 1094.5, 1085.)
+PRAYER FOR RELIEF
+8 WHEREFORE, the Centers pray for judgment as set forth below:
+
+A. For a writ of mandate or peremptory writ issued under the seal of this Court and
+10 directing the California Department of Fish and Wildlife to void the Green Diamond Resource
+11 Company Humboldt Marten Safe Harbor Agreement;
+12 B. For a declaration regarding the parties' respective rights and duties under the Safe
+13| Harbor Act and other legal requirements;
+14 C. For the Centers' fees and costs, including reasonable attorneys' fees and expert
+15 witness costs, as authorized by Code of Civil Procedure section 1021.5 and any other applicable
+16 provisions of law; and
+17 D. For such other legal and equitable relief as this Court deems appropriate and just.
+18 DATED: January 31,2019 Respectfully submitted,
+19
+
+20
+
+21 Hepther M. Léwis, State Bar No. 291933 Gregory C. Loarie, State Bar No. 215859
+22 BARTHJUSTICE
+50 California Street, Ste. 500
+23 San Francisco, CA 94111
+Tel: 415-217-2000 / Fax: 415-217-2040
+24
+
+25 Attorneys for Petitioners
+
+26
+
+27
+
+28
+
+16
+Verified Petition for Writ of Mandate and Complaint for Declaratory Relief
+
+VERIFICATION
+
+2 I, Tom Wheeler, hereby declare:
+
+3
+
+4 am the Executive Director of the Environmental Protection Information Center, a non-profit
+
+5 organization with offices in Arcata, California. The facts alleged in the above petition and complaint
+
+are true to my personal knowledge and belief.
+
+6 I declare under penalty of perjury under the laws of the State of California that the above is
+true and correct and that this verification is executed on this 29 day of January 2019 at Arcata,
+8 California.
+o 10
+
+11 Degn Deel TOM WHEELER
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+17
+Verified Petition for Writ of Mandate and Complaint for Declaratory Rclief

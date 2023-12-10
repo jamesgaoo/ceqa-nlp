@@ -1,0 +1,1359 @@
+1 .Neal P. Maguire (SBN 234531)
+
+2 FERGUSON CASE ORR PATERSON LLP
+1050 South Kimball Road
+
+3 Ventura, California 93004
+Telephone: (805) 659-6800
+4 Fax Number: (805) 659-6818
+E-mail: nmaguire@fcoplaw.com
+5
+
+6 Attorneys for Petitioners CARBON CALIFORNIA COMPANY, LLC; CARBON CALIFORNIA OPERATING COMPANY, LLC
+
+7
+
+8 SUPERIOR COURT FOR THE STATE OF CALIFORNIA
+9 FOR THE COUNTY OF VENTURA
+10
+
+11 CARBON CALIFORNIA COMPANY, LLC, CASE NO. 56-2020-00548181-CU-WM-
+12 a Delaware limited liability company; VTA
+CARBON CALIFORNIA OPERATING
+13 COMPANY, LLC, a Delaware limited liability
+
+14 company, CEQA CASE (Local Rule 28.00)
+
+15 Petitioners and Plaintiffs, FIRST AMENDED VERIFIED
+PETITION FOR WRIT OF
+16 V. MANDATE; COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE
+17 COUNTY OF VENTURA, a political RELIEF AND DAMAGES
+
+18 subdivision of the State of California, acting by and through its BOARD OF (Pub. Res. Code, § 21000, et seq.; Gov.
+19 SUPERVISORS; and DOES 1 through 100,
+inclusive, Code, § 54950, et seq.; C.C.P., §§ 1085,
+1094.5)
+20
+Respondents and
+21 Defendants. JURY TRIAL DEMANDED
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+1S AMEND. VERIFIED PET. FOR WRIT OF MANDATE; COMPLAINT FOR DECL. RELIEF AND DAMAGES
+
+1 INTRODUCTION
+
+2 1. Petitioners and Plaintiffs Carbon California Company, LLC and Carbon California
+
+3 Operating Company, LLC (collectively, "Carbon") bring this action to remedy the failure of the
+
+4 County of Ventura (the "County") to properly evaluate, under the California Environmental
+
+5 Equality Act, or CEQA, the environmental impacts associated with amendments to the County's
+
+6 Non-Coastal Zoning Ordinance designed to further limit oil and gas production and operations in
+7 the County. The County improperly determined that these amendments are categorically exempt
+8 from the provisions of CEQA. Because the amendments will significant and adversely impact the
+9 environment, they are not exempt. The County further improperly relied on, at the last minute and
+10 without compliance with CEQA, a previously-certified environmental impact report for the
+
+11 County's 2040 General Plan as an "independent basis under CEQA for the adoption of the proposed
+12 zoning ordinance amendments.3
+
+13 2. Carbon also challenges the amendments to the County's Non-Coastal Zoning
+14 Ordinance on non-CEQA grounds. Carbon requests declaratory relief that it has vested rights to
+15 continue its existing operations to completion in all of its respective fields within the County
+16 without further discretionary approvals from the County. Carbon also seeks declaratory relief
+17 affirming that the County's amendments are preempted by State and federal law. Carbon
+18 correspondingly seeks damages from the County as the amendments to the County's Non-Coastal
+19 Zoning Ordinance constitute and unconstitutionally taking of Carbon's property interests.
+20 3. Lastly, Carbon brings this action to remedy the County's violations of the Ralph M.
+21 Brown Act (Gov. Code, § 54950 et seq., the "Brown Act") and to invalidate certain actions taken by
+
+22 the County in violation of the Brown Act.
+
+23 4. CEQA is set forth in the Public Resources Code, section 21000 et seq. Additionally,
+24 the Governor's Office of Planning and Research and the California Natural Resources Agency
+25 together prepare, develop, certify, and adopt the "CEQA Guidelines" (14 Cal. Code Regs., § 15000 §
+26 et seq.) and amendments thereto. The CEQA Guidelines are regulations that clarify, interpret, and
+27 implement CEQA.
+
+28 |///
+
+2
+1S AMEND. VERIFIED PET. FOR WRIT OF MANDATE; COMPLAINT FOR DECL. RELIEF AND DAMAGES
+
+1 THE PARTIES
+
+2 5. Carbon California Company, LLC is a Delaware limited liability company that is
+
+3 registered to do business in California. Carbon California Operating Company, LLC is a Delaware
+
+4 limited liability company that is registered to do business in California. Carbon maintains an office
+
+5 in Santa Paula, California.
+
+6 6. Carbon owns or possesses the following rights or interests in real property located in
+7 the unincorporated portion of Ventura County: fee interests; leascholds, licenses, easements, rights-
+
+8 of-way and similar interests; and hydrocarbon and mineral rights and interests. Carbon engages in
+9 the development and production of oil and natural gas in the unincorporated portion of the County.
+10 Carbon is the recipient of land use permits and approvals from the County, including discretionary
+
+11 use permits for oil and gas development and production.
+
+12 7. Carbon is beneficially interested in the matters and actions described and complained
+
+13 of in this First Amended Verified Petition for Writ of Mandate; Complaint for Declaratory and
+14 Injunctive Relief and Damages ("Petition"). Carbon is directly and adversely affected by the actions
+15 of the County described in this Petition. Carbon is directly and adversely affected by the
+16 environmental and other impacts of the zoning ordinance amendments complained of herein as well
+17 as the County's failure to properly analyze, mitigate, or avoid those impacts. Carbon will be
+
+18 detrimentally affected or aggrieved by the actions of the County if the Court does not grant relief.
+
+19 8. Respondent County of Ventura is a political subdivision of the State of California.
+
+20 The County acts by and through its Board of Supervisors ("Board"), the elected legislative body for
+21 the County. The County and its Board may collectively be referred to herein as "Respondents."
+
+22 9. Does 1 through 100, inclusive, are, on the basis of information and belief, agents,
+
+23 affiliates, and associates of the named Respondents. The identities of said DOES are currently
+
+24 unknown, and when they become known, the Petition will be amended to add them.
+25 GENERAL ALLEGATIONS
+
+26 The County's Historical Practice of Requiring Use Permits for Oil and Gas Production
+
+27 10. The County's first zoning ordinance, adopted in 1947, included provisions regarding
+28 "special use permits" for oil and gas development and production. Such permits are discretionary in
+
+3
+ISt AMEND. VERIFIED PET, FOR WRIT OF MANDATE; COMPLAINT FOR DECL. RELIEF AND DAMAGES
+
+nature and allow the County to impose conditions of approval on the permits. Since 1966, the
+
+2 County has required discretionary "conditional use permits" for oil and gas development and
+3 production. After obtaining a use permit, a permittee typically obtains from the County ministerial
+
+4 "zoning clearances" for specific items authorized by the permit. These ministerial zoning clearances
+
+5 are not subject to the provisions of the CEQA.
+
+6 11. Prior to 2019, the County consistently recognized the vested rights doctrine's
+
+7 applicability to its oil and gas use permits, even permits approved before 1966 that the County
+
+8 refers to now as "antiquated."
+
+9 12. In 2013, the Board conducted a hearing regarding several items association with oil
+10 and gas development and production, including hydraulic fracturing (fracking) and the so-called
+
+11 "antiquated" County permits. In December 17, 2013, Board letter prepared for that hearing,
+
+12 County staff stated,
+
+13 The County has only a limited ability to address antiquated oilfield
+
+14 permits due to the vested rights doctrine and constitutional takings and due process principles. The County's options to modify
+15 antiquated oilfield permits consist of imposing: 1) permit changes that are reasonably related to a permittee's request for modification of an
+16 existing permit; 2) limited permit changes based on the establishment by the County of harm, danger or nuisance caused by a permitted
+17 activity; 3) limited permit changes based on the establishment by the
+
+18 County of a permittee's significant violations of law or permit conditions; and 4) specific permit changes contemplated by existing
+19 conditions in the permit. In addition, a permit could be revoked if its operations constitute a nuisance and imposition of conditions to
+20 eliminate the nuisance is not feasible.
+
+21 13. In 2014, the County's County Counsel's Office issued a memorandum titled "Legal
+22 Analysis of Antiquated Oilfield Conditional Use Permits" (the *2014 Memorandum"). The 2014
+
+23 Memorandum discussed how the "drilling of wells for oil and gas production has been continuously
+
+24 subject to a permit from the County since" the County's first zoning ordinance. The 2014
+25 || Memorandum further noted that the County's "zoning ordinance has become more stringent in its
+26 regulation of oil and gas development and production and the conditions imposed on use permits
+
+27 have become more stringent." However, the 2014 Memorandum also concluded that the County's
+
+28 ability to impose new conditions on older, or "antiquated" oilfield permits:
+
+4
+1$ AMEND. VERIFIED PET. FOR WRIT OF MANDATE; COMPLAINT FOR DECL. RELIEF AND DAMAGES
+
+1 is very limited. Because of the vested rights doctrine and
+
+2 constitutional protections afforded these permits, the County can impose new, narrowly tailored conditions on these permits only when
+3 a compelling public necessity, such as dänger, harm or public nuisance, or significant violations exist, and not through an ordinary
+4 exercise of the police power for the general welfare.
+
+5 14. In 2015, the Board conducted a studÿ session with other public agencies and the
+
+6 public regarding the California condor and possible effects from oil and gas operations in the
+
+7 County. In connection with that study session, the County Planning Director issued a December 15,
+
+8 2015, Board letter that stated in part:
+
+9 Many oil and gas facilities, however, operate pursuant to existing
+10 permits in which the permit holder possesses vested rights. The County's authority to modify these permits is limited by the vested
+11 rights doctrine. Rights in a permit "vest" (i.e., become protected) when the permit has been issued and the permit holder has invested
+12 substantial sums in the furtherance of the authorized uses. Once
+
+13 permit rights vest, the permit a holder has a property right in the permit as approved that cannot be modified by the County - for instance, by
+14 adding new condor-related• permit conditions without satisfying constitutional due process requirements. Hence, vested rights in
+15 existing permits cannot be unilaterally impaired by the County under its general land use authority. Instead, vested rights can only be
+16 impaired if the impairment resulting from the new permit conditions
+
+17 is reasonably necessary to address a menace to the public health and safety or a public nuisance presented by the permitted use. Important
+18 factors to be considered in applying this standard are whether the nature and extent of the impairment to the vested rights is
+19 proportionate to the nature, importance, and urgency of the interest to be served by the new permit conditions, and whether the permit
+20 conditions are appropriately tailored and limited to the situation
+
+21 necessitating the action.
+
+22 In the event the County sought to unilaterally modify existing conditional use permits to add condor-related conditions, the County
+23 would be required to meet the above-described standard for impairing the permit holder's vested rights in the permit. The standards must be 24 met with respect to each specific permit the County sought to modify,
+
+25 and with respect to each specific condition sought to be added. Such permit modifications would require the provision of notice and a
+26 public hearing to each affected permit holder.
+
+27 The Board's 2019 Directives regarding Oil and Gas Use Permits
+
+28 15. At an April 9, 2019, public hearing, a County Supervisor agendized a request to the
+
+5
+I" AMEND, VERIFIED PET. FOR WRIT OF MANDATE; COMPLAINT FOR DECL. RELIEF AND DAMAGES
+
+1 Board to adopt an interim ordinance as an urgency measure to "temporarily prohibit the County's
+
+2 approval of new oil and gas wells, and re-drilling of existing oil and gas wells, for oil production" in
+
+3 a portion of the unincorporated area of the County near Oxnard. According to the Supervisor's
+
+4 Board letter to his colleague, an oil operator proposed to drill new oil wells in the unincorporated
+
+5 area of the County near Oxnard "pursuant to antiquated oil and gas permits." Also according to the
+6 Supervisor's letter, the United States Geological Survey ("USGS") "found indications that
+7 petroleum-related gases are migrating into the drinking water aquifers of the Fox Canyon aquifer
+8 system in the vicinity of steam injection and wastewater disposal wells." The Supervisor's letter did
+
+9 not inform the Board that the USGS stated that the detection of such gases could have resulted from
+
+10 natural processes. In addition, the Supervisor's letter requested that the Board direct the County
+11 Planning Division to "also study potential amendments to the County's zoning ordinances to require
+
+12 discretionary approval of new development under antiquated oil and gas permits." The Board
+
+13 approved the Supervisor's requested actions.
+
+14 16. In September 2019, the County's County Counsel, not the Planning Division,
+
+15 reported back to the Board regarding amendments to the County's zoning ordinances concerning the
+16 so-called "antiquated permits." In a letter report dated September' 10, 2019, County Counsel
+17 "provide[d] an overview of the legal issues and legislative options regarding" such amendments.
+18 That letter report discussed vested rights principles associated with "antiquated" oil and gas permits.
+19 Reversing its long-held position regarding the vested rights associated with such permits, County
+
+20 Counsel concluded, "The County, however, has a good legal position that holders of typical
+21 antiquated permits generally do not have vested rights to engage in new oil and gas development
+22 based solely on the original antiquated permits ....' In support of its newly-developed position,
+23 County Counsel further stated that the "antiquated" use permits are "analogous to general zoning
+
+24 designations - which do not give rise to vested rights."
+
+25 17. The September 10, 2019, letter report from County Counsel attached as an exhibit a
+
+26 1955 "special use permit" a as a "representative antiquated permit." The County approved this 1955
+27 permit after hearings by both the County Planning Commission and the Board. The 1955 permit
+28 also contained substantial conditions, including limitations on the depth and location of drilling.
+
+6
+1st AMEND. VERIFIED PET. FOR WRIT OF MANDATE; COMPLAINT FOR DECL. RELIEF AND DAMAGES
+
+1 18. County Counsel also provided to the Board, as an exhibit to the September 10, 2019,
+2 letter report, proposed draft amendments to the County's Non-Coastal Zoning Ordinance regarding
+
+3 oil and gas permitting. County Counsel sought direction from the Board regarding these draft
+4 amendments.
+
+5 19. On September 9, 2019, Carbon submitted to the County through legal counsel a
+
+6 comment letter regarding the Board's consideration of potential amendments to the County's
+7 regulation of existing use permits for oil and gas production.
+
+8 20. At the September 10, 2019, hearing, the Board approved a motion to "[r]eceive and
+9 file County Counsel report, and direct the Planning Division to prepare draft amendments to the
+
+10 County's zoning ordinances that are consistent with the potential draft amendment attached to the
+
+11 County Counsel report to be processed through the standard land use public hearing process."
+
+12 Oil and Gas Production in the County's 2040 General Plan and EIR
+
+13 21. In January 2020, the County released for public review a draft "program" (as
+14 opposed to "project") environmental impact report ("EIR") for its 2040 General Plan. According to
+
+15 that draft EIR, "Although the legally required contents of a program EIR are the same as those of a
+
+16 project EIR, program EIRs typically cover broad programs or large projects, such as a general plan, a
+17 and contain a more general discussion of impacts, alternatives, and mitigation measures than a
+
+18 project EIR.» The draft EIR further stated,
+
+19 As a program EIR, this document uses appropriately programmatic
+20 thresholds of significance as compared to the project-level thresholds that might be used for an EIR on a specific development project.
+21 Because the 2040 General Plan EIR is broad and general, it may not be ripe for consideration of environmental impacts that may occur on
+22 individual parcels or in connection with other projects that may be
+
+23 consistent with the 2040 General Plan. The process described above, initiated with preparation of an initial study, provides a road map for
+24 consideration of subsequent projects and the associated CEQA documentation.
+
+25 In September 2020, the Board approved the 2040 General Plan and certified the final EIR for it (the
+
+26 "General Plan EIR").
+
+27 22. The 2040 General Plan includes new policies limiting oil and gas production in the
+28 County, and the General Plan EIR purported to analyze the environmental impacts of such polices.
+
+7
+I" AMEND. VERIFIED PET. FOR WRIT OF MANDATE; COMPLAINT FOR DECL. RELIEF AND DAMAGES
+
+1. The General Plan EIR concluded that the policies would significantly and adversely impact mineral
+
+2 resources within the County, which are which are themselves part of the "environment"' to be
+
+3 protected under CEQA. (Pub. Resources Code, § 21060.5.) The County failed to mitigate or avoid
+
+4 those impacts, as the Board deleted the only proposed mitigation measures that purported to address
+
+5 the 2040 General Plan's significant impacts on mineral resources. The General Plan EIR also failed
+
+6 to analyze the foreseeable, indirect, and significant impacts arising from the 2040 General Plan's
+7 limitations on oil and gas production, including impacts regarding greenhouse gas emissions.
+
+8 23. The General Plan EIR did not address cumulative impacts arising from the 2040
+
+9 General Plan and the proposed zoning amendments even though the draft General Plan EIR stated,
+
+10 "The County is considering amending its zoning ordinances to similarly require a discretionary
+
+11 permit modification to authorize new oil and gas development under 'antiquated' use permits that
+
+12 lack expiration dates, well limits, and other development parameters (i.e., approximately pre-
+
+13 1966)."
+
+14 The 2020 Zoning Ordinance Amendments regarding Oil and Gas Use Permits
+
+15 24. In response to the Board's 2019 directive, County staff prepared proposed
+16 amendments to Article 7, Section 8107-5 of the Ventura County Non-Coastal Zoning Ordinance
+
+17 regarding the County's permitting requirements for oil and gas development and production
+
+18 (including as subsequently modified and approved by the Board, the "Zoning Amendments"). These
+19 Amendments require a discretionary approval from the County for all "new" oil and gas
+20 development and production operations, including the drilling of any new well, the re-drilling or
+
+21 deepening of any existing well. The Zoning Amendments preclude the use of a ministerial zoning
+
+22 clearance for new oil and gas operations.
+
+23 25. The Zoning Amendments also apply the County's existing Oil Development
+
+24 Guidelines, located in section 8107-5.5 of the County's Non-Coastal Zoning Ordinance, to all new,
+
+25 adjusted, or modified discretionary permits authorizing oil and gas development and production
+26 operations. The Zoning Amendments also apply the County's existing Oil Development Standards,
+
+27 located in section 8107-5.6 of the County's Non-Coastal Zoning Ordinance, to all existing oil and
+28 gas development and production operations. Among other items, these Guidelines and Standards
+
+8
+1* AMEND. VERIFIED PET. FOR WRIT OF MANDATE; COMPLAINT FOR DECL. RELIEF AND DAMAGES
+
+1 impose restrictions on oil and gas development and production, including setback requirements, a
+2 prohibition on the flaring of gas, and prohibition on the trucking of produced materials. According
+3 to County staff, the 2020 Zoning Amendments "would slow and/or reduce the potential expansion
+4 of certain new local oil and gas development."
+
+5 26. The County Planning Commission considered the proposed Zoning Amendments at
+
+6 a July 30, 2020, public hearing. On July 29, 2020, Carbon submitted a comment letter regarding the
+7 proposed amendments to the Planning Commission through legal counsel. Carbon also spoke at the
+
+8 July 30, 2020, hearing. The Planning Commission recommended approval of the Zoning
+
+9 Amendments with minor revisions.
+
+10 27. The Board considered the proposed Zoning Amendments at a November 10, 2020,
+11 public hearing. County staff prepared a Board letter for the November 10, 2020, hearing regarding
+12 the Zoning Amendments. That initial Board letter, made available to the public prior to the hearing,
+13 recommended that the Board find the Zoning Amendments categorically exempt from CEQA
+14 pursuant to CEQA Guidelines section 15308.
+
+15 28. On November 9, 2020, Carbon submitted a comment letter to the Planning
+16 Commission through legal counsel. Carbon's comment letter discussed why the Zoning
+17 Amendments are not exempt from the provisions of CEQA, including because the amendments will
+18 have significant and adverse impacts regarding mineral resources and greenhouse gas emissions.
+19 Carbon also commented that the proposed zoning amendments will have cumulative impacts on
+
+20 mineral resources when considered with policies in the 2040 General Plan.
+21 29. On November 10, 2020, County staff distributed to the Board a "revised" Board
+22 letter for the proposed zoning amendments. That revised Board letter included, for the first time, a
+23 new recommendation to the Board that it also find that:
+
+24 to the extent commenters have raised issues about the application of
+25 new 2040 General Plan policies to new oil and gas wells, that those impacts factually are the same as the impacts evaluated in the certified
+26 environmental impact report (EIR) for the 2040 General Plan, that there is no new or substantially more severe impact requiring a further
+27 EIR under CEQA Guidelines section 15162, and that it is appropriate
+
+28 to rely on that certified EIR for the extension of those policies to new oil and gas wells, and reliance on that EIR is an independent basis under CEQA for the adoption of the proposed zoning ordinance 9
+1st AMEND. VERIFIED PET. FOR WRIT OF MANDATE; COMPLAINT FOR DECL. RELIEF AND DAMAGES
+
+1 amendments.
+
+2 30. Carbon is informed and believes, and on that basis alleges, that the County did not
+
+3 distribute or make available to the public the Revised Board Letter to the public before November
+
+4 10, 2020. Carbon is informed and believes, and on that basis alleges, that the County did not
+
+5 distribute or make available to the public the Revised Board Letter to the public during the
+
+6 November 10, 2020, Board hearing regarding the Zoning Amendments.
+
+7 31. On November 10, 2020, the Board voted 3-2 to approve the Zoning Amendments.
+
+8 The Board also found, with regard to CEQA and the Zoning Amendments:
+
+9 a. "that the adoption of the proposed ordinance amending the Ventura County Non-Coastal Zoning Ordinance (Exhibit 32) is
+10 categorically exempt from the California Environmental Quality Act
+
+11 (CEQA) pursuant to CEQA Guidelines section 15308 as actions by a regulatory agency to assure the maintenance and protection of the
+12 environment because the project would implement a regulatory process involving procedures for protection of the environment";
+13
+b. "that no substantial evidence exists precluding the use of this 14 categorical exemption based on the presence of unusual
+
+15 circumstances or any other exception set forth in CEQA Guidelines section 15300.2"; and
+
+16
+C. "to the extent commenters have raised issues about the
+17 application of new 2040 General Plan policies to new oil and gas wells, that those impacts factually are the same as the impacts 18 evaluated in the certified environmental impact report (EIR) for the
+19 2040 General Plan, that there is no new or substantially more severe impact requiring a further EIR under CEQA Guidelines section
+20 15162, and that it is appropriate to rely on that certified EIR for the extension of those policies to new oil and gas wells, and reliance on
+21 that EIR is an independent basis under CEQA for the adoption of the proposed zoning ordinance amendments."
+22
+
+23 32. Carbon is informed and believes, and on that basis alleges, that the County purported
+
+24 to file an effective Notice of Exemption with the County Clerk on November 13, 2020.
+
+25 The Effect of the Zoning Amendments on Carbon's Vested Rights
+
+26 33. Carbon acquired its property interests in the County from its predecessors at various
+
+27 times since 2016. Carbon conducts its operations pursuant to discretionary use permits that were
+
+28 originally approved by the County as far back as 1948 and as recently as 1981. Certain of these
+permits, but not all, have subsequently been modified. Pursuant to these use permits, Carbon
+1sE AMEND. VERIFIED PET. FOR WRIT OF MANDATE; COMPLAINT FOR DECL. RELIEF AND DAMAGES
+
+1 produces oil and gas resources from multiple fields within the County. Under these permits, Carbon
+
+2 or its predecessors have regularly drilled new wells or deepened existing wells pursuant to zoning
+
+3 clearances and without further discretionary approvals, including new or modified use permits, from
+4 the County.
+
+5 34. Carbon and its predecessors have invested substantial sums in acquiring its interests
+
+6 in the County and in maintaining and developing the infrastructure required to continue and
+7 complete operations in these fields subject to the applicable use permits. Carbon continues to
+
+8 operate in each of its fields and has objectively demonstrated an intent to complete operations in
+
+9 each of its fields. Carbon has substantial reserves in each field that remain to be developed and
+
+10 extracted. Carbon has vested rights to continue to extract oil and gas resources in each of its
+
+11 permitted fields until completion.
+
+12 35. The County has not established, or even sought to establish, that Carbon's operations
+
+13 constitute a nuisance or a danger. The County has not established, or even sought to establish, that
+
+14 Carbon has significantly violated the terms of any of its permits. The County has not offered any
+15 compensation to Carbon.
+
+16 36. The Zoning Amendments will limit Carbon's vested rights. The Zoning
+17 Amendments impose new regulations and limitations on oil and gas development and production in
+18 the County, in particular by imposing regulations establishing various setback requirements for
+19 existing and new wells and by precluding the flaring of gas or the trucking of produced oil or water
+20 in connection with existing and new operations. Carbon's operations involve and will continue to
+
+21 involve the flaring of gas and the trucking of produced fluids. Additionally, Carbon operates in the
+
+22 Zoning Amendments' setback areas and has additional reserves in those setback areas. The Zoning
+23 Amendments will require Carbon to cease all operations in certain of its fields. The Zoning
+24 Amendments will preclude Carbon from completing operations in many fields. The Zoning
+25 Amendments will substantially interfere with Carbon's investment-backed expectations.
+26 JURISDICTION AND VENUE
+
+27 37. Carbon has exhausted all available administrative remedies before Respondents or is
+28 otherwise excused from doing sO.
+
+11
+1# AMEND. VERIFIED PET. FOR WRIT OF MANDATE; COMPLAINT FOR DECL. RELIEF AND DAMAGES
+
+1 38. Carbon has no plain, speedy, or adequate remedy at law, and thus seeks a writ of
+2 mandate from this Court. In the absence of such remedy, the County's violations of State law will
+
+3 remain in effect.
+
+4 39. This Court has jurisdiction to issue the requested writ of mandate, including pursuant
+
+5 to Public Resources Code sections 21168.5 (or, alternatively, 21168) and 21168.9, Government
+
+6 Code section 54960.1, subdivision (a), as well as Code of Civil Procedure section 1085 (or,
+7 alternatively, 1094.5). This Court has jurisdiction over Carbon's requested injunctive relief,
+
+8 including pursuant to Government Code section 54960.1, subdivision (a), and Code of Civil
+
+9 Procedure section 525, et seq. This Court has jurisdiction over Carbon's requested declaratory relief
+10 pursuant to Code of Civil Procedure section 1060.
+
+11 40. Venue in this Court is appropriate pursuant to Code of Civil Procedure sections 393
+
+12 and 394.
+
+13 41. This Petition is timely filed, including pursuant to Public Resources Code section
+14 21167, subdivision (d) and Government Code section 54960.1, subdivision (c)(4).
+15 42. Carbon satisfied all applicable requirements of Government Code section 54960.1.
+16 43. In accordance with Public Resources Code section 21167.5, Carbon timely served on
+17 Respondents by email and certified mail a written notice of Carbon's intention to commence this
+
+18 action, a true and correct copy of which is attached hereto as Exhibit A.
+
+19 44. Carbon previously notified Respondents that Carbon elects to prepare the record of
+20 proceedings in this matter pursuant to Public Resources Code section 21167.6, subdivision (b)(2).
+21 45. In accordance with Public Resources Code section 21167.7 and Code of Civil
+22 Procedure section 388, Carbon will serve a copy of this Petition on the California Attorney General.
+23 FIRST CAUSE OF ACTION
+
+24 (Violations of CEQA, Pub. Resources Code, § 21000 et seq.)
+25 46. Carbon realleges and incorporates by reference the foregoing paragraphs as if fully
+26 set forth herein,
+
+27 47. Broadly speaking, CEQA directs certain local agencies such as the County to
+28 identify and analyze the potentially significant environmental impacts of certain actions, or
+
+12
+1st AMEND. VERIFIED PET. FOR WRIT OF MANDATE; COMPLAINT FOR DECL. RELIEF AND DAMAGES
+
+1. "projects," so as to inform agency decision-makers and the public of the environmental
+
+2 consequences of a project. An agency undertaking the initial CEQA review of a project, referred to
+
+3 as the "lead" agency, will usually engage in a three-step process. First, the lead agency determines if
+
+4 the action being considered is a "project" subject to CEQA. (CEQA Guidelines, § 15060.) Second, §
+
+5 the lead agency determines if the project is exempt from CEQA. (CEQA Guidelines, § 15061.)
+
+6 Third, the lead agency determines whether the project could result in potentially significant
+
+7 environmental impacts. Depending on whether or not there are significant impacts and whether
+
+8 those a impacts can be mitigated to a level below significance, a lead agency will prepare a negative
+
+9 declaration, a mitigated negative declaration, or a full EIR for a project. (CEQA Guidelines,
+
+10 cop 15063, subd. (b).)
+
+11 48. The County determined that the Zoning Amendments are categorically exempt from
+
+12 CEQA pursuant to CEQA Guidelines section 15308, which exempts qualifying actions "to assure
+
+13 the maintenance, restoration, enhancement, or protection of the environment." CEQA Guidelines
+
+14 section 15308 does not apply to projects that will have a significant adverse environmental impact.
+
+15 The Zoning Amendments will have a significant adverse environmental impacts, including on
+
+16 mineral resources and regarding greenhouse gas emissions as well as cumulative impacts with the
+17 2040 General Plan. Respondents improperly determined that the Zoning Amendments are exempt
+
+18 from the provisions of CEQA pursuant to CEQA Guidelines section 15308.
+
+19 49. Pursuant to CEQA Guidelines section 15300.2, subdivision (c), "A categorical
+
+20 exemption shall not be used for an activity where there is a reasonable possibility that the activity
+
+21 will a have a significant effect on the environment due to unusual circumstances." CEQA Guidelines
+
+22 section 15300.2, subdivision (c) negates a categorical exemption where a project has an unusual
+
+23 circumstance and where there is "a reasonable possibility of a significant effect due to that unusual
+24 circumstance." There is a reasonable possibility that the Zoning Amendments will have a significant
+
+25 effect on the environment due to unusual circumstances.
+
+26 50. CEQA Guidelines section 15300.2, subdivision (c) also negates a categorical
+
+27 exemption when there is "evidence that the a project will have a significant environmental effect."
+
+28 Evidence that a project will have significant environmental impact necessarily establishes a a
+
+13
+1 AMEND. VERIFIED PET. FOR WRIT OF MANDATE; COMPLAINT FOR DECL. RELIEF AND DAMAGES
+
+1. reasonable possibility that the project will have a significant effect on the environment due to
+
+2 unusual circumstances. The Zoning Amendments will have a significant adverse environmental
+
+3 impacts, including on mineral resources (including by prohibiting or impeding mineral resource
+
+4 extraction) and regarding greenhouse gas emissions (including those generated by required oil
+
+5 imports). Respondents' determination that the "exception to the Categorical Exemption [found in
+
+6 CEQA Guidelines section 15300.2, subdivision (c)] is not applicable to the proposed project" is not
+
+7 supported by substantial evidence.
+
+8 51. The County's improper determination that the Zoning Amendments are exempt from
+
+9 the provisions of CEQA constitutes a prejudicial abuse of discretion.
+
+10 52. Concurrently with its approval of the Zoning Amendments, the Board found that the
+
+11 programmatic 2040 General Plan EIR "is an independent basis under CEQA for the adoption of the
+
+12 proposed zoning ordinance amendments." Under CEQA, an agency may rely on a previously-
+
+13 certified programmatic EIR to dispense with further CEQA review of an activity within the program
+
+14 and if the activity's impacts were adequately analyzed by the programmatic EIR. (CEQA
+15 Guidelines, § 15168, subd. (c).) On the other hand, an agency must prepare an "additional
+16 environmental document" "[i]f a later activity would have effects that were not examined in the
+
+17 program EIR." (CEQA Guidelines, § 15168, subd. (c).)
+
+18 53. When an agency "proposes to carry out or approve an activity within the program
+19 and to rely on the program EIR for CEQA compliance," an agency subject to public notice
+
+20 requirements must notify the public that the proposed "activity is within the scope of the program
+
+21 approved earlier" and that the "program EIR adequately describes the activity for the purposes of
+
+22 CEQA." (CEQA Guidelines, § 15168, subd. (e).) The County was required to, but did not, comply
+
+23 with the noticing requirements of CEQA Guidelines section 15168.
+
+24 54. The County's finding that the programmatic 2040 General Plan EIR "is an
+25 independent basis under CEQA for the adoption of the proposed zoning ordinance amendments" is
+
+26 not supported by substantial evidence. The Zoning Amendments are not within the scope of the
+27 2040 General Plan or its EIR. County staff's November 10, 2020, Board letter states, "The proposed
+
+28 zoning amendments would make these new [2040 General Plan] policies applicable to a broader a
+
+14
+1$t AMEND. VERIFIED PET. FOR WRIT OF MANDATE; COMPLAINT FOR DECL. RELIEF AND DAMAGES
+
+1. range of proposed oil and gas development based on the new discretionary approval requirement for
+
+2 projects which, under the status quo, only require[] a ministerial approval." The 2040 General Plan
+
+3 EIR acknowledged that the 2040 General Plan's new policies regarding oil and gas production will
+
+4 have significant, adverse impacts on the environment, including with regard to mineral resources
+
+5 and related to greenhouse gas emissions. Consequently, the significant environmental impacts
+
+6 associated with those 2040 General Plan policies will be broadened by the Zoning Amendments.
+
+7 The Zoning Amendments will result in significant environmental effects that were not examined in
+
+8 the 2040 General Plan EIR and require a subsequent EIR under a CEQA Guidelines section 15162.
+
+9 (CEQA Guidelines, § 15168, subd. (c).)
+
+10 55. CEQA prohibits the "piecemealing" of large project into smaller ones in order to
+
+11 minimize a project's impacts or avoid the full disclosure and analysis of a projects' environmental
+12 impacts. (CEQA Guidelines, §§ 15378, subd. (a), 15063, subd. (a)(1).) The Board directed County
+
+13 staff in September 2019 to prepare the Zoning Amendments to be consistent with already-drafted
+14 provisions put forth to the Board in September 2019. The County circulated the draft 2040 General
+
+15 Plan EIR for public review in January 2020. The draft General Plan EIR specifically noted that the
+
+16 County was "considering amending its zoning ordinances to similarly require a discretionary permit
+17 modification to authorize new oil and gas development under 'antiquated' use permits Despite
+
+18 the reasonably foreseeable Zoning Amendments, the County illegally piecemealed them from the
+
+19. 2040 General Plan and failed to adequately analyze the cumulative impacts of them, especially with
+
+20 regard to mineral resources and greenhouse gas emissions.
+
+21 56. CEQA provides requirements for an adequate and effective Notice of Exemption.
+22 (CEQA Guidelines, § 15062.) Carbon is informed and believes, and on that basis alleges, that the
+
+23 County Clerk did not, with regard to the Notice of Exemption for the Zoning Amendments, comply
+
+24 with the provisions of CEQA Guidelines section 15062, including by failing to make the Notice of
+25 Exemption available for public inspection. Carbon is informed and believes, and on that basis
+
+26 alleges, that the County did not comply with the alternative notice requirements of the Governor's
+27 Executive Order N-54-20 or Executive Order N-80-20.
+
+28 57. As a result of the foregoing CEQA violations, Respondents prejudicially abused their
+
+15
+19 AMEND. VERIFIED PET. FOR WRIT OF MANDATE; COMPLAINT FOR DECL. RELIEF AND DAMAGES
+
+1. discretion by exempting the Zoning Amendments from CEQA, by relying on the 2040 General Plan
+
+2 EIR, by piecemealing the Zoning Amendments, and by failing to provide proper notice of its
+
+3 actions.
+
+4 58. Respondents have violated CEQA by failing to proceed in a manner required by law
+
+5 and by failing to support their determinations or decisions with substantial evidence. (Pub.
+
+6 Resources Code, § 21168.5.) Alternatively, Respondents have violated CEQA by proceeding in
+
+7 excess of their jurisdiction and by prejudicially abusing their discretion by failing to proceed in the
+
+8 manner required by law, by failing to support their decisions with findings, and by failing to support
+
+9 their findings with substantial evidence. (Pub. Resources Code, § 21168; Code Civ. Proc.,
+
+10 § 1094.5.)
+
+11 SECOND CAUSE OF ACTION
+
+12 (Declaratory Relief regarding Vested Rights; C.C.P., § 1060 et seq.)
+13 59. Carbon realleges and incorporates by reference the foregoing paragraphs as if fully
+14 set forth herein.
+
+15 60. An actual controversy has arisen and now exists between Carbon and Respondents
+16 concerning Carbon's vested rights arising from discretionary use permits obtained from the County
+
+17 authorizing Carbon's oil and gas development and production on and below properties located in
+
+18 the County. Carbon contend that all of its discretionary use permits give rise to vested rights to
+
+19 continue oil and gas development and production in permitted fields until completion, whereas
+20 Respondents dispute these contentions and contend that certain permits held by Carbon do not give
+
+21 rise to any vested right to continue operating until completion without further discretionary
+
+22 approvals from the County.
+
+23 61. Carbon desires a judicial determination of the rights associated with its use permits
+24 and requests a judicial declaration and determination that:
+
+25 a. Carbon has vested rights to continue its existing operations to completion in all of its
+
+26 respective fields within the County without further discretionary approvals from the
+
+27 County;
+
+28 b. the County may not require Carbon to obtain further discretionary use permits from
+
+16
+1$ AMEND. VERIFIED PET. FOR WRIT OF MANDATE; COMPLAINT FOR DECL. RELIEF AND DAMAGES
+
+1 the County in order to continue its operations to completion in all of its respective
+
+2 fields within the County; and
+
+3 C. the County may not apply the Zoning Amendments to Carbon's existing use permits.
+
+62. A judicial declaration is necessary and appropriate at this time under the
+|l circumstances in order that Carbon may ascertain its rights and duties with respect to its permits and
+
+6 property interests in order to plan its business activities with certainty.
+
+7 THIRD CAUSE OF ACTION
+
+8 (Declaratory Relief regarding Preemption)
+
+9 63. Carbon realleges and incorporates by reference the foregoing paragraphs as if fully
+
+10 set forth herein.
+
+11 64. Federal and State law comprehensively and exclusively regulate certain areas related
+
+12 to oil and gas production, including the drilling, operation, and maintenance of wells. Federal and
+
+13 State authority in these areas preempts local legislation and regulation of the same. The County
+
+14 does not have authority to legislate or regulate in these areas except as specifically provided for by
+
+15 federal or State law.
+
+16 65. The Zoning Amendments constitute an impermissible intrusion into areas occupied
+
+17 by federal and State law. The Zoning Amendments are preempted by federal and State law and are
+
+18 invalid in whole or, alternatively, in part.
+
+19 66. An actual controversy has arisen and now exists between Carbon and Respondents
+20 concerning whether the Zoning Amendments are preempted by federal and State law. Carbon
+
+21 desires a judicial declaration and determination that the Zoning Amendments are preempted by
+
+22 federal and State law in whole or part.
+
+23 67. A judicial declaration is necessary and appropriate at this time under the
+24 circumstances in order that Carbon may ascertain its rights and duties with respect to its permits and
+
+25 property interests in order to plan its business activities with certainty.
+26 FOURTH CAUSE OF ACTION
+
+27 (Damages for Inverse Condemnation or Unconstitutional Taking; Cal. Const., art. I, 19;
+28 U.S. Const., 5th Amend.)
+
+17
+1$ AMEND. VERIFIED PET. FOR WRIT OF MANDATE; COMPLAINT FOR DECL. RELIEF AND DAMAGES
+
+1 68. Carbon realleges and incorporates by reference the foregoing paragraphs as if fully
+
+2 set forth herein.
+
+3 69. If allowed to impair Petitioner's vested rights, the Zoning Amendments effectuate a
+
+4 taking of Carbon's property. The Zoning Amendments will deprive Carbon of all, or substantially
+
+5 all, of the economically beneficial use of certain property for the purported benefit of the public.
+
+6 70. The Zoning Amendments also effectuate a taking of Carbon's property based on the
+
+7 economic impact of the Zoning Amendments on Carbon, the extent of the Zoning Amendment's
+8 interference with Carbon's investment-backed expectations (which were based on the vesting rights
+
+9 associated with Carbon's use permits), and the character of the Zoning Amendments.
+
+10 71. The Zoning Amendments violate article 1, section 19 of the California Constitution
+
+11 and the Fifth Amendment to the United States Constitution and, more specifically, its Takings
+
+12 Clause.
+
+13 72. Carbon has not received any, let alone just, compensation from the County or
+
+14 otherwise to remedy the taking of Carbon's property rights.
+
+15 73. Carbon has been and will be damaged from the taking of its property rights and will
+16 suffer damages in an amount to be determined at trial.
+
+17 FIFTH CAUSE OF ACTION
+
+18 (Violations of the Brown Act, Gov. Code, § 54950, et seq.)
+
+19 74. Carbon realleges and incorporates by reference the foregoing paragraphs as if fully
+
+20 set forth herein.
+
+21 75. The Board is a "legislative body" pursuant to Government Code section 54952 and is
+
+22 subject to the provisions of the Brown Act.
+
+23 76. When there has been a violation of Government Code section 54954.2, an interested
+
+24 person may seek to have the violative actions of a public agency's legislative body nullified and
+
+25 voided by a court. (Gov. Code, § 54960.1, subd. (a).) Before initiating such litigation, the interested
+26 person must make a written demand requesting that the legislative body "cure or correct" its Brown
+
+27 Act violation. (Gov. Code, § 54960.1, subd. (c)(1).)
+
+28 77. The Brown Act requires the County to post, at least 72 hours before a regular
+
+18
+Ist AMEND. VERIFIED PET. FOR WRIT OF MANDATE; COMPLAINT FOR DECL. RELIEF AND DAMAGES
+
+meeting, an agenda "containing brief general description of each item of business to be transacted
+
+2 or discussed at the meeting." (Gov. Code, § 54954.2, subd. (a)(1).) The County must include on its
+
+3 agendas any CEQA determinations for a project, and the failure to do so is a prejudicial violation of
+
+4 the Brown Act. (See San Joaquin Raptor Rescue Center v. County of Merced (2013) 216
+
+5 Cal.App.4th 1167, 1176-79.) The Brown Act further prohibits the County from taking action "on
+
+6 any item not appearing on the posted agenda." (Gov. Code, § 54954.2, subd. (a)(2).)
+
+7 78. The County's agenda for the November 10, 2020, Board hearing regarding the
+
+8 Zoning Amendments did not reference the County's intent to rely on the 2040 General Plan EIR.
+
+9 79. By failing to notify the public of its intent to rely on the 2040 General Plan EIR for
+
+10 the Zoning Amendments, the County violated the Brown Act and in particular Government Code
+
+11 section 54954.2. In order to cure the violation, the Board must at least rescind its approval of the
+
+12 Zoning Amendments and its reliance on the 2040 General Plan EIR.
+
+13 80. On December 7, 2020, Carbon, through its counsel, requested that the Board cure
+
+14 and correct its violation of the Brown Act. The Board did not respond to this request and did not
+15 properly cure its violations of the Brown Act. Government Code section 54960.1, subdivision (e)
+
+16 does not preclude this action.
+
+17 81. The provisions of Government Code section § 54960.1, subdivision (d) are not
+
+18 applicable to this action.
+
+19 82. Carbon is an interested party that has been prejudiced by the County's violations of
+
+20 the Brown Act, including because Carbon commented on the Zoning Amendments but was not
+
+21 provided adequate notice that the County intended to rely on the 2040 General Plan EIR as part of
+
+22 the CEQA review of those Zoning Amendments.
+
+23 PRAYER FOR RELIEF
+
+24 In each of the respects enumerated above, Respondents have violated their duties under the
+
+25 law, abused their discretion, failed to proceed in a manner required by law, and made
+26 determinations that are not supported by substantial evidence.
+
+27 WHEREFORE, Carbon prays for relief as follows:
+
+28 1. for a peremptory writ of mandate directing Respondents to rescind, vacate, void, and
+
+19
+I$ AMEND. VERIFIED PET. FOR WRIT OF MANDATE; COMPLAINT FOR DECL. RELIEF AND DAMAGES
+
+1. set aside the Zoning Amendments;
+
+2 2. for a peremptory writ of mandate directing Respondents to rescind, void, vacate,
+
+3 void, and set aside Respondents' determination that the Zoning Amendments are exempt from
+
+4 CEQA;
+
+5 3. for a peremptory writ. directing respondents to void, vacate, and set aside
+
+6 Respondents' determination that the 2040 General Plan EIR provides any basis for the required
+
+7 CEQA review of the Zoning Amendments;
+
+8 4. for a temporary stay, temporary restraining order, and preliminary or permanent
+
+9 injunctive relief or other order, including under Code of Civil Procedure section 526, enjoining
+10 Respondents from taking any action in furtherance of, or to implement, the Zoning Amendments
+
+11 during the pendency of this action;
+
+12 5. for determinations and declarations that:
+
+13 a. Carbon has vested rights to continue its existing operations to completion in all of its
+
+14 respective fields within the County without further discretionary approvals from the
+
+15 County;
+
+16 b. the County may not require Carbon to obtain further discretionary use permits from
+
+17 the County in order to continue its operations to completion in all of its respective
+
+18 fields within the County;
+
+19 c. the County may not apply the Zoning Amendments to Carbon's existing use permits;
+
+20 and
+
+21 d. the Zoning Amendments are preempted by federal and State law in whole or part.
+
+22 6. for just compensation for the taking of property in an amount to be determined at
+
+23 trial;
+
+24 7. for damages in an amount to be determined at trial;
+
+25 8. for costs of the suit;
+
+26 9. for reasonable attorney fees, including pursuant to Code of Civil Procedure sections
+
+27 1021.5 and 1036 and Government Code section 54960.5; and
+
+28 111
+
+20
+| st AMEND. VERIFIED PET. FOR WRIT OF MANDATE; COMPLAINT FOR DECL. RELIEF AND DAMAGES
+
+1, 10. for such other and further relief as the Court deems just and proper.
+
+2
+
+3 Dated: January 4o 2021 Respectfully Submitted,
+
+4 FERGUSON CASE ORR PATERSON LLP
+
+un
+o By: sby M. Neal P. Maguire
+7 Attorneys for Petitioners and Plaintiffs CARBON CALIFORNIA COMPANY,
+8 LLC; CARBON CALIFORNIA
+
+9 OPERATING COMPANY, LLC
+
+10
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+3
+27
+
+28
+
+21
+1# AMEND. VERIFIED PET. FOR WRIT OF MANDATE; COMPLAINT FOR DECL. RELIEF AND DAMAGES
+
+EXHIBIT A
+
+1 Neal P. Maguire (SBN 234531)
+FERGUSON CASE ORR PATERSON LLP
+2 1050 South Kimball Road
+
+3 Ventura, California 93004
+Telephone: (805) 659-6800
+4 Fax Number: (805) 659-6818 E-mail: nmaguire@fcoplaw.com
+5
+
+6 Attorneys for Petitioners Carbon California Company, LLC and Carbon California
+7 Operating Company, LLC
+
+aa
+9 SUPERIOR COURT FOR THE STATE OF CALIFORNIA
+10 FOR THE COUNTY OF VENTURA
+11
+
+12 CARBON CALIFORNIA COMPANY, LLC,
+13 a Delaware limited liability company, and
+CARBON CALIFORNIA OPERATING
+14 COMPANY, LLC, a Delaware, limited NOTICE OF INTENT TO FILE CEQA
+PETITION
+15 liability company,
+
+16 Petitioners,
+
+17 V.
+
+18 COUNTY OF VENTURA, a political
+
+19 subdivision of the State of California, acting
+by and through its BOARD OF
+
+20 SUPERVISORS; and DOES 1 through 100,
+inclusive,
+21 Respondents.
+22
+
+23
+
+24
+
+25
+
+26
+Exhibit A 27 Page__ofkt..Pages
+28
+
+NOTICE OF INTENT TO FILE CEQA PETITION
+
+1 TO THE COUNTY OF VENTURA AND ITS BOARD OF SUPERVISORS:
+
+2 PLEASE TAKE NOTICE, pursuant to California Public Resources Code section 21167.5,
+
+3 that Petitioners Carbon California Company, LLC and Carbon California Operating Company, LLC
+4 intend to file a Verified Petition for Writ of Mandate (the "Petition") under the provisions of the
+5 California Environmental Quality Act (Cal. Pub. Resources Code, § 21000 et seq., "CEQA")
+6 against the County of Ventura and its Board of Supervisors• (collectively, "Respondents"), in the
+7 California Superior Court for the County of Ventura, challenging Respondents' approval, on
+8 November 10, 2020, of amendments to its Costal and Non-Coastal Zoning Ordinances concerning
+
+9 oil and gas production operations (the "Zoning Amendments") as well as the County's reliance on a
+10 categorical CEQA exemption (CEQA Guidelines, § 15308) and the County's previously-certified
+11 2040 General Plan Final Environmental Impact Report ("FEIR").
+
+12 The Petition will request the Superior Court to issue a writ of mandate directing and
+13 compelling Respondents to vacate and set aside their approval of the Zoning Amendments, their
+14 determination that the Zoning Amendments are exempt from CEQA, and their determination that
+15 the FEIR applies to and encompasses the Zoning Amendments.
+
+16
+
+17 Dated: December 8, 2020 Respectfully Submitted,
+
+18 FERGUSON CASE ORR PATERSON LLP
+19
+
+20 By:
+Neal Maguire/
+21 Attorneys for Petitioners Carbon
+California Company, LLC and Carbon
+22 California Operating Company, LLC
+
+23
+
+24
+
+25
+
+26
+
+27 Exhibit A Page_2._of_4 Pagee
+28
+
+NOTICE OF INTENT TO FILE CEQA PETITION
+
+PROOF OF SERVICE
+STATE OF CALIFORNIA, COUNTY OF VENTURA:
+I am employed in the County of Ventura, State of California. I am over the age of 18 and not a party to the within action. My business address is 1050 South Kimball Road, Ventura, California 93004.
+On December 8, 2020, served 1 the original X a true copy of the foregoing document described as NOTICE OF INTENT TO FILE CEQA PETITION, which is related to the action styled Carbon California Company, LLC, et al. v. COUNTY OF VENTURA, a Political subdivision of the State of California, acting by and through its BOARD OF SUPERVISORS; et al. Ventura Superior Court Case No. listed on the attached Service List as follows:
+
+X on the person or persons
+
+BY CERTIFIED MAIL: I enclosed the above-described document in (an) envelope(s) with postage thereon
+
+•• fully pre-paid, RETURN RECEIPT REQUESTED, and addressed as set forth on the attached Service List. I am readily familiar with FERGUSON CASE ORR PATERSON LLP's practice of collection and processing correspondence for mail with the U.S. Postal Service. Pursuant to that practice, I placed the above-described envelope into the Firm's designated receptacle, of which the contents are to bo deposited with the U.S. Postal Service on that
+
+re Coffomia 91362 350 E. Thousarnd Oaks Blvd, Sta 250 ITI NOSHILVI MIO ISYO NOSOOEZE same day at, California in the ordinary course of business. I am aware that on motion of the party served, service is
+
+I presumed invalid if the postal cancellation date or postage meter date is more than one day after the date stated herein.
+BY EXPRESS MAIL: enclosed the above-described document in (an) envelope(s) with Express Mail postage fully pre-paid and addressed as set forth on the attached Service List. I placed the above-described envelope
+
+United States Postal Service for receipt of Express Mail. into post office, mailbox, subpost office, substation, or mail chute, or other like facility regularly maintained by the
+
+0
+
+m Cafllomia 93004 1050 South Kimball Road BY OVERNIGHT DELIVERY: I enclosed the above-described document in (au) envelope(s) of type designated by the express service carrier for overnight delivery with delivery fees fully pro-paid or provided for and addressed as set forth on the attached Service List. I placed the above-described envelope into a box or other
+facility regularly maintained by the express service carrier/X delivered the above-described envelope to an authorized courier or driver authorized by the express service carrier to receive documents,
+D BY PERSONAL SERVICE:
+
+attorney being served with
+2 a.m. C p.m. on I personally dolivered the above-described document El a party to this action; C an attorney for party to this action, by leaving the document at the attorney's office in an envelope clearly labeled to identify the to
+
+0 at who is
+
+from (805) 659-6818 to each a receptionist or a person having charge of the office; at
+
+X BY FACSIMILE TRANSMISSION: I caused the above-described document to be transmitted via facsimile
+facsimile number listed on the attached Service List at
+the date set forth above. Each fax transmission was reported as complete and without error, and each transmission report attached hereto was properly issued by the sending fax machine. D a.m. C p.m. on
+
+as indicated on the attached Service List at
+X BY ELECTRONIC TRANSMISSION: I served a true copy of the document clectronically in Portable
+Document Format (PDF) by transmitting it from tmercado@fcoplaw.com to the electronic service address(es) (emails),
+
+(State)
+
+O D a.m. X p.m. on the date set forth above.
+
+(Federal) and correct. I declare under penalty of perjury under the laws of the State of California that the above is true
+
+direction the service was made. I declare that I am employed in the office of a member of the bar of this Court at whose
+
+Executed on December 8, 2020, at Ventura, California,
+Oia Mescado
+Tina Mercado Exhibil A Page_3_of 4 Pages
+
+2370956 In accordance with the Califorala Code of Civil Procedure and Rules of Court regarding service, an exccuted oopy of this Proof of Seryica is on file at Ferguson Case Orr Paterson LLP and will be mado availablo for photocopying and inspection upon a request made pursuanl to applicable statulory provisions.
+
+PROOF OF SERVICE
+
+SERVICE LIST
+
+-..-- Clerk of the Board of Supervisors Hall of Administration, 4th Floor
+800 S. Victoria Avenue
+Ventura, CA 93009-1920
+
+Email: Clerkoftheboard@ventura.org
+A -• M • 41 49
+
+4 " w te'AnPn I'TI NOSUIIYA HNO ISYO NOSNONAg AS PIE POOd [OqUEY prOS CSD1 Ventura, Califocnia 93004
+
+Exhibit A ...
+
+Page_t_of_4t__Pages
+
+2
+PROOF OF SERVICE 2370956
+
+1 VERIFICATION
+
+2 I, R. Scott Price, am the President of Carbon California Operating Company, LLC, a
+
+3 petitioner and plaintiff in this proceeding and am authorized to make this verification on its behalf. I
+
+4 have read the foregoing FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE;
+
+5 COMPLAINT FOR DECLARATORY RELIEF AND DAMAGES and know the contents thereof.
+
+6 The contents are true of my own knowledge, except as to matters stated therein on information and
+
+7 belief, and as to those matters I believe them to be true.
+
+8 I declare under penalty of perjury under the laws of the State of California that the foregoing
+
+9 is true and correct.
+
+10 Executed on January 14,2021, at Santa Paula, California.
+
+11
+
+12 f.kt bee,
+13 R. Scott Price
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE; COMPLAINT FOR DECL. RELIEF AND DAMAGES
+
+PROOF OF SERVICE
+STATE OF CALIFORNIA, COUNTY OF VENTURA:
+am employed in the County of Ventura, State of California. I am over the age of 18 and not a party to the within action. My business address is 1050 South Kimball Road, Ventura, California 93004.
+On January 20, 2021, I served the original X a true copy of the foregoing document described as FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE; COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF AND DAMAGES, which is related to the action styled Carbon California Company, LLC, et al. v. COUNTY OF VENTURA, a political subdivision of the State of California, acting by and through its BOARD OF SUPERVISORS; et al. Ventura Superior Court Case No. 56-2020-00548181-CU-WM-VTA, on the person or persons listed on the attached Service List as follows:
+X BY CERTIFIED MAIL: enclosed the above-described document in (an) envelope(s) with postage thereon fully pre-paid, RETURN RECEIPT REQUESTED, and addressed as set forth on the attached Service List. I am readily familiar with FERGUSON CASE ORR PATERSON LLP's practice of collection and processing correspondence for mail with the U.S. Postal Service. Pursuant to that practice, I placed the above-described envelope into the Firm's designated receptacle, of which the contents are to be deposited with the U.S. Postal Service on that same day at, California in the ordinary course of business. I am aware that on motion of the party served, service is presumed invalid if the postal cancellation date or postage meter date is more than one day after the date stated herein.
+0 BY EXPRESS MAIL: enclosed the above-described document in (an) envelope(s) with Express Mail OSZOnS PALE SOBO PUESTIOUL EI0S: postage fully pre-paid and addressed as set forth on the attached Service List. placed the above-described envelope FERGUSON CASE ORR PATERSON LLI Westlake Village, California 91362 into a post office, mailbox, subpost office, substation, or mail chute, or other like facility regularly maintained by the United States Postal Service for receipt of Express Mail.
+O BY OVERNIGHT DELIVERY: I enclosed the above-described document in (an) envelope(s) of a type designated by the express service carrier for overnight delivery with delivery fees fully pre-paid or provided for and addressed as set forth on the attached Service List. I C placed the above-described envelope a into a box or other facility regularly maintained by the express service carrier/X delivered the above-described envelope to an authorized
+peox requupx, yOs os0I PODE6 BIWOHPD ZAMA courier or driver authorized by the express service carrier to receive documents.
+0 BY PERSONAL SERVICE: personally delivered the above-described document to L7 a party to this action; L an attorney for who is party to this action, by leaving the document at the attorney's office in an envelope clearly labeled to identify the attorney being served with a a receptionist or a person having charge of the office; at C a.m. L p.m. on at
+
+D BY FACSIMILE TRANSMISSION: I caused the above-described document to be transmitted via facsimile from (805) 659-6818 to each facsimile number listed on the attached Service List at C] a.m. p.m. on the date set forth above. Each fax transmission was reported as complete and without error, and each transmission report attached hereto was properly issued by the sending fax machine.
+X BY ELECTRONIC TRANSMISSION: I served a true copy of the document electronically in Portable Document Format (PDF) by transmitting it from tmercado@fcoplaw.com to the electronic service address(es) (emails), as indicated on the attached Service List at Da.m. D p.m. on the date set forth above.
+X (State) declare under penalty of perjury under the laws of the State of California that the above is true and correct.
+D (Federal) I declare that am employed in the office of a member of the bar of this Court at whose direction the service was made.
+Executed on January 20, 2021, at Ventura, California.
+
+Tina Mercado
+
+In accordance with the California Code of Civil Procedure and Rules of Court regarding service, an executed copy of this Proof of Service is on file at Ferguson Case Orr Paterson LLP and will be made available for photocopying and inspection upon a request made pursuant to applicable statutory provisions.
+
+2405528 PROOF OF SERVICE
+
+SERVICE LIST
+
+Attorney General Xavier Becerra
+Office of the Attorney General
+1300 "I" Street
+Sacramento, CA 95814-2929
+
+Via Certified Mail
+
+COX, CASTLE & NICHOLSON LLP
+Michael H. Zischke (Bar No. 105053)
+Email: mzischke@coxcastle.com
+Lisa M. Patricio (Bar No. 217549)
+Email: Ipatricio@coxcastle.com
+Amy Y. Foo (Bar No. 323004) ITI NOSHILVI HHO ISVO NOSAONTI Wesiake Village, Califomia. 91362 OST #IS PAJE SYPO PUESNOLI EOSS) pec iraquupx yanas oS0l Email: afoo@coxcastle.com 50 California Street, Suite 3200
+San Francisco, California 94111-4710
+Telephone: (415) 262-5100
+Facsimile: (415) 262-5199
+
++0OE6 BOLQTIRO RITTCRA Michael G. Walker (Bar No. 150554)
+County Counsel, County of Ventura
+Jeffrey E. Barnes (Bar No. 212154)
+Chief Assistant County Counsel
+Email: jeffrey.barnes@ventura.org
+Ventura County Counsel's Office
+800 S. Victoria Avenue
+Ventura, California 93009
+Telephone: (805) 654-5188
+Facsimile: (805) 654-2185
+
+Attorneys for Respondents COUNTY OF VENTURA and
+COUNTY OF VENTURA BOARD OF SUPERVISORS
+
+Courtesy Copy Via Email
+
+:
+
+2
+PROOF OF SERVICE 2405528
+
+ATTORNEY GENERAL SAN DIEGO
+
+2021 JAN 27 AMIO:13
+
+Nzoz 1 0-934

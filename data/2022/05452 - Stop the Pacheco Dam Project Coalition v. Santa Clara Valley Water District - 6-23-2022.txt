@@ -1,0 +1,772 @@
+SOLURI
+MESERVE tel: 916.455.7300 • fax: 916.244.7300
+510 8th Street • Sacramento, CA 95814
+aBau COrporatiou
+
+June 16, 2022
+
+SENT BY USPS MAIL & EMAIL
+(CEQA@doj.ca.gov)
+
+CEQA Coordinator
+Office of the Attorney General
+Environment Section
+1300 I Street
+Sacramento, CA 95814-2919
+
+RE: Notice to Attorney General of Commencement of Action Against Santa Clara Valley Water District
+
+To the Attorney General of the State of California:
+
+Please take notice, under Public Resources Code section 21167.7 and Code of
+Civil Procedure section 388, that on June 2, 2022, Stop the Pacheco Dam Project Coalition (*Petitioner") filed a Petition for Writ of Mandate (the "Petition") pursuant to Code of Civil Procedure sections 1085 and 1094.5, and California Public Resources Code
+section 21000 et seq. ("CEQA"), against Santa Clara Valley Water District (the "District"). The Petition challenges the District's approval of the Phase 2 Geotechnical Investigations for the Pacheco Reservoir Expansion Project, which relies on a categorical a exemption from CEQA. The lawsuit is based on violations of CEQA; the exact nature of the allegations and relief sought is described in the Petition, and is attached to this notice
+as Exhibit 1.
+
+Very truly yours,
+
+SOLURI MESERVE
+A Law Corporation
+By: w Cou 4 10e Osha R. Meserve
+ORM/mre
+
+Attachment: Exhibit 1, Petition for Writ of Mandate
+Proof of Service
+
+OSHA R. MESERVE (SBN 204240)
+
+2 PATRICK M. SOLURI (SBN 210036)
+JAMES C. CROWDER (SBN 327653)
+3 SOLURI MESERVE, A LAW CORPORATION
+
+4 510 8th Street, Sacramento, California 95814
+Telephone: (916) 455-7300
+5 Facsimile: (916) 244-7300
+Emails: osha@semlawyers.com; 6 patrick@semlawyers.com; james@semlawyers.com
+7 Attorneys for Petitioner
+8 Stop the Pacheco Dam Project Coalition
+
+9
+
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+11 COUNTY OF SANTA CLARA
+
+12 STOP THE PACHECO DAM PROJECT CASE NO.
+
+13 COALITION, an unincorporated association,
+VERIFIED PETITION FOR WRIT OF
+14 Petitioner, MANDATE; ELECTION TO PREPARE
+RECORD OF PROCEEDINGS 15 V.
+
+16 Action Based on
+SANTA CLARA VALLEY WATER California Environmental Quality Act 17 DISTRICT, a State Special District, and DOES
+18 through 10,
+(Code Civ. Proc., §§ 1085, 1094.5;
+19 Respondents, and Pub. Resources Code, §§ 21168, 21168.5,
+20 DOES 11-20, 21167.6, subd. (b)(2))
+
+21 Real Parties in Interest.
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+SOLURI
+MESERVE
+A LAW Verified Petition for Writ of Mandate CORPORATION
+
+1 INTRODUCTION
+
+2 1. STOP THE PACHECO DAM PROJECT COALITION ("Petitioner" or
+
+3 "Coalition") petitions this Court for a Writ of Mandate ("Petition"), directed to Respondent
+
+4 SANTA CLARA VALLEY WATER DISTRICT (District" or "Respondent"). Petitioner
+
+5 challenges the District's approval of the Phase 2 Geotechnical Investigations for the Pacheco
+
+6 Reservoir Expansion Project (*Investigation Project"), which relies on a categorical exemption
+
+7 from the California Environmental Quality Act (Pub. Resources Code, § 21000 et seq.
+8 ["CEQA"]; see also Cal. Code Regs., tit. 14, § 15000 et seq. ["CEQA Guidelines"].)
+
+9 2. The proposed Investigation Project would conduct extensive operations over the
+10 course of eight to seventeen months. During that time, the District proposes to conduct 226
+
+11 borings and dig 57 test pits that would disturb more than 2,500 cubic yards of earth and
+
+12 vegetation. To complete these borings and test pits, the Investigation Project would require
+13 contractors to drive trucks, trailers and tracked rigs through the Investigation Project area, and
+14 when unable to access the most remote sections of the site, fly helicopters to drop off the
+15 materials and equipment needed to conduct geotechnical investigations.
+16 3. The Investigation Project area contains numerous special status plants and wildlife
+17 species, as well as various cultural resources. Although the Investigation Project would require
+
+18 hundreds of off-road trips, drilling and excavating in an area documented to contain rare plant
+19 communities and wildlife, the Notice of Exemption (*NOE") claims no "serious or major
+20 disturbance to an environmental resource." This is false.
+
+21 4. The major soil and vegetation disturbance and low-flying helicopters, among other
+
+22 activities, would impact plants, wildlife and cultural resources. These impacts must be analyzed
+23 and mitigated through the applicable CEQA procedures, not an exemption intended for
+
+24 situations when there is no possibility of a significant environmental effect.
+25 5. The District approved the Investigation Project under Public Resources Code
+26 sections 15304 (Class 4, "Minor Alterations to Land") and 15306 (Class 6, "Information
+
+27 Collection"), however, the Investigation Project does not fall within the regulatory language of
+
+28 these exemptions.
+
+SOLURI
+MESERVE 2
+A LAW Verified Petition for Writ of Mandate CORPORATION
+
+1 6. While the District determined that there was no reasonable possibility of
+
+2 significant effect on the environment, the Investigation Project would, in fact, result in
+
+3 potentially significant impacts on the environment and is otherwise not eligible for a categorical
+
+4 exemption from CEQA. Thus, the District erred in relying on exemptions from CEQA to forego
+
+5 the required CEQA review.
+
+6 7. Petitioner seeks a peremptory writ of mandate invalidating the District's approval
+
+7 of the Investigation Project since, as more fully set forth below, the District's decision to adopt a
+
+8 NOE approving an Investigation Project that would result in multiple environmental impacts
+9 violates CEQA.
+
+10 PARTIES
+
+11 8. STOP THE PACHECO DAM PROJECT COALITION is an unincorporated
+12 association formed to protect Santa Clara County's ratepayers and the environment, as well as
+13 working ranchlands, from the environmentally destructive, high-cost and high-risk Pacheco
+14 Reservoir Expansion Project ("Dam Project"). In collaboration with environmental groups,
+15 including Sierra Club Loma Prieta Chapter and Friends of the River, the Coalition has
+
+16 spearheaded the movement to stop the destructive Dam Project and protect the areas' unique
+17 biological, cultural and other resources. The Coalition and its supporters include persons and
+
+18 groups whose members live in Santa Clara County and the Bay Area and appreciate the
+
+19 biological diversity and other values of the Diablo Range and Henry Coe State Park. These
+20 resources and interests would be severely injured if the Investigation Project and the Dam
+21 Project it supports, move forward.
+
+22 9. Among the Coalition members is the Pacheco Land and Cattle Co., which owns
+
+23 the 6,230-acre Lawler Ranch in southeastern Santa Clara County; the Lawler family has used
+24 the ranch for recreational, grazing and other conservation-compatible activities for nearly 60
+25 years. A large portion of the ranch, including the historic O'Connor Ranch structures, would be
+
+26 completely destroyed by the Dam Project. The family is committed to conserving the rich
+27 historic, agricultural, biological and cultural resources of this unique part of rural California.
+28
+
+SOLURI
+MESERVE 3
+A LAW
+CORPORATION Verified Petition for Writ of Mandate
+
+1 10. On information and belief, Respondent is a special district organized under the
+
+2 Santa Clara Valley Water District Act. (Stats. 1951, ch. 1405, p. 3336 et seq.; West's Ann. Wat.
+
+3 Appen. (1999 ed. & 2012 supp.) ch. 60, p. 354 et seq.). As the CEQA "lead agency" for the
+
+4 Investigation Project, the District is responsible for preparation of an environmental document
+
+5 that describes the Investigation Project and its impacts and, if necessary, evaluates mitigation
+
+6 measures and/or alternatives to lessen or avoid any significant environmental impacts.
+7 11. Petitioner is unaware of the true names and capacities of Respondents DOES -
+
+8 through 20 and sue such respondents by fictitious names. Petitioner is informed and believes,
+
+9 and on the basis of such information and belief alleges, that the fictitiously named respondents
+10 are also responsible for the actions described in this Petition. When the true identities and
+
+11 capacities of these respondents have been determined, Petitioner will amend this Petition, with
+12 leave of Court if necessary, to insert such identities and capacities.
+
+13 BACKGROUND FACTS
+
+14 12. The District is in the process of planning for a Dam a Project costing nearly $3
+15 billion, which would be located near the site of the existing Pacheco Reservoir on Pacheco
+16 Creek. The Pacheco Reservoir is currently operated by the Pacheco Pass Water District; the
+17 current dam is in poor condition and state dam regulators have ordered that due to seismic and
+18 other dangers, the outlet gates must remain open. The proposed new reservoir would be
+19 roughly 25 times larger than the existing reservoir, and the new dam would be located more
+20 than a mile upstream from the current dam. The Dam Project would flood about 1,500 acres of
+21 important plant and wildlife habitat, cultural sites over 3,000 years old, as well as more recent
+22 yet historic Diablo Range ranching operations dating back to the 1800's.
+
+23 13. In November 2021, the District circulated the Dam Project Draft Environmental
+24 Impact Report ("DEIR") analyzing the impacts of constructing a new dam on Pacheco Creek.
+
+25 A Final EIR has not yet been released.
+
+26 14. The January 26, 2022, AECOM Phase 2 Investigation Work Plan ("Work Plan"),
+27 provides details regarding the current geotechnical investigations proposed by the District in
+28 furtherance of Dam Project.
+
+SOLURI
+MESERVE 4
+A LAW
+CORPORATION Verified Petition for Writ of Mandate
+
+1 15. On April 28, 2022, the District filed a NOE for the Investigation Project with the
+
+2 Santa Clara County Clerk's office.
+
+3 16. In support of the new Dam Project located near the existing Pacheco Reservoir,
+
+4 the District proposes to conduct extensive geotechnical investigations to include geotechnical
+
+5 borings, test pits, potholes, electrical resistivity surveys, and seismic refraction surveys.
+
+6 17. The Investigation Project would include investigations at nearly 200 different
+
+7 locations in the general vicinity of and within Pacheco Creek and Pacheco Reservoir, and in
+
+8 areas to the east along the proposed transmission line alignment that would provide power to the
+
+9 proposed Dam Project. The majority of these locations are on privately owned land.
+
+10 18. Approximately 226 borings (including rock core drilling, hollow stem auger
+11 drilling, and auger/rotary wash drilling) would be drilled within and close to the footprint of the
+12 proposed dam; at upstream and downstream borrow areas; on landslides upstream of the
+13 proposed dam site; along the conveyance pipeline alignment and pumpstation footprint; on the
+14 crest road of the North Fork Dam; along the access road and at the bridge crossing over North
+15 Fork Pacheco Creek; along the proposed SR-152 interchange and frontage road; within the
+
+16 proposed North Fork Pacheco Creek restoration area; and along the proposed new transmission
+17 line alignment.
+
+18 19. A total of 57 test pits are planned. Test pits would be 10 to 20 feet long, 3 feet
+19 wide, and up to 20 feet deep. Following completion of logging and sampling, each test
+20 pit/pothole would be backfilled, the site restored to original grade, and seeded with an
+
+21 "appropriate" seed mix. Test pits excavated below the full pool line of the existing reservoir
+
+22 would place side cast material into a dump truck to reduce impacts to the reservoir bottom.
+
+23 20. Drill rigs would access the site either with a truck and trailer, via tracked rig, or
+24 via helicopter. A helicopter would be used to transport timbers for constructing temporary
+
+25 drilling platforms, drilling equipment and supplies, and drilling water to approximately 48
+
+26 proposed investigation locations in instances where access cannot be completed by conventional
+
+27 means.
+
+28
+
+SOLURI
+MESERVE 5
+A LAW
+CORPORATION Verified Petition for Writ of Mandate
+
+1 JURISDICTION AND VENUE
+
+2 21. This Court has jurisdiction over the matters alleged in this Petition pursuant to
+
+3 Code of Civil Procedure sections 1085 and 1094.5 and Public Resources Code sections 21168
+
+4 and 21168.5.
+
+5 22. Venue for this action properly lies in the Superior Court for the County of Santa
+
+6 Clara pursuant to Code of Civil Procedure section 394.
+
+7 23. This Petition is timely filed in accordance with Public Resources Code section
+8 21167, subdivision (d). The District filed its NOE for the Investigation Project on April 28,
+
+9 2022, thereby triggering a 35-day statute of limitations.
+10 STANDING
+
+11 24. Petitioner has standing to assert the claims alleged in this Petition because
+
+12 Petitioner is beneficially interested in this matter, as required by Code of Civil Procedure
+13 section 1086. Petitioner has standing to assert the claims raised in this Petition because its
+14 members include residents, business owners and property owners within Santa Clara County
+15 and the Bay Area and have personal and community interests that are directly and adversely
+16 affected by the District's approval of the Investigation Project and the new Dam Project it
+17 informs. Petitioner is within the class of persons beneficially interested in, and aggrieved by,
+18 the acts of Respondent as alleged below. Petitioner and its members have a beneficial interest
+19 in challenging the District's unlawful approval of the Investigation Project that will negatively
+20 impact the environmental and public health in Santa Clara County.
+21 25. The District's approval of the Investigation Project is also a matter of public
+
+22 interest. To the extent such processes occurred, Petitioner and its members participated in the
+23 administrative processes herein, and exhausted available remedies.
+
+24 IRREPARABLE HARM
+
+25 26. The District's failures, set forth in this Petition, constitute a prejudicial abuse of
+26 discretion within the meaning of the Code of Civil Procedure sections 1085 and 1094.5 and
+27 CEQA. (See Code Civ. Proc., §§ 1085, 1094.5; Pub. Resources Code, §§ 21168, 21168.5.)
+28
+
+SOLURI
+MESERVE 6
+A LAW
+CORPORATION Verified Petition for Writ of Mandate
+
+27. Petitioner has no plain, speedy or adequate remedy in the ordinary course of law.
+
+2 If the District's actions regarding the Investigation Project are effectuated, Petitioner and the
+community will be irreparably harmed. No money damages could adequately compensate for
+
+4 that harm.
+
+5 PRIVATE ATTORNEY GENERAL DOCTRINE
+
+6 28. Petitioner brings this action as a private attorney general pursuant to Code of Civil
+
+7 Procedure section 1021.5, and any other applicable legal theory, to enforce important rights
+
+8 affecting the public interest.
+
+9 29. Issuance of the relief requested in this Petition will confer a significant benefit on
+10 the general public by requiring the District to comply with CEQA when making decisions
+11 regarding the natural environment and water supplies.
+12 30. Issuance of the relief requested in this Petition will also result in the enforcement
+13 of important rights affecting the public interest by requiring the District to comply with CEQA
+14 and thereby protect the environment in the Pacheco Pass area of the Diablo Range.
+
+15 NOTICE OF CEQA SUIT
+
+16 31. Petitioner has complied with Public Resources Code section 21 167.5 in serving
+17 notice of this action to the District on June 2, 2022. (See Exhibit A, Notice of Commencement
+
+18 of Action against the District.)
+
+19 ELECTION TO PREPARE ADMINISTRATIVE RECORD
+
+20 32. Pursuant to Public Resources Code, section 21167.6, subdivision (b)(2), and any
+21 other applicable authority, Petitioner elects to prepare the record of proceedings in this action.
+22 33. Pursuant to this election, Petitioner requests that Respondent, upon service of this
+
+23 election, gather and transmit its administrative files to Petitioner for preparation of the
+24 administrative record. Respondent is required to provide its administrative files free of charge.
+25 FIRST CAUSE OF ACTION
+
+26 Violations of CEOA (Pub. Resources Code, § 21000 et seq.)
+27 34. Petitioner incorporates by reference each and every allegation contained in
+28 Paragraphs 1 through 33 as though fully set forth herein.
+
+SOLURI
+MESERVE 7
+A LAW
+CORPORATION Verified Petition for Writ of Mandate
+
+1 35. The District did not perform environmental review for the Investigation Project
+2 pursuant to CEQA. Instead, the District found the Investigation Project exempt from CEQA
+
+3 review pursuant to categorical exemptions found in CEQA Guidelines sections 15304 (Class 4,
+
+4 "Minor Alterations to Land") and 15306 (Class 6, "Information Collection"). By relying on
+
+5 these exemptions, the District failed to proceed in a manner required by law.
+
+6 36. The District's reliance on CEQA exemptions is misplaced because a Class 4
+
+7 exemption allows only a minor alteration to the condition of land, which would not include "the
+
+8 removal of healthy, mature scenic trees." (CEQA Guidelines, § 15304.) The Work Plan states
+
+9 that "where possible" relocation of test pit and boring sites would be required "to minimize the
+
+10 need to trim branches or cut down trees." Thus, the District admits that trees may be removed.
+11 Additionally, several of the test pit sites, which would require excavation holes of 20-foot long
+12 and 20-feet deep, are located in heavily wooded areas. The District's assertion that no healthy,
+13 mature trees would be removed is contradicted by conditions in the Investigation Project area.
+14 Thus, CEQA Guidelines Class 4 exemption cannot be relied upon to circumvent appropriate
+15 CEQA analysis.
+
+16 37. The Class 6 exemption allows for agencies to conduct "basic data collection,
+17 research, experimental management, and resource evaluation activities which do not result in a
+
+18 serious or major disturbance to an environmental resource." (CEQA Guidelines, § 15306
+
+19 [bold added].) Under the Investigation Project, low-flying helicopters would deliver drilling
+20 equipment to remote areas of the Investigation Project site. These areas contain special status
+21 species and helicopter operations are likely to result in major disturbances to surrounding
+
+22 wildlife in this remote area. Additionally, the Investigation Project would require extensive use
+23 of wheeled and tracked vehicles to traverse the expansive project area. These vehicles may
+24 crush or destroy burrows, or otherwise damage special status plant and wildlife habitat or result
+25 in take. Thus, the Investigation Project would result in a serious or major disturbance to an
+26 environmental resource.
+
+27 38. Furthermore, the District has also ignored the second element of the Class 6
+28 exemption which specifies that the exempted activities "may be strictly for information
+
+SOLURI
+MESERVE 8
+A LAW Verified Petition for Writ of Mandate CORPORATION
+
+1 gathering purposes, or as part of a study leading to an action which a public agency has not yet
+2 approved, adopted, or funded." (CEQA Guidelines, § 15306.) The § Investigation Project is not
+3 for the sole purpose of information gathering; the purpose of the Investigation Project is to guide
+
+4 the design and development of the new Dam Project. The Dam Project has already been
+
+5 included in the District's Capital Improvement Plan, and as of June 2022, the District has spent
+
+6 over $80 million pursuing the new dam. Thus, reliance on the Class 6 exemption is unfounded.
+
+7 39. Assuming either CEQA exemption applies, categorical exemptions are subject to
+
+8 exceptions under which reliance on an exemption is improper. (CEQA Guidelines, § 15300.2.)
+9 40. Under CEQA Guidelines, section 15300.2, subdivision (b), an agency may not
+10 rely on an exemption "when the cumulative impact of successive projects of the same type in the
+11 same place, over time is significant." The District has already commenced the first round of
+
+12 geotechnical investigations it calls "Phase 1.33 Those investigations are ongoing and create
+13 similar impacts to the activities proposed by Phase 2, resulting in piecemealing that CEQA
+14 Guidelines, section 15300.2, subdivision (b) prohibits. The two phases of geotechnical
+15 investigations would combine to create cumulative impacts. Therefore, the cumulative impact
+16 exception is applicable and CEQA exemptions cannot be relied upon.
+17 41. An exemption may not be relied on when there is a "reasonable possibility that the
+18 activity will have a significant effect on the environment due to unusual circumstances."
+
+19 (CEQA Guidelines, § 15300.2, subd. (c); see, e.g., Voices for Rural Living v. El Dorado
+20 Irrigation District (2012) 209 Cal.App.4th 1096, 1107 [due to the "unusual circumstance" of
+21 greatly increasing demand for public water services through an existing pipeline the project had
+22 a potentially significant effect, thereby precluding reliance on an exemption].) The
+23 circumstances under which the Investigation Project would occur are unusual, creating a
+
+24 reasonable possibility of one or more significant effects to resources listed in CEQA Guidelines
+
+25 Appendix G.
+
+26 42. The Investigation Project area is a particularly sensitive environment containing
+27 rare plant and wildlife habitat unique to the area. The Dam Project DEIR provided descriptions
+28 of the occurrences of and habitat suitable for bald and golden eagles, California tiger
+
+SOLURI
+MESERVE 9
+A LAW
+CORPORATION Verified Petition for Writ of Mandate
+
+1 salamander, California red-legged frog and numerous other special status species in the area.
+
+2 Additionally, hundreds of acres of sensitive natural communities in the area would likely be
+3 impacted by the activities proposed by the Investigation Project. The Investigation Project
+
+4 would require trucks, and tracked vehicles to traverse through this habitat, along with low flying
+
+5 helicopters, disturbing the wildlife and vegetation. The boring sites and test pits would also
+
+6 create ground disturbances and noise that would also disturb rare plants and wildlife.
+
+7 43. The Investigation Project area contains several culturally important sites. The
+
+8 Dam Project DEIR documented over 30 cultural sites in the area. Some of these sites are over
+9 3,000 years old. With respect to cultural and historical resources, the Work Plan states that
+
+10 previous surveys were conducted "to identify and avoid biological and cultural resources to the
+11 maximum extent practicable." The Work Plan also states that boring and test pit locations
+12 will be "relocated where possible to avoid potential impacts to sensitive species and cultural
+13 resources." The Pacheco Reservoir Expansion Project DEIR identified numerous cultural
+14 resources throughout the new dam site. The Investigation Project includes test pits that are 20
+15 feet deep and borings as deep as 300 feet. These activities will likely result in a significant
+16 impact to cultural resources, and the District acknowledges that the Project does not avoid all
+17 impacts to sensitive species and cultural resources.
+
+18 44. Furthermore, the Investigation Project would require the use of low-flying
+19 helicopters and off-road vehicles to access and deliver equipment to remote areas of the
+20 Investigation Project site. Low-flying helicopters would create significant impacts to wildlife
+
+21 throughout the area with noise and ground disturbance.
+
+22 45. An exception to CEQA exemptions applies if the project "may cause a substantial
+
+23 adverse change in the significance of t historical resource." (CEQA Guidelines, § 15300.2,
+
+24 subd. (f).) The Investigation Project area contains numerous cultural and historical sites and
+
+25 resources, and the Investigation Project would cause an adverse change in the significance of a
+26 historical resources.
+
+27 46. A lead agency may not rely on mitigation to qualify for a categorical exemption.
+28 § (CEQA Guidelines, § 15126.4, subd. (a)(1)(A); Salmon Protection & Watershed Network v.
+
+SOLURI
+MESERVE 10
+A LAW
+CORPORATION Verified Petition for Writ of Mandate
+
+1 County of Marin (2004) 125 Cal.App.4th 1098.) Yet the Work Plan indicates that the
+
+2 Investigation Project relies on de facto mitigation to attempt to address project impacts. For
+
+3 instance, the NOE states that Best Management Practices and "additional project features"
+
+4 would be incorporated into the Project. The Work Plan also refers to the NOE "include[ing]
+
+5 Best Management Practices for impact avoidance and minimization." To the extent the
+
+6 District attempts to rely on Best Management Practices and unidentified "additional project
+
+7 features" to reduce the significant impacts of the Investigation Project, those conditions are akin
+
+8 to mitigation.
+
+9 47. The NOE states that the purpose of the Investigation Project is to investigate
+10 seismic risks, baseline conditions and obtain geological data in order to prepare design plans for
+11 the Dam Project. Additional detailed information on the underlying soil conditions from the
+12 Investigation Project would facilitate design and construction of the Dam Project. The instant
+
+13 Investigation Project is an essential component of the Dam Project and "step" towards the
+14 construction and implementation of the Dam Project. Accordingly, the Investigation Project
+15 must be analyzed together with the Dam Project. The District's review of the Investigation
+16 Project, separate from the Dam Project, is impermissible piecemealing of the "whole of the
+17 action."
+
+18 48. Even if the Investigation Project was not part of the whole of the action that makes
+
+19 up the Dam Project, CEQA nevertheless requires the instant geotechnical investigations to be
+20 analyzed together with the Dam Project in a single environmental document because the new
+21 dam is a "reasonably foreseeable consequence of the [geotechnical investigations]" and when
+
+22 added to the geotechnical investigations "the [new dam] will be significant in that it will likely
+23 change the scope or nature of the initial project or its environmental effects." (Laurel Heights
+24 Improvement Association v. Regents of Univ. of California (1988) 47 Cal.3d 376, 395.)
+25 49. The District prejudicially abused its discretion by exempting the Investigation
+26 Project from environmental review under CEQA.
+
+27
+
+28
+
+SOLURI
+MESERVE 11
+A LAW Verified Petition for Writ of Mandate CORPORATION
+
+1 PRAYER
+
+2 WHEREFORE, Petitioner respectfully requests the following relief and entry of
+
+3 judgment as follows:
+
+4 1. That the Court issue a peremptory writ of mandate directing the District to:
+
+5 a. Vacate and set aside all Investigation Project approvals;
+
+6 b. Comply with CEQA by preparing legally adequate environmental
+
+7 document under CEQA for the Investigation Project; and
+
+8 2. For a temporary stay to prevent the District from taking further actions to
+9 implement or proceed with the Investigation Project during the pendency of this litigation;
+10 3. For temporary, preliminary, and permanent injunctive relief to prevent the District
+11 from taking further actions to implement or proceed with the Investigation Project;
+12 4. An order awarding Petitioner attorneys' fees under Code of Civil Procedure
+13 section 1021.5, Government Code section 800, and other applicable authority;
+14 5. Costs of suit; and
+
+15 6. Such other and further relief as the Court deems just and proper.
+16
+
+17 Dated: June 2, 2022 SOLURI MESERVE,
+
+18 A LAW CORPORATION
+
+19 Lau 4 Ih By:
+20 Osha R. Meserve
+21 Attorney for Petitioner
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+SOLURI
+MESERVE 12
+A LAW
+CORPORATION Verified Petition for Writ of Mandate
+
+1 VERIFICATION
+
+2 I, Osha R. Meserve, am counsel of record for Petitioner Stop the Pacheco Dam Project
+
+3 Coalition. [ sign for Petitioner absent from the county of counsel. I have read the foregoing
+
+4 Petition and know the contents thereof. The same is true of my own knowledge, except as to
+
+5 those matters that are alleged on information and belief, and as to those matters, I believe them
+
+6 to be true.
+
+7 I declare under penalty of perjury under the laws of the State of California that the
+
+8 foregoing is true and correct.
+
+9 Executed this 2nd day of June, 2022, in Sacramento, California.
+
+10
+
+11 Calu 4, Whe,
+Osha R. Meserve
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+SOLURI
+MESERVE 13
+A LAW Verified Petition for Writ of Mandate CORPORATION
+
+EXHIBIT A
+
+SOLURI
+MESERVE tel: 916.455.7300 • fax: 916.244.7300
+510 8th Street • Sacramento, CA 95814
+a:4 COPDOFaIGn
+
+June 2, 2022
+
+SENT BY U.S. MAIL & EMAIL
+(clerkoftheboard@valleywater.org)
+
+Santa Clara Valley Water District
+5750 Almaden Expressway San Jose, California 95188-3686
+
+RE: Notice of Commencement of Action Against
+Santa Clara Valley Water District
+
+To Whom It May Concern:
+Please take notice that Stop the Pacheco Dam Project Coalition (*Petitioner") intends to file Verified Petition for Writ of Mandate (the "Petition") pursuant to Code of Civil Procedure sections 1085 and 1094.5, and California Public Resources Code section 21000 et seq. ("CEQA"), against Santa Clara Valley Water District (the "District"). The Petition challenges the District's approval of the Phase 2 Geotechnical Investigations for the Pacheco Reservoir Expansion Project, which relies on a categorical exemption from CEQA. The lawsuit will be based on violations of CEQA; the exact nature of the allegations and relief sought is described in the Petition that Petitioner plans to file on June 2, 2022.
+
+Very truly yours,
+
+SOLURI MESERVE
+A Law Corporation
+Oah 4, Me- By:
+Osha R. Meserve
+ORM/mre
+
+CC: J. Carlos Orellana, Santa Clara Valley Water District Counsel
+(COrellana@valleywater.org)
+
+Attachment: Proof of Service
+
+PROOF OF SERVICE
+
+hereby declare that am employed in the City of Sacramento, County of Sacramento, California. I am over the age of 18 years and not a party to the action. My business address is 510 8th Street, Sacramento, California 95814.
+
+On June 2, 2022, I served the attached document:
+
+NOTICE OF COMMENCEMENT OF ACTION AGAINST
+SANTA CLARA VALLEY WATER DISTRICT
+
+on the following parties or attorneys for parties, as shown below:
+
+Santa Clara Valley Water District
+5750 Almaden Expressway San Jose, California 95188-3686
+
+Service was caused as follows:
+
+V BY FIRST-CLASS MAIL: I am readily familiar with this business's practice
+for collecting and processing correspondence for mailing with the U.S. Postal Service. In
+the ordinary course of business, correspondence would be deposited with the U.S. Postal Service on the day on which it is collected. On the date written above, following ordinary business practices, I placed for collection and mailing at my place of business the attached document in a sealed envelope, with postage fully prepaid, addressed as
+shown above.
+
+VIA ELECTRONIC MAIL: I caused the document to be sent by electronic mail to the addressee at the e-mail address listed above. The document was served electronically from my place of business at 510 8th Street, Sacramento, California 95814 from my electronic service address at legal@semlawyers.com.
+
+I declare under penalty of 1 rjury that the foregoing is true and correct. Executed
+at Sacramento, California on June 2, 2022.
+
+uRe
+Mae Ryan Empleo
+
+SOLurI
+•MESERVE tel: 916.455.7300 • fax: 916.244.7300
+510 8th Street • Sacramento, CA 95814
+o law
+
+PROOF OF SERVICE
+
+I hereby declare that I am employed in the City of Sacramento, County of
+Sacramento, California. Iam over the age of 18 years and not party to the action. My
+business address is 510 8th Street, Sacramento, California 95814.
+
+On June 16, 2022, I served the attached document:
+
+NOTICE TO ATTORNEY GENERAL OF COMMENCEMENT OF ACTION
+AGAINST SANTA CLARA VALLEY WATER DISTRICT
+
+on the following parties or attorneys for parties, as shown below:
+
+CEQA Coordinator
+Office of the Attorney General
+Environment Section
+1300 I Street
+Sacramento, CA 95814-2919
+
+Service was caused as follows:
+
+Y BY FIRST-CLASS MAIL: I am readily familiar with this business's practice for collecting and processing correspondence for mailing with the U.S. Postal Service. In the ordinary course of business, correspondence would be deposited with the U.S. Postal Service on the day on which it is collected. On the date written above, following ordinary business practices, I placed for collection and mailing at my place of business the attached document in a sealed envelope, with postage fully prepaid, addressed as shown above.
+
+VIA ELECTRONIC MAIL: I caused the document to be sent by electronic mail to the addressee at the e-mail address listed above. The document was served
+electronically from my place of business at 510 8th Street, Sacramento, California 95814
+from my electronic service address at legal@semlawyers.com.
+
+declare under penalty of perjury that the foregoing is true and correct. Executed at Sacramento, California on June 16, 2022.
+IfRE
+Mae Ryan Empleo

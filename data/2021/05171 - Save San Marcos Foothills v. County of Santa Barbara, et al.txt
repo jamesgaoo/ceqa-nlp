@@ -1,0 +1,1213 @@
+Marc Chytilo (State Bar No. 132742) HN .- Ana Citrin (State Bar No. 255587) LAW OFFICE OF MARC CHYTILO, APC
+P.O. Box 92233
+Santa Barbara, CA 93190
+Telephone: 805-682-0585; Fax: 805-682-2379 Email: marc@lomcsb.com, ana@lomcsb.com
+G1 Attorneys for Petitioner Save San Marcos Foothills
+LO
+
+7 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+8 FOR THE COUNTY OF SANTA BARBARA
+ANACAPA DIVISION 9
+
+10
+
+11
+SAVE SAN MARCOS FOOTHILLS, Case No. 21CV00065 12
+
+13 Petitioner,
+VS.
+14
+
+15 COUNTY OF SANTA BARBARA; BOARD) NOTICE TO ATTORNEY GENERAL OF SUPERVISORS OF THE COUNTY OF
+16 SANTA BARBARA; and DOES 1-10,
+
+17 Respondents, Judge: Hon. Thomas P. Anderle
+18
+
+Department: 3 19
+SANTA BARBARA PRESERVE LLC; 20 CHADMAR SANTA BARBARA
+21 PRESERVE LLC; and ROES 12-20,
+
+22 Real Parties in Interest.
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+PLEASE TAKE NOTICE, under Public Resources Code Section 21167.7, and Code of
+
+2 Civil Procedure Section 388, that on January 10, 2021, Petitioner SAVE SAN MARCOS
+FOOTHILLS filed a Verified Petition for Writ of Mandamus against Respondents COUNTY OF
+
+SANTA BARBARA and BOARD OF SUPERVISORS FOR THE COUNTY OF SANTA
+
+6 BARBARA, in the above-referenced Court. The Petition alleges, inter alia, that Respondents
+
+7 violated the California Environmental Quality Act (CEQA). The Verified Petition for Writ of
+
+8 Mandamus is enclosed herewith.
+
+9
+
+10 Respectfully Submitted,
+11
+
+12
+
+13 Dated: January 19, 2021 LAW OFFICE OF MARC CHYTILO, APC
+
+14
+
+15 daS Ana Citrin
+
+16 Attorneys for Petitioner
+SAVE SAN MARCOS FOOTHILLS
+17
+
+18 Enclosure
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Notice to Attorney General Case No. 21CV00065
+
+ELECTRONICALLY FILED
+Superior Court of California Marc Chytilo (State Bar No. 132742) Ana Citrin (State Bar No. 255587) County of Santa Barbara
+
+2 LAW OFFICE OF MARC CHYTILO, ÁPC Darrel E. Parker, Executive Officer
+P.O. Box 92233 1/11/2021 8:00 AM
+
+3 Santa Barbara, CA 93190 By: Narzralli Baksh, Deputy
+
+4 Telephone: 805-682-0585; Fax: 805-682-2379 Email: marc@lomcsb.com, ana@lomcsb.com
+
+5
+
+6 Attorneys for Petitioner Save San Marcos Foothills
+
+8
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+10 FOR THE COUNTY OF SANTA BARBARA
+11 ANACAPA DIVISION
+12
+
+13
+
+14 SAVE SAN MARCOS FOOTHILLS, , Case No. 21CV00065 15
+Petitioner,
+16 VS.
+
+17 VERIFIED PETITION FOR WRIT OF
+COUNTY OF SANTA BARBARA; BOARD) MANDAMUS
+18 OF SUPERVISORS OF THE COUNTY OF
+SANTA BARBARA; and DOES 1-10,
+19
+
+20 Respondents, PLANNING AND ZONING LAW [CAL. GOVT. CODE 8§65000 et seq-];
+21 CALIFORNIA ENVIRONMENTAL
+
+22 QUALITY ACT ("CEQA") [CAL. PUBLIC
+SANTA BARBARA PRESERVE LLC; RESOURCES CODE §§ 21100 et seq.];
+23 CHADMAR SANTA BARBARA CODE OF CIVIL PROCEDURE §§1085,
+PRESERVE LLC; and ROES 12-20, 1094.5
+24
+
+25 Real Parties in Interest.
+
+26
+
+27
+
+28
+
+1 INTRODUCTION
+
+2
+1. Petitioner Save San Marcos Foothills ("Petitioner" or "SSMF") challenges Respondents
+3 County of Santa Barbara and Board of Supervisors of the County of Santa Barbara's action
+4 approving the grant of two easements over County open space and public park properties at the
+5 San Marcos Foothills Preserve, and the County's subsequent approval of a Zoning Clearance
+LO authorizing grading and development within the casement areas (hereafter "Project"). This
+7 challenge is brought on grounds that Respondents' actions violate California Planning & Zoning
+8 Law, the California Environmental Quality Act ("CEQA"), and constitute a prejudicial abuse of
+9 discretion.
+10
+2. The two easements are for storm drain lines to serve residential development known as
+11 the Preserve at San Marcos Terraces, and are located on property the County retained for open
+12 space and public park purposes when the area was previously subdivided. The Board failed to
+13 proceed in the manner required by law and prejudicially abused its discretion in approving the
+14
+grant of these easements® over County owned land without following mandatory procedure
+15 required by Government Code section 65402, namely submitting the proposal to the County
+16 Planning Commission to review and report as to its conformity with the County's adopted
+17 general plan. The Board further violated Government Code section 65566 in approving the
+18 disposal of an interest in open-space land that is inconsistent with the County's open-space plan.
+19
+3. After the Board's unlawful approval granting the storm drain easements to the developen
+20 of the Preserve at San Marcos Terraces, the County approved a Zoning Clearance to authorize
+21 construction of subdivision improvements to serve the eight residential lots, including drainage
+22 facilities in the easement areas. The County failed to proceed in the manner required by law
+23 and prejudicially abused its discretion in approving the Zoning Clearance when the Planning
+24 Commission made no general plan consistency determination for the easement conveyance,
+25 because the Zoning Clearance is inconsistent the County's adopted general plan, and because
+26 the grading and construction authorized by the Zoning Clearance will result in significant
+27 environmental impacts that require environmental review under CEQA.
+28
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS 1 Save San Marcos Foothills v. County of Santa Barbara and Board of Supervisors
+
+PROOF OF SERVICE BY MAIL
+
+m07 N certify and declare as follows:
+
+I am over the age of 18, and not a party to this action. My business address is Law
+Office of Marc Chytilo, Post Office Box 92233, Santa Barbara, California 93190, which is
+5 located in Santa Barbara County where the mailing described below took place.
+6 am familiar with the business practice at my place of business for the collection and
+7 processing of correspondence for mailing with the United States Postal Service.
+8 Correspondence so collected and processed is deposited with the United States Postal Service
+9
+that same day in the ordinary course of business.
+10
+
+11 On January 19,2021 the following document(s):
+
+12 ,: VERIFIED PETITION FOR WRIT OF MANDAMUS
+NOTICE RE PREPARATION OF RECORD OF ADMINISTRATIVE
+13 PROCEEDINGS
+3. NOTICE TO ATTORNEY GENERAL
+14 was placed for deposit in the United States Postal Service in a sealed envelope, with postage
+15 fully paid to:
+
+16 Attorney General of the State of California
+17 1300 I Street
+Sacramento, CA 95814
+18
+
+19 certify and declare under penalty of perjury that the forgoing is true and correct.
+
+20 Dated: January 19, 2021
+21 688568N Ana Citrin
+
+28
+
+LAW
+OFFICE
+OF MARC
+CHYTILO PROOF OF SERVICE OF
+NOTICE TO ATTORNEY GENERAL Case No. 21CV00065
+
+4. Petitioner brings this Petition for Writ of Mandamus on their own behalf, and on behalf
+
+2 of its members, and on behalf of the general public under California Code of Civil Procedure §§
+1085 and 1094.5 alleges as follows:
+
+4 PARTIES
+
+5. Petitioner hereby incorporates by reference paragraphs 1 through 4 as if fully set forth
+6
+herein.
+7
+6. Petitioner Save San Marcos Foothills (SSMF) is an unincorporated association dedicated
+8 to the protection and permanent preservation of the threatened undeveloped open space at the
+San Marcos Foothills. Petitioner, through its members, supporters and representatives,
+10 participated in the proceedings below, including by providing oral comments to Respondent
+11 Board of Supervisors, to other inferior arms of the County, and to County staff, to the extent
+12 that opportunities for such participation were afforded. Petitioner has made various requests for
+13 information and documentation from County concerning the Project and associated processes,
+14 with some requests fulfilled and others unfulfilled as of the date of this Petition. Petitioner is
+15
+interested in preserving the integrity of the environment of the West Mesa of the San Marcos
+16 Foothills ("West Mesa", where the Terraces Project is located) including its unique, rare and
+17 endangered ecological guilds providing particularly significant habitat, such as that created by
+18 the ancient fanglomerate boulderfield on the West Mesa and ecotomes afforded by adjacent and
+19 nearby native and perennial grasslands, chaparral, ripárian woodlands and wetlands that provide
+20 essential habitat for a number of locally and regionally significant plant and animal species
+21 including and assemblage of birds that are grassland seedeaters (numerous species of sparrow,
+22 towhee, junco, dove, blackbird and bunting) and birds of prey (various species of kite, hawk,
+23 owl, vulture and falcon) that are each supported by the of terrestrial and subterranean habitat
+24 present on the West Mesa of the San Marcos Foothills. Petitioner seeks to prevent the Project's
+25
+degradation of and to enhance the visual resources provided by the West Mesa and that are
+26 visible from many important publicly-accessible viewing places throughout the County's South
+27 Coast. Petitioner seeks to protect water supply and water quality and associated riparian and
+28 aquatic resources on the West Mesa and lower in the watersheds that receive surface and
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS 2
+Save San Marcos Foothills v. County of Santa Barbara and Board of Supervisors
+
+subsurface flows from the West Mesa. Petitioner seeks to protect cultural and historic resourcesl
+
+2 present on the West Mesa to respect and honor the First Peoples of the region and their modern
+
+3 day descendants, and the culture they strive to maintain and advance. Petitioner seeks to
+
+4 prevent development that increases community risks in extreme high fire hazard areas, and for
+
+5 the West Mesa's vegetation to be managed in a manner that enhances protection of urban areas
+
+6 to the south from the frequency and magnitude of wildfire risks. Petitioner possesses beneficial
+
+7 interests in this proceeding, on its own stead and on behalf of its members, that will be
+
+8 adversely affected by the violations Planning & Zoning Law, CEQA, and by approval of the
+
+9 Project. These claims and the relief sought are broad-based such that the participation of
+
+10 individual members is not required.
+
+11 7. Petitioner's members and supporters include individuals that regularly visit the West
+
+12 Mesa for recreation, spiritual reflection, psychological nourishment, mental recharge, and for
+
+13 healthful and socially-distanced physical exercise in the era of COVID-19. The West Mesa
+
+14 possesses characteristics of wilderness lands unlike any other nearby publicly accessible open
+
+15 space areas, affording Petitioner and its members and supporters opportunities to observe birds
+
+16 and wildlife, enjoy views of the Santa Barbara Channel and experience its unique vantage from
+
+17 which to enjoy sunrises and sunsets, lunar activities and other celestial events, and daytime
+
+18 uses, all of which are routinely enjoyed by Petitioner's members, supporters, and the
+
+19 community at large, which would be irreparably harmed if the Project proceeds without
+
+20 compliance with applicable laws and procedures. Petitioner's supporters include number of
+
+21 individuals and other community organizations, including Committees for Land, Air, Water and
+
+22 Species, Inc.
+
+23 8. Respondent County of Santa Barbara is organized under the laws and Constitution of the
+
+24 State of California. The County is empowered, among other duties, to provide for the orderly
+
+25 planning and management of land use within its borders, subject to the obligations and
+
+26 limitations of all applicable state, federal and other laws, including Government Code sections
+
+27 65402 and 65566, and CEQA. The County is the lead agency under CEQA.
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS 3 Save San Marcos Foothills v. County of Santa Barbara and Board of Supervisors
+
+1 9. Respondent Board of Supervisors of the County of Santa Barbara is the highest
+2 governing authority of the County of Santa Barbara, exercising review authority over County
+
+3 land use appeals and controlling, through the Chair of the Board, the conduct of the Board of
+
+4 Supervisors' hearings generally and specifically the hearing which led to the approval granting
+5 the two easements to a private developer.
+
+6 10. DOES 1 through 10, inclusive, are officers, agents or employees of Respondent Santa
+7 Barbara County, or other unknown persons, entities or agencies with an interest in the subject
+
+8 matter of this dispute. The identities and capacities of such DOES are unknown to Petitioner at
+
+9 this time. Petitioner will seek leave to amend this Petition to identify the true name and
+10 capacity of each such person when identified.
+
+11 11. Real Party in Interest Santa Barbara Preserve LLC, and/or Chadmar Santa Barbara
+
+12 Preserve LLC are California Limited Liability Companies, grantee of the two casements, and
+13 applicant for the Preserve at San Marcos Terraces Project including Zoning Clearance No.
+14 19CZI-00000-00142.
+
+15 12. ROES 12 through 20, inclusive, are individuals, governmental agencies, entities,
+16 corporations or other unknown persons that are Real Parties in Interest to this dispute. The
+17 identities and capacities of such ROES are unknown to Petitioner at this time. Petitioner will
+18 seek leave to amend this Petition to identify the true name and capacity of each such person
+19 when identified.
+
+20
+
+21 STANDING
+
+22 13. Petitioner hereby incorporates by reference paragraphs 1 through 12 as if fully set forth
+23 herein.
+
+24 14. Approval of the Project will adversely affect the interests of Petitioner SSMF and
+
+25 SSMF's members and supporters. SSMF's members and supporters reside, visit, view and own
+26 property in the area affected by the Project. Petitioner's supporters, representatives and
+27 predecessors have commented and objected to the lack of compliance with Government Code
+28 65402 and Government Code protections for open space areas, the lack of CEQA compliance,
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS 4 Save San Marcos Foothills v. County of Santa Barbara and Board of Supervisors
+
+1 violations of the County's General Plan, and have participated at the public hearing before the
+
+2 Board of Supervisors. The Zoning Clearance approved by the Planning Development
+
+3 Department was not noticed and is not subject to an administrative appeal, but Petitioner's
+
+4 representatives nonetheless sought information from Planning and Development Department
+
+5 staff and raised objections concerning County compliance with applicable processes, the lack of
+
+6 Project information and documentation, changed circumstances, and the nature of changes to
+
+7 the Project. Accordingly, Petitioner, including members and supporters of SSMF, are
+
+8 "aggrieved persons" within the meaning of Public Resources Code Section 21177.
+
+9
+
+10 EXHAUSTION OF ADMINISTRATIVE REMEDIES
+
+11 15. Petitioner hereby incorporates by reference paragraphs 1 through 14 as if fully set forth
+
+12 herein.
+
+13 16. Petitioner has performed all conditions precedent to the filing of this petition by raising
+
+14 each and every issue known to them before the County, in compliance with Public Resources
+
+15 Code Section 21177, and Code of Civil Procedure Section 1094.5.
+
+16 17. Notice of the filing of this action, as required by Public Resources Code Section 21167.5
+
+17 was mailed to the Respondents on January 9, 2020. (See Notice Letter and Proof of Service
+
+18 attached hereto as Exhibit "1"),
+
+19
+
+20 JURISDICTION AND VENUE
+
+21 18. Petitioner hereby incorporates by reference paragraphs 1 through 17 as if fully set forth
+22 herein.
+23 19. This Court has subject matter jurisdiction pursuant to the California Constitution, Article
+24 VI, Section 10, because this case is not a cause given by statute to other trial courts.
+25 Jurisdiction of this Court is invoked pursuant to California Code of Civil Procedure Sections
+26 1085 and 1094.5; California Public Resources Code Section 21167; CEQA Guidelines Section
+27 15112; and applicable law.
+28
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS 5 Save San Marcos Foothills v. County of Santa Barbara and Board of Supervisors
+
+1 20. Venue is proper in this Court pursuant to Code of Civil Procedure §9393, 394 because
+
+2 Petitioner SSMF, through its principal place of business and through the residences and of its
+
+3 members, and Respondents' principal place of business and County seat are located within the
+
+4 Southern portion of the County of Santa Barbara, and because the causes of action alleged in
+
+5 this Petition arose in the Southern portion of the County of Santa Barbara.
+
+6 21. This Court has jurisdiction over the County of Santa Barbara and the Board of
+
+7 Supervisors of the County of Santa Barbara because the County is an agency established by the
+
+8 legislature of the State of California with its principal place of business located in the City and
+
+9 County of Santa Barbara.
+
+10 22. Petitioner has no plain, speedy or adequate remedy in the course of ordinary law unless
+
+11 this Court grants the requested writ of mandate to require Respondents to set aside their
+
+12 approvals of the grant of easements and Zoning Clearance. In the absence of such remedies, the
+
+13 County's approvals will remain in effect in violation of state law.
+
+14
+
+15 STATEMENT OF FACTS
+
+16 23.
+17 Petitioner hereby incorporates by reference paragraphs through 22 as if fully set forth
+herein.
+18
+24. San Marcos Foothills is a prominent open space area in the unincorporated portion of the
+19 South County, located immediately east of Highway 154 and north of Foothill Road. Various
+20 proposals to subdivide and develop the San Marcos Foothills for residential use have been
+21 circulated for several decades. The numerous site constraints and deep community concern
+22
+
+23 over the loss of a prominent and important area that has been utilized openly by the public for
+many decades, prevented any of those proposals from proceeding to construction. In the early
+24
+
+25 2000's, yet another proposal for residential development was submitted to the County for
+processing.
+26 25.
+27 The County prepared an Environmental Impact Report ("EIR") for the Preserve at San
+Marcos Project, which the County certified in 2005. The EIR, as modified by a Revision Letter
+28 specific to the Project alternative proposed for approval (Alternative #4), identifies significant
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS 6 Save San Marcos Foothills v. County of Santa Barbara and Board of Supervisors
+
+1 impacts in the areas of aesthetics, air quality, biological resources, cultural resources, fire
+
+2 protection, landslides/slope stability, erosion/sedimentation, traffic, drainage and water quality,
+
+3 and identifies Class I significant and unmitigable impacts from loss of on-site vegetation, native
+
+4 grasslands, and coastal sage scrub, as well as loss and displacement of wildlife species and
+
+5 habitat, decline of sensitive wildlife, and disturbance of local movement from on-site habitat
+
+6 fragmentation.
+
+7 26. The Board of Supervisors approved the Preserve at San Marcos Project (Alternative #4)
+
+8 on November 21, 2005, including a Development Plan (01DVP-00000-00071) and Tract Map
+
+9 (01TRM-00000-00005) creating 16 residential lots, three lots dedicated to the County for a
+
+10 public park, a private open space parcel held in common ownership by the Homeowners
+
+11 Association, two open space/no development parcels, and a 200-acre Designated Remainder
+
+12 Lot. The residential lots are clustered in two areas known as "the Meadows" on the castern
+
+13 portion, and "the Terrace" on the western portion. Since the Board's approval, only "the
+
+14 Meadows" residences have been constructed. Following the County's approval, the prior
+
+15 developer donated the 200 acre Designated Remainder lot to the Trust for Public Lands, who in
+
+16 turn donated these lands to the County of Santa Barbara for open space uses. Additionally, the
+
+17 County funded improvements and adopted an interim and final management plan for the Countyl
+
+18 Park and Designated Remainder.
+
+19 27. In 2006 the Board of Supervisors adopted a set of Residential Design Guidelines for the
+
+20 Eastern Goleta Valley Community Plan area (including the project area) and in 2015, the Board
+
+21 of Supervisors adopted the Eastern Goleta Valley Community Plan itself, which includes a
+
+22 number of general and parcel-specific policies that apply to the Project.
+23 28. Real party is now actively seeking approvals to advance residential development of "the
+
+24 Terraces", located on the western portion of the San Marcos Foothills (aka the "West Mesa")
+
+25 adjacent to Highway 154. These approvals include the grant of easements and Zoning
+
+26 Clearance challenged in this action, as well as design review approvals sought for the individual
+
+27 homes (for which Petitioner has administrative appeals pending), and unknown other
+
+28 entitlements and approvals needed to perfect the fifteen year old development approvals.
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS 7
+Save San Marcos Foothills v. County of Santa Barbara and Board of Supervisors
+
+Additionally, on August 30, 2019 Real Party sought a different non-exclusive easement, for a
+
+2 waterline to serve residential development at the Terraces, which the Planning Commission
+reviewed for conformity with the Comprehensive Plan pursuant to Government Code $65402(a)
+on October 2, 2019. The Planning Commission determined the easement grant conformed with
+the Comprehensive Plan, despite encroachment into minimum buffers protecting
+
+6 environmentally sensitive habitat areas and riparian corridors, in part because no physical
+development was involved with the grant of easement itself, and future physical development
+was being evaluated under a separate application. On February 11, 2020, the Board of
+Supervisors approved the proposed grant of easement, after considering a CEQA Addendum
+
+10 prepared for the new waterline and the Planning Commission's recommendation of General
+
+11 Plan conformity.
+
+12 29. On October 13, 2020, the Board approved the grant of two non-exclusive easements for
+
+13 storm drain lines to serve the proposed residences at the Terraces. One easement is 15-feet wide
+
+14 and approximately 135.06-feet long, located across a portion of the County-owned Designated
+
+15 Remainder ("Easement 1"). The other easement is a triangular area of approximately 654
+
+16 square feet on a portion of the County-owned park parcel ("Easement 2"). Unlike the Board's
+
+17 February 11, 2020 easement approval, the Board had no Planning Commission recommendation
+
+18 as to General Plan conformity, and no CEQA document analyzing the impact of proposed storm
+19 drain lines, including impacts to mapped environmentally sensitive habitat arcas in the
+
+20 immediate vicinity. Counsel for Petitioner appeared at the Board hearing and raised both
+21 procedural and substantive objections to the approval, including the claims raised herein
+22 specific to the easement approval.
+
+23 30. On December 17, 2020, Planning and Development staff approved Zoning Clearance No.
+
+24 19ZCI-00000-00142, which permits grading and construction of subdivision improvements
+
+25 within the Terrace's portion of the Preserve at San Marcos, including grading, drainage and
+
+26 roadway improvements to serve eight residential lots. The improvements include 2,179 sq. ft.
+
+27 of net new public asphalt concrete roadway, 90,306 sq. ft. of private asphalt concrete roadway,
+28 14,795 cubic yards of cut and 7.900 cubic yards of fill, construction of two storm water
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS 8
+Save San Marcos Foothills v. County of Santa Barbara and Board of Supervisors
+
+1 detention basins and associated drainage facilities, construction of public and private portions of
+
+2 roadways serving the Terraces, installation of water lines, electric, gas, cable, and telephone
+
+3 utilities, installation of drainage infrastructure, staging and wash-off areas, and protective
+
+4 fencing. The drainage facilities authorized by this Zoning Clearance are located, in part, within
+
+5 Easements 1 and 2. The County did not conduct CEQA review for the Zoning Clearance and
+
+6 prior environmental review documents did not include 1 Easements 1 and 2. As a consequence
+
+7 the environmental impact of constructing drainage facilities within Easements 1 and 2 have not
+
+8 been evaluated. Per County ordinance, Zoning Clearances are not noticed and are non-
+
+9 appealable except through judicial challenge.
+
+10 31. Respondents have abused their discretion and have failed to comply with the law in the
+
+11 following ways:
+
+12
+
+13 FIRST CAUSE OF ACTION
+
+14 (Violations of State Planning and Zoning Laws: Gov. Code § 65000, et seq.)
+
+15 32. Petitioner hereby incorporates by reference paragraphs 1 through 31 as if fully set forth
+
+16 herein.
+
+17 Failure to Comply with Government Code Section 65402(a) Prior to Approving Grant of
+
+18 Easement over County-Owned Property
+
+19 33. The County's General Plan is referred to as the "Comprehensive Plan" and includes a
+
+20 number of issue-specific elements, such as the Open Space Element, as well as the Eastern
+
+21 Goleta Valley Community Plan ("EGVCP") which applies to the Project area. Government
+
+22 Code 65402(a) provides:
+23 If a general plan or part thereof has been adopted, ... no real property shall be disposed
+
+24 of, no street shall be vacated or abandoned, and no public building or structure shall be constructed or authorized, if the adopted general plan or part thereof applies thereto, until
+25 the location, purpose and extent of such acquisition or disposition, such street vacation or
+
+26 abandonment, or such public building or structure have been submitted to and reported upon by the planning agency as to conformity with said adopted general plan or part
+
+27 thereof. The planning agency shall render its report as to conformity with said adopted general plan or part thereof within forty (40) days after the matter was submitted to it, or
+28 such longer period of time as may be designated by the legislative body.
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS 9 Save San Marcos Foothills V. County of Santa Barbara and Board of Supervisors
+
+1 As provided by Article V, Chapter 2 of the County Code, the County Planning Commission is
+
+2 designated as the "planning agency" for the unincorporated potion of the County located outside
+
+3 of the Montecito Community Plan Area.
+
+4 34. With respect to Easements 1 and 2, the 1 County did not submit the location, purpose and
+
+5 extent of the easement disposition to the County Planning Commission, and the Planning
+
+6 Commission did not report as to the conformity of the easement disposition with the
+
+7 Comprehensive Plan and EGVCP. The Board approved of the disposition of Easement 1 and 2
+
+8 without the Planning Commission completing its mandatory general plan conformity review,
+
+9 and accordingly failed to proceed in the manner required by law.
+
+10 35. By contrast, with respect to the waterline easement, the location, purpose and extent of
+
+11 the easement were described in a Staff Report to the Planning Commission, and the Planning
+
+12 Commission deliberated and rendered a report as to the conformity of the easement disposition
+13 with the adopted general plan including with Land Use Element Development Policy 4, EGVCP
+14 Policy ECO-EGV-5.5 and Development Standard ECO-EGV-5A.
+
+15 36. Easements 1 and 2 are located within and/or immediately adjacent to mapped
+
+16 Environmentally Sensitive Habitat Overlay areas, triggering the application of various
+
+17 Comprehensive Plan and EGVCP provisions including but not limited to the following:
+18 a. Eastern Goleta Valley Community Plan Policy ECO-EGV-5.5: (INLAND)
+
+19 Minimum Buffer Areas for ESH: The minimum buffer strip and setbacks from streams and creeks for development and activities within the ESH overlay that are
+20 regulated by the County Zoning Ordinances shall be as follows, except on parcels
+
+21 designated for agriculture in rural areas where Policy ECO-EGV-5.6 shall apply: ESH areas within the Urban Area and EDRNs: a minimum setback of 50 feet from
+
+22 either side of top-of-bank of creeks or existing edge of riparian vegetation, whichever is further, shall be indicated on all site plans. Plans shall minimize
+23 ground disturbance and vegetation removal.
+
+24 b. Eastern Goleta Valley Community Plan DevStd ECO-EGV-5A: ESH and RC
+
+25 Setbacks and Buffers: Development within 100 feet of ESH or RC areas shall be required to include setbacks or undeveloped buffer zones from these areas
+26 consistent with the habitat protection policies of this section as part of the
+
+27 proposed development, except where setbacks or buffers would preclude reasonable use of the parcel. Public recreational trails shall be allowed within
+
+28 setbacks or buffer areas. In determining the location, width and extent of setbacks
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS 10
+Save San Marcos Foothills v. County of Santa Barbara and Board of Supervisors
+
+1 and/or buffer areas, the County's biological resources andlor vegetation maps
+
+2 and other available data shall be used (e.g., maps, studies, or observations).
+
+3 37. The Project causes encroachment by incompatible development, degrading the visual
+
+4 character and aesthetics of the existing trail, conflicting with EGVCP Policies PRT-EGV-6.4, -
+
+5 6.5 and -7.6, among others.
+
+6 38. In addition to the specific policies of the EGVCP, numerous other elements of the
+
+7 General Plan contain policies, action items, development standards and provide generalize
+
+8 policy guidance that control and/or are applicable to the Project and lands in question, including
+
+9 the Conservation Element, Open Space Element, Environmental Resource Management
+
+10 Element, Land Use Element, and the Seismic and Safety Element. The Project conflicts with
+
+11 these General Plan elements, individually and collectively.
+
+12 39. Without any determination of conformity with these and other applicable policies, and
+
+13 Easement 1 and 2's apparent encroachment into protected ESH and/or ESH buffer areas harm to
+
+14 sensitive biological resources, impacts to recreational facilities and cultural resources, not only
+
+15 is the Board's approval of the grant of Easements and 2 contrary to law, but it constitutes a
+
+16 prejudicial abuse of discretion.
+
+17
+
+18 Failure to Comply with Government Code Section 65566 Prior to Approving the Grant of
+
+19 Easements over County-Owned Property
+
+20 40. In adopting California Government Code sections 65560 et seq. (Open-Space Lands), the
+
+21 Legislature declared that "the preservation of open-space land, as defined in this article, is
+
+22 necessary not only for the maintenance of the economy of the state, but also for the assurance of
+
+23 the continued availability of land for the production of food and fiber, for the enjoyment of
+
+24 scenic beauty, for recreation and for the use of natural resources." (Gov. Code 66561(a)).
+
+25 Accordingly, "every city and county shall prepare, adopt and submit to the Secretary of the
+
+26 Resources Agency a local open-space plan for the comprehensive and long-range preservation
+
+27 and conservation of open-space land within its jurisdiction" (Gov. Code § 65563) and "[a]ny
+
+28 action by a county or city by which open-space land or any interest therein is acquired or
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS 11
+Save San Marcos Foothills v. County of Santa Barbara and Board of Supervisors
+
+disposed of or its use restricted or regulated, whether or not pursuant to this part, must be
+
+2 consistent with the local open-space plan." (Gov. con Code § 65566)
+
+3 41. Easements 1 and 2 are located on land designated for open-space uses, however the
+
+4 Board did not consider whether disposing of this easement is consistent with the County's open-
+space plan. The approval of each of these easements enables the closure of the easement arcas
+
+6 from public use for construction activities, including the destruction of habitat, disturbance of
+cultural and natural resources present thereon, the installation of subsurface and surface
+
+8 drainage and flood control facilities, and the permanent alternation of open space. These
+
+9 activities will have temporary and permanent impacts to the public's ability to use these areas
+
+10 and degrade the quality and nature of such use. For example, Easement 2 and an associated
+
+11 detention basin (not detailed in the 2005 approval and only finally specifically described in the
+
+12 2020 Grading Plans associated with the Zoning Clearance) entail development activities and the
+13 installation of permanent infrastructure in or immediately adjacent to the current and proposed
+14 alignment of the principal trail providing public access from parking areas on Via Gaitero
+
+15 (where the entrance to the County Park is located) to the majority of the County Park lands and
+
+16 the 200 acres of the "Designated Remainder" beyond. The Project Grading Plans and Zoning
+
+17 Clearance do not accommodate the principal public access trail to the County Park, incorrectly
+18 describe the existing terrain, and make no apparent accommodation for the public trail in the
+
+19 design for the newly added private storm drain on the County's Park lands.
+
+20 42. Although the County apparently does not have a stand-alone designated open-space plan
+
+21 the County has contended that its General Plan and Community Plans are included in its Open
+
+22 Space Plan. The EGVCP contemplates only the acquisition of additional public recreational
+
+23 resources, requiring the public recreational trails "shall be protected, preserved and provided
+
+24 for". Policy PRT-EGV-5.1. No policy of the EGVCP or any other element of the County's
+
+25 open space plan authorizes or contemplates the disposition of rights of use and construction of
+
+26 private infrastructure on public park and open space lands that interfere with public use of trails
+
+27 on designated park and open space lands.
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS 12
+Save San Marcos Foothills V. County of Santa Barbara and Board of Supervisors
+
+1 43. Without any determination of conformity with these and other applicable provisions of
+
+2 the County's open-space plan, and the Easements' apparent conflict with the provisions of the
+
+3 EGVCP and the General Plan, not only is the Board's approval of the grant of the Easements
+
+4 contrary to law, but it constitutes a prejudicial abuse of discretion.
+
+5
+
+6 SECOND CAUSE OF ACTION
+
+7 (Violations of CEQA: Pub. Res. Code §§ 21000, et seq.)
+
+8 44. Petitioner hereby re-alleges and incorporates the allegations set forth in paragraphs 1
+
+9 through 43, inclusive.
+
+10 45. The County abused its discretion and failed to proceed in a manner required by CEQA by
+
+11 approving the Zoning Clearance authorizing the installation of drainage facilities within
+
+12 Easements and 2 without conducting review of its environmental impact. None of the prior
+
+13 environmental review documents for the Preserve at San Marcos Project included this
+
+14 development in the Project Description, or analyzed its impacts.
+
+15 46. Easements and 2 are located in the immediate vicinity of mapped environmentally
+16 sensitive habitat areas and a public hiking trail, in an area known for geologic instability and
+
+17 subterranean cultural resources. It is reasonably foresecable that the grading and development
+
+18 permitted by the Terraces Zoning Clearance will result in significant environmental impacts to
+
+19 environmentally sensitive habitat and other sensitive resources, as well as significant impacts
+
+20 resulting from inconsistencies with Comprehensive Plan policies discussed above.
+
+21 47. For these reasons, Respondents prejudicially abused their discretion and failed to proceedl
+
+22 in accordance with CEQA.
+
+23
+
+24 PRAYER FOR RELIEF
+
+25 WHEREFORE, Petitioner prays for judgment as set forth below:
+26
+A. For Alternative and Peremptory Writs of Mandate ordering Respondents to vacatel
+27 and set aside their approval of the grant of Easement 1 and Easement 2;
+28
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS 13 Save San Marcos Foothills v. County of Santa Barbara and Board of Supervisors
+
+B. For Alternative and Peremptory Writs of Mandate ordering Respondents to vacate
+and set aside their approval of the Zoning Clearance for the Terraces (19ZCI-
+00000-00142);
+
+C. For an order staying the approvals and prohibiting Respondents and Real Party in
+Interest from engaging in any activity pursuant to the Easements 1 and 2 1 and
+
+6 19ZCI-00000-00142 approvals until such time that Respondents have complied
+7 with Planning and Zoning Law, CEQA, and all other applicable state and local
+laws, policies, ordinances and regulations as are directed by this Court;
+
+D. For reasonable attorneys' fees associated with bringing this suit, as authorized
+10 under California Code of Civil Proçedure § 1021.5 and any other applicable
+11 provisions of law;
+
+12 E. For costs of suit; and
+
+13 F. For such other and further relief as this Court deems proper.
+
+14
+
+15 Respectfully Submitted,
+
+16 LAW OFFICE OF MARC CHYTILO, APC
+
+17 Dated: January 10, 2020
+
+18
+
+19 Mt
+20 Marc Chytilo
+
+21 Ana Citrin
+Attorneys for Petitioners
+22 SANTA BARBARA COALITION FOR
+RESPONSIBLE CANNABIS
+23
+
+24
+
+25
+
+26 Exhibit 1: Notice of Commencement of Action, January 9, 2020
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS 14 Save San Marcos Foothills v. County of Santa Barbara and Board of Supervisors
+
+1
+VERIFICATION 2
+
+3
+I, Julia Laraway, declare that I have read the foregoing Petition for Writ of Mandamus,
+
+5 and know its contents, which are true of my own knowledge, except as to those matters stated on
+
+6 my information and belief, and as to those matters, I believe the Petition to be true.
+
+7 declare under penalty of perjury under the laws of the State of California that the
+
+8 foregoing is true and correct.
+
+9 Executed on January 8, 2020 at Santa Barbara, California.
+10
+3 12 Treiutenenng 13
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS Save San Marcos Foothills v. County of Santa Barbara and Board of Supervisors
+
+Marc Chytilo (State Bar No. 132742) 1 Ana Citrin (State Bar No. 255587) Marc Chytilo (State Bar No. 132742) 2 Ana Citrin (State Bar No. 255587)
+
+3 LAW OFFICE OF MARC CHYTILO, ÁPC P.O. Box 92233
+
+4 Santa Barbara, CA 93190 Telephone: 805-682-0585; Fax: 805-682-2379
+5 Email: marc@lomcsb.com, ana@lomcsb.com
+
+4O Attorneys for Petitioner
+7 Save San Marcos Foothills
+
+8
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA 9 FOR THE COUNTY OF SANTA BARBARA
+ANACAPA DIVISION 10
+
+11 SAVE SAN MARCOS FOOTHILLS, Case No.
+
+12 Petitioner,
+
+13 VS.
+NOTICE OF INTENT TO COMMENCE
+14 COUNTY OF SANTA BARBARA; BOARD LITIGATION PURSUANT TO THE
+OF SUPERVISORS OF THE COUNTY OF CALIFORNIA ENVIRONMENTAL
+15 SANTA BARBARA; and DOES 1-10, QUALITY ACT (CEQA)
+
+16
+Respondents,
+17
+
+18
+
+19
+SANTA BARBARA PRESERVE LLC; 20 CHADMAR SANTA BARBARA
+
+21 PRESERVE LLC; and ROES 12-20,
+
+22 Real Parties in Interest.
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+EXHIBIT 1
+
+1 PLEASE TAKE NOTICE, pursuant to the requirements of Public Resources Code Section
+
+2 21167.5, this will serve as notice of the commencement of litigation against COUNTY OF
+
+3 SANTA BARBARA and the BOARD OF SUPERVISORS OF THE COUNTY OF SANTA
+
+4 BARBARA (collectively "Respondents"), by SAVE SAN MARCOS FOOTHILLS, for approval
+5 of the Terraces Zoning Clearance (19ZCI-00000-00142) and related actions associated with the
+6 grant of casements needed for drainage improvements included in the Terraces Zoning
+Clearance. This litigation is being commenced, inter alia, because the Respondents have not
+8 complied with the California Environmental Quality Act (Public Resources Code Section 21000,
+
+10 et seq.).
+
+11
+
+'12 Respectfully Submitted,
+
+13
+
+14 Dated: January 9, 2020 LAW OFFICE OF MARC CHYTILO, APC
+
+15
+
+16
+
+17 frdt
+
+18 Marc Chytilo
+19 Attorneys for Petitioner
+
+20 SAVE SAN MARCOS FOOTHILLS
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Notice of Intent to Commence Litigation 1
+
+PROOF OF SERVICE BY MAIL
+
+2 I certify and declare as follows:
+am over the age of 18, and not a party to this action. My business address is Law
+
+5 Office of Marc Chytilo, Post Office Box 92233, Santa Barbara, California 93190, which is
+
+6 located in Santa Barbara County where the mailing described below took place.
+
+7 am familiar with the business practice at my place of business for the collection and
+processing of correspondence for mailing with the United States Postal Service.
+
+9 Correspondence so collected and processed is deposited with the United States Postal Service
+
+10 that same day in the ordinary course of business.
+
+11 On January 9, 2020 the following document(s):
+
+12 1) Notice of Intent to Commence Litigation Pursuant to the California
+
+13 Environmental Quality Act (CEQA)
+
+14 was placed for deposit in the United States Postal Service in a sealed envelope, with postage
+fully paid to:
+15
+
+16 County of Santa Barbara Board of Supervisors of the County of Santa Barbara
+
+17 105 East Anapamu Street
+Santa Barbara, CA 93101
+
+18
+
+19 I certify and declare under penalty of perjury that the forgoing is true and correct.
+
+20
+
+21 Dated: January 9, 2020
+
+22
+
+&
+24
+25 duGSao
+
+26 Ana Citrin
+
+27
+
+28
+
+LAW
+OFFICE
+OF MARC
+CHYTILO PROOF OF SERVICE OF NOTICE OF
+INTENT TO COMMENCE LITIGATION 1
+
+ELECTRONICALLY FILED
+Marc Chytilo (State Bar No. 132742) Superior Court of California
+Ana Citrin (State Bar No. 255587) County of Santa Barbara
+LAW OFFICE OF MARC CHYTILO, APC Darrel E. Parker, Executive Officer
+P.O. Box 92233 1/11/2021 8:00 AM
+
+Cu Santa Barbara, CA 93190
+Telephone: 805-682-0585; Fax: 805-682-2379 By: Narzralli Baksh, Deputy
+
+4* Email: marc@lomcsb.com, ana@lomcsb.com
+Attorneys for Petitioner Save San Marcos Foothills
+6
+
+7 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+FOR THE COUNTY OF SANTA BARBARA 8 ANACAPA DIVISION
+
+9 SAVE SAN MARCOS FOOTHILLS, Case No. 21CV00065 10
+Petitioner,
+11 VS.
+
+12 NOTICE RE PREPARATION OF
+COUNTY OF SANTA BARBARA; BOARD RECORD OF ADMINISTRATIVE
+13 OF SUPERVISORS OF THE COUNTY OF PROCEEDINGS
+
+14 SANTA BARBARA; and DOES 1-10,
+
+Respondents, CALIFORNIA ENVIRONMENTAL QUALITY ACT ("CEQA") [CAL.
+
+16 PUBLIC RESOURCES CODE §§ 21000 et seq.l
+
+17 SANTA BARBARA PRESERVE LLC;
+18 CHADMAR SANTA BARBARA
+
+19 PRESERVE LLC; and ROES 12-20,
+
+20 Real Parties in Interest.
+
+21 TO SANTA BARBARA COUNTY:
+22 PLEASE TAKE NOTE that pursuant to Public Resources Code section 21167.6,
+23 c
+
+24 Petitioner Save San Marcos Foothills, requests that Respondent County of Santa Barbara
+
+25 ("County") certify the record of administrative proccedings before it concerning the December
+
+26 17, 2020 approval of the Terraces Zoning Clearance (19ZCI-00000-00142) and related actions
+
+27 associated with the Board of Supervisor's October 13, 2020 grant of easements needed for
+
+28 drainage improvements included in the Terraces Zoning Clearance.
+
+1 Pursuant to Public Resources Code section 21167.6(b)(2), Petitioner elects to
+
+2 prepare the record of administrative proceedings subject to certification by the County.
+
+3
+
+4 Respectfully Submitted,
+
+5
+
+6
+
+7 Dated: January 10, 2020 LAW OFFICE OF MARC CHYTILO, APC
+
+8
+
+9
+
+Marc Chytilo 11 Attorneys for Petitioner ~ SAVE SAN MARCOS FOOTHILLS
+13
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23 FEB-0 1 20 24
+
+25 asasaas
+
+26
+
+27
+
+28
+
+Notice Re: Preparation of Record

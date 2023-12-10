@@ -1,0 +1,1401 @@
+RUTAN & TUCKER, LLP David P. Lanferman (State Bar No. 71593)
+2 dlanferman@rutan.com Hans Van Ligten (State Bar No. 119323) hvanligten@rutan.com Travis Van Ligten (State Bar No. 301715) 4 I tvanligten@rutan.com
+Erik Leggio (State Bar No. 340375)
+eleggio@rutan.com
+18575 Jamboree Road, 9th Floor 6 Irvine, CA 92612 Telephone: 714-641-5100 7 Facsimile: 714-546-9035
+
+8 Attorneys for Petitioners and Plaintiffs
+PANATTONI DEVELOPMENT COMPANY,
+9 PDC SOCAL LPIV, LLC, MENIFEE ISLAND PART 2
+LLC, MENIFEE ISLAND 2 LLC, MENIFEE ISLAND 3
+10 LLC, and MENIFEE ISLAND 5 LLC
+
+11
+
+12 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+13 FOR THE COUNTY OF RIVERSIDE
+
+14
+
+15 PANATTONI DEVELOPMENT COMPANY, Case No. CVRI2203028
+INC., a California corporation; PDC SOCAL 16 LPIV, LLC, a Delaware limited liability Assigned to: Honorable Craig Riemer company; MENIFEE ISLAND PART 2 LLC, a Department 17 California limited liability company; MENIFEE ISLAND 2 LLC, a California limited liability NOTICE TO ATTORNEY GENERAL
+18 company; MENIFEE ISLAND 3 LLC, a California limited liability company; and 19| MENIFEE ISLAND 5 LLC, California [Pub. Res. Code § 21167.7]
+
+20 limited liability company,
+Petitioners and Plaintiffs,
+21
+VS.
+22
+CITY OF PERRIS, and the MAYOR and CITY 23 COUNCIL OF THE CITY OF PERRIS, and
+DOES 1 -50, inclusive,
+24
+
+25 Respondent and Defendant.
+
+26
+
+27
+
+28
+
+& Rutan & Tucker, LLP
+attorneys at law 2783/020858-0062 -1-
+
+18046338.1 a07/22/22 NOTICE TO ATTORNEY GENERAL
+
+1 TO THE ATTORNEY GENERAL OF THE STATE OF CALIFORNIA:
+
+2 PLEASE TAKE NOTICE, under Public Resources Code section 21167.7 and Code of Civil
+3 Procedure section 388, that on July 14, 2022, Petitioners PANATTONI DEVELOPMENT
+4 COMPANY, INC.; PDC SOCAL LPIV, LLC; MENIFEE ISLAND PART 2 LLC; MENIFEE
+5 ISLAND 2 LLC; MENIFEE ISLAND 3 LLC; and MENIFEE ISLAND 5 LLC ("Petitioners") filed
+6 a Petition For Writ Of Mandate For Violations Of CEQA and Complaint For Declaratory and
+7 Injunctive Relief against Respondents CITY OF PERRIS and its CITY COUNCIL("Respondents")
+
+8 in the Riverside County Superior Court. Petitioners allege that Respondents violated the California
+Environmental Quality Act ("CEQA") (Public Resources Code §§ 21000 et seq.), CEQA's
+10| implementing Guidelines, other applicable State and local laws, as well as the City of Perris' General
+11 Plan and Municipal Code, due to the Respondents' determinations on or about June 14, 2022,
+12 relating to the removal, diversion, and alteration of several truck routes within the southern portion
+13 of the City of Perris, and along the border of the City of Menifee, including (but not limited to) the
+14 de-designation of a portion of Ethanac Road as a previously-designated truck route.
+
+15 A copy of the Petition is attached to this notice as Exhibit A.
+16 Dated: July 22, 2022 RUTAN & TUCKER, LLP
+DAVID P. LANFERMAN
+17 HANS VAN LIGTEN
+ERIK LEGGIO
+18 TRAVIS VAN LIGTEN
+
+19 By:
+20 Ae Lspm David P. Lanferman
+Attorneys for Petitioner/Plaintiffs
+21 PANATTONI DEVELOPMENT
+COMPANY AND PDC SOCAL LPIV, LLC
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+& Rutan & Tucker, LLP
+attorneys at law -2-
+2783/020858-0062
+18046338.1 a07/22/22 NOTICE TO ATTORNEY GENERAL
+
+œsaupwn-
+9
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+& Rutan & Tucker, LLP
+attorneys at law EXHIBIT 'A'
+
+2783/020858-0062
+18046338.1 a07/22/22 -3-
+PROOF OF SERVICE
+
+Electronically FILED by Superior Court of California, County of Riverside on 07/1 5/2022 01:21 PM
+Case Number CVRI2203028 0000027548301 - W. Samuel Hamrick Jr., Executive OfficerClerk of the Court By Amia Brown, Clerk
+
+RUTAN & TUCKER, LLP David P. Lanferman (State Bar No. 71593)
+dlanferman@rutan.com Hans Van Ligten (State Bar No. 119323) 3 hvanligten@rutan.com Travis Van Ligten (State Bar No. 301715)
+4 tvanligten@rutan.com Erik Leggio (State Bar No. 340375) 5 eleggio@rutan.com 18575 Jamboree Road, 9th Floor
+6 Irvine, CA 92612
+Telephone: 714-641-5100
+7 Facsimile: 714-546-9035
+
+8 Attorneys for Petitioners and Plaintiffs PANATTONI DEVELOPMENT COMPANY, INC.,
+9 PDC SOCAL LPIV, LLC, MENIFEE ISLAND PART 2
+LLC, MENIFEE ISLAND 2 LLC, MENIFEE ISLAND 3
+10 LLC, and MENIFEE ISLAND 5 LLC
+
+11
+
+12 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+13 FOR THE COUNTY OF RIVERSIDE
+
+14
+
+15 PANATTONI DEVELOPMENT COMPANY, CaseNo. CVRI 2203028
+INC. a California corporation; PDC SOCAL
+16 LPIV LLC, a Delaware limited liability
+company; MENIFEE ISLAND PART 2 LLC, a Assigned to:
+17 California limited liability company; MENIFEE ISLAND 2 LLC, a California limited liability PETITION FOR WRIT OF MANDATE 18 company; MENIFEE ISLAND 3 LLC, & FOR VIOLATIONS OF CEQA California limited liability company; and AND 19 MENIFEE ISLAND 5 LLC, a California COMPLAINT FOR DECLARATORY
+limited liability company, AND INJUNCTIVE RELIEF:
+20
+Petitioners and Plaintiffs, 1) Multiple Violations of CEQA; 21 Violation of P.R.C. § 21090;
+VS. Violation of Veh. Code § 35702; 22 PAG+ Unreasonable Disregard of General
+CITY OF PERRIS, and the MAYOR and CITY Regional Welfare;
+23 COUNCIL OF THE CITY OF PERRIS, and 5) Declaratory & Injunctive Relief DOES 1 -50, inclusive, [Unlawful De-Designation]; 24 6) Violations of Regional Transportation Respondent and Defendant. Commitments:
+25 7) Violation of Constitutional and Civil Rights [42 U.S.C. § 1981 et set.]
+26
+
+27
+
+28
+
+Rutan & Tucker, LLP
+attorneys at law -1-
+2545/020858-0062
+18016368.9 a07/15/22 COMPLAINT
+
+Exhibit "A," Page 4
+
+1 INTRODUCTION
+
+2 1. Petitioners bring this action, on their own behalf and on behalf of the general public
+3 and in the public interest, for judicial review and invalidation of the unlawful actions,
+4 determinations, decisions, and approvals made by the Respondents, including the Respondents'
+
+5 determinations on or about June 14, 2022, relating to the removal, diversion, and alteration of several
+6 truck routes within the southern portion of the City of Perris, and along the border of the City of
+7 Menifee, including (but not limited to) the de-designation of a portion of Ethanac Road as a
+8 previously-designated truck route.
+
+9 2. Respondents' arbitrary and unauthorized actions, and deliberate disregard of the
+10 applicable requirements of the California Constitution, California Environmental Quality Act
+11 ("CEQA"), the California Vehicle Code, the California Planning and Zoning Law, and other
+12 applicable state and local laws and policies, result in significant changes to regional transportation
+13 and logistics, traffic circulation, regional land use and transportation planning and public
+14 infrastructure investments, vehicular emissions, vehicle miles traveled, supply-chain efficiency,
+15 regional air quality, public health, safety, and welfare of the City of Perris and the surrounding
+16 communities, as well as significant harm to Petitioners and others and adverse environmental
+17 impacts and other harm to the environment and regional welfare.
+
+18 3. The disputed actions and approvals include the Respondents' approval of General
+19 Plan Amendment No. GPA 22-05068 and Ordinance Amendment No. OA22-05069, which were
+20 approved, on or about June 14, 2022, by Respondents' adoption of Resolution No. 6008 and
+21 Ordinance No. 1418, respectively, as well as Respondents' adoption of a "naked negative
+22 declaration" ostensibly under CEQA (collectively the "Approvals"), which include Respondents'
+23 unjustified determination that those actions could not have an impact on the environment, and the
+24 adoption of a negative declaration under CEQA. Through these amendments and Approvals, the
+25 Respondents purported to re-arrange the established system of designated truck routes throughout
+26 the City of Perris, and along the border with the City of Menifee, and the surrounding region, in a
+27 transparent attempt to divert and displace truck traffic and the resulting impacts to other areas within
+28 the City and the surrounding communities, without regard to the rights and interests of the
+
+Rutan & Tucker, LLP
+attorneys at law 2545/020858-0062 -2-
+
+18016368.9 a07/15/22 COMPLAINT
+
+Exhibit "A," Page 5
+
+1 Petitioners, and many others in the neighboring communities or the public at large. The Approvals
+2 and the resulting amendments along with the resulting modifications to the truck routes are
+3 hereinafter referred to as the "Project".
+
+4 4. Petitioners seek relief from Respondents' hasty, ill-considered, and unlawful actions,
+
+5 including the Respondents' failure to comply with the California Constitution, the State Vehicle
+
+6 Code and CEQA, and request that the Approvals be declared void and invalid, and that Respondents
+
+7 be mandated to set aside the Approvals and be permanently enjoined from taking any further action
+
+8 in furtherance of, or in implementation of, the Approvals.
+
+9 5. Petitioners also seek immediate issuance of temporary and preliminary injunctive
+10 relief and an alternative writ of mandate enjoining Respondents from taking any further action in
+11 furtherance of, or in implementation of, the Approvals unless and until the Respondents first rescind
+12 their unlawful actions and approvals, and fully comply with the applicable requirements of state and
+13 local law, including but not limited to, CEQA, and comply with the writs or orders of this Court.
+
+14 6. Petitioners are informed and believe, and thereon allege, that the disputed Approvals
+15 create inconsistencies and conflicts with the City's General Plan and other land use and
+16 transportation plans, and were adopted hastily, arbitrarily, without adequate analysis, public notice
+17 or public review, and without any effort at compliance with the requirements of CEQA.
+18 Respondents failed to provide consideration of adverse impacts on the environment or the regional
+19 welfare, or probable impairment of public health and safety, failed to consider the objections and
+20 comments of Petitioners and many others, failed to conduct adequate consultation with other local
+
+21 and regional planning and transportation agencies, or to provide adequate consideration of the
+22 harmful impacts of the Approvals on Petitioners and many others.
+
+23 7. In adopting the Approvals, Respondents improperly and unlawfully relied on a
+24 "naked" negative declaration in finding that the Project would not result in any significant impacts.
+25 Respondents' conclusions are not supported by substantial evidence in the record, or actually any
+26 evidence or analysis, and are contrary to evidence in the record raising at least a fair argument that
+27 the Approvals would result in significant adverse environmental impacts, precluding reliance upon
+
+28 a negative declaration and requiring further public environmental review and analysis.
+
+Rutan & Tucker, LLP
+attorneys at law 2545/020858-0062 -3-
+
+18016368.9 a07/15/22 COMPLAINT
+
+Exhibit "A," Page 6
+
+1 Respondents' actions also violated CEQA's prohibitions against piecemeal review of public
+2 projects, considering only a portion of the City's recent attempts to rearrange and reorganize the
+3 truck routes within the City, in order to minimize or avoid public review and analysis of the potential
+4 impacts of the larger project, i.e., the City's wholesale rearrangement of truck routes diverting traffic
+5 outward onto its regional neighbors, all to "protect" its own residents from the purported adverse
+
+6 effects of that truck traffic. As result, the Respondents failed to consider significant adverse
+7 impacts of the Project, including impacts to the environment, public health and regional welfare,
+
+8 and to communities that are located outside of the City's limits, and improperly failed to consider
+9 possible mitigation measures or feasible alternatives to the proposed Project as required by CEQA.
+
+10 8. In addition, Petitioners are informed and believe, and thereon allege, Respondents'
+11 actions and Approvals were in conflict with the California Constitution, the California Vehicle
+12 Code, Planning and Zoning Law, as well as the City's own General Plan and Municipal Code, as
+13 further explained below.
+
+14 9. Petitioners, and other interested parties, duly raised these issues and objections,
+15 verbally and in writing, at appropriate times during the administrative process leading up to
+16 Respondents' disputed Approvals before both the Planning Commission and City Council.
+17 Petitioners have exhausted all available administrative remedies, but Respondents have persisted in
+18 acting in derogation of their obligations under the California Constitution, CEQA, the Vehicle Code,
+19 the Planning and Zoning Law, and in derogation of the public's rights and interests in compliance
+20 with those laws.
+
+21 10. Petitioners now bring this action in the public interest, for enforcement of the
+22 important public rights and environmental interests intended to be protected by CEQA and for the
+23 enforcement of the Vehicle Code, the State Planning and Zoning Law, and the City's own General
+24 Plan and policies, as well as statutory and constitutional rights to adequate notice, fair public
+25 hearings, due process and equal protection of the laws.
+
+26 PARTIES
+
+27 11. Petitioners and Plaintiffs PANATTONI DEVELOPMENT COMPANY, INC., ,
+28 PDC SOCAL LPIV LLC, MENIFEE ISLAND PART 2 LLC, MENIFEE ISLAND 2 LLC,
+
+Rutan & Tucker, LLP
+attorneys at law 2545/020858-0062 -4-
+
+18016368.9 a07/15/22 COMPLAINT
+
+Exhibit "A," Page 7
+
+1 MENIFEE ISLAND 3 LLC, and MENIFEE ISLAND 5 LLC, are owners 5 or beneficial owners of
+2 real property or interests in real property located off of Ethanac Road in proximity to the Project,
+3 who are or will be adversely impacted and harmed by the disputed Approvals and the Project.
+
+4 12. Petitioner and Plaintiff PANATTONI DEVELOPMENT COMPANY, INC., is a
+5 California corporation, organized and existing in good standing under the laws of the State of
+
+6 California.
+
+7 13. Petitioner and Plaintiff PDC SOCAL LPIV LLC, is a Delaware limited liability
+
+8 company, authorized to do business in California.
+
+9 14. Petitioners and Plaintiffs MENIFEE ISLAND PART 2 LLC, MENIFEE ISLAND 2
+10 LLC, MENIFEE ISLAND 3 LLC, and MENIFEE ISLAND 5 LLC, are limited liability companies,
+11 organized and existing in good standing under the laws of the State of California.
+
+12 15. Respondent City of Perris is a municipal corporation, organized and existing under
+13 the laws of the State of California, located in the County of Riverside. Respondents Mayor and City
+14 Council are the elected governing body of the respondent City, which erroneously adopted the
+15 invalid and unlawful Approvals challenged in this action. Respondent City together with the Mayor
+16 and Council collectively are referred to herein as "the City" or "Respondents."
+
+17 16. Respondents have and had mandatory duties to comply with the laws of the State of
+18 California, including, without limitation, the Constitution and including CEQA, and the CEQA
+19 Guidelines, the Vehicle Code, the California Planning & Zoning Law, and with the City's own
+20 adopted General Plan and local ordinances and policies when considering discretionary activities,
+
+21 and land use decisions and development projects and actions such as the Approvals.
+
+22 17. Petitioners are ignorant of the true names and capacities of those sued herein as
+23 DOES 1 through 50, inclusive, and therefore sue those respondents/defendants by such fictitious
+24 names. Petitioners will amend this Petition to allege the true names and capacities of these
+25 fictitiously named respondents/defendants when they have been ascertained. Petitioners designate
+
+26 all other unknown persons or entities claiming any interests in the subject of this litigation as DOE
+27 I respondents/defendants.
+
+28
+
+Rutan & Tucker, LLP
+attorneys at law 2545/020858-0062 -5-
+
+18016368.9 a07/15/22 COMPLAINT
+
+Exhibit "A," Page 8
+
+1 JURISDICTION AND VENUE
+
+2 18. This Court has jurisdiction over this proceeding pursuant to California Code of Civil
+3 Procedure sections 1085, 1094.5, and 1060, and CEQA, including but not limited to Public
+4 Resources Code ("PRC") sections 21168 and 21168.5.
+
+5 19. Venue in this Court is proper pursuant to Code of Civil Procedure section 394, in
+6 that Respondents are located within the County of Riverside.
+
+7 FACTUAL BACKGROUND
+
+8 20. Through their recent myopic and arbitrary actions and Approvals to rush to adopt the
+9 Project, Respondents ostensibly seek to remove truck routes from areas of the City of Perris that
+10 Respondents have stated on the record they wish to protect from the asserted impacts of such uses.
+11 However, in doing so, the Respondents failed, and in some instances refused, to acknowledge the
+12 harmful impacts that are likely to result from displacing and removing those designated truck routes,
+13 thereby intentionally redistributing that truck traffic into surrounding jurisdictions and through
+14 neighboring communities without adequate analysis, public review, or consideration for the regional
+15 welfare.
+
+16 21. The City's policies and decisions were, on their face, intended to displace and shift
+17 the impacts that could result from these truck routes to new areas, or the surrounding environment
+18 and communities, and yet, the City steadfastly refused to consider or quantify what those impacts
+19 could be and failed to balance regional needs it has historically acknowledged as substantial.
+20 Instead, the City improperly curtailed its purported "analysis" of impacts to those impacts that were
+21 anticipated to result strictly within the jurisdictional limits of the City, in disregard of the express
+22 written objections of Petitioners and many others pointing out the need for consideration of impacts
+23 on neighboring communities and the region under both the California Constitution and CEQA.
+24 Accordingly, Petitioners seek relief from the City's arbitrary and unlawful actions.
+
+25 22. Petitioners are informed and believe, and on that basis allege, that Ethanac Road is
+
+26 and has been recognized as an important regional route, part of a significant regional transportation
+27 corridor between I-15 and I-215. The Riverside County Transportation Commission recently issued
+
+28 a publication confirming that "It)he Ethanac Road/HWY 74/Nichols Road Corridor is a critically
+
+Rutan & Tucker, LLP
+attorneys at law -6- 2545/020858-0062
+18016368.9 a07/15/22 COMPLAINT
+
+Exhibit "A," Page 9
+
+1 important intra-county route." Since at least 2017, the Riverside County Transportation
+2 | Commission, the Riverside County Transportation Department, the Cities of Menifee, Lake
+3 Elsinore, and Perris have jointly funded and commissioned studies to create an improved east-west
+
+4 vehicular corridor between I-15 and I-215, incorporating Ethanac Road and expanding it up to four
+5 travel lanes in each direction as part of the "Ethanac Expressway Project." Those approved plans
+6 provide for extending Ethanac Road to Highway 74 to the west, creating what the regional agencies,
+7 including Respondent City of Perris, refer to as "the Ethanac Corridor."
+
+8 23. Petitioners are informed and believe, and thereon allege, that Ethanac Road is and
+9 has been included in the planning and financing of significant regional roadways and truck routes
+10 conducted by the regional planning agency, Western Riverside Council of Governments
+
+11 (*WRCOG"). Petitioners are informed and believe, and thereon allege, that fees and assessments
+12 collected by WRCOG from developers and property owners, including Petitioners, have been
+13 justified and calculated on the basis that portion of such fees have been or will be used to improve
+14 Ethanac Road as a recognized significant regional transportation corridor.
+
+15 24. Petitioners are informed and believe, and on that basis allege, that the City of Perris
+16 first prohibited trucks throughout the City in 1972, but also designated certain truck routes through
+17 the adoption of Perris Municipal Code ("PMC") Ch. 10.40 pursuant to its authority under California
+18 Vehicle Code § 35701. Chapter 10.40 was then subsequently updated in 1992.
+
+19 25. Petitioners are informed and believe, and on that basis allege, that since Chapter
+20 10.40's initial adoption, Ethanac Road has been designated as a truck route within the City of Perris.
+
+21 26. Petitioners are informed and believe, and on that basis allege, that many local
+22 governments, public agencies, property owners, businesses, and members of the public have
+23 reasonably and justifiably relied upon that designation of Ethanac Road as a truck route, and have
+24 made investments, expenditures, plans and permanent improvements in such reliance.
+
+25 27. Petitioners allege that the segment of Ethanac Road west of Barnett Road that was
+26 recently de-designated a as a truck route by the unilateral actions of Respondents is on the boundary
+27 between the City of Perris and City of Menifee, and is subject to the jurisdiction of both the City of
+28 Perris and the City of Menifee.
+
+Rutan & Tucker, LLP
+attorneys at law 2545/020858-0062 -7-
+
+18016368.9 a07/15/22 COMPLAINT
+
+Exhibit "A," Page 10
+
+1 28. Petitioners are informed and believe, and on that basis allege, that in October 2021,
+2 the City drafted an Initial Study and Negative Declaration under CEQA, entitled "Negative
+3 Declaration for the City of Perris Proposed Truck Routes" (Neg. Dec. No. 2364) (hereafter referred
+4 to as the "Northern Negative Declaration"), to review the possible impacts of a proposed project
+5 which was defined in that negative declaration as certain amendments to the "Perris Municipal Code,
+
+6 Circulation Element of the City of Perris Comprehensive General Plan 2030, and the Perris Valley
+
+7 Commerce Center Specific Plan in order to identify a consistent list of adopted truck routes within
+8 the northern portion of the City and extending south along Perris Boulevard to Case Road."
+9 (Emphasis added.)
+
+10 29. On November 17, 2021, the City's Planning Commission held a public hearing to
+11 consider proposed amendments to the City's Municipal Code and the applicable Perris Valley
+12 Commerce Center ("PVCC') Specific Plan to alter the truck routes within the northern portion of
+13 the City of Perris. Most relevant here, the City purported to add some truck routes, and to eliminate
+14 the following truck routes:
+
+15 a. Eliminate the truck route on Perris Blvd from Harley Knox Blvd to Case
+16 Road;
+
+17 b. Eliminate the truck route on Ramona Expressway from the I-215 to the
+18 eastern city limits; and
+
+19 C. Eliminate the truck route on Evans Road from Ramona Expressway to
+20 Placentia Avenue.
+
+21 30. Following a hearing, the Planning Commission recommended that the City Council
+
+22 approve those proposed modifications to the City's designated truck routes.
+
+23 31. On December 14, 2021, the City Council conducted a public hearing, adopted the
+24 Northern Negative Declaration for that project, and ultimately approved the proposed modifications
+25 to truck routes within the City.
+
+26 32. Petitioners are informed and believe, and on that basis allege, that during the City
+27 Council's December 14, 2021 public hearing, various Councilmembers made statements that
+28 indicated that they were seeking to prevent allowing truck traffic that originated from outside the
+
+Rutan & Tucker, LLP
+attorneys at law 2545/020858-0062 -8-
+
+18016368.9 a07/15/22 COMPLAINT
+
+Exhibit "A," Page 11
+
+1 City to come through the City, and further indicated an unwillingness to consider the impacts of
+2 such a prohibition on the neighboring communities, including those communities that share
+3 jurisdiction over existing truck routes.
+
+4 33. The City staff subsequently prepared materials for consideration of possible
+5 additional substantial changes to the established truck routes in southern and central areas of the
+
+6 City
+
+7 34. Petitioners are informed and believe, and on that basis allege, that in or about May
+8 2022, the City hired a consultant to prepare a new a Initial study and Negative Declaration under
+9 CEQA, entitled "Negative Declaration for the City of Perris Proposed Truck Routes 2 (GPA22-
+10 05068 and OA22-05069), ND No. 2372" (referred to herein as the "Southern Negative
+11 Declaration"), to review the possible impacts of a new proposed project, which was defined as
+12 "amendments to the Perris Municipal Code and the Circulation Element of the City of Perris
+13 Comprehensive General Plan 2030 in order to identify a consistent list of adopted truck routes
+14 primarily within the southern and central portions of the City." (Emphasis added).
+
+15 35. That Southern Negative Declaration was purportedly created to analyze the impacts
+16 arising from a distinct proposal to substantially change, de-designate, and reconfigure the truck
+17 routes in the remainder of the City that had not been considered in the Northern Negative
+18 Declaration. Indeed, this second negative declaration, the Southern Negative Declaration, was even
+19 entitled as the "City of Perris Proposed Truck Routes 2."
+
+20 36. The authors of the Southern Negative Declaration asserted that the Project "does not
+21 have the potential to significantly impact the local environment. Therefore, in accordance with
+22 CEQA, this Negative Declaration has been prepared." Those assertions were not supported by
+23 substantial evidence in the public record.
+
+24 37. Petitioners are informed and believe, and on that basis allege, that the City made the
+25 Southern Negative Declaration available for public review and comment but only for a 20-day
+26 period between May 11, 2022 and May 31, 2022.
+
+27 38. The City staff prepared a proposed General Plan Amendment, GPA No. GPA22-
+28 05068, which proposed to amend the General Plan's Circulation Element to remove the following
+
+Rutan & Tucker, LLP
+attorneys at law 2545/020858-0062 -9-
+
+18016368.9 a07/15/22 COMPLAINT
+
+Exhibit "A," Page 12
+
+1
+
+2 segments of existing roadway from the General Plan's Circulation Element Truck Routes Map:
+
+a. Evans Road: from its northerly city limits at the extension of Orange Street
+3 to its intersection with the extension of Nuevo Road.
+
+4 b. Goetz Road - from Case Road to Ellis Avenue.
+
+Un C.
+
+6 Goetz Road - from the San Jacinto River to Ethanac Road.
+
+d. Case Road - from Goetz Road to Perris Boulevard.
+
+7 e.
+
+8 39. Ethanac Road - from the Western City Limits to Barnett Road.
+The General Plan Amendment, GPA 22-05068, will also add the following road
+9 segment to the map:
+
+10 40. Case Road - from "G" Street to the I-215 Freeway (Bonnie Drive)
+The City staff also prepared a proposed Ordinance Amendment, OA No. OA 22-
+11 05069, which purports to make revisions to the City's Municipal Code to reflect the alterations to
+12 the City's General Plan's Circulation Element, including the removal of the segment of Ethanac
+13 Road as a truck route from the western limits of the City of Perris to Barnett Road. The foregoing
+14 items are referred to collectively as "the Project."
+
+15 41. Petitioners are informed and believe, and on that basis allege, that sometime in March
+16 or April of 2022, and before the Respondents published or released any information to the general
+17 public on this Project, the City staff had informed at least one government agency of their intent to
+18 substantially change the truck routes in the remainder of the City (i.e. the southern half, including
+19 Ethanac Road). Other public records indicate that City staff began seeking to consult with relevant
+20 Native American tribes on this Project in early March 2022.
+
+21 42. Shortly after releasing the Southern Negative Declaration, towards the end of May
+22 2022, the City released a new a Staff Report and hearing item for consideration by the Planning
+23 Commission, wherein City staff asked that the Commission recommend approval of the Project.
+
+24 43. On June 1, 2022, the Planning Commission conducted a public hearing a for this
+25 Project. Despite the numerous and well-founded objections that were timely raised by Petitioners,
+26 the City of Menifee, and other interested parties, the Planning Commission ignored all objections
+27 and recommended that the City Council approve the Project.
+
+28 44.
+
+Rutan & Tucker, LLP As stated in the following City Staff Report (June 14, 2022) to the City Council, the
+
+attorneys at law 2545/020858-0062
+18016368.9 a07/15/22 -10-
+COMPLAINT
+
+Exhibit "A," Page 13
+
+1 Planning Commission "expressed that it is their responsibility to protect Perris residents from air
+2 quality, noise, traffic, and quality of life from potential impacts resulting from activities, including
+3 truck corridors that would impact residential neighborhoods on the north side of Ethanac Road,"
+4 and ultimately voted to recommend approval of the Project, and adoption of the Southern Negative
+5 Declaration. (Staff Report, p. 2.)
+
+6 45. Less than two weeks later, the Project was hastily set for public hearing before the
+
+7 City Council on June 14, 2022. The City Council approved Resolution No. 6008, which adopted
+8 the Southern Negative Declaration, and approved the General Plan Amendment. At that same time,
+
+9 the City Council approved, on first reading, Ordinance No. 1418, which approved the Ordinance
+10 Amendment, and also adopted the Southern Negative Declaration.
+
+11 46. Respondent's actions improperly subject Petitioners, and the public generally, to
+12 irreparable harm or the imminent risk of irreparable harm. Petitioners have no plain, speedy and
+13 adequate remedy at law to set aside and correct Respondents' arbitrary actions, or to prevent or
+14 mitigate such harm other than the relief sought in this action, including the issuance of immediate
+15 temporary and preliminary injunctive relief.
+
+16 FIRST CAUSE OF ACTION
+
+17 [Petition for Writ of Mandate • Against All Respondents - Multiple Violations of CEQA]
+
+18 47. Petitioners hereby incorporate the allegations of the foregoing paragraphs as though
+19 set forth in full herein by this reference.
+
+20 48. Pursuant to CEQA, before a public agency approves any discretionary project or
+21 action, the agency must first identify, assess and publicly disclose the project's potential
+22 environmental effects. An agency may not approve a discretionary action that has the potential to
+23 have significant environmental impacts if there are feasible alternatives or mitigation measures that
+24 would avoid or substantially lessen the adverse environmental impacts.
+
+25 49. In doing the things herein alleged, Respondents failed to comply with their
+26 mandatory duties under CEQA in several substantial and prejudicial respects, including without
+27 limitation, the following:
+
+28 a. Respondents erroneously and unlawfully asserted that the Approvals would
+
+Rutan & Tucker, LLP
+attorneys at law 2545/020858-0062 -11-
+
+18016368.9 a07/15/22 COMPLAINT
+
+Exhibit "A," Page 14
+
+1 not have the potential to significantly impact the environment, and therefore wrongfully adopted the
+2 proposed Southern Negative Declaration; and
+
+3 b. Respondents willfully ignored the impacts of the Project on the surrounding
+4 environment, including (without limitation) the City of Menifee, or persons, businesses, or other
+5 public agencies in that City or any other neighboring community, while admitting on the record,
+6 both orally and in writing, that the intended effect of the Project was to divert and redirect allegedly
+7 "harmful" truck traffic into the neighboring City of Menifee; and
+
+8 C. Respondents erroneously failed to consider and evaluate the regional impacts
+9 of the Project on the surrounding environment, including the City of Menifee, or any other
+
+10 neighboring community;
+
+11 d. Respondents erroneously failed to consider and evaluate the cumulative
+12 impacts of this Project and other similar projects in the same area, CEQA Guideline 15330; and
+
+13 e. Respondents erroneously and unlawfully failed to accurately describe or
+14 disclose the full scope of the Project to the public; and
+
+15 f. The disputed Project was presented as one component of the City's larger
+16 project as a whole, which includes both the modification to the truck routes in the northern portion
+17 of the City (which was approved in late 2021/early 2022) with no mention of the impacts of the
+18 southern truck route deletions, as well as this Project's alteration to the truck routes in the remaining
+19 southern and central portions of the City, but Respondents erroneously and unlawfully chopped the
+20 larger project (modifying all of the truck routes in the City) into small components for piecemeal
+21 assessment, so as to minimize or avoid the Respondents' obligations under CEQA to provide
+22 meaningful and comprehensive environmental analysis of the "project as a whole" in violation of
+23 CEQA (e.g., CEQA Guidelines 15069, and Laurel Heights Impr. Ass'n v. Regents of the Univ. of
+24 California (1988) 47 Cal.3d 376, 396) when it was not only foreseeable but a virtual certainty that
+25 the truck routes in the southern portion of the City would be eliminated immediately after the
+26 northern routes had been deleted;
+
+27 g. Respondents failed to timely and fairly disclose or consider reasonable
+28 alternatives to the Project, or to consider feasible mitigation measures to the impacts of the proposed
+
+Rutan & Tucker, LLP
+attorneys at law 2545/020858-0062 -12-
+
+18016368.9 a07/15/22 COMPLAINT
+
+Exhibit "A," Page 15
+
+1 Approvals for the Project; and
+
+2 h. Respondents failed to comply with its mandatory duties under CEQA in
+3 numerous other respects, as detailed in the objections previously submitted on behalf of Petitioners
+
+4 and by others, which are a part of this record.
+
+5 50. Respondents failed to adequately investigate the probability of significant adverse
+
+6 impacts and failed to provide substantial evidence and analysis to support the Respondents' assertion
+7 that the Approvals will not have significant adverse impacts.
+
+8 51. Respondents failed to make required findings when acting on the Approvals and/or
+9 any findings made were not supported by substantial evidence in light of the whole record.
+
+10 52. Respondents' actions in approving the Project were not in compliance with
+
+11 procedures required by law, were not supported by substantial evidence in the public record, were
+12 not reflected in legally adequate findings, and were arbitrary, capricious, and reflected a prejudicial
+13 abuse of discretion.
+
+14 53. Respondents became committed to, and unlawfully approved, the Project before
+15 having conducted and completed the necessary environmental analysis under CEQA.
+
+16 54. Petitioners are further informed and believe, and thereon alleges, that the Project as
+17 approved will have significant adverse impacts on the environment, including, but not limited to,
+18 the issues raised in Petitioners' comment letters and other interested parties' comment letters, and
+19 other issues that were identified at the time of the hearing.
+
+20 55. Petitioners have beneficial interest in the issues raised in this action and will be
+
+21 directly and significantly impacted by the arbitrary and unreasonable actions of Respondents.
+
+22 56. Petitioners have performed any and all conditions precedent to filing this action and
+23 has exhausted any and all available and feasible administrative remedies to the extent required by
+24 law by, inter alia, timely submitting written and oral comments objecting to the Respondents'
+25 threatened actions, proceedings, and Approvals at each stage of the City's administrative process.
+26 Petitioners are informed and believe, and thereon allege, that to the extent any matter raised in this
+27 Petition was not addressed in Petitioners' comments, such matters were raised by other persons or
+28 entities who objected to the Project, or that Petitioners had no effective opportunity to raise such
+
+Rutan & Tucker, LLP
+attorneys at law 2545/020858-0062 -13-
+
+18016368.9 a07/15/22 COMPLAINT
+
+Exhibit "A," Page 16
+
+comments before the complained of actions were taken, or that Petitioners were otherwise excused
+2 from or not obligated to raise such issues before pursuing them in this action.
+
+3 57. Pursuant to PRC section 21167.5, Petitioners have provided written notice of the
+4 commencement of this action to Respondents.
+
+5 58. Pursuant to PRC section 21167.7, and CCP section 388, Petitioners have or will
+6 provide written notice of this action, including a copy of this Petition, to the State Attorney General.
+
+7 59. Petitioners bring this action pursuant to PRC sections 21168 and 21168.5 and Code
+8 of Civil Procedure sections 1085, 1088.5 and 1094.5, which require that an agency's approval of a
+
+9 project be set aside where, as here. the agency's actions and decisions are not supported by
+10 substantial evidence in the record, or the agency has failed to proceed in the manner required by
+11 law, or has prejudicially abused its discretion, or has acted arbitrarily and capriciously.
+
+12 60. Pursuant to Code of Civil Procedure section 1094.5 and/or 1085, a writ of mandate
+
+13 should issue directing Respondents to rescind the Approvals, and prohibiting Respondents from
+14 taking any subsequent action to implement or enforce the Approvals, unless and until they have
+15 complied with CEQA, including, but not limited to, by preparing and properly certifying an
+16 environmental impact report analyzing the impacts of the Project, and the whole effort to re-organize
+17 the truck routes throughout the City, including this disputed Project, and feasible alternatives and
+18 mitigation measures to avoid the impacts of the Project.
+
+19 SECOND CAUSE OF ACTION
+
+20 [Petition for Writ of Mandate - Against All Respondents -
+
+21 Violation of Pub. Res. Code § 21091 - Failure to Provide Sufficient Public Review Period]
+
+22 61. Petitioners hereby incorporate the allegations of the foregoing paragraphs as though
+23 set forth in full herein by this reference.
+
+24 62. Public Resources Code 21092 requires that a lead agency must provide public
+25 notice of its preparation of a negative declaration for a reasonable period of time prior to its adoption
+26 of the negative declaration and Public Resources Code § 21091 requires that the lead agency must
+27 provide an adequate period for public review of and comment on a proposed negative a declaration.
+28 In the case of a negative declaration that addresses the impacts of a project that can have a "regional"
+
+Rutan & Tucker, LLP
+attorneys at law 2545/020858-0062 -14-
+
+18016368.9 a07/15/22 COMPLAINT
+
+Exhibit "A," Page 17
+
+1 or "area wide significance," as in this case, that the review period must be at least thirty (30) days.
+2 (PRC § 21091(b).)
+
+3 63. Here, Petitioners are informed and believe, and on that basis allege, that the Project
+
+4 a would have a regional and/or area-wide significance. Ethanac Road is, and has for years, been
+
+5 recognized by relevant regional transportation planning agencies and the Respondents and local
+6 governments as a route of substantial "regional significance," as described in the Factual
+
+7 Background, above. E.g., "The Ethanac Road/HWY 74/Nichols Road Corridor is a critically
+8 important intra-county route." (Riverside County Transportation Commission, "Ethanac
+
+9 Expressway Project Description" Brochure.)
+
+10 64. In addition, the record shows that even the Staff of the Respondent City
+11 acknowledged that the Project may require modifications to the I-215 freeway, and/or modifications
+12 to infrastructure within the City of Menifee or otherwise outside the jurisdiction of the City of Perris.
+13 Further, by purporting to remove Ethanac Road as a designated roadway, Respondents admit that
+14 they are altering a portion of a roadway that is operated by two separate jurisdictions, the City of
+15 Menifee and the City of Perris. Accordingly, it is clear that the Project is of "area-wide
+16 significance."
+
+17 65. Despite the Project being of regional significance, Petitioners are informed and
+18 believe, and on that basis allege, that the Southern Negative Declaration was only circulated for a
+19 20-day period, in violation of the plain requirements of PRC § 21091. The Petitioners and other
+20 members of the public were harmed and prejudiced by Respondents' haste and failure to provide
+21 the required time for public review and comment before acting on the Approvals.
+
+22 66. Petitioners bring this action pursuant to PRC sections 21168 and 21168.5 and Code
+23 of Civil Procedure sections 1085, 1088.5 and 1094.5, which require that an agency's approval of a
+24 project be set aside if the agency has prejudicially abused its discretion, or has acted arbitrarily and
+
+25 capriciously. Pursuant to CCP § 1094.5(b), an agency abuses its discretion where, as here, an agency
+26 has not proceeded in the manner required by law.
+
+27 67. Pursuant to Code of Civil Procedure section 1094.5 and/or 1085, a writ of mandate
+
+28 should issue directing Respondents to rescind the Approvals, and prohibiting Respondents from
+
+Rutan & Tucker, LLP
+attorneys at law 2545/020858-0062 -15-
+
+18016368.9 a07/15/22 COMPLAINT
+
+Exhibit "A," Page 18
+
+1 taking any subsequent action to implement or enforce the Approvals, unless and until they have
+2 complied with CEQA's notice and comment period, and provided the requisite 30-day notice period
+3 found in PRC § 21091.
+
+4 THIRD CAUSE OF ACTION
+
+5 [Petition for Writ of Mandate - Against All Respondents -
+
+6 Ultra Vires Action in Violation of Vehicle Code § 35702]
+
+7 68. Petitioners hereby incorporate the allegations of the foregoing paragraphs as though
+8 set forth in full herein by this reference.
+
+9 69. As the California Supreme Court has stated:
+
+10 The streets of a city belong to the people of the state, and every citizen of the state
+
+11 has a right to the use thereof, subject to legislative control .. . . The right of control over street traffic is an exercise of 1S part of the sovereign power of the state
+
+12 Ex parte Daniels (1920) 183 Cal. 636, 639.) The use of highways for purposes of travel and transportation is not a mere privilege, but a common and fundamental right, of which the public and individuals cannot rightfully be deprived .. . '[All]
+13 persons have an equal right to use them for purposes of travel by proper means,
+
+14 and with due regard for the corresponding rights of others.' ( Escobedo v. State of California (1950) 35 Cal.2d 870, 875-876 [italics added.) (Rumford v. City of
+
+15 Berkeley (1982) 31 Cal.3d 545, 550.)
+
+16 70. As recognized by the Southern Negative Declaration, under Vehicle Code § 35701,
+17 cities have limited authority to "prohibit the use of a street by any commercial vehicle except for
+18 public utility vehicles or any commercial vehicle on a direct route from an unrestricted street for the
+19| purpose of making pickups or deliveries." (Southern Negative Declaration, p. 5.) Further, "[i]n
+20 response to this authority, the City of Perris has over the years established approved truck routes on
+21 select roadway segments within and around its jurisdiction."
+
+22 71. Petitioners are informed and believe, and thereon allege, that Respondents approved
+23 the Project, and removed the impacted streets as designated truck routes pursuant to Vehicle Code
+24 § 35701.
+
+25 72. Indeed, even the recently-amended Municipal Code, reflects that the truck routes are
+26 being prohibited pursuant to Vehicle Code § 35701. (See Perris Municipal Code, Ch. 10.40, n.1.)
+
+27 73. However, the authority granted by Vehicle Code § 35701 is circumscribed by
+28 Vehicle Code § 35702, which provides, in part: "No ordinance proposed under Section 35701 is
+
+Rutan & Tucker, LLP
+attorneys at law 2545/020858-0062 -16-
+
+18016368.9 a07/15/22 COMPLAINT
+
+Exhibit "A," Page 19
+
+1 effective with respect to any highway which is not under the exclusive jurisdiction of the local
+2 authority enacting the ordinance .. (Veh. Code § 35702, emphasis added.)
+
+3 74. Petitioner alleges that Ethanac Road is a highway that is not under the exclusive
+4 authority of the Respondent City, but rather is within the jurisdiction of both the City of Menifee
+5 and City of Perris. As such, the City of Perris had no legal authority to unilaterally de-designate
+
+6 Ethanac Road as a designated truck route. (See Skyline Materials, Inc. v. City of Belmont (1961)
+7 198 Cal.App.2d 449, p. 458 ["It is not a boundary street separating one city from another or from
+8 unincorporated territory and lying partially in each. Such a boundary street doubtless would be
+9 within the prohibition [of § 35702]."].)
+
+10 75. The prohibition of Vehicle Code , 35702 was directly raised by Petitioners and
+11 others before the City Council acted, but the Council ignored the clear statutory prohibition against
+
+12 their action.
+
+13 76. Accordingly, the disputed actions of the Respondents, purporting to de-designate the
+14 portions of Ethanac Road that are shared with the City of Menifee as a truck route were and are
+
+15 ultra-vires action which is void.
+
+16 77. The Court is therefore requested to issue its alternative Writ of Mandate,
+17 commanding the Respondents to immediately rescind and permanently set aside such action, or in
+18 the alternative to Show Cause based on applicable law and substantial and admissible evidence, in
+
+19 a prompt and timely manner as to why they should not be so mandated.
+
+20 FOURTH CAUSE OF ACTION
+
+21 [Petition for Writ of Mandate - • Against All Respondents - To Set Aside Ordinance That
+
+22 Unreasonably Disregards Regional Welfare In Violation of California Constitution]
+
+23 78. Petitioners hereby incorporate the allegations of the foregoing paragraphs as though
+24 set forth in full herein by this reference.
+
+25 79. As the California Supreme Court has declared:
+
+26 [MJunicipalities are not isolated islands remote from the needs and
+
+27 problems of the area in which they are located; thus an ordinance, superficially reasonable from the limited viewpoint of the [enacting] municipality, may be
+
+28 disclosed as unreasonable when viewed from a larger perspective. .*.
+
+These considerations impel us to the conclusion that the proper constitutional
+Rutan & Tucker, LLP
+attorneys at law 2545/020858-0062 -17-
+
+18016368.9 a07/15/22 COMPLAINT
+
+Exhibit "A," Page 20
+
+-
+
+2 test is one which inquires whether the ordinance reasonably relates to the welfare of
+
+w those whom it significantly affects. If its impact is limited to the city boundaries, the
+
+influence inquiry may be limited accordingly; if, as alleged here, the ordinance may strongly
+
+L 582, 607.) an entire metropolitan region, judicial inquiry must consider the welfare of that region. (Associated Home Builders v. City of Livermore (1976) 18 Cal.3d
+
+n 80.
+
+6 The actions of the Respondents as alleged in detail above, including the actions and
+Approvals resulting in the de-designation of critical portions of Ethanac Road for truck use, were
+7 unreasonable and arbitrary, in conscious disregard of the public health, safety, and welfare of
+8 adjoining communities and the region around the City of Perris impacted and influenced by the
+9 Respondents' unilateral and exclusionary actions, and in excess of Respondents' statutory authority
+10 or police power authority. Indeed, Respondents expressly acknowledged on the record that their
+11 actions were intended to prohibit and exclude truck traffic that originated from outside the City of
+12 Perris from coming through the City, and further indicated an unwillingness to consider the impacts
+13 of such prohibition on the neighboring communities.
+
+14 81. Respondents' actions and Approvals in unreasonable and conscious disregard of the
+15 regional welfare were in excess of their police power authority, and unconstitutional. Respondents
+16 should therefore be mandated to immediately rescind such void actions.
+
+17
+
+18 FIFTH CAUSE OF ACTION
+
+[Against All Defendants
+
+19 For Declaratory And Injunctive Relief Pursuant to
+
+20 82. Code of Civil Procedure §§ 1060, 526, and 527]
+
+22 Petitioners hereby incorporate the allegations of the foregoing paragraphs as though
+21 set forth in full herein by this reference.
+
+83. An actual controversy exists between Petitioners and Respondents, involving the
+23 invalidity and legal effect of the Project and resulting Approvals as described above.
+
+24 84. Petitioners are informed and believe, and thereon allege, that Respondents contend
+25 that the Approvals were properly and lawfully adopted, in full compliance with all state and local
+26 laws, and result in a prohibition of any vehicle over five tons from using Ethanac Road, and that any
+27 property located directly to the south of the recently de-designated portion of Ethanac Road may not
+28 lawfully be accessed from Ethanac Road by any vehicle over five tons, and will instead be required
+
+Rutan & Tucker, LLP
+attorneys at law 2545/020858-0062
+18016368.9 a07/15/22 -18-
+COMPLAINT
+
+Exhibit "A," Page 21
+
+1 to have any truck traffic use different streets in light of this prohibition.
+
+2 85. Petitioners dispute such contentions.
+
+3 86. Conversely, Petitioners contend that the Respondents did not proceed in the manner
+4 required by law, that Respondents' actions were not supported by substantial evidence, that
+5 Respondents' actions unlawfully disregard and impair the vested rights of Petitioners and others in
+6 the lawful use of Ethanac Road as designated truck route.
+
+7 87. Petitioners also contend that, even assuming, arguendo, the City could legally de-
+8 designate Ethanac Road under Vehicle Code § 35701, Vehicle Code § 35703 would specifically
+
+9 allow any property located against Ethanac Road to continue to accommodate truck traffic for the
+10 purposes of "making pickups or deliveries of goods, wares, and merchandise from or to any building
+11 or structure located on the restricted street. . .." (See Vehicle Code § 35703.)
+
+12 88. Petitioners are informed and believe, and thereon allege, that Respondents dispute
+13 the foregoing contentions and maintain the contrary, such that an actual controversy now exists
+14 between the parties.
+
+15 89. Accordingly, declaratory relief is appropriate as provided by Code of Civil Procedure
+16 section 1060, and necessary to determine the controversies, to judicially declare that the
+17 Respondents' attempts to de-designate Ethanac Road as a truck route are unlawful and void, a and
+18 that the property located along the restricted portions Ethanac Road both to the north and south, will
+19 be allowed to continue to be accessed by vehicles in excess of five tons, and receive pickups or
+20 deliveries of goods, wares and merchandise from or to any building or structure located, and to
+21 provide appropriate declaratory and injunctive relief.
+
+22 90. To remedy Respondents' violations of their obligations, as described above,
+23 Petitioners seek equitable relief, including a judicial declaration of the limitations of the
+24 Respondents' Approvals.
+
+25 SIXTH CAUSE OF ACTION
+
+26 [Against All Defendants - For Declaratory And Injunctive Relief - Violations of
+
+27 Commitments for Regional Transportation Planning and Improvements]
+
+28 91. Petitioners hereby incorporate the allegations of the foregoing paragraphs as though
+
+Rutan & Tucker, LLP
+attorneys at law 2545/020858-0062 -19-
+
+18016368.9 a07/15/22 COMPLAINT
+
+Exhibit "A," Page 22
+
+1 set forth in full herein by this reference.
+
+2 92. Petitioners are informed and believe, and on that basis allege, that Ethanac Road is
+3 and has been recognized as an important route, part of a significant regional transportation network
+
+4 between I-15 and I-215, for which plans, commitments, and funds have been devoted for many
+5 years, including funding from jurisdictions other than the Respondent City of Perris.
+
+6 93. For example, in 2014, the Riverside County Transportation Commission committed
+
+7 $2 million of "2009 Measure A Western Riverside County New Corridors Program" funds to fund
+
+8 i multi-jurisdictional study and planning for an improved east-west vehicular corridor between I-15
+9 and I-215, incorporating Ethanac Road.
+
+10 94. In or about February 2017, the Riverside County Transportation Commission, the
+11 Riverside County Transportation Department, the Cities of Menifee, Lake Elsinore, and Perris
+12 entered into a formal written agreement (RCTC Agreement No. 16-31-102-00) providing for joint
+13 funding and cooperation among those agencies in conducting the study and planning for the
+14 improved "Ethanac Corridor." Petitioners are informed and believe, and on that basis allege, that
+15 those jurisdictions have subsequently made plans to create an improved east-west vehicular corridor
+16 between I-15 and I-215, incorporating Ethanac Road, expanding it up to four travel lanes in each
+17 direction, and extending Ethanac Road to Highway 74 to the west as part of the "Ethanac
+18 Expressway Project."
+
+19 95. Petitioners are informed and believe, and thereon allege, that Ethanac Road has also
+20 been included in the planning and financing of significant regional roadways and truck routes
+21 conducted by the regional planning agency, Western Riverside Council of Governments, Petitioners
+
+22 are informed and believe, and thereon allege, that fees and assessments collected by WRCOG from
+23 developers and property owners, including Petitioners, have been justified and calculated on the
+24 basis that portion of such fees have been or will be used to improve Ethanac Road as a recognized
+25 significant regional transportation corridor.
+
+26 96. Respondents' actions and unilateral Approvals, as alleged above, are inconsistent
+27 with, frustrate the purpose of, and violate such regional transportation commitments and agreements.
+
+28 97. An actual controversy exists between Petitioners and Respondents, involving the
+
+Rutan & Tucker, LLP
+attorneys at law 2545/020858-0062 -20-
+
+18016368.9 a07/15/22 COMPLAINT
+
+Exhibit "A," Page 23
+
+1 invalidity and legal effect of the disputed Approvals as described above, and the Respondents'
+2 obligations to make restitution or otherwise remedy the harms caused by their unilateral actions.
+
+3 98. Petitioners seek equitable relief, including a judicial declaration of the rights and
+4 obligations of the parties under such regional transportation commitments and funding agreements,
+5 and injunctive relief enjoining the Respondents from implementing the disputed Approvals.
+
+6 SEVENTH CAUSE OF ACTION
+
+7 [Against All Respondents/Defendants - For Violation of Constitutional and Civil Rights -
+
+8 42 U.S.C. §g 1981 et seq-J
+
+9 99. Petitioners hereby incorporate the allegations of the foregoing paragraphs as though
+
+10 set forth in full herein by this reference.
+
+11 100. In doing the things herein alleged, the Respondents and each of them were acting or
+12 purporting to act within the course and scope of their official positions and under the color of state
+13 law, and violated Petitioners' rights protected by the Constitution or laws of the United States,
+14 including (without limitation):
+
+15 a. constitutional rights to Equal Protection of the laws;
+
+16 b. constitutional rights to Due Process of law;
+
+17 C. protections against the uncompensated taking of property or property rights;
+
+18 d. rights to benefit from use of public roads and streets in the course of lawful
+19 interstate commerce and travel, and intrastate travel and commerce, free from unreasonable and
+
+20 arbitrary constraints.
+
+21 101. The Respondents are subject to the Constitution of the United States and the
+22 California Constitution, which guarantee certain rights, including rights to due process and equal
+23 protection of the law, and prohibit governmental action which impairs such rights, or which take or
+24 damage property without payment of just compensation.
+
+25 102. Respondents, and each of them, have nevertheless acted arbitrarily and unreasonably,
+26 in violation of Plaintiffs' rights under the federal and state constitutions to substantive and
+27 procedural due process, and rights to equal protection of the laws, and rights against uncompensated
+28 taking or damaging of property, by arbitrarily subjecting them to unreasonable and discriminatory
+
+Rutan & Tucker, LLP
+attorneys at law 2545/020858-0062 -21-
+
+18016368.9 a07/15/22 COMPLAINT
+
+Exhibit "A," Page 24
+
+1 treatment, including the Approvals prohibiting the use of public streets and highways, including
+2 Ethanac Road, that have long been designated as truck routes and upon which many people and
+3 businesses have relied and which are necessary to provide reasonable access to locations outside the
+4 parochial jurisdiction of the City of Perris.
+
+5 103. Respondents' actions are in conflict with and preempted by rights to interstate and
+
+6 intrastate commerce and rights to travel embodied in the federal and state constitutions.
+
+7 104. In doing the things herein alleged, the Respondents have harmed and impaired
+
+8 Petitioners' rights and interests and the Petitioners' constitutional rights. (U.S. Constitution, 5th and
+
+9 14th Amendment; Cal. Constitution Article I, § 17.)
+
+10 105. The Federal Civil Rights Act (42 USC 1981 et seq.) provides remedies for violations
+11 of rights protected under the Constitution or laws of the United States.
+
+12 106. As proximate result of Respondents' actions as alleged herein, the Petitioners have
+13 suffered, and continue to suffer, irreparable harm as set forth above and are thereby entitled to
+14 injunctive relief under 42 USC § 1981 et seq., and have been damaged in an amount according to
+15 proof.
+
+16 107. As a result of Respondents' actions, Petitioners have also been required to incur
+17 attorneys' fees, expenses, and court costs, and are entitled to seek recovery of such damages and
+18 reasonable attorneys' fees and costs under 42 U.S.C. § 1988.
+
+19 WHEREFORE, Petitioners seek relief and judgment as follows:
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Rutan & Tucker, LLP
+attorneys at law 2545/020858-0062 -22-
+
+18016368.9 a07/15/22 COMPLAINT
+
+Exhibit "A," Page 25
+
+-
+2 PRAYER FOR RELIEF
+
+w Petitioners pray for relief as follows:
+
+1.
+
+4 For issuance of an alternative and peremptory Writ of Mandate:
+
+a. Directing Respondents, and each of them, to immediately rescind and set
+5 aside the Approvals, particularly the approvals of the de-designation of Ethanac Road, or to show
+6 good cause based on applicable laws and substantial evidence why they should not be SO mandated;
+
+7 b. Commanding Respondents to refrain from taking any further actions in
+8 furtherance or implementation of the disputed Project Approvals without leave of Court upon a
+
+9
+
+10 showing of good cause and reasonable notice; and
+
+C. Commanding Respondents to prepare a new initial study, and an
+11 environmental impact report either for this particular Project or for the whole truck-route
+12 reorganization project as a whole, and circulate it for public review and comment, consistent with
+13 the requirements of CEQA, and to comply with all other requirements of CEQA, prior to taking any
+14 subsequent action on the proposed Project.
+
+15 2. For an alternative writ pursuant to CCP § 1087, ordering the Respondents to rescind
+16 and set aside their Approvals, to the extent they purported to prohibit truck traffic on a highway that
+17 is subject to the jurisdiction of both the Cities of Perris and Menifee (i.e. Ethanac Road), or in the
+18 alternative to show cause a at a hearing set to be set by the Court at the earliest available and feasible
+
+19 date, or on
+
+20
+
+21 at which the Respondents City of Perris et al. will have
+to show cause as to why it has not complied;
+
+3. For a peremptory Writ of Mandate commanding Respondents to vacate, rescind and
+22 set aside the disputed Approvals, unless and until the Respondents are able to present their Return
+23 to such Writ to the Court and Petitioners, demonstrating to the satisfaction of the Court that
+24 Respondents have provided lawful public notice, prepared a new and legally-compliant initial study,
+
+25 and a legally-compliant environmental impact report either for this particular Project or for the
+26 whole truck-route reorganization project as a whole, and circulate it for public review and comment,
+27 consistent with the requirements of CEQA, and to comply with all other requirements of CEQA,
+28 prior to taking any subsequent action on the proposed Project
+
+Rutan & Tucker, LLP
+attorneys at law 2545/020858-0062
+18016368.9 a07/15/22 -23-
+COMPLAINT
+
+Exhibit "A," Page 26
+
+1 4. For the declaratory relief requested above;
+
+2 5. For preliminary injunctive relief ordering the Respondents to refrain from
+3 implementing or enforcing the Approvals, or undertaking any work on the Project, while this action
+4 is pending;
+
+6. For a permanent injunction ordering the Respondents to refrain from implementing
+
+6 or enforcing the Approvals, or the Project, pending Respondents' full compliance with CEQA and
+7 otherwise conforming their actions with the procedural mandates of the law;
+
+8 7. For relief pursuant to the Federal Civil Rights Act, 42 U.S.C. §§ 1983 et seq.,
+
+9 including monetary and injunctive relief, as well as reasonable attorney fees;
+
+10 8. For an award of reasonable attorney's fees, litigation expenses, and costs as permitted
+11 or required by law, including but not limited to Code of Civil Procedure section 1021.5, Government
+12 Code section 800, and other statutory and common law; and
+
+13 9. For such other relief as the Court deems just and proper.
+
+14
+
+15 Dated: July 15, 2022 RUTAN & TUCKER, LLP DAVID P. LANFERMAN
+16 HANS VAN LIGTEN
+ERIK LEGGIO
+17 TRAVIS VAN LIGTEN
+
+18 By:
+19 hast/rlglas David P. Lanferman
+Attorneys for Petitioner/Plaintiffs
+20 PANATTONI DEVELOPMENT
+COMPANY AND PDC SOCAL LPIV, LLC
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Rutan & Tucker, LLP
+attorneys at law 2545/020858-0062 -24-
+
+18016368.9 a07/15/22 COMPLAINT
+
+Exhibit "A," Page 27
+
+- VERIFICATION
+
+2
+
+3 STATE OF CALIFORNIA, COUNTY OF ORANGE
+
+4
+
+5
+
+6 am an authorized officer or managing agent of one or more of the named Petitioners in this
+
+7 action, and am authorized to make this verification for and on their behalf, and I make this
+
+verification for that reason.
+
+8 I have read the foregoing PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+9 DECLARATORY AND INJUNCTIVE RELIEF and know its contents. I hereby verify that the
+10 factual matters alleged therein are true based on my own knowledge, except as to those matters
+11 which are stated on information and belief, and as to those matters I am reasonably informed and
+12 believe that they are true.
+
+13 Executed on July 14, 2022, at Irvine, California.
+
+14 I declare under penalty of perjury under the laws of the State of California that the foregoing
+
+15 is true and correct.
+
+16
+
+17
+
+18 PDC SOCAL LPIV LLC,
+a Delaware limited liability company
+
+19
+
+20 By: TC
+Jacob R. LeBlanc,
+
+21 Local Partner
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Rutan Tucker, LLP
+attorneys at law 2545/020858-0062
+18016368.9 a07/14/22 -25-
+VERIFICATION TO COMPLAINT
+
+Exhibit "A," Page 28
+
+1 PROOF OF SERVICE
+
+2
+STATE OF CALIFORNIA, COUNTY OF SAN FRANCISCO
+3
+
+4 I am employed by the law office of Rutan & Tucker, LLP in the County of San Francisco, State of California. I am over the age of 18 and not a party to the within action. My business 5 address is 18575 Jamboree Road, gth
+is lramey@rutan.com. Floor, Irvine, CA 92612. My electronic notification address
+
+6
+On July 22, 2022, I served on the interested parties in said action the within:
+7
+NOTICE TO ATTORNEY GENERAL
+8
+as stated below:
+
+CEQA Coordinator
+10 Office of the Attorney General
+
+11 Environment Section
+1300 "I" Street
+12 Sacramento, CA 95814-2919
+
+13
+
+14 E-Mail: CEQA@doj.ca.gov
+
+15 X (BY MAIL) by placing a true copy thereof in sealed envelope(s) addressed as shown above.
+
+16 In the course of my employment with Rutan & Tucker, LLP. have, through first-hand personal observation, become readily familiar with Rutan & Tucker, LLP's practice of collection 17 and processing correspondence for mailing with the United States Postal Service. Under that practice, deposited such envelope(s) in an out-box for collection by other personnel of Rutan & 18 Tucker, LLP, and for ultimate posting and placement with the U.S. Postal Service on that same day in the ordinary course of business. If the customary business practices of Rutan & Tucker, 19 LLP with regard to collection and processing of correspondence and mailing were followed, and I am confident that they were, such envelope(s) were posted and placed in the United States mail at 20 Irvine, California, that same date. I am aware that on motion of party served, service is presumed
+21 invalid if postal cancellation date or postage meter date is more than one day after date of deposit for mailing in affidavit.
+22 X (BY E-MAIL) by transmitting a true copy of the foregoing document(s) to the e-mail
+
+23 addresses set forth above.
+
+24 Executed on July 22, 2022, at Mission Viejo, California.
+declare under penalty of perjury under the laws of the State of California that the 25 foregoing is true and correct.
+26
+
+27 Lauren E. Ramey
+(Type or print name) KhuuwKku (Signature)/
+28
+
+& Rutan & Tucker, LLP
+attorneys at law 2783/020858-0062 -29-
+
+18046338.1 a07/22/22 PROOF OF SERVICE

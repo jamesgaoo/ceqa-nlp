@@ -1,0 +1,1419 @@
+Amrit S. Kulkarni (SBN: 202786)
+|| akulkarni@meyersnave.com
+2 Shiraz D. Tangri (SBN: 203037)
+|l stangri@meyersnave.com 3 Edward Grutzmacher (SBN: 228649) egrutzmacher@meyersnave.com 4 MEYERS NAVE
+1999 Harrison Street, gth Floor
+5 Oakland, CA 94612
+Telephone: (510) 808-2000 6 Facsimile: (510) 444-1108
+7 Attorneys for Petitioner and Plaintiff BLOOM ENERGY CORPORATION
+8
+
+9
+
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+11 COUNTY OF SANTA CLARA
+
+12
+
+13 BLOOM ENERGY CORPORATION, Case No. 21CV383800
+
+14 Petitioner and Plaintiff, NOTICE TO ATTORNEY GENERAL OF COMMENCEMENT OF CEQA ACTION 15 V.
+
+16 CITY OF SANTA CLARA; and DOES 1-20, [Public Resources Code 21167.7; Code of Civ. Proc. § 388] inclusive.
+17
+
+18 Respondents and Defendants. (CEQA CASE)
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL OF COMMENCEMENT OF CEQA ACTION
+
+TO THE ATTORNEY GENERAL FOR THE STATE OF CALIFORNIA:
+
+2 PLEASE TAKE NOTICE that, under Public Resources Code section 21167.7 and Code of
+
+3 Civil Procedure section 388. Petitioner BLOOM ENERGY CORPORATION filed a Petition for
+Writ of Mandate and Complaint for Declaratory and Injunctive Relief (*Petition") against
+
+5 Respondent CITY OF SANTA CLARA in the Santa Clara County Superior Court.
+The Petition alleges that Respondent CITY OF SANTA CLARA violated the California
+Environmental Quality Act ("CEQA") by failing and refusing to find that Bloom's Energy Servers
+
+8 are not ministerial projects subject to CEQA and. alternatively, that if Bloom's Energy Servers are
+
+9 subject to discretionary review, that the Energy Servers are not exempt from CEQA review under
+10 one or more of CEQA's Categorical Exemptions.
+
+11 A copy of the Petition for Writ of Mandate and Complaint for Injunctive Relief is enclosed
+12 with this Notice.
+
+13
+
+14 DATED: June 30, 2021 MEYERS NAVE
+
+15
+
+16 By:
+17 7 SHIRAZ D. TANGRI
+Attorneys for Petitioner and Plaintiff 18 BLOOM ENERGY CORPORATION
+19| 3794146.2
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+2
+NOTICE TO ATTORNEY GENERAL OF COMMENCEMENT OF CEQA ACTION
+
+PROOF OF SERVICE
+Bloom Energy Corporation v. City of Santa Clara Santa Clara Superior Court, Case No. 21CV383800
+STATE OF CALIFORNIA, COUNTY OF LOS ANGELES
+At the time of service, I was over 18 years of age and not a party to this action. I am employed in the County of Los Angeles, State of California. My business address is 707 Wilshire Blvd., 24th Floor, Los Angeles, CA 90017.
+On June 30. 2021, I served true copies of the following document(s) described as NOTICE TO ATTORNEY GENERAL OF COMMENCEMENT OF CEQA ACTION on the interested parties in this action as follows:
+
+SEE ATTACHED SERVICE LIST
+9
+BY MAIL: I enclosed the document(s) in a sealed envelope or package addressed to the 10  persons at the addresses listed in the Service List and placed the envelope for collection and mailing, following our ordinary business practices. am readily familiar with the practice of 11 Meyers Nave for collecting and processing correspondence for mailing. On the same day that correspondence is placed for collection and mailing, it is deposited in the ordinary course of 12 business with the United States Postal Service, in sealed envelope with postage fully prepaid.
+13 BY E-MAIL OR ELECTRONIC TRANSMISSION: I caused a copy of the document(s) to be sent from e-mail address tstephens@meyersnave.com to the persons at the e- 14 mail addresses listed in the Service List. I did not receive, within a reasonable time after the
+15 transmission, any electronic message or other indication that the transmission was unsuccessful.
+I declare under penalty of perjury under the laws of the State of California that the 16 foregoing is true and correct.
+
+17 Executed on June 30, 2021, at Los Angeles, California.
+18
+
+19 Jrcso LEphene
+20 Teresa Stephens
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL OF COMMENCEMENT OF CEQA ACTION
+
+SERVICE LIST
+Bloom Energy Corporation v. City of Santa Clara
+2 Santa Clara Superior Court, Case No. 21CV383800
+Rob Bonta, Esq. Attn: CEQA Coordinator Attorney General of the State of California
+Office of the Attorney General
+Environment Section
+1300 "I" Street
+Sacramento, CA 95814-2919 Email: CEQA@doj.ca.gov
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+4
+NOTICE TO A NEY GENERAL OF COMMENCEMENT OF CEQA ACTION
+
+21CV383800
+Santa Clara - Civil
+
+Amrit S. Kulkarni (SBN: 202786)
+akulkarni@meyersnave.com Electronically Filed
+
+Shiraz D. Tangri (SBN: 203037) by Superior Court of CA,
+
+stangri@meyersnave.com County of Santa Clara,
+Edward Grutzmacher (SBN: 228649) on 6/29/2021 3:45 PM
+
+egrutzmacher@meyersnave.com MEYERS NAVE Reviewed By: R. Walker Case #21CV383800
+
+5 1999 Harrison Street, 9th Floor
+Oakland. California 94612 Envelope: 6749757
+
+Telephone:
+6 Facsimile: (510) 808-2000 (510) 444-1108
+
+7 Attorneys for Petitioner and Plaintiff
+
+8 BLOOM ENERGY CORPORATION
+
+o
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+11 COUNTY OF SANTA CLARA
+
+12
+
+13 BLOOM ENERGY CORPORATION. Case No. 21CV383800
+
+14 Petitioner and Plaintiff,
+
+15 PETITION FOR WRIT OF MANDATE
+
+V. AND COMPLAINT FOR DECLARATORY
+AND INJUNCTIVE RELIEF
+
+16 CITY OF SANTA CLARA; and DOES 1-20.
+
+17 inclusive,
+
+18 Respondents and Defendants.
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+Petitioner and Plaintiff Bloom Energy Corporation ("Bloom"), by and through its
+
+2 undersigned attorneys. upon knowledge as to itself and upon information and belief as to all other
+3 matters, alleges for its petition and complaint against Respondent and Defendant the City of Santa
+
+4 Clara (*City"), as follows:
+
+5
+
+I. SUMMARY OF THE ACTION
+
+7 1. Plaintiff Bloom Energy Corporation (*Bloom") developed the Bloom Energy Server:
+
+8 state-of-the-art fuel cell technology that produces electric energy that is clean, always-on, efficient,
+9 cost-predictable and reliable. These environmentally-friendly fuel cells emit virtually no harmful air
+10 pollutants, require virtually no water, and are far more greenhouse gas efficient than power obtained
+11 from California's energy grid and produce power 24/7. with the resiliency to withstand weather
+12 events and power outages. Due to their compact size, reliability, resiliency and environmental
+13 advantages, Bloom's fuel cell technology has been implemented in Silicon Valley and across
+14 corporate America, as companies, hospitals, data centers, critical infrastructure and universities turn
+15 to alternative forms of energy to ensure they always have reliable power while at the same time.
+16 reducing their carbon footprint, conserving resources and obtaining predictable power costs.
+
+17 2. There are currently five Bloom Energy Server installations in the City of Santa Clara,
+18 producing 14.9 megawatts of clean electric power. The City authorized each of these by the
+19 ministerial issuance of building permits. However, beginning in 2019, the City discovered (and
+20 documented in public statements and emails referenced later in this Complaint) that the advantages
+21| and popularity of the Bloom Energy Servers were attracting substantial new customers away from
+22 the City's own municipal electric utility, Silicon Valley Power (*SVP**). causing SVP to lose market
+23 share and profits. Rather than attempt to fairly compete with Bloom's products, since 2019, the
+24 City has unilaterally refused to issue ministerial permits for new Bloom Energy Servers, in direct
+25 violation of its own Zoning Code. Bloom submitted three applications in 2019 for 13 new
+26 megawatts of energy as accessory uses at two existing technology facilities in the City: Intel and
+27 Equinix. The City first attempted to block those installations by adopting a resolution with an
+28 outright ban on fuel cells. That resolution was struck down by this Court based on the City's failure
+
+2
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+to comply with the California Environmental Quality Act ("CEQA") in the action entitled Bloom
+Energy Corporation v. City of Santa Clara et al.. Santa Clara County Superior Court Case No. 19
+3 CV348838 (*Bloom P').
+
+3. After the resolution was stricken, the City did not comply with the Court's writ but
+instead sought other ways to block the Bloom Energy Servers. The City suddenly came up with a
+new interpretation of its Zoning Code and classified the Bloom Energy Servers as "power plants."
+7 As a result of this new classification, the City stated that it would no longer authorize the ministerial
+
+8 issuance of building permits, but, rather, require discretionary use permits for the servers. Moreover.
+
+9 as another result of this new classification, the City claimed that the servers would not be
+10 categorically exempt from CEQA, and would have to undergo full environmental review under
+11 CEQA. The City's new classification is directly contrary to the City's own long-standing treatment
+12 of the Bloom Energy Servers. The City's new classification is also flatly inconsistent with the plain
+
+13 language of the City's own Zoning Code. Bloom Energy Servers do not meet the City's own
+
+14 definition of "power plants." Rather, fuel cells are unlike traditional power plants in size, scale,
+15 environmental impacts and in the technology used to produce electricity. They are by their nature
+16 accessory uses, installed to provide on-site power to existing or new facilities. Bloom Energy
+17 Servers are compact, and roughly the same relative size and shape as accessory uses such as HVAC
+18 units or secure bicycle facilities. They are also sufficiently safe, quiet, and non-emitting to be sited
+19 mere feet from occupied areas. The City's unsupported reinterpretation of its own Zoning Code in
+20  direct response to this Court's order striking down the City's ban on fuel cells demonstrates that the
+21 City is still attempting to prohibit Bloom Energy Servers in the City. The City's conduct is
+22 irrational, discriminatory, arbitrary and capricious, has no bases in the law or in fact, and has caused.
+23 and will continue to cause significant harm to Bloom.
+
+24 4. The City is. in effect. banning Bloom Energy Servers from operating in the City,
+25 through an unsupported and illegal reinterpretation of its own Zoning Code. As if this conduct were
+26 not bad enough, the City is taking these actions for an illicit purpose. The City is not acting to
+27 protect its citizens or for any legitimate governmental purpose. Rather, the City is banning this
+28 technology for the sole purpose of protecting the financial interests of the City's municipal electric
+
+3
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+utility, SVP. Rather than respond in an appropriate manner to the competition posed by the Bloom
+2 Energy Servers, the City resorted to using its land use regulatory powers to get rid of its competition.
+3 By preventing and delaying the construction of new fuel cell projects. the City is illegally forcing
+4 businesses to use SVP power to further its own economic interests. The City's conduct is especially
+5 egregious because its prior effort to ban Bloom Energy Servers outright was rejected as illegal by
+
+6 this Court based on the City's failure to comply with CEQA.
+5. Rather than comply with this Court's directive, the City instead decided to abuse its
+land use authority as an alternate method of banning Bloom Energy Servers. The City is engaged
+in legal maneuvering and/or subterfuge solely to protect the economic interests of its own power
+10 company. The City has refused to process the pending applications by deeming them incomplete
+11 and demanding that Bloom instead pursue discretionary use permits as required for "power plants."
+12 For all of the reasons set forth herein, the City's conduct is arbitrary and capricious, has no bases is in
+13 the law or in fact, and has caused, and will continue to cause significant harm to Bloom.
+14
+
+15 II. PARTIES
+
+16 6. Plaintiff Bloom Energy Corporation is a Delaware corporation with its principal
+17 place of business in San Jose, California. Bloom's main manufacturing facility is in Sunnyvale,
+18 California. Bloom became a public company in July 2018.
+
+19 7. Defendant City of Santa Clara is a California municipal corporation. Silicon Valley
+20 Power (*SVP") is the trade name of the Energy Department of the City of Santa Clara, and it
+21 functions as the city's municipal electric utility. SVP is currently managed by the Deputy City
+22 Manager for the City of Santa Clara.
+
+23 8. Bloom does not know the true names or capacities of DOES | through 50, inclusive,
+24  and therefore sues Respondents and Defendants by fictitious names. Bloom will amend this Petition
+25 and Complaint to set forth the true names and capacities of fictitiously named Respondents and
+26 Defendants when such information has been ascertained. Each of the Respondents and Defendants
+27 is the agent or employee of the City and/or the City's municipal power company, SVP, and each
+28 ///
+
+4
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+performed acts on which this action is based within the course and scope of such Respondents and
+2 Defendants' agency or employment.
+
+4 III. JURISDICTION AND VENUE
+
+5 9. This Court has jurisdiction over the City and each of the claims asserted herein and
+6 venue is proper in Santa Clara County as the County in which the City is located and as the County
+7 within which each of the allegations herein occurred. (Code of Civ. Proc., §§ 393, 394.)
+
+8 10. This Court has jurisdiction over the matters alleged herein under Code of Civil
+
+9 Procedure sections 525, 526. 527, 1060, 1085, and 1094.5, and Public Resources Code sections
+10 21167. 21168. and 21168.5.
+
+11
+
+12 IV. FACTUAL BACKGROUND
+
+13 A. Bloom Develops Innovative Fuel Cell Technology
+
+14 11. Bloom was founded by engineers working with NASA on supporting sustainable life
+15 on Mars. Working here in Silicon Valley, Bloom developed fuel cell technology that generates
+16 electricity from a chemical reaction using methane gas- -but without burning the fuel as would occur
+a 17| in a power plant.
+18 12. Bloom manufactures a product called a Bloom Energy Server with fuel cells that
+19 produce 200 to 300 a kilowatts of power in a footprint roughly equivalent to that of half a standard 30-
+20 foot shipping container. This electricity is clean, always-on, efficient, cost-predictable and reliable.
+21 13. Bloom Energy Servers are far more greenhouse gas efficient than power obtained
+22 from California's energy grid and emit 20% fewer greenhouse gases per megawatt hour of electricity
+23 produced than even SVP's most efficient natural gas power plant does. In addition, because Bloom
+24 Energy Servers are always on, they can displace more greenhouse gas emissions than renewable
+25 self-generation sources such as solar panels or wind turbines that provide only intermittent
+26 generation. Those intermittent sources require a customer to use more energy from traditional utility
+27 sources. Also, unlike the grid and intermittent renewable sources, Bloom's Energy Servers can be
+28 configured as microgrids, capable of operating 24/7 and able to withstand weather events and grid
+
+5
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+shutdowns. Two existing installations at Intel's property in Santa Clara are configured as
+2 microgrids. Given their availability and reliability, Bloom Energy Servers can displace the need for
+
+3 diesel back-up generators, providing tremendous environmental benefits over such equipment.
+
+4 Bloom Energy Servers also emit virtually no air pollutants such as oxides of nitrogen or sulfur
+
+5 dioxide, and use virtually no water, thereby reducing the strain on California's tenuous water supply.
+
+6 14. In light of their compact size and lack of harmful emissions, Bloom Energy Servers
+7 are accessory uses that are typically located immediately adjacent to buildings to which they supply
+
+8 power. They can be situated next to occupied areas as shown in the photograph below from a Nokia
+9 facility in the Bay Area:
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25 15. In addition to the environmental benefits, Bloom Energy Servers are more resilient
+26 than the grid and renewable energy sources and can continue to provide power during wildfires.
+27 earthquakes and other weather-related events that can result in interruptions in service from the
+28 traditional electrical grid.
+
+6
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+16. These advantages have made Bloom's fuel cell technology an attractive choice in
+
+2 Silicon Valley and across corporate America, as companies, hospitals, and universities turn to
+alternative forms of energy to ensure they always have power, reduce their carbon footprint.
+conserve resources and achieve predictable costs. Bloom shipped its first server to Google's
+
+5 headquarters in 2008 and now has deployed a total of 500 megawatts of power generation to more
+
+6 than 100 customers around the world, including 22 Fortune 100 companies.
+
+7 17. Bloom's customers include Intel. IBM. Oracle, Ikea, The Home Depot, FedEx,
+8 Staples, Costco, Target, Safeway, AT&T, Verizon, Disney, Comcast. J.P. Morgan, Morgan Stanley,
+9 Credit Suisse, Bank of America, Kaiser Permanente, Sutter Health, Genentech and Medtronic. More
+10 than 50 Walmart stores in California use Bloom's fuel cell technology. Bloom Energy Servers also
+11 provide power to the SAP Center at San Jose. known as the "Shark Tank."
+
+12 B. The City Issues Ministerial Building Permits For Four Bloom Energy Server Installations.
+13
+
+14 18. There are currently five Bloom Energy Server installations in the City, producing
+15 14.9 megawatts of clean electric power. The City authorized each of these by the ministerial
+16 issuance of building permits.
+
+17 19. A ministerial decision is one "involving little or no personal judgment by the public
+18 official as to the wisdom or manner of carrying out the project. The public official merely applies
+19 the law to the facts as presented but uses no special discretion or judgment in reaching a decision."
+20 See 14 Cal. Code Regs. (*CEQA Guidelines), 8 15369.
+
+21 20. Ministerial decisions are exempt from review under CEQA. See Pub. Resources
+22 Code, § 21080(b)(1).
+
+23 21. Under CEQA, building permits are presumed to be ministerial in the absence of any
+24 discretionary provision in the local ordinance or other law establishing requirements for the permit.
+25 See CEQA Guidelines, § 15268(b)(1).
+
+26 22. By contrast, CEQA review is required for discretionary projects that are proposed to
+27 be carried out or approved by public agencies. See Pub. Resources Code, § 21080(a).
+28 ///
+
+7
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+23. A discretionary project is one that "requires the exercise of judgment or deliberation
+2 when the public agency or body decides to approve or disapprove a particular activity, as
+3 distinguished from situations where the public agency or body merely has to determine whether
+
+4 there has been conformity with applicable statutes, ordinances, or regulations." See CEQA
+5 Guidelines, § 15357.
+
+6 24. In 2015, Intel installed the first Bloom Energy Servers in Santa Clara a l megawatt
+7| installation at 2191 Laurelwood Road, pursuant to Permit # BLD2014-34998.
+
+8 25. On April 28, 2017 Bloom applied to the City for building permits for the installation
+9 of Bloom Energy Servers as accessory uses at Intel's facility at 2200 Mission College Boulevard in
+10 the City. By May 23, 2017, the City had deemed the application complete.
+11 26. On August 1, 2017, the City issued Permit # BLD2017-46893 for installation of
+12 Bloom Energy Servers at Intel's facility. BLD2017-46893 allowed for the installation of 5
+13 megawatts ("MW") of exterior fuel cells and pad, 3 electrical vaults, trenching for water electrical
+14 and gas lines, electrical feeders to switchboard, water connection to potable water. natural gas
+15 connection with meter and regulator storm drains. sewer cleanouts, and an electrical transformer.
+16 The City issued this building permit ministerially, and did not require a use permit or CEQA review
+17 for this project.
+
+18
+
+19
+
+201
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+8
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+27.
+
+2 The existing Bloom Energy Servers at the Intel facility are shown in the photographs
+
+3 below, as the small dark-colored boxes adjacent to the bases of the buildings:
+
+4
+
+5
+
+6
+
+7
+
+8
+
+D
+10
+
+11
+
+12
+
+13
+
+14
+
+15 28. On August 2, 2017, Bloom applied to the City for building permits for the installation
+16| of Bloom Energy Servers as accessory uses at Equinix's facility at 1350 Duane Avenue in the City.
+17 29. On February 6, 2018, the City issued Permit # BLD2017-47682 for installation of
+18 the Bloom Energy Severs at Equinix's facility. BLD2017-47682 allowed for the installation of 18
+19 Bloom Energy Servers with concrete pads, producing 5.2 MW of power. The City issued this
+20| building permit ministerially, and did not require
+21 30. use permit or CEQA review for this project.
+The existing Bloom Energy Servers at 1350 Duane Avenue are depicted below,
+22 consisting of a 2.0 MW installation on the side of the building, and a 3.2 MW installation on the
+23 back of the building.
+24 ///
+25 ///
+26 ///
+27 /11
+28 //1
+
+9
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+10
+11
+
+12
+
+13
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+10
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+31. On March 29. 2017. Bloom applied to the City for building permits for the
+2  installation of Bloom Energy Servers as accessory uses at Agilent Technologies' facility at 5301
+3 Stevens Creek Boulevard in the City. On June 27, 2018, the City issued Permit # BLD2018-50250
+
+4 for installation of 8 Bloom Energy Servers with concrete pads, producing 2.2 MW of power at
+
+5 Agilent Technologies' facility. The City issued this building permit ministerially, and did not
+6 require a use permit or CEQA review for this project.
+
+7 32. On March 26. 2018, Bloom applied to the City for building permits for the
+
+8 installation of Bloom Energy Servers as accessory uses at Santa Clara University at 500 El Camino
+
+9 Real B715 in the City. On August 7, 2018, the City issued Permit # BLD2018-50199 for installation
+
+10 of 9 Bloom Energy Servers with concrete pads, producing 1.5 MW of power at Santa Clara
+11 University. The City issued this building permit ministerially, and did not require a use permit or
+12 CEQA review for this project.
+
+13 C. SVP's Concerns With The Impact of Bloom Energy Servers on SVP's Revenue.
+14 33. At some point in early 2019, SVP began to worry about the impacts of Bloom Energy
+15 Servers on SVP's revenues. On February 25, 2019, SVP Assistant Director Ann Hatcher wrote SVP
+16 Chief Electric Utility Officer/Assistant City Manager Manuel Pineda and SVP Chief Operating
+
+17 Officer Kevin Kolnowski stating:
+
+18 "Am told that Bloom Fuel Cells wants to come in to talk with our Key Customer Rep/Engineers about even more potential customers of natural gas fired fuel cells in Santa
+19 Clara. This sounds like more locations beyond the 4.35 MW that were part of our answer to Finance on the reduced forecast/reduced contribution in lieu. If real. it would mean another 20 reduction in our growth forecast for the budget that we just turned in.'
+
+21 34. On February 27, 2019, Mr. Pineda responded that "Deanna [Santana, City Manager]
+22 would like to fast track regulations on future fuel cells (get something in the books now). Let's talk
+23 | tomorrow after our UUT discussion what the options are."
+24 35. On March 14, 2019, Electric Division Manager Yanmei Qiu queried Ms. Hatcher
+25 regarding the "RTC and draft resolution that is going to is put stop on future fuel cell penetration in
+26 Santa Clara? Bloom is taking [sic] to Digital Realty now. Can we share our plan with customers?"
+27 36. At the March 26, 2019 City Council meeting considering SVP's Quarterly Strategic
+28 Plan Update. Mr. Pineda testified
+
+11
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+a "From a load growth perspective, SVP has been doing great for a number a years, but we do
+
+2 have to acknowledge that our sales did go down this year. It's the first time in about 10 years that they did not go up from the previous year. Small percentage, but it still did go down. And there's a number of reasons associated with that. What's causing the impacts 3 on the actual versus forecasted load. Fuel cell installations are a part of that."
+
+4 37. As a result of this decrease in sales, the City began researching ways to prohibit
+5 Bloom Energy Servers and other fuel cells from being installed in the City.
+
+6 38. On April 16, 2019 Mr. Pineda sent an email to Kathleen Hughes, Ann Hatcher, and
+
+7 Kevin Kolnowski asking "Can we please have a staff member research cities where fuel cells have
+8 been limited."
+
+D. Bloom's Pending Applications For New Energy Server Installations.
+
+10 39. On April a 25, 2019, Bloom submitted a building permit application (BLD2019-
+11 54519) for the installation of 10 Bloom Energy Servers as accessory uses at the Intel facility located
+12 at 2200 Mission College Boulevard (the "Intel Project"). The requested installation is located
+13 approximately 100 feet from the existing fuel cells installed at Intel's property pursuant to Permit #
+14 BLD2017-46893.
+
+15 40. As a part of Intel's Santa Clara campus development plan, they are building out
+16 additional data center infrastructure in response to rising enterprise needs. Intel has come to Bloom
+17 a as a partner to support the growing power demands of this development plan. Intel has made it clear
+18 that SVP has been unable to support these power demands in a timely fashion that supports their
+19 business goals. As such. Bloom Energy is the sole viable technology with the power density and
+20 footprint required to support Intel's power needs. The Intel Santa Clara campus is constrained on
+21 real estate and cannot deploy solar or wind to satisfy this growing demand. By blocking the permit
+22 application for the Mission College campus, the City of Santa Clara is preventing one of their most
+23 valued business residents from satisfying a business need within their jurisdiction.
+24 41. The Intel Project site has zoning designation "PD" and was previously zoned "ML".
+25 42. Under the Intel Project site's zoning designation, [i]ncidental and accessory
+26 buildings, storage buildings, outdoor storage, warehouses, exposed mechanical appurtenances, and
+27 the like, that comprise less than twenty-five percent (25%) of the total lot area and are shielded from
+28 public view" are permitted uses. See Santa Clara Mun. Code, § 18.48.030(e).
+
+12
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+43. The building permit application for the Intel Project confirms that the proposed
+2 Bloom Energy Server installation meets the accessory use criteria, as it would comprise far less than
+3 25% of the total lot area and be shielded from public view.
+
+4 44. The Intel Project permit application thus confirms that the Bloom Energy Server
+5 installation meets all objective criteria for ministerial issuance of the requested building permit.
+
+45. After Bloom's application, the City landed on a strategy of prohibiting all fuel cells
+7 except those that rely on California-sourced biogas, which the City knows is relatively scarce and
+8 heavily incentivized for use as a transportation fuel, making it cost-prohibitive for other uses in
+
+9 California. This ban was effectuated by the City's adoption of a resolution changing SVP's
+10 I interconnection rules to prohibit interconnection of fuel cells, except those that ran on renewable
+11 energy or California-sourced biogas.
+
+12 46. Bloom and others objected to the proposed resolution on numerous grounds,
+13 including that the City should have conducted CEQA review prior to the adoption of the resolution.
+14 Bloom's objections were rejected by the City.
+
+15 47. The City Council adopted Resolution No. 19-8701, A Resolution Amending Silicon
+16 Valley Power's Rules and Regulations to Require New or Modified Self-Generation Facilities to
+17 Utilize Renewable Generation and Fuel Sources, on May 7, 2019 (the "Resolution").
+18 48. Bloom challenged the City's adoption of the Resolution in court on June 11, 2019,
+19 alleging that the City improperly determined that the resolution was exempt from CEQA review in
+20 Bloom I.
+
+21 49. While that case was pending, Bloom submitted on October 17, 2019 a building
+22 permit application (BLD2019-56451) for the installation of 10 fuel cells as accessory uses at the
+23 Equinix facility located at 2960/2970/3000 Corvin Drive (the "Equinix Project").
+
+24 50. Equinix is a large co-location data center provider and has partnered with Bloom all
+25 throughout California and the East Coast to offset conventional grid electricity costs, thereby
+26 making these data centers more cost competitive. Equinix markets this technology to their
+
+27 customers as a cleaner, more reliable power source for their data center needs. Equinix has identified
+28 SVP territory as a market that benefits from Bloom's technology for the aforementioned reasons,
+
+13
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+having deployed the largest installation in Silicon Valley (5.2 MW at Duane Avenue in Santa Clara).
+
+2 By blocking the permit applications for the Corvin Drive facility, the City of Santa Clara is
+3 preventing one of their business residents from increasing their competition in the market.
+
+4 51. The Equinix Project site is part of the Lawrence Station Area Plan ("LSAP") area.
+5 52. The LSAP allows for uses permitted in ML zones, including accessory uses. See
+6 Santa Clara Mun. Code, § 18.48.030(e).
+
+7 53. The building permit application for the Equinix Project confirms that the proposed
+8 Bloom Energy Server installation meets the accessory use criteria, as it would comprise far less than
+
+9 25% of the total lot area and be shielded from public view.
+
+10 54. The Equinix Project permit application thus confirms that the Bloom Energy Server
+11 installation meets all objective criteria for ministerial issuance of the requested building permit.
+
+12 55. On January 9, 2020, the Court in Bloom I issued an order granting Bloom's petition
+13 to overturn the Resolution and commanding the City to comply with CEQA before re-enacting the
+14 fuel cell ban.
+
+15 E. City's Unlawful Failure To Issue Project Permits.
+
+16 56. A mere two weeks after that order overturning the City's ban on Bloom Energy
+17 Servers, on January 23, 2020, the City switched tactics. With its unlawful ban on Bloom's
+18 technology blocked, the City decided to overturn years of its own interpretation of the City Code to
+19 attempt to subject Bloom Energy Servers to the City's discretionary use permit process. The
+20 message was clear: in the place of the outright ban, the City would now use its discretionary land
+21 use authority to prohibit further installations of Bloom Energy Servers in the City. David Tran, the
+22 City's Plan Review Manager, sent an email to City staff stating "[p]er my conversation with our
+23 Planning Manager, Reena Brilliot, please DO NOT issue the Building permit for the 'Fuel Cell'
+24 projects (see below) prior to coordinate [sic] with Reena and SVP." The projects Mr. Tran listed
+25 were the Intel and Equinix Projects at issue herein.
+
+26 57. On February 4, 2020, the City's Planning Manager, Reena Brilliot informed Mr. Tran
+27 and the rest of the City's Planning Divisions that the City Attorney's Office had reinterpreted the
+28 City's Zoning Code such that fuel cells were now considered "electric power plants" and would
+
+14
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+require a use permit and an initial study under CEQA. Specifically, Ms. Brilliot stated that "We've
+
+2 received guidance from the City Attorney's Office that Section 18.60.050 of the Zoning Code
+
+3 prescribes the requirement of a Use Permit for the installation of an Electric Power Plan [sic], such
+as fuel cells. As such, we need to make sure that any fuel cell proposals file a Use Permit and
+
+5 conduct environmental analysis (an initial study will be required). We learned that the City was
+6 previously issuing these as Building Permits only, without need of a Use Permit, and this is incorrect
+per our Zoning Code."
+
+8 58. Despite the fact that the ministerial building permit applications for the Projects were
+
+9 pending before the Court order overturning the fuel cell ban, the City began to argue that the Projects
+10 were "electric power plants" as defined in Section 18.06.010(e)(1) of the City's Municipal Code
+
+11 and thus required discretionary use permits under Section 18.60.050 of the Municipal Code and
+12 were subject to CEQA review.
+
+13 59. Below is photograph of SVP's Donald von Raesfeld Power Plant, a 174 MW natural
+14 gas-fired facility located in the City.
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24 60. Section 18.06.010(e)(1) of the Municipal Code defines "electric power plants" as "all
+25 equipment, fixtures, and personal property operated or maintained in connection with the production
+26 of electricity using any source of thermal, steam, wind, or solar energy with a generating capacity
+27 of more than five hundred (500) kilowatts and less than fifty (50) megawatts...." Thus, to qualify
+28 as an electric power plant, the facility must produce electricity using thermal, steam, wind, or solar.
+
+15
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+61. Bloom Energy Servers do not use thermal, steam, wind or solar power to produce
+2 electricity. Instead, they produce electricity using a chemical conversion process involving
+hydrogen and oxygen, an anode and a cathode.
+
+62. Bloom Energy Servers are therefore not power plants as defined by the City's
+
+5 Municipal Code.
+
+63. In arguing that the Projects are "electric power plants", the City reversed its normal
+process and predetermined the outcome that the Projects are not exempt from CEQA before even
+
+8 deeming the applications for the Project complete.
+
+9 64. Bloom objected to City staff's demand that both a use permit and an Initial Study
+10 | under CEQA were required for each Project.
+
+11 65. On September 24, 2020, counsel for Bloom sent the City a letter detailing why the
+12 Projects were not "electric power plants" under Section 18.06.010(e)(I) of the City's Code and why,
+13 even if they were, the Projects qualified for categorical exemptions under CEQA.
+
+14 66. Even after Bloom provided the City with additional information to support the
+15 pending permit applications, the City's Planning Manager continued to assert that the applications
+16 were incomplete and demanded further information from Bloom.
+
+17 67. On March 17, 2021, the City's Planning Manager indicated that the Project
+18 applications would need to go through the City's Project Clearance Committee ("PCC") process.
+
+19 68. The City never previously required the building permit applications for any of the
+20 existing Bloom Energy Servers located in Santa Clara to go through the PCC process.
+21 69. On March 23, 2021, the City's PCC met to review the Projects. The PCC determined
+22 that the City would require Bloom to submit still more information before the applications could be
+23 deemed complete.
+
+24 70. Debby Fernandez, an Associate Planner with the City, wrote Bloom on April 1, 2021
+25 with the results of the PCC meeting. The City's letter for the Equinix Project asserted that the
+26 Project application was incomplete. In addition, the letter stated "[a]s the City has determined that
+27 the project is not eligible to proceed under any [CEQA] exemption, the preparation of an Initial
+28 Study in accordance with CEQA is required."
+
+16
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+71. The City issued nearly identical letters with regard to the Intel Project, asserting that
+
+2 the Project applications were incomplete, and that the City had determined that an Initial Study was
+
+3 required as the Intel Project was not eligible to proceed under any CEQA exemption.
+
+4 72. On April 27, 2021, Bloom submitted appeals of the April 1, 2021 decisions of City
+5 staff and the PCC regarding (I) the applications for the Projects and (2) the finding that the Projects
+
+6 were not exempt from CEQA. Bloom's written appeals were supported by a letter with attached
+7 exhibits demonstrating that no use permit or CEQA review was required to approve the Projects.
+73. On May 4, 2021, the City demanded that Bloom pay fees for $121,229.90 for CEQA
+
+9 review and other City processing of the Intel and Equinix Project applications.
+
+10 74. Bloom submitted a further letter in support of its appeals on May 24, 2021, in
+11 response to correspondence from the City regarding the Project appeals.
+
+12 75. The City Council placed the appeals relating to the Projects on the agenda for its June
+13 8, 2021 meeting.
+
+14 76. Bloom appeared at the June 8, 2021 City Council meeting and provided oral
+15 testimony in support of the appeals.
+
+16 77. At the direction of the City Attorney, the City Council voted to "note and file" the
+17 agenda item, without taking any action on Bloom's appeals or scheduling them for a full hearing.
+18 Accordingly, Bloom has exhausted all available administrative remedies.
+
+19
+
+20 STANDING
+
+21 78. Bloom has standing to raise the CEQA claims herein because it (1) has a public
+22 interest in the impact of the City's decisions to abuse CEQA to require unnecessary environmental
+23 review of a ministerial and/or exempt project and (2) has a direct an beneficial interest in the City's
+24 full and complete compliance with state laws and regulations including, without limitation, CEQA.
+25 79. In addition, Bloom will be, and has been, directly harmed by the City's actions
+26 alleged herein, including, but not limited to the City's arbitrary, capricious, an wholly unsupported
+27 application of the City's regulations to Bloom's projects, and the deprivation of Bloom's
+28 constitutionally protect rights to due process and equal protection.
+
+17
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+VI. EXHAUSTION OF ADMINISTRATIVE REMEDIES
+
+2 80. Bloom has exhausted its non-judicial remedies on all claims by submitting letters
+3 dated September 24, 2020, February 16, 2021, April 27, 2021, and May 24, 2021 stating its
+4 opposition to the City's failure to lawfully process and issue building permits and other non-
+5 discretionary approvals in connection with the Projects.
+
+6 81. Bloom further exhausted its non-judicial remedies by filing written appeals to the
+7 City Council, and appearing and testifying on June 8. 2021, regarding the City's failure to lawfully
+
+8 process and issue building permits and other non-discretionary approvals in connection with the
+
+9 Projects.
+
+10 82. The City Council's refusal to schedule a hearing for consideration of Bloom's written
+11 appeals demonstrates that Bloom has no available non-judicial remedies and that pursuing any
+12 further administrative remedies with regard to the Projects would be futile.
+13 83. All issues raised in this Petition were raised before City by Bloom, other members
+14 of the public, and/or public agencies prior to the City's final determinations on the Projects.
+
+15
+
+16 VII. NOTICE OF COMMENCEMENT OF CEQA PROCEEDING
+
+17 84. Bloom has complied with Public Resources Code section 21167.5 by prior service
+18 of a notice upon the City indicating its intention to file this Petition. Proof of Service of this
+19 notification is attached as Exhibit A.
+
+20 85. This Petition is timely filed in accordance with Public Resources Code section 21167
+
+21 and 14 California Code of Regulations section 15112.
+
+22 FIRST CAUSE OF ACTION
+
+23 (For Writ of Mandate - Code of Civil Procedure § 1085)
+
+24 86. Bloom incorporates by reference the allegations of paragraphs 1 through 85 of this
+25| pleading, as though set forth fully in this paragraph.
+
+26 87. Code of Civil Procedure section 1085, subdivision (a), authorizes this Court to issue
+27 a writ of mandate "to compel the performance of an act with the law specially enjoins, as a duty
+28 resulting from an office, trust or station."
+
+18
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+88. Under section 1085, mandamus can compel public officials to perform an official act
+2 required by law. Mandamus can compel an official to exercise its discretion under a proper
+3 interpretation of applicable law.
+
+4 89. An abuse of discretion within the meaning of Code of Civil Procedure section 1085
+
+5 occurs when, among other actions, an agency improperly interprets and enforces a statute.
+
+90. The Intel Project site has the zoning designation "PD" and was previously zoned
+7  "ML". Under the Intel Project site's zoning designation, "[i]ncidental and accessory buildings,
+
+8 storage buildings, outdoor storage, warehouses, exposed mechanical appurtenances, and the like,
+
+9 that comprise less than twenty-five percent (25%) of the total lot area and are shielded from public
+10 view" are permitted uses. See Santa Clara Mun. Code, § 18.48.030(e).
+
+•11 91. Bloom's building permit application (BLD2019-54519) for the Intel Project requests
+12 installation of 10 Bloom Energy Servers as accessory uses. The building permit application for the
+13 Intel Project confirms that the proposed Bloom Energy Server installation meets the accessory use
+14 criteria, as it would comprise far less than 25% of the total lot area and be shielded from public
+15 view.
+
+16 92. The Intel Project permit application thus confirms that the Bloom Energy Server
+17 installation meets all objective criteria for ministerial issuance of the requested building permit.
+
+18 93. The Equinix Project site zoning designation allows for uses permitted in ML zones,
+19 including accessory uses. See Santa Clara Mun, Code, § 18.48.030(e).
+
+20 94. Bloom's building permit application (BLD2019-56451) for the Equinix Site requests
+21 installation of 10 fuel cells as accessory uses. The building permit application for the Equinix
+22 Project confirms that the proposed Bloom Energy Server installation meets the accessory use
+23  criteria, as it would comprise far less than 25% of the total lot area and be shielded from public
+24 view.
+
+25 95. The Equinix Project permit application thus confirms that the Bloom Energy Server
+26 installation meets all objective criteria for ministerial issuance of the requested building permit.
+27 ///
+
+28 ///
+
+19
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+96. Bloom Energy Servers do not use thermal, steam, wind or solar power to produce
+2 electricity. Instead, they produce electricity using a chemical conversion process involving
+3 hydrogen and oxygen, an anode and a cathode. a
+
+4 97. Bloom Energy Servers are not electric power plants as defined in Section
+5 18.06.010(e) of the City's Municipal Code: "all equipment, fixtures, and personal property operated
+
+6 or maintained in connection with the production of electricity using any source of thermal, steam,
+
+7 wind, or solar energy with a generating capacity of more than five hundred (500) kilowatts and less
+
+8 than fifty (50) megawatts...."
+
+98. Accordingly, the City has failed to identify any legally valid basis for requiring a
+10 conditional use permit for the Intel or Equinix Projects.
+
+I1 99. The City's failure to issue ministerial building permits for the Intel and Equinix
+12 Projects was arbitrary, capricious, entirely lacking in evidentiary support and/or unlawfully or
+13  procedurally unfair.
+
+14 100. Bloom has no plain, speedy or adequate remedy in the ordinary course of the law,
+
+15 except those remedies requested by this action and petition for writ.
+
+16 101. The City has a statutory and non-discretionary duty to administer the City's planning
+
+17 and zoning laws and regulations consistently, without singling out a particuilar project, a property
+18 owner or developer for special and unfavorable treatment.
+
+19 102. The City has mandatory and non-discretionary duty to lawfully process and issue
+20| building permits and all other non-discretionary approvals in connection with the Projects.
+21 103. The City has failed and refused to carry out, and continues to fail and refuse to carry
+
+22 out without excuse and in a willful manner, their mandatory and non-discretionary duties described
+23 above by failing to issue ministerial building permits for the Projects.
+
+24 104. Bloom has a direct and beneficial interest in the issuance of a writ of mandate because
+25 it has suffered, and is continuing to suffer, damages because of the City's actions.
+
+26 105. The City has proceeded in excess of its powers and/or failed to proceed in manner
+
+27 required by law in failing to process and issue building permits and other non-discretionary
+28 approvals in connection with the Projects.
+
+20
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+106. The City's actions were arbitrary and capricious, and not supported by substantial
+
+2 evidence.
+
+3 107. In addition, the City proceeded in excess of its jurisdiction and failed to proceed in
+
+4 the manner required by law.
+
+5 SECOND CAUSE OF ACTION
+
+6 (For Writ of Administrative Mandate - Code of Civil Procedure § 1094.5)
+
+7 108. Bloom incorporates by reference the allegations of paragraphs 1 through 107 of this
+
+8 pleading, as though set forth fully in this paragraph.
+109. In the alternative, to the extent that the City's failure to lawfully process and issue
+10 building permits and other non-discretionary approvals in connection with the Projects was
+11 administrative in nature, it is subject to California Code of Civil Procedure section 1094.5.
+
+12 110. Under Section 1094.5, the City's failure to lawfully process and issue building
+13 permits and other non-discretionary approvals in connection with the Projects constituted a
+14| prejudicial abuse of discretion in that the City's actions were not supported by findings, and any
+15 findings were not supported by the evidence in the record regarding the Projects.
+16 THIRD CAUSE OF ACTION
+
+17 (Violation of California Environmental Quality Act - Public Resources Code 8§ 21000 et seq.)
+18 111. Bloom incorporates by reference the allegations of paragraphs 1 through 110 of this
+19 pleading, as though set forth fully in this paragraph.
+
+20 112. CEQA was enacted to require public agencies and decision makers to document and
+21 consider the environmental implications of their actions before formal decisions are made and to
+22 "[e]nsure that the long-term protection of the environment shall be the guiding criterion in public
+23 decisions." Pub. Resources Code, § 21001(d).
+
+24 113. CEQA'S strong framework for environmental protection, however, also includes a
+25 long-standing provision that no environmental review shall be required under CEQA if an
+26 exemption applies to a proposed project or activity. See Pub. Res. Code, § 21080(b); Pub. Res.
+27 Code, § 21084(a).
+28 ///
+
+21
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+114. CEQA provides statutory exemptions that define various types of activities for which
+2 no environmental review is required. See generally Pub. Res. Code, § 21080(b); Pub. Res. Code,
+
+3 § 21080.01 et seq.
+
+4 115. In addition, the CEQA Guidelines identifies several categorical exemptions. See
+5 Pub. Res. Code, § 21084; CEQA Guidelines, §§ 15300-15333.
+
+6 116. No CEQA review is required for a categorically exempt project unless the exemption
+
+7 is negated by a specific exception. See CEQA Guidelines, § 15300.2.
+
+8 117. An agency must determine whether a proposed activity is statutorily or categorically
+
+9 exempt from CEQA during the 30-day preliminary review period after the agency has accepted a
+10 project application as complete. See Pub. Res. Code, § 21080.2; CEQA Guidelines, 88 15102,
+11 15061, 15062.
+
+12 118. A ministerial decision by a public agency is statutorily exempt from review under
+13 CEQA. See Pub. Resources Code, § 21080(b)(1).
+
+14 119. Under the City's long-established policies and practices, Bloom Energy Servers
+15  require only a ministerial building permit from the City.
+
+16 120. Bloom's applications for the Projects requested only ministerial building permits.
+
+17 121. The City engaged in a prejudicial abuse of discretion and failed to proceed in the
+18 manner required by law under CEQA by unlawfully determining that the Project applications for
+19 ministerial permits were not statutorily exempt from CEQA review.
+20 122. Alternatively, the City engaged in a prejudicial abuse of discretion and failed to
+
+21 proceed in the manner required by law under CEQA by unlawfully determining that the Projects did
+22 not qualify for any exemptions, despite substantial evidence in the record demonstrating that the
+23 Projects qualified for categorical exemptions.
+
+24 123. In fact, the substantial evidence in the record shows that the Projects qualify for one
+25 or more categorical exemptions and, further, that none of the exceptions to the exemptions apply.
+26 124. Bloom provided the City with substantial evidence demonstrating that the Projects
+27 are categorically exempt as Class 1 existing facilities. See CEQA Guidelines, § 15301.
+
+28 125. The Class categorical exemption applies to projects that:
+
+22
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+consists of operation, repair, maintenance, permitting, leasing, licensing, or minor
+
+2 alteration of existing public or private structures, facilities, mechanical equipment, or topographical features, involving negligible or no expansion of existing or former use. The key consideration is whether the project involves negligible or no 3 expansion of an existing use.
+
+4 CEQA Guidelines, § 15301.
+
+5 126. Further, Bloom provided the City with substantial evidence demonstrating that the
+6 Projects are categorically exempt as Class 29 cogeneration facilities, even if they are determined by
+7 the City to be "electric power plants."* See CEQA Guidelines, § 15329.
+
+8 127. Bloom also provided the City with substantial evidence demonstrating that the
+
+9 Equinix Project is categorically exempt under Class 3 for new construction or conversion of small
+10 structures. CEQA Guidelines, § 15303.
+
+11 128. In addition, Bloom provided the City with substantial evidence demonstrating that
+12 the Projects are exempt under the "common sense"* exemption because there is no possibility of
+13 significant environmental effects from construction or operation of Bloom Energy Servers. CEQA
+14 Guidelines, § 15061(b)(3).
+
+15 129. Further, the record contains no substantial evidence of any reasonable possibility of
+16 a significant environmental effect due to unusual circumstances. Notably, the City identified no
+17 environmental effects resulting from the construction and operation of the numerous Bloom Energy
+18 Servers currently located in Santa Clara.
+
+19 130. Bloom has no plain, speedy or adequate remedy in the ordinary course of law.
+20 Accordingly, Bloom seeks a writ of mandate directing the City to perform its ministerial duties to
+21 process and issue building permits and other non-discretionary approvals in connection with the
+22 Projects either (1) without any further CEQA review, or (2) as exempt from CEQA.
+
+23 FOURTH CAUSE OF ACTION
+
+24 (For Injunctive Relief - Code of Civil Procedure § 526)
+25 131. Bloom incorporates by reference the allegations of paragraphs 1 through 130 of this
+26 pleading, as though set forth fully in this paragraph.
+
+27 132. Bloom, as well as its customers Intel and Equinix, are being irreparably harmed by
+28 the City's failure to issue all permits required for the Projects in knowing violation of the law.
+
+23
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+133. The City has approved the installation and operation of Bloom Energy Servers
+2  pursuant to ministerial building permits for multiple years in locations around Santa Clara.
+
+134. In approving the existing Bloom Energy Servers, the City never required any
+4 I discretionary permits, including any use permits for power plants.
+
+5 135. The City never required any CEQA review for approval of the existing Bloom energy
+
+6 Servers.
+
+136. In reviewing and approving the existing Bloom Energy Servers, the City never
+
+8 asserted that the fuel cells were or could be treated as "power plants" under the City's municipal
+
+9 code.
+
+10 137. Bloom relied, to its detriment, on the City's consistent determination for every fuel
+
+11 cell application submitted prior to the Projects that the approval of Bloom Energy Servers requires
+12 only a ministerial building permit.
+
+13 138. Bloom incurred substantial expense - in excess of $1.8 million - in reasonable and
+14 good faith reliance on the City's consistent determination that the approval of Bloom Energy Servers
+15 requires only a ministerial building permit.
+
+16 139. The City is barred, including without limitation by the doctrine of equitable estoppel,
+17 from interpreting its Code to assert that the Projects are "power plants" and/or require use permits.
+
+18 140. Bloom does not have a plain, speedy, and adequate remedy in the ordinary course of
+
+19 law.
+
+20 141. Bloom is entitled to and seeks a temporary restraining order, preliminary injunction,
+21 and/or permanent injunction mandating that the City perform its ministerial duties to process and
+22 approve the building permits and other non-discretionary approvals necessary for the Projects.
+
+23 FIFTH CAUSE OF ACTION
+
+24 (For Declaratory Relief - Code of Civil Procedure § 1060)
+
+25 142. Bloom incorporates by reference the allegations of paragraphs 1 through 141 of this
+26  pleading, as though set forth fully in this paragraph.
+27 ///
+
+28 ///
+
+24
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+143. An actual controversy exists between Bloom and the City regarding the City's failure
+
+2 to lawfully process and issue building permits and other non-discretionary approvals in connection
+3 with the Projects.
+
+4 144. Specifically, the City contends that a discretionary use a permit is required for each
+
+5 Project. On the other hand, Bloom contends that only a ministerial building permit is required from
+
+6 the City for each Project, consistent with the City's approvals of prior Bloom Energy Server projects.
+7 145. An actual controversy exists between Bloom and the City also exists regarding the
+8 City's interpretation of its Code in connection with whether the Projects are "power plants" and
+9 therefore require the approval of use permits.
+
+10 146. Specifically, the City contends that the Projects are "*power plants" pursuant to
+11  Section 18.06.010(e)(1) of the Santa Clara Municipal Code, for which use permits are required under
+12 the City's zoning code. On the other hand, Bloom contends that the fuel cells proposed in the
+13 Projects are not power plants as defined in the City's code, and that only ministerial building permits
+14 are required for approval of Bloom Energy Servers.
+
+15 147. A judicial declaration of the parties' rights and obligations in connection with the
+16 above controversies is necessary and appropriate at this time so that the parties may ascertain their
+17 respective rights and obligations as to each other with regard to the Projects.
+
+18
+
+19 PRAYER FOR RELIEF
+
+20 WHEREFORE. Bloom prays for relief as follows:
+
+21 1. On its First. Second and Third Causes of Action: for the issuance of an alternative
+22 writ of mandate, a peremptory writ of mandate and/or a writ a of mandate commanding the City to
+23 process and issue the building permits and all other approvals required for the Projects in the
+24 ordinary course and without further obstruction or delay.
+
+25 2. On its Fourth Cause of Action, for a temporary restraining order, preliminary
+26 injunction, and permanent injunction mandating that the City, and all agents and officers of the City,
+27 perform its ministerial duties to process and approve the building permits and other approvals
+28 necessary for the Projects.
+
+25
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+3. On its Fifth Cause of Action, for a judicial declaration as requested therein.
+
+4. On all Causes of Action: for its costs of suit and attorneys' fees as authorized by
+law, including without limitation, by Code of Civil Procedure § 1021.5 and 42 U.S.C. §§ 1988.
+
+5. On all Causes of Action: for such other and further relief as may be just and proper.
+
+6 DATED: June 29. 2021 MEYERS NAVE
+
+8 By:
+AMRIT S/KULKARNI
+SHIRAZ D. TANGRI 10 EDWARD GRUTZMACHER
+I1 Attorneys for Petitioner and Plaintiff
+BLOOM ENERGY CORPORATION
+12 3794372.4
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+26
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+EXHIBIT A
+
+1999 Harrison Street, 9th Floor Shiraz D. Tangri
+Oakland, California 94612 stangri@meyersnave.com
+tel (510) 808-2000
+fax (510) 444-1108
+www.meyersnave.com
+meyers nave
+
+June 29, 2021
+
+Via Email and U.S. Mail
+
+Hosam Haggag
+City Clerk, City of Santa Clara
+City Clerk's Office
+1500 Warburton Avenue
+Santa Clara, CA 95050
+Email: Clerk@santaclaraca.gov
+
+Re: NOTICE OF INTENT TO FILE CEQA PETITION
+
+Honorable City Clerk:
+Please take notice that, pursuant to Public Resources Code section 21167.5, Bloom Energy Corporation ("Bloom") intends to file a Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief (*Petition") in Santa Clara County Superior Court under the provisions of the California Environmental Quality Act (*CEQA") against the City of Santa
+Clara. The Petition challenges the City's failure and refusal to find that Bloom's Energy Servers are not ministerial projects subject to CEQA and, alternatively, that if Bloom's Energy Servers are subject to discretionary review, that the Energy Servers are not exempt from CEQA
+review under one or more of CEQA's Categorical Exemptions.
+The Petition a will seek a writ of mandate commanding the City to process the building permit applications for Bloom's Energy Servers as ministerial projects not subject to CEQA or, in the alternative, a writ of mandate commanding the City to process the building permit applications for Bloom's Energy Servers under one or more CEQA exemptions. The Petition may also assert other non-CEQA claims and seek additional relief.
+
+Very truly yours,
+
+Shiraz D. Tangri
+
+CC: Alexander Abbe, City of Santa Clara, Assistant City Attorney Amrit S. Kulkarni
+
+3794312.2
+
+A PROFESSIONAL CORPORATION OAKLAND LOS ANGELES SACRAMENTO SANTA ROSA SAN DIEGO
+
+PROOF OF SERVICE
+
+STATE OF CALIFORNIA, COUNTY OF LOS ANGELES
+At the time of service, was over 18 years of age and not a party to this action. I am employed in the County of Los Angeles, State of California. My business address is 707 Wilshire Blvd., 24th Floor, Los Angeles, CA 90017.
+On June 29, 2021, I served true copies of the following document(s) described as NOTICE OF INTENT TO FILE CEQA PETITION on the interested parties in this action as follows:
+
+Hosam Haggag Alexander Abbe
+City Clerk, City of Santa Clara
+City Clerk's Office Assistant City Attorney
+City of Santa Clara
+1500 Warburton Avenue 1500 Warburton Avenue
+Santa Clara, CA 95050 Santa Clara, CA 95050
+Email: Clerk@santaclaraca.gov Email: aabbe@santaclaraca.gov
+
+BY MAIL: I enclosed the document(s) in a sealed envelope or package addressed to the persons at the addresses listed in the Service List and placed the envelope for collection and mailing, following our ordinary business practices. am readily familiar with the practice of Meyers Nave for collecting and processing correspondence for mailing. On the same day that correspondence is placed for collection and mailing, it is deposited in the ordinary course of business with the United States Postal Service, in a sealed envelope with postage fully prepaid.
+BY E-MAIL OR ELECTRONIC TRANSMISSION: I caused a copy of the document(s) to be sent from e-mail address tstephens@meyersnave.com to the persons at the e-mail addresses listed in the Service List. I did not receive, within a reasonable time after the transmission, any electronic message or other indication that the transmission was unsuccessful.
+
+I declare under penalty of perjury under the laws of the State of California that the
+foregoing is true and correct.
+Executed on June 29, 2021, at Los Angeles, California.
+
+Lerceo Atiphenr
+
+Teresa Stephens
+
+A PROFESSIONAL CORPORATION OAKLAND LOS ANGELES SACRAMENTO SANTA ROSA SAN DIEGO
+
+TOLJO OINMHV8IVS 3011SOI 40 1N3HL8Y d30
+98:lIWd 9- 700 IZZ
+TV83N30 A3N8OLLV 03M3038

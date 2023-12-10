@@ -1,0 +1,872 @@
+1 ROGER B. MOORE (SBN: 159992) LAW OFFICE OF RÖGER B. MOÓRE FILED
+337 17th Street, Suite 211 Suparior Court Of Califomia,
+Oakland, California 94602 Sacramento
+Telephone: (510) 548-1401 Email: rbm@landwater.com 01/10/2019
+kfay
+
+5 Attorneys for Petitioners Planning and Conservation Leagueß California Water Impasputy Network, AquAlliance, and California Sportfishing Protection AdiAnçAlumber:
+
+6 34-2019-80003053 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+IN AND FOR THE COUNTY OF SACRAMENTO
+PLANNING AND CONSERVATION
+9 LEAGUE, CALIFORNIA WATER Case No.:
+IMNPACT NETWORK,
+AQUALLIANCE, AND CALIFORNIA 10 SPORTFISHING PROTECTION ALLIANCE VERIFIED PETITION FOR WRIT OF MANDATE 11
+Petitioners
+12 CEQA action subject to preference over all other civil actions per Public
+VS. Resources Code $ 21167.1
+131 CALIFORNIA DEPARTMENT OF WATER RESOURCES (Code Civ. Proc., S§ 1085, 1094.5; Pub. 14 Res. Code, §§21000, et seq.)
+
+15 Respondent
+
+16 DOES 1 THROUGH 50
+
+17 Real Parties in Interest. BY FAX
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24 Petitioners Planning and Conservation League, California Water Impact Network,
+AquAlliance, and California Sportfishing Protection Alliance (collectively, "petitioners") 25 pray for this Court to issue its writ of mandate directed against Department of Water 26 Resources ("DWR"), based on the following allegations:
+27
+
+28
+
+VERIFIED PETITION OF PLANNING AND CONSERVATION LEAGUE, ET AL.
+
+1 INTRODUCTION
+
+2
+
+3 1. In this petition, petitioners challenge the failure of respondent Department of Water
+Resources ("DWR") to comply with the California Environmental Quality Act ("CEQA,"
+
+5 Pub. Res. Code §§ 21000, et seq.) when it certified its Final Environmental Impact Report
+("FEIR") and rendered final approval as state lead agency of the project ("contract])
+extension" or "project"). Petitioners seek to set aside DWR's certification of the Final EIR
+
+8 for the Water Supply Contract Extension Project on November 13, 2018, and final project
+approval recorded in DWR's Notice of Determination filed in the State Clearinghouse on
+December 11, 2018.
+10
+
+11 2. The FEIR challenged in this action is designated as the Water Supply Contract
+12 Extension Project Final Environmental Impact Report. This action challenges DWR's
+13| compliance with state law in its EIR certification and the final project decision as CEQA
+14 lead agency recorded in its Notice of Determination. Subject to legal requirements and
+15 limitations, including the Burns-Porter Act (Wat. Code, § 12930, et seq.), passed by the
+16 Legislature in 1959 and approved by California's voters in 1960, DWR operates and
+17 maintains California's State Water Resources Development System, more commonly
+
+18 known as the State Water Project ("SWP"). The SWP's storage and conveyance facilities
+
+19 provide water meant to serve the people and resources of California through deliveries to
+
+20 29 local state water contractors spanning the state from Plumas County in the north to San
+
+21 Diego County in the south. Without contract amendments, the 75-year terms of the long-
+
+22 term water supply contracts DWR entered into with these local contractors during 1960s
+the are scheduled to expire between 2035 and 2042. In the EIR certification and final
+23 project decision challenged in this petition, DWR seeks to extend the terms of the SWP
+24 contracts through December 31, 2085 and make major changes in their governing
+25 provisions without complying with CEQA.
+26
+
+27 3. Although DWR's proposed project seeks to extend the length of SWP water supply
+28| contracts for up to a half-century beyond their originally scheduled expiration dates, the
+
+2
+VERIFIED PETITION OF PLANNING AND CONSERVATION LEAGUE, ET AL.
+
+contract "extension" project also would change far more than simply extending their length.
+
+2 Instead, the project also includes other transformative changes that rank among the most
+3| significant and consequential amendments proposed during nearly six decades of SWP
+history. As detailed further below, the contract amendments included in the project would
+
+5 remove existing SWP contract limitations on the facilities eligible for revenue bonds,
+including those issued under the Central Valley Project Act (Wat. Code, § 11000, et seq).
+Without the contract amendments proposed in the project, limitations on covered facilities
+
+8 in the current State Water Project contracts would prevent an expansion of revenue bond
+debt to cover new facilities not in existence prior to January 1, 1987, including DWR's
+
+10 multi-billion dollar Delta tunnels project. (See, e.g., articles 1(cc) and 1(hh) of State Water
+Project contracts). DWR's Delta tunnels project, earlier referenced as the Bay-Delta
+11 Conservation Plan (BDCP), is known in its most recent iteration as California WaterFix.
+12
+
+13 4. DWR's EIR and project decision challenged in this action are founded on the faulty
+14 premise that the contract extension amendments are "separate" and "independent" from
+15 California WaterFix, and of independent utility to address problems of debt compression
+16 facing the State Water Project. Those premises are fundamentally false. In proceeding to
+17 final certification and approval of the project, DWR avoided major criticisms on these
+
+18 issues made in public comments on the 2016 Draft EIR, and developed significantly further
+
+19 in commentary and California legislative proceedings on DWR's proposed contract
+
+20 extension during 2018. Comments and testimony, including a concession of DWR Director
+
+21 Karla Nemeth at a September 11, 2018 hearing of the Joint Legislative Budget Committee,
+
+22 confirmed commenters' concerns that the contract extension project will facilitate the
+
+23 California WaterFix Project, and potentially other risky infrastructure projects proposed by
+
+24 major SWP contractors despite public opposition, by removing obstacles that could
+otherwise prevent debt coverage for revenue bonds designed to cover financing of the
+25 proposed Delta tunnels. Moreover, commentary and proceedings during 2018 thoroughly
+26 discredited DWR's "debt compression" rationale for the project. Far from responsibly
+27 addressing debt compression problems, as could already be addressed under the Evergreen
+28
+
+3
+VERIFIED PETITION OF PLANNING AND CONSERVATION LEAGUE, ET AL.
+
+1 Cause in article 4 of the existing State Water Project, DWR's project seeks to bundle major
+
+2 new risks into the SWP by removing existing timing and facilities limitations.
+
+3
+
+4 5. The contract extension project would remove timing obstacles to revenue bond
+
+5 financing, and thereby help facilitate implementation of, and billions in new debt for, the
+
+6 Delta tunnels project, one of the most costly and risky water infrastructure projects in
+
+7 California's history. The California WaterFix project proposes construction of two massive
+tunnels to facilitate the diversion of large additional quantities of freshwater from the San
+Francisco Bay-Delta Estuary for export south of the Delta. Despite monumental cost and
+complexity, California WaterFix creates no new water supply. It would entrench and likely
+10 compound reliance on unsustainable water exports, to the detriment of communities and
+11 water users within and upstream of the Delta. California WaterFix would divert resources
+12 needed for investments in long-term water reliability, water quality, reuse, storage, drought
+13 and flood protection, and ecosystem improvements. It would also frustrate efforts in the
+14 northern Sacramento Valley and elsewhere to fulfill legislative duties on regional self-
+15 reliance and the sustainable management of groundwater. If built and approved for
+16 operation, California WaterFix's new intakes in the northern Delta may divert up to a third
+
+17 of the flow of the Sacramento River, increasing the potential for reverse flows on the
+
+18 Sacramento River, harmful diversions of water out of the Sacramento Valley and the Delta,
+
+19 and further degradation of water quality.
+
+20
+
+21 6. In certifying the FEIR and approving the contract extension project, DWR failed to
+
+22 heed major criticism from the petitioner organizations, counties, communities, public
+
+23 agencies, and expert reviewers discrediting the project's environmental, economic and legal
+foundations. DWR also failed to heed major project criticisms made during 2018, including
+24 those presented by the petitioners, identifying still-unaddressed changed circumstancesl
+25 since project comments closed in October 2016 that necessitated circulation and review of :
+26 new EIR. These criticisms also underscored the clear need under CEQA to avoid
+27 piecemealing, and to provide a still-unmade integrated assessment of the project in
+28 connection with DWR's separate set of proposed Water Supply Contract Amendments (on
+
+4
+VERIFIED PETITION OF PLANNING AND CONSERVATION LEAGUE, ETAL.
+
+which a 2018 Draft EIR is presently pending), as well as the WaterFix project itself. In
+2| rushing forward to final approval, DWR flouted commenters' concerns that DWR had
+
+3 failed to meet the Water Code's prerequisites to final approval of the proposed contract
+4| extension. DWR avoided analysis and mitigation of major project impacts, and failed to
+
+5 analyze alternatives that would address debt compression problems without bundling major
+
+6 new risks into the State Water Project. DWR also failed in its historic opportunity to
+address systemic problems in the SWP prior to extending the long-term contracts, such as
+
+8 addressing "paper water" problems with SWP Table A deliveries and the failure to protect
+Delta resources.
+
+10 7. Petitioners seek a writ of mandate under California Code of Civil Procedure sections
+
+11 1085, 1094.5, or both, directing DWR to vacate its EIR certification and approval of the
+12 project, and to revise its findings to conform with the law.
+
+13 PARTIES, JURISDICTION AND VENUE
+14
+8.
+15 Petitioner Planning and Conservation League (PCL), a nonprofit advocacy
+
+16 organization whose headquarters in is Sacramento, California, is empowered to protect and
+
+17 restore California's natural environment and to promote and defend the public health and
+safety of the people of California, through legislative, administrative, and judicial action.
+18 PCL was founded in 1965 and since then has advocated in all branches of Californial
+19 government for a body of laws that remains at the forefront of environmental policy in the
+20| United States. PCL's staff undertakes extensive research and works closely with legislators
+21 to promote laws that protect and improve California's environment.
+22
+
+23 9. One of the PCL's 's earliest accomplishments was the enactment in 1970 of the
+24 California Environmental Quality Act ("CEQA"), which PCL helped draft and has
+25 continually supported over the years, and which lies at the heart of this action. As a party
+
+26 and an amicus curiae, PCL-in behalf of its twenty-seven institutional members and
+
+27 thousands of individual members--has contributed to some of the leading cases interpreting
+
+28 CEQA's provisions. PCL has also submitted detailed comments addressing environmental
+
+5
+VERIFIED PETITION OF PLANNING AND CONSERVATION LEAGUE, ET AL.
+
+1 review issues in numerous proceedings before public agencies, including those culminating
+
+2 in the final agency decisions challenged here. Beyond agency proceedings and the
+3 courtroom, PCL has published and updated The Community Guide to CEQA and has
+
+4 sponsored CEQA workshops throughout the state. These workshops advise interested
+
+5 individuals, governmental and non-governmental organizations, and locally elected and
+
+6 appointed officials about CEQA's two-fold purpose of environmental protection and
+informed self-government. PCL members reside and own property throughout California as
+
+8 well as those areas to be served by the Project, and use the waters and lands affected by the
+proposed Project.
+
+10 10. PCL was one of the prevailing petitioners in Planning and Conservation League V.
+11 Department of Water Resources (2000) 83 Cal.App.4th 892, which set aside the 1995
+12 environmental review of the Monterey Amendments prepared by the wrong lead agency,
+13 Central Coast Water Authority (CCWA), rather than DWR. The Court found also found
+14 that the EIR's "no project" assessment and project alternatives analysis failed to properly
+15 analyze the consequences of implementing the State Water Project contracts' long-term
+16 shortage provision, article 18(b), prior to its elimination in the Monterey Amendments. In
+
+17 its ruling requiring DWR as lead agency to prepare a new EIR for the Monterey
+
+18 Amendments, this Court described the EIR as the "heart and soul of CEQA" and observed
+
+19 that "CEQA compels process. It is a meticulous process designed to ensure that the
+
+20| environment is protected." (Id. at 911.)
+
+21
+11.
+22 Petitioner California Water Impact Network ("C-WIN") is a California non-profit
+
+23 public benefit organization with its principal place of business in Santa Barbara, California.
+C-WIN's organization purpose is the protection and restoration of fish and wildlife
+24 resources, scenery, water quality, recreational opportunities, agricultural uses, and other
+25 natural environmental resources and uses of the rivers and streams of California, including|
+26 the Bay-Delta, its watershed and its underlying groundwater resources. C-WIN has
+27 members who reside in, use, and enjoy the Bay-Delta and inhabit and use its watershed.
+28
+
+6
+VERIFIED PETITION OF PLANNING AND CONSERVATION LEAGUE, ET AL.
+
+1 They use the rivers of the Central Valley and the Bay-Delta for nature study, recreation,
+
+2 and aesthetic enjoyment.
+
+3
+12. Petitioner AquAlliance ("AquAlliance"), whose headquarters is in Chico, California,
+
+5 is a California public benefit corporation. Its mission is to defend northern California
+waters and the ecosystems these waters support and to challenge threats to the hydrologic
+health of the Sacramento River watershed. This includes escalating attempts to divert and
+
+8 withdraw more water from the hydrologic region. AquAlliance's members include farmers,
+scientists, businesses, educators, and residents all of whom have significant financial,
+
+10 recreational, scientific, aesthetic, educational, and conservation interests in the aquatic and
+terrestrial environments that rely on waters of the Sacramento River Watershed and Bay-
+11 Delta estuary. This hydrologic system provides water for orchards, homes, gardens,
+12 businesses, wetlands, streams, rivers, terrestrial habitat, and myriad species, which in turn
+13 allows AquAlliance members to live, fish, hunt, cycle, photograph, camp, swim, and invest
+14 in northern California.
+
+15
+
+16 13. Petitioner California Sportfishing Protection Alliance ("CSPA") is a California non-
+17 profit public benefit organization established in 1983 with its principal place of business in
+18 Stockton, California. CSPA's organizational purpose is the protection, preservation, and
+
+19 enhancement of the public trust, fisheries and associated aquatic and riparian ecosystems of
+
+20 California's waterways. This mission is implemented through active participation in federal,
+
+21 state and local agency processes, education and organization of the fishing community,|
+
+22 restoration efforts, and vigorous enforcement of environmental laws enacted to protect
+
+23 fisheries, habitat and water quality. Members of CSPA reside along the Central Valley|
+watershed and in the Bay-Delta where they view, enjoy, and routinely use the ecosystem
+24 for boating, fishing, and wildlife viewing. CSPA's members derive significant and ongoing
+25 use and enjoyment from the aesthetic, recreational, and conservation benefits of
+26 California's rivers.
+27
+
+28
+
+7
+VERIFIED PETITION OF PLANNING AND CONSERVATION LEAGUE, ET AL.
+
+1 14. Respondent and Defendant California Department of Water Resources ("DWR") is a
+
+2 California public agency, established by the California Legislature in 1956. Under state
+
+3 law, DWR is principally responsible for operation and management of the State Water
+Project. DWR served as the CEQA lead agency for the project. DWR issued the November
+
+5 13, 2018 EIR certification and December 11, 2018 Notice of Determination recording its
+
+6 approval of the project, both challenged in this action. The Final EIR prepared by DWR as
+CEQA lead agency must also serve as a legally adequate decision-making document for
+
+8 any discretionary determinations of responsible and trustee agencies subject to the
+requirements of CEQA.
+9
+10 15. Real Party in Interest State Water Contractors, Inc. (SWC) is a non-profit association
+11 of 27 California public agencies, organized under California law, that purchase water under
+12 contract from the State Water Project. Member agencies of SWC include each of the state
+13| water contractor agencies that were signatories to the Agreement in Principle (AIP) that
+14 formed the basis for the Water Supply Contract Extension Project.
+15
+
+16 16. Does H through 50, inclusive, may have an interest or claim to the project whose
+17| specific details are not presently known to the petitioners and plaintiffs. Their true names
+
+18 and capacities, whether in individual, corporate, associate, governmental, or other
+
+19 designations, are not presently known to plaintiffs and petitioners, and are therefore
+
+20 referenced here by fictitious names. Should their true names and capacities later be
+
+21 ascertained, petitioners and plaintiffs will seek to amend this petition and complaint to
+
+22 identify their true names and capacities.
+
+23 17. DWR's December 11, 2018 Notice of Determination for the project did not identify
+24 any real parties in interest pursuant to Public Resources Code section 21167.6.5, and
+25 petitioners are not aware of any parties that meet the statutory definition of real parties in
+26 interest. Nonetheless, because SWC's membership includes the signatories to the AIP
+27| relating to the review of DWR's project, and without conceding that SWC or any of its
+28
+
+8
+VERIFIED PETITION OF PLANNING AND CONSERVATION LEAGUE, ET AL.
+
+members meet the statutory definition of real parties in interest, petitioners have in an
+2 abundance of caution named SWC herein as a real party in interest.
+
+18. This civil action is brought pursuant to Code Civ. Proc., §§ 1085, and 1094.5; and
+
+5 CEQA, Public Resources Code section 21000 et seq.
+
+7 19. Pursuant to Code of Civil Procedure sections 393, 394 and 395, venue for this action
+
+8 is appropriate in Sacramento County Superior Court. DWR is a state agency whose
+principal office is located in the City of Sacramento, within Sacramento County.
+Sacramento County is the most convenient venue for this action, which addresses matters
+10 of statewide import. The affirmative acts of DWR recorded in its notice of determination
+11 resulted in wrongs that were felt, at least in large part, in Sacramento County.
+12
+
+13 20. Petitioners have exhausted all administrative remedies by submitting written
+14| comments during several stages of the project approval and EIR processes preceding
+15 DWR's certification of the EIR and approval of the project. All issues raised in this petition
+16 and complaint were raised by petitioners, or by other public entities, members of the public,
+
+17 or both, prior to DWR's final decision on the project recorded in the Notice of
+
+18 Determination.
+
+19
+
+20 20. Petitioners have complied with Public Resources Code section 21167.5 by prior
+
+21 service of a notice upon DWR indicating their intent to file this petition.
+
+22
+21. Petitioners have complied with Public Resources Code section 21167.7 and Code of
+23 Civil Procedure section 388 by serving a copy of this petition on the Attorney General. 24 Petitioners bring this action on behalf of its members and members of the public, to enforcel
+25 important rights affecting the public interest.
+26
+
+27
+
+28
+
+9
+VERIFIED PETITION OF PLANNING AND CONSERVATION LEAGUE, ETAL.
+
+1 22. Petitioners elect to prepare the record of proceedings in the above-captioned
+2 proceeding or to pursue an alternative method of record preparation pursuant to Public
+
+3 Resources Code section 21167.6(b)(2).
+
+4
+
+5
+
+6 PROCEDURAL HISTORY
+
+7
+23.
+8 In 2013, DWR initiated a public negotiation process for extension of SWP contracts.
+
+9 Contract extensions achieved through this process would be for another 50 years, through
+the end of 2085. The initial phase of the process reached an "Agreement in Principle
+10 Concerning Extension of the State Water Project Water Supply Contracts" (AIP). The AIP
+11 is included as Appendix A of DWR's 2016 Draft Environmental Impact Report (DEIR).
+12 Signatories to the AIP included most, but not all, of the State Water Contractors.
+13
+
+14 24. DWR issued its Notice of Preparation (NOP) of its Environmental Impact Report for
+15 the Water Supply Contract Extension Project on September 12, 2014. Petitioners were
+16 among the signatories to a scoping comment letter addressing the NOP. In other scoping|
+17| comments, Santa Barbara County's Flood Control and Water Conservation District raised
+18 questions, still left unaddressed when DWR ultimately certified and approved the project,
+
+19 about the proposed project's financial consequences and implications for taxpayers and
+
+20 ratepayers. A consistent theme in public comments involved the contract extension
+
+21 amendments' role in facilitating DWR's Delta tunnels project, then known as BDCP.
+
+22
+25.
+23 DWR sought delay in addressing financing for DWR's proposed Delta tunnels
+project (then known as BDCP) financing until a subsequent contract amendment process
+24 could be undertaken after Plumas County Flood Control and Water Conservation District
+25 and Butte County raised concerns about costs from BDCP-related matters in the contractl
+26 extension scope. DWR responded that this subject would be better addressed in a separate
+27 a negotiation for a BDCP amendment. A separate SWP contract amendments process begun
+28
+
+10
+VERIFIED PETITION OF PLANNING AND CONSERVATION LEAGUE, ETAL.
+
+in December 2014 for the proposed BDCP (now California WaterFix) was suspended in
+2 February 2015.
+
+3
+
+4 26. DWR's separately proposed and reviewed Delta water tunnels cannot be deemed
+
+5 part of the State Water Project in the absence of amendments to the State Water Project
+contracts. (See, e.g., Articles 1(cc) and 1(hh)(8) of State Water Project contracts.) These
+provisions, as amended, place limitations on the water system facilities eligible for Central
+
+8 Valley Project revenue bonds. For reasons reinforced in the defeat by voters of Proposition
+9 in 1982, water system facilities as referenced in the project contracts did not include a
+peripheral canal or permutations of that proposed conveyance. 10
+
+11 27. In August 2016, DWR published its Draft EIR for the contract extension project,
+12 failing to address the significant concerns about the project raised during scoping review.
+13| During the public comment period that closed in October 2016, petitioners and other
+14 commenters raised major additional concerns about the project, which DWR failed to
+15 address as required by CEQA when it certified the EIR on November 13, 2018 and when it
+16 rendered its final project approval on December 11, 2018. DWR also failed to address
+17 major changed circumstances necessitating preparation of a new Draft EIR, addressed in
+
+18 additional comments submitted by petitioners and other organizations on September 25,
+
+19 2018.
+
+20
+
+21 28. In portraying the project as "separate" and independent" from DWR's Delta tunnels
+
+22 project in its final decision-making, DWR avoided evidence discrediting these premises
+introduced during 2016 public comment on the Draft EIR, such as the following: 23 An October 2011 Legislative Analyst Office (LAO) Report, Potential Funding|
+24 Alternatives for the Bay Delta Conservation Plan Planning Process, stated that "[f]unding
+25 BDCP implementation" would "require amendment of long-term water supply contracts
+26 between DWR, the Bureau of Reclamation, and the contractors in order to provide the
+27 funding mechanism." (Id. at 5.) This report also listed revenue bonds as one of the
+28
+
+11
+VERIFIED PETITION OF PLANNING AND CONSERVATION LEAGUE, ET AL.
+
+1 "currently infeasible" funding mechanisms, because revenue bonds "require a clearly|
+2 defined funding source before they can be sold." (Id. at 8.)
+
+3 When discussing revenue bonds in connection with BDCP, DWR's bond counsel
+
+4 concluded that without contract amendments, BDCP was "not on the list of approved
+
+5 projects that are eligible for funding, including through bond financing." (Letter from Jake
+Campos, STIFEL, to Mary Lou Cotton, SWPCA at 4 (March 19, 2014; see also MWD
+PRA Document 00000484-SWC Financing DHCCP 9-7-12.)
+
+8 In September 2014, staff at the Metropolitan Water District acknowledged that
+proposed SWP contract amendments are a necessary step in financing BDCP. See MWD,
+Special Committee on Bay-Delta Presentation Re Review Status of BDCP Cost Allocation
+10| Discussions (September 23, 2014). In a September 23, 2013 report, Kern County Water
+11 Agency also referenced the need for a contract amendment to finance BDCP.
+12 In March 2014, a Morgan Stanley report concluded that "Clearly, in order to finance
+13 the substantial costs associated with CM1 in the BDCP, the extension of these contracts is
+14 essential to allow for the amortization of financing payments over a long period of time.' a
+15 Like BDCP, California WaterFix cannot obtain financing through revenue bonds without a
+16 contract amendment. November 23, 2013 and April 1, 2014 briefings of State Waterl
+
+17 Contractors to DHCCP's SWP Cost Allocation Working Group, for example, concluded
+
+18 that California WaterFix financing options would require contract amendments.
+
+19
+
+20| 29. As highlighted in earlier project criticism, 2018 legislative testimony and
+
+21 correspondence, and in a December 11, 2018 letter to DWR from Roger Moore (Moore
+
+22 letter), which DWR failed to address before proceeding to final approval of the project,
+DWR's claim that the contract extension amendments are independent of California
+23 WaterFix and DWR's Water Supply Contract Amendments are misleading and
+24 demonstrably wrong. For example:
+25 DWR has long been aware that revenue bonds could not be issued covering|
+26 expenditures for the Delta tunnels without enacting specific contract revisions addressed in
+27 the "extension" amendments. That is partly because financing for this multibillion-dollar
+28 tunnels project could not realistically fit within the current expiration dates of 2035 to 2042.
+
+12
+VERIFIED PETITION OF PLANNING AND CONSERVATION LEAGUE, ETAL.
+
+Beyond the time frame for repayment, facilities limitations in the existing SWP contracts
+would otherwise prevent the coverage of the Delta tunnels project, including California
+
+3 WaterFix or earlier variants such as BDCP. That existing contractual limitation on covered
+4 facilities, included in article 1(hh)(8) of the SWP contracts, is specifically proposed for
+LO removal in DWR's contract extension amendments.
+Through the "extension" amendments, DWR proposes new authorization for "SWP
+
+7 revenue bonds to be issued to: (1) finance repairs, additions, and betterments to mosti
+
+8 facilities of the SWP without regard to whether the facilities were in existence prior to
+January 1, 1987, which is the current Contract requirement in Article 1(hh)(8); and (2)
+finance other capital projects (not already in the list in Article 1(hh) for which revenue 10 bonds could be sold) when mutually agreed to by DWR and at least 80 percent of the
+11 affected Contractors."
+12 Hearings before the Senate Natural Resources and Water Committee (SNRWC) on
+13 July 3, 2018 and the Joint Legislative and Budget Committee (JLBC) on September 11,
+14 2018 bear directly on DWR's improper piecemealing from the contract extension
+15 amendment and WaterFix reviews. 2 This includes the foundational issue of the extension
+16 project's relationship to the Delta Tunnels and the Water Supply Contract Amendments.'
+17|
+
+18 See, e.g., Santa Barbara County Flood Control and Water Conservation District's SWP contract
+19 (Santa Barbara SWP Contract), art. 1(hh)(8), https://water.ca.gov/-/media/DWR-Website/Web- Pages/Programs/State-Water-Project/Management/SWP-Water-Contractors/Santa-Barbara-County-
+20 Flood-Control-and-Water-Conservation-District/Files/Santa-Barbara-
+CC.pdf?la=en&hash=50978D6A89B5D21854ECA6CC160E3CAB9B9BFFAE.
+21 2 See, e.g., DWR's Water Supply Contract Extension web page, including all linked documents| 22 (https://water.ca.gov/Programs/State-Water-Project/Management/Water-Supply-Contract-
+23 Extension); SNRWC's web page, including all linked documents for July 3, 2018 hearing and webl link to video recording of hearing (https://sntr.senate.ca.gov/content/2018-informationaloversight-
+24 hearings); JLBC's web page, including all linked documents for September 11, 2018 hearing and cancelled August 30, 2018 hearing (https://www.senate.ca.gov/legislativebudget); video link to
+25 September 11, 2018 JLBC hearing on proposed SWP contract extension|
+(http://calchannel.granicus.com/MediaPlayer.php?view_id=2&clip_id=5820). 26
+
+27 3 See, e.g., SNRWC Background Brief to July 3, 2018 hearing, p. 17 (referencing the recognition of SWP contractors and DWR that the proposed contract extension amendments are "a necessary,
+28 but not sufficient condition to incorporate WaterFix into the SWP," and the contention of many organizations that contract amendments remain premature while WaterFix issues are unresolved).
+
+13
+VERIFIED PETITION OF PLANNING AND CONSERVATION LEAGUE, ET AL.
+
+1 Testimony at the September 11, 2018 JLBC hearing undermined the premise of
+
+2 independence from WaterFix upon which DWR's separate Contract Extension Final EIR
+
+3 was founded. That includes the testimony of DWR director Karla Nemeth, following
+questioning from Senator Richard Pan, that DWR plans to "use these amendments to
+
+5 finance WaterFix," and the testimony of Rachel Ehlers of the Legislative Accounting
+Office that the contract extension amendments would "affect and facilitate" WaterFix.
+Facilitation of WaterFix through the contract extension amendments is also addressed in the
+
+8 testimony of Congressman McNerney and of Roger Moore at the same hearing.
+2018 comments not addressed DWR's Contract Extension Final EIR and final
+project approval underscore the critical importance of integrated rather than fragmented
+10 review. Public agency critics throughout California, from Plumas County and the Delta
+11 Counties Coalition to San Diego County, criticized DWR's efforts to finalize the contract
+12 extension without integrated review of all DWR's proposed amendments related to the
+13| Delta Tunnels, including the Water Supply Contract Amendments still awaiting public
+14| comment and completion of review. (Moore letter, Exhibit 3.)
+15 The Legislative Delta Caucus observed that the "poorly defined" contract extension
+16 amendments would have "potential adverse impacts far beyond their apparent scope. There
+17 is much that remains unknown regarding the extensive changes to the SWP contracts that
+
+18 are being proposed and how the changes will impact property taxes, water rates, the fiscal
+
+19 integrity of the SWP and General Fund." (Moore letter, Exhibit 4.)
+
+20 Following the 2018 legislative hearings, more a than a dozen organizations identified
+
+21 numerous changed circumstances requiring additional environmental review since public
+
+22 comment closed in October 2016, only to have DWR, in its November 13, 2018
+certification memo, respond with the non-sequitur that general issue areas were discussed
+23 (Moore letter, Exhibit 5).
+24
+
+25
+
+26
+
+27 Video link to September 11, 2018 JLBC hearing, op cit.; see also Moore letter, Exhibit 5, pp. 2, 5,
+28 fn. 2. 16-17 (quoting DWR Director's testimony) and p. 13, fn. 46 (referencing testimony of Roger
+Moore).
+
+14
+VERIFIED PETITION OF PLANNING AND CONSERVATION LEAGUE, ET AL.
+
+Commentary in major newspapers criticized the defective process and lack of
+2 transparency surrounding the contract extension, as well as DWR's attempts to leverage
+WaterFix indebtedness without adequate review and debate (Moore letter, Exhibit 6).
+The 2018 legislative proceedings helped verify that DWR's certification and project
+
+5 approval sidestepped environmental analysis of a major project component of the Contract
+Extension Amendments, stemming from removal of the existing limitations on covered
+"facilities" under article 1(hh)(8) of current SWP contracts that would otherwise render
+
+8 WaterFix ineligible for revenue bond financing.
+DWR's assurance that projects facilitated by the contract extension will be covered
+by separate CEQA review (e.g., Contract Extension FEIR 2-10, 134) ring hollow. DWR's 10 Delta Tunnels EIR and project approval neither admitted nor analyzed dependence on a
+11 subsequent SWP contract amendment. CEQA review of later-approved projects would
+12 come too late to address the consequences of redefining covered "facilities," because the
+13| current contract language would already be eliminated with the first of DWR's two sets of
+14| proposed amendments.
+15 The Contract Extension FEIR undermines its premise that the contract extension
+16 amendments proposed by DWR have independent utility as a "separate, independent
+17| project" addressing debt compression problems. (Contract Extension FEIR, 2-9.) Debt
+18 compression is based on the comparatively short maturity dates of existing SWP contracts.
+
+19 (id.) The Contract Extension Final EIR recognized that the Evergreen Clause in Article 4 of
+
+20 the SWP contracts already provides a way to extend these dates. (E.g., Contract Extension
+
+21 FEIR, 2-3 to 2-5, 2-33.)
+
+22 The Evergreen Clause in section 4 of the SWP contracts would empower contractors
+to request the cleaner "opt out" provision some have requested since the inception of 23 negotiations on project contracts-one which would allow terms to be extended without
+24 bearing any of the WaterFix costs facilitated by either set of proposed contract amendments,
+25 DWR has never shown its version of the extension amendments, including the proposed
+26 facilities redefinition, to be necessary to ensure continued water deliveries or responsibly
+27| address operation and maintenance needs. By facilitating the issuance of billions of dollars
+28
+
+15
+VERIFIED PETITION OF PLANNING AND CONSERVATION LEAGUE, ET AL.
+
+1
+
+2 to construct the Delta Tunnels project, and perhaps other projects not currently eligible,
+DWR
+
+3 may under the guise of risk reduction force a risky escalation of indebtedness.
+As addressed in the written testimony of Roger Moore and the comments of the
+
+5 Delta Counties Coalition (Moore letter, Exhibits 2, 3), Water Code prerequisites for
+proceeding to finality on the extension amendments (Wat. Code, §§ 147, 147.5) still have
+
+6 not been met. Put another way, by enabling the financing and addition of new SWP
+facilities not meeting this earlier facilities limitation, the contract extension amendments
+
+8 would tangibly facilitate addition of the Delta tunnels to the SWP, and also make it easier
+for DWR and the most powerful SWP contractors to add further debt to finance other costly
+
+10 new facilities of their choosing. The Contract Extension Amendments need an integrated
+
+11 analysis that also includes DWR's proposed Water Supply Contract Amendments, and
+
+12 WaterFix itself, in a single cohesive environmental analysis.
+
+13
+
+14 FIRST CAUSE OF ACTION:
+
+15 VIOLATIONS OF CEQA
+
+16 30. In certifying the Contract Extension Final EIR and rendering its final project
+17 approval, DWR violated CEQA in at least the following respects:
+
+18
+
+19 Improper Piecemealing of Project Analysis, and Failure to Consider the "Whole of
+the Action" constituting the project.
+
+20 Failure to Provide a Stable, Complete and Consistent Project Definition.
+
+21 Faulty Assessment of Project Baseline.
+S Faulty Assessment of No Project Alternative
+
+23 Failure to Analyze a Reasonable Range of Alternatives
+
+24 Faulty and Incomplete Assessment of Project Impacts
+
+25 Faulty and Incomplete Assessment of Cumulative Impacts
+
+26 Failure to Mitigate Significant Impacts
+
+27 Failure to Recirculate EIR Despite Significant New Information
+
+28 Failure to Adequately Respond to Comments
+Approval of Defective Project Findings.
+
+16
+VERIFIED PETITION OF PLANNING AND CONSERVATION LEAGUE, ET AL.
+
+PRAYER FOR RELIEF 1
+
+WHEREFORE, petitioners pray that this Court:
+
+1. 1 Issue its writ of mandate setting aside the orders of respondent, including its
+certification of the FEIR as adequate and its decision recorded in its Notice of
+
+Determination;
+
+2. Enjoin DWR's project until and unless respondent Department of Water
+Resources lawfully approves the project in the manner required by CEQA; 10
+3. 11 Award petitioner costs, and attorneys' fees under section 1021.5 of the Codel
+
+12 of Civil Procedure; and
+13 4. Grant such further relief that the Court deems just.
+14
+
+15
+Dated: January 10, 2019 Respectfully submitted, 16
+
+17
+ROGER B. MOORE (SBN 159992) 18 LAW OFFICE OF RÖGER B. MOORE
+19
+By: 20 B. Moore
+21
+Attorney for Petitioners Planning and Conservation 22 League, California Water Impact Network,
+23 AquAlliance, and California Sportfishing Protection Alliance
+24
+
+25
+
+26
+
+27
+
+28
+
+17
+VERIFIED PETITION OF PLANNING AND CONSERVATION LEAGUE, ET AL.
+
+1
+VERIFICATION 2
+3 I, Roger B. Moore, am counsel of record for petitioners Planning and
+Conservation League, California Water JImpact Network, AquAlliance, and California
+Sportfishing Protection Alliance. am signing this verification due to petitioners' absencel
+from the county, and because facts in the petition are within the knowledge of the
+undersigned counsel. I have read the foregoing petition and complaint and know the
+contents thereof. The same is true of my own knowledge, except as to those matters that
+9 are alleged on information and belief, and as to those matters, I believe them to be true.
+10 I declare under penalty of perjury under the laws of the State of California that the
+11 foregoing is true and correct. Executed this 10th day of January, 2019 in Oakland,
+
+12 California .
+
+13
+
+14
+
+15 Roger B. Moore
+
+16
+
+17
+
+18
+
+19|
+
+20
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+18
+VERIFIED PETITION OF PLANNING AND CONSERVATION LEAGUE, ET AL.
+
+CM-010
+AKOROr B MOOTe T58N*15880E2 fieanoa, Stueto Bar number, end eoscoss: FOR COURT USE ONLY
+Law Office of Roger B. Moore 337 17th St. Suite 211 FILED
+Oakland, CÁ 94602 TELEPHONE NO.: 510-548-1401 Suparior Court Of California,
+FAX NO.: ATTORNEY FOR (Name): Planning and Conservation League, et al. Sacramento
+
+SUPERIOR COURT OF CALIFORNIA, COUNTY OF Sacramento 01/10/2019
+STREET ADDRESS: 720 9th St. MAILING ADDRESS: 720 9th St. kfay
+CITY AND ZIP CODE: Sacramento, 95814 BRANCH NAME: Gordon D. Schaber Sacramento County Courthouse By Deputy
+CASE NAME: Case Numbur:
+Planning and Conservation League et al. v. Cal. Dep't of Water Resources | 34-2019-80003053
+CIVIL CASE COVER SHEET
+Unlimited L Limited complex Case Designation CASE NUMBER:
+
+(Amount (Amount - Counter -3 Joinder
+demanded demanded is JUDGE:
+
+exceeds $25,000) $25,000 or less) Filed with first appearance by defendant (Cal. Rules of Court, rule 3.402) DEPT:
+Items 1-6 below must be completed (see instructions on page 2).
+1. Check one box below for the case type that best describes this case:
+Auto Tort Contract Provisionally Complex Cilvil Litigation
+Auto (22) Breach of contract/warranty (08) (Cal. Rules of Court, rutes 3.400-3.403)
+Uninsured motorist (46) Rule 3.740 collections (09) Antitrust/Trade regulation (03)*
+Other PUPDAND (Personal Injury/Property Construction defect (10)
+Damage/Wrongful Death) Tort Other collections (09)
+Insurance coverage (18) Mass tort (40)
+Asbestos (04)
+Product Ilability (24) Other contract (37) Securities litigation (28)
+Environmental/Toxic tort (30) BY FAX
+Medical malpractice (45) Real Property
+Eminent domain/Inverse
+Other PI/PD/WD (23) condemnation (14) Insurance coverage claims arising from the above listed provislonally complex case
+Non-PUPD/WD (Other) Tort Wrongful eviction (33) types (41)
+Business tort/unfair business practice (07) Other real property (26) Enforcement of Judgment
+Civil rights (08) Unlawful Detalner Enforcement of judgment (20)
+Defamation (13) Commercial (31) Miscellaneous Clvil Complaint
+Fraud (16) Residential (32) RICO (27)
+Intellectual property (19) Drugs (38)
+Judicial Review Other complaint (not specified above) (42)
+Professional negligence (25)
+Other non-PI/PD/D tort (35) Asset forfeiture (05) Miscellaneous Clvil Petition
+
+Employment Pelition re: arbitration award (11) Partnership and corporate govemance (21)
+Wrongful termination (36) Writ of mandate (02) Other petition (not specified ebove) (43)
+Other employment (15) Other Judicial revlew (39)
+2. This case J is M is not complex under rule 3.400 of the California Rules of Court. If the case is complex, mark the factors requiring exceptional judicial management: a.  Large number of separately represented parties Large number of witnesses
+b. Extensive motion practice raising difficult or novel Coordination with related actions pending in one or more courts
+issues that will be time-consuming to resolve a.  Substantial amount of documentary evidence in other counties, states, or countries, or in a federal court f. - Substantial postjudgment judicial supervision
+3. Remedies sought (check all that apply): a.J monetary b. Z] nonmonetary; declaratory or injunctive relief c. punitive 4. Number of causes of action (specify): One 5. This case is is not a class action suit.
+6. If there are any known related cases, file and serve a notice of related case. (You may use form CM-015.)
+Date: January 10, 2019
+
+(TYPE OR PRINT NAME) ß. 72 20 76 6NATURÉ OF PARTY OR ATTORNEY FOR PARTY)
+NOTICE Plaintiff must file this cover sheet with the first paper filed in the action or proceeding (except small claims cases or cases filed under the Probate Code, Family Code, or Welfare and Institutions Code). (Cal. Rules of Court, rule 3.220.) Failure to file may result in sanctions. • File this cover sheet in addition to any cover sheet required by local court rule. If this case is complex under rule 3.400 et seq. of the California Rules of Court, you must serve a copy of this cover sheet on all
+other parties to the action or proceeding. Unless this is a collections case under rule 3.740 or a complex case, this cover sheet will be used for statistical purposes only. Pago 1 of 2
+Form Adopted for Mandatory Use CIVIL CASE COVER SHEET Cal. Rules of Court, nues 2.30, 3.220, 3.400-3.403, 3.740;
+Judiclai Council of Callifomia Cal. Standards of Judicial Administration, std.:
+CM-010 [Rev. July 1, 2007) www.courtinfo.ca.gov
+
+NECEIVEN JAN 2019 BY:____________.

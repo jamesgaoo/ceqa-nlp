@@ -1,0 +1,867 @@
+1 AQUA TERRA AERIS LAW GROUP
+JASON R. FLANDERS, Cal. Bar No. 238007 2 AUSTIN J. SUTTA, Cal. Bar No. 300425
+3 4030 Martin Luther King Jr. Way Oakland. CA 94609
+4 Telephone: (916) 202-3018
+Email: jrf@atalawgroup.com
+5 ajs@atalawgroup.com
+
+6 Attorneys for Petitioner
+7 Sunflower Alliance
+
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+COUNTY OF ALAMEDA
+10
+
+11 SUNFLOWER ALLIANCE, Case No.: 21CV004933
+12
+Petitioner, NOTICE TO ATTORNEY GENERAL 13
+
+14 VS. (Code Civ. Proc. § 388; Cal. Pub. Resources
+Code § 21167.7)
+15 CALIFORNIA DEPARTMENT OF
+CONSERVATION, GEOLOGIC ENERGY
+16 MANAGEMENT DIVISION; DOES 1 through
+100, inclusive,
+17
+
+18 Respondents.
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL
+
+I
+TO THE ATTORNEY GENERAL OF THE STATE OF CALIFORNIA:
+2
+PLEASE TAKE NOTICE, under Public Resources Code section 21167.7 and Code of Civil
+3 Procedure section 388, that on December 29, 2021, Sunflower Alliance (*Petitioner") filed a Verified
+4
+Petition for Writ of Mandate against the California Department of Conservation, Geologic Energy
+5
+Management Division ("CalGEM") in the Alameda County Superior Court. The Petition challenges
+6
+the CalGEM's Notice of Exemption for the PAL Reabold 072-00-0001 Project. The lawsuit is based
+7
+on violations of the California Environmental Quality Act and seeks recovery of Petitioner's
+8
+
+9 reasonable costs and attorneys' fees under Code of Civil Procedure section 1021.5 or other applicable
+theories, as discussed more fully in the Petition attached to this notice.
+10
+
+11
+
+12
+DATED: January 5, 2022
+13
+
+14
+
+15
+Jason R. Flanders
+16 Attorneys for Petitioner
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL
+
+PROOF OF SERVICE
+
+2
+am a citizen of the United States, employed in the County of Alameda. My business 3 address is 4030 Martin Luther King Jr. Way, Oakland, California 94609. I am over the age of 18
+4 years and not a party to the above-entitled action. Document(s) served:
+5 NOTICE TO ATTORNEY GENERAL
+6
+
+7 On January 5, 2022, I served the foregoing document(s) on the parties in this action, located
+
+8 on the attached service list, by placing copies thereof in sealed envelopes addressed as shown
+
+9 below for service as designated below:
+
+10 (X) By U.S. Mail: Deposited the sealed envelope with the United States Postal Service, with the postage fully paid. 11 ( By Personal Service: I personally delivered each such envelope to the office of
+12 the address on the date last written below.
+By Overnight Mail: I caused each such envelope to be placed in a box or 13 other facility regularly maintained by the express service carrier, or delivered to an authorized courier or driver
+14 authorized by the express service carrier to receive documents, in an envelope or package designated by the
+15 express service carrier with delivery fees paid or provided for.
+16 ( By Electronic Transmission: Based on a court order or an agreement of the parties to
+17 accept service by electronic transmission, I caused the documents to be sent to the person(s) at the e-mail
+18 addresses listed below. I did not receive, within reasonable time after the transmission, any electronic
+19 message or other indication that the transmission was unsuccessful.
+
+20
+
+21 I declare under penalty of perjury under the laws of the State of California that the above is
+
+22 true and correct. Executed on January 5, 2022, Oakland, California.
+
+23
+
+24
+
+25 Theresa Trillo
+
+26
+
+27
+
+28
+
+2
+NOTICE TO ATTORNEY GENERAL
+
+- SERVICE LIST
+
+2 VIA CERTIFIED MAIL RETURN RECEIPT
+
+3 Rob Bonta
+
+4 Office of the Attorney General 1300 "I" Street
+
+5 Sacramento, CA 95814-2919
+
+6
+
+7
+
+8
+
+o
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+3
+NOTICE TO ATTORNEY GENERAL
+
+FILED
+Superior Court of California County of Alameda •
+AQUA TERRA AERIS LAW GROUP 12/29/2021
+JASON R. FLANDERS, Cal. Bar No. 238007 Chad Flnke, Execetue Omcer/Cer ofte 0o 1r1
+2 AUSTIN J. SUTTA, Cal. Bar No. 300425 By. Deputy
+3 4030 Martin Luther King Jr. Way J. Moyer
+Oakland, CA 94609
+4 Telephone: (916) 202-3018
+Email: jrf@atalawgroup.com
+ajs@atalawgroup.com
+
+Attorneys for Petitioner
+Sunflower Alliance
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+9
+COUNTY OF ALAMEDA
+10
+
+11
+
+12 SUNFLOWER ALLIANCE, Case No. 21CV004933
+
+13 Petitioner, VERIFIED PETITION FOR WRIT OF
+MANDATE (California Environmental
+14 Quality Act, Pub. Resources Code §§ 21100
+15 CALIFORNIA DEPARTMENT OF et seq.)
+
+16 CONSERVATION, GEOLOGIC ENERGY
+MANAGEMENT DIVISION, and DOES 1 17 through 100, inclusive,
+
+18 Respondents.
+19 REABOLD CALIFORNIA, LLC, and DOES
+20 101 through 200, inclusive,
+
+21 Real Party in Interest.
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+-
+
+2 Petitioner SUNFLOWER ALLIANCE (*Petitioner") brings this action for writ of mandate
+under the California Environmental Quality Act ("CEQA") (**Petition") on behalf of Petitioner's
+3 interested members and residents, and in the public interest.
+
+4 GENERAL ALLEGATIONS
+
+5 1.
+
+6 On November 24, 2021, the State of California Natural Resources Agency,
+Department of Conservation, Geologic Energy Management Division (*Management Division" or
+7 "Respondent") issued a Notice of Exemption ("NOE") for the PAL Reabold 072-00-0001 Project
+8 (the "Project"), with "Reabold California" as the Project Applicant, determining that the Project is
+
+9 exempt from further environmental review requirements of the California Environmental Quality
+10 Act.
+
+11 2.
+
+12 The NOE determines that the Project is subject to a Class 1 Categorical Exemption
+
+13 for "Existing Facilities" pursuant to 14 Cal. Code Regs. § 15301.
+
+3. The NOE further determines that the Project is exempt from CEQA as an ongoing
+14 project Pursuant to Public Resources Code section 21169 and 14 Cal. Code Regs. Section
+15 15261(b).
+
+16 4. The Project seeks to allow disposal of wastewater into a Class II Water Disposal
+17 well proposed to be installed in an existing well boring in the Brentwood oil field (the "Well").
+
+18 5.
+
+19 The Well is currently listed as plugged and abandoned.
+
+6.
+
+20 The Well was previously used as a Dry Gas well.
+7.
+
+21 The Well has never been used for wastewater injection.
+
+8. Class Categorical Exemptions apply only to "the operation, repair, maintenance,
+22 permitting, leasing, licensing, or minor alteration of existing public or private structures, facilities,
+23 mechanical equipment, or topographical features, involving negligible or no expansion of existing
+24 or former use." 14 Cal. Code Regs § 15301. New uses, requiring new permits, do not fall under
+25 the category of a negligible or no expansion of existing use or former.
+
+26 9. The ongoing project exemption does not exempt new entitlements approved for
+27 existing projects after April 5, 1973.
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 10. The Project permits a greater scope of activities and environmental effects than
+2 originally permitted.
+
+3 11. The Court should therefore issue a peremptory writ of mandate, vacating
+4 Respondent's NOE, unless and until the Project can be brought into compliance with the law.
+
+5 THE PARTIES
+
+6 12. Petitioner SUNFLOWER ALLIANCE is an unincorporated association committed
+7 to environmental justice and the health and safety of San Francisco Bay Area communities
+8 threatened by toxic pollution and climate disruption. The mailing address for Sunflower Alliance
+9 is P.O. Box 1934, El Cerrito, CA, 94530-1934.
+
+10 13. Respondent CALIFORNIA DEPARTMENT OF CONSERVATION, GEOLOGIC
+
+11 ENERGY MANAGEMENT DIVISION is the public agency and the CEQA "Lead Agency" that
+12 approved the CEQA Categorical Exemption for the Project, and approved the Project.
+
+13 14. Real Party in Interest REABOLD CALIFORNIA, LLC is the Project applicant,
+14 well owner, and leaseholder for two producing wells with production approaching 300 barrels of
+15 oil per day and 300 barrels of water per day. According to the Secretary of State's business portal,
+16 the entity mailing address for REABOLD CALIFORNIA, LLC is P.O. Box 520 Lincoln, CA
+17 95648. According to the Secretary of State's business portal, the entity address and address for
+18 service of process for REABOLD CALIFORNIA, LLC is 5701 Lonetree Blvd., Suite 226,
+19 Rocklin, CA 95765. Petitioner is informed and believes and thereon alleges that Reabold
+20 California, named as the Project applicant in the NOE is, in fact, Reabold California, LLC.
+21 15. The true names and capacities of the Respondents named here as DOES 1 through
+22 100, inclusive, are presently unknown to Petitioner. As such, Petitioner has sued these
+23 Respondents by fictitious names, and Petitioner will seek to amend this Petition to show their true
+24 names and capacities when ascertained.
+
+25 16. The true names and capacities of the Respondents named here as DOES 101
+26 through 200, inclusive, are presently unknown to Petitioner. As such. Petitioner has sued these
+
+27
+
+28
+
+2
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 Respondents by fictitious names, and Petitioner will seek to amend this Petition to show their true
+
+2 names and capacities when ascertained.
+
+3 JURISDICTION AND VENUE
+
+4 17. This Court has jurisdiction to issue a writ of mandate to set aside Respondent's
+5 actions and decisions relating to the NOE and the Project, and to compel Respondent to comply
+6 with CEQA under California Code of Civil Procedure section 1085 and California Public
+7 Resources Code sections 21168 and/or 21168.5.
+
+8 18. This Court has jurisdiction to issue an order for injunctive relief pursuant to
+9 California Code of Civil Procedure section 525 et seq.
+
+10 19. Venue is proper in the County of Alameda under California Code of Civil
+11 Procedure section 393 and 401 and California Government Code section 955.3. Respondent is a
+12 state agency with its principal offices in Sacramento, and the Attorney General has offices in
+13 Alameda County.
+
+14 NOTICE REQUIREMENTS AND TIMING
+15 20. Respondent filed a Notice of Exemption exempting the Project from CEQA review
+16 on November 24, 2021.
+
+17 21. Petitioner filed this action within the applicable statute of limitation as required by
+18 14 California Code of Regulations section 15062(d).
+
+19 22. On December 28, 2021, prior to commencing this action, Petitioner served
+20 Respondent with written notice of Petitioner's intent to commence this action under CEQA, and
+21 thus Petitioner has complied with the requirements of California Public Resources Code section
+22 21167.5. Copies of that written notice and proof of service are attached as Exhibit A.
+23 23. Petitioner is filing and serving, concurrently with the filing of this Petition,
+24 Petitioner's election to prepare the administrative record.
+25 24. Petitioner is filing and serving, concurrently with the filing of this Petition, a
+26 Request for Hearing concurrently with the filing of this Petition, and thus complied with Public
+27 Resources Code section 21167.4.
+
+28
+
+3
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 ADDITIONAL STANDING ALLEGATIONS
+
+2 25. Petitioner and its respective members and residents live in the areas included in,
+3 and that will otherwise be affected by the Project, and use the areas affected by the Project for
+4 recreational and educational purposes.
+
+5 26. Petitioner and its respective members and residents are directly and beneficially
+6| interested in Respondents' mandatory duty to fully comply with CEQA, and Petitioner and its
+7 respective members and residents are directly and beneficially interested in, and aggrieved by, the
+8 acts, decisions, and omissions of Respondents as alleged in this Petition.
+
+9 27. The requirement that Petitioners exhaust all administrative remedies prior to filing
+
+10 a petition for writ of mandate pursuant Cal. Pub. Resources Code § 21167 "applies where (1)
+11 CEQA provides a public comment period, or (2) there is public hearing before a notice of
+12 determination is issued." (Azusa Land Reclamation Co. V. Main Gabriel Basin Watermaster
+13 (1997) 52 Cal.App.4th 1165, 1210). Where NOE is issued, there is "no "public comment period
+14 provided by CEQA' and there [is] no *public hearing before the issuance of the notice of
+15 determination.' Consequently, Public Resources Code section 21177 has no application" in such
+16 instances. (ld.; see also Cal. Pub. Resources Code § 21177(e) (*This section does not apply to any
+17 alleged grounds for noncompliance with this division for which there was no public hearing or
+18 other opportunity for members of the public to raise those objections orally or in writing before
+19 approval of the project . . . .").) Accordingly, "the only prerequisite to challenging an exemption
+20 I determination is that it be brought within 180 days of the date of the final decision of the agency"
+
+21 or within 35 days of the filing of the NOE and the posting on the list of notices. (Azusa Land
+22| Reclamation Co., supra, 52 Cal.App.4th at 1210, citing 14 CCR 15062(d).)
+23 28. Petitioner does not have a plain, speedy and adequate remedy in the ordinary course
+24 of law. Without the requested mandatory and injunctive relief, Petitioner and its respective
+25 members and residents will be irreparably harmed by implementation of the Project and by
+26 Respondent's violations of CEQA. Such harm cannot be adequately compensated by money or
+27 other legal remedies.
+
+28
+
+4
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 PRIVATE ATTORNEY GENERAL DOCTRINE
+
+2 29. Petitioner brings this action as a private attorney general pursuant to California
+3 Code of Civil Procedure section 1021.5, and any other applicable legal theory, to enforce
+4 important rights affecting the public interest.
+
+5 30. Issuance of the relief requested in this Petition will confer significant benefits on
+
+6 the general public by, among other benefits: 1) requiring Respondent to properly disclose, analyze
+7 and mitigate the direct, indirect, and cumulative impacts of the Project that were not properly
+8 disclosed, analyzed or mitigated, 2) ensuring that Respondent properly consider alternatives and/or
+9 mitigation measures to reduce or avoid the Project's potentially significant, adverse environmental
+10 effects, 3) requiring Respondent to implement all feasible alternatives and mitigation measures to
+11 avoid such adverse effects or reduce them to less-than-significant levels, and 4) ensuring that
+12 Respondent affords the public and affected agencies with the opportunity to review and comment
+13 on potentially significant project impacts, and receiving : meaningful and complete response to
+14 any such comments on such issues, prior to the approval of such Project.
+15 31. Issuance of the relief requested in this Petition will result in the enforcement of
+16 important rights affecting the public interest. By compelling Respondent to complete a legally
+17 adequate analysis of the Project, to protect public health and natural resources, Respondent will be
+18 required to properly and publicly disclose and analyze all of the Project's potentially significant,
+19 adverse environmental effects, and to ensure that all feasible mitigation measures or alternatives
+20 that would reduce or avoid the Project's potentially significant, adverse environmental impacts are
+21 implemented.
+
+22 32. The necessity and financial burden of enforcement are such as to make an award of
+23 attorneys' fees appropriate in this proceeding. Absent enforcement by Petitioner, the Project might
+24  otherwise be deemed valid despite its legally and factually inadequate NOE, disclosures, analysis,
+25 conclusions, mitigation measures, and alternatives, among other things, and, as a result, potentially
+26 significant, adverse environmental effects might otherwise have evaded legally adequate
+27 environmental review and mitigation in accordance with the California Legislature's policy, in
+28
+
+5
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+of the P adopting CEQA, of affording the greatest protections to the environment within the scope
+
+2 statute.
+
+3 33. Petitioner will serve a copy of this Petition, once filed, on the Attorney General's
+4 office to give notice of Petitioner's intent to bring this proceeding as private attorneys general
+5 under Code of Civil Procedure section 1021.5.
+
+6 LEGAL FRAMEWORK
+
+7 34. CEQA has two purposes: environmental protection and informed self-government.
+Woodward Park Homeowners Assn., Inc. V. City of Fresno, 150 Cal.App.4th 683, 690-691 (2007).
+
+9 CEQA is "to be interpreted to afford the fullest possible protection to the environment within the
+10 reasonable scope of the statutory language." Mountain Lion Foundation v. Fish & Game Com., 16
+11 Cal.4th 105, 134 (1997). CEQA requires agencies to "take all action necessary to protect,
+12 rehabilitate, and enhance the environmental quality of the state." Pub. Resources Code, §
+
+13 |21001(a).
+
+14 35. Pursuant to CEQA, a "project" is an activity which may cause either direct physical
+15 change in the environment, or reasonably foreseeable indirect physical change in the environment
+16 (Pub. Resources Code § 21065(a)); and a "discretionary" project is one that is subject to
+17 judgmental controls, where the agency can use its judgment to decide whether and how to carry
+
+a 18 out a project. Cal. Code Regs., tit. 14, ch. 3 ("CEQA Guidelines"), § 15002(i). Prior to approving §
+
+19 any discretionary project, an agency must fully disclose and analyze all of the project's potentially
+20 significant direct, indirect, and cumulative environmental effects. See, e.g., CEQA Guidelines §
+21 15002(f)), and that public agencies avoid or minimize such environmental damage where feasible.
+22 CEQA Guidelines § 15021(a). Pursuant to this duty, no public agency may approve or carry out a
+23 project where one or more significant effects on the environment may occur if the project is
+24 approved, unless certain narrow findings are made. CEQA Guidelines §§ 15091, 15093.
+
+25 36. Respondent's approval of the Project was a discretionary decision.
+
+26 37. Class Categorical Exemptions apply only to "the operation, repair, maintenance,
+27 permitting, leasing, licensing, or minor alteration of existing public or private structures, facilities,
+
+28
+
+6
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 mechanical equipment, or topographical features, involving negligible or no expansion of existing
+2 or former use." (14 Cal. Code Regs. § 15301 (emphasis added).)
+
+3 38. Modification of the Well to allow for installation of a new Class II Water Disposal
+4 well and new well uses, requiring new permits, does not fall into the category of an "existing
+5 facility" or a "negligible or no expansion of an existing or former use," particularly where the
+6 supposed existing facility has never undergone environmental review. (See Communities for a
+7 Better Environment v. South Coast Air Quality Management Dist., 48 Cal.4th 310, 317-319, 326
+8 [refinery expansion "*cannot be characterized as merely the modification of a previously analyzed
+9 project"].)
+
+10 39. A "minor' alteration cannot be an activity that creates a reasonable possibility of a
+11 significant environmental effect." (Azusa Land Reclamation Co, supra,. 52 Cal.App.4th at 1194).
+12 40. The "key consideration" in determining whether a Class Categorical Exemption
+13 applies is whether the Project involves "negligible" or "no expansion" of an existing or former
+14 use. (14 Cal. Code Regs. § 15301).
+
+15 41. Exemption categories are "*"not to be expanded or broadened beyond the
+16 reasonable scope of their statutory language."* (World Business Academy v. State Lands Com.
+17 (2018) 24 Cal.App.5th 476, 495; see also Save Our Carmel River v. Monterey Peninsula Water
+18 Management Dist. (2006) 141 Cal.App.4th 677, 697 [categorical exemptions usually narrowly
+19 construed "to afford the fullest possible environmental protection"].)
+20 42. CEQA Guidelines section 15261, subdivision (b), provides, "A private project shall
+21 be exempt from CEQA if the project received approval of a lease, license, certificate, permit, or
+22 other entitlement for use from a public agency prior to April 5, 1973 ..."
+23 43. The CEQA Guidelines recognize this statutory exemption for projects that are
+24 | **still' being carried out . . . ." (North Coast Rivers Alliance v. Wetlands Water Dist. (2014) 174
+25 Cal. App. 4th 832, 855). "[T]he exemption is evidently founded, at least in part, on the fact that
+26 CEQA, as a statutory enactment, was intended by the Legislature to have a prospective, not
+27 retroactive, application." (Id). "The key issue in analyzing the exemption is whether the
+28
+
+7
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+challenged action is 'a normal, intrinsic part of the ongoing operation' of a project approved prior
+2 to CEQA, rather than an expansion or modification thereof." (Id. at 857).
+
+3 44. Whether an activity requires environmental review depends on whether it expands
+4 or enlarges project facilities or whether it "merely monitors and adjusts the operation of existing
+5 facilities to meet fluctuating conditions." (Nacimiento Regional Water Management Advisory
+
+6 Com. v. Monterey County Water Resources Agency (1993) 15 Cal. App. 4th 200, 205, citing
+7 County of Inyo V. Yorty (1973) 32 Cal. App. 3d 795, 806-807). Where there is a "change in
+
+8 proposed operation" or a "chang[e] [in] the focus" of a Project, the "Ongoing Project" exemption
+9 is inapplicable. (County of Amador, County of Amador v. El Dorado County Water Agency (1999)
+10 76 Cal.App.4th 931, 968-69). "[O]ngoing projects that contemplate expansion or revisions are
+11 subject to environmental review." (Id. at 968, citing Nacimiento, supra, 15 Cal. App. 4th at 206-
+12 207). Where a project "entail[s] revisions in procedures" rather than "*continued operations within
+13 existing parameters," the "ongoing project" exemption does not apply. (Id. at 969, citing
+14 Nacimiento, supra, 15 Cal. App. 4th at 207-208).
+
+15 45. There have been at least twelve (12) amendments to oil and gas laws since CEQA's
+16 passage on November 23, 1970, highlighting the Legislature's intent not to insulate from review
+17 Projects that do not clearly fall within the "Ongoing Project" exception. (See, e.g., 14 Cal. Code
+18 Regs., §§ 1723, 1722.8 (1974); 1721.7 (1975); 1722(d), 1722.5, 1722(b) (1978); Pub. Resources
+19 Code §§ 3222 (1976); 3202 (1988); 3203(c) (1991, 2000); 3106(c) (1994); 3205.3, 3011(a)
+20 (2020).)
+21 CAUSE OF ACTION
+
+22 (Violations of CEQA)
+
+23 46. Petitioner incorporates by reference the allegations of set forth above, as if fully set
+24| forth in this paragraph.
+
+25 47. Respondent prejudicially abused its discretion in approving an "*Ongoing Project"
+26 exemption for the Project.
+
+27
+
+28
+
+8
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 48. Respondent did not proceed in the manner required by law in approving the
+2 Project, and its decision in issuing the Ongoing Project exemption is not supported by substantial
+3 evidence. (See, e.g., County of Amador, supra, 76 Cal.App.4th at 968 (*change in proposed
+4 operation renders exemption inapplicable); see also Nacimiento, supra, 15 Cal. App. 4th at 206-
+5 08 (ongoing projects that contemplate expansion or revisions, rather than continued operations
+6 within existing parameters, are subject to environmental review).)
+
+7 49. Respondent prejudicially abused its discretion in issuing a Class Categorical
+8 Exemption.
+
+9 50. Respondent did not proceed in the manner required by law in approving the
+10 Project, and its decision in issuing the Categorical Exemption is not supported by substantial
+11 evidence. (Berkeley Hillside Preservation v. City of Berkeley (2015) 60 Cal.4th 1086, 1110
+12 (setting forth standard of review); see also County of Amador, supra, 76 Cal.App.4th at 966-67
+13 (change in focus of project operation does not constitute "negligible expansion of current use").)
+14 These legal deficiencies include, without limitation, the following:
+15 51. The NOE impermissibly utilizes the "Ongoing Project" exemption to approve a
+16 Project that is not ongoing. As stated in the NOE, the existing well boring that the Project seeks to
+
+17 turn into a Class II Water Disposal well "is currently listed as plugged and abandoned." This
+18 defies any reasonable interpretation of a Project that is "still being carried out," and is contrary to
+19 the CEQA Guidelines as well as established precedent.
+20 52. The conversion of a currently plugged and abandoned well boring into a Class II
+21 Water Disposal Well is not "a normal, intrinsic part of the ongoing operation' of a project
+22 approved prior to CEQA, rather than an expansion or modification thereof."
+23 53. The conversion of a currently plugged and abandoned well boring into Class II
+24 Water Disposal well constitutes a "*change in proposed operation" or a "chang[e] [in] the focus" of
+25 a Project.
+
+26 54. The NOE impermissibly designates the plugged, abandoned boring well as an
+27| "existing facility." While a facility used to provide natural gas is listed as an example of a Class
+28
+
+9
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+"Existing Facility" to which the Categorical Exemption may apply, facilities used to provide either
+2 oil or wastewater disposal are not listed. 14 Cal. Code Regs § 15301.
+
+3 55. The Well is not an "existing facility" pursuant to CEQA.
+
+4 56. The alteration of the Well from one that has been plugged, abandoned, and
+5 nonoperational for some undisclosed amount of time to one into which approximately 300 barrels
+
+6 of oil production wastewater per day will be disposed does not constitute a "minor alteration."
+(See 14 Cal. Code Regs § 15301 (The alteration of an existing facility must be minor); see also
+
+8 Azusa Land Reclamation Co., supra, 52 Cal. App. 4th at 1194 (a "minor alteration" "has to be one
+
+9 that is so small that it does not cross the threshold level set by the [CEQA] Guidelines for an
+10 exception to the categorical exemptions. Thus, a 'minor' alteration cannot be an activity that
+11 creates a reasonable possibility of a significant environmental effect").)
+
+12 57. The expansion of use of the Well from one that has been plugged, abandoned, and
+13 nonoperational as a "Dry Gas" well for some undisclosed period of time to one into which
+14 approximately 300 barrels of oil production wastewater per day will be disposed does not
+15 constitute "negligible or no expansion of former use." (14 Cal. Code. Regs § 15301; see also
+16 Communities for a Better Environment, supra, 48 Cal.4th at 326 (adding a new process to the
+
+17 facility requiring the installation of new equipment as well as the modification and increased
+
+18 operation of other equipment constitutes a significant expansion of use).)
+
+19 58. The Project proposes a new well use - wastewater disposal instead of dry gas
+20 production - requires new permits in order to operate, constitutes a change in the focus of Project
+21 operation, and is therefore not a "negligible or no expansion of former use."
+22 59. For each of these reasons, Respondent prejudicially abused its discretion and failed
+23 to proceed in the manner required by law in issuing the NOE and approving the Project.
+24 WHEREFORE, Petitioner prays for relief as follows:
+25 l. That this Court issue a peremptory writ of mandate:
+26
+
+27
+
+28
+
+10
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+a. Commanding Respondent to set aside its approval of the NOE, and to prepare
+2 an EIR and/or otherwise comply with CEQA prior to any subsequent action
+3 taken to approve the Project:
+4 b. Commanding Respondent and Real Party in Interest to immediately suspend all
+5 activities in furtherance of the Project; and,
+
+6 C. Commanding Respondents to set aside their approvals of the Project.
+2. For an award of Petitioner's costs incurred in bringing this action, and reasonable
+8 attorneys' fees pursuant to Code of Civil Procedure Section 1021.5, or as otherwise authorized by
+
+9 law; and
+
+10 3. For such other relief as the Court deems just and proper.
+11
+
+12 Dated: December 29, 2021
+
+13 AQUA TERRA AERIS LAW GROUP
+14
+
+15 By farertahte
+16
+
+17 Attorneys for
+Sunflower Alliance
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+11
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+VERIFICATION
+
+2
+
+3 I. Shoshana Wechsler, am an authorized representative and member of Petitioner,
+Sunflower Alliance. I have read the foregoing Petition and know the contents thereof to be true
+4 and correct. The same is true of my own knowledge, except as to those matters that are alleged on
+5 information and belief, and as to those matters, I believe them to be true.
+
+6 declare under penalty of perjury under the laws of the State of California that the
+7 foregoing is true and correct. Executed this 29th day of December, in Oakland, California.
+
+8
+
+o Wechsfer
+
+10 Shoshana Wechsler
+Sunflower Alliance
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+12
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+EXHIBIT A
+
+ATA
+AQUA TERRA AERIS LAW GROUP
+
+December 28, 2021
+
+Jason R. Flanders
+Aqua Terra Aeris Law Group
+4030 Martin Luther King Jr. Way
+Oakland, CA 94609
+jrf@atalawgroup.com
+916.202.3018
+
+California Department of Conservation
+Geologic Energy Management Division (CalGEM)
+715 P Street, MS 1803
+Sacramento, CA 95814
+
+RE: Notice of Intent to File CEQA Petition for Write of Mandate
+
+To whom it may concern:
+Please take notice, pursuant to Public Resources Code § 21167.5, that our client, Sunflower Alliance, intends to file a petition under the provisions of the California Environmental Quality Act (*CEQA") against respondent, California Department of Conservation, Geological Energy Management Division (CalGEM), challenging CalGEM's Notice of Exemption for the PAL Reabold 072-00-0001 Project. The petition will seek an order of the court vacating CalGEM's Notice of Exemption; for respondent to pay petitioner's costs of suit and reasonable attorneys' fees related to this proceeding; and for such other relief as the
+court may deem proper.
+If you would like to discuss resolution of this matter without litigation, please contact me at your earliest convenience.
+
+Sincerely,
+
+Jason R. Flanders
+AQUA TERRA AERIS LAW GROUP
+
+Cc: Reabold California, LLC
+P.O. Box 520
+Lincoln, CA 95648
+
+PROOF OF SERVICE
+
+I am a citizen of the United States. employed in the County of Alameda. My business
+address is 4030 Martin Luther King Jr. Way, Oakland, CA 94609. I am over the age of 18 years
+and not a party to the above-entitled action. Document served:
+
+NOTICE OF INTENT TO FILE CEQA PETITION FOR WRIT OF
+MANDATE
+
+On December 28, 2021, I served the foregoing document on the parties in this action,
+located on the attached service list, by placing copies thereof in sealed envelopes addressed as
+shown below for service as designated below:
+
+(xx) By First Class Mail: Deposited the sealed envelope with the United States Postal Service, with the postage fully paid.
+( ) By Certified Mail: Deposited the sealed envelope with the United States Postal Service, with the postage fully paid.
+By Electronic Transmission: caused each such document to be sent by email to the
+following persons or their representative named in the
+service list below.
+
+I declare under penalty of perjury under the laws of the State of California that the above
+is true and correct. Executed on December 28, 2021 in Oakland, California.
+
+Theresa Trillo
+
+SERVICE LIST
+
+California Department of Conservation Geologic Energy Management Division (CalGEM) 715 P Street, MS 1803
+Sacramento, CA 95814
+
+Reabold California, LLC
+P.O. Box 520
+Lincoln, CA 95648
+
+AFTORNEY GENERAL SAN DIEGO
+2022 JAH 10 AM 9: 49
+
+Aqua
+4030 TaccA Aacis 1a.. GCA.
+
+Oaktand, CA 94609 ylltbdtytttodtlhltblPm EIURN ADDRESS KER AT TOP OF ENVELOPE TO THE RIGHT
+CERTIFIED MA
+
+7020 3160 0000 0151 6864 1000 94609
+
+95814 AMOUNT
+$8.
+R2304W1
+
+Rob Bonta Office of the AHorney General 1300 "T' Ireet Sacramento, CA 95814- 2919 MINO OIN3HV8 OLSAD JO IN3L
+
+O1NGHNE1 Ol1Snf 10 IN3WL&VGS * 301:30

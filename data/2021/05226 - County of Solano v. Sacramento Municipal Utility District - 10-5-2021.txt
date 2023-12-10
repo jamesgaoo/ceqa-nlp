@@ -1,0 +1,1373 @@
+1 BERNADETTE CURRY, State Bar No. 197203 County Counsel
+2 CARRIE SCARLATA, State Bar No. 220818 Assistant County Counsel
+3 JAMES LAUGHLIN, State Bar No. 117021
+Deputy County Counsel
+4 Solano County Counsel 675 Texas Street, Suite 6600 Fairfield, CA 94533 Telephone (707) 784-6140 6 Fax: (707) 784-6862 Email: JWLaughlin@SolanoCounty.com 7 Attorneys for County of Solano
+
+8
+
+9 SUPERIOR COURT OF CALIFORNIA
+
+10 COUNTY OF SOLANO
+
+11
+
+12 COUNTY OF SOLANO, Case No. FCS057089
+
+13 Petitioner/Plaintiff, NOTICE TO ATTORNEY GENERAL
+V.
+14
+SACRAMENTO MUNICIPAL UTILITY Judge Alesia Jones, Dept. 22
+15 DISTRICT and DOES 1 - 10,
+
+16 Respondents/Defendants.
+
+17
+
+18
+
+19
+
+20
+~g To the Attorney General of the State of California:
+PLEASE TAKE NOTICE, under Public Resources Code § 21167.7 and Code of Civil
+23 Procedure co 388, that on September 20, 2021, County of Solano filed a petition for writ of
+24 mandate against Sacramento Municipal Utility District in Solano Superior Court. The petition
+25 alleges that Sacramento Municipal Utility District violated the California Environmental Quality
+26 Act by approving the Solano 4 Wind Project based on an environmental impact report that was
+27 not properly certified, failed to adequately analyzes certain impacts of the project, filed to
+28 adequately analyze and compare a reasonable range of potentially feasible project alternatives,
+
+CAPTION
+
+1
+
+2
+
+üA u of the petition is attached. and used impermissibly narrow project objectives to reject feasible project alternatives. A copy
+
+Dated: September 32, 2021
+
+a COUNTY OF SOLANO
+
+7
+
+8 Bernadette Curry, County Counsel
+
+o 10 James Laughlin, Deputy County Counsel Attorneys for County of Solano
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+CAPTION 2
+
+COPY
+
+BERNADETTE CURRY, State Bar No. 197203 County Counsel
+2 CARRIE SCARLATA, State Bar No. 220818
+Assistant County Counsel
+3 JAMES LAUGHLIN, State Bar No. 117021
+Deputy County Counsel
+4 Solano County Counsel 675 Texas Street, Suite 6600 5 Fairfield, CA 94533 Telephone (707) 784-6140
+6 Fax: (707) 784-6862
+
+7 Email: JWLaughlin@SolanoCounty.com Attorneys for County of Solano
+
+8
+
+9 SUPERIOR COURT OF CALIFORNIA
+
+10 COUNTY OF SOLANO
+
+11
+
+12 COUNTY OF SOLANO, Case No. FCS057089
+
+13 Petitioner/Plaintiff, FIRST AMENDED
+V. PETITION FOR WRIT OF MANDATE 14 AND COMPLAINT FOR SACRAMENTO MUNICIPAL UTILITY DECLARATORY RELIEF 15 DISTRICT and DOES 1 - 10,
+Respondents/Defendants. Judge Alesia Jones, Dept. 22 16
+
+17
+
+18
+
+19
+
+20 INTRODUCTION
+
+21 1. This action challenges various decisions by the Sacramento Municipal Utility
+22 District ("SMUD") to approve or carry out the Solano 4 Wind Project ("Project"). These
+23 decisions include the following:
+
+24 a. A decision by SMUD's governing board, pursuant to Government Code
+
+25 section 53096, that the County's zoning ordinance is inapplicable to the
+
+26 Project.
+
+27 b. A decision by SMUD's governing board, pursuant to Public Utilities Code
+
+28 section 21676.5, to overrule the determination made by the Solano County
+
+FIRST AMENDED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY RELIEF
+
+1
+
+2
+
+0. Airport Land Use Commission ("ALUC") that the Project is inconsistent with
+
+u A the ALUC's airport land use compatibility plan for Travis Air Force Base.
+c. A decision by SMUD's governing board that the ALUC lacked jurisdiction to
+
+6 review the Project for consistency with the ALUC's airport land use
+compatibility plan for Travis Air Force Base.
+
+N
+
+8 d. A decision by SMUD's governing board, pursuant to Public Resources Code
+
+e.
+
+9 section 21151, to certify the environmental impact report for the Project.
+
+10 A decision by SMUD's governing board, pursuant to Public Resources Code
+
+11 section 21152, to approve the Project based on the environmental
+
+2. it had certified for the Project. impact report
+
+12
+
+13 The County of Solano ("COUNTY") alleges herein that SMUD prejudicially
+
+14 abused its discretion in making these decisions, in that SMUD did not proceed in the manner
+
+15 required by law, that SMUD's decisions are not supported by the findings, and that SMUD's
+findings are not supported by the evidence.
+3.
+
+16
+
+17 COUNTY further alleges herein that an actual controversy exists between
+
+18 COUNTY and SMUD regarding their respective rights and duties under Public Utilities Code
+sections 21671.5, 21676, and 21676.5.
+
+19 4. PARTIES
+
+20
+
+21 Petitioner/Plaintiff County of Solano ("COUNTY"), a political subdivision of the
+
+22 State of California, is responsible for regulating and controlling land use in the unincorporated
+
+23 territory of Solano County and is a Responsible Agency for the Project to the extent that the
+
+5.
+
+24 project is subject to the County's land use and development regulations and permit requirements.
+
+25 COUNTY, through its governing board, the Board of Supervisors, acts in a
+representative capacity for the residents of Solano County.
+
+6.
+
+26
+
+27 COUNTY has beneficial interest in the subject matter of this litigation in its
+
+28 capacity as both a political subdivision and a representative of the residents of Solano County.
+7. Respondent/Defendant Sacramento Municipal Utility District ("SMUD") is
+municipal utility district, organized and operating pursuant to the Municipal Utility District Act
+
+FIRST AMENDED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY RELIEF
+
+(Pub. Util. Code, § 11501 et seq.). SMUD is a "local agency" as that term is defined and used in
+2 Title 1, Division 2, Chapter 1, Article 5 of the Government Code (§§ 53090-53097.5), Division 9,
+Part 1, Chapter 4, Article 3.5 of the Public Utilities Code (§§ 21670-21679.5), and the California
+
+4 Environmental Quality Act ("CEQA"; Pub. Res. Code, § 21000 et seq.), and is the Lead Agency
+
+5 for the Solano 4 Wind Project for purposes of CEQA.
+
+6 8. COUNTY does not know the true names and capacities, whether individual,
+7 corporate, associate, or otherwise, of Respondents/Defendants Doe 1 through Doe 10, inclusive,
+8 and therefore sues these Respondents/Defendants under fictitious names. COUNTY alleges,
+
+9 upon information and belief, that each fictionally named Respondent/Defendant is responsible in
+10 some manner for committing the acts upon which this action is based. COUNTY will amend this
+11 Petition and Complaint to show their true names and capacities if and when they have been
+12 ascertained. COUNTY alleges, upon information and belief, that each Doe
+13 Respondent/Defendant is the agent and/or employee of each other Doe Respondent/Defendant,
+14 and each performed acts on which this action is based within the course or scope of such Doe
+15 Respondent/Defendants' agency and/or employment.
+16 9. The Solano County Airport Land Use Commission ("ALUC") is body
+17 designated pursuant to Public Utilities Code section 21670.1, subdivision (a), to perform the
+18 planning responsibilities of an airport land use commission as provided for in Division 9, Part 1,
+19 Chapter 4, Article 3.5 of the Public Utilities Code (§§ 21670-21679.5; hereinafter "ALUC Law").
+20 Although the ALUC has interests that are directly involved in the subject matter of this litigation,
+21 the ALUC has not been named as a party because its interests in the issues presented by this
+22 litigation regarding the ALUC's jurisdiction and SMUD's findings overruling the ALUC'S
+23 determination are aligned with those of COUNTY and are adequately represented by COUNTY
+24 in this action.
+
+25 JURISDICTION AND VENUE
+
+26 10. This Court has jurisdiction of the matters alleged in this Petition and Complaint
+27 pursuant to Code of Civil Procedure sections 1094.5 and 1060, Government Code section 53096,
+28 and Public Resources Code sections 21168 and 21168.9.
+
+FIRST AMENDED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY RELIEF
+
+1 11. Venue is proper in this Court because Government Code section 53096 requires
+
+2 any action brought pursuant to that section to be commenced in the superior court of the county
+
+3 whose zoning ordinance is involved.
+
+4 12. Venue is proper in this Court because the Solano 4 Wind Project is proposed for
+
+5 construction in Solano County.
+
+6 1. COUNTY has complied with the requirements of Public Resources Code section
+
+7 21167.5 by serving written notice of COUNTY's intent to commence this action on SMUD on
+
+8 September 17, 2021. A copy of this notice and proof of service on SMUD is being filed
+
+9 concurrently with this Petition.
+
+10 13. COUNTY will comply with the requirements of Public Resources Code section
+
+11 21167.7 by furnishing a copy of this Petition and Complaint to the California Attorney General.
+12 14. COUNTY has performed all conditions precedent to filing the instant action and
+13 has exhausted all available administrative remedies to the extent required by law.
+14 15. COUNTY has no plain, speedy, or adequate remedy in the course of ordinary law
+15 unless this Court grants the requested writ of mandate to require SMUD to set aside its approvals
+16 of the Project. In the absence of such remedies, SMUD's approvals of the Project will remain in
+17 effect in violation of law.
+
+18 STATEMENT OF FACTS
+
+19 I. Prior Phases of the Solano Wind Project
+20 16. SMUD owns various properties in Solano County, including two sites,
+21 approximately three miles apart, that are proposed to be developed together as the Solano 4 Wind
+22 Project. The western site, referred to as Solano 4 West, is near the town of Collinsville while the
+23 eastern site, referred to Solano 4 East, is approximately 3.5 miles southwest of Rio Vista.
+24 17. In or around December 1993, SMUD certified an environmental impact report
+25 ("EIR") for the Solano Wind Project, which proposed to develop up to 181 wind turbines
+26 generators ("WTGs") with a combined generation capacity of up to 50 megawatts. The area to be
+27 developed as the Solano Wind Project is approximately the northern half of the area now referred
+28 to as Solano 4 East.
+
+FIRST AMENDED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY RELIEF
+
+- 18.
+
+2 By February 2002, SMUD had constructed approximately 10% of the Solano
+
+3 Wind Project as originally approved. Instead of completing that project as approved, SMUD
+
+A proposed to modify that project by using up to 80 taller, larger diameter WTGs to generate up to
+
+5 same originally approved 50 megawatts. SMUD prepared and certified a Supplemental EIR for
+
+6 this project modification and approved the project modification in July 2002. By 2004, SMUD
+
+7 had installed 23 Vestas V47 WTGs in the Solano Wind Project (a.k.a. Solano 4 East) area.
+19.
+
+8 In July 2003, SMUD proposed to further modify the Solano Wind Project to
+
+9 increase generation capacity to approximately 100 megawatts; this increase would be achieved by
+
+10 installing more WTGs that were taller and had a larger rotor diameter than previously approved
+
+11 through the 2002 Supplemental EIR. SMUD prepared and certified another Supplemental EIR
+
+12 for this project modification and approved the project modification in or around February 2004.
+
+13 Between 2004 and 2007, SMUD installed 29 Vestas V90 WTGs pursuant to the 2004 project
+modification.
+
+14 20.
+
+15 The portion of the Solano Wind Project area developed with the 23 Vestas V47
+
+16 WTGs is sometimes referred to as the Phase Project while the portion developed with the 29
+
+17 Vestas V90 WTGs is sometimes referred to as the Phase 2 Project.
+
+21.
+
+18 WTGs have a finite operational lifespan. This operational lifespan can be
+
+19 extended to some extent by repairing or replacing parts as they wear out, suffer damage, or
+malfunction. WTGs are also an
+
+20 evolving technology, with newer models typically taller and with
+
+21 larger rotors than previous ones. Due to their increased height and rotor-swept area, these newer
+
+22 models are capable of generating more electricity per WTG than earlier models. For wind facility
+
+23 operators, it is sometimes more cost effective and more productive to replace aging WTGs with
+
+24 newer models than to keep the existing ones operational through refurbishment and repair. This
+
+25 replacement of older WTGs with newer, more productive ones, typically when the older ones
+
+26 reach end-of-life, is sometimes referred to as "repowering" the facility.
+
+22.
+
+27 The WTGs in the Phase 1 Project are anticipated to reach end-of-life in 2023,
+
+28 approximately 20 years after they were installed, although that facility could remain operational
+until the late 2020s.
+
+FIRST AMENDED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORV REIIEF
+
+1 23. Land use permits issued by COUNTY for various privately owned and operated
+2 wind projects in the Wind Resource Area, including the Shiloh I, Shiloh II, Shiloh III, Shiloh I, IV,
+Montezuma I, and Montezuma II projects, are fixed-term permits that will each expire without
+
+4 further action by COUNTY on a date specified in the permit.
+24. The various EIRs for the original and modified Solano Wind Project, including the
+
+6 original 1993 EIR and the 2002 and 2004 Supplemental EIRs, did not discuss or evaluate the
+7 potential impacts that the various iterations of that project could have on the air traffic control
+8 radar system operated by Travis Air Force Base ("Travis AFB").
+
+9 25. In a letter sent to the Solano County Planning Commission in March 2007, Travis
+10 AFB raised concerns that another then-proposed wind facility project in the Wind Resource Area
+11 could adversely impact radar. According to Travis AFB, the then-existing WTGs in the Wind
+12 Resource Area were affecting the performance of Travis AFB's radar equipment, making it
+13 difficult for Travis AFB's air traffic controllers to track aircraft in the area. Travis AFB asked
+14 that no new wind turbine generators be constructed in the Wind Resource Area until its new
+
+15 ASR-11 radar system was installed and operational.
+
+16 26. In September 2007, SMUD circulated a Draft EIR for the Phase 3 Project, which
+17 proposed up to 85 WTGs in an area south-west and south-east of the Phase 1 and Phase 2 1
+
+18 projects. That Draft EIR identified increased risk of accidental aircraft collision hazards due to
+
+19 interference with radar signals as a potential impact of the project, but concluded this potential
+20 impact was less than significant because previous wind project in the Wind Resource Area had
+21 been issued "No Hazard Determinations" by the Federal Aviation Administration ("FAA") and
+22 because the Phase 3 Project would be farther from Travis AFB radar than these previous projects.
+23 27. The 2007 Draft EIR also noted that the Phase 3 Project required review by the
+24 ALUC to consider the project's compatibility with the ALUC's Travis AFB Land Use
+25 Compatibility Plan.
+
+26 28. Travis AFB's ASR-11 air traffic control radar system was installed in October
+27 2008 and was operational in February 2009.
+
+28
+
+FIRST AMENAEA PETITIAN COD TUDIT AF I T PAD AEAI ADITADU AEI IDE
+
+H 29.
+
+2 SMUD circulated a revised Draft EIR for the Phase 3 Project in October 2009,
+reducing the maximum number of WTGs from 85 to 75 due to removal of a 411-acre area from
+
+3
+
+4 the south-west portion of the previously proposed Phase 3 Project area. At that time, the 411-acre
+
+5 area was already developed with 62 Kenetech 56-100 WTGs operated by enXco, and SMUD had
+
+6 decided it did it not want to remove these existing WTG's and install new ones in this area as part
+
+7 of the Phase 3 Project. These Kenetech 56-100 WTGs eventually reached their end-of-life and
+were removed in 2019.
+
+30. The 2009 Recirculated Draft EIR for
+
+9 the Phase 3 Project identified the potential
+
+10 for WTGs to interfere with radar signals, thereby increasing the risk of accidental aircraft
+
+11 collision hazards, as a potential impact of the Phase 3 Project. The Recirculated Draft EIR
+
+12 concluded this potential impact was less than significant and that no mitigation was required.
+31.
+
+13 On January 20, 2010, the ALUC adopted a resolution determining that the Phase 3
+
+14 Project was consistent with its land use compatibility plans then in effect for Travis Air Force
+Base and the Rio Vista Airport.
+15 32.
+
+16 SMUD certified the Recirculated EIR and approved the Phase 3 Project in or
+around February 2010.
+
+17 II. The Solano 4 Wind Project
+18 33.
+
+19 In 2016, SMUD began studying a possible Phase 4 project consisting of 17 Vesta
+
+20 V117 WTGs to be located on the Solano 4 West site. Although a portion of that site already had
+
+21 approximately 59 Kenetech 56-100 turbines located on it at that time, those WTGs reached end-
+of-life and were removed in 2019.
+
+22 34. By 2018, SMUD had modified the Phase 4
+
+23 project design to consist of either 22
+
+24 Vestas V136 WTGs or 19 Vestas V150 WTGs, split between the Solano 4 West and Solano 4
+
+25 East sites. SMUD described the portion of the Phase 4 project to be developed on the Solano 4
+
+26 East site as a "repower" project because the 23 existing Vestas V47 WTGs on that site, which are
+
+27 anticipated to reach end-of-life in 2023, would be removed and replaced by either 10 Vestas
+V136 WTGs or 9 Vestas V150 WTGs.
+
+28
+
+FIRST AMENNEN PETITION COD WDIT AE MANDATE
+
+35.
+
+2 SMUD issued a Notice of Preparation for the Solano 4 Wind Project on or about
+
+January 9, 2019.
+
+3 36. SMUD released its Draft EIR for the
+
+4 Solano 4 Wind Project for public review and
+
+5 comment on or about July 23, 2019. The proposed project, as described in the Draft EIR,
+included the following elements or components:
+
+a.
+
+7 Removal of the existing Vestas V47 WTGs from the Solano 4 East site.
+
+b. Construction of up to 22 new WTGs, with up to 10 in the Solano 4 East site
+
+-5o and up to 12 in the Solano 4 West site, with a combined electrical generating
+capacity of up to 91 megawatts delivered at the point of interconnection with
+the grid.
+
+C.
+12 Electrical lines connecting the WTGs to the point of interconnection with the
+
+13 grid; these lines would transmit the electricity produced by the WTGs from the
+
+14 generators to the grid. The Draft EIR referred to these as "collector lines."
+d. Minor upgrades to the Russel Substation.
+
+15 e. Access roads within each of the two sites to
+
+16 support the new WTGs.
+
+17 f. Ongoing operation and maintenance activities during the lifespan of the project
+
+18 and decommissioning of the project when it reached end-of-life.
+37.
+
+19 If the Project was approved, construction of the new WTGs would start in
+
+20 approximately 2023, after removal of the existing WTGs from the Solano 4 East site.
+
+38.
+
+21 The Draft EIR identified 45 broad categories of impacts that the Project could
+
+22 cause to the environment and evaluated whether each of these categories of impacts would be
+
+23 significant or less than significant, both before and after the mitigation measures recommended in
+
+24 the Draft EIR were imposed on the Project. Several of these broad categories of impacts included
+
+25 sub-categories. For example, the discussion of Impact 3.3-5 evaluated the removal and
+
+26 modification of raptor nesting, foraging, and roosting habitat during project construction, and
+
+27 concluded that the impacts on nesting habitat would be less than significant before mitigation was
+
+28 imposed while the impacts on foraging habitat would be potentially significant before mitigation
+was imposed. To address latter sub-category of impacts, the Draft EIR recommended that off-site
+
+DIDOT A MONNEA T EOR REAE AD A PAD T PT ICE
+
+2 foraging habitat be acquired and concluded that the potential significance of this sub-category of
+
+3 impact would be less than significant after mitigation was imposed.
+39. The Draft EIR identified the
+
+4 potential impacts of the Project on air traffic safety
+
+un and the two sub-categories of air navigation and air traffic control radar as follows:
+
+6 Impact 3.7-3: Safety hazard to air traffic. The project site lies within the
+
+7 planning boundary of the Travis AFB LUCP, which contains policies
+
+O co designed to promote land use compatibility with airport operations.
+Placement of WTGs have the potential to intrude into navigable airspace,
+
+10 thereby increasing the risk of aircraft collision, or causing interference with
+
+11 radar signals used by air traffic control. Therefore, this impact would be
+
+12 potentially significant.
+
+40.
+
+13 The Draft EIR recommended, as Mitigation Measure 3.7-3, that the WTGs be
+
+14 marked and lighted "to ensure proper conspicuity of the turbines at night." The Draft EIR did not
+
+15 recommend any mitigation for the potentially significant impact to air traffic control radar.
+
+16 Nevertheless, the Draft EIR concluded that both sub-categories of potentially significant impacts
+identified and discussed as
+
+17 Impact 3.7-3 - increased risk of aircraft collisions and interference
+
+18 with air traffic control radar - would be reduced to a less than significant level after
+
+19 recommended mitigation measure 3.7-3 was imposed on the Project.
+41.
+
+20 The Draft EIR evaluated the potential significance of the impact that the Project
+
+21 would have on the Travis AFB air traffic control radar by estimating the marginal increase in
+
+22 radar interference that would exist after the Project is constructed and operational in comparison
+
+23 to the amount of existing radar interference as of the baseline date when the studies were
+
+24 conducted. This baseline existing radar interference includes interference caused by the existing
+
+25 Vestas V47 WTGs of the Solano Wind Phase 1 Project. The Draft EIR and its supporting radar
+
+26 interference studies did not account for the fact that the Solano Wind Phase 1 Project is
+
+27 anticipated to be decommissioned and removed from the Solano 4 East site in approximately two
+
+28 years, and that the amount of radar interference caused by that earlier project would be reduced to
+zero once it reaches end-of-life.
+
+FIDOT AMPRNEA nAn
+
+1 42. The Solano 4 Wind Project has an estimated lifespan of approximately 20 years.
+2 43. Although the Draft EIR disclosed that the Project would cause marginal increase
+3 in the magnitude of radar interference in comparison to existing conditions, the Draft EIR did not
+4 disclose that the Project would also cause a significant increase in the duration of the radar
+5 interference impact in comparison to the no project alternative. The Draft EIR did not evaluate
+
+6 the significance of the Project's potential impacts to air traffic control radar in light of the
+7 Project's significant increase in duration of impact.
+
+8 44. The Draft EIR briefly discussed alternative locations and alternative technologies
+9 as possible project alternatives and concluded both were infeasible. For alternative technologies,
+10 the Draft EIR identified both solar and nuclear. The Draft EIR concluded that nuclear "would
+11 likely result in greater impacts than the proposed project." The Draft EIR provided no evaluation
+12 or conclusion regarding use of solar as a project alternative other than the unsupported conclusory
+13 statement that solar was infeasible.
+
+14 45. The Draft EIR did not evaluate or discuss alternative methods or routes for the
+15 electrical lines that would connect the WTGs to the point of interconnection with the grid, nor did
+16 the Draft EIR evaluate the feasibility of alternative methods or routes.
+17 46. The two project alternatives selected for detailed analysis in the Draft EIR were
+18 the no project alternative and a reduced turbine height alternative, the latter of which would
+19 utilize shorter WTGs but more of them compared to the proposed project.
+20 47. COUNTY submitted comments on the Draft EIR in a letter dated September 8,
+21 2019. In its comments, COUNTY raised the following issues and concerns:
+22 a. Contrary to various statements in the Draft EIR, the ALUC is not an agency,
+23 commission, or part of County government.
+24 b. The ALUC's land use compatibility plan is not the legal equivalent of a county
+25 zoning or building ordinance for purposes of Government Code sections 53091
+26 and 53096.
+
+27 c. The Draft EIR did not explain the basis for the findings SMUD would need to
+28 make in order to overrule an inconsistency determination by the ALUC.
+
+PInaAWn
+
+-
+2
+
+3 d. The ALUC's role should be accurately described in the Draft EIR.
+
+L e. The Draft EIR incorrectly described the Project, and all elements of the
+
+a u Project, as exempt from County zoning ordinances pursuant to Government
+Code section 53091.
+
+f. The Draft EIR failed to describe the process required by Public Utilities Code
+
+8 section 12808.5 for a municipal utility district such as SMUD to locate and
+construct transmission and distribution lines.
+
+9
+
+10 g. The Draft EIR's recommended mitigation measures for the Project's potential
+impacts on County roads were inadequate.
+
+11
+
+12 48. h. The Draft EIR's evaluation of the Project's potential impacts to Travis AFB's
+air traffic control radar system was inadequate.
+
+13
+
+14 SMUD released its Final EIR for the Solano 4 Wind Project on or about July 30,
+2021. The Final EIR included SMUD's
+
+49.
+
+15 responses to COUNTY's comments on the Draft EIR.
+
+16 50. COUNTY submitted additional comments to SMUD on August 19, 2021, prior to
+SMUD taking action to certify the EIR or approve the Project.
+
+17
+
+18 51. On August 19, 2021, SMUD's governing board conducted a noticed public hearing
+
+19 to take evidence and to consider its staff's recommendations regarding the EIR and the Project.
+
+20 At the conclusion of its August 19, 2021, public hearing, SMUD's governing
+
+21 board voted unanimously to adopt Resolution No. 21-08-05. Through that resolution, SMUD's
+governing board made the following findings and took the following actions:
+
+22
+
+23 a. Found that the Project is not subject to the jurisdiction of the ALUC.
+
+24 b. Found that SMUD had sought "advisory review" by the ALUC of the Project's
+
+25 consistency with the ALUC's 2015 Travis Air Force Base Land Use
+
+26 Compatibility Plan "in the spirit of inter-agency comity" rather than in
+compliance with SMUD's legal obligations.
+
+27 c. Certified that the Project EIR complies with CEQA.
+
+28 d. Adopted a Mitigation Monitoring and Reporting Plan for the Project.
+
+FIDCT AMPNNEA e. Adopted CEQA Findings and a Statement of Overriding Considerations.
+
+nnAinimA
+
+1
+
+2 f. Approved the Project.
+
+3 g. Found that the Project is exempt from local zoning ordinances pursuant to
+Government Code section 53091, subdivision (e).
+
+ü h. Found that the Project is exempt from the ALUC's 2015 Travis Air Force Base
+Land Use Compatibility Plan pursuant to Government Code section 53091,
+
+N subdivision (e).
+
+i.
+
+8 Found, for purposes of Government Code section 53096, that there are no
+
+9 feasible alternatives to the Project.
+
+10 j. Found that the Project is consistent with the State Aeronautics Act, thereby
+
+11 purportedly overruling the ALUC's determination of inconsistency, pursuant to
+
+12 Public Utilities Code sections 21676 and 21676.5.
+
+13 52. k. Directed staff to take various clerical follow-up actions.
+
+14 In a letter dated August 23, 2021, sent via email and addressed to James Leland, a
+
+15 COUNTY-employed planner who serves as ALUC staff pursuant to Public Utilities Code section
+
+16 21671.5, SMUD purported to provide notice to both the County and the ALUC that it had found
+
+17 there was no feasible alternative to the Project for purposes of Government Code section 53096.
+
+18 To date, SMUD has not provided such notice of non-feasibility directly to COUNTY.
+
+III.
+
+19 ALUC Review of the Solano 4 Wind Project
+
+53.
+
+20 In 2015 and in accordance with Public Utilities Code section 21675, the ALUC
+
+21 adopted an updated airport land use compatibility plan for Travis AFB ("Travis AFB LUCP").
+54.
+
+22 SMUD has not submitted a general plan, special plan, capital improvement plan,
+or other similar
+
+23 type of long-range planning document to the ALUC for a consistency
+
+24 determination, pursuant to Public Utilities Code section 21676, subdivision (a).
+
+55.
+
+25 SMUD's Notice of Preparation for the Solano 4 Wind Project, issued on or about
+
+26 January 9, 2019, stated, "SMUD, as a local agency, is not required to obtain ALUC approval for
+
+27 the development of their electrical generation facilities such as the Project."
+
+28
+
+FIRST AMENDEN PETITION FOR WRIT OF MANDATE . Int tAd AeCI ADATODV DEI IFE
+
+1 56. On February 8, 2019, the ALUC provided written comments to SMUD regarding
+2 its Notice of Preparation and notifying SMUD that it was required to submit the Project to the
+3 ALUC for a consistency determination.
+
+4 57. On April 26, 2019, SMUD responded to the ALUC's comments and assertion of
+
+5 jurisdiction. In its response, SMUD argued that the ALUC did not have jurisdiction to review the
+Project for two reasons: First, electrical generation facilities are exempt from county zoning
+7 ordinance pursuant to Government Code section 53091 and the ALUC's Travis AFB LUCP was
+
+8 "tantamount" to a county zoning ordinance since it was an exercise of COUNTY's constitutional
+
+9 police power; second; the FAA's issuance of No Hazard Determinations for the Project's WTGs
+10 preempted the ALUC from exercising the jurisdiction conferred on it by California statute. it
+11 58. On September 6, 2019, the ALUC provided comments to SMUD on the Draft EIR
+12 and replied to various statements and arguments made by SMUD in its April 26, 2019, letter.
+13 59. On September 3, 2019, the California Department of Transportation, Division of
+14 Aeronautics, provided comments to SMUD on the Draft EIR and expressed its opinion that the
+15 ALUC did indeed have jurisdiction to review the Project for consistency with the Tavis AFB
+16 LUCP.
+
+17 60. On or about April 1, 2021, SMUD submitted an application to the ALUC seeking
+18 a determination regarding the Project's consistency with the Travis AFB LUCP.
+19 61. The ALUC conducted a noticed public hearing on SMUD's application on May
+20 20, 2021, considered the evidence presented, and made its determination that the Project was not
+21 consistent with the compatibility criteria set forth in the Travis AFB LUCP.
+
+22 62. SMUD did not seek judicial review of the ALUC's determination or otherwise
+23 argue that the ALUC's determination was not supported by the evidence. Instead, SMUD
+24 proposed to overrule the ALUC's determination.
+
+25 63. SMUD provided a copy of its proposed findings and decision overruling the
+26 ALUC's determination on or about July 2, 2021. In its proposed findings and decision, SMUD
+27 repeated its claim that the ALUC did not have jurisdiction to review the Project and that SMUD
+28
+
+FIRST AMENDED PETITION FOR WRIT OF MANDATE & AINT FOD NECE ADATODV DEI IEE
+
+had nevertheless sought ALUC's "advisory opinion" of the Project "in the spirit of inter-agency
+2 comity."
+
+3 64. The ALUC provided comments to SMUD on July 29, 2021, regarding SMUD's
+4 proposed findings and decision. In these comments, the ALUC explained that the Project does
+5 fall within the jurisdiction of the ALUC and that SMUD's proposed findings and decision to
+6 overrule the ALUC's determination were inadequate and did not comply with state law.
+7 65. On August 19, 2021, through its Resolution No. 21-08-05, SMUD's governing
+
+8 board unanimously adopted the previously distributed proposed findings and decision overruling
+the ALUC's determination for the Project.
+
+10 IRST CAUSE OF ACTION
+
+11 (Gov. Code, § 53096; Code Civ. Proc., § 1094.5)
+
+12 66. COUNTY hereby realleges and incorporates the allegations set forth in paragraphs
+13 through 65, above.
+
+14 67. In City of Hesperia v. Lake Arrowhead Community Services Dist. (2019) 37
+15 Cal.App.5th 734, 759, the Court of Appeal held that the community services district's electrical
+16 lines connecting the district's photovoltaic electrical generation panels of its solar energy project
+17 to the point of interconnection with the grid were "transmission lines" for purposes of the
+
+18 exception to the exemption from city and county zoning regulations in Government Code section
+
+19 53091, subdivision (e). The appellate court explained its decision as follows:
+
+20 [B]ecause the District's proposed project includes the transmission of electrical energy,
+21 the exemption contained in section 53091(e) does not apply to the project; and because the
+22 administrative record does not contain substantial evidence to support the District's
+23 board's finding that there is no feasible alternative to the proposed location of the project,
+24 the District prejudicially abused its discretion in determining that the exemption contained
+25 in section 53096(a) applied to the project.
+
+26 68. The "collection lines" proposed and described by SMUD as part of the Project are
+27 transmission lines for purposes of Government Code section 53091 and are not exempt from the
+
+28 County zoning ordinances.
+
+FIRST AMENDED PETITION FOR WRIT OF MANDATE R COMPLAINT FOR DECLARATORV RELIEE 14
+
+69. On August 19, 2021, through its Resolution No. 21-08-05, SMUD's governing
+2 board unanimously adopted findings that there was no feasible alternative to the Project, thereby
+3 purportedly rendering COUNTY's zoning ordinances inapplicable to the Project pursuant to
+
+4 Government Code section 53096.
+
+5 70. These finding are not supported by substantial evidence in the record.
+
+6 71. The findings include a finding that there is no feasible alternative location for the
+7 project. Conclusory statements that the proposed project would be cheaper to develop than
+8 equivalent projects at alternative locations is not substantial evidence that developing an
+
+9 equivalent project at an alternative location is economically infeasible. The is no evidence of
+10 actual costs or net revenues cited or referenced in the findings to support a finding that alternative
+11 locations are infeasible from an economic standpoint. This finding of economic infeasibility is
+12 not supported by substantial evidence in the record.
+
+13 72. The findings include a finding that there are no alternative energy generation
+14 technologies for the project. To support this finding, SMUD says that use of an energy
+15 production technology other than wind would not fulfill SMUD's stated project objective of
+16 "develop[ing] an economically feasible wind project." A statement that energy generation
+17 technologies other than wind are not wind technologies is a truism, not evidence. Statements that
+18 SMUD requires "resource diversity" in its energy generation portfolio is evidence that alternative
+19 generation technologies are desirable, feasible, and necessary; otherwise, SMUD would be
+20 confined to using wind as its only energy generation technology. This finding is not supported by
+21 substantial evidence in the record.
+
+22 73. The findings include a finding that there are no feasible wind technologies for the
+23 project. As evidence to support this finding, SMUD explains why using WTGs less than 100 feet
+24 tall would be infeasible. The Draft EIR describes the Project as having WTGs that would be 492
+25 to 591 feet (150 - 180 meters) tall. The finding cites the Draft EIR as evidence that using 138-
+26 meter WTGs would be infeasible. Contrary to this characterization, the Draft EIR section cited in
+27 the findings merely states that using 138-meter turbines would produce less energy than using the
+28 taller 150-meter or 180-meter WTGs proposed for the Project, not that use of the shorter WTGs
+
+FIRST AMENDED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORV RELIER
+
+1 would be infeasible, economically or otherwise. This finding is not supported by substantial
+2 evidence in the record.
+
+3 74. As a result of the foregoing defects, SMUD prejudicially abused its discretion.
+4 SECOND CAUSE OF ACTION
+
+5 (Pub. Util. Code, § 21676.5; Code Civ. Proc., § 1094.5)
+6 75. COUNTY hereby realleges and incorporates the allegations set forth in paragraphs
+7 through 74, above.
+
+8 76. The State Aeronautics Act is codified in Division 9, Part of the Public Utilities
+
+9 Code, beginning at section 21001. The ALUC Law, Chapter 4, Article 3.5 of the State
+10 Aeronautics Act, in sections 21670 through 21679.5, describes the purpose, jurisdiction,
+11 authority, obligations, and processes of airport land use commissions such as the ALUC.
+12 77. Section 21676.5 provides that if the airport land use commission has not
+13 determined that a local agency's general plan, special plan, or other similar plan is consistent with
+14 that commission's airport land use compatibility plan, or if the local agency has overruled the
+15 commission's determination of inconsistency regarding its plan, then the local agency shall
+16 submit all subsequent proposed actions to the commission for consistency review until the local
+17 agency's plan is revised to be consistent with the commissions airport plan or the local agency
+18 overrules the commission's determination inconsistency.
+19 78. Section 21676.5 further provides that if the commission determines that a
+20 subsequent proposed action of the local agency is inconsistent with the commission's airport land
+21 use compatibility plan, the local agency may overrule the commission's determination of
+
+22 inconsistency by following specified procedures and making "specific findings that the proposed
+23 action is consistent with the purposes of this [Article 3.5] as stated in Section 21670."
+24 79. Section 21670, subdivision (a)(2) provides as follows: "It is the purpose of this
+25 article to protect public health, safety, and welfare by ensuring the orderly expansion of airports
+26 and the adoption of land use measures that minimize the public's exposure to excessive noise and
+27 safety hazards within areas around public airports to the extent that these areas are not already
+28 devoted to incompatible uses."
+
+FIRST AMENDED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECI ARATONV DEIIFR 16
+
+- 80. SMUD is a local agency for purposes of Section 21676.5.
+
+2 81.
+
+3 The airspace around Travis AFB that is traversed by military and civilian aircraft
+
+4 and is monitored by the Travis AFB air traffic control radar is an area around a public airport that
+is not already devoted to incompatible use for purposes of Section 21670.
+
+5 82.
+
+6 The increase in risk that aircraft within the airspace around Travis AFB might
+collide with each other due to increased interference with Travis AFB's air traffic control radar is
+
+7 a safety hazard for purposes of Section 21670.
+
+8 83.
+
+9 Whether that safety hazard is excessive, for purposes of Section 21670, depends
+on both the increase in magnitude of the risk of collision at any point in time as well as the
+
+10 increase in duration of that risk over time.
+
+11 84.
+
+12 On August 19, 2021, through its Resolution No. 21-08-05, SMUD's governing
+
+13 board unanimously adopted findings and a decision overruling the ALUC's determination that the
+Project was inconsistent with the ALUC's Travis AFB LUCP.
+
+14 85.
+
+15 86. These finding and decision are not supported by substantial evidence in the record.
+
+16 SMUD's finding that the Project will not cause an excessive safety hazard within
+
+17 the area around Travis AFB is based on evidence of the percentage decrease in probability of
+
+18 detection (Pd) that will be experienced by Travis AFB's air traffic control radar because of the
+
+19 Project, relative to existing conditions. This finding relies on probability of detection as a proxy
+
+20 for risk of collision without providing any evidentiary basis for making such an implied
+correlation.
+
+21 87.
+
+22 This evidence of the percentage decrease in probability of detection that will be
+
+23 experienced by Travis AFB's air traffic control radar because of the Project assumes that the
+
+24 existing Solano Wind Phase 1 Project would continue to exist-and would continue to interfere
+with Travis AFB's air traffic control radar-indefinitely rather than be decommissioned and
+25
+
+26 removed if that existing project was not replace or "repowered" with the Solano 4 Wind Project.
+
+27 There is no evidence in the record to support such an assumption. There is no evidence in the
+
+28 record regarding how the probability of detection would increase or decrease, or how the risk of
+aircraft collision would increase or decrease, if the existing Solano Wind Phase 1 Project is 1
+
+FIRST AMENDED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY RELIEF 17
+
+I removed from the Solano 4 East site as is reasonably expected at end-of-life-which will occur
+2 regardless of any action taken by SMUD on the Solano 4 Wind Project-and is not replaced or
+3 "repowered" with a new wind project.
+
+4 88. SMUD's finding that the Project will not cause an excessive safety hazard within
+
+5 the area around Travis AFB is based on an assumption that all aircraft traversing the airspace
+6 around Travis AFB are be equipped with transponders that are turned on while flying through that
+7 airspace, but this assumption is not based on any evidence indicating that it is in fact a valid
+8 assumption.
+
+9 89. The record contains substantial evidence that the Project would interfere with
+10 Travis AFB's air traffic control radar to some extent and that this interference would constitute a
+11 safety hazard within the area around Travis AFB. SMUD's findings fail to evaluate or consider
+12 such evidence in the record that fairly detracts from the evidence relied on by SMUD to support
+13 its decision.
+
+14 90. As a result of the foregoing defects, SMUD prejudicially abused its discretion.
+15 HIRD CAUSE OF ACTION
+
+16 (Pub. Util. Code, § 21676.5; Code Civ. Proc., § 1060)
+17 91. COUNTY hereby realleges and incorporates the allegations set forth in paragraphs
+18 through 90, above.
+
+19 92. Public Utilities Code section 21671.5, subdivision (f), requires COUNTY to
+20 provide the ALUC with staff assistance, including the mailing of notices, the keeping of minutes,
+21 necessary quarters, equipment, and supplies. Further, subdivision (f) provides that the usual and
+22 necessary operating expenses of the ALUC shall be a COUNTY charge.
+23 93. COUNTY does not have authority to pay for activities undertaken by the ALUC
+24 that are outside of the ALUC's jurisdiction. Specifically, COUNTY does not have authority to
+25 pay for the ALUC to give advisory opinions on matters outside of the ALUC's jurisdiction.
+26 94. COUNTY interprets Public Utilities Code section 21676.5 as giving the ALUC
+27 jurisdiction to review SMUD's Solano 4 Wind Project, based on the facts alleged herein, and
+28 County has incurred costs paying for the ALUC's review of the Project.
+
+FIRST AMENDED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY REI.IEF 19
+
+1 95. SMUD interprets Public Utilities Code section 21676.5 as not giving the ALUC
+
+2 jurisdiction to review SMUD's Solano 4 Wind Project, either due to federal preemption or for
+3 other reasons.
+
+4 96. An actual controversy exists between COUNTY and SMUD regarding the
+
+5 ALUC's jurisdiction to review SMUD's Solano 4 Wind Project for consistency with the Travis
+6 AFB LUCP, including the extent of COUNTY's authority to pay for the ALUC's expenses of
+7 conducting such a review.
+
+8 FOURTH CAUSE OF ACTION
+
+9 (Approval of Project based on an improperly certified EIR - Pub. Res. Code, § 21168)
+10 97. COUNTY hereby realleges and incorporates the allegations set forth in paragraphs
+11 I through 96, above.
+
+12 98. Section 15090, subdivision (a) of the State CEQA Guidelines (Cal. Code. Reg., tit.
+13 14, § 15000 et seq.) provides as follows:
+
+14 Prior to approving project the lead agency shall certify that:
+15 (1) The final EIR has been completed in compliance with CEQA;
+16 (2) The final EIR was presented to the decision-making body of the lead
+17 agency, and that the decision-making body reviewed and considered the
+18 information contained in the final EIR prior to approving the project; and
+19 (3) The final EIR reflects the lead agency's independent judgment and
+20 analysis.
+
+21 99. On August 19, 2021, through its Resolution No. 21-08-05, SMUD's governing
+22 board voted unanimously to approve the Project.
+
+23 100. As part of its Resolution No. 21-08-05, SMUD's governing board stated that it had
+24 reviewed and considered the information in the Solano 4 Wind Project Final Environmental
+25 Impact Report and certified that the Project FEIR complies with CEQA.
+26 101. SMUD's governing board did not certify that the Project EIR reflects SMUD's
+27 independent judgment and analysis.
+
+28
+
+FIRST AMENDED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY RELIEF 1Q
+
+- 102.
+
+2
+
+3 SMUD did not fully certify the EIR in the manner required by law and approved
+
+A the Project without a properly certified EIR. SMUD has not proceeded in the manner required by
+law in approving the Project.
+
+Un FIFTH CAUSE OF ACTION
+
+6
+
+7 (Approval of Project based on an inadequate EIR - Pub. Res. Code, § 21168)
+103.
+
+through 102, above.
+
+8 104. COUNTY hereby realleges and incorporates the allegations set forth in paragraphs
+
+10 CEQA is designed to ensure that he long-term protection of the environment be the
+
+11 guiding criterion in public agency decisions. CEQA requires the lead agency for project with
+
+12 the potential to cause significant environmental impacts to prepare an EIR that complies with the
+
+13 requirements of the statute, including but not limited to the requirement to analyze the project's
+
+14 potentially significant environmental impacts. The EIR must provide sufficient environmental
+
+15 analysis such that the decision-makers can intelligently consider environmental consequences
+
+16 when acting on the proposed project. The EIR must also analyze feasible mitigation measures
+and a reasonable range of alternatives to the project.
+
+105.
+
+17
+
+18 If any of the project's significant impacts cannot be reduced to a less than
+
+19 significant level, CEQA bars the lead agency from approving the project if a feasible alternative
+
+20 would meet the project's objectives while avoiding or reducing its significant environmental
+impacts. If there is an environmentally superior alternative, the lead
+
+21 that alternative or make formal findings, supported by substantial evidence, that the alternative is
+infeasible. agency must either select
+
+22 106.
+
+23
+
+24 Project objectives are closely tied to the evaluation of alternatives in the EIR. The
+EIR's statement of project objectives should include the underlying purpose of the project. The
+lead
+
+25
+
+26 agency may not give a project's purpose an artificially narrow definition, thereby
+unreasonably limiting the range of project alternatives evaluated in the EIR.
+
+107.
+
+27
+
+28 CEQA further prohibits a lead agency from approving project with significant
+environmental effect unless it has made written findings for each of those effects, accompanied
+by an explanation of the rationale for each finding. These findings must support the ultimate
+
+FIRST AMENDED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY RELIEF 20
+
+P decision, be based on substantial evidence in the record, and trace the analytic route between the
+2 evidence in the record and the agency's conclusions.
+
+3 108. SMUD violated CEQA by attempting to certify an EIR for the Project that is
+inadequate and files to comply with CEQA and the CEQA Guidelines. Deficiencies in the EIR
+
+5 include, but are not limited to:
+
+6 a. Failure to adequately analyze the Project's impacts to navigable airspace and to
+
+propose 7 air traffic control radar, including duration of impacts, and to
+8 mitigation measures that could reduce these impacts a to a less than significant
+9 level.
+
+10 b. Failure to adequately analyze and compare a reasonable range of potentially
+11 feasible project alternatives, including use of photovoltaic solar, that would
+12 foster informed decision making and public participation.
+13 C. Use of impermissibly narrow project objects and improper rejection of feasible
+14 alternatives that would achieve the underlying purpose of the project and
+15 feasibly attain most of the basic objectives of the project.
+16 109. As a result of the foregoing defects, SMUD prejudicially abused its discretion by
+17 approving the Project based on an EIR that does not comply with the requirements of CEQA and
+18 the CEQA Guidelines, by failing to proceed in the manner required by law, and by failing to act
+19 on the basis of substantial evidence.
+
+20 PRAYER FOR RELIEF
+
+21 WHEREFORE, COUNTY prays for judgment as follows:
+
+22 1. For a peremptory writ of mandate directing SMUD to vacate and set aside its
+23 Resolution No. 21-08-05 and, if SMUD should decide to continue pursuing the Project, either to
+24 make findings as described in Government Code section 53096 that are supported by substantial
+25 evidence in the record or to comply with COUNTY's zoning ordinances in connection with the
+26 Project.
+
+27 2. For a peremptory writ of mandate directing SMUD to vacate and set aside its
+28 Resolution No. 21-08-05 and, if SMUD should decide to continue pursuing the Project, to
+
+FIRST AMENDEN PETITION FOR WRIT OF MANDATE COMDI AINT FOD NECI ADATODV DEI ICE
+
+4
+
+2 resubmit the Project to the ALUC for a determination of the Project's consistency with the Travis
+
+3 AFB LUCP, this time acknowledging that the ALUC's review is legally required rather than
+merely advisory.
+
+4 3.
+
+5 For a declaration that SMUD and the Project are subject to the jurisdiction of the
+
+6 ALUC, and that SMUD may not approve the Project until either the ALUC has determined that
+
+7 the Project is consistent with the Travis AFB LUCP or, if upon further review the ALUC
+
+8 determines that the Project is inconsistent with that plan, SMUD has adopted, in the manner
+
+9 required by law, findings and a decision supported by substantial evidence in the record
+overruling the ALUC's determination.
+
+10 4.
+
+11 For a peremptory writ of mandate directing SMUD to vacate and set aside its
+certification of the EIR.
+
+12 5.
+
+13 For a peremptory writ of mandate directing SMUD to vacate and set aside its
+
+14 approval of the Project, and any subsequent actions to carry out or implement the Project, pending
+full compliance with CEQA and the CEQA Guidelines.
+
+15 6.
+
+16 For a peremptory writ of mandate or other order directing SMUD to take other
+
+17 actions required by Public Resources Code section 21168.9 or as otherwise required by law as
+necessary to comply with CEQA.
+
+18 7. For costs of suit.
+
+19 8.
+
+20 For attorney's fees as authorized by Code of Civil Procedure section 1021.5 and
+other provisions of law.
+
+21 9.
+
+22 For such other and further relief as the Court deems just and proper.
+
+23 Dated: September 20, 2021 COUNTY OF SOLANO
+
+24 Bernadette Curry, County Counsel
+
+25
+
+26 James Laughlin, Deputy County Counsel
+
+27 Attorneys for County of Solano
+
+28
+
+FIRST AMENDFA PETITION FOD WDIT OF MANDATE R. COMDT AINT FAD DECE ADATO
+
+1 BERNADETTE CURRY, State Bar No. 197203
+County Counsel
+2 CARRIE SCARLATA, State Bar No. 220818
+Assistant County Counsel
+3 JAMES LAUGHLIN, State Bar No. 117021
+Deputy County Counsel
+4 Solano County Counsel 675 Texas Street, Suite 6600
+5 Fairfield, CA 94533
+Telephone (707) 784-6140
+6 Fax: (707) 784-6862
+
+7 Email: JWLaughlin@SolanoCounty.com Attorneys for County of Solano
+
+8
+
+9 SUPERIOR COURT OF CALIFORNIA
+
+10 COUNTY OF SOLANO
+
+11
+
+12 COUNTY OF SOLANO, Case No. FCS057089
+
+13 Petitioner/Plaintiff, PROOF OF SERVICE OF
+V. NOTICE TO ATTORNEY GENERAL 14
+SACRAMENTO MUNICIPAL UTILITY
+DISTRICT and DOES 1 - 10, Judge Alesia Jones, Dept. 22 15
+
+16 Respondents/Defendants.
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+PROOF OF SERVICE OF NOTICE TO ATTORNEY GENERAL
+
+1 County of Solano v. Sacramento Municipal Utility District
+Case No. FCS057089
+2
+
+PROOF OF SERVICE 3
+
+4 hereby certify that am employed in the County of Solano, State of California; I am over
+5 the age of eighteen years, a resident of the State of California, and I am not a party to the within entitled action. My business address is Office of the County Counsel, 675 Texas Street, Fairfield, California 94533. On the date indicated below, I served a true copy of the following document(s) 6 on the attorney(s) and/or parties listed below in the attached SERVICE LIST:
+
+7 NOTICE TO ATTORNEY GENERAL
+
+8 1 FAX by transmitting via facsimile the document(s) listed above to the fax number(s) set forth below, or as stated on the attached service list 9 X MAIL - by placing a true copy thereof enclosed in a sealed envelope in the Office of the Solano County Counsel's outgoing mailbox for collection and mailing 10 following ordinary business practices by county mail carriers. I am readily familiar with the County of Solano's practice for collection and processing of 11 correspondence for mailing with the United States Postal Service. In accordance with that practice, the envelope would be deposited with the United States Postal 12 Service with postage thereon fully prepaid that same day in the ordinary course of 0099 3InS EES+6 Fairfield, business. In the case of interoffice mail, between offices of the County of Solano, 13 the envelope would be carried by county mail carriers to the addressee by the oueJoS jo Ájunoo following business day in the ordinary course of business. 14
+
+15 OVERNIGHT DELIVERY by placing a true copy thereof enclosed in a sealed envelope or package designated by the express service carrier in the Office of the
+16 Solano County Counsel's outgoing mailbox for collection and mailing following ordinary business practices by county mail carriers. I am readily familiar with the County of Solano's practice for collection and processing of correspondence for 17 mailing with overnight delivery carriers. In accordance with that practice, the
+18 notice or other paper would be deposited in a box or other facility regularly maintained by the express service carrier, or delivered to an authorized courier or driver authorized by the express service carrier to receive documents, that same 19 day in the ordinary course of business, with delivery fees paid or provided for.
+20
+1 PERSONAL DELIVERY - by causing personal delivery of the document(s) listed
+21 above to the person(s) at the address(es) set forth below.
+
+22 EMAIL by causing a true and correct scanned image (.PDF file) copy to be transmitted via the electronic mail transfer system in place at County of Solano
+23 originating from the undersigned at 675 Texas Street, Suite 6600, Fairfield, California, to the address(es) indicated below.
+24
+ATTORNEYS AND/OR PARTIES SERVED: SEE ATTACHED SERVICE LIST 25
+I declare under penalty of perjury under the laws of the State of California that the 26 foregoing is true and correct. Executed in Fairfield, California, on October 1, 2021
+27
+Youtso Tenzin 28
+Legal Secretary, Office of the Solano County Counsel
+
+PROOF OF SERVICE
+
+1 SERVICE LIST
+
+2 CEQA Coordinator
+Office of the Attorney General 3 Environment Section
+
+4 1300 "I" Street
+Sacramento, CA 95814-2919 (Via Mail)
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+Texas Street, Suite 0099 12
+
+County ouEJOS JO EEST6 D11 C536 C9 p PuodaPl preyIe 13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+24
+
+25
+
+26
+
+27
+
+28
+
+PROOF OF SERVICE

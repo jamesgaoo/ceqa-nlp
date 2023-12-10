@@ -1,0 +1,784 @@
+- HANSON BRIDGETT LLP
+CHRISTOPHER A. RHEINHEIMER, SBN 253890
+2 I| crheinheimer@hansonbridgett.com TINA L. BERGLUND, SBN 303865
+3 cberglund@hansonbridgett.com MADISON D. DIZINNO, SBN 335052
+4 mdizinno@hansonbridgett.com
+1676 N. California Blvd., Suite 620
+5 Walnut Creek, California 94596
+Telephone: (925) 746-8460
+6 Facsimile: (925) 746-8490
+
+7 Attorneys for Petitioners NORTH VILLAGE DEVELOPMENT, INC.,
+8 and DISCOVERY BUILDERS, INC.
+
+9
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+10
+COUNTY OF SOLANO
+11
+
+12
+NORTH VILLAGE DEVELOPMENT, INC., Case No.
+13 a California corporation, and DISCOVERY
+
+14 BUILDERS, INC., California corporation, NOTICE TO ATTORNEY GENERAL OF
+FILING OF PETITION FOR WRIT OF
+Petitioners, MANDATE AND COMPLAINT FOR
+15 DECLARATORY RELIEF
+V.
+16
+CITY OF VACAVILLE, a California general [Pub. Resources Code, § 21167.7]
+17| law city,
+
+18 Respondent.
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+-]-
+NOTICE TO ATTORNEY GENERAL OF THE STATE OF CALIFORNIA OF FILING OF
+17966757.1 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+- To the Attorney General of the State of California:
+
+2 PLEASE TAKE NOTICE that under California Public Resources Code section 21167.7
+3 and California Code of Civil Procedure section 388, Petitioners North Village Development, Inc.
+
+4 and Discovery Builders, Inc. ("Petitioners") will file the attached verified Petition for Writ of
+5 Mandate and Complaint for Declaratory Relief (attached hereto as "Exhibit A"). In this pleading,
+6 Petitioners challenge the legal validity under the California Environmental Quality Act ("CEQA;"
+
+7 Pub. Resources Code, § 21000 et seq.) to invalidate the Respondent City of Vacaville's
+8 ("Respondent") approval on September 28, 2021 of a Supplemental EIR to General Plan and
+9 Energy Conservation Strategy ("ECAS") EIR.
+
+10
+
+11 DATED: October 28, 2021
+
+12 HANSON BRIDGETT LLP
+
+13 By;
+
+14 CHRISTOPHER A. RHEINHEIMER
+
+15 CHRISTINA L. BERGLUND
+MADISON D. DIZINNO
+
+16 Attorneys for Petitioners NORTH VILLAGE DEVELOPMENT. INC. and DISCOVERY
+
+17 BUILDERS, INC.
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+-2-
+
+17966757.1 NOTICE TO ATTORNEY GENERAL OF THE STATE OF CALIFORNIA OF FILING OF
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+EXHIBIT A
+
+HANSON BRIDGETT LLP
+CHRISTOPHER A. RHEINHEIMER, SBN 253890
+2 crheinheimer@hansonbridgett.com CHRISTINA L. BERGLUND, SBN 303865
+3 cberglund@hansonbridgett.com MADISON D. DIZINNO, SBN 335052
+4 mdizinno@hansonbridgett.com
+1676 N. California Blvd., Suite 620
+5 Walnut Creek, California 94596
+| Telephone: (925) 746-8460
+6 Facsimile: (925) 746-8490
+
+7 Attorneys for Petitioners NORTH VILLAGE DEVELOPMENT, INC.,
+8 and DISCOVERY BUILDERS, INC.
+
+9
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+10
+COUNTY OF SOLANO
+11
+
+12
+NORTH VILLAGE DEVELOPMENT, INC., Case No.
+13 a California corporation, and DISCOVERY BUILDERS, INC., a California corporation, VERIFIED PETITION FOR WRIT OF
+14 MANDATE ORDERING COMPLIANCE Petitioners, WITH CALIFORNIA PUBLIC RECORDS
+15 ACT AND CALIFORNIA
+V.
+16 ENVIRONMENTAL QUALITY ACT
+CITY OF VACAVILLE, a California general 17 law city,
+
+18 Respondent.
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+-1- 37419.1 17934251.4 VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 INTRODUCTION
+
+2 1. North Village Development, Inc. (*North Village") and Discovery Builders, Inc.
+3 ("Discovery Builders), (collectively, "Petitioners") petition this Court, pursuant to Code of Civil
+4 Procedure section 1085, Government Code section 6258, and Article I section 3 of the California
+5 Constitution, for a writ of mandate ordering Respondent City of Vacaville (the "City") to comply
+
+6 with the California Public Records Act (Gov. Code, § 6250 et seq.; "CPRA") and with the
+7 California Environmental Quality Act (Pub. Resources Code $ 21000 § et seq., "CEQA").
+
+8 2. The City of Vacaville approved a Supplemental Environmental Impact Report
+9 ("SEIR") in connection with its General Plan Transportation Element Update and Energy
+10 Conservation Strategy ("ECAS"). The Transportation Element relies on a vehicle miles traveled
+11 (*VMT*) calculation, which is used to evaluate potential transportation-related impacts on the
+12 environment. The calculation is intended to help the City and the public understand whether
+13 people will travel more or less by vehicle over time, across different areas, or across planning
+14 scenarios.
+
+15 3. Importantly, the City established significance threshold using the VMT
+16 calculation. A project must remain under the VMT significance threshold in order to avoid a
+17 finding that the development will cause a significant impact on the environment. According to the
+18 City, the VMT calculation is based on the City's travel demand forecasting model.
+
+19 4. In violation of CEQA, the City's SEIR does not disclose substantial evidence that
+20 support how the VMT is calculated. Modeling information or other data used to derive VMT
+21 numbers are wholly absent. Therefore, it is impossible for developers and members of the public
+
+22 to evaluate the sufficiency, accuracy, or reliability of the City's VMT calculation.
+
+23 5. Since April 2021, Petitioners have repeatedly expressed concerns about the lack of
+24 transparency surrounding the City's VMT calculation. Petitioners requested the VMT model files,
+25 specifically:
+
+26 a. All travel demand forecasting model files (excluding proprietary software)
+27 used by the City to run the City's travel demand model for its VMT
+
+28 analysis;
+
+-2- 37419.1 17934251.4 VERIFIED PETITION FOR WRIT OF MANDATE
+
+b. All files that are not part of an off-the-shelf version of the CUBE software,
+2 with the file folder/file structure intact to run the City's model for VMT
+analysis; and
+c. All model output files from the City's VMT analysis in order to verify that
+Petitioners' model runs can replicate the City's model runs.
+
+6. The documents requested are government files paid for with public funds.
+7 Disclosure of the requested documents would not require the City to forfeit any proprietary
+
+8 software or trade secret information. The documents are clearly subject to disclosure under the
+
+9 CPRA.
+
+10 7. While files may have been developed using software, or may need to be loaded into
+11 software to be processed, they are files created by the user (i.e., the City and its consultants) and
+12 not part of the off-the-shelf version of the software purchased from the software vendor including,
+13 potentially, model scripts, special scripts, land use files, road network files, shape files, traffic and
+14 trip files, etc.
+
+15 8. Denying the public access to these records both violates the CPRA and without the
+16 travel demand model records the SEIR lacks substantial evidence to support the VMT calculation
+17 in violation of CEQA.
+
+18 PARTIES TO THIS PROCEEDING
+
+19 9. Petitioners North Village Development, Inc. and Discovery Builders, Inc. are, and
+20 at all relevant times mentioned herein were, legal entities duly organized and formed under the
+21 laws of the State of California, with principal places of business in, Concord, California.
+
+22 10. Respondent, the City of Vacaville is a California general-law city located in Solano
+23 County, California. Respondent is an agency covered under the CPRA. (See Gov. Code, §
+24 5252(a).)
+
+25 JURISDICTION AND VENUE
+
+26 11. This court has jurisdiction over this matter under Government Code section 6259(a)
+27 because the records being sought are situated within Solano County, Code of Civil Procedure
+28 section 1085, and Article VI section 10 of the California Constitution.
+
+-3- 37419.1 17934251.4 VERIFIED PETITION FOR WRIT OF MANDATE
+
+F 12. Venue is proper in Solano County because the acts and omissions complained of
+2 herein occurred in Solano County. (Code Civ. Proc., § 393.) Venue is further proper because the
+3 City is situated in Solano County. (Code Civ. Proc., § 394.)
+
+4 EXHAUSTION
+
+5 13. Petitioners seek review and relief from this Court under Government Code sections
+6 6250-6270 and Public Resources Code section 21168 or 21168.5.
+
+7 14. Petitioners have performed all conditions precedent to filing this Petition and have
+8 exhausted all available administrative remedies to the extent required by law.
+
+9 15. By way of example and without limitation, Petitioners submitted written comments
+10 during the administrative proceedings related to the need for access to the travel demand model
+and for the inclusion of substantial evidence to support VMT calculation in the record. 11
+
+12 16. Petitioners have no plain, speedy, or adequate remedy in the course of ordinary law
+13 unless this Court grants the requested writ of mandate to require the City to produce documents
+14 subject to disclosure under the California Public Records Act and to invalidate the City's SEIR for
+15 lack of substantial evidence in violation of the CEQA. In the absence of these remedies, the City's
+16 approval will remain in effect in violation of State Law.
+
+17 NOTICE
+
+18 17. Petitioners have complied with the requirements of Public Resources Code section
+19 21167.5 by serving a written notice of Petitioners' intention to commence this action on
+20 Respondents on October 27, 2021. A copy of the notice and proof of service is attached hereto as is
+21 Exhibit A.
+
+22 18. Petitioners complied with the requirements of Public Resources Code section
+23 21167.7 by sending a copy of this Petition to the California Attorney General on October 28,
+24 2021. A copy of the notice transmitting this Petition is attached hereto as Exhibit B.
+
+25 19. This proceeding is being commenced not more than 30 days after the notice
+26 authorized by Public Resources Code section 21152(a).
+
+27 FUNDAMENTAL RIGHT OF ACCESS TO INFORMATION UNDER CPRA
+
+28 20. All public records are subject to disclosure unless the Legislature explicitly
+
+-4-
+37419.1 17934251. VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 | provides to the contrary. (Sierra Club v. Superior Court (2013) 57 Cal.4th 157, 166 (Sierra Club.)
+
+2 21. Public records broadly include "any writing containing information relating to the
+3 conduct of the public's business prepared, owned, used, or retained by any state or local agency
+4 regardless of physical form or characteristics." (Gov. Code, § 6252.) Format of the information is
+5 "not generally determinative of the public record status of the government information." (Sierra
+6 Club, supra, 57 Cal.4th at p. 165.)
+
+7 22. Even where legislative intent is ambiguous, the California Constitution requires
+
+8 broad construction of the CPRA to the extent that it "furthers the people's right of access" and
+
+9 narrow construction of the CPRA "to the extent it limits the right of access." (Id. citing Cal. Const.
+10 art. I, cop 3, subd. (b)(2).)
+
+11 23. Under the CPRA, upon request, a public agency must make publicly available for
+12 inspection and copying any record that it prepared, owns, uses, or retains that is not subject to the
+13 CPRA's statutory exemptions to disclosure. (Gov. Code, § 6253; see also id. at subd. (b) ['Except
+14 with respect to public records exempt from disclosure by express provisions of law, each state or
+
+15 local agency, upon a request for a copy of records that reasonably describes an identifiable record
+16 or records, shall make the records promptly available to any person upon payment of fees covering
+17 direct costs of duplication, or a statutory fee if applicable"].)
+
+18 24. Upon receipt of a CPRA request, public agencies "shall make the [requested]
+19 records promptly available." (Gov. Code § 6253(b).) §
+20 25. The CPRA requires public agencies to respond to the request within ten days. (Gov.
+21 Code § 6253(c).) The initial response must inform the requestor "whether the request, in whole or
+22 in part, seeks copies of disclosable public records in the possession of the agency" and "the
+23 estimated date and time when the records will be made available." (Ibid.)
+
+24 26. The Legislature contemplated that emergency situations, like the COVID-19
+25 pandemic, may preclude strict compliance with Government Code section 6253's ten-day
+26 deadline, and thus authorized an extension of this deadline in certain "unusual circumstances."
+27 (Id.) But in no case does the CPRA allow extensions of "more than 14 days" and, in any event, the
+
+28 City "shall state the estimated date and time when the records will be made available." (See id.)
+
+-5- 37419.1 17934251.4 VERIFIED PETITION FOR WRIT OF MANDATE
+
+27. Pursuant to Government Code section 6253.1(a), "[wJhen a member of the public
+2 requests to inspect a public record or obtain a copy of a public record, the public agency, in order
+
+3 to assist the member of the public make focused and effective request that reasonably describes
+
+4 an identifiable record or records, shall do all of the following, to the extent reasonable under the
+
+5 I circumstances:"
+
+6 "Assist the member of the public to identify records and information that are
+7 responsive to the request or to the purpose of the request, if stated."
+
+8 "Describe the information technology and physical location in which the records
+
+9 exist."
+
+10 "Provide suggestions for overcoming any practical basis for denying access to the
+11 records or information sought."
+
+12 28. Public agencies "are obliged to disclose all records they can locate 'with reasonable
+13 effort.' " (City of San Jose v. Sup. Ct. (2017) 2 Cal.5th 608, 627.)
+
+14 29. Nothing in the CPRA "shall be construed to permit an agency to delay or obstruct
+15 the inspection or copying of public records." (Gov. Code § 6253(d).)
+
+16 30. Before withholding any record responsive to a valid request under the CPRA, the
+17 agency must "demonstrat[e] that the record in question is exempt under [the CPRA's] express
+18 provisions ... or that on the facts of the particular case the public interest served by not disclosing
+19 the record clearly outweighs the public interest served by disclosure of the record." (Gov. Code,
+20 § 6255.)
+
+21 31. A member of the public who believes that public records are being improperly
+22 withheld may bring suit for mandate to enforce the CPRA. (Gov. Code, §§ 6258, 6259(a).) If the
+23 Court finds that the public official's decision to refuse disclosure is not justified, it shall order the
+24  public official to make the records public. (Id. at § 6259(b).)
+
+25 32. "The court shall decide the case after examining the record in camera, if permitted
+26 by subdivision (b) of Section 915 of the Evidence Code, papers filed by the parties and any oral
+27 argument and additional evidence as the court may allow." (Gov. Code, § 6259(a).) "If the court
+28 finds that the failure to disclose is not justified, it shall order the public official to make the record
+
+-6-
+37419.1 17934251.4 VERIFIED PETITION FOR WRIT OF MANDATE
+
+F public." (Gov. Code, § 6259(b).)
+
+2 33. The court must award court costs and reasonable attorney fees to a prevailing
+
+3 petitioner, to be paid by the agency from which the petitioner requested the records. (Gov. Code,
+4 § 6259(d).)
+
+5 34. Section 3(b) of Article 1 of the California Constitution entrenches and venerates the
+6 public's right to access information as set forth in the CPRA. There is no ambiguity: "[t]he people
+7 have the right of access to information concerning the conduct of the people's business, and,
+8 therefore, the meetings of public bodies and the writings of public officials and agencies shall be
+open to public scrutiny." (Cal. Const. Art. 1, § 3(b)(1).) Further, the California Constitution 99 9
+
+10 instructs that a CPRA provision must "be broadly construed if it furthers the people's right of
+
+11 access and narrowly construed if it limits the right of access." (See Cal. Const. Art. 1, § 3(b)(2).)
+12 CEQA LEGAL BACKGROUND
+
+13 35. CEQA (Public Resources Code § 21000, et seq.) was enacted, along with the
+14 CEQA Guidelines (14 Cal. Code Regs. con 15000 et seq.), to require public agency decision makers
+15 such as the City of Vacaville to document and consider environmental implications of their
+16 actions.
+
+17 36. CEQA's fundamental goal is to fully inform the public and decision makers of
+18 potential environmental impacts to assure members of the public that their elected officials are
+19 making informed decisions.
+
+20 37. Fundamental to the CEQA process is preparation of an environmental impact
+21 require (EIR) which discloses the potential adverse environmental impacts which may result from
+22 approval of a project by a lead agency such as the City.
+
+23 38. The metric for determining whether there is potential for significant environmental
+24 impact is determined by the significance threshold, like VMT. The significance threshold is an
+25 identifiable quantitative, qualitative, or performance level of a particular environmental effect set
+26 by the lead agency. Non-compliance with the significance threshold means the effect will typically
+27 be determined to be "significant" by the agency and compliance with which typically means the
+28 effect will be "less than significant."
+
+-7-
+37419.1 17934251.4 VERIFIED PETITION FOR WRIT OF MANDATE
+
+39. CEQA mandates that conclusions reached in an environmental impact reports must
+
+2 be supported by substantial evidence in the administrative record. (Laurel Heights Improvement
+3 Assn. v. Regents of University of California (1988) 47 Cal.3d 376, 407; see also CEQA Guidelines
+
+4 section 15064.7 [requiring thresholds of significance to be supported by substantial evidence].)
+
+5 40. "Substantial evidence" in the CEQA context means "enough relevant information
+6 and reasonable inferences from this information that a fair argument can be made to support a
+conclusion" though other conclusions may be reached. (Center for Biological Diversity v. County
+
+8 of San Bernadino (2016) 247 Cal.App.4th 326, 338.)
+
+9 41. The Court "must scrutinize the record and determine whether substantial evidence"
+10 supports the agency's decision. (Id. at 408 citing Topanga Assn for a Scenic Community v. County
+11 of Los Angeles (1974) 11 Cal.3d 506, 514.)
+
+12 FACTUAL, PROCEDURAL, AND LEGAL BACKGROUND
+
+13 42. The City of Vacaville is the lead agency responsible for reviewing the
+14 Supplemental Environmental Impact Report ("SEIR") prepared in connection with its General
+15 Plan Transportation Element Update.
+
+16 43. The SEIR establishes a significance threshold for VMT, but does not disclose
+17 modeling information or other data used to derive the VMT numbers. For example, the SEIR
+18 discloses a General Plan Building VMT for single-family units of 76.5. However, the City refused
+19 to make evidence demonstrating how this number was calculated publicly available.
+
+20 44. On April 29, 2021, Petitioners sent a letter to the City of Vacaville Community
+
+21 Development Department via electronic mail to provide public comment on the General Plan
+22 Transportation Element Update and requesting that information related to the calculation of VMT
+
+23 be made publicly available.
+
+24 45. The City refused to turn over the requested documents on the basis that the records
+25 constituted a trade secret.
+
+26 46. On May 27, 2021, Petitioners sent a CPRA request to the City of Vacaville City
+27 Attorney Department for the records.
+
+28 47. On June 21, 2021, the City provided an incomplete production stating that the
+
+-8- 37419.1 17934251.4 VERIFIED PETITION FOR WRIT OF MANDATE
+
+records were "non-exempt responsive records." This production did not include records necessary
+2 to verify the VMT analysis.
+
+3 48. Following an August 17, 2021 Planning Commission meeting, Petitioners spoke
+4 with City Traffic Engineer, Gwen Owens, who indicated that some of the records used by the City
+5 are "embedded" in the software and are therefore not subject to release. Without the "embedded"
+6 files, no party except the City and its consultants can run the model.
+
+7 49. In other words, the City's position is that no member of the public can review the
+8 purported evidence underlying the viability of the City's model. Municipal government should not
+
+9 be conducted in the dark.
+
+10 50. On August 19, 2021, Petitioners submitted an additional letter via electronic mail to
+11 the City of Vacaville City Attorney's Department indicating that they had still not received records
+12 sufficient to run the VMT analysis. Petitioners also noted that at that point, it had been more than
+13 eighty (80) days since Petitioners' initial request for the travel demand model, well outside of the
+14 response period required by the CPRA. Petitioners requested that if the City continued to withhold
+15 the full travel demand model, it inform Petitioners on which basis the information is being
+
+16 withheld.
+
+17 51. On August 30, 2021, City Attorney Melinda Stewart responded that (1) the City
+18 was in consultation among its departments to determine whether there are disclosable records that
+19 had not yet been provided and (2) that responsive documents may be voluminous and therefore the
+20 City required an additional fourteen days to respond.
+
+21 52. On September 13, 2021, City Attorney Melinda Stewart sent Petitioners a letter
+22 stating that the City would provide access to some, though not all, of the requested documents and
+23 noted that with respect to transportation network records, such records operate as computer
+24 software, and the "City considers the remaining aspects of the travel demand forecasting model as
+25 computer software developed by a local agency" and thus exempt from CPRA disclosure.
+
+26 53. On October 11, 2021, Petitioners received the City's incomplete production via a
+27 Box link.
+
+28 54. To date, Petitioners and the public have not been able to run and understand the
+
+-9-
+37419.1 17934251.4 VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 travel demand model because the City has not provided all required files. The City's partial
+
+2 production is useless to Petitioners without the remaining data required for the model that would
+3 enable Petitioners to run simulations to understand and verify the City's calculations and
+4 conclusions in the SEIR.
+
+5 55. The City has a clear, present, ministerial duty to comply with the CPRA.
+
+6 56. Petitioners have performed all conditions precedent to filing this petition.
+
+7 57. Petitioners have no plain, speedy, and adequate remedy in the ordinary course of
+8 law other than the relief sought in this petition.
+
+9 CLAIMS FOR RELIEF
+
+10 FIRST CAUSE OF ACTION
+
+11 (Writ of Mandate Compelling Production of Documents, Declaratory Relief, and Injunctive
+
+12 Relief Under Gov. Code, §§ 6250-6270 )
+
+13 58. Petitioners incorporate by reference the allegations of paragraphs 1-57 above as
+14 though fully set forth herein.
+
+15 59. Under the CPRA, Petitioners have a right to inspect, and the City has a duty to
+16 provide promptly and without delay, public records subject to disclosure.
+
+17 60. Petitioners have requested access to the VMT model records since April 2021 and
+a 18 submitted a valid request for records under the CPRA on May 27, 2021.
+
+19 61. The City admits that it possesses records responsive to Petitioners' requests, but
+20 refuses to disclose them because they are purportedly "embedded" in software exempt from
+21 disclosure under CPRA.
+
+22 62. Petitioners do not seek access to the City's proprietary software, only the public
+23 records loaded into that software required to run a VMT analysis. a Without access to the travel
+24 demand model, the public has no insight into the City's VMT estimates disclosed in the SEIR.
+25 Review of the travel demand model is necessary to remedy the existing information gap that
+26 prevents the public's ability to weigh potential environmental consequences.
+
+27 63. The records requested by Petitioners are not privileged, confidential, or otherwise
+28 exempt from disclosure to Petitioners.
+
+-10-
+37419.1 17934251.4 VERIFIED PETITION FOR WRIT OF MANDATE
+
+64. The City's failure to provide non-exempt responsive documents to the CPRA
+2 request violates the CPRA, which provides that "[p]ublic records are open to inspection at all
+3 times during the office hours of the state or local agency and every person has a right to inspect
+
+4 any public records, except as hereafter provided." (Gov. Code, § 6253(a).) The Public Records Act
+
+5 forbids public agencies from delaying the peoples' right to inspect public records. (Gov. Code, co.
+6 6253(b) & (d).)
+
+7 65. The City's denial of access to the full scope of public records sought by Petitioners
+
+8 is a violation of the CPRA.
+
+9 66. The City's denial of access to the records sought by Petitioners is inconsistent with
+10 Article 1, section 3(b) of the California Constitution, which provides that: "The people have the
+11 right of access to information concerning the conduct of the people's business, and, therefore, the
+12 meetings of public bodies and the writings of public officials and agencies shall be open to public
+13 scrutiny."
+
+14 67. The City has a legal obligation to make all public records available for inspection
+15 by any member of the public upon request.
+
+16 68. Petitioners have a clear, present, and substantial right to the release of the records
+17 sought herein. The City have a manifest legal duty to provide responsive documents to Petitioners'
+18 PRA request within the statutory period. Petitioners have no plain, speedy, or adequate remedy
+19 other than the relief sought.
+
+20 69. There is a real, present, and ongoing controversy between Petitioners and the City
+21 with respect to Petitioners' CPRA request and the City's response thereto.
+
+22 70. Pursuant to, inter alia. Government Code section 6259(d), Petitioners are entitled to
+23 recover attorneys' fees and costs on its CPRA claim.
+24 SECOND CAUSE OF ACTION
+
+25 (Writ of Mandate Invalidating the City's SEIR Under Public Resources Code Section 21168
+
+26 and Declaratory Relief Under Gov. Code, §§ 6250-6270)
+
+27 71. Petitioners incorporate by reference the allegations of paragraphs 1-70 above as
+28 though fully set forth herein.
+
+-11-
+37419.1 17934251.4 VERIFIED PETITION FOR WRIT OF MANDATE
+
+r 72. Under CEQA, the City has an obligation to support the conclusions in its SEIR
+2 with substantial evidence in the administrative record. (See Santa Monica Baykeeper v. City of
+
+3 Malibu (2011) 193 Cal.App.4th 1538, 1546.)
+
+4 73. Not only has the City not supported its VMT calculation by substantial evidence, it
+
+5 has not supported its conclusions by any evidence that is publicly available. The administrative
+6 record for the SEIR is wholly devoid of information necessary to verify how VMT was calculated.
+
+7 74. Public access to information is the cornerstone of CEQA. The CEQA Guidelines
+8 are riddled with references to the need for disclosure of documents referenced in an EIR. For
+
+o example, Public Resources Code section 21092 requires that all documents referenced in an EIR
+10 || be made available for inspection.
+
+75. The City's travel demand model is synonymous with the types of documents 11
+
+12 required to be made available for public review. The travel demand model is a technical document
+13 underlying the City's VMT estimates and access to it is necessary to permit full assessment of
+14 significant environmental effects.
+
+15 76. In reviewing an EIR, "paramount consideration is the right of the public to be
+16 informed in a such a way that it can intelligently weigh the environmental consequences of any
+17 contemplated action and have an appropriate voice in the formulation of any decision." (Twain
+18 Harte Homeowners Assn. V. County of Tuolumne (1982) 138 Cal.App.3d 664, 673.)
+
+19 77. By failing to include any information about how it calculated VMT in the EIR, the
+20 City's significance threshold relied on in the SEIR cannot be verified and is therefore not
+21 supported by substantial evidence.
+
+22 78. The City has legal obligation to support conclusions made and methodologies
+23 used in the SEIR with substantial evidence.
+
+24 79. Petitioners have a clear, present, and substantial right to review an SEIR supported
+25 by substantial evidence as required by CEQA. Petitioners have no plain, speedy, or adequate
+26 remedy other than the relief sought.
+
+27 80. There is a real, present, and ongoing controversy between Petitioners and the City
+28 with respect to the lack of substantial evidence supporting VMT calculation in the record.
+
+-12- 37419.1 17934251.4 VERIFIED PETITION FOR WRIT OF MANDATE
+
+PRAYER FOR RELIEF
+
+2 WHEREFORE, Petitioner prays as follows:
+
+3 l. That the Court issue a peremptory writ of mandate pursuant to Government Code
+4 section 6259 directing the City to immediately disclose to Petitioners all public records requested
+
+5 in Petitioners' May 27, 2021 CPRA request;
+
+6 2. That the Court enter a declaratory judgment that the City violated the CPRA by
+
+7 unlawfully failing to respond to, withholding, and/or delaying production of the records requested
+
+8 in Petitioners' May 27, 2021 CPRA request;
+
+9 3. In the alternative, that the Court order the City to show cause why they should not
+10 produce the requested affidavits and records, and thereafter order the City to produce all requested
+11 and withheld records;
+
+12 4. That the Court, if it does not immediately order disclosure of records, conduct an in
+
+13 camera review of records pursuant to Government Code section 6259(a) and thereafter order
+14 disclosure of any withheld records;
+
+15 5. That the Court enter a declaratory judgment that the City violated CEQA by failing
+16 to support its choice of methodology by substantial evidence in the SEIR;
+
+17 6. That the Court invalidate the City's SEIR for failure to support its conclusions with
+18 substantial evidence in violation of CEQA;
+
+19 7. That Petitioners be awarded attorneys' fees and costs; and
+
+20 8. For such and further relief as the Court deems proper and just.
+
+21
+
+22 DATED: October 28, 2021 HANSON BRIDGETT LLP
+
+23
+
+24 By:
+
+25 CHRISTOPHER A. RHEINHEIMER
+CHRISTINA L. BERGLUND
+
+26 MADISON D. DIZINNO
+Attorneys for Petitioners NORTH VILLAGE
+27 DEVELOPMENT, INC. and DISCOVERY
+BUILDERS. INC.
+
+28
+
+-13-
+37419.1 17934251.4 VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 VERIFICATION
+
+2 I, Doug Chen, declare as follows:
+am an authorized representative for North Village Development, Inc. and Discovery
+4 Builders, Inc., Petitioners herein, and am authorized to make this verification on their behalf. I
+have read the foregoing VERIFIED PETITION FOR WRIT OF MANDATE ORDERING
+
+6 COMPLIANCE WITH CALIFORNIA PUBLIC RECORDS ACT AND CALIFORNIA
+ENVIRONMENTAL QUALITY ACT and know its contents.
+The matters stated in the foregoing document are true of my own knowledge except as to
+
+9 those matters which are stated on information and belief, and as to those matters I believe them to
+10 be true.
+
+11 I declare under penalty of perjury under the laws of the State of California that the
+12 foregoing is true and correct.
+
+13 Executed on October 27, 2021, at Cronl California.
+
+14
+
+15
+
+16 Lys Doug Chen
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+-14- 37419.1 17934251.4 VERIFIED PETITION FOR WRIT OF MANDATE
+
+PROOF OF SERVICE
+
+2 North Village Development, Inc., et al. v. City of Vacaville Solano County Superior Court 3
+STATE OF CALIFORNIA, COUNTY OF CONTRA COSTA
+4
+At the time of service, I was over 18 years of age and not a party to this action. I am 5 employed in the County of Contra Costa, State of California. My business address is 1676 N. California Blvd., Suite 620, Walnut Creek, CA 94596.
+6
+On October 28, 2021, I served true copies of the following document(s) described as 7
+NOTICE TO ATTORNEY GENERAL OF FILING OF PETITION FOR WRIT OF
+8 MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+9 on the interested parties in this action as follows:
+10 CEOA Coordinator Office of the Attorney General 11 Environment Section
+1300 I" Street 12 Sacramento, CA 95814-2919
+
+13 BY MAIL: enclosed the document(s) in a sealed envelope or a package addressed to the persons at the addresses listed in the Service List and placed the envelope for collection and 14 mailing, following our ordinary business practices. am readily familiar with Hanson Bridgett LLP's practice for collecting and processing correspondence for mailing. On the same 15 day that correspondence is placed for collection and mailing, it is deposited in the ordinary course
+
+16 of business with the United States Postal Service, in a sealed envelope with postage fully prepaid.
+I declare under penalty of perjury under the laws of the State of California that the 17 foregoing is true and correct.
+
+18 Executed on October 28, 2021, at Walnut Creek, California.
+
+19
+
+20 suefninad A Wahiagton
+21 ffrey A. Washington
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL OF THE STATE OF CALIFORNIA OF FILING OF
+17966757.1 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF

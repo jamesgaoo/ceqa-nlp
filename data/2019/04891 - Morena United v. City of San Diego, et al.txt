@@ -1,0 +1,930 @@
+1 Everett L. DeLano III (Calif. Bar No. 162608)
+
+2 M. Dare DeLano (Calif. Bar No. 196707) Tyler T. Hee (Calif. Bar No. 316148)
+
+3 DELANO & DELANO 104 W Grand Avenue, Suite A
+
+4 Escondido, California 92025 (760) 741-1200
+(760) 741-1212 (fax) 5 www.delanoanddelano.com
+
+6 Attorneys for Petitioner
+
+7
+
+8
+
+9
+
+10
+
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+12 COUNTY OF SAN DIEGO, CENTRAL DIVISION
+
+13
+MORENA
+14 UNITED, an
+association; unincorporated Case No.
+
+15 Petitioner,
+
+16 VERIFIED PETITION FOR WRIT OF
+VS. MANDATE
+
+17 CITY OF SAN DIEGO, a public body corporate (California Environmental Quality Act)
+
+18 and politic, and DOES 1 through 5, inclusive,
+
+19 Respondents.
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Morena United v. City of San Diego Page
+Writ Petition
+
+1 INTRODUCTION
+
+2 1. This action challenges the approvals by Respondent City of San Diego ("City" or
+3  "Respondent") of the Morena Corridor Specific Plan ("Plan" or "Project"), and the related failure to
+
+4 comply with the California Environmental Quality Act ("CEQA"), Pub. Res. Code § 21000, et seq.
+
+5 2. Among other things, the City failed to consider the environmental impacts associated with
+
+6 the Plan, failed to prepare and circulate required environmental analysis, and failed to consider and
+
+7 adopt feasible alternatives and mitigation.
+
+8 3. Additionally, the City failed to comply with its own General Plan, Climate Action Plan,
+
+9 Clairemont Mesa Community Plan, and Linda Vista Community Plan.
+
+10 4. Petitioner seeks alternative and peremptory writs of mandate declaring the City's approvals
+
+11 invalid, and enjoining the City from taking steps to implement the approvals.
+
+12 PARTIES
+
+13 5. Petitioner Morena United is an unincorporated association of residents, business owners,
+
+14 and property owners within the City of San Diego who live in or do business in and around the Plan
+
+15 area, and who seek to protect health and safety, preserve aesthetic qualities, preserve the unique
+
+16 character of the City of San Diego, protect pedestrian safety, ensure reasonable traffic and circulation,
+17 protect public views and spaces, and otherwise protect the community and environment. Petitioner
+
+18 believes that reasonable growth may be accomplished in the City of San Diego while preserving the
+
+19 quality of life of the area affected by the Plan. Petitioner and its members have been and will be injured as
+
+20 a result of Respondent's actions. Petitioner and its members use, rely on, enjoy and benefit from the
+21 resources affected by Respondent's actions. Respondent's actions adversely affect the aesthetic,
+
+22 recreational, economic, environmental, and health and safety interests of Petitioner and of Petitioner's
+
+23 members. The interests of Petitioner and Petitioner's members have been and will continue to be
+
+24 adversely affected by Respondent's unlawful actions. The relief sought in this Petition would redress
+
+25 Petitioner's and Petitioner's members' injuries.
+
+26 6. Respondent City of San Diego is a political subdivision of the State of California and a body
+
+27 corporate and politic exercising local government powers, as specified by the Constitution and the laws of
+
+28 the State of California.
+
+Morena United v. City of San Diego Page 2
+Writ Petition
+
+1 7. Petitioners do not know the true names or capacities of the persons or entities sued herein as
+
+2 Does through 5, and therefore sue these respondents by such fictitious names. Petitioners will amend
+
+3 the Petition to set forth the names and capacities of said respondents along with appropriate charging
+
+4 allegations when the same have been ascertained.
+
+5 PROJECT DESCRIPTION AND HISTORY
+
+6 8. The Plan states: "The Specific Plan area is approximately 280 acres along Morena
+
+7 Boulevard and West Morena Boulevard between Clairemont Drive and Friars Road To the west, the
+
+8 Specific Plan area is bounded by the railroad right-of-way and Interstate 5 (I-5). To the north and east,
+
+9 the Specific Plan area is shaped by the sloping topography and cohesive single-family residential
+10 neighborhoods in Clairemont Mesa; the University of San Diego (USD); and multifamily and student
+
+11 housing in Linda Vista. To the south is the San Diego River and Interstate 8 (I-8), which separate the
+
+12 Specific Plan area from Old Town San Diego and Mission Valley."
+
+13 9. The City has represented that the intent of the Plan is to transform the Plan area into a
+
+14 pedestrian-oriented village with various land uses, including commercial and residential uses, linked
+15 together by pedestrian and bicycling facilities. The Plan provides separate policies and development
+
+16 regulations beyond those included the Clairemont Mesa Community Plan and Linda Vista Community
+
+17 Plan. The City has also represented that the Plan was intended to further and implement the goals and
+
+18 policies of the City's General Plan, Clairemont Mesa Community Plan, and Linda Vista Community
+
+19 Plan, and, among other things, provides specific criteria for the development of mixed-use "villages"
+
+20 within the Plan area. In addition, the City has represented that the Plan seeks to implement the goals
+
+21 and strategies of the City's Climate Action Plan, including among other things increasing housing near
+22 transportation facilities and improving access and facilities for transit.
+
+23 10. In July 2017, a draft of the Plan was made available for public review. Subsequent drafts of
+
+24 the Plan were made available in August 2018 and January 2019.
+
+25 11. The Draft Environmental Impact Report ("DEIR") was published for public comment on or
+
+26 about August 1, 2018. Comments submitted on the DEIR, including from Petitioner's members,
+
+27 noted, among other things, concerns about the Plan's impacts on transportation and circulation,
+
+28 parking, water supply, visual effects, community character, historical and tribal cultural resources,
+
+Morena United v. City of San Diego Page 3
+Writ Petition
+
+1 noise, air quality, energy, public services and utilities, cumulative impacts, greenhouse gas emissions,
+
+2 and parks and recreation facilities. Comments also noted concerns about impacts to land use, water
+
+3 quality, building heights, and economic impacts related to the loss of jobs and commercial spaces. In
+
+4 addition, comments noted concerns about additional strains on already underperforming roadways, and
+
+5 concerns about public health and safety, including among other things, the Plan's impacts to fire
+
+6 hazards and inadequate analysis of evacuation planning. Comments also noted inconsistencies with
+
+7 the Clairemont Mesa Community Plan, the Linda Vista Community Plan, and the Climate Action
+
+8 Plan; as well as a lack of adequate analysis of impacts to transportation and circulation, inadequate
+
+9 analysis of various Plan elements related to mobility, inadequate provisions for affordable housing,
+
+10 concerns about the City's failure to comply with CEQA's procedural requirements, and the need to
+
+11 recirculate the DEIR. Moreover, San Diego Association of Governments recommended additional
+
+12 policies and steps to address issues related to mobility, transportation, and parking.
+
+13 12. The Final EIR ("FEIR") was published on or about February 1, 2019, and another draft of
+
+14 the Plan and an errata to the FEIR were made available for public review in July 2019.
+
+15 13. Numerous comments, including from Petitioner, were received regarding the Plan and
+
+16 raised additional concerns about the FEIR. Comments noted, among other things, the Plan's violations
+
+17 of the General Plan and community plans, the Plan's impacts to air quality, energy, noise, historical
+
+18 and tribal cultural resources, greenhouse gas emissions, paleontological resources, parks and recreation
+
+19 facilities, water quality, visual effects and neighborhood character, transportation and mobility, fire
+
+20 hazards, public health and safety, public facilities, water supply, and the Plan's cumulative impacts. In
+
+21 addition, comments noted the Plan's failure to ensure adequate affordable and inclusionary housing.
+
+22 14. Comments also noted the EIR's failure to adopt feasible mitigation measures, failure to
+
+23 address and/or analyze a reasonable range of alternatives, and failure to address foreseeable impacts.
+
+24 15. Comments also noted that the Plan was inconsistent with the City's adopted Climate Action
+
+25 Plan and with its adopted Recreation Element and Strategic Framework Element of the General Plan.
+
+26 16. Comments also noted the FEIR's failure to address comments.
+
+27 17. Comments also noted the Plan's inconsistencies with the Climate Action Plan.
+
+28
+
+Morena United v. City of San Diego Page 4
+Writ Petition
+
+18. On February 21, 2019, the Planning Commission met to consider the Plan and the EIR.
+2 Testimony was received regarding numerous concerns. Comments, including from Petitioner's
+
+3 members, noted concerns about, among other things, impacts to land use, visual effect and
+
+4 neighborhood character, growth inducement, parking, and traffic. Comments also noted concerns
+
+5 about inadequate public facilities and infrastructure related to, among other things, storms drains and
+
+6 water quality. In addition, comments noted concerns about inadequate provisions for affordable
+
+7 housing, and about new height regulations inconsistent with the Linda Vista Community Plan area.
+
+8 Despite these concerns and the many that had been previously raised, the Planning Commission voted
+
+9 to recommend to the City Council certification of the EIR and approval of the Plan.
+
+10 19. The City's Planning Department Staff Report to the City Council dated July 18, 2019
+
+11 ("Staff Report"), stated that the Clairemont Mesa Community Planning Group voted: "to recommend
+
+12 approval of the draft Morena Corridor Specific Plan with the following conditions: Implementation of
+
+13 the Low-Density Alternative" The Clairemont Mesa Community Planning Group's recommendation
+
+14 also included conditions addressing concerns about preservation of existing height limits, infrastructure
+15 improvements, and transportation, circulation, and mobility impacts. The Staff Report also explained
+
+16 that the Linda Vista Planning Group voted to recommend: "City Council either (1) postpone adoption
+
+17 of the Specific Plan until the Council has provided by ordinance for significantly greater inclusionary
+
+18 housing requirement in San Diego than current law requires, or (2) the Morena Corridor Specific Plan
+
+19 be amended to require for all projects in the Plan Area a significantly greater inclusionary housing
+
+20 requirement than current law requires."
+
+21 20. On August 1, 2019, the City Council met to consider the Plan and EIR. Testimony,
+22 including from Petitioner's members, was received regarding numerous concerns. Comments noted,
+
+23 among other things, concerns about inadequate affordable housing in the Plan, impacts to air quality,
+
+24 transportation and mobility, land use, and parking. Comments also noted the EIR's failure to mitigate
+
+25 significant impacts and failure to adopt a feasible range of alternatives. City Councilmember Jennifer
+
+26 Campbell, whose district covers the entire Plan area, noted concerns about the Plan's impacts to
+
+27 housing supply, community character, and inadequate consideration of public participation. Despite
+
+28 these concerns, the City Council voted to approve the Plan and certify the EIR.
+
+Morena United v. City of San Diego Page !
+Writ Petition
+
+1 21. On September 10, 2019, the City Council met to consider ordinances required for the
+
+2 implementation of the Plan. The City Council voted to adopt the ordinances.
+
+3 22. Approvals included: Resolution No. R-2020-24, approving the FEIR, CEQA Findings and a
+
+4 Statement of Overriding Considerations, and adoption of a Mitigation Monitoring and Reporting Program;
+
+5 Resolution No. R-2020-23, adopting an amendment to the General Plan and Linda Vista Community
+
+6 Plan; Resolution No. R-2020-22, adopting an amendment to the General Plan and Clairemont Mesa
+
+7 Community Plan; Ordinance No. 0-2020-23, amending Chapter 13, Article 2, Division 14 of the San
+
+8 Diego Municipal Code relating to the deletion of the Linda Vista Community Plan Implementation
+
+9 Overlay Zone; Ordinance No. 0-2020-24, adopting the Morena Corridor Specific Plan in the Clairemont
+
+10 Mesa and Linda Vista Community Plan Areas; and Ordinance No. O-2020-25, rezoning 55 acres within
+
+11 the Linda Vista Community Plan Area from the CC-1-1, CC-1-3, CC-3-4, CC-4-2, CC-5-1, AND IL-3-1
+
+12 zones to the CC-3-7 AND CC-5-1 zones.
+
+13 23. A Notice of Determination was filed on September 13, 2019.
+
+14 EXHAUSTION OF ADMINISTRATIVE REMEDIES
+
+15 AND INADEQUATE REMEDIES AT LAW
+
+16 24. Petitioners exhausted all available administrative remedies, and objections to the Project
+
+17 have been presented orally and in writing to the City, as required by Public Resources Code Section
+
+18 21177. These include, but are not limited to, letters and oral comments presented during public
+
+19 hearings.
+
+20 25. Petitioners have complied with the requirements of Public Resources Code Section
+21 21167.5 by mailing a written notice of commencement of this action to the City. A true and correct
+
+22 copy of that notice is attached hereto as Exhibit 1.
+
+23 26. Petitioners have advised the City that Petitioner has elected to prepare the record of
+
+24 proceedings relevant to the approval of the Project, pursuant to Public Resources Code Section
+25 21167.6. A true and correct copy of that notice is attached hereto as Exhibit 2.
+
+26 27. Petitioners have complied with Public Resources Code Section 21167.7 by filing a copy of
+
+27 the original petition with the California Attorney General. A true and correct copy of the notification
+
+28 is attached hereto as Exhibit 3.
+
+Morena United v. City of San Diego Page 6
+Writ Petition
+
+1 28. Petitioners have no adequate remedy at law unless the Court grants the requested writ of
+
+2 mandate requiring the City to set aside its approval of the Project and the EIR. In the absence of such
+
+3 remedy, the City's approvals will remain in effect in violation of State law, and Petitioners will suffer
+
+4 irreparable harm because of the significant adverse environmental impacts generated by the Project.
+
+5 FIRST CAUSE OF ACTION (FAILURE TO ADEQUATELY CONSIDER ENVIRONMENTAL IMPACTS AS REQUIRED 6 BY CEQA)
+
+7 29. Petitioners incorporate by reference each of the allegations set forth in this Petition as if set
+
+8 forth herein in full.
+
+9 30. Respondents' approval of the EIR constituted a prejudicial abuse of discretion in that the EIR
+
+10 is not in accord with CEQA, the CEQA Guidelines, and case law, but rather is legally inadequate and
+
+11 insufficient in numerous respects, including but not limited to, the following:
+12 a. The FEIR fails to discuss the existing environmental conditions in the affected area,
+
+13 including but not limited to, conditions on the ground and current planning conditions;
+
+14 b. The FEIR fails to analyze adequately the significant adverse direct, indirect and
+
+15 cumulative effects of the Plan, including but not limited to, the following:
+
+16 i. Air quality impacts, including but not limited to, failing to address reasonably
+
+17 foreseeable impacts, failing to address construction impacts, failing to use
+
+18 proper criteria to identify impacts to air quality, failing to consider potential
+
+19 health impacts, failing to adopt mitigation measures for significant impacts to air
+
+20 quality, and failing to consider : reasonable range of alternatives;
+21 ii. Greenhouse gas emissions impacts, including but not limited to, failing to
+
+22 address reasonably foreseeable impacts, failing to adequately account for current
+
+23 and future greenhouse gas emissions, and failing to adopt mitigation measure for
+
+24 significant impacts to greenhouse gas emissions;
+
+25 ili. Land use and community character impacts, including but not limited to, failing to
+
+26 address inconsistencies with City Municipal Code requirements, failing to address
+
+27 inconsistencies with applicable General Plan, Clairemont Mesa Community Plan,
+
+28
+
+Morena United v. City of San Diego Page '
+Writ Petition
+
+1 and Linda Vista Community Plan requirements, failing to address impacts to
+
+2 views, and failing to address impacts to neighborhood and community character;
+
+3 iv. Visual effects and neighborhood character, including but not limited to, failing to
+
+4 address impacts to existing resources, failing to address impacts to neighboring
+
+5 homes, failing to address impacts associated with lighting, failing to adopt
+
+6 mitigation measure for significant impacts to visual effects and neighborhood
+
+7 character, and failing to address a reasonable range of alternatives;
+
+8 V. Transportation and traffic impacts, including but not limited to, failing to
+
+9 consider existing conditions, failing to address reasonably foreseeable impacts to
+
+10 traffic and traffic safety (including impacts from the zero parking requirements,
+
+11 construction traffic, increased traffic, additional delays, narrow roads,
+
+12 overcrowded roads and intersections, additional accidents, excessive speeding,
+
+13 reduced access, and shifts in travel routes), failing to recognize the Plan's
+
+14 impacts in relation to existing problems and failing streets and intersections,
+
+15 failing to address safety considerations associated with existing and Plan traffic,
+
+16 failing to assess impacts on alternative transportation (such as public transit,
+
+17 pedestrian and bicycle usage), failing to address the Plan's impacts on area roads
+
+18 and intersections, using incorrect criteria to determine impacts, failing to adopt
+
+19 mitigation measures for significant impacts to traffic;
+
+20 vi. Water supply impacts, including but not limited to, failing to address foreseeable
+
+21 impacts to water supply, failing to provide an adequate showing that water
+
+22 supply would be available, failing to adopt mitigation measures for impacts to
+
+23 water supply, and failing to analyze the impacts of the Plan's use of and demand
+
+24 for water;
+
+25 vii. Hydrological and water quality impacts, including but not limited to, failing to
+
+26 address reasonably foreseeable impacts and the introduction of pollutants to
+
+27 groundwater and surface water, and failing to adopt mitigation measures to
+
+28 address impacts;
+
+Morena United v. City of San Diego Page 8
+Writ Petition
+
+1 viii. Health and safety impacts, including but not limited to, failing to address
+
+2 reasonably foreseeable impacts, including among other things, impacts to fire
+
+3 hazards, failing to adopt mitigation measures for significant impacts to health
+and safety, and failing to address a reasonable range of alternatives;
+ix. Noise impacts, including but not limited to, failing to consider existing noise
+
+6 conditions, failing to address reasonably foreseeable impacts, failing to adopt
+
+7 mitigation measures for significant impacts to noise, and failing to address a
+
+8 reasonable range of alternatives;
+
+9 X. Historic and tribal cultural resource impacts, including but not limited to, failing
+
+10 to consider all available resources, failing to consider the entire extent of the
+
+11 resource, relying upon improper methods of survey and analysis, failing to
+
+12 adequately analyze impacts, inadequately disclosing resources and impacts,
+13 failing to adopt mitigation measure for significant impacts to historic and tribal
+
+14 cultural resources, and failing to address a reasonable range of alternatives;
+
+15 xi. Paleontological resources impacts, including but not limited to, failing to adopt
+
+16 mitigation measures for significant impacts to paleontological resources, and
+
+17 failing to address a reasonable range of alternatives;
+
+18 xii. Public services and facilities impacts, including but not limited to, failing to
+
+19 consider existing public facility conditions and supply, failing to consider
+
+20 reasonably foreseeable impacts, failing to address impacts to parks and recreation,
+
+21 police, paramedic, fire services, solid waste, water supply, and wastewater
+
+22 services, failing to adopt adequate mitigation measures for significant impacts to
+
+23 public services and facilities, including but not limited to, inadequate public
+
+24 libraries, park and recreational facilities, and refuse collection and facilities;
+
+25 xiii. Growth-related impacts, including growth inducement associated with the Plan.
+
+26 C. The EIR fails to consider adequately the cumulative impacts of the Plan and other
+
+27 projects that are either existing, approved, planned, or reasonably foreseeable, including
+
+28
+
+Morena United v. City of San Diego Page 9
+Writ Petition
+
+future road projects and other developments located both within and outside of
+Respondents' physical boundaries;
+d. The EIR illegally defers analysis of reasonably foreseeable impacts;
+e. The EIR improperly segments the Plan, piecemealing or otherwise avoiding reasonably
+foreseeable impacts, and separately focusing on isolated parts of the whole;
+
+6 f. The EIR fails to consider adequately impacts that narrow the range of beneficial uses of
+the environment, in violation of Section 15126(e) of the CEQA Guidelines;
+g. The EIR fails to address adequately impacts that cannot be mitigated, including but not
+limited to, describing their implications and the reasons why the Plan is being proposed
+10 notwithstanding its adverse effects;
+
+11 h. The EIR fails to consider adequately the significant irreversible effects of the Plan, in
+12 violation of Section 15126(f) of the CEQA Guidelines, including but not limited to,
+
+13 traffic circulation impacts; reduction in visual quality; and the change in the existing
+14 community character;
+
+15 i The EIR fails to analyze adequately a reasonable range of alternatives to the Plan,
+
+16 which could reduce substantially Plan related impacts, and to evaluate the comparative
+
+17 merits of the alternatives;
+
+18 j. The EIR fails to analyze adequately feasible mitigation measures, fails to provide for
+
+19 mitigation for each environmental effect, illegally relies upon deferred mitigation
+
+20 measures, and fails to provide for effective and enforceable mitigation; and
+21 31. Respondents failed to respond adequately to public comments.
+
+22 SECOND CAUSE OF ACTION
+
+23 (FAILURE TO ADOPT FEASIBLE MITIGATION MEASURES AND ALTERNATIVES REQUIRED BY CEQA)
+
+24 32. Petitioners incorporate by reference each of the allegations set forth in this Petition as if set
+
+25 forth herein in full.
+
+26 33. Respondents failed to consider and adopt feasible alternatives, including but not limited to,
+
+27 alternatives requiring less impacts that meet some or all of the Plan objectives.
+
+28 34. Respondents failed to adopt the environmentally superior alternative.
+
+Morena United v. City of San Diego Writ Petition Page 10
+
+1 35. Respondents failed to consider and adopt feasible mitigation measures, failed to mitigate for
+
+2 each environmental effect, illegally deferred mitigation, and failed to provide for effective and enforceable
+
+3 mitigation.
+
+4 36. Respondents identified various significant impacts of the Plan, including but not limited to,
+
+5 significant impacts to transportation and circulation, noise, air quality, historic and tribal cultural
+
+6 resources, paleontological resources, and visual effect and neighborhood character, yet failed, without
+
+7 explanation or support, to adopt feasible mitigation measures to address these impacts.
+
+8 THIRD CAUSE OF ACTION
+(FAILURE TO ADOPT FINDINGS THAT ARE SUPPORTED BY EVIDENCE IN THE
+9 RECORD)
+
+10 37. Petitioners incorporate by reference each of the allegations set forth in this Petition as if set
+
+11 forth herein in full.
+
+12 38. Respondents failed to adopt findings that are supported by substantial evidence in the
+
+13 record. Among other things, the findings assert that the Plan will have no significant impact on
+14 biological resources, land use, mineral resources, population and housing, and visual effects and
+
+15 neighborhood character where there is insufficient evidence to support such findings. The findings
+
+16 assert, among other things, that the Plan will have less than significant impacts on land use,
+17 transportation and circulation, noise, air quality, paleontological resources, visual effects and
+18 neighborhood character, greenhouse gas emissions, energy, health and safety, hydrology/water quality,
+
+19 public services, and public utilities where the is insufficient evidence to support such findings. Among
+
+20 other things, the findings assert that the Plan will be consistent with General Plan, Climate Action
+21 Plan, and other requirements where there is insufficient evidence to support such consistency findings.
+
+22 FOURTH CAUSE OF ACTION
+
+23 (FAILURE TO ADOPT A STATEMENT OF OVERRIDING CONSIDERATIONS THAT IS SUPPORTED BY EVIDENCE IN THE RECORD)
+
+24 39. Petitioners incorporate by reference each of the allegations set forth in this Petition as if set
+
+25 forth herein in full.
+
+26 40. Respondents failed to adopt a Statement of Overriding Considerations that is supported by
+
+27 substantial evidence in the record despite the Plan's significant environmental impacts.
+
+28
+
+Morena United v. City of San Diego Page 11
+Writ Petition
+
+1 FIFTH CAUSE OF ACTION
+
+2 (VIOLATION OF GENERAL PLAN, COMMUNITY PLANS, AND CLIMATE ACTION
+PLAN)
+
+3 41. Petitioners incorporate by reference each of the allegations set forth in this Petition as if set
+
+4 forth herein in full.
+
+5 42. The Plan violates and is inconsistent with the City's General Plan. The Plan violates and is
+
+6 inconsistent with numerous goals and policies of Land Use and Community Planning Element,
+
+7 including but not limited to: Section A, Policies LU-A.4, LU-A.5; Section B, Policy LU-B.1; Section
+
+8 C, Policy LU-C.1; Section H, Policies LU-H.1, LU-H.2, LU-H.3, LU-H.6; and Section I, Policies LU-
+
+9 I.1, LU-I.2, LU-I.3, LU-I.4, LU-I.6, LU-I.7. The Plan violates and is inconsistent with the Mobility
+
+10 Element, including but not limited to, goals and policies of Section A concerning Walkable
+
+11 Communities and Section B concerning Transit First. The Plan violates and is inconsistent with
+12 numerous goals and policies the Public Facilities, Services and Safety Element, including but not
+
+13 limited to: Section C, Policies PF-C.1, PF-C.3; Section D, Policy PF-D.12; Section F, Policy PF-F.6;
+
+14 Section H, Policies PF-H.2, PF-H.3; Section I, Policies PF-I.1, PF-I.3, PF-I.5. Among other things, the
+
+15 Plan violates and is inconsistent with the Recreation Element, Section A, goals and policies concerning
+
+16 Park and Recreation Guidelines, including but not limited to, Policies RE-A.8, RE-A.12, RE-A.15.
+
+17 The Plan violates and is inconsistent with goals and policies of the Conservation Element, including
+
+18 but not limited to: Section B, Policies CE-B.1, CE-B.5; Section F, Policy CE-F.4, Section J.
+
+19 43. The Plan violates and is inconsistent with the Linda Vista Community Plan. The Plan
+
+20 violates and is inconsistent with numerous goals and policies of the Linda Vista Community Plan,
+21 including but not limited to: Residential Land Use Policies 1, 4, and 6; Open Space Policy 2;
+22 Transportation Policies 1, 2, and 3; Open Space and Environmental Resources Objectives 2, 3, 4, and
+
+23 7; and Population-Based Parks and Recreation Objectives 2 and 3.
+
+24 44. The plan violates and is inconsistent with the Clairemont Mesa Community Plan, including
+
+25 but not limited to: Residential Development Objectives 1, 4, and 5; Transportation Objectives 1, 3, 4,
+
+26 and 6;
+
+27 45. The Plan violates and is inconsistent with the adopted Climate Action Plan, including but
+
+28 not limited to, Actions 3.1, 3.2, and 3.6 of the Climate Action Plan.
+
+Morena United v. City of San Diego Page 12
+Writ Petition
+
+1 PRAYER FOR RELIEF
+
+2 WHEREFORE, Petitioners pray for relief as follows:
+
+3 A. For a temporary restraining order, preliminary injunction and/or permanent injunction
+
+4 enjoining Respondents from taking any steps to further the Plan until lawful approval is obtained from
+
+5 Respondents after the preparation and consideration of adequate environmental analysis, with adequate
+
+6 notice to interested parties, adoption of findings supported by substantial evidence, and compliance with
+
+7 applicable requirements;
+
+8 B. For alternative and peremptory writs of mandate, vacating approvals of the FEIR and all
+
+9 aspects of the Plan, and enjoining Respondents from taking any steps to further the Plan until lawful
+
+10 approval is obtained from Respondents after the preparation and consideration of adequate environmental
+
+11 analysis, with adequate notice to interested parties, adoption of findings supported by substantial evidence,
+12 and compliance with applicable requirements;
+
+13 C. For costs of suit;
+
+14 D. For reasonable attorneys' fees; and
+
+15 E. For such other and further relief as the Court deems just and proper.
+
+16 DATED: October 9, 2019 Respectfully Submitted,
+
+17 DELANO & DELANO
+
+18
+
+19 By: s//Everett L. DeLano III Everett L. DeLano III 20 Attorneys for Petitioners
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Morena United v. City of San Diego Page 13
+Writ Petition
+
+1 VERIFICATION
+
+2 have read the foregoing Verified Petition for Writ of Mandate and know its contents.
+m
+a am a party to this action. The matters stated in it are true of my own knowledge
+except as to those matters which are stated on information and belief, and as to those
+
+6 matters I believe them to be truc.
+
+?
+
+8
+X am an officer of Morena United, a party to this action, and a am authorized to make
+
+9 this verification for and on its behalf, and I make this verification for that reason.
+10 have read the foregoing document(s). Iam informed and believe and on that ground
+11 allege that the matters stated in it are true.
+12
+13 am one of the attorneys for a party to this action. Such party is absent
+14 from the County San Diego, California, where such attorneys have their offices, and
+15 make this verification for and on behalf of that party for that reason. have read the
+16 foregoing document(s). I am informed and believe that on that ground allege that the
+17 matters stated in it are true.
+
+18 Executed on October 9, 2019 al San Dicgo, California.
+
+19 declare under penalty of perjury under the laws of the State of California that the foregoing is true and
+
+20 correct.
+
+21 Howo / Mltre
+
+22 Howard Wayne
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Page 14 Morena Uniled v, Cily of San Diego
+Writ Petition
+
+EXHIBIT 1
+
+DELANO & DELANO
+
+October 8, 2019
+
+VIA E-MAIL
+
+Elizabeth Maland, City Clerk u4 poqupy City of San Diego L17dIA} 202 C St., 2nd Floor
+San Diego, CA 92101
+
+Re: Notice of Intention to Commence Action Under the California Environmental
+Quality Act
+
+Dear Ms. Maland:
+
+Please take notice that Morena United intends to commence an action in CaDEMA o Cakamailo =
+California Superior Court, alleging, among other things, violations of the California Environmental Quality Act ("CEQA") against the City of San Diego to challenge the approvals of the Morena Corridor Specific Plan (*Plan"), including adopting: Resolution No. R-2020-24, approving the FEIR, CEQA Findings and a Statement of Overriding 3 Considerations, and adoption of a Mitigation Monitoring and Reporting Program; Resolution No. R-2020-23, adopting an amendment to the General Plan and Linda Vista Community Plan; Resolution No. R-2020-22, adopting an amendment to the General Plan and Clairemont Mesa Community Plan; Ordinance No. 0-2020-23, amending Chapter 13, Article 2, Division 14 of the San Diego Municipal Code relating to the
+deletion of the Linda Vista Community Plan Implementation Overlay Zone; Ordinance DARE DELANO No. O-2020-24, adopting the Morena Corridor Specific Plan in the Clairemont Mesa and Linda Vista Community Plan Areas; and Ordinance No. 0-2020-25, rezoning 55 acres within the Linda Vista Community Plan Area from the CC-1-1, CC-1-3, CC-3-4, CC-4-2, CC-5-1, AND IL-3-1 zones to the CC-3-7 AND CC-5-1 zones. Among other things, the petition will seek to vacate the approvals of the Plan and to enjoin the City from taking Admitted in California und New York
+any further steps to implement the approvals.
+If the City would like to discuss these concerns and their possible resolution,
+please contact the undersigned immediately. Thank you for your attention to this matter. TYLER H Sincerely, W IH
+Everett DeLano Admitted in California and Hawaii Office: (760) 741-1200
+www.delanoanddelano.com
+104 W. Grand Avenue. Suite A Escondido, CA 92025
+
+EXHIBIT 2
+
+1 Everett L. DeLano III (Calif. Bar No. 162608)
+
+2 M. Dare DeLano (Calif. Bar No. 196707) Tyler T. Hee (Calif. Bar No. 316148)
+
+3 DELANO & DELANO 104 W. Grand Ave, Suite A
+
+4 Escondido, California 92025
+(760) 741-1200 (760) 741-1212 (fax) 5 www.delanoanddelano.com
+
+6 Attorneys for Petitioner
+
+7
+
+8
+
+9
+
+10
+
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+12 COUNTY OF SAN DIEGO, CENTRAL DIVISION
+
+13
+MORENA UNITED, an
+14 association; unincorporated Case No.
+
+15 Petitioner,
+
+16 NOTICE OF ELECTION TO PREPARE
+VS. ADMINISTRATIVE RECORD
+
+17 CITY OF SAN DIEGO, a public body corporate (California Environmental Quality Act)
+
+18 and politic, and DOES 1 through 5, inclusive,
+
+19 Respondents
+
+20
+
+21 By this notice, Petitioner gives notice that Petitioner elects to prepare the administrative record in
+22 the above-entitled action.
+
+23 DATED: October 9, 2019 Respectfully Submitted,
+
+24 DELANO & DELANO
+
+25
+
+26 Lpe By:
+
+27 Everett L. DeLano III
+Attorneys for Petitioner
+
+28
+
+Morena United v. City of San Diego Notice of Election to Prepare Record Page
+
+EXHIBIT 3
+
+1 PROOF OF SERVICE
+Morena United v. City of San Diego
+
+3 the undersigned, declare:
+
+4 1. I am over the age of 18 years and not a party to this action. I am employed in the County of San
+
+5 Diego, California, in which county the within mentioned service occurred. My business address is 104 W. Grand Avenue, Suite A, Escondido CA 92025. 2.
+6 am familiar with this office's normal business practice for collection and processing of correspondence for mailing with the U.S. Postal Service. That practice is to deposit correspondence with the U.S. Postal Service the same day as the day of collection in the ordinary course of business.
+
+8 On October 10, 2019, served a copy of VERIFIED PETITION FOR WRIT OF MANDATE to the following by the following means:
+California Attorney General
+10 Service Deputy U.S. Mail
+
+300 South Spring St.
+11 Los Angeles, CA 90013
+
+12 I declare under penalty of perjury that the foregoing is true and correct.
+
+13 Dated this Thursday, October 10, 2019 at Escondido, California,
+
+14
+
+15 M. Dare DeLano
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Proof of Service - 1
+
+RECEIVED ancidoiob m4t ef pemnist
+
+DOCKETING OUTGOING
+2019 NOV 12 AM II: 28 2019 NOV 14 PM12: 52
+ATTORNEY GENERAL LOS ANGELES ATTORNEY GENERAL LOS ANGELES
+
+HECEN e319 NOV AT C6 ANE: n 12
+
+0 E Fna U PA2.9 NERAL -=:8
+6LO7 0-030 IAIIDI
+
+40

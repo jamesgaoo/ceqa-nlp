@@ -1,0 +1,1520 @@
+1 STEPHAN C. VOLKER (CBN 63093) 10.653.02
+ALEXIS E. KRIEG (CBN 254548)
+2 STEPHANIE L. CLARKE (CBN 257961)
+JAMEY M.B. VOLKER (CBN 273544) 3 LAW OFFICES OF STEPHAN C. VOLKER 1633 University Avenue 4 Berkeley, California 94703 Tel: 510/496-0600
+5 Fax: 510/845-1255
+
+6 Attorneys for Petitioners and Plaintiffs WINNEMEM WINTU TRIBE and NORTH
+7 COAST RIVERS ALLIANCE
+
+8
+
+9 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+10 COUNTY OF SACRAMENTO
+
+11 WINNEMEM WINTU TRIBE and Civ. No.
+NORTH COAST RIVERS ALLIANCE,
+12 PETITIONERS' NOTICE TO
+Petitioners and Plaintiffs, CALIFORNIA ATTORNEY GENERAL
+13
+V. (C.C.P. § 388; P.R.C. § 21167.7)
+14
+STATE WATER RESOURCES CONTROL
+15 BOARD, and
+DOES through 20,
+16
+CEOA CASE
+17 Respondents and Defendants,
+
+18 PACIFIC GAS AND ELECTRIC COMPANY, UNITED STATES BUREAU OF LAND
+19 MANAGEMENT.
+UNITED STATES FOREST SERVICE, and
+20 DOES 21 through 100,
+
+21 Real Parties in Interest.
+
+22
+
+23
+
+24 TO THE ATTORNEY GENERAL FOR THE STATE OF CALIFORNIA:
+
+25 PLEASE TAKE NOTICE, under Public Resources Code section 21167.7 and Code of Civil
+
+26 Procedure section 388, that on March 6, 2020, plaintiffs and petitioners WINNEMEM WINTU TRIBE
+
+27 and NORTH COAST RIVERS ALLIANCE, will file a Verified Petition for Writ a of Mandate and
+
+28 Complaint for Declaratory and Injunctive Relief and Attorneys' Fees against the STATE WATER
+
+|Petitioners' Notice to the California Attorney General
+
+RESOURCES CONTROL BOARD, et al. ("respondent") in Sacramento County Superior Court.
+
+2 The Verified Petition alleges that respondent abused its discretion and violated the California
+3 Environmental Quality Act ("CEQA") and other laws by deciding, on or about November 8, 2019, to
+
+4 issue an Initial Study and Negative Declaration, and a Certification under section 401 of the Clean Water
+Act to real party-in-interest Pacific Gas and Electric Company ("PG&E") for its application for a license
+
+6 for the McCloud-Pit Hydroelectric Project (the "Project"), without proceeding in the manner required by
+CEQA and other laws. A copy of the Verified Petition is enclosed with this notice.
+
+LAV OFFICES OF STEPHAN C. VOLKER 9 Dated: Marchd, 2020
+
+10 NAOUU By: 'STEPHAN VOLKER 11 Attorney for Plaintiffs and Petitioners 12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+883 *
+25
+
+26
+
+27
+
+28
+
+|Petitioners' Notice to the California Attorney General - 2 -
+
+PROOF OF SERVICE
+
+2 I am a citizen of the United States of America; I am over the age of 18 years and not a party to
+
+3 the within entitled action; my business address is 1633 University Avenue, Berkeley, California, 94703.
+
+4 On March 5, 2020, I served a true copy of the following document entitled:
+
+5 PETITIONERS' NOTICE TO CALIFORNIA ATTORNEY GENERAL
+
+6 in the above-captioned matter on each of the persons listed below by electronic facsimile transmission
+
+7 to the facsimile number listed below and by placing a true copy of said document in a prepaid envelope in the United States mail at Berkeley, California, addressed as follows:
+
+8
+Office of the California Attorney General P.O. Box 944255
+Sacramento, CA 94244-2550
+10 Tel: (916) 445-9555
+Fax: (916) 323-5341
+11
+
+12 declare under penalty of perjury that the foregoing is true and correct. Executed on March
+13 5, 2020 at Berkeley, California.
+
+14 fue Bla,g
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+|Petitioners' Notice to the California Attorney General
+
+1. STEPHAN C. VOLKER (CBN 63093) 10.653.02
+ALEXIS E. KRIEG (CBN 254548) 2 STEPHANIE L. CLARKE (CBN 257961) JAMEY M.B. VOLKER (CBN 273544) LAW OFFICES OF STEPHAN C. VOLKER 1633 University Avenue 4 Berkeley, California 94703 Tel: 510/496-0600
+5 Fax: 510/845-1255
+
+6 Attorneys for Petitioners and Plaintiffs WINNEMEM WINTU TRIBE and NORTH
+7 COAST RIVERS ALLIANCE
+
+8
+
+9 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+10 COUNTY OF SACRAMENTO
+
+11 WINNEMEM WINTU TRIBE and Civ. No.
+NORTH COAST RIVERS ALLIANCE,
+12 VERIFIED PETITION FOR WRIT OF
+Petitioners and Plaintiffs, MANDATE AND COMPLAINT FOR
+13 DECLARATORY AND INJUNCTIVE
+V.
+14 RELIEF AND ATTORNEYS' FEES
+
+STATE WATER RESOURCES CONTROL
+15 BOARD, and CEOA CASE
+
+16 DOES 1 through 20,
+Respondents and Defendants, 17
+
+18 PACIFIC GAS AND ELECTRIC COMPANY, UNITED STATES BUREAU OF LAND
+19 MANAGEMENT.
+UNITED STATES FOREST SERVICE, and
+20 DOES 21 through 100,
+
+21 Real Parties in Interest.
+
+22
+
+23
+
+24 Petitioners and plaintiffs Winnemem Wintu Tribe and North Coast Rivers Alliance
+
+25 ("petitioners") hereby petition the Court for a writ of mandate and for preliminary and permanent
+
+26 injunctions and declaratory relief against respondents State Water Resources Control Board (hereinafter
+
+27 "Board') and DOES 1 through 20, and real parties in interest Pacific Gas and Electric Company
+
+28 ("'PG&E"), the United States Bureau of Land Management ("BLM"*), the United States Forest Service
+
+Verified Petition for Writ of Mandate and Complaint for
+|Declaratory and Injunctive Relief and Attorneys' Fees
+
+1 ("USFS"), and DOES 21 through 100, and by this Verified Petition and Complaint allege as follows:
+
+2 INTRODUCTION
+
+3 1. This is a public interest citizen suit to enforce the California Environmental Quality Act,
+
+4 Public Resources Code ("PRC') section 21000 et seq- ("CEQA"), the Public Trust Doctrine, and the
+
+5 Clean Water Act, 33 U.S.C. section 1251 et seq. ("CWA"). Petitioners bring this action to challenge the
+6 issuance on November 8, 2019 by the Board's Executive Director of a Water Quality Certification
+7 purportedly pursuant to Section 401 of the federal Clean Water Act, 33 U.S.C. § 1341 ("401
+
+8 Certification"), and his adoption of CEQA Findings and a Final Initial Study and Negative Declaration
+
+9 ("ISND") for the relicensing of the McCloud Pit Hydroelectric Project, No. P-2106 (the 'Project
+
+10 approvals"). The Project approvals violate CEQA, the Public Trust Doctrine and the CWA because they
+
+11 ignore indisputable evidence of severe cultural, biological and hydrological resource impacts on the
+12 Winnemem Wintu Tribe and public trust uses, and fail to feasibly avoid or mitigate those impacts.
+
+13 2. CEQA is California's preeminent environmental law. It requires all public agencies to
+14 examine the potential adverse impacts of their actions before taking them. It is designed to protect
+15 Califomia's extraordinary environmental resources from uninformed and needlessly destructive agency
+
+16 actions.
+
+17 3. CEQA requires lead agencies such as the Board to prepare environmental impact reports
+
+18 when presented with substantial evidence of a fair argument that a project, defined as "the whole of an
+
+19 action," may have significant environmental impact. Contrary to CEQA, the Board failed to do so
+20 here.
+
+21 4. The Public Trust Doctrine mandates that the Board consider public trust resources,
+22 including fisheries, and act to protect those resources by all feasible means. Contrary to that mandate,
+
+23 the Board failed to consider and protect these resources in issuing the Project approvals.
+
+24 5. The Clean Water Act requires the Board to consider and protect the beneficial uses
+25 identified in the applicable Basin Plan, yet the Board's 401 Certification includes conditions that fail to
+
+26 protect these beneficial uses.
+
+27 6. By issuing the Project approvals, the Board failed to examine and feasibly mitigate the
+28 Project's impacts, and failed to feasibly protect public trust resources and beneficial uses.
+
+Verified Petition for Writ of Mandate and Complaint for
+Inaclamtarti and Tninnetiva Relief and Aftornevs' Fees
+
+1 VENUE AND JURISDICTION
+
+2 7. This Court has jurisdiction over this proceeding pursuant to Code of Civil Procedure
+
+3 ("CCP") sections 526 (injunctive relief), 1060 (declaratory relief), and 1085 (traditional mandamus);
+
+4 PRC sections 21168 and 21168.5 (mandamus review); and article VI, section 10 of the California
+
+5 Constitution.
+
+6 8. Venue is proper in this Court pursuant to CCP sections 393 (actions against public officers)
+
+7 and 395 (actions generally) because the Board's offices are located in Sacramento.
+
+8 9. Pursuant to CCP section 388, petitioners are serving the California Attorney General with
+
+9 copy of this verified petition and complaint. Consistent with PRC section 21167.5, petitioners timely
+
+10 served the Board with notice of this suit.
+
+11 10. Petitioners are timely serving this verified petition and complaint on all named real parties.
+
+12 PRC 21167.6.5(a). Petitioners have named the United States Bureau of Land Management ('BLM")
+
+13 and the United States Forest Service ("USFS") as real parties in interest, as they are identified within the
+
+14 Board's Notice of Determination. PRC § 21167.6.5(a). BLM and USFS are neither necessary parties
+15 under Code of Civil Procedure section 389(a) nor indispensable parties under Code of Civil Procedure
+
+16 section 389(b).
+
+17 PARTIES
+
+18 11. Petitioner WINNEMEM WINTU TRIBE is a California-recognized Tribe whose aboriginal
+
+19 territory encompasses the upper watersheds of the Sacramento River including the McCloud River. The
+
+20 Winnemem Wintu Tribe's cultural identity is inextricably linked to the McCloud River. "Winnemem" is
+
+21 the Tribe's name for the McCloud River itself, and the Winnemem Wintu Tribe has historically occupied
+
+22 the lands along the banks of the McCloud River. Although a substantial portion of the Tribe's traditional
+
+23 lands are now submerged under McCloud Reservoir and Shasta Reservoir - due to the uninformed and
+
+24 needlessly destructive construction of the McCloud-Pit Hydroelectric Project and Shasta Dam decades
+
+25 ago before the emergence of modern environmental science and law - the Tribe has nonetheless
+
+26 persevered in maintaining its spiritual, cultural and traditional connection to its remaining unsubmerged
+
+27 native lands and waters, cultural spaces and subsistence uses. The Winnemem Wintu Tribe has long
+
+28 advocated for restoration of the McCloud River Chinook salmon, and for recovery of the remaining
+
+Verified Petition for Writ of Mandate and Complaint for
+|/Declaratory and Injunctive Relief and Attorneys' Fees
+
+1 "dolly varden" bull trout, rainbow trout, red-banded trout, and suckers in the McCloud River.
+
+2 12. Petitioner NORTH COAST RIVERS ALLIANCE (North Coast Rivers") is a non-profit
+
+3 unincorporated association with members throughout Northemn California. North Coast Rivers was
+
+4 formed for the purpose of protecting California's rivers and their watersheds from the adverse effects of
+
+5 excessive water diversions, ill-planned urban development, harmful resource extraction, pollution, and
+
+6 other forms of environmental degradation. Its members use and enjoy California's rivers and watersheds
+
+7 for recreational, aesthetic, scientific study, and related non-consumptive uses. The interests of North
+
+8 Coast Rivers and its members have been, are being, and unless the relief requested herein is granted, will
+
+9 be adversely affected and injured by the Board's issuance of the Project approvals.
+
+10 13. Respondent and defendant CALIFORNIA STATE WATER RESOURCES CONTROL
+11 BOARD ("Board") is a state agency charged with responsibility to determine water rights,
+
+12 manage water quality, and assure safe and reliable drinking water. Water Code 174 et seq. The Board
+13 is also responsible for carrying out the requirements of the Clean Water Act, including section 401
+14 thereof. 33 U.S.C. § 1341; Water Code § 13160. Its issuance of the 401 Certification, and approval of
+15 the Project, on November 8, 2019, through the action of its Executive Director, were subject to and
+16 violated the requirements of CEQA, the Clean Water Act, the Public Trust Doctrine, and the CCP. The
+17 Board is the lead agency under CEQA for environmental review of the Project.
+
+18 14. The true names and capacities of respondents DOES 1-20, inclusive, are unknown to
+19 petitioners who therefore sue such respondents by fictitious names pursuant to CCP section 474.
+
+20 Petitioners are informed and believe, and based on such information and belief allege, that the
+21 fictitiously named respondents are state or local officials or agencies who are responsible, in whole or in
+
+22 part, for the approval and implementation of the Project. Petitioners will, with leave of Court if
+
+23 necessary, amend this Verified Petition and Complaint if and when the true names and capacities of said
+24 Doe respondents have been ascertained.
+
+25 15. Real Party in Interest Pacific Gas and Electric Company (PG&E") is a California
+
+26 corporation, and an investor-owned, for-profit, publicly-traded utility. PG&E operates the existing
+27 McCloud-Pit Hydroelectric Project, P-1206, along the McCloud and Pit Rivers The Federal Energy
+28 Regulatory Commission ("FERC') is the agency that is tasked with determining whether to issue any
+
+Verified Petition for Writ of Mandate and Complaint for
+naolarator and Tniunctive Relief and Attornevs' Fees
+
+-
+
+2 new license for the McCloud-Pit Hydroelectric Project. PG&E applied for and received the 401
+Certification issued by the Board as part of the relicensing process for the McCloud-Pit Hydroelectric
+3 Project on November 8, 2019. It was also the recipient of the Board's CEQA approval for the Project.
+
+4
+
+5 16. Real party in interest UNITED STATES BUREAU OF LAND MANAGEMENT (BLM')
+
+6 is a federal agency that manages land occupied by the Project, according to the Board's Notice of
+
+7 Determination. Out of an abundance of caution and without conceding that its participation is necessary,
+petitioners have identified BLM as a potential real party in interest, as the Notice of Determination
+8 identifies BLM by name. PRC § 21167.6.5(a).
+
+9
+
+10 17. Real party in interest UNITED STATES FOREST SERVICE ('USFS") is a federal agency
+
+11 that manages land occupied by the Project, according to the Board's Notice of Determination. Out of an
+
+12 abundance of caution and without conceding that its participation is necessary, petitioners have identified
+
+13 USFS as a potential real party in interest, as the Notice of Determination identifies USFS by name. PRC
+§ 21167.6.5(a).
+
+14
+
+15 18. The true names and capacities of real parties in interest DOES 21-100, inclusive, are
+
+16 unknown to petitioners who therefore sue such real parties in interest by fictitious names pursuant to
+
+17 CCP section 474. Petitioners are informed and believe, and based on such information and belief allege,
+
+18 that the fictitiously named real parties in interest have a direct interest in approval of the Project.
+
+19 Petitioners will, with leave of Court if necessary, amend this Verified Petition and Complaint if and
+
+20 when the true names and capacities of said DOE real parties in interest have been ascertained.
+GENERAL ALLEGATIONS
+
+21
+
+22 19. Petitioners have authorized their attorneys to file this lawsuit on their behalf to vindicate
+
+23 their substantial beneficial interest in securing the Board's compliance with the law.
+20. Petitioners have performed any and all conditions precedent to the filing of this Verified
+24 Petition and Complaint and have exhausted
+
+25 required by law. any and all available administrative remedies to the extent
+
+26
+
+27 21. Petitioners have no plain, speedy, and adequate remedy in the ordinary course of law within
+the meaning of CCP section 1086 in that, unless this Court issues its writ of mandate setting aside the
+28 Board's Project approvals, and ordering it to comply with the laws whose violation is alleged herein, the
+
+Verified Petition for Writ of Mandate and Complaint for
+IlDeclaratory and Injunctive Relief and Attorneys' Fees 5.
+
+I environmental interests of petitioners and the public thiat are protected by those laws will be substantially
+
+2 and irreparably harmed. No monetary damages or other legal remedy could adequately compensate
+
+3 petitioners for the harm to their beneficial interests, and to the environment, caused by the Board's
+
+4 unlawful conduct.
+
+5 22. Petitioners are entitled to declaratory relief under CCP section 1060 because an actual
+
+6 controversy exists between petitioners and the Board. Petitioners contend that the Board has acted in
+7 violation of applicable laws and must therefore vacate and set aside its unlawful Project approvals.
+
+8 Petitioners are informed and believe that the Board disputes this contention. A judicial resolution of this
+
+9 controversy is therefore necessary and appropriate.
+
+10 23. Petitioners are also entitled to injunctive relief under CCP section 526 because approval of
+
+11 the Project threatens irreparable environmental harm. Unless enjoined, the Board will implement the
+
+12 Project despite its lack of compliance with applicable laws, causing undue and unnecessary
+
+13 environmental and cultural resource degradation. Petitioners would thereby suffer irreparable harm due
+
+14 to the Board's failure to take the required steps to adequately protect the environment. Injunctive relief
+
+15 is thus warranted under CCP section 525 et seq. and PRC section 21168.9 to prevent irreparable harm to
+16 the environment.
+
+17 LEGAL BACKGROUND
+
+18 CEQA
+
+19 24. California "public agencies" must comply with CEQA when they approve discretionary
+20 projects. PRC 21080(a).
+
+21 25. The Board is a "public agency" and a "state agency" as defined in CEQA. PRC § 21063.
+
+22 26. CEQA is California's primary statutory mandate for environmental protection. It applies to
+23 all state and local agencies, and requires them to "first identify the [significant] environmental effects of
+24 projects, and then to mitigate those adverse effects through the imposition of feasible mitigation
+25 measures or through the selection of feasible alternatives." Sierra Club v. State Board of Forestry
+26 (1994) 7 Cal.4th 1215, 1233. It requires "public agencies to deny approval of a project with significant
+
+27 adverse effects when feasible alternatives or feasible mitigation measures can substantially lessen such
+
+28 effects." Sierra Club v. Gilroy City Council (1990) 222 Cal.App.3d 30, 41.
+
+Verified Petition for Writ of Mandate and Complaint for
+Declaratorv and Iniunctive Relief and Attornevs' Fees - 6-
+
+-
+
+2 27. CEQA's mandate for detailed environmental review "ensures that members of the
+
+3 [governmental decision-making body] will fully consider the information necessary to render decisions
+
+4 that intelligently take into account the environmental consequences" of their proposed action. Mountain
+Lion Foundation v. Fish and Game Commission (1997) 16 Cal.4th 105, 133; PRC §§ 21080.5(d(2)(D),
+5 21091(d)(2); 14 C.C.R. [CEQA Guidelines] ("Guidelines") § 15088. The CEQA process thus "protects
+
+6
+
+7 not only the environment but also informed self-government." Citizens of Goleta Valley v. Board of
+Supervisors (1990) 52 Cal.3d 553, 564.
+
+8
+
+9 28. For every CEQA project that had "a notice of preparation or a notice of negative declaration
+
+10 or mitigated negative declaration filed on or after July 1, 2015" - such as this Project' - the lead agency
+
+11 is required to consult with California Indian Tribes. Stats. 2014, ch. 532 (A.B. 52), § 11(c), eff. Jan 1,
+
+12 2015); PRC § 21080.3.1. For the purposes of CEQA, section 21080.3.1(b) incorporates the definition of
+
+13 "consultation" found in Government Code section 65352.4. Thus, the Board was required to undertake
+
+14 [a] meaningful and timely process of seeking, discussing, and considering carefully the
+
+15 views of others, in a manner that is cognizant of all parties' cultural values and, where feasible, seeking agreement. Consultation between government agencies and Native
+
+16 American tribes shall be conducted in a way that is mutually respectful of each party's sovereignty. Consultation shall also recognize the tribes' potential needs for confidentiality with respect to places that have traditional tribal cultural significance.
+17 Government Code § 65352.4 (emphasis added).
+
+18
+
+19 29. Consultation is complete either when parties "agree to measures to avoid or mitigate a
+significant effect on a tribal cultural resource" or "a party, acting in good faith and after reasonable
+20 effort, concludes that mutual agreement cannot be reached." PRC § 21080.3.2.(b)(1)-(2) (emphasis
+
+21 added).
+
+22 30. "All lead agencies shall prepare.
+
+23 an [EIR] on any project which they propose to carry out
+
+24 a or approve that may have a significant effect on the environment." PRC 21100(a). "[I]f a lead agency
+
+25 is presented with a fair a argument that a project may have a significant effect on the environment, the lead
+
+26 agency shall prepare an EIR ...." 14 CCR § 15064(f)(1); No Oil, Inc. V. City of Los Angeles (1974) 13
+
+27 As evidenced by the date of its 2019 State Clearinghouse filing, the Board issued its Notice of 28 Negative Declaration, which was assigned State Clearinghouse number 2019059010, on May 2, 2019, which was after PRC section 21080.3.1's operative date of July 1, 2015.
+
+Verified Petition for Writ of Mandate and Complaint for IDeclaratory and Injunctive Relief and Attorneys' Fees - 7-
+
+1 Cal.3d 68, 85.
+
+2 31. In considering whether the Project has a significant effect, the Board must look at the whole
+
+3 of the action. Guidelines § 15378(a), (c), (d).
+
+4 The Clean Water Act and Water Code Section 13240 et seg.
+
+5 32. The Board must issue a certification, under section 401 of the CWA, before the Federal
+6 Energy Regulatory Commission may issue a new license for the McCloud-Pit Hydroelectric Project, P-
+
+7 § 1206. 33 U.S.C. § 1341. "No [federal] license or permit shall be granted until the certification required
+
+8 has been obtained or has been waived . . . ." Id.
+
+33. In issuing a section 401 certification, the Board must consider whether an applicant's
+10 discharges will comply with the applicable provisions of the Clean Water Act, including 33 U.S.C.
+
+11 sections 1311, 1312, 1313, 1316, and 1317. 33 U.S.C. § 1341. Thus the Board müst consider whether
+
+12 the discharges will conflict with applicable effluent limitations and water quality standards, including
+
+13 applicable basin plans.
+
+14 34. The applicable basin plan, the 2018 Central Valley Regional Water Quality Control Board
+
+15 Water Quality Control Plan for the Sacramento and San Joaquin River Basins ("Basin Plan"), was
+16 adopted pursuant to Water Code section 13240 et seq. The Basin Plan is intended to set water quality
+
+17 objectives that will ensure reasonable protection of beneficial uses of water, and it identifies the
+18 beneficial uses that must be protected in the McCloud River. Id.
+
+19 Public Trust Doctrine
+
+20 35. The Public Trust Doctrine mandates that before state agency approves an action that may
+
+21 harm public trust resources, it consider the potential impact "upon interests protected by the public trust,
+
+22 and attempt, SO far as feasible, to avoid or minimize any harm to those interests." National Audubon
+
+23 Society v. Superior Court (1983) 33 Cal.3d 419, 426. "[T]he pivotal fact is not whether water is diverted
+
+24 or extracted or the fact that it is water itself adversely impacting water within the public trust. Rather,
+
+25 the determinative fact is the impact of the activity on the public trust resource." Environmental Law
+26 Foundation v. State Water Resources Control Board (2018) 26 Cal.App.5th 844, 859 (emphasis added).
+
+27 36. Although compliance with CEQA "may assist an agency in complying with its duties under
+28 the public trust doctrine . . . . L] CEQA review of a project does not necessarily or automatically satisfy
+
+/Verified Petition for Writ of Mandate and Complaint for lcalaentom and Tninnntitia Daliaf and Aftnrnava' Reec 8.
+
+-
+
+2 the agency's affirmative duties to take the trust into account and protect public trust uses whenever
+
+3 feasible." San Francisco Baykeeper, Inc. v. State Lands Com. (2018) 29 Cal.App.5th 562, 571. "[A]
+
+4 public trust use is not any use that may confer a public benefit, but rather a use that facilitates public
+
+5 access, public enjoyment, or public use of trust land." Id. at 570. Agencies tasked with protecting public
+
+6 trust resources have affirmative statutory and constitutional "duties to take the trust into account and
+
+7 protect public trust uses whenever feasible," based on a fair and fully informed balancing of the impacts
+
+8 of these alternatives on public trust resources. San Francisco Baykeeper, 29 Cal.App.5th at 571.
+
+9 FACTUAL AND PROCEDURAL BACKGROUND
+
+37. In 1851, the federal government and representatives from the Winnemem and other Wintu
+10 bands signed the Treaty at Cottonwood Creek, ceding vast tribal lands to the federal government in
+
+11
+
+12 exchange for reservation land, food, and clothing. Though this treaty was never ratified by the United
+
+13 States Congress, the federal government nonetheless deemed the land ceded, and began giving land,
+
+14 mineral, and resource rights to private parties in the Winnemem's historical homeland with no
+
+15 compensation to the Winnemem. Eventually, some of the Winnemem Wintu received Indian allotments
+which allowed them to remain on the McCloud River and other traditional sites. However, the majority
+16 of habitable allotments were flooded when Reclamation constructed Shasta Dam.
+
+17
+
+18 38. PG&E received its initial license from FERC for the McCloud-Pit Hydroelectric Project on
+or about August 18, 1961. In order for PG&E's hydroelectric project to generate energy, most of the
+19 McCloud River's flows are diverted at the McCloud Dam, and directed through a tunnel to the Iron
+
+20
+
+21 Canyon Dam on the Pit River. The McCloud-Pit Hydroelectric Project generates electricity through a
+
+22 series of impoundments and powerhouses along the Pit River between Iron Canyon Reservoir and the Pit
+River's confluence with Shasta Lake.
+
+23 39. PG&E's original license expired on July 31, 2011, but FERC allows PG&E to continue to
+24| operate under that license through annual extensions.
+
+25 40. PG&E applied for a new 30- to 50-year license from FERC in 2009, under FERC's
+26 Integrated Relicensing Process.
+
+27 41. In 2009, the Winnemem Wintu Tribe and PG&E executed a Memorandum of
+28 Understanding that was intended to facilitate the preparation of the Winnemem Wintu Tribe's cultural
+
+Verified Petition for Writ of Mandate and Complaint for
+|Declaratory and Injunctive Relief and Attorneys' Fees , 9.
+
+1 resources study for the Project. The cultural resources study was to be considered by FERC in its
+
+2 evaluation of the Project's impacts under the National Environmental Policy Act ("NEPA"), 42 U.S.C.
+
+3 section 4321 et seq. This essential cultural study was never completed because PG&E failed to respect
+
+4 its Memorandum of Understanding with the Winnemem Wintu Tribe, and demanded that the
+5 Winnemem Wintu Tribe allow third-party access to its confidential tribal information.
+
+6 42. When the Winnemem Wintu Tribe declined to provide this sensitive data to those outside
+
+7 parties, PG&E refused to allow further work on the cultural study to continue.
+
+8 43. Due to this refusal, FERC's February 25, 2011 Final Environmental Impact Statement
+
+9 (*FERC FEIS") does not adequately address impacts to the Winnemem Wintu Tribe's cultural resources.
+
+10 See, e.g., FERC FEIS 307. Further, PG&E apparently considers its consultation obligation to the Tribe
+
+11 excused because it conducted an outside literature review of the Winnemem Wintu Tribe's culture.2
+
+12 44. Despite the Winnemem Wintu Tribe's participation in the Integrated Relicensing Process,
+
+13 through its attendance at meetings and by its submission of letters, its concerns regarding the Project's
+14 impacts on cultural resources were not appropriately resolved in the FERC FEIS.
+
+15 45. Early in FERC's Integrated Relicensing Process, the Winnemem Wintu Tribe and other
+16 interested parties requested that PG&E and FERC consider, study and plan for the reintroduction of once
+17 abundant native fish species along the McCloud River. Indeed, the Winnemem Wintu Tribe has long
+18 advocated for the return of the McCloud River Chinook salmon that were translocated to New Zealand
+19  before construction of Shasta Dam. Those fish were successfully translocated to New Zealand in 1873,
+
+20 and originated from the Baird Hatchery, which was constructed at the junction of the McCloud and Pit
+
+21 rivers (now inundated by Shasta Dam).3 Under this feasible recovery proposal, the McCloud River
+
+22 Chinook salmon would be restored to their original habitat in the McCloud River above Shasta Dam,
+
+23 through the construction of a fish passage around Shasta Dam.
+
+24 46. Yet, in studying the impact on fish species of various flow regimes at McCloud Dam,
+
+25
+
+26 Per November 22, 2019 Letter from PG&E to FERC, available at
+
+27 http://elibrary.ferc.gov/idmws/file_list.asp?accession_num=20191125-5029
+See Earl Leitriz, Fish Bulletin 150, a History of California's Fish Hatcheries 1870-1960 (CDFG 1970),
+28 lpp. 16-17, available at
+http://content.cdlib.org/view?docId=kt5k4004bd&brand=calisphere&doc.view=entire_text.
+
+Verified Petition for Writ of Mandate and Complaint for
+Declaratorv and Tniunctive Relief and Attornevs' Fees 10 -
+
+1 PG&E did not include habitat criteria appropriate for the native bull trout and the native McCloud River
+
+2 salmonids despite the Tribe's requests that it do so. FERC FEIS 141. PG&E refused to acknowledge
+
+3 the need for providing such information on the grounds the fish were currently not present in the
+
+4 watershed. See, e.g., PG&E's SD-I, PAD, and Study Plan Comments Reply (January 5, 2007), p. 25.
+
+5 But these fish still exist and can be reintroduced to restore a vital fish population that was wrongfully
+
+6 taken from the Winnemem Wintu Tribe.
+
+7 47. PG&E's failure to study these flows influenced FERC's decision to disregard the minimum
+
+8 flow recommendations of the National Marine Fisheries Service ("NMFS"). FERC FEIS A-59. In its
+
+9 comments during the FERC FEIS process, the National Marine Fisheries Service stated that
+10 reintroduction of winter-run Chinook salmon to the McCloud River was imminent, and for that reason
+
+11 NMFS requested a higher base flow in the McCloud River below McCloud Dam. FERC staff
+
+12 summarized NMFS request as being made so that "the difference between typical winter/spring spills
+
+13 and base flow would not result in appreciable differences in habitat conditions." FERC FEIS 128.
+
+14 FERC staff recounted NMFS's comments as "specifically stating that release volumes (and instream
+
+15 flows) downstream of McCloud dam should be within a range acceptable for meeting the physical
+
+16 habitat and biological criteria requirements of listed salmonids." Id. FERC stated that these flows "have
+
+17 not been based on results of the minimum flow studies conducted by PG&E," and dismissed them as
+18 presenting no benefit unless the salmonids were already present in the waters. FERC FEIS Appendix A-
+
+19 59. This position ignores FERC's duty under applicable law to restore imperiled fish populations to their
+
+20 native range where - as here - it is feasible to do so.
+
+21 48. PG&E applied to the Board for a section 401 certification for the Project but from 2010 to
+
+22 2018, PG&E withdrew and resubmitted its application before the Board could deny the application
+
+23 without prejudice. Each of these withdrawals and resubmittals was necessary because the Board was
+
+24 unable to complete its review due to a lack of complete information regarding the Project and its
+25 impacts.
+
+26 49. By letter dated November 29, 2012, the Winnemem Wintu Tribe informed the Board that
+
+27 the FERC FEIS improperly excluded the Tribe's cultural resource study, and thus failed to address
+
+28 impacts on the Tribe's cultural resources. This letter informed the Board of its duty to prepare an EIR
+
+Verified Petition for Writ of Mandate and Complaint for IDeclaratory and Injunctive Relief and Attorneys' Fees - 11 -
+
+1 for the Project due to its potentially significant but unstudied impacts.
+
+2 50. In 2018, the Board properly denied without prejudice PG&E's November 2017 application
+3 for a section 401 certification pursuant to 23 CCR section 3837(b)(2), as the Board's review of the
+
+4 Project under CEQA had not been completed.
+
+5 51. On November 9, 2018, PG&E filed a new application for a section 401 certification for the
+
+6 Project.
+
+7 52. In response to the November 2018 application, the Board circulated a Draft Initial Study
+
+8 and Negative Declaration ("DISND") for public review and comment on or about May 2, 2019. Instead
+
+9 of preparing its own environmental impact report ("EIR"), in its DISND the Board relied heavily upon
+10 the inadequate FERC FEIS.
+
+11 53. Petitioners submitted detailed comments to the Board addressing the deficiencies of the
+
+12 DISND on June 3, 2018. In these comments, petitioners reminded the Board of its need to consult with
+
+13 the Winnemem Wintu Tribe.
+
+14 54. The Project, as submitted to the Board for review, includes a new license for PG&E's
+
+15 operation of an existing hydroelectric project that alters the flows of the McCloud and Pit rivers. The
+16 Project also encompasses many new and unstudied actions that were mandated during FERC's
+
+17 FERC FEIS, relicensing process that will alter the baseline conditions. Neither the FERC, through the
+
+18 nor the Board, has ever appropriately determined the full impacts of the Project.
+
+19 55. In response to petitioners' June 3, 2019, comments, the Board belatedly invited the
+
+20 Winnemem Wintu Tribe to engage in the long-delayed consultation process. But the meetings did not
+
+21 constitute adequate consultation regarding the Project's impacts. Indeed, because the Board had waited
+
+22 until the end of its consideration of the Project to commence consultation with the Winnemem Wintu
+
+23 Tribe, and informed the Winnemem Wintu Tribe that the Board would be approving the Project by
+24 November 8, 2019 - no matter what - the Winnemem Wintu Tribe was not afforded sufficient time or
+25 resources to address the myriad impacts of the Project, and -even worse - it was made to understand
+26 that nothing it said or did could delay, let alone prevent, the Board's pre-ordained approval of the
+
+27 Project.
+
+28 56. On November 8, 2019, the Executive Director of the Board issued the 401 Certification for
+
+Verified Petition for Writ of Mandate and Complaint for
+i Nolorntori and Tniunativa Raliafand Atforneus Rees
+
+the Project. The Executive Director also approved the ISND for the Project, and adopted CEQA
+
+2 Findings regarding the same. The Notice of Determination for those actions was posted to the
+
+3 Governor's Office of Planning and Research on November 8, 2019.
+
+4 57. On December 6, 2019, petitioners timely filed their Petition for Reconsideration with the
+
+5 Board pursuant to Title 23 of the California Code of Regulations ("CCR"), section 2867(c). Petitioners'
+
+6 Petition for Reconsideration informed the Board of the errors in its November 8, 2019 approval.
+
+7 58. PG&E likewise filed a Petition for Reconsideration on December 6, 2019.
+
+8 59. The Board did not act in response to petitioners' December 6, 2019 Petition for
+9 Reconsideration. Thus, 90 days from the Board's initial action, on February 6, 2020, the petitions were
+10 deemed denied due to the Board's inaction.
+
+11 60. Pursuant to Water Code section 13330(c), "[t]he time for filing an action or proceeding
+12 subject to Section 21167 of the Public Resources Code for a person . . . who seeks reconsideration under
+
+13 a state board regulation authorizing a petition for reconsideration, shall commence upon the state board's
+14 completion of that review or reconsideration." The State Water Board resolved petitioners'
+15 Reconsideration Petition on February 6, 2020, by operation of law. Thus, despite the Board's November
+
+16 8, 2019, Notice of Determination, this Verified Petition is timely filed on March 6, 2020.
+
+17 FIRST CAUSE OF ACTION
+
+18 (Violation of CEQA)
+
+19 (Alleged by All Petitioners Against All Respondents)
+
+20 61. The paragraphs set forth above and below are realleged and incorporated herein by
+
+21 reference.
+
+22 62. Petitioners bring this First Cause of Action pursuant to PRC sections 21168 and 21168.5, on
+
+23 the grounds that the Board committed a prejudicial abuse of discretion, by failing to proceed in the
+
+24 manner required by law in issuing the ISND and approving the 401 Certification.
+
+25 The Board Failed to Comply with CEQA's Consultation Requirements
+
+26 63. For every CEQA project that had "a notice of preparation or a notice of negative declaration
+
+27 or mitigated negative declaration filed on or after July 1, 2015" such as this Project- the lead agency
+
+28 is required to consult with California Indian Tribes. Stats. 2014, ch. 532 (A.B. 52), § 11(c), eff. Jan 1,
+
+Verified Petition for Writ of Mandate and Complaint for |Declaratory and Injunctive Relief and Attorneys' Fees • 13 -
+
+2015); PRC § 21080.3.1. For the purposes of CEQA, PRC section 21080.3.1(b) incorporates the
+
+2 definition of "consultation" found in Government Code section 65352.4. Thus, the Board was required
+
+3 to undertake
+
+4
+
+5 [a] meaningful and timely process of seeking, discussing, and considering carefully the views of others, in a manner that is cognizant of all parties' cultural values and, where
+
+6 feasible, seeking agreement. Consultation between government agencies and Native American tribes shall be conducted in a way that is mutually respectful of each party's
+
+7 sovereignty. Consultation shall also recognize the tribes' potential needs for confidentiality with respect to places that have traditional tribal cultural significance.
+8 Government Code § 65352.4 (emphasis added).
+
+9 64. Consultation is complete either when parties "agree to measures to avoid or mitigate a
+10 significant effect on a tribal cultural resource" or "a party, acting in good faith and after reasonable
+
+11 effort, concludes that mutual agreement cannot be reached." PRC § 21080.3.2.(b)(1)-(2) (emphasis
+
+12 added). To determine whether a project has an impact on a tribal cultural resource, the Board is a required
+
+13 to consider the significance of the resource to the Winnemem Wintu Tribe. PRC § 21074.
+
+14 65. The Board failed to consult with the Winnemem Wintu Tribe before preparing and
+15 circulating the Draft Initial Study and Negative Declaration ("DISND") in May 2019 as required by law.
+16 The Board failed to do this despite the Winnemem Wintu Tribe's November 2012 comment letter
+17 informing the Board that FERC's Environmental Impact Statement failed to address impacts to the
+18 Winnemem Wintu Tribe's cultural resources including impacts caused by the Project's proposed
+
+19 changes to the environment, as opposed to impacts caused by the existing operations. Even though the
+
+20 Winnemem Wintu Tribe informed the Board of the Tribe's concerns years before the Board undertook
+
+21 its CHQA review, the Board did not perform the necessary work to make a determination as to the
+22 Project's impacts under CEQA prior to circulating the DISND. Instead, the Board relied upon the
+
+23 outdated and incomplete information compiled during the FERC process, and failed to consult with the
+24 Winnemem Wintu Tribe as required by law.
+
+25 66. When the Board staff belatedly attempted to rectify this failure through meetings with
+26 representatives for the Winnemem Wintu Tribe in October 2019, the Board did not uphold its
+27 consultation obligations. Instead, the Board staff informed the Winnemem Wintu Tribe that the Project
+28 would be approved by November 8, 2019, no matter what evidence the Winnemem Wintu Tribe
+
+Verified Petition for Writ of Mandate and Complaint for
+|Declaratorv and Iniunctive Relief and Attorneys' Fees - 14 -
+
+presented. In so stating, the Board rendered consultation a hollow exercise. While the Board made
+
+2 minor modifications to the 401 Certification conditions in partial response to this contrived and
+incomplete consultation, it failed to consider the Winnemem Wintu Tribe's expertise and evidence in
+4 discussing the significant impacts of the Project on the Tribe's cultural resources.
+
+5 There Is a Fair Argument that an Impact Will Occur
+
+6 67. "All lead agencies shall prepare an [EIR] on any project which they propose to carry out
+
+7 or approve that may have a significant effect on the environment." PRC § 21100(a). "[I]f a lead agency
+
+8 is presented with a fair argument that a project may have a significant effect on the environment, the lead
+
+9 agency shall prepare an EIR...." 14 CCR § 15064(f)(1); No Oil, Inc. V. City of Los Angeles (1974) 13
+
+10 Cal.3d 68, 85. This mandate applies fully here. Yet the ISND claims that "there is No Substantial
+
+11 Evidence in light of the whole record before the State Water Board that the Proposed Project may have a
+
+12 significant impact on the environment." ISND, lxxxii (Findings and Determination). But this claim is
+13 demonstrably false.
+
+14 68. In approving the Project, making its CEQA Findings and issuing the ISND, the Board
+
+15 improperly concluded that the Project will not have any impact on the Winnemem Wintu Tribe's cultural
+16 resources. Yet petitioners' prior comments on the Project clearly state that areas used to collect
+17 significant ethnobotanical resources, ceremonial areas, and other culturally significant areas will be
+18 impacted by the Project's changes to the environment. These impacts are not disclosed in the ISND
+19  because essential cultural resource studies were never completed. The Board's conclusion that the
+
+20 Project's impacts will be less than significant is counter to the evidence before it.
+
+21 69. FERC's proposed solution • to allow licensing to go forward and integrate the Winnemem
+
+22 Wintu Tribe's cultural information into the Historic Properties Management Plan ("HPMP") after the
+23 Project is approved - is contrary to CEQA and fails to honor and protect these resources. Because the
+24 Winnemem Wintu Tribe's cultural resource study was omitted from the FERC FEIS, the Project
+25 jeopardizes the Tribe's cultural resources at Star City Creek, Ah Di Na, and throughout the area of
+26 potential effect ("APE").
+
+27 70. The Board violated CEQA when it failed to gather and examine the relevant cultural
+28 resource information, once it was notified that this vital information was omitted from its analysis.
+
+Verified Petition for Writ of Mandate and Complaint for
+Declaratory and Injunctive Relief and Attorneys' Fees - 15 -
+
+1 Berkeley Keep Jets Over the Bay v. Board of Port Commissioners (2001) 91 Cal.App.4th 1344, 1367
+
+2 ("where comments from responsible experts or sister agencies disclose new or conflicting data or
+3 opinions that cause concern that the agency may not have fully evaluated the project and its alternatives,
+
+4 these comments may not simply be igaored. There must be good faith, reasoned analysis in response.").
+
+5 But instead the Board disregarded the Winnemem Wintu Tribe's expertise and evidence regarding its
+
+6 tribal cultural resources (PRC section 21080.3.1(a)) in order to expeditiously approve the Project.
+
+7 71. During the Board's belated meetings with the Winnemem Wintu Tribe, it failed to
+8 communicate changes it was making to the ISND regarding the measures that the Board now says are
+
+9 sufficient to protect cultural resources. The ISND was modified to state that "li]f the Pit River Tribe and
+
+10 Winnemem Wintu Tribe do not provide the contact information of a Qualified Tribal Cultural Monitor
+
+11 by the day before the date that the monitor is needed, PG&E may proceed with the activity," whereas the
+
+12 DISND did not. Compare DISND 3-89 to 3-93 (Environmental Checklist: Cultural Resources) with
+13 ISND xi (response to Comments), 2-42 (Discussion of Historic Properties Management Plan), 3-95 to 3-
+
+14 100 (Environmental Checklist: Cultural Resources).
+
+15 72. During the Board's meetings with the Winnemem Wintu Tribe, staff did not mention this
+16 | change. Had staff done so, the Winnemem Wintu Tribe would have made clear that PG&E has a history
+
+17 of scheduling activities during times that the Winnemem cultural monitors are not available, and failing
+
+18 to provide sufficient notice and opportunity for the Winnemem to attend for scheduling to work. It is
+
+19 clear that the Board made these changes at the request of PG&E. ISND xi (PG&E states that "the text
+20 should be revised to state PG&E will invite Tribal Cultural Monitor participation consistent with the
+
+21 requirements contained in the HPMP but that work may proceed if no response is received or if a
+22 monitor does not show up at the appointed time after scheduling participation").
+
+23 73. The ISND also states: "PG&E will request a Qualified Tribal Cultural Monitor to be
+24 present from the.. Winnemem Wintu Tribe during archeological surveys, site testing, and data
+25 recovery, non-emergency construction, and maintenance activities requiring ground disturbance that
+
+26 would create a reasonable effect to historic properties, and during long-term historic properties
+27 monitoring. With implementation of this component of the Proposed Project, impacts to tribal historical
+
+28 resources would not be significant." ISND xxvi. This measure is insufficient to prevent harm to
+
+Verified Petition for Writ of Mandate and Complaint for IDerlaratory and Tninnctive Relief and Attornevs' Fees 16 -
+
+enthobotanical resources that are culturally significant, as it gives unilateral authority to PG&E to
+
+2 determine whether its actions would be expected to impact cultural resources in a manner that would
+require a tribal monitor. PG&E is not qualified to make this determination. Yet under the Project
+4 approved by the Board, PG&E will be making this threshold determination of whether to even contact a
+
+5 Tribal Cultural Monitor without having ever received information from the Winnemem Wintu Tribe
+6 regarding the cultural resources in the APE.
+
+7 74. The Project poses grave threats to the Tribe's cultural resources. For example, the Project
+8 includes the placement of between 150 and 600 metric tons of coarse sediment - gravel - in the
+
+9 McCloud River below the McCloud Dam. This coarse sediment is intended to be extracted from Star
+
+10 City Creek. But Star City Creek is a culturally sensitive resource. Throughout this process, the
+
+11 Winnemem Wintu Tribe has informed the decisionmaking bodies that this potential source for gravel
+12| extraction poses harm to tribal cultural resources. Despite this concern, no changes to the Project have
+
+13 been made. Having a cultural monitor present to witness the destruction of this culturally significant
+
+14 area is not a sufficient mitigation plan, despite the Board's presumptuous finding to the contrary.
+
+15 75. The Project includes activities that will directly impact areas of cultural importance to the
+
+16 Winnemem Wintu Tribe. The Project's planned extraction and placement of coarse sediment, recreation
+17 development, and vegetation and weed management, for example, all directly threaten cultural resources
+
+18 that have not been adequately addressed. As it stands, the Board's approval allows PG&E to destroy the
+
+19 Winnemem Wintu Tribe's cultural resource by refusing to cooperate with the Winnemem Wintu Tribe's
+
+20 requests to adequately prötect its confidential, culturally sensitive information.
+
+21 76. Because the McCloud Pit Hydroelectric Project diverts most of the McCloud River's flows
+
+22 to the Pit River, the instream flow below the McCloud Dam is significantly reduced from its historic
+
+23 pattern. This flow was necessary to support the healthy salmon spawning and rearing habitat in the
+24 lower reaches of the McCloud River.
+
+25 77. The ISND fails to account for how Project operations would impede efforts to reintroduce
+
+26 winter-run Chinook above Shasta Dam, despite the likelihood of such reintroduction during the term of
+
+27 the Project's license. See ISND 3-76 (discussion of hardhead as only special status species in Project
+
+28 area). By failing to address the necessary modeling, analysis, and appropriate flow regimes to
+
+Verified Petition for Writ of Mandate and Complaint for |lDeclaratory and Injunctive Relief and Attorneys' Fees 17 -
+
+1 accommodate reintroduced salmonids, the Board has failed to examine the potentially significant impact
+
+2 of the Project on the environment. The Board instead relies upon Condition 12 to the 401 Certification,
+
+3 which provides that the Board may exercise discretion to require additional studies if it appeärs that "a
+
+4 reintroduction plan will be implemented within the following 18 months." Given that it took the Board
+
+5 almost a decade to prepare the DISND for this Project - after which the Board adopted the existing and
+6 demonstrably inadequate flows proposed by the USFS - the 18-month time frame is unlikely to be
+
+7 sufficient for the Board and other resource agencies with jurisdiction over the Project to conduct the
+8 necessary studies and approve the necessary modifications to these inadequate flows to allow for
+
+9 salmonid reintroduction and survival. The minimum flows approved in the Project are not sufficiently
+
+10 protective. FERC FEIS 128.
+
+11
+The Board Improperly Compressed its Analysis of the Project and
+12 Measures Designed to Reduce the Project's Impacts
+
+13 78. The Project includes physical changes to the environment that were not part of the existing
+14 operations of the hydroelectric project. These changes include the extraction of 150 to 600 metric tons
+
+15 of course sediment from Star City Creek or Tarantula Gulch for placement in the McCloud River below
+16 McCloud Dam (ISND 2-40 to 2-41), and the placement of large woody-debris (ISND 2-45). They also
+
+17 include new recreational accommodations: river-adjacent trails, the installation of vault toilets in at least
+
+18 eight recreational sites, new day-use areas, new access points for the McCloud Reservoir, boat ramps,
+
+19 parking spaces, paths, and other facilities. ISND 2-22 to 2-34.
+
+20 79. Petitioners informed the Board that the DISND improperly failed to assess and address the
+
+21 impacts of these physical changes to the environment and instead relied upon future management plans
+
+22 to conclude that none of these impacts would be significant, In response, however, the Board deflected.
+
+23 It claimed that "[t]he conditions that require the applicant to develop (and, after receiving approval,
+24 implement) management plans are intended by the Board to improve water quality conditions in the
+25 Project Area relative to existing conditions, not mitigate adverse changes to the environmental baseline
+26 that will occur as the result of continued project operations." ISND xxvi-xxvii.
+
+27 80. The ISND continues to rely upon as-of-yet incomplete management plans to mitigate the
+
+28 Project's impacts on most resource areas in a way that does not appropriately address where, absent the
+
+/Verified Petition for Writ of Mandate and Complaint for
+Declaratorv and Tniunctive Relief and Attorneys' Fees 18 -
+
+management plan, the impact would be significant. E.g. ISND 3-169 to 3-170 ("potentially significant"
+2 recreation-related impacts, including potential shoreline erosion and impacts to shoreline vegetation, and
+
+3 increased vehicle traffic "would be reduced to less than significant with the implementation of the
+Recreation and Development Management Plan as part of the Proposed Project. In addition,
+implementation of Proposed Project components including the Vegetation and Invasive Weed
+6 Management Plan, Terrestrial Biological Management Plan, Recreation and Development Management
+
+7 Plan, Historic Properties Management Plan, and Erosion and Sediment Control Management Plan would
+ensure that recreation-related impacts of the Proposed Project remain less than significant"), 3-175
+
+9 (dismissing potential impact of Project on public safety by creating roadway hazards because, "[w]ith
+10 implementation of the measures contained within the Road and Transportation Facilities Management
+
+11 Plan impacts related to increased hazards would not be significant").
+
+12 81. Thus, despite its statements to the contrary, the Board improperly conflated its discussion of
+
+13 the Project's impacts with its discussion of measures designed to minimize those impacts, preventing the
+
+14 public from understanding the scope and severity of those impacts first, as necessary to evaluate the
+
+'15 efficacy of the proposed mitigation measures that the Board improperly presumed would reduce those
+
+16 impacts to insignificance. See ISND xxvi-xxcii. That the applicant included these measures as part of
+
+17 the Project does not excuse the Board from undertaking the required analysis. The distinction is not one
+
+18 of semantics, but instead of purpose and effect. Lotus v. Dep't of Transportation (2014) 223
+19 Cal.App.4th 645, 655-656, 656 n. 8 (discussing the distinction between measures that are part of the
+
+20 project, such as paving mixes, from measures that are "plainly mitigation measures," such as restorative
+
+21 planting).
+
+22 82. "[Tjhis shortcutting of CEQA requirements subverts the purposes of CEQA by omitting
+
+23 material necessary to informed decisionmaking and informed public participation. It precludes both
+24 identification of potential environmental consequences arising from the project and also thoughtful
+
+25 analysis of the sufficiency of measures to mitigate those consequences. The deficiency cannot be
+
+26 considered harmless." Lotus, 223 Cal.App.4th 645, 658. Absent analysis of the significance of the
+
+27 Project's impacts separate from the measures on which the Board relies to reduce impacts to less than
+
+28 significant levels, the Board lacks sufficient information to support the CEQA Findings of no significant
+
+Verified Petition for Writ of Mandate and Complaint for IlDeclaratory and Injunctive Relief and Attorneys' Fees - 19 -
+
+1 impacts.
+
+2 The Board Must Prepare an EIR
+
+3 83. As the lead agency under CEQA, the Board was required,, but failed, to prepare an EIR that
+4 examines the whole of the Project in order to adequately determine its impacts. PRC § 21065; 14 CCR §
+
+5 15378(a); River Watch v. Olivenhain Municipal Water Dist. (2009) 170 Cal.App.4th 1186, 1203; Habitat
+
+6 and Watershed Caretakers v. City of Santa Cruz (2013) 213 Cal.App.4th 1277, 1304-1305 (EIR must
+
+7 address impacts that responsible agencies as well as the lead agency are authorized to evaluate and
+
+8 mitigate).
+
+9 84. As the sole CEQA lead agency for the Project, the Board was required to prepare an EIR
+10 that examines the environmental consequences of all aspects of the Project, and not artificially limit its
+
+11 examination to ouly those impacts with a nexus to water quality. ISND xxxvi. It failed to do so.
+
+12 85. The Board cannot approve a CEQA project if its significant impacts can be avoided or
+13 reduced by feasible alternatives or mitigation measures. PRC § 21002, 21002.1, 21081. In order to
+14 determine whether the Project's significant impacts can be avoided or reduced, the Board was required to
+15 prepare a legally adequate EIR that analyzes the Project's impacts, and the alternatives and mitigation
+
+16 measures that are proposed to minimize them. PRC § 21100(b).
+
+17 86. If the Board were to determine that appropriate mitigation measures exist but are outside its
+18 jurisdiction to mandate, it must make findings that indicate that "those changes or alterations are within
+
+19 the responsibility and jurisdiction of another public agency and have been, or can and should be, adopted
+
+20 by that other agency." PRC § 21081(a)(2). The Board is not authorized to ignore potentially feasible
+
+21 mitigation measures for significant impacts simply because they arguably lack a nexus to the Board's
+
+22 water quality jurisdiction. Habitat and Watershed Caretakers, 213 Cal.App.4th at 1304-1305; City of
+
+23 San Diego v. Board of Trustees of California State University (2015) 61 Cal. 4th 945, 957.
+
+24
+SECOND CAUSE OF ACTION
+25 (Violation of the Public Trust Doctriue)
+
+26 (Alleged by All Petitioners Against All Respondents)
+
+27 87. The paragraphs set forth above and below are realleged and incorporated herein by
+
+28 reference.
+
+Verified Petition for Writ of Mandate and Complaint for
+lDeclaratorv and Iniunctive Relief and Attorneys' Fees 20 -
+
+88. The Public Trust Doctrine mandates that "before state courts and agencies approve water
+2 diversions they . . . consider the effect of such diversions upon interests protected by the public trust, and
+
+3 attempt, so far as feasible, to avoid or minimize any harm to those interests." National Audubon Society
+
+4 v. Superior Court (1983) 33 Cal.3d 419, 426.
+
+5 Just as the history of this state shows that appropriation may be necessary for efficient use of
+
+6 water despite unavoidable harm to public trust values, it demonstrates that an appropriative water rights system administered without consideration of the public trust may cause unnecessary and unjustified harm to trust interests. As a matter ofpractical necessity the state
+7 may have to approve appropriations despite foresecable harm to public trust uses. In so doing, however, the state must bear in mind its duty as trustee to consider the effect of the
+8 taking on the public trust, and to preserve, so far as consistent with the public interest, the uses protected by the trust.
+
+10 Id., citations omitted.
+
+11 89. "Public trust easements are traditionally defined in terms of navigation, commerce and
+12 fisheries. They have been held to include the right to fish, hunt, bathe, swim, to use for boating and
+
+13 general recreation purposes the navigable waters of the state, and to use the bottom of the navigable
+
+14 waters for anchoring, standing, or other purposes." Marks v. Whitney (1971) 6 Cal.3d 251, 259. For
+
+15 nearly 50 years it has been settled law in California that public trust values also "encompass[] . . . the
+
+16 preservation of those lands in their natural state, so that they may serve as ecological units for scientific
+
+17 study, as open space, and as environments which provide food and habitat for birds and marine life, and
+
+18 which favorably affect the scenery and climate of the area." Id. at 259-260.
+
+19 90. Although compliance with CEQA "may assist an agency in complying with its duties under
+
+20 the public trust doctrine . . . . L1 CEQA review of a project does not necessarily or automatically satisfy
+
+21 the agency's affirmative duties to take the trust into account and protect public trust uses whenever
+
+22 feasible." San Francisco Baykeeper, Inc. v. State Lands Com. (2018) 29 Cal.App.5th 562, 571. "[A]
+
+23 public trust use is not any use that may confer a public benefit, but rather a use that facilitates public
+
+24 access, public enjoyment, or public use of trust land." Id. at 570. Agencies tasked with protecting public
+
+25 trust resources have affirmative statutory and constitutional "duties to take the trust into account and
+26 protect public trust uses whenever feasible," based on a fair and fully informed balancing of the impacts
+
+27 of these alternatives on public trust resources. San Francisco Baykeeper, 29 Cal.App.5th at 571.
+
+28 91. PG&E's McCloud Pit Hydroelectric Project is not a public trust use. Its construction caused
+
+Verified Petition for Writ of Mandate and Complaint for
+Declaratory and Injunctive Relief and Attorneys' Fees - 21 -
+
+1 significant declines in native fish populations, including the "dolly varden" bull trout, hardhead,
+2 Sacramento sucker, and other fish that can no longer travel the full length of the McCloud River to
+
+3 spawn and feed. Its blockage of fish passage also impedes the reintroduction of native salmonids,
+
+4 including the Chinook salmon that were relocated to New Zealand in 1873. Its operation diverts cold
+
+5 water flows needed by the McCloud River's native fishery to the Pit River, harming both that fishery and
+
+6 public recreational use of the McCloud. As the McCloud River's cold water is diverted through a series
+
+7 of tunnels and generators to the warmer Pit River, it introduces entrained fish, dead fish, and other
+8 pollutants into the warmer Pit River where the surviving displaced fish experience increased stress and
+
+9 mortality. Further, the current impediments to fish passage caused by Shasta Dam and Keswick Dam
+
+10 have isolated the Sacramento River's salmon runs from their traditional spawning grounds along the
+11 McCloud River. The Public Trust Doctrine requires the Board to take affirmative action to protect the
+12 remaining -- and reintroduced -- fish populations in the McCloud River below McCloud Dam and other
+
+13 waters in the Project area.
+14 92. The Project, as approved, does not provide sufficient flows for the special status salmonids
+
+15 that are to be reintroduced into the Project's watershed. Instead, the 401 Certification adopted by the
+16 Board included a minimum instream flow far less than the historical flows in the McCloud River and far
+
+17 less than is necessary to maintain the appropriate habitat conditions for salmonids to be reintroduced in
+
+18 the Project area. In addition, these flows are much less than those proposed by both NMFS and the
+
+19 California Department of Fish and Wildlife during FERC's review of the Project. FERC FEIS 130-134.
+
+20 The minimum flows proposed by these agencies, who have special expertise, indicate that the Project's
+21 minimum flows, as adopted by the Board, are insufficient to protect the public trust resources that
+
+22 depend on these flows.
+
+23 93. While Condition 12 of the 401 Certification includes a trigger for modifications to the
+
+24 certification when Board staff determines that "it is reasonably foreseeable that [listed species] will be
+
+25 reintroduced into Project-affected streams," this reopener is not sufficiently protective of the native fish
+26 habitat that exists along the McCloud River. A higher minimum flow, as requested by the Winnemem
+
+27 Wintu Tribe and NMFS during the FERC FEIS process, is necessary to develop and maintain the habitat
+
+28 conditions conductive to salmonid reintroduction. FERC FEIS 128. The Board's failure to include
+
+Verified Petition for Writ of Mandate and Complaint for
+| Declaratory and Injunctive Relief and Attorneys' Fees 22 -
+
+higher flows to protect these resources is counter to its public trust obligations.
+
+2 94. The Project will adversely affect numerous public trust resources, including flows and
+
+3 habitat necessary for fish, wildlife, and recreation. Despite public comment regarding the Project's
+
+4 impacts to public trust resources, the Board declined to address or examine the issue in the ISND.
+
+5 95. By issuing the Project approvals despite the fact that feasible alternatives exist that would
+
+6 preserve public trust resources to a greater extent than the Project, the Board abdicated its affirmative
+
+7 statutory and constitutional "duties to take the trust into account and protect public trust uses whenever
+
+8 feasible," based on a fair and a fully informed balancing of the impacts of these alternatives on public trust
+
+9 resources. San Francisco Baykeeper, 29 Cal.App.5th at 571.
+
+10
+
+11 THIRD CAUSE OF ACTION
+
+12 (Violation of the Clean Water Act and Water Code 13240 et seq.)
+
+13 (Alleged by All Petitioners Against All Respondents)
+
+14 96. The paragraphs set forth above and below are realleged and incorporated herein by
+
+15 reference.
+
+16 97. Water Code sections 13240 et seq. and 13370 et seq. mandate that the Board comply with
+
+17 water quality control plans, including the Basin Plan, and the Clean Water Act.
+
+18 98. The Project does not adequately protect the beneficial uses identified in the Basin Plan,
+19 including salmon and steelhead spawning habitat, and cold fresh-water habitat on the McCloud River.
+
+20 The existing operation of the McCloud-Pit Hydroelectric Project also impairs the potential beneficial use
+
+21 of the Pit River as warm fresh-water habitat because the cold water of the McCloud River is diverted
+
+22 through series of tunnels and generators to the warmer Pit River. While the Project increases the cold-
+
+23 water flows downstream of the McCloud Dam as compared with the existing flow regime (and thus has
+
+24 the potential to reduce hydroelectric diversions that flow to the Pit River), the Project's new flow regime
+
+25 still fails to adequately protect the beneficial uses of the McCloud River as cold fresh-water habitat and
+26 spawning habitat for salmon and steelhead.
+
+27 99. The Basin Plan includes cold fresh-water habitat, and cold-water spawning habitat, that
+
+28 supports salmon and steelhead in the list of the McCloud River's beneficial uses. Without adequate
+
+Verified Petition for Writ of Mandate and Complaint for
+|Declaratory and Injunctive Relief and Attorneys' Fees • 23 -
+
+protection for reintroduced native salmonids within the Project's new flow regime, the Project will
+
+2 impair these beneficial uses of the McCloud River. The Board failed to examine alternatives that will
+
+3 protect these beneficial uses as required under the Clean Water Act and Water Code sections 13240 et
+
+4 seq. Instead of doing so, the Board has improperly concluded that the Project as approved "is adequate
+5 protection for the beneficial uses identified in the Basin Plan." ISND xxxix.
+
+6 100. By issuing the Project approvals despite their failure to comply with the foregoing
+
+7 requirements of the Basin Plan and the Clean Water Act, the Board violated its statutory duty under
+
+8 Water Code sections 13240 et scq. and 13370 et seq. to comply with the Basin Plan and the Clean Water
+
+9 Act.
+
+10
+
+11 FOURTH CAUSE OF ACTION
+
+12 (Writ of Mandate, Declaratory and Injunctive Relief to Set Aside
+
+13 Project Approvals as Contrary to CCP §§ 1085 and 1094.5)
+
+14 (Alleged by All Petitioners Against All Respondents)
+
+15 101. The paragraphs set forth above and below are realleged and incorporated herein by
+
+16 reference.
+
+17 102. The Board proceeded in excess of its jurisdiction and abused its discretion in purporting to
+18 approve the Project, issue the 401 Certification, and adopt the Initial Study and Negative Declaration
+19 thereon because these Project approvals violate CCP sections 1085 and 1094.5 in the following respects,
+
+20 among others:
+
+21 a. such approvals were not granted in accordance with the procedures required by law;
+
+22 b. such approvals were not based on the findings required by law; and
+
+23 C. such approvals were not based on, or were contrary to, the evidence in the record
+24 before the Board.
+
+25 103. The Board failed to proceed in the manner required by law in the following respects, among
+
+26 others:
+
+27 a. The Board violated CEQA as alleged hereinabove;
+
+28 b. The Board violated the Public Trust Doctrine as alleged hereinabove; and
+
+Verified Petition for Writ of Mandate and Complaint for
+aclaratorv and Tninnative Relief and Attornevs' Fees . 24 -
+
+1 C. The Board violated the Water Code and the Clean Water Act as alleged hereinabove.
+
+2 104. The Board's actions in issuing the Project approvals without complying with the procedures
+3 required by CCP sections 1085 and 1094.5 exceeded the Board's jurisdiction and constitute a prejudicial
+
+4 abuse of discretion, and therefore are invalid and must be set aside.
+
+5 PRAYER FOR RELIEF
+
+6 WHEREFORE, petitioners pray for relief as follows:
+
+7 1. For interlocutory and permanent injunctive relief restraining the Board from taking any
+
+8 action to carry out the Project pending, and following, the hearing of this matter;
+
+9 2. For a peremptory writ of mandate directing the Board to set aside and vacate its Project
+10 approvals;
+
+11 3. For declaratory relief declaring the Project approvals to be unlawful;
+
+12 4. For a peremptory writ of mandate directing the Board to take all actions necessary to bring
+
+13 its Project approvals into compliance with CEQA, the Public Trust Doctrine, the Water Code, the Clean
+
+14 Water Act, and the Code of Civil Procedure;
+
+15 5. For attorneys' fees under Code of Civil Procedure section 1021.5;
+
+16 6. For costs incurred in this action; and/
+
+17 7. For such other equitable or legal relief as the Court may deem just and proper.
+
+18 Dated: March 5, 2020. Respectfully submitted,
+
+19 LAW DFFICES OF STEPHAN C. VOLKER
+20 Cur CU
+21 By: STEPHAN C. VOLKER
+Attorney for Petitioners and Plaintiffs
+22 WINNEMEM WINTU TRIBE and NORTH COAST
+RIVERS ALLIANCE
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Verified Petition for Writ of Mandate and Complaint for
+|Declaratory and Injunctive Relief and Attorneys' Fees 25 -
+
+1 VERIFICATION
+
+2 I, Stephan C. Volker, am the attorney for petitioners/plaintiffs in this action. I make this
+
+3 verification on behalf of the petitioners and plaintiffs because such parties and their representatives are
+absent from the county in which my office is located. I have read the foregoing Verified Petition for
+
+5 Writ of Mandate and Complaint for Declaratory and Injunctive Relief and Attorneys' Fees and know its
+
+6 contents. The facts therein alleged are true and correct to the best of my knowledge and belief, and are
+7 based on documents within the public records underlying the approvals herein challenged.
+I declare under penalty of perjury under the laws of the State of California that the foregoing is
+
+9 true and correct, and that this Verification was executed in Berkeley, California on March 5, 2020.
+
+10
+
+11
+
+12 Atatn Cool STEPHAN C. VOLKER
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20 NECEIVE
+
+21 NAn 1 . 2020
+
+22 BY:.
+23 24
+25
+26
+27
+
+28
+
+Verified Petition for Writ of Mandate and Complaint for
+lDeclaratorv and Iniunctive Relief and Attorneys' Fees • 26 -

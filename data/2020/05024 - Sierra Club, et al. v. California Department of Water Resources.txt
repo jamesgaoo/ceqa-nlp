@@ -1,0 +1,2268 @@
+E. Robert Wright (SBN 51861)
+2 Sierra Club California
+
+3 909 12th Street, Suite 202 Sacramento, CA 95814
+
+4 Tel: (916) 557-1104
+Fax: (916) 557-9669
+Email: bwrightatty@gmail.com
+
+6 Attorney for Petitioners and Plaintiffs
+
+7 Sierra Club, Planning and Conservation League and Restore the Delta
+
+8 (additional counsel on following pages)
+
+9
+
+10
+
+11 THE SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+12 IN AND FOR THE COUNTY OF SAN FRANCISCO
+
+13
+
+14 Sierra Club; Center for Biological Diversity; Planning and Conservation League; and Restore the Case No.:
+
+Delta
+15 VERIFIED PETITION FOR WRIT OF
+
+16 Petitioners and Plaintiffs, MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE
+
+17 VS. RELIEF
+
+18 California Department of Water Resources; and DOES 1-20, (Code of Civ. Proc. §§ 1060, 1085, 1094.5; Water
+
+19 Code §§ 85000 et seq., Water Code § 106.3; Gov.
+
+Respondents and Defendants, Code 11342.1; Pub. Resources Code §§ 21000 et
+
+20 seq.; Public Trust Doctrine)
+
+21 CEQA CASE
+
+22 DOBS 21-50, Action Filed: April 29, 2020
+
+23 Real Parties in Interest.
+
+24
+
+25
+
+26
+
+27
+
+28
+
+-.
+
+- Additional counsel:
+
+2 John Buse (SBN 163156)
+3 Ross Middlemiss (SBN 323737) CENTER FOR BIOLOGICAL DIVERSITY
+4 1212 Broadway, Suite 800, Oakland, CA 94612 Tel: 510-844-7100
+5 Fax: 510-844-7150
+
+6 Email: jbuse@biologicaldiversity.org
+rmiddlemiss@biologicaldiversity.org
+7 Attorneys for Petitioner and Plaintiff Center for Biological Diversity
+8
+
+9 Adam Keats (SBN 191157)
+LAW OFFICE OF ADAM KEATS
+10 303 Sacramento Street, 2nd Floor
+
+11 San Francisco, CA 94111
+Tel: (415) 430-9403
+12 Email: adam@keatslaw.org
+
+13 Attorney for Petitioners and Plaintiffs Planning and Conservation
+
+14 League and Restore the Delta
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+-
+
+INTRODUCTION
+
+2 1. Petitioners and Plaintiffs Sierra Club, Center for Biological Diversity, Planning and
+3 Conservation League, and Restore the Delta ("Petitioners") seek a writ of mandate and declaratory and
+
+4 injunctive relief under California Code of Civil Procedure sections 1085, 1094.5 and 1060, and
+5 Government Code section 11350 directing the California Department of Water Resources ("DWR") to
+
+6 vacate its approval of the Long-Term Operation of the State Water Project ("SWP" or "Project"), the
+7 Findings, and the March 27, 2020 certification of the Final Environmental Impact Report ("EIR") for
+8 the Project, and to revise its Findings to conform with the law.
+
+9 2. The Project diverts large quantities of fresh water from the Sacramento River and San
+10 Joaquin River watersheds and the San Francisco Bay-Delta estuary for export. "The SWP includes
+11 water, power, and conveyance systems, delivering an annual average of 2.9 million acre-feet of
+
+12 water.' (EIR 2-1.) The operation of the Project significantly degrades environmental conditions in the
+13 Sacramento River and San Joaquin River watersheds and San Francisco Bay-Delta estuary, including
+14 reduced flows, increased salinity levels, worsened water quality, reduced food supply, increased
+15 harmful algal blooms, harm to endangered and threatened fish species, and adverse modification of
+16 their designated critical habitat. The EIR, however, implausibly concluded this massive Project will
+17 not have any significant adverse environmental impacts on anything. (EIR 5-1, Master Response (to
+18 comments) 3 at p.II.1.3-7; Findings, pp. 2, 6, 9, 12,17,19.) The EIR concluded "the proposed project
+19 does not result in significant effects, thus the need to lessen does not exist." (EIR 5-1.)
+20 THE PARTIES
+
+21 3. Petitioner SIERRA CLUB (the Club) is a nonprofit organization of approximately
+22 784,000 members worldwide, with approximately 160,000 members in California. The Club is
+23 dedicated to exploring, enjoying, and protecting the wild places of the earth; to practicing and
+24 promoting the responsible use of the earth's ecosystems and resources; to educating and encouraging
+25 humanity to protect and restore the quality of the natural and human environment; and to using all
+26 lawful means to carry out these objectives. The Club's concerns encompass its members continued
+27 ability to enjoy the unique aesthetic and recreational nature of the Bay-Delta ecosystem, their desire
+28
+
+2
+
+1 for California to develop a climate change-resilient water system that is protective of both natural
+2 environments and fulfilling the human right to water, and the proper application of the California
+
+3 Environmental Quality Act (CEQA) to provide the public with vital information about decisions made
+
+4 concerning their health and mitigation from environmental harms. The Club's members reside and
+
+5 own property throughout California as well as those areas to be affected and served by the project, the
+
+6 waters and lands affected by the proposed Project for wildlife observation, recreation, scientific
+
+7 research, environmental education, and aesthetic enjoyment. The Club's particular interest in this case
+
+8 and the issues which the case concerns are addressed herein.
+
+9 4. Petitioner CENTER FOR BIOLOGICAL DIVERSITY (The Center) is a non-profit,
+
+10 public interest organization with approximately 74,000 active members. The Center has offices in
+
+11 Oakland, Los Angeles, and Joshua Tree, California, as well as offices in Arizona, Florida, New
+
+12 Mexico, Oregon, Colorado, and Washington, D.C. The Center and its members are dedicated to
+
+13 protecting diverse native species and habitats through science, policy, education, and environmental
+
+14 law. The Center's members reside and own property throughout California as well as those areas to be
+
+15 served by the Project, and use the waters and lands affected by the proposed Project for wildlife
+
+16 observation, recreation, scientific research, environmental education, and aesthetic enjoyment.
+
+17 5. Petitioner PLANNING AND CONSERVATION LEAGUE (PCL) is a nonprofit
+
+18 advocacy organization empowered to protect and restore California's natural environment and to
+19  promote and defend the public health and safety of the people of California, through legislative,
+20 administrative, and judicial action. Founded in 1965, PCL was the first organization devoted to
+
+21 bettering Californians' quality of life through environmental legislation. One of the organization's
+
+22 earliest accomplishments was the enactment in 1970 of the California Environmental Quality Act
+
+23 ("CEQA"), which PCL helped draft and has continually supported over the years, and which lies at the
+
+24 heart of this action. As a party and an amicus curiae, PCL-on behalf of its twenty-seven institutional
+
+25 members and thousands of individual members--has contributed to some of the leading cases
+26 interpreting CEQA's provisions. PCL has also submitted detailed comments addressing
+
+27 I environmental review issues in numerous proceedings before public agencies, including those
+
+28
+
+1 culminating in the final agency decisions challenged here. Beyond agency proceedings and the
+2 courtroom, PCL has published and updated The Community Guide to CEQA and has sponsored
+
+3 CEQA workshops throughout the state. These workshops advise interested individuals, governmental
+4 and non-governmental organizations, and locally elected and appointed officials about CEQA's two-
+
+5 fold purpose of environmental protection and informed self-government. PCL members reside and
+
+6 own property throughout California as well as those areas to be served by the Project, and use the
+
+7 waters and lands affected by the proposed Project.
+
+8 6. Petitioner RESTORE THE DELTA (RTD) is a non-profit public benefit organization
+
+9 based in Stockton, California. RTD is a coalition of Delta residents, business leaders, civic
+10 organizations, community groups, faith-based communities, union locals, farmers, fishermen, and
+11 environmentalists seeking to strengthen the health of the Bay-Delta estuary and to protect the
+12 environmental interests in the Sacramento-San Joaquin Delta, including but not limited to public
+13 health, fishing, farming, and recreation. With over 60,000 members statewide, RTD advocates on
+
+14 behalf of local Delta stakeholders to ensure that they have a direct impact on water management
+15 decisions affecting the water quality and well-being of their communities, and water sustainability
+16 policies for all Californians. RTD works through public education and outreach so that all Californians
+
+17 recognize the Sacramento-San Joaquin Delta as part of California's natural heritage, deserving of
+18 restoration, seeking a Delta whose waters are fishable, swimmable, drinkable, and farmable,
+19 supporting the health of the San Francisco Bay-Delta Estuary. Members of RTD reside in and along
+20 the Bay-Delta and its watershed and use the waters of the Central Valley and Bay-Delta for drinking,
+21 farming, and for aesthetic, recreational, and educational enjoyment. As just one example of
+
+22 environmental harms inflicted on RTD members by diversions for the State Water Project, diversions
+23 reduce freshwater flows through the Delta causing and worsening harmful algal blooms which threaten
+24 the public health of those drinking, fishing in, or swimming in, Delta waters.
+25 7. Respondent and Defendant CALIFORNIA DEPARTMENT OF WATER
+26 RESOURCES (DWR) is a Department of the State of California subject to all California law. DWR is
+27 the State lead agency for the approval of the Project under CEQA.
+
+28
+
+4
+
+1 8. Petitioners are currently unaware of the true names and capacities of Does 1through 20,
+
+2 inclusive, and therefore sue those parties by such fictitious names. Does 1 through 20, inclusive, are
+
+3 agents of the State government who are responsible in some manner for the conduct described in this
+
+4 petition, or other persons or entities presently unknown to the Petitioners who claim some legal or
+
+5 equitable interest in the program that is the subject of this action. Petitioners will amend this petition to
+
+6 show the true names and capacities of Does 1 through 20 when such names and capacities become
+
+7 known.
+
+8 9. Petitioners are currently unaware of the true names and capacities of Does 21 through
+
+9 50, inclusive, and therefore sue those parties by such fictitious names. Does 21 through 50, inclusive,
+
+10 are persons or entities presently unknown to the Petitioners who may claim some interest as a real
+
+11 party in interest in the program that is a subject of this action. Petitioners will amend this petition to
+
+12 show the true names and capacities of Does 21 through 50 when such names and capacities become
+
+13 known.
+
+14 EXHAUSTION OF ADMINISTRATIVE REMEDIES
+
+15 10. Petitioners have exhausted all administrative remedies by submitting written comments
+16 during several stages of the Project approval and EIR process, including but not limited to written
+
+17 comments objecting to approval of the Project and highlighting Delta Reform Act (Water Code
+
+18 sections 85000 et seq.) and CEQA (Pub. Resources Code sections 21000, et seq.) violations and
+19 deficiencies in the Draft and Final EIR. All issues raised in this petition were raised by Petitioners,
+
+20 other members of the public, and/or public agencies prior to approval of the Project and certification of
+
+21 the EIR.
+
+22 11. Petitioner Sierra Club with several others also met in person with representatives of
+
+23 DWR and other State officials on the matter being challenged in the Petition.
+
+24 12. Petitioners have complied with Public Resources Code section 21167.5 by prior service
+25| of a notice upon DWR indicating their intent to file this Petition. Proof of Service of this notification,
+
+26 with the notification, is attached as Exhibit A to this Petition.
+
+27 13. Petitioners have complied with Public Resources Code section 21167.7 and Code of
+
+28
+
+5
+
+1 Civil Procedure section 388 by serving a copy of this Petition on the Attorney General.
+
+2 14. Petitioners have elected to prepare the record of proceedings in the above-captioned
+
+3 proceeding or to pursue an alternative method of record preparation pursuant to Public Resources
+
+4 Code section 21167.6(b)(2). A true and correct copy of the notification of the Election to Prepare the
+
+5 Administrative Record is attached as Exhibit B to this Petition.
+
+6 15. DWR filed the Notice of Determination with the Office of Planning and Research on
+
+7 March 30, 2020. This petition is timely filed in accordance with Public Resources Code section 21167
+
+8 and CEQA Guidelines section 15112 (the CEQA Guidelines are codified at 14 Cal. Code Regs. §§
+
+9 15000 et seq.)
+
+10 16. Petitioners and their members are directly, adversely and irreparably affected, and will
+
+11 continue to be prejudiced by the approval of the Project and by the failure of DWR to comply with the
+12 Delta Reform Act, CEQA, and the California Public Trust Doctrine, unless or until this Court provides
+
+13 the relief prayed for in this Petition.
+
+14 JURISDICTION AND VENUE
+
+15 17. This Court has jurisdiction over this action pursuant to Code of Civil Procedure
+
+16 sections 1085, 1094.5, and 1060, Public Resources Code sections 21168 and 21168.5, and
+
+17 Government Code sections 11342.2 and 11350.
+
+18 18. Venue for this action properly lies in the San Francisco County Superior Court because
+19 the Project reduces flows to San Francisco Bay, part of which lies within San Francisco County. In
+20 addition, the Attorney General, who will be representing Respondent DWR in this action, maintains an
+
+21 office in San Francisco County. Venue also properly lies in the Sacramento County Superior Court
+22 because the Project's impacts will be felt in Sacramento County and because Respondent DWR and
+23 the Attorney General maintain offices in that County. However, Petitioners are unable to file this
+
+24 Petition in Sacramento County at this time due to the Sacramento County Superior Court's Covid-19
+25 closure orders.
+
+26 GENERAL ALLEGATIONS
+
+27 19. In 2009, the California Legislature declared that "the Sacramento-San Joaquin Delta
+28
+
+6
+
+1 watershed and California's water infrastructure are in crisis and existing Delta policies are not
+2 sustainable," and responded by passing the Delta Reform Act, codified in the California Water Code at
+sections 85000 et seq.
+
+4 20. Policies established by the Delta Reform Act include "the policy of the State of
+
+5 California is to reduce reliance on the Delta in meeting California's future water supply needs through
+
+6 a statewide strategy of investing in improved regional supplies, conservation, and water use efficiency
+
+7 (Water Code § 85021.) Water Code section 85054 establishes co-equal goals, meaning "the two
+
+8 goals of providing a more reliable water supply for California and protecting, restoring, and enhancing
+
+9 the Delta ecosystem."
+
+10 21. DWR is the lead agency responsible for complying with CEQA including preparation
+
+11 of the EIR for the Project.
+
+12 22. The Delta Reform Act includes specific provisions applicable to projects intended to
+
+13 convey water diverted in Northern California around the Delta, including Water Code sections 85320,
+
+14 85321, and 85322. Water Code section 85320 mandates that the initial conveyance project known as
+
+15 the Bay Delta Conservation Plan ("BDCP") could not be incorporated into the Delta Plan required by
+
+16 the Delta Reform Act and could not be eligible for state funding unless, among other things, the
+
+17 project complies with CEQA, and includes "a comprehensive review and analysis of" (among the
+
+18 listed subjects):
+
+19 A reasonable range of Delta conveyance alternatives, including through-Delta, dual
+
+20 conveyance, and isolated conveyance alternatives and including further capacity and design options of a lined canal, an unlined canal, and pipelines.
+
+21 (Water Code 85320(b)(2)(B).)
+
+22 23. On September 25, 2012, Governor Edmund G. Brown Jr. signed into law Water Code
+
+23 section 106.3, which provides in part:
+
+24 (a) It is hereby declared to be the established policy of the state that every human
+
+25 being has the right to safe, clean, affordable, and accessible water adequate for human
+
+26 consumption, cooking, and sánitary purposes.
+
+27 (b) All relevant state agencies, including the department, the state board, and the
+
+28
+
+7
+
+State Department of Public Health, shall consider this state policy when revising,
+
+2 adopting, or establishing policies, regulations, and grant criteria when those policies,
+
+3 regulations, and criteria are pertinent to the uses of water described in this section.
+4 24. In about April 2015, DWR and Reclamation dropped the elements of a habitat
+
+5 conservation plan and natural community conservation plan from the BDCP project and began calling
+
+6 it the California WaterFix.
+
+7 25. On May 2, 2019, DWR rescinded its 2017 approval of the BDCP/WaterFix project and
+8 set aside its certification of the Final EIR for that project. DWR's Delta conveyance project has
+
+9 subsequently evolved into the "One-Tunnel Delta Conveyance Project."
+
+10 26. Expert agencies including the State Water Resources Control Board have concluded
+
+11 that it is necessary to decrease diversions in order to increase Delta outflows. (Including Evaluation of
+12 San Joaquin River Flow and Southern Delta Water Quality Objectives and Implementation, Executive
+13 Summary, ES 1, 21, September 2016; Working Draft Scientific Basis Report for New and Revised
+14 Flow Requirements on the Sacramento River and Tributaries, Eastside Tributaries to the Delta, Delta
+
+15 Outflow, and Interior Delta Operations, 1-3, 1-13, October 2016.) In October 2017, the Water Board
+16 found that: "it is widely recognized that the Bay-Delta ecosystem is in a state of crisis." (Final
+17 Scientific Basis Report in Support of New and Modified Requirements for Inflows from the
+18 Sacramento River and its Tributaries and Bastside Tributaries to the Delta, Delta Outflows, Cold
+19 Water Habitat, and Interior Delta Flows, at 1-4). The water management infrastructure including the
+20 Central Valley Project (CVP) and State Water Project (SWP) "have been accompanied by significant
+21 declines in nearly all species of native fish, as well as other native and non-native species dependent
+22 on the aquatic ecosystem. Fish species have continued to experience precipitous declines since last
+23 major update and implementation of the Bay-Delta Plan in 1995 that was intended to halt and reverse
+24 the aquatic species declines occurring at that time. In the early 2000s, scientists noted a steep and
+25 lasting decline in population abundance of several native estuarine fish species that has continued and
+26 worsened during the recent drought. Simultaneously, natural production of all runs of Central Valley
+27 salmon and steelhead remains near all-time low levels." (Id.) According to the Water Board, the best
+
+28
+
+8
+
+F available science indicates that existing "requirements are insufficient to protect fish and wildlife." (Id.
+
+2 at 1 - 5).
+
+3 27. On December 12, 2018, the Water Board, through State Water Board Resolution No.
+4| 2018-0059, adopted Bay-Delta Plan amendments establishing the lower San Joaquin River flow
+
+5 objectives and revised Southern Delta salinity objectives.
+
+6 28. On July 25, 2016, the Ninth Circuit Court of Appeals issued its decision in Pacific
+
+7 Coast Federation of Fishermen's Assn's v. U.S. Dept. of the Interior. (655 Fed.Appx. 595, 2016 WL
+
+8 3974183, 9th Cir. No. 14-15514, July 25, 2016, (not certified for publication).) The court held that the
+
+9 challenged environmental document issued by Reclamation under the National Environmental Policy
+
+10 Act (NEPA) on renewal of interim two-year water contracts "did not give full and meaningful
+
+11 consideration to the alternative of a reduction in maximum water quantities." (Id. at p. *3.)
+
+12 29. On April 19, 2019, DWR issued a Notice of Preparation and Scoping ("NOP") for the
+
+13 EIR on Long-Term Operation of the California State Water Project ("Project".)
+
+14 30. On April 29, 2019, the Governor issued Executive Order N-10-19 requiring preparation
+
+15 of a water resilience portfolio ("Portfolio") on water issues.
+
+16 31. On May 28, 2019, Petitioners along with others submitted written comments on the
+17 NOP. Among other issues, Petitioners asserted that, in the Draft EIR for the Project, DWR must
+
+18 complete the water inventory and assessments and other tasks required by the Executive Order and
+19 Portfolio and pursuant to CEQA must: use its best efforts to find out and disclose all that it reasonably
+
+20 can; analyze the impacts of providing water to the entire proposed project; avoid piecemealing or
+
+21 segmenting its environmental analysis; develop reasonable alternatives including ones that would
+
+22 improve water quality by reducing exports; address the new reality that the federal government is now
+
+23 committed to maximizing exports regardless of the consequences for water quality and regardless of
+24 California's policies; and include an accurate, stable, and finite project description.
+
+25 32. On November 21, 2019, DWR released the Draft EIR for public review and set a
+26  closing date of January 6, 2020, for receipt of public comments on the Draft EIR.
+
+27 33. On December 17, 2019, Petitioner Sierra Club requested extension of the public
+
+28
+
+9
+
+1 comment period on the Draft EIR of at least one month, to afford the public the opportunity to
+
+2 comment on the Draft EIR informed by the information expected in the yet to be issued Draft
+
+3 Portfolio. DWR denied the request.
+4 34. On the afternoon of January 3, 2020, the California Natural Resources Agency, of
+
+5 which DWR is a part, CalEPA, and the California Department of Food & Agriculture released the
+
+6 Draft Water Resilience Portfolio.
+
+7 35. On January 2, 2020, Petitioner Restore the Delta submitted written comments on the
+
+8 Draft EIR. On January 6, 2020, Petitioners along with others submitted joint written comments on the
+
+9 Draft EIR. Among other issues, Petitioners asserted, pursuant to CEQA, including CEQA Guidelines
+
+10 section 15088.5(a), that DWR would have to issue a new Draft EIR and recirculate it for public review
+
+11 and comment. Petitioners asserted that in the Draft EIR DWR had failed to: provide full environmental
+
+12 disclosure; use its best efforts to find out and disclose all that it reasonably can including the planned
+13 | One-Tunnel Delta Conveyance Project which will be part of the SWP; analyze the impacts of
+14 providing water to the entire proposed project; integrate, not piecemeal or segment environmental
+15 analysis; develop reasonable alternatives including ones that would improve water quality by reducing
+16 exports; disclose and analyze the significant adverse environmental impacts of the Project; accurately
+17 evaluate cumulative environmental impacts; disclose and evaluate growth-inducing impacts; evaluate
+18 the Project in light of climate change; disclose and assess the future reduction in claimed needs for
+19 SWP exports as a result of new technologies and curtailment of exports; address the new reality that
+20 the federal government is now committed to maximizing exports regardless of the consequences for
+21 water quality and regardless of California's policies; and include an accurate, stable, and finite project
+22 description.
+
+23 36. On January 15, 2020, DWR issued its Notice of Preparation of an Environmental
+24 Impact Report for the One-Tunnel Delta Conveyance Project.
+
+25 37. On January 27, 2020, Petitioners along with others submitted Supplemental comments
+26 on the Draft EIR. Among other issues, Petitioners asserted that the NOP for the One-Tunnel Delta
+
+27 Conveyance Project and its content were significant new information requiring preparation of a new or
+28
+
+10
+
+- revised Draft EIR for the Project, and recirculation of the EIR for public review and comment pursuant
+
+2 to CEQA, including CEQA Guidelines section 15088.5(a.) Petitioners asserted that the NOP added
+
+3 further weight to the undeniable fact that the ongoing One-Tunnel Delta Conveyance Project is part
+
+4 and parcel of ongoing SWP long-term operations, but had not been disclosed let alone analyzed in the
+
+5 Draft EIR on the Project. DWR failed to respond to the January 27, 2020, Supplemental comments in
+
+6 the EIR.
+
+7 38. Petitioners regularly requested and demanded during the CEQA review process that a
+
+8 new draft EIR be prepared and circulated for public review and comment by DWR. Preparation of a
+
+9 new Draft EIR and recirculation for public review and comment were required by law including Public
+
+10 Resources Code section 21092.1 and CEQA Guidelines section 15088.5(a), because there would be
+
+11 new significant environmental impacts resulting from the Project; because the severity of many
+
+12 environmental impacts resulting from the project would be substantially increased; because a feasible
+
+13 project alternative considerably different from others previously analyzed would clearly lessen the
+
+14 significant environmental impacts of the project; and because the Draft EIR and earlier drafts were so
+15 fundamentally and basically inadequate and conclusory in nature that meaningful public review and
+
+16 comment were precluded.
+
+17 39. The inadequacies of the EIR include: failure to adequately disclose or quantify the
+18  amounts of water that would be taken by the Project; failure to adequately disclose or evaluate the
+19 environmental impacts of supplying the quantities of water for export by Project operations; failure to
+
+20 adequately disclose and analyze environmental justice impacts of Project construction and operation;
+
+21 and failure to disclose and evaluate the Project's inconsistencies with the Delta Reform Act.
+
+22 40. On March 27, 2020, DWR certified the Final EIR on the Project, despite the numerous
+
+23 legal deficiencies identified in the Draft and Final EIR and demands to prepare and recirculate a new
+24 Draft document. On the same day, DWR approved the Project, and made Findings. DWR filed the
+
+25 Notice of Determination with the Office of Planning and Research on March 30, 2020, pertaining to
+26 certification of the EIR, thereby violating the Delta Reform Act and CEQA. DWR has abused its
+
+27 discretion and failed to proceed in the manner required by law. As a result of the DWR approval of the
+
+28
+
+11
+
+1 Project and certification of the EIR, Petitioners and their members will suffer great and irreparable
+
+2 harm to their interests, including recreation, boating, kayaking, fishing, conservation, wildlife viewing,
+
+3 and other activities as described herein. Petitioners have no adequate remedy at law for this irreparable
+
+4 harm.
+
+5 41. The Project would increase the potential delivery of water from the Delta. (EIR 4-
+
+6 332,333.) The Project would deliver water pursuant to water contracts and agreements up to full
+
+7 contract quantities. (EIR, Introduction 1-3.)
+
+8 42. The Project will harm pelagic and anadromous fisheries in the Bay-Delta and its
+
+9 watershed, including San Francisco Bay, and other natural resources held in trust by the State of
+
+10 California on behalf of its people by failing to consider the timing and quantity of flows to ensure
+
+11 ecosystem health, by encouraging and catalyzing the construction of new water delivery conveyance
+
+12 including the One-Tunnel Delta Conveyance Project and upstream water storage, and by prioritizing
+13 water deliveries over ecosystem restoration. Harm to the pelagic and anadromous fishery in the Bay-
+14 Delta and its watershed, including San Francisco Bay, injures Petitioners and their members by
+
+15 threatening impairment of their use and enjoyment of these species and their habitat.
+
+16 43. The Project will also harm ratepayers of those water contractors who pay for the Project
+17 by unnecessarily raising their water rates to promote a project that yields less water supply than less
+18 expensive local alternatives. This is contradictory to the Human Right to Water, which recognizes
+
+19 water affordability as a barrier to access to water. These ratepayers include many members of
+
+20 Petitioners' organizations, who have limited resources to develop a sustainable water supply that can
+21 withstand climate change.
+
+22 44. DWR's failure to proceed in the manner required by the Delta Reform Act, CEQA and
+23 the public trust doctrine prior to approving the Project, and the resulting certification of the EIR, will
+
+24 result in a new, upstream conveyance-the One-Tunnel Delta Conveyance Project-that has the
+
+25 capacity to further reduce the already significantly depleted freshwater flows in the Sacramento River,
+
+26 its tributaries, sloughs, the Bay-Delta and San Francisco Bay, Petitioners and their members have
+
+27 never had the opportunity to review and comment on an adequate Draft EIR. Petitioners and their
+
+28
+
+12
+
+1 members will suffer great and irreparable injury caused by the reduced flows that will result from
+
+2 implementation of the Project which in turn will harm public health, fisheries habitat and recreational
+
+3 opportunities in areas in and upstream of the Delta.
+
+4 FIRST CAUSE OF ACTION
+
+5 (Delta Reform Act, Water Code $§ 85000 et seq., Gov. Code § 11342.2)
+
+6 45. Petitioners hereby incorporate all of the allegations in the paragraphs above as if fully
+
+7 set forth herein.
+
+8 46. The Project is in conflict with the declared water policy of the State of California
+
+9 established by the Delta Reform Act including, but not limited to, the policy "to reduce reliance on the
+
+10 Delta in meeting California's future water supply needs through a statewide strategy of investing in
+
+11 improved regional supplies, conservation, and water use efficiency ..." (Water Code § 85021.) The
+
+12 Project would instead increase reliance on the Delta in meeting California's future water supply needs
+
+13 by increasing the capacity to divert more water from the Delta than is presently being diverted.
+
+14 47. The Project is in conflict with the declared policy of the State of California confirmed
+
+15 by the Delta Reform Act that "[t]he long-standing constitutional principle of reasonable use and the
+
+16 public trust doctrine shall be the foundation of state water management policy and are particularly
+
+17 important and applicable to the Delta." (Water Code § 85023.) The Project would instead make
+18 maximizing exports the foundation of state water management policy including policy applicable to
+
+19 the Delta.
+
+20 48. The Project is in conflict with the Delta Reform Act which mandates that:
+
+21 "Coequal goals" means the two goals of providing a more reliable water supply for California and protecting, restoring, and enhancing the Delta ecosystem. The coequal
+22 goals shall be achieved in a manner that protects and enhances the unique cultural, recreational, natural resource, and agricultural values of the Delta as an evolving place.
+23 (Water Code § 85054.)
+24 49. The Project does not provide a more reliable water supply for California by determining
+25 actual water rights as opposed to "paper" water rights, and the operational requirements and flows
+26 necessary for recovering California rivers and the Delta ecosystem in order to identify the remaining
+27
+
+28
+
+13
+
+- water available for export and other beneficial uses.
+
+2 50.
+
+3 The Project is in conflict with the Delta Reform Act which mandates that the One-
+
+4 Tunnel Delta Conveyance Project, known at the time as the BDCP, could not be incorporated into the
+
+5 Delta Plan and could not be eligible for state funding unless, among other things, the Project complies
+
+6 with CEQA, and includes "a comprehensive review and analysis of" (among the listed subjects):
+
+7 operational requirements and flows necessary for recovering the Delta ecosystem and restoring fisheries under a reasonable range of hydrologic conditions, which will
+
+8 identify the remaining water available for export and other beneficial uses.
+(Water Code § 85320(b)(2)(A).)
+
+9
+
+10 A reasonable range of Delta conveyance alternatives, including through-Delta, dual conveyance, and isolated conveyance alternatives and including further capacity and
+
+11 design options of a lined canal, an unlined canal, and pipelines.
+(Water Code § 85320(b)(2)(B).)
+
+12
+
+13 The potential effects of each Delta conveyance alternative on Delta water quality.
+(Water Code § 85320(b)(2)(G).)
+
+14 51.
+
+15 The Project and the Project approval process have not determined the operational
+
+16 requirements and flows necessary to recover the Delta ecosystem in order to identify the remaining
+water available for export and other beneficial uses; have not developed a reasonable range of Delta
+17 conveyance alternatives including through-Delta, and have not determined the potential effects of
+18 alternatives on Delta water quality.
+
+19 52.
+
+20 The Delta Reform Act was ignored in the Draft EIR, being mentioned in two sentences.
+
+21 (Draft EIR 4-105.) In responses to comments, the EIR finally recognized the state policy "to reduce
+
+22 reliance on the Delta" and admits the project objectives do "not state any position regarding increasing
+
+23 or reducing exports." (EIR, Master Response 7, II. 1-7 at p. II.1. 7-2.)
+
+53.
+
+24 Petitioners seek declaratory relief pursuant to Code of Civil Procedure section 1060 and
+
+25 Government Code section 11350 as well as mandamus and injunctive relief determining that the
+
+26 approval of the Project was arbitrary and unreasonable under the Delta Reform Act, and is in conflict
+with the Delta Reform Act.
+
+27
+
+28
+
+14
+
+SECOND CAUSE OF ACTION
+
+2 (CEQA, Pub. Resources Code § 21000, et seq.)
+
+3 54. Petitioners hereby incorporate all of the allegations in the paragraphs above as if fully
+
+4 set forth herein.
+
+5 55. CEQA requires that "an agency must use its best efforts to find out and disclose all that
+
+6 it reasonably can" about project being considered and its environmental impacts." (Vineyard Area
+
+7 Citizens v. City of Rancho Cordova (2007) 40 Cal.4th 412, 428.) CEQA applies to most public agency
+
+8 decisions to carry out, authorize, or approve projects that could have adverse effects on the
+
+9 environment. (Pub. Resources Code §§ 21000; 21001, subd. (g).) CEQA requires that public agencies
+
+10 refrain from approving projects with significant environmental effects if "there are feasible
+
+11 alternatives or mitigation measures" that can substantially lessen or avoid those effects. (Pub.
+
+12 § Resources Code § 21002.) Under CEQA, a "project" includes the whole of an action that may result in
+
+13 either a direct or reasonably foreseeable indirect physical change in the environment. (CEQA
+
+14 Guidelines § 15378(a).) CEQA requires agencies to inform themselves about the environmental effects
+
+15 of their proposed actions, consider all relevant information before taking action, give the public an
+
+16 opportunity to comment, and avoid or reduce significant environmental impacts when it is feasible to
+
+17 do so. (Pub. Resources Code § 21000.) The agency's factual conclusions must be supported by
+
+18 substantial evidence in the light of the whole record. (Pub. Resources Code §§ 21168, 21168.5; CEQA
+19 Guidelines § 15384(b).) "Substantial evidence" is defined as relevant, reasonable information and
+
+20 inferences that a fair argument can be made to support a conclusion, including facts, reasonable
+
+21 assumptions predicated upon facts, and expert opinion supported by facts. (CEQA Guidelines §
+
+22 15384.) Argument, speculation, unsubstantiated opinion, and inaccurate or erroneous evidence do not
+
+23 constitute substantial evidence.
+
+24 56. The EIR certified by DWR is replete with omitted facts and inaccurate evidence
+
+25 presented in a manner that is confusing and misleading to the public. The EIR's alternatives analysis,
+
+26 Project description, analysis of Project impacts, proposed mitigation measures, and ultimate
+
+27 assessments are so speculative and lacking in practical analysis that the conclusions rendered directly
+
+28
+
+15
+
+1 violate CEQA.
+
+2 57. DWR prejudicially abused its discretion in approving the Project and certifying the
+
+3 EIR. DWR did not proceed in the manner required by law and/or its decisions in approving the Project
+4 and certifying the EIR are not supported by substantial evidence.
+
+5 Failure to Disclose and Analyze the Significant Environmental Impacts of the Project
+
+6 58. The Final EIR, like the Draft EIR, concludes, "In this DEIR, however, the proposed
+
+7 project does not result in significant effects, thus the need to lessen [significant effects] does not
+
+8 exist." (EIR 5-1.)
+
+9 59. The word "uncertain" or one of its derivatives is used almost 200 times throughout the
+
+10 EIR. The EIR recites, for example:
+
+11 Project environmental commitments include facility operations, facility and habitat
+
+12 improvement actions, funding for studies that reduce uncertainty about SWP effects on Delta fishes, and an adaptive management framework that, individually and collectively
+13 are intended to minimize the effects of the Proposed Project and improve conditions for Delta fishes.
+14 (EIR 5-3.)
+
+15 The EIR repeatedly states that impacts are uncertain or highly uncertain with respect to fish species.
+
+16 (EIR examples include 4-6, 4-116, 117, 120, 121, 132, 134, 145, 215, 5-38.) The repeated reference to
+17 "uncertainties" is a deliberate device to avoid disclosing and evaluating the truth; the project will have
+
+18 numerous significant, adverse environmental impacts.
+
+19 60. The CEQA Guidelines definition states,
+
+20 'Environment' means the physical conditions which exist within the area which will be
+
+21 affected by a proposed project including land, air, water, minerals, flora, fauna, ambient noise, and objects of historic or aesthetic significance. The area involved shall
+
+22 be the area in which significant effects would occur either directly or indirectly as a
+result of the project. The 'environment' includes both natural and man-made
+23 conditions.
+
+24 (CEQA Guidelines § 15360) (Emphasis added.)
+
+25 CEQA defines "significant effect on the environment" to mean "a substantial, or potentially
+
+26 substantial, adverse change in any of the physical conditions within the area affected by the project
+
+27 including land, air, water, minerals, flora, fauna, ambient noise, and objects of historic or aesthetic
+
+28
+
+16
+
+significance." (CEQA Guidelines § 15382.)
+
+2 61. The State Water Resources Control Board (Water Board) January 30, 2020, comments
+
+3 on the Draft EIR included,
+
+4 The Scientific Basis Report [peer-reviewed, Water Board Staff 2017] concluded that
+5 increased Delta inflows and outflows, and cold-water habitat and constraints on pumping in the interior Delta are necessary in order to reasonably protect at-risk fish
+6 species. Accordingly, it is not clear how the proposed project will not further degrade
+
+7 conditions for fish and wildlife species that are already in poor conditions, some of which are on the verge of functional extinction or extirpation. Given this, it is also not
+
+8 clear how the proposed project is consistent with existing obligations, including the California Delta Reform Act, CESA [California Endangered Species Act], the
+9 California Porter-Cologne Water Pollution Control Act (Porter-Cologne Act), various provisions of the California Water Code governing water rights, and the public trust
+10 doctrine. (See National Audubon Society v. Superior Court (1983) 33 Cal.3d 419).
+
+11 Further, it is not clear how the DEIR can find no impacts to fish and wildlife from the proposed project in light of this science.
+12 (EIR, Comments and Responses, II.3.4 at pp. 3-5.)
+13 62. "Law is not required to abandon common sense. Here, our common sense informs us
+14 that the mitigation measures will not effectively replace the water that could be lost by the neighboring
+15 landowners."(Gray v. County of Madera (2008) 167 Cal.App.4th 1099, 1116-7.) The EIR defies
+16 common sense in claiming that a project diverting enormous quantities of water from freshwater flows
+17 through rivers and the Delta would not substantially and adversely change downstream water
+18 quantities, water quality, fisheries, and fish habitat including designated critical habitat for listed
+19 threatened and endangered species of fish. Reducing freshwater flows by way of diversions for exports
+20 has numerous adverse environmental impacts ranging from further impairing water quality to
+21 adversely impacting fish species and their habitat to threatening human health and safety to worsening
+22 harmful algal blooms to degrading fishing and water based recreation. The State's Draft Water
+23 Resilience Portfolio, issued January 3, 2020, declares:
+24
+
+25 Over the last 200 years, human engineering to capture and divert flows has altered the natural functions of most major rivers in the state.... These changes have impaired our
+26 overall resilience as a state and impacted fish and wildlife, threatening the existence of several native fish species including distinct runs of salmon and steelhead.
+27
+
+28
+
+17
+
+1 Reduced stream flows, increased temperatures, lack of habitat, and proliferation of invasive species have impacted many fish species across the state. Native fish and
+2 wildlife evolved to cope with drought, but dry periods are increasingly stressful given reduced habitat and river flow in recent decades.... Pollution compounds the stress.
+3 Many species are declining, and the number of fish species considered highly
+4 vulnerable to extinction rose from nine in 1975 to 31 species today. (Draft Portfolio 12.)
+
+5 A warmer climate provides optimal conditions for worsening harmful algal blooms,
+6 which can force the closure of beaches, rivers, and lakes due to health risks for people and pets. (Draft Portfolio 13.)
+7
+
+8 Waterways are becoming increasingly prone to harmful algal blooms and low dissolved
+oxygen levels. (Draft Portfolio 13.)
+
+9
+
+10 As just one example, SWP diversions reduce freshwater flows through the Delta causing and
+
+11 worsening harmful algal blooms which threaten the public health of those drinking, fishing in, or
+
+12 swimming in, Delta waters. The conclusion that the Project does not result in significant adverse
+
+13 environmental effects is false, arbitrary, not based on substantial evidence, contrary to numerous other
+
+14 State findings including those of the Water Board, and the January 3, 2020, Draft Water Resilience
+
+15 Portfolio, and contrary to common sense.
+63.
+16 The EIR fails to adequately disclose and analyze the impacts the project will have on
+
+17 human health, including the health of residents and visitors to the Delta region. These impacts include
+
+18 harms to human health caused by consumption of fish species inhabiting an ecosystem that will likely
+
+19 experience increases of selenium, mercury, and salinity because of the Project's alterations to the
+
+20 hydrology of the Delta. The EIR fails to disclose or analyze how the Project's changes to the
+
+21 hydrology of the Delta and the resultant increase in stressors and contaminants will harmfully impact
+
+22 the health of people who consume fish from the Delta ecosystem, including many residents and
+
+23 visitors who rely on Delta fish as a food supply.
+
+64.
+24 The EIR both ignores and fails to adequately analyze the real trend, extent and
+
+25 magnitude of continuing declines in pelagic and anadromous fisheries. Since 1967, the California
+
+26 Department of Fish and Wildlife's Fall Midwater Trawl abundance indices for striped bass, Delta
+
+27 smelt, longfin smelt, American shad, splittail and threadfin shad have declined by 99.7, 97.8, 99.9,
+
+28
+
+18
+
+1 91.9, 98.5 and 97.8 percent, respectively. Every single survey of Delta smelt in late 2014 through mid-
+
+2 2015 identified new historic lows in species abundance. The U.S. Fish and Wildlife Service's
+
+3 Anadromous Fisheries Restoration Program documents that, since 1967, in-river natural production of
+
+4 Sacramento winter-run Chinook salmon and spring-run Chinook salmon have declined by 98.2 and
+
+5 99.3 percent, respectively, and are only at 5.5 and 1.2 percent, respectively, of doubling levels
+
+6 mandated by the Central Valley Project Improvement Act, California Water Code, and California Fish
+
+7 & Game Code. In addition, population year classes of naturally reproducing Sacramento River winter-
+
+8 run, spring-run and fall-run Chinook salmon were virtually destroyed by lethal temperatures in 2014
+
+9 and 2015. The California Department of Fish and Wildlife noted the trending declines of listed-species
+
+10 of anadromous and other fish populations in the Delta and other waterways in Northern California in
+
+11 its January 6, 2020 comments on the Draft EIR. (EIR, Comments and Responses, II.3.2 at pp. 13-14.)
+
+12 Failure to accurately disclose and analyze this current information and to design alternatives
+
+13 eliminating or reducing continuing species decline violates CEQA.
+
+14 65. DWR has failed to proceed in the manner required by CEQA by failing to accurately,
+
+15 thoroughly, and honestly, disclose and analyze the numerous significant adverse environmental
+
+16 impacts caused by the Project.
+
+17 Failure to Make Full Environmental Disclosure Including the One-Tunnel Delta Conveyance
+Project
+18
+66. The Draft EIR failed to even mention or disclose let alone analyze the ongoing One-
+19 Tunnel Delta Conveyance Project. The Draft EIR also included affirmative misrepresentations:
+20
+
+21 The Proposed Project would not include any of the following: New construction of water facilities, infrastructure, or other land disturbance
+22 Construction of new facilities or modification to existing facilities that could increase the capacity of the SWP (Draft EIR 4-321.)
+23 Reclamation and DWR propose to use the Sacramento River, San Joaquin
+24 River, and Delta channels to transport water to export pumping plants located in
+
+25 the South Delta. (Draft EIR 3-30.)
+
+26 DWR's deception included omitting the One-Tunnel Delta Conveyance Project from its list of more
+
+27 than 40 cumulative water supply, management, and quality projects and actions in the Draft EIR.
+
+28
+
+19
+
+1 (Draft EIR, Table 4, 6-1a, List, following p. 4-294.)
+
+2 Throughout the entire time DWR had been preparing the Draft EIR and carrying out the CEQA
+
+3 process on the Project it also had been engaged in the ongoing Delta Conveyance Design and
+
+4 Construction Authority process with Metropolitan Water District of Southern California and several
+
+5 other exporters on engineering, fieldwork, property access, property acquisition, and power, roads, and
+
+6 utilities for the previously selected Water Tunnel/Delta Conveyance Project alignment. That process
+
+7 includes the anticipated expenditure of over $300 million on the Tunnel Project work between May
+
+8 2019 and June 2022. Beginning in the summer of 2019, DWR has also been engaged in the "Contract
+
+9 Negotiations Concerning Water Supply Contract Cost and Benefit Allocation of Delta Conveyance
+
+10 Facilities of the State Water Project" with the State Water Contractors. In that process, the Tunnel
+11 Project was described as including a SWP capacity of 6000 cubic feet per second, and defined to
+12 mean:
+
+13 Those facilities of the State Water Project consisting of a water diversion intake
+14 structure, or structures, located on the Sacramento River and connected by facilities to Banks Pumping Plant in the southern Delta with a single tunnel that will serve the water
+15 supply purposes of the State Water Project. (DWR's Sixth Offer, p. 3, December 20,
+
+16 2019.)
+
+67.
+17 A mere seven business days after the January 6, 2020, close of the public comment
+period on the Draft EIR, DWR on January 15, 2020, issued its "Notice of Preparation [NOP] of 18
+
+19 Environmental Impact Report for the Delta Conveyance Project." DWR's NOP states:
+
+20 Here, as the CEQA lead agency, DWR's underlying, or fundamental, purpose in proposing the [Tunnel] project is to develop new diversion and conveyance facilities in
+21 the Delta necessary to restore and protect the reliability of State Water Project (SWP)
+
+22 water deliveries and, potentially, Central Valley Project (CVP) water deliveries south of the Delta, consistent with the State's Water Resilience Portfolio. (NOP 2) (Emphasis
+23 added.)
+
+24 The NOP states the [Tunnel] project objectives of making "physical improvements to the SWP Delta
+
+25 conveyance system" include, minimizing "the potential for public health and safety impacts from
+
+26 reduced quantity and quality of SWP water deliveries" and, "To protect the ability of the SWP, and
+
+27 potentially the CVP, to deliver water when hydrologic conditions result in the availability of sufficient
+
+28
+
+20
+
+1 amounts, ..." (NOP 2) (Emphasis added.) The proposed project "would add to the existing SWP
+2 infrastructure." (NOP 2) (Emphasis added.)
+
+3 68. Planned Long-Term Operation of the SWP determines whether the One Tunnel Delta
+
+4 Conveyance Project might arguably make any sense for water supply purposes. In turn, whether or not
+
+5 the One-Tunnel Delta Conveyance Project is approved will make a major difference in the actual
+
+6 Long-Term Operation of the SWP. Despite this extremely close and mutually dependent relationship,
+
+7 the SWP Project Draft EIR failed to even disclose, let alone analyze, the One-Tunnel Project even
+
+8 though both Project processes were and are proceeding at the same time.
+
+9 69. The Tunnel Project NOP states the probable significant environmental effects of the
+
+10 Delta Conveyance project may include:
+
+11 Water Supply: changes in water deliveries.
+Surface Water: changes in river flows in the Delta.
+12 Groundwater: potential effects to groundwater levels during operation.
+
+13 Water Quality: changes to water quality constituents and/or concentrations from operation of facilities.
+14 Geology and Seismicity: changes in risk of settlement during construction. Soils: changes in topsoil associated with construction of the water conveyance
+15 facilities.
+
+16 Fish and Aquatic Resources: effects to fish and aquatic resources from construction and operation of the water conveyance facilities.
+
+17 Terrestrial Biological Resources: effects to terrestrial species due to construction of the
+water conveyance facilities.
+18 Land Use: incompatibilities with land use designations.
+
+19 Agricultural and Forestry Resources: preservation or conversion of farmland. Recreation: displacement and reduction of recreation sites.
+20 Ascetics and Visual Resources: effects to scenic views because of water conveyance
+facilities.
+21 Cultural and Tribal Cultural Resources: effects to archaeological and historical sites in
+22 tribal cultural resources.
+Transportation: vehicle miles traveled; effects on road and marine traffic.
+23 Public Services and Utilities: effects to regional or local utilities.
+Energy: changes to energy use from construction and operation of facilities.
+24 Air Quality and Greenhouse Gas: changes in criteria pollutant emissions and localized particulate matter from construction and greenhouse gas emissions.
+25 Noise: changes in noise and vibration from construction and operation of the facilities.
+26 Hazards and Hazardous Materials: potential conflicts with hazardous sites.
+Public Health: changes to surface water could potentially increase concerns about
+27 mosquito-borne diseases
+
+28
+
+21
+
+1 Mineral Resources: changes in availability of natural gas wells due to construction of the water conveyance facilities.
+2 Paleontology Resources: effects to paleontological resources due to excavation for borrow and for construction of tunnels and canals.
+3 Climate Change: increase resiliency to respond to climate change
+
+4 Growth Inducement and Other Indirect Effects: changes to land uses as a result of changes in water availability resulting from changes in water supply deliveries
+5
+(NOP 9-10.)
+6 70. "An EIR must include details sufficient to enable those who did not participate in its
+7 preparation to understand and to consider meaningfully the issues raised by the proposed project."
+8 (Laurel Heights Improvement Assn. V. Regents of University of California (1988) 47 Cal.2d 376, 405.)
+9 DWR did not even mention the One-Tunnel Delta Conveyance Project until its responses to comments
+10 in the Final EIR. DWR then claimed, "The One-Tunnel Delta Conveyance Project was not evaluated
+11 in the cumulative impacts evaluation of the DEIR because that project is not considered reasonably
+12 foreseeable at this time." (EIR, Comments and Responses, Master Response 26, II.1.26 at p. II.1.26-1.)
+13 DWR, consequently, is claiming that $300 million are being spent on a project that is not reasonably
+14 foreseeable. Master Response 26 consists of two pages of after-the-fact argument why the EIR does
+15 not evaluate in any way the One-Tunnel Delta Conveyance Project. The public not only did not have
+16 the benefit of an evaluation of the One-Tunnel Project in the Draft EIR. The public did not even have
+17 the benefit of DWR's after-the-fact arguments.
+18 71. The EIR misrepresents that the Project would not have any significant environmental
+19 effects. The One-Tunnel Delta Conveyance Project NOP establishes that SWP Long-Term Operation,
+20 when properly defined to include the One-Tunnel Delta Conveyance Project which is an integral part
+21 of the SWP Long-Term Operation, would probably have at least 24 significant environmental effects
+22 as set forth above.
+23 66. DWR has failed to proceed in the manner required by CEQA, because its Draft EIR
+24 consisted of deliberate omission and concealment of the One-Tunnel Delta Conveyance Project, and
+25 affirmative misrepresentations, in contrast to the required full environmental disclosure.
+26
+
+27
+
+28
+
+22
+
+1 Failure to include Analysis of the Environmental Effects of Future Expansion or other Action
+
+2 67. "An EIR must include analysis of the environmental effects of future expansion or
+
+3 other action if: (1) it is a reasonably foreseeable consequence of the initial project; and (2) the future
+
+4 expansion or action will be significant in that it will likely change the scope or nature of the initial
+
+5 project or its environmental effects." (Laurel Heights Improvement Assn. v. Regents of University of
+
+6 California (1988) 47 Cal.2d 376, 396; accord, Vineyard Area Citizens for Responsible Growth, Inc. v.
+
+7 City of Rancho Cordova (2007) 40 Cal.4th 412, 428.)
+
+8 68. The One-Tunnel Delta Conveyance Project is a reasonably foreseeable consequence of
+
+9 the SWP Project and the Tunnel Project will change the scope and nature of the SWP Project and its
+10 environmental effects.
+
+11 69. DWR failed to proceed in the manner required by law because the EIR does not include
+
+12 analysis of the environmental effects of the One-Tunnel Delta Conveyance Project.
+
+13 Absence of Accurate, Stable, and Finite Project Description
+
+14 70. CEQA requires that "[a]ll phases of the project must be considered when
+
+15 evaluating its impact on the environment: planning, acquisition, development, and operation." (CEQA
+
+16 Guidelines § 15126.)
+
+17 71. DWR has omitted the One-Tunnel Delta Conveyance Project from the EIR and its
+18 project description.
+
+19 72. DWR has failed to proceed in the manner required by CEQA because its
+
+20 EIR, by omitting disclosure and analysis of the One-Tunnel Delta Conveyance Project, has failed to
+
+21 provide the required accurate, stable, and finite project description.
+
+22 73. DWR has failed to proceed in the manner required by CEQA because it has
+
+23 omitted critical phases of the Project including the One-Tunnel Delta Conveyance Project from the
+
+24 EIR.
+
+25 Failure to Adequately Analyze the Project's Cumulative Impacts
+
+26 74. An EIR must discuss cumulative impacts, or the collectively significant changes in the
+
+27 environment resulting from the incremental impacts of the project "when added to other closely
+
+28
+
+23
+
+1 related past, present, and reasonably foreseeable probable future projects." (CEQA Guidelines, §§
+2 15355(b), 15130(a)(1.) An agency must use its best efforts to fully disclose cumulative impacts of a
+
+3 project. (CEQA Guidelines, §§ 15130(b), 15144, 15151.)
+4 75. The One-Tunnel Delta Conveyance Project is a related project. An EIR must discuss a
+
+5 related project when "it [is] reasonable and practical to include the project and ... without [its]
+
+6 inclusion, the severity and significance of the cumulative impacts" could not be adequately stated.
+
+7 (Gray v. County of Madera (2008) 167 Cal.App.4h 1099, 1127.)
+
+8 76. The EIR fails to adequately consider the Project's cumulative effects by omitting any
+9 analysis whatsoever of the One-Tunnel Delta Conveyance Project.
+
+10 77. The EIR fails to adequately consider the Project's cumulative impacts on the health of
+
+11 people who consume fish from the Delta, many of whom are reliant on Delta fish for sustenance.
+
+12 78. DWR has failed to proceed in the manner required by CEQA because the EIR, has
+
+13 failed to adequately consider or even consider at all, the Project's cumulative effects including those
+
+14 caused by the One-Tunnel Delta Conveyance Project.
+
+15 Failure to Analyze a Reasonable Range of Alternatives
+
+16 79. An EIR must describe a reasonable range of alternatives to the project, or the location
+17 of the project, that could feasibly attain most of the basic objectives of the project while avoiding or
+18 substantially lessening any of the significant effects of the project. (CEQA Guidelines § 15126.6(a)
+19 and (f).) An EIR must contain a "quantitative, comparative analysis" of the relative environmental
+
+20 impacts of project alternatives. (Kings County Farm Bureau v. City of Hanford (1990) 221 Cal.App.3d
+21 692, 730-737.) "Evaluation of project alternatives and mitigation measures is 'the core of an EIR.
+
+22 (Banning Ranch Conservancy v. City of Newport Beach (2017) 2 Cal.5th 918, 937.) CEQA requires
+23 that public agencies refrain from approving projects with significant environmental effects if "there are
+24 feasible alternatives or mitigation measures" that can substantially lessen or avoid those effects. (Pub.
+
+25 Resources Code § 21002.
+
+26 80. An EIR must include "Alternatives to the proposed project." (Public Resources Code §
+27 21100(b)(4.)
+
+28
+
+24
+
+1 81. Pursuant to CEQA, and state policy including the Delta Reform Act provisions set forth
+
+2 in the General Allegations and the First Cause of Action above, DWR had to develop, consider, and
+
+3 analyze a reasonable range of alternatives including no-Tunnel alternatives and alternatives that would
+
+4 increase freshwater flows through the Delta by reducing exports.
+
+5 82. The absence of the required accurate, stable, and finite project description aids and
+
+6 abets the absence of the required presentation of a range of reasonable alternatives. The omission of
+
+7 the One-Tunnel Delta Conveyance Project from the EIR facilitates DWR's ignoring the environmental
+
+8 harms and economic costs of the Tunnel Project and evasion of those issues in omitting alternatives
+
+9 that would increase freshwater flows by reducing exports. The absence of disclosure and analysis of
+
+10 the One-Tunnel Project misled the public during its opportunity to comment on the proposed Project.
+
+11 83. DWR failed to proceed in the manner required by CEQA and the Delta Reform Act
+
+12 because it did not develop, consider, and analyze no-Tunnel alternatives and alternatives increasing
+
+13 freshwater flows through the Delta by reducing exports in the EIR. DWR also failed to proceed in the
+
+14 manner required by CEQA because it did not develop, consider, and analyze such alternatives in a
+
+15 Draft EIR and circulate such Draft for decision-maker and public review and comment. To avoid
+16 considering such alternatives, DWR falsely claimed in the EIR that the Project "does not result in
+
+17 significant effects, thus the need to lessen [consider alternatives] does not exist." (Draft EIR 5-1.)
+18 | Nevertheless, the Draft EIR purported to discuss four alternatives in addition to the no project
+19 alternative. (Draft EIR 5-1.) The "alternatives" are simply the same project dressed up in different
+
+20 outfits; no no-Tunnel alternatives or alternatives increasing freshwater flows by reducing exports were
+
+21 included. The same is true of the "alternatives" in the Final EIR.
+
+22 84. An obvious, foundational, and feasible alternative to the Project would be to increase
+
+23 freshwater flows by reducing exports and continuing to use through-Delta conveyance instead of
+
+24 developing the One-Tunnel Delta Conveyance Project, Such an alternative would reduce reliance on
+
+25 the Delta for satisfying California's future water supply needs. Such an alternative would comply with
+
+26 the policy of the State of California established by the Delta Reform Act. (Water Code § 85021.) An
+27 example of such an alternative is the Environmental Water Caucus alternative, A Sustainable Water
+
+28
+
+25
+
+1 Plan for California, which has been presented several times in substantially similar forms to DWR
+
+2 from May of 2012 through January 6, 2020 with petitioners May 28, 2019, comments on DWR's NOP
+3 for the subject EIR on SWP Long-Term Operation.
+4 85. The EIR's formulation of Project purposes and objectives improperly constrains and
+
+5 narrows consideration of feasible alternatives.
+
+6 86. The EIR fails to disclose the readily available alternatives that would meet the basic
+
+7 Project objectives.
+
+8 87. DWR's failure to develop, consider, analyze, and circulate for decision-maker and
+
+9 public review and comment any such alternatives violates CEQA's alternatives analysis requirements.
+10 Petitioners and others have repeatedly requested that DWR develop, consider, analyze, and circulate
+11 for public review and comment a reasonable range of alternatives including alternatives that would
+
+12 begin to increase freshwater flows through the impaired Delta by reducing exports. The persistent
+13 refusal of DWR to develop, consider, analyze, and circulate for decision-maker and public review and
+14 comment any such alternatives violates CEQA's alternatives analysis requirements.
+
+15 88. DWR must be required to vacate its Project approval and EIR certification and prepare
+16 and circulate for public review and comment a new draft EIR including the required range of
+17 reasonable alternatives, increasing freshwater flows through the Delta by reducing exports. Such
+
+18 alternatives must also identify and discuss the environmental and water supply trade-offs being
+19 considered.
+
+20 89. DWR has failed to proceed in the manner required by CEQA and the Delta Reform Act
+21 because the EIR has failed to include the required range of reasonable alternatives.
+
+22 Inadequate Analysis of the "No Project" Alternative
+
+23 90. Pursuant to CEQA ,"[t]he purpose of describing and analyzing a no project alternative
+24 is to allow decision makers to compare the impacts of approving the proposed project with the impacts
+25 of not approving the proposed project." (CEQA Guidelines § 15126.6(e)(1)) The description offered
+26 by DWR is inadequate, as it does not provide sufficient information to allow decision makers to make
+27 such comparison. DWR has also not provided adequate information to give decision makers a full
+28
+
+26
+
+- understanding of the existing conditions.
+
+2 Failure to Adequately Analyze Long-Term Water Operations and Supplies
+
+3 91.
+
+4 the type Under CEQA, future water sources "and the impacts of exploiting those sources are not
+
+5 of information that can be deferred for future analysis." (Vineyard Area Citizens for
+
+6 Responsible Growth v. City of Rancho Cordova (2007) 40 Cal.4th 412, 431.) "An EIR that neglects to
+explain the likely sources of water and analyze their impacts, but leaves long-term water supply
+7 considerations to later stages of the project, does not serve the purpose of sounding an environmental
+
+8
+
+9 alarm bell before the project has taken on overwhelming bureaucratic and financial momentum." (Id.,
+at 441.)
+
+10 92.
+
+11 The absence of a detailed operations plan including quantification and timing of
+
+12 freshwater flow diversions during operations, and omission of the One-Tunnel Delta Conveyance
+
+13 Project, are unlawful omissions and unlawfully defer analysis of this critical long-term water supply
+
+information.
+
+14 93.
+
+15 The EIR fails to include an adequate discussion and analysis of California's over-
+
+16 appropriated water rights system, the fact that Delta exports are legally limited to water surplus to both
+
+17 the needs of the Delta and upstream areas of origin, and the implications of impending climate change
+
+18 on future water deliveries for the Project. For example, reduced runoff caused by climate change
+
+19 would draw the ecologically critical low salinity zone eastward, necessitating corresponding increases
+
+20 in Delta outflow to protect Delta and longfin smelt, endangered salmon, and important agricultural
+
+21 land with water rights superior to DWR. But increased outflow to protect the Delta estuary would
+decrease south-of-Delta exports.
+22 Unlawful Piecemealing
+
+23 94.
+
+24 CEQA prohibits the piecemealing or segmentation of environmental analysis. A lead
+
+25 agency must not piecemeal the analysis of several smaller projects that are part of a larger project, in
+
+26 order to ensure "that environmental considerations not become submerged by chopping a large project
+
+into many
+
+27 little ones, each with a potential impact on the environment, which cumulatively may have
+
+28 disastrous consequences." (Burbank-Glendale-Pasadena Airport Authority v. Hensler (1991) 233
+
+27
+
+1 Cal.App.3d 577, 592.)
+
+2 95. The omission of the One-Tunnel Delta Conveyance Project from the EIR on SWP
+3 Long-Term Operation constitutes unlawful piecemealing of the environmental analysis of the Project
+
+4 and the environmental analysis of the Delta Conveyance Project.
+
+5 Failure to Integrate Environmental Review Processes
+
+6 96. CEQA policy is to conduct integrated review. (Banning Ranch Conservancy v. City of
+7 Newport Beach (2017) 2 Cal.5th 918, 939, 942.) "Lead agencies in particular must take a
+8 comprehensive view in an EIR." (Banning Ranch Conservancy, 2 Cal.5th 918, 939.)
+
+9 97. DWR failed to proceed in the manner required by CEQA because the EIR on SWP
+
+10 Long-Term Operation has not been integrated with environmental review of the One-Tunnel Delta
+11 Conveyance Project.
+
+12 Failure to Disclose and Evaluate Project Growth-Inducing Impacts
+
+13 98. The EIR concludes "the Proposed Project is not growth-inducing and would not induce
+
+14 secondary impacts of growth." (EIR 4-334.) That is false. The SWP Long-Term Operation is the
+
+15 reason for the One-Tunnel Delta Conveyance Project and induces that Project and all the
+16 environmental impacts resulting from the Delta Conveyance Project.
+
+17 99. DWR has failed to proceed in the manner required by CEQA because the EIR fails to
+18 disclose and evaluate the growth-inducing development of the One-Tunnel Delta Conveyance Project
+19 and the environmental impacts resulting from that Project. The Project is growth-inducing for other
+
+20 reasons as well. Examples include continuing to provide water for irrigation in situations where land is
+21 being taking out of agricultural production with the water then being used, or transferred to other
+
+22 areas, for residential development.
+
+23 Inconsistency with California's Public Trust Doctrine and Constitutional Requirements
+
+24 100. The EIR fails to properly analyze whether the Project is consistent with either the
+25 Public Trust Doctrine or Article X, Section 2 (the reasonable use, and unreasonable method of
+
+26 diversion provisions in the California Constitution).
+
+27
+
+28
+
+28
+
+1 Inconsistency with California's Human Right to Water
+
+2 101. The EIR fails to adequately analyze whether and how the Project is consistent with
+
+3 California's Human Right to Water, expressed in Water Code section 106.3. The EIR fails to disclose,
+
+4 as required by Water Code section 106.3, how DWR has considered California's Human Right to
+
+5 Water when proposing and approving the Project.
+
+6 Inadequate and Improper Analytical Baseline
+
+7 102. The EIR's formulation of baseline environmental conditions is fundamentally flawed
+
+8 and deceptive because, among other flaws, it fails to provide accurate information regarding existing
+9 surface water and groundwater supply and demand. The vague and inaccurate environmental baseline
+
+10 established in the EIR violates CEQA and makes any analysis of the Project's impacts impossible. The
+
+11 EIR's omission of required information in its baseline analysis violates the foundational CEQA
+
+12 mandate for informed decision-making. (California Native Plant Soc. V. City of Santa Cruz (2009) 177
+
+13 Cal.App.4th 957, 987.)
+
+14 103. The EIR also fails to discus over-allocated water entitlements that create unrealistic
+
+15 demands for Delta water, or "paper water." In fact, the SWP only supplies approximately half of its
+16 l entitlements to contract water per year. (PCL v. DWR (2000) 83 Cal.App.4th 892, 908.) Courts have
+
+17 criticized planning based on paper water, recognizing the "huge gap between what is promised and
+
+18 what can be delivered." (PCL v. DWR, supra, 83 Cal.App.4th at 903 [*'Entitlements' is a misnomer,
+19 for contractors surely cannot be entitled to water nature refuses to provide or the body politic refuses
+
+20 to harvest, store and deliver"].) The EIR's failure to include realistic water supply data in its
+
+21 environmental baseline is prejudicial because it undermines the statutory goals of an EIR to inform
+
+22 decision makers and the public of potentially significant adverse effects on the physical environment.
+
+23 The vague and cursory water supply and demand conditions as described by the EIR without adequate
+
+24 support by quantitative data does not provide sufficient baseline information that would allow
+
+25 decision-makers or the public to evaluate the significant adverse water resources and biological
+
+26 impacts that the Project will have on the environment thereby violating CEQA Guidelines section
+
+27 15125(a).
+
+28
+
+29
+
+1 | Inadequate Analysis of Climate Change
+
+2 104. The EIR evades the impacts of climate change in one page plus part of one sentence.
+
+3 (EIR 4-3, 4.) The EIR arbitrarily concludes "No additional analysis or discussion of impacts of climate
+
+4 change on the environmental resources addressed in the DEIR are warranted." (EIR 4-4.)
+
+5 105. Climate change impacts fit squarely within a cumulative impacts analysis. (Center for
+
+6 Biological Diversity v. Nat, Highway Traffic Safety Admin. (9th Cir. 2008) 538 F.2d 1172, 1217.) The
+
+7 EIR and the Findings, however, do not adequately address the Project's foreseeable cumulative
+
+8 impacts on the Bay Delta watershed in light of future climate change, particularly with regards to
+
+9 water supplies in the context of sea level rise, changes in storm patterns, and watershed run-off. The
+
+10 EIR fails to adequately address the Project's cumulative impacts on the environment of the Bay Delta
+
+11 watershed in a situation that includes less river inflow and higher evaporation and transpiration rates
+
+12 throughout the watershed. The EIR fails to adequately disclose or analyze expected changes in
+13 hydrologic conditions and water supply forecasted for the 21st century. The cursory treatment in the
+14 EIR does not adequately inform decision-makers or the public about these expected impacts.
+
+15 106. DWR has failed to proceed in the manner required by CEQA because the EIR fails to
+
+16 adequately analyze Project impacts in light of climate change that will worsen the impacts of diverting
+
+17 freshwater flows for SWP exports.
+
+18 Failure to Analyze Reduction in Need for Exports in Light of Innovation and Curtailment
+19 107. The City of Los Angeles has a plan to reduce its imported water supply by 50% by the
+20 year 2025. "Water recycling is the wave of the future." (Water Replenishment District Release, August
+21 22, 2019.) "SB 606 and AB 1660 [signed into law May 31, 2018] emphasize efficiency and stretching
+22 existing supplies in our cities and on farms." (Water Board fact sheet.) "The most cost-effective,
+
+23 environmentally beneficial way to stretch water supplies is through better water use efficiency and
+24 eliminating water waste ... Recycled water is a sustainable, nearly drought-proof supply when used
+25 efficiently, and the total volume of water California recycles today could triple in the next decade.
+26 (Draft Portfolio 17.)
+
+27 108. DWR's EIR fails to disclose and analyze trade-offs such as increasing efficiency,
+28
+
+30
+
+1 recycling, and other modern measures to reduce the claimed need for SWP exports and increase
+
+2 freshwater flows to improve water quality.
+
+3 109. The California Constitution establishes in Article X, Section 2,
+
+4 It is hereby declared that because of the conditions prevailing in this State the general
+5 welfare requires that the water resources of the State be put to beneficial use to the fullest extent of which they are capable, and that the waste or unreasonable use or unreasonable
+6 method of use of water be prevented, and that the conservation of such waters is to be exercised with a view to the reasonable and beneficial use thereof in the interest of the
+7 people and for the public welfare. The right to water or to the use or flow of water in or from any natural stream or watercourse in this State is and shall be limited to such water as shall be reasonably required for the beneficial use to be served, and such right does not
+9 extend to the waste or unreasonable use or unreasonable method of use or unreasonable
+method of diversion of water
+10
+110.
+11 Despite the reasonable use requirements set forth in the California Constitution, the EIR
+
+12 contains no disclosure or analysis of innovations and increased water use efficiency that reduces
+
+13 claimed needs for SWP water diversions. DWR finally admitted in its responses to comments, "Water
+
+14 use efficiency has improved substantially over the past 30 years ... Reduced water demand from
+
+15 increased water use efficiency can also reduce the amount and change the timing of water diversions
+
+16 from surface water bodies for human use, thereby benefiting aquatic life (including endangered and
+
+17 threatened species) Based on existing regulatory mandates as well as economic and environmental
+
+18 imperatives, State and regional/local efforts will continue to improve water use efficiency over that
+
+19 already achieved during the past few decades." (EIR, Master Response 6, II.1.6 at p. I1.1.6-1.)
+
+111.
+20 DWR has failed to proceed in the manner required by law by failing to disclose and
+
+21 analyze the reductions in SWP diversions that can be achieved by continuing to improve water use
+
+22 efficiency and by preventing unreasonable uses and methods of uses.
+
+23 Failure to Disclose and Evaluate Federal Government's Commitment to Maximizing Exports
+Regardless of the Environmental Consequences
+24 112. The integrity of the process of decision under CEQA is to be ensured "by precluding
+
+25 stubborn problems or serious criticism from being swept under the rug ... (Banning Ranch
+26 Conservancy v. City of Newport Beach (2017) 2 Cal.5th 918, 940-41.)
+
+27
+
+28
+
+31
+
+113. "DWR operates the SWP in coordination with the CVP, under the Coordinated
+
+2 Operation Agreement (COA) between the federal government and the State of California (authorized
+3 by Public Law 99-546)." (EIR 1-3.)
+
+4 114. Starting in 2019, the federal government through the president, Department of the
+
+5 Interior, and U.S. Bureau of Reclamation, has adopted new policies to maximize CVP exports
+
+6 regardless of the environmental consequences and California state environmental policies. This new
+
+7 federal policy has been established by various actions including the Secretary of the Interior August
+8 17, 2018, memorandum to his staff on the subject "California Water Infrastructure;" the Presidential
+
+9 Memorandum on Promoting the Reliable Supply and Delivery of Water in the West (83 Fed.Reg.
+10 53961, October 25, 2018); federal lawsuits against the Water Board challenging the Water Board's
+11 new flow requirements set forth in the Water Quality Control Plan for the San Francisco
+12 Bay/Sacramento-San Joaquin Delta estuary and seeking to divert more water for the CVP; and
+
+13 replacing National Marine Fisheries Service biologists who had concluded in a 1123-page biological
+14 opinion on July 1, 2019 that Reclamation's plan would likely jeopardize listed salmon and steelhead,
+15 and would be likely to destroy or adversely modify critical habitat, with political appointees who on
+16 October 21, 2019 concluded Reclamation's plan was not likely to jeopardize the continued existence
+17 of the subject species or destroy or adversely modify their critical habitats. On February 20, 2020,
+18 California agencies and the State Attorney General filed suit in the Northern District of California
+19 contending the biological opinions are unlawful under the Endangered Species Act and National
+20 Environmental Policy Act. (The California Natural Resources Agency et al. v. Wilbur Ross et al., Case
+21 No. 20-cv-01299.)
+
+22 115. The EIR fails to disclose or analyze the new federal policies to maximize CVP exports.
+23 The new federal policies to maximize exports will worsen the adverse environmental impacts caused
+24 by increasing or maintaining the level of SWP exports.
+25 116. DWR has unlawfully swept the problems resulting from the new federal policies to
+26 maximize exports under the rug.
+
+27
+
+28
+
+32
+
+1 Failure to Recirculate the EIR
+
+2 117. Significant new information after a Draft EIR is prepared, but before certification of the
+
+3 final EIR, requires revision and recirculation for public review and comment. (Pub. Resources Code §
+
+4 21092.1; CEQA Guidelines 15088.5(a.)
+
+5 118. Prior to certification of the Final EIR, there was significant new information provided
+
+6 by comments on the Draft EIR, including but not limited to: new significant environmental impacts
+
+7 that would result from the project including impacts from the One-Tunnel Delta Conveyance Project
+
+8 (CEQA Guidelines § 15088.5(a)(1); a substantial increase in the severity of environmental impacts
+
+9 that would result from the Project including the One-Tunnel Delta Conveyance Project (CEQA
+
+10 Guidelines §15088.5(a)(2); a feasible project alternative including alternatives increasing freshwater
+
+11 flows by reducing exports clearly lessen the environmental impacts of the project but DWR declined
+
+12 to adopt it (CEQA § Guidelines § 15088.5 (a)(3.) This information was not included in the Draft EIR
+
+13 when it was circulated for public review and comment.
+
+14 119. "The data in an EIR must not only be sufficient in quantity, it must be presented in a
+
+15 manner calculated to adequately inform the public and decision-makers, who may not be previously
+
+16 familiar with the details of the project. '[I]nformation 'scattered here and there in EIR appendices' or a
+
+17 report 'buried in an appendix,' is not a substitute for 'a good faith reasoned analysis.™ (Vineyard Area
+
+18 Citizens for Responsible Growth, Inc. V. City of Rancho Cordova (2007) 40 Cal.4th 412, 442.) DWR
+19 also added significant information to the EIR requiring recirculation. DWR created a new alternative,
+
+20 "Refined Alternative 2b" (Findings p. 6) because the California Department of Fish and Wildlife
+
+21 "likely would not issue an ITP [Incidental Take Permit under the California Endangered Species Actl
+
+22 for the Proposed Project without changes." (EIR, Introduction, p. 1-1.) Other significant information
+
+23 added by DWR to the EIR requiring recirculation, include twelve "supplemental technical studies to
+
+24 verify the impact analyses of Refined Alternative 2b presented in the FEIR." (EIR, Introduction, p. 1-
+
+25 5, lists the studies that are included in the appendices.) The public never had the opportunity to review
+
+26 and comment upon the actual Project that is new Refined Alternative 2b. The public never had the
+
+27 opportunity to review and comment upon the "*supplemental technical studies."
+
+28
+
+33
+
+120. DWR's failure to revise and recirculate the EIR considering significant new
+
+2 information is not supported by substantial evidence and represents a failure to proceed in the manner
+
+3 required by CEQA.
+
+4 121. The Draft EIR was so fundamentally and basically inadequate and conclusory in nature
+
+5 that meaningful public review and comment were precluded. (CEQA Guidelines § 15088.5(a)(4).)
+
+6 DWR's failure to revise and recirculate the fundamentally inadequate EIR constituted failure to
+
+7 proceed in the manner required by CEQA.
+8 Findings Not Supported by Substantial Evidence
+
+9 122. No substantial evidence supports DWR's Findings that the Project would have no
+10 significant adverse environmental impacts.
+
+11 123. No substantial evidence supports DWR's Findings that recirculation of a revised Draft
+
+12 EIR is not required.
+
+13 124. No substantial evidence supports DWR's Findings that the Project would have no
+14 adverse cumulative impacts.
+
+15 125. No substantial evidence supports DWR's Findings on Alternatives.
+16 126. No substantial evidence supports DWR's Findings as to the Public Trust Doctrine.
+17 Inadequate Responses to Comments
+
+18 127. DWR failed to respond adequately to comments submitted by Petitioners, members of
+19 the public, and other agencies. Instead, the responses given to numerous comments regarding the
+20 Project's biological resources impacts, water quality impacts, water supply impacts, hydrological
+21 impacts, traffic impacts, cumulative impacts, growth inducing impacts, consistency with applicable
+22 plans and policies, public services, recreation, adequacy of mitigation measures, and alternatives are
+23 conclusory, evasive, confusing, or otherwise non-responsive, contrary to the requirements of CEQA.
+24 In addition, DWR failed to provide an adequate rationale for rejecting alternatives in its responses to
+25 comments.
+
+26 128. As a result of the foregoing defects alleged in this cause of action, DWR failed to
+
+27 proceed in the manner required by law and prejudicially abused its discretion by certifying the EIR
+28
+
+34
+
+1 that does not comply with CEQA and by approving the project in reliance thereon. Accordingly,
+
+2 DWR's certification of the EIR and approval of the project must be set aside.
+
+3 THIRD CAUSE OF ACTION
+
+4 (Violation of the California Public Trust Doctrine)
+
+5 129. Petitioners hereby incorporate all of the allegations in the paragraphs above as if fully
+
+6 set forth herein.
+
+7 130. In approving the Project, DWR violated its "duty ... to protect the people's common
+
+8 heritage of streams, lakes, marshlands and tidelands" by "surrendering that right of protection" to
+
+9 advance and favor non-trust interests. (See National Audubon Society v. Superior Court (1983) 33
+
+10 Cal.3d 419, 441.)
+
+11 131. In approving the Project, DWR ignored the "significant limitation on water rights" that
+
+12 is imposed by the Public Trust Doctrine. (See United States v. SWRCB (1986) 182 Cal.App.3d 82,
+
+13 106.) DWR failed to properly consider and protect public trust interests and uses. To the extent that
+
+14 DWR considered trust interests at all, it failed to properly balance these interests against the non-trust
+
+15 interests that the Project solely benefits.
+
+16 132. In approving the Project, DWR ignored the Delta Reform Act requirement that the
+17  constitutional principle of reasonable use "and the public trust doctrine shall be the foundation of state
+
+18 water management policy particularly important and applicable to the Delta." (Water Code § 85023.)
+
+19 133. The words "public trust" or "public trust doctrine" appeared nowhere in the Draft EIR
+
+20 and appear nowhere in the Final EIR with the exception of DWR's after-the-fact responses to
+
+21 comments and Findings. (EIR, Master Response 14, II.1.14.1, pp. II.a.14-1-14-6; Findings pp. 19-24.)
+
+22 DWR performed no analysis or balancing under the public trust doctrine. DWR failed to even prepare
+
+23 or consider a public trust focused no-Tunnel alternative or alternatives that would increase freshwater
+
+24 flows by reducing SWP exports.
+
+25 134. DWR's approval of the Project also violates its public trust duties articulated in
+
+26 California Fish and Game Code section 5937, which requires that "[t]he owner of any dam shall allow
+
+27 sufficient water at all times to pass through a fishway, or in the absence of a fishway, allow sufficient
+
+28
+
+35
+
+water to pass over, around or through the dam, to keep in good condition any fish that may be planted
+2 or exist below the dam."
+
+3 FOURTH CAUSE OF ACTION
+
+4 (Declaratory Relief)
+
+5 135. Petitioners hereby incorporate all of the allegations in the paragraphs above as if fully
+
+6 set forth herein.
+
+7 136. Petitioners contend that the approval of the project and certification of the EIR have
+
+8 been adopted in violation of the Delta Reform Act, CEQA, and the California Public Trust Doctrine.
+
+9 DWR denies these contentions.
+
+10 137. An actual controversy has arisen and now exists between the Petitioners and DWR
+
+11 regarding the respective rights and duties under the Delta Reform Act, CEQA, and the California
+
+12 Public Trust Doctrine.
+
+13 138. Petitioners desire a judicial determination and declaration of the parties' respective
+14 rights and duties pursuant to Code of Civil Procedure section 1060, including a declaration of whether
+15 DWR failed to proceed in the manner required by the Delta Reform Act, CEQA, and the Public Trust
+16 Doctrine when it certified the EIR and approved the project. Such a declaration is necessary and
+
+17 appropriate at this time.
+
+18 PRAYER FOR RELIEF
+
+19 WHEREFORE, Petitioners pray for relief as follows:
+
+20 1. For alternative and peremptory writs of mandate, commanding Respondent DWR to:
+21 a. Vacate and set aside approval of the Project and Findings supporting the approval;
+22 b. Vacate and set aside certification of the EIR and Notice of Determination;
+
+23 C. Suspend any and all activity that can result in an adverse change or alteration to the
+24 physical environment, until Respondent has complied with all requirements of CEQA and all other
+25 applicable state and local laws and regulations as a directed by a this Court pursuant to Public Resources
+26 Code section 21168.9;
+
+27 2. For a stay, temporary restraining order, preliminary injunction, and permanent
+28
+
+36
+
+F injunction prohibiting any actions by Respondent that can result in any adverse change or alteration to
+
+2 the physical environment, pursuant to Respondent's approval of the project and certification of the
+
+3 EIR until Respondent has fully complied with all requirements of the Delta Reform Act, CEQA, and
+
+4 the public trust doctrine, and all other applicable state laws, policies, and regulations;
+
+5 3. For a declaration that the project and certification of the EIR are inconsistent with the
+
+6 Delta Reform Act, CEQA, and the public trust doctrine;
+
+7 4. For costs of suit;
+
+8 5. For attorney's fees pursuant to law including Code of Civil Procedure section 1021.5;
+
+9 and
+
+10 6. For such other and further relief as the Court deems just and proper.
+
+11
+
+12
+
+13
+
+14 DATED: April 29, 2020 E. Robert Wright
+SIERRA CLUB CALIFORNIA 15
+
+16
+
+17 By: e ltet had E. Robert Wright
+18 Attorney for Petitioner/Plaintiffs Sierra Club, Planning and Conservation League, and 19 Restore the Delta
+20
+
+21 DATED: April 29, 2020 John Buse
+CENTER FOR BIOLOGICAL DIVERSITY
+22
+
+23 Go
+24 By:
+John Buse
+25 Ross Middlemiss
+Attorneys for Petitioner/Plaintiff Center for Biological 26 Diversity,
+27
+
+28
+
+37
+
+1 DATED: April 29, 2020 Adam Keats
+
+2 LAW OFFICE OF ADAM KEATS, PC
+
+A By: uskesy
+
+5 Adam Keats
+
+6 Attorney for Petitioners/Plaintiffs Restore the Delta
+and Planning and Conservation League
+
+7
+
+8
+
+9
+
+10
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+38
+
+Verification
+
+I, Adam Keats, am counsel of record for Petitioners Planning and Conservation
+League and Restore the Delta. I am signing this verification due to Petitioners' absence from
+the county of San Francisco, and because facts in the petition are within my knowledge.
+have read the foregoing Petition and Complaint and know the contents thereof. The same is
+true of my own knowledge, except as to those matter that are alleged on information and
+belief, and as to those matters, believe them to be true.
+
+I declare under penalty of perjury under the laws of the State of California that the
+foregoing is true and correct. Executed this 29th day of April, 2020, in San Francisco,
+
+California.
+
+Adam Keats
+
+EXHIBIT A
+
+LAW OFFICE OF ADAM KEATS, PC.
+
+Karla Nemeth, Director
+California Department of Water Resources
+PO Box 942836
+Sacramento, CA 94236-0001
+
+Re: Notice of Intent to File CEQA Petition
+
+Dear Director Nemeth,
+
+Pursuant to Cal. Pub. Resources Code § 21167.5, please take notice that Sierra Club,
+Center for Biological Diversity, Planning and Conservation League, and Restore the Delta
+intend to commence an action in the Superior Court of California for the County of San
+Francisco under the California Environmental Quality Act ("CEQA") against the California Department of Water Resources, concerning the Department's approval of the project known as the Long-Term Operation of the State Water Project. The Department certified the
+Final Environmental Impact Report for the project on March 27, 2020, and filed a Notice of
+Determination with the Office of Planning and Research on March 30, 2020.
+
+This action will allege, among other things, that the Department failed to properly follow the procedures and requirements of CEQA in ways including, but not limited to: failure to adequately identify and analyze significant environmental impacts, failure to provide an accurate, stable, and finite project description, failure to adequately identify and analyze cumulative impacts, failure to analyze a reasonable range of alternatives, unlawful piecemealing, use of an inadequate and improper analytic baseline, inadequate responses to comments, and failure to support the Department's findings with substantial evidence.
+Among other things, the Petition will seek to set aside findings that the project satisfies the requirements of CEQA and to vacate the approval of the project until adequate CEQA review
+is conducted and lawful approvals are obtained.
+If you need any more information, please do not hesitate to contact me.
+
+Sincerely,
+
+Adam Keats
+
+303 Sacramento St., 2nd FL., San Francisco, CA 94111 o 415-430-9403 o adam@keatslaw.org
+
+$1 PROOF OF SERVICE
+2 STATE OF CALIFORNIA, COUNTY OF SAN FRANCISCO.
+I, Adam Keats, declare: I am employed in San Francisco, California. I am over the age of
+
+4 18 and not a party to the foregoing action. My business address is Law Office of Adam Keats,
+
+5 303 Sacramento Street, 2nd Floor, San Francisco, California, 94111. My email is
+
+6 adam@keatslaw.org.
+
+7 On April 28, 2020, I served a true and correct copy of the following document(s);
+
+8 NOTICE OF COMMENCEMENT OF CEQA ACTION
+
+9 on the following party by placing a true and correct copy, enclosed in a sealed envelope
+10 addressed as follows:
+
+11 Karla Nemeth, Director
+12 California Department of Water Resources
+PO Box 942836
+13 Sacramento, CA 94236-0001
+
+14 By enclosing the document in a sealed envelope addressed to the persons at the addresses
+
+15 listed in the Service List and places in an envelope for collection and mailing, following our
+16 ordinary business practice. I am readily familiar with the organization's practice for collecting
+17 and processing correspondence for mailing. Under that practice such envelope would be
+18 deposited with the U.S. Postal Service on the same day with postage thereon fully prepaid, at San
+19 Francisco, California.
+
+20 I declare under penalty of perjury under the laws of the State of California that the
+
+21 foregoing is true and correct.
+
+22 Executed on April 28, 2020, at San Francisco, California.
+
+23
+
+24
+
+25 Adam Keats
+
+26
+
+27
+
+28
+
+EXHIBIT B
+
+43
+
+E. Robert Wright (SBN 51861)
+2 Sierra Club California
+909 12th Street, Suite 202
+3 Sacramento, CA 95814
+Tel: (916) 557-1104
+4 Fax: (916) 557-9669
+
+5 Email: bwrightatty@gmail.com
+
+6 Attorney for Petitioners and Plaintiffs Sierra Club California, Planning and Conservation
+7 League, and Restore the Delta
+
+8 (additional counsel on following pages)
+9
+
+10 THE SUPERIOR COURT OF THE STATE OF CALIFORNIA
+11 IN AND FOR THE COUNTY OF SAN FRANCISCO
+12
+
+13 Sierra Club; Center for Biological Diversity; Case No.:
+14 Planning and Conservation League; and Restore the
+Delta NOTICE OF ELECTION TO PREPARE
+15 ADMINISTRATIVE RECORD
+
+16 Petitioners and Plaintiffs,
+[Pub Res. Code § 21167.6]
+17 VS.
+Action Filed: April 29, 2020
+18 California Department of Water Resources; and
+
+19 DOES 1-20,
+
+20 Respondents and Defendants,
+
+21
+DOES 21-50,
+22
+
+23 Real Parties in Interest.
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Additional counsel:
+
+2 John Buse (SBN 163156)
+Ross Middlemiss (SBN 323737)
+CENTER FOR BIOLOGICAL DIVERSITY
+4 1212 Broadway, Suite 800, Oakland, CA 94612
+Tel: 510-844-7100
+5 Fax: 510-844-7150
+
+6 Email: jbuse@biologicaldiversity.org
+rmiddlemiss@biologicaldiversity.org
+7 Attorneys for Petitioner and Plaintiff Center for Biological Diversity
+
+9 Adam Keats (SBN 191157)
+LAW OFFICE OF ADAM KEATS
+10 303 Sacramento Street, 2nd Floor
+
+11 San Francisco, CA 94111
+el: (415) 430-9403
+12 Email: adam@keatslaw.org
+
+13 Attorney for Petitioners and Plaintiffs Planning and Conservation
+
+14 League and Restore the Delta
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21 22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+•:
+
+TO RESPONDENT DEPARTMENT OF WATER RESOURCES:
+
+2 Petitioners and Plaintiffs Sierra Club, Center for Biological Diversity, Planning and
+
+3 Conservation League, and Restore the Delta elect to prepare the record of proceedings in the above-
+4 captioned proceeding pursuant to Public Resources Code section 21167.6(b)(2).
+
+5
+
+6 DATED: April 29, 2020 John Buse
+7 Ross Middlemiss
+CENTER FOR BIOLOGICAL DIVERSITY
+8
+
+9 By: Gre
+10 John Buse
+Attorney for Petitioners/Plaintiffs Center for Biological
+11 Diversity
+
+12
+
+13 E. Robert Wright
+SIERRA CLUB CALIFORNIA
+14
+
+15 By: é.htet hii
+E. Robert Wright
+16 Attorney for Petitioners/Plaintiffs Sierra Club,
+17 Planning and Conservation League, and Restore the
+Delta
+18
+
+19 Adam Keats
+LAW OFFICE OF ADAM KEATS, PC 20
+
+21 By: Artete
+22 Adam Keats
+Attorney for Petitioners/Plaintiffs Planning and
+23 Conservation League and Restore the Delta
+
+24
+
+25
+
+26
+
+27
+
+28
+
+2
+
+1030
+
+CENTER for BIOLOGICAL DIVERSITY Because life is good.
+
+May 4, 2020
+
+Office of the Attorney General
+Attn: Environmental/CEQA Filing
+1300 Street
+Sacramento, CA 95814-2919
+
+Re: Notice of Commencement of Legal Action Alleging Environmental Harm
+The enclosed Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief in Sierra Club et al. v. California Department of Water Resources was filed in San Francisco County Superior Court (no case number yet available). Notice is being submitted to your office pursuant to Code of Civil Procedure section 388 and Public Resources Code 21167.7. Petitioners in this case challenge California Department of Water Resource's approval of the Long-Term Operation of the State Water Project ("SWP" or "Project"), the Findings, and the March 27, 2020 certification of the Final Environmental Impact Report ("EIR") for the Project, and to revise its Findings to conform to the law.
+Petitioners are specifically concerned that the operation of the Project significantly degrades environmental conditions in the Sacramento River and San Joaquin River watersheds and San Francisco Bay-Delta estuary, including reduced flows, increased salinity levels, worsened water quality, reduced food supply, increased harmful algal blooms, harm to endangered and threatened fish species, and adverse modification of their designated critical habitat.
+Thank you for your attention to this matter.
+
+Sincerely,
+EL- Goa John Buse
+Senior Counsel
+Center for Biological Diversity
+
+Enclosure
+
+Arizona • California • Colorado • Florida • N. Carolina • New York • Oregon • Virginia • Washington, D.C. • La Paz, Mexico
+BiologicalDiversity.org
+John Buse, Senior Attorney •Phone: 323-533-4416 Fax: 415-436-9683 • jbuse@biologicaldiversity.org
+
+DECEIVEN 8 0: 2020
+BY:___________
+DECEIVEN 8 0020
+BY: DEOEOEOOC---O

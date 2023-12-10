@@ -1,0 +1,822 @@
+1 RUTAN & TUCKER, LLP Peter J. Howell (State Bar No. 227636) 2 phowell@rutan.com John A. Ramirez (State Bar No. 184151) 3 jramirez@rutan.com Matthew D. Francois (State Bar No. 181871) 4 mfrancois@rutan.com 18575 Jamboree Road, 9th Floor 5 Irvine, CA 92612
+Telephone: 714-641-5100
+6 Facsimile: 714-546-9035
+
+7 Attorneys for Petitioners and Plaintiffs Old Riverside Foundation, First Congregational Church of 8 Riverside, Mission District Associates, LLC, Historic Mission Inn Corporation, and Gabriel Roth 9
+
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+11 FOR THE COUNTY OF RIVERSIDE
+
+12 HISTORIC COURTHOUSE
+
+13 OLD RIVERSIDE FOUNDATION, a Case No.
+California nonprofit corporation, FIRST 14 CONGREGATIONAL CHURCH OF
+RIVERSIDE, a California nonprofit Assigned for all purposes to:
+15 corporation, MISSION DISTRICT ASSOCIATES, LLC, a Delaware limited 16 liability corporation, HISTORIC MISSION NOTICE TO ATTORNEY GENERAL
+INN CORPORATION, a California 17 corporation, and GABRIEL ROTH, an
+individual, (CEQA, Public Resources Code 21167)
+18
+Petitioners and Plaintiffs, Date Action Filed:
+19 Trial Date:
+VS.
+20
+CITY OF RIVERSIDE, RIVERSIDE CITY 21 COUNCIL, and DOES 1 through 100, inclusive,
+22
+
+23 Respondents and Defendants;
+
+GREENS EHRENBERG, LLC, and ROES 1 24 through 20,
+
+25 Real Party in Interest.
+26
+
+27
+
+28
+
+Rutan & Tucker, LLP
+attorneys at law -1-
+2091/029297-0002
+17291103.1 al2/21/21 NOTICE TO ATTORNEY GENERAL
+
+-
+
+2 TO THE ATTORNEY GENERAL OF THE STATE OF CALIFORNIA:
+
+PLEASE TAKE NOTICE, under Public Resources Code section 21167.7 and Code of
+
+3 Civil Procedure section 388, that on December 21, 2021, Petitioners OLD RIVERSIDE
+4 FOUNDATION, FIRST CONGREGATIONAL CHURCH OF RIVERSIDE, MISSION
+5 DISTRICT ASSOCIATES, LLC, HISTORIC MISSION INN CORPORATION, and GABRIEL
+
+6 ROTH filed a petition for writ of mandate against Respondents CITY OF RIVERSIDE and
+7 RIVERSIDE COUNTY COUNCIL in the Riverside County Superior Court. Petitioner alleges
+8 that CITY OF RIVERSIDE and RIVERSIDE COUNTY COUNCIL violated the California
+9 Environmental Quality Act ("CEQA") (Public Resources Code §§ 21000, et seq.) and CEQA's
+10 implementing Guidelines, as well as other applicable state and local laws.
+11 A copy of the Petition is attached to this notice as Exhibit 1.
+12 Dated: December 21, 2021
+
+13 RUTAN & TUCKER, LLP
+PETER J. HOWELL
+JOHN A. RAMIREZ
+
+14 MATTHEW D. FRANCOIS
+
+15 By:s/ Peter J. Howell
+
+16 Peter J. Howell
+
+17 Attorneys for Petitioners and Plaintiffs Old Riverside Foundation, First
+
+18 Congregational Church of Riverside, Mission District Associates, LLC, Historic
+
+19 Mission Inn Corporation, and Gabriel Roth
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Rutan & Tucker, LLP
+attorneys at law 2091/029297-0002
+17291103.1 a12/21/21 -2-
+NOTICE TO ATTORNEY GENERAL
+
+EXHIBIT "1"
+
+- RUTAN & TUCKER, LLP Peter J. Howell (State Bar No. 227636) 2 Iphowell@rutan.com John A. Ramirez (State Bar No. 184151) 3 jramirez@rutan.com Matthew D. Francois (State Bar No. 181871) 4 mfrancois@rutan.com 18575 Jamboree Road, 9th Floor
+5 Irvine, CA 92612
+Telephone: 714-641-5100
+6 Facsimile: 714-546-9035
+
+7 Attorneys for Petitioners Old Riverside Foundation, First Congregational Church of 8 Riverside, Mission District Associates, LLC, Historic
+Mission Inn Corporation, and Gabriel Roth
+9
+
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+11 FOR THE COUNTY OF RIVERSIDE
+
+12 HISTORIC COURTHOUSE
+
+13 OLD RIVERSIDE FOUNDATION, a Case No.
+California nonprofit corporation, FIRST 14 I CONGREGATIONAL CHURCH OF RIVERSIDE, a California nonprofit Assigned for all purposes to:
+15 corporation, MISSION DISTRICT Judge
+
+ASSOCIATES, LLC, a Delaware limited 16 liability corporation, HISTORIC MISSION VERIFIED PETITION FOR WRIT OF
+
+INN CORPORATION, a California MANDATE AND COMPLAINT FOR
+
+17 corporation, and GABRIEL ROTH, an DECLARATORY RELIEF
+
+individual, (CEQA, Public Resources Code § 21167) 18
+Petitioners and Plaintiffs,
+19
+VS.
+20
+CITY OF RIVERSIDE, RIVERSIDE CITY
+21 COUNCIL , and DOES 1 through 100, 1 inclusive, Date Action Filed:
+22 Trial Date:
+
+23 Respondents and Defendants;
+
+24 GREENS EHRENBERG, LLC, and ROES 1
+through 20,
+
+25 Real Party in Interest.
+
+26
+
+27
+
+28
+
+Rutan Tucker, LLP
+attorneys at law -1- 2091/029297-0002
+17221626.3 a12/21/21 PETITION FOR WRIT OF MANDATE
+
+p Petitioners and Plaintiffs OLD RIVERSIDE FOUNDATION, FIRST
+2 CONGREGATIONAL CHURCH OF RIVERSIDE, MISSION DISTRICT ASSOCIATES, LLC,
+
+3 HISTORIC MISSION INN CORPORATION, AND GABRIEL ROTH (referred to herein
+
+4 individually as "Petitioner," and collectively as "Petitioners"), respectfully petition this Court for
+5 issuance of a writ of mandate pursuant to Code of Civil Procedure ("CCP") section 1094.5 and
+6 Public Resources Code ("PRC") section 21168, or in the alternative pursuant to CCP § 1085 and
+
+7 PRC § 21168.5, and complain for a declaration of their rights pursuant to CCP §§ 526 and 1060,
+8 directed at Respondents and Defendants CITY OF RIVERSIDE ("City") and RIVERSIDE CITY
+9 COUNCIL ("City Council") (referred to herein individually as "Respondent," and collectively
+10 with City and Does 1-100 as "Respondents"), and Real Party in Interest GREENS EHRENBERG,
+11 LLC, (referred to herein, collectively with Roes 1-20, as "Real Party"), as follows:
+
+12 INTRODUCTION
+
+13 1. This action challenges the November 16, 2021 decision of the City and City
+14 Council to approve an oversized hotel project (*Project")in the midst of two overlapping
+15 designated historic districts and on a site partially occupied by designated historical resource
+16 without complying with the California Environmental Quality Act ("CEQA") and in violation of
+
+17 the State Planning and Zoning Law, as well as the City's own Municipal Code.
+
+18 2. By improperly asserting that the Project was exempt from CEQA, Respondents
+19 shirked their responsibility to conduct a proper environmental review of the Project, and avoided
+20 having to disclose the Project's significant environmental impacts, including, but not limited to,
+21 impacts to designated historical resources.
+
+22 3. Respondents further unlawfully allowed the Project to substantially deviate from
+23 the setback and parking standards applicable in the neighborhood of the Raincross District in
+24 which the Project is located.
+
+25 4. The challenged Project involves the following determinations, decisions, and
+26 approvals that were upheld and/or issued by Respondents on or about November 16, 2021 (the
+27 "Approvals"): Planning Case Nos. P19-0563 (Certificate of Appropriateness), P19-0560
+28 (Conditional Use Permit), P19-0561 (Variance), and P19-0562 (Variance). On the same date,
+
+Rutan & Tucker, LLP
+-2- attorneys at law 2091/029297-0002
+17221626.3 a12/21/21 PETITION FOR WRIT OF MANDATE
+
+- Respondents improperly determined that the Project was exempt from the requirements of CEQA.
+
+2 5. As set forth below, the actions of Respondents were unlawful for numerous
+3 reasons, including but not limited to Respondents' failure to comply with CEQA (Public
+
+4 Resources Code sections 21000 et seq.), the California Government Code, and the City's own
+5 General Plan and Municipal Code.
+
+6 PARTIES
+
+7 6. Petitioner Old Riverside Foundation (*ORF") is a California nonprofit corporation,
+8 incorporated in 1979, and is dedicated to the recognition, appreciation, and preservation of the
+9 built environment throughout Riverside and the Inland Empire. Indeed, the Historic Preservation
+10 Element of the City's own General Plan notes ORF's leading role in preserving historical
+11 resources within the City. (General Plan, p. HP-3.)
+
+12 7. Petitioner The First Congregational Church of Riverside (the "Church") is a
+13 California nonprofit corporation. The Church is located in a 1913 building that has been
+14 recognized as the first Spanish Baroque Revival style building in the United States, and is listed on
+15  the National Register of Historic Places. Among the Church's character-defining features is a
+16 113-foot tall Churrigueresque style bell tower, which, as described in its National Register listing,
+17 serves as a "highly visible .  . urban 'anchor,' signaling the entrance into Riverside's downtown
+18 via the Seventh Street/Mission Inn Avenue corridor."
+
+19 8. Petitioner Mission District Associates, LLC, a Delaware limited liability company,
+20 is a sister company to the Historic Mission Inn Corporation (discussed below) and owns property
+
+21 within the Mission Inn Historic District.
+
+22 9. Petitioner Historic Mission Inn Corporation, dba the Mission Inn Hotel & Spa, a
+23 California corporation, (collectively, with Petitioner Mission District Associates, LLC, "Mission
+24 Inn"), owns and operates the Mission Inn Hotel & Spa, which has operated in downtown Riverside
+25 since 1876. The Mission Inn, designated by the City as City Landmark #1, is a National Historic
+26 Landmark and anchors the City's Mission Inn Historic District, which bears its name and contains
+27 the City's most important historic buildings. The Mission Inn thus has particular interest in the
+28 responsible redevelopment of the historic downtown area and the preservation of other historic
+
+Rutan & Tucker, LLP
+attorneys at law -3-
+2091/029297-0002
+17221626.3 a12/21/21 PETITION FOR WRIT OF MANDATE
+
+1 buildings in the area.
+
+2 10. Petitioner Gabriel Roth, an individual, is a is a lifelong resident of the City and the
+
+3 owner of a business located in the historic former Young Men's Christian Association Building
+
+4 ("YMCA Building"), a designated City Landmark that was built in 1909 and is located
+5 immediately adjacent to the Project site.
+
+6 11. Each of the Petitioners exhausted all available administrative remedies by timely
+7 objecting orally and/or in writing to Respondents' approval of the Project.
+
+8 12. Respondent City is, and at all times mentioned herein was, a California charter city
+9 and municipal corporation organized and existing under the laws of the State of California. The
+10 City has a mandatory duty to comply with the California Constitution and state-law requirements,
+
+11 including CEQA, the CEQA Guidelines, and California zoning laws, when considering
+12 discretionary activities and land use regulatory actions such as the Approvals.
+
+13 13. Respondent City Council is the elected decision-making body of the City that
+14 issued the challenged Approvals for the Project.
+
+15 14. Petitioners are ignorant of the true names and capacities of those sued herein as
+16 DOES 1 through 100, inclusive, and therefore sue those respondents/defendants by such fictitious
+17 names. Petitioners will amend this Petition to allege the true names and capacities of these
+18 fictitiously named respondents/defendants when they have been ascertained. Petitioners designate
+19 all other unknown persons or entities claiming any interests in the subject of this litigation as DOE
+20 respondents/defendants.
+
+21 15. Real Party Greens Ehrenberg, LLC is identified in the City's documents, including
+22 the Notice of Exemption filed by the City, as the "Project Applicant." Petitioners are informed
+23 and believe, and thereon allege, that Real Party is, and at all times mentioned herein was, an
+24 Arizona limited liability conducting business in the State of California, including the City.
+25 Petitioners are informed and believe that Greens Ehrenberg is the owner of the Site (having
+26 it purchased it from the City) and is the recipient or intended beneficiary of the Approvals.
+
+27 16. Petitioners are ignorant of the true names and capacities of those sued herein as
+28 ROES 1 through 20, inclusive, and therefore sue those real parties in interest by such fictitious
+
+Rutan & Tucker, LLP
+attorneys at lew -4-
+2091/029297-0002
+17221626.3 al2/21/21 PETITION FOR WRIT OF MANDATE
+
+P names. Petitioners will amend this Petition to allege the true names and capacities of these
+2 fictitiously named real parties in interest when they have been ascertained. Petitioners designate
+3 all other unknown persons or entities claiming any interests in the subject of this litigation as ROE
+
+4 real parties in interest.
+
+5 JURISDICTION AND VENUE
+
+6 17. This Court has jurisdiction over this proceeding pursuant to CCP sections 1085,
+7 1094.5, and 1060, and CEQA, including but not limited to PRC sections 21168 and 21168.5.
+
+8 18. Venue in this Court is proper pursuant to CCP section 394, in that Respondents are
+
+9 located within the County of Riverside.
+
+10 FACTUAL BACKGROUND
+
+11 19. The historic Central Fire Station ("Historic Station"), also known as First Station
+12 No. 1, was constructed in 1957, and has been listed in the California Register of Historical
+13 Resources since 2008. The City discontinued use of the Historic Station in 2012, when a new
+14 station was built nearby. Nonetheless, the Historic Station retains most or all of the character-
+15 defining features that were the basis for its listing.
+
+16 20. In 2017, the City issued a Request for Qualifications ("RFQ") seeking proposals for
+17 the development of the 0.94 site that includes the Historic Station ("Site"), which was then owned
+
+18 by the City. The RFQ specifically sought proposals for "the collective and concurrent: 1) adaptive
+19 reuse of the currently vacant Historic Fire Station No. 1 ... and 2) development of an upscale
+
+20 I hotel...."
+
+21 21. Importantly, the Site is located within two overlapping designated historic districts
+22 (the Mission Inn Historic District and the Seventh Street Historic District). There are numerous
+23 significant historical resources within the immediate vicinity of the Site, including the Mission
+24 Inn, the Church, the YMCA Building, the Universalist-Unitarian Church, the Riverside Municipal
+25 Auditorium, the Old YWCA Building, and the Riverside Arlington Heights Fruit Exchange,
+26 among others.
+
+27 22. The City received at least four proposals in response to the RFQ. The proposal that
+28 was selected, from Real Party, contemplated the development of a 161-room hotel that would
+
+Rutan & Tucker, LLP
+-5- attorneys at law 2091/029297-0002
+17221626.3 a12/21/21 PETITION FOR WRIT OF MANDATE
+
+- utilize the Historic Station as the hotel lobby. On or about May 8, 2018, the City Council
+2 approved a Purchase and Sale Agreement with Real Party for the disposition and development of
+3 the Site, consistent with Real Party's proposal.
+
+4 23.
+
+5 Thereafter, Real Party submitted applications for the Project. Rather than proceed
+with the project that Real Party proposed, and the City selected, during the RFQ process, Real
+6 Party instead proposed to develop a dual-branded 226-room hotel on the Site. In addition to being
+7 much larger than the original project, the new Project no longer incorporated the Historic Station
+8 into the hotel development, but instead proposed eventually converting the Historic Station into
+
+9 office and storage space.
+
+10 24.
+
+11 In order to fit the larger hotel onto the Site, the Project application included
+request for two variances to allow significant deviations from the City's development standards:
+12 (1) a variance to reduce the required 15-foot setback on Mission Inn Avenue to only 1-foot; and
+13 (2) a variance to allow the Project to provide only 144 parking spaces, instead of the 226 spaces
+14 required by City Code.
+
+15 25. On or about April 15, 2021, the City's Planning Commission met to consider the
+16 requested variances, as well as a Conditional Use Permit ("CUP") to permit : total floor-area-ratio
+17 ("FAR") of 3.73 (rather than the 3.0 FAR otherwise allowed by Code) and building height of 93
+18 feet, 4 inches (far greater than 60 feet otherwise allowed by Code). Notwithstanding significant
+19 opposition to the Project, the Planning Commission voted to approve the variances and CUP. That
+20 decision was timely appealed to the City Council.
+
+21 26. Pursuant to Chapter 20.25 of the City's Municipal Code, a Certificate of
+22 Appropriateness is required before any person alters any designated Cultural Resource. On or
+23 about April 21, 2021, the City's Cultural Heritage Board met to consider a Certificate of
+24 Appropriateness for the Project, and declined to approve the certificate. Real Party appealed that
+25 decision to the City Council.
+
+26 27. Both the appeal of the Planning Commission decision and the appeal of the
+27 Cultural Heritage Board were originally scheduled to be heard by the City Council on August 17,
+28 2021. In the face of widespread opposition to the Project, however, the hearing was ultimately
+
+Rutan & Tucker, LLP
+attorneys at law 2091/029297-0002
+17221626.3 a12/21/21 -6-
+PETITION FOR WRIT OF MANDATE
+
+1 continued to November 16, 2021. In advance of the City Council hearing on the Project,
+2 Petitioners and other parties submitted extensive comment letters, detailing significant legal flaws
+
+3 in the manner in which the Project was processed.
+
+4 28. For example, the Church submitted a letter dated July 9, 2021, in which it warned
+
+5 that the Project would adversely impact the Church, as well as "other surrounding National
+
+6 Register and City Landmark resources and the Mission in Historic District as a whole due to its
+7 excessive height, massing and lack of setbacks." Along with its letter, the Church submitted a
+
+8 report a from a historic preservation expert who opined that the Project would not meet the
+9 Secretary of the Interior's Standards for the Treatment of Historic Properties, and thus, could not
+10 rely on a Class 31 or Class 32 CEQA exemption.
+
+11 29. Similarly, the Mission Inn submitted letters dated August 16, 2021 and November
+12 15, 2021, in which it pointed out numerous flaws in the City's process and urged the City to
+13 conduct appropriate CEQA review of the Project. Those letters were also supported by expert
+14 opinions that concluded, among other things, that the Project would have significant adverse
+15 impacts to, among other things, historical resources.
+
+16 30. ORF submitted a letter dated November 14, 2021, in which it opposed the Project
+17 as inconsistent with its surroundings, and specifically objected to the variances granted to the
+18 Project, as well as the lack of CEQA review. Many other organizations and members of the public
+19 expressed similar concerns, both prior to and during the City Council meeting.
+
+20 31. Unfortunately, the City's response to numerous members of the public pointing out
+21 significant legal flaws in the manner in which the Project was processed was to attempt to paper
+22 over such flaws, by inserting additional and contradictory justifications for its actions into the
+23 record. For example, while the City's original variance justification was relatively forthright in
+24 explaining the variances were needed to allow Real Party to build a bigger Project than permitted
+25 under the Site's zoning, references to such justifications were taken out after Petitioners and others
+26 noted it was improper to grant a variance based on economic considerations.
+
+27 32. Notwithstanding the numerous objections raised in opposition to the Project, the
+28 City Council ultimately voted 5-2 to approve the Project. In doing so, the City Council
+
+Rutan & Tucker, LLP
+attorneys at law -7-
+2091/029297-0002
+17221626.3 a12/21/21 PETITION FOR WRIT OF MANDATE
+
+erroneously determined that the Project was categorically exempt from CEQA under the Class 31
+2 and Class 32 exemptions.
+
+3 33. The City filed a Notice of Exemption related to its approval of the Project on
+
+4 November 18, 2021.
+
+5 FIRST CAUSE OF ACTION
+
+6 (Petition for Writ of Mandate for Violations of CEQA)
+
+7 34. Petitioners hereby incorporate the allegations of the foregoing paragraphs as though
+
+8 set forth in full herein by this reference.
+
+9 35. Pursuant to CEQA, before a public agency approves any discretionary project, the
+10 agency must first identify, assess and publicly disclose the project's potential environmental
+11 effects. An agency may not approve a project that has the potential to have significant
+12 environmental impacts if there are feasible alternatives or mitigation measures that would avoid or
+13 substantially lessen the adverse environmental impacts.
+
+14 36. Rather than comply with CEQA, the City erroneously purported to rely on the
+15 Class 32 categorical exemption applicable to certain infill development projects ('Infill
+16 Exemption"). On its face, however, the Infill Exemption only applies to projects that are, among
+17 other things, consistent with all "applicable general plan designations and policies and applicable
+18 zoning designations and regulations." (14 C.C.R. § 15132.) Thus, as a matter of law, the Infill
+19 Exemption cannot be applied to a project-like the Project-that requires a discretionary variance
+20 from zoning standards.
+
+21 37. In addition to the setback and parking deficiencies conceded by Respondents, and
+22 as discussed further below, the Project is also inconsistent with numerous policies set forth in the
+
+23 City's General Plan and the Downtown Specific Plan ("Specific Plan"), including many policies
+24 designed to ensure that new development within historic districts is compatible with its
+25 surroundings. Reliance on the Infill Exemption was improper for this reason, as well.
+26 38. Furthermore, CEQA expressly provides that a categorical exemption may not be
+27 applied to "[a] project that may cause a substantial adverse change in the significance of a
+28 historical resource." (PRC § 21084(e).) Multiple historic preservation experts opined that the
+
+Rutan Tucker, LLP
+attorneys at law -8-
+2091/029297-0002
+17221626.3 al2/21/21 PETITION FOR WRIT OF MANDATE
+
+1 Project will have significant adverse impacts on both the Historic Station and other historical
+2 resources surrounding the Site, which, as noted above, is located within two overlapping
+3 designated historic districts. The City's reliance on categorical exemptions in the face of such
+
+4 evidence was unlawful.
+
+5 39. To the extent the City purported to rely on the Class 31 categorical exemption,
+6 which applies to "projects limited to maintenance, repair, stabilization, restoration, preservation,
+7 conservation or reconstruction of historical resources in a manner consistent with the Secretary of
+8 the Interior's Standards for the Treatment of Historic Properties," such reliance was improper. As
+9 explained by multiple historic preservation experts, the Project fails to meet the Secretary's
+10 standards, and thus, does not qualify for such exemption. Further, the Class 31 exemption clearly
+11 has no application to the portion of the Project that does not involve the Historic Station.
+
+12 40. In doing the things herein alleged, Respondents failed to comply with their
+13 mandatory duties under CEQA in several substantial and prejudicial respects, including without
+14  limitation, the following:
+
+15 41. The City erroneously relied on inapplicable CEQA exemptions, and as a result
+16 failed to consider, disclose, or mitigate the Project's significant environmental impacts, as required
+17 by CEQA. Had appropriate review been conducted, it would have revealed that the Project will
+18 have significant adverse impacts that the City failed to disclose or mitigate prior to approving the
+19 Project. As discussed in the expert analyses provided to the City in advance of its approval of the
+20 Project, such significant adverse impacts include, but are not limited to, impacts to historical
+21 resources, as well as aesthetics, parking, traffic, and noise/vibration impacts.
+
+22 42. The City failed to provide substantial evidence in the public record prior to its
+23 decision to exempt the Project from CEQA review sufficient to support such decision.
+24 43. The City erroneously failed to publicly consider or provide evidence in the public
+25 record addressing the CEQA Guideline section 15300.2 exception or other exceptions to the City's
+26 proposed reliance upon categorical exemptions. The facts that: (1) the Site includes a historical
+27 resource and (2) the Site is surrounded by other historical resources constitute unusual
+28 circumstances that may result in significant effects on the environment. Thus, Respondents would
+
+Rutan & Tucker, LLP
+attorneys at law -9-
+2091/029297-0002
+17221626.3 a12/21/21 •PETITION FOR WRIT OF MANDATE
+
+1 have been precluded from relying on a categorical exemption, even if the Project otherwise
+2 qualified for one.
+
+3 44. The City failed to make required findings when approving the Project and/or any
+4 findings made by the City were not supported by substantial evidence in light of the whole record.
+
+5 45. The City failed to consider feasible alternatives to the Project, or to consider
+6 feasible mitigation measures for the Project's environmental impacts.
+
+46. The City's actions in approving the Project were not in compliance with procedures
+
+8 required by law, were not supported by substantial evidence in the public record, were not
+9 reflected in legally adequate findings, and were arbitrary, capricious, and reflected a prejudicial
+10 abuse of discretion.
+
+11 47. Petitioners have no plain, adequate and speedy remedy at law to redress the wrongs
+
+12 described in this Petition.
+
+13 48. Petitioners have performed any and all conditions precedent to filing this action and
+14 has exhausted any and all available administrative remedies to the extent required by law by, inter
+15 alia, submitting written and oral comments objecting to the Project, the Approvals and the failure
+16 to comply with CEQA.
+
+17 49. Pursuant to PRC section 21167.5, Petitioners have provided written notice of the
+18 commencement of this action to Respondents.
+
+19 50. Pursuant to PRC section 21167.7, and CCP section 388, Petitioners have or will
+20 | provide written notice of this action, including a copy of this Petition, to the State Attorney
+21 General.
+
+22 51. Petitioners bring this action pursuant to PRC section 21168 and CCP
+23 section 1094.5 (or, alternatively, under PRC section 21168.5 and CCP section 1085), which
+24 require that an agency's approval of a project be set aside if the agency has prejudicially abused its
+25 discretion. Prejudicial abuse of discretion occurs where the City has failed to proceed in the
+26 manner required by law, the decision is not supported by the findings, or the findings are not
+27 supported by the evidence.
+
+28 52. Pursuant to CCP section 1094.5 (or 1085), a writ of mandate should issue: directing
+
+Rutan & Tucker, LLP
+attorneys at law 2091/029297-0002 -10-
+
+17221626.3 al2/21/21 PETITION FOR WRIT OF MANDATE
+
+- Respondents to rescind their approvals of the Project, including the Approvals and Respondents'
+2 determination that the Project is exempt from CEQA review; invalidating any and all purported
+
+3 approvals or permits based on such inadequate CEQA review; and prohibiting Respondents from
+4 taking any subsequent action to approve the Project, as well as restraining the Real Parties and
+5 their agents from taking any action to develop the Site, unless and until Respondents have
+6 complied with CEQA.
+
+7 SECOND CAUSE OF ACTION
+
+8 (Petition for Writ of Mandate for Violation of the State Planning and Zoning Law,
+9 Downtown Specific Plan and City's Zoning Code)
+10 53. Petitioners hereby incorporate the allegations of the foregoing paragraphs as though
+
+11 set forth in full herein by this reference.
+
+12 54. As indicated above, the Project approvals included two variances to allow the
+13 Project to deviate from the development standards set forth in the Specific Plan: (1) a variance to
+14 reduce the required 15-foot setback on Mission Inn Avenue to only 1-foot; and (2) a variance to
+15 provide only 144 parking spaces, instead of the 226 spaces required by City Code.
+
+16 55. Pursuant to state law, such variances may be "granted only when, because of
+17 special circumstances applicable to the property, including size, shape, topography, location or
+18 surroundings, the strict application of the zoning ordinance deprives such property of privileges
+19 enjoyed by other property in the vicinity and under identical zoning classification." (Gov. Code cop
+20 65906.)
+
+21 56. The City's Zoning Code similarly provides that a variance may be granted only if,
+22 among other requirements, "[t]here are special circumstances or conditions inapplicable to the
+23 property involved . that do not apply generally to other property in the vicinity and under the
+24 identical zoning classification." (Riverside City Code § 19.720.040.) "Financial hardship does
+25 not represent grounds on which to file a variance application." (Riverside City Code §
+26 19.720.020.)
+
+27 57. In order to approve the variances requested for the Project, Respondents were thus
+28 required to make the findings required by State Law and the City's Code. Further, such findings
+
+Rutan & Tucker, LLP
+attorneys at law -11- 2091/029297-0002
+17221626.3 a12/21/21 PETITION FOR WRIT OF MANDATE
+
+between the - were required to be supported by substantial evidence and to "bridge the analytic gap
+2 raw evidence and ultimate decision." (Topanga Assn. for a Scenic Community v. County of Los
+3 Angeles (1974) 11 Cal.3d 506, 515.)
+
+4 58. In approving the Project, including the variances and CUP, Respondents failed to
+5 make adequate findings to comply with State and local law, and such findings that were made
+6 were not supported by substantial evidence. To the contrary, the record demonstrates that the
+
+7 Project cannot qualify for the requested variances. As such, Respondents prejudicially abused
+8 their discretion in approving the Project.
+
+9 59. In addition, state law requires that the Project be consistent with the City's General
+10 Plan and the Specific Plan. (Gov. Code §§ 65454, 65455, 65860, 65803.) In order to be deemed
+11 "consistent," a project must be "compatible with the objectives, policies, general land uses, and
+12 I programs specified in the General Plan" and any applicable specific plan. (Napa Citizens for
+13 Honest Government v. Napa County Board of Supervisors (2001) 91 Cal.App.4th 342, 378-79.)
+
+14 60. The Project is fundamentally inconsistent with multiple objectives and policies
+15 embodied in the City's General Plan, including, but not limited to: Objective LU-48 and related
+16 policies requiring new structures to be "architecturally compatible with and complementary to the
+17 existing architectural and historic fabric"; Objective CCM-13, requiring adequate off-site parking;
+18 Objective HP-1 and related policies requiring the use of "historic preservation principles as an
+19 equal component in the planning and development process"; Objective HP-4 and related policies
+20 requiring the integration of "consideration of cultural resources as a major aspect of the City's
+21 planning, permitting and development activities"; Objective HP-5, requiring "compatibility
+22 between new development and existing cultural resources"; and Objective HP-7 and related
+23 policies encouraging stewardship of the City's cultural resources. The Project is similarly
+24 inconsistent with numerous goals and policies set forth in the Specific Plan, including, but not
+25 limited to, Goals UD-1 and HP-1 and Policies LU-1.1, LU-5, LU-6, LU-10, LU-11, LU-12, UD-1-
+26 1, UD-1.6, and HP-1.4.
+
+27 61. By approving a Project that is inconsistent with the City's General Plan and the
+28 Specific Plan, Respondents failed to proceed in the manner required by law and committed a
+
+Rutan & Tucker, LLP
+-12- attorneys at law 2091/029297-0002
+17221626.3 a12/21/21 PETITION FOR WRIT OF MANDATE
+
+1 prejudicial abuse of discretion.
+
+2 62. Pursuant to CCP section 1094.5, a writ of mandate should issue directing
+3 Respondents to rescind the Approvals, and prohibiting Respondents from approving any project
+that is inconsistent with the City's General Plan, the Specific Plan, and/or the City's Zoning Code,
+5 and restraining and enjoining the respondents and real parties from taking any action to implement
+6 the challenged Approvals or to make any physical change in the Site.
+
+7 THIRD CAUSE OF ACTION
+
+8 (Declaratory Relief)
+9 63. Petitioners hereby incorporate the allegations of the foregoing paragraphs as though
+10 set forth in full herein by this reference.
+
+11 64. An actual controversy exists between Petitioners and Respondents and Real Party
+12| involving substantial questions regarding Respondents' approval of the Project. Petitioners
+13 maintain that Respondents' approval of the Project violates state law, including CEQA and the
+14 State Planning and Zoning Law, as well as the City's own Municipal Code, Specific Plan, and
+15 General Plan, as described above. Petitioners are informed and believe and thereon allege that
+16 Respondents and Real Party maintain the contrary. Accordingly, declaratory relief is appropriate
+17 and necessary to determine Respondents' authority to approve the Project.
+
+18 65. To remedy Respondents' violations of law, as described above, Petitioners seek a
+19 declaration that Respondents' approval of the Project was invalid and contrary to law, including
+20 but not limited to the City's own Municipal Code, Specific Plan, General Plan, CEQA, and the
+
+21 State Planning and Zoning Law. Such a declaration is a necessary and proper exercise of the
+22 Court's power to prevent future actions by Respondents' in violation of the law.
+
+23 PRAYER FOR RELIEF
+
+24 WHEREFORE, Petitioners respectfully pray for judgment as follows:
+
+25 1. For a Writ of Mandate:
+
+26 a. Directing Respondents, and each of them, to rescind and set aside the
+27 determination that the proposed Project is exempt from CEQA review, and to rescind and set aside
+28 the Approvals;
+
+Rutan & Tucker, LLP
+attorneys at law -13- 2091/029297-0002
+17221626.3 a12/21/21 PETITION FOR WRIT OF MANDATE
+
+b. Commanding Respondents and Real Party to refrain from taking any further
+
+2 actions in furtherance or implementation of the Project, including but not limited to (i) the
+3 issuance or approval of any site plans, grading permits, or building permits, and (ii) any
+4 construction in furtherance of any development associated with the Project; and
+
+5 C. Commanding Respondents to prepare an environmental impact report and
+6 circulate it for public review and comment, consistent with the requirements of CEQA, and to
+7 comply with all other requirements of CEQA, prior to taking any subsequent action to approve the
+8 Project;
+
+2. For the declaratory relief requested above;
+
+10 3. For a temporary restraining order and/or preliminary injunction ordering the
+11 Respondents and Real Party refrain from proceeding with the Project while this action is pending;
+
+12 4. For a permanent injunction ordering Respondents and Real Party to refrain from
+13 proceeding with the Project pending Respondents' full compliance with the procedural mandates
+14 of the law;
+
+15 5. For an award of attorney's fees litigation expenses, and costs as permitted or
+16 required by law, including but not limited to CCP section 1021.5, Government Code section 800,
+17 and other statutory and common law; and
+
+18 6. For such other relief as the Court deems just and proper.
+19 Dated: December 21, 2021 RUTAN & TUCKER, LLP
+MATTHEW D. FRANCOIS
+20 JOHN A. RAMIREZ
+PETER J. HOWELL
+21
+
+22 By: s/ Peter J. Howell
+23 Peter J. Howell
+Attorneys for Petitioners and Plaintiffs
+24 Old Riverside Foundation, First
+Congregational Church of Riverside,
+25 Mission District Associates, LLC, Historic Mission Inn Corporation, and Gabriel Roth
+26
+
+27
+
+28
+
+Rutan & Tucker, LLP
+attorneys at law -14- 2091/029297-0002
+17221626.3 al2/21/21 PETITION FOR WRIT OF MANDATE
+
+1 VERIFICATION
+
+2
+
+3 STATE OF CALIFORNIA, COUNTY OF RIVERSIDE
+
+4 I have read the foregoing Verified Petition For Writ Of Mandate And Complaint For
+5 Declaratory Relief and know its contents.
+
+6 I am an officer of OLD RIVERSIDE FOUNDATION, a party to this action, and am
+7 authorized to make this verification for and on its behalf, and I make this verification for that
+8 reason. I am informed and believe and on that ground allege that the matters stated in the
+foregoing document are true.
+
+10 Executed on December 20, 2021, at Riverside, California.
+
+11 I declare under penalty of perjury under the laws of the State of California that the
+12 foregoing is true and correct.
+
+13
+
+14 OLD RIVERSIDE FOUNDATION
+
+15 By: DA
+16 David C. Stolte, President
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Rutan & Tucker, LLP
+attorneys et law -15- 2091/029297-0002
+17221626.3 a12/20/21 PETITION FOR WRIT OF MANDATE
+
+1 PROOF OF SERVICE
+
+2 (Old Riverside Foundation v City of Riverside, et al., Riverside County Superior Court Case No.)
+3 STATE OF CALIFORNIA, COUNTY OF ORANGE
+
+4
+am employed by the law office of Rutan & Tucker, LLP in the County of Orange, State 5 of California. am over the age of 18 and not a party to the within action. My business address is 18575 Jamboree Road, 9th Floor, Irvine, CA 92612.
+6
+On December 21, 2021, I served on the interested parties in said action the within:
+7
+NOTICE TO ATTORNEY GENERAL
+8
+as stated below:
+9
+
+10 California Attorney General Office of the Attorney General
+300 South Spring Street
+11 Los Angeles, CA 90013-1230
+
+12 X
+13 (BY MAIL) by placing a true copy thereof in sealed envelope(s) addressed as shown above.
+
+14 In the course of my employment with Rutan & Tucker, LLP, I have, through first-hand personal observation, become readily familiar with Rutan & Tucker, LLP's practice of collection 15 and processing correspondence for mailing with the United States Postal Service. Under that I practice, I deposited such envelope(s) in an out-box for collection by other personnel of Rutan & 16 Tucker, LLP, and for ultimate posting and placement with the U.S. Postal Service on that same day in the ordinary course of business. If the customary business practices of Rutan & Tucker, 17 LLP with regard to collection and processing of correspondence and mailing were followed, and am confident that they were, such envelope(s) were posted and placed in the United States mail at 18 Irvine, California, that same date. I am aware that on motion of party served, service is presumed invalid if postal cancellation date or postage meter date is more than one day after date of deposit 19 for mailing in affidavit.
+
+20 Executed on December 21, 2021, at Irvine, California.
+
+21 I declare under penalty of perjury under the laws of the State of California that the
+
+22 foregoing is true and correct.
+
+23 Karen F. Wilson s/ Karen F. Wilson
+
+24 (Type or print name) (Signature)
+
+25
+
+26
+
+27
+
+28
+
+2251/029297-0002
+17296840.1 a12/20/21
+
+bhbPnhirh
+NVINd RUTAN & TUCKER, LLI To÷ California Attorney General
+
+102008t 5 g Office of the Attorney General Rutan Tucker eui] 18675 lambocs A 92612 Roadh
+
+3AZOENTZIZO Angeles South Spring Street
+
+J001H 416 8
+
+US POSTACE $001.769 A
+
+ZIP 02626 90013-123
+
+041L11251076 IRST-CLASS MAIL

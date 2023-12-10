@@ -1,0 +1,2799 @@
+|LAW OFFICES OF ABIGAIL SMITH
+
+2 ABIGAIL A. SMITH SBN 228087 1455 Frazee Road, Suite 500 San Diego, CA 92108 3 Telephone: (951) 506-9925 Facsimile: (951) 506-9725 4 Email: abby@socalceqa.com
+Attorney for Petitioner, Rural Association of Mead Valley
+
+6
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+9 COUNTY OF RIVERSIDE
+10
+
+11 RURAL ASSOCIATION OF MEAD 12 VALLEY, CASE NO.: RIC 1815176
+Assigned to: Hon. Randall Stamen
+13 Petitioner, Dept. 07
+
+14 V.
+
+15 COUNTY OF RIVERSIDE, NOTICE TO ATTORNEY GENERAL
+16 Respondent OF FIRST AMENDED VERIFIED
+PETITION FOR WRIT OF MANDATE
+17 TRAMMELL CROW SO. CAL. (CEQA)
+18| DEVELOPMENT, INC.; and DOES 1 through 100, inclusive,
+19 Real Parties in Interest. (Pub. Res. C. § 21167.7)
+
+20 CASE DESIGNATION: CEQA
+21
+
+22
+
+23 TO THE ATTORNEY GENERAL OF THE STATE OF CALIFORNIA:
+24 PLEASE TAKE NOTICE, pursuant to Public Resources Code Section 21167.7, that on
+25 January 25, 2019, Petitioner, RURAL ASSOCIATION OF MEAD VALLEY, filed a First
+26 Amended Verified Petition for Peremptory Writ of Mandate pursuant to the California
+27 Environmental Quality Act (CEQA) challenging the approval by the COUNTY OF
+28 Notice to Attorney General
+
+1 RIVERSIDE of the Knox Business Park Buildings D and E Project, which proposes the
+2 construction and operation of two large warehouse distribution centers on approximately 59
+3 acres of vacant land in the rural community of Mead Valley.
+
+4 The Project will comprise two buildings totaling 1,113,627 square feet as well as related
+5 improvements and infrastructure. The buildings are anticipated to operate as high cube
+6 warehouse logistics centers, meaning that trucks traveling from distant locations such as the
+
+7 Ports of Long Beach and Los Angeles will bring cargo to the warehouse buildings for storage
+
+8 and sorting for transport on other trucks to destinations in and outside California. The EIR
+
+9 anticipates the Project will generate approximately 2,115 total daily vehicle trips including 806
+
+10 daily diesel truck trips. Existing rural residences are located within approximately 70 feet of
+
+11 the Project site and truck activity.
+
+12 The Petition alleges that the County failed to comply with CEQA in certifying an
+
+13 Environmental Impact Report ("EIR") for the Project. Among other deficiencies, the EIR
+
+14 wrongly assumes that no trucks or passenger cars related to the Project will travel on local
+
+15 roadways, and therefore the EIR fails to evaluate the adverse effects of hundreds of diesel truck
+
+16 trips per day on the surrounding rural community. Relatedly, the EIR fails to accurately
+
+17 describe the whole of the Project, by excluding from the EIR's Project Description and analyses
+the planned improvements to roadways that will facilitate their use by Project related traffic. 18 The EIR also ignores feasible mitigation for significant air quality impacts - namely measures
+19 that would address the Project's harmful diesel emissions.
+20 For the reasons alleged in the First Amended Verified Petition for Peremptory Writ of
+21 Mandate (transmitted herewith), the decisions approving the Project and certifying the Project's
+22 EIR must be overturned.
+23 DATED: January 28, 2019 Respectfully submitted,
+24 LAW OFFICES OF ABIGAIL SMITH
+
+25
+
+26 By: Oioid Anith
+27 Abigail A. Smith
+28 Attorney for Petitioner 2
+
+PROOF OF SERVICE AND CERTIFICATION
+
+I am employed in the County of San Diego, State of California. am over the age of 18 and not a party to the within action; my business address is 1455 Frazee Road, Suite 500, San
+Diego, CA 92108.
+On January 28, 2019, I served the foregoing document(s) described as: NOTICE TO ATTORNEY GENERAL OF FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+by causing a true copy thereof to be delivered to the party and address set forth:
+Office of the Attorney General
+1300 "I" Street
+
+Sacramento, CA 95814-2919
+
+X BY U.S. MAIL/PRIORITY MAIL: I deposited such envelope for priority mail service with the US Postal Service. I am aware that on motion of the party served, service is
+presumed invalid if the postage cancellation date or postage meter date on the envelope is more than one day after the date of deposit for mailing set forth in this declaration.
+declare under penalty of perjury under the laws of the State of California that the foregoing is true and correct. Executed on January 28, 2019 at San Diego, CA.
+
+Abigail Smith
+
+RIC1815176 PROOF OF SERVICE
+
+1 LAW OFFICES OF ABIGAIL SMITH
+
+2 ABIGAIL A. SMITH SBN 228087
+1455 Frazee Road, Suite 500 San Diego, CA 92108 3 Telephone: (951) 506-9925 Facsimile: (951) 506-9725
+4 Email: abby@socalceqa.com
+
+5 Attorneys for Petitioner, Rural Association of Mead Valley
+
+6
+
+7
+
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+9 COUNTY OF RIVERSIDE
+10
+
+11 RURAL ASSOCIATION OF MEAD CASE NO.: RIC 1815176
+12 VALLEY,
+
+Petitioner, Assigned to: Hon. Randall S. Stamen
+13 Dept. 07
+
+14 V.
+
+15 COUNTY OF RIVERSIDE, FIRST AMENDED VERIFIED
+16 Respondent. PETITION FOR WRIT OF MANDATE
+
+17 TRAMMELL CROW SO. CAL.
+18 DEVELOPMENT, INC.; and DOES (Code Civ. Proc. §8 1094.5 and 1085; Cal. through 100, inclusive, Pub. Res. C. § 21000 et seq.; State CEQA 19 Real Parties in Interest. Guidelines § 15000 et seq.)
+20
+CASE DESIGNATION: CEQA 21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 First Amended Verified Petition for Writ of landate
+
+2 INTRODUCTION
+
+3 1. This administrative mandamus action challenges the approval by Respondent,
+4 County of Riverside ("County"), on or about June 26, 2018, of the Knox Business
+
+5 Park Buildings D and E Project, including approval of Resolution No. 2018-130
+
+6 certifying Final Environmental Impact Report No. 546, Resolution No. 2018-118
+7 approving General Plan Amendments Nos. 1151 and 1152, and all related land use
+
+8 approvals (collectively, "the Project").
+9 2. The Project concerns the conversion of approximately 59 acres of vacant land in the
+10 rural community of Mead Valley to warehouse distribution center uses. The Project
+11 comprises two buildings totaling 1,113,627 square feet as well as related
+12 improvements and infrastructure. The buildings are anticipated to operate as high
+13 cube warehouse logistics centers, meaning that trucks traveling from locations such
+14 as the Ports of Long Beach and Los Angeles will bring cargo to the warehouse
+15 buildings for storage and sorting for transport on other trucks to destinations in and
+
+16 outside California. These operations may occur 24 hours per day, seven days per
+17 week. The Project's Environmental Impact Report ("EIR") anticipates the Project
+18 will generate approximately 2,115 total daily vehicle trips including 806 daily diesel
+19 truck trips. Existing residential properties on Redwood Drive are located within
+20 approximately 70 feet of the Project site, yet the adverse and significant impacts
+21 associated with the Project have not been adequately evaluated and/or mitigated in
+22 violation of the California Environmental Quality ("CEQA") (Public Resources
+23 § Code 8 21000 et seq.). Indeed, the County's decision to approve the Project,
+24 including the General Plan land use amendments, runs counter to the
+25 recommendation of the California Air Resources Board ("CARB") that industrial
+26 uses like the Project should not be located within 1,000 feet of residences and other
+27 sensitive receptors.
+28
+
+-2-
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 3. The County of Riverside's certification of the Environmental Impact Report
+2 ("EIR") for the Project must be vacated because the EIR fails to comply with CEQA
+3 in a number of important ways, including that the County failed to adequately
+4 disclose and evaluate the whole of the Project, and failed to adopt all feasible
+
+5 mitigation and alternatives for significant impacts. The decision to approve the
+6 Project without adopting all feasible mitigation and/or alternatives is contrary to
+7 CEQA's "substantive mandate" that the lead agency shall not approve a project a with
+8 significant impacts where feasible mitigation or alternatives exist to reduce the
+9 impacts.
+
+10 4. During the administrative review process, numerous interested parties including the
+11 South Coast Air Quality Management District ("SCAQMD") notified the County
+12 that there was need for further analysis and mitigation due to the Project's adverse
+13 effects. In spite of these reasoned comments in the record, the County approved the
+14 Project and certified the EIR.
+
+15 5. By this verified First Amended petition, Petitioner alleges the following:
+16 PARTIES
+
+17 6. Petitioner, RURAL ASSOCIATION OF MEAD VALLEY ("RAMV"), is an
+
+18 unincorporated association composed of individuals residing within Riverside
+19 County and within the vicinity of the Project site. RAMV's goal is to protect rural
+20 Riverside from incompatible industrial development and the environmental
+21 impacts associated with industrial uses. RAMV and its members submitted
+
+22 comments opposing approval of the Project to the County.
+23 7. Respondent, COUNTY OF RIVERSIDE, is a political subdivision of the State of
+24 a California. The County is a local governmental agency charged with the authority of
+25 regulating and administering local land use and development within its territory in
+26 compliance with the provisions of its general plan and zoning ordinances as well as
+27 applicable provisions of State law, including CEQA. The County is the lead agency
+28
+
+-3-
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+r for the Project and is therefore charged with the duty of ensuring compliance with
+2 applicable State and local laws.
+
+3 8. Real Party in Interest, TRAMMELL CROW SO. CAL. DEVELOPMENT, INC., was
+
+4 the applicant for the Project, has an ownership interest in the property, and/or claims
+
+5 an interest in the Project approvals at the subject of this lawsuit.
+
+6 9. DOES 1 through 100 are individuals or entities that may have an ownership interest in
+
+7 the property, were project applicants, or claim an interest in the approvals at the
+
+8 subject of this lawsuit. Petitioner is unaware of the true names or capacities of the
+9 Real Parties in Interest identified herein under the fictitious names DOES 1 through
+10 100 inclusive.
+
+11 STATEMENT OF FACTS
+12 The Project
+13 10. The Knox Business Park Buildings D and E project is described as a proposal for 14 the construction and operation of two industrial warehouse logistics buildings, 15 totaling 1,113,627 square feet, on approximately 59 vacant acres in the Mead Valley 16 area of Riverside County.
+17 11. Mead Valley is a community typified by rural residential uses. Lands surrounding
+18 the Project site are primarily rural residential homes or undeveloped. 19 12. The Project site is located south of Oleander Avenue, north of Redwood Drive and
+20 east and west of Ellsworth Street/Decker Road. The site is located approximately 21 0.4 miles west of Interstate 215.
+22 13. The Project site is split into two "sites" by Ellsworth Street/Decker Road. The
+23 Building D site is located on approximately 37.1 acres east of Ellsworth
+24 Street/Decker Road. The Building E site is located on approximately 21.5 acres 25 west of Ellsworth Street/Decker Road.
+26 14. Ellsworth Street/Decker Road is currently a dirt and/or unimproved road. The 27 Project is described in the EIR and related documents as improving Ellsworth
+28
+
+-4-
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+Street/Decker Road between Oleander Avenue to the southern boundary of the
+
+2 Project site. Petitioner is informed and believes, and thereon alleges, that the
+Project was modified after circulation of the Final EIR to include additional,
+
+4 expanded improvements to Ellsworth Street/Decker Road south of the Project
+boundary. Petitioner is informed and believes, and thereon alleges, that these
+
+6 changes to the Project were not disclosed to the public or circulated for public
+
+7 review. Despite making improvements to Ellsworth Street/Decker Road, the EIR
+
+g assumes that no Project trucks or passenger cars will use Ellsworth Street/Decker
+
+9 Road; rather, the EIR assumes that all Project trucks and passenger cars will use
+
+10 Oleander Avenue for ingress/egress to the Project site. As a result, the EIR does not
+11 evaluate traffic on Ellsworth Street/Decker Road and the potential impacts from
+12 said traffic in terms of noise, air quality, public safety or other impacts. Nor does
+13 the EIR consider the Project's impacts on roadways south of the Project site for
+14 access to Markham Street to access Interstate 215 or the Cajalco Expressway.
+15 15. Surrounding land uses include lands designated by the County General Plan Rural
+16 Community - Very Low Density Residential (RC-VLDR) to the south and
+
+17 southwest of the Project site.
+
+18 16. Existing rural residences are located to the immediate south of the Project site
+19 located on Redwood Drive. The nearest sensitive receptors are occupied residences
+20 located approximately 70 feet from the Project's Building D's southern boundary
+21 line. Properties to the north and east are predominately undeveloped except for a
+22 recently constructed industrial warehouse building located north of Oleander
+
+23 Avenue and east of Harvill Avenue. To the west of the Project site are undeveloped
+24 lands and single-family homes.
+25 17. The Building E site's existing General Plan Land Use Designation is Community
+26 Development - Business Park. The western portion of Building D is designated
+27 Community Development - Business Park. The eastern and northern portion of the
+28
+
+-5-
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+H
+
+2 Building D site is designated Community Development - Light Industrial under the
+General Plan.
+
+3
+
+4 18. The Building E site is zoned Rural Residential ½-acre minimum (R-R-1/2) and
+
+5 Industrial Part (I-P). The Building D site is zoned a mix of Industrial Part (I-P),
+
+6 Rural Residential (1-acre minimum R-R-1) and Manufacturing Medium (M-M).
+
+7 19. The Project will likely function as a high-cube/ logistics warehouse facility for
+
+8 storage, distribution, and goods-movement. As such, the Project is a truck-intensive
+
+use.
+
+9
+
+10 20. The Project includes the following land use approvals:
+
+11 a) General Plan Amendment No. 1151 changing the General Plan Land Use
+
+12 Designation for the two parcels that will comprise the Building D site
+
+13 from Community Development: Business Park (CD-BP) to Community
+
+14 Development: Light Industrial (CD-LI) to make the entire Building D
+
+15 site Community Development: Light Industrial (CD-LI);
+
+16 b) Change of Zone No. 7872 changing the zoning classification for the two
+
+17 parcels that will comprise the Building D site from Rural Residential (R-
+
+18 R) to Industrial Park (I-P) and portions of the parcels that are zoned
+
+19 Medium Manufacturing (M-M) to Industrial Park (I-P) to make the entire
+
+20 Building D site Industrial Park (I-P).
+
+21 c) Plot Plan No. 25838 proposing the construction and operation of a
+
+22 702,645 sq. ft. warehouse/distribution/manufacturing building on 37.08-
+
+23 acres with 109 truck loading bays, 251 trailer parking stalls, 439
+
+24 automobile parking stalls and all other necessary improvements.
+
+25 d) General Plan Amendment No. 1152 changing the General Plan Land Use
+
+26 Designation for the parcels that will comprise the Building E site from
+
+27 Community Development: Business Park (CD-BP) to Community
+
+28 Development: Light Industrial (CD-LI) to make the entire Building E site
+
+-6-
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+Community Development: Light Industrial (CD-LI);
+2 e) Change of Zone No. 7873 changing the zoning classification for the
+3 parcels that will comprise the Building E site from Rural Residential - ½
+4 acre minimum (R-R1/2) to Industrial Park (I-P) to make the entire
+
+5 Building E site Industrial Park (I-P).
+
+6 f) Plot Plan No. 25837 proposing the construction and operation of a
+7 410,982 square foot warehouse/distribution/manufacturing building on
+
+8 21.52 acres with 51 truck loading bays, 80 truck trailer parking stalls, and
+9 260 automobile parking spaces and other necessary improvements.
+10 CEQA Review and Project Approval
+
+11 21. The Draft EIR was circulated for public comment in May 2017. The Draft EIR
+12 finds that the Project will result in significant and unavoidable impacts in the areas
+13 of air quality, land use and planning, noise, and transportation/traffic.
+14 22. The Project's Final EIR was completed on or about March 2, 2018 and was
+15 circulated on or about March 6, 2018.
+
+16 23. On April 4, 2018, the Riverside County Planning Commission held a public hearing
+17 and voted to recommend approval of the Project to the Board of Supervisors. The
+18 Planning Commission's action included a recommendation to approve Tentative
+
+19 Parcel Maps Nos. 36950 and 36962 which have been described as being part of "the
+20 Project" including in the Final EIR's Project Description section.
+21 24. On April 11, 2018, the applicant submitted a request to the Planning Department
+22 requesting to withdraw the application for Tentative Parcel Maps Nos. 36950 and
+23 36962. Staff recommended that the Project exclude the Tentative Parcel Maps
+24 because Staff and the applicant had agreed to "alternative methods to consolidate
+25 parcels and shift lot lines via a Parcel Merger and Lot Line Adjustment" according
+26 to the Staff Report. The Final EIR was not revised or recirculated based on this
+27 change in the Project Description.
+28
+
+-7-
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+25.On May 1, 2018, the Riverside County Board of Supervisors held a public hearing a
+on the Project. Numerous persons testified in opposition to the Project. The Board
+continued the item to May 22, 2018. Petitioner is unsure whether the Board closed
+
+4 the public hearing for purposes of receiving any further public testimony.
+
+5 26. Prior to the Board of Supervisors meeting regarding the Project, the County
+
+6 published an Agenda which included the Tentative Parcel Maps as part of the
+
+7 Project approvals being considered.
+
+8 27. At the May 1, 2018 Board of Supervisors meeting, the applicant "discussed"
+9 purported "project enhancements" to include paving an extension of Ellsworth
+10 Street/Decker Road south of the development. Based on conflicting and changing
+11 information during the administrative process, Petitioner is unaware of the precise
+12 nature of the improvements to Ellsworth Street/Decker Road that will occur in
+13 connection with the Project. In some instances, the record describes that Ellsworth
+14 St./Decker Rd. will be left unimproved south of the Project boundary. In other
+15 instances, the Project is described as requiring alternative "secondary access" via
+16 Ellsworth Street/Decker Road. Furthermore, Petitioner is informed and believes,
+17 and thereon alleges, that on or about May 17, 2018, the Project was revised to
+18 include additional improvements to Ellsworth St./Decker Rd., namely grading,
+19 widening, and paving the section between Redwood Drive and the Project
+20 boundary. The Project's EIR was not recirculated based on this change to the
+21 description or scope of the Project. The public was not otherwise notified of this
+
+22 change to the description or scope of the Project. Therefore, the public was not able
+
+23 to review and comment on the change to the Project's description or scope of the
+24 Project.
+
+25 28. On May 22, 2018, the Board of Supervisors took action to "tentatively certify" the
+26 EIR, "tentatively approve" the General Plan Amendments, "tentatively approve" the
+27 Changes of Zone as well as to "approve" the Plot Plan and "approve" the Parcel
+28
+
+-8-
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+Maps subject to final approval of the General Plan Amendment, Change of Zone
+
+2 and certification of the EIR. Although the public hearing was purportedly closed,
+3 Petitioner is informed and believes, and thereon alleges, that the Board received
+4 testimony from Staff regarding new and modified conditions of approval, including
+
+5 new purported conditions relating to transportation improvements.
+
+6 29. Accordingly, the Board of Supervisors "approved" the Plot Plans prior to approval
+
+7 of the General Plan Amendments. Petitioner is informed and believes, and thereon
+
+8 alleges, that the Board cannot approve Plot Plans findings that the approvals are
+9 consistent with the General Plan without the General Plan Amendments.
+
+10 30. The Board "tentatively" certified the Final EIR before the CEQA Findings of Fact
+11 and Statement of Overriding Considerations were approved. These items were not
+12 available at the time of the May 22, 2018 Board of Supervisors meeting; therefore,
+13 the public did not have the opportunity to review or comment on the CEQA
+14 Findings of Fact and Statement of Overriding Considerations.
+15 31. On June 26, 2018, the Board of Supervisors via a Policy Calendar item took action
+16 to approve the resolutions certifying the Final EIR, adopting the General Plan
+17 Amendments, approving the Zone Changes and all related Project approvals.
+18 32. Petitioner is informed and believes, and thereon alleges, that the County posted the
+19 Notice of Determination ("NOD") pursuant to CEQA on June 28, 2018.
+
+20 33. The County's approval of the Project will cause Petitioner irreparable injury
+21 for which Petitioner has no adequate remedy at law. Petitioner and its members will
+22 be irreparably harmed by the County's actions in approving the Project. Petitioner
+23 was harmed by, among other things, the failure of the County in its certification of
+24 the EIR to adequately evaluate the potential impacts of the Project, and the County's
+25 approval of the Project without providing adequate and effective mitigation
+26 measures contrary to the requirements of State law.
+27
+
+28
+
+-9-
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+34. The maintenance of this action is for the purpose of enforcing important public
+2 policies of the State of California with respect to the protection of the environment
+3 under CEQA and conformance with state law and local law. The maintenance and
+
+4 prosecution of this action will a confer a substantial benefit upon the public by
+
+5 protecting the public from environmental and other harms alleged in this Petition.
+
+6 Petitioner is acting as a private attorney general to enforce these public policies and
+7 prevent such harm.
+
+8 JURISDICTION AND VENUE
+
+9 35. This Court has jurisdiction to issue writs of mandate under Code of Civil Procedure
+10 Section 1094.5.
+
+11 36. Venue is proper in this Court pursuant to Code of Civil Procedure Sections 393 and
+12 394 as the Project is located in, and the relevant events occurred in Riverside
+13 County.
+
+14 37. Petitioner has performed all conditions precedent to filing the action by complying
+15 with the requirements of Public Resources Code § 21167.5, in previously notifying
+16 Respondent of the filing of the action (attached hereto as Exhibit A"), and by
+17 complying with the requirements of Public Resources Code § 21167.6, in
+
+18 previously notifying Respondent of Petitioner's election to prepare the record of
+19 Respondent proceedings in connection with this action (attached hereto as Exhibit
+
+20 "B").
+
+21 STANDING AND EXHAUSTION OF ADMINISTRATIVE REMEDIES
+
+22 38. A writ of mandate will generally issue "upon the verified petition of the party
+23 beneficially interested." Code Civil Procedure 8 1086. There is an exception to the
+24 "beneficial interest" standing standard "where the mandamus petition seeks to enforcel
+25 a public duty and raises a question of public right. In those circumstances, a citizen
+26 has standing based on his or her interest in having the laws executed and the duty in
+27 question enforced. Our Supreme Court has referred to this type of standing as "public
+28
+
+-10-
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+interest standing' and the type of lawsuit in which it exists as a 'citizen
+
+2 suit'." Consolidated Irrigation District v. City of Selma (2012) 204 Cal.App.4th 187,
+
+3 202-203; Rialto Citizens For Responsible Growth v. City of Rialto (2012) 208
+4 Cal.App.4th 899, 915-916.
+
+5 39. In addition, or alternatively, a petitioner in a CEQA lawsuit has a beneficial interest
+
+6 under Code Civ. Proc., § 1086 if they will be adversely affected by the impacts of the
+7 challenged project. Bozung V. Local Agency Formation Commission (1975) 13 Cal.3d
+8 263, 272 (holding it was sufficient that plaintiffs "alleged that they will be harmed by
+9 the environmental effects of the challenged [project].") The Supreme Court held in
+10 Bozung that the "[e]ffects of environmental abuse are not contained by political lines;
+11 strict rules of standing that might be appropriate in other contexts have no application
+12 where broad and long term effects are involved." Id.
+13 40. CEQA a has a "liberal standing requirement." Bakersfield Citizens For Local Control v.
+14 City of Bakersfield (2004) 124 Cal.App.4th 1184,1198-1199 (holding that a member of
+15 a business group who lived in the proximity of the challenged project site established
+16 standing in CEQA suit filed by business plaintiff). "A property owner, taxpayer, or
+17 elector who establishes a geographical nexus with the site of the challenged project
+18 has standing. Moreover, the geographical nexus can be attenuated…because effects of
+19 environmental abuse are not contained by political lines." Burrtec Waste Industries,
+20 Inc. V. City of Colton (2002) 97 Cal.App.4th 1133 (holding that a business had
+21 standing a in a CEQA action against a competitor business). In the case of
+22 "organizations or associations", these groups "gain standing to sue when their
+23 members have standing to bring the case as individuals." Burrtec Waste Industries,
+24 Inc., 97 Cal.App.4th at 599.
+25 41. Under CEQA, "standing" "concerns administrative exhaustion. In order to have a
+
+26 standing to sue, a person must first have exhausted his administrative remedies by
+27 raising his objections either orally or in writing during the government agency's
+28
+
+-11-
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+2 public comment period." Paulek v. Western Riverside County Regional Conservation
+
+w Authority (2015) 238 Cal.App.4th 583, 599 ("Paulek") (holding that an individual had
+standing in a CEQA action because the individual had objected to the project
+
+5 approval during the administrative review process).
+
+6 42. Cal. Public Resources Code § 21177 (a) contains CEQA's requirement that a litigant
+
+7 exhaust its administrative remedies prior to bringing a CEQA lawsuit. Section 21177
+
+8 (a) provides, "[a]n action or proceeding shall not be brought pursuant to Section
+
+9 21167 unless the alleged grounds for noncompliance with this division were
+
+10 presented to the public agency orally or in writing by any person during the public
+
+11 comment period ... or prior to the close of the public hearing on the project before
+
+12 issuance. of the notice of determination." Section 21177 (b) states that a person must
+
+13 comment or object to the challenged project in writing or in testimony prior to the
+
+14 close of the public hearing on the project in order to be able to challenge the project in
+
+15 court. Section 21177 (c) permits "after formed" organizations to file CEQA actions
+
+16 provided one member of the group participated in the administrative process.
+
+17 43. Petitioner RAMV is a citizen group of eleven members. RAMV's sole purposes are to
+
+18 preserve Mead Valley's natural resources and protect rural Riverside from
+
+19 incompatible industrial development and its related environmental impacts. RAMV
+
+20 was organized by neighbors and Riverside County residents who a have a mutual
+
+21 interest in opposing the Knox Project, a proposal for a large-scale industrial
+
+22 development in the rural residential community of Mead Valley. RAMV and its
+
+23 members have no interest in the Project or the litigation except protecting their
+
+24 neighborhood, the Mead Valley community, and the greater region from the adverse
+harms associated with the Project.
+25
+
+26 44. RAMV's membership consists of residents of Mead Valley and Riverside County.
+
+27 One member of RAMV is Ms. Deborah Walsh who resides at 18315 Ellsworth Street,
+
+28 Perris, California, 92570. Another member of RAMV is Mr. Lee Cussins who resides
+
+-12-
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+-
+
+2 at 18870 Springwood Lane, Perris, California, 92570. These individuals each live in
+
+3 very close proximity to the Knox Project site. RAMV's membership also includes
+
+4 individuals who reside on Redwood Drive, and, as such, whose homes are
+
+5 immediately adjacent to the Project site. Other members of RAMV reside in Mead
+
+6 Valley/Perris, and Riverside County more generally. No member of RAMV resides
+outside Riverside County.
+
+7
+
+8 45. The Project EIR's concludes that the Project results in significant and "unavoidable"
+
+9 air quality (regional), noise, land use, and transportation impacts. RAMV and its
+
+10 members thus have a beneficial interest in ensuring that the Project's adverse impacts
+
+11 are fully disclosed, evaluated, and mitigated pursuant to CEQA, which is the relief
+sought in this action.
+12
+
+13 46. Apart from the subject action, RAMV has never been a party to a CEQA lawsuit.
+
+14 47. RAMV is a citizen group who exercised its legal rights to comment on the Project and
+
+15 to petition the County to make changes to the Project. RAMV has further exercised its
+
+16 legal right to bring this public interest lawsuit as authorized by CEQA.
+
+17 48. RAMV and its members submitted comments to the County opposing the Project's
+
+18 approval at all phases of the Project's administrative review process. Exhibit "C"
+
+19 hereto is an example of RAMV's written comments in the record. These and other
+
+20 written comments by RAMV were received by the County of Riverside. Members
+
+21 of RAMV also testified at the public hearings on the Project.
+
+22 49. RAMV and its members specifically commented to the County that the Project
+
+23 would result in potentially significant impacts to/from including, but not limited to:
+
+24 air quality, biological resources, greenhouse gas emissions, land use, noise, traffic
+
+25 and others. RAMV and its members commented that the EIR was legally
+
+26 inadequate; that further mitigation was required; and that project alternatives were
+feasible.
+
+27
+
+28
+
+-13-
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+] 50. As a result of RAMV's interest in protecting Mead Valley and Riverside County
+
+2 from the Project's environmental harms as well as RAMV's participation in the
+
+3 administrative process, Petitioner has standing in this action and it has exhausted all
+4 available administrative remedies within the meaning of CEQA.
+
+5 CAUSE OF ACTION
+
+6 (Writ of Mandate)
+
+7 (All parties did not comply with the requirements of CEQA.)
+
+8 51. Petitioner hereby realleges and incorporates paragraphs 1 through 50 above as
+9 though set forth in full herein.
+10 52. The California Environmental Quality Act ("CEQA") (Public Resources Code §
+11 21100 et seq.), enacted in 1971, requires government agencies to consider the
+12 environmental consequences of their actions before approving projects subject to
+13 CEQA's provisions.
+14 53. The Environmental Impact Report ("EIR") is considered "the heart" of CEQA. To
+15 effectuate the Legislature's goals of environmental protection, CEQA provides that
+16 an adequate EIR must evaluate all potentially significant environmental impacts of a
+17 proposed project including both direct and indirect impacts as well as cumulative
+18 impacts. State CEQA Guidelines, §§ 15126, 15126.2 (a), 15130.
+19 54. Petitioner and others commented that the EIR fails to adequately evaluate impacts
+20 to/from including, but not limited to, aesthetics, air quality, biology, energy,
+21 greenhouse gas emissions, land use, noise, and traffic.
+22 a) By way of example, Petitioner commented extensively that the EIR
+23 improperly assumes that no trucks or passenger cars will use Ellsworth
+24 Street/Decker Road for Project ingress and egress including for access to
+25 Markham Street to access Interstate 215 or the Cajalco Expressway.
+26 Ellsworth Street/Decker Road from the Project's southern property line to
+27 Markham Street is an unimproved dirt road that is not County maintained
+28
+
+-14-
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+2 and is therefore not adequate for heavy truck traffic. The Project entails
+
+t improvements to Ellsworth Street/Decker road such as paving it at least
+
+4 from Oleander Avenue to the southern Project boundary. However, if trucks
+
+5 or passenger cars use this road south of the Project boundary, which is likely,
+
+6 there are a number of impacts - such as traffic, noise, and air quality - that
+have been entirely ignored by the EIR. The use of Ellsworth Street/Decker
+Road by trucks and passenger cars will greatly impact the residences and
+receptors to the south of the Project site; and the EIR's assumption that no
+
+10 Project trucks or passenger cars will use Ellsworth St./Decker Rd. is not
+
+11 based on any actual limitations to its use. Furthermore, Petitioner is
+
+12 informed and believes, and thereon alleges, that the Project was revised after
+
+13 circulation of the Final EIR to include additional improvements to Ellsworth
+
+14 St./Decker Rd. that would facilitate the road's use for Project trucks and
+
+15 vehicles. The EIR's unsupported assumption that no trucks or cars will use
+
+16 Ellsworth St./Decker Rd. significantly skews and renders inadequate the air
+
+17 quality, noise, traffic and other analyses.
+
+18 b) By way of further example, the EIR's traffic study is artificially limited to
+
+19 evaluation of the immediate Project area, where the Project may impact a
+
+20 greater geographical area. Specifically, the EIR inadequately considers
+
+21 southbound traffic trips to utilize Cajalco Road (a.k.a. Cajalco Expressway),
+
+22 as an east/west route for Project trucks. Cajalco Road is located just 1.2
+
+23 miles south of the Project site and is regularly a faster route to and from the
+
+24 Ports of Long Beach and Los Angeles than northbound on I-215. The
+
+25 County acknowledges that a Cajalco Road widening project is planned. As
+
+26 such, the EIR should have, but did not, evaluate a scenario where Project
+traffic will use this road.
+
+27
+
+28
+
+-15-
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+F c) By way of further example, Petitioner commented that the County's 2015
+
+2 Climate Action Plan ("CAP") addresses impacts and compliance with
+
+3 greenhouse gas (GHG) emission reduction targets up to year 2020; as such,
+4 there is not evidence that the Project's compliance with the CAP would meet
+
+5 longer term emissions targets including those established in Executive Order
+
+6 B-30-15, which seeks to reduce GHG emissions in the State to 40 percent
+7 below 1990 levels by 2030; and 80 percent below 1990 levels by 2050. As
+
+8 noted in Center for Biological Diversity v. Department of Fish & Wildlife
+9 (2015) 62 Cal.4th 204, 223 (*Newhall Ranch"), "over time consistency with
+10 year 2020 goals will become a less definitive guide, especially for long-term
+11 projects that will not begin operations for several years. An EIR taking a
+12 goal-consistency approach to CEQA significance may in the near future need
+13 to consider the project's effects on meeting longer term emissions reduction
+
+year 14 targets." Because Project operation is anticipated to commence in
+15 2020, consistency with the CAP 2020 goals is inadequate measure to
+16 demonstrate compliance with longer-term State emission reduction targets.
+17 55. An EIR must contain a "project description." State CEQA Guidelines, § 15124.
+
+18 While the EIR's Project Description section "need not be exhaustive" it must provide
+19 the level of detail needed for the evaluation and review of the Project's potential
+20 environmental impacts. Id. Thus, an EIR must accurately describe the project it
+21 analyzes. Id. An inaccurate or incomplete project description undermines CEQA's
+22 purposes, particularly where it minimizes the project's environmental impacts. "An
+
+non of an informative 23 accurate, stable, and finite project description is the sine qua
+
+24 and legally sufficient EIR." County of Inyo v. City of Los Angeles (1977) 71
+25 Cal.App.3d 185, 192-93.
+
+26 56. CEQA further requires the analysis of the "whole of the project," including
+27 reasonably foreseeable future activities related to the project. Laurel Heights
+28
+
+-16-
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+Improvement Ass'n of San Francisco, Inc. V. Regents of Univ. of Cal. (1988) 47
+
+2 Cal.3d 376, 395-96; State CEQA Guidelines, § 15378 (defining "project"). Relatedly,
+3 all phases of a project must be considered in an EIR. State CEQA Guidelines,
+4 15063 (a)(1); City of Antioch v. City Council (1986) 187 Cal.App.3d 1325, 1334.
+
+5 57. The EIR fails as a matter of law because it fails to accurately describe the Project and
+
+6 evaluate the whole of the action.
+
+7 d) By way of example, EIR excludes from the Project Description certain road
+
+8 improvements to Ellsworth/Decker Road that will be performed as part of the
+
+9 Project. The Draft EIR describes the Project as improving Ellsworth Street
+10 "from the southern Project site boundary to the northern Project site
+11 boundary". After circulation of the Final EIR, the Project was materially
+12 revised to include improvements (i.e., grading, paving, widening) to
+13 Ellsworth/Decker Road south of the Project boundary adjacent to residences,
+14 i.e., the section of Ellsworth St./Decker Rd. from Redwood Drive to the
+
+15 Project's southern boundary. The EIR's Project Description was not revised to
+16 include this material change to the scope of the Project's roadway
+17 improvements.
+
+18 e) By way of further example, the EIR repeatedly describes that the Project
+19 includes a 191-foot separation between the Project and residences on Redwoodl
+20 Drive. In fact, residential properties are within 70 feet of the Project site. The
+21 backyards of homes on Redwood Street are immediately adjacent to the
+22 Project boundary. This error in the Project Description pervades the air
+23 quality, noise, and other impact assessments.
+24 f) By failing to accurately describe the Project, including the "whole of the
+25 Project", the Project Description is inadequate as a matter of law.
+
+26 58. CEQA establishes a substantive mandate on the part of the lead agency to mitigate
+27 the significant environmental impacts of a project. Public Resources Code § 21002,
+28
+
+-17-
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+21002.1; State CEQA Guidelines, § 15021 (a). A lead agency may not approve a
+2 project for which there are significant environmental impacts unless the agency
+3 makes findings that: (a) mitigation measures have been required of the project
+which avoid or substantially lessen the significant environmental impacts, or (b)
+mitigation measures are found to be infeasible based on substantial evidence. Public
+
+6 Resources Code §§ 21081, 21081.5; State CEQA Guidelines, §§ 15091 (a)(b),
+
+7 15092 (b). The South Coast Air Quality Management District ("AQMD") wrote,
+
+8 regarding the Project, that the most significant air quality challenge facing southern
+9 California is to reduce NOx emissions. According to the AQMD, achieving NOx
+10 emission reduction in a timely manner is critical to attaining the National Ambient
+11 Air Quality Standard ("NAAQS") for ozone beyond the 2023 and 2031 deadlines.
+12 The California Air Resources Board states that trucks and buses account for roughly
+13 32 percent of statewide emissions of NOx. CARB concurs that reducing emissions
+14 from trucks is necessary to meet federal clean air standards. Accordingly, the
+15 County received comments proposing a number of feasible air quality mitigation
+16 measures, including measures proposed by the AQMD, that should be adopted to
+17 lessen significant NOx emissions due to the Project. These feasible measures were
+18 not adopted, and the County failed to demonstrate, based on substantial evidence in
+19 the record, that the measures were infeasible.
+
+20 g) For instance, Petitioner proposed that the Project include the required phase-
+21 in, or periodic review for feasibility, of electric, hybrid electric, hydrogen
+22 electric, battery operated, or natural gas powered (i.e., non-diesel) trucks.
+23 Non-diesel trucks are reasonably foreseeable in the commercial market and
+24 therefore are feasible within the life of the Project. The County did not
+25 demonstrate based on substantial evidence that such a measure is infeasible
+
+26 within the meaning of CEQA. Rather, the County flatly asserts it that it does
+27
+
+28
+
+-18-
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+not have the power to require any measures to employ cleaner truck
+2 technologies, which is simply inadequate and not based in fact or law.
+h) Again for instance, Mitigation Measure (MM) 4.3-8 proposes the Project
+4 roof(s) be constructed to incorporate a 1 KW PV solar array to offset Project
+5 operational air quality impacts. However, it is feasible to design the roof or
+6 the Project facility to accommodate a maximally sized solar array and
+7 require incorporation of substantially more PV solar power. Given the
+8 Project's estimated electricity demand of 4,381,622 kWh/year, proposed
+
+9 development to accommodate a 1 KW system, which would generate around
+10 1,674 kWh/year, is insignificant. The County argues that increasing solar is
+11 not reasonably related to a "significant" Project impact; yet the EIR proposes
+12 MM 4.3-8 "to reduce the Project's significant impacts to regional operation-
+13 source emissions associated with NOx..." Because additional solar
+
+14 utilization has not been shown to be infeasible, the approval of the Project
+15 was in error.
+
+16 59. CEQA additionally provides that adopted mitigation measures must be certain and
+17 enforceable. (Public Resources Code § 21081.6(b); State CEQA Guidelines, §
+18 15126.6(a)(2).) The lead agency must ensure that mitigation measures are required
+19 by or incorporated into the project to ensure that the measures are actually carried
+20 out. (Public Resources Code § 21081.6 (a), (b).) Petitioner and others commented
+21 in the record that adopted mitigation measures are not certain and enforceable.
+22 i) By way of example, the EIR's traffic analysis concludes that the Project's
+23 impact to the intersection of Ellsworth Street/Decker Road and Oleander
+
+24 Avenue is significant. The traffic study repeatedly indicates that the
+25 intersection will operate at LOS (Level of Service) D with a "future
+26 intersection" or a future "traffic signal", which is apparently an acceptable
+27 LOS; but it is not clear from the EIR that the Project will be implementing
+28
+
+-19-
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+necessary traffic improvements to maintain this "acceptable" LOS, so that
+2 impacts remain significant until such improvements are implemented. This
+3 is not adequate, certain, and enforceable mitigation and impacts remain
+v significant.
+
+5 j) Also for example, the applicant's noise memorandum produced after the
+
+6 circulation of the Final EIR indicates a significant construction noise impact
+7 related to the new, expanded improvements to Ellsworth St./Decker Rd.
+
+8 However, Petitioner is informed that the recommended mitigation measure
+9 to address this significant impact - i.e., a temporary construction barrier
+
+10 was not adopted as a Project mitigation measure.
+
+11 60. CEQA provides that a lead agency must evaluate alternatives to the proposed
+12 project, or the location of the project, which would attain most of the basic
+13 objectives of the project but would avoid or substantially lessen any of the project's
+14 significant environmental effects. State CEQA Guidelines, § 15126.6 (a). The lead
+15 agency has a duty to a adopt a project alternative if it is feasible. Public Resources
+16 Code, § 21002. Furthermore, a lead agency may not reject an alternative unless the
+17 agency makes findings supported by substantial evidence showing that the
+18 alternative is infeasible. Public Resources Code, §§ 21081, 21081.5; State CEQA
+19 Guidelines, §§ 15091 (a)(3), 15092. Petitioner and others commented that the
+20 County failed to adequately consider alternatives to the proposed Project and failed
+21 to make findings, supported by substantial evidence, that alternatives are infeasible.
+22 k) For instance, Petitioner notified the County that the EIR must consider a
+23 "business park alternative." The Project site is predominantly designated
+24 CD-BP which, according to the County's General Plan, allows for
+25 "employee-intensive uses, including research and development, technology
+26 centers, corporate and support office uses, clean industry supporting retail
+27 uses." Even the portion of the site designated CD-LI allows "a wide variety
+28
+
+-20-
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+of industrial and related uses, including assembly and light manufacturing,
+2 repair and other service facilities, warehousing, distribution centers, and
+supporting retail uses." A "Business Park" designation would act as buffer
+
+4 between Very Low Density Residential uses to the south and west and Light
+5 Industrial to the east. Thus, at a minimum, the EIR should have, but did not,
+
+6 evaluate a No Project/ Existing General Plan Designation alternative that
+7 would develop a compatible BP land use within this area. Consideration of a
+
+8 BP use in lieu of high-cube warehousing would reduce significant
+
+9 operational effects of the Project, in particular, the Project's significant "land
+10 use/planning" impacts. The exclusion of such an alternative from the EIR
+
+11 was not reasonable.
+
+12 I) The EIR evaluated a "Building D Only Alternative" that has been shown to
+
+13 reduce significant impacts and was identified in the EIR as the
+
+14 environmentally superior alternative. The EIR indicates that the Building D
+15 Only Alternative satisfies, in whole or in part, all of the Project objectives.
+16 However, the County's findings of infeasibility regarding this alternative are
+17 not based on substantial evidence as required.
+
+18 61. State CEQA Guidelines 8 15088.5 requires recirculation of an EIR when significant
+19 new information is added to the EIR after public notice is given of the availability
+20 of the draft EIR but before certification. "Significant new information" can include
+21 changes in the project or additional data or other information. It can include, for
+22 instance: (1) a new significant environmental impact that would result from the
+23 project or (2) a substantial increase in the severity of an environmental impact that
+24 would result unless mitigation measures are adopted that reduce the impact to a
+25 level of insignificance.
+
+26 62. The EIR was required to be recirculated based on significant new information that
+27 was generated after circulation of the draft and final EIRs. The new information
+
+28
+
+-21-
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+-
+
+2 consists of additional road improvements to Ellsworth Street/Decker Road that will
+
+3 occur in connection with the Project, i.e., the grading, widening and paving of the
+
+4 section of the road between Redwood Drive and the Project's southern boundary.
+
+5 These additional improvements to Ellsworth St./Decker Rd. constitutes new
+
+6 information within the meaning of Section 15088.5; among other things, there is a
+
+7 new significant noise impact requiring new mitigation that occurs as a result of the a
+
+8 expanded road improvements, i.e., the construction of an off-site temporary noise
+barrier that purports to address construction noise. The new information also
+
+10 includes the reasonable probability that trucks and other project vehicles will use
+
+11 Ellsworth St./Decker Rd. as a result of the further improvements thereto. This is
+
+12 contrary to the EIR which assumes that no Project vehicles will use Ellsworth
+St./Decker Rd.
+
+13
+
+14 63. For these reasons, the County violated CEQA and the Project approvals must be set
+
+15 aside. (Code Civ. Proc., 8§ 1085, 1094.5; Public Resources Code § 21168.)
+PRAYER FOR RELIEF
+
+16
+
+17 WHEREFORE, Petitioner prays the following relief on all causes of action:
+
+18 a) For the Court's peremptory writ of mandate requiring Respondent, County
+
+19 of Riverside, to set aside its decision certifying the EIR for the Project.
+
+20 b) For the Court's peremptory writ of mandate requiring Respondent, County
+
+21 of Riverside, to set aside all Project approvals.
+
+22 c) For such other and further relief, including preliminary and permanent
+
+23 injunctive relief, in the event that a Real Party in Interest, or its agents or
+
+24 instrumentalities, intend to commence construction on the site while this
+lawsuit is pending.
+25
+
+26 d) For such other relief as may be just and proper.
+
+27 e) For the costs of this suit, including attorney's fees, pursuant to Code of Civil
+Procedure 8 1021.5.
+
+28
+
+-22-
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+DATED: January 25, 2019
+
+2 Respectfully submitted,
+LAW OFFICES OF ABIGAIL SMITH
+
+W
+4 By:
+
+5 Ahypid Anuti
+Abigail A. Smith
+
+6 Attorneys for Petitioner
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+-23-
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 VERIFICATION
+
+2 I, the undersigned, certify and declare that I have read the foregoing First Amended
+3 Petition for Writ of Mandate and know its contents. The statement following the box checked
+4 is applicable.
+5
+
+6 am( ) a member, (1) an officer of Runal Asseaitun ol Me Anlislley(AAw), a
+7 party to this action, and I am authorized to make this verification for and on its behalf, and ]
+
+8 make this verification for that reason. The matters stated in the document described above
+
+9 are true of my own knowledge and belief except as to those matters stated on information
+
+10 and belief, and as to those matters I believe them to be true.
+
+11
+
+12 declare under penalty of perjury under the laws of the State of California that the
+
+13 foregoing is true and correct.
+
+14
+Dated: January 23, 2019 By:
+15 Oabeur Wabl
+Debbie Walsh
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+I VERIFICATION
+
+H
+
+2 EXHIBIT "A"
+
+A
+5
+
+6
+
+7
+
+8
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+EXHIBIT "A"
+
+Law Offices of Abigail Smith
+1455 Frazee Road, Suite 500, San Diego, CA 92108
+Abigail A. Smith, Esq. Email: abby@socalceqa.com Telephone: (951) 506-9925 Facsimile: (951) 506-9725
+
+VIA U.S. MAIL
+
+July 24, 2018
+
+County of Riverside
+c/o Clerk of the Board
+4080 Lemon Street, 1st Floor
+Riverside, CA 92501
+
+Re: Notice of Intent to File CEQA Petition in the Matter of the Approval of the Environmental Impact Report for Knox Business Park - Buildings D and E project and all related land use approvals
+
+To the County of Riverside:
+
+PLEASE TAKE NOTICE, under Public Resources Code section 21167.5, that this letter serves as written notice of the intent of Petitioner RURAL ASSOCIATION OF
+MEAD VALLEY to a file a Petition for Writ of Mandate under the provisions of the California Environmental Quality Act (*CEQA") against Respondent COUNTY OF RIVERSIDE challenging the County's approval of the Knox Business Park Buildings D and E project including certification of the Final Environmental Impact Report and all related land use approvals made on or about June 26, 2018.
+
+Sincerely,
+
+Ahgix Lnuth
+
+Abigail Smith, Esq.
+
+2 EXHIBIT "B"
+
+AW
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+EXHIBIT "B"
+
+P LAW OFFICES OF ABIGAIL A. SMITH ABIGAIL SMITH SBN 228087 2 1455 Frazee Road, Suite 500
+
+3 San Diego, CA 92108 Telephone: (951) 506-9925
+
+4 Facsimile: (951) 506-9725 Email: abby@socalceqa.com
+5 Attorneys for Petitioner, Rural Association of Mead Valley
+6
+
+7
+
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+9 COUNTY OF RIVERSIDE
+10
+
+11
+RURAL ASSOCIATION OF MEAD CASE NO.:
+12 VALLEY, Assigned to: 13 Petitioner, Dept.:
+
+14 V.
+
+15 COUNTY OF RIVERSIDE, PETITIONER'S NOTICE OF 16 Respondent. ELECTION TO PREPARE CEQA ADMINISTRATIVE RECORD 17
+
+18 TRAMMEL CROW, INC.; and DOES through 100 inclusive, (Pub. Res. C. § 21167.6) 19 Real Parties in Interest
+20
+
+21
+
+22
+
+23 TO ALL PARTIES AND THEIR ATTORNEYS OF RECORD:
+
+24 PLEASE TAKE NOTICE that pursuant to Cal. Public Resources Code §
+25 21167.6, Petitioner, RURAL ASSOCATION OF MEAD VALLEY, hereby notifies
+26 Respondent, COUNTY OF RIVERSIDE, of Petitioner's election to prepare the
+27 Administrative Record of proceedings relating to this action.
+28
+
+EXHIBIT "3"
+
+DATED: July 25, 2018 Respectfully submitted,
+LAW OFFICES OF ABIGAIL SMITH
+2
+
+3
+
+4 By: Ohil Lnth
+
+5 Abigail A. Smith
+Attorneys for Petitioner
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+EXHIBIT "B"
+
+EXHIBIT "C"
+
+2
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+EXHIBIT "C"
+
+RAMV.ORG
+PO Box 2433
+Perris, CA 92572
+abilene149@gmail.com
+
+April 30, 2018
+Riverside County Board of Supervisors
+Clerk of the Board
+4080 Lemon Street.
+Riverside, CA 92501
+
+Dear Honorable Supervisors:
+
+Re: Item 18.1 - Opposition to GPA 1151 & 1152 - Knox Business Park Building D & E Project Final Environmental Impact Report No. 546
+The Rural Association of Mead Valley (RAMV.org) representing over 19,000 residents of the rural community of Mead Valley is adamantly opposed to General Plan Amendment 1151 & General Plan Amendment 1152 and zone changes 7873 & 7872 that proposes to build two logistics high-cube Industrial Warehouses on 58.6 acres of land directly adjacent to rural homes along Redwood Drive in Mead Valley. These two warehouses will generate over 800 truck trips RAMV (2)-1
+per day. Many of these trucks will be using Decker Road to Markham to Cajalco which is the fastest and shortest route to the I-91. The project is located south of Oleander Avenue, north of Redwood Drive, east of Day Street, and west of Harvill Avenue. Ellsworth Street / Decker Road transects the Project site.
+This project is an intrusion into our rural community, threatens our rural lifestyle and quality of life. Mead Valley Area Plan - Land use element clearly show the proposed warehouse Project to be located within the Business Park land use area of the Plan. Business Park land use acts as a RAMV (2)-2
+buffer between Industrial and residential land uses recreating more compatible land uses.
+Planning Commission speaker slips. The majority of the people who filled out speaker slips do not live in Mead Valley and yet checked the box stating that they were neighbors to the project RAMV (2)-3 (See Attachment).
+There is another choice. RAMV.org recommends the NO Project Alternative - to leave the area as open space and protect the wildlife corridor. The second choice would be to retain the existing land use of Business Park and Rural Residential. Business Park zoning would RAMV (2)1-4
+allow smaller businesses that create real jobs, sales taxes and operate from 8:00am to 6:00 pm not 24-7. This zoning follows the Riverside County General Plan - Mead Valley Area Plan and vision for the area. Any buildings should allow for a substantial buffer (1000 ft) between rural homes and Industrial land uses. The Business Park alternative would reduce the operational RAMV (2)-5 effects of the project substantially reducing truck trips, air pollution, traffic, noise, truck idling times, diesel particulate PM and NOx emissions, off-site parking, prostitution and increased
+crime.
+
+New Conditions of Approval and changes were available to the public on April, 26, 2018. There are so many inconsistencies, errors and omissions in the staff report and accompanying documents that it is impossible to understand what is really being proposed today.
+Request that Parcel Maps be removed and yet there are easements, avoidance areas and lot line adjustments that cannot be over looked. Ord. 460 requirements cannot be ignored.
+
+Parcel: 10
+Check Digit: 5 the page/block number, and the third segment identifies the parcel numbe
+
+3/4-08454 T.R.A. 9BOI ToS MAP et 1DR N 1/2 NW V4 SEC. 2 T4S-R4W 45505SPENT ARoSES
+
+RAMV (2)-6
+
+6 8 ö 4244 8 One parcel nns ®
+184*0 4MLA 20.00 4r.4r
+
+O Building E 00
+011.16
+
+Avoidance
+6 area
+13,36 860 O 0
+
+BM S/R Raal shp 1e 300e PM 95/48,49 • 1
+
+1971
+
+"Conditions from Transportation were revised to address alternative secondary access as required by the Tentative Parcel Map consistent with Ordinance No. 460 requirements and consistent with the areas analyzed in the project's EIR. The revisions to secondary access would require improvements.
+
+(24' width of pavement) to Ellsworth Street south of the project site to Markham Street. Due to
+concerns from the nearby residents that improvements to this section of Ellsworth Street could RAMV (2)-7
+allow for truck traffic to pass by to connect to Markham Street despite what mitigation measures are included in the EIR for truck traffic to be directed on Oleander, these improvements are
+understood to not be desirable from the nearby residents (or the applicant or staff) and is a result
+of a requirement of Ordinance No. 460. This condition is recommended for incorporation with
+
+consideration of the Tentative Parcel Maps due to its requirement per Ordinance No. 460, but
+discussion is anticipated regarding this requirement and whether the applications for the Tentative Parcel Maps may be set aside to remove the requirement for improvements to RAMV (2)-7
+Ellsworth Street south of the project site to Markham Street." (Memorandum, Planning (cont.)
+Department April 2, 2018).
+
+See Parcel Map for Building "E" that includes avoidance area, easement to access EMWD water
+reservoir, lot line adjustment, required by Ord. 460. Standard road with is 32' and is now being (2)-8
+changed to 24'. paswv
+
+PM36950
+"50.Transportation.7 - Off-Site Access 2
+The landowner/developer shall provide/acquire sufficient public off-site rights-of-way to provide for a paved access road to a paved County maintained road. Said access road shall be constructed with a minimum of 24' 32' of A.C. pavement within a 60' dedicated right-of-way in accordance with County Standard No. 106, Section A (24°32'/60) at a grade and alignment as approved by the Transportation Department. Should the applicant fail to provide/acquire said
+off-site right-of-way, the map shall be returned for redesign. The applicant shall provide the RAMV (2)-9
+appropriate environmental clearances for said off-site improvements prior to recordation or the
+signature of any street improvement plans.
+Said off-site access road shall be the northerly southerly extension of Decker Road (Ellsworth
+Street) to Harley Knox Boulevard Markham Street and the easterly extension of Harley Knox
+Boulevard to a paved County maintained Harley Knox Boulevard.
+or as approved by the Director of Transportation.
+
+Air pollution for the Inland Empire is continuing to increase. Our area has some of the worst air
+pollution in the nation. The EIR states air pollution is improving , but the facts prove differently. https://www.dailynews.com/2018/04/18/southern-california-has-some-of-the-worst-air-pollution-
+in-the-country-report-finds/
+
+Documented evidence of truck drivers behaving badly has occurred in Riverside and also at the RAMV (2)-10
+warehouse at Harley Knox X Harvill X Oleander. Truck idling mitigation only applies once the
+trucks enter the facility. Trucks can idle for hours increasing air pollution dramatically in the area nearby and the region. Recent PE article describes the problems that residents face living near warehouses.
+
+"The company has explained policies to drivers and met with the city, and "officials have monitored our site and since assured us that the entire matter has been resolved," the statement
+said.
+RAMV (2)-11
+At Staylor's request, a state-Air Resources Board team visited in July and found three lanes filled with up to 25 trucks trying to get into Smart & Final, according to an email from Nancy O'Connor, field enforcement manager for the air board.
+
+Though the waiting trucks ran their engines for 15 minutes to an hour, no citations were given because state rules against idling apply only within 100 feet of a residence.
+
+O'Connor wrote that the team saw other problems "such as drivers urinating on the street and RAMV (2)-11
+littering" but that those were outside the board's jurisdiction." (cont.)
+
+https://www.pe.com/2016/12/11/misbehaving-truck-drivers-draw-complaints-in-riverside-
+warehouse-district/
+
+Business Park zoning acts as a buffer between Very Low Density Residential A-1-1 and RR Rural Residential Zoning to the south and west of the project and Light Industrial along Harvill
+Ave.
+
+"Business Park (BP) - The Business Park land use designation allows for employee- RAMV (2)-12
+intensive uses, including research and development, technology centers, corporate and support
+office uses, clean industry and supporting retail uses. Building intensity ranges from 0.25 to 0.6 FAR" (Riverside County General Plan - Mead Valley Arca Plan).
+1. Recent changes to the Conditions of Approval just came out Thursday afternoon for this
+project.
+a. Federal Migratory Bird Act - Burrowing Owl mitigation was struck out. Specific provisions
+in the statute include:
+
+Establishment of a Federal prohibition, unless permitted by regulations, to "pursue, hunt, take, capture, kill, attempt to take, capture or kill, possess, offer for sale, sell, offer to RAMV (2)-13
+purchase, purchase, deliver for shipment, ship, cause to be shipped, deliver for transportation, transport, cause to be transported, carry, or cause to be carried by any means whatever, receive for shipment, transportation or carriage, or export, at any time, or in any manner, any migratory bird, included in the terms of this Convention . for the protection of migratory birds … or any part, nest, or egg of any such bird." (16 U.S.C.
+703)
+
+A recent study last year showed no burrowing owls located on the Project site and yet I have observed two nesting pairs on this site. See picture that I took August 2017 after the study was performed. Saturday, April 28, 2018, I observed another pair of nesting burrowing owls on this
+site. In 2015 a burrowing owl survey did find burrowing owls. Burrowing Owls have been plentiful in this location for over 30 years. The EIR and Conditions of Approval are required to follow state and federal law. Burrowing Owls are a species of Special Concern.
+
+RAMV (2)-14
+
+Nesting Burrowing Owl pictures on the project site taken July 2017.
+
+2. Conditions of Approval state: Also attached is the comment letter received yesterday from
+Debbie Walsh. No such letter is attached. I requested this letter be made part of the public
+record. The letter was emailed to Russell Brady and the Secretary of the Planning Commission.
+
+3. Conditions of Approval regarding secondary access (Decker / Ellsworth Street). Residents do
+not want 800 truck trips per day going down Decker Road in front of their homes, whether the county is required to pave Decker or not these trucks will use Decker Road. |RAMV (2)-15
+4. There are occupied homes located within the Industrial Corridor. On the project site Building "D" is a double wide mobile home which has been occupied for over 20 years. At the corner of
+Oleander X Harvill is a mobile home, garage and outbuildings occupied for over 30 years. Along Cajalco Road near Seaton are a number of homes. Along Patterson south of Cajalco are a number of homes. Statements by the Planning Commission that no homes were located within the Industrial Corridor are not accurate.
+
+60.Planning-EPD.2
+Prior-to the-issuance of a grading-permit, a-Burrewing Owl Relecation-Plan shall be-prepared #f
+burrowing owls are determined-to-be-oceupying the-preject-site at the time-of the-30-Day-pre- construction buftowing-owi suvey. The-felocation-plan-shall comply with the Burrowing-Owl Spocios-Aecount Objectives-within Appondix-B-of Volume-2- The-MSHEP Reference Document. Passive-relocation-shall-not be-allowed at the-project-site.
+ftnt:.trdetortinod dutinatoa20-daxplooostution-runpoyjibeaphajpoosin3ol/c.haosisoosoiaod inferm the-Riverside-Counly Bielegist, Galifernia-Department-ef Fish and-Wildlife, U.S. Fish ane Afilellife-Sorvice, and the Regienal Conservatien Autherity, and-would-need-te retain-a-Bielegist that holds-a Momorandum of Understanding with the County of Riverside to prepare a Burrowing Owl Protection-and Relocation Plan for approval by the County of Riverside and Wildllife Ageneies-prier-to-initiating ground disturbance. The relecation-plan-will-include the fellewing:
+The lecations-of the-nests-and the-owle propesed- for relecation,
+The locations-of the proposed relecation-sitos.
+-The numbers of adult owls and juveniles proposed for relocation.
+The-time-of year when relocation is-proposed to take-place.
+The name of the biologist-propesed to supervise the relecation, and the details of his/her
+previous-experiences-capturing, handling, and relecating burrewing ows, including-the outcomes-of their previous relecation efforts (survival/mertality rates and site-fidelity rates of 4l releeated-owe), and relevant permits-held.
+-A detailed-description of the proposed-method of capture, transport, and acclimation-of the current-project's-owls-on the-propesed relecation site.
+-A detailed deceription of rolecation site preparatione (e.g., the design and dimensions of the
+artificial releace-burrewe and hacking-cage, duration-of hacking astivitios (ineluding foed and
+water provision).
+-Description-of the monitering metheds and monitering duration te be empleyed te verify curvival ef the relecated ewle-and their long-term retention-on the relecation site.
+
+Good Neighbor Guidelines For Siting New and/or Modified Warehouse/Distribution Facilities http://www.wrcog.cog.ca.us/DocumentCenter/View/318/Good-Neighbor-Guidelines-
+for-Siting-Warehouse-Distribution-Facilities-PDF.
+In 2005, a Regional Air Quality Task Force Policy Committee was set up to deal with the
+immense and growing air pollution problems created by the huge number of high cube warehouses coming into Mira Loma and Jurupa Valley being built next to homes. RAMV (2)-16
+John Tavaglione, Supervisor, District 2; John Field, Senior Deputy, Office of Supervisor John Tavaglione, District 2; Larry Dressel, Mayor, City of Beaumont Frank Hall, Council Member, City of Norco Ron Loveridge, Mayor, City of Riverside.
+Main Goals. Minimize exposure to diesel emissions to neighbors that are situated in close proximity to the warehouse/distribution center.
+Residents to this project have a 35' buffer between their back fence and the driveway along the southern portion of the warehouse. Claims that no semi trucks will use the driveway along the
+southern portion of the warchouse are not accurate. Residents are not living in a bubble. To
+assume that they will always be in their homes is unreasonable. In fact, children and their parents along Redwood Street frequently use their back yards. A warehouse just to the northeast, RAMV (2)-17
+owned by this same developer, are allowing truck parking in a similar area designated a for car parking. Trucks are parked in any available space as there are not enough warehouse truck parking spaces to accommodate all of the truck trailers this warehouse uses. Yard trucks are using diesel fuel instead of electric power. Yard trucks are seen frequently traveling down Harvill to the truck stop on Cajalco. The warehouse at Harvill X Oleander has three tenants.
+Warehouses at Oleander X Decker are built on speculation and can accommodate two tenants each. With four tenants these warehouses would certainly have a higher chance of needing refrigerated hook-ups. Idling trucks are a real problem as they will be waiting to enter the RAMV (2)-18 facility along Oleander. Refrigerated trucks at the proposed warehouses will idle until they are unloaded and completely loaded which is far more 3 than the 3 minutes allowed by CARB.
+Goal 2:
+Eliminate diesel trucks from unnecessarily traversing through residential neighborhoods. These two warehouses will be bringing 800 truck trips day through our quiet rural neighborhoods using our two lane country roads and going past two elementary schools and a middle school near Cajalco Road and Clark Street.
+Decker Road ends at Markham and goes up a steep grade with an "S" curve were a large number of accidents have occurred. K-rails line the street to protect homes from cars flying off of RAMV (2)-19
+Markham.
+
+The staff report states trucks will not use Decker Road, but it is required by Transportation as a secondary access. The County feels that weight limit signs will prevent these trucks from taking the shortest and fastest route to the I-91. Truck drivers know that the CHP must cite drivers and therefore they can ignore these signs.
+
+Goal 3. Eliminate trucks from using residential areas and repairing vehicles on the streets. Trucks are still parked along residential streets in Mead Valley. Who will cite them? We do not have enough Code Enforcement officers to take care of that task. Decker will become a truck parking area. Dirt fields will become truck parking lots as is currently seen on Oleander X RAMV (2)-20
+Harvill south of warehouse at Harvill. No restrooms and attracting prostitutes into our area 24-7. Trucks idling for hours as the drivers sleep.
+
+Goal 4. Reduce and/or eliminate diesel idling within the warehouse/distribution center.
+
+Benefits:
+1. Reduces exposure of diesel emissions to residences and other sensitive receptors.
+Recommended Guidelines:
+
+• Require the installation of electric hook-ups to eliminate idling of main and auxiliary engines during loading and unloading, and when trucks are not in use; Train warehouse managers and employees on efficient scheduling and load management to eliminate unnecessary queuing
+and idling of trucks within the facility; Require signage that informs truck drivers of the California Air Resources Board (CARB) regulations (which include anti-idling regulations); RAMV (2)-21
+• Post signs requesting that truck drivers turn-off engines when not in use;
+Restrict idling within the facility to less than ten (10) minutes
+
+Who will be enforcing these measures? No one inside the warchouse will be monitored to make
+sure that trucks are idling for 3 minutes or 5 minutes.
+Developer refuses to install electric hook-ups to prevent excessive idling and also refuses to put in adequate buffering between rural homes and this warehouse. Residents will be living 35' from a massive warehouse with over 800 truck trips per day. WRCOG good neighbor policy highly recommends & 1,000 foot buffer from the property line. Claims by the developer that there is a 191' buffer are not accurate as the measurement the developer is using is from the warehouse
+building to the first house. Not from the property line to the warehouse.
+
+Goal 5:
+Establish a diesel minimization plan for on- and off-road diesel mobile sources to be
+implemented with new projects.
+
+Encourage warehouse/distribution center fleet owners to replace their existing diesel fleets with new model vehicles and/or cleaner technologies, such as electric or compressed natural gas;
+Require all warehouse/distribution centers to operate the cleanest vehicles available; Provide incentives for warehouses/distribution centers and corporations which partner with RAMV (2)-22
+trucking companies that operate the cleanest vehicles available; • Encourage the installation of clean fuel fueling stations at facilities
+Require the posting of signs outside of the facility providing a phone number where neighbors can call if there is an air quality issue
+Statements that these warehouses will use 2010 or newer trucks also goes back to monitoring.
+
+Warehouses nearby allow older trucks (paint falling off) to use their facilities with COA requiring 2010 or newer trucks.
+
+Why do we suggest buffer zones?
+
+The reduction of potential cancer risk levels at locations where TRUs operate is a direct result of the reduction of diesel PM emissions. Figure 1-1 compares the cancer risk range at various distances assuming 300 hours of TRU activity per week. For year 2000, the current fleet average emission rate of 0.7 g/bhp-hr was used. In 2020, the statewide fleet PM emission rate would be reduced 92 percent from the 2000 baseline year to 0.05 g/bhp-hr. Figure 1-1 below
+illustrates the significant reduction of the estimated near source risk as the diesel PM emission
+rate is reduced from the current fleet emission rate to the much lower emission rate in 2020.4 in
+
+Figure 1-1 RAMV (2)-22 (cont.)
+Estimated Risk Range versus Distance from Center of TRU Activity Area*
+Emission Range
+2000 (0.70 g/bhp-hr)
+2010 (0.24 g/bhp-hr)
+2020 (0.05 g/bhp-hr)
+Distance from Center of 100 150 200 250 300 350 400 450 500 600 700 800 900 1000 1100
+Source (meters)
+
+KEY:
+Potential Cancer Risk > 100 per million
+Potential Cancer Risk 2 10 and < 100 per million
+Potential Cancer Risk: 10 per million
+*Assumes 300 hours per week of TRU engine operation at 60% load factor.
+
+The County of Riverside was a big part in creating the WRCOG Good Neighbor Policy
+Guidelines and yet we are being told they do not apply "guidelines only". These policies are not even being used as guidelines anymore. Does Riverside County no longer care about the residents who live in Riverside County in regards to their health, safety and welfare. This warehouse Project far exceeds AQMD regional thresholds for NOx and VOC and yet these
+warehouse over 1.1 million sq. ft are right in our backyard. No buffer whatsoever. A few trees planted along the back wall. The very minimum needed by the developer. This will not stop the RAMV (2)-23
+noise, air pollution, truck traffic, crime and prostitution that comes with warehouses and high truck traffic. Over 800 additional semi trucks traveling to Cajalco Road, Harley Knox Blvd. and Harvill Ave. each day. These roads are already gridlocked during commute times. Harley Knox
+off ramp is over capacity and trucks are backing up onto the freeway.
+
+What is the solution. Keep the Business Park designation that is our vision for the community. Local residents, small businesses and better jobs. The entire area is becoming over saturated
+with mega warehouses. Wholesale land use changes are being made and the consequences are RAMV (2)-24
+replacing workers with robots in the near future leading to increased poverty and reduced County
+revenue.
+
+Policies:
+
+The following policies apply to Industrial and Business Park designated properties within the Community Development General Plan Foundation Component, as further depicted on the area RAMV (2)-25
+plan land use maps
+
+Community Design LU 30.2 Control heavy truck and vehicular access to minimize potential impacts on adjacent TRAMV (2)-25
+properties. I(cont.)
+
+Most of the project is designated Business Park (BP) Land Use in the Riverside County General Plan. Massive Logistics warehouses bring in low paying temps jobs, while small business create "clean industry" with highly skilled labor.
+
+Business 0.25 - Employee intensive uses, including research & development,
+
+Park (BP) 0.60 technology centers, corporate offices, "clean" industry and
+FAR supporting retail uses.
+
+Light Industrial (LI) Land Use.
+
+Light 0.25 - Industrial and related uses including warehousing/distribution,
+Industrial 0.60 assembly and light manufacturing, repair facilities, and
+(LI) FAR supporting retail uses.
+
+|RAMV (2)-26
+
+COMMUNITY DEVELOPMENT RAL COMMUNITY
+B &igAt Indoitrisd
+High Infustrial 4 | Easatc Reskäcatint (2 ac min)
+ER Rrsco Prrk Nirry Low Iknuty Residouind (1 ac min)
+F ton Dernity Reilontisl (0.S uc min)
+Pabte Bacilities
+Mivod Chc Mxuray Arm
+S
+Mauve color is Business Park, light purple is Industrial, dark purple is Community Center,
+Warehouses are being proposed outside of the Business Park land use area changing the
+Mead Valley Area Plan and Vision
+
+PROJECT
+
+The Project proposes to build two high-cube logistics warehouses totaling 1,113,627 square feet. fesowv (2)-27
+
+Building "D" is 702,645 square foot located to the east of Ellsworth Street and south of Old Oleander on 37.1 acres; and Building "E" is a 410,982 square foot building to the west of Ellsworth and south of Oleander on 21.5 acres.
+General Plan Amendment (GPA) No. 1151 proposes to change the General Plan designation from Community Development- Light Industrial (CD-LI) and Community Development Business Park (CD-BP) to entirely CD-LI.
+Change of Zone No. 7873- a Zone Change for Building E site from (RR) Rural Residential ½- acre lot sizes and (IP) Industrial Park to (IP) Industrial Park.
+
+GPA No. 1152- seeks to change the General Plan Land Use Designation from CD-BP Community Development Business Park to CD-LI Community Development Light RAMV (2)-27
+
+Industrial. (cont.)
+
+Change of zone No.7872 for building "D" from (MM) Medium Manufacturing and (RR) Rural Residential to (IP) Industrial Park.
+The project site Plot Plans for Buildings E and D contain parking spaces for 331 trucks and trailers--251 at Building Site D and 80 at Building Site E. The Project will also contain 160 loading docks-- 109 at Building D and 51 at Building E. The Plot Plans in EIR 546 indicate that Building E and D will be located directly adjacent to rural residential properties along the southern property boundary line. These types of high cube logistics warehouses operate 24 hours a day and 7 days per week.
+After reviewing EIR 546 a large number of major flaws are readily apparent in this document that raise a number of health and safety concerns to the residents of our rural neighborhoods, Community of Mead Valley, surrounding Communities of Greater Lake Mathews, Greater Mead RAM' (2)-28
+Valley, Woodcrest, Orangecrest and the City of Riverside
+There currently is a similar Knox Business Center high cube warehouse at 17789 Harvill that has multiple tenants, which is creating enormous delays in trucks staging (queuing) outside of the facility. More than 30 trucks have been observed lining up on Harvill Ave and along the Harley Knox overpass with their engines idling for hours as they wait their turn to enter this facility. This is causing a traffic nightmare, CARB violations, and safety hazards on Harvill Ave. as these RAMV (2)-29 trucks are idling for hours and blocking traffic as cars are turning left from Harley Knox onto Harvill Ave. Some near accidents have been observed. Harvill Ave. was never built to County width standards and therefore trucks cannot park along Harvill Ave. without being in the right lane of traffic. This problem continues during some peak hours of operation.
+
+First
+
+Many of the EIR documents are using out of date information from 2014 and 2015 such as
+Biological Reports, Cultural Reports, Traffic Studies, etc. Conditions for this project have changed dramatically in a number of ways. Traffic studies fail to include additional mega high cube warehouses currently under construction in the vicinity that were once zoned for residential and commercial land uses. Habitat for wildlife is diminishing rapidly forcing more animals to® RAMV (2)-30
+look for suitable habitat land nearby. Several warehouses are currently under construction along the eastern portion of Harvill between Markham and Cajalco. These are not included
+
+in EIR 546. ARAMV (2)-30
++(cont.)
+The EIR is flawed at it fails to mention that Building D and E are built to accommodate more
+than one tenant. The Buildings have two entrance gates and truck access locations along Old
+Oleander Ave. There are two offices on the northeast and northwest side of each building. There RAMV (2)-31
+are two separate loading docks and parking spaces on each side of the buildings. Oleander is 78' in width with 2 lanes. See Figure 3-8, Plot Plan No. 25838. Oleander is the primary access for both Building E and D requiring arriving trucks to enter the facilities turning left into the truck
+entrances. Traffic studies Appendix J1 Traffic Impact Analysis. "Consistent with the 2015
+Traffic Study, the ITE High-Cube Warehouse / Distribution Center land use (ITE Land Use Code 152) has been utilized for the purposes of this supplemental analysis" It is unclear as It to RAMV (2)-32
+what information has been updated and what information is still contained from the 2015 traffic study. Various maps show Building E with outdated Plot Plan information and inaccurate
+outdated traffic assumptions. The fact that Harvill Ave. is undersized cannot be over stated.
+Trucks cannot park along the street without blocking the right hand lane.
+
+Urban Crossroads noise analysis study for the "Project" "The traffic noise levels provided in this analysis are based on the traffic forecasts found in the Knox Business Park Traffic Impact Analysis prepared by Urban Crossroads, Inc. in June 2015 (page 23). Outdated traffic report almost 3 years ago. Based on Urban Crossroads noise analysis outdated study as numerous warehouses are currently under construction along Harvill south and RAMV (2)-33
+east of Markham as part of the Majestic Business Park. One very large warehouse was just completed north of Harley Knox x Nandina.
+
+EXHIBIT 1-A: LOCATION MAP
+
+759091
+Warehouse
+completei
+
+RAMV (2)-33 (cont.)
+
+SITE SITE
+
+Old Oleander is also undersized for these types of logistics warehouses. Entrances have short distances between them which will make it difficult for trucks to try to turn left into the four truck driveways. The center continuous left-turn lane will only support a few trucks at a time. It is quite possible that trucks will be forced to queue along the shoulder of Oleander Road and
+then try to turn left into one of the four driveways as other trucks are trying to turn left into a driveway just down the street. Trucks may even back up onto Decker and Harvill Ave and idle as RAMV (2)-34
+they wait in line. The area to the north will remain unimproved which will attract trucks to use this area for breaks all the while the trucks are idling. EIR air pollution analysis assumes idling time 3 of just 3 minutes which is impossible to attain. Monitoring is impossible to determine what idling times are actually attained.
+
+Old Oleander is an Industrial Collector and is designated to have 2 lanes with a minimum right-of-way of 78-feet. Industrial Collectors are circulatory streets with a continuous left-turn lane with at least one end connecting to a road of equal or greater classification. paY (2)-35
+
+Decker Road - Decker Road is a north-south oriented roadway bisecting the Project. The Project proposes to construct Decker Road from Oleander Avenue to the southern Project boundary at its ultimate full section width as a secondary highway (100-foot right-of-way). The EIR does not adequately address the fact that Decker road south of the project boundaries is a non-dedicated
+unimproved dirt road. Trucks will be driving down a narrow street with 3 speed humps, 3 pot holes, uneven surfaces, dust, mud and no painted markings on the road. No stop sign or street RAMV (2)-36
+sign at Markham Street X Decker Road. Decker Road is not suitable for heavy truck traffic 24-7
+and the noise pollution, air pollution, vibration and Jake Brake noise created from these trucks will destroy the quality of life for thousands of rural residents who live along the routes that these trucks will be traveling. The EIR does not analyze or address this in the traffic study or any other appendices or reports.
+
+The EIR state numerous times that trucks from this project will not use Decker Road south to Markham to access Day Street. This is not based on accurate information. Using Google maps one can easily see that the shortest distance from the Project site is to use Cajalco Road to the I-
+91 X I-15 Interchange with a distance of 21 miles.
+
+LA SIERRA
+
+91 March Air
+
+Corona O'Interstate 15 Woodcrest Reserve Base
+
+17501-18329
+Decker Road
+Cerrito lley RAMV (2)-37
+
+21.0 miles
+
+Using El Sobrante to La Sierra to the I-91 is also a much faster route that using Harvill to the I- 60 to the I-91. The EIR states that ALL vehicles will be using Old Oleander to Harvill to
+access the Harley Knox onramp onto the I-215 Freeway. The distance for that route is 27.5 miles and has massive traffic congestion during peak hours. The EIR is flawed in its analysis.
+
+Jurupa Valley RuBIDoUx
+MIRA LOMA Rivererde Box Springs
+Mountain
+Reserve Park
+
+tvale MAGNOLIA
+CENTER Moren
+Norco
+
+ARLINGGR RAMV (2)-37
+
+SIERRA 27.5 miles MISSION GROVE (cont.)
+
+March Air
+Woodcrest Reserve Base
+
+17501-18329,
+Decker Road
+El Cerrito. Mead Valley
+
+Traffic conditions have changed dramatically since this study was performed in 2015. The EIR is flawed and a new current traffic study must be performed. Traffic backs up to Nuevo Road (2)-38 going North and all the way to Orange County going South on the I-215. RAMY
+
+RAMV (2)-39
+
+Harvill Ave right hand lane blocked as trucks are trying to gain entry into the logistics warehouse at Harvill X Old Oleander Road. Trucks are blocking traffic as cars are turning left from Harley Knox onto Harvill Ave.- There were a number of near accidents caused by these trucks stopped in the right lane of traffic. The developer states this problem is solved, but there are still
+problems with trucks coming in all at once and backing up along Harvill.
+
+Gileno
+
+Truck blocking Harvill as the driver turns left from the center median to get into the warehouse gate entrance at 17789 Harvill Ave. This is the same type of conditions that trucks will incur trying to turn left from Old Oleander into the driveways of Building E and D and are not RAMV (2)-40
+addressed in the EIR. Trucks that are unloaded and trying to travel to Harvill will be idling in the road as they wait to get past trucks parked in the middle of the road. Statements that there are
+adequate room at the entrances does not allow for 2 tenants for each warehouse with their own
+entrance.
+
+B PFUTURE ROW
+
+OLD OLEANDER AVENUE
+
+POTOT
+
+WITH 5,000 S.F. WITH-
+-MEZZANINE 5,000 S.E.
+LACK MEZZANINE
+
+BUILDING
+702,645 f
+
+The EIR 546 fails to analyze the impacts from multiple tenants and inadequately analyzes truck queuing and staging areas along Oleander Ave. These proposed warehouses will be operating 24 hours per day and 7 days per week directly adjacent to rural homes. EIR does not mention trucks (2)-41
+idling on local roads or vacant lots. powt
+
+Second.
+
+The project seeks to merge number of parcels together with various zoning and land use designations to create 2 large parcels in order to build two distinct high cube logistics warehouses. These two high cube warehouses are being considered as one project totaling over 1.1 million sq ft. This type of piecemealing or segmentation is not allowed under CEQA. Therefore EIR 546 must be revised and recirculated SO that this error to piecemeal the
+project can be corrected. RAMV (2)-42
+
+The State CEQA Guidelines define a project under CEQA as "the whole of the action" that may result either directly or indirectly in physical changes to the environment. This broad definition is intended to provide the maximum protection of the environment.
+In general, if an activity or facility is necessary for the operation of a project, or necessary to achieve the project objectives, or a reasonably foreseeable consequence of approving the project, then it should be considered an integral project component that should be analyzed within the environmental analysis. The project description should include all project components, including those that will have to be approved by responsible agencies. When future phases of a project are RAMV (2)-43
+possible, but too speculative to be evaluated, the EIR should still mention that future phases may occur, provide as much information as is available about these future phases, and indicate that they would be subject to future CEQA review.
+
+CEQA case law has established the following general principles on project segmentation for different project types:
+"For a phased development project, even if details about future phases are not known, future phases must be included in the project description if they are a reasonably foreseeable consequence of the initial phase and will significantly change the initial project or its impacts" Laurel Heights Improvement Association v Regents of University of California (1988) 47 Cal. 3d 376.
+
+EIR 546 does not mention future Trammel Crow phases for warehouses within the Knox Business Park or the impacts that these future high cube warehouses will have on the RAMV (2)-44
+surrounding rural neighborhoods, Community of Mead Valley, surrounding Communities of Greater Lake Mathews, Greater Mead Valley, Woodcrest, Orangecrest or the City of Riverside. No mention of the impacts of the Mid-County Parkway that exits onto the I-215 near Placentia / Rider Streets bringing more crime to the area.
+For a linear project with multiple segments such as a highway, individual segments may be evaluated in separate CEQA documents if they have logical termini and independent utility. Del Mar Terrace Conservancy, Inc. V. City Council (1992) 10 Cal. App. 4th 712.
+
+For a planning approval such as general plan amendment, the project description must include reasonably anticipated physical development that could occur in view of the approval. City of Redlands v. County of San Bernardino (2002) 96 Cal. App. 4th 398. For a project requiring construction of offsite infrastructure (e.g., water and sewer lines), the
+offsite infrastructure must be included in the project description. San Joaquin Raptor/Wildlife RAMV (2)-44
+Rescue Center v. County of Stanislaus (1994) 27 Cal.App. 4th 713. (cont.)
+For modification of a permit for an existing facility, the scope of the project description can be limited to the scope of the permit modification and does not cover the entire facility. Citizens for East Shore Parks v. State Lands Commission (2011) 202 Cal.App.
+4th 549. (https://ceqaportal.org//tp/ProjectDiscription03-23-161.pdf).
+Building Industrial High Cube logistics warehouses at this location will set a precedent for future warehouses in the rural and business park zoned areas next to and nearby this proposed project. JRANV 2)45
+
+Third
+
+The EIR assessment for Building "E" on the west side of Decker Road has been modified
+substantially in the number of parcels, combined lot size and building size. Modification to the
+EIR for Building "E" describe different scenarios in regards to traffic flow, differing elevation height measurement of the building and various other inconsistencies that affect every aspect of
+the Environmental Impact Report. This EIR must be rejected because the project description is
+inaccurate and is described differently in different parts of the document. The approval by the
+ALUC is also inconsistent and inaccurate with the EIR in the project size and description.
+Building height is described in the ALUC public hearing as a request to go from 44' to 55'. EIR
+546 and project description do not mention the new height of 55' in their reports and analysis. How will this impact noise, air pollution, traffic, number of trucks being processed each day,
+etc. RAMV (2)-46
+County of Inyo v. City of Los Angeles (1977) 32 Cal. App. 3d 795: "EIR was rejected because the project description was inaccurate and was described differently in different parts of the document" (AEP CEQA Portal, CEQA Portal Topic paper)
+Project Description in the State CEQA Guidelines.
+
+The project description is addressed in the following sections of the State CEQA Guidelines: Section 15378 - Defines the term "project" as used within CEQA, and the types of actions that either do or don't constitute a project for the purposes of CEQA. Section 15124 - Discusses the types of information about a proposed project that should be
+included in the Project Description.
+
+Fourth
+
+MVAP 6.1 In conjunction with the first warehousing/distribution building proposed for the industrial area located along Interstate 215 (including land designated Light Industrial, Business Park, and Light Industrial with Community Center Overlay) whereby the cumulative square RAMV (2)-47
+footage of warehousing/distribution space in the area would exceed 200,000 square feet, an
+Environmental Impact Report (EIR) shall be prepared that assesses the potential impacts of the
+
+project. The EIR must address air quality, including a health risk assessment of diesel particulates and impacts to sensitive receptors, truck traffic and noise, and the cumulative RAMV (2)-47
+impacts of reasonably foreseeable warehouse development in the area (Mead Valley Area Plan, (cont.)
+pg. 32).
+
+Final EIR 546 does not adequately address air quality, including the health risk assessment of diesel particulates and impacts to sensitive receptors, truck traffic and noise, and the cumulative
+impacts of reasonably foreseeable warehouse development in the area. Impacts such as noise
+pollution, truck traffic impacts to sensitive receptors (rural residential property) that abuts this
+project, impacts of using Decker Road which is a unimproved dirt road with speed bumps, pot RAMV (2)-48
+holes, uneven surfaces, lack of painted road lines, no stop sign and no road sign. Decker is listed
+as the secondary access to Buildings D and E. No mention in the EIR that Decker Road will allow trucks from this Project to use a large number of local roads to get to the Ports.
+
+Noise: According to the Riverside County General Plan N.1 Noise Element, " Sound refers to
+anything that is or may be perceived by the ear. Noise is defined as "unwanted sound" because of
+its potential to disrupt sleep, rest, work, communication, and recreation, to interfere with speech
+communication, to produce physiological or psychological damage, and to damage hearing.'
+
+The Noise Element is a mandatory component of the General Plan pursuant to the California RAMV (2)-49
+Planning and Zoning Law, Section 65302(f).
+Research pursuant to Section 46050.1 of the Health and Safety Code. It also can be utilized as a
+tool for compliance with the State of California's noise insulation standards.
+
+Noise Sensitive Land Uses
+A series of land uses have been deemed sensitive by the State of California. These land uses
+require a serene environment as part of the overall facility or residential experience. Many of
+these facilities depend on low levels of sound to promote the well being of the occupants. These
+uses include, but are not necessarily limited to; schools, hospitals, rest homes, long term care RAMV (2)-50
+facilities, mental care facilities, residential uses, places of worship, libraries, and passive recreation areas. Activities conducted in proximity to these facilities must consider the noise output, and ensure that they don't create unacceptable noise levels that may unduly affect the
+noise-sensitive uses. N-4
+
+Require commercial or industrial truck delivery hours be limited when adjacent to noise-
+sensitive land uses unless there is no feasible alternative or there are overriding transportation
+benefits (AI 105, 107). The current project is not restricted in any way and will be operating 24- RAMV (2)-51
+7. Construction operations are also not limited and will be allowed to pour concrete 24-7 (allowing for loud noise, light trespass, dust, air pollution, traffic 24-7).
+Require a minimum setback of 1000ft. SCAQB, WRCOG highly recommend 1000 foot setbacks from industrial land uses. Mead Valley Area Plan requires setbacks from sensitive receptors.
+
+http://www.aqmd.gov/docs/default-source/planning/air-quality-guidance/chapter-2---air-quality- RAMV (2)-52
+
+issues-regarding-land-use.pdf
+N 15.2 Require that commercial and residential mixed-use structures minimize the transfer or RAMIV (2)-53
+
+transmission of noise and vibration from the commercial land use to the residential land use. (AI
+105)
+
+Policies:
+N 16.1 Restrict the placement of sensitive land uses in proximity to vibration-producing land uses. (AI105)
+http://www.rivcocob.org/ords/800/847.pdf
+Noise: Rural Community VLDR
+Maximum DB 7:00 am 10:00 pm 55db/ 10:00pm - 7:00am 45 db.
+LI zone 7:00 am - 10:00 pm 75db / 10:00pm - 7:00am 55 db. RAMV (2)-53
+(cont.)
+b. Power Tools and Equipment. No person shall operate any power tools or equipment between the hours of 10:00 p.m. and 8:00 a.m. such that the power tools or equipment are audible to the human ear inside an inhabited dwelling other than a dwelling in which the power tools or
+equipment may be located. No person shall operate any power tools or equipment at any other time such that the power tools or equipment are audible to the human ear at a distance greater than one hundred (100) feet from the power tools or equipment. Warehouse construction is allowed to operate with loud noise at distances greater that 2 blocks from the site at night with bright lights, generators, and concrete pumping machines and concrete trucks. Neighbors at these distances cannot sleep because of the light trespass and noise
+generated from construction operations.
+
+EIR claims that air pollution is getting better, while that is not the case as air pollution is getting
+worse.
+
+http://www.latimes.com/local/lanow/la-me-In-bad-air-days-20171115-story.html
+https://www.dailynews.com/2017/05/24/why-is-southern-californias-air-quality-so-bad-its-smog- RAMV (2)-54
+
+season/
+https://www.pe.com/2017/04/18/southern-californias-smog-clean-up-future-is-far-from-clear/
+EIR 546 not only fails to meet CEQA guidelines, but also falls short of the Riverside County General Plan - Mead Valley Area Plan for land use with NO buffer between sensitive receptors and Building "D". The total square footage of Building "D" and "E" will be over 1.1 million square feet of high cube warehouses up to 55' tall removing all view of the valleys and
+mountains from residents living nearby and up the hill at Day Street. The buildings will have
+very tall slopes up to 17' tall next to homes, a secondary highway and community trail. The EIR does not address the ineffective noise pollution barriers that will be put in place as an attempt to protect rural residents against harmful cumulative effects of noise pollution, air pollution, light RAMV (2)-55
+trespass, truck traffic, vibration day and night 24-7. EIR states buffer of 191' between residents and warehouse. The actual buffer is just 67' from the properly line between rural residents and
+the warehouse. Trucks utilizing the southern driveway will be much closer to residents homes.
+The warehouse similar to this on Harvill has numerous trucks parked in the auto parking areas which in the case of this project will be next to residents homes.
+
+19111
+Rural Home's Un
+Redwood-Dr-
+
+RAMV (2)-55
+(cont.)
+
+0.8
+uopenueouoo engejay 0.6
+
+0.4
+
+0.2
+
+500 300 400 0.20 100 200
+Warchouse buffer 67 fect Distance from Edge of Freeway (m)
+
+Maximum buffer from property line to south warehouse wall 67'. EIR states 191' buffer. CJenv (2)-56
+
+Figure 2-1
+Relative Concentration of Diesel Particulate Matter
+in Relation to the Distance from The Edge of a Freeway
+Source: South Coast Air Quality Management District. Adapted from the Califomia Air Resources Board's Diesel Risk Reduction Plan.
+
+A comparison of total cancer risk and cancer risk from diesel particulate matter emissions in rural and urban areas shows that cancer risk associated with elevated
+levels of diesel particulate both decrease rapidly within the first 100 - 150 meters from the edge of a roadway (Table 2-2). Estimated cancer risk from diesel particulate matter
+along rural and urban roadways is decreased approximately 68 percent at a distance 150 m (492 ft) from the edge of the roadway. Clearly, these data demonstrate that a minimum distance that separates sources of diesel emissions from nearby receptors is effective in reducing potential cancer risk. The AQMD recognizes that physical separation of the receptors from the pollution sources is not always reasonable or
+feasible particularly in mature communities. For example, in southern Los Angeles
+county a sequence of land use decisions in urban areas allowed freeway construction
+through existing neighborhoods.
+
+Table 2-2
+
+Cancer Risks from Diesel Particulate Matter at the
+Edge of Roadways in Rural and Urban Areas
+
+Bistance fro #EGGe sel Particulate Mafter Total Cancer Risk RAMV (2)-57
+
+Roadwäv cancer Riskion ohe million  (n ohe milion)
+uneters) Rurato Urban Rurae Urban
+
+20 m 475 890 589 1104
+
+150 m 151 277 187 343
+
+500 m 86 159 107 197
+
+Source: South Coast Air Quality Management Districl. Adapled from the California Air Resources Board's Diesel Risk Reduction Flan.
+*To sccount for gasoline vehicle emissions, the diesel PM risk was multiplied by 1.24. This represents the relstive risk contribution from benzene, 1, 3 butadiene, formaldehyde, and acetaldehyde on a basin-wide basis. it is assumed that the vast majority of benzene, 1, 3 butadiene, formsldehyde, and acetaldehyde emissions come from on-road gasoline vehicles.
+
+The AQMD provides guidance for analyzing cancer risks from diesel particulate matter from mobile sources at facilities such as truck stops and warehouse distribution centers
+in the document titled Health Risk Assessment Guidance for Analyzing Cancer Risks from Mobile Source Diesel Idling Emissions for CEQA Air Quality Analysis. This
+document may be downloaded at http://www.aqmd.gov/cega/hdbk.htmlThis guidance describes analysis of potential cancer risks associated with diesel particulates from truck idling and movement (such as truck stops, warehouse and distribution centers, or
+transit centers), ship hotelling at ports, and train idling. It is suggested that projects with diesel-powered mobile sources use this health risk guidance document to quantify
+potential cancer risks from the diesel particulate emissions.
+
+http://www.aqmd.gov/docs/default-source/ceqa/handbook/localized-significance-
+thresholds/particulate-matter-(pm)-2.5-significance-thresholds-and-calculation- [RAMV (2)-57
+methodology/final_pm2_5methodology.pdf?sfvrsn=2 |(cont.)
+Riverside County General Plan Chapter 10 Healthy Communities Elements
+Policies:
+HC 14.1
+When feasible, avoid sitting homes and other sensitive receptors near known or anticipated sources of air pollution. (EIR is flawed in its is analysis of the Health Communities Element). HC 14.2
+When feasible, avoid locating new sources of air pollution near homes and other sensitive receptors (Page 16). RAMV (2)-58
+http://planning.rctlma.org/Portals/0/genplan/general_Plan_2017/elements/OCT17/Ch10_HCE_1 20815.pdf?ver=2017-10-11-102105-050
+https://www.sciencedaily.com/releases/2013/10/131029220800.htm
+
+This project contradicts the General Plan and Mead Valley Area Plan Healthy Communities
+Element
+
+Potential Mitigation Measures
+CEQA requires public agencies to take responsibility for protecting the environment.. In regulating public or private projects, agencies are expected to avoid or minimize environmental damage. The purpose of an EIR is to identify the significant effects of a project on the environment, identify alternatives to the project, and indicate the manner in which significant impacts can be mitigated or avoided. To this end, below is a list of potentially applicable mitigation measures for truck idling facilities, shipping activities in local ports, and train idling.
+http://www.aqmd.gov/home/rules-compliance/ceqa/air-quality-analysis-handbook/mobile- source-toxics-analysis
+Mobile Source Toxics Analysis
+In August 2002, the SCAQMD's Mobile Source Committee approved the "Health Risk Assessment Guidance for Analyzing Cancer Risks from Mobile Source Diesel Emissions." In August 2002, the SCAQMD's Mobile Source Committee approved the "Health Risk RAMV (2)-59
+Assessment Guidance for Analyzing Cancer Risks from Mobile Source Diesel Emissions." This document provided guidance for analyzing cancer risks from diesel particulate matter from mobile sources at facilities such as truck stops and warehouse distribution centers.
+Subsequently, SCAQMD staff revised the aforementioned document to expand the analysis to provide technical guidance for analyzing cancer risks from potential diesel particulate emissions impacts from truck idling and movement (such as, but not limited to, truck stops, warehouse and distribution centers, or transit centers), ship hotelling at ports, and train idling. This revised guidance document titled, "Health Risk Assessment Guidance for Analyzing Cancer Risks from Mobile Source Diesel Idling Emissions for CEQA Air Quality Analysis" was presented to and approved by the SCAQMD's Mobile Source Committee at its March 28, 2003 committee
+meeting. It is suggested that projects with diesel powered mobile sources use the following
+guidance document to quantify potential cancer risks from the diesel particulate emissions.
+
+Mobile Source Toxics Analysis, Page 11
+Truck Idling Facilities
+Provide a minimum buffer zone of 300 meters between truck traffic and sensitive
+receptors;
+Re-route truck traffic by adding direct off-ramps for the truck traffic or by restricting truck traffic on certain sensitive routes;
+Improve traffic flow by signal synchronization;
+Enforce truck parking restrictions;
+Develop park and ride programs;
+Restrict truck idling;
+Restrict operation to "clean" trucks; RAMV (2)-59
+Electrify service equipment at facility; |(cont.)
+
+Provide electrical hook-ups for trucks that need to cool their load;
+Electrify auxiliary power units;
+Use "clean" street sweepers;
+Pave roads and road shoulders;
+Provide onsite services to minimize truck traffic in or near residential areas, including, but not limited to, the following services: meal or cafeteria service, automated teller machines, etc;
+Require or provide incentives to use low-sulfur diesel fuel with particulate traps; and
+Conduct air quality monitoring at sensitive receptors.
+
+• (1) Provide a minimum buffer zone of 300 meters between truck traffic and sensitive
+receptors. NO BUFFER is being provided between residents and this project.
+No real buffer is being provided between truck traffic and sensitive receptors. Trucks RAMV (2)-60
+will be traveling around the south boundary of the property. Trucks bays and parking stalls are near the south end of the warehouse where residents live.
+(2) Re-route truck traffic by adding direct off-ramps for the truck traffic or by restricting truck traffic on certain sensitive routes.
+Restricting trucks from traveling on residential streets is not included in the FEIR. RAMV (2)-61
+Weight limit signs as well as blocking off Decker Road at the southern property line of Building "E" and "D" is critical to keeping trucks out of rural residential neighborhoods.
+(3) Improve traffic flow by signal synchronization. No signal lights will be installed as part of this project. RAMV (2)-62
+
+• (4) Enforce truck parking restrictions.
+Truck parking in adjacent Knox warehouses are not being enforced. Trucks and trailers RAV 12163
+
+are allowed to park in areas not assigned to trucks. Car parking areas and other areas TRAMV
+restricted from truck parking are occurring without any consequences. (2)-63 (cont.)
+(5) Develop park and ride programs. No park and ride programs in the area. RAMV (2)-64
+(6) Restrict truck idling. Trucks allowed to idle for hours in Knox Business Park. Restrictions are ignored. RAMV (2)-65
+(7) Restrict operation to "clean" trucks. Many trucks coming into these facilities are older and not clean trucks. The paint is worn RAMV (2)-66 off and they appear to be unkept.
+(8) Electrify service equipment at facility.
+Some equipment will use electricity. RAMV (2)-67
+(9) Provide electrical hook-ups for trucks that need to cool their load. No Refrigerated hook-ups will be installed for cool product shipping. RAMV (2)-68
+
+(10) Electrify auxiliary power units. *RAMV (2)-69
+
+(11) Provide onsite services to minimize truck traffic in or near residential areas, including, but not limited to, the following services: meal or cafeteria service, automated teller machines, etc. RAMV (2)-70
+No services are being provided.
+(12) Require or provide incentives to use low-sulfur diesel fuel with particulate traps; *RAMV (2)-71
+
+(13) Conduct air quality monitoring at sensitive receptors. This must be mandatory. Location of these receptors is critical. EANV E2);72
+
+County of Riverside General Plan December 8, 2015 Page 11
+AQ 1.11
+Involve environmental groups, the business community, special interests, and the general public in the formulation and implementation of programs that effectively reduce RAMV (2)-73
+airborne pollutants.
+This is not happening. Current guidelines are being completely ignored.
+
+Sensitive Receptors
+Sensitive receptors refer to those segments of the population most susceptible to poor air quality (i.e. children, elderly and the sick) and to certain at-risk sensitive land uses such
+as schools, hospitals, parks, or residential communities. The intent of the following policies is to reduce the negative impacts of poor air quality on Riverside County's RAMV (2)-74
+sensitive receptors. NO BUFFERS provided and will be at risk to the health effects of this project.
+
+Policies:
+AQ 2.1 |RAMV (2)-75
+
+The County land use planning efforts shall assure that sensitive receptors are separated and protected from polluting point sources to the greatest extent possible. (AI 114)
+
+AQ 2.2
+Require site plan designs to protect people and land uses sensitive to air pollution through the use of barriers and/or distance from emissions sources when possible. (AI 114)
+
+AQ 2.3
+Encourage the use of pollution control measures such as landscaping, vegetation and other materials, which trap particulate matter or control pollution. (AI 114)
+
+AQ 2.4
+Consider creating a program to plant urban trees on an Area Plan basis that removes pollutants from the air, provides shade and decreases the negative impacts of heat on the RAMV (2)-75
+air. (AI 114) (cont.)
+
+Stationary Pollution Sources
+AQ 4.6
+Require stationary air pollution sources to comply with applicable air district rules and control measures.
+AQ 4.7
+To the greatest extent possible, require every project to mitigate any of its anticipated emissions which exceed allowable emissions as established by the SCAQMD, MDAQMD, SCAB, the Environmental Protection Agency and the California Air
+Resources Board.
+
+http://planning.rctlma.org/Portals/0/genplan/general_Plan_2017/elements/OCT17/Ch09_AQ%20 %20Element_120815.pdf?ver=2017-10-11-102104-270
+
+Particulate Matter
+The Environmental Protection Agency (EPA) defines particulate matter (PM) as either airborne photochemical precipitates or windborne dust. Consisting of tiny solid or liquid particles of soot, dust, smoke, fumes, and aerosols, common sources of PM are manufacturing and power plants, agriculture, diesel trucks and other vehicles, construction sites, fire and windblown dust. Generally PM settles from atmospheric suspension as either particulate or acid rain and fog that has the potential to damage health, crops, and property. Particulate of 2.5 microns or smaller (2.5 microns is approximately equal to .000098 inches) may stay suspended in the air for longer periods of time and when inhaled can penetrate deep into the lungs. Among the health effects related to PM2.5 are premature death, decreased lung function and exacerbation of asthma and RAMV (2)-76
+other respiratory tract illnesses. Airborne particulate matter sized between 2.5 and 10 microns (10 microns is approximately equal to 0.0004 inches), known as PM10 also pose a great risk to human health. PM10 can easily enter the air sacs in the lungs where they may be deposited, resulting in an increased risk of developing cancer, potentially changing lung function and structure, and possibly exacerbating preexisting respiratory and cardiovascular diseases It can also irritate the eyes, damage sensitive tissues, sometimes carry disease, and may even cause premature death. PM2.5 and PM10 are
+especially hazardous to the old, young and infirm.
+
+Control Measures
+Riverside County can implement simple control measures to reduce the amount of particulates produced within its borders. Strict enforcement of these and current regulations can then lead to a
+substantial decrease in particulate concentrations in the County of Riverside and neighboring
+areas.
+
+AQ 17.8
+Adopt regulations and programs necessary to meet state and federal guidelines for diesel
+emissions. (AI 121) RAMV (2)-77
+AQ 17.9
+Encourage the installation and use of electric service units at truck stops and distribution centers for heating and cooling truck cabs, and particularly for powering refrigeration trucks in lieu of
+idling of engines for power. (AI 120)
+AQ 17.10
+Promote and encourage the use of natural gas and electric vehicles in distribution centers. (AI
+146, 147).
+
+Southern California bad air days for ozone
+250 ...
+
+200 2017: 145 days
+
+150
+
+100. RAMV (2)-78
+
+50 .
+
+0L
+1990 1995 2000 2005 2010 2015
+Source: South Coast Air Quality Management District Tony Barboza / @latimesgraphics
+
+Riverside County Parks and Open Space Comprehensive Trails Plan
+Chapter 3 - Page 46
+Mead Valley Area Plan
+The Mead Valley Area Plan represents an area in western central Riverside County. RAMV (2)-79
+The three major land uses are open space, rural communities, and some light industrial. A number of institutional areas surround the planning area, potentially influencing the area's development. Policies related to trails contained within the Mead Valley Area Plan area.
+
+Highly suggest Decker Trail be set along west side of the road. The east side of Decker at Markham has massive water runoff issue where rip rap has been installed to protect the EMWD ".easw (2)-80
+pumping station and homes.
+
+The EIR fails to address or analyze homes directly south of this project along the hills west of Decker Road. These homes will be directly impacted by the noise pollution, air pollution, rock blasting, vibration, light trespass and truck traffic. Although these homes just over the 600' minimum will be greatly impacted the property owners were never notified of the General Plan Amendments and zone changes that will greatly impact their lives. This is another example of how sound will be amplified by the sound waves rising above the sound walls and air pollution rising against the hills.
+
+RAMV (2)-81
+
+"The Business Park uses on the west side of Harvill Avenue provide a buffer for residential uses
+to the west" (http://planning.rctlma.org/Portals/0/genplan/content/ap1/meadvalley.html).
+This proposed project eliminates the Business Park buffer provided through the Riverside County General Plan - Mead Valley Area Plan.
+"A General Plan is required by State law and is the County's over-arching policy document for land use matters. It determines what the housing needs will be, how roads will be placed, and where commercial and industrial uses will be situated throughout the County for the next 20 years and beyond. The General Plan Elements (see Item 1., below) generally discuss countywide policies and plans. The Area Plans (see items 2 and 3, below) within the General RAMV (2)-82
+Plan address regional issues and policies, to address the special needs of each unique community within the County. Lastly, the Area Plans contain parcel-level maps that indicate the General Plan "land use designation" for each property subject to County jurisdiction. Per State laws, a
+
+parcel's zoning will have to be brought into compliance with the General Plan (for example, the site's land use designations) before t project can be approved" (http://planning.rctlma.org/ZoningInformation/GeneralPlan.aspx). RAMV (2)-82
+The simplest way to summarize our vision for Riverside County is to say that: (cont.)
+"Riverside County is a family of special communities in a remarkable environmental setting. 13
+
+Riverside County Vision Statement. Pg. V3)
+
+Health
+We value the health of our residents. Therefore, we seek to reverse significant negative national
+health trends so that: 1) children live healthier and longer lives than their parents; 2) air and water quality are improved, 3) respiratory illnesses are reduced SO that people spend fewer days RAMV (2)-83
+out of work and school because of health problems; 4) health care costs have decreased; 5)
+obesity has decreased; and 6) people are physically active. (Riverside County Vision Statement, Pg. V3)
+The EIR for this project for Industrial High Cube Warehouses does not give residents a buffer from this harmful high polluting industry. Children, the elderly, and people with respiratory illness and heart disease are most affected by living next to and near high pollution industries RAMV (2)-84
+such as logistics warehouses that have large numbers of diesel trucks that create high amounts of particulate matter and other unhealthy toxic gases into the air. Rubber particles from truck tires was never addressed in the EIR. Tire particles are very small and can penetrate deeply into your lungs causing serious health problems. Hundreds of trucks will be traveling on our local rural roads to get to the ports of LA and Long Beach instead of using Harvill to access the I-215 RAMV (2)-85
+Freeway. Trucks cause excessive wear and tear on our local streets increasing tire wear and
+rubber particles into the air that we breathe.
+
+Mead Valley Area Plan
+Industrial Development The Mead Valley Area Plan includes an extensive area westerly of Interstate 215 from Nandina Avenue on the north to Nuevo Road and the Perris city limits on the south that is designated
+Light Industrial, Business Park, or Light Industrial with a Community Center Overlay. It is the policy of Riverside County to stimulate economic development in this area of Mead Valley. This area has access to Interstate 215 via two interchanges and includes areas that have all of the infrastructure in place to support economic development. However, given the proximity of the rural community and residential uses, the impacts of industrial expansion on localized air quality,
+traffic, noise, light and glare need to be assessed in order to apply appropriate measures to mitigate impacts so that the environmental quality of the community and residents' health and
+welfare are maintained (Mead Valley Area Plan, pg. 36). RAMV (2)-86
+
+Policies:
+
+MVAP 6.1
+In conjunction with the first warehousing/distribution building proposed for the industrial area located along Interstate 215 (including land designated Light Industrial, Business Park, and Light
+Industrial with a Community Center Overlay) whereby the cumulative square footage of warehousing/distribution space in the area would exceed 200,000 square feet, an Environmental Impact Report (EIR) shall be prepared that assesses the potential impacts of the project. The EIR would be required to address air quality, including : health risk assessment of diesel particulates
+
+and impacts to sensitive receptors, truck traffic and noise, and the cumulative impacts of ARAMV (2)-86
+reasonably foresecable warehouse development in the area (Mead Valley Area Plan, pg. 36). J(cont.)
+EIR 546 fails to measure "impacts of industrial expansion on localized air quality, traffic, noise, light and glare. This must be reassessed in order to apply appropriate measures to mitigate impacts so that the environmental quality of the community and residents' health and welfare are maintained. The EIR fails to give adequate setback between this proposed project and residential uses. WRCOG and SCAQMD requires a 1000 foot buffer between sensitive receptors and
+logistics warehouses (See, http://www.aqmd.gov/docs/default-Source/planning/air-quality- RAMV (2)-87
+guidance/chapter-2--air-quality-issues-regarding-land-use.pdf?sfvrsn=2). The EIR fails to
+address air quality, including an adequate health risk assessment of diesel particulates and impacts to sensitive receptors, truck traffic and noise, and the cumulative impacts of reasonably foreseeable warehouse development in the area (Riverside County General Plan- Mead Valley
+Area Plan).
+
+Fifth.
+
+Rock blasting on the Project Site near residents along Redwood Street, Nance, Day, Decker and Oleander is not adequately analyzed or addressed in the EIR.
+The following blasting noise and vibration monitoring and abatement plan shall be adopted and submitted to the County prior to commencement of blasting activities:
+
+Pre-blasting inspections shall be offered to property owners within 200 feet of the blast
+site.
+Existing damage of each structure shall be documented.
+Post-blasting inspections shall be offered to assess new or additional damage to each structure once blasting activities have ceased for those property owners who accepted
+pre-blast inspections. Property owners within at least 200 feet of the blast site shall be notified via postings on the construction site at least 24 hours before the occurrence of major construction related
+noise and vibration impacts (such as grading and rock blasting) which may affect them.
+The County may impose conditions and procedures on the blasting operations as |RAMV (2)-88 necessary. The construction contractor shall comply with these measures for the duration of the blasting permit. The County may inspect the blast site and materials at any reasonable time (County of Riverside Ordinance No. 787) (Noise Impact Analysis, pg. 6).
+The EIR fails to address the impacts to residents directly adjacent to the project site. "Property owners within at least 200 feet of the blast site shall be notified via postings on the construction
+site at least 24 hours before the occurrence of major construction related noise and vibration
+impacts (such as grading and rock blasting) which may affect them" (Noise Impact Analysis, pg.
+6).
+
+Certainly this is not adequate as residents will not have access to the Project site once
+construction is under way. Residents will not be aware of any signage or posting on the
+construction site and 24 hours is not enough notice to take measures to safeguard their property and livestock. Residents surrounding this project site must be notified in person, written notice or with a notice attached to the property gate as to the date and time that blasting will occur at least
+
+72 hours prior to blasting. The EIR fails to take into account that this a rural neighborhood where many residents have large livestock and other animals that may become frightened from the noise and vibrations of these blasts. Residents have the right to protect their property RAMV (2)-88
+
+(including livestock) from injury and damage. I(cont.)
+
+The EIR does not mention the adverse health impacts of silica dust from extensive rock crushing, movement and usage near the southern portion of the project affecting residents along Redwood Street and residents to the southwest and west of the project as winds shift this dust onto their
+property.
+
+C-69 Noise Impacts - Blasting rocks. Rock blasting next to homes, animals, wildlife, damage to structures. Wildlife impacts from noise, light trespass, vibration is not being addressed in the
+EIR. Required by the State Fish and Game.
+
+DEIR SCH No. 2015081081. Page 3-32 - 3.6 CONSTRUCTION CHARACTERISTICS
+As part of proposed grading activities, blasting would be necessary in hard rock areas on the southern portion of the Project site. Based on the excavation plans prepared on June 16, 2015, by the Henry- Ann Company, rock blasting within the Project site is expected to include the drilling of up to 5,253 holes in the largest area, in which small charges would be placed to fragment the rocks into smaller, crushable pieces. Approximately 112,090 cubic yards (c.y.) of rock is expected to be produced during proposed blasting activities, which would be crushed and used on the Project site as construction base. An electric rock crusher powered by a 300 horsepower diesel generator is proposed to further break down the fragmented rocks. The Project Applicant calculates that approximately 2,759 tons of rock would be processed on the Project site per day during the blasting and rock crushing phase of construction (approximately 65 working days). (Urban Crossroads, Inc, 2015a, pp. 28-29). RAMV (2)-89
+Area of rock crushing southern portion of site. This is where residents live. NO
+MENTION OF DUST RELATED HEALTH HAZARDS (SILICA DUST EXPOSURE)
+CREATED BY ROCK CRUSHING AND LONG TERM HAZARDS OF
+CONSTRUCTION BASE USING THIS SILCA DUST AS BASE.
+No mention of special water spraying equipment to keep this toxic dust down and safe.
+Rock crushing will take place next to rural homes for months and perhaps years.
+
+OSHA-CONTROL OF SILICA DUST IN CONSTRUCTION
+
+Crushing Machines
+Using crushing machines at construction sites to reduce the size of large rocks, concrete, or construction rubble can generate respirable crystalline silica dust. When inhaled, the small particles of silica can irreversibly damage the lungs. This fact sheet describes dust controls that can be used to minimize the amount of airborne dust when using crushing machines as listed in Table 1 of the Respirable Crystalline Silica Standard for
+Construction. 29 CFR 1926.1153
+
+What is Silicosis?
+Silicosis is a disease caused by the prolonged breathing of crystalline silica dust. Fine particles
+
+deposited in the lungs cause thickening and scarring of the lung tissue. Crystalline silica exposure has also been linked to lung cancer. A worker may develop any of the following three types of silicosis, depending on the concentrations of silica dust and the duration of exposure: O Chronic silicosis - develops after 10 or more years of exposure to crystalline silica at
+relatively low concentrations;
+. Accelerated silicosis - develops 5 to 10 years after initial exposure to crystalline silica at high
+concentrations.
+U Acute silicosis - symptoms develop anywhere from a few weeks to 4-5 years after exposure to
+very high concentrations of crystalline silica. Initially, workers with silicosis may have no symptoms. However, as the disease progresses a worker may experience:
+C Shortness of breath;
+E Severe cough; C Weakness.
+These symptoms can worsen over time and lead to death. RAMV (2)-89
+(cont.)
+https://www.cagc.ca/index.php?DP=download&DL=000264
+https://www.silica-safe.org/pdf/OSHA-Controlling-Silica-Exposure-in-Construction.pdf https://www.fhwa.dot.gov/Environment/noise/construction_noise/handbook/handbook09.cfm
+http://homenewshere.com/daily_times_chronicle/news/woburn/article_9d90876a-8afe-llel- acb5-0019bb2963f4.html
+
+http://denw.info/noise-and-acoustics/
+http://deohs.washington.edu/sites/default/files/images/general/Quarry_Rpt.pdf
+http://osha.oregon.gov/OSHAPubs/3301.pdf
+https://www.osha.gov/Publications/OSHA3935.pdf
+wet rock and dust.
+http://www.cdrecycler.com/article/july-aug-2011-more-than-a-nuisance/
+
+Sixth.
+
+Truck and vehicle traffic is not adequately addressed in the EIR. Two main entrances along Oleander are indicated on Building "D" & "E" Site Plans. These plans also indicate two distinct
+offices with one at the northwest and one at the northeast corners of Building "D" & "E" This
+indicates that buildings "E" and "D" will have more than one tenant. Trammel Crow Knox Business Park Building at 17789 Harvill Ave. has several tenants, which is creating enormous traffic, health and safety concerns with 30 or more diesel trucks lined up outside of the entrance
+to the facility. These logistics trucks are lined up along Harvill Ave. idling for hours, blocking the right lane of the road and left turn lane onto Harvill from Harley Knox. RAMV (2)-90
+
+Building "D" has a truck entrance on the east side of the building and a truck entrance on the
+west side of the building. The EIR must clearly indicate if Building "D" and/or "E" will have multiple tenants as this is already creating massive tie ups during the staging of trucks into the warehouse at 17789 Harvill Ave. CARB does not allow trucks to idle for more than 5 minutes
+and yet trucks are allowed to idle for hours as they are waiting to enter the high cube warehouse
+
+at 17789 Harvill Ave. Trucks are idling along Oleander Ave as they sleep in their trucks.
+EIR 546 does not adequately address the direction that trucks will enter the building or what
+streets they will use. All trucks must be directed to enter and exit onto Harvill Ave. from
+Oleander and travel to the Harley Knox Blvd overpass to access the I-215 Freeway. Logistics trucks from these warehouses must not be allowed to use our dangerous narrow rural roads. The EIR must include language that indicates all trucks use Harvill Ave. Decker Road must be closed to through traffic past the Project's southern boundary line. Closure of Decker Road must include barriers that prevent logistics trucks from accessing Decker Road past the southern boundary line of Building "D". This will allow EMWD to continue to access the road to the
+water tank.
+
+RAMV (2)-90
+(cont.)
+
+Harvill Ave. with trucks lined up to enter the warehouse at 17789 Harvill Ave.
+
+RAMV (2)-90 (cont.)
+
+Harvill Ave. with trucks parked in the right lane and cars having to move over to the left lane. Harvill Ave was never built to County standards and is not wide enough for trucks to park along the side of the road and allow other vehicles to drive in the right lane. Harvill Ave. is the main thoroughfare for thousands of trucks that will be accessing Building "E" and "D" current and future high cube logistics warehouses. Traffic studies for this project have not adequately addressed the number of trucks from these warehouses, impacts from these trucks, routes that these trucks will take to access the ports of LA and Long Beach, the health and safety of local residents who will be driving not only Harvill Ave, but numerous other roads that trucks from these warehouses will be using throughout the region.
+
+•NEW 42" STORM DRAIN=
+NEW 8° SEWER:
+WATER
+
+11579.98 TC
+NEW OROP •  1579.48 F
+E. INLET
+
+GRROEnEASR / FH
+1580.4g RAMV (2)-90
+(cont.)
+
+A
+E
+
+POTENTIAL CFFICE
+
+Building
+
+R0E
+
+Building "D" site map dated February 24, 2017 shows the east entrance along Oleander that allows just 4 trucks to queue on site behind the gate to access the building. Knox Logistics Warehouse at 17789 Harvill Ave. shows room for 7 trucks to queue on site. In addition there is a separate lane along Harvill for trucks to access this facility. Unfortunately, this is still not sufficient safe guards as over 30 trucks are attempting to enter the warehouse at 17789 Harvill Ave. at any given time during the day. This is happening everyday all day long as trucks are idling for hours and obstructing traffic creating very hazardous conditions. Idling trucks are producing far more air pollution particulates and noxious fumes. RAMV (2)-91
+
+Having two gates and two separate offices one at the east side of the building and one on the
+west side of the building indicates that Building "D" and "E" are set up for two tenants per warehouse. This is not addressed in the EIR. Traffic studies, air quality studies, noise studies, health and safety concerns for the community are not adequately addressed in the EIR. Both Building "D" and "E" are adjacent to and very close to hundreds of rural residents.
+
+VACANI LAND OLD OLEANDEF LAND USE+ LIGHT INDUBTRIAL
+EX. POWER POLE - ZONNG M-M, F
+POWER
+
+NEW a° SEWER * NEW 12° WATER E 2 22400€
+
+18" STORM ORAIN WATER QUALITY
+
+RAMV (2)-91 (cont.)
+
+1583.55
+Buildingi"D"
+Gate
+
+Building D showing Gate 1 that allows 6 trucks to queue on site. Trucks will be lining up traveling west on Oleander requiring trucks to turn left into Building "D" or "E" from Oleander
+increasing idling time as trucks wait to enter the building and turn left.
+
+Seventh.
+
+Another issue of concern is that children are coming from Moreno Valley to Citrus Hill High School located at Markham and Wood Road. Hundreds of vehicles are traveling on Markham every day as parents take their children to and from school Monday through Friday. The cars are bumper to bumper from Harley Knox to Markham to Wood Road. This has not been addressed in the traffic study or any other portion of the EIR. Adding logistics trucks to Markham increases the pollution, noise and dangerous conditions to our residents and children.
+
+NANDINA AVE
+
+RAMV (2)-92
+HARLEY KUDER AVE
+
+tr PRIMARY ACCESS
+
+KNOX BLVD OLEANDER AVE
+5 PROJECT SITE:
+
+NANCE ST BURCH ST
+t S HLYCHSTE OEEWAY CRE SECONDARY
+ACCESS BONHAM MARKHAM ST
+
+MARY ST
+
+VICINITY MAP
+N.T.S.
+
+The site plan indicates that Old Oleander will be the Primary Access and Ellsworth / Decker will be the secondary access for trucks coming into and leaving Building D and E. This has not been evaluated in the EIR as there are a host of very serious concerns using Ellsworth / Decker Road south of the project for any logistic truck access or any type of vehicle traffic or activity.
+Ellsworth Street/ Decker Road improvements as indicated in the project EIR will consist of the RAMV (2)-93
+area from Oleander to the south property line. Decker Road from the project south property line to Markham is an unimproved dirt road that is not County maintained and therefore not adequate for heavy truck traffic. Decker Street has pot holes, speed bumps and certainly not up to any standards that would meet CEQA guidelines for this project. Issues of concern include: dust, noise, vibration, air pollution, health and safety as these trucks drive down our rural neighborhood streets. The intersection at Markham and Decker has severe line of sight obstruction as Markham goes up a hill and has an "S" curve obstructing the view of vehicles turning onto Markham from Decker Road. This road is so dangerous that K-rails were installed to keep cars from running off the road into homes. None of these adverse impacts were assessed in the EIR. There is no stop sign or signal light at Markham and Decker.
+
+RAMV (2)-94
+
+Ellsworth / Decker Street at Markham looking west. No stop sign or street sign. Just had an accident at this intersection on March 31, 2018.
+
+Logistics Trucks for Buildings "D" and "E" will be coming down the hill on Markham using RAMV (2)-95
+their Jake Brakes in this rural neighborhood. The noise will be intolerable and 24-7.
+
+RAMV (2)-96
+
+Markham along the top of the hill showing K-rails used to protect homes. K-rails are not going to stop a logistics truck from exiting the road along this steep grade on Markham Street. The view of the entire Perris Valley can be seen from the hill along Markham.
+
+Eo
+RAMV (2)-97
+
+Google
+
+•Day Street at Cajalco
+
+Trucks will try to gain access onto Markham using Decker as a shortcut to a Cajalco Road traveling to Day Street. Trucks will either access Harvill Ave. or Decker Road as they go to and from the ports. It is obvious that Harvill Ave is already having Level of Service issues that are
+
+significant and should be rated LOS D. Markham is also at a level LOS E during school drop off TRAMV (2)-97
+and pick up times as cars are bumper to bumper from Harley Knox all the way to Wood Road. .(cont.)
+
+Eighth.
+No signal lights are indicated on the EIR for intersections at Oleander and Decker Road or Decker at Markham or Markham at Day Street or Cajalco at Day Street. The EIR does not
+analyze the time frame for future building projects that will complete Oleander to full width. (2)-98
+Oleander dead ends at the western boundary of Building "E".
+The traffic study does not address the additional truck traffic impacts to the rural communities of Mead Valley, Greater Lake Mathew and the City of Riverside. Once trucks access Markham Street they can find a number of routes that lead to Van Buren Blvd, Cajalco Road and El Sobrante instead of using the very congested I-215 and I-60 freeways to the I-91. The impacts of RAMV (2)-99
+
+using other routes that transverse though rural communities has not been adequately analyzed in the EIR. There are a number of elementary schools and middle school near Cajalco and Clark Street, library, a community center and senior center. The impacts to these sensitive receptors
+has not been addressed in the EIR as hundreds of trucks from the Project will be using Cajalco
+Road which passes a number of public facilities. Logistics trucks can be seen every day now RAMV (2)-100
+using Clark to travel to Cajalco passing by a Middle School and Elementary School at Martin X Clark and Dawes X Clark. This was not included in the EIR traffic study.
+Idling trucks have impacts on the entire region as the difference between idling for 5 minutes and 2 hours produces 24 times as much air pollution per truck. That would be 720 times as much for 30 trucks and then multiply by the hours of the day that new trucks are entering the line at 17789 Harvill Ave. Future impacts of additional warehouses and their idling trucks has not been RAMV (2)-101
+analyzed in the EIR. This constant idling during the day with hundreds of trucks adds up to considerable health impacts that are not being addressed in the EIR. Multiple tenants are part of the problem as it takes longer to process each truck into the facility. The EIR has not addressed
+the impacts of multiple tenants for Building "E" and "D". The lack of lanes and turn lanes on Oleander Ave. as trucks are turning left into both Building "D" and "E". Both Building D and E need dedicated turn lanes along Old Oleander Ave and these lanes should allow for up to 30 RAMV (2)-102
+trucks to safely access these facilities at one time. Currently building "D" allows for 10 trucks to enter and exit the facility behind the access gate.
+
+Ninth.
+
+The EIR indicates that there is no funding and therefore no new improvements will be made
+along the I-215 to add lanes to the off and on ramps on Harley Knox Blvd or to the I-215
+Freeway far into the future. The EIR does not address the accumulative traffic impacts due to
+additional future warehouses that are planned for the area along the I-215 and I-60 Freeways that will add substantial truck traffic to the freeway system. Additional high cube warehouses are RAMV (2)-103
+planned for Sycamore Canyon Industrial Park, Meridian Business Park, Perris warehouses and Moreno Valley 40 million Sq. Ft. World Logistics Center. The City of Perris is also adding high
+cube warehouses to their area that will be using the I-215 Freeway.
+
+Va a..
+6
+Riverside National, Cemetery Van Buren
+
+Lieutenant General 0 Archie J Old Jr Golf.. WoodE Barton flage Wfr
+
+Nandina
+Nandna Ave
+
+s wad Alcrander : Oleander Poiney Ko RAMV (2)-103 Dieandes Are (cont.)
+Har Wsshingeon St Markham
+
+Peery 5 Seven S0Ag0 Alder Ave Ceder Se avel
+
+S VELO IS OQuE Brown 3 Day
+
+c To El Söbrante Cajalco
+
+Routes that logistics trucks from the warehouses in this project will be taking to get to the ports of LA and Long Beach. EIR 546 has not adequately evaluated the impacts of using these roads to get to the ports. Other streets would include Clark, Brown and Alexander and Wood Road.
+
+Tenth.
+
+Noise is not adequately evaluated in the EIR. Noise Barriers must be reevaluated to conform to Federal Transportation Guidelines to be effective in protecting residents especially those who live next door. The EIR must provide an adequate buffer between rural homes and Building D and E. WRCOG and SCAQMD guidelines require 1000 foot buffer to adequately protect RAMV (2)-104
+residents from the negative impacts of high cube warehouses. Buffers must measure between
+the end of the property line and the warehouse parking area / driveways where trucks
+travel..
+
+4.4 Barriers
+
+A noise barrier is an obstacle placed between a noise source and a receiver which interrupts the path of the noise. They can be made out of many different substances:
+
+1. Sloping mounds of earth, called berms 2. Walls and fences made of various materials including concrete, wood, metal, plastic, and
+RAMV (2)-105 stucco.
+3. Regions of dense plantings of shrubs and trees
+4. Combinations of the above techniques
+The choice of a particular alternative depends upon considerations of space, cost, safety and aesthetics, as well as the desired level of sound reduction. The effectiveness of the barrier is dependent on the mass and height of the barrier, and its distance from the noise source and the
+
+receiver. To be effective a barrier must block the "line of sight" between the highest point of a noise source, such as a truck's exhaust stack, and the highest part of the receiver. This is illustrated in Figure 4.16.
+
+line of sight
+
+RAMV (2)-105 (cont.)
+
+4.16 To be effective, a barrier must block the "line of sight" between the highest point of a noise source and the highest part of a receiver.
+
+To be most effective, a barrier must be long and continuous to prevent sounds from passing around the ends. It must also be solid, with few, if any, holes, cracks or openings. It must also be strong and flexible enough to withstand wind pressure.
+
+Safety is another important consideration in barrier construction. These may include such requirements as slope, the distance from the roadway, the use of a guard rail, and discontinuation (2)-106
+of barriers at intersections. bawww
+
+Aesthetic design is also important. A barrier constructed without regard for aesthetic considerations could easily be an eyesore. A well-designed berm or fence can aesthetically improve an area from viewpoints of both the motorist and the users of nearby land (FHA:
+Physical Techniques to Reduce Noise Impacts). RAMV (2)-107
+https://www.fhwa.dot.gov/ENVIRonment/noise/noise_compatible_planning/federal_approach/au dible_landscape/al04.cfm
+
+Role of Topography
+
+To work effectively, the barrier must be high enough and long enough to block the view of the road from the area that is to be protected. Sound barriers do very little for homes on a hillside (2)-108
+overlooking a road. (pow
+
+Unshielded
+House
+
+Roadway
+
+Shielded House Noise Barrier
+
+Source: FHWA Website
+
+As seen above, the house at the bottom of the hill is protected by the sound barrier, but the one on top of the hill (overlooking the roadway) is not.
+In addition, buildings higher than barriers, homes scattered too far apart, and openings in noise barriers for driveway connections or intersecting streets are not good areas for sound barriers. In some cases, SHA can offer alternatives to help reduce noise levels. These alternatives are evaluated on a case-by-case basis consistent with Federal guidelines (Sound Barriers Guideline - RAMV (2)-108
+Highway Traffic Noise, http://www.roads.maryland.gov/Index.aspx?PageId=827) (cont.)
+
+Homes
+Homes
+Project Site Building "E' Line of Sight
+
+Old Oleander
+
+Sound walls are up to-8 tall and smoke stacks for trucks are 11.5' tall. Buildings are being proposed lower than ground level. Because of line of sight angle from the proposed project to homes the sound walls offer little or no protection for rural residents living near this project and
+
+uphill from this project. Sound walls/barriers are not going to be constructed the full length of the perimeter. Minimum distance sound walls will not protect rural neighborhoods surrounding this project from significant negative impacts such as sound, vibration, air pollution and light trespass. Short walls that are narrow in width are ineffective in stopping sound from the hundreds of trucks going into and out of these warehouses night and day. These impacts have not been adequately evaluated in the EIR.
+
+141999994
+
+HOUTH NGNTAL YALLEDICE EMYATOA, ©
+
+Elevation for building D (above exhibit) shows metal fencing along the majority of the southern perimeter. A very narrow 14' wall is shown along the outside edges of the fence barrier. This
+barrier is not a sufficient to reduce noise, pollution or light trespass to a healthy level for the
+adjacent property owners. The EIR does not properly evaluate these barriers. Building E has E these same deficiencies as the southern and western barriers are not sufficiently designed to
+obstruct noise, pollution and light trespass to healthy and safe levels.
+
+RAMV (2)-108
+(cont.)
+
+Building "E" Building "D"
+.Decker Rd.
+aypc.
+7 Rural Homes
+
+Redwood Di Redwood.Di.
+
+Got Chairs
+
+Google
+
+Rural homes with no buffer between homes and proposed warehouses. Inadequate noise, sound, light trespass and air pollution mitigation.
+
+Eleventh.
+
+E3.0 PROJECT DESCRIPTION
+1. Earthwork and Grading
+Grading would occur over the entire Building E Site; no portion of the site would be left undisturbed. Proposed earthwork activities would result in approximately 80,000 cubic yards of cut and 80,000 cubic yard of fill. Based on the expected shrinkage and compaction of on-site soils, earthwork activities are expected to balance and no import or export of earthwork materials would be required.
+When grading is complete, manufactured slopes ranging from approximately four to 15 feet in height would occur along the south, east, and west perimeters of the property, and the Building E RAMV (2)-109
+property would have a slight west-to-east-slope, as depicted on Figure 3-14, Conceptual Grading Plan - Building E Site. After grading, the highest point of the property would be its southwest corner (approximately 1,630 AMSL) and the lowest point of the property would be at the bottom of the detention basin near its northeast corner (approximately 1,588 AMSL). To accommodate the proposed grading concept, retaining walls ranging in height from one to seven feet tall would occur on the property. Also, a mechanically stabilized earth wall up to 18 feet in height is proposed along the west and south sides of the proposed water quality basin (Knox Building Park Buildings D and E Environmental Impact Report No. 546, pg. 3-19).
+The EIR does not adequately assess noise and pollution impacts along the western, eastern and
+southern portion of Building "E". Retaining walls will not reduce noise pollution to safe levels
+due to line of sight view from Building "E" to Nance Street, the western portions of Oleander and south of Building E. The description of earth walls and retaining walls is not clear as to height and location so that an adequate assessment can be made. Both Buildings D and E will be RAMV (2)-110
+up to 14' below grade. This was not evaluated in the EIR as the height of the buildings at ground level would affect the noise impacts, air pollution, light trespass, and possible hydrology impacts from water flowing from the nearby hills and arroyos.
+
+Twelfth.
+
+There are numerous biological and cultural resources not adequately analyzed in the EIR.
+
+A PHASE I AND II CULTURAL RESOURCES ASSESSMENT FOR THE DECKER
+PARCELS II PROJECT document is outdated and no longer reflects the current cultural assessments for Building Site "E" or "D" Additional information related to this project site cultural resources was submitted to the County after April 29, 2016. RAMV (2)-111
+
+The EIR does not reflect this new information. The Soboba and Pechanga Tribes feels that the artifacts and area are very culturally sensitive. Preservation of these cultural sites (boulders) and artifacts is extremely important. Any cultural artifacts should be returned to the Saboba or
+Pechanga Tribes
+......
+
+Over 20 years ago before the water tank was built, I met with archeologist Daniel McCarthy from the UCR Eastern Research Center who went over the cultural significance of this site. The entire area proposed for Building E and D have significant cultural artifacts and are part of a pre- RAMV (2)-112
+historic Native American Village.
+
+The EIR does not adequately analyze rock blasting impacts to Cultural resources on and off this
+project site. EAMY (2)-113
+
+Biological Resources include burrowing owls, black tailed rabbits, quail, hawks and roadrunners have not been adequately analyzed and addressed. This area is part of a wildlife corridor from
+the Motte Reserve to the Sycamore Canyon Wilderness Park. Burrowing Owls have thrived in this area for years and their numbers are twiddling rapidly. At the present rate of habitat destruction the owls will be extinct in Riverside County is just a few years. Borrowing Owls are a species of special concern and may soon be considered for the Federal or State endangered
+species list.
+
+RAMV (2)-114
+
+Pictures that I took of Burrowing Owls at the Project Site on July 3, 2017. There are a number of nesting Burrowing Owls at the project site for GPA 1151 & 1152. The EIR for the Burrowing Owl study is outdated and does not reflect the current numbers, habitat and nesting pairs on the Project site. The EIR must be reevaluated for Burrowing Owls on and near the project site as months of grading and rock blasting will have negative impacts on Burrowing Owls nesting and living in the area.
+As part of proposed grading activities, blasting would be necessary in hard rock areas in the southern portion of the Building D Site boundaries. Based on the excavation plans prepared on June 16, 2015, by the Henry-Ann Company, rock blasting within the Building D Site is expected to include the drilling of up to 5,253 holes in the largest area, in which small charges would be placed to fragment the rocks into smaller, crushable pieces. Approximately 112,090 cubic yards (c.y.) of rock is expected to be produced during proposed blasting activities, which would be crushed and used on the Project site as construction base. An electric rock crusher powered by a 300-horsepower diesel generator is proposed to further break down the fragmented rocks. The Project Applicant calculates that approximately 2,759 tons of rock would be processed on the Project site per day during the blasting and rock crushing phase of construction (approximately 65 working days) (Urban Crossroads, Inc, 2016a, pp. 31-32). RAMV (2)-115
+Rock Blasting would also need to take place on the lot for Building "E".
+The EIR greatly understates construction impacts at the site where construction is anticipated to is occur for almost 2 years (23 months), eight hours a day, five days per week. Substantial blasting (drilling 5,253 holes in the largest area) and subsequent rock crushing operations would be necessary to crush approximately 2,759 tons of rock onsite per day for 65 days. Rock crushing and blasting was not adequately considered in the EIR terms of impacts to hazards, noise/ vibration, cultural resources, and biological resources.
+Rock blasting and construction impacts on Burrowing Owls within the area between Harvill, Day Street, Nandina and Markham have not been adequately considered especially during the nesting pscw (2)-116
+
+season. Burrowing Owls, a California Species of Special Concern, live in the ground on the site
+of this Project and would be greatly impacted by the vibrations and noise from months of constant rock blasting. Owl reproduction may cease altogether. Fledglings may be greatly RAMV (2)-116
+impacted by the noise and vibration. The Burrowing Owl habitat will be destroyed and the birds (cont.)
+will die.
+
+The EIR does not address night time construction mitigation measures as warehouses are
+concrete tilt up buildings where the concrete is poured at night. Light trespass, noise and dust
+are a big concern and have been a huge problem with a current high cube warehouse now under
+construction by this same company nearby. Many wildlife are nocturnal and would be adversely RAMV (2)-117
+impacted by night time construction lighting and noise.
+
+Thirteenth.
+
+3.5 OPERATIONAL CHARACTERISTICS
+
+"At the time this EIR was prepared, the future user(s) of proposed Buildings D and E were unknown; however, the Project Applicant expects the buildings to be occupied by high-cube warehouse users. The proposed warehouse buildings are not designed to accommodate an
+occupant that requires cold storage (i.e., refrigeration); therefore, the analysis in this EIR
+assumes that the proposed buildings would not house a tenant that uses cold storage" (SCH No.
+201508108, Page 3-31).
+
+There are indications that both Buildings "E" and "D" will be leased and will have multiple RAMV (2)-118
+tenants and therefore should require refrigerated hook-ups. There is no way to predict who will
+be leasing these buildings over the years. With four tenants the chances that cold storage will be needed is fairly high. Both buildings have multiple office spaces and entrances with entrance gates. It would be very easy to divide these buildings in half with a wall so that you would in affect have two leased facilities. The EIR does not assess the impacts of (4) tenants leasing the buildings instead of two. The added impacts from creating 4 facilities instead of 2 needs to be
+thoroughly evaluated in the EIR. The current warehouse at 17789 Harvill Ave. has tenants that use cold storage. The EIR is flawed in its lack of analysis for cold storage uses and refrigerated hook-ups.
+
+MM 4.3-3 (Applies to the Building D Site and the Building E Site) Within six months of
+building occupancy, signs shall be posted at the building informing truck drivers about the health effects of diesel particulates, the California Air Resources Board diesel-fueled vehicle idling regulations, and the importance of being a good neighbor by not parking in residential areas. RAMV (2)-119
+Developer and all successors shall include this obligation in all leases of the Project so that all tenants shall fulfill the terms and conditions of this County condition of approval (Knox Business
+Park Bldgs D and E EIR-4, page S-18).
+
+Violations of MM 4.3-3 are taking place at Knox Business Park warehouse at Old Oleander and a Harvill Ave. with a large number of trucks idling for hours, trucks parking along streets next to homes with their trucks idling as the truck drivers sleep, truck trailers and trucks parked outside of the truck parking stalls and along the north end of the warehouse ât 17789 Harvill Ave. There RAMV (2)-120
+is no enforcement of these rules. EIR 546 must include a detailed accounting of how
+
+enforcement of these mitigation measures will be addressed. ARAMV (2)-120 u(cont.)
+Fourteenth.
+
+Fire access appears to be lacking with all fire access through the entrance gates on the north side of Building "E" and "D". What will be stored in these facilities over time? There are a number of
+hazardous materials that could pose serious health and safety concerns if they were to catch fire,
+explode or spill. This problem is magnified considering the distance from a number of neighborhoods adjacent to Building "D" with no buffer between homes. There are just three entrances at the north end along Old Oleander Ave. There appears to a be a lack of access along RAMV (2)-121
+the east, west or south of buildings E and D. With the steep slopes up to 17', water basins
+blocking the east side and residents along the south side of these buildings it appears that fire access would be difficult if trucks are lined up along the entrances. The EIR does not evaluate fire access concerns due to limiting access to the north side of the buildings.
+
+Cal -Fire letter states: "The Riverside County Fire Department would also like to comment that, The Proposed project will have a cumulative adverse impact on the Fire Department's ability to provide an acceptable level of service. These impacts include an increase in the number of emergency and public service calls due to the increased presence of structures, traffic and
+population. The project proponents/developers will be expected to provide for proportional |RAMV (2)-122
+mitigation to these impacts via capital improvements and/or impact fees." (Bill Lawe Fire Captain Cal Fire/ Riverside County Fire Department Strategic Planning Division).
+
+Fifteenth.
+
+Jobs.
+
+"Because users of the Project's buildings are not yet known, the number of jobs that the Project
+would generate cannot be precisely determined; therefore, for purposes of analysis, employment estimates have been calculated using data and average employment density factors utilized in the County of Riverside General Plan. The General Plan estimated that light industrial business
+would employ one (1) worker for every 1,030 s.f. of building area. Based on this employment generation rate, the Project is expected to create approximately 1,081 new, recurring jobs" (1,113,627 s.f. ÷ 1,030). (Riverside County, 2016 Appendix E, Table ES-5). SCH No. 201508108, Page 3-32.
+
+The General Plan job estimates are completely outdated and obsolete as most logistics high cube
+warehouse facilities are moving toward complete automation and robotic technology that RAMV (2)-123
+requires just a handful of employees to run a huge logistics warehouse facility. This technology will soon be fully functioning in the logistics industry. Building "E" and "D" for massive logistics warehouses attempts to replace the current Business Park land use zoning (Riverside
+County General Plan - Mead Valley Area plan) that actually creates a large number of real
+permanent jobs versus the massive logistic warehouses that will have a handful of tech employees that repair and maintain the equipment and software, a few managers and office staff.
+The EIR does not address the true estimates of jobs being created by this Project. A true estimate is difficult to predict, but it is a fact that within the next few years and very possibly by the time that these warehouses are built, the automation and robotic technology will have
+
+eliminated a large portion of the 1,081 jobs estimated to occur. It is hard to know if trucks will be driverless, but certainly the workers within the facilities will be very limited in numbers. The EIR for this project is extremely flawed in the assumption that over 1,000 jobs will be created.
+"Envision a self-guided forklift streaming down a narrow aisle, feeding inventory into a rack system towering 40 feet above the warehouse floor, while an auto-guided mini-robot transports outbound inventory to fulfillment stations lit up like holiday lights, enabling order processing of up to 2,400 picks per hour. As the perfect order is complete, a high-speed conveyor shuttles RAMV (2)-123
+
+packages toward a stationary robot, which loads the contents into a driverless tractor-trailer. (cont.)
+
+Could this be look into the warehouse of the 22nd century? Nope, it's the modern distribution
+center of today" (Warehouse Automation: The Next Generation by Charlie Fiveash, January 27,
+2016, Inbound Logistics).
+
+Sixteenth.
+
+Blue Line Stream - Any stream shown as a solid or broken blue line on 7.5 Minute Series quadrangle maps prepared by the U.S. Department of the Interior Geological Survey (USGS). A blue line stream may be any creek, stream or other flowing water feature, perennial or ephemeral, indicated on USGS quadrangle maps, with the exception of man-made watercourses. The United States Army Corps of Engineers uses USGS blue line stream markings as a preliminary indicator of "Waters of the United States". Streams identified on USGS maps in
+such a manner are therefore generally subject to federal environmental regulations. (Riverside
+County Flood Control) http://www.floodcontrol.co.riverside.ca.us/GlossaryTerms.aspx
+
+FEMA Flood Map Service Center : Search By Address
+Locator Map
+
+E
+Hybrid
+
+Decker Boad RAMV (2)-124
+
+Selected Flood Map Boundary
+Printed Flood Map Boundary water
+
+HE Non-printed Flood Map Boundary tank
+
+Unmapped Area City of Riverside, County of Riverside, Bureau of Land Management, Esri... esri
+Riverside County Flood Map clearly shows blue line stream traversing across the entire Project site. The blue line stream is part of the wetlands to the west of the project site. All of this is subject to "waters of the United States" are therefore generally subject to federal environmental regulations. The EIR does not adequately analyze the impacts of the blue line stream, hillside arroyo, riparian habitat or the year round stream coming out of the granite cave.
+EIR is clearly flawed in their assessment of a Blue line Stream as this stream runs through the
+entire Project site.
+
+"Erosion Threshold (a) for the Building D Site and Building E Site: No Impact. The Project site does not contain any active streams or rivers, no streams or rivers are located in close proximity to the Project site, and the Project would not discharge water directly to an active stream or river. The Project would be required to prepare and comply with NPDES permits, SWPPPs, and WQMPs, which would treat and filter runoff to reduce erosion. Therefore, no impact to RAMV (2)-125
+deposition, siltation, or erosion that may modify the channel of a river or stream or the bed of a
+lake would occur" (Knox Building Park Bldgs "D" and "E" EIR NO. 546, S.O EXECUTIVE
+SUMMARY, pg. S-38).
+
+Seventeenth.
+
+The EIR does not include the WRCOG and SCAQMD good neighbor policy that sets a 1000 foot buffer between sensitive receptors and distribution warehouses. The current proposal for Building "D" has the warehouse project directly next to homes. No setback or buffer as trucks
+will be traveling from the east side of the warehouse to the west side of the warehouse using a driveway just a few feet from rural property lines. Small walls along the parking spaces will not prevent air pollution or noise from back up beepers, the hazards and dangers of noise pollution, RAMV (2)-126
+air pollution, vibration and light trespass 24-7. Trucks are able to park outside of the parking stalls along the southern driveway as is occurring right now at the logistics warehouse at Harvill Ave. and Oleander. (WRCOG Good Neighbor Policy Guidelines for Sitting Warehouse/
+Distribution Facilities). Good Neighbor Guidelines for Siting Warehouse/Distribution Facilities.
+
+HiEG
+
+RAMV (2)-127
+
+Warehouse at Oleander X Harvill has numerous trucks parked outside of the parking stalls along the north side of the building. Trucks are idling along this area, unloading, back up beepers going off day and night. GPA 1151 & 1152 proposed project has this same style of driveway along the south of Building "D" directly adjacent to rural homes. The EIR does not address parking issues
+
+such as this, trucks backed up onto local roads idling for hours as they arrive to unload their goods. Trucks parked in the middle of the road as Harvill was not designed for trucks to park on the shoulder. These same conditions exist for Building "D" and "E" with trucks having to turn RAMV (2)-127
+left to enter the buildings and limited truck queuing space at the warehouse entrance behind the (cont.)
+guard shack. Multiple tenants add to flaws in project design and analysis.
+The SCAQMD recommends prohibiting placement of loading docks or major truck routes within 500 meters or 1640.42 feet from sensitive receptors. (Sec, http://www.aqmd.gov/docs/default- Source/planning/air-quality-guidance/chapter-2--air-quality-issues-regarding-land- (2)-128
+use.pdf?sfvrsn=2).
+
+Eighteenth.
+
+a Decker Road a rural dirt road and would be changed into a truck highway with the approval of this project. The EIR has not addressed or analyzed any of the impacts from trucks using Decker Road to access Markham that allows logistics trucks to drive throughout our quite rural neighborhoods to get to the I-91 Freeway instead of using Harvill to get to the I-215 Freeway. Harvill Ave. has always been promised to the community of Mead Valley as the only access route for warehouse trucks and these trucks would access the I-215 Freeway and not our rural RAMV (2)-129 roads.
+
+The EIR for this project changes everything as trucks are designated to use Decker Road as a secondary access for trucks travel. Decker Road currently only travels to Markham Street.
+The EIR does not analyze the impacts of Decker Road as a secondary route for logistics trucks for this Project. Increased idling time, air pollution and noise impacts throughout the area.
+
+0.8
+uope.nuaouoo emejay 0.6
+
+0.4
+
+RAMV (2)-130
+0.2
+
+0 20 100 200 300 400 500 Warehouse buffer 67 fect Distance from Edge of Freeway (m)
+
+http://www.aqmd.gov/docs/default-source/planning/air-quality-guidance/chapter-2-air-quality-
+issues-regarding-land-use.pdf?sfvrsn=2
+
+Residents and those using the church including children and seniors living nearby will be greatly
+impacted by the huge concentrations of ozone and particulate matter from the hundreds trucks
+using this facility every day. Particulate matter is very small and enters the lungs, brain and cells RAMV (2)-130
+affecting the young weakening lung function. In Southern California, 5,000 premature deaths (cont.)
+every year are attributed to air pollution and particulate matter from diesel trucks.
+
+Nineteenth
+
+Article from SCAG.
+
+What is Environmental Justice?
+
+Environmental Justice is about equal and fair access to healthy environment, with the goal of protecting underrepresented and poorer communities from incurring disproportionate environmental impacts. The SCAG region is demographically and economically diverse, and displays the extremes in household income. The region includes heavily urban and entirely rural areas, as well as terrain that in some instances make achieving air quality goals challenging.
+Considerations of Environmental Justice are both good planning practices as well as to meet the federal and state requirements. The federal requirements originated from Title VI of the Civil
+Rights Act of 1964 (Title VI). Title VI establishes the need for transportation agencies to disclose to the public the benefits and burdens of proposed projects on minority populations. The RAMV (2)-131
+understanding of civil rights has then been expanded to include low-income communities, in addition to minority populations. In addition to federal requirements, SCAG must comply with California requirements for Environmental Justice. (www.scag.ca.gov/programs/Pages/EnvironmentJustice.aspx).
+Mead Valley qualifies as an underrepresented and poor community under Title VI of the Civil Rights Act of 1964 (Title VI) with 72% of the residents of Mead Valley being Hispanic or Latino and over 43% of Mead Valley residents living below the poverty level according to the 2010 Census. The EIR does not address Environmental Justice and the impacts on Mead Valley as a minority community.
+
+Most ozone polluted counties
+in the U.S.
+
+San Bernar... Unhe...
+Riverside
+Tulare
+Kern
+Los Angeles RAMV (2)-131
+
+Fresno (cont.)
+
+Kings
+Sacramento
+El Dorado
+San Diego
+
+10 40 70 100 130
+
+Source: American Luna Association
+
+Twentieth.
+
+The EIR is not in line with the Riverside County Vision and Mead Valley Area Plan.
+
+Riverside County Vision The simplest way to summarize our vision for Riverside County is to say that: "Riverside County is a family of special communities in a remarkable environmental setting.
+
+RCIP - General Plan Mead Valley Area Plan Vision for the area: "The Mead Valley land use
+plan provides for a predominantly rural community character with an equestrian focus. This is reflected by the Very Low Density Residential and Low Density Residential land use designations within the Rural Community Foundation Component and Rural Residential designation within the Rural Foundation Component that dominate the planning area."
+Certainly this current proposed project is not is in line with the vision set forth by the residents of RAMV (2)-132
+Mead Valley through the Riverside County General Plan and Mead Valley Arca Plan.
+The current General Plan land use for Mead Valley is overwhelmingly rural community designation: Estate Density Residential, Very Low Density Residential and Low Density Residential. The Mead Valley Area Plan shows most of the zoning for proposed Building "D" and "E" to be Business Park that allows for buffer between residential and businesses.
+
+Page 52. MVAP 21.1 Identify ridgelines that provid significant visual resource for the Mead Valley planning area through adherence to the policies within the Hillside Development and Slope section of the General Plan Land Use Element.
+
+http://planning.rctlma.org/Portals/0/genplan/general_plan_2013/1%20General%20Plan/Chapter TRAMV (2)-132
+%203-Land%20Use%20Element%20Adopted-Final%20Clean.pdf I(cont.)
+
+Hillside Development & Slope
+Natural slopes are one of Riverside County's primary aesthetic resources. Foothill and mountain
+areas, which are visible throughout the County, create a dramatic backdrop for local communities and help define the character of the County.
+Hillside areas also provide an important location for habitat as well as for certain lifestyle choices. In addition, there are public safety issues, such as slope failures, landslides, and mudslides, that occur naturally or as a result of development, grading, and landscaping. The severity of these slopes, the ability to provide infrastructure and services (such as
+transportation, water, sewer, etc.), and safety considerations can drastically alter the use and development potential of individual properties. RAMV (2)-133
+
+Development on hillsides within the County, where land use designations permit, will require careful siting, grading, and design in order to minimize exposure to hazards and to maintain and enhance the scenic quality of the County (Page LU-34).
+
+EIR does not adequately address the Hillside Development and Slope Land Use Element of the
+General Plan. Hillside areas are important locations for wildlife habitat and to preserve the scenic
+quality of the County.
+
+EIR is fatally flawed. Building "D" and "E" are two separate high cube warehouses being considered as one project. This type of piecemealing or segmentation is not allowed under CEQA. Therefore EIR 546 must be revised and recirculated so that this error RAMV (2)-134
+to piecemeal the project can be corrected.
+The EIR assessment for Building "E" on the west side of Decker road has been modified
+substantially in the number of the parcels and size of the building. Modification to the
+EIR for Building "E" describe different scenarios in regards to traffic flow, differing RAMV (2)-135
+elevation height measurement of the building and various other inconsistencies that effect
+every aspect of the Draft Environmental Impact Report.
+Future Trammel Crow project phases are not included in the EIR for this project as required by CEQA. The impacts of future high cube warehouses for the area such as
+truck traffic, noise, air pollution, light trespass, etc. have not been adequately evaluated. RAMV 12}-136
+
+EIR 546 does not adequately address the impacts of air quality, noise, truck traffic impacts to sensitive receptors (rural residential property) that abuts this project. EIR 546 not only fails to meet CEQA guidelines, but also falls short of the Riverside County
+General Plan Mead Valley Area Plan and General Plan Vision for land use with NO
+buffer between sensitive receptors and Building "D" as well as sensitive receptors a short distance away in the nearby hills to the west and south. The EIR must address air quality, RAMV (2)-137
+including a health risk assessment of diesel particulates and impacts to sensitive receptors, truck traffic and noise, and the cumulative impacts of reasonably foreseeable
+warehouse development in the area (Mead Valley Area Plan, pg. 32).
+
+JAN 3 RECEEVED 2013
+BY:___________.

@@ -1,0 +1,905 @@
+[Exempt From Filing Fee
+Government Code § 6103]
+
+ELLEN J. GARBER (State Bar No. 129712) SARAH M. LUCEY (State Bar No. 328805) 2 SHUTE. MIHALY & WEINBERGER LLP 396 Hayes Street 3 San Francisco, California 94102 Telephone: (415) 552-7272 4 Facsimile: (415) 552-5816
+Igarber@smwlaw.com 5 | slucey@smwlaw.com
+6 BRANT J. BORDSEN (State Bar No. 101590) RICH, FUIDGE, BORDSEN & GALYEAN, ÍNC. 7 1129 D Street Post Office Box A 8 Marysville, California 95901 | Telephone: (530) 742-7371
+9 Facsimile: (530) 742-5982
+bbordsen@yubasutterlaw.com 10
+Attorneys for Petitioner 11 CITY OF MARYSVILLE
+
+12 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+13 COUNTY OF YUBA
+
+14
+
+15 CITY OF MARYSVILLE, Case No.
+
+16 Petitioner, PETITION FOR WRIT OF MANDATE
+
+17 V. ACTION BASED ON CALIFORNIA
+
+18 CALIFORNIA DEPARTMENT OF ENVIRONMENTAL QUALITY ACT
+TRANSPORTATION; and DOES 1 19 through 50, inclusive, Code of Civ. Proc. § 1094.5 (alternatively, § 1085); Public Resources Code §§ 21168 and 21168.5 20 Respondents.
+
+21
+COUNTY OF YUBA: UNION PACIFIC 22 RAILROAD COMPANY; and DOES 51
+
+23 through 100, inclusive,
+
+Real Parties in Interest.
+24
+
+25 INTRODUCTION
+
+26 1. This action challenges the decision of the California Department of Transportation
+27 ("Caltrans" or "Respondent") to approve the SR 70 Binney Junction Roadway Rehabilitation
+28| and Complete Streets Project ("Project") based on a Final Environmental Impact Report ("EIR")
+
+PETITION FOR WRIT OF MANDATE
+
+pursuant to, the California Environmental Quality Act ("CEQA"), Public Resources Code section
+2 21000 et seq., and a Final Environmental Assessment ("EA"), pursuant to the National
+
+3 Environmental Policy Act, 42 U.S.C. section 4321 et seq., in a joint document. The challenged
+
+4 Project involves approval of changes to State Route 70 ("SR 70") in the heart of the City of
+5 Marysville, including constructing two additional traffic storage lanes with associated shoulders
+
+6 and sidewalks, replacing and lengthening two existing railroad structures, lowering the existing
+7 SR 70 under two overpasses, removal of existing access to and from 17th Street, relocation of an
+
+8 existing levee, signalization of two existing intersections, and rehabilitation of existing
+9 pavement.
+
+10 2. As Petitioner City of Marysville ("Petitioner" or "City") stated in comments on the
+11 EIR, the Project is expected to have significant individual and cumulative environmental effects,
+12 including air quality, traffic, noise, and land use impacts as well as impacts on emergency access
+13 and emergency response and utilities. Yet the EIR fails to disclose or adequately analyze these
+14 environmental impacts or identify any mitigation measures for adoption, rendering the EIR
+15 inadequate under CEQA. The Draft EIR also did not identify the proposed project, and the EIR
+16 inadequately describes the environmental setting and entirely defers certain analyses including
+17 analysis of impacts to cultural resources.
+18 3. As explained in detail below, Caltrans's action in approving the Project based on
+19 an incomplete and otherwise deficient EIR that is unsupported by substantial evidence violates
+20 CEQA and the State CEQA Guidelines, California Code of Regulations, title 14, section 15000
+21 et seq. ("CEQA Guidelines"). Specifically, Respondent certified an EIR for the Project that fails
+
+22 to adequately analyze or mitigate the Project's significant individual or cumulative
+23 environmental effects.
+
+24 4. For all of these reasons, Respondent's approval of the Project and certification of
+25 the EIR must be rescinded.
+
+26 PARTIES
+
+27 5. Petitioner City of Marysville is a charter city located in the County of Yuba in the
+28 State of California. Marysville is bisected by SR 70 and will be adversely affected by the
+2
+PETITION FOR WRIT OF MANDATE
+
+1 Project's air quality, traffic, noise, land use, emergency access, utilities and other environmental
+2 impacts.
+
+3 6. Respondent Caltrans is an agency of the State of California, and is the CEQA
+4| "lead agency" as defined in Public Resources Code section 21067 with principal responsibility
+5 for carrying out and approving the Project.
+
+6 7. Real Party in Interest County of Yuba is a political subdivision of the State of
+7 California. Caltrans's Notice of Determination ("NOD") for the Project states that the Project is
+8 proposed to be conducted in cooperation with the County of Yuba, and Petitioner is therefore
+
+9 informed and believes that the County of Yuba is a Real Party in Interest pursuant to Public
+10 Resources Code section 21167.6.5(a).
+
+11 8. Real Party in Interest Union Pacific Railroad Company ("Union Pacific Railroad")
+12 is a Delaware corporation doing business in California. Caltrans's NOD for the Project states
+13 that the is Project is proposed to be conducted in cooperation with Union Pacific Railroad, and
+14 Petitioner is therefore informed and believes that Union Pacific Railroad is a Real Party in
+15 Interest pursuant to Public Resources Code section 21167.6.5(a).
+16 9. Petitioner does not know the true names and capacities, whether individual,
+17 corporate, associate, or otherwise, of respondents DOES 1 through 50, inclusive, and therefore
+18 sues said respondents under fictitious names. Petitioner will amend this Petition to show their
+19 true names and capacities when the same have been ascertained. Each of the respondents is the
+20 agent and/or employee of Respondent Caltrans, and each performed acts on which this action is
+21 based within the course and scope of such respondent's agency and/or employment.
+22 10. Petitioner does not know the true names and capacities, whether individual,
+23 corporate, associate, or otherwise, of real parties in interest DOES 51 through 100, inclusive,
+24 and therefore sues said real parties in interest under fictitious names. Petitioner will amend this
+25 Petition to show their true names and capacities when the same have been ascertained.
+
+26 JURISDICTION AND VENUE
+
+27 11. This Court has jurisdiction over the matters alleged in this Petition pursuant to
+28 Code of Civil Procedure section 1094.5 (alternatively section 1085) and Public Resources Code
+3
+PETITION FOR WRIT OF MANDATE
+
+1 sections 21168, 21168.5 and 21168.9.
+
+2 12. Venue is proper in this Court because the causes of action alleged in this Petition
+
+3 arose in the County of Yuba where the site of the proposed Project is located.
+
+4 13. Petitioner has complied with the requirements of Public Resources Code section
+5 21167.5 by serving written notice of Petitioner's intention to commence this action on Caltrans
+6 on January 4, 2021. A copy of the written notice and proof of service is attached hereto as
+
+7 Exhibit A.
+
+8 14. Petitioner is concurrently complying with the requirements of Public Resources
+
+9 Code section 21167.6 by concurrently filing a notice of its intent to prepare the administrative
+10 record for this action.
+
+11 15. Petitioner is sending a copy of this Petition to the California Attorney General
+12 concurrently with filing this action, thereby complying with the requirements of Public
+13 Resources Code section 21167.7. A copy of this written notice is attached hereto as Exhibit B.
+
+14 16. Petitioner has performed any and all conditions precedent to filing this instant
+15 action and has exhausted any and all available administrative remedies to the extent required by
+16 law, including but not limited to timely submitting comments on the Draft EIR and the Project
+17 to Caltrans on or around October 30, 2020.
+
+18 17. Petitioner has no plain, speedy, or adequate remedy in the course of ordinary law
+19  unless this Court grants the requested writ of mandate to require Caltrans to set aside its
+20 approval of the project. In the absence of such remedies, Respondent's approval will remain in
+21 effect in violation of state law.
+
+22 STATEMENT OF FACTS
+
+23 Project Location and Description
+
+24 18. SR 70 is a freeway connecting State Route 99 north of Sacramento with U.S.
+25 Route 395 just west of the California-Nevada border. Within Marysville, SR 70 intersects with
+26 State Route 20, which connects Marysville with Yuba City to the west and Grass Valley to the
+27 east. Within the Project area, SR 70 consists of two twelve-foot lanes.
+
+28 19. SR 70, and the Project, cut north/south through the heart of Marysville. Marysville
+4
+PETITION FOR WRIT OF MANDATE
+
+is a small city, roughly two miles in length between its northern and southern borders. The
+2 Project, bordered by businesses, residences, parks, and Marysville High School, among other
+3 places, would impact nearly half of those two miles. The design of the Project is therefore
+
+4 critical to the quality of life of Marysville's residents, including their ability to access homes and
+businesses, their experience of noise levels and traffic congestion in and around the Project area,
+
+6 and negative impacts to emergency response times and emergency access throughout the City.
+20. Among other things, the Project would widen SR 70, adding between one and two
+additional lanes in each direction depending on. the area. This widening will necessitate the
+
+9 removal of businesses, trees, at least one residence, and public buildings, including a youth
+10 community center and a transit center. Construction of the is Project is expected to take between 8-
+11 10 years, and will require both temporary and permanent street closures.
+12 Environmental Review for the Project
+
+13 21. On or about May 26, 2020, Caltrans filed a Notice of Preparation of a Draft
+14 Environmental Impact Report for the Project ("NOP").
+
+15 22. The Final EIR states that the Draft EIR was made available for review on
+16 September 18, 2020, although the California Office of Planning and Research's ("OPR")
+17 CEQANet website states that the Draft EIR was received by OPR on September 21, 2020.
+18 23. In a letter dated October 30, 2020, Petitioner commented on the Draft EIR and
+19 requested that it include more information to help the public understand the Project's true
+20 impacts. Among other comments, Petitioner noted that the Draft EIR failed to adequately
+21 describe the proposed Project, failed to describe or discuss feasible mitigation measures, and
+22 failed to analyze the Project's many environmental impacts, including inconsistency with the
+23 City's General Plan, traffic impacts, and the impacts of displacing homes and businesses in
+24 Marysville.
+
+25 24. Numerous other members of the public and public agencies submitted comments
+26 to Caltrans addressing the inadequacy of the Draft EIR, including individual Marysville
+27 residents and small business owners, local community groups, the Yuba-Sutter Transit
+28 Authority, and the California Department of Fish and Wildlife.
+5
+PETITION FOR WRIT OF MANDATE
+
+1 25. On or about December 10, 2020, Caltrans emailed Nicole Moe, City of Marysville
+2 City Clerk, and requested the City to post the Final EIR on the City's website. The email failed
+
+3 to inform the City that Caltrans had already approved the Project and filed the NOD for the
+4 Project approval on December 7, 2020. On December 15, 2020, the City's consulting planner,
+Kathy Pease, with Management Advisory Services, emailed Caltrans, requesting information on
+6 the status of the Project. Caltrans never responded. Given Caltrans's misleading silence, the City
+7 reasonably inferred that Caltrans had not yet approved the Project. Copies of the December 10,
+8 2020, and December 15, 2020, emails are attached hereto as Exhibits C and D, respectively.
+26. Because the City was unaware, due to Caltrans's failure to notify or inform the
+10 City, that the Project had been approved, the City filed a second comment letter dated December
+11 17, 2020, which was within 10 days of the City having learned that the Final EIR had been
+12 issued. The City's letter explained that Caltrans had failed to adequately respond to its
+13 comments on the Draft EIR, and that the inadequacies in the Draft EIR therefore still existed and
+14 had not been remedied or addressed in the Final EIR. Caltrans confirmed by email on December
+15 17, 2020, that it had received the City's letter, but once again failed to tell the City that it had
+16 already approved the Project and filed the NOD. A copy of the December 17, 2020, email is
+17 attached hereto as Exhibit E.
+
+18 27. The City, still inferring based on Caltrans's silence that the Project had not been
+19 approved and the NOD not been filed, emailed Caltrans on December 18, 2020, asking whether
+20 Caltrans was amenable to delaying the filing of the NOD, and suggesting settlement discussions
+21 between the City and Caltrans. Caltrans again failed to respond to the City's email. A copy of
+
+22 the December 18, 2020, email is attached hereto as Exhibit F.
+
+23 28. Thereafter, on December 18, 2020, the City learned by checking OPR's CEQANet
+24 website that Caltrans had submitted the Final EIR and filed the NOD with OPR on December 7,
+
+25 2020.
+
+26 29. Finally, on December 21, 2020, 11 days after its initial correspondence with the
+27 City, Caltrans informed the City by email that it had already filed the NOD. Although Caltrans
+28 represented in this email that it filed the NOD on December 11, 2020, OPR's CEQANet website
+6
+PETITION FOR WRIT OF MANDATE
+
+- shows that it was in fact filed on December 7, 2020. A copy of the December 21, 2020, email is
+2 attached hereto as Exhibit G.
+
+3 30. Petitioner is informed, and on that basis believes, that Caltrans certified the Final
+4 EIR on or about the date of its release, December 7, 2020.
+
+5 31. Caltrans included responses to comments in the Final EIR, but did not at any time
+6 in advance of certifying the Final EIR and approving the Project, much less 10 days in advance,
+7 provide the City with written responses to its comments on the Draft EIR.
+
+8
+
+9 CAUSE OF ACTION
+
+10 32. (Violations of CEQA)
+Petitioner incorporates by reference all of the allegations contained in the previous
+11 paragraphs as though fully set forth herein.
+12 33. CEQA requires the lead agency for a project with the potential to cause significant
+13 environmental effects (impacts) to prepare an EIR that complies with the requirements of CEQA
+14. and the CEQA Guidelines, including but not limited to the requirement to analyze the project's
+15 potentially significant environmental impacts. The EIR must provide sufficient environmental
+16 analysis such that the decisionmakers can intelligently consider environmental consequences
+17 when acting on the proposed project. The EIR also must identify feasible mitigation measures to
+18 reduce or avoid the project's significant environmental impacts, as well as analyze a reasonable
+19 range of alternatives to the proposed project.
+20 34. CEQA also mandates that the lead agency adopt all feasible mitigation measures
+21 that would reduce or avoid any of the project's significant environmental impacts. If any of the
+22 project's significant environmental impacts cannot be mitigated to a less a than significant level,
+23 then CEQA bars the lead agency from approving a project if a feasible alternative is available
+24 that would meet the project's objectives while avoiding or reducing is significant environmental
+25 impacts.
+
+26 35. CEQA also mandates that no lead agency may approve a project for which an EIR
+27 was certified unless it makes one or more of the following findings with respect to each
+28 significant environmental effect of the project: (a) changes or alterations have been required in,
+
+PETITION FOR WRIT OF MANDATE 7
+
+1 or incorporated into, the project which mitigate or avoid the significant effects on the
+
+2 environments; (b) those changes or alterations are within the responsibility and jurisdiction of
+3 another public agency and have been, or can and should be, adopted by that other agency; (c)
+
+4 specific economic, legal, social, technological or other considerations make infeasible the
+5 mitigation measures or alternatives identified in the EIR. Furthermore, the lead agency may
+
+6 approve a project that would have significant, unavoidable impacts on the environment only if
+7 the agency finds that the project's benefits would outweigh its unavoidable impacts.
+
+8 36. Under CEQA, all findings required for an agency's approval of a project must be
+9 legally adequate and supported by substantial evidence in the administrative record, and CEQA
+10 further requires that an agency provide an explanation of how the evidence in the record
+11 supports the conclusions the agency has reached.
+12 37. Respondent failed to proceed in a manner required by law and violated CEQA by
+13 certifying an EIR that is inadequate and fails to comply with CEQA and the CEQA Guidelines
+14 in numerous respects. The inadequacies include, but are not limited to the following:
+15 a. The Draft EIR fails to disclose or describe the proposed project, as required
+16 by CEQA Guidelines sections 15120(c) and 15124, thereby precluding informed review and
+17 comment during the public review and comment period by the public. Moreover, the alternatives
+18 that are identified in the Draft EIR are lacking in basic details that are necessary to disclose the
+19 impacts of the Project.
+
+20 b. The EIR fails to adequately analyze and mitigate the Project's significant
+21 individual and cumulative impacts to air quality, including impacts to the health and welfare of
+22 residents and employees who live and work adjacent to the Project site. For example, the EIR
+23 fails to analyze air quality impacts due to Project construction traffic and undisclosed amounts
+24 of grading and earth moving proposed, and increased traffic that will occur due to the expansion
+25 of SR 70.
+
+26 C. The EIR incorrectly concludes that the Project would not divide an
+27 established community even though it would bisect Marysville and require temporary and
+28 permanent street closures, and a as a result fails to adequately analyze and mitigate the Project's
+8
+PETITION FOR WRIT OF MANDATE
+
+significant land use impacts.
+
+d. The EIR incorrectly concludes that the Project would not conflict with land
+use plans and policies, even though the Project will require the removal of at least eight
+
+4 structures, including five businesses, a community center, a transit center, and at least one
+5 residence, and as a result fails to adequately analyze and mitigate the Project's significant land
+
+6 use and associated impacts.
+
+e. The EIR also fails to discuss the project's consistency with any General
+
+8 Plan policies that are not in the City of Marysville General Plan Housing Element, thereby
+
+9 foregoing entirely analysis of consistency with applicable General Plan policies such as policies
+10 applicable to noise and land use impacts.
+11 f. The EIR fails to adequately analyze and mitigate the Project's significant
+12 traffic and transportation impacts due to closing existing roadways and intersections, including
+13 removing access to and from 17th Street which will be turned into a cul-de-sac, removal of an
+14 existing pedestrian tunnel, and diverting traffic on to or increasing traffic on local streets.
+15 g. The EIR fails to adequately analyze the impacts on emergency access and
+16 emergency response plans due the Project's cutting off direct access to the existing Fire Station,
+17 which is located approximately 0.5 miles south of the Project. Despite the fact that local streets
+18 and intersections will be closed, the EIR fails to analyze Project's impacts on emergency
+19 response times.
+20 h. The EIR fails to adequately analyze and mitigate the Project's significant
+21 impacts due to increased traffic noise levels in excess of the noise standards established in the
+
+22 City's General Plan.
+
+23 i. The EIR fails to adequately analyze and mitigate the Project's significant
+24 impacts on water quality and hydrology due to run off from the Project's increase in impervious
+25 surfaces.
+
+26 •R The EIR fails to adequately analyze and mitigate the Project's significant
+27 impacts on utilities and services due to construction-related utility relocation and service
+28 interruptions, nor does the Project description describe how these relocations and replacement
+9
+PETITION FOR WRIT OF MANDATE
+
+1 services will be accomplished.
+
+2 k. The EIR fails to identify, and Caltrans failed to adopt, any mitigation
+measures despite the fact that the EIR acknowledges that Project environmental effects would
+4 occur in the areas of community impacts, traffic and transportation, aesthetics, hydrology and
+water quality, hazardous materials, air quality, noise and vibration, wetlands and waters of the
+6 United States, and biological resources, and in the additional areas alleged above, but concludes
+
+7 that impacts will not occur or will be less than significant due to reliance on measures such as a
+8 Traffic Management Plan that are not considered to be mitigation measures and, therefore, will
+9 not be monitored or enforced through a mitigation monitoring or reporting program as required
+10 by CEQA Guidelines section 15126.4(a)(2).
+
+11 1. The EIR fails to adequately analyze, disclose, or mitigate climate change
+12 impacts caused by the Project's greenhouse gas ("GHG") cmissions by, for example, failing to
+13 quantify or analyze the Project's construction-related GHG emissions, and failing to identify
+14 adequate mitigation for the Project's climate change impacts.
+
+15 m. The EIR fails to provide adequate analysis of, and mitigation for, the
+16 Project's growth-inducing impacts. For example, the EIR fails to support with substantial
+
+17 evidence its assumption that widening SR 70 will not induce growth. Because the Project will
+18 increase traffic capacity on SR 70, the Project has the potential to induce growth; therefore,
+19 Caltrans was required to analyze the secondary effects of this growth on environmental
+20 resources in and around the Project area. The EIR's failure to analyze the environmental impacts
+21 resulting from the Project's inducement of growth violates CEQA.
+
+22 n. The EIR fails to respond to public comments on the adequacy of the EIR as
+23 required by Public Resources Code section 21091(d) and CEQA Guidelines section 15088(a).
+24 38. CEQA requires the lead agency to provide public agencies that comment on a
+
+25 draft EIR with written responses to its comments at least 10 days prior to certifying an EIR.
+26 Petitioner is informed and believes, based on information on OPR's CEQANet website, that
+27 Respondent submitted both the Final EIR and the Notice of Determination to OPR on December
+28 7, 2020. At no time prior to December 7, 2020 did Caltrans provide Petitioner with a written
+10
+PETITION FOR WRIT OF MANDATE
+
+1 proposed response to Petitioner's comments on the Draft EIR, thereby violating the
+2 requirements of Public Resources Code section 21091(d)(2)(B) and CEQA Guidelines section
+3 15088(b).
+
+4 39. As a result of the foregoing defects, Respondent prejudicially abused its discretion
+5 by certifying an EIR that does not comply with CEQA. Accordingly, Respondent's certification
+6 of the EIR and approval of the project must be set aside.
+
+7 PRAYER FOR RELIEF
+
+8 WHEREFORE, Petitioner prays for judgment as follows:
+1. For alternative and peremptory writs of mandate directing Respondent to vacate
+10 and set aside its approval of the Project, its issuance of the NOD, and its certification of the EIR
+11 for the Project;
+
+12 2. For alternative and peremptory writs of mandate directing Respondent to comply
+13 with the requirements of CEQA, and to take any other action as required by Public Resources
+14| Code section 21168.9;
+
+15 3. For a temporary stay, temporary restraining order, and preliminary and permanent
+16 injunctions restraining Respondent and its agents, employees, officers and representatives from
+17 taking any action to implement the Project, pending full compliance with the requirements of
+18 CEQA, the CEQA Guidelines, and State law;
+
+19 4. For a temporary stay, temporary restraining order, and preliminary and permanent
+20 injunctions restraining Real Parties in Interest and their agents, employees, officers and
+21 representatives from taking any action to implement the Project, pending full compliance with
+22 the requirements of CEQA, the CEQA Guidelines, and State law;
+23 5. For costs of suit;
+
+24 6. For attorneys' fees as authorized by Code of Civil Procedure section 1021.5 and
+25 other provisions of law; and
+26///
+
+27
+
+28 ///
+
+PETITION FOR WRIT OF MANDATE
+
+7. For such other and further relief as the Court deems just and proper.
+
+2
+
+3 DATED: January 5, 2020 SHUTE, MIHALY & WEINBERGER LLP
+
+4
+
+5
+By: Wwy J. GUUNA
+6 ELLEN J. GARBER
+7 SARAH M LUCEY
+
+8 Attorneys for Petitioner
+
+9 CITY OF MARYSVILLE
+
+10 1324014.4
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+12
+PETITION FOR WRIT OF MANDATE
+
+EXHIBIT
+
+SHUTE, MIHALY
+WEINBERGER LLP
+
+396 HAYES STREET, SAN FRANCISCO, CA 94102 ELLEN J. GARBER
+T: (415) 552-7272 F: (415) 552-5816 Attorney
+
+www.smwlaw.com Garber@smwlaw.com
+
+January 4, 2021
+Via Email and U.S. Mail
+
+Amarjeet S. Benipal Kris Balaji
+Director, District 3 Deputy District Director, District 3
+California Department of Transportation PPM/Asset Management
+703 B Street
+Marysville, California 95901 California Department of Transportation
+703 B Street
+Email: amarjeet.benipal@dot.ca.gov Marysville, California 95901 Email: kris.balaji@dot.ca.gov
+
+Re: Notice of Commencement of CEQA Litigation Challenging Approval of the SR 70 Binney Junction Roadway Rehabilitation and Complete Streets Project City of Marysville v. California Department of Transportation, et al.
+Dear Mr. Benipal and Mr. Balaji:
+This letter is to notify you that the City of Marysville will file suit against the California Department of Transportation ("Caltrans") for failure to comply with the requirements of the California Environmental Quality Act ("CEQA"), Public Resources Code section 21000 et seq., and the CEQA Guidelines, California Code of Regulations section 15000 et seq., in the administrative process that culminated in Caltrans's decision to approve the SR 70 Binney Junction Roadway Rehabilitation and Complete Streets Project. This notice is given pursuant to Public Resources Code section 21167.5.
+Very truly yours,
+SHUTE, MIHALY & WEINBERGER LLP
+qun J. Grin
+Ellen J. Garber
+
+EJG/dw
+cc mail only: Caltrans Legal Division P.O. Box 942873
+Sacramento, California 94273-0001
+
+1323888.4
+
+PROOF OF SERVICE
+
+City of Marysville v. California Department of Transportation, et al. Yuba County Superior Court
+At the time of service, I was over 18 years of age and not a party to this action. I am employed in the County of San Francisco, State of California. My business address is 396 Hayes Street, San Francisco, CA 94102.
+On January 4, 2021, I served true copies of the following document(s) described
+as:
+
+NOTIFICATION OF CEQA LAWSUIT
+on the parties in this action as follows:
+Amarjeet S. Benipal Kris Balaji
+Director, District 3 California Department of Transportation Deputy District Director, District 3 PPM/Asset Management
+703 B Street
+Marysville, California 95901 California Department of Transportation
+703 B Street
+Email: amarjeet.benipal@dot.ca.gov Marysville, California 95901 Email: kris.balaji@dot.ca.gov
+BY MAIL: I enclosed the document(s) in a sealed envelope or package addressed to the persons at the addresses listed in the Service List and placed the envelope for collection and mailing, following our ordinary business practices. I am readily familiar with Shute, Mihaly & Weinberger LLP's practice for collecting and processing correspondence for mailing. On the same day that the correspondence is placed for collection and mailing, it is deposited in the ordinary course of business with the United States Postal Service, in a sealed envelope with postage fully prepaid.
+BY E-MAIL OR ELECTRONIC TRANSMISSION: I caused a copy of the document(s) to be sent from e-mail address Weibel@smwlaw.com to the persons at the e- mail addresses listed in the Service List. I did not receive, within a reasonable time after the transmission, any electronic message or other indication that the transmission was unsuccessful.
+
+declare under penalty of perjury under the laws of the State of California that the foregoing is true and correct.
+Executed on January 4, 2021, at Union City, California.
+
+Ewid Maibel
+David Weibel
+
+1310389.1
+
+EXHIBIT
+
+SHUTE, MIHALY
+(WEINBERGER LLP
+
+396 HAYES STREET, SAN FRANCISCO, CA 94102 ELLEN J. GARBER
+T: (415) 552-7272 F: (415) 552-5816 Attorney
+www.smwlaw.com Garber@smwlaw.com
+
+January 5, 2021
+
+Via U.S. Mail
+
+Xavier Becerra
+Attorney General
+California Department of Justice
+1300 I Street
+Sacramento, CA 95814-2919
+
+Re: Notice of Filing of CEQA Litigation
+City of Marysville v. California Department of Transportation, et al.
+
+Dear Attorney General Becerra:
+a Enclosed please find a copy of the Petition for Writ of Mandate in the above-titled action. This Petition is provided to you in compliance with Public Resources Code section 21167.7 and Code of Civil Procedure section 388. Please acknowledge receipt in the enclosed prepaid, self-addressed envelope.
+Thank you for your attention to this matter.
+Very truly yours,
+
+SHUTE, MIHALY & WEINBERGER LLP
+Uw J GuU
+Ellen J. Garber
+
+Encl.: Verified Petition for Writ of Mandate and Complaint for Injunctive Relief
+
+1323891.2
+
+EXHIBIT
+C
+
+From: Mohtes-Chan, Gilbert K@DOT <gilbert.mohtes-chan@dot.ca.gov>
+Sent: Thursday, December 10, 2020 2:33 PM
+To: Nicole Moe <nmoe@marysville.ca.us>
+Subject: FW: Binney Junction 0H160 - Marysville city website
+
+Hello Nicole,
+Our environmental coordinator for the Highway 70 Binney Junction project wanted to know if the city could post something on the Marysville website that Caltrans has finalized the
+Environmental Impact Report for the State Route 70 Binney Junction Roadway Rehabilitation
+and Complete Streets Project in Marysville. The document can be accessed at
+https://dot.ca.gov/caltrans-near-me/district-3/d3-programs/d3-environmental/d3-environmental- docs/d3-yuba-county
+
+Please me know if the city can accommodate our request. Thank you.
+
+Gilbert Mohtes-Chan
+Public Information Officer, Caltrans District 3
+Butte, Glenn, Colusa, Sutter & Yuba Counties
+General Line: (530) 741-4572
+Direct - Office: (530) 741-4571 Cell: (530) 682-6145
+Gilbert.Mohtes-Chan@dot.ca.gov
+https://dot.ca.gov/caltrans-near-me/district-3
+For real-time highway conditions: http://quickmap.dot.ca.gov/
+
+EXHIBIT
+
+From: Kathy Pease <kpease@masfirm.com>
+Sent: Tuesday, December 15, 2020 10:50 AM
+To: maggie.ritter@dot.ca.gov
+Subject: SR 70 Binney Junction FEIR/EA
+
+Hi Maggie-
+
+I understand you are the project coordinator. Can you tell me what the next steps for this project are?
+
+Thank you!
+
+Kathy Pease, AICP
+Management Advisory Services
+
+Sent from Mail for Windows 10
+
+EXHIBIT
+
+From: Balaji, Kris@DOT <Kris.Balaji@dot.ca.gov>
+Sent: Thursday, December 17, 2020 2:31 PM
+To: Nicole Moe <nmoe@marysville.ca.us>; Gene Palazzo <gpalazzo(@marysville.ca.us> Ce: Knudson, Cameron H@DOT <cameron.knudson@dot.ca.gov>
+Subject: Re: City of Marysville • Response to EIR for SR 70 Binney Junction Project
+
+Gene,
+Thank you! I got the letter. Our Project Manager, Cameron Knudson whom you met and Mike Bartlett were going to give you a call. am unsure if that happened already or not.
+
+Nicole,
+Hope you are doing well and safe...
+
+Happy Holidays to you both!!
+
+Regards,
+Kris Balaji
+Deputy District Director
+PPM/Asset Management
+C (916) 799-6779
+
+From: Nicole Moe <nmoe@marysville.ca.us>
+Sent: Thursday, December 17, 2020 2:18 PM
+To: Knudson, Cameron H@DOT <cameron.knudson@dot.ca.gov>; Benipal, Amarjeet S@DOT <amarjeet.benipal@dot.ca.gov>;Balaji, Kris@DOT <Kris.Balaji@dot.ca.gov>;Bartlett, Mike L@DOT <mike.bartlett@dot.ca.gov>
+Ce: Gene Palazzo <gpalazzo@marysville.ca.us>; Jennifer Styczynski
+<jennifers@marysyille.ca.us>; Garber@smwlaw.com; Brant Bordsen
+<bbordsen@marysville.ca.us>
+Subject: Re: City of Marysville - Response to EIR for SR 70 Binney Junction Project
+Importance: High
+
+EXTERNAL EMAIL. Links/attachments may not be safe.
+Good afternoon!
+
+The City of Marysville has prepared the attached response to the SR 70 Binney Junction Project Final EIR. All documents will also be certified mailed to Mr.
+Bartlett's attention.
+
+Thank you and have a great day.
+
+Nicole Moe
+Assistant to the City Manager/City Clerk
+
+City of Marysville
+
+526 C Street
+Marysville, CA 95901
+
+530-749-3947 (direct)
+530-749-3901 (main)
+530-749-3992 (fax)
+
+From: Nicole Moe
+Sent: Friday, October 30, 2020 2:41 PM To: cameron.knudson@dot.ca.gov; Amarjeet.Benipal@dot.ca.gov; Kris.Balaji@dot.ca.gov Ce: Gene Palazzo <gpalazzo@marysville.ca.us>; Ron Karlen (rkarlen@marysville.ca.us) <rkarlen@marysville.ca.us>; Paul Richardson (prichardson@marysville.ca.us) <prichardson@marysville.ca.us>; Kathy Pease <kpease@masfirm.com>; Chris Sachs (CSachs@marysvillepd.org) <CSachs@marysvillepd.org>;Craig Platt <eplatt@marysville.ca.us>; Jennifer Styczynski (iennifers@marysville.ca.us)
+<jennifers@marysville.ca.us> Subject: City of Marysville - Response to EIR for SR 70 Binney Junction Project
+Importance: High
+
+Good afternoon,
+
+The City of Marysville has prepared the attached response concerning the SR 70 Binney Junction Project. A certified copy of the attached will be certified mailed to Mike Bartlett, Chief located in your office.
+Should you have any questions, please feel free to reach out to any of my colleagues (on the Cc line above) as well as myself.
+Thank you and have a great day!
+
+Nicole Moe
+Assistant to the City Manager/City Clerk
+
+City of Marysville
+526 C Street
+Marysville, CA 95901
+
+530-749-3947 (direct)
+530-749-3901 (main)
+530-749-3992 (fax)
+
+EXHIBIT 1,
+
+From: Gene Palazzo <gpalazzo@marysville.ca.us>
+Sent: Friday, December 18, 2020 3:44 PM To: Balaji, Kris@DOT <Kris.Balaji@dot.ca.gov>; Knudson, Cameron H@DOT <cameron.knudson@dot.ca.gov>; Benipal, Amarjeet S@DOT <amarjeet.benipal@dot.ca.gov> Cc: Nicole Moe <nmoe@marysville.ca.us>; Jennifer Styczynski <jennifers@marysville.ca.us>; Attorney - Brant <bbordsen@yubasutterlaw.com>; Ellen J. Garber <Garber@smwlaw.com>; Craig Platt <cplatt@marysville.ca.us>; Kathy Pease <kpease@masfirm.com> Subject: RE: City of Marysville • Response to EIR for SR 70 Binney Junction Project
+
+Gentlemen,
+
+With respect to the SR 70 Binney Junction Project the City would like to enter into settlement discussion in keeping with our recent correspondence. Please advise if Caltrans is willing to delay filing the NOD (or enter into a Tolling Argument to file and action) to allow such discussion to proceed?
+A response by Monday morning December 21st is appreciated.
+
+Gene
+
+Gene Palazzo
+City of Marysville
+
+Office: (530) 749-3901
+Cell: (530) 682-9375
+Fax: (530) 749-3992
+
+Website: www.marysville.ca.us
+
+From: Balaji, Kris@DOT <Kris.Balaji@dot.ca.gov>
+Sent: Thursday, December 17, 2020 2:31 PM To: Nicole Moe <nmoe@marysville.ca.us>; Gene Palazzo <gpalazzo@marysville.ca.us>
+Ce: Knudson, Cameron H@DOT <cameron.knudson@dot.ca.gov>
+Subject: Re: City of Marysville - Response to EIR for SR 70 Binney Junction Project
+
+Gene,
+Thank you! I got the letter. Our Project Manager, Cameron Knudson whom you met and Mike Bartlett were going to give you a call. am unsure if that happened already or not.
+
+Nicole,
+Hope you are doing well and safe...
+Happy Holidays to you both!!
+Regards,
+
+Kris Balaji
+Deputy District Director
+PPM/Asset Management
+C (916) 799-6779
+
+From: Nicole Moe <nmoe@marysville.ca.us>
+Sent: Thursday, December 17, 2020 2:18 PM To: Knudson, Cameron H@DOT <cameron.knudson@dot.ca.gov>; Benipal, Amarjeet S@DOT <amarjeet.benipal@dot.ca.gov>; Balaji, Kris@DOT<Kris.Balaji@dot.ca.gov>; Bartlett, Mike
+L@DOT <mike.bartlett@dot.ca.gov> Ce: Gene Palazzo <gpalazzo@marysville.ca.us>; Jennifer Styczynski
+<jennifers@marysville.ca.us>; Garber@smwlaw.com; Brant Bordsen
+<bbordsen@marysville.ca.us>
+Subject: Re: City of Marysville - Response to EIR for SR 70 Binney Junction Project
+Importance: High
+
+EXTERNAL EMAIL. Links/attachments may not be safe.
+Good afternoon!
+
+The City of Marysville has prepared the attached response to the SR 70 Binney Junction Project Final EIR. All documents will also be certified mailed to Mr.
+Bartlett's attention.
+
+Thank you and have a great day.
+
+Nicole Moe
+Assistant to the City Manager/City Clerk
+
+City of Marysville
+526 C Street
+Marysville, CA 95901
+
+530-749-3947 (direct)
+530-749-3901 (main)
+530-749-3992 (fax)
+
+From: Nicole Moe
+Sent: Friday, October 30, 2020 2:41 PM To: cameron.knudson@dot.ca.gov; Amarjeet.Benipal@dot.ca.goy; Kris.Balaji@dot.ca.gov
+Cc: Gene Palazzo <gpalazzo@marysville.ca.us>; Ron Karlen (rkarlen@marysville.ca.us)
+
+<rkarlen@marysville.ca.us>; Paul Richardson (prichardson@marysville.ca.us <prichardson@marysville.ca.us>;Kathy Pease <kpease@masfirm.com>; Chris Sachs
+(CSachs@marysvillepd.org)<CSachs@marysvillepd.org>;Craig Platt
+<cplatt@marysville.ca.us>; Jennifer Styczynski (jennifers@marysville.ca.us)
+<jennifers@marysville.ca.us>
+Subject: City of Marysville - Response to EIR for SR 70 Binney Junction Project Importance: High
+
+Good afternoon,
+
+The City of Marysville has prepared the attached response concerning the SR 70 Binney Junction Project. A certified copy of the attached will be certified mailed to Mike Bartlett, Chief located in your office.
+
+Should you have any questions, please feel free to reach out to any of my
+colleagues (on the Cc line above) as well as myself.
+
+Thank you and have a great day!
+
+Nicole Moe
+Assistant to the City Manager/City Clerk
+
+City of Marysville
+526 C Street
+Marysville, CA 95901
+
+530-749-3947 (direct)
+530-749-3901 (main)
+530-749-3992 (fax)
+
+EXHIBIT
+G
+
+From: Knudson, Cameron H@DOT <cameron.knudson@dot.ca.gov>
+Sent: Monday, December 21, 2020 4:52 PM
+To: Nicole Moe <nmoe@marysville.ca.us>; Benipal, Amarjeet S@DOT <amarjeet.benipal@dot.ca.gov?;Balaji, Kris@DOT<Kris.Balaii@dot.ca.gov>;Bartlett, Mike L@DOT <mike.bartlett@dot.ca.gov> Cc: Gene Palazzo <gpalazzo@marysville.ca.us>; Jennifer Styczynski
+<jennifers@marysville.ca.us>; Ellen J. Garber <Garber@smwlaw.com>; Brant Bordsen
+<bbordsen@marysville.ca.us>
+Subject: RE: City of Marysville - Response to EIR for SR 70 Binney Junction Project
+Thank you for your letter dated 12/17/2020 with regard to the environmental document for the Binney Junction project on State Route 70. The Notice of Determination was filed with the State Clearinghouse on December 11th
+We are currently reviewing the comments and concerns raised in your letter which will require a couple of weeks, especially with the holidays. We look forward to discussing them with you
+after we've completed our review.
+Thank You,
+
+Cameron Knudson, PE
+Project Manager
+703 B St
+Marysville, CA 95901
+(530) 218-1820
+
+Chanta Apodoca - PMA
+703 B St
+Marysville, CA 95901 (530) 741-5346
+
+From: Nicole Moe <nmoe@marysville.ca.us>
+Sent: Thursday, December 17, 2020 2:18 PM
+To: Knudson, Cameron H@DOT <cameron.knudson@dot.ca.gov>; Benipal, Amarjeet S@DOT
+<amarjeet.benipal@dot.ca.gov>; Balaji, Kris@DOT <Kris.Balaji@dot.ca.gov>; Bartlett, Mike
+L@DOT <mike.bartlett@dot.ca.gov>
+Cc: Gene Palazzo <gpalazzo@marysville.ca.us>; Jennifer Styczynski <jennifers@marysville.ca.us>; Garber@smwlaw.com; Brant Bordsen
+<bbordsen@marysville.ca.us>
+Subject: Re: City of Marysville - Response to EIR for SR 70 Binney Junction Project
+Importance: High
+
+EXTERNAL EMAIL. Links/attachments may not be safe.
+Good afternoon!
+
+The City of Marysville has prepared the attached response to the SR 70 Binney Junction Project Final EIR. All documents will also be certified mailed to Mr.
+Bartlett's attention.
+
+Thank you and have a great day.
+
+Nicole Moe
+Assistant to the City Manager/City Clerk
+City of Marysville
+526 C Street
+Marysville, CA 95901
+
+530-749-3947 (direct)
+530-749-3901 (main) 530-749-3992 (fax)
+
+From: Nicole Moe
+Sent: Friday, October 30, 2020 2:41 PM To: cameron.knudson@dot.ca.gov; Amarjeet.Benipal@dot.ca.gov; Kris.Balaji@dot.ca.gov Cc: Gene Palazzo <gpalazzo@marysville.ca.us>; Ron Karlen (rkarlen@marysville.ca.us) <rkarlen@marysville.ca.us>; Paul Richardson (prichardson@marysville.ca.us) <prichardson@marysville.ca.us>; Kathy Pease <kpease@masfirm.com>; Chris Sachs (CSachs@marysvillepd.org)<CSachs@marysvillepd.org>;Craig Platt
+<cplatt@marysville.ca.us>; Jennifer Styczynski (iennifers(@marysville.ca.us)
+<iennifers@marysville.ca.us> Subject: City of Marysville - Response to EIR for SR 70 Binney Junction Project
+Importance: High
+
+Good afternoon,
+
+The City of Marysville has prepared the attached response concerning the SR 70 Binney Junction Project. A certified copy of the attached will be certified mailed to Mike Bartlett, Chief located in your office.
+
+Should you have any questions, please feel free to reach out to any of my colleagues (on the Cc line above) as well as myself.
+Thank you and have a great day!
+
+Nicole Moe
+Assistant to the City Manager/City Clerk
+
+City of Marysville
+526 C Street
+Marysville, CA 95901
+
+530-749-3947 (direct)
+530-749-3901 (main)
+530-749-3992 (fax)
+
+SACRAMLAIJ BI
+11 JAN -7 AM1B 14
+ITHENT OF JUSTICE AHLNTO OIFIPE
+
+SHUTE MIHALY
+WEINBERGER LLP
+
+396 HAYES STREET, SAN FRANCISCO, CA 94102 ELLEN J. GARBER
+T: (415) 552-7272 F: (415) 552-5816 Attorney
+www.smwlaw.com Garber@smwlaw.com
+
+January 5, 2021
+
+Via U.S. Mail
+
+Xavier Becerra
+Attorney General
+California Department of Justice
+1300 I Street
+Sacramento, CA 95814-2919
+
+Re: Notice of Filing of CEQA Litigation
+City of Marysville v. California Department of Transportation, et al.
+
+Dear Attorney General Becerra:
+Enclosed please find a copy of the Petition for Writ of Mandate in the above-titled action. This Petition is provided to you in compliance with Public Resources Code section 21167.7 and Code of Civil Procedure section 388. Please acknowledge receipt in the enclosed prepaid, self-addressed envelope.
+Thank you for your attention to this matter.
+
+Very truly yours,
+
+SHUTE, MIHALY & WEINBERGER LLP
+Www J. Furlm
+Ellen J. Garber
+
+Encl.: Verified Petition for Writ of Mandate and Complaint for Injunctive Relief
+
+1323891.2

@@ -1,0 +1,1527 @@
+1 Neal P. Maguire (SBN 234531)
+FERGUSON CASE ORR PATERSON LLP
+2 1050 South Kimball Road
+
+3 Ventura, California 93004
+Telephone: (805) 659-6800
+4 Fax Number: (805) 659-6818
+E-mail: nmaguire@fcoplaw.com
+5
+Attorneys for Petitioners CARBON CALIFORNIA COMPANY, LLC; CARBON CALIFORNIA OPERATING COMPANY, LLC
+
+8 SUPERIOR COURT FOR THE STATE OF CALIFORNIA
+9 FOR THE COUNTY OF VENTURA
+10
+
+11 CARBON CALIFORNIA COMPANY, LLC, CASENO.
+12 a Delaware limited liability company;
+CARBON CALIFORNIA OPERATING
+13 COMPANY, LLC, a Delaware limited liability CEQA CASE (Local Rule 28.00)
+14 company,
+VERIFIED PETITION FOR WRIT OF
+15 Petitioners, MANDATE
+
+16 V. [Pub. Resources Code, § 21000 et seq.;
+
+17 COUNTY OF VENTURA, a political Gov. Code, § 65000 et seq.; Code Civ.
+subdivision of the State of California, acting Proc., §§ 1085, 1094.5]
+
+18 by and through its BOARD OF
+19 SUPERVISORS; and DOES 1 through 100, [Filed concurrently with Request for
+Hearing] inclusive,
+20
+Respondents.
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+1
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 INTRODUCTION
+
+2 1. Petitioners Carbon California Company, LLC and Carbon California Operating
+
+3 Company, LLC (*Petitioners") bring this action to remedy the failure of the County of Ventura (the
+
+4 "County') to properly evaluate, under the California Environmental Equality Act, or CEQA, the
+environmental impacts associated with the County's approval of a comprehensive update of its
+
+6 general plan, referred to herein as the "2040 General Plan." Petitioners also seek to remedy the
+
+7 County's failure to satisfy certain procedural requirements for general plans imposed by
+
+8 California's Planning and Zoning Law.
+
+9 THE PARTIES
+
+10 2. Petitioner Carbon California Company, LLC is a Delaware limited liability company
+11 that is registered to do business in California. Petitioner Carbon California Operating Company,
+
+12 LLC is a Delaware limited liability company that is registered to do business in California.
+13 Petitioners maintain an office in Santa Paula, California.
+
+14 3. Petitioners own or possess the following rights or interests in real property located in
+15 the unincorporated portion of Ventura County: fee interests; leaseholds, licenses, easements, rights-
+16 of-way and similar interests; and hydrocarbon and mineral rights and interests. Petitioners engage in
+17 the exploration, development, and production of oil and natural gas in the unincorporated portion of
+
+18 the County. Petitioners are the recipients of land use permits and approvals from the County.
+
+19 4. Petitioners are beneficially interested in the matters and actions described and
+
+20 complained of in this Petition. Petitioners are directly and adversely affected by the actions of the
+
+21 County described in this Petition. Petitioners are directly and adversely affected by the
+
+22 environmental and other impacts of the 2040 General Plan as well as the County's failure to
+
+23 properly analyze, mitigate, or avoid those impacts. Petitioners will be detrimentally affected or
+
+24 aggrieved by the actions of the County if the Court does not grant relief.
+
+25 5. Respondent County of Ventura is a political subdivision of the State of California.
+26 The County acts by and through its Board of Supervisors ("Board"), the elected legislative body for
+27 the County. The County and its Board shall collectively be referred to herein as "Respondents."
+
+28 6. Does 1 through 100, inclusive, are, on the basis of information and belief, agents,
+
+2
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+TOTTA2O
+
+2 affiliates, and associates of the named Respondents. The identities of said DOES are currently
+
+3 unknown, and when they become known, the Petition will be amended to add them.
+GENERAL ALLEGATIONS
+
+4 Local Agency General Plans
+
+5 7.
+
+6 A local agency such as the County is required to have a general plan. (Gov. Code,
+
+7 65300 et seq.) A general plan is "comprehensive, long-term" "plan for the physical development
+of the county or city, and of any land outside its boundaries which in the planning agency's
+8 I judgment bears relation to its planning.' (Gov. Code, § 65300.)
+
+9 8. State law requires a general plan to include certain chapters, or "elements.» These
+10 "mandatory" elements include those relating to land use, housing, safety, and others. (Gov. Code,
+11 § 65302.) A general plan may include other "optional" elements that "relate to the physical
+12 development of the county or city." (Gov. Code, § 65303.) A general plan and its elements should
+
+13 "comprise an integrated, internally consistent and compatible statement of policies for the adopting
+14 agency." (Gov. Code, § 65300.5.) Additionally, § an agency's subsequent land use actions must be
+
+15 consistent with its general plan. (See, e.g., Gov. Code, §§ 65359 [specific plans], 66473.5
+16 [subdivision maps], 65860 [zoning ordinances].)
+
+17 9.
+
+18 State law provides for procedures, including public notice and hearing, for adopting
+or amending a general plan. (Gov. Code, § 65350 et seq.)
+
+19 The 2040 General Plan
+
+20 10. In
+
+21 or about 2015, the County began preparing the 2040 General Plan, a
+
+22 comprehensive update of its general plan. In 2015, the Board selected a consultant team to prepare
+
+23 the 2040 General Plan in conjunction with County staff. Also in 2015, the Board directed that the
+2040 General Plan "should be completed before summer of 2020.3
+
+24 11.
+
+25 The 2040 General Plan includes two documents: a Background Report and the plan
+itself, often referred to as the Policy Document.
+
+26 12.
+
+27 In March 2017, the County published a draft Background Report that "provides a
+
+28 *snapshot' in time of the County's existing conditions. It presents the physical, social, and economic
+resource information required to support the preparation of the General Plan. The data and
+
+3
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+- information in the Report have a baseline date of June 2016. The Background Report serves as the
+2 foundation document from which subsequent planning policies and programs will be formulated.
+
+3
+
+4 The document is also used as the 'environmental setting' section of the General Plan EIR." The
+County published revised Background Reports in October 2017 and January 2018.
+
+13. Petitioners are informed and believe, and on that basis allege, that on January 14,
+6 2019, the County issued a Notice of Preparation of a Draft Environmental Impact Report (DEIR)
+
+7
+
+8 and Scoping Meeting for the Ventura County 2040 General Plan Update (*Notice of Preparation").
+
+14.
+
+9 The Notice of Preparation described the 2040 General Plan as "a comprehensive
+
+10 update of its General Plan. The County's current General Plan was most recently updated in 2005
+
+11 and has not been comprehensively updated since 1988. The 2040 General Plan Update is anticipated
+to be adopted in 2020 and will set forth the County's vision of its future and express the goals,
+12 policies, and implementation programs that will guide future decisions concerning a variety of
+
+13
+
+14 issues, including land use, health and safety, and resource conservation out to the year 2040."
+
+15. The Notice of Preparation characterized the Background Report as "describe[ing]
+15 existing conditions as of 2016 and potential future trends in Ventura County. It is divided into 12
+
+16
+
+17 chapters that cover a wide range of topics, such as demographics, economic conditions, land use,
+public facilities, and environmental resources."
+
+18 16. The Notice of Preparation characterized the second component of the 2040 General
+19 Plan, the Policy Document, as "the essence of the 2040 General Plan Update. It will set forth the
+
+20
+
+21 goals and policies that guide future decisions within the unincorporated areas and will identify the
+
+22 implementation programs required to carry out the goals and policies of the General Plan. The
+
+23 Policy Document will also include land use designations and a land use diagram that specifies the
+
+24 allowable uses of land, (e.g., residential, commercial, etc.) throughout the unincorporated area." The
+Notice of Preparation also indicated, "The General Plan will address the state's mandatory elements
+25 including Land Use, Circulation, Housing, Conservation, Open Space, Noise, and Safety, plus the
+
+26
+
+27 new requirements for Air Quality and Environmental Justice, and three new optional elements:
+Water, Agriculture, and Economic Development."
+
+28 17. The Notice of Preparation also discussed the General Plan's existing and proposed
+
+4
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+land use designations. According to the Notice of Preparation, "The Proposed 2040 General Plan
+
+2 Update Land Use Designations would refine the Existing Community and Urban land use
+
+3 designations of the existing General Plan to more clearly distinguish among land uses allowed
+
+4 within each designation and set forth maximum development density and intensity standards."
+
+5 18. The Notice of Preparation also indicated that the "2040 General Plan Update will
+
+6 also include updates to seven of the ten Area Plans that are part of the existing General Plan: 1) EI
+7 Rio/Del Norte; 2) Thousand Oaks; 3) Lake Sherwood/Hidden Valley; 4) Ojai Valley; 5) Oak Park;
+8 6) Piru; [and] 7) North Ventura Avenue.3
+
+9 19. In May 2019, the County released a "preliminary public review draft" of the 2040
+10 General Plan Policy Document. According to this draft, the "Ventura County 2040 General Plan
+
+11 Policy Document is organized into 11 chapters," including one for an introduction, nine for each of
+
+12 the 2040 General Plan's elements, and one for the County's Area Plans.
+
+13 20. In June 2019, the County Planning Commission ("Planning Commission") held work
+14 sessions to consider and revise the draft 2040 General Plan.
+
+15 21. In August 2019, the Board held a work session to consider the draft 2040 General
+
+16 Plan. At that work session, the Board made revisions to the draft General Plan. On September 10,
+
+17 2019, the Board again considered, reviewed the prior revisions to, and made further revisions to the
+
+18 2040 General Plan.
+
+19 22. In January 2020, the County released for public review a revised draft Background
+
+20 Report. The 1,034-page draft Background Report included chapters on Demographics and
+21 Economics; Land Use; Health and Well-Being; Housing; Transportation and Mobility; Public
+
+22 Facilities, Services, and Infrastructure; Natural Resources; Agriculture; Water Resources; Hazards
+
+23 and Safety; and Climate Change. The January 2020 Background Report states, "The data and
+24 information in the Background Report have a baseline date of June 2016." The January 2020
+
+25 Background Report further states, "The document is also used as the 'environmental setting' section
+
+26 of the General Plan EIR."
+
+27 23. In January 2020, the County also released for public review a "public review draft"
+
+28 of the 2040 General Plan Policy Document. This draft document identified the nine General Plan
+
+5
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 elements as:
+
+2
+
+3 a. the Land Use and Community Character Element, which "establishes the pattern and
+
+4 intensity of land use in the county and sets forth policies and standards to guide
+future development";
+b. the Housing Element, which "ensures that there is adequate land to appropriately
+accommodate the County's fair share of population growth and housing needs." The
+
+300 2040 General Plan's Housing Element was not revised from the existing County
+general plan. The County will be subsequently update its Housing Element separate
+from the 2040 General Plan;
+
+C.
+
+11 the Circulation, Transportation, and Mobility Element, which "focuses on providing
+
+12 a balanced, multimodal transportation network that meets the needs of all users of
+
+13 streets, roads, and highways for safe and convenient travel in a manner that is
+suitable to the rural, suburban, or urban context";
+
+14
+
+15 d. the Public Facilities, Services, and Infrastructure Element, which "provides goals,
+
+16 policies, and programs to guide essential public facilities and services, energy
+
+17 efficiency, infrastructure funding, wastewater treatment and disposal, solid and
+
+18 hazardous waste, flood control and drainage, public utilities, community facilities,
+
+19 library facilities and services, parks and recreation facilities, law enforcement and
+emergency services, and fire protection";
+
+20 e.
+
+21 the Conservation and Open Space Element, which "focuses on the long-term
+
+22 preservation and conservation of both the county's natural and developed open space
+environment";
+
+23 f.
+
+24 the Hazards and Safety Element, which "provides for the protection of the
+
+25 community from any unreasonable risks associated with the effects of the following:
+
+26 wildfire hazards, flood hazards, sea level rise and coastal flooding, geologic and
+
+27 seismic hazards, hazardous materials, transportation related hazards, oil and gas
+
+28 production and transportation incidents, military compatibility, noise, air quality, and
+increasing temperatures";
+
+6
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+g, the Agriculture Element, which "focuses on the protection, preservation, and
+
+2 expansion of productive agriculture";
+h. the Water Resources Element, which discusses how "[a]dequate water supply is a
+
+4 current and ongoing concern in Ventura County"; and
+
+5 i the Economic Vitality Element, which "focuses on supporting a resilient economy a
+that promotes economic health of the county, sustainable funding for public services,
+a thriving business environment, and job retention and growth."
+
+8 24. The draft of the 2040 General Plan Policy Document also included County Area
+
+9 Plans and several appendices.
+10 The 2040 General Plan Draft EIR
+
+11 25. Also in January 2020, the County released the 2040 General Plan's Draft
+
+12 Environmental Impact Report ("Draft EIR") for public review. Petitioners are informed and believe,
+
+13 and on that basis allege, that the County sent a Notice of Availability of a Draft EIR for Public
+14 Review ("Notice of Availability") for the 2040 General Plan to the County Clerk and Recorder for
+15 posting. The Notice of Availability indicated that the public review and comment period for the
+16 Draft EIR would begin on Monday, January 13, 2020 and end on Thursday, February 27, 2020.
+
+17 26. Petitioners are informed and believe, and on that basis allege, that the County sent a
+
+18 Notice of Completion and Environmental Document Transmittal ("Notice of Completion") to the
+19 State Clearinghouse of the Governor's Office of Planning and Research. Petitioners are informed
+
+20 and believe, and on that basis allege, that the State Clearinghouse received the Notice of
+
+21 Completion from the County on January 10, 2020. Petitioners are informed and believe, and on that
+
+22 basis allege, that the State Clearinghouse distributed the Draft EIR to State agencies on January 14,
+
+23 2020. Petitioners are informed and believe, and on that basis allege, that the State Clearinghouse
+
+24 indicated to those State agencies that the review period for the Draft EIR ended on February 26,
+
+25 2020.
+
+26 27. According to the Notice of Availability, the Draft EIR "identified significant and
+
+27 unavoidable environmental impacts in the following resource areas": Agriculture and Forestry
+
+28 Resources; Air Quality; Biological Resources; Cultural, Tribal Cultural, and Paleontological
+
+7
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 Resources; Greenhouse Gas Emissions; Hazards, Hazardous Materials, and Wildfire; Mineral and
+
+2 Petroleum Resources; Noise and Vibration; Public Services and Recreation; Transportation and
+
+3 Traffic; and Utilities.
+
+4 28. The Draft EIR for the 2040 General Plan included an executive summary and a
+
+5 project description section for the 2040 General Plan. This section identified the "geographic extent
+
+6 of the plan area." This same section discussed the 2040 General Plan's "proposed organizational
+structure, land use designations, and updated set of land use density and intensity standards." The
+8 project description identifies the development standards for certain proposed land use designations.
+
+9 The Draft EIR did not discuss the effect of such land use designations on existing properties,
+
+10 including whether the designations would decrease property development intensities within the
+
+11 2040 General Plan area.
+
+12 29. The Draft EIR's project description also included a land use diagram "to guide the
+
+13 general distribution, location, and extent of the various land use designations throughout the
+14 county."
+
+15 30. The Draft EIR's project description also provided "a brief summary of cach element
+
+16 of the 2040 General Plan." The project description section of the Draft EIR did not identify specific
+
+17 goals, policies, or programs of any element of the 2040 General Plan.
+
+18 31. The Draft EIR's project description included general population, employment, and
+19| household "growth forecast[s]" for the entire unincorporated portion of the County through 2040.
+
+20 32. The Draft EIR also included a section regarding the 2040 General Plan's
+
+21 "Environmental Impact Analysis." This section of the Draft EIR provided the "environmental
+22 setting" for the 2040 General Plan by reference to the Background Report: "The existing conditions
+
+23 against which potential impacts are evaluated are based on the environmental and regulatory setting
+
+24 information published in the January 2020 Background Report, which is included in this draft EIR
+
+25 as Appendix B."
+
+26 33. The Draft EIR's Environmental Impact Analysis section included a discussion of the
+27 2040 General Plan's potentially significant environmental impacts relating to the following topics:
+
+28 Aesthetics, Scenic Resources, and Light Pollution; Agricultural and Forestry Resources; Air
+
+8
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 Quality; Biological Resources; Cultural, Tribal Cultural, and Paleontological Resources; Energy;
+
+2 Geologic Hazards; Greenhouse Gas Emissions; Hazards, Hazardous Materials, and Wildfire;
+
+3 Hydrology and Water Quality; Land Use and Planning; Mineral and Petroleum Resources; Noise
+
+4 and Vibration; Population and Housing; Public Services and Recreation; Transportation and Traffic;
+
+5 and Utilities.
+
+6 34. The Draft EIR also contained a discussion of alternatives to the 2040 General Plan,
+
+7 including four alternatives "selected for detailed analysis."
+
+8 35. The Draft EIR also included appendices, including the January 2020 Background
+
+9 Report.
+
+10 36. On February 26, 2020, Petitioners submitted to the County through legal counsel a
+
+11 comment letter on the Draft EIR. Petitioners commented that the Draft EIR: was not properly
+
+12 circulated for review to State agencies; failed to adequately discuss the 2040 General Plan's
+13 environmental setting; failed to adequately discuss or analyze the effect of the 2040 General Plan's
+
+14 new land use designations; failed to provide an adequate level of detail regarding 2040 General Plan
+15 build-out; provides misleading information regarding the distribution of 2040 General Plan build-
+
+16 out; improperly limited the geographic scope of the 2040 General Plan's direct and indirect impacts;
+
+17 inadequately analyzed the 2040 General Plan's direct and indirect impacts on mineral resources;
+18 and failed to analyze the 2040 General Plan's consistency with applicable regulatory and land use
+19 plans.
+20 The 2040 General Plan Final EIR
+
+21 37. On or about July 2, 2020, the County made available for public review the Final
+
+22 Environmental Impact Report ("Final EIR") for the 2040 General Plan. The Final EIR includes the
+
+23 numerous written comments on the Draft EIR from public agencies, private organizations, and
+
+24 individuals. The Final EIR includes "master responses" to the Draft EIR comments. According to
+
+25 the Final EIR, "Master responses are provided for the following topics: greenhouse gas emissions;
+
+26 2040 General Plan land use, population projections and buildout assumptions; the 2020 Regional
+27 Housing Needs Allocation and 2021-2029 Housing Element Update; 2040 General Plan oil and gas
+28 policies; draft EIR Mitigation Measure AG-2 for loss of important farmland; the 2040 General Plan
+
+9
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 Background Report; and recirculation of the draft EIR." The Final EIR also provided responses to
+
+2 invidual comments, including those from Petitioners. These responses frequently referred to the
+
+3 master responses.
+
+4 38. As a result of comments on the Draft EIR, the County revised the Draft EIR, as
+indicated in section of the Final EIR. The County also provided new information. The Final BIR
+6 attaches a new report entitled "Revised Draft EIR Appendix D GHG Calculations." This report
+contains a "discussion of revisions to the GHG emission calculations in the Draft EIR" "pursuant to
+
+8 comments made on the draft EIR." The Final EIR noted, "In response to these comments, two major
+
+9 changes were made to the emissions inventory and forecast estimates."
+
+10 The 2040 General Plan and Final EIR Public Hearings
+
+11 39. On July 16, 2020, the Planning Commission conducted a public hearing "to consider
+
+12 and provide recommendation to the Board of Supervisors regarding" the 2040 General Plan, the
+
+13 Final EIR, and related items. At that public hearing, the Planning Commission voted 3-1 to
+
+14 recommend that the Board: certify the Final EIR; adopt, with revisions, CEQA-related findings, a
+
+15 Statement of Overriding Considerations, and a Mitigation Monitoring Program; repeal the existing
+16 General Plan; and approve and adopt the 2040 General Plan and 2040 General Plan Background
+
+17 Report, with revisions.
+
+18 40. The Planning Commission's recommended revisions included the deletion of
+19 Mitigation Measures PR-1, PR-2, and PR-3, the only mitigation measures in the Draft EIR designed
+
+20 to mitigate the 2040 General Plan's significant impacts on mineral resources.
+
+21 41. On August 4, 2020, Petitioner's counsel emailed County staff a letter regarding the
+
+22 inadequate circulation of the Draft EIR to State agencies.
+
+23 42. On September 1, 2020, Petitioner's counsel emailed County staff a letter regarding
+
+24 the 2040 General Plan and its Final EIR. That letter stated in part:
+
+25 a. that the Draft EIR was not properly circulated to State agencies under Public
+
+26 Resources Code section 21091 and that the Final EIR's response to Petitioners'
+
+27 previous comment on the issue was inadequate;
+
+28 b. that the Final EIR continued to fail to provide adequate information regarding
+
+10
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 forecasted development build-out under the 2040 General Plan and that the Final
+
+2 EIR's response to Petitioners' previous comment on the issue was inadequate. The
+
+UJ letter include examples from other counties in Southern California that provided
+V adequate general plan build-out information in EIRs;
+
+cn C. that the Draft EIR required recirculation under CEQA Guidelines section 15088.5
+
+6 because it was "so fundamentally and basically inadequate and conclusory in nature
+that meaningful public review and comment were precluded";
+8 d. that the absence of adequate 2040 General Plan build-out information precluded
+O C adequate analysis in the Draft EIR of the 2040 General Plan's environmental
+10 impacts, including those related to utilities such wastewater capacity and water
+11 supply;
+
+12 e that the Final EIR did not adequately clarify whether the 2040 General Plan's
+13 proposed land use designations would reduce the maximum density/intensity,
+14 minimum lot size, and maximum lot coverage requirements for any properties within
+15 the 2040 General Plan area;
+
+16 f. that the Final EIR inadequately considered whether the 2040 General Plan would
+
+17 constrain future housing opportunities within the 2040 General Plan area, a
+
+18 particularly problematic issue given that the County separated the update to its
+19 Housing Element from the 2040 General Plan;
+
+20 g. that the Final EIR inadequately analyzed the 2040 General Plan's impacts on mineral
+21 resources, which are themselves part of the "environment" under CEQA. (Pub.
+22 Resources Code, § 21060.5.) The letter further noted that the Draft EIR required
+23 recirculation after the County improperly and without substantial evidence deleted,
+24 purportedly for being infeasible, the only proposed mitigation measures (Mitigation
+25 Measures PR-1, PR-2, and PR-3) that addressed the 2040 General Plan's significant
+26 impacts on mineral resources; and
+
+27 h. that the Final EIR continued to fail to properly analyze, mitigate for, of avoid the
+28 2040 General Plan's foreseeable indirect impacts arising from the 2040 General
+
+11
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 Plan's limitations on oil and gas production. The letter attached an August 28, 2020,
+
+2 report from Sespe Consulting, Inc. that confirmed that the 2040 General Plan would
+
+UJ have a significant adverse impact regarding greenhouse gas emissions arising from
+V the 2040 General Plan's limitations on oil and gas production.
+
+5 43. On September 1, 2020, the Board conducted a public hearing to "Consider
+
+6 Certification of the 2040 General Plan Final Environmental Impact Report, Including Adoption of
+
+7 Related Findings and Documents Pursuant to the California Environmental Quality Act, Repeal of
+
+8 Existing General Plan Except for the 2014-2021 Housing Element, and Approval and Adoption of
+
+9 the 2040 General Plan and 2040 General Plan Background Report (Planning Division Case Number
+10 PL17-0141)."
+
+11 44. On September 1, 2020, the Board voted 3-2 to approve a motion (the "Board
+12 Motion") to:
+
+13 a. "Close the public testimony, tentatively approve the recommended actions on the
+
+14 2040 General Plan, FEIR and related documents, and direct staff to revise these
+
+15 documents as stated below in this motion."
+
+16 b. "Continue Public Hearing to September 15th at 3:00 p.m. for sole purpose of
+17 considering final documents."
+
+18 C. "Staff to provide the final form of the 2040 General Plan, EIR and related documents
+19 at continued September 15th Public Hearing."
+
+20 d. "In addition, direct staff to return on September 15th with all information needed for
+
+21 Board to consider approval of the creation of a Spanish language translation of the
+
+22 policy portion (Chapters 1 through 10, 12, and Appendix B) of the 2040 General
+
+23 Plan.3
+
+24 45. The Board Motion directed County staff to make the following revisions to the 2040
+
+25 General Plan, the Final EIR, or related documents:
+
+26 a. Update 2040 General Plan Land Use Maps to depict the Naval Base Ventura County
+
+27 boundaries.
+
+28 b. Insert a "Program COS-CC: Climate Emergency Council" into the "appropriate"
+
+12
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 CEQA documents. This program provides in part, "The County shall establish a
+2 Climate Emergency Council (CEC) a by a resolution of the Board of Supervisors to
+w advise the Board of Supervisors on climate action planning and implementation of
+the Climate Action Plan (CAP) goals, policies, and programs." The Board Motion
+details further aspects of this program regarding the establishment of the Climate
+Emergency Council as well as the Council's duties and composition. The Board
+
+7 Motion noted that information regarding the Climate Emergency Council was
+
+8 "inadvertently not included" in the 2040 General Plan's Final EIR, Mitigation
+a Monitoring Program, or Final CEQA Findings of Fact and Statement of Overriding
+10 Considerations.
+
+11 C. Revise the 2040 General Plan to include a new policy, Policy PFS-10.8, regarding
+12 "Discretionary Development Near Trails."
+
+13 d. Revise the 2040 General Plan to add a new program, Program PFS-X, regarding
+14 "Development and Inclusion of Los Padres National Forest and Santa Monica
+
+15 Mountains National Recreation Area Trails and Map."
+
+16 e. Revise the 2040 General Plan to add a new policy, Policy EV-X, regarding "Future
+17 Job Opportunities."
+
+18 f. Revise the 2040 General Plan's Ojai Valley Area Plan to add a new policy, Policy
+19 OV-22.1, regarding "Level of Service (LOS) Standards" for road segments and
+
+20 intersections.
+
+21 g. Revise the 2040 General Plan to add a new program, Program COS-M, regarding
+22 "Oil and Gas Tax."
+
+23 h. Revise the Final EIR to revise a mitigation measure and General Plan program,
+24 Mitigation Measure PS-1 (2040 General Plan Program PFS-X), regarding "Review
+
+25 Future Projects for Incorporation of Law Enforcement Security Measures."
+
+26 i. Update and revise the 2040 General Plan and its maps for the County's area plans.
+
+27 j. Revise the 2040 General Plan and its Ojai Valley Area Plan's Policy OJ-22.5:
+
+28 Highway 33.
+
+13
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 k. Revise the 2040 General Plan to add a new policy, Policy X, regarding "Consultation
+
+2 with California State University Channel Islands."
+
+3 1. Revise the 2040 General Plan to add a new program, Program COS X, regarding
+
+4 "Oil and Gas Setbacks."
+
+46. The Board did not direct the Planning Commission to review the revisions directed
+
+6 by the Board Motion. The Planning Commission did not subsequently review or consider the Board
+
+7 Motion or the revisions contained therein.
+
+8 47. On September 15, 2020, Petitioners' legal counsel emailed County staff a letter
+
+9 regarding the 2040 General Plan and its Final EIR.
+
+10 48. On September 15, 2020, the Board conducted a "Continued Public Hearing for the
+
+11 Sole Purpose of Considering Certification of the 2040 General Plan Final Environmental Impact
+
+12 Report, Including Adoption of Related Findings and Documents Pursuant to the California
+13 Environmental Quality Act, Repeal of Existing General Plan Except for the 2014-2021 Housing
+
+14 Element, Approval and Adoption of the 2040 General Plan and 2040 General Plan Background
+15 Report (Planning Division Case Number PL17-0141)," The agenda for the September 15, 2020,
+16 Board hearing stated that "public comment to the hearing is closed; only final project documents are
+17 | being considered for approval."
+
+18 49. On September 15, 2020, the Board voted 3-2 to: certify the 2040 General Plan Final
+19 EIR; adopt the CEQA Findings of Fact and Statement of Overriding Considerations and the
+
+20 Mitigation Monitoring Program; repeal the existing Ventura County General Plan; and approve and
+
+21 adopt the 2040 General Plan and 2040 General Plan Background Report.
+
+22 JURISDICTION AND VENUE
+
+23 50. Petitioners have exhausted all available administrative remedies before Respondents
+
+24 or are otherwise excused from doing so.
+
+25 51. Petitioners have no plain, speedy, or adequate remedy at law, and thus seek a writ of
+26 mandate from this Court. In the absence of such remedy, the County's violations of State law will
+
+27 remain in effect.
+
+28 52. This Court has jurisdiction to issue the requested writ of mandate pursuant to Public
+
+14
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+2 Resources Code sections 21168.5 (or, alternatively, 21168) and 21168.9 as well as Code of Civil
+Procedure section 1085 (or, alternatively, 1094.5).
+
+3 53.
+
+4 and 394. Venue in this Court is appropriate pursuant to Code of Civil Procedure sections 393
+
+5 54.
+
+6 This Petition is timely filed pursuant to Public Resources Code section 21167,
+subdivision (c).
+
+7 55.
+
+8 On October 7, 2020, and in accordance with Public Resources Code section 21167.5,
+
+9 Petitioners served on Respondents by email and overnight delivery a written notice of Petitioners'
+
+10 intention to commence this action, a true and correct copy of which is attached hereto as Exhibit A.
+56.
+
+11 Petitioners separately and concurrently notify Respondents that Petitioners elect to
+
+12 prepare the record of proceedings in this matter pursuant to Public Resources Code section 21167.6,
+subdivision (b)(2). Such notification is attached hereto as Exhibit B.
+
+13 57.
+
+14 Pursuant to CEQA Guidelines section 15232, Petitioners separately and concurrently
+request from this Court a hearing on this Petition.
+
+15 58. In accordance with Public Resources Code section 21167.7 and Code of Civil
+16 Procedure section 388, Petitioners will serve a
+
+17 General. copy of this Petition on the California Attorney
+
+18 FIRST CAUSE OF ACTION
+
+19
+
+20 (Violations of CEQA; Pub. Resources Code, § 21000 et seq.)
+
+59.
+
+21 Paragraphs 1 through 58 are incorporated here as if fully set forth herein.
+
+60.
+
+22 CEQA is set forth in the Public Resources Code, section 21000 et seq. Additionally,
+
+23 the Governor's Office of Planning and Research and the California Natural Resources Agency
+
+24 together prepare, develop, certify, and adopt the "CEQA Guidelines" (14 Cal. Code Regs., § 15000
+
+25 et seq.) and amendments thereto. The CEQA Guidelines are regulations that clarify, interpret, and
+implement CEQA.
+
+26 61.
+
+27 Broadly speaking, CEQA directs certain local agencies such as the County to
+
+28 identify and analyze the potentially significant environmental impacts of certain actions, or
+"projects," so as to inform agency decision-makers and the public of the environmental
+
+1ARr 15
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+- consequences of a project. An agency undertaking the initial CEQA review of a project, referred to
+
+2 as the "lead" agency, will usually engage in a three-step process. First, the lead agency determines if
+
+3 the action being considered is a "project" subject to CEQA. (CEQA Guidelines, § 15060.) Second,
+
+4 the lead agency determines if the project is exempt from CEQA. (CEQA Guidelines, § 15061.)
+
+5 Third, the lead agency determines whether the project could result in potentially significant
+
+6 environmental impacts. Depending on whether or not there are significant impacts and whether
+those impacts can be mitigated to a level below significance, a lead agency will prepare a negative
+
+8 declaration, a mitigated negative declaration, or a full EIR for a project. (CEQA Guidelines,
+
+9 con 15063, subd. (b).)
+
+10 62. CEQA directs public agencies to prepare an EIR "as early as feasible in the planning
+
+11 process to enable environmental considerations to influence project program and design and yet late
+
+12 enough to provide meaningful information for environmental assessment." (CEQA Guidelines,
+
+13 § 15004, subd. (b).) Particularly for public projects sponsored by the lead agency itself, CEQA
+14 notes that "public agencies shall not undertake actions concerning the proposed public project that
+
+15 would have a significant adverse effect or limit the choice of alternatives or mitigation measures,
+
+16 before completion of CEQA compliance." (CEQA Guidelines, § 15004, subd. (b)(2).)
+
+17 63. CEQA imposes substantive and procedural requirements on agencies such as the
+
+18 County regarding the preparation, contents, adequacy, public review, and certification of an EIR.
+
+19 64. A lead agency preparing an EIR will start with a draft EIR. (CEQA Guidelines,
+
+20 s0p 15084.) A draft EIR must include, among other items:
+5888 0 a. a brief summary of the project, its consequences, and its significant impacts (CEQA
+Guidelines, § 15123);
+b. a project description that includes sufficient information for evaluation and review of
+the environmental impacts of the project, including the location of the project, a
+statement of the project objectives, a description of the project's characteristics, a
+26 statement briefly describing the intended uses of the EIR, a list of agencies that are
+27 expected to use the EIR, and a list of environmental review and consultation
+
+28 requirements (CEQA Guidelines, § 15124);
+
+16
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+C. a description of the project's "environmental setting," a "description of the physical
+
+2 environmental conditions in the vicinity of the project," typically at the time they
+3 exist at the time of the issuance of the project's notice of preparation. The
+4 environmental setting "will normally constitute the baseline physical conditions by
+
+5 which a lead agency determines whether an impact is significant. The description of
+
+6 the environmental setting shall be no longer than is necessary to provide an
+
+7 understanding of the significant effects of the proposed project and its alternatives."
+
+8 (CEQA Guidelines, § 15125);
+
+9 d. a discussion of the significant environmental impacts of the project, including those
+
+10 that cannot be avoided and those that are irreversible (CEQA Guidelines, §§ 15126,
+
+11 15126.2);
+
+12 e, the mitigation measures proposed to minimize the project's significant impacts
+
+13 (CEQA Guidelines, §§ 15126, 15126.4); and
+
+14 f. a reasonable range of project alternatives that meet the project's objectives while
+
+15 avoiding or reducing its significant environmental impacts (CEQA Guidelines,
+
+16 §§ 15126, 15126.6).
+
+17 65. Once a lead agency has completed the draft EIR, it must file a "notice of
+18 completion" of the draft EIR with the Office of Planning and Research. (CEQA Guidelines,
+
+19 15085.) The lead agency must consult with and request comments on the draft EIR from various
+20 public agencies. (CEQA Guidelines, § 156086.) A lead agency must also prepare a "notice of the
+
+21 availability" of the draft EIR to provide the public with notice of the draft EIR as well as the
+
+22 opportunity to provide comments on it. (CEQA Guidelines, § 15087.) The public review period for
+
+23 a project submitted for review by State agencies, such as the 2040 General Plan, shall be no less
+
+24 than 45 days. (CEQA Guidelines, § 15105, subd. (a).)
+
+25 66. After a public review and comment on a draft EIR, an agency must prepare a final a EIR
+26 before approving a project. (CEQA Guidelines, § 15089.) Pursuant to CEQA Guidelines section
+
+27 15132, a final EIR must include:
+
+28 a. the draft EIR or the revised draft EIR;
+
+17
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 b. the comments received on the draft EIR;
+
+2 C. a list of persons, organizations, and public agencies commenting on the draft EIR;
+
+3 d. the responses to comments prepared by the lead agency; and
+e. any information added by the lead agency.
+
+5 67. CEQA requires a lead agency to adequately respond to comments from other
+6 agencies and the public on a draft EIR. (Pub. Resources Code, § 21092.5; CEQA Guidelines,
+
+7 § 15088.)
+
+8 68. Also before approving a project, a lead agency must certify the final EIR. (CEQA
+
+9 Guidelines, § 15090.) If a project will result in one or more significant environmental impacts, a
+
+10 lead agency must also make certain findings supported by substantial evidence. (CEQA Guidelines,
+
+11 § 15091.) If a project will result in one or more significant environmental impacts that will not be
+12 mitigated or avoided, a lead agency may only approve the project if it determines that the project's
+13 benefits "outweigh the unavoidable adverse environmental effects" of the project. Such a "statement
+
+14 of overriding considerations shall be supported by substantial evidence in the record." (CEQA
+
+15 Guidelines, § 15093.)
+
+16 69. Respondents have violated CEQA by failing to proceed in a manner required by law
+
+17 and by failing to support their determinations or decisions with substantial evidence. (Pub.
+18 Resources Code, § 21168.5.) Alternatively, Respondents have violated CEQA by proceeding in
+19 excess of their jurisdiction and by prejudicially abusing their discretion by failing to proceed in the
+
+20 manner required by law, by failing to support their decisions with findings, and by failing to support
+
+21 their findings with substantial evidence. (Pub. Resources Code, § 21168; Code Civ. Proc.,
+
+22 § 1094.5.)
+
+23 70. Respondents failed to proceed in a manner required by law and violated CEQA by
+24 failing to properly circulate the Draft EIR, including in accordance with Public Resources Code
+
+25 section 21091 and CEQA Guidelines section 15087.
+
+26 71. Respondents failed to proceed in a manner a required by law and violated CEQA by
+
+27 certifying the Final EIR, which is inadequate and fails to comply with the requirements of CEQA
+
+28 and the CEQA Guidelines. Respondents violated CEQA by, among other items:
+
+18
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 a. undertaking "actions concerning the proposed public project that would have a
+
+2 significant adverse effect or limit the choice of alternatives or mitigation measures,
+
+3 before completion of CEQA compliance" in contravention of CEQA Guidelines
+; section 15004;
+
+5 b. failing to provide in the Final EIR an accurate, complete, and stable description of
+the 2040 General Plan, which resulted in a failure of the Final EIR to adequately
+
+7 analyze the 2040 General Plan's environmental impacts;
+
+8 C. failing to adequately describe in the Final EIR the environmental setting of the 2040
+O General Plan;
+10 d failing to adequately analyze in the Final EIR the 2040 General Plan's impacts
+11 regarding agricultural and forestry resources, air quality, biological resources,
+12 energy, greenhouse gas emissions, hydrology and water quality, land use and
+13 planning, mineral and petroleum resources, population and housing, transportation
+14 and traffic, and utilities;
+
+15 e. failing to identify, consider, and adopt mitigation measures or project alternatives to
+
+16 mitigate, lessen, or avoid the 2040 General Plan's significant environmental impacts,
+
+17 including mitigation measures and project alternatives suggested by Petitioners and
+
+18 others;
+
+19 f. failing to adequately support the rejection of feasible mitigation measures or project
+
+20 alternatives;
+
+21 g. failing to adequately respond to comments on the Draft EIR;
+
+22 h. failing to recirculate the Draft EIR, including as required by CEQA Guidelines
+
+23 section 15088.5; and
+
+24 i. failing to support with substantial evidence the project-related CEQA findings and
+
+25 the 2040 General Plan's Statement of Overriding Considerations, including the
+
+26 conclusory statements therein regarding both the infeasibility of certain mitigation
+
+27 measures regarding impacts to mineral resources as well as the purported benefits of
+
+28 the 2040 General Plan.
+
+19
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 72.
+
+2 As a result of the foregoing CEQA violations, including the deficiencies in and
+
+U associated with the Final EIR, Respondents prejudicially abused their discretion by certifying the
+
+4 Final EIR which does not comply with CEQA, by failing to proceed in the manner required by law,
+and by failing to act on the basis of substantial evidence.
+
+5 SECOND CAUSE OF ACTION
+
+6
+
+7 (Violation of Planning and Zoning Law; Gov. Code, § 65000 et seq.)
+73.
+
+8 74. Paragraphs through 72 are incorporated here as if fully set forth herein.
+
+9 California's Planning and Zoning Law (Gov. Code, § 65000 et seq.) includes
+provisions regarding the authority for and scope of general plans (§ 65300 et seq.) as well as
+10 provisions regarding the preparation, adoption, and amendment of general plans (§ 65350 et seq.).
+
+11 75.
+
+12 Government Code section 65353, subdivision (a) provides in part, "When the city or
+
+13 county has a planning commission authorized by local ordinance or resolution to review and
+
+14 recommend action on a proposed general plan or proposed amendments to the general plan, the
+
+15 commission shall hold at least one public hearing before approving a recommendation on the
+adoption or amendment of a general plan."
+
+16 76.
+
+17 Government Code section 65354 provides, "The planning commission shall make a
+
+18 written recommendation on the adoption or amendment of a general plan. A recommendation for
+approval shall be made by the affirmative vote of not less than a majority of the total membership of
+19 the commission. The planning commission shall send its recommendation to the legislative body."
+
+20 77.
+
+21 Government Code section 65355 provides in part, "Prior to adopting or amending a
+general plan, the legislative body shall hold at least one public hearing."
+
+22 78.
+
+23 Government Code section 65356, subdivision (a) provides in part, "The legislative
+
+24 body may approve, modify, or disapprove the recommendation of the planning commission, if any.
+
+25 However, any substantial modification proposed by the legislative body not previously considered
+by the commission during its hearings, shall first be referred to the planning commission for its
+
+26 Il recommendation."
+
+27 79. The Board substantially modified the 2040 General Plan after the Planning
+28 Il Commission's July 16, 2020, hearing regarding the 2040 General Plan. The Board did not refer
+
+20
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 such modifications to the Planning Commission for its recommendation before approving and
+
+2 adopting the 2040 General Plan. Respondents violated Government Code section 65356.
+
+3 80. The adoption or amendment of a general plan "is a legislative act which shall be
+
+4 reviewable pursuant to Section 1085 of the Code of Civil Procedure." (Gov. Code, § 65301.5.)
+
+5 Pursuant to Government Code section 65301.5 and Code of Civil Procedure section 1085,
+
+6 Petitioners are entitled to the issuance of a writ of mandate compelling Respondents to vacate the
+
+7 approval and adoption of the 2040 General Plan,
+
+8 PRAYER FOR RELIEF
+
+9 In each of the respects enumerated above, Respondents have violated their duties under the
+10 law, abused their discretion, failed to proceed in a manner required by law, and made
+
+11 determinations that are not supported by substantial evidence.
+
+12 WHEREFORE, Petitioners pray for relief as follows:
+
+13 1. for a peremptory writ of mandate directing Respondents to vacate and set aside the
+14 Board's certification of the Final EIR and approval and adoption of the 2040 General Plan;
+
+15 2. for a temporary stay, temporary restraining order, and preliminary or permanent
+16 injunctive relief or other order, including under Code of Civil Procedure section 526, enjoining
+
+17 Respondents from taking any action in furtherance of, or to implement, the 2040 General Plan
+18 during the pendency of this action;
+19 3. for costs of the suit;
+
+20 4. for reasonable attorney fees pursuant to Code of Civil Procedure section 1021.5; and
+
+21 5. for such other and further relief as the Court deems just and proper.
+
+22
+
+23 Dated: October 15, 2020 Respectfully Submitted,
+
+24 FERGUSON CASE ORR PATERSON LLP
+
+25
+
+26 AMLAeZ By:
+
+27 Attorneys for Petitioners CARBON CALIFORNIA COMPANY,
+28 LLC; CARBON CALIFORNIA
+OPERATING COMPANY, LLC
+21
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+I VERIFICATION
+
+2 I, R. Scott Price, am the President of Carbon California Operating Company, LLC, a
+
+3 petitioner in this proceeding and am authorized to make this verification on its behalf. have read
+
+4 the foregoing VERIFIED PETITION FOR WRIT OF MANDATE and know the contents thereof.
+
+5 The contents are true of my own knowledge, except as to matters stated therein on information and
+
+6 belief, and as to those matters I believe them to be true.
+
+7 I declare under penalty of perjury under the laws of the State of California that the foregoing
+
+8 1S true and correct.
+
+9 2h Executed on October 13-,2020, at Santa Paula, California.
+
+10
+
+11
+
+12 Llusf luy R. Scott Price
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+22
+23
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+EXHIBIT A
+
+1 Neal P. Maguire (SBN 234531)
+
+2 FERGUSON CASE ORR PATERSON LLP
+1050 South Kimball Road
+
+3 Ventura, California 93004
+Telephone: (805) 659-6800 4 Fax Number: (805) 659-6818 E-mail: nmaguire@fcoplaw.com
+
+6 Attorneys for Petitioner Carbon California
+Company, LLC
+7
+
+8
+
+9 SUPERIOR COURT FOR THE STATE OF CALIFORNIA
+
+10 FOR THE COUNTY OF VENTURA
+
+11
+
+12 CARBON CALIFORNIA COMPANY, LLC,
+
+13 a Delaware limited liability company,
+
+14 Petitioner, NOTICE OF INTENT TO FILE CEQA
+PETITION
+
+15 V.
+
+16 COUNTY OF VENTURA, a political
+
+17 subdivision of the State of California, acting
+by and through its BOARD OF
+
+18 SUPERVISORS; and DOES 1 through 100,
+inclusive,
+
+19 Respondents.
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+---P* 28
+
+NOTICE OF INTENT TO FILE CEQA PETITION
+
+1 TO THE COUNTY OF VENTURA AND ITS BOARD OF SUPERVISORS:
+
+2 PLEASE TAKE NOTICE, pursuant to California Public Resources Code section 21167.5,
+
+3 that Petitioner Carbon California Company, LLC and its affiliated entities intend to file a Verified
+
+4 Petition for Writ of Mandate (the "Petition") under the provisions of the California Environmental
+
+5 Quality Act (Cal. Pub. Resources Code, § 21000 et seq.) against the County of Ventura and its
+
+6 Board of Supervisors (collectively, "Respondents"), in the California Superior Court for the County
+7 of Ventura, challenging Respondents' approval of the 2040 General Plan and 2040 General Plan
+
+8 Background Report (collectively, the "General Plan") as well as the County's certification of the
+
+9 2040 General Plan Final Environmental Impact Report ("FEIR").
+
+10 The Petition will request the Superior Court to issue a writ of mandate directing and
+11 compelling Respondents to vacate and set aside their approval of the General Plan and certification
+
+12 of the FEIR.
+
+13
+
+Dated: October 7, 2020 Respectfully Submitted, 14
+
+FERGUSON CASE ORR PATERSON LLP 15
+
+16
+By: 17 dilda afor Attorneys for Petitioner Carbon 18 California Company, LLC 19
+
+20
+
+23 ME 83
+26
+
+27
+
+28
+
+NOTICE OF INTENT TO FILE CEQA PETITION
+
+PROOF OF SERVICE
+STATE OF CALIFORNIA, COUNTY OF VENTURA:
+am employed in the County of Ventura, State of California. I am over the age of 18 and not a party to the within action. My business address is 1050 South Kimball Road, Ventura, California 93004.
+On October 7, 2020, I served X the original Cla true copy of the foregoing document described as NOTICE OF INTENT TO FILE CEQA PETITION, which is related to the action styled Carbon California Company, LLC, et al. v. COUNTY OF VENTURA, a Political subdivision of the State of California, acting by and through its BOARD OF SUPERVISORS; et al. Ventura Superior Court Case No,
+attached Service List as follows:
+
+D on the person or persons listed on the
+
+BY MAIL: I enclosed the above-described document in (an) envelope(s) with postage thereon fully pre-paid and addressed as set forth on the I attached Service List. I am readily familiar with FERGUSON CASE ORR PATERSON LLP's practice of collection and processing correspondence for mail with the U.S. Postal Service. Pursuant to that practice, I placed the above-described envelope into the Firm's designated receptacle, of which the contents are to be deposited with the U.S. Postal Service on that same day at, California in the ordinary course of business. I am aware that on motion of the party served, service is presumed invalid if the postal cancellation date or postage meter date is more than one day after the date stated herein.
+0
+
+dTTNOSHIIVIHãO ASVO : 91362 4550 E. Thousand Oeks Bhvd, Ste250 1050 South Kimbell Road I BY EXPRESS MAIL: I enclosed the above-described document in (an) envelope(s) with Express Mail postage fully pre-paid and addressed as set forth on the attached Service List. I placed the above-described envelope into a post office, mailbox, subpost office, substation, or mail chute, or other like facility regularly maintained by the
+United States Postal Service for receipt of Express Mail.
+X
+
+West ake VA BY OVERNIGHT DELIVERY: I enclosed the above-described document in (an) envelope(s) of a type designated by the express service carrier for overnight delivery with delivery fees fully pre-paid or provided for and addressed as set forth on the attached Service List. I Oplaced the above-described envelope into a box or other facility
+
+1ie 95004 regularly maintained by the express service carrier/X delivered the above-described envelope to an authorized courier or driver authorized by the express service carrier to receive documents.
+D BY
+
+FERGUSO PERSONAL SERVICE:
+
+ve tuca, attorney being served with porsonally delivered the above-described document to Da party to this action; C an attorney for who is
+party to this action, by leaving the document at the attorney's office in an envelope clearly labeled to identify the
+
+Da,m. Clp.m. on
+0 at a receptionist or a person having charge of the office; at
+
+BY FACSIMILE TRANSMISSION: I caused the above-described document to be transmitted via facsimile
+from (805) 659-6818 to cach facsimile number listed on the attached Service List at Da.m. L p.m. on the
+date set forth above. Each fax transmission was reported as complete and without error, and each transmission report attached hereto was properly issued by the sending fax machine.
+X BY ELECTRONIC TRANSMISSION: I served a true copy of the document electronically in Portable Document Format (PDF) by transmitting it from tmercado@fcoplaw.com to the electronic service address(es) (emails), as indicated on the attached Service List at 12:15 Da.m. R p.m. on the date set forth above.
+X (State)
+and correct.
+
+D (Federal) I declare under penalty of perjury under the laws of the State of California that the above is true
+
+I declare that I am employed in the office of a member of the bar of this Court at whose
+direction the service was made.
+Executed on October 7, 2020, at Ventura, California.
+clin Muido
+
+-A-vl Tina Mercado
+
+ln accordanco with the California Code of Civil Procedure and Rules of Court rogarding service, an executed copy of this Proof of Service is on file at
+
+2318248 Ferguson Caso Orr Palerson LLP and will bo made available for photocopying aud inspection upon a request made pursvant to applicablo stalutory provisions.
+
+PROOF OF SERVICE
+
+SERVICE LIST
+
+Clerk of the Board
+County Government Center
+Hall of Justice
+800 S. Victoria Avenue, L#1920
+Ventura, CA 93009-1920
+
+Email: Clerkoftheboard@ventura.org
+
+79616 auurgeD 30 E. Troupand Oaks Bivd, Ste 250 OM d'TI NOSHGLVA MNO ISYO NOSNDHIg *0056 #UQUFO ZATTRA 1050 South Kimiball1
+
+2
+PROOF OF SERVICE 2318248
+
+EXHIBIT B
+
+H Neal P. Maguire (SBN 234531)
+
+2 FERGUSON CASE ORR PATERSON LLP
+1050 South Kimball Road
+Ventura, California 93004
+Telephone: (805) 659-6800
+4 Fax Number: (805) 659-6818
+E-mail: nmaguire@fcoplaw.com
+
+6 Attorneys for Petitioners CARBON CALIFORNIA COMPANY, LLC;
+CARBON CALIFORNIA OPERATING COMPANY, LLC
+7
+
+8
+
+9 SUPERIOR COURT FOR THE STATE OF CALIFORNIA
+
+10 FOR THE COUNTY OF VENTURA
+
+11
+
+12 CARBON CALIFORNIA COMPANY, LLC,
+a Delaware limited liability company; CASE NO.
+
+13 CARBON CALIFORNIA OPERATING
+COMPANY, LLC, a Delaware limited liability
+
+14 company, NOTICE OF ELECTION TO
+PREPARE RECORD OF
+
+15 Petitioners, ADMINISTRATIVE PROCEEDINGS
+
+16 V. [California Environmental Quality Act,
+
+COUNTY OF VENTURA, a political Pub. Resources Code, § 21000 et seq.]
+
+17
+
+18 subdivision of the State of California, acting by and through its BOARD OF
+19 SUPERVISORS; and DOES 1 through 1 100,
+inclusive,
+20
+
+21 Respondents.
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE OF ELECTION TO PREPARE RECORD OF ADMINISTRATIVE PROCEEDINGS
+
+TO THE COURT, ALL PARTIES, AND THEIR COUNSEL OF RECORD:
+
+2 PLEASE TAKE NOTICE that, pursuant to Public Resources Code section 21667.6,
+
+3 subdivision (b)(2), Petitioners CARBON CALIFORNIA COMPANY, LLC AND CARBON
+
+4 CALIFORNIA OPERATING COMPANY, LLC (*Petitioners"), hereby elect to undertake
+
+5 preparation of the record of administrative proceedings relating to this action, subject to
+
+6 certification of its accuracy by Respondent, COUNTY OF VENTURA. The record of proceedings
+
+7 will be prepared at Petitioners' own cost and will include, without limitation, all those items
+8 identified in Public Resources Code section 21167.6, subdivision (e). Petitioners will prepare the
+
+9 record of proceedings in accordance with the California Rules of Court, including rule 3.2205.
+
+10
+
+11 Dated: October 15, 2020 Respectfully Submitted,
+
+12 FERGUSON CASE ORR PATERSON LLP
+
+13
+
+14 By: AdAfL 15 Attorneys for Petitioners CARBON CALIFORNIA COMPANY,
+16 LLC; CARBON CALIFORNIA
+
+17 OPERATING COMPANY, LLC
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE OF ELECTION TO PREPARE RECORD OF ADMINISTRATIVE PROCEEDINGS
+
+FC FERGUSON CASE
+O P ORR PATERSON LLP
+ATTORNEYS AT LAW
+
+JOHN C. ORR JAYE G. HEYBL LESLIE A. McADAM COREY A. DONALDSON THOMAS R. FERGUSON
+JOSEPH L. STROHMAN, JR. JAMES Q. McDERMOT BRET G. ANDERSON KYMBERLEY E. PECK 026-2011
+DAVID W. TREDWAY MARK T. BARNEY BRIAN J. PHILPOTT LAUREN E. SIMS
+WENDY C. LASCHER
+SCOTT B. SAMSKY MICHAEL A. VELTHOEN P. MAGUIRE MAX R. ENGELHARDT THEODORE J. ENGLAND 942-2018
+DOUGLAS K. GOLDWATER JOHN A. HRIBAR
+WILLIAM B. SMITH JESSICA M. WAN
+JESSE E. CAHILL LANE J. LOPEZ NATALIE JAY WILLIAM E., PATERSON RE
+DAVID B. SHEA JOHN M. ANDERSEN JOSHUA S. HOPSTONE BRIAN M. FITZGERALD Of Counsel MICHAEL W. CASE
+ROBERT B. ENGLAND CHRISTOPHER K. KITASAKI DAVID L. SHAIN JILL R. HEYBL
+
+Writer's Email:
+nmaguire@fcoplaw.com
+
+Reply to: Ventura office
+
+October 20, 2020
+
+Via Certified U.S. Mail
+
+Attorney General Xavier Becerra
+Office of the Attorney General
+1300 "I" Street
+Sacramento, CA 95814-2929
+
+Re: Notice to Attorney General
+
+Dcar Attorney General Becerra:
+PLEASE TAKE NOTICE, under Public Resources Code section 21167.7 and Code of Civil Procedure section 388, that on October 15, 2020, Carbon California Company, LLC and
+Carbon California Operating Company, LLC filed a verified petition for writ of mandate against
+the County of Ventura and Ventura County Board of Supervisors in Ventura County Superior
+Court.
+
+A copy of the Verified Petition for Writ of Mandate is enclosed to this notice.
+
+Sincerely,
+
+FERGUSON CASE ORR PATERSON LLP
+
+By creal trasurd
+Neal Maguire by tu
+
+NPM:tm
+Enclosure: Petition for Writ of Mandate
+
+VENTURA OFFICE WESTLAKE VILLAGE OFFICE
+1050 SOUTH KIMBALL ROAD 4550 E. THOUSAND OAKS BLVD., SUITE 250
+VENTURA, CALIFORNIA 93004 WESTLAKE VILLAGE, CALIFORNIA 91362
+PHONE: (805) 659-6800 FACSIMILE: (805) 659-6818 PHONE: (805) 659-6800 FACSIMILE: (805) 379-1744
+
+www.fcoplaw.com
+
+NOV: 0 2 2020

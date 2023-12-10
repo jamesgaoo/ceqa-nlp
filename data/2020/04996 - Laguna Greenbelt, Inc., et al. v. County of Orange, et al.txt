@@ -1,0 +1,2230 @@
+H ALSTON & BIRD LLP NIELSEN MERKSAMER PARRINELLO
+
+2 JEFFREY D. DINTZER, SBN 139056
+Jeffrey.Dintzer@alston.com GROSS & LEONI LLP
+ARTHUR SCOTLAND, SBN 62705
+
+3 333 S. Hope Street Los Angeles, CA 90071-3197 AScotland@nmgovlaw.com
+
+4 Telephone: 213.576.1000 1415 L Street, Suite 1200
+
+Facsimile: 213.576.1100 Sacramento, California 95814 Telephone: 916.446.6752
+
+5 GIBSON, DUNN & CRUTCHER LLP Facsimile: 916.446.6106
+ABBEY J. HUDSON, SBN 266885
+
+6 ahudson@gibsondunn.com CYNTHIA C. MULLEN, SBN 292256
+7 cmullen@gibsondunn.com DIONE GARLICK, SBN 293012
+8 dgarlick@gibsondunn.com 333 South Grand Avenue
+9 Los Angeles, CA 90071-3197 Telephone: 213.229.7000
+10 Facsimile: 213.229.7520
+
+11 Attorneys for Petitioner and Plaintiff
+
+12 HERITAGE FIELDS EL TORO, LLC
+
+13 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+14 FOR THE COUNTY OF SACRAMENTO
+
+15 GORDON D. SCHABER SACRAMENTO COUNTY COURTHOUSE
+
+16 LAGUNA GREENBELT, INC.; ORANGE COUNTY RESIDENTS FOR CASE NO. 34-2018-80002878-CU-WM-GDS
+
+17 SUSTAINABLE DEVELOPMENT;
+
+18 MARBELLA DE DIOS; FARRAH KHAN, VERIFIED THIRD AMENDED PETITION
+FOR WRIT OF MANDAMUS [CCP
+
+Petitioners, SECTION 1085 OR 1094.5| AND
+
+19 COMPLAINT FOR DAMAGES,
+
+V. DECLARATORY AND INJUNCTIVE
+
+20 RELIEF
+
+COUNTY OF ORANGE, a political
+21 subdivision of the State of California; and (California Environmental Quality Act, Public
+DOES through 100, inclusive, Resources Code § 21000 et seq.; Code of Civil
+
+22 Procedure §§ 863, 1060, 1094.5, 1085;
+Respondents and Defendants. Government Code § 53511; Intentional
+
+23 Interference with Contractual Relations; Breach
+of Contract)
+
+24 JURY TRIAL DEMANDED .
+
+25 LOWE ENTERPRISES REAL ESTATE
+GROUP. ASSIGNED TO:
+
+26 Hon. Laurie M. Earl
+Dept. 23
+
+27 Defendant and Real Party in Interest.
+
+AND RELATED CASES.
+28
+
+Gibson, Dunn & Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+Petitioner and Plaintiff HERITAGE FIELDS EL TORO, LLC, a Delaware limited liability
+
+2 company (hereafter "Heritage Fields"), brings this action on its own behalf, on behalf of the general
+public, and in the public interest, pursuant to Code of Civil Procedure section 1094.5 and Public
+
+4 Resources Code section 21168 or, in the alternative, pursuant to Code of Civil Procedure section
+1085 and Public Resources Code section 21168.5. Heritage Fields alleges as follows:
+
+6 INTRODUCTION
+
+7 l. In defiance of repeated pleas that the County of Orange (the "County") refrain from
+
+8 taking actions that threaten the successful completion of the master-planned Orange County Great
+
+9 Park (the "OC Great Park"), and in clear violation of the California Environmental Quality Act,
+
+10 Public Res. Code Sections 21000 et seq, ("CEQA"), on November 14, 2017, the Orange County
+11 Board of Supervisors approved the El Toro 100-Acre Development Plan (the "Lowe Development
+
+12 Plan" or "Project" or "100-Acre Parcel" or "Property"), certified the inadequate Final Program
+13 Environmental Impact Report No. 620 for the El Toro 100-Acre Parcel Development Plan (the*
+14 "EIR"), adopted an inadequate Statement of Overriding Considerations for the EIR, and authorized
+
+15 execution of a Master Ground Lease with Lowe Enterprises Real Estate Group ("Lowe"), a California
+
+16 corporation. These approvals are collectively referred to in this Complaint as the "Project
+17 Approvals." The County filed the Notice of Determination on November 14, 2017.
+
+18 2. The approximately 100 acres that the County proposes to lease to Lowe were, or will
+19 be, conveyed by Heritage Fields to the City of Irvine ("City"), and in turn by the City, at no cost, to
+
+20 the County for the land, as part of the overall Great Park transaction in the early 2000's that allowed
+
+21 the former Marine Corps facility at El Toro to be transformed into commercial and residential
+
+22 development and more than a thousand acres of public parks. The approximately 100 acres set aside
+23 for the County were intended to be utilized for County-related uses, as a public benefit, and have
+
+24 been so designated in the City-approved plans and CEQA documents prepared with respect to the OC
+
+25 Great Park. In contrast to this intended purpose, the Project Approvals now allow Lowe, a private
+
+26 real estate developer, to build One Million (1,000,000) square feet of new private office development,
+
+27 One Thousand Nine Hundred Ninety-Eight (1,998) private dwelling units, Two Hundred Thousand
+
+28 (200,000) square feet of private retail uses, and Two Hundred Forty-Two (242) private hotel rooms,
+
+Gibson, Dunn &
+Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+] adjacent to the OC Great Park, within the jurisdictional boundaries of the City. In total disregard for
+
+2 established principles of California law, the County determined that the Development Plan was
+
+3 exempt from the City's General Plan, the County's General Plan, the City's Zoning Code, the
+
+4 County's Zoning Code, approval by any planning commission, and all other public hearing and
+
+5 notice provisions of the City and County. Accordingly, the Project was analyzed and approved
+
+6 without any consideration or review by any planning commission or without even so much as a single
+7 noticed public hearing by a City or County planning commission.
+
+8 3. In other words, the County contends that the Lowe Development Plan alone is exempt
+
+9 from all standards and procedures applicable to every other development in the State of California.
+
+10 In making this erroneous determination, the County compounded the error by failing to analyze in the
+
+11 EIR the significant land use incompatibilities created by allowing the Project's commercial and
+
+12 residential development to replace the originally approved public and institutional uses. Not only is
+
+13 the Project inconsistent with the current zoning in the City of Irvine, it is also inconsistent with the
+
+14 requirements of "Measure W" (a citizens' initiative approved by the voters of the County in 2002,
+
+15 which reserved the subject property for open space and public/educational uses). None of these land
+
+16 use inconsistencies were disclosed or analyzed in the EIR as required by CEQA.
+
+17 4. Moreover, the EIR failed to respond to comments raised by Heritage Fields and other
+18 concerned members of the public, failed to make a good-faith effort at disclosure as required by
+
+19 CEQA, ignored applicable City and County park land standards, improperly segmented
+
+20 environmental review, improperly deferred mitigation measures, misrepresented the true provisions
+
+21 the Lowe Development Plan, and failed to recirculate the EIR as required by CEQA despite revealing
+
+22 new significant traffic impacts and a complete reversal of the EIR's analysis of greenhouse gas
+
+23 emissions just 10 days before the County Board of Supervisors approved the Project.
+
+24 5. Beyond these myriad violations of CEQA, the unequivocally private uses approved by
+
+25 the County violate the express language and clear intent of the 2003 City and County Pre-Annexation
+
+26 Agreement ("Pre-Annexation Agreement"), which agreement reserved the subject property for
+
+27 government uses, such as a Youth and Family Resource Center, an animal shelter, childcare facilities,
+
+28 law enforcement training facilities, and an emergency shelter. The County has also violated the Pre-
+
+Gibson, Dunn & 2
+Crutcher | VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+1 Annexation Agreement because it has approved the Project without a current, enforceable, binding
+
+2 commitment obligating the County to pay its fair share of mitigation and infrastructure expenses, as
+
+3 required by provision of the agreement intended to benefit future users of the area such as Heritage
+4 Fields, the landowner and master developer of the nearby Great Park Neighborhoods. Attached
+
+5 hereto as Exhibit is a true and correct copy of the Pre-Annexation Agreement.
+
+6 6. The Project is in the City's Great Park area, which is carefully governed by multiple
+
+7 agreements, including the City's Amended and Restated Development Agreement (*ARDA"), with,
+
+8 inter alia, Heritage Fields. In the context of the ARDA, the City and Heritage Fields have allocated
+
+9 responsibility for the funding and completion of the infrastructure and park improvements required to
+
+10 bring the vision of the Orange County voters, to have a world-class public park, to fruition. The
+
+11 ARDA balances many interests. Among other things, it requires the City to construct a large-scale
+
+12 public park in compliance with the Great Park Master Plan. The ARDA is premised on the
+
+13 recognition that there is a finite amount of traffic capacity to accommodate future development, and a
+
+14 finite number of infrastructure improvements to create that capacity. The available traffic capacity
+
+15 must accommodate both the buildout of the oC Great Park and the private development that was
+
+16 approved as part of the OC Great Park planning process, in order to fund the dedication and
+
+17 contribution of $200 million toward the construction of the OC Great Park. As memorialized in
+
+18 Exhibit L of the ARDA and Exhibits B and C of the original Development Agreement dated July 12,
+
+19 2005 between Heritage Fields' direct predecessor in interest and the City ("DA"), the County's 100
+
+20 acres were designated for 300,000 square feet of "institutional" development, and therefore expected
+
+21 to utilize only the traffic capacity needed to accommodate the list of public/institutional uses
+
+22 provided for in the Pre-Annexation Agreement between the County and the City. The ARDA
+
+23 Overlay Plan provided that the 100-Acre Parcel was for institutional uses; and Section 3.8.1 of the
+
+24 ARDA states " City ordinances, resolutions, regulations and official policies adopted or approved
+25 after July 12, 2005 pursuant to procedures provided by law which do not conflict with the Existing
+
+26 Land Use Regulations, the ARDA Overlay Plan, and this Amended and Restated Agreement shall
+
+27 apply to and govern development of the Property[.]" Pursuant to the Definitions in Section 1 of the
+
+28 ARDA, the term "Property" includes the 100-Acre Parcel. The County never disputed the substance
+
+Gibson, Dunn & 3
+Crutcher t VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+] of Exhibit L of the ARDA or Exhibits B and C of the DA or the assumptions in the 2003 EIR
+
+2 prepared in connection with the OC Great Park. The amount of development associated with the
+
+3 Project requires far more traffic capacity than was assumed in the 2003 EIR for the OC Great Park, or
+
+4 in the ARDA. If the County improperly utilizes the traffic capacitÿ needed for completion of the OC
+
+5 Great Park by building the Project, the City will not be able to fulfill its contractual commitment to
+
+6 Heritage Fields. By executing contracts for the Lowe Development Plan and Ground Lease and
+7 insisting that the City rezone the County's property for the dense private-use Project inconsistent with
+
+8 the Property's permitted uses and the Overlay Plan included as Exhibit L in the ARDA and Exhibits
+
+9 B and C of the DA, the County has committed acts of governance that intentionally interfere with the
+
+10 ARDA such that the City will be unable to construct the OC Great Park as required by the ARDA, or
+
+11 meet its other obligations with respect to Heritage Fields. Attached hereto as Exhibit 2 is a true and
+
+12 correct copy of the ARDA.
+
+13 JURISDICTION AND VENUE
+
+14 7. This Court has jurisdiction over the writ action under section 1094.5 of the Code of
+
+15 Civil Procedure and section 21168 of the Public Resources Code.
+16 8. This Court also has jurisdiction over the writ action under section 1085 of the Code of
+
+17 Civil Procedure, and section 21168.5 of the Public Resources Code.
+
+18 9. Venue for this action was properly laid in the Orange County Superior Court because
+
+19 the property on which the Lowe Development Plan is located is in the County of Orange.
+20 10. Venue for this action is now properly before the Sacramento Superior Court because
+
+21 on April 16, 2018, the Orange County Superior Court transferred this case along with all the related
+
+22 cases to the Sacramento Superior Court, after granting the City of Irvine's Motion to Transfer Venue
+
+23 pursuant to Code of Civil Procedure section 394(a).
+
+24 11. This petition is timely filed in accordance with Public Resources Code section 21167
+
+25 and CEQA Guidelines section 15112.
+
+26 PARTIES
+
+27 12. Petitioner and Plaintiff HERITAGE FIELDS EL TORO, LLC is the owner of land
+
+28 within the former Marine Corps Air Station El Toro Property (*MCAS El Toro Property"), portions
+
+Gibson, Dunn & 4
+Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+1 of which are immediately adjacent to the 100-Acre Parcel on which the Project would be constructed
+
+2 (the "Property"). Heritage Fields is the master developer of the entirety of the MCAS El Toro
+
+3 Property, including the 100-Acre Parcel and the Great Park Neighborhoods, which are both within
+
+4 the boundaries of the former MCAS El Toro Property. Heritage Fields' direct predecessor-in-interest
+
+5 purchased the MCAS EI Toro Property from the United States Department of the Navy, and as part of
+
+6 the original entitlement process, Heritage Fields conveyed more than 1,100 acres of former MCAS EI
+
+7 Toro Property to the City and contributed substantial financial resources toward the coordinated
+
+8 development of a great metropolitan park, now known as the "Orange County Great Park," that is
+
+9 intended to provide cultural, athletic, recreational, agricultural and aesthetic amenities to residents
+
+10 throughout Southern California. Heritage Fields, which is an intended beneficiary of the Pre-
+
+11 Annexation Agreement, is directly and adversely affected by development that does not contribute its
+
+12 fair share toward park land, roadway, infrastructure, and other public improvements, and that would
+
+13 be incompatible with the significant investments Heritage Fields has made to building the Orange
+
+14 County Great Park and Great Park Neighborhoods.
+
+15 13. On information and belief, Respondent and Defendant COUNTY OF ORANGE is a
+
+16 political subdivision of the State of California, and is the lead agency under CEQA for the Project.
+
+17 14. On information and belief, Real Party in Interest and Defendant LOWE
+
+18 ENTERPRISES REAL ESTATE GROUP ("Lowe"), a California corporation, would be the
+
+19 developer of the Property and would be the lessee under the Master Lease pursuant to which Lowe is
+
+20 responsible for "the master planning, entitlement, and infrastructure development for the Property,
+
+21 entitling and developing the Property for its highest, best and most economically viable use."
+
+22 15. The names and capacities, whether corporate, individual, or otherwise, of Defendants
+
+23 Does 1 through 100, inclusive, are unknown to Heritage Fields at this time. Heritage Fields therefore
+
+24 sues these Defendants, and each of them, by such fictitious names. Heritage Fields will seek leave of
+
+25 court to amend this complaint to show the true names and capacities of the Doe Defendants when
+
+26 they are fully ascertained. Heritage Fields is informed and believes that the Doe Defendants are
+
+27 responsible and liable to Heritage Fields for the events, happenings and occurrences set forth herein.
+
+28
+
+Gibson, Dunn & 5
+Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES,
+DECLARATORY AND INJUNCTIVE RELIEF
+
+1 STATEMENT OF FACTS
+
+2 16. Following the decision by the Department of the Navy in 1993 to close the nearly
+
+3 4,700-acre Marine Corps Air Station El Toro, the County sought to pursue a large-scale commercial
+
+4 airport on the MCAS El Toro property. Instead, to ensure that Orange County would receive a
+
+5 regional park, the voters of Orange County decisively halted the County's plan by approving Measure
+
+6 W on March 5, 2002. Measure W changed the allowed reuse of the MCAS El Toro to a plan
+
+7 consisting exclusively of educational, recreational, open space, cultural and other public uses as long
+
+8 as the land remained unincorporated. To guarantee that the Board of Supervisors would honor those
+plans, Measure W enshrined those protections in the County General Plan and required that any
+
+10 change of that designation while the land remained unincorporated must be submitted to a vote of the
+
+11 people.
+
+12 17. In 2003, the City, the former Irvine Redevelopment Agency, and the County entered
+13 into a Pre-Annexation Agreement, which was intended to facilitate the City's annexation of the vast
+14 majority of the former MCAS El Toro Property, and the ultimate transfer of the land to future owners
+15 and developers of the MCAS El Toro Property (the role ultimately secured by Heritage Fields after
+16 its direct predecessor-in-interest purchased the MCAS El Toro Property). To achieve that end, the
+17 Pre-Annexation Agreement provided that:
+
+18 The County agrees to pay its fair share of costs as part of the funding
+19 mechanism [City] was to set up to fund the costs of building "necessary infrastructure and related improvements.' (Section 2.2.5.)
+20 [City] will provide "through a Development Agreement between Irvine and
+21 the purchaser(s) of El Toro property" (now Heritage Fields) for the conveyance of certain parcels to the County in the manner prescribed in the
+22 Pre-Annexation Agreement. (Section 2.2.3.4.)
+
+23 The City and County would "agree to cooperate and work together with the Navy to cause the expeditious transfer of the El Toro property." (Section 4.)
+24 18. In exchange for the County's agreement to allow the City to annex the vast majority of
+25 the former MCAS El Toro Property, the City agreed to zone the 100-Acre Parcel for the "exclusive
+
+26 use of the County or its designees, lessees, or concessionaires . . . to construct and operate permitted
+27 uses and facilities." (Section 2.2.3.1.) The "permitted uses and facilities" are defined in the Pre-
+
+28 Annexation Agreement by reference to "the attached Exhibit titled MCAS El Toro: Propösed County
+
+Gibson, Dunn & 6
+Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+1 Acquisitions," which identifies the uses permitted on the 100-Acre Parcel as "Public Facilities."
+
+2 (Section 2.2.3; Exhibit.) The Pre-Annexation Agreement further clarifies that "[t]he City will 0
+
+3 provide County with" the 100-Acre Parcel "identified as parcel 23, in Figures 3-2, 3-3 and 3-4 in the
+
+4 Project Description portion of the City's Draft Environmental Impact Report for the Great Park, said
+
+5 100 contiguous acres is conceptually shown in the area designated as County Facility 5 on the
+
+6 attached Exhibit" defined as "Public Facilities." (Section 2.2.3; Exhibit.)
+
+19. Section 2.2.4 of the Pre-Annexation Agreement further provides that "Irvine will zone
+County's parcels and designate them in Irvine's General Plan, in accordance with County direction."
+
+9 In addition, the "County shall retain exclusive land use control over [its parcels within the MCAS El
+
+10 Toro Property], and shall be entitled to place any development upon said parcels that County shall
+11 determine to be desirable for County's needs, as though said property remained unincorporated,
+12 without the obligations for payment to Irvine of any permit fees or other mitigation/impact fees, other
+13 than in Section 2.2.5, including but not limited to the following uses, all of which Irvine agrees with:
+14 Animal shelter; Environmental health facilities; Automotive / equipment repair facilities; childcare
+15 facilities; youth and family resource center; Law enforcement training facilities; emergency shelter;
+16 Transitional shelter care facility; Children & Family Services Center; Business offices; Warehouses;
+17 Storage facilities; Vehicle parking and storage facilities; Heavy equipment and storage; Field
+18 operations and maintenance facility."
+
+19 20. On information and belief. the City has already fulfilled this obligation by zoning the
+20 100-Acre Parcel as an Institutional Use that allows every one of the permitted uses required by the
+21 Pre-Annexation Agreement. More specifically, Chapter 3-37-37 of the City Municipal Code zones
+
+22 the 100-Acre Parcel as "6.1 Institutional," which "applies to land for public and quasipublic facilities
+
+23 such as churches, schools or utilities."
+
+24 21. Consistent with the process first established by the Pre-Annexation Agreement, the
+25 City and the purchaser of the MCAS EI Toro Property (Heritage Fields' direct predecessor-in-
+
+26 interest) entered into the DA governing the future development of the MCAS El Toro Property. The
+27 Development Agreement was subsequently amended and restated in December 2010 in the ARDA.
+
+28 Both the original development agreement, the DA, and the ARDA were adopted pursuant to Section
+
+Gibson Dunn &
+Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+1 65864 et seq. of the California Government Code (the "Development Agreement Statute"), which
+
+2 authorizes a local agency to vest a property owner's development rights on its property in accordance
+3 with the land use regulations and zoning/land use designations applicable at the time the development
+
+4 agreement was entered into. At the time the DA and the ARDA were entered into, the zoning
+
+5 designation applicable to the 100-Acre Parcel was the Institutional Zoning contemplated by the uses
+
+6 enumerated in the Pre-Annexation Agreement. By their terms both the DA and the ARDA only
+
+7 permit the 100-Acre Parcel to be used for institutional purposes. The DA was recorded on July 12,
+
+8 2005 by Heritage Fields against that portion of the 100-Acre Parcel that was conveyed by the Navy to
+Heritage Fields before that property was conveyed by Heritage Fields to the City. The ARDA was
+
+10 recorded on December 27, 2010 by Heritage Fields against that portion of the 100-Acre Parcel that
+
+11 was conveyed by the Navy to Heritage Fields before that property was conveyed by Heritage Fields
+
+12 to the City. The City also recorded the ARDA over that portion of the former MCAS El Toro
+
+13 Property depicted in Exhibit A to the ARDA, which portion includes all the 100-Acre Parcel.
+14 Heritage Fields' conveyance of the property to the City was made subject to the land use restrictions
+15 in the ARDA. The City subsequently conveyed that portion of the 100-Acre Parcel to the County
+
+16 subject to the land use restrictions set forth in the ARDA.
+
+17 22. Section 7.9 of the ARDA further acknowledged the County's obligation set forth in
+18 the Pre-Annexation Agreement to pay for its fair share of infrastructure improvements, required the
+
+19 City to actively enforce these provisions of the Pre-Annexation Agreement, and recognized the fact
+20 that nothing in the Development Agreement should be deemed as a "waiver by Heritage Fields of any
+21 rights Heritage Fields" has against the County with respect to enforcing the Pre-Annexation
+22 Agreement. This acknowledgment was confirmed in a letter agreement from the City a to Heritage
+23 Fields executed December 27, 2019, which clarified section 7.9 of the ARDA recognized the
+24 County's fair-share payment obligations under the Pre-Annexation Agreement, the City's obligation
+25 to ensure compliance with the Pre-Annexation Agreement and implementing agreements, and that
+26 Heritage Fields had not reduced any of its rights thereunder.
+
+27 23. In 2006, the County acknowledged the limited uses to which the 100-Acre Parcel may
+28 be put, writing to the Orange County Grand Jury that:
+
+Gibson, Dunn 4 8
+Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+Irvine agreed to the County sharing in a certain percentage of the
+2 property taxes as well as receipt of certain parcels of property, totaling approximately 240 acres to be used for certain County purposes such as a Youth and Family Resource Center, an animal shelter, childcare 3 facilities, law enforcement training facilities, and an emergency shelter.
+24. Eight years after this admission and more than 10 years after the Pre-Annexation
+Agreement was enacted, on January 28, 2014, the County Board of Supervisors approved a
+
+6 Disposition and Development Agreement with Lowe to develop both the County's 100-Acre Parcel,
+
+7 a and a parcel of land also conveyed to the County pursuant to the Pre-Annexation Agreement (the
+
+8 other parcel is commonly known as the "West Alton Parcel") that is immediately adjacent to Heritage
+
+9 Fields' property. On information and belief, Lowe proceeded to create the Lowe Development Plan
+
+10 that would allow for the development of private offices, private dwellings, private retail and private
+
+11 hotel uses on both those parcels.
+
+12 25. A Notice of Preparation of a Draft Program EIR was released by the County and was
+
+13 filed with the State Clearinghouse on November 7, 2014. The Draft EIR was released for the
+
+14 minimum required review period on November 4, 2016. Twenty-six comment letters-including one
+
+15 by Heritage Fieldswere submitted within the comment period raising myriad defects with the EIR,
+
+16 including but not limited to a failure to (i) accurately identify the proper land use jurisdiction over the
+
+17 100-Acre Parcel, (ii) adequately mitigate significant impacts to parks and recreational uses in
+
+18 neighboring jurisdictions, (iii) accurately disclose inconsistencies with applicable land use and air
+
+19 quality regulations, (iv) properly mitigate traffic impacts, (v) properly analyze, disclose and mitigate
+
+20 air quality'and greenhouse gas emission impacts, and (vi) properly mitigate against impacts to the
+
+21 adjacent wildlife corridor.
+
+22 26. On November 3, 2017 (six business days before the Board of Supervisors certified the
+
+23 Final EIR and approved the Project), the County released a Final EIR consisting of 1,328 pages of
+
+24 responses to comments and 14,681 pages of new attachments.
+
+25 27. Buried in these documents was a brand-new disclosure that the recommended Project
+
+26 would create new significant traffic impacts never before disclosed in the Draft EIR and a complete
+
+27 reversal of its conclusions with respect to greenhouse gas emissions.
+
+28
+
+Gibson, Dunn / 9
+Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+28. Omitted from these documents was any substantive County response to the objection
+
+2 raised repeatedly by númerous commenters-including Heritage Fields-that the EIR's assumption
+
+3 that the County, and not the City, has land use jurisdiction over the Project is incorrect as a matter of
+
+4 law. Therefore, the County has not proceeded in a manner according to law, in violation of CEQA.
+
+5 29. On November 14, 2017, after hearing objections to the Lowe Development Plan from
+
+6 dozens of public speakers and receiving numerous additional comment letters reiterating previous
+
+7 objections and identifying new failures to comply with CEQA arising from the Final EIR's responses
+
+8 to comments, one member of the Board of Supervisors asked a representative of County Counsel
+
+9 whether any case law supported the County EIR's assertion that the Countyand not the City--held
+
+10 land use authority over the 100-Acre Parcel. The County Counsel informed the Supervisors that no
+
+11 case law supported the County EIR's position. The County Board of Supervisors then stopped asking
+12 questions, certified the EIR, adopted the Statement of Overriding Considerations, and approved the
+13 Lowe Development Plan.
+
+14 30. A Notice of Determination was filed by the County on November 14, 2017.
+15 EXHAUSTION OF ADMINISTRATIVE REMEDIES
+
+16 31. Heritage Fields objected to the Project in the administrative proceedings, and fully
+17 exhausted its administrative remedies, including by submitting at least three letters raising issues with
+18 the adequacy of the EIR and objections to the legally flawed process.
+
+19 32. Either Heritage Fields or other commenters in the CEQA administrative process raised
+20 all factual and legal issues asserted under CEQA in this Petition. Heritage Fields has thus exhausted
+
+2] all administrative remedies available to it, or such exhaustion is otherwise futile.
+
+22 33. Heritage Fields has complied with Public Resources Code section 21167.5 by
+
+23 providing the County with notice of its intention to commence the action. Proof of service of the
+
+24 notice is attached as Exhibit 3. A copy of this Third Amended Petition will be sent by registered mail
+
+25 to the Attorney General of the State of California.
+
+26 34. Heritage Fields elects to prepare the administrative record. A copy of that election is
+
+27 attached as Exhibit 4.
+
+28
+
+Gibson, Dunn & 10
+Cruicher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMÄGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+35. While the County had already indicated that it would litigate the issues contained
+
+2 herein, on February 26, 2018, Heritage Fields delivered a letter to the Clerk of the Board of
+
+3 Supervisors consistent with the provisions of Government Code section 910 et seq., which provided
+
+4 the requisite notice to the County. A true and correct copy of the letter dated February 26, 2018 is
+attached hereto as Exhibit 5. On March 29, 2018, Heritage Fields submitted a Claim for Money or
+
+6 Damages Against the County of Orange (pursuant to Government Code section 910 et seq.) (the
+
+7 "Claim Form"). No response has been received. A true and correct copy of the Claim Form is
+attached hereto as Exhibit 6.
+
+9 FIRST CAUSE OF ACTION
+
+10 (Violations of the California Environmental Quality Act Against Respondent County of
+11 Orange and Real Party in Interest Lowe Enterprises)
+12 36. Heritage Fields incorporates paragraphs 1 through 35 of this Petition and Complaint as
+13 though fully set forth herein.
+
+14 The EIR Fails to Accurately Describe the Land Use Jurisdiction Applicable to the
+15 Project and Fails to Make a Good-Faith Effort to Disclose Conflicts with Applicable
+16 General Plan and Zoning Ordinances
+
+17 37. An accurate, stable and finite project description is indispensable to an informative
+18 and legally sufficient EIR. CEQA Guidelines Section 15124(d) requires the project description to
+19 include a statement describing the intended uses of the EIR, including "a list of the agencies that are
+20 expected to use the EIR in their decision making" and "a list of permits and other approvals required
+
+21 to implement the project."
+
+22 38. The EIR at issue in this action failed to accurately identify the "list of the agencies that
+23 are expected to use the EIR in their decision making" and "a list of permits and other approvals
+24 required to implement the project," and thus the Project Description is inadequate.
+
+25 39. CEQA requires that a lead agency conduct an adequate environmental'review prior to
+
+26 approving a discretionary project. This duty includes an obligation to make good-faith effort at full
+
+27 disclosure to the public of all significant environmental effects that may occur as a result of the
+
+28 Project.
+
+Gibson, Dunn & 11 Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+40. The EIR fails to make a good-faith effort at fully disclosing the Project's "conflicts
+
+2 with applicable land use plan[s], polic[ies] and regulation[s]," as required by Significance Threshold
+
+3 4.9-1. The EIR's failure to accurately describe this impact renders both the EIR-and the Statement
+
+4 of Overriding Considerations-inadequate and in violation of CEQA.
+
+5 41. Any sufficient analysis of the Project's consistency with applicable land use controls
+
+6 requires the EIR to identify which land use controls apply. The EIR took the unsupportable position
+
+7 that the Project is exempt from any land use requirements, including but not limited to City and
+
+8 County general plan and zoning requirements. (EIR, at p. 3-1.) All analysis in the EIR that flows
+
+9 from this erroneous conclusion is necessarily flawed.
+
+10 42. The EIR exacerbates the lack of analysis of land use incompatibilities by failing to
+
+11 disclose the Project's fundamental inconsistency with Measure W. If, as the County asserts, the
+
+12 language of the Pre-Annexation Agreement stating that the 100-Acre Parcel is to be treated "as
+
+13 though it is unincorporated" is correct, Measure W (and all other provisions of the County General
+
+14 Plan) must apply. And, as noted in the recitals to the Pre-Annexation Agreement, Measure W applied
+
+15 open space and public use land use designations to the Property. The Lowe Development Plan
+
+16 complies with none of these use restrictions and none of these development standards. The EIR
+17 never discloses this fact.
+
+18 43. Alternatively, if the Property is not subject to Measure W, the Property is subject to
+
+19 City "6.1 - Institutional" Zoning. The EIR did not fully or accurately identify the Project's
+20 inconsistency with the 6.1 - Institutional Zoning, and thus failed to make the good-faith effort at
+21 disclosure required by CEQA.
+22 44. Because the EIR sometimes claims that the Project is exempt from County General
+23 Plan standards (although it contradicts itself by citing to those standards when it is convenient to do
+
+24 so), the EIR purports to analyze the Project's consistency with City land use requirements. However,
+25 this analysis is incomplete and inaccurate. For example, Table 2 provided as part of Topical
+26 Response 3.1.2 on page 3-4 of the Final EIR fails to disclose the fact that the Development Plan
+27 allows substantial deviations from the requirements set forth in Table 2. The implication of this
+28 omission is that the Development Plan standards are dramatically less restrictive than the surrounding
+
+Gibson, Dunn & 12
+Crulcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+] zoning and the impacts of those deviations are never disclosed. As result of this failure, the
+
+2 County's findings with respect to significant impacts to land use compatibility are not supported by
+
+3 substantial evidence.
+
+4 45. The EIR also misleadingly and selectively quotes from the Pre-Annexation Agreement
+
+5 in an apparent attempt to argue for the County's preferred position, rather than fairly and accurately
+
+6 disclosing impacts to members of the public and to decision makers. For example, the EIR quotes the
+
+7 section of the Pre-Annexation Agreement stating that the County "shall be entitled to place any
+
+8 development upon said parcels that County shall determine to be desirable for County's needs, as
+though said property remained unincorporated, without the obligations for payment to Irvine of any
+10 permit fees or other mitigation/impact fees." However, that quotation is taken out of is context; the EIR
+
+11 fails to account for other language in the Pre-Annexation Agreement that clearly defines the limited
+
+12 public uses available to the County on the 100-Acre Parcel. According to the Pre-Annexation
+13 Agreement, the City agreed to zone the 100-Acre Parcel for the "exclusive use of the County or its
+
+14 designees, lessees, or concessionaires. to construct and operate permitted uses and facilities."
+
+15 (Section 2.2.3.1, italics added.) The Pre-Annexation Agreement clarifies that "[t]he City will []
+16 provide County with" the 100-Acre Parcel "identified as parcel 23, in Figures 3-2, 3-3 and 3-4 in the
+17 Project Description portion of the City's Draft Environmental Impact Report for the Great Park, said
+18 100 contiguous acres is conceptually shown in the area designated as County Facility 5 on the
+19 attached Exhibit" defined as "Public Facilities." (Section 2.2.3; Exhibit.) Moreover, the EIR
+20 excludes the section of Pre-Annexation Agreement that provides examples of such "permitted uses
+21 and facilities": *Animal shelter; Environmental health facilities; Automotive / equipment repair
+22 facilities; childcare facilities; youth and family resource center; Law enforcement training facilities;
+23 emergency shelter; Transitional shelter care facility; Children & Family Services Center; Business
+
+24 offices; Warehouses; Storage facilities; Vehicle parking and storage facilities; Heavy equipment and
+25 storage; Field operations and maintenance facility." (italics added.), By failing to fairly and
+26 accurately disclose the impacts of the Project given the use limitations imposed by the Pre-
+27 Annexation Agreement, the EIR fails to accomplish its mandated requirements of full disclosure.
+
+28
+
+Gibson, Dunn & 13 Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+1 The EIR Fails to Adequately Respond to Public Comments
+
+2 46. CEQA demands that the lead agency must provide written responses to comments
+
+3 submitted during the EIR comment period, and address concerns "in detail, giving reasons why
+
+4 specific comments and suggestions were not accepted." (CEQA Guidelines § 15088(c).)
+
+5 47. The EIR violated this requirement by, among other instances, failing to respond to
+
+6 Heritage Fields' comment (identified in the Final Paragraph of Comment HFET-2) that "the EIR
+
+7 should have acknowledged the City standards and assessed the Project's environmental impacts
+
+8 against those standards."
+The EIR Has Impermissibly Piecemealed Analysis
+
+10 48. CEQA Guidelines Section 15378 defines a project to mean the "whole of an action."
+
+11 CEQA prohibits the segmenting of a project into smaller components to avoid the risk that
+12 environmental impacts from each project segment will be "submerged," potentially leading to
+
+13 cumulatively "disastrous consequences."
+
+14 49. The County impermissibly splits the 100-Acre Parcel and the West Alton Parcel
+
+15 portions of the Lowe Development Project into two separate EIRs, released just weeks apart despite
+16 the fact that Lowe has the exclusive right to engage in a comprehensive development scheme for both
+17 the 100-Acre El Toro Parcel and the West Alton Parcel pursuant to the same Disposition and
+
+18 Development Agreement ("DDA") with the County.
+
+19 50. The two property components not only share the same developer, but they are also
+20 both located on the former MCAS El Toro Property, utilize the same roadways, require (or, in the
+21 words of the EIR, will "request") similar amendments to the same City Planning Area 51 zoning
+22 regulations, and are governed by the same ARDA. They also share the same architect/ planner and
+23 contain largely parallel Development Plans. Lowe's development timeline (Exhibit F to the DDA)
+24 treats the development of the 100-Acre Parcel and West Alton Parcel as a single component and even
+25 appears to anticipate a single CEQA review process:
+26 Lowe's Task 1 is to conduct a Site Assessment for both the 100-Acre Parcel
+27 and West Alton Parcel concurrently;
+
+28 Lowe's Task 2 is to create a (singular) "Master Plan/Specific Plan" for both the 100-Acre Parcel and West Alton Parcel concurrently;
+
+Gibson Dunn 8 14
+Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+Lowe's Task 3 is to evaluate infrastructure and financing for both the 100- Acre Parcel and West Alton Parcel concurrently; 2
+Lowe's Task 4 is to conduct research and technical studies for both the 100- 3 Acre Parcel and West Alton Parcel concurrently;
+
+4 Lowe's Task 5 is to comply with CEQA for both the 100-Acre Parcel and
+
+5 West Alton Parcel concurrently; and
+Lowe's Task 6 is to gain entitlements for both the 100-Acre and West Alton
+6 Parcel concurrently.
+
+7 51. Given the integrated nature of the development plan for the two properties, the EIR
+
+8 should have analyzed the projects on both parcels as one project, and the County's failure to conduct
+
+9 the EIR analysis in that manner represents impermissible segmentation of a unified project.
+
+10 The EIR Improperly Defers Mitigation and Analysis to Subsequent Environmental
+
+11 Reviews That May Never Occur
+
+12 52. The EIR implicitly admits that the EIR fails to fully analyze the development that will
+
+13 occur on the property as to several potentially significant impacts, including:
+
+14 Aesthetics (pages 3-104 to 3-105 and page 3-133);
+15 Traffic and access, particularly in view of equivalency provisions of the
+16 Development Plan allowing conversion of one type of use to another (pages 3- 171, 3-255);
+
+17 Light and Glare (page 3-186 to 3-187);
+
+18 Shade and Shadow (page 3-188);
+
+19 Noise Impacts (page 3-195); and
+
+20 Public Facilities / Services (page 3-201).
+
+21 53. The EIR justifies its failure to fully analyze the effects of the Project on two legally
+
+22 inadequate bases: First, the EIR states that it would be "speculative" to study those details and
+
+23 improperly attempts to hide behind the document's label as a "Program" EIR, despite applicable
+
+24 precedent demonstrating that the label of an environmental impact report a as a "project" or "program"
+
+25 dòcument does not change the requirements of the analysis.
+
+26 54. Second, the EIR also misrepresents the true nature of the Lowe Development Plan by
+
+27 falsely stating that all future development will be subject to project-specific discretionary CEQA
+
+28 review. In truth, Section 3.5 of the Lowe Development Plan states that "[p]ermitted uses are
+
+Gibson, Dunn & 15
+Crutcher VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINI FOR DAMAGES. DECLARATORY AND INJUNCTIVE RELIEF
+
+permitted by right and do not require any type of discretionary action." Permitted uses (according to
+
+2 the Lowe Development Plan) includeamong dozens of other items-offices, hotels and residential
+
+3 uses. Thus, the plain language of the Development Plan contradicts the assurances provided by the
+
+4 EIR that the inadequate analysis in the EIR will be subsequently supplemented.
+
+5 The EIR Fails to Adopt Adequate Mitigation Measures to Reduce Significant
+
+6 Traffic Impacts
+
+7 55. CEQA requires that mitigation measures be feasible, including with respect to legal
+
+8 impediments.
+
+9 56. In violation of this requirement, the EIR relies on transportation mitigation measures
+
+10 that would violate current City law and the vested rights of Heritage Fields. Thus, the EIR's traffic
+11 mitigation cannot be legally is implemented and is therefore legally inadequate.
+12 57. For example, Mitigation Measure TRAN-3 provides that the County (or its designee)
+13 would conduct a "fee reallocation study" to determine a project's fair-share contribution to be paid to
+14 the North Irvine Transportation Management (*NITM") Program, and that the County would cause
+15 its designee to pay for its share of mitigation fees toward the List of NITM Improvements. This
+16 provision violates the terms of the City of Irvine NITM Ordinance and the rights of Heritage Fields
+17 codified in the ARDA entered into between the City and Heritage Fields.
+
+18 58. Ignoring these legal restrictions, the EIR would purport to have the County negotiate
+
+19 an agreement with the City to allow it to pay for the fair-share cost of those improvements. But, to
+
+20 allow the Lowe Development Plan to be included in the NITM properties, the NITM ordinance
+
+21 would need to be amended. Under the ARDA, both participants in NITM- -Heritage Fields and The
+22 Irvine Company-would have to consent to any such amendment, and neither entity has provided its
+
+23 consent. Yet the EIR treats this legally impossible and yet-to-be negotiated agreement as adequate
+24 mitigation. Moreover, it would make no sense for Heritage Fields or The Irvine Company to allow
+25 the ordinance to be amended to allow Lowe to pay its fair share, because the traffic capacity created
+26 under the NITM program is intended to be utilized by development projects (including the OC Great
+27 Park) sponsored by Heritage Fields and The Irvine Company. Allowing Lowe to usurp that capacity
+
+28 only reduces the ability of Heritage Fields to build-out its previously vested development rights.
+
+Gibson, Dunn & 16
+Crutcher VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+1 59. This mitigation measure is wholly inadequate because it requires the County to
+
+2 negotiate an agreement with the City to ensure improvements are located properly and the County
+
+3 pays its fair share, but does not address what happens if the County is unable to reach an agreement
+
+4 with the City and the EIR does not specify the contents of the agreement. This leaves the adequacy
+
+5 and actual terms of the mitigation obligation entirely uncertain.
+
+6 60. The requirement that the County require a future traffic study to determine fair-share
+
+7 fee impacts is also inadequate given that Section 3.5 of the Lowe Development Plan allows permitted
+
+8 uses to be built by right without "any additional discretionary review." So, the County has no actual
+ability to require the developer to determine and then pay its fair share of traffic improvements, or to
+10 require that the mitigation be in place before the development is constructed, rendering this
+11 mitigation simultaneously illusory and misleading.
+
+12 The EIR Must Be Recirculated Due to Significant New Information Added to the EIR
+13 61. CEQA Guidelines Section 15088.5 requires an environmental impact report to be
+14 recirculated when "significant new information is added to the EIR" after it is released for public
+
+15 comment but before it is certified. The Guideline makes clear that information can include
+
+16 "additional data or other information," and provides that this information is significant when "the EIR
+17 is changed in a way that deprives the public of a meaningful opportunity to comment upon a
+18 substantial adverse environmental effect of the project or a feasible way to mitigate or avoid such an
+19 effect that the project proponents have declined to implement."
+
+20 62. These changes specifically include, among other examples, situations where there is a
+21 substantial increase in the severity of an environmental impact. Where an EIR reveals a new
+22 potentially significant impact, recirculation is required. Instead, 10 days before certification, the
+
+23 Final EIR revealed, without sufficient explanation, that the Project will cause significant traffic
+24 impacts at new intersections and roadway segments not previously disclosed by the Draft EIR. The
+25 increase in severity to environmental impacts includes impacts to both freeway ramps and surface
+26 street segments.
+
+27 63. The Final EIR also reversed the conclusion of the Draft EIR with respect to whether
+28 the Project would cause a significant impact 011 greenhouse gas emissions. The Draft EIR had
+
+Gibson, Dunn 8 17
+Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+1 concluded that there would be significant and unavoidable impacts, but the Final EIR reversed this
+
+2 conclusion. The Final EIR fails to fully explain this reversal of position, thus depriving members of
+
+3 the public with a reasonable opportunity to review and comment on this significant change.
+
+4 64. Although the sudden change and brand-new analysis is not fully explained by the EIR,
+it appears that this sudden change is based (at least in part) on the addition of Mitigation Measures
+
+6 GHG-5 and GHG-6, which require the use of electric lawnmowers and leaf blowers, and require
+additional analysis as part of subsequent development reviews. As noted above, given the plain
+language of Development Plan Section 3.5, which states that "permitted uses are permitted by right
+
+9 and do not require any type of discretionary action," this mitigation measure may be entirely
+
+10 unenforceable, and thus cannot be relied upon by the EIR to support its conclusion that the
+11 greenhouse gas impacts have been mitigated to a level of less than significant.
+
+12 65. The EIR's sudden reversal of its analysis requires recirculation so that the public and
+
+13 decision makers will not be deprived of a meaningful opportunity to review and comment on the EIR.
+14 The EIR Inaccurately Analyzes the Project's Provision of Park Land and Consistency
+15 with Both City and County Park Standards
+
+16 66. The EIR is required to evaluate significant impacts to existing park facilities that will
+17 be caused by, for example, increased use of existing park facilities due to an insufficient supply of
+18 parks provided by a new development. The EIR acknowledges this standard measure of evaluating
+19 significant impacts by stating that the County's park standards set forth in its zoning code and other
+
+20 land use regulations "ha[ve] been the basis to satisfy recreation impacts and evaluate potential CEQA
+21 impacts for most, if not all, of the communities in South Orange County."
+22 67. The EIR fails to accurately or consistently evaluate the Project's provision of park
+
+23 land under this standard. First, Topical Response 3.1.9 (Parks) makes internally contradictory
+24 interpretations of CEQA thresholds and obfuscates which standard the EIR is using to measure
+
+25 impacts: just seven lines before it cites to the County zoning standards as the measure of determining
+
+26 a significant impact under CEQA, the Response states (at page 3-35) that "neither the City's nor the
+27 County's typical park land standards apply to the proposed Project."
+
+28
+
+Gibson, Dunn t 18 Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+1 68. The Project is plainly inconsistent with the City's park standards. For instance, under
+
+2 the City of Irvine Park Standards Manual, park land located within a setback is not eligible for park
+
+3 credit, but approximately half of the park land that the EIR takes credit for is within the required
+
+4 latitudinal setback.
+
+5 69. Contradicting its earlier statement regarding the applicable parkland standard, the EIR
+
+6 goes on to claim that the Project's provision of 9.9 acres of park land meets the County's park code
+
+7 requirements, and thus there cannot be a significant impact as to parks and recreation.
+
+8 70. Exacerbating the unclear and inconsistent analysis, the EIR misrepresents the Project's
+9 compliance with those standards.
+
+10 71. The County's General Plan Recreation Element indicates that the 2.5-acre park
+
+11 requirement applies to "usable local park land (i.e., park land that is relatively level, served by
+12 utilities, for multi-purpose playfields, court sports, etc.) for each prospective 1,000 residents." The
+13 park criteria is set out In even greater detail in Appendix VII-3 of the County General Plan.
+14 However, approximately 74% (7.3 acres) of the "parks" provided by the Project will be in the form of
+15 what the EIR terms a "linear park." This so-called "linear park" fails to satisfy the definition of a
+16 usable park in the County General Plan because it will consist only of an approximately 50-foot wide
+17 landscaped trail and associated "exercise" amenities, rather than the "usable" "multi-purpose" parks
+
+18 called for by the County General Plan. Once the 7.3 acres of landscaped trail are excluded from the
+
+19 calculation, the Project would only provide approximately 3.4 acres of park land, a deficit of 66%
+20 compared to the County park standard and a deficit of nearly 83% compared to the (proper) City park
+
+21 standard.
+
+22 72. These facts undermine the County's incorrect and conclusory assertion that the Project
+23 complies with park standards. Thus, the EIR's assertion that the Project will cause no significant
+
+24 impact to existing Park Facilities because it complies with County park standards is misleading and
+
+25 not supported by substantial evidence in the record.
+
+26
+
+27
+
+28
+
+Gibson, Dunn & 19
+Crutcher LL.P VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+The Findings and Statement of Overriding Considerations Are Unsupported by
+
+2 Substantial Evidence
+
+3 73. CEQA requires that a project with significant adverse impacts be approved only if the
+
+4 lead agency makes findingssupported by substantial evidence-that the project's benefits will
+
+5 outweigh its adverse impacts and that there are not feasible mitigation measures or less damaging
+
+6 alternatives available.
+
+7 74. Because the EIR fails to accurately identify the Project's significant impacts to
+
+8 Recreational Facilities and Parks, Traffic, Land Use Consistency and Greenhouse Gas Emissions, the
+9 County never adopted findings to justify the Project's impacts in these areas. Thus, the Statement of
+
+10 Overriding Considerations fails to meet CEQA requirements.
+
+11 75. For all of the reasons set forth above, the Court should decertify the EIR and enjoin
+12 the County and Lowe from taking any further action with respect to the Project, until a timely writ of
+13 mandate is returned to this Court in compliance with CEQA, and the other applicable land use
+14 regulations violated by Respondents' actions.
+
+15 SECOND CAUSE OF ACTION
+
+16 (Petition for Writ of Traditional Mandamus Under Code of Civil Procedure
+
+17 Section 1085 or Alternatively Under Section 1094.5 Against Respondent County of
+18 Orange and Real Party in Interest Lowe Enterprises)
+19 76. Heritage Fields incorporates paragraphs 1 through 75 of this Petition and Complaint as
+20 though fully set forth herein.
+
+2] 77. Heritage Fields seeks a writ of traditional mandamus pursuant to Code of Civil
+
+22 Procedure Section 1085, or alternatively an administrative mandamus pursuant to Section 1094.5.
+
+23 The County's approval of the Development Plan is contrary to law and is a prejudicial abuse of
+
+24 discretion.
+
+25 78. Review is appropriate under Code of Civil Procedure Section 1085 or Section 1094.5
+
+26 because the County has failed to act in the manner required by law and committed an abuse of
+
+27 discretion, and thus the repeal of the Lowe Development Plan is specifically required by the law.
+
+28
+
+Gibson, 20 Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+79. Heritage Fields has exhausted its administrative remedies through its participation in
+
+2 the public processes preceding the approval.
+
+3 80. Heritage Fields has no plain, speedy and adequate remedy in the ordinary course of
+
+4 law to challenge the County's actions.
+
+5 81. As a result, Heritage Fields is entitled to, and requests that this Court issue, a
+
+6 peremptory writ of mandate compelling the County to repeal its approval of the Lowe Development
+
+7 Plan.
+
+The City-and Only the City-Has the Authority to Approve a Private Development
+
+9 Project Within Its Jurisdictional Boundaries.
+
+10 82. The County asserts that the City's zoning and land use jurisdiction is inapplicable to
+11 the Project due to California Government Code Sections 53090-53091, which the Draft EIR
+
+12 incorrectly says "exempts [cities and counties] from zoning regulations when one entity owns
+
+13 territory within the jurisdiction of another entity." However, the County fails to note that the
+14 exemption from intergovernmental immunity cited by the County applies only to actions taken in a
+15 governmental capacity; for actions which involve private or commercial projects, the jurisdiction in
+16 which the property is located retains land use control. Thus, a state or local agency may not "extend
+17 its immunity to private entrepreneurs who are involved in the local commercial market where their
+
+18 competitors are subject to local regulation." (Board of Trustees v. City of Los Angeles (1975) 49
+
+19 Cal.App.3d 45, 50.) Following Board of Trustees, the California Attorney General reconsidered an
+20 earlier opinion (that it coincidentally had issued to the County of Orange) originally indicating a
+21 relatively broad degree of immunity when one jurisdiction owned land within the boundaries of
+
+22 another jurisdiction. Instead, the Attorney General opined that the proper view of Government Code
+
+23 Sections 53090-91 is that these statutes do not extend immunity to "private parties with respect to
+24 their own private pursuits merely because the state" (or by parity of reasoning, the County) "happens
+25 to be their landlord." 68 Ops. Cal.Atty.Gen. 114, 121. Accordingly, the Project is subject to the land
+26 use jurisdiction of the City--not the County-and the County's approval of the Development Plan
+27 was taken without legal authority. (See also Xavier Becerra, Opinion of the Attorney General, No.
+
+28 14-403 (Dec. 6, 2018).)
+
+Gibson, Dunn & 21 Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+1 83. Here, the Project is being proposed by Lowe pursuant to a disposition and
+
+2 development agreement ("DDA") in which Lowe will be the "applicant" and "face" of the Project,
+
+3 and is obligated to secure entitlements from relevant public agencies, minimize risks to the County,
+
+4 and maximize potential for an extremely favorable financial return for the County.
+
+5 84. Lowe's lead role as developer of the Project is demonstrated by the fact that the
+
+6 Development Plan appended to the Draft EIR was prepared for Lowe and the County (and, indeed,
+
+7 has Lowe's logo on the front cover).
+
+8 85. The County's Ground Lease with Lowe is for a term of 99 years, a term which
+connotes long-term private use and ownership.
+
+10 86. The Master Lease makes plain the fact that the County is not a partner nor in a joint
+11 venture with Lowe. This is Lowe's private development project and it is therefore subject to full City
+12 regulatory and land use authority, even though the County is the landlord. Section 24 of the Master
+13 Lease makes clear that "it is expressly understood and agreed that [the] County does not in any way
+14 or for any purpose become a partner of or a joint venturer with [Lowe] in the conduct of [Lowe's]
+15 business or otherwise." Indeed, Section 12.5 of the Master Lease would allow Lowe to make
+
+16 recommendations for the sale of all or a portion of the property to third parties in furtherance of
+17 Lowe's obligation to undertake "the master planning, entitlement, and infrastructure development for
+18 the Property, entitling and developing the Property for its highest, best and most economically viable
+19 use."
+
+20 87. In other words, the Lowe Development Plan is an approval for an unequivocally
+
+21 private development project undertaken by Lowe on a property located within the City. The County,
+22 although it owns the Property, has no immunity from City jurisdiction for private projects and
+23 therefore lacks the jurisdiction to authorize this development, and the City has not approved the
+24 development. To the extent the County were to possess jurisdiction to approve a private development
+25 project within the City (which it does not), the Project nonetheless fails to comply with the County's
+26 General Plan.
+
+27 88. It would be a complete violation of state planning laws to have a project that need not
+28 conform to any General Plan. (E.g., East Sacramento Parthership for a Liväbie City v. City of
+
+Gibson, Dunn & 22 Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+Sacramento (2016) 5 Cal.App.5th 281 ["local land use and development decisions must be consistent
+
+2 with the applicable general plan"]; Citizens of Goleta Valley v. Board of Supervisors, 52 Cal.3d 553,
+
+3 570 (1990) ["the propriety of virtually any local decision affecting land use and development
+
+4 depends upon consistency with the applicable general plan and its elements'*] (quoting Resource
+
+5 Defense Fund v. County of Santa Cruz (1982) 133 Cal.App.3d 800, 806).)
+
+6 89. Moreover, even accepting the County's demonstrably incorrect position that the
+
+7 private Lowe Development Plan is a "public project," County development and infrastructure
+improvements still must be consistent with adopted General Plans. (See, e.g., Friends of "B" Street
+
+9 V. City of Hayward (1980) 106 Cal.App.3d 988, 998 [citing Government Code section 65302's
+
+10 requirement that local agency must comply with specified mandatory elements of an adopted
+
+11 general plan and noting that the "Legislature did not limit this policy to decisions regarding proposed
+12 private developments; it encompasses all decisions involving the future growth of the State, which
+13 necessarily includes decisions by a city to proceed with public works projects. All such decisions are
+14 to be guided by an effective planning process that includes the local general plan"].)
+15 90. Further, to the extent that County had planning jurisdiction, the County failed to
+16 submit the Lowe Development Plan for a review by and recommendation from the County's Planning
+17 Commission, even though this procedural requirement is imposed on both public and private projects.
+18 Section 7-9-5(a) of the Orange County Code vests the County Planning Commission with the power
+19 to "recommend to the officers of the County adoption of plans and regulations for the future growth,
+20 development and beautification of the County in respect to public and private development." (Italics
+
+21 added.)
+
+22 91. The Board of Supervisors' adoption of the Development Plan without any noticed
+
+23 heäring or review by the Planning Commission violates Section 65453 of the California Government
+
+24 Code, which requires specific plans (the closest analogy to the Development Plan) to be subject to
+25 review by the Planning Commission. No such review occurred for the Project.
+
+26 92. Moreover, each of the Planning Commission and the Board of Supervisors (the
+27 legislative body for the County) must hold at least one public hearing for which public notice is given
+
+28 through publishing in a newspaper of general circulation not less than 10 days prior to the hearing.
+
+Gibson, Dunn 8 23
+Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+(See Sections 65353-54 of the Government Code.) On information and belief, the County held no
+
+2 public hearings and provided no notice in the form required by the Government Code.
+
+3 93. Similarly, even if the County were to claim that the Lowe Development Plan
+constitutes a zoning enactment other than a specific plan, Section 65853 et seq. requires the Planning
+
+5 Commission to review other proposed land use ordinances at a hoticed public hearing. Thus,
+
+6 regardless of whether the County characterizes the "Lowe Development Plan" a as a specific plan or
+
+7 other zoning enactment, the County failed to proceed in the manner required by law.
+
+8 94. Beyond these procedural defects, the Lowe Development Plan violates the
+
+9 foundational requirement that all zoning enactments and development projects be compatible with the
+10 objectives, policies, general land uses, and programs specified in a General Plan. (Cal. Gov. Code,
+
+11 65860(a)(ii).) As emphasized by the California Supreme Court, a zoning ordinance that is
+12 inconsistent with the general plan is void ab initio. (Lesher Communications, Inc. v. City of Walnut
+
+13 Creek (1989) 262 Cal.Rptr. 337.)
+
+14 95. For example, the Lowe Development Plan is inconsistent with the provisions of
+15 Measure W, a voter initiative approved in 2002 that enacted County General Plan amendments that
+16 changed "the allowed reuse of MCAS El Toro to a non-aviation plan, consisting of educational,
+
+17 recreational, open space cultural and other public uses" for so long as the area remained
+
+18 unincorporated. In contrast, Heritage Fields' developments-subject only to the City General Plan-
+19 are fully consistent with that plan.
+
+20 96. The Measure W General Plan designation restricting the use to "educational,
+
+21 recreational, open space cultural and other public uses" could not be modified by an action of the
+22 Board of Supervisors because Section 9 of Measure W provides that "[t]he Initiative may be amended
+
+23 only by a vote of the people at a regular election held in accordance with the requirements of the
+
+24 California Elections Code." And, as acknowledged in the Pre-Annexation Agreement, Measure W
+25 applied open space designations to the Property. The one land use designation other than an "open
+
+26 space" designation (which still does not allow the current Lowe proposal) was an "Education/Park
+27 Compatible" designation, which called for long-term uses focused on educational facilities and
+
+28 related research and development uses. That designation provided for 80% of the area to remain as
+
+Gibson, Dunn & 24
+Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+1 open space, a maximum Floor to Area Ratio of 0.4, and a maximum of 45 employees per acre. The
+
+2 Lowe Development Plan violates every one of these standards.
+
+3 97. In short, the County's approval of the Lowe Development Plan violates Measure W by
+
+4 enacting a land use plan wholly inconsistent with the General Plan provisions adopted by voters,
+
+5 despite the requirement that the land use plan enacted by Measure W could only be amended by a
+
+6 vote of the people for so long as the land remains "unincorporated."
+
+7 98. The Lowe Development Plan is further inconsistent with the numeric, objective
+
+8 standards for the provision of park land contained in the County's General Plan (see paragraph 71
+
+9 above).
+
+10 99. In addition to the fact that the Lowe Development Plan was never approved by the
+11 City, it violates numerous City standards, including the existing City General Plan designation of the
+
+12 site for Institutional Uses.
+
+13 100. The Lowe Development Plan thus followed none of the (even potentially) applicable
+14 rules:
+
+15 it was not adopted by the City (which is the only jurisdiction with land use
+16 authority over this private development project);
+
+17 it was not adopted following the required County procedures for review of private development projects; and
+18 it violates numerous substantive provisions of the County General Plan
+19 applicable to both public and private developments.
+
+20 101. Thus, Heritage Fields is entitled to, and requests that this Court issue, a peremptory
+21 writ of mandate compelling the County to repeal its approval of the Lowe Development Plan.
+22 THIRD CAUSE OF ACTION
+
+23 (Intentional Interference with Contractual Relations Against Defendants County of
+24 Orange and Lowe Enterprises)
+
+25 102. Heritage Fields incorporates paragraphs 1 through 101 of this Complaint as though
+fully set forth herein. 26
+I03.
+27 On or about July 12, 2005, Heritage Fields' direct predecessor-in-interest executed the
+
+28 DA with City and the Irvine Redevelopment Agency (*RDA"). The DA was recorded the same day.
+
+Gibson, Dunn & 25
+Crulchel LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+On or about December 27, 2010, Heritage Fields executed the ARDA with the City and the RDA.
+
+2 The ARDA was recorded on the same day. The ARDA is a valid and enforceable contract that
+
+3 remains in effect between Heritage Fields, the City, and the Successor Agency to the RDA.
+4 104. The County is not and has never been a party tó the ARDA; however, the ARDA is an
+5 existing encumbrance on the County property that was recorded against title as part of the original
+
+6 Great Park transaction. Furthermore, the County is bound and subject to the DA and the ARDA as a
+7 successor in interest to ownership of property transferred by both Heritage Fields and the City
+
+8 pursuant to the DA and the ARDA. Section 19.1 of the DA states that "the burdens and benefits
+
+9 hereof shall bind and inure to the benefit of each of the Parties hereto and all successors in interest to
+
+10 the Parties hereto." Section 20.1 of the ARDA contains identical language.
+
+11 105. Defendant County had knowledge of the DA and the ARDA at the time that it was
+
+12 entered into, because it was adopted as part of a public process and subsequently recorded. The
+
+13 County also had knowledge of the DA and the ARDA throughout the CEQA environmental review
+14 process for the Lowe Development Plan, because the EIR for the Project references the ARDA
+
+15 throughout its analysis. Further, the County had knowledge of the DA and the ARDA and the fact
+
+16 that the Lowe Development Plan violated the ARDA no later than November 13, 2017, when the City
+17 informed the County of its violation by a letter of that date. In the letter, the City communicated that
+
+18 the proposed project "violates binding agreements with the City, such as ... the Amended and
+
+19 Restated Development Agreement" and, regarding traffic, that the ARDA contemplated that the
+
+20 County property would consist of approximately 300,000 square feet of institutional uses, and
+
+21 therefore the Project "is not consistent with ARDA and it far exceeds the overall ADT Budget for
+
+22 Planning Area 51." Exhibit L of the ARDA contains the Overlay Plan for the Heritage Fields
+23 development and expressly provides that the County property would be developed with
+
+24 "institutional" uses. Exhibits B and C of the DA also contain an Overlay Plan for the Heritage Fields
+
+25 development and also expressly provide that the County's property shall be developed for
+26 "institutional" uses. On information and belief, Lowe also had similar knowledge as Defendant
+
+27 County as to the ARDA and Exhibit L and the DA Exhibits B and C containing the Overlay Plan.
+
+28 Heritage Fields believes that Lowe understood that the ARDA was an existing encumbrance on the
+
+Gibson, Dunn & 26
+Crutcher | VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+County property and, despite this, agreed to create the Lowe Development Plan, which is inconsistent
+with the institutional use restrictions.
+
+106. By entering into contracts for the Lowe Development Plan and Master Ground Lease
+
+4 with Lowe, the County committed acts of governance intentionally designed to induce a breach or
+
+5 disruption of the ARDA. Defendants County and Lowe knew or were at minimum substantially
+
+6 certain that such breach or disruption was a necessary consequence of its actions.
+
+7 107. As a result of Defendants County and Lowe's above-described actions, there has been
+
+8 a breach or disruption of the ARDA. Section 3.9.4 of the ARDA requires the City to construct a park
+
+9 on the Great Park Property substantially in compliance with the Great Park Master Plan. The
+
+10 construction of such a park requires a certain amount of allocated traffic capacity. With the County
+
+11 contracting with Lowe to pursue the Lowe Development Plan-an unanticipated and unlawful dense
+
+12 private development which uses substantially more traffic capacity than assumed under the ARDA-
+
+13 in the OC Great Park area, the County proposes to utilize traffic capacity reserved for other ARDA
+
+14 uses, such as the City's construction of the large-scale park pursuant to Section 3.9.4. The County
+15 has not made adequate arrangements to ensure that the Project will in fact implement all necessary
+16 traffic mitigation, and there will therefore be reduced traffic capacity to accommodate future traffic
+17 from as yet to be implemented uses in the OC Great Park. For example, as of August 17, 2010, when
+18 the City and County executed Implementation Agreement No. 2 for the 100-Acre Parcel, which
+
+19 estimates that the 100-Acre Parcel would be "developed with 300,000 square feet of institutional
+20 development." (Exhibit E.) As a result of the reduction in available traffic capacity, the City will be
+
+21 unable to construct a park on the Great Park Property substantially in compliance with the Great Park
+
+22 Master Plan, in breach of the ARDA.
+
+23 108. But for Defendant County and Lowe's actions regarding the Lowe Development Plan,
+24 the ARDA would have been performed by the City and Heritage Fields.
+25 109. Heritage Fields has been damaged due to Defendant County and Lowe's interference
+26 with the ARDA, because (I) Heritage Fields' development has been and will be de-valued because
+27 the City cannot build the Great Park as required by the ARDA, or meet its other obligations with
+
+28 respect to Heritage Fields; (2) the County and Lowe's development now directly competes with
+
+Gibson, Dunn & 27 Cruicher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+1 Heritage Fields' development; and (3) the County and Lowe's development will use up the traffic
+
+2 capacity that was entitled to Heritage Fields in the ARDA, which will diminish the maximum
+
+3 possible density of Heritage Fields' development.
+
+4 110. Heritage Fields has developed and is developing properties in the OC Great Park area
+
+5 in reliance on the City's promise to construct & park on the Great Park Property substantially in
+
+6 compliance with the Great Park Master Plan. The Great Park has enhanced the value of Heritage
+
+7 Fields' properties already and will enhance that value when completed as planned because the
+
+8 development's proximity to the park increases the attractiveness of the property and raises the value
+of the real estate. Heritage Fields has invested hundreds millions of dollars to obtain the property
+10 subject to the ARDA and to entitle that property for specific uses articulated in the ARDA, and
+11 previously approved by the City of Irvine. This includes completion of the oC Great Park by the
+
+12 City and planned residential and commercial development. As alleged, the City will not be able to
+
+13 complete the Great Park in compliance with the Great Park Master Plan as required by the ARDA,
+14 thereby devaluing Heritage Fields' development.
+
+15 111. The County and Lowe's development will directly compete with Heritage Fields'
+16 development because it will develop many of the same types of properties, rather than developing the
+17 parcel for institutional uses. The two developments are close in proximity and the presence of the
+
+18 County's and Lowe's development will de-value Heritage Fields' development.
+
+19 112. The County's intentional interference also damages Heritage Fields by interfering with
+
+20 its entitlements and by limiting the density of its development based on the planned infrastructure.
+
+21 Under Section 3.12 of the ARDA, the City granted Heritage Fields entitlements related to the traffic
+
+22 for the area covered by the ARDA Overlay Plan, which includes the 100-Acre Parcel. As part of the
+
+23 grant of entitlements, Heritage Fields agreed to undertake certain mitigation measures in order to
+24 mitigate the impacts of the traffic to the ARDA Overlay Plan. The entitlements granted in the ARDA
+
+25 establishes the maximum amount of traffic capacity that will be permitted for the development, based
+26 on the capacity of the development's infrastructure and the mitigation undertaken by Heritage Fields.
+
+27 The ARDA explicitly contemplated that the 100-Acre Parcel would be used for institutional uses, and
+
+28 made assumptions about the traffic required for those uses. The County and Lowe's development
+
+Gibson, Dunn & 28
+Crutcher VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+] will use significantly more traffic than the traffic required to service an institutional use. The County
+
+2 and Lowe are therefore diverting traffic and infrastructure capacity (paid for by Heritage Fields) that
+
+3 would otherwise service the OC Great Park (as well as Heritage Fields' development of the Great
+
+4 Park Neighborhoods). By diverting this traffic capacity, the County and Lowe are preventing the
+
+5 City from implementing its full vision for a robust scope of public park and recreational •
+
+6 improvements, as it has less traffic capacity available to it. This reduction in available capacity will
+
+7 limit the types and ranges of potential OC Great Park uses, and Plaintiff will be precluded from
+
+8 maximizing the full value of its investments. The County and Lowe were aware that damage will be
+caused to Plaintiff as a result of their actions, but chose to act in total disregard of Heritage Fields'
+10 rights under the ARDA-thereby damaging Plaintiff in an amount to be established at trial.
+
+11 FOURTH CAUSE OF ACTION
+
+12 (Breach of Contract Against Defendant County)
+
+13 113. Heritage Fields incorporates paragraphs 1 through 112 of this Complaint as though
+14 fully set forth herein.
+
+15 114. The Pre-Annexation Agreement between the County and the City is a valid and
+16 enforceable contract that is currently still in effect:
+
+17 115. Heritage Fields is an intended third-party beneficiary under the Pre-Annexation
+18 Agreement: The City and County's motivating purpose of entering into the Pre-Annexation
+
+19 Agreement was to provide a benefit to the developer that would purchase the MCAS El Toro
+20 Property to develop it, the role that Heritage Fields now fills. The City and County contracted to
+
+21 provide a benefit to the developer because both parties would receive a financial benefit--in the form
+22 of tax revenue--from the developer's success in developing the property. Section 2.2.6 of the Pre-
+23 Annexation provides that the City and County would share the tax benefits from the developer's
+24 success. Section 2.2.6 states in its entirety: "That Irvine and county will share property taxes from
+25 the annexed area in the same ratio as is specified in that Master Property Tax Transfer Agreement 80-
+26 2035 dated October 28, 1980, to wit: 0.18123825104% to the City of Irvine, and 0.81876184896% to
+
+27 the County of Orange."
+
+28
+
+Gibson, Dunn & 29 Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+1 116. In order to maximize the tax benefits, the City and County entered into the Pre-
+
+2 Annexation Agreement with the motivating purpose to provide certain benefits to the future
+
+3 developer, including (1) a funding mechanism for infrastructure costs; (2) a limitation on the uses
+
+4 permitted on the County property; (3) an obligation to transfer the property expeditiously; and (4) a
+
+5 requirement that a Development Agreement be established to govern the manner in which the parcels
+
+6 would be conveyed by the future developer to the County.
+
+7 117. Section 2.2.5 of the Pre-Annexation creates a "funding mechanism" to provide for
+
+8 development and infrastructure costs, which benefits any developer or "Base user," as the term is
+
+9 used in the Pre-Annexation Agreement. Section 2.2.5 states in its entirety: "The parties
+
+10 acknowledge that the City seeks to a create a funding mechanism whereby all Base users pay their fair
+11 share of the costs of developing the necessary infrastructure and related improvements. The County
+
+12 agrees to participate in such funding mechanism and pay its fair share of costs that are limited to
+13 infrastructure improvements directly related to servicing the properties County is to receive
+
+14 referenced in 2.2.3 above. Infrastructure improvements shall refer to utilities, roadways, sewer lines,
+
+15 and other types of infrastructure needs that are necessary to service each County parcel, if any. The
+16 County will not be required to contribute, through assessments or other funding or financing
+17 methods, to the development or maintenance costs or expenses for any park or open space that will be
+18 developed and maintained on the Base under the Irvine "Great Park Plan". Furthermore, to the extent
+
+19 they qualify, County shall have the option to pay any portion of its share of infrastructure costs and
+20 expenses with Road Funds or other non-General Fund revenues." This provision was intended to
+
+21 benefit future "Base users," such as Heritage Fields, so that Heritage Fields was not required to pay a
+22 disproportionate share of infrastructure costs or the County's share of infrastructure costs.
+
+23 118. Section 2.2.4 of the Pre-Annexation Agreement provides a benefit to the future
+24 developer (Heritage Fields) by establishing use limitations for the property that is annexed to the
+25 County. Section 2.2.4 states in its entirety: "Irvine agrees that while the parcels of Base property that
+26 County is to receive will be annexed to Irvine, that notwithstanding said fact, Irvine will zone
+
+27 County's parcels and designate them in Irvine's General Plan, in accordance with County's direction.
+
+28 In addition, County shall retain exclusive land use control over said parcels, and shall be entitled to
+
+Gibson, Dunn & 30
+Crulcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMÜS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+1 place any development upon said parcels that County shall determine to be desirable for County's
+
+2 needs, as though said property remained unincorporated, without the obligation for payment to Irvine
+
+3 of any permit fees or other mitigation/impact fees, other than in Section 2.2.5, including but not
+
+4 limited to the following uses, all of which Irvine agrees with:
+
+5 2.2.4.1 Animal shelter
+
+6 2.2.4.2 Environmental Health facilities
+
+7 2.2.4.3 Automotive/equipment repair facilities
+
+8 2.2.4.4 Childcare facilities
+
+2.2.4.5 Youth and Family Resource Center
+
+10 2.2.4.6 Law Enforcement training facilities
+
+11 2.2.4.7 Emergency Shelter
+
+12 2.2.4.8 Transitional Shelter Care Facility•
+
+13 2.2.4.9 Children & Family Services Center
+
+14 2.2.4.10 Business offices
+
+15 2.2.4.11 Warehouses
+
+16 2.2.4.12 Storage facilitie
+
+17 2.2.4.13 Vehicle parking and storage facilities
+
+18 2.2.4.14 Heavy equipment maintenance and storage
+
+19 2.2.4.15 Field operations and maintenance facility"
+20 Furthermore, Section 2.2.3 of the Pre-Annexation Agreement dictates that the City agreed to transfer
+21 the 100-Acre Parcel for the "exclusive use of the County or its designees, lessees, or concessionaires .
+22 to construct and operate permitted uses and facilities." (Section 2.2.3.1, italics added.) The Pre-
+23 Annexation clarifies that "It]he City will [] provide County with" the 100-Acre Parcel "identified as
+24 parcel 23, in Figures 3-2, 3-3 and 3-4 in the Project Description portion of the City's Draft
+25 Environmental Impact Report for the Great Park, said 100 contiguous acres is conceptually shown in
+
+26 the area designated as County Facility 5 on the attached Exhibit" defined as "Public Facilities."
+
+27 (Section 2.2.3; Exhibit.) By limiting the uses permitted on the property annexed to the County, the
+28
+
+Gibson, Dunn & 31
+Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+parties agreed to confer a benefit to the future developer (Heritage Fields) to remove the possibility of
+
+2 any competition with the future development.
+
+3 119. Section 4 of the Pre-Annexation provides a benefit to the future developer by
+
+4 providing that the parties agree to transfer the property expeditiously. Section 4 states in its entirety:
+5 "County and Irvine agree to cooperate and work together with the Navy to cause the expeditious
+
+6 transfer of the El Toro property."
+7 120. Section 2.2.3.4 of the Pre-Annexation Agreement also intended to confer a benefit to
+
+8 the future developer by requiring that a Development Agreement be established to govern the manner
+9 in which the parcels would be conveyed by the future developer to the County. Section 2.2.3.4 states
+10 in its entirety: "Be free of liens, leases, easements and restrictions inconsistent with the County's
+11 proposed uses. The City shall include, in its Development Agreement, with the purchaser(s) of the
+12 Base property a requirement that the purchaser(s) shall deliver to the County the real property
+13 identified in Section 2.2.3 above, free and clear of any liens, financial encumbrances, and non-utility
+14 easements."
+
+15 121. The City's intent to benefit Heritage Fields by certain provisions of the Pre-
+16 Annexation Agreement was later evidenced by the terms of the development agreement that the City
+17 executed with Heritage Fields, the ARDA. Section 7.9 of the ARDA quotes Section 2.2.5 of the Pre-
+
+18 Annexation Agreement (regarding the County's promise to pay its fair share of infrastructure costs,
+
+19 for the benefit of future Base users) in full and the City covenants to request the County to honor this
+20 obligation, and covenants to actively pursue enforcement of this provision, again for the benefit of
+
+21 Heritage Fields as a Base user. In ARDA Section 7.9, the City also expressly acknowledges Heritage
+22 Fields' existing ability to enforce its third-party rights under the Pre-Annexation Agreement:
+23 "[NJothing contained herein shall be deemed a waiver by Heritage Fields of any rights Heritage
+24 Fields may have as against the County with respect to the County Agreement [Pre-Annexation
+25 Agreement]." This intention was confirmed in a letter agreement from the City to Heritage Fields
+
+26 executed December 27, 2019, which clarified the City's obligation to ensure compliance with the
+
+27 Pre-Annexation Agreement and implementing agreements and that Heritage Fields had not waived
+
+28 any of its rights thereunder.
+
+Gibson, Dunn & 32 Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+122. On information and belief, the City has fully performed all conditions, covenants and
+
+2 obligations required on its part to be performed in accordance with the terms of the Pre-Annexation
+
+3 Agreement.
+
+4. 123. Under the Pre-Annexation Agreement, the County contractually committed to request
+
+5 City zoning in accordance with government uses, such as the 15 government uses enumerated in
+
+6 Section 2.2.4 of the Pre-Annexation Agreement. In the alternative, pursuant to the requirement that
+
+7 the land be treated as though it is "unincorporated," the County Board of Supervisors was obligated
+
+8 to follow the land use plan enacted by Measure W, requiring its "unincorporated" land to be
+
+9 maintained in accordance with the Open Space or Educational land use designations imposed on the
+
+10 property by Measure W.
+
+11 124. The County has breached the Pre-Annexation Agreement by:
+
+12 failing to comply with this obligation to maintain uses in accordance with
+13 Measure W;
+
+14 approving a Development Plan that will introduce uses not authorized by the Pre-Annexation Agreement;
+15 refusing to recognize the City's land use jurisdiction and review process;
+16 setting up a mechanism by which Lowe may receive building permits
+17 without paying its fair share of transportation improvements (thus increasing the burden on Heritage Fields); and
+18 creating impacts on the Orange County Great Park and other recreation
+19 facilities not contemplated by the Pre-Annexation Agreement.
+
+20 125. Heritage Fields has been damaged by the County's breach of the Pre-Annexation
+Agreement because (1) Heritage Fields' development has been and will be de-valued because the 21
+
+22 City cannot build the Great Park as planned; (2) the County and Lowe's development, instead of
+
+23 consisting of institutional uses, now directly competes with Heritage Fields' development; and (3) the
+
+24 County is using up more than its allotted share of a finite amount of traffic capacity for the area,
+which will diminish the maximum possible density of Heritage Fields' development. 25
+126.
+26 Heritage Fields has developed and is developing properties in the OC Great Park area
+
+27 in reliance on the City's promise to construct a park on the Great Park Property substantially in
+compliance with the Great Park Master Plan. The Great Park has enhanced the value of Heritage 28
+
+Gibson, Dunn & 33
+Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+Fields' properties already and will enhance that value when completed as planned because the
+
+2 development's proximity to the park increases the attractiveness of the property and raises the value
+
+3 of the real estate. Heritage Fields has invested hundreds millions of dollars to obtain the property
+
+4 subject to the ARDA and to entitle that property for specific uses articulated in the ARDA and the
+
+5 DA, and previously approved by the City of Irvine. This includes completion of the OC Great Park
+
+6 by the City and planned residential and commercial development. As alleged, the City will not be
+
+7 able to complete the Great Park in compliance with the Great Park Master Plan as required by the
+
+8 ARDA because the County has breached its obligation to develop the property with institutional uses,
+
+9 thereby devaluing Heritage Fields' development.
+
+10 127. The County and Lowe's development will directly compete with Heritage Fields'
+
+11 development because it will develop many of the same types of properties, rather than developing for
+12 institutional uses. The two developments are close in proximity and the presence of the County's and
+13 Lowe's development will de-value Heritage Fields' development.
+
+14 128. The County's breach of the Pre-Annexation Agreement also damages Heritage Fields
+15 by interfering with its entitlements and by limiting the density of its development based on the
+16 planned infrastructure. Under Section 3.12 of the ARDA, the City granted Heritage Fields
+17 entitlements related to the traffic for the area covered by the ARDA Overlay Plan, which includes the
+
+18 100-Acre Parcel. As part of the grant of entitlements, Heritage Fields agreed to undertake certain
+
+19 mitigation measures in order to mitigate the impacts of the traffic to the ARDA Overlay Plan. The
+20 entitlements granted in the ARDA establishes the maximum amount of traffic capacity that will be
+
+21 permitted for the development, based on the capacity of the development's infrastructure and the
+
+22 mitigation undertaken by Heritage Fields. The ARDA explicitly contemplated that the 100-Acre
+23 Parcel would be used for institutional uses, and made assumptions about the traffic required for those
+24 uses. The County and Lowe's development will use significantly more traffic than the traffic
+25 required to service an institutional use. The County and Lowe are therefore diverting traffic and
+26 infrastructure capacity (paid for by Heritage Fields) that would otherwise service the OC Great Park.
+27 By diverting this traffic, the County and Lowe are preventing the City from implementing its full
+
+28 vision for a robust scope of public park and recreational improvements, as it has less traffic it capacity
+
+Gibson, Dunn & 34
+Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES. DECLARATORY AND INJUNCTIVE RELIEF
+
+available to it. This reduction in available capacity will limit the types and ranges of potential OC
+
+2 Great Park uses, and Plaintiff will be precluded from maximizing the full value of its investments.
+
+3 The County and Lowe were aware that damage will be caused to Plaintiff as a result of their actions,
+
+4 but chose to act in total disregard of Heritage Fields' rights under the ARDA and the DA--thereby
+
+5 damaging Plaintiff in an amount to be established at trial.
+
+6 FIFTH CAUSE OF ACTION
+
+7 (Declaratory Relief Against Defendants County of Orange and Lowe Enterprises)
+
+8 129. Heritage Fields incorporates paragraphs 1 through 128 of this Complaint as though
+
+9 fully set forth herein.
+
+10 130. Heritage Fields alleges and declares, and seeks a declaration of this Court as provided
+11 below, as follows:
+
+12 A. The Prè-Annexation Agreement, and specifically Sections 2.2.3 and 2.2.4
+
+13 thereof, does not and cannot exempt the 100-Acre Parcel from the applicability of the City's Géneral
+
+14 Plan, the City's Zoning Code, the California subdivision Law, and all other procedures applicable to
+15 all public or private developments in the City. In satisfaction of the Pre-Annexation Agreement, the
+
+16 City has zoned the 100-Acre Parcel as institutional, which is consistent with the permitted uses (i.e.,
+
+17 institutional uses only), as defined and set forth in Section 2.2.4 of the Pre-Annexation Agreement.
+
+18 Such uses are the only uses allowed on, and constitute permitted uses of, the 100-Acre Parcel, and
+
+19 therefore, Lowe cannot presently develop the 100-Acre Parcel for private commercial and residential
+
+20 uses as contemplated in the Lowe Development Plan.
+
+21 B. In the alternative, the Pre-Annexation Agreement, and specifically Sections
+22 2.2.3 and 2.2.4 thereof, allows the County to retain land use control to implement the institutional
+23 uses as defined and set forth in Section 2.2.4 of the Pre-Annexation Agreement (i.e. institutional uses
+24 only), but if the County exercises land use control, it must do so subject to the County's General Plan
+25 (including Measure W), the County's Zoning Code, the California subdivision Law, and all other
+26 procedures applicable to all public or private developments in the County, and therefore, the County
+27 cannot approve the development of the 100-Acre Parcel for private commercial and residential uses,
+
+28
+
+Gibson, Dunn & 35
+Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+and Lowe cannot develop the 100-Acre Parcel for private commercial and residential uses as
+currently contemplated in the Lowe Development Plan.
+
+3 C. Lowe, as a privato developer, is also subject to, and remains subject to, the
+
+4 City's General Plan, the City's Zoning Code, the California subdivision Law, and all other
+
+5 procedures applicable to all public and private developments in the City, provided, however,
+permitted uses, as defined and set forth in Section 2.2.4 of the Pre-Annexation Agreement (i.e.,
+
+7 institutional uses only), shall be the only uses allowed on, and constitute permitted uses of, the 100-
+
+8 Acre Parcel, and therefore, Lowe cannot develop the 100-Acre Parcel for private commercial and
+
+9 residential uses as currently contemplated in the Lowe Development Plan.
+
+10 D. The City has already zoned the 100-Acre Parcel as institutional and fully
+
+11 satisfied its obligations to do so under the Pre-Annexation Agreement, and as such, the County and
+12 Lowe cannot lawfully approve and develop the Property for private commercial and residential uses
+
+13 because such uses are inconsistent with the applicable zoning. Only the City can amend its zoning in
+14 accordance with its lawful police powers and consistent with due process. Section 2.2.4 of the Pre-
+
+15 Annexation Agreement is interpreted as allowing the County to demand from time to time that the
+16 City change its zoning and planning restrictions. That would constitute an unlawful delegation and
+17 abdication of the City's police power, and a violation of due process. Section 2.2.4 of the Pre-
+
+18 Annexation Agreement also is an unlawful attempt to bind future City Councils in relation to their
+
+19 exercise(s) of police power and land use authority, should it be interpreted as allowing the County to
+20 make such a demand. Alternatively, should the City refuse to comply with the County's demand (as
+
+21 the City has said it will do), then the City will fail to comply with Section 2.2.4 of the Pre-
+
+22 Annexation Agreement. In 5 that case, Section 5 of the Pre-Annexation Agreement, which provides
+
+23 that "failure of any party to comply with any provision of this [Pre-Annexation] Agreement shall
+24 render the entire Agreement void[,]" must be enforced. In that case, the Pre-Annexation Agreement
+
+25 is void, no future transfer of the remaining portions of the 100-Acre Parcel is required, and the
+26 Property may only be developed consistent with the institutional zoning limitations that presently
+27 exist.
+
+28
+
+Gibson, Dunn & 36
+Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES. DECLARATORY AND INJUNCTIVE RELIEF
+
+1 E. In the alternative, if, and to the extent the Pre-Annexation Agreement is not
+
+2 unlawful, void, and unenforceable, the only permitted use of the 100-Acre Parcel shall be those
+
+3 permitted uses, as defined and set forth in Section 2.2.4 of the Pre-Annexation Agreement (i.e.,
+
+4 institutional uses only).
+
+5 F. The ARDA strictly prohibits the uses of the 100-Acre Parcel contemplated by
+
+6 the Lowe Development Plan, and limits development to institutional uses. On December 27, 2010,
+
+7 before the 100-Acre Parcel or the West Alton Parcel were conveyed to Heritage Fields, the ARDA
+
+8 was recorded against those properties subsequently transferred by the Navy, including the 100-Acre
+
+9 Parcel and the West Alton Parcel. On July 12, 2005, the DA was recorded against those properties
+
+10 subsequently transferred by the Navy, including the 100-Acre Parcel and the West Alton Parcel.
+
+11 Thereafter, Heritage Fields conveyed the 100-Acre Parcel to the City subject to the covenants and
+
+12 conditions already recorded against the title, including the land use limitations set forth in the ARDA.
+
+13 The City thereafter conveyed that portion of the 100-Acre Parcel to the County subject to the
+
+14 covenants and conditions already recorded against the title, including the limitations set forth in the
+
+15 ARDA. Therefore, the 100-Acre Parcel cannot be used for any purposes other than the institutional
+16 uses permitted by the ARDA, which was recorded prior to the property transfers to the City, and then
+
+17 later to the County. The County took title to those portions of the 100-Acre Parcel subject to the land
+
+18 use restrictions specifically articulated in the ARDA.
+
+19 131. Heritage Fields is informed and believes, and alleges thereon, that the County disputes
+20 each and every one of the allegations and declarations set forth in paragraph 130 above, and that an
+
+21 actual controversy exists as to each and every allegation and declaration therein.
+
+22 PRAYER FOR RELIEF
+
+23 132. In each of the items enumerated above, the County has violated its duty under the law,
+24 abused its discretion, failed to proceed in the manner required by law, and decided to take the actions
+25 objected to without the support of substantial evidence. Accordingly, certification of the EIR and
+26 approval of the Lowe Development Plan must be set aside.
+
+27 133. THEREFORE, Heritage Fields prays for a declaration and entry of judgment against
+
+28 the County and Lowe as follows:
+
+Gibson, Dunn & 37
+Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+A. For an alternative and peremptory writ of mandate, commanding the County:
+
+2 1. To set aside and vacate the certification of the EIR, Findings and Statement of
+
+3 Overriding Considerations supporting the approval of the Lowe Development
+
+4 Plan and Master Lease; and
+
+5 2. To set aside and vacate the approval of the Lowe Development Plan and
+
+6 Master Lease based upon the EIR, Findings and Statement of Overriding
+
+7 Considerations;
+
+8 B. For an order precluding the County and Lowe from taking any action to construct
+
+9 facilities, infrastructure, or undertake site preparation until an adequate EIR is
+10 prepared and timely resubmitted to this Court;
+11 C. For a declaration of the following:
+12 1. That neither the County nor Lowe, nor any other private party, can develop the
+13 100-Acre Parcel for private commercial and residential uses as contemplated in
+14 the Lowe Development Plan;
+
+15 2. That by approving the Lowe Development Plan, the County has failed to
+16 comply with the various City planning and zoning restrictions applicable to all
+17 private developments in the City;
+
+18 3. That in the event the City's planning and zoning restrictions are found
+
+19 inapplicable to the 100-Acre Parcel, that the Lowe Development Plan fails to
+
+20 comply with the County's general plan and zoning codes (including Measure
+
+21 W), and other applicable laws and measures;
+
+22 4. That Lowe as a private developer, or any other private developer, is also
+
+23 subject to the same County and/or City restrictions as enumerated above;
+
+24 5. That the only permitted uses 0n1 the 100-Acre Parcel shall be the permitted uses
+
+25 (i.e., institutional uses), as defined and set forth in Section 2.2.4 of the Pre-
+
+26 Annexation Agreement; or in the alternative, that the Pre-Annexation
+27 Agreement is unlawful, void, and unenforceable by its terms as an abdication
+
+28 of the City's police power; and
+
+Gibson, Dunn & 38
+Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+6. That the ARDA is an existing encumbrance on title to the 100-Acre Parcel
+
+2 such that neither the County, Lowe, nor any other private party, can develop
+
+3 the Property for private commercial and residential uses as contemplated in the
+
+4 Lowe Development Plan;
+
+D. For damages, including but not limited to those for breach of contract, lost profits,
+6 expenses, diminution in value of property and business, and prospective profits;
+7 E. For injunctive relief precluding County or Lowe from taking any action to advance the
+8 Project;
+9 F. For specific performance under the terms of the contract;
+10 G. For costs of the suit;
+
+11 H. For reasonable attorney's fees; and
+12 I. For such other relief as the Court deems just and proper.
+13 DATED: Janaury 17, 2020 Respectfully submitted,
+14 ALSTON & BIRD LLP
+15 JEFFREY D. DINTZER
+
+16 GIBSON, DUNN & CRUTCHER LLP ABBEY J. HUDSON
+17 CYNTHIA C. MULLEN DIONE GARLICK
+18 NIELSEN MERKSAMER PARRINELLO GROSS &
+19 LEONI LLP
+ARTHUR SCOTLAND
+
+20
+
+21 By:
+22 ffrey D.Dintzer
+
+23 Attorneys for Petitioner and Plaintiff HERITAGE FIELDS EL TORO, LLC
+24
+
+25
+
+26
+
+27
+
+28
+
+Gibson, Dunn & 39 Crutcher LLP VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+1 VERIFICATION
+
+2
+
+3 I, Lynn Jochim, in my capacity as a vice president of Five Point Operating Company, LP, a
+
+4 Delaware limited partnership, which is the sole member of Five Point Heritage Fields, LLC, a
+
+5 Delaware limited liability company, with the authority to act on behalf of Five Point Heritage Fields,
+
+6 LLC, the administrative member of Heritage Fields LLC, a Delaware limited liability company, with
+
+7 the authority to execute documents on behalf of Heritage Fields LLC, which is the sole member of
+Heritage Fields El Toro Sole Member LLC, a Delaware limited liability company, with the authority
+
+9 to act on behalf of Heritage Fields El Toro Sole Member, LLC, the sole member of Plaintiff and
+
+10 Petitioner HERITAGE FIELDS EL TORO, LLC ("Heritage Fields"), a Delaware limited liability
+
+11 company, with the authority to act on behalf of Heritage Fields, certify that I have read the foregoing
+
+12 VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS [CCP SECTION 1085
+
+13 OR 1094.5] AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+(*PETITION") and am familiar with its
+
+14 contents, and that the matters stated in it are true as of my
+
+15 own knowledge, except as to those matters that are stated on information and belief, and as to those
+matters, I believe them to be true.
+
+16
+
+17 I declare under penalty of perjury under the laws of the State of California that this
+Verification was executed by me
+
+18 on January 17, 2020, that the foregoing i: true and correct.
+
+19 Lynd Jochim
+
+20 Bb 24
+
+25
+
+26
+
+27
+
+28
+
+Gibson, Dunn &
+Crutcher LLP 40
+VERIFIED THIRD AMENDED PETITION FOR WRIT OF MANDAMUS AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+- PROOF OF SERVICE
+
+2 I, Cecilia Rodriguez, declare as follows:
+
+3
+
+4 am employed in the County of Los Angeles, State of California, I am over the age of eighteen years and am not a party to this action; my business address is 333 South Grand Avenue, Los Angeles, CA 90071-3197, in said County and State. On January 17, 2020, I served the following document(s):
+
+6 PROOF OF SERVICE OF VERIFIED THIRD AMENDED PETITION FOR
+
+7 WRIT OF MANDAMUS [CCP SECTION 1085 OR 1094.5) AND COMPLAINT FOR DAMAGES, DECLARATORY AND INJUNCTIVE RELIEF
+
+8 on the parties stated below, by the following means of service:
+
+9 [SEE ATTACHED SERVICE LIST]
+
+571
+10 BY MESSENGER SERVICE: placed a true copy in a sealed envelope or package addressed to the persons at
+
+11 the addresses listed above and providing them to a professional messenger service for service for delivery before 5:00 p.m. on the above-mentioned date.
+
+12 F2 BY OVERNIGHT DELIVERY: On the above-mentioned date, I enclosed the documents in an envelope or
+
+13 package provided by an overnight delivery carrier and addressed to the persons at the addresses shown above. I placed the envelope or package for collection and overnight delivery at an office or a regularly utilized drop box of the overnight delivery carrier with delivery fees paid or provided for.
+
+14 D BY ELECTRONIC SERVICE: On the above-mentioned date at
+
+15 [a.m./p.m], based on a court order
+or an agreement of the parties to accept service by electronic transmission, I caused the documents to be sent to
+the persons at the electronic notification addresses as shown above.
+
+16 Z1 (STATE)
+
+17 I declare under penalty of perjury under the laws of the State of California that the foregoing is true and correct.
+
+18 Executed on January 17, 2020.
+
+19
+
+20
+
+21 Leilrs bediquar
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Gibson, Dunn & Crutcher LLP 2
+PROOF OF SERVICE OF THIRD AMENDED PETITION
+
+1 SERVICE LIST
+
+2 Related Cases
+
+3 Heritage Fields El Toro, LLC v. County of Orange - Case No. 34-2018-80002879-CU-WM-GDS City of Irvine v. County of Orange - Case No. 34-2018-80002883-CU-WM-GDS
+County of Orange v. City of Irvine - Case No. 34-2018-00232248-CU-MC-GDS
+4 Laguna Greenbelt, Inc. v. County of Orange - Case No. 34-2018-80002878-CU-WM-GDS
+
+5 Robert A. Cocchia ATTORNEYS FOR COUNTY OF ORANGE DENTONS US LLP
+6 4655 Executive Drive, Suite 700 San Diego, CA 92121 Respondent in Heritage Fields El Toro, LLC;
+
+7 Respondent/Defendant in City of Irvine V.
+SERVED BY OVERNIGHT DELIVERY County of Orange; Plaintiff in County of Orange
+
+8 V, City of Irvine; and Respondent in Laguna Greenbelt, Inc. v. County of Orange
+9 Tel: 619.595.8007
+Fax: 619.232.8311
+10 robert.cocchia@dentons.com
+
+11
+Brian C. Fish ATTORNEŸS FOR COUNTY OF ORANGE 12 Buchalter
+655 West Broadway
+13 Suite 1625 Respondent in Heritage Fields El Toro, LLC; Respondent/Defendant in City ofIrvine
+14 San Diego, CA 92101-8590 County of Orange; Plaintiff in County of Orange
+SERVED BY MESSENGER V. City of Irvine; and Respondent in Laguna
+
+15 Greenbelt, Inc. v. County of Orange
+Tel: 619.219.5427
+16 bfish@buchalter.com
+
+17 Leon J. Page, County Counsel ATTORNEYS FOR COUNTY OF ORANGE Julia C. Woo, Deputy 18 333 W. Santa Ana Blvd., Suite 407 Santa Ana, CA 92701 Respondent in Heritage Fields El Toro, LLC;
+
+19 Respondent/Defendant in City of Irvine v.
+SERVED BY OVERNIGHT DELIVERY County of Orange; Plaintiff in County of Orange
+20 v. City of Irvine,; and Respondent in Laguna Greenbelt, Inc. v. County of Orange
+
+21 Tel: 714.834.6046
+Fax: 714.834.2359
+22
+julia.woo@coco.ocgov.com 23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Gibson, Dunni
+Crulcher LLP 3
+PROOF OF SERVICE OF THIRD AMENDED PETITION
+
+Keli N. Osaki ATTORNEYS FOR LOWE ENTERPRISES
+Christopher S. Burt REAL ESTATE GROUP
+2 MANATT, PHELPS & PHILLIPS, LLP
+
+3 695 Town Center Drive, 14th Floor Costa Mesa, CA 92626 Real Party in Interest in Heritage Fields El Toro, LLC; City of Irvine v. County of Orange; and
+4 SERVED BY MESSENGER Laguna Greenbeit, Inc. v. County of Orange
+Tel: 714.371.2500
+Fax: 714.371.2550
+
+6 kosaki@manatt.com
+cburt@manatt.com
+rsimpson@manatt.com
+
+8 Jeffrey T. Melching ATTORNEYS FOR CITY OF IRVINE William M. Marticorena
+9 Alan B. Fenstermacher
+RUTAN & TUCKER, LLP Plaintiff/Petitioner in City of Irvine v. County of
+10 611 Anton Blvd., Suite 1400 Orange; and Defendant in County of Orange v.
+
+11 Costa Mesa, CA 92626-1931 City of Irvine
+
+SERVED BY OVERNIGHT DELIVERY Tel: 714.641.5100
+Fax: 714.546.9035
+12
+jmelching@rutan.com 13 bmarticorena@rutan.com
+afenstermacher@rutan.com 14
+Gideon Kracov
+15 LAW OFFICE OF GIDEON KRACOV ATTORNEYS FOR LAGUNA GREENBELT,
+801 S. Grand Avenue, 11th Floor INC., ET AL.
+
+16 Los Angeles, CA 90017-4645 Petitioners in Laguna Greenbelt, Inc. v. County
+17 SERVED BY OVERNIGHT DELIVERY of Orange
+Tel: 213.629.2071 18 Fax: 213.623.7755
+
+19 gk@gideonlaw.net
+
+20 jordan@gideonlaw.net
+Xavier Becerra CALIFORNIA ATTORNEY GENERAL
+21 Office of the Attorney General
+1300 "T" Street Tel: 916.445.9555
+22 Sacramento, CA 95814
+
+23 SERVED BY OVERNIGHT DELIVERY
+Jason W. Holder ATTORNEYS FOR CITY OF LAGUNA
+24 HOLDER LAW GROUP BEACH
+317 Washington St. #177 25 Oakland, CA 94607-3710 Tel: 510.338.3759
+jason@holderecolaw.com
+26
+SERVED BY OVERNIGHT DELIVERY
+27
+
+28
+103702513.1
+
+Gibson, Dunn 8
+Crutcher LLP 4
+PROOF OF SERVICE OF THIRD AMENDED PETITION
+
+LIE OTFICE UAFICE 13: LE:3 1200 c3

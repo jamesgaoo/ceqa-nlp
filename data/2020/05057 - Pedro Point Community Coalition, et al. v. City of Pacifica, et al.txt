@@ -1,0 +1,909 @@
+William P. Parkin, SBN 139718
+
+2 Yuchih Pearl Kan, SBN 294563
+WITTWER PARKIN LLP
+
+3 335 Spreckels Dr., Ste. H
+Aptos, CA 95003
+4 Telephone: (831) 429-4055
+Facsimile: (831) 429-4057 5 wparkin@wittwerparkin.com
+
+6 pkan@wittwerparkin.com
+
+7 Attorneys for Petitioners,
+PEDRO POINT COMMUNITY COALITION
+8 and ALLISON WEST
+
+9
+
+10
+
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+12 COUNTY OF SAN MATEO
+13
+
+14
+
+15 PEDRO POINT COMMUNITY COALITION, Case No.: an unincorporated association and ALLISON
+16 WEST,
+
+17 Petitioners, NOTICE TO ATTORNEY GENERAL
+
+18 VS.
+
+19 CITY OF PACIFICA, CITY COUNCIL OF
+THE CITY OF PACIFICA, and DOES [CEQA CASE]
+
+20 Through 15,
+
+21 Respondents,
+
+22 SAN PEDRO VALLEY, LLC, FRANCES E.
+23 CHRISTEN TRUST, and DOES 16 Through
+
+24 30,
+
+25 Real Parties in Interest.
+
+26
+
+27
+
+28
+
+1 To the Attorney General of the State of California:
+
+2 PLEASE TAKE NOTICE, under Public Resources Code Section 21167.7, Code of
+3 Civil Procedure Section 388, and other provisions of law, that on July 28, 2020, Petitioners
+4
+
+5 Pedro Point Community Association and Allison West filed a Petition for Writ of Mandamus
+
+6 against Respondents City of Pacifica and City Council of the City of Pacifica (*Respondents")
+
+7 in the above referenced Court.
+
+8 The Petition alleges that Respondents violated the California Environmental Quality
+9 Act ("CEQA"), the Subdivision Map Act and the Pacifica City Code when it approved an
+10 application of San Pedro Valley, LLC on property owned by the Frances E. Christen Trust for
+11
+
+12 demolition of an existing single-family residence, detached garage, and barn, and construction
+
+13 of a 1,753 square-foot, two-story single-family residence, a 236 square-foot detached garage,
+
+14 and a 216 square-foot carport on a 3,516 square foot-lot at 277 Kent Road seperately from the
+
+15 remainder of the project that also includes commercial development and six additional
+16 residential units on a coastal a bluff.
+17
+
+18 A copy of the Petition for Writ of Mandamus is enclosed herewith.
+
+19
+
+20 Dated: July 28, 2020 WITTWER PARKIN LLP
+
+21
+
+22 By:
+William P. Parkin
+23 Attorneys for Petitioner
+
+24
+
+25
+
+26
+
+27
+
+28
+
+PROOF OF SERVICE BY MAIL
+
+2
+
+3 I certify and declare as follows:
+
+4 I am over the age of 18, and not a party to this action. My business address is 335
+
+5 Spreckels Drive, Suite H, Aptos, California which is located in Santa Cruz County where the
+6 mailing described took place.
+7
+
+8 am familiar with the business practice at my place of business for the collection and
+
+9 processing of correspondence for mailing with the United States Postal Service.
+
+10 Correspondence so collected and processed is deposited with the United States Postal Service
+
+11 that same day in the ordinary course of business.
+
+12 On July 28, 2020, the following document(s):
+13
+1. Notice to Attorney General
+14 2. Petition for Writ of Mandamus
+
+15
+
+16 Was placed for deposit in the United States Postal Service in a sealed envelope, with
+
+17 postage fully paid to:
+
+18 Attorney General of the State of California
+19 1300 "I" Street
+Sacramento, CA 95814
+20
+
+21 certify and declare under penalty of perjury that the forgoing is true and correct.
+22
+
+23
+
+24 Dated: July 28, 2020
+25 Debbie Downing
+
+26
+
+27
+
+28
+
+William P. Parkin, SBN 139718
+
+2 Yuchih Pearl Kan, SBN 294563
+WITTWER PARKIN LLP
+
+3 335 Spreckels Dr., Ste. H Aptos, CA 95003
+4 Telephone: (831) 429-4055
+Facsimile: (831) 429-4057 5 wparkin@wittwerparkin.com
+
+6 pkan@wittwerparkin.com
+
+7 Attorneys for Petitioners, PEDRO POINT COMMUNITY COALITION
+8 and ALLISON WEST
+
+9
+
+10
+
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+12 COUNTY OF SAN MATEO
+13
+
+14
+
+15 PEDRO POINT COMMUNITY COALITION, Case No.:
+an unincorporated association and ALLISON
+16 WEST,
+
+17 Petitioners, VERIFIED PETITION FOR WRIT OF
+MANDAMUS
+
+18 VS.
+
+19 CITY OF PACIFICA, CITY COUNCIL OF
+THE CITY OF PACIFICA, and DOES
+20 Through 15, [CEQA CASE]
+
+21 Respondents,
+
+22 SAN PEDRO VALLEY, LLC, FRANCES E.
+23 CHRISTEN TRUST, and DOES 16 Through
+
+24 30,
+
+25 Real Parties in Interest.
+
+26
+
+27
+
+28
+
+INTRODUCTION
+
+3 1. On June 22, 2020, the City Council of the City of Pacifica ("City") approved an
+
+4 application of San Pedro Valley, LLC on property owned by the Frances E. Christen Trust for
+
+5 demolition of an existing single-family residence, detached garage, and barn, and construction
+
+6 of a 1,753 square-foot, two-story single-family residence, a 236 square-foot detached garage,
+
+7 and a 216 square-foot carport on a 3,516 square foot-lot at 277 Kent Road ("Project"). The
+
+8 applicant is also developing property at 1300 Danmann Ave, which is contiguous with and has
+
+9 been merged with the parcel for the project. The parcel for the proposed Project ("277 Kent
+
+10 Parcel") is a sub-standard lot that was merged with the 1300 Danmann Parcel in 1985. The
+
+11 1300 Danmann Ave Parcel is being concurrently proposed for a mixed-use development
+
+12 consisting of commercial development and an additional six residential uses that has been
+
+13 approved by the Planning Commission is on appeal to the City Council.
+
+14 2. Respondents determined that the Project is not subject to the California
+
+15 Environmental Quality Act ("CEQA"-Pub. Resources Code § 21000 et seq.) claiming that the
+
+16 Project is categorically exempt from CEQA under Sections 15303 "New Construction or
+
+17 Conversion of Small Structures."
+
+18 3. Petitioners Pedro Point Community Coalition and Allison West ("Petitioners")
+
+19 challenge the approval of the Project and adoption of the Categorial Exemption under CEQA
+
+20 because the Project does not fall within the scope of these exemptions. See Save Our Big Trees
+
+21 V. City of Santa Cruz (2015) 241 Cal.App.4th 694, 707; Mountain Lion Foundation v. Fish &
+
+22 Game Com. (1997) 16 Cal.4th 105, 125; Wildlife Alive v. Chickering (1976) 18 Cal.3d 190,
+
+23 205. More importantly, the City piecemealed the project because the applicant is proposing the
+
+24 Project and has proposed further development on the 1300 Dannman Parcel. CEQA requires
+
+25 agencies to analyze "the whole of an action, which has a potential for resulting in either a
+
+26 direct physical change in the environment, or a reasonably foreseeable indirect physical change
+
+27 in the environment... ." § 14 Cal. Code Regs. § 15378(a). If the whole of the action is
+
+28 considered, the Project does not qualify for the claimed exemption. Furthermore, the Project
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+2
+
+violates the Subdivision Map Act and the Pacifica City Code in that the 277 Kent Parcel is not
+
+2 a separate legal parcel because it was merged with the parcel located at 1300 Danmann.
+3 4. On July 10, 2020, the City staff purportedly filed a Notice of Exemption, and,
+
+4 pursuant to Public Resources Code Section 21167, this action was filed within 35 days thereof.
+
+5 However, while Petitioner Allison West requested a copy of the Notice of Exemption, the City
+
+6 could only produce an unexecuted copy of the Notice of Exemption that is dated July 10, 2020
+
+7 and the City represented to Ms. West that the unexecuted version was the Notice of Exemption
+
+8 that was executed. Nonetheless, within 35 days of July 10, 2020, and this matter has been
+timely filed particularly in light of the Judicial Council's tolling of statute of limitations in
+
+10 these types of civil actions until August 3, 2020.
+
+11
+
+12 II
+
+13 PARTIES
+
+14 5. Petitioners hereby incorporate by reference Paragraphs 1 through 4 as if fully
+
+15 set forth herein.
+
+16 6. Pedro Point Community Coalition is an unincorporated association of residents
+
+17 and taxpayers of the City of Pacifica and the County of San Mateo. Petitioner Pedro Point
+
+18 Community Coalition has a strong interest in preservation of the environment, the coastal
+
+19 environment, and the character of the Pedro Point Community Coalition, and include residents
+20 affected by the Project and whose interests will be adversely affected by the violations of
+
+21 CEQA, the Subdivision Map Act and the City Code. Petitioner Pedro Point Community
+
+22 Coalition and its members submitted comments on the Project that addressed the lack of
+23 environmental review and violations of law before the Planning Commission and the City
+
+24 Council.
+
+25 7. Petitioner Allison West is an individual dedicated to the protection of the
+26 environment in the City of Pacifica and the County of San Mateo by participating in local
+
+27 environmental and land use policy and decision making. Petitioner Allison West is a resident a
+
+28 of the City of Pacifica and the County of San Mateo and is affected by the Project, and whose
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+3
+
+1 interests in preservation of the ecological integrity of the City and County will be adversely
+
+2 affected by the lack of environmental review under CEQA, violations of the Subdivision Map
+
+3 Act, and the Pacifica City Code, and by approval of the Project. Petitioner Allison West
+
+4 participated at public hearings, appealed the Project to the City Council, and submitted
+comments on the Project.
+
+6 8. Respondent City of Pacifica, through Respondent City Council of the City of
+
+7 Pacifica (collectively, "Respondents"), is a political subdivision of the State of California. On
+
+8 June 22, 2020, Respondents gave final approval to the Project and determined the Project to be
+categorically exempt from the provisions of CEQA.
+
+10 9. The true names and capacities, whether individual, corporate, or otherwise, of
+
+11 Does 1-15 are unknown to Petitioners who therefore sue said Respondents by such fictitious
+
+12 names and will seek leave to amend this Petition when their identities have been ascertained.
+
+13 10. Petitioners are informed and believe, and on that basis allege, that Respondents
+14 and each of them were the agents and employees of each of the remaining Respondents and
+
+15 while doing the things herein alleged, were acting within the course and scope of such agency
+
+16 and employment.
+
+17 11. Real Party in Interest, San Pedro Valley, LLC, is the applicant and properly
+
+18 named as a Real Party in Interest pursuant to Public Resources Code section 21167.6.5(a),
+
+19 which states Petitioners shall name as a Real Party in Interest any person or persons identified
+20 in the Notice of Exemption filed by Respondents.
+
+21 12. Real Party in Interest, Frances E. Christen Trust, is the owner of the 277 Kent
+
+22 Parcel.
+
+23 13. The true names and capacities, whether individual, corporate, or otherwise, of
+
+24 Does 16 through 30 are unknown to Petitioners who therefore sue said Real Parties in Interest
+
+25 by such fictitious names and will seek leave to amend this Petition for Writ of Mandamus
+
+26 when their identities have been ascertained.
+
+27 14. Petitioners are informed and believe that at all times herein alleged, Real Parties
+
+28 in Interest and each of them were the agents and employees of each of the remaining Real
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+4
+
+1 Parties in Interest and while doing the things herein alleged, were acting within the course and
+
+2 scope of such agency and employment.
+
+3
+
+4 TI
+
+5 STANDING
+
+6 15. Petitioners hereby incorporate by reference paragraphs 1 through 14 as if fully
+
+7 set forth herein.
+
+8 16. Approval of the Project will adversely affect the interests of Petitioner Pedro
+
+9 Point Community Coalition. Petitioner Pedro Point Community Coalition has a strong interest
+
+10 in the preservation of the environment. Members of Petitioner Pedro Point Community
+
+11 Coalition reside in the City of Pacifica and the County of San Mateo, and include residents
+
+12 affected by the Project and whose interests will be adversely affected by the violations of
+
+13 CEQA, the Subdivision Map Act and the City Code. Approval of the Project and adoption of
+
+14 an exemption from CEQA, the Subdivision Map Act and the City Code will adversely affect
+
+15 these interests of Pedro Point Community Coalition and its members. Petitioner Pedro Point
+
+16 Community Coalition was formed subsequent to Project approval. Its members have expressed
+
+17 their concerns and commented on the Project during the administrative proceedings wherein
+
+18 the Project was considered. Therefore, Petitioner Pedro Point Community Coalition has
+
+19 exhausted its administrative remedies and has standing pursuant to Public Resources Code
+20 Section 21177(c). Accordingly, Petitioner Pedro Point Community Coalition is an "aggrieved
+
+21 person" within the meaning of Public Resources Code § 21177. The claims asserted and relief
+
+22 requested are broad-based, so that participation in the litigation by individual members is not
+
+23 required.
+
+24 17. Approval of the Project will adversely affect the interests of Petitioner Allison
+
+25 West. Petitioner Allison West is a resident and taxpayer of the City of Pacifica and the County
+
+26 of San Mateo who is dedicated to preserving the environment of the City of Pacifica and the
+
+27 County of San Mateo as set forth, supra, and is concerned about maintaining the environmental
+28 integrity of the City of Pacifica and the County of San Mateo. Approval of the Project and
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+5
+
+adoption of an exemption from environmental review will adversely affect these interests of
+
+2 Petitioner Allison West. Petitioner Allison West has submitted comments on and objections to
+
+3 the lack of CEQA compliance and has participated at public hearings. Accordingly, Petitioner
+
+4 Allison West is an "aggrieved person" within the meaning of Public Resources Code Section
+
+21177.
+
+18. Jurisdiction of this Court is invoked pursuant to California Code of Civil
+
+7 Procedure §§ 1085 and 1094.5; California Public Resources Code § 21167; CEQA Guidelines
+§ 15112; the Constitution of the State of California; the Constitution of the United States; and
+
+9 other applicable laws and regulations.
+
+10 IV
+
+11 EXHAUSTION OF ADMINISTRATIVE REMEDIES
+
+12 19. Petitioners hereby incorporate by reference paragraphs 1 through 18 as if fully
+
+13 set forth herein.
+
+14 20. Petitioners have performed all conditions precedent to the filing of this Petition
+
+15 by themselves or others, raising each and every issue known to them before Respondents, in
+
+16 compliance with Public Resources Code § 21177, Code of Civil Procedure §§ 1085 and
+
+17 1094.5, and other applicable laws.
+
+18 21. Notice of the filing of this action as required by Public Resources Code cop
+
+19 21167.5 was mailed to Respondent on July 28, 2020. (Letter and Proof of Service are attached
+20 hereto as Exhibit "A.")
+
+21 V
+
+22 FIRST CAUSE OF ACTION
+
+23 Violation of the California Environmental Quality Act
+[Public Resources Code § 21000 et seq.]
+24 22. Petitioners hereby incorporate by reference paragraphs 1 through 21 as if fully
+25 set forth herein.
+26 23. Respondents' determination that the Project is categorically exempt from CEQA
+27 constitutes a prejudicial abuse of discretion because Respondents failed to a act in a manner
+28
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+6
+
+required by law when they determined the Project to be exempt from environmental review
+
+2 under the Class 3, "New Construction or Conversion of Small Structures" CEQA categorical
+
+3 exemption. The Project also includes the development of a mixed-use development located at
+
+4 1300 Danmann which includes the development of six additional residential units and
+
+5 commercial development. The interpretation of the exemption presents a question of law for
+
+6 the Court's independent review. Moreover, Respondents' factual determinations are not
+
+7 supported by substantial evidence.
+
+8 24. CEQA prohibits piecemeal environmental review because when an agency does
+
+9 so, it underestimates the environmental impacts of the overall action since each segment is
+
+10 analyzed in a vacuum without consideration of the other parts of the project that will also be
+
+11 approved. Precedent has long established that the environmental impacts of a project cannot be
+12 "submerged by chopping a large project into many little ones, each with a potential impact on
+
+13 the environment, which cumulatively may have disastrous consequences." See, Burbank-
+14 Glendale-Pasadena Airport Authority v. Hensler (1991) 233 Cal.App.3d 577, 592; Bozung v.
+
+15 Local Agency Formation Comm'n (1975) 13 Cal.3d 263, 274, 283-284; Orinda Ass'n v Board
+
+16 of Supervisors (1986) 182 Cal.App.3d 1145, 1171.
+
+17 25. A project is defined broadly in order to maximize environmental protection.
+
+18 City of Santee V. County of San Diego (1989) 214 Cal.App.3d 1438, 1452; McQueen v. Board
+
+19 of Directors of the Midpeninsula Regional Open Space District (1988) 202 Cal.App.3d 1136,
+20 1143 (disapproved on other grounds). A project must be defined and accurately described to
+
+21 ensure an "intelligent evaluation of the potential environmental effects of a proposed activity."
+
+22 Burbank Glendale Pasadena Airport Auth. v. Hensler, supra, 233 Cal.App.3d at 592 (citing
+
+23 McQueen V. Bd. of Directors, supra, 202 Cal.App.3d at 1143 44). "A narrow view of a project
+
+24 could result in the fallacy of division, that is, overlooking its cumulative impact by separately
+25 focusing on isolated parts of the whole." Id.
+
+26 26. The applicant is also developing property at 1300 Danmann Ave for commercial
+27 and residential development, which is contiguous with and has been merged with the parcel for
+28 the project. The parcel for the proposed Project (277 Kent Parcel") is a sub-standard lot that
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+7
+
+was merged with the 1300 Danmann Parcel in 1985. Since the 277 Kent Parcel and the 1300
+
+2 Danmann Parcel are one lot merged voluntarily in 1985, the project is one project for purposes
+
+3 of CEQA. Moreover, the 277 Kent and 1300 Danmann Parcels are threatened with coastal
+
+4 erosion and development will cause irreparable harm to the coastal environment.
+
+5
+
+6 VI
+
+7 SECOND CAUSE OF ACTION
+
+8 Violation of the Subdivision Map Act and the City Code [Government Code § 66410 et seq.; City Code § 10-1.1201(a)] 9
+
+10
+27.
+11 Petitioners hereby incorporate by reference Paragraphs 1 through 26 as if fully
+set forth herein.
+12
+28.
+13 The Project is part of a larger project ay 1300 Danmann that is separately on
+
+14 appeal to the City Council. The applicant is also proposing to develop the 1300 Danmann
+
+15 Parcel, which as stated supra, is contiguous with and has been merged with the parcel for the
+
+16 project. The 277 Kent Parcel is a sub-standard lot that was merged with the 1300 Danmann
+Parcel in 1985 through recorded notices of merger. The City and the applicant cannot undo 17
+
+18 what was already done by recordation. The City has essentially approved development on a
+
+19 substandard lot without approval pursuant to the Subdivision Map Act for the creation of this
+new substandard lot.
+20
+29.
+21 Assuming for the sake of argument that the lots were not previously merged, the
+
+22 277 Kent Parcel and the 1300 Danmann Parcel are required to be merged. City Code section
+
+23 10-1.1201(a) states:
+
+24 At least one of the affected parcels is undeveloped by any structure for which a building permit was issued, or for which a building permit was not required at the time
+25 of construction, or is developed only with an accessory structure or accessory structures, or is developed with a single structure, other than an accessory structure,
+26 which is also partially sited on a contiguous parcel or unit.
+
+27 The City is not only ignoring the notices of merger but did not correctly apply the City Code to
+28 require merger. The 1300 Danmann Parcel is undeveloped, except for perhaps a small
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+8
+
+1 accessory structure which requires merger pursuant to the City Code. Nevertheless, the parcels
+2 have already been merged voluntarily by the owner.
+
+3 30. The Respondents' failure to recognize the merger of the parcels was a failure to
+
+4 proceed in a manner required by law.
+
+5
+
+6 VII
+
+7 ATTORNEYS' FEES
+
+8 31. Petitioners hereby incorporate by reference paragraphs 1 through 30 as if fully
+
+9 set forth herein.
+
+10 32. In pursuing this action, Petitioners will confer a substantial benefit on the
+
+11 People of the State of California and therefore are entitled to recover from Respondents and
+
+12 Real Parties in Interest reasonable attorneys' fees and costs pursuant to California Code of
+
+13 Civil Procedure § 1021.5 and other provisions of the law.
+
+14
+
+15 VIII
+
+16 INJUNCTION
+
+17 33. Petitioners hereby incorporate by reference paragraphs 1 through 32 as if fully
+
+18 set forth herein.
+
+19 34. An actual controversy has arisen concerning Respondents' failure to comply
+
+20 with CEQA (Pub. Resources Code § 21000 et seq.), as set forth above.
+
+21 35. As a result of the above-alleged violations of CEQA, Respondents have failed to
+
+22 conduct adequate environmental review as required by law, and have violated the Subdivision
+
+23 Map Act and the City Code and, thus, have failed to proceed in a manner required by law in
+
+24 approving the Project.
+
+25 36. At all times mentioned herein, Respondents have been able to comply with
+
+26 CEQA, the Subdivision Map Act and the City Code, and prepare adequate environmental
+
+27 review, and comply with all relevant provisions of law. Notwithstanding such an ability,
+
+28 Respondents have failed and continue to fail to perform their duty to comply with CEQA, the
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+9
+
+Subdivision Map Act, the City Code, and all other relevant provisions of law.
+
+2 37. Petitioners are informed and believe, and on that basis allege, that Respondents
+
+3 are threatening to proceed with development of the Project in the near future. Said
+
+4 implementation of the Project will irreparably harm the environment and will result in
+
+5 significant and unmitigated adverse environmental impacts.
+
+6 38. Petitioners possess no speedy, adequate remedy at law, in that implementation
+
+7 and development in connection with the Project will permanently and forever harm, injure,
+
+8 degrade, and impact the environmental values of the City of Pacifica, the County of San Mateo
+
+9 and the State of California. Petitioners will suffer irreparable and permanent injuries if
+
+10 Respondents' actions described herein are not set aside.
+
+11 39. A stay and/or restraining order and preliminary and permanent injunction
+
+12 should issue restraining Respondents from proceeding with development of the Project.
+
+13 40. In order to preserve the status quo, a stay and/or restraining order and
+
+14 preliminary and permanent injunction should issue staying Respondents' approval of the
+
+15 Project and determination of exemption from environmental review.
+
+16
+
+17 PRAYER
+
+18 WHEREFORE, Petitioners pray for judgment as follows:
+
+19 1. For Alternative and Peremptory Writs of Mandate ordering Respondents to set
+
+20 aside the Project, including but not limited to City Council Resolution No. 41-2020 and any
+
+21 and all Project approvals;
+
+22 2. For an order staying Respondents or other Project applicants from engaging in
+
+23 any activity pursuant to the Project until Respondents perform environmental review and the
+
+24 Project complies with California statutes and regulations, including but not limited to the
+25 requirements of CEQA, the Subdivision Map Act and the City Code;
+
+26 3. For reasonable attorneys' fees, pursuant to California Code of Civil Procedure
+
+27 1021.5, and other provisions of the law;
+
+28 4. For costs of suit; and
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+10
+
+5. For such other and further relief as the Court may deem proper.
+
+2
+
+3
+
+4 Dated: July 28, 2020 Respectfully submitted,
+WITTWER PARKIN LLP
+5
+
+6
+
+7 By:
+William P. Parkin
+8 Attorneys for Petitioners
+PEDRO POINT COMMUNITY
+COALITION and ALLISON WEST
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+11
+
+1 VERIFICATION
+
+2 I, WILLIAM P. PARKIN, say:
+
+3 am Attorney of Record for the Pedro Point Community Coalition and Allison West,
+
+4 parties to this action.
+
+5 I have read the Petition for Writ of Mandamus and know the contents thereof. I am
+
+6 informed and believe that the matters therein are true and, on that ground, allege that the
+
+7 matters stated therein are true. This verification was not signed by a party to this action
+8 because the Pedro Point Community Coalition and Allison West are absent from the county
+
+9 where I have my office at the time this Petition for Writ of Mandamus was drafted and ready
+
+10 for filing. This verification was executed on July 28, 2020, in Aptos, California.
+
+11
+
+12
+
+13
+
+14 William P. Parkin
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+12
+
+EXHIBIT A
+
+Notice of Intent to Commence Litigation
+
+wittwer parkin
+
+July 28, 2020
+
+The Honorable Dierdre Martin and City Council
+City of Pacifica City of Pacifica City Hall
+170 Santa Maria Avenue
+Pacifica, CA 94044
+
+Re: Notice of Intent to Commence Litigation
+Dear Mayor Martin and Members of the Council:
+Pursuant to the requirements of Public Resources Code Section 21167.5, this letter will
+serve as notice that the Pedro Point Community Coalition and Allison West will commence
+litigation against City of Pacifica and the City Council of the City of Pacifica ("Respondents")
+by filing a Petition for Writ of Mandamus.
+This litigation challenges the actions of Respondents. Petitioner challenges the approval
+of an application of San Pedro Valley, LLC on property owned by the Frances E. Christen Trust
+for demolition of an existing single-family residence, detached garage, and barn, and
+construction of a 1,753 square-foot, two-story single-family residence, a 236 square-foot a
+detached garage, and a 216 square-foot carport on a 3,516 square foot-lot at 277 Kent Road
+(Resolution No. 41-2020). This litigation has been commenced, inter alia, because the actions
+listed in the preceding paragraph do not comply with the requirements of the California
+Environmental Quality Act (Public Resources Code § 21000 et seq.) because the approval of the
+Project is part of a much larger development on Pedro Point. The petition also alleges violations
+of the Subdivision Map Act and the City Code.
+
+Very truly yours,
+WITTWER PARKIN LLP
+
+William P. Parkin
+
+WITTWER PARKIN LLP / 335 SPRECKELS DR., STE. H - APTOS, CA 95003 / 831.429.4055
+
+WWW.WITTWERPARKIN.COM /LAWOFFICE@WITTWERPARKIN.COM
+
+PROOF OF SERVICE BY MAIL
+2
+
+3 certify and declare as follows:
+
+am over the age of 18 and not a party to this action. My business address is
+WITTWER PARKIN LLP, 335 Spreckels Drive, Suite H, Aptos, California which is located in
+
+7 Santa Cruz County where the mailing described below took place.
+
+8 am familiar with the business practice at my place of business for the collection and
+
+9 processing of correspondence for mailing with the United States Postal Service.
+10 Correspondence so collected and processed is deposited with the United States Postal Service
+11
+that same day in the ordinary course of business.
+12
+
+13 On July 28, 2020 the following document(s):
+
+14 1. NOTICE OF INTENT TO COMMENCE LITIGATION
+
+15 were placed for deposit in the United States Postal Service in a sealed envelope, with postage
+
+16 fully paid to:
+17 The Honorable Dierdre Martin and City Council
+18 City of Pacifica
+City of Pacifica City Hall
+19 170 Santa Maria Avenue
+
+20 Pacifica, CA 94044
+
+21 I certify and declare under penalty of perjury that the forgoing is true and correct. 22
+
+23
+Dated: July 28, 2020
+24
+
+25 Debbie Downing
+26
+
+27
+
+28
+
+PROOF OF SERVICE
+-2-
+
+NECEIVEN
+AUC U 3 2020
+BY:_.

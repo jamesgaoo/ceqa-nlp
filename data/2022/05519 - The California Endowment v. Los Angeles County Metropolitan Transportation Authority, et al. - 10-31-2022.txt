@@ -1,0 +1,1422 @@
+1 CHATTEN-BROWN, CARSTENS & MINTEER LLP
+
+2 Douglas P. Carstens, SBN 193439; dpc@cbcearthlaw.com
+Michelle N. Black, SBN 261962; mnb@cbcearthlaw.com
+3 Sunjana Supekar, SBN 328663; sss@cbcearthlaw.com
+
+4 2200 Pacific Coast Highway, Suite 318
+Hermosa Beach, CA 90254
+5 Tel: 310-798-2400
+
+6 Fax: 310-798-2402
+
+7 Attorneys for The California Endowment
+8
+
+9
+
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+11 FOR THE COUNTY OF LOS ANGELES
+
+12
+
+13
+
+14 THE CALIFORNIA ENDOWMENT, CASE NO.: 22STCP01030
+a Non-Profit Public Benefits Corporation, 15
+
+16 Petitioner, FIRST AMENDED PETITION FOR
+
+V. WRIT OF MANDATE
+17
+
+18 LOS ANGELES COUNTY
+METROPOLITAN TRANSPORTATION
+19 AUTHORITY, a Public Entity; and Does 1- Petition for Writ of Mandate Filed:
+
+20 10 March 22, 2022
+
+21 Respondent; Trial Date: January 6, 2023
+22 Judge: Hon. Mitchell L. Beckloff
+Dept: 86
+23
+
+24 AERIAL RAPID TRANSIT
+TECHNOLOGIES, LLC, a Delaware
+25 Limited Liability Company,
+26 Real Parties in Interest
+27
+
+28
+
+29
+
+30
+
+FIRST AMENDED VERIFIED
+1 PETITION FOR WRIT OF MANDATE
+
+1 Petitioner The California Endowment, a California Nonprofit Public Benefit
+2 Corporation ("The Endowment"), brings this Petition for a Writ of Mandate, seeking
+3 review and relief from the decisions of Respondent, Los Angeles County Metropolitan
+4 |Transportation Authority ("Metro") to approve, without public disclosure and/or
+5 involvement, a sole source determination to proceed with Real Party-in-Interest's Aerial
+
+6 Rapid Transit Technologies, LLC's ("ARTT"') unsolicited proposal for a multi-million
+7 dollar project involving the proposed use of aerial gondolas to transport individuals from
+
+8 the Forecourt of Union Station, over a public right of way, a metro line, Chinatown, a
+9 freeway, and multiple communities, to Dodger Stadium (the "Gondola Project" or
+10 "Project"). Following Metro's sole source determination, it entered into a Memorandum of
+
+11 Agreement ("MOA") that restricted its ability to examine competitive proposals through
+12 an exclusive negotiating agreement ("ENA") clause. Such sole source approval and ENA
+13 restrictions were taken in violation of Metro's own stated policies and procedures, which in
+14 turn implement state competitive bidding laws, and, therefore, should be reversed through
+15 this Petition brought pursuant to California Code of Civil Procedure 1085.
+16
+
+17 A. PRELIMINARY STATEMENT
+
+18 1. This Petition involves the determination by Metro to fast track for sole
+19 source approval, a multi-million-dollar Gondola Project proposed by ARTT (which was
+20 created by McCourt Global which is, in turn, owned by Frank McCourt, the former owner
+
+21 of the Los Angeles Dodgers) in direct violation of Metro's own Unsolicited Proposals
+22 Policy (UPP"). Compounding that violation, Metro's unsupported sole source
+23 determination enabled this Project to move forward without being subject to the
+24 competitive bidding requirements necessary for all significant public transportation
+25 projects. Most importantly, all of these critical actions in matters of vital public interest,
+26 were taken administratively, without public knowledge, oversight and/or involvement-
+27 and all in direct violation of Metro's own procurement policies. Absent immediate judicial
+28 review, these initial determinations_which set the course for a major investment of tax-
+
+29 payer funds and direct impacts on the local community, service providers, and property
+30 owners (including The Endowment)-will not be reviewable even as the Gondola Project
+
+FIRST AMENDED VERIFIED
+2 PETITION FOR WRIT OF MANDATE
+
+1 proceeds towards the entitlement/construction phase. As such, The Endowment-who has
+2 a direct and beneficial interest in this Gondola Project and the surrounding land-seeks
+3 judicial review of Metro's arbitrary and capricious decision to pursue the Gondola Project
+
+4 in violation of Metro's own regulations. Further, because the Endowment seeks to protect
+5 the interests of its community, and to ensure that local agencies (like Metro) comply with
+6 their own laws, the Endowment is beneficially interested and legally permitted to bring
+7 this action.
+
+8 2. Making Metro's actions even more suspect is the absolute dearth of
+9 publicly available information about the Gondola Project and Metro's determination to
+10 pursue it. Indeed, while some members of the public may have heard about the Gondola
+11 Project in December 2019, Metro's sole source determination through the Office of
+12 Extraordinary Innovation was not disclosed to the public. The Endowment itself was
+13 unaware of its existence until September 2021 and only after The Endowment and other
+14 organizations sought records regarding the Gondola Project. The Gondola Project,
+15 therefore, appears to have all the earmarks of a clandestine, sweetheart deal, carefully
+16 sidestepping the significant public engagement, outreach and transparency required of all
+17 Metro public transportation projects while simultaneously avoiding the scrutiny and
+18 competitive bidding required of private projects. By fast-tracking and sole-sourcing a
+19 multi-million-dollar aerial tram through Metro's "Office of Extraordinary Innovation"
+20 ("OEI") Metro deprived the public of knowledge and input regarding the Gondola Project
+
+21 as it proceeded through Metro's internal review process.
+22 3. Because no immediate and adequate relief is available, and because
+23 there are no administrative remedies to exhaust, The Endowment asks this Court to issue
+
+24 a writ of mandate compelling Metro immediately to halt its work on the Gondola Project,
+25 including all Metro staff support provided in its role as lead agency for the Project, and to
+26 terminate its sole source contract with ARTT. At a bare minimum, the determination that
+27 the Gondola Project could proceed as a sole source project must be revisited and reversed,
+28 thereby ensuring that the Gondola Project will be subject to public review, oversight and a
+29 competitive bidding process.
+30
+
+FIRST AMENDED VERIFIED
+3 PETITION FOR WRIT OF MANDATE
+
+1 B. GENERAL ALLEGATIONS
+
+2 1. The Parties
+
+3 4. Petitioner The California Endowment ("The Endowment") is a
+4 nonprofit public benefit corporation organized under the laws of the State of California.
+5 The Endowment was created in 1996 as a private foundation dedicated to expanding
+
+6 access to affordable quality health care for underserved individuals and communities and
+7 promoting fundamental improvement in the health of all Californians. The Endowment,
+
+8 furthers its mission to promote greater health and racial equity by awarding grants to
+9 non-profit organizations located in communities throughout California. The Endowment's
+10 headquarters are located at 1000 N. Alameda St., Los Angeles, California (the "The
+11 Endowment Headquarters"). At this location The Endowment's staff distributes over 1500
+12 grants to charitable organizations each year, provides below-market office space to local
+13 non-profit organizations that serve the greater Los Angeles community, and most
+14 importantly, through The Endowment's Center for Healthy Communities, provides
+15 essential meeting, convening and conference space free of charge, to nonprofit
+16 organizations, grantees and public sector partners who bring together hundreds of people
+17 to work together and further their community-based goals. Every year, The Endowment
+18 welcomes over 150,000 guests to its campus. In 2019, The Endowment's Center for
+
+19 Health Communities hosted over 500 Grantee conferences, 700 Government conferences,
+20 and 800 non-profit organizational conferences. Thus, The Endowment Headquarters and
+
+21 campus serves as a crucial anchor point for the Los Angeles nonprofit community, where
+22 hundreds of individuals travel to and gather on a daily basis to use The Endowment's
+23 parking lot, office space, and conference center.
+
+24 5. Respondent Los Angeles County Metropolitan Transportation
+25 Authority ("Metro") is the public entity charged with overseeing public transportation
+26 projects in Los Angeles County and in the City of Los Angeles.
+27 6. Real Party-in-Interest Aerial Rapid Transit Technologies, LLC
+
+28 ("ARTT") is a limited liability company organized under the laws of Delaware in March
+29 2018 and registered in California in February 2019. McCourt Global, LLC is its member,
+30 and Frank McCourt signed the most recent Statement of Information filed on ARTT's
+
+FIRST AMENDED VERIFIED
+4 PETITION FOR WRIT OF MANDATE
+
+1 behalf with the California Secretary of State. ARTT is seeking, through the project
+2 described herein, the ability to pursue the Gondola Project in Los Angeles County.
+
+3 7. The fictitious Respondents named as Does 1 through 10 are sued
+4 pursuant to the provisions of California Code of Civil Procedure section 474. The
+5 Endowment is ignorant of the true names and capacities, whether individual, corporate,
+6 associate or otherwise, of such Respondents. The Endowment is informed and believes,
+7 and thereon alleges, that each such fictitious Respondent is responsible for the decisions to
+
+8 proceed with the Project. When the true names of such fictitious Respondents and, as
+9 appropriate, their responsibility for, participation in and contribution to the matters and
+10 things herein alleged, or their respective interests in the subject real property, if any, are
+11 ascertained, The Endowment will seek leave to amend this Petition to insert the same.
+12 2. Factual and Legal Background to Metro's Competitive
+
+13 Bidding Policies Relevant to the Gondola Project
+14 8. Metro, as a government agency charged with providing public
+15 transportation for the residents of Los Angeles County, is a major purchaser of large-scale
+16 construction projects. As a government agency, Metro has adopted numerous policies to
+17 address how it pursues these projects.
+18 9. As a state agency responsible for the expenditures of large amounts of public
+19 funds, Metro is subject to various competitive bidding laws both at the state and local
+20 level. Because it is recipient of federal transit funding, it must also comply with federal
+21 competitive bidding guidance promulgated by the Federal Transit Agency ("FTA") to
+22 remain eligible for federal funding. Statutes and ordinances that authorize or
+23 require competitive bidding in the letting of public contracts ordinarily serve the purpose
+24 "of inviting competition, to guard against favoritism, improvidence, extravagance, fraud
+25 and corruption, and to secure the best work or supplies at the lowest price practicable.'»
+26 (Domar Electric, Inc. V. City of Los Angeles (1994) 9 Cal.4th 161, 173.)
+27 10. For example, Public Utilities Code section 130051.22(b) mandates, for public
+28 projects, Metro shall require prospective bidders to submit a prequalification standardized
+29 questionnaire and financial statement pursuant to Public Utilities Code Section 20101
+30 subdivision (a).
+
+FIRST AMENDED VERIFIED
+5 PETITION FOR WRIT OF MANDATE
+
+1 11. Public Utilities Code section 22002 (c) defines "public project" to include:
+2 Construction, reconstruction, erection, alteration, renovation, improvement, demolition,
+
+3 and repair work involving any publicly owned, leased, or operated facility.
+
+4 12. The Administrative Code of the Los Angeles County Metropolitan
+5 Transportation Authority, enacted pursuant to the above Public Utilities Code
+
+6 includes the following sections: Section 4-05-050 which requires a Pre-Qualification
+7 Questionnaire and establishes minimum information requirements for that questionnaire;
+
+8 section 4-05-060, "Completion of Pre-Qualification Questionnaire" states: "Except as
+9 otherwise exempted by this chapter, each business entity seeking a contract with the MTA
+10 which, at the time of initial award, is reasonably expected to exceed the contract value
+11 threshold shall complete a pre-qualification questionnaire..." ARTT did not complete such
+12 a pre-qualification questionnaire.
+
+13 13. Metro is a recipient of federal funding from the Federal Transit Authority.
+14 As such, Metro must certify compliance with FTA's policies regarding procurement,
+15 including policies related to unsolicited proposals and sole source contract awards. FTA
+16 published Guidance for recipients of funding in FTA Circular 4220.1. FTA Circular 4220.1
+17 sets forth requirements that include the process for review of unsolicited proposals and for
+18 exceptions to competitive bidding (sole source awards). Chapter VI of FTA Circular 4220.1
+19 addresses these. The requirements in the FTA Circular are reflected, often verbatim, in
+20 Metro's Unsolicited Proposal Policy and its Acquisition Policy and Procedure Manual.
+
+21 14. Metro's Acquisition Policy and Procedure Manual cites various California
+22 statutes as basis for its policies and procedures.
+
+23 15. Among the statutes cited in Metro's Acquisition Policy and Procedure Manual
+24 is Public Utilities Code section 130232. This section states contracts "shall be let to the
+25 lowest responsible bidder when the purchase price of the construction of all facilities
+26 exceeds twenty-five thousand dollars ($25,000). (2) The authority shall obtain a minimum
+27 of three quotations, either written or oral, that permit prices and terms to be compared
+28 whenever the expected expenditure required exceeds three thousand dollars ($3,000), but
+29 not one hundred fifty thousand dollars ($150,000)."
+30
+
+FIRST AMENDED VERIFIED
+6 PETITION FOR WRIT OF MANDATE
+
+1 16. Public Contract Code sections 10335, 10339, and 10340 also contain
+2 competitive bidding requirements for public contracts.
+
+3 17. First promulgated in 2016 and revised in 2018, Metro has an
+4 Unsolicited Proposals Policy, a true and correct copy of which was attached to the Original
+
+5 Petition as Exhibit A. An Unsolicited Proposal is a written proposal that is submitted to
+6 Metro on the initiative of the submitter to develop a partnership that is not in response to
+7 a formal or informal request issued by Metro.
+
+8 18. Additionally, Metro has publicly available Acquisition Policy and
+9 Procedure Manual (the "Acquisition Policy") first issued in 2010. A true and correct copy
+10 of the Acquisition Policy was attached to the Original Petition as Exhibit B.
+
+11 19. Within Metro, there exists the Office of Extraordinary Innovation
+12 ("OEI"), which allows collaboration between Metro and the private sector to facilitate
+13 innovative projects. OEI acts as the evaluator of these projects and evaluates unsolicited
+14 proposals for technical and/or financial merit. OEI evaluates unsolicited proposals through
+15 a two-phase process. The first phase ("Phase I") reviews the proposal for conceptual
+
+16 merit, applying a long list of factors laid out in the Unsolicited Proposals Policy. (Exh. A,
+17 pp. 4-5). In Phase I, OEI, in cooperation with Metro Vendor/Contract Management
+18 (collectively the "Review Team"), first does a threshold review to determine
+19 whether the proposal meets the gating requirements of an unsolicited proposal and if the
+20 proposal meets the threshold requirements. Then the Review Team reviews the conceptual
+21 proposal against several factors, including but not limited to whether the proposal offers
+22 direct or anticipated benefits to Metro, its passengers and the community, and whether
+23 the proposal a satisfies a need for Metro that can be reasonably accommodated in Metro's
+24 annual long-term capital and operating budgets without displacing other planned
+25 expenditures, without placing other committed projects at risk, and without significantly
+26 increasing the cost of the proposed items.
+27 20. If a project satisfies all Phase I project evaluation criteria, it proceeds
+28 to the second phase ("Phase II"). (Exh. A, Unsolicited Proposals Policy, pp. 5-7). In
+29 Phase II, OEI receives more detailed technical and financial information to further
+30 evaluate the proposal. In evaluating the project, the Review Team considers the relative
+
+FIRST AMENDED VERIFIED
+7 PETITION FOR WRIT OF MANDATE
+
+1 costs and benefits of the proposal regarding improving mobility and accessibility in LA
+2 County, in addition to other factors. Then the Review Team will make a recommendation
+
+3 on the disposition of the detailed proposal to Metro's CEO for review and approval. If the
+4 Board of Directors' approval is required, the proposer will be notified of the date of the
+5 meeting when the proposal will be discussed. At the conclusion of this Phase II, Metro will
+
+6 decide whether to forego the proposal, to proceed to a sole source agreement, or to pursue a
+7 competitive solicitation. The proposal may not proceed to contract negotiation until Metro
+8 completes the steps above.
+9 3. The Gondola Project Proponent's Background, Purpose,
+10 and Alleged Special Relationship with the Dodgers.
+11 21. The Gondola Project is proposed by ARTT. One of the primary, if not the
+12 primary, justification provided by Metro for determining a sole source award contract was
+13 appropriate is an alleged special relationship between ARTT and the Dodgers baseball
+14 organization. To understand this alleged special relationship, background facts are
+15 necessary.
+16 22. ARTT was formed a as a Delaware corporation in March 2018. One month
+17 later, ARTT submitted a proposal for the gondola project in April 2018.
+18 23. ARTT was formed by McCourt Global, which is controlled by Frank McCourt
+
+19 ("McCourt"). McCourt Global also owns or controls a 50% interest in the parking lots
+20 around Dodger Stadium.
+
+21 24. The land surrounding Dodger Stadium, known as Chavez Ravine, represents
+22 a large financial opportunity for the owner if developments are made. Currently, it is used
+23 for surface parking, and the company proposing the gondola Los Angeles Aerial Rapid
+24 Transit makes no mention of future development plans. But McCourt has long had
+25 plans for an ambitious retail and entertainment complex around the stadium.
+
+26 25. Those plans are evident in McCourt's "Next 50" plan, which was unveiled
+27 when he owned the Dodgers. McCourt failed to secure funding for "Next 50,' but the
+28 agreements revealed in the bankruptcy proceeding are still in force and provide insight
+29| into the relationship between the proposed gondola, McCourt's plans to develop the
+30 parking lots around Dodger Stadium, and the future of Chavez Ravine.
+
+FIRST AMENDED VERIFIED
+8 PETITION FOR WRIT OF MANDATE
+
+1 26. The gondola project makes little or no sense economic sense without a major
+2 development at Dodger Stadium, which a gondola could facilitate. There are only 81 home
+3 games in the regular baseball season. a And even adding a maximum of 12 post-season
+
+4 games, a couple of exhibition games, a maximum of four special events a month permitted
+5 under the Conditional Use Permit issued by the City of Los Angeles for the stadium, and
+6 the Los Angeles Marathon, at most the gondola is likely to be used at or near capacity on
+7 only 144 days per year. Unless, that is, the Dodger Stadium parking lots are developed as
+
+8 an entertainment, retail, and hospitality district like L.A. Live as Frank McCourt has long
+
+9 envisioned.
+
+10 27. In 2004, McCourt bought the Los Angeles Dodgers from Newscorp for $430
+11 million. The purchase was financed primarily with loans, with over a third of the purchase
+12 price lent directly from Newscorp. At the time of McCourt's purchase, no specific plans for
+13 development of the parking lots surrounding the stadium were made public. However, on
+14 April 25, 2008, McCourt unveiled a sprawling development plan for the stadium itself and
+15 the surrounding lots. Marketed as the "Next 50" plan, the proposed development was
+16 slated a to include a Dodger museum, a Dodger retail store, office space, and two new
+17 parking structures. In addition, the project was advertised as a green initiative, including
+18 the addition of 2,000 trees in the area around the stadium. The development was expected
+19 to cost $500 million, more than McCourt's purchase price for the team.
+
+20 28. The "Next 50" plan would have turned the stadium into a retail and a
+21 entertainment venue to attract customers outside of game times, expanding the use of
+22 Dodger Stadium beyond baseball. Photographs of McCourt presenting a scale model of
+23 development plans at a press a conference beside then Mayor of Los Angeles Antonio
+24 Villaraigosa showed the proposed changes, including large, terraced plazas lined with
+25 trees and new buildings outside of the stadium. McCourt's planned development was
+26 designed to make use of the parking lots surrounding the stadium to increase the
+27 economic productivity of the land and turn Chavez a Ravine into a year-round destination.
+
+28 29. As part of his plans for the "Next 50" development, McCourt discussed a
+29 desire to connect Dodger Stadium to public transit, saying he "hoped local leaders would
+30 'tweak and adjust subway lines' to add a Dodger Stadium stop and provide bus access in
+
+FIRST AMENDED VERIFIED
+9 PETITION FOR WRIT OF MANDATE
+
+1 the interim." Then city council member Ed Reyes further endorsed connecting the
+2 development to new public transit lines, saying that the "renovation hopefully can
+3 stimulate a whole new transit system that gets us in and out of this great place.' In
+
+4 developing plans for his additions to Dodger Stadium and the surrounding land, McCourt
+5 clearly identified expanded public transit options as increasing potential visitors as well as
+6 revenue in new retail and entertainment destinations.
+
+7 30. Under McCourt's ownership the Dodgers fell deep into debt, ultimately filing
+8 for bankruptcy on June 27, 2011. In addition to bankruptcy court conflicts with Major
+9 League Baseball, McCourt was ordered to pay $150 million in a divorce settlement. The
+10 "Next 50" development never materialized, as McCourt failed to secure funding.
+
+11 31. McCourt was very resistant to selling the Dodgers, and only agreed to a sale
+12 in November 2011 after a series of long court battles. After several rounds of negotiations,
+13 a group led by Magic Johnson and financed by Guggenheim Partners won the bid to
+14 purchase the Dodgers for $2 billion. As part of the deal, Guggenheim Partners entered into
+15 a venture with a McCourt entity to jointly own the stadium parking lots.
+16 32. The terms of the parking lot sale and any potential future development of the
+17 land around the stadium were filed under court seal as part of the supplement to the
+18 Dodger's chapter 11 bankruptcy plan on April 6, 2012 in United States Bankruptcy Court
+19 for the District of Delaware, case number 11-12010 (KG). With nine sections totaling 139
+20 pages, the exhibit is titled the "Declaration of Covenants, Conditions, Restrictions, and
+21 Easements for Chavez Ravine," consisting of 93 pages of terms and agreements relating to
+22 the current usage and future development of Chavez Ravine. The exhibit was
+23 subsequently recorded by the Los Angeles County Recorder's Office, so it runs with the
+24 land at Dodger Stadium.
+
+25 33. The exhibit shows that Guggenheim Partners pays $14 million a year to the
+26 McCourt entity Blue Landco LLC to rent the stadium parking lots. The document also
+27 details possible future developments that "may include, but are not limited to (i) office
+28 buildings, (ii) hotel and exhibition facilities, (iii) residential buildings, (iv) medical
+29 buildings, (v) academic buildings, (vi) parking structures, and/or (vii) retail, dining, and
+30 entertainment facilities." The document includes a provision stating that Guggenheim
+
+FIRST AMENDED VERIFIED
+10 PETITION FOR WRIT OF MANDATE
+
+1 Partners agrees "to cooperate with Landco, and to take all steps reasonably requested by
+2 Landco, in connection with the general plan of improvement and development of the
+3 Landco Parcels," and "not to oppose, or to interfere in any fashion (including, without
+4 limitation, by speaking out at public hearings) with any efforts by Landco to complete
+5 development of the Landco Parcels." This provision effectively grants Landco the sole
+
+6 discretion to develop the stadium parking lot lands, including with such projects as the
+7 Gondola Project station at Dodger Stadium. ARTT, which did not exist at the time of the
+8 Declaration of Covenants, Conditions, Restrictions, and Easements for Chavez Ravine
+
+9 (CCR's), has no role and is given no rights in these CCR's.
+10 34. Although McCourt and Guggenheim Partners claimed at the time of the sale
+11 that they did not have plans for development in the immediate future, McCourt's attorney
+12 said that the document outlining potential plans was created to keep possibilities for
+13 development open. The document includes an agreement with Guggenheim Partners for a
+14 99-year lease of the land with the Landco LLC half-owned by McCourt. The agreement
+15 states that the parking lots contain 19,000 parking spaces, and that any reduction of the
+16 number of parking spaces below 16,500 must be approved by Major League Baseball and
+
+17 the City of Los Angeles.
+18 35. An additional section of the CCRs (section 5.1.2), however, provides a
+19 workaround for this provision that is especially significant in light of McCourt's/ARTT's
+20 proposed gondola. It states that with City of Los Angeles and stadium owner approval, "In
+21 connection to any Mass Transportation…Landco shall have the right to provide less than
+22 the 16,500 Required Parking Spaces." (Emphasis added.) This would allow for
+23 developments in the parking lots that could significantly reduce the number of parking
+
+24 spaces if the developments were completed after or concurrent with the addition of a mass
+25 transit connection to Dodger Stadium. Under this agreement, construction of a gondola to
+26 the stadium from Union Station could enable McCourt's vision for additional development
+27 in Chavez Ravine to be realized. At the same time, it would displace parking spots and
+28 contribute to more traffic and parking challenges in and around Chinatown and Union
+29 Station.
+
+30
+
+FIRST AMENDED VERIFIED
+11 PETITION FOR WRIT OF MANDATE
+
+1 36. McCourt Global's website at one point trumpeted its ownership interest in
+2 the 260-acre Chavez a Ravine land as a "current real estate project" through at least
+
+3 October 2021, though that statement appears to have been removed from the website once
+4 the company began facing significant opposition to its proposed gondola project.
+
+5 37. On April 26, 2018, Aerial Rapid Transit Technologies LLC submitted an
+6 unsolicited proposal to Los Angeles County Metropolitan Transportation Authority for an
+7 aerial gondola from Union Station to Dodger Stadium that it calls Los Angeles Aerial
+
+8 Rapid Transit or "LA ART." LA ART was founded by Drew McCourt, Frank McCourt's son.
+
+9 The company at one time claimed that the estimated $125 million project will be privately
+10 funded by Frank McCourt's investment firm and others.
+
+11 38. According to LA ART, each gondola cabin will hold 30 to 40 people and the
+12 system will be able to move up to 5,000 people per hour to or from the stadium. LA ART
+13 claims, without any documentation, that the gondola will take 3,000 cars off of
+14 neighborhood streets and reduce traffic on the 110 freeway before and after Dodger games.
+15 Current plans show gondola cars suspended from cables 150 to 175 feet above the ground
+16 from Union Station to Dodger Stadium with an intermediate station at Los Angeles State
+17 Historic Park adjacent to Chinatown.
+18 39. The Los Angeles Times noted that even though the Gondola project director
+
+19 Martha Welborne (formerly Metro's Chief Planning Officer before becoming ARTT's
+20 gondola project director) claimed no future development was planned as of 2018, "]enders
+
+21 might be more receptive to finance a gondola that goes to Dodger Stadium 365 days a year
+22 rather than just on 81 home-game dates."
+23 40. In essence, the Gondola Project is a proposed as a loss leader for the future
+24 development of parking lots at Dodger Stadium.
+
+25 41. The Gondola Project makes no economic sense on its own merits, but it does
+
+26 make sense as a necessary part of a larger development scheme. Because the Gondola
+27 Project does not pencil out on its own economics, it did not qualify for a sole source
+28 determination from Metro, and there is no substantial evidence to justify such a
+29 determination. Because the Gondola Project is not economically feasible and could not be
+30 absorbed by the Metro Budget, it fails the threshold requirement of a public/private
+
+FIRST AMENDED VERIFIED
+12 PETITION FOR WRIT OF MANDATE
+
+1 partnership and should not have qualified for sole source determination from Metro.
+2 There is no evidence to justify such a determination.
+
+3 4. The Gondola Project Background
+
+4 42. On April 25, 2018, ARTT submitted the Gondola Project to Metro as an
+5 unsolicited proposal through Metro's OEI and declared it a privately funded public
+6 transportation project. A true and correct of this unsolicited proposal was attached to the
+7 Original Petition as Exhibit C.
+
+8 43. One day later, on April 26, 2018, Metro confirmed that it received ARTT's
+9 Unsolicited Concept Proposal, and committed to completing review of the proposal within
+10 a 60-day period.
+
+11 44. Metro was aware that a proposed gondola system was not in itself a novel
+12 idea. The Metro Library shared a KPCC article that emphasized the proposed Project is
+13 not novel. The article begins: "The company behind the proposal wants to create a zero-
+14 emission transit line up to Dodger Stadium. It's not the first time the idea has come up.'
+15 KPCC reported that the gondola "isn't brand new technology, it's been implemented a
+16 number of different places." Further, "it's not an original idea. Back in 1990, the Los
+17 Angeles County Transportation Commission released the Dodger Stadium Transit Access
+18 Study, which explored ideas like pedestrian escalators, a shuttle bus service and a
+
+19 gondola."
+
+20 45. On April 27, 2018, internal Metro emails noted the Gondola proposal
+
+21 as originating from the Mayor's office, and the 1990 Dodger Stadium Transit Access
+22 Study that included a gondola.
+
+23 46. Before completing this review, in May 2018, Metro published its revised
+24 Unsolicited Proposals Policy.
+25 47. Shortly thereafter, on June 11, 2018, Metro responded and notified ARTT
+
+26 that the Gondola Project would proceed to Phase II. Metro further noted that
+27 if it implemented the Phase II proposal, that this proposal could support a Request for
+28 Proposal ("RFP") for a competitive procurement, a sole source agreement, or some other
+29 arrangement depending on Metro's role and relationship to the Gondola Project.
+30 48. On August 10, 2018, Metro sent a Request for Information about the
+
+FIRST AMENDED VERIFIED
+13 PETITION FOR WRIT OF MANDATE
+
+1 Gondola Project to ARTT.
+
+2 49. ARTT responded to this request on September 26, 2018. A
+3 true and correct copy of this response was attached to the Original Petition as Exhibit D.
+4 50. Without providing any notice to the public or opportunity for public review,
+
+5 on October 11, 2018, less than six months after the receipt of the unsolicited proposal,
+6 Metro determined that this multimillion-dollar public transportation project met Metro's
+7 criteria for a sole source determination instead of circulating the Gondola Project in
+8 compliance with Metro's normal competitive bidding procedures. Metro's determination
+
+9 letter was attached to the Original Petition as Exhibit E. In so doing, Metro also
+10 acknowledged that it would enter into exclusive negotiations for the Gondola Project with
+
+11 ARTT.
+
+12 51. Metro and ARTT executed a Letter of Intent ("LOI") for the Gondola
+13 Project on October 31, 2018.
+
+14 52. On December 3, 2018, the Chief of OEI sent a letter to
+15 Metro's Board of Directors notifying the Board of Metro's decision to close the Unsolicited
+16 Proposal process and to proceed with exclusive negotiations with ARTT under the signed
+17 LOI.
+
+18 53. On April 26, 2019, Metro and ARTT entered into a Memorandum of
+19 Agreement between Los Angeles County Metropolitan Transportation Authority and
+20 Aerial Rapid Transit Technologies LLC (the "Metro MOA"). A copy of the Metro MOA was
+
+21 attached to the Original Petition as Exhibit F. From the first submittal of the Unsolicited
+22 Concept Proposal to execution of LOI, Metro took less than six months to move forward on
+23 the Gondola Project, and then six months to determine the Gondola Project could be sole
+
+24 sourced. No Metro Board meeting was held to consider or approve this sole source
+25 determination.
+
+26 54. It was not until December 2019, long after Metro had already awarded
+27 ARTT a sole source agreement, when The Endowment first learned of the existence of the
+28 Gondola Project. The Endowment received a preliminary presentation about the project
+29 from ARTT's representative, Ms. Cindy Starrett of Latham & Watkins. It was then when
+30 The Endowment was first made aware that ARTT planned to erect an enormous tower
+
+FIRST AMENDED VERIFIED
+14 PETITION FOR WRIT OF MANDATE
+
+1 (subsequently revealed to be 195 feet in height) in the City right-of-way on Alameda
+2 Triangle immediately adjacent to The Endowment Headquarters. The Endowment's
+3 request for further information and details about the towers, the route, and the impact of
+4 the project was denied by ARTT unless The Endowment was willing to sign a non-
+5 disclosure agreement, which included a commitment to not oppose the project. The
+6 Endowment respectfully declined to waive this right without a comprehensive
+7 understanding of the Gondola Project and its social, economic, and environmental impacts
+
+8 on the surrounding communities.
+
+9 55. Since 2019, The Endowment has met with Metro many times to
+10 request additional details on matters of vital interest to the surrounding community and
+11 public including but not limited to the Gondola Project's scope, use of public property and
+12 right of way; community impact, including community displacement, safety, pollution,
+13 traffic, and parking; cost, including passenger ticket fees, maintenance, operation, and
+14 interface with Metro. Unfortunately, in response, Metro and ARTT have provided only
+15 general "back of the envelope" information claiming that more detailed information,
+
+16 essential to determine Project viability, is "in process" and allegedly unavailable. (See
+17 Letter from Metro to The California Endowment dated September 9, 2021, which was
+18 attached to the Original Petition as Exhibit G). As described further below, this is
+19 concerning because pursuant to the Unsolicited Proposals Policy, project viability must be
+20 determined--prior to making a sole source determination or proceeding with contract
+21 negotiation. (Exh. A, Unsolicited Proposals Policy, p. 6-7; 9). This failure to comply with
+22 Metro's internal policies coupled with the lack of transparency surrounding the Gondola
+23 Project has been a longstanding concern expressed by The Endowment and by similarly
+24 concerned community stakeholders.
+
+25 56. On October a 1, 2020, Metro issued a Notice of Preparation for an
+26 environmental impact report under the California Environmental Quality Act for the
+27 Gondola Project.
+
+28 57. On June 24, 2021, The Metro Board approved a motion
+29 by Directors Solis, Kuehl, Mitchell, Butts, Sandoval, and Garcetti ("the Unintended
+30 Consequences Motion") that the Board of Directors direct the Chief Executive Officer to
+
+FIRST AMENDED VERIFIED
+15 PETITION FOR WRIT OF MANDATE
+
+1 report back in July 2021 with an update again in August 2021 with a final report that
+2 includes the following:
+
+3
+
+4 A. Analysis of Metro's duties and available authority to impose conditions
+5 when acting as the lead agency for non-Metro projects with regards to
+6 environmental clearance;
+7
+
+8 B. Recommendations for community benefits developed in collaboration
+
+9 with the project owner to be included as part of the project scope.
+10 Recommendations should consider, but not be limited to:
+11 Mitigations for potential parking impacts
+12 . Local job creation
+
+13 - Workforce training
+14 Small business support and partnerships
+15 - • Affordable housing, and
+16 . Housing/business preservation.
+17
+
+18 C. Any completed studies that can be made publicly available as part of the
+19 LA ART Project, including any preliminary traffic analyses and demand
+20 modeling that estimate how many car trips will be taken off the street as a
+21 result of the Project; and
+22
+
+23 D. List of all public agencies that must provide approvals for the LA ART
+
+24 Project as well as a map detailing right-of-way needs and properties owned
+25 by public agencies.
+
+26
+
+27 58. To Petitioners' knowledge, to the date of this First Amended Petition, Metro
+28 has failed to comply with the Unintended Consequence Motion.
+29 59. March 22, 2022, The Endowment filed this petition for writ of mandate.
+
+30
+
+FIRST AMENDED VERIFIED
+16 PETITION FOR WRIT OF MANDATE
+
+1 60. On August 9, 2022, a non-profit entity known as Climate Resolve announced
+2 in a press release, also circulated by ARTT, that ARTT had donated the Gondola Project to
+
+3 Climate Resolve's newly-created subsidiary Zero Emission Transit (ZET). The terms and
+4 timing of this donation were not made publicly available. However, it was reported in
+5 press accounts of the donation that rides on the gondola to Dodger games would be free,
+6 rather than cost $15 as had formerly been stated by ARTT. The announcement of the
+7 donation of the Gondola Project and the new terms anticipated for gondola operation
+
+8 undercut any earlier analysis supporting an award of a sole source determination and
+9 entry into an ENA with ARTT. The fact that rides to Dodger stadium would be free
+10 further corroborated the view that the gondola system was a loss leader for future
+11 anticipated development of Dodger stadium parking lots, and was not intended as a
+12 freestanding public transit system.
+
+13 C. METRO ABUSED ITS DISCRETION IN APPROVING THE GONDOLA
+
+14 PROJECT TO PROCEED TO PHASE I OF THE UNSOLICITED
+
+15 PROPOSALS POLICY
+
+16 61. As set forth above, OEI evaluates unsolicited proposals using a two-
+17 phase process. Historically, OEI has accepted primarily small innovative proposals
+18 meeting an important Metro need such as mobile tolling and mobile charger vending
+19 machines not new private transportation systems of the scale proposed
+20 by the Gondola Project. The record of Metro's internal evaluation of ARTT's unsolicited
+
+21 proposal does not support OEI staff's recommendations nor Metro's decision to allow the
+22 Gondola Project to proceed through this two-phase process because the Gondola Project
+23 does not meet the basic threshold requirements or the evaluation criteria necessary to
+24 advance to a sole-source agreement. It is clear from the record that Metro should not have
+25 approved the Gondola Project proposal because the Gondola Project failed to meet Metro's
+26 evaluation process, standards, and requirements.
+
+27 62. As set forth in the Unsolicited Proposals Policy, upon receipt of a
+28 conceptual proposal, the Review Team must first determine whether the proposal meets
+29 the following threshold requirements before initiating Phase I evaluation: (i) satisfies the
+30 definition of an unsolicited proposal; (ii) includes all required content and attachments;
+
+FIRST AMENDED VERIFIED
+17 PETITION FOR WRIT OF MANDATE
+
+1 (iii) contains sufficient detail to enable Metro to perform an adequate evaluation, (iv) if
+2 submitted by parties external to Metro, has been approved by a responsible official or
+3 other representative authorized to contractually obligate the proposer; (v) complies with
+4 the marking requirements for use and disclosure of data; and (vi) if submitted by parties
+5 within Metro, has been approved with signature by a departmental Chief. (Exh. A,
+6 Unsolicited Proposals Policy, p. 4). These are threshold evaluation criteria-failing to meet
+7 these initial standards will prevent the project from proceeding to full Phase I review.
+
+8 63. Here, based on records The Endowment has obtained, ARTT's
+9 application package did not meet all threshold requirements to proceed to Phase I
+10 assessment and therefore, should have been rejected outright and never have been
+11 considered. The application materials did not provide sufficient project information to
+12 allow Metro to perform an adequate initial evaluation of the Gondola Project as set out in
+13 OEI Policy and Procedures for unsolicited proposals. As such, the Gondola Project should
+
+14 not have been allowed to proceed to Phase I review.
+15 D. METRO ABUSED ITS DISCRETION IN APPROVING THE GONDOLA
+
+16 PROJECT IN PHASE I OF THE UNSOLICITED POLICY PROPOSAL
+
+17 64. Under the OEI unsolicited proposal process, should a proposal meet
+18 the threshold requirements, then during Phase I review, Metro considers an unsolicited
+19 proposal based on whether each project: (i) offers direct or anticipated benefits to Metro,
+20 its passengers and the community; (ii) is consistent with Metro's objectives and goals; (iii)
+21 satisfies a need for Metro that can be reasonably accommodated in Metro's annual long-
+22 term capital and operating budgets without displacing other planned expenditures,
+23 without placing other committed projects at risk, and without significantly increasing the
+24 cost of the proposed items; (iv) offers goods or services that Metro may not have intended
+25 to procure or provide through the normal Metro contract process; (v) whether the project
+26 proposal contains significant financial, technical and legal components; and (vi) whether
+27 the proposal is within Metro's jurisdiction or control. (Exh. A, Unsolicited Proposals
+
+28 Policy, p. 4). Here, the record will demonstrate that there was insufficient information for
+29 Metro to make these findings that would allow the Gondola Project to satisfy the Phase I
+30 criteria.
+
+FIRST AMENDED VERIFIED
+18 PETITION FOR WRIT OF MANDATE
+
+1 65. Initially, under the first identified criteria, the Gondola Project
+2 provides no discernable benefits to Metro, to Angeleno taxpayers, or to the broader
+3 community. ARTT has made it abundantly clear that the Gondola Project will be a for-
+4 profit income generator for ARTT, not Metro, Metro's ridership or the City. (Exh. D,
+5 ARTT Response, p. 13). Because this is a privately owned public transportation project,
+6 the Gondola Project will not take TAP payments, can set its own fees, transportation
+7 schedule, and access, thereby providing little to no public benefit to the community. (Id.,
+
+8 p. 12). Further, the Gondola Project is not self-sufficient. The Gondola Project was
+
+9 designed as a "park-and-ride" facility which provides no additional parking in an already
+10 congested area. Based on the documentation provided, Gondola Project patrons are likely
+11 to park their vehicles at Union Station's limited parking facilities, or on the side streets
+12 adjacent to other passenger stations - thus creating potential safety hazards and an
+13 additional burden on existing Metro infrastructure and local community residents,
+14 businesses, and service providers including The Endowment's Center for Healthy
+15 Communities. This burden is not offset by any discernable public benefit.
+16 66. As to the second criteria, Metro's approval of the Gondola Project is
+17 inconsistent with Metro's stated long term goals. More specifically, the Gondola Project is
+18 inconsistent with Metro's 2019 Climate Action Plan and planned improvements to the
+19 Forecourt and Esplanade areas in front of Union Station all of which promote public
+20 engagement, equity and inclusion in agency decision-making. However, with regard to the
+21 Gondola Project, Metro has not been open or transparent with the public or interested
+22 stakeholders, notwithstanding multiple meetings, letters, and requests for information
+23 about the Project and its potential impacts. For these reasons, Metro's decision to withhold
+24 fundamental Project information from the public under the guise that this information is
+25 proprietary is inconsistent with Metro's own policies and objectives.
+26 67. As to the third criteria, the Gondola Project also cannot satisfy an
+27 actual need for Metro. Although the need for increased transit infrastructure in Los
+28 Angeles is significant, the Gondola Project as proposed functions as a private tourist
+29 attraction, not a public transportation line to serve Metro riders. This is evidenced by the
+30 Gondola Project's lack of any reference to cost, affordability or connectivity to Metro's
+
+FIRST AMENDED VERIFIED
+19 PETITION FOR WRIT OF MANDATE
+
+1 TAP system or any analysis as to whether it may be in the public's interest to explore
+2 alternate less costly and disruptive measures such as expanding Metro's existing public
+3 transportation to Dodger Stadium in the form of the Dodger Express busses, which are
+
+4 free to the public and depart from various points along the Metro route rather than
+5 concentrating entirely at Union Station. The Gondola Project cannot accommodate
+6 Metro's ridership at a comparable price point. Ticket estimates for each trip (per
+7 conversations with Metro) may exceed $20 per person - making carpooling, ride-sharing
+
+8 services, or the Dodger Express bus service more affordable and efficient alternatives
+
+9 none of which were considered by the OEI in assessing its award of a sole source
+10 agreement to ARTT for this Project. The gondola thus has more attributes of a tourist
+11 attraction and shuttle service for attendees of games and events and Dodger Stadium (not
+12 necessarily for workers at the stadium because of limited hours of operation) rather than
+13 mass transit that can address actual transportation needs for riders seeking
+14 transportation to regular destinations such as work or school.
+15 68. As to the fourth criteria (budget), ARTT has not provided an estimate
+16 for the total cost of the Gondola Project, including operation and maintenance costs since
+17 submitting its application in 2018. (Exh. D to Original Petition, ARTT Response, pp. 35,
+18 43). This lack of crucial information regarding Gondola Project projected costs means that
+
+19 Metro did not meet a critical threshold requirement for advancing this Project through
+20 Phase I of the OEI process, namely:
+
+21 "..(iii) satisfies a need for Metro that can be reasonably
+22 accommodated in Metro's annual long-term capital and
+23 operating budgets without displacing other planned
+24 expenditures, without placing other committed projects at risk,
+25 and without significantly increasing the cost of the proposed
+
+26 items;"
+
+27 (Exh. A, Unsolicited Proposals Policy, p. 4).
+
+28 69. Without clear information regarding costs, feasibility and financing,
+29 Metro has effectively accepted the word of Frank McCourt's company (McCourt Global)
+30 that ARTT will "pay for" the construction, operation and maintenance of the Gondola
+
+FIRST AMENDED VERIFIED
+20 PETITION FOR WRIT OF MANDATE
+
+1 Project in perpetuity with absolutely no evidence in the record about whether and how
+2 that responsibility will be accomplished. This significantly increases the risk that the
+3 Gondola Project will become underfunded, half-built or abandoned, resulting in a burden
+
+4 on the public if ARTT becomes insolvent or otherwise unable to complete, maintain, or
+5 operate the Gondola Project safely. Metro should not have allowed the Gondola Project to
+6 move forward without detailed financing and feasibility assessments including operation
+7 and maintenance reserves for the life of the Gondola Project. Finally, the size and scope of
+
+8 the Gondola Project necessitate significant financial, legal, and technical components.
+
+9 However, despite multiple requests from The Endowment, information about these
+10 components has not been provided to the public during the scoping meeting, the limited
+11 attendance community outreach meetings, or in response to The Endowment's requests for
+12 information. For these reasons, the Gondola Project does not satisfy Metro's Phase I
+
+13 Unsolicited Proposal criteria and should have been rejected at that stage of the process.
+
+14 For the reasons discussed above, Metro's decision to proceed to Phase II despite failing to
+15 satisfy Metro's Phase I Unsolicited Proposal criteria was arbitrary and capricious.
+16 E. METRO ABUSED ITS DISCRETION IN APPROVING THE GONDOLA
+
+17 PROJECT IN PHASE II OF THE UNSOLICITED PROPOSALS POLICY
+
+18 70. Only a after a project satisfies the Phase I evaluation process, I may the
+19 project proceed to the Phase II review. Phase II requirements include whether: (i) the
+20 proposer's capabilities, related experience, facilities, techniques, or unique combinations of
+
+21 these which are integral factors for achieving the proposal objectives; (ii) the proposer's
+22 financial capacity to deliver the goods or services defined in the proposal; (iii) the viability
+23 of the proposed schedule and Metro's ability to meet activities required; (iv) Metro's
+24 capacity to enter into a contract under its debt authorization; (v) the qualifications,
+25 capabilities and experience of key personnel who are critical in achieving the proposal
+26 objectives; (vi) the relative costs and benefits of the proposal regarding improving mobility
+27 and accessibility in LA County; (vii) the specific details of the cost/revenue generated; and
+28 (viii) any other factors appropriate for the particular proposal. (Exh. A, Unsolicited
+29 Proposals Policy, pp. 5-6).
+30 71. With respect to the first criteria, ARTT appears to lack subject-matter
+
+FIRST AMENDED VERIFIED
+21 PETITION FOR WRIT OF MANDATE
+
+1 competency, or the technical skills needed to successfully develop the Gondola Project.
+2 Based on publicly available information, the applicant, Aerial Rapid Transit Technologies
+3 was registered in California very recently, in 2019, and was organized, in Delaware, in
+4 March 2018. In addition, there is no evidence to indicate that members of the ARTT team
+5 have ever designed or constructed an aerial gondola. (Exh. C, ARTT Unsolicited Concept
+6 Proposal, pp. 16-17). There is no evidence indicating the ARTT's experience, facilities, or
+7 techniques make it the appropriate choice for any Gondola Project, much less one in
+
+8 earthquake prone territory, that purports to move passengers via cables with suspended
+9 gondola cars over a public right of way, a Metro railway (in two places), homes,
+10 apartments, businesses, the freeway, and various communities before climbing uphill to
+
+11 Dodger Stadium. (Exh. D, ARTT's Response, pp. 31, 35). Aerial gondolas utilizing the
+12 same or similar technology are located around the world. Based on the scope of the
+13 Gondola Project and its location within the public right-of-way, common sense mandates
+14 that at minimum, a multi-million dollar Project of this complexity and scale, should be
+15 competitively bid and awarded to an applicant with the requisite expertise. For these
+16 reasons, Metro's approval of a sole source agreement with ARTT to proceed with this
+17 Gondola Project despite having never built an Aerial Gondola previously or demonstrated
+18 any subject-matter expertise or capacity to build an Aerial Gondola is clearly arbitrary
+19 and capricious.
+
+20 72. With respect to the second Phase II criteria (financial capability),
+21 ARTT has also failed to demonstrate that the Gondola Project is adequately capitalized.
+22 Without proof of adequate capitalization, the Gondola Project poses a substantial risk that
+23 Metro or Angeleno taxpayers will become responsible for removing or maintaining this ill-
+24 conceived development. Given the lack of a total Project budget, ARTT's financial
+25 capacity to deliver, operate, and maintain the Gondola Project is unsupported by publicly
+26 available documentation. Additionally, it appears that all revenue generated from the
+27 Gondola Project will be entirely private. However, ARTT has provided no information to
+28 the public about revenue projections.
+
+29 73. With respect to the sixth and seventh Phase II criteria (the cost/benefit
+30 analysis and revenue projections), the very tangible costs, impacts, and burdens that the
+
+FIRST AMENDED VERIFIED
+22 PETITION FOR WRIT OF MANDATE
+
+1 Gondola Project will have on the local community greatly outweigh the promised, but
+2 unproven, benefits to a discrete sector of the public who may choose to use a pricey
+3 privately-owned transportation mechanism masquerading as a public transportation
+
+4 project. The need for real low-cost, commuter and environmentally-friendly alternatives to
+5 address traffic congestion in the downtown area and at Union Station during Dodger game
+6 days, can be dramatically improved by investing in alternatives such as expanding the
+7 free Dodger Express Bus, carpooling, and ride-sharing. In addition, although Metro claims
+8 the Gondola Project would reduce traffic congestion, there is no evidence supporting this
+9 assertion. Available evidence suggests that instead, the Gondola Project will cause
+10 increased traffic congestion, and pedestrian and cyclist safety concerns along Alameda
+
+11 Street. For example, the location of the Project infrastructure within the public right-of-
+
+12 way will create narrower traffic lanes in an already congested area, exacerbating traffic
+13 congestion. ARTT has not directly addressed concerns about traffic impacts due to the
+14 Gondola Project's location and lack of additional parking. Instead ARTT makes broad,
+15 unsubstantiated claims about the Gondola Project's ability to meet regional air quality
+16 standards without considering the indirect impacts on regional traffic and idling likely
+17 to result from poor design. Additionally, it remains unclear how Metro will change its
+18 schedule to accommodate potential "extra inning" games where fans may still be at
+19 Dodger Stadium after the gondolas (or other public transit systems) shut down. Finally,
+20 the Gondola Project's proposed location-in the center of bustling downtown Los
+21 Angelesis likely to lead to an increase in traffic accidents and pedestrian injuries, given
+22 the distracting nature of an aerial gondola system dangling in impacted traffic corridors.
+23 These factors indicate that the Gondola Project's costs far exceed any discernable benefit
+
+24 to the public as an alternative transportation option, and therefore, does not satisfy the
+25 Phase II evaluation criteria.
+
+26 74. Based on publicly-available information, the Gondola Project does not
+27 satisfy the Unsolicited Proposals Phase II criteria, and, therefore, the Gondola Project
+28 should not have advanced beyond Phase II. As such, Metro should have rejected the
+29 Gondola Project or requested additional information supporting its determination to
+30 proceed to contract negotiation.
+
+FIRST AMENDED VERIFIED
+23 PETITION FOR WRIT OF MANDATE
+
+1 F. METRO ABUSED ITS DISCRETION IN DETERMINING THE PROJECT
+
+2 COULD BE SOLE SOURCED
+
+3 75. Sole source awards are appropriate only in very limited circumstances
+4 a where a proposed project could not otherwise proceed. Metro considers a sole source
+5 award only where "it is impossible to describe the property or services offered without
+6 revealing proprietary information or disclosing the originality of thought or innovativeness
+7 of the property or services sought." (Exh. A, Unsolicited Proposals Policy, p. 7). A sole
+
+8 source award may not be based solely on the unique capability of the proposer to provide
+
+9 the specific property or services proposed. (Exh. A, Unsolicited Proposals Policy, p. 41).
+10 76. Here, Metro's decision to proceed with a sole source award for the Gondola
+11 Project was in error. There is no indication that ARTT is the only provider capable of
+12 building a gondola system - nor that it is impossible to develop the Gondola
+
+13 Project without disclosing proprietary information. ARTT admits that other comparable
+14 gondola systems exist throughout the world. Further, some of these systems also use
+15 identical technology to the proposed Gondola Project. ARTT admits that this Gondola
+16 Project would employ the Tricable Detachable Gondola (3S) system - the exact same
+17 technology that can also be found in other cities. (Exh. C, ARTT Unsolicited Proposal, p.
+18 5). There is no evidence that this particular gondola system or technology would be more
+19 innovative or differ in any way from other gondola systems around the world. Further,
+20 there is no evidence that ARTT holds any patents, proprietary design, property rights, or
+21 other distinguishing factors consistent with sole source provider determination. ARTT
+22 makes bold, yet unsupported assertions that it has a "unique ability to deliver the Gondola
+23 Project, including the necessary station location at Dodger Stadium property and
+24 proprietary information that it requires." (Id., p. 4). However, ARTT has provided no
+25 evidence of a formal agreement with the Dodgers to substantiate this claim.
+26 Notwithstanding the status of ARTT's property acquisitions, Metro's guidelines
+27 specifically state that property access is not sufficient to support a sole source provider
+28 determination (Exh. A, Unsolicited Proposals Policy, p. 7). As such, giving ARTT a sole
+29 source contract simply because it owns the property where the Gondola Project will be
+30 built is not supported by Metro's policies.
+
+FIRST AMENDED VERIFIED
+24 PETITION FOR WRIT OF MANDATE
+
+1 77. ARTT also claims that its "proprietary" information regarding "travel
+2 planning for Dodger employees and stadium attendees, rideshare usage information, and
+3 parking lot usage information; and ability to develop and implement necessary
+4 coordination with the Dodger ticketing system." (Exh. D, ARRT Response, p. 4) qualify
+5 the Gondola Project for a Sole Source Award. However, information regarding Dodger
+6 Stadium's capacity, event schedule, and traffic impacts on surrounding streets are well-
+7 documented in the public record and cannot be considered "proprietary." Further, public-
+8 facing Gondola Project brochures indicate that the relationship between Dodger Stadium
+
+9 tickets, Metro's ticketing system, system pricing and system implementation have not yet
+10 been designed or negotiated, indicating that this specific information cannot be integral to
+11 developing the Gondola Project nor the basis for which it qualifies for a sole source award.
+12 78. Based on publicly-available information, Metro's determination that
+13 the Gondola Project qualifies for a sole source award is not supported by facts or evidence.
+
+14 For this reason, the ARTT sole source agreement should be terminated because it was an
+15 abuse of discretion to approve the Gondola Project.
+16 G. METRO ABUSED ITS DISCRETION IN AGREEING TO EXCLUSIVE,
+
+17 NON-COMPETITIVELY BID CONTRACT NEGOTIATION
+
+18 79. Pursuant to its Unsolicited Proposals Policy, Metro may only move
+19 forward with contract negotiation if the following requisites are satisfied:
+20 i. An Unsolicited Proposal has received a favorable
+
+21 comprehensive evaluation, including in comparison to any
+22 proposals received following publication as provided in this
+23 policy;
+
+24 ii. The Metro technical office sponsoring the contract
+25 supports its recommendation, furnishes the necessary funds
+26 and provides a sole-source justification (if applicable); and
+27 iii. Metro CEO or Metro Board of Directors approves (if
+28 required).
+
+29 (Exh. A, Unsolicited Proposals Policy, p. 8).
+
+30 80. Here, for the reasons stated above, Metro's determination that the
+
+FIRST AMENDED VERIFIED
+25 PETITION FOR WRIT OF MANDATE
+
+1 Gondola Project satisfies Phase I and Phase II criteria is unsupported by facts or evidence
+2 in publicly-available documents. Similarly, Metro's determination that the Gondola
+3 Project is eligible for sole source procurement is inconsistent with Metro's Unsolicited
+4 Proposals Policy. Because the Gondola Project did not satisfy these requirements, Metro's
+5 October 11, 2018 decision to proceed with contract negotiation was arbitrary, capricious,
+
+6 and in violation of the Unsolicited Proposals Policy.
+7 H. THE ENDOWMENT NEEDS JUDICIAL REVIEW OF THE
+
+8 DETERMINATION NOW-AFTER ATTEMPTS AT NEGOTIATION FAILED
+
+9 81. The Endowment is beneficially interested in any outcome regarding
+10 the Gondola Project. As alleged above, The Endowment Headquarters is located
+
+11 immediately east of the proposed 195-foot Alameda/Alpine Tower, which ARTT plans to
+12 erect in the City right-of-way on Alameda Triangle, as shown in the figure which was
+13 attached to the Original Petition as Exhibit H. As a property owner immediately adjacent
+
+14 to the anticipated Gondola Project's construction, The Endowment is, therefore, at direct
+15 risk if the Gondola Project is pursued in an inappropriate and/or haphazard manner or if
+16 ARTT lacks the financial or technical capacity to pursue the Gondola Project to a safe
+17 conclusion and maintain its operations for the foreseeable future. Additionally, The
+18 Endowment's offices, non-profit tenants, and the Center for Healthy Communities (which
+
+19 provides free conference space to non-profit grantees and public sector institutions
+20 throughout Los Angeles County) will be severely impacted by the construction and
+21 disruption along Alameda Street. Indeed, The Endowment has its own interests and
+22 potential future development on its land that may be impinged if the Gondola Project
+23 proceeds. These are precisely the concerns that can (and must) be raised by interested
+24 stakeholders through a public process-but, because Metro pursued the Gondola Project in
+25 secret, The Endowment was unable to provide comments prior to the MOA being adopted
+26 in direct contravention of Metro's own policies.
+27 82. In addition to its interest as a property owner and taxpayer on land
+28 that will be directly impacted by the Gondola Project, as a private foundation that
+29 regularly partners and supports nonprofit charitable organizations and partners with
+30 governmental agencies to support community well-being and health equity, The
+
+FIRST AMENDED VERIFIED
+26 PETITION FOR WRIT OF MANDATE
+
+1 Endowment has a vested interest in ensuring that local agencies (like Metro) comply with
+
+2 and follow their own rules and procedures. Here, Metro plainly rushed through
+3 consideration of the Gondola Project and advanced it (to the MOA and the sole source
+
+4 award) without doing so and, therefore, The Endowment has standing to challenge those
+5 determinations.
+
+6 83. As alleged above, The Endowment only discovered the existence of
+7 the Gondola Project in December 2019. For over two years, it has been seeking
+
+8 information to determine the propriety of Metro's determination, meeting with Metro staff
+
+9 and leadership, testifying before the Metro Executive Committee, and raising concerns
+10 about the Gondola Project through formal letters, emails and verbal requests. Despite
+
+11 these efforts, there remains a shocking lack of concrete details that would demonstrate
+
+12 that Metro actually possessed sufficient information to make an informed decision to
+13 pursue the Gondola Project with ARTT as its sole source awardee. Advancing the Gondola
+14 Project to this point was a clear abuse of discretion, and The Endowment, as an interested
+15| property owner and stakeholder in Los Angeles County, has the right to challenge Metro's
+16 actions.
+
+17 84. Metro's policies do not present a way for stakeholders and interested
+18 parties (like The Endowment) to challenge Metro's determination that an unsolicited
+19 proposal satisfies the Unsolicited Proposals Policy, nor is there a mechanism to challenge
+20 the determination to designate a project as sole source. As such, there is no plain, speedy,
+
+21 or adequate remedy at law other than to seek judicial review via a petition for a writ of
+22 mandate. Nor are there any administrative remedies The Endowment must exhaust
+23 before pursuing the extraordinary remedy of mandamus.
+
+24 85. The Endowment's Petition is timely filed. Metro made its sole source
+25 determination on October 11, 2018. Petitions for mandamus under Code of Civil
+
+26 Procedure section 1085 have a three-year statute of limitations. However, pursuant to
+27 California Emergency Rule of Court, Rule 9, all statutes of limitation were tolled from
+28 April 6, 2020 to October 1, 2020. Accordingly, due to this tolling, the Petition is timely
+
+29 filed.
+
+30
+
+FIRST AMENDED VERIFIED
+27 PETITION FOR WRIT OF MANDATE
+
+1 FIRST CAUSE OF ACTION
+
+2 [Petition for Writ of Mandate - Code of Civil Procedure § 1085]
+
+3 [Against All Respondents]
+4 86. Petitioner respectfully alleges and incorporates herein by reference
+5 each and every allegation set forth above.
+
+6 87. At all times herein mentioned, Metro had a mandatory and ministerial
+7 duty to apply its own rules and regulations regarding the procurement and pursuit of
+
+8 unsolicited proposals, and to apply the publicly available evaluation criteria set forth in
+
+9 the Unsolicited Proposals Policy.
+10 88. As set forth above, Metro's determination to pursue the Gondola
+11 Project and to enter into the MOA was arbitrary, capricious and in excess of Metro's
+12 jurisdiction and authority, and were contrary to the controlling law of the State of
+13 California and the regulations adopted by Metro to evaluate projects just like the Gondola
+
+14 Project.
+15 89. The Endowment has standing to seek mandamus through this Petition.
+16 The Endowment has a clear, present, and beneficial right with respect to the Gondola
+17 Project. Cal. Code Civ. Proc. § 1986. As a non-profit property owner in Los Angeles
+18 County, whose mission is to improve the fundamental health of all Californians, The
+19 Endowment has an interest in ensuring that massive projects (including those undertaken
+20 by Metro) with the potential to negatively impact communities neighboring its
+
+21 Headquarters are properly sourced, financed, and pursued so as not to create safety issues
+22 in the surrounding area, nor improper construction that negatively impacts The
+23 Endowment's ability to use its Headquarters, provide free public educational
+24 programming and desperately needed free conference and convening space to non-profit
+25 organizations, grantees and governmental entities through its Center for Healthy
+
+26 Communities. Further, because The Endowment is seeking to enforce a public right (i.e.,
+27 to ensure that Metro complies with its own policies and procedures with respect to
+28 massive projects in Los Angeles County), The Endowment is beneficially interested in
+29 ensuring that the public duties are enforced. Additionally, because The Endowment pays
+30
+
+FIRST AMENDED VERIFIED
+28 PETITION FOR WRIT OF MANDATE
+
+1 taxes it has an interest in ensuring that local agencies comply with their own rules and
+
+2 regulations.
+
+3 90. The Endowment has no plain, speedy or adequate remedy in the
+4 ordinary course of law to compel Metro to cease from continuing to engage with ARTT in
+5 pursuit of the Gondola Project. The Endowment is therefore entitled to extraordinary
+6 relief, by means of alternative and peremptory writ of mandate, pursuant to Code of Civil
+7 Procedure sections 1085, et seq., directing and commanding that Metro terminate any
+
+8 further work on the Gondola Project, revoke the Sole Source Award, and/or terminate the
+9 MOA with LA ART.
+
+10 91. The Endowment is not able to, nor is it obligated to, exhaust any
+
+11 administrative remedies prior to seeking judicial review. The determinations made by
+12 Metro (that the Gondola Project satisfied the criteria set forth in the Unsolicited Proposals
+13 Policy and could be subject to a Sole Source Award) were made without any opportunity
+
+14 for the general public and/or interested parties (like The Endowment) to provide
+15 comments. Further, Metro's policies and procedures provide no ability or process through
+16 which a party interested in the approval of an unsolicited proposal to proceed and/or be
+
+17 sole sourced can appeal that decision. As such, The Endowment (which has been
+18 attempting an informal resolution for years with Metro) is properly bringing this Petition
+
+19 at this time.
+
+20 PRAYER FOR RELIEF
+
+21
+
+22 WHEREFORE, The Endowment prays for judgment as follows:
+
+23 1. For a judicial determination and declaration that the MOA and sole source
+24 determination were improper and invalid, and the entering into by Metro (through its
+25 former CEO), was an abuse of discretion because Metro did not follow its own policies and
+26 procedures with respect to the Gondola Project;
+
+27 2. For issuance of an alternative writ of mandate or order to show cause, and
+28 after a hearing, for issuance of a peremptory writ of mandate, commanding and directing
+29 Metro to terminate the MOA, rescind the sole source determination, and stop all work on
+30 the Gondola Project;
+
+FIRST AMENDED VERIFIED
+29 PETITION FOR WRIT OF MANDATE
+
+1 3. For temporary, preliminary, and permanent injunctive relief restraining
+2 Metro, and any and all parties acting in concert with Metro, from pursuing the Gondola
+3 a Project any further pending a full determination of the validity of the MOA and sole
+
+4 source determination;
+
+5 4. For recovery of The Endowment's reasonable attorney's fees
+
+6 and costs of suit incurred herein; and
+7 5. For such other and further relief as the Court may deem just and proper
+
+8 under the circumstances.
+
+9 DATE: October 31, 2022 Respectfully Submitted,
+10 CHATTEN-BROWN, CARSTENS &
+
+11 MINTEER
+
+12
+
+13 By: Aarssha Loe Douglas P. Carstens
+14 Attorneys for Petitioner
+15 The California Endowment
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+FIRST AMENDED VERIFIED
+30 PETITION FOR WRIT OF MANDATE
+
+1
+
+2 VERIFICATION
+
+3 I, the undersigned, declare that I am an authorized officer or agent of
+4
+
+5 Petitioner in this action. I have read the foregoing FIRST AMENDED PETITION
+
+6 FOR WRIT OF MANDATE and know the contents thereof, and the same is true of
+
+8 my own knowledge or I believe them to be true.
+
+9
+10 I declare under penalty of perjury that the foregoing is true and correct.
+
+11 Executed this 3'day of October, 2022, in Los Angeles, California.
+12
+
+13
+
+14 Robert K. Ross, M.D.
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32 FIRST AMENDED VERIFIED
+PETITION FOR WRIT OF MANDATE
+
+31
+
+PROOF OF SERVICE
+
+2 I am employed by Chatten-Brown, Carstens & Minteer LLP in the County of Los Angeles, State of
+California. I am over the age of 18 and not a party to the within action. My business address is 2200 Pacific Coast Highway, Ste. 318, Hermosa Beach, CA. On October 31, 2022, I served the within documents:
+A FIRST AMENDED PETITION FOR WRIT OF MANDATE
+
+vo VIA UNITED STATES MAIL. am readily familiar with this business' practice for collection and processing of correspondence for mailing with the United States Postal Service. On the same day that correspondence is placed for collection and mailing, it is deposited in
+7 the ordinary course of business with the United States Postal Service in a sealed envelope with
+
+8 postage fully prepaid. I enclosed the above-referenced document(s) in a sealed envelope or package addressed to the person(s) at the address(es) as set forth below, and following
+
+9 ordinary business practices I placed the package for collection and mailing on the date and at
+the place of business set forth above.
+10 VIA OVERNIGHT DELIVERY. I enclosed the above-referenced document(s) in an
+11 envelope or package designated by an overnight delivery carrier with delivery fees paid or provided for and addressed to the person(s) at the address(es) listed below. I placed the
+12 envelope or package for collection and overnight delivery at an office or a regularly utilized
+drop box of the overnight delivery carrier.
+13 VIA ONE LEGAL E-SERVICE. By submitting an electronic version of the 14 document(s) to One Legal, LLC, through the user interface at
+
+15 www.onelegal.com.
+
+16 VIA EMAIL OR ELECTRONIC SERVICE. Based on a court order or an agreement of
+the parties to accept service by electronic transmission, I caused the above-referenced
+17 document(s) to be sent to the person(s) at the electronic address(es) listed below.
+
+18
+I declare that I am employed in the office of a member of the bar of this court whose direction the
+19 service was made. I declare under penalty of perjury under the laws of the State of California that the above is
+
+20 true and correct. Executed on October 31, 2022, at Hermosa Beach, California.
+
+21
+
+22 /sl Cynthia Kellman
+Cynthia Kellman
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+32
+
+SERVICE LIST
+
+2 Attorneys for Respondent, LA County Metro
+Richard Fond
+
+4 BDG Group
+10880 Wilshire Blvd.
+Suite 1015
+Los Angeles, CA 90024
+6 || rfond@bdgfirm.com
+
+7 Attorneys for Real Parties in Interest, Aerial Rapid Transit Technologies, LLC
+8 James L. Arnone
+
+9 Benjamin J. Hanelin
+LATHAM & WATKINS LLP
+10 355 South Grand Avenue, Suite 100
+
+11 Los Angeles, California 90071-1560
+Tel: (213) 485-1234
+12 Fax: (213) 891-8763
+
+13 james.arnone@lw.com
+Il benjamin.hanelin@lw.com
+14
+
+15 Natalie C. Rogers
+LATHAM & WATKINS LLP
+16 12670 High Bluff Drive
+
+17 San Diego, CA 92130
+natalie.rogers@lw.com
+18 Ronald Stamm
+19 Principal Deputy County Counsel
+20 One Gateway Plaza
+Los Angeles, CA 90012
+21 StammR@metro.net
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+33

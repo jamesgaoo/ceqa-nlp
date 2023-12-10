@@ -1,0 +1,1786 @@
+ENDORSED
+
+1 Jerry Bernhaut, Esq. SB# 206264 FILED
+
+2 23 Woodgreen Street Santa Rosa, CA 95409 Tel. (707) 595-1852 JUN 28 2019
+
+3 Email: J3bernhaut@gmail.com SUPERIOR COURT OF CALIFORNIA
+
+4 Jack Silver, Esq. SB # 160575 COUNTY OF SONOMA
+
+Law Office of Jack Silver
+5 708 Gravenstein Hwy No. # 407 Sebastopol, CA 95472
+6 Tel. (707) 528-8175 Email: jsílverenvironmental@gmail.com
+7
+Attorneys for Petitioner 8 CALIFORNIA RIVER WATCH
+
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+11 IN AND FOR THE COUNTY OF SONOMA
+
+12 CALIFORNIA RIVER WATCH, an IRC Case No. SCV-264647
+Section 501(c)(3), non-profit, public 13 benefit corporation, VERIFIED AMENDED COMPLAINT FOR DECLARATORY AND INJUNCTIVE
+14 Petitioner, RELIEF AND PETITION FOR WRIT OF
+V. MANDATE
+15
+CITY OF HEALDSBURG, (Cal. Code. Civ. Proc. § 1094.5)
+
+16 California Environmental Quality Act (Cal.
+Respondent. Pub. Res. Code § 21000 et seq.)
+
+17
+
+18 COMSTOCK HEALDSBURG, LLC,
+
+19 Real Party In Interest.
+
+20
+
+21 Petitioner, CALIFORNIA RIVER WATCH ("Petitioner") as and for its Verified
+
+22 Amended Complaint for Declaratory and Injunctive Relief and Petition for Writ of Mandate
+
+23 under the California Environmental Quality Act ("CEQA") Cal. Pub. Res. Code § 21000 et seq.,
+
+24 against Respondent CITY OF HEALDSBURG (the "City") alleges as follows:
+I. BACKGROUND
+25
+1.
+26 On May 20, 2019, the City adopted a Resolution Certifying the Final Environmental
+
+27 Impact Report ("FEIR") For The North Entry Area Plan Project, Adopting CEQA Findings,
+
+28 Adopting A Mitigation Monitoring And Reporting Plan, and Adopting a Statement Of
+
+Verified Amended Complaint for Declaratory and Injunctive Relief and Petition for Writ of Mandate
+
+()
+
+1 Overriding Considerations. The purpose of the North Entry Area Plan ("NEAP" or "Plan") also
+2 referred to as a "project" in the Draft Environmental Impact Report ("DEIR") is to "provide
+
+3 policy guidelines and development standards for the future construction and operation of a
+4 mixed-use community on the North Village site." (DEIR ES-1) On May 21,2019, the City filed
+5 a Notice of Determination for the certification of the FEIR in the Office of the County Clerk for
+
+6 the County of Sonoma and the California State Office of Planning and Research. The DEIR for
+7 the Plan is incorporated into the FEIR.
+8 2. The FEIR concludes that the greenhouse gas ("GHG") emissions during the operation of
+the Plan would be less than significant with mitigation incorporated. (DEIR 3.4-58) However,
+10 the City certified an FEIR that fails to accurately assess the GHG emissions associated with
+
+11 proposed land use activities within the boundaries of the NEAP planning area. The FEIR
+12 adopted invalid findings of significance as a basis for determining that the NEAP is consistent
+
+13 with Statewide emissions reduction goals. The FEIR also relies, in its finding of less than
+
+14 significant GHG impacts, on GHG mitigation measures that lack clearly defined, enforceable
+
+15 performance based standards and are impermissibly deferred.
+
+16 3. For all of the above reasons, the City's finding that the implementation of the NEAP
+
+17 would result in less than significant GHG emissions is unsupported by substantial evidence in
+
+18 light of the entire record.
+
+19 II. INTRODUCTION
+
+20 A. Failure To Provide an Accurate Assessment of GHG Emissions Which Would Result
+
+21 From Implementation of the NEAP
+
+22 4. According to Table 2-2: Specific Development Summary, the NEAP includes a proposed
+
+23 hotel with 130 guest rooms (DEIR 2-9). The FEIR fails to account for reasonably foreseeable
+
+24 GHG emissions from vehicle miles traveled (*VMT") by tourists staying at the proposed hotel,
+25 traveling from regional and global points of origin to the City of Healdsburg, and returning to
+26 their point of origin. Of particular concern is the high volume of GHG emissions from air travel
+27| by tourists visiting wine country destinations such as the City of Healdsburg. The proposed hotel
+28 provides additional capacity for tourist lodgings. There is ample evidence readily available
+
+2
+
+Verified Amended Complaint for Declaratory and Injunctive Relief and Petition for Writ of Mandate
+
+demonstrating that increased global air travel is a reasonably foreseeable consequence of the
+
+2 Plan's proposed hotel.
+3 5. When preparing an Environmental Impact Report ("EIR") for a project, the EIR must a
+4 consider all sources of GHG emissions resulting from activities associated with the project.
+GHG emissions which must be acknowledged, addressed and mitigated include indirect,
+6 long-term, and long-range emissions such as tourist travel. These emissions are part of a major
+7  project in the Plan the FEIR is analyzing and are appropriate for inclusion in the FEIR.
+
+8 6. The FEIR does not demonstrate, based on substantial evidence, that it would be
+9 practically infeasible to estimate the GHG emissions from VMT by tourists staying at the
+10 proposed hotel.
+11 7. Thus the City prejudicially abused its discretion by failing to proceed as required by law
+12 in certifying an FEIR which provided an inaccurate assessment of GHG emissions which would
+
+13 result from implementation of the NEAP.
+
+14 B. Adopting Invalid Significance Findings as a Basis for Consistency With Statewide Emissions Goals
+15
+
+16 8. To evaluate the GHG emissions implications of the NEAP, the FEIR relies on the Plan's
+17 consistency with the GHG emission reduction measures included in a legally invalid Sonoma
+18 County Regional Climate Action Plan ("CAP") adopted by the City in a March, 2018 Resolution.
+19 9. On July 20, 2017, the Sonoma County Superior Court in Case No. SCV-259242,
+
+20 California River Watch v. County of Sonoma, et al, issued its Order Granting Petition for Writ
+
+21 of Mandate invalidating the CAP and certification-of its EIR. Notwithstanding the CAP's lack
+
+22 of validity as a legal document, the FEIR relies on the NEAP's alleged consistency with GHG
+23 mitigation measures in the CAP as a basis for finding the NEAP to be consistent with Statewide
+24 emissions reduction goals set out in Assembly Bill 32 and the Air Resources Board Scoping
+25 Plan. (DEIR 3.4-36). This alleged consistency is, at least in part, the basis for the finding that
+26 the GHG emissions impact of the NEAP would be less than significant.
+27 10. The FEIR asserts the "ideas contained in the Climate Action Plan to advance smart land
+
+28 use and resource efficiency are still valid and aligned with the climate action strategies stated
+
+3
+
+Verified Amended Complaint for Declaratory and Injunctive Relief and Petition for Writ of Mandate
+
+in the Scoping Plan to reach the State's overall GHG reduction goals." (DEIR 3.4-36). This
+
+2 directly contradicts this Court's ruling in SCV-259242 that the GHG reduction claims in the
+3 CAP are unsupported by substantial evidence in the record. "The Court finds there is
+4 insufficient information in the administrative record to support the factual conclusion that the
+
+5 CAP will achieve its fundamental purpose of reducing Respondent's countywide GHG emissions
+6 to the stated target of 25% below 1990 levels by 2020." (July 20, 2017 Order Granting Petition
+7 for Writ of Mandate, at p. 2).
+
+8 11. Thus the City, in certifying an FEIR which adopted invalid significance findings to
+9 support the conclusion that the NEAP is consistent with Statewide emissions reduction goals,
+10 prejudicially abused its discretion by not proceeding as required by law.
+11 C. Inadequate Mitigation Analysis
+12 12. The FEIR also relies on additional GHG mitigation measures that lack clearly defined,
+13 enforceable performance based standards and are impermissibly deferred. Confusingly, after
+
+14 finding the NEAP is consistent with mitigation measures in the CAP, the GHG impacts analysis
+
+15 finds as follows:
+
+16 In summary, although the proposed plan would not conflict with the GHG
+
+17 reduction measures included in the CAP. the CAP would not be considered a qualified GHG reduction plan for the purposes of CEQA. Therefore, since the
+
+18 Climate Action Plan was adopted to meet the goals of AB 32, the proposed plan iS also evaluated for consistency with the State plans to determine whether it would conflict with any other applicable plan, policy, or regulation adopted by the 19 City for the purpose of reducing GHG emissions. As discussed in Impact GHG-1,
+20 GIÍG emissions would exceed the BAAQMD CEQA Guidelines recommended thresholds of significance. As a result, the proposed plan could conflict with
+21 applicable plan, policy or regulation adopted by the City to reduce the emissions of GHGs. The impact would be potentially significant. However, the GHG emissions during operation would not exceed BAAQMD's threshold of 22 significance with implementation of MM GHG-1 (see Table 3.4-6). The impact
+
+23 would be less than significant with mitigation incorporated. (DEIR 3.4-58).
+
+24 13. The measures included in MM GHG-1 are deferred to future documentation that proposed
+25 projects would meet the BAAQMD recommended GHG threshold of significance or achieve
+26 additional GHG reductions through implementation of one or more of a list of additional GHG
+27 reduction measures. The list of additional measures lack clearly defined performance based
+
+28 standards, discussed in detail below.
+
+4
+
+Verified Amended Complaint for Declaratory and Injunctive Relief and Petition for Writ of Mandate
+
+A )
+
+1 14.
+
+2 Thus the City, in certifying an FEIR which fails to specify mitigation measures that
+substantial evidence demonstrates would achieve the specified emissions levels, prejudicially
+3 abused its discretion by not proceeding as required by law.
+
+4 III. GENERAL ALLEGATIONS
+
+5 A. Parties
+
+6 15. Petitioner California River Watch is an Internal Revenue Code § 501(c)(3) non-profit,
+7 public benefit corporation organized under the laws of the State of California, with headquarters
+
+8 located in Sebastopol, California, and a mailing address of 290 South Main Street, #817,
+9 Sebastopol, Calif. 95472. Petitioner is dedicated to protecting, enhancing, and helping to restore
+10 surface water and groundwaters of California including coastal waters, rivers, creeks, streams,
+
+11 wetlands, vernal pools, aquifers and associated environs, biota, flora and fauna, and educating
+12 the public concerning environmental issues associated with these environs. A warming climate
+13 has and will negatively impact the water quality of these water bodies and associated environs,
+14 biota, flora and fauna.
+
+15 16. Respondent City of Healdsburg, is municipality formed under the laws of the State of
+16| California, with administrative offices located at 401 Grove Street Healdsburg, California,
+17 95448, and is the lead agency that conducted the environmental review of the NEAP.
+18 17.
+
+19 Real Party in Interest, Comstock Healdsburg, LLC, is a Delaware Corporation licensed
+
+20 with the California Secretary of State to do business in the State of California with a business
+
+21 address of 2301 Rosecrans Avenue, Suite 1150, El Segundo, California. It is a real estate
+
+22 investment company, and the owner, applicant, and developer of the property upon which the
+NEAP is planned to be implemented.
+23. B. Jurisdiction
+
+24 18. Petitioner seeks review by and relief from this Court under Pub. Res. Code §§ 21168 or
+25 21168.5, as applicable; and Code of Civ. Proc. §§ 1060 et seq. and 1084 et seq., among other
+26 | provisions of law.
+27 C. Standing
+
+28 19. Petitioner and its members are beneficially interested in the City's full compliance with
+
+5
+
+Verified Amended Complaint for Declaratory and Injunctive Relief and Petition for Writ of Mandate
+
+1 the law regarding the City's approval of the NEAP and certification of the FEIR. The personal,
+2 recreational and aesthetic interests of Petitioner and the persons associated with Petitioner will
+be severely injured with respect to cumulative effects of GHG emissions if the NEAP is allowed
+
+4 to proceed as planned. The climate crisis faced by humanity poses an imminent existential threat
+to the sustainability of human life and health and to the survival of other species. A warming
+
+6 climate has and will negatively impact water quality, availability, and aquatic habitat. Extreme
+droughts have diminished flow levels in creeks, streams, and rivers which are habitat for
+8 endangered species. Extreme heat raises water temperature to levels adverse to the survival of
+
+9 fisheries. The GHG emissions reasonably foreseeable from approval of the NEAP are directly
+10 harmful to Petitioner's interest in the surface waters and groundwaters of California.
+
+11 20. Petitioner is within the class of persons beneficially interested in and aggrieved by the
+12 City's certification of the FEIR and approval of the NEAP. Petitioner's membership includes
+13 individuals who have expressed their concerns and objections to the approval of the NEAP at
+14 meetings and in correspondence to the City. Before certifying the FEIR and approving the
+15 NEAP, the City owed a mandatory duty to comply with the legal duties which Petitioner alleges
+16 were violated. Petitioner has the right to enforce the mandatory duties which the CEQA imposes
+
+17 on the City.
+18 D. Exhaustion of Administrative Remedies
+
+19 21. Petitioner has exhausted all available administrative remedies in that the City's approval
+
+20 of the NEAP is final and not subject to further administrative appeal procedures.
+
+21 22. In accordance with Pub. Res. Code § 21177(b) and § 21177(c), Petitioner and its members
+
+22 objected to the approval of the NEAP orally or in writing during the public comment period or
+
+23 prior to the close of the public hearing on the project before the May 21, 2019 filing of a Notice
+24 of Determination by the City.
+25 23. In accordance with Pub. Res. Code § 21177(a), all alleged grounds for non-compliance
+26 with CEQA, were presented to the City during the public-comment period prior to the close of
+27 the public hearing on the FEIR.
+28 //
+
+6
+
+Verified Amended Complaint for Declaratory and Injunctive Relief and Petition for Writ of Mandate
+
+1 E. Notice Requirements
+
+2 24. A Notice of Determination for the Project was filed by the City with the Office of the
+
+3 County Clerk for the County of Sonoma on or about May 21, 2019. Petitioner timely filed its
+4 initial Complaint and Petition for Writ of Mandate on June 18, 2019, a date not more than thirty
+
+5 (30) days after the filing of the Notice of Determination as required by Pub. Res. Code son
+6 21167(c).
+7 25. Petitioner has caused a Notice of Intent to File Suit to be served on the City as required
+8 § by Pub. Res. Code $ 21167.5. A true and correct copy of the Notice of Intent to File Suit is
+
+attached hereto as Exhibit A.
+
+10 26. Petitioner has caused a Notice of Intent to File Suit to be served on Comstock Healdsburg,
+11 LLC as required by Pub. Res. Code § 21167.5. A true and correct copy of the Notice of Intent
+12 to File Suit is attached hereto as Exhibit B.
+
+13 27. Petitioner will have caused a copy of this pleading to be served on the Office of the
+14  Attorney General for the State of California not more than ten (10) days after the commencement
+15 of this proceeding, as required by Pub. Res. Code § 21167.7 and Code of Civ. Proc. § 388.
+16 F. Private Attorney General Doctrine
+17 28. Petitioner brings this action as a private attorney general pursuant to Code of Civ. Proc.
+
+18 § 1021.5 to enforce important rights affecting the public interest. Issuance of the relief requested
+
+19 herein will confer a significant benefit on a large class of persons by ensuring that the City does
+
+20 not approve the current NEAP without first complying with CEQA. The necessity and financial
+
+21 burden of enforcement are such as to make an award of attorneys' fees appropriate in this
+22 proceeding. Absent this timely enforcement action by Petitioner, the NEAP might otherwise be
+
+23 deemed lawfully approved, despite the City's failure to comply with CEQA.
+
+24 29. At all times mentioned herein, the City has been able to deny the approval and operation
+25  of the NEAP at issue. Despite such ability, and despite Petitioner's demand for denial, the City
+26 has failed and continues to fail to perform its duty under the law to deny the approval and
+27 operation of the NEAP.
+
+28 //
+
+Verified Amended Complaint for Declaratory and Injunctive Relief and Petition for Writ of Mandate
+
+(
+
+1 30. If the City is not ordered to withdraw its approval of the NEAP, the NEAP will become
+2 a specific area plan providing policy guidelines and development standards for the future
+3 construction and operation of a mixed-use community on the North Village site in the City of
+
+4 Healdsburg. As such, the FEIR will be relied on by the City of Healdsburg when considering
+
+5 a specific proposal for development in the North Village site. (DEIR ES-2). Thus, the NEAP
+
+6 FEIR which is based on inadequate assessment of cumulatively significant GHG emissions, will
+become a basis for approving future projects thereby causing irreversible damage to
+8  environmental values.
+
+9 IV. CAUSES OF ACTION
+
+10 A. FIRST CAUSE OF ACTION - CEQA - Inadequate Assessment of GHG Emissions
+
+11 Impacts
+
+12 Petitioner incorporates by reference all of the allegations made in the previous paragraphs
+
+13 as if separately set forth herein.
+
+14 31. CEQA Guidelines 815064.4 requires that a lead agency prepare an EIR if there is
+
+15 substantial evidence that the GHG emissions of a particular project are cumulatively
+16 considerable.
+
+17 32. Table 2-2 in the DEIR specifically breaks down the proposed residential and
+18 non-residential land uses in the Plan to establish a maximum development scenario which is used
+
+19 for the technical analyses in the DEIR. Those proposed land uses include: 1) Multi-family
+20| Residences 290 units (435,000 gross square feet ("gsf")), 2) Hotel 130 rooms (130,000 gsf),
+
+21 3) Commercial/Professional Services 40,000 gsf, and 4) Retail Uses 30,000 gsf (DEIR 2-8).
+
+22 33. There is no accounting in the DEIR for GHG emissions resulting from tourists reasonably
+
+23 expected to be staying at the proposed hotel, traveling from their point of origin to the City of
+24 Healdsburg, and returning to their point of origin. The failure of the EIR to account for these
+25 emissions constitutes a failure to present a reasonably complete accounting of the proposed
+
+26 project's GHG impacts as required by the CEQA. The EIR completely disregards the thousands
+
+27 of metric tons of GHG emissions which would be generated by hotel guests traveling by air from
+
+28 global points of origin. The GHG emissions from global air travel to the hotel are a reasonably
+
+8
+
+Verified Amended Complaint for Declaratory and Injunctive Relief and Petition for Writ of Mandate
+
+foreseeable, intended consequence of the operation of the proposed hotel. It is the commercial
+
+2 purpose of the proposed hotel to attract global as well as regional patronage. There is also no
+
+3 accounting for GHG emissions from travel by land originating beyond City of Healdsburg
+4 boundaries. The CEQA Guidelines and case law are clear that such readily foreseeable and
+
+5 indirect consequences of a project must be accounted for and mitigated if significant.
+6 34. When preparing the EIR for a project, the EIR must consider all sources of GHG
+emissions resulting from the activities associated with the project. GHG emissions which must
+
+8 be acknowledged, addressed and mitigated include indirect, long-term and long-range GHG
+9 emissions such as those related to tourist travel. These emissions are part of the project the EIR
+
+10 is analyzing and are appropriate for inclusion in the EIR. Under CEQA, a "project" is defined
+
+11 as "the whole of an action, which has a potential for resulting in either a direct physical change
+12 in the environment, or a reasonably foreseeable indirect physical change in the environment ..
+13 Tuolumne County Citizens for Responsible Growth, Inc. v. City of Sonora (2007) 155 Cal.
+
+14 App.4th 1214, 1222 (citing CEQA Guidelines § 15378 (a).)
+15 35. The principle that GHG emissions from global tourist travel and wine distribution must
+16 be accounted for in EIRs for new hotels, vineyards, and wineries, unless there is a showing of
+17 infeasibility of such accounting, has been well established locally in the ruling in California
+18 River Watch v. County of Sonoma, et al, SCV-259242, Sonoma County Superior Court (2017),
+
+19 which found that the Respondent in that case "...had a feasible ability to include the additional
+
+20 GHG data" related to air-travel and other travel induced emissions. (July 20, 2017, Order
+
+21 Granting Petition for Writ of Mandate, at p. 16).
+22 36. In response to Petitioner's comments, the FEIR states,
+
+23 It 1S not possible for a proposed project or plan to estimate or collect data on
+
+24 anticipated future tourist or air travel plans for a specific hotel project that has yet to be proposed, constructed and operated. The origin of travelers to the hotel could
+
+25 vary substantially, and there 1S no way to accurately determine either that origin or whether the hotel would induce additional global travel to the area. Rather, it
+
+26 is perhaps more likely that tourists would be traveling to the area for other local attractions, and this hotel component of the proposed plan would provide an
+27 alternative for lodging thosc tourists that are already traveling to the area. (FEIR 3-51).
+
+28
+
+9
+
+Verified Amended Complaint for Declaratory and Injunctive Relief and Petition for Writ of Mandate
+
+1 However, the assessment of reasonably foreseeable GHG emissions associated with the
+
+2 proposed hotel does not require speculation regarding the future plans or motivation for travel
+3 for anyone. The proposed hotel would provide additional tourist lodging capacity. The
+4 information for making reasonable estimates of air travel and land travel generally associated
+
+5 with the proposed hotel, based on data showing clearly established patterns, is available if the
+
+6 lead agency had a good faith interest in full disclosure as mandated by CEQA. Such data is
+7 developed and used commonly for commercial investment purposes. Another likely source of
+
+8 such information is the data underlying the recent application for a $20 million grant from the
+9 Federal Aviation Administration for a Sonoma County Airport terminal expansion. The FEIR
+
+10 could then calculate the proportional contribution of the increased capacity from the proposed
+
+11 130-room hotel to those reasonably foreseeable VMT induced emissions. Air travel, a major
+
+12 source of GHG emissions, is completely omitted in the estimate of GHG emissions associated
+
+13 with the proposed hotel. Emissions from VMT by land from points beyond the boundaries of the
+
+14 City of Healdsburg is also omitted.
+15 37. Judicial precedent is clear that the investigative burden rests with the government agency,
+
+16 not the public, to provide relevant information. See Kings County Farm Bureau v. City of
+17 Hanford (1990) 221 Cal. App. 3d 692, 724. Nevertheless, a feasible methodology for estimating
+
+18 and allocating aviation emissions to a proposed hotel was submitted in public comments by
+19  Petitioner and by Tom Conlon, a recognized expert in data analysis and energy efficiency.
+20 38. The FEIR continuing, in response to Petitioner's comments states:
+
+21 .Therefore, it is more appropriate that such emissions be addressed on a regional level through a Climate Action Plan or similar document. (FEIR 3-51).
+22
+
+23 As referenced above, GHG emissions generated by activities in Sonoma County were
+24 addressed at a regional level in the CAP. This Court, in its July 20, 2017 ruling in California
+
+25 River Watch v. County of Sonoma, et al, found the assessment of emissions in the CAP EIR to
+26 be inadequate specifically by failing to account for trans-boundary emissions including air travel,
+
+27 or showing the infeasibility of such accounting. It is more than a little disingenuous for the
+
+28 NEAP FEIR to claim a regional approach is more appropriate in light of that decision. As stated
+
+10
+
+Verified Amended Complaint for Declaratory and Injunctive Relief and Petition for Writ of Mandate
+
+- above, the data for a regional assessment of trans-boundary VMT induced GHG emissions from
+2 tourist-based travel is readily available. The proportional contribution of emissions reasonably
+
+3 allocated to an enabling land use decision such as a 130-room hotel providing additional hotel
+4| lodging capacity, could be calculated. The simple reality is that both the County of Sonoma and
+5 the City declined to make a good faith effort to reasonably estimate foreseeable emissions likely
+6 to be induced by such land use decisions.
+7 39. For the FEIR to satisfy the informational function of CEQA, it must present facts and
+8 analyses which provide a clear analytical route taken by the City to reach the conclusion that
+
+9 GHG emissions during operation of the NEAP, including a proposed 130-room hotel, would be
+10 less than significant with mitigation incorporated.
+
+11 40. Petitioner is informed and believes and on such information and belief alleges, that the
+12 City, in approving the NEAP and certifying the FEIR which reaches conclusions based on an
+
+13 understated assessment of GHG emissions likely to result from implementation of the NEAP,
+14 failed to proceed in the manner required by law.
+
+15 B.
+
+16 SECOND CAUSE OF ACTION (CEQA - Adopting Invalid Significance Findings)
+
+17 Petitioner incorporates by reference all of the allegations made in the previous paragraphs
+as if separately set forth herein.
+
+18 41:
+
+19 To evaluate the GHG emissions likely to result from implementation of the NEAP, the
+
+20 FEIR relies on the Plan's consistency with the GHG emission reduction measures included in
+
+21 the legally invalid CAP that were adopted by the City in a March, 2018 Resolution. The FEIR
+
+22 relies on the NEAP's alleged consistency with GHG mitigation measures in the CAP as a basis
+
+23 for finding the NEAP to be consistent with Statewide emissions reduction goals in Assembly Bill
+32 and the Air Resources Board Scoping Plan. (DEIR 3.4-36).
+24 42. This Court's July 20, 2017 ruling in SCV-259242, California River Watch v. County of
+25 Sonoma, et al set aside approval of the CAP and certification of the PEIR for failure to include
+26| sufficient information to support the factual conclusion that the CAP would achieve its
+27 fundamental purpose of reducing countywide GHG emissions to reduction levels consistent with
+
+28 Assembly Bill 32. Despite this ruling, the NEAP FEIR claims "The ideas contained in the
+
+11
+
+Verified Amended Complaint for Declaratory and Injunctive Relief and Petition for Writ of Mandate
+
+1 Climate Action Plan to advance smart land use and resource efficiency are still valid and aligned
+
+2 with the climate action strategies stated in the Scoping Plan to reach the State's overall GHG
+
+3 reduction goals." (DEIR 3.4-36).
+
+4 43. In response to Petitioner's comments, the FEIR states:
+
+5 Both the qualitative and quantitative analyses in Draft EIR Section 3.4,
+
+6 Greenhouse Gas Emissions and Energy, rely on State policies and BAAQMD recommended thresholds and are not based solely on consistency with the County CAP. As clearly stated in the Draft EIR page 3.4-36, "[a]lthough the Climate 7 Action Plan no longer serves as a CEQA tool, the document does still serve to
+
+8 advise and coordinate countywide climate protection efforts." (FEIR 3-53)
+
+The CAP, though legally invalid, does exist as an advisory document. The City has the
+10 discretion to choose its sources of advice. However, it is a prejudicial abuse of discretion to rely,
+
+11 even partially, on consistency with measures in the legally invalid CAP as a finding of
+12 significance and as a basis for a finding of compliance with the State's overall GHG reduction
+
+13 goals. The vagueness of the analysis of GHG emissions not being based solely on consistency
+14 with the CAP, along with the other defects in the FEIR, violate the requirement that an EIR
+15| provide a clear analytical route from the evidence in the record to the conclusion that the GHG
+
+16 impacts of the implementation of the NEAP would be less than significant. Vineyard Area
+
+17 Citizens for Responsible Growth, Inc. V. City of Rancho Cordova (2007) 40 Cal. 4th, 412.
+
+18 44. Petitioner is informed and believes and on such information and belief alleges, that the
+
+19 City, in approving the NEAP and certifying the FEIR which adopted invalid findings of
+
+20 significance as a basis to conclude the NEAP is consistent with Statewide emissions reduction
+
+21 goals, failed to proceed in the manner required by law.
+
+22 C. THIRD CAUSE OF ACTION (CEQA - Inadequate Mitigation Analysis)
+
+23 Petitioner incorporates by reference all of the allegations made in the previous paragraphs
+
+24 as if separately set forth herein.
+
+25 45. The FEIR also adopts CEQA Guidelines recommended by the Bay Area Air Quality
+26 Management District ("BAAQMD") as to operational efficiency thresholds of significance to
+27 determine if implementation of the NEAP would likely be consistent with Statewide emissions
+28| reduction goals in Assembly Bill 32, "Therefore, BAAQMD's project- and plan-level
+
+12
+
+Verified Amended Complaint for Declaratory and Injunctive Relief and Petition for Writ of Mandate
+
+1 significance threshold for operational GHG generation was deemed appropriate to use when
+2 determining the proposed plan's potential GHG impacts." (DEIR 3.4-35). The FEIR found that
+
+3 although the proposed plan would not conflict with the GHG reduction measures included in the
+
+4 CAP, GHG emissions would exceed the BAAQMD's recommended thresholds of significance.
+
+5 However, the GHG emissions during operation would not exceed the BAAQMD's threshold of
+6 significance with implementation of the GHG reduction measures in mitigation program MM
+7 GHG-1. ( DEIR 3.4-58) .
+
+8 46. MM GHG-1 provides that the documentation showing each proposed project in the NEAP
+9 planning area would meet the BAAQMD recommended thresholds of significance for individual
+
+10 projects, is deferred to the time prior to the final discretionary approval for each project. The
+
+11 manner of documentation is left undefined. Or, in the alternative, the deferred documentation
+
+12 must show that the proposed project would achieve additional GHG emissions reductions
+
+13 sufficient to meet the recommended thresholds through a combination of one or more additional
+
+14 listed measures "...and/or other comparable measures approved by the City". (DEIR 3.4-46).
+
+15 Those additional measures include:
+
+16 a Commit to 100 percent renewable energy use through a combination of
+
+17 use of on-site renewable energy and Healdsburg Electric's "Green Rate"
+program.
+
+18 b. Install on-site solar panels to generate electricity for on-site electricity
+
+19 consumption.
+
+C. Provide documentation how a ride-sharing program or other
+20 transportation demand management program for hotel, office, and retail
+
+21 employees would be implemented starting no later than 60 days after operations begin. Use of electric vehicles for ride-share program would further reduce GHG emissions.
+22
+d.
+23 Install electric vehicle charging stations at workplaces and multi-family residences to promote the use of electric vehicles.
+
+24 e. Use heat-pumps (rather than natural gas) for heating of residential and
+
+25 commercial spaces.
+
+f.
+26 Purchase voluntary carbon credits from a verified GHG emissions credit broker in an amount sufficient to offset operational GHG emissions that
+
+27 exceed the recommended significance threshold over the lifetime of the proposed development (or a reduced amount estimated based on
+
+28 implementation of other measures listed above). Copies of the contract(s) shall be provided to the City. (NEAP EIR 3.4-46,47).
+
+13
+
+Verified Amended Complaint for Declaratory and Injunctive Relief and Petition for Writ of Mandate
+
+1 47. The terms of this documentation are much too vaguely defined to satisfy the requirement
+2 for clearly defined, enforceable performance based standards as mandated by CEQA: either
+demonstrate compliance with thresholds by undefined measures, or achieve additional GHG
+emissions reductions through one or more listed measures or "other comparable measures
+approved by the City." Of the listed additional measures identified in Paragraph 44 above, only
+measure (a) contains clearly defined performance based standards. The remaining additional
+
+7 measures lack necessary quantification to be clearly enforceable. Purchasing carbon credits with
+8 no conditions other than coming from qualified broker (measure (f)) begs questions regarding
+9 the validity of the offsets. The dispositive language undermining the validity of the list of
+10 additional GHG reduction measures is the qualifying phrase - "other comparable measures
+
+11 approved by the City." This violates both the prohibition against lack of clear performance
+12 based standards ("other comparable measures") and the prohibition against deferred mitigation
+
+13 approved by the City at the time of specific project approval.
+14 48. Mitigation measures are required by law to be "fully enforceable." Pub. Res. Code
+15 2181.6(b); CEQA Guidelines 8 15126.4(a)(2). Mitigation measures must be definite and
+16 defined so that their effectiveness is ascertainable. See, e.g, San Franciscans for Reasonable
+
+17 Growth V. City and County of San Francisco (1984) 151 Cal. App. 3d 61.
+
+18 49. Petitioner is informed and believes and on such information and belief alleges, that the
+
+19 City, in approving the NEAP and certifying the FEIR which failed to identify enforceable
+20 mitigation measures based on clearly defined performance standards, failed to proceed in the
+
+21 manner required by law.
+22 D. FOURTH CAUSE OF ACTION (CEQA- Inadequate Statement Of Overriding
+
+23 Considerations)
+
+24 Petitioner incorporates by reference all of the allegations made in the previous paragraphs
+25 as if separately set forth herein.
+
+26 50. On May 20, 2019, the City adopted a Resolution Certifying the FEIR, Adopting CEQA
+27 Findings, a Mitigation Monitoring and Reporting Plan and a Statement of Overriding
+
+28 Considerations. Section 15093 of the CEQA Guidelines requires the decision-making agency
+
+14
+
+Verified Amended Complaint for Declaratory and Injunctive Relief and Petition for Writ of Mandate
+
+1 to balance the economic, legal, social, technological, or other benefits of a proposed project
+
+2 against its unavoidable environmental risks when determining whether to approve the project.
+
+3 "CEQA also gives public agencies the authority to approve a project notwithstanding its
+
+4 environmental impacts, if the agency determines it is not feasible to lessen or avoid the
+
+5 significant effects (Pub. Resources Code, § 21002; Cal. Code Regs., tit. 14, § 15043, subd. (a)),
+
+6 and if specifically identified benefits of the project outweigh the unavoidable, significant
+
+7 environmental impacts." City of Marina v. Board of Trustees, 109 Cal. App. 4th 1179, * 1186
+
+8 (2003) Court of Appeal of California, Sixth Appellate District.
+9 51. The Statement of Overriding Considerations adopted by the City identified significant and
+10 unavoidable impacts related to traffic, as well as identifying specific considerations and benefits
+
+11 of the Plan, each of which allegedly separately and independently outweigh the significant,
+12 adverse impacts and is an overriding consideration independently warranting approval. These
+13 benefits include revitalizing a currently under-utilized former industrial site, allowing for the
+14 construction of a minimum of 250 dwelling units and a cap of 290 dwelling units, promoting
+15| environmental sustainability by preserving surrounding hillsides, and providing construction
+16 jobs.
+
+17 52. Petitioner did not comment on traffic impacts and takes no position on the feasibility of
+18| lessening or avoiding said impacts. The findings are improper and do not comply with CEQA
+19 because the City determined only that the benefits outweighed the traffic impacts. However, the
+
+20 City failed to specifically find that the project benefits override its GHG impacts to local air
+21| quality and global climate. The Statement of Overriding Considerations does not consider the
+22 trans-boundary GHG emissions from tourist travel which is the gravamen of Petitioner's
+23 opposition to the NEAP. The determination by the City that the benefits of the NEAP outweigh
+24 unavoidable, significant environmental impacts is further lacking in substantial evidence
+25 considering the FEIR's reliance on the legally invalid CAP discussed previously, and inadequate
+26 additional mitigation measures in determining the potential GHG emissions impacts from
+27 implementation of the NEAP.
+28 //
+
+15
+
+Verified Amended Complaint for Declaratory and Injunctive Relief and Petition for Writ of Mandate
+
+V. PRAYER FOR JUDGMENT
+WHEREFORE, Petitioner prays for judgment as follows as to all Causes of Action:
+1. For a Writ of Mandate ordering the City of Healdsburg to set aside approval of the NEAP
+and certification of the FEIR, based on the City of Healdsburg's violations of CEQA and
+
+5 regulations set forth therein.
+6 2. For an Order directing the City of Healdsburg to amend the NEAP consistent with the
+7 Court's rulings, and to re-circulate the amended NEAP and FEIR for public comment.
+8 3. For reasonable attorneys' fees pursuant to Code of Civ. Proc. §1021.5.
+4. For costs of suit.
+10 5. For such other and further relief as this Court deems proper.
+11
+
+12 DATED: June 25, 2019 Respectfully submitted,
+
+13 LoraZeo hint Herry Bernhaut " 14 Attorney for Petitioner CALIFÓRNIA RIVER WATCH
+15
+
+16 DATED: June 25, 2019 Law Office of Jack Silver
+
+17 By: Lasba 7 Jack Silver 18 Attorney for Petitioner CALIFÓRNIA RIVER WATCH
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+16
+
+Verified Amended Complaint for Declaratory and Injunctive Relief and Petition for Writ of Mandate
+
+1 VERIFICATION
+
+2 I, Lisa H. Mador, declare as follows:
+
+3
+
+4 Fa am a member of California River Watch, a party to this action. I am informed and
+
+5 believe, and on that ground allege, that the matters stated in the foregoing Verified Amended
+
+6 Complaint for Declaratory and Injunctive Relief and Petition for Writ of Mandate are true.
+I declare under penalty of perjury, under the laws of the State of California that the
+7 foregoing is true and correct. Executed this day of June 19, 2019, at Keizer, Oregon.
+8
+
+› o Mes
+10 Lisa H. Mador
+
+11
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+17
+
+Verified Amended Complaint for Declaratory and Injunctive Relief and Petition for Writ of Mandate
+
+1 PROOF OF SERVICE
+
+2 I am employed in the County of Sonoma, State of California. I am over the age of
+eighteen years and not a party to the within action. My business address is 23 Woodgreen Street,
+
+4 Santa Rosa, CA 95409, located in Sonoma County.
+On June 28,2019, I served the attached Verified Amended Complaint for Declaratory
+
+6 and Injunctive Relief and Petition for Writ of Mandate on the following party(ies):
+
+Xavier Becerra 8 Attorney General Office of the Attorney General
+9 P.O. Box 944255
+
+10 Sacramento, CA 94244-2550
+
+11 [X] (BY FIRST CLASS MAIL) I placed a true copy in a sealed envelope, with postage thereon fully prepaid for first-class mail, for collection and mailing at Santa Rosa, California, following ordinary business practices. I am readily familiar with the practices of the Law Office of Jerry 12 Bernhaut for processing of correspondence; said practice being that in the ordinary course of
+
+13 business, correspondence is deposited with the United States Postal Service the same day as it is placed for processing.
+
+14 declare under penalty of perjury, under the laws of the State of California, that the
+15 foregoing is true and correct, and that this declaration was executed on June_28 ,2019 at
+
+16 Santa Rosa, California.
+
+17
+
+18 Dron Bandart Jerzy Bernhaut
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+18
+
+Verified Amended Complaint for Declaratory and Injunctive Relief and Petition for Writ of Mandate
+
+EXHIBIT A
+
+LAW OFFICE OF JERRY BERNHAUT
+23 Woodgreen Street
+Santa Rosa, CA 95409
+Telephone: (707) 595-1852
+E-mail: j3bernhaut@gmail.com
+
+Via Personal Delivery
+and Electronic Mail
+mderosa@ci.healdsburg.ca.us
+
+June 10, 2019
+
+Maya DeRosa
+Planning and Building Department City of Healdsburg 401 Grove Street
+Healdsburg, CA 95448
+
+Re: Notice of Intent to Sue - City of Healdsburg North Entry Area Plan, Final Environmental Impact Report, Legal Compliance Under CEQA, Petition for Writ of Mandate
+
+Dear Ms. DeRosa:
+
+This letter provides written notice that my client California River Watch ("CRW") intends to file a lawsuit against the City of Healdsburg (the "City") due to the City's May 20, 2019 decision to approve the City of Healdsburg North Entry Area Plan ("NEAP"). The City's approval of the NEAP and certification of the Final Environmental Impact Report ("FEIR") are in violation of the California Environmental Quality Act ("CEQA") Pub. Res. Code § 21000 et seq., and regulations pursuant thereto regarding CEQA Guidelines. Title 14, Calif. Code of Regs. ("CCR") § 15000, et seq.
+
+INTRODUCTION
+
+Climate change is one of the most urgent global issues we face, with effects including loss of species, human hunger and death, and social and political disruption due to diminished food supply and loss of habitable terrain. We have seen direct effects locally in extreme weather events including fires and floods of historic scale and intensity.
+CEQA Guidelines §15064.4 requires that a lead agency prepare an EIR if there is substantial evidence that the greenhouse gas ("GHG") emissions of a particular project are cumulatively considerable. The NEAP is an area plan, also referred to as a "project" in the Draft EIR ('DEIR"), the purpose of which is to "provide policy guidelines and development
+
+()
+
+May DeRosa
+City of Healdsburg
+Notice of Intent to Sue
+June 10, 2019
+Page 2
+
+standards for the future construction and operation of a mixed-use community on the North
+Village site." (DEIR ES-1) At the May 20, 2019 City Council meeting, when the City decided to certify the FEIR and to adopt the NEAP as a general plan amendment, there was
+some comment that the NEAP is a plan, rather than a project and thus the City was not required to analyze its potential environmental impacts to the same level of specificity as an individual project. It is well established law that "AIl EIR's must cover the same general
+content. (Guidelines, § 15120-15132.) The level of specificity of an EIR is determined by the
+nature of the project and the 'rule of reason' Al Larson Boat Shop, Inc. v. Board of Harbor
+Commissioners, (I990) 18 Cal. App. 4th 729, 742 Court of Appeal of California, Second
+Appellate District, Division Three, citing Laurel Heights Improvement Assn. v. Regents of University of California (1988) Cal. Supreme Court, 47 Cal.3d at p. 407.
+
+Table 2-2 in the DEIR specifically breaks down the proposed residential and non-
+residential land uses to establish a "maximum" development scenario, which is used for the technical analyses in the DEIR. The proposed land uses include: 1) Multi-family Residences 290 units (435,000 gsf'), 2) Hotel 130 rooms (130,000 gsf), 3) Commercial/Professional
+Services 40,000 gsf, and 4) Retail Uses 30,000 gsf (DEIR 2-8). Thus the DEIR purports to
+analyze the environmental impacts of the proposed land uses in this "maximum development scenario" as the total environmental impacts of the NEAP. The rule of reason here dictates
+that the estimation of impacts of the proposed land uses be at a level of specificity appropriate for a project EIR. Of specific concern to CRW is the lack of analysis of GHG emissions impacts resulting from vehicle miles traveled ("VMT") by guests at the proposed
+hotel traveling from their point of origin to Healdsburg and back to their point of origin. The
+failure of the EIR to account for these emissions constitutes a failure to present a reasonably
+complete accounting of the proposed project's GHG emissions impacts as required by CEQA. This is of particular concern in light of the intent of the DEIR that the City will rely on the analysis in the NEAP EIR of impacts of the proposed land uses when considering future specific proposals: "It is anticipated that the plan and this EIR will be relied upon by the City when considering a specific proposal by Comstock Healdsburg, LLC to develop the North Village site in phases with senior residential, hotel, restaurant, retail, commercial office, and multi-family residential uses.»2 (DEIR ES-2).
+
+1gsf = gross square feet
+
+2 The DEIR is incorporated into and certified as part of the FEIR.
+
+C)
+
+May DeRosa
+City of Healdsburg
+Notice of Intent to Sue
+June 10, 2019
+Page 3
+CRW has reviewed the City's Responses To Comments Received on the DEIR,
+published in the FEIR. It is the opinion of CRW that the City's responses do not fully
+address the problems CRW and others identified. Counsel for CRW has clearly delineated
+numerous substantial errors in the process of developing the NEAP, both in written comments and oral testimony before the Healdsburg Planning Commission and City Council,
+The City approved the NEAP May 20, 2019. On May 21, 2019, the City filed a Notice of Determination for the certification of the FEIR in the Office of the County Clerk
+for the County of Sonoma and the California State Office of Planning and Research. As you undoubtedly know, the posting of a Notice of Decision for this approval requires my client to act within 30 days to proceed with any challenge pursuant to CEQA. This letter serves as notice pursuant to Publ. Res. Code § 21167.5 that CRW has authorized me to file suit on
+its behalf in Sonoma County Superior Court within the 30 days. The action shall include
+CEQA claims. Given the importance of the significant biological resources and human health and well being that would be adversely affected by the NEAP, and the public interest nature of this case, CRW will seek to pursue a judgment that sets aside the approval of the NEAP and certification of the FEIR, and will request attorney's fees under the private attorney general provisions set forth in Code of Civ. Proc. §1021.5. We intend to pursue this
+action vigorously and without delay on behalf of CRW unless the City agrees to reverse its
+approval of the NEAP and certification of the FEIR.
+
+CEQA LEGAL DEFICIENCIES
+
+The grounds for my client's lawsuit include the following:
+
+1) Inadequately assessing of GHG emissions attributable to the proposed hotel.
+
+2) Reliance on the City's commitments to mitigation measures in a legally invalid
+Sonoma County Climate Action Plan.
+
+3) Adoption of additional mitigation measures in Mitigation Measures MM
+GHG-1which lack specifically defined, enforceable performance based
+standards, and which are impermissibly deferred under CEQA.
+
+4) Adoption of an inadequate Statement of Overriding Considerations.
+
+(
+
+May DeRosa
+City of Healdsburg
+Notice of Intent to Sue
+June 10, 2019
+Page 4
+CRW contends the NEAP is illegal for the following reasons:
+
+1. Failure to Provide an Accurate Assessment of GHG Emissions Which Would be
+Generated by the Project - Transportation-Related Emissions
+
+According to Table 2-2: Specific Development Summary, the NEAP includes a
+hotel with 130 guest rooms ( DEIR 2-9). However, there is no accounting in the DEIR for reasonably foreseeable greenhouse GHG emissions from VMT resulting from tourists staying at the hotel, traveling from regional and global points of origin to Healdsburg, and returning to their point of origin. The failure of the EIR to account for these emissions constitutes a failure to present a reasonably complete accounting of the proposed project's GHG impacts
+as required by CEQA.
+
+There is ample evidence readily available demonstrating that increased global air
+travel is a reasonably foresecable consequence of the NEAP's proposed hotel. From The
+Sonoma County Economic Development Board:
+
+"Key tourism indicators show that travel is steadily increasing in Sonoma County
+following the economic downturn beginning in 2007-2008 and the October 2017
+wildfires. Destination spending, transient occupancy tax (TOT) receipts, industry earnings and local and state tax receipts are the highest that Sonoma County has seen in the last decade. Travelers from around the country and world are flocking to
+Sonoma County and supporting the local economy through increased spending."
+
+According to Sonoma County Tourism, Official Destination Marketing Organization
+of Sonoma County, Total passenger numbers for Sonoma County Airport reached an all-time
+high of 77,413 for the first quarter of 2019. This in all likelihood reflects an increase from
+previous years due to recent additional direct flights to destinations including Colorado.
+
+The proposed hotel will provide added capacity. The above information shows a clear trend for more long distance travel to Sonoma County. Judicial precedent is clear that it is
+not the burden of the public to provide relevant information not provided by the lead agency. See Kings County Farm Bureau v. City of Hanford (1990) 221 Cal. App. 3d 692, 724. However, the above information is provided as prima facie evidence of the need for the FEIR
+to provide an assessment of foreseeable trans-city boundary emissions likely to be generated
+by the proposed hotel guests traveling to Healdsburg. The expansion of the Sonoma County
+Airport and the resulting traffic congestion is common knowledge, reported in local papers. It is more than a little disingenuous for the FEIR to question whether providing additional
+
+May DeRosa
+City of Healdsburg
+Notice of Intent to Sue
+June 10, 2019
+Page 5
+
+hotel capacity will result in additional air travel.
+
+The NEAP FEIR could easily provide estimates of the travel profiles of the proposed
+hotel's anticipated guests, and from these calculate the resulting VMT impacts of their
+project. Contrary to the assertion in the FEIR:
+
+"It is not possible for a proposed project or plan to estimate or collect data on.
+anticipated future tourist or air travel plans for a specific hotel project that has yet to be proposed, constructed and operated. The origin of travelers to the hotel could vary
+substantially, and there is no way to accurately determine either that origin or whether the hotel would induce additional global travel to the area. Rather, it is perhaps more likely that tourists would be traveling to the area for other local attractions, and this hotel component of the proposed plan would provide an alternative for lodging those
+tourists that are already traveling to the area." (FEIR 3-51)
+
+It is feasible for the City to collect data on historical VMT by airplane and other modes of travel associated with tourism in Sonoma County. This data is developed and used
+commonly for commercial investment purposes. Another likely source of such information
+is the data underlying the recent application for a $20 million grant from the Federal Aviation
+Administration for a Sonoma County Airport terminal expansion. The City could then
+calculate the proportional contribution of a proposed 130-room hotel to these reasonably foreseeable VMT induced emissions.
+
+This cumulative GHG emissions impacts analysis does not require speculation regarding anyone's future plans. The information for making reasonable estimates of air and
+other modes of travel associated with the proposed hotel, based on data showing clearly
+established patterns, is available if the City had a good faith interest in full disclosure as
+mandated by CEQA. A feasible methodology for estimating and allocating emissions to a
+proposed hotel was submitted in comments by CRW and by Tom Conlon, a recognized expert in data analysis and energy efficiency.
+
+2. Adopting Invalid Significance Findings as a Basis for Consistency With Statewide
+Emissions Goals
+
+The DEIR cites recommendations by the State Supreme Court in Center for Biological Diversity (CBD) v. California Department of Fish and Wildlife, (2015) 62 Cal. 4th 204 for categories of substantial evidence to support a finding that a project is consistent with meeting statewide emission reduction goals. The court found that consistency with statewide
+
+C
+
+May DeRosa
+City of Healdsburg
+Notice of Intent to Sue
+June 10, 2019
+Page 6
+emissions reduction goals qualifies as a permissible criterion of significance. One
+evidentiary basis was compliance with a GHG Reduction Plan or Climate Action Plan.
+(DEIR 3.4-30)
+
+The DEIR then proceeds to discuss the Sonoma County Climate Action Plan ("CAP") and its findings regarding Countywide and City of Healdsburg GHG emissions:
+"As shown in Figure 3.4-4, Countywide emissions have decreased overall primarily
+due to a decrease in GHG emissions due to building energy usage." (DEIR 3.4-10)
+"GHG inventories for individual jurisdictions were included in the overall Sonoma County inventory. Total GHG emissions in Healdsburg increased from 109,000 MT CO2e in 2010 to 117,000 MT CO2e in 2015. Countywide emissions in 2010 were 16 percent above 1990 levels, and this percentage increased to 25 percent above 1990
+levels in 2015." (DEIR 3.4-11)
+
+The Sonoma County Superior Court, in its ruling invalidating the CAP and certification of its EIR, found that "...the inventory of greenhouse gas emissions is based on insufficient information; the PEIR fails to include enforceable, clearly defined performance standards for the mitigation measures regarding Green House Gas ("GHG") emissions, identified as 'GHG reduction measures;' and fails to develop and fully analyze a reasonable range of alternatives". Based on those findings the court concluded: "The Court finds that there is insufficient information in the administrative record to support the factual conclusion that the CAP will achieve its fundamental purpose of reducing Respondent's countywide GHG emissions to the stated target of 25% below 1990 levels by 2020". Sonoma County
+Superior Court Case No. SCV-259242, California River Watch v. County of Sonoma, et al
+Order Granting Petition for Writ of Mandate, July 20, 2017, p.1-2.
+
+The NEAP DEIR relies on findings in the CAP's GHG inventory and a 2018 update
+using the same methodologies the Court found inadequate in its July 20, 2017 ruling. These
+findings are treated as established fact despite the Court's ruling that the CAP's GHG inventory was based on insufficient information. The insufficient information to support the CAP GHG inventory (and by extension its update) was in part exactly the same scope of information omitted in the DEIR evaluation of the GHG emissions impacts of the NEAP, i.e.
+trans-boundary VMT induced emissions from tourist travel.
+
+"Although the Climate Action Plan no longer serves as a CEQA tool, the document
+does still serve to advise and coordinate Countywide climate protection efforts. The
+ideas contained in the Climate Action Plan to advance smart land use and
+
+May DeRosa
+City of Healdsburg
+Notice of Intent to Sue
+June 10, 2019
+Page 7
+resource efficiency are still valid and aligned with the climate action strategies stated in the Scoping Plan to reach the State's overall GHG reduction goals." As a result, the City adopted a resolution in March 2018 to address GHG emissions
+consistent with the CAP. Therefore, in order to comprehensively evaluate the GHG
+emissions implications of the proposed plan, the plan is assessed for its consistency with the GHG emission reduction measures included in the Sonoma County Regional
+Climate Action Plan that were adopted by the City of Healdsburg in March 2018." (emphasis added) (DEIR 3.4-36)
+
+The assertion that the ideas in the CAP are still valid and aligned with strategies to reach the State's climate goals defies logic. While the general ideas in the CAP regarding smart land use and resource efficiency have value as broadly defined strategies, the Superior
+Court found unequivocally that, for most of the GHG reduction measures, their specific formulations in the CAP were too vague and unacceptably deferred to be enforceable. Most fundamentally, the Court found that the CAP and EIR lacked sufficient information to support the conclusion that the CAP would achieve its stated target of reducing countywide emissions to 25% below 1990 levels by 2020, primarily because of the omission of the trans-
+boundary travel induced emissions. Yet, inexplicably, the FEIR adopts as a standard for
+evaluating the GHG impacts of the NEAP its consistency with GHG emission reduction measures in the CAP adopted by the City in its March 2018 Resolution:
+"Through this Resolution, the Council has agreed to the following items related to
+GHG reduction efforts:
+1. Agree to support the efforts of the State and RCPA in reducing GHGs.
+2. Adopts the following focus areas to reduce GHG emissions and intends to implement local measures identified in the Climate Action 2020 and Beyond Plan.
+a) Low-carbon/No-carbon transportation
+b) Increased renewable energy
+c) Lowering of water-related GHG emissions
+d) City planning and land use 3. Plans to work toward increasing the health and resilience of social, natural, and
+built resources to withstand the impacts of climate change. 4. Supports the goals of the Climate Action Plan through positive action of the City and through collaboration with other local agencies and the RCPA." (emphasis added) (DEIR 3.4-32)
+
+May DeRosa
+City of Healdsburg
+Notice of Intent to Sue
+June 10, 2019
+Page 8
+The CAP, though legally invalid, does exist as an advisory document. It is within the discretion of the City to consult whatever sources of advice it chooses. However, it is a
+prejudicial abuse of discretion to rely on consistency with measures in the legally invalid CAP as a finding of significance and a basis for a finding of compliance with the State's overall GHG reduction goals. The Superior Court explicitly ruled that there was insufficient
+information in the CAP to support the conclusion that the measures in the CAP were in compliance with State GHG reduction goals. The other measures in the City's March, 2018 Resolution suffer from a lack of clearly defined, enforceable performance based standards - an additional deficiency of the NEAP FEIR discussed below.
+
+3. Legally Inadequate Mitigation Measures
+
+The DEIR concludes its analysis of the GHG emissions of the NEAP as follows:
+
+"In summary, although the proposed plan would not conflict with the GHG reduction measures included in the Regional Climate Action Plan, the Climate Action Plan would not be considered a qualified GHG reduction plan for the purposes of CEQA.
+Therefore, since the Climate Action Plan was adopted to meet the goals of AB 32, the
+proposed plan is also evaluated for consistency with the State plans to determine
+whether it would conflict with any other applicable plan, policy, or regulation adopted by the City for the purpose of reducing GHG emissions. As discussed in Impact GHG-1, GHG emissions would exceed the BAAQMD CEQA Guidelines
+recommended thresholds of significance. As a result, the proposed plan could conflict with applicable plan, policy or regulation adopted by the City to reduce the emissions of GHGs. The impact would be potentially significant. However, the GHG emissions
+during operation would not exceed BAAQMD's threshold of significance with
+implementation of MM GHG-1 (see Table 3.4-6). The impact would be less than
+significant with mitigation incorporated.' (DEIR 3.4-58)
+
+Mitigation Measures MM GHG-1
+66 Prior to the final discretionary approval for each development project in the plan area, each developer shall provide documentation to the City of Healdsburg demonstrating that the proposed development would meet the BAAQMD recommended threshold of significance for individual projects or would achieve
+additional GHG emissions reductions sufficient to meet the recommended threshold
+through a combination of one or more of the following measures and/or other
+comparable measures approved by the City:
+
+May DeRosa
+City of Healdsburg
+Notice of Intent to Sue
+June 10, 2019
+Page 9
+Commit to 100 percent renewable energy use through a combination of use of on- site renewable energy and Healdsburg Electric's "Green Rate" program. • Install on-site solar panels to generate electricity for on-site electricity consumption.
+Provide documentation how a ride-sharing program or other transportation demand management program for hotel, office, and retail employees would be implemented starting no later than 60 days after operations begin. Use of electric vehicles for ride- share program would further reduce GHG emissions
+• Install electric vehicle charging stations at workplaces and multi-family residences to promote the use of electric vehicles.
+• Use heat-pumps (rather than natural gas) for heating of residential and commercial
+spaces. Purchase voluntary carbon credits from a verified GHG emissions credit broker in
+an amount sufficient to offset operational GHG emissions that exceed the
+recommended significance threshold over the lifetime of the proposed development (or a reduced amount estimated based on implementation of other measures listed
+above). Copies of the contract(s) shall be provided to the City." (DEIR 3.4-46-47)
+(emphasis added)
+
+The above mitigation measures, whereby each project developer within the plan area
+is required to document how it would meet BAAQMD thresholds, is a prime example of invalid deferred mitigation under CEQA. The documentation is deferred to the time when each project developer submits an application.
+The terms of the documentation are much too vaguely defined to satisfy the requirement for clearly defined, enforceable performance based standards as mandated by CEQA; either demonstrate compliance with thresholds by undefined measures, or achieve
+additional GHG emissions reductions through one or more listed measures or "other
+comparable measures approved by the City".
+
+Of the additional listed measures, only the commitment to 100 percent renewable
+energy use is defined in terms that might qualify as clearly defined and enforceable. The
+measures regarding solar panels, heat pumps and charging stations all lack the quantification to make them practically enforceable. Purchasing carbon credits with no conditions other than coming from a qualified broker begs questions regarding the validity of the offsets. The dispositive language undermining the validity of the list of additional GHG reduction measures is the qualifying phrase "other comparable measures approved by the City", This violates both the prohibition against lack of clear performance based standards ("other
+comparable measures") and the prohibition against deferred mitigation- approved by the City
+
+()
+
+May DeRosa
+City of Healdsburg
+Notice of Intent to Sue
+June 10, 2019
+Page 10
+
+at time of specific project application.
+
+The first sentence of MM GHG-1- "Prior to the final discretionary approval for each development project ..." suggests the possibility of separate EIRs for future discretionary approvals of specific projects. However, as noted above, the intent of the DEIR is that the
+City will rely on the analysis in the NEAP EIR of impacts of the proposed land uses when considering future specific proposals:
+
+"It is anticipated that the plan and this EIR will be relied upon by the City when
+considering a specific proposal by Comstock Healdsburg, LLC to develop the North Village site in phases with senior residential, hotel, restaurant, retail, commercial
+office, and multi-family residential uses." (DEIR ES-2)
+
+For the NEAP FEIR to satisfy the informational function of CEQA, the FEIR must
+present facts and analysis which provide a clear analytical route taken by the City to reach
+the conclusion that implementation of the NEAP would result in less than significant GHG
+emissions with the NEAP's proposed mitigations. The underestimation of GHG emissions
+attributable to the proposed hotel represents an analytical gap in the calculation of the GHG
+emissions reasonably foresecable from implementation for the NEAP for which there is no reasonable explanation in the FEIR. CEQA requires a clear discussion of foreseeable impacts. The FEIR failed to meet this requirement by excluding data and sources which should have been included in the discussion of GHG emissions associated with the proposed
+hotel.
+
+The combination of relying on consistency with GHG mitigation measures identified in the legally invalid CAP, and additional reliance on inadequate mitigation measures in MM GHG-1 further undermines the conclusion of the FEIR that implementation of the NEAP will
+not have cumulatively significant GHG impacts.
+
+4. Overriding Considerations
+
+On May 20, 2019, the City Council adopted a Resolution certifying the FEIR,
+adopting CEQA Findings, a Mitigation Monitoring and Reporting Plan and a Statement of Overriding Considerations. Under CEQA, where a proposed project may result in significant impacts on the environment and it is infeasible to reduce impacts to less than significant levels through project alternatives or mitigation measures, a public agency may approve the project only if the benefits of the project outweigh the unavoidable adverse environmental
+effects. Section 15093 of the CEQA Guidelines requires the decision-making agency to
+
+May DeRosa
+City of Healdsburg Notice of Intent to Sue
+June 10, 2019
+Page 11
+balance the economic, legal, social, technological, or other benefits of a proposed project against its unavoidable environmental risks when determining whether to approve the
+project.
+
+"CEQA also gives public agencies the authority to approve a project notwithstanding its environmental impacts, if the agency determines it is not feasible to lessen or avoid the
+significant effects (Pub. Resources Code, § 21002; Cal. Code Regs., tit. 14, § 15043, subd.
+(a)), and if specifically identified benefits of the project outweigh the unavoidable, significant environmental impacts." City of Marina v. Board of Trustees, (2003) 109 Cal. App. 4th 1179, * 1186, Court of Appeal of California, Sixth Appellate District .
+
+The Statement of Overriding Considerations identified significant and unavoidable
+impacts related to traffic. It also identified specific considerations and benefits of the NEAP,
+each of which, allegedly, separately and independently, outweigh the significant, adverse impacts and is an overriding consideration independently warranting approval. These benefits
+include revitalizing a currently underutilized former industrial site, allowing for the construction of a minimum of 250 dwelling units and a cap of 290 dwelling units, promoting environmental sustainability by preserving surrounding hillsides, and providing construction
+jobs.
+
+CRW did not comment on traffic impacts and takes no position on the feasibility of
+lessening or avoiding said impacts. The findings are improper and do not comply with CEQA because the City only found that the benefits outweighed the traffic impacts. But the City failed to specifically find that the project benefits override the project's GHG impacts to local
+air quality and global climate. The Statement of Overriding Considerations does not consider the trans-boundary GHG emissions from tourist travel which is the gravamen of CRW's opposition to the NEAP. The City's finding that the benefits of the NEAP outweigh
+unavoidable, significant environmental impacts is further lacking in substantial evidence
+considering the FEIR's reliance on a legally invalid CAP and inadequate additional
+mitigation measures in determining the potential GHG emissions impacts from
+implementation of the NEAP.
+
+CONCLUSION
+
+Based on its review, CRW believes the FEIR is not in compliance with CEQA and that the City has failed to adequately respond to and address comments and concerns raised. CRW has previously provided the City with valid concerns and legal issues. In light of both
+the City's disregard for CRW's concerns and its failure to show the slightest interest in
+
+(
+
+May DeRosa
+City of Healdsburg
+Notice of Intent to Sue
+June 10, 2019
+Page 12
+engaging in any discussion with representatives of CRW, this office is serving this Notice to inform you that CRW intends to file suit in state court within the 30 days from the May 21, 2019 issuance of the Notice of Determination and will be seeking a Writ of Mandamus setting aside the certification of the FEIR and approval of the NEAP.
+Thank you for your attention to this matter. Please contact me directly with any response to this letter. Please also copy Jack Silver, Esquire with all email communications
+regarding this matter at jsilverenvironmental@gmail.com.
+
+Sincerely,
+Devr Bedaul Jerry Bernhaut
+JB Jouy Bemfaut
+
+PROOF OF PERSONAL SERVICE
+
+1. I am over the age of 18 years and not a party to this action.
+
+2. I served the following document:
+
+Notice of Intent to Sue City of Healdsburg North Entry Area Plan, Final Environmental Impact Report, Legal Compliance Under CEQA, Petition for
+Writ of Mandate
+
+3. I personally served the following person and/or entity at the address, date and time
+stated:
+
+a. Name: Maya DeRosa, Planning and Building Department
+City of Healdsburg
+b. Address: 401 Grove Street, Healdsburg, California 95448
+c. Date: June 17, 2019
+d. Time: 10:15 am.
+
+4. am not a registered California process server.
+
+5. My name, address, telephone number are as follows:
+Jerry Bernhaut
+23 Woodgreen Street
+Santa Rosa, CA 95409
+Tel. (707) 595-1852
+
+I declare under penalty of perjury under the laws of the State of California that the foregoing is true and correct. Executed this 17th day of June, 2019.
+
+Desr Be  duut
+Jerry Bernhaut
+Lery Bendut
+
+EXHIBIT B
+
+LAW OFFICE OF JERRY BERNHAUT
+23 Woodgreen Street
+Santa Rosa, CA 95409
+Telephone: (707) 595-1852
+E-mail: j3bernhaut@gmail.com
+
+Via Certified Mail
+Return Receipt Requested
+
+June 19, 2019
+
+Nicholas Long, Registered Agent Pete Perea, Chief Executive Officer
+Comstock Healdsburg, LLC
+2301 Rosecrans Avenue, Suite 1150
+El Segundo, CA 90245
+
+Re: Notice of Intent to Sue Re: Healdsburg North Entry Area Plan, Final Environmental Impact Report, Legal Compliance Under CEQA
+California River Watch, Petitioner v. City of Healdsburg, Respondent
+Sonoma County Superior Court Case No. SCV-264647
+Dear Mr. Long and Mr. Perea:
+
+This letter provides written notice to Comstock Healdsburg, LLC, that my client California
+River Watch ("CRW") intends to bring suit against Comstock Healdsburg, LLC, as a Real Party in
+Interest due to the City of Healdsburg's (the "City") May 20, 2019 decision to approve the City of Healdsburg North Entry Area Plan ("NEAP"). The City's approval of the NEAP and certification
+of the Final Environmental Impact Report (*FEIR") are in violation of the California Environmental Quality Act ("CEQA") Pub. Res. Code § 21000 et seq., and regulations pursuant thereto regarding
+CEQA Guidelines. Title 14, Calif. Code of Regs. ("CCR") § 15000, et seq. This Notice is being sent
+to Comstock Healdsburg, LLC based upon its ownership of the North Village Site which is the
+subject of the NEAP.
+
+INTRODUCTION
+
+Climate change is one of the most urgent global issues we face, with effects including loss of species, human hunger and death, and social and political disruption due to diminished food supply and loss of habitable terrain. We have seen direct effects locally in extreme weather events including fires and floods of historic scale and intensity.
+
+C
+
+Comstock Healdsburg, LLC
+Notice of Intent to Sue
+June 19, 2019
+Page 2
+
+CEQA Guidelines §15064.4 requires that a lead agency prepare an EIR if there is substantial evidence that the greenhouse gas ("GHG") emissions of a particular project are cumulatively considerable. The NEAP is an area plan, also referred to as a "project" in the Draft EIR ("DEIR"),
+the purpose of which is to "provide policy guidelines and development standards for the future construction and operation of a mixed-use community on the North Village site." (DEIR ES-1) At the May 20, 2019 City Council meeting, when the City decided to certify the FEIR and adopt the NEAP as a general plan amendment, there was some comment that the NEAP is a plan, rather than
+a project, and thus the City was not required to analyze its potential environmental impacts to the same level of specificity as an individual project. It is well established law that "All EIRs must cover the same general content. (Guidelines, § 15120-15132.) The level of specificity of an EIR is
+determined by the nature of the project and the 'rule of reason" Al Larson Boat Shop, Inc. v. Board
+of Harbor Commissioners, (1990) 18 Cal. App. 4th 729, 742, Court of Appeal of California, Second
+Appellate District, Division Three, citing Laurel Heights Improvement Assn. v. Regents of University
+of California (1988) Cal. Supreme Court, 47 Cal.3d at p. 407.
+
+Table 2-2 in the DEIR specifically breaks down the proposed residential and non-residential
+land uses to establish a "maximum" development scenario, which is used for the technical analyses
+in the DEIR. The proposed land uses include: 1) Multi-family Residences 290 units (435,000 gsf'),
+2) Hotel 130 rooms (130,000 gsf), 3) Commercial/Professional Services 40,000 gsf, and 4) Retail
+Uses 30,000 gsf. (DEIR 2-8). Thus the DEIR purports to analyze the environmental impacts of the
+proposed land uses in this "maximum development scenario" as the total environmental impacts of the NEAP. The rule of reason here dictates that the estimation of impacts of the proposed land uses be at a level of specificity appropriate for a project EIR. Of specific concern to CRW is the lack of analysis of GHG emissions impacts resulting from vehicle miles traveled ("VMT") by guests at the proposed hotel traveling from their point of origin to Healdsburg and back to their point of origin. The failure of the EIR to account for these emissions constitutes a failure to present a reasonably
+complete accounting of the proposed project's GHG emissions impacts as required by CEQA. This
+is of particular concern in light of the intent of the DEIR that the City will rely on the analysis in the
+NEAP EIR of impacts of the proposed land uses when considering future specific proposals: "It is anticipated that the plan and this EIR will be relied upon by the City when considering a specific proposal by Comstock Healdsburg, LLC to develop the North Village site in phases with senior residential, hotel, restaurant, retail, commercial office, and multi-family residential uses."2 (DEIR
+ES-2).
+
+'gsf = gross square feet
+
+2 The DEIR is incorporated into and certified as part of the FEIR.
+
+Comstock Healdsburg, LLC
+Notice of Intent to Sue
+June 19, 2019
+Page 3
+
+CRW has reviewed the City's Responses To Comments Received on the DEIR, published in the FEIR. It is the opinion of CRW that the City's responses do not fully address the problems
+CRW and others identified. Counsel for CRW has clearly delineated numerous substantial errors
+in the process of developing the NEAP, both in written comments and oral testimony before the
+Healdsburg Planning Commission and City Council.
+
+The City approved the NEAP May 20, 2019. On May 21, 2019, the City filed a Notice of
+Determination for the certification of the FEIR in the Office of the County Clerk for the County of
+Sonoma and the California State Office of Planning and Research. The posting of a Notice of
+Decision for this approval required my client to act within 30 days to proceed with any challenge pursuant to CEQA. An action entitled California River Watch, Petitioner v. City of Healdsburg,
+Respondent was timely filed on behalf of CRW on June 18, 2019, and assigned Case No. SCV- 264647. This letter serves as notice pursuant to Publ. Res. Code § 21167.5 that CRW has authorized
+me to amend that pleading to add Comstock Healdsburg, LLC as a Real Party In Interest.
+
+Given the importance of the significant biological resources and human health and well being
+that would be adversely affected by the NEAP, and the public interest nature of this case, CRW seeks
+to pursue a judgment that sets aside the approval of the NEAP and certification of the FEIR, and will
+request attorney's fees under the private attorney general provisions set forth in Code of Civ. Proc.
+§1021.5. We intend to pursue this action vigorously and without delay on behalf of CRW unless the City agrees to reverse its approval of the NEAP and certification of the FEIR.
+
+CEQA LEGAL DEFICIENCIES
+
+The grounds for my client's lawsuit include the following:
+
+1) Inadequate assessment of GHG emissions attributable to the proposed hotel.
+
+2) Reliance on the City's commitments to mitigation measures in legally invalid
+Sonoma County Climate Action Plan.
+
+3) Adoption of additional mitigation measures in Mitigation Measures MM GHG-1
+which lack specifically defined, enforceable performance based standards, and which
+are impermissibly deferred under CEQA.
+
+4) Adoption of an inadequate Statement of Overriding Considerations.
+
+Comstock Healdsburg, LLC
+Notice of Intent to Sue
+June 19, 2019
+Page 4
+
+CRW contends the NEAP is illegal for the following reasons:
+
+1. Failure to Provide an Accurate Assessment of GHG Emissions Which Would be Generated
+by the Project - Transportation-Related Emissions
+
+According to Table 2-2: Specific Development Summary, the NEAP includes a hotel with
+130 guest rooms. (DEIR 2-9). However, there is no accounting in the DEIR for reasonably
+foreseeable GHG emissions from VMT resulting from tourists staying at the hotel, traveling from
+regional and global points of origin to Healdsburg, and returning to their point of origin. The failure of the FEIR to account for these emissions constitutes a failure to present a reasonably complete accounting of the proposed project's GHG impacts as required by CEQA.
+There is ample evidence readily available demonstrating that increased global air travel is a reasonably foreseeable consequence of the NEAP's proposed hotel. The following is taken from
+the Sonoma County Economic Development Board:
+
+"Key tourism indicators show that travel is steadily increasing in Sonoma County
+following the economic downturn beginning in 2007-2008 and the October 2017
+wildfires. Destination spending, transient occupancy tax (TOT) receipts, industry
+earnings and local and state tax receipts are the highest that Sonoma County has seen in
+the last decade. Travelers from around the country and world are flocking to Sonoma
+County and supporting the local economy through increased spending."
+
+According to Sonoma County Tourism, Official Destination Marketing Organization of Sonoma County, Total passenger numbers for Sonoma County Airport reached an all-time high of
+77,413 for the first quarter of 2019. This in all likelihood reflects an increase from previous years
+due to recent additional direct flights to destinations including Colorado.
+
+The proposed hotel will provide added capacity. The above information shows a clear trend
+for more long distance travel to Sonoma County. Judicial precedent is clear that it is not the burden
+of the public to provide relevant information not provided by the lead agency. See Kings County Farm Bureau v. City of Hanford (1990) 221 Cal. App. 3d 692, 724. However, the above information is provided as prima facie evidence of the need for the FEIR to provide an assessment of foreseeable
+trans-city boundary emissions likely to be generated by the proposed hotel guests traveling to
+Healdsburg. The expansion of the Sonoma County Airport and the resulting traffic congestion is
+common knowledge, reported in local papers. a It is more than a little disingenuous for the FEIR to question whether providing additional hotel capacity will result in additional air travel.
+
+Comstock Healdsburg, LLC
+Notice of Intent to Sue
+June 19, 2019
+Page 5
+
+The FEIR could easily provide estimates of the travel profiles of the proposed hotel's anticipated guests, and from these calculate the resulting VMT impacts of the project. Contrary to
+the assertion in the FEIR:
+
+"It is not possible for a proposed project or plan to estimate or collect data on anticipated
+future tourist or air travel plans for a specific hotel project that has yet to be proposed, constructed and operated. The origin of travelers to the hotel could vary substantially, and
+there is no way to accurately determine either that origin or whether the hotel would
+induce additional global travel to the area. Rather, it is perhaps more likely that tourists would be traveling to the area for other local attractions, and this hotel component of the
+proposed plan would provide an alternative for lodging those tourists that are already
+traveling to the area." (FEIR 3-51).
+
+It is feasible for the City to collect data on historical VMT by airplane and other modes of
+travel associated with tourism in Sonoma County. This data is developed and used commonly for
+commercial investment purposes. Another likely source of such information is the data underlying
+the recent application for a $20 million grant from the Federal Aviation Administration for a Sonoma
+County Airport terminal expansion. The City could then calculate the proportional contribution of
+a proposed 130-room hotel to these reasonably foreseeable VMT induced emissions.
+
+This cumulative GHG emissions impacts analysis does not require speculation regarding
+anyone's future plans. The information for making reasonable estimates of air and other modes of
+travel associated with the proposed hotel, based on data showing clearly established patterns, is available if the City had a good faith interest in full disclosure as mandated by CEQA. A feasible
+methodology for estimating and allocating emissions to a proposed hotel was submitted in comments
+by CRW and by Tom Conlon, a recognized expert in data analysis and energy efficiency.
+
+2. Adopting Invalid Significance Findings as a Basis for Consistency With Statewide Emissions
+Goals
+:
+
+The DEIR cites recommendations by the State Supreme Court in Center for Biological
+Diversity v. California Department of Fish and Wildlife, (2015) 62 Cal. 4th 204 for categories of
+substantial evidence to support a finding that a project is consistent with meeting statewide emission
+reduction goals. The court found that consistency with statewide emissions reduction goals qualifies
+as a permissible criterion of significance. One evidentiary basis was compliance with a GHG
+Reduction Plan or Climate Action Plan. (DEIR 3.4-30).
+
+Comstock Healdsburg, LLC
+Notice of Intent to Sue
+June 19, 2019.
+Page 6
+
+The DEIR then proceeds to discuss the Sonoma County Climate Action Plan ("CAP") and
+its findings regarding countywide and City of Healdsburg GHG emissions:
+"As shown in Figure 3.4-4, Countywide emissions have decreased overall primarily due
+to a decrease in GHG emissions due to building energy usage." (DEIR 3.4-10) "GHG inventories for individual jurisdictions were included in the overall Sonoma County
+inventory. Total GHG emissions in Healdsburg increased from 109,000 MT CO2e in 2010 to 117,000 MT CO2e in 2015. Countywide emissions in 2010 were 16 percent
+above 1990 levels, and this percentage increased to 25 percent above 1990 levels in
+2015." (DEIR 3.4-11).
+
+The Sonoma County Superior Court, in its ruling invalidating the CAP and certification of its EIR, found that "...the inventory of greenhouse gas emissions is based on insufficient information; the PEIR fails to include enforceable, clearly defined performance standards for the mitigation
+measures regarding Green House Gas ("GHG") emissions, identified as 'GHG reduction measures;'
+and fails to develop and fully analyze a reasonable range of alternatives". Based on those findings
+the court concluded: "The Court finds that there is insufficient information in the administrative
+record to support the factual conclusion that the CAP will achieve its fundamental purpose of reducing Respondent's countywide GHG emissions to the stated target of 25% below 1990 levels
+by 2020". See Sonoma County Superior Court Case No. SCV-259242, California River Watch v.
+County of Sonoma, et al Order Granting Petition for Writ of Mandate, July 20, 2017, p.1-2.
+
+The NEAP DEIR relies on findings in the CAP's GHG inventory and a 2018 update using
+the same methodologies the Court found inadequate in its July 20, 2017 ruling. These findings are
+treated as established fact despite the Court's ruling that the CAP's GHG inventory was based on
+insufficient information. The insufficient information to support the CAP GHG inventory (and by extension its update) was in part exactly the same scope of information omitted in the DEIR
+evaluation of the GHG emissions impacts of the NEAP, i.e. trans-boundary VMT induced emissions
+from tourist travel.
+
+"Although the Climate Action Plan no longer serves as a CEQA tool, the document does still serve to advise and coordinate Countywide climate protection efforts. The ideas
+contained in the Climate Action Plan to advance smart land use and resource
+efficiency are still valid and aligned with the climate action strategies stated in the Scoping Plan to reach the State's overall GHG reduction goals." As a result, the City
+adopted a resolution in March 2018 to address GHG emissions consistent with the CAP.
+Therefore, in order to comprehensively evaluate the GHG emissions implications of the
+proposed plan, the plan is assessed for its consistency with the GHG emission reduction
+
+Comstock Healdsburg, LLC
+Notice of Intent to Sue
+June 19, 2019
+Page
+
+measures included in the Sonoma County Regional Climate Action Plan that were
+adopted by the City of Healdsburg in March 2018." (emphasis added) (DEIR 3.4-36).
+
+The assertion that the ideas in the CAP are still valid and aligned with strategies to reach the
+State's climate goals defies logic. While the general ideas in the CAP regarding smart land use and
+resource efficiency have value as broadly defined strategies, the Superior Court found unequivocally that, for most of the GHG reduction measures, the specific formulations in the CAP were too vague
+and unacceptably deferred to be enforceable. Most fundamentally, the Court found that the CAP and
+EIR lacked sufficient information to support the conclusion that the CAP would achieve its stated target of reducing countywide emissions to 25% below 1990 levels by 2020, primarily because of the omission of the trans-boundary travel induced emissions. Yet, inexplicably, the FEIR adopts as
+a standard for evaluating the GHG impacts of the NEAP its consistency with GHG emission reduction measures in the CAP adopted by the City in its March 2018 Resolution:
+
+"Through this Resolution, the Council has agreed to the following items related to GHG
+reduction efforts:
+1.
+2. Agree to support the efforts of the State and RCPA in reducing GHGs. Adopts the following focus areas to reduce GHG emissions and intends to
+implement local measures identified in the Climate Action 2020 and Beyond
+Plan.
+a) b) Low-carbon/No-carbon transportation
+Increased renewable energy
+c) Lowering of water-related GHG emissions
+d) City planning and land use
+3. Plans to work toward increasing the health and resilience of social, natural, and
+built resources to withstand the impacts of climate change.
+4. Supports the goals of the Climate Action Plan through positive action of the City
+and through collaboration with other local agencies and the RCPA." (emphasis
+added) (DEIR 3.4-32).
+
+The CAP, though legally invalid, does exist as an advisory document. It is within the
+discretion of the City to consult whatever sources of advice it chooses. However, it is a prejudicial
+abuse of discretion to rely on consistency with measures in the legally invalid CAP as a finding of
+significance and a basis for a finding of compliance with the State's overall GHG reduction goals.
+The Superior Court explicitly ruled that there was insufficient information in the CAP to support the
+conclusion that the measures in the CAP were in compliance with State GHG reduction goals. The
+other measures in the City's March, 2018 Resolution suffer from a lack of clearly defined, enforceable performance based standards an additional deficiency of the NEAP FEIR discussed
+below.
+
+Comstock Healdsburg, LLC
+Notice of Intent to Sue
+June 19, 2019
+Page 8
+
+3. Legally Inadequate Mitigation Measures
+
+The DEIR concludes its analysis of the GHG emissions of the NEAP as follows:
+
+"Tn summary, although the proposed plan would not conflict with the GHG reduction
+measures included in the Regional Climate Action Plan, the Climate Action Plan would
+not be considered a qualified GHG reduction plan for the purposes of CEQA. Therefore,
+since the Climate Action Plan was adopted to meet the goals of AB 32, the proposed plan is also evaluated for consistency with the State plans to determine whether it would
+conflict with any other applicable plan, policy, or regulation adopted by the City for the
+purpose of reducing GHG emissions. As discussed in Impact GHG-1, GHG emissions
+would exceed the BAAQMD CEQA Guidelines recommended thresholds of
+significance. As result, the proposed plan could conflict with applicable plan, policy or regulation adopted by the City to reduce the emissions of GHGs. The impact would
+be potentially significant. However, the GHG emissions during operation would not
+exceed BAAQMD's threshold of significance with implementation of MM GHG-1 (see
+Table 3.4-6). The impact would be less than significant with mitigation incorporated."
+(DEIR 3.4-58).
+
+Mitigation Measures MM GHG-1
+Prior to the final discretionary approval for each development project in the plan area,
+each developer shall provide documentation to the City of Healdsburg demonstrating that
+the proposed development would meet the BAAQMD recommended threshold of
+significance for individual projects or would achieve additional GHG emissions
+reductions sufficient to meet the recommended threshold through a combination of one
+or more of the following measures and/or other comparable measures approved by
+the City:
+
+Commit to 100 percent renewable energy use through a combination of use of on-site
+renewable energy and Healdsburg Electric's "Green Rate" program.
+• Install on-site solar panels to generate electricity for on-site electricity consumption.
+Provide documentation how a ride-sharing program or other transportation demand management program for hotel, office, and retail employees would be implemented starting no later than 60 days after operations begin. Use of electric vehicles for ride-
+share program would further reduce GHG emissions • Install electric vehicle charging stations at workplaces and multi-family residences to promote the use of electric vehicles. Use heat-pumps (rather than natural gas) for heating of residential and commercial
+spaces.
+
+Comstock Healdsburg, LLC
+Notice of Intent to Sue
+June 19, 2019
+Page 9
+a • Purchase voluntary carbon credits from a verified GHG emissions credit broker in an
+amount sufficient to offset operational GHG emissions that exceed the recommended
+significance threshold over the lifetime of the proposed development (or a reduced
+amount estimated based on implementation of other measures listed above). Copies of
+the contract(s) shall be provided to the City." (emphasis added) (DEIR 3.4-46-47).
+
+The above mitigation measures, whereby each project developer within the plan area is
+required to document how it would meet BAAQMD thresholds, is a prime example of invalid
+deferred mitigation under CEQA. The documentation is deferred to the time when each project
+developer submits an application.
+
+The terms of the documentation are much too vaguely defined to satisfy the requirement for
+clearly defined, enforceable performance based standards as mandated by CEQA - either demonstrate
+compliance with thresholds by undefined measures, or achieve additional GHG emissions reductions
+through one or more listed measures or "other comparable measures approved by the City".
+Of the additional listed measures, only the commitment to 100 percent renewable energy use
+is defined in terms that might qualify as clearly defined and enforceable. The measures regarding
+solar panels, heat pumps and charging stations all lack the quantification to make them practically
+enforceable. Purchasing carbon credits with no conditions other than coming from a qualified broker
+begs questions regarding the validity of the offsets. The dispositive language undermining the validity of the list of additional GHG reduction measures is the qualifying phrase "other comparable
+measures approved by the City". This violates both the prohibition against lack of clear performance based standards ("other comparable measures") and the prohibition against deferred mitigation-
+approved by the City at time of specific project application.
+
+The first sentence of MM GHG-1- "Prior to the final discretionary approval for each
+29 development project .." suggests the possibility of separate EIRs for future discretionary approvals of specific projects. However, as noted above, the intent of the DEIR is that the City will rely on the analysis in the NEAP EIR of impacts of the proposed land uses when considering future specific
+proposals:
+
+"It is anticipated that the plan and this EIR will be relied upon by the City when
+considering a specific proposal by Comstock Healdsburg, LLC to develop the North
+Village site in phases with senior residential, hotel, restaurant, retail, commercial office,
+and multi-family residential uses." (DEIR ES-2).
+
+Comstock Healdsburg, LLC
+Notice of Intent to Sue
+June 19, 2019
+Page 10
+
+For the FEIR to satisfy the informational function of CEQA, the FEIR must present facts and analysis which provide a clear analytical route taken by the City to reach the conclusion that
+implementation of the NEAP would result in less than significant GHG emissions with the NEAP's
+proposed mitigations. The underestimation of GHG emissions attributable to the proposed hotel represents an analytical gap in the calculation of the GHG emissions reasonably foreseeable from
+implementation for the NEAP for which there is no reasonable explanation in the FEIR. CEQA
+requires clear discussion of foreseeable impacts. The FEIR failed to meet this requirement by excluding data and sources which should have been included in the discussion of GHG emissions
+associated with the proposed hotel.
+
+The combination of relying on consistency with GHG mitigation measures identified in the
+legally invalid CAP, and additional reliance on inadequate mitigation measures in MM GHG-1
+further undermines the conclusion of the FEIR that implementation of the NEAP will not have
+cumulatively significant GHG impacts.
+
+4. Overriding Considerations
+
+On May 20, 2019, the City Council adopted Resolution certifying the FEIR, adopting
+CEQA Findings, a Mitigation Monitoring and Reporting Plan and a Statement of Overriding
+Considerations. Under CEQA, where a proposed project may result in significant impacts on the environment and it is infeasible to reduce impacts to less than significant levels through project alternatives or mitigation measures, a public agency may approve the project only if the benefits of
+the project outweigh the unavoidable adverse environmental effects. Section 15093 of the CEQA
+Guidelines requires the decision-making agency to balance the economic, legal, social, technological,
+or other benefits of a proposed project against its unavoidable environmental risks when determining
+whether to approve the project.
+
+"CEQA also gives public agencies the authority to approve a project notwithstanding its environmental impacts, if the agency determines it is not feasible to lessen or avoid the significant
+effects (Pub. Resources Code, § 21002; Cal. Code Regs., tit. 14, co? 15043, subd. (a)), and if
+specifically identified benefits of the project outweigh the unavoidable, significant environmental
+impacts." City of Marina v. Board of Trustees, (2003) 109 Cal. App. 4th 1179, 1186, Court of
+Appeal of California, Sixth Appellate District.
+
+The Statement of Overriding Considerations identified significant and unavoidable impacts
+related to traffic. It also identified specific considerations and benefits of the NEAP, each of which,
+allegedly, separately and independently, outweigh the significant, adverse impacts and is an
+overriding consideration independently warranting approval. These benefits include revitalizing a
+currently underutilized former industrial site, allowing for the construction of a minimum of 250
+
+Comstock Healdsburg, LLC
+Notice of Intent to Sue
+June 19, 2019
+Page 11
+dwelling units and a cap of 290 dwelling units, promoting environmental sustainability by preserving
+surrounding hillsides, and providing construction jobs.
+
+CRW did not comment on traffic impacts and takes no position on the feasibility of lessening
+or avoiding said impacts. The findings are improper and do not comply with CEQA because the City
+only found that the benefits outweighed the traffic impacts. But the City failed to specifically find
+that the project benefits override the project's GHG impacts to local air quality and global climate.
+The Statement of Overriding Considerations does not consider the trans-boundary GHG emissions
+from tourist travel which is the gravamen of CRW's opposition to the NEAP. The City's finding that
+the benefits of the NEAP outweigh unavoidable, significant environmental impacts is further lacking in substantial evidence considering the FEIR's reliance on legally invalid CAP and inadequate
+additional mitigation measures in determining the potential GHG emissions impacts from
+implementation of the NEAP.
+
+CONCLUSION
+
+Based on its review, CRW believes the FEIR fails to comply with CEQA and that the City
+failed to adequately respond to and address comments and concerns raised. CRW has previously
+provided the City with valid concerns and legal issues. In light of both the City's disregard for CRW's concerns and its failure to show the slightest interest in engaging in any discussion with representatives of CRW, this office served the lawsuit previously identified, and is serving this Notice to inform Comstock Healdsburg, LLC that CRW intends to amend the pleadings in
+SCV264647 to add Comstock Healdsburg, LLC as a Real Party in Interest in that action which seeks
+a Writ of Mandate setting aside the certification of the FEIR and approval of the NEAP.
+Thank you for your attention to this matter. Please contact me directly with any response to
+this letter. Please also copy Jack Silver, Esquire with all email communications regarding this matter
+at isilverenvironmental@gmail.com.
+
+Sincerely,
+Devy BerrAaut Jerry Bernhaut
+JB Lro Bemlaunt
+
+ATTORNEY OR PARTY WITHOUT ATTORNEY (Name and Address); TELEPHONE NO.: FOR COURT USE ONLY
+Jack Silver, 160575
+Law Office of Jack Silver (707)528-8175
+708 Gravenstein Hwy No. , # 407
+Sebastopol, CA 95472 Ref. No. or Fie No,
+ATTORNEY FOR (Namo):
+t name of court, judicial d'istrict or brench court, M anry:
+Law Office of Jack Silver
+
+PLAINTIFF:
+
+DEFENDANT:
+
+Comstock Healdsburg LLC
+
+DATE: CASE NUMBER:
+
+PROOF OF SERVICE None
+BY FAX 1. At the time of service I was a citizen of the United States, over 18 years of age and not a party to this action, and I served copies of: Notice of Intent To Sue
+
+2. Party Served: Comstock Healdsburg LLC
+
+3. Person Served: Nicholas Long - Person Authorized to Accept Service of Process
+
+a. Left with: Donna Sanders - Office Manager - Person In Charge Of Office
+
+4. Date & Time of Delivery: 06/27/2019 4:08PM
+
+5. Address, Citÿ and State: 2301 Rosecrans A venue, 1150
+El Segundo, CA 90245
+
+6. Manner of Service: By leaving the copies with or in the presence of Donna Sanders - Office Manager , (business) a person at least 18 years of age apparently in charge of the office or usual place of business of the person served. I informed him/her of the general nature of the papers. I caused the
+copies to be mailed (if applicable). A declaration of mailing is attached.
+
+Fee for Service: $ 142.75 tdeciare under penatty of perjury under the taws of the United States of
+Registered California process server. County: Los Angeles America and the State of California that the foregoing is true and correct and that this declaration was executed on 06/28/2019 at Los Angeles, California.
+Registration No.: 5644 Expiration: Gabriela Melendez
+One Legal - 194-Marin
+1400 North McDowell Blvd, Ste 300 c. C *:2.
+
+Petaluma, CA 94954 Signature: f..
+
+415-491-0606 Gabriela Melendez
+OL#: 13424720
+
+ATTORNEY OR PARTY WITHOUT ATTORNEY (Name and Address) TELEPHONE NO: FOR COURT USE ONLY
+Jack Silver, 160575
+Law Office of Jack Silver (707)528-8175
+708 Gravenstein Hwy No.
+Sebastopol, CA 95472 Ref, No. or Fle No.
+ATTORNEY FOR (Name):
+triseri namo of court, judiolel disbist or branch court, i eny:
+Law Office of Jack Silver
+
+PLAINTIFF:
+
+DEFENDANT:
+
+Comstock Healdsburg LLC
+
+DATE: TIME: DEPT/DIV: CASE NUMBER:
+PROOF OF SERVICE BY MAIL BFAX I am a citizen of the United States, over the age of 18 and not a party to the within action. My business address is 1400 N. McDowell Blvd, Petaluma, CA 94954.
+
+On 06/28/2019, after substituted service under section CCP 415.20(a) or 415.20(b) or FRCP 4(e)(2)(B) or FRCP 4(h)(1)(B) was made (if applicable), I mailed copies of the:
+
+Notice of Intent To Sue
+
+to the person to be served at the place where the copies were left by placing a true copy thereof enclosed in a sealed envelope, with First Class postage thereon fully prepaid, in the United States Mail at Los Angeles, California, addressed as follows:
+
+Comstock Healdsburg LLC
+Nicholas Long
+2301 Rosecrans A venue, 1150
+El Segundo, CA 90245
+am readily familiar with the firm's practice for collection and processing of documents for mailing. Under that practice, it would be deposited within the United States Postal Service, on that same day, with postage thereon fully prepaid, in the ordinary course of business. I am aware that on motion of the party served, service is presumed invalid if postal cancellation date or postage meter date is more than one (1) day after date of deposit for mailing in affidavit.
+
+Fee for Service: $ 142.75
+
+Fabian Crisanto* declare under penalty of perjury under the laws of the United States of
+One Legal - 194-Marin America and the State of California that the foregoing is true and correct and
+that this declaration was executed on 06/28/2019 at Los Angeles, California.
+1400 North McDowell Blvd, Ste 300
+Petaluma, CA 94954
+
+Fabian Crisanto
+
+OL#: 13424720
+
+SUM-100
+SUMMONS ON AMENDED COMPLAINT FOR COURT USE ONLY
+(CITACION JUDICIAL) (SOLO PARA USO DE LA CORTE)
+
+NOTICE TO DEFENDANT:
+(AVISO AL DEMANDADO): ENDORSED
+
+City of Healdsburg, Respondent FILED
+Comstock Healdsburg, LLC, Real Party in Interest
+YOU ARE BEING SUED BY PLAINTIFF: JUN 28 2019
+
+(LO ESTÁ DEMANDANDO EL DEMANDANTE): SUPERIOR COURT OF CALIFORNIA
+California River Watch, an IRC Section 501(c)(3), non-profit, public COUNTY OF SONOMA
+benefit corporation
+NOTICEI You have been sued. The court may decide against you without your being heard unless you respond within 30 days. Read the information below.
+You have 30 CALENDAR DAYS after this summons and legal papers are served on you to file a written response at this court and have a copy served on the plaintiff. A letter or phone call will not protect you. Your written response must be in proper legal form if you want the court to hear your case. There may be a court form that you can use for your response. You can find these court forms and more information at the Califomia Courts Online Self-Help Center (www.courtinfo.ca.gov/selfhelp), your county law llbrary, or the courthouse nearest you. If you cannot pay the filing fee, ask the court clerk for a fee waiver form. If you do not file your response on time, you may lose the case by default, and your wages, money, and property may be taken without further waming from the court. There are other legal requirements. You may want to call an attorney right away. If you do not know an attomey, you may want to call an altorney referral servlce. If you cannot afford an attorney, you may be eligible for free legal services from a nonprofit legal services program. You can locate these nonprofit groups at the California Legal Services Web site (www.lawhelpcalifornia.org), the California Courts Online Self-Help Center (www.courtinfo.ca.gov/selfhelp), or by contacting your local court or county bar association. NOTE: The court has a statutory lien for waived fees and costs on any settlement or arbitration award of $10,000 or more in a clvil case. The court's lien must be paid before the court will dismiss the case. ¡AVISOI Lo han demandado. Si no responde dentro de 30 días, la corte puede decidir en su contra sin escuchar su versión. Lea la información a
+| continuación. Tiene 30 DÍAS DE CALENDARIO después de que le entreguen esta citeción y papeles legales para presentar una respuesta por escrito en esta corte y hacer que se entregue una copia al demandante. Una carta o una llamada telefónica no lo protegen. Su respuesta por escrito tiene que estar en formato legal correcto si desea que procesen su caso en la corte. Es posible que haya un formulario que usted pueda usar para su respuesta. Puede encontrar estos formularios de la corte : de más información en el Centro de Ayuda de las Cortes de Califoria (www.sucorte.ca.gov), en la biblioteca de leyes de su condado o en la corte que le quede más cerca. Si no puede pagar la cuota de presentación, pida al secretario de la corte que le dé un formulario de exención de pago de cuotas. Si no presenta su respuesta a tiempo, puede perder el caso por incumplimiento y la corte le podrá quitar su sueldo, dinero y bienes sin más advertencia. Hay otros requisitos legales. Es recomendable que llame a un abogado inmediatamente. Si no conoce a un abogado, puede llamar a un servicio de remisión a abogados. Si no puede pagar a un abogado, es posible que cumpla con los requisitos para obtener servicios legales gratuitos de un programa de servicios legales sin fines de lucro. Puede encontrar estos grupos sin fines de lucro en el sitio web de Califomia Legal Services, (www.lawhelpcalifomia.org), en el Centro de Ayuda de las Cortes de Califomia, (www.sucorte.ca.gov) o poniéndose en contacto con la corte o el colegio de abogados locales. AVISO: Por ley, la corte tiene derecho a reclamar las cuotas y los costos exentos por imponer un gravamen sobre cualquier recuperación de $10,000 ó más de valor recibida mediante un acuerdo o una concesión de arbitraje en un caso de derecho civil. Tiene que pagar el gravamen de la corte antes de que la corte pueda desechar el caso.
+The name and address of the court is: (EI nombre y dirección de la corte es): Sonoma County Superior Court CASE NUMBER:
+(Número del Caso):
+
+600 Administration Drive, Room 107-J SCV-264647
+
+Santa Rosa, CA 95403
+The name, address, and telephone number of plaintiff's attorney, or plaintiff without an altorney, is: (El nombre, la dirección y el número de teléfono del abogado del demandante, o del demandante que no tiene abogado, es): Jerry Bernhaut, Esq., 23 Woodgreen St. Santa Rosa, CA 95409 Tel. 707-595-1852
+
+DATE: JUN 2 8 2019 ARLENE D. JUNIOR Clerk, by Deputy
+(Fecha) (Secretario) Angela Mendia
+(For proof of service of this summons, use Proof of Service of Summons (form POS-010).) (Adjunto)
+
+(Para prueba de entrega de esta citatión use el formulario Proof of Service of Summons, (POS-010)).
+
+[SEAL) NOTICE TO THE PERSON SERVED: You are served
+1. as an individual defendant.
+2. as the person sued under the fictitious name of (specify):
+
+3. -J on behalf of (specify):
+under: B E CCP 416.10 (corporation) CCP 416.60 (minor)
+CCP 416.20 (defunct corporation) CCP 416.70 (conservatee)
+CCP 416.40 (association or partnership) CCP 416.90 (authorized person)
+other (specify):
+4. by personal delivery on (date): Paga 1 of 1
+Forn Adopted for Mandatory |
+Judicial Council of Califomia SUMMONS Code of Civil Procedure 55 412.20, 485
+SUM-100 [Rev. Juty 1, 2009] www.courtinfo.ca.gov
+
+DECEIVEN JUL:0 1 2019 BY:________

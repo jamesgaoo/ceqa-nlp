@@ -1,0 +1,1442 @@
+;
+
+BLUM COLLINS, LLP
+
+2 Steven A. Blum (Bar No. 133208) Gary Ho (Bar No. 229995)
+
+3 707 Wilshire Boulevard, Suite 4880 Los Angeles, California 90017-3501
+
+4 Telephone: 213.572.0400 Facsimile: 213.572.0401
+
+5 Attorneys for Petitioner
+
+6 Golden State Environmental Justice Alliance
+
+7
+
+8
+
+9 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+10 COUNTY OF RIVERSIDE
+
+11 GOLDEN STATE ENVIRONMENTAL
+JUSTICE ALLIANCE, a California not for Case No.
+
+12 profit corporation,
+
+13 Petitioner, NOTICE TO THE ATTORNEY GENERAL
+
+14 OF COMMENCEMENT OF ACTION
+
+V. [Pub. Resources Code § 21167.7 and Code of
+
+15 CITY OF RIVERSIDE, a California Civil Procedure § 388]
+
+municipal corporation; CITY OF
+16 RIVERSIDE CITY COUNCIL, a public
+
+17 entity; and DOES 1 through 100,
+
+18 Respondents,
+
+19 AFG DEVELOPMENT, LLC, a California limited liability company; and DOES 101
+
+20 through 200,
+
+21 Real parties in interest.
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE OF COMMENCEMENT OF ACTION
+TO ATTORNEY GENERAL -
+
+- TO THE ATTORNEY GENERAL OF THE STATE OF CALIFORNIA
+
+2 Pursuant to Pub. Resources Code § 21167.7 and Code of Civil Procedure § 388,
+
+3 Petitioner Golden State Environmental Justice Alliance hereby notifies you that it is filing a
+
+4 Petition for Writ of Mandate in the above-captioned action against the City of Riverside and the
+
+5 City of Riverside City Council alleging violations of the California Environmental Quality Act.
+
+6 A true and correct copy of that Petition is enclosed.
+
+7
+
+8 Dated: July 2, 2019
+
+BLUM COLLINS, LLP 9
+STEVEN A. BLUM
+GARY HO 10
+
+11
+
+12
+By Gary Ho 13
+Attorneys for Petitioner 14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE OF COMMENCEMENT OF ACTION
+TO ATTORNEY GENERAL 2
+
+BLUM COLLINS, LLP
+
+2 Steven A. Blum (Bar No. 133208) Gary Ho (Bar No. 229995)
+
+3 707 Wilshire Boulevard, Suite 4880 Los Angeles, California 90017-3501
+
+4 Telephone: (213) 572-0400 Facsimile: (213) 572-0401
+Attorneys for Petitioner
+
+6 Golden State Environmental Justice Alliance
+
+7
+
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+COUNTY OF RIVERSIDE
+
+10
+GOLDEN STATE ENVIRONMENTAL 11 JUSTICE ALLIANCE, a California not for Case No.
+
+12 profit corporation,
+
+13 Petitioner, VERIFIED PETITION FOR WRIT OF
+MANDATE PURSUANT TO THE
+
+14 V. CALIFORNIA ENVIRONMENTAL
+QUALITY ACT
+
+15 CITY OF RIVERSIDE, a California municipal corporation; CITY OF RIVERSIDE CITY COUNCIL, a public [Code of Civil Procedure §§ 1085, 1094.5;
+
+16 entity; and DOES 1 through 100, Pub. Resources Code § 21000 et seq.]
+
+17 Case Designation: CEQA
+Respondents,
+
+18 AFG DEVELOPMENT, LLC, a California
+
+19 limited liability company; and DOES 101 through 200,
+
+20 Real parties in interest.
+
+21
+
+22
+
+23 Pursuant to California Code of Civil Procedure sections 1085 and/or 1094.5 and
+24 California Public Resources Code section 21000 et seq., Golden State Environmental Justice
+25 Alliance, a California not for profit corporation ("Petitioner") brings this action on its own
+26 | behalf, on behalf of its members, and on behalf of the general public to enforce the California
+27 Environmental Quality Act ("CEQA") and alleges:
+28
+
+'PETITION FOR WRIT OF MANDATE (CEQA) A
+
+H
+
+2 INTRODUCTION
+
+1.
+3 Petitioner Golden State Environmental Justice Alliance ("Petitioner") challenges
+
+4 the Exchange Project ("Project"), located in the County of Riverside. The proposed Project
+
+5 analyzed in the EIR consists of 35.4 acres of vacant land with mixed-use project that includes
+
+6 the following components: 1) A multi-family residential complex consisting of 482 multi-family
+
+7 residential dwelling units on approximately 18.4 acres on the northern area of the site; 2) multi-
+
+8 tenant commercial buildings, a vehicle fueling station with a convenience store and drive-thru
+
+9 carwash, and a stand-alone drive-thru restaurant, totaling 49,000 square feet, on approximately
+
+10 7.6 acres on the southwest area of the site; 3) two hotels, containing 229 rooms, and 23 parking
+
+11 spaces for overnight parking of recreational vehicles, on approximately 7.4 acres near the
+
+12 southeast area of the site; and 4) outdoor entertainment and activities (e.g., farmers market, live
+
+13 entertainment, and car shows).
+
+14 2. City of Riverside and City of Riverside City Council (*Respondents") certified
+
+15 the Environmental Impact Report ("EIR") for the Project.
+
+16 3. In approving the Project, the Respondents violated provisions of CEQA requiring
+
+17 that the EIR adequately analyze significant adverse environmental impacts. The Respondents
+
+18 further violated the requirement that it analyze a reasonable range of alternatives, and that it
+
+19 adopt an environmentally superior alternative. Respondents failed to adopt all feasible
+
+20 mitigation for project impacts, and the analysis of impacts and the planned mitigation measures
+
+21 is uncertain and is unreasonably deferred. The level of review adopted by Respondents was
+
+22 insufficient and therefore did not allow decision makers to intelligently consider the
+
+23 environmental consequences of the Project.
+
+4.
+24 Respondents' Findings of Fact and Statement of Overriding Considerations were
+
+25 not supported by substantial evidence in the record. The Statement of Overriding Considerations
+
+26 was improperly adopted when feasible mitigation measures and alternatives existed to lessen
+
+27 significant project impacts.
+
+28
+
+PETITION FOR WRIT OF MANDATE (CEQA) 2
+
+F
+JURISDICTION AND VENUE
+2°
+5. This Court has jurisdiction under Code of Civil Procedure sections 1085 and
+3
+1094.5 and for declaratory relief under Code of Civil Procedure section 1060. The Court has 4
+jurisdiction of CEQA matters pursuant to Pub. Resources Code sections 21168, 21168.5, and 5
+21168.9.
+6
+6. Venue is proper in this Court because the Respondents and Project are located in 7
+Riverside County and the actions giving rise to the causes of action herein transpired in 8 Riverside County. See Code of Civil Procedure § § 393 and 394. 9
+7. This action is timely filed within 30 days of the posting of the Notice of 10
+Determination under CEQA. 11
+8. Petitioner has exhausted its administrative remedies by commenting on the 12
+
+13 Project prior to the close of the public hearing on the Project in compliance with Public
+Resources Code section 21177(b). 14
+9. Petitioner has complied with CEQA by filing and serving with this Petition for 15
+
+16 Writ of Mandate a Notice to the MJPA of Intent to File pursuant to Pub. Resources Code section
+21167.5, a Notice to Attorney General of Commencement of Action pursuant to Pub. Resources 17
+Code section 21167.7 and Code of Civil Procedure section 388, and a Notice of Commencement 18
+of Action to Responsible Agencies pursuant to Public Resources Code section 21167.6.5. 19
+
+20
+PARTIES
+21
+10. Petitioner Golden State Environmental Justice Alliance ("Petitioner") is a 22
+
+23 California not for profit corporation devoted to the preservation of the environment as well as the
+promotion of safe and healthy communities. It is a corporation formed and operating under the 24
+laws of the State of California. Members of Petitioner are taxpayers who reside near the Project 25
+
+26 and would be irreparably harmed by the Project's environmental impacts and have an interest in
+ensuring open, accountable, and responsive government and in protecting the region's 27
+environment. Petitioner and its members submitted comments on the Project, bring this action 28
+
+'PETITION FOR WRIT OF MANDATE (CEQA) 3
+
+1
+
+2 on behalf of the public, and are acting as private attorneys general conferring a significant benefit
+on the general public or a large class of persons under Code of Civil Procedure section 1021.5.
+3
+11.
+4 Respondents City of Riverside, a municipal corporation, and City of Riverside
+
+5 City Council, a public entity ("Respondents") are located in Riverside County and are the lead
+
+6 agencies for the Project under CEQA. Respondents are the agencies charged with regulating and
+
+7 administering land use and development within their territory in compliance with the provisions
+
+8 of its General Plan and zoning ordinances as well as applicable provisions of state law including
+
+9 CEQA. As the lead agencies for the Project, Respondents have the duty to ensure compliance
+
+10 with these applicable laws. Respondents are authorized and required by law to hold public
+
+11 hearings, to determine whether CEQA applies to development within their jurisdiction, to
+
+12 determine the adequacy of and certify environmental documents prepared pursuant to CEQA,
+
+13 and to determine whether a project is compatible with the objectives, policies, general land uses,
+
+14 and programs specified in the General Plan.
+
+12.
+15 Real Party In Interest, AFG Development, LLC, is the applicant for the Project
+
+16 and is therefore served as Real Party in Interest pursuant to Public Resources Code section
+
+17 21167.6.5(a). AFG Development, LLC, is a California limited liability company that is located
+
+18 and does business in the County of Riverside.
+
+13.
+19 The true names and capacities of the Respondents and Defendants identified as
+
+20 DOES 1 through 100, and of the Real Parties in Interest identified as DOES 101 through 200 are
+
+21 unknown to Petitioner, who will seek the Court's permission to amend this pleading in order to
+
+22 allege the true names and capacities as soon as they are ascertained. Petitioner is informed and
+
+23 believes and on that basis, alleges that the fictitiously named Respondents and Defendants
+
+24 through 100 have jurisdiction by law over one or more aspects of the Project that is the subject
+
+25 of this proceeding; and that each of the fictitiously named Real Parties in Interest 101 through
+
+26 200 either claims an ownership interest in the Project or has some cognizable interest in the
+
+Project.
+27
+
+28
+
+'PETITION FOR WRIT OF MANDATE (CEQA) 4
+
+2° STATEMENT OF FACTS AND COMMON ALLEGATIONS
+
+14. Petitioner opposes the Project and challenges certain actions taken by
+
+4 Respondents. In particular, Petitioner seeks to invalidate the approvals with respect to the
+Project on the grounds that Respondents have violated CEQA, the Planning and Zoning Law,
+and other laws.
+6
+15.
+7 Petitioner seeks review by and relief from this Court under Public Resources
+
+8 Code Section 21168 or 21168.5 as applicable; and Code of Civil Procedure Sections 1060 et seq.
+and 1084 et seq., among other provisions of law.
+9
+16.
+10 Petitioner has satisfied all exhaustion-of-remedies requirements to maintain this
+
+11 proceeding. By way of example and without limitation, Petitioner submitted written opposition
+
+12 to the Project during the administrative proceedings for the Project.
+
+17.
+13 Alternatively, and additionally, neither Public Resources Code Section 21177(a)-
+
+14 (b) nor any other exhaustion-of-remedies requirement may be applied to Petitioner.
+18.
+15 Respondents' conduct in approving the Project without complying with CEQA
+
+16 constitutes a prejudicial abuse of discretion because, as alleged in this pleading, they failed to
+
+17 proceed in the manner required by law and made findings not supported by substantial evidence.
+19.
+18 Petitioner has no plain, speedy, and adequate remedy in the ordinary course of
+
+19 law, since its members and other members of the public will suffer irreparable harm as a result of
+
+20 Respondents' violations of CEQA and other laws. Respondents' approval of the Project also
+
+21 rests on the failure to satisfy clear, present, ministerial duty to act in accordance with those
+
+22 laws. Even when Respondents are permitted or required by law to exercise their discretion in
+
+23 approving projects under those laws, they remain under a clear, present, ministerial duty to
+exercise their discretion within the limits of and in a manner consistent with those laws.
+24
+
+25 Respondents have had and continue to have the capacity and ability to approve the Project within
+
+26 the time limits of and in a manner consistent a with those laws, but Respondents have failed and
+
+27 refused to do so and have exercised their discretion beyond the limits of and in a manner that is
+not consistent with those laws.
+28
+
+PETITION FOR WRIT OF MANDATE (CEQA)
+
+20.
+2 Petitioner has a beneficial right and interest in Respondents' fulfillment of all
+
+3 their legal duties as alleged in this pleading.
+
+4
+FIRST CAUSE OF ACTION
+5
+Failure to Prepare Adequate Environmental Impact Report
+6
+(Against all Respondents and Real Parties in Interest)
+7
+21.
+8 Paragraphs 1 through 20 are fully incorporated into this paragraph.
+
+22.
+9 CEQA requires that every environmental impact report identify and analyze the
+
+10 significant adverse environmental impacts of a proposed project, giving due consideration to
+
+11 both short term and long term impacts, providing decision makers with enough information to
+
+12 enable them to make an informed decision with full knowledge of the likely consequences of
+
+13 their actions, and providing members of the public with enough information to participate
+
+14 meaningfully in the project approval and environmental review process. CEQA also requires
+
+15 that every environmental impact report identify and analyze a reasonable range of alternatives to
+
+16 a proposed project. CEQA further requires that every environmental impact report identify and
+
+17 analyze all reasonable mitigation measures for a proposed project 's significant adverse
+
+18 environmental impacts. In each respect, CEQA mandates that the analyses contained in an
+
+19 environmental impact report and all decisions of the lead agency based on the report be
+
+20 supported by substantial evidence in the administrative record.
+
+23.
+21 The Project's EIR fails to provide adequate identification and analysis of the
+
+22 significant adverse environmental impacts of the Project. Further, neither the analysis of impacts
+
+23 in the Project's EIR nor Respondents' certification of the EIR in this respect is supported by
+substantial evidence in the administrative record.
+24
+24.
+25 The EIR is inadequate in ways that include, but are not limited to, those described
+
+below.
+26
+
+27 Project Description
+
+25.
+28 As we understand it, the project proposes the development of the existing 35.4
+
+PETITION FOR WRIT OF MANDATE (CEQA) 6
+
+1
+
+2 acre vacant project site with a mixed-use development consisting of 482 multi-family residential
+
+3 apartment dwelling units including 10 live-work units, 49,000 square feet of commercial lease
+
+4 space including a drive-thru restaurant and a gas station with an internal restaurant, convenience
+store, and car wash; two hotels with 229 guest rooms and related amenities; short-term
+Recreational Vehicle (RV) overnight parking for 23 RVs plus 1 passenger car for each RV and
+6
+
+7 12 additional visitor parking stalls; incidental outdoor entertainment and activities (e.g. farmers
+market, car shows), and freeway oriented signs.
+8
+26. Discretionary actions required to implement the proposed Project include:
+9
+(1)
+10 General Plan Amendment (GPA) to amend approximately 34.34 acres of
+
+11 the proposed project area from MDR (Medium Density Residential) and O
+
+12 (Office) to MU-U (Mixed Use Urban) and amend approximately 1.06 acres of the
+
+13 area for the proposed vehicle fueling station from O (Office) to C (Commercial).
+(2)
+14 Zoning Code Amendment (RZ) to rezone approximately 34.34 acres of the
+
+15 proposed project area from R-1-7000 Single Family Residential, R-3-1500 -
+
+16 Multi-Family Residential, and R-1-7000-WC - Single Family Residential -
+Watercourse Overlay Zones to MU-U - Mixed Use Urban and amend 1.06 acres
+17
+
+18 of the area proposed for the vehicle fueling station from R-1-7000 - Single
+Family Residential to CR - Commercial Retail.
+19
+(3)
+20 Site Plan Review (PPE) for the proposed site design and building
+
+21 elevations, with the exception of the vehicle fueling station.
+
+22 (4) Tentative Parcel Map (PM) to subdivide the project site into 15 parcels,
+
+23 ranging in size from 0.49 acres to 7.67 acres, including a private street.
+
+24 (5) Conditional Use Permits (CUP) to permit each of the following uses:
+
+25 Hotels and RV parking, vehicle fueling station, drive-thru restaurant, live
+
+26 entertainment and special events, and a farmers market.
+
+(6)
+27 Design Review (DR) for the proposed vehicle fueling station site design
+
+28 and building elevations.
+
+PETITION FOR WRIT OF MANDATE (CEQA) 7
+
+-
+
+2 (7)
+
+limits. Grading Exception (GE) to allow retaining walls over permissible height
+
+3
+
+4 (8) Minor Conditional Use Permit (MCUP) for two freestanding, freeway-
+
+5 oriented monument signs.
+
+6 (9) Environmental Impact Report (EIR) to analyze the potential
+
+7 environmental impacts of project implementation.
+
+27.
+8 The EIR states that there are 10 proposed live/work units. However, the attached
+
+9 architectural plans indicate there will be 12 live/work units. The EIR is not reliable as an
+
+10 informational document and must be revised and recirculated for public review.
+
+28.
+11 Further, the Conceptual Grading Plans depict storage units on the northeast side
+
+12 of the project site along Strong Street, between two existing single family residences. There is
+
+13 no information given about the storage units in the EIR. There is no discussion of the storage
+
+14 units throughout the EIR and their potentially significant impacts on the existing single family
+
+15 residences. The EIR must be updated to include analysis and discussion of the storage units in
+
+16 order to comply with CEQA's requirements for meaningful disclosure (CEQA § 21003(b)).
+
+17 Environmental Setting
+
+29.
+18 Pursuant to CEQA § 15125, the Environmental Setting section of an EIR shall
+
+19 discuss "any inconsistencies between the proposed project and applicable general plans, specific
+
+20 plans, and regional plans." The project requires a General Plan Amendment and Zoning Code
+
+21 Amendment in order to be implemented. The EIR does not include this discussion and must be
+
+22 revised to disclose this information.
+
+23 Air Quality
+
+30.
+24 The EIR failed to adequately discuss relevant specifics regarding the connection
+
+25 between the general health effects associated with a particular pollutant and the estimated
+
+26 amount of that pollutant the project will likely produce. Sierra Club v. Cty. of Fresno (2018) 6
+
+27 Cal.5th 502.
+
+31.
+28 The EIR lists relevant Policies from the Air Quality Element of the Riverside
+
+PETITION FOR WRIT OF MANDATE (CEQA) 8
+
+2° General Plan. However, this list does not include Policies AQ-1.1 and AQ-1.2 related to
+
+Environmental Justice:
+3
+Policy AQ-1.1: Ensure that all land use decisions, including enforcement actions,
+4
+
+5 are made in an equitable fashion to protect residents, regardless of age, culture,
+ethnicity, gender, race, socioeconomic status or geographic location, from the
+6
+health effects of air pollution.
+7
+Policy AQ-1.2: Consider potential environmental justice issues in reviewing
+8
+impacts (including cumulative impacts for each project proposed).
+9
+32. The EIR must be revised to include analysis of environmental justice issues in
+10
+reviewing potential impacts, including cumulative impacts from the proposed project. This is 11
+especially significant as the surrounding community is highly burdened by pollution. According
+12
+
+13 to CalEnviroScreen 3.0, CalEPA's screening tool that ranks each census tract in the state for
+
+14 pollution and socioeconomic vulnerability, the proposed project's census tract (6065030104)
+
+15 ranks worse than 95 percent of the rest of the state overall. The project's census tract is in the
+98th percentile for pollution burden, meaning it is more polluted than nearly all other census
+16
+
+17 tracts in the state of California. The surrounding community bears the impact of multiple
+
+18 sources of pollution and is more polluted than average on every pollution indicator measured by
+CalEnviroScreen. For example, the project census tract has a higher burden of ozone, PM 2.5,
+19
+and diesel than 90 percent of the state and greater hazardous waste and traffic issues than 80
+20
+percent of the state.
+21
+33.
+22 Further, the project's census tract, a diverse community including 62 percent
+Hispanic residents, 9 percent African-American residents, and 9 percent Asian residents, is
+23
+
+24 especially vulnerable to the impacts of pollution. The community has very high unemployment
+
+25 rates (67 percent compared to the rest of the state), which is an indication that they may lack
+
+26 health insurance or access to medical care. Additionally, the surrounding community has a
+
+27 higher proportion of babies born with low birth weights than 68 percent of the State, which
+
+28 makes those children more vulnerable to asthma and other health issues. This is supported by
+
+PETITION FOR WRIT OF MANDATE (CEQA) 9
+
+-
+
+2' the census tract ranking in the 98th percentile for asthma and containing 17% children under the
+
+3 age of 10 compared to 13% average children under the age of 10 in California. The Project's
+
+4 census tract is also identified as
+
+34. Disadvantaged Community under SB 535.
+
+5 The EIR states that "under the current land use designations, the project site could
+
+6 yield approximately 827 new residents at full development." Footnote 4 states "Current land use
+
+7 designation density would allow for up to 260 residential units. 260 units x 3.18 residents per
+unit = 827 residents." The area of the Project site that has current General Plan designation of
+
+9 MDR is not disclosed in the EIR to verify the allowable residential density of this portion of the
+
+10 site and thus the population generated under this density.
+
+11 35. Further, the attached General Plan and Zoning Diagrams misrepresent the Project
+
+12 site and are misleading to the public and decision makers. The diagrams do not delineate or label
+
+13 the boundaries of the Project site while also depicting the properties to the north, resulting in an
+
+14 exhibit which does not accurately or adequately portray the Project site. The Current General
+
+15 Plan Land Use diagram is the most misleading because it depicts the MDR Land Use designation
+
+16 across the properties to the north also and the reader is unable to determine how much of the
+
+17 MDR designation is allocated on the proposed Project site. The EIR must be revised to include
+
+18 accurate, clear diagrams of the existing and proposed General Plan and Zoning designations on
+
+19 the subject property. The EIR must also include the acreage of each current General Plan and
+
+20 Zoning destinations across the project site in order to be an adequate informational document and
+
+21 for the public and decision makers to verify unsubstantiated claims regarding population and
+
+22 employment.
+
+23 36. Appendix B of the Air Quality Analysis (AQA) indicates that the CalEEMod
+
+24 modeling sheets do not accurately reflect the components of the proposed Project. The EIR
+
+25 states there will be 49,000 square feet of commercial land uses but the CalEEMod Output Sheets
+
+26 only analyze 46,758 square feet total of commercial land uses. Further, the EIR references the
+
+27 site plan which "indicates that 15,000 sf of the proposed commercial component would be leased
+
+28 by retail tenants, while 34,000 sf would be leased by restaurant tenants." However, the AQA
+
+PETITION FOR WRIT OF MANDATE (CEQA) 10
+
+F
+only analyzes 26,000 sf of restaurant uses. The EIR and AQA are inconsistent and must be 2®
+revised.
+3
+37. Further, the Parking Lot land use in CalEEMOd only models 1,567 parking stalls
+4
+while 1,587 parking stalls are proposed. Additionally, the 1,587 parking stalls proposed does not
+capture all parking from the proposed short-term RV parking land use. The 23 short-term RV
+6
+parking spaces includes space for a standard vehicle also, doubling the amount of parking spaces 7
+to 46. The EIR must be revised to include this information. This must be reflected in the project
+description, Air Quality modeling, and throughout the EIR.
+9
+38. Additionally, footnote 5 on page 37 of Appendix B states "As per The Exchange 10
+Focused Air Quality and Greenhouse Gas Memorandum, analysis of a 12-vehicle fueling station 11
+and RV parking component, results in fewer emissions than 16-vehicle fueling stations. As such, 12
+and as a conservative measure, the Project has been analyzed for the use of a 16-vehicle fueling 13
+
+14 station." The referenced The Exchange Focused Air Quality and Greenhouse Gas Memorandum
+is listed as a reference but not included for public review. CEQA § 15150 (f) states that 15
+
+16 incorporation by reference is most appropriate for including long, descriptive, or technical
+materials that provide general background but do not contribute directly to the analysis of the 17
+
+18 problem at hand. The Exchange Focused Air Quality and Greenhouse Gas Memorandum
+utilized here contributes directly to the analysis of the problem at hand. Not including the 19
+Memorandum as an attachment for public review is in violation of CEQA § 15150 (f). § 20
+39. The CalEEMod output sheets also do not include the non-residential square 21 footage from the proposed 12 live-work units. It must also be clarified whether the High 22 Turnover Restaurant land use includes square footage from the quick-serve restaurant co-located 23
+with the proposed fueling station. Additionally, the Storage Units depicted on the Conceptual 24
+Grading Plans on the northeast side of the project site are not included in the CalEEMod 25
+analysis.
+26
+40. The EIR and Appendix B must be revised and recirculated to properly categorize 27
+
+28 each use within the proposed project to adequately and accurately estimate the potentially
+
+PETITION FOR WRIT OF MANDATE (CEQA) 11
+
+F
+significant air quality impacts.
+2
+41.
+UJ Section 7.35.010(B)(5) of the Riverside Municipal Code (RMC) prohibits
+
+4 construction activity between the hours of 7:00 P.M. and 7:00 A.M. Monday through Friday, and
+
+5 between 5:00 P.M. and 8:00 A.M. on Saturday. All such activities are also prohibited on
+Sundays. Thus, the legal hours of construction in the City of Riverside are 7:00 A.M. - 7:00
+6
+
+7 P.M., Monday - Friday and 8:00 A.M. - 5:00 P.M. on Saturday. The EIR does not provide a
+
+8 "worst-case scenario" analysis of construction equipment emitting pollutants for the legal 12
+hours per weekday plus 9 hours on Saturday. It is legal for construction to occur for much
+
+10 longer hours and an additional day (6 days per week including Saturday) than modeled in the Air
+
+11 Quality Analysis. The Air Quality modeling must be revised to account for these legally
+
+12 possible longer construction days and increased number of construction days. If shorter hours of
+
+13 construction are proposed by the project, this must be reflected in the EIR analysis and included
+
+14 as an enforceable mitigation measure with field verification by an enforcement entity of the lead
+
+15 agency (CEQA § 21081.6 (b)).
+
+42.
+16 The EIR claims that the cut and fill grading of the site will balance and 0 haul
+
+17 truck trips were included for analysis during all phases of construction. However, the EIR does
+not include any reasoning or evidence to support the claim that the entire site will balance cut
+18
+
+19 and fill. At minimum, the Project must excavate for flatwork such as sidewalks, patios, etc.;
+
+20 asphalt concrete roadways and parking lots including the asphalt thickness and aggregate base
+
+21 thickness; and building slabs for 8 commercial buildings, 2 hotel buildings, and 21 residential
+
+22 buildings. Also, utility trenching will require excavation, especially since project site drainage is
+
+23 proposed to be routed through newly constructed underground storm drain system to connect to
+
+24 8 the 8 ft. Thornton storm drain on-site. The Air Quality Analysis must be revised to provide
+
+25 supporting evidence that the 34 acre site will balance cut and fill in order to provide reasoning to
+
+26 exclude any and all haul trips throughout project construction.
+
+27 Land Use and Planning
+
+43.
+28 Threshold 1 - The EIR refers to the Initial Study (IS) conclusion that development
+
+PETITION FOR WRIT OF MANDATE (CEQA) 12
+
+of the Project would not divide established community. However, the project plans propose an
+2°
+
+3 to physically divide the existing residential community on Strong Street by placing storage units
+between two existing residential homes.
+4
+44.
+5 Neither the EIR or the IS discusses the location of the proposed storage units and
+
+6 their potentially significant impacts to the residences on Strong Street. Siting the storage units in
+
+7 this location will negatively impact the residential character of Strong Street and alter the low-
+
+8 density charm of the Northside Community pursuant to Riverside General Plan Land Use
+
+9 Element Objective LU-74. The storage units are not compatible with the existing character of
+
+10 the neighborhood on Strong Street as there will be strikingly different storage unit buildings
+
+11 along the residential street instead of low-density compatible development. There is also no
+
+12 driveway access to this parcel which is out of character with the rest of Strong Street. The
+
+13 project architectural plans also do not include a rendering of the proposed storage units for visual
+
+14 comparison of the buildings with the surrounding neighborhood. The EIR must be revised and
+
+15 recirculated to include this information and evaluate the potentially significant impacts of
+
+16 physically dividing the established residential community on Strong Street with the proposed
+storage units.
+17
+45.
+18 Threshold 2 - The EIR concludes that "upon approval of the project, the proposed
+
+19 development would comply with all new applicable land use and zoning regulations." However,
+
+20 there is no discussion or analysis regarding the proposed Project's compliance or incompatibility
+
+21 with the existing land use designations. Avoiding discussion of the Project's incompatibility
+
+22 with the existing General Plan Land Use and Zoning Designations is misleading to the public
+
+23 and decision makers. The EIR must be revised and recirculated with this analysis in order to
+
+24 comply with CEQA's requirements for meaningful disclosure (CEQA § 21003(b)).
+
+46.
+25 The EIR states that "The RMC allows for modification to various development
+
+26 standards in conjunction with certain permit issuance when sufficient reasoning is provided for
+
+27 the change. The project includes modifications to the provision that drive-thru restaurants and
+
+28 fueling stations be allowed on arterial roadways only, and to the requirement that a 6-foot tall
+
+PETITION FOR WRIT OF MANDATE (CEQA) 13
+
+2 block wall be constructed between a fueling station and a mixed-use development. The Project
+
+3 also requests a grading exception to allow for certain retaining walls to be up to 12 feet in
+
+4 height." However, the EIR does not include text of the existing applicable RMC Sections and
+
+5 the proposed changes to the RMC Sections in order to accommodate the project. The EIR also
+
+6 does not contemplate the potentially significant cumulative impacts of revising the RMC to
+
+7 allow drive-thru restaurants and fueling stations on streets other than arterial roadways. The
+
+8 potentially significant cumulative impacts of altering the RMC requirement that a 6-foot tall
+
+9 block wall be constructed between a fueling station and a mixed-use development is not
+
+10 analyzed, either. Further, Section 5.2.3 - Removal of Obstacles to Growth must be updated to
+
+11 include this information as well since the project proposes citywide changes in the RMC.
+47.
+12 Cumulative Impacts - The EIR that concludes there will be no significant
+
+13 cumulative impacts because "land use regulations and policy consistency impacts associated
+
+14 with other cumulative projects would be addressed on a case-by-case basis in order to determine
+
+15 their consistency with applicable plans and policies." However, this claim is not supported by
+
+16 evidence from the cumulative projects and the EIR must be revised to include this information.
+
+17 This is especially true given a lead agency's ability to approve a project notwithstanding
+
+18 significant environmental impacts. The EIR must be revised to include relevant information to
+
+19 support the claim that cumulative impacts will be less than significant.
+
+Noise
+20
+48.
+21 The EIR states that pursuant to Riverside Municipal Code Section 7.35.020(G)
+
+22 that construction noise is exempt from noise requirements and thus Appendix D does not include
+
+any
+23 construction noise analysis. However, the EIR does not discuss the Riverside General Plan
+
+24 Noise Element guidance which states "the Municipal Code limits noise levels from construction
+
+25 activities to the maximum permitted exterior noise level for the affected land use." Further,
+
+26 Policy N-1.3 states "Enforce the City of Riverside Noise Control Code to ensure that stationary
+
+27 noise and noise emanating from construction activities, private developments/residences and
+
+28 special events are minimized." The EIR must be revised to include a technical noise analysis a
+
+PETITION FOR WRIT OF MANDATE (CEQA) 14
+
+2° from construction of the project and compare it to the maximum permitted exterior noise level
+for the nearby sensitive receptors.
+3
+49. Although the technical Noise Analysis in Appendix D does not include a
+construction noise analysis, the EIR includes its own construction noise analysis. The EIR's
+construction noise analysis employs the "reference noise levels reported in the FTA's 2006
+6
+
+7 Transit Noise and Vibration Impact Assessment (FTA TNVIA)" to "estimate noise levels at
+
+8 nearby sensitive receptors based on a standard noise attenuation rate of 6 dBA per doubling of
+
+9 distance." The EIR uses the FTA TNVIA as a threshold of significance to determine if project-
+
+10 related construction noise would generate a significant impact to sensitive receptors. The FTA
+
+11 specifically states that the purpose of the document is to provide "technical guidance for
+
+12 conducting noise and vibration analyses for transit projects."
+
+50.
+13 Utilizing the FTA threshold for federally-funded transit projects is not appropriate
+
+14 to the proposed project as there is no transit element included with the project. The EIR gives no
+
+15 supporting evidence or reasoning regarding the applicability of the FTA document. The EIR is
+
+16 misleading to the public and decision makers by utilizing the FTA document for analysis and
+
+17 must be revised to utilize an appropriate threshold of significance for construction noise analysis.
+
+18 The applicable threshold of significance is outlined in the Riverside General Plan Noise Element
+
+19 as the maximum permitted exterior noise level for the affected land use in the RMC.
+
+51.
+20 The EIR is inconsistent with the Noise Analysis included in Appendix D. Table
+4.10-1:24-Hour Ambient Noise Level Measurements is included in the EIR to list the Ambient
+21
+
+22 Noise Level Measurements at nearby locations. In Appendix D, this information is in Table 5-1:
+24-Hour Ambient Noise Level Measurements. The two tables should list the same information
+23
+
+24 but they do not match. Specifically, the distances from the receptor location to the project site are
+
+25 different in the EIR table than in the Appendix D table. For example, Measurement Location L7
+
+26 is listed as 90 feet away from the project site in the EIR table but in the Appendix D table L7 is
+
+27 listed as 860 feet away from the project site. The EIR does not discuss this discrepancy and is an
+
+28 inadequate informational document which is misleading to the public and decision makers.
+
+PETITION FOR WRIT OF MANDATE (CEQA) 15
+
+-
+52.
+2 The EIR states regarding cumulative noise impacts that "construction activities at
+
+3 the related projects and developments in the area would generate similar noise levels as the
+
+4 proposed project." The EIR does not provide construction noise levels for any cumulative
+
+5 projects" because construction schedules are not known for all projects" yet still concludes that
+
+6 "the project would not contribute considerably to temporary cumulative construction noise and
+
+7 vibration impacts." The EIR's claims regarding cumulative noise impacts are not supported by
+
+8 evidence and the EIR must be revised to include this information. This is especially true given a
+
+9 lead agency's ability to approve a project notwithstanding significant environmental impacts.
+
+10 The EIR must be revised to include information to support the claim that cumulative construction
+
+11 noise impacts will be less than significant. This is also true for both these statements regarding
+
+12 cumulative vibration impacts.
+
+13 Transportation and Traffic
+
+53.
+14 The EIR employs uncertain language by stating that construction traffic "is not
+
+15 expected to result in traffic deficiencies related to trips from construction employees, export of
+
+16 materials, and import of construction materials, etc." There is no discussion or analysis of
+
+17 potentially significant impacts due to construction traffic in the technical traffic appendix either.
+
+18 The claim and conclusion that construction of the proposed Project will not result in significant
+
+19 impacts must be quantifiably verified in order for the EIR to be a reliable informational
+
+document.
+20
+54.
+21 Table 4.12-5 Project Trip Generation lists footnote 5 associated with pass-by
+
+22 reduction of 25% for the fast food restaurant and gas station with market and car wash land uses.
+
+23 However, text for footnote 5 is not included in the table in order to a give a source for this
+
+24 increased trip reduction. The EIR is inadequate as an informational document and must be
+
+25 revised to include this information.
+
+26 55. The following Mitigation Measures are included which require the Project to pay
+
+27 its fair share of fees towards improvements:
+
+28 T-4: Intersection #14 (Caltrans) - West La Cadena Drive and Interchange Street/I-
+
+PETITION FOR WRIT OF MANDATE (CEQA) 16
+
+2° 215 Southbound Ramps. Prior to the issuance of building permits, the applicant
+shall contribute their fair-share amount for the recommended improvements,
+which consist of signalization, a northbound left turn lane, and a southbound left
+4
+turn lane.
+5
+T-5: Intersection #16 (Caltrans) - La Cadena Drive and I-215 Northbound Ramps. 6
+Prior to the issuance of building permits, the applicant shall contribute its fair- 7
+share amount for the recommended improvements at this intersection, which
+8
+consists of signalization, restriping the northbound through lane as a shared
+9
+through-left lane and construction of : second receiving lane on the on-ramp. 10
+
+11 T-6: Intersection #1 (City of Colton) Riverside Avenue/Main Street and
+Placentia Lane. Prior to the issuance of building permits, the applicant shall 12
+contribute their fair-share amount for the recommended improvements, which 13 consist of installation of traffic signal. 14
+Mitigation Measures for Cumulative Impacts 15
+
+16 T-9: Intersection #1 (City of Colton) - Riverside Avenue/Main Street and
+Placentia Lane. Prior to the issuance of building permits, the applicant shall 17
+contribute their fair-share amount for the recommended improvements, which 18
+consist of construction of a southbound approach to provide a second left turn 19
+lane.
+20
+T-10: Intersection #5 (Caltrans) - Main Street and SR 60 EB Ramps. Prior to the 21
+issuance of building permits, the applicant shall contribute their fair-share amount
+22
+for the recommended improvements, which consist of construction of a second 23
+southbound left turn lane.
+24
+T-11: Intersection #14 (Caltrans) - West La Cadena Drive and Interchange St/I- 25
+215 Southbound Ramps. Prior to the issuance of building permits, the applicant 26 shall contribute their fair-share amount for the recommended improvements, 27
+which consist of construction of second southbound left turn lane and the
+28
+
+PETITION FOR WRIT OF MANDATE (CEQA) 17
+
+2 westbound approach to provide a left turn lane.
+
+56. The EIR states that "the City of Riverside recognizes fair share contributions to be
+
+4 considered appropriate mitigation in order to reduce project-specific impacts to less than
+significant levels. These programs are recognized as City policy decisions and assumed to be
+implemented as soon as fully-funded." However, there is no source for this claim or
+6
+
+7 documentation provided for the City of Riverside's recognition of this statement. Additionally,
+
+8 Table 1-3 of the Traffic Impact Assessment (Appendix L) indicates that the improvements
+
+9 required for Intersection #1 and Intersection #5 are not included a DIF/TUMF program. An
+
+10 assessment of fees is appropriate when linked to a specific mitigation program. Payment of fees
+
+11 is not sufficient where there is no evidence mitigation will actually result. The assessment of
+
+12 fees here is not adequate as there is no evidence mitigation will actually result. Mitigation
+
+13 Measures T-4, T-5, T-6, T-9, T-10, and T-11 represent uncertain mitigation and are improperly
+deferred in violation of CEQA.
+14
+57.
+15 Also, Intersections #1 (City of Colton), #5 (Caltrans), #14 (Caltrans), and #16
+
+16 (Caltrans) are all outside of the City of Riverside's jurisdiction. Payment of fees is not an
+acceptable mitigation measure when the improvements are in a jurisdiction beyond the scope of
+17
+
+18 the lead agency. An assessment of fees is appropriate when linked to a specific mitigation
+
+19 program. Payment of fees is not sufficient where there is no evidence mitigation will actually
+
+20 result. The assessment of fees here is not adequate as there is no evidence mitigation will
+
+21 actually result. Mitigation Measures T-4, T-5, T-6, T-9, T-10, and T-11 represent uncertain
+
+22 mitigation and are improperly deferred in violation of CEQA.
+
+58.
+23 It must also be noted that fair share payments for improvements required for
+
+24 mitigation at Intersection #12 and Intersection #17 in the City of Riverside are not included in a
+DIF/TUMF, either.
+25
+59.
+26 Further, the EIR's logic that "the City of Riverside recognizes fair share
+
+27 contributions to be considered appropriate mitigation in order to reduce project-specific impacts
+
+28 to less than significant levels" does not support implementation of Mitigation Measures T-9, T-
+
+PETITION FOR WRIT OF MANDATE (CEQA) 18
+
+-
+
+2 10, and T-11 to reduce cumulative traffic impacts to less than significant levels. Cumulative
+
+3 impacts include traffic from projects and other factors beyond the proposed project. The EIR's
+
+4 logic that the City of Riverside approves of fair share payments as appropriate mitigation for
+
+5 project-specific impacts does not support the conclusion that fair share payments will mitigate
+
+6 significant cumulative traffic impacts.
+
+7 Impacts Found to be Less Than Significant
+
+8 Population and Housing
+
+60.
+9 The EIR concludes that the Project has less than significant impacts to population
+
+10 growth because the Project is estimated to increase the population by 1,897 persons, which is
+
+11 approximately 2.8 percent of the total anticipated growth of the City to 2040 according to
+
+12 SCAG's 2016 RTP/SCS projections. However, the EIR does not discuss that the population
+
+13 growth will exceed SCAG's projections because the proposed Project requires a General Plan
+
+14 Amendment to be implemented, increasing the number of units assumed at General Plan Build
+
+15 Out by SCAG. SCAG's 2016 RTP/SCS population projections utilized the existing Riverside
+
+16 General Plan Land Use designations for analysis. The EIR fails to discuss or analyze this fact.
+
+17 The EIR must be revised to include this analysis in order to present the Project's potentially
+
+18 significant impacts and be an adequate informational document.
+
+61.
+19 Further, the EIR concludes that the cumulative population growth will be
+
+20 approximately 7,702 people based on 2,422 dwelling units in the cumulative projects list
+
+21 encompassing the City of Colton, City of Jurupa Valley, and the County of Riverside. However,
+
+22 the 7,702 person increase underestimates the actual population increase. The EIR utilizes the
+
+23 City of Riverside's 3.18 persons average household size for analysis (2,422 dwelling units x 3.18
+
+24 persons per unit = 7,702 people). However, this is inappropriate as the other jurisdictions have
+
+25 varying household sizes. For example, the City of Colton average household size is 3.5 persons
+
+26 per household4. The EIR must be revised to properly calculate the population of each
+
+27 cumulative project utilizing the average household size of each jurisdiction. The same is true for
+
+28 the cumulative employees generated by the project. Section 5.2 Growth Inducement of the EIR
+
+PETITION FOR WRIT OF MANDATE (CEQA) 19
+
+L
+
+2° must also be revised with this information in order for the EIR to be an adequate informational
+
+document.
+3
+
+4 Project Alternatives
+
+62. Additionally, and alternatively, the Project's EIR fails to provide adequate
+identification and analysis of a reasonable range of alternatives to the Project. Neither the
+analysis of alternatives in the EIR nor Respondents' certification of the EIR in this respect is
+
+8 supported by substantial evidence in the administrative record.
+
+63.
+9 CEQA requires that an EIR consider a "reasonable range of alternatives,"
+
+10 Guidelines § 15126.6(a), and that the document must include a discussion of alternatives even if
+
+11 to some degree they would limit accomplishment of the project's objectives, or would be more
+
+12 costly. Guidelines § 15126.6(b).
+
+13 64. Respondents failed to adequately identify, analyze, and consider alternatives that
+
+14 lessened the Project's impacts. The CEQA Guidelines mandate that "The range of potential
+
+15 alternatives to the proposed project shall include those that could feasibly accomplish most of the
+
+16 basic objectives of the project and could avoid or substantially lessen one or more of the
+
+17 significant effects." Guidelines 8 15126.6(c).
+
+65.
+18 Additionally, and alternatively, the Project's EIR fails to provide adequate
+
+19 identification and analysis of measures to mitigate the Project's significant adverse
+
+20 environmental impacts and fails to eliminate or substantially eliminate all such impacts. Neither
+
+21 the analysis of mitigation measures nor Respondents' certification of the EIR in this respect is
+
+22 supported by substantial evidence in the administrative record.
+
+23 66. CEQA requires an agency to adopt feasible mitigation measures that will
+
+24 substantially lessen or avoid the Project's potentially significant impacts and to describe those
+
+25 mitigation measures in the EIR. Pub. Res. Code §§ 21002, 21081(a), 21100(b)(3); Guidelines
+
+26 § 15126.4. A lead agency may not conclude that an impact is significant and unavoidable
+
+27 without requiring the imposition of all feasible mitigation measures to reduce impacts to less
+
+28 than significant levels. Guidelines §§ 15126.4, 15091.
+
+'PETITION FOR WRIT OF MANDATE (CEQA) 20
+
+-
+67.
+2 CEQA also requires that an agency must adopt a "statement of overriding
+
+3 considerations" for any significant effects which have not been mitigated to a level of
+
+4 insignificance by mitigation measures or the adoption of alternatives. The agency must find
+
+5 "that specific overriding economic, legal, social, technological, or other benefits of the project
+
+6 outweigh the significant effects on the environment.» Pub. Res. Code § 21081(b). The
+
+7 statement of overriding considerations must be based on substantial evidence in the record. Pub.
+
+8 Res. Code § 21081.5; Guidelines § 15093(b).
+
+68.
+9 Respondents adopted the statement of overriding considerations when feasible
+
+10 mitigation measures and project alternatives existed, in violation of CEQA. Pub. Res. Code
+
+11 § 21081; Guidelines § 15092. Respondents also failed to make all required written findings
+
+12 regarding the Project's impacts. Respondents also approved the Project based on one or more
+
+13 written findings that there exist considerations outweighing the Project's significant adverse
+
+14 environmental impacts, but there is not substantial evidence in the administrative record to
+
+15 support all such findings. Moreover, Respondents approved the Project based on one or more
+
+16 non-written findings that such considerations exist.
+
+17 69. As a result of Respondents' violations of CEQA, Petitioner has been harmed in
+
+18 that the decision makers who approved the Project were not fully informed about the impacts of
+
+19 mitigation measures for and alternatives to the Project prior to its approval, and the Petitioner
+
+20 and the public will have to endure significant, avoidable, unmitigated adverse environmental
+
+21 impacts without there being any (or there being insufficient) benefits to outweigh such impacts.
+
+22 WHEREFORE, Petitioner prays
+
+1.
+23 For the Court's peremptory writ of mandate requiring the Respondents to set aside
+
+24 their decision certifying the EIR for the Project (Pub. Res. Code §§ 21168,
+
+25
+
+26 2. 21168.5, 21168.9, Code of Civil Procedure §§ 1085, 1094.5);
+For the Court's peremptory writ of mandate requiring the Respondents to fully
+
+27 comply with the requirements of CEQA, the State Planning and Zoning Law, and
+
+28 the applicable Municipal Code prior to any future approval of the Project (Pub.
+
+PETITION FOR WRIT OF MANDATE (CEQA) 21
+
+F Res. Code §§ 21168, 21168.5, 21168.9, Gov. Code § 65300 et seq., Code of Civil 2°
+Procedure §§ 1085, 1094.5);
+3
+3. For a judgment enforcing the duty imposed upon the Respondents by CEQA to
+4
+adequately address potential individual and cumulative impacts to the
+environment in any subsequent action taken regarding the Project; 6
+4. For a judgment enforcing the duty imposed upon the Respondents by CEQA to 7
+adequately consider mitigation to reduce significant impacts in any subsequent 8
+action taken to approve the Project; 9
+5. For a judgment enforcing the duty imposed upon the Respondents by CEQA to 10
+adopt a feasible environmentally superior alternative to reduce significant impacts 11
+in any subsequent action taken to approve the Project; 12
+6. For a judgment requiring the County to prepare, circulate and consider a new and 13
+legally adequate Environmental Impact Report and otherwise comply with CEQA 14
+in any subsequent action taken to approve this Project; 15
+7. For costs of suit, including attorney's fees pursuant to Code of Civil Procedure 16
+con 1021.5 and other provisions of law; and
+17
+8. For such other and further relief, including a stay or preliminary or permanent 18 injunctive relief, in the event that the Real Party in Interest, or its agents or 19
+instrumentalities, intend to commence construction on the site.
+20
+
+21
+Dated: July 2, 2019
+22 BLUM COLLINS, LLP
+STEVEN A. BLUM 23 GARY HO
+24
+
+25
+
+By 26 Gaty-Ho
+27 Attorneys for Petitioner
+
+28
+
+'PETITION FOR WRIT OF MANDATE (CEQA) 22
+
+VERIFICATION
+
+2 am an attorney representing Petitioner Golden State Environmental Justice Alliance in
+
+3 this action, and am authorized to make this verification on their behalf under California Code of
+
+4 Civil Procedure § 446.
+I have read the foregoing VERIFIED PETITION FOR WRIT OF MANDATE
+PURSUANT TO THE CALIFORNIA ENVIRONMENTAL QUALITY ACT and know the
+I contents thereof. I certify that I believe the same is true.
+
+8 am making this verification in the place of Petitioner on the grounds that the facts are
+
+9 within my knowledge.
+
+10 I declare under penalty of perjury under the laws of the State of California that the
+
+11 foregoing is true and correct.
+
+12 Executed July 2, 2019 at Los Angeles, California
+
+13
+
+14
+
+15
+
+16 Gary Ho
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+PETITION FOR WRIT OF MANDATE (CEQA) 23
+
+F CERTIFICATE OF SERVICE
+
+2 STATE OF CALIFORNIA
+
+• COUNTY OF LOS ANGELES
+
+3 I am over the age of 18, employed in the County of Los Angeles, and not a party to the
+4 within action. My business address is 707 Wilshire Blvd., Suite 4880, Los Angeles, CA 90017.
+On July 2, 2019, I served true and correct copies of the foregoing
+
+6 NOTICE TO THE ATTORNEY GENERAL OF COMMENCEMENT OF
+ACTION
+
+upon the following parties,
+
+City of Riverside AFG Development, LLC City Clerk, Colleen J. Nicol Craig Wilson
+10 3900 Main Street, 7th Floor 215 North D St, First Floor
+Riverside, CA 92522 San Bernardino, CA 92401
+11
+
+12 Office of the Attorney General
+1300 "I" Street
+
+13 Sacramento, CA 95814-2919
+
+14
+I am readily familiar with the firm's practice of collection and processing correspondence
+15 for mailing. Under that practice it would be deposited with the U.S. Postal Service on the same
+
+16 day with postage thereon fully prepaid at Los Angeles, CA in the ordinary course of business to the addresses listed above. I am aware that on motion of the party served, service is presumed
+17 invalid if postal cancellation date or postage meter date is more than one day after date of deposit for mailing in affidavit.
+18
+I declare under penalty of perjury under the laws of the State of California that the 19 foregoing is true and correct.
+20 Executed this 2nd day of July 2019 at Los Angeles, California.
+21
+
+22
+
+23 Gary Ho
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE OF COMMENCEMENT OF ACTION
+TO ATTORNEY GENERAL 3
+
+AECETVE JUL 0 8 2019
+BY:__________.

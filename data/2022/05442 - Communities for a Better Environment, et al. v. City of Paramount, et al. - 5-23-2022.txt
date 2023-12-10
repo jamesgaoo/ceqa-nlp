@@ -1,0 +1,1430 @@
+EARTHJUSTICE
+
+May 16, 2022
+VIA FIRST-CLASS MAIL & E-MAIL
+CEQA Coordinator
+Office of the Attorney General
+Environment Section
+1300 "["' Street
+Sacramento, CA 95814-2919
+Email: CEQA@doj.ca.gov
+
+RE: Notice of CEQA Suit (Communities for a Better Environment, et al. v. City of Paramount, et al.)
+
+To the Attorney General of the State of California:
+Please take notice, under California Public Resources Code section 21167.7 and
+California Code of Civil Procedure section 388, that Petitioners/Plaintiffs Communities
+for a Better Environment; East Yard Communities for Environmental Justice; and Center
+for Biological Diversity ("Petitioners") will file a verified petition for writ of mandate under the provisions of the California Environmental Quality Act ("CEQA"), California Public Resources Code section 21000, et seq., against Respondents/Defendants City of Paramount and Paramount City Council (*Respondents"), and Real Party in Interest AltAir Paramount, LLC in Los Angeles County Superior Court.
+The petition challenges Respondents' approval and certification of the Final Subsequent Environmental Impact Report ("SEIR") for the Paramount AltAir Renewable Fuels
+Conversion Project at the Paramount Refinery (State Clearinghouse No. 2020069013), and alleges that Respondents violated CEQA and abused their discretion by certifying a legally deficient SEIR.
+Respectfully,
+SranS2
+Shana Emile, Associate Attorney
+Oscar Espino-Padron, Senior Attorney
+
+EARTHJUSTICE
+
+COMMUNITY PARTNERSHIPS PROGRAM 707 WILSHIRE BOULEVARD, SUITE 4300 LOS ANGELES, CA 90017
+
+T: 415.217. 2000 F: 213.403.4822 SEMILE@EARTHJUSTICE.ORG WWW.EARTHJUSTICE.ORG
+
+*
+
+1 ANGELA JOHNSON MESZAROS, CA Bar No. 174130
+
+2 ameszaros@earthjustice.org
+OSCAR ESPINO-PADRON, CA Bar No. 290603
+3 oespino-padron@earthjustice.org SHANA EMILE, CA Bar No. 319794
+4 semile@earthjustice.org
+EARTHJUSTICE 5 707 Wilshire Boulevard, Suite 4300
+
+6 Los Angeles, CA 90017
+Tel: (415) 217-2000
+7 Fax: (213) 403-4822
+
+8 Attorneys for Petitioners/Plaintiffs
+9 Communities for a Better Environment, East Yard Communities for Environmental Justice, and
+10 Center for Biological Diversity
+
+11 FADDITIONAL COUNSEL LISTED ON NEXT PAGE]
+12 IN THE SUPERIOR COURT OF THE STATE OF CALIFORNIA
+13 IN AND FOR THE COUNTY OF LOS ANGELES
+
+14 CENTRAL DISTRICT
+
+15 COMMUNITIES FOR A BETTER Case No.:
+ENVIRONMENT; EAST YARD
+16 COMMUNITIES FOR ENVIRONMENTAL (California Environmental Quality Act)
+
+17 JUSTICE; and CENTER FOR BIOLOGICAL
+DIVERSITY, VERIFIED PETITION FOR WRIT OF
+18 Petitioners/Plaintiffs, MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE
+19 RELIEF
+V.
+20 [Code Civ. Proc., §§ 1060, 1085, 1094.5;
+21 CITY OF PARAMOUNT, a municipal
+corporation; PARAMOUNT CITY COUNCIL, California Environmental Quality Act, Pub.
+governing body of the City of Paramount; and Resources Code, §§ 21000 et seq.] 22 DOES 1-20, inclusive,
+23
+Respondents/Defendants, 24
+
+25 ALTAIR PARAMOUNT, LLC, Delaware
+limited liability company; and DOES 21-40,
+26 inclusive,
+27 Real Parties in Interest.
+28
+- 1 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+- SHANA LAZEROW, CA Bar No. 195491
+
+2 slazerow@cbecal.org ALISON HAHM, CA Bar No. 336969
+3 ahahm@cbecal.org COMMUNITIES FOR A BETTER ENVIRONMENT
+4 6325 Pacific Boulevard, Suite 300
+
+5 Huntington Park, CA 90255
+Tel: (323) 826-9771
+6
+
+7 Attorneys for Petitioner/Plaintiff Communities for a Better Environment
+
+8 ELIZABETH JONES, CA Bar No. 326118 ljones@biologicaldiversity.org
+9 MAYA GOLDEN-KRASNER, CA Bar No. 217557
+mgoldenkrasner@biologicaldiversity.org 10 CENTER FOR BIOLOGICAL DIVERSITY
+
+11 1212 Broadway, Suite 800
+Oakland, CA 94612
+12 Tel: (310) 365-9281
+
+13 Attorneys for Petitioner/Plaintiff Center for Biological Diversity
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+- 2 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+2 Petitioners Communities for a Better Environment, East Yard Communities for
+
+3 Environmental Justice, and Center for Biological Diversity (collectively, Petitioners) bring this
+
+4 action on their own behalf, on behalf of their members, on behalf of the general public, and in
+the public interest and allege as follows:
+
+5 I. INTRODUCTION
+
+6 1.
+
+7 The City of Paramount is 4.85 square miles with a population of nearly 54,000 mostly
+
+8 Latino residents. Despite its small size, the City hosts large number of polluting
+
+o industries, including medical waste facilities, transportation fuel refining operations, and
+
+10 metal forging facilities. Because of these industrial operations, along with socio-
+
+11 economic conditions, the City is one of the most polluted cities in California and its
+
+12 residents experience increased health risks, including asthma and cardiovascular disease.
+
+13 Residents in the City also experience the highest levels of hexavalent chromium
+
+14 (chromium-6), a cancer-inducing air toxin, in Los Angeles County.
+2. On April 11, 2022, the Paramount City Council voted 3 to
+15 to worsen these
+
+16 environmental conditions and residents' quality of life when it issued approvals and
+
+17 certified a final subsequent environmental impact report (SEIR) for the Paramount AltAir
+
+18 Renewable Fuels Conversion Project (Biofuels Project or Project) at the Paramount
+
+19 Refinery. The Biofuels Project would increase throughput of fats, oils, and/or greases at
+
+20 the Refinery to 25,000 barrels per day to produce biofuels; construct a fossil gas (gray)
+
+21 hydrogen generation unit to produce over 75 million standard cubic feet of hydrogen per
+
+22 day; and install a fossil gas pipeline through residential neighborhoods, among other
+
+23 significant modifications. The Project would subject residents and surrounding
+
+24 communities to health harms from increased air pollution and safety hazards from
+explosions and flaring.
+
+25
+
+26 3. The Biofuels Project is an attempt to squeeze profits out of the Refinery's nearly century-
+
+27 old infrastructure at the expense of public health and safety. As Councilmember
+
+28 Guillen-the only dissenting vote-put it: "[y]ou can take the jalopy and add parts to it,
+
+- 3 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+you can shine it up, you can coat it, you can do all kinds of things to it but at the end of
+
+2 the day it is not going to run like a Tesla-it's still an old Il jalopy." It is a matter of
+cA 7 1n when, not if, a malfunction will occur at this inherently dangerous operation that will
+threaten the lives and health of children at adjacent schools and families in residential
+
+areas.
+
+4. Under the California Environmental Quality Act (CEQA), the City conducted an initial
+
+7 environmental assessment and determined the Project would cause significant
+
+8 environmental impacts. CEQA aims to ensure that decisionmakers and the public have
+6o complete information about a proposed project's foresecable environmental impacts and
+10 to identify ways to minimize the significant effects before its approval. The City,
+11 however, prepared an SEIR that misinforms the public of the Project's severe
+12 consequences. Rather than disclosing, analyzing, and mitigating the Project's significant
+13 environmental impacts, the SEIR systematically disregards, underestimates, and ignores
+14 them.
+
+15 5. The SEIR fails to disclose and analyze various foreseeable environmental impacts and
+
+16 hazards from initiating construction, processing low-quality feedstock, and increasing
+
+17 hydrogen use at the Refinery, such as toxic dust migration, and flaring and explosion
+
+18 hazards. The SEIR also fails to consider feasible mitigation measures to reduce
+
+19 significant impacts, including use of zero-emissions technologies; dismisses feasible
+
+20 alternatives that would reduce environmental impacts, including an alternative that
+
+21 reduces throughput; and uses a misleading and inflated 2011 baseline rather than existing
+
+22 conditions to measure the severity of the Project's environmental impacts.
+
+23 6. The City either dismissed or ignored comments from the community highlighting these
+
+24 concerns. As a result of these deficiencies, the SEIR fails to fully inform the public and
+
+25 decisionmakers of the Project's significant health, safety, and environmental impacts, and
+
+26 fails to analyze and mitigate these impacts as CEQA requires.
+
+27 City of Paramount, Adjourned City Council Meeting April 11, 2022, YouTube, at 1:51:19
+28 https://youtu.be/b22OIrTPdpg?t=6679. - 4 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+N mo A II. PARTIES
+7. Petitioner COMMUNITIES FOR A BETTER ENVIRONMENT (CBE) is a membership-
+based California non-profit environmental health and justice organization. CBE's mission
+is to build people's power in California's communities of color and low-income
+
+6 communities to achieve environmental health and justice by preventing and reducing
+7 toxics and air and water pollution, and building healthy and sustainable communities.
+
+8 8. Petitioner EAST YARD COMMUNITIES FOR ENVIRONMENTAL JUSTICE (East
+1o Yard) is a membership-based California non-profit environmental health and justice
+10 organization based in Commerce, California. East Yard's mission is to create a safe and a
+11 healthy environment for communities disproportionately suffering the negative impacts
+12 of industrial pollution in the region, including reducing pollution from petroleum
+13 refineries in the region.
+
+14 9, Petitioner CENTER FOR BIOLOGICAL DIVERSITY (the Center) is non-profit
+15 organization with offices in California and throughout the United States. The Center is
+16 actively involved in environmental protection issues throughout California and North
+17 America and has over 89,000 members, including over 3,500 throughout Los Angeles
+18 County. The Center's mission includes reducing greenhouse gas pollution to preserve a
+19 safe climate and protecting air quality and public health.
+20 10. By this action, Petitioners seek to protect the health and welfare interests of its members
+21 and the general public, and to enforce a public duty owed to them by the City of
+22 Paramount. Petitioners' members have an interest in their health and well-being, as well
+23 as conservation, environmental, aesthetic, and economic interests in the Los Angeles
+24 County environment. Petitioners' members who live, work, and recreate near the
+25 Paramount Refinery and in Los Angeles County have a right to, and a beneficial interest
+26 in, the City of Paramount's compliance with CEQA. These interests have been, and
+27 continue to be, threatened by the City's decision to certify the SEIR in violation of
+28
+- 5 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+-
+
+2 CEQA, and unless the relief requested in this case is granted, will continue to be
+
+mtn adversely affected and irreparably injured by the failure of the City of Paramount to
+comply with the law.
+11. Respondent CITY OF PARAMOUNT (City) is political subdivision of the State of
+
+6 California organized and existing under the laws of the State of California, with the
+
+7 capacity to sue and be sued. The City is the lead agency charged with principal
+
+8 responsibility for ensuring the Project's compliance with CEQA under Public Resources
+Code section 21067.
+
+-3 12. Respondent PARAMOUNT CITY COUNCIL is the decision-making body for the City
+of Paramount. The City Council certified the final SEIR and approved the Project on
+
+12 April 11, 2022.
+
+13 13. As referred to herein, "the City" consists of all councils, boards, commissions, and
+
+14 departments, including the current five-member Paramount City Council.
+
+15 14. Real Party in Interest ALTAIR PARAMOUNT LLC (AltAir), the Project applicant, is a
+
+16 Delaware limited liability company and the registered owner and operator of the
+
+17 Refinery, which is located at 14700 Downey Ave., Paramount, California 90723. In 2018,
+
+18 AltAir became a wholly owned subsidiary of World Energy, LLC. Founded in 1998,
+
+19 World Energy is considered one of the largest biofuel suppliers in North America, with
+
+20 manufacturing plants in Texas, Mississippi, Georgia, Pennsylvania, and California.
+
+21 15. The true names and capacities of DOES through 40, inclusive, are unknown to
+
+22 Petitioners. Petitioners will amend this Petition and Complaint to set forth the true names
+
+23 and capacities of said Doe parties when they have been ascertained.
+III. JURISDICTION AND VENUE
+
+24
+
+25 16. This Court has jurisdiction to issue a writ of mandate to set aside the City's decision
+
+26 under Code of Civil Procedure section 1094.5, or, in the alternative, section 1085.
+
+27 Judicial review is governed under Public Resources Code section 21168.5, or, in the
+alternative, section 21168.
+
+28
+- 6 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+17. This Court has jurisdiction over Petitioners' claim for declaratory relief under Code of
+t 60 7 00 Civil Procedure section 1060.
+18. Venue is proper in this Court under Code of Civil Procedure section 395 because the City
+of Paramount, its City Council, and the proposed Project are currently located, or will be
+located, in Los Angeles County.
+19. Venue is also proper in this Court under Code of Civil Procedure sections 393 and 394.
+A 20. This action was timely filed within 30 days of the Los Angeles County Clerk posting on
+8 its website the Paramount City Council's Notice of Determination approving the Project
+9 and the SEIR, in accordance with Public Resources Code section 21167, subdivision (c)
+10 and California Code of Regulations, title 14, section 15112, subdivision (c)(1).2
+11 21. Petitioners have provided written notice of their intent to file this petition to the City of
+12 Paramount and Paramount City Council and provide the notice and proof of service as
+13 Exhibit A as required by Public Resources Code section 21167.5.
+14 22. Petitioners have served the Attorney General with a copy of the Petition and Complaint
+15 a along with a notice of filing, in compliance with Public Resources Code section 21167.7
+16 and Code of Civil Procedure section 388, and provide the notice and proof of service as
+17 Exhibit B.
+
+18 23. Petitioners have performed any and all conditions precedent to filing this instant action
+19 and have exhausted any and all available administrative remedies to the extent required
+20 by law.
+21 24. Petitioners do not have a plain, speedy, or adequate remedy at law because Petitioners
+22 and their members will be irreparably harmed by the ensuing environmental damage
+23 caused by implementation of the Biofuels Project and the City's violations of CEQA.
+IV. STATEMENT OF FACTS 24
+
+25 A. Community and Environmental Setting
+
+26
+
+27 CEQA Guidelines are codified in title 14, section 15000 et seq. of the California Code of 28 Regulations; all references to "CEQA Guidelines" refer to these sections in title 14.
+7-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+25. The City of Paramount is 4.85 square miles and home to about 54,000 residents. 3 The
+
+2 City is part of the Gateway Cities region between the City of Los Angeles and Orange
+0 71 0 County and is bounded by the cities of South Gate, Downey, Bellflower, Long Beach,
+Compton, and Lynwood.
+26. The City is majority people-of-color, with Latinos comprising the largest population, and
+about 35 percent of residents are immigrants.* Over 15 percent of residents in the City
+
+7 live below the poverty line, and a high percentage of residents have less than a high
+
+8 school education as compared to other areas of Los Angeles County.›
+- vo 27. The City sits within the South Coast Air Basin, which is in "extreme" nonattainment of
+10 various air quality standards established under the federal Clean Air Act to protect public
+
+11 health and the environment, including ground-level ozone (smog).'
+
+12 28. The City is considered an environmental justice community where residents are exposed
+13 to a range of environmental harms from industrial operations, including elevated
+
+14 chromium-6 levels from metal facilities that increase the risk of lung and nasal cancers.'
+
+15 29. CalEnviroScreen is a mapping tool developed by California's Office of Environmental
+
+16 Health Hazard Assessment that assesses communities at the census tract level to identify
+
+17 those most burdened by particular kinds of pollution from multiple sources and those
+
+18 3 United States Census Bureau, Quick Facts: Paramount City, California, Population, Census,
+19 April 1, 2020, https://www.census.gov/quickfacts/fact/table/paramountcitycalifornia
+
+20 /POP010210#POP010210 (last visited May 13, 2022).
+Id.
+21 5 Id. United States Environmental Protection Agency, Green Book: Current Nonattainment Counties
+22 for All Criteria Pollutants, https://www3.epa.gov/airquality/greenbook/ancl.html(last updated
+23 Apr. 30, 2022). Ozone forms when volatile organic compounds (VOCs) react with nitrogen oxides (NOx) in the presence of sunlight. Ozone compromises lung function in children and
+24 causes negative health effects, such as coughing, burning eyes, asthma attacks, and heightened risk of heart attacks.
+25 County of Los Angeles Public Health Department, Hexavalent Chromium in the City of
+26 Paramount, http://www.publichealth.lacounty.gov/eh/chromium6/paramount.htm(last visited May 11, 2022); California Office of Environmental Health Hazard Assessment, Proposition 65
+27 Fact Sheets: Chromium (Hexavalent Compounds), https://www.p65warnings.ca.gov/fact- sheets/chromium-hexavalent-compounds-chromium-6-chromium-vi (last updated Dec. 18,
+28 2022).
+- 8 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+2 most vulnerable to its effects, based on socioeconomic factors and underlying health
+
+U status. Based on these factors, census tracts are assigned a percentile score from 1 to 100.
+
+4 The higher the census tract's percentile score, the greater the pollution burdens and
+
+5 population vulnerabilities of residents in that tract as compared to other residents in the
+
+state.
+
+6
+
+7 30. According to CalEnviroScreen, residents in the census tract around the Refinery
+
+8 experience a pollution burden and population vulnerability worse than 85 percent of the
+
+O state. Most census tracts in the City have a CalEnviroScreen score in the 90th percentile.
+
+10 The City is among the most over-polluted areas in the state. These communities
+
+11 experience an increased risk of asthma and cardiovascular disease, and newborns in these
+
+12 areas have an increased risk of having low birthweight, developing asthma or other
+
+13 chronic diseases later in life.
+
+14 B. Biofuel Trends in the United States and California
+
+15 31. The United States is the largest biofuel producers in the world and is expected to
+
+16 significantly increase production capacity over the next few years.8 As of 2021, almost
+
+17 20 biofuel projects have been proposed or are already under construction across the
+United States.
+
+18
+
+19 32. In California alone, several petroleum refinery conversions are currently taking place to
+
+20 process non-crude oil feedstocks. In Northern California, the Phillips 66 Refinery in
+
+21 Rodeo plans to convert into an 80,000 barrel per day (bpd) biorefinery, and the Marathon
+
+22 Refinery in Martinez aims to convert its shuttered refinery into a 48,000 bpd biorefinery.9
+
+23
+
+24
+
+25 8 U.S. Energy Information Administration, U.S. Renewable Diesel Capacity Could Increase Due to Announced and Developing Projects (July 29, 2021), https://www.eia.gov/todayinenergy /detail.php?id=48916.
+
+26 Bloomberg, Phillips 66 is Turning a California Oil Refinery Into a Biofuel Plant, Los Angeles
+
+27 Times, Aug. 12, 2020, https://www.latimes.com/business/story/2020-08-12/phillips-66-oil-
+
+28 refinery-biofuel-plant; Marathon Petroleum to Convert Martinez Refinery to Renewable Fuels Facility, Biofuels Central (Mar. 9, 2021), https://biofuelscentral.com/marathon-petroleum- convert-martinez-refinery-renewable-fuels-facility/; Rodeo Renewed Project DEIR, SCH# 2020120330, at xxii (Oct. 2021, Version 2).
+- 9-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+- In the Central Valley, Bakersfield Renewable Fuels is converting the closed Alon
+
+2 Bakersfield Refinery into a 15,000 bpd biorefinery.10 And in Southern California, in
+00 7 10 0 addition to the Project at issue in this action, the Chevron Refinery in El Segundo plans to
+co-process up to 10,000 bpd of non-crude oil feedstock. 11
+33. Biofuels are fuels generated from plant or animal oil feedstock. There are several
+categories of biofuels, including biodiesel, renewable diesel, and alternative jet fuel. 12
+7 Biodiesel is petroleum diesel blended with animal fats, vegetable oils and/or cooking
+
+8 greases. Renewable diesel can be produced from any feedstock and does not require
+9 2 = blending. Alternative jet fuel (or sustainable aviation fuel) is petroleum jet fuel blended
+with some percent of non-crude oil feedstock.
+34. Because many biofuel feedstocks require significant land and other resources, land use
+emissions. 12 changes to produce feedstock for biofuels can increase greenhouse gas
+13 Increased biofuel production can also result in shifting the net environmental and
+
+14 ecological impacts toward increased nutrient pollution, pesticide contamination, and
+
+15 water scarcity.13
+
+16 35. As more biofuel refinery conversion or expansion projects are constructed, heightened
+
+17 feedstock demand will increase domestic oil crop production or foreign imports, which
+
+18
+
+19
+
+20 10 Global Clean Energy Holdings, GCEH's Retooled Biorefinery is on Schedule to be Operational in Q1 2022, https://www.gceholdings.com/production (last visited Feb. 2, 2022).
+21 11 Janet McGurty, Chevron Expands Renewable Fuels Output with More Lower Carbon Business Spending, S&P Global Platts (Sept. 14, 2021), https://www.spglobal.com/commodityinsights/en/
+22 market-insights/latest-news/agriculture/091421-chevron-expands-renewable-fuels-output-with-
+
+23 more-lower-carbon-business-spending; Chevron U.S.A., Chevron, Delta, Google Announce Intent to Measure SAF Emissions, Biomass Magazine, Sept. 9, 2021, http://biomass 24 magazine.com/articles/1 8305/chevron-delta-googleannounce-intent-to-measure-saf-emissions. 12 U.S. Energy Information Administration, Biofuels Explained, https://www.eia.gov/
+25 energyexplained/biofuels/ (last updated Mar. 29, 2022).
+
+26 13 Rose Garr & Sheila Karpf, Burned: Deception, Deforestation and America's Biodiesel Policy, Mighty Earth and Action Aid, at 8 (2018), https://www.mightyearth.org/wp-content/uploads 27 /2018/01/MightyEarth_Burned_FINAL_web.pdf. See also Tyler J. Lark et al., Environmental Outcomes of the US Renewable Fuel Standard, 119 PNAS (2020), https://doi.org/10.1073/ 28 pnas.2101084119.
+10 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+will cause environmental and climate impacts.14 Biofuels such as biodiesel, renewable
+2 diesel, and alternative jet fuel draw from the same feedstock pool; therefore, each
+u biorefinery competes in the same markets for limited quantities of feedstock, 15 Increased
+4 demand for crops for use as biofuel feedstocks and the associated changes to landscapes
+5 will exacerbate environmental harm to ground and surface waters, soil resources, and
+
+6 other ecosystem components. According to some estimates, by 2024, there will be a 13-
+
+7 billion pound feedstock deficit as more processing capacity comes online. 16
+
+8 C. Refinery Background and 2013 Renewable Fuels Conversion Project
+c 36. The Paramount Refinery operates on a 66-acre parcel at 14700 Downey Avenue. The
+10 Refinery sits in the middle of a residential area and is adjacent to Paramount High
+11 School, Harry Wirtz Elementary School, and Albert Baxter Elementary School.
+12 37. The Refinery started operations in the 1930s and historically refined crude oil into
+13 various petroleum products, including gasoline, jet fuel, diesel, and asphalt.
+14 38. In 2011, the Refinery idled operations and ceased processing crude oil.
+15 39. In 2013, AltAir and the Refinery partnered to form AltAir Paramount, LLC, to produce
+16 biofuels at the Refinery. Under this partnership, AltAir proposed modifications to the
+17 Refinery to process up to 3,500 bpd of technical grade vegetable oils and beef tallow into
+18 renewable fuels. These modifications repurposed or changed existing equipment,
+19 including converting several reactors and the Isomerization Unit into Renewable Fuels
+
+20 Unit A to pre-treat feedstock and hydrocrack green paraffinic diesel into biofuels;
+21 modifying the Amine Scrubber to remove carbon dioxide and hydrogen sulfide from
+22 refinery fuel gas; and amending storage tank permits to authorize the storage of
+23
+
+24 14 Chris Malins and C. Sandford, Animal, Vegetable or Mineral (Oil)? Exploring the Potential
+
+25 Impacts of New Renewable Diesel Capacity on Oil and Fat Markets in the United States, Cerulogy (Jan. 2022), https://theicct.org/wp-content/uploads/2022/01/impact-renewable-diesel-
+26 us-jan22.pdf.
+See, e.g., Stephanie Kelly, U.S. Renewable Fuels Market Could Face Feedstock Deficit,
+27 Reuters, Apr. 9, 2021, https://www.reuters.com/business/energy/us-renewable-fuels-market- could-face-feedstock-deficit-2021-04-09/.
+28 16 Id.
+- 11 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+alternative feedstocks and products.
+
+2 40. The City approved these modifications under a CEQA Mitigated Negative Declaration
+c2 7 4 0 (MND) on December 30, 2013, rather than conducting a more thorough investigation of
+impacts and alternatives in an EIR. Additionally, the City amended Conditional Use
+Permit No. 757 to allow for the conversion of the Refinery into a biofuels facility and
+issued a zone variance.
+
+7 41.AltAir completed these modifications to produce biofuels between 2014 and 2015. The
+
+8 Refinery began producing up to 50 million gallons per year of biofuels in 2016 and has
+
+59 been in continuous full capacity production since January 2016.
+42. As of September 2017, crude oil refining shut down permanently at the Refinery after
+11 being idled since 2011.
+12 D. The Proposed Biofuels Project and its Environmental Impacts
+
+13 43. In 2018, World Energy, LLC, purchased AltAir Paramount, LLC, including the Refinery.
+AltAir became a wholly owned subsidiary of World Energy. That same year, under 14
+
+15 World Energy, AltAir proposed the Biofuels Project and applied for a modification to
+
+16 Conditional Use Permit No. 757 and for a variance to exceed height limits.
+
+17 44. Under the Project, AltAir would make several modifications to increase throughput from
+
+18 3,500 bpd to 25,000 bpd of vegetable oil and tallow to make more biofuels above the
+
+19 current 50 million gallons produced per year. Among the proposed changes, AltAir
+
+20 would modify the current Renewable Fuels Unit A and install a new unit a (Renewable
+
+21 Fuels Unit B); expand feedstock options to process low-grade oils, fats, and/or greases in
+
+22 addition to technical grade materials; construct gray hydrogen generation and recovery
+
+23 units; erect a new flare; and install 3.7 miles of fossil gas pipeline through residential
+
+24 areas to tanks in the City of Lakewood.
+
+25 45. In addition to subjecting community members to increased safety risks, the Project's
+
+26 proposed increase in throughput at the Refinery will result in significant environmental
+
+27 and health impacts. When finished, the Project would release 1,743 pounds of VOCs and
+
+28
+- 12 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+2 2,133 pounds of NOx emissions per day from the increased operations at the Refinery,
+
+c + including the daily 50 railcars and 540 diesel truck trips. Due to these significant
+environmental impacts, and the location of high-density communities of color and high
+
+Ut poverty areas near the Refinery and along the pipeline route, the Biofuels Project would
+
+6 disproportionately impact communities of color and low-income populations in the City
+and the surrounding areas.
+
+7
+
+8 E. Environmental Review and the Proposed Biofuels Project Approval Process
+
+o 46. The City of Paramount, as the public agency, has principal responsibility for approving
+
+10 the Project under CEQA. The City conducted an initial study to determine if the Project
+
+11 would have significant environmental impacts requiring an environmental impact report.
+
+12 47. After conducting the initial study, on June 4, 2020, the City determined that the Biofuels
+
+13 Project could have significant environmental impacts. As a result, the City posted :
+
+14 notice of preparation indicating that it would prepare an SEIR under CEQA to evaluate
+
+15 the Project's foreseeable significant environmental impacts, including air quality, climate,
+transportation, and hazards.
+
+16
+
+17 48. On December 6, 2021, the City released a Draft SEIR for public review. The public
+
+18 comment period on the Draft SEIR ran through February 3, 2022.
+
+19 49. Petitioners submitted comments highlighting numerous flaws in the Draft SEIR,
+
+20 including its cumulative impacts analysis, selected baseline, consideration of alternatives,
+
+21 and adequacy of mitigation measures, among other deficiencies.
+
+22 50. After concluding public comment on February 3, 2022, the City issued a Final SEIR
+
+23 shortly thereafter. The Final SEIR provided responses to comments but did not
+
+24 incorporate changes necessary to address the deficiencies of the Final SEIR.
+
+25 51. The City's Planning Commission voted on March 14, 2022, to recommend that the City
+
+26 Council approve the Biofuels Project. On April 11, 2022, the City Council held a public
+
+27 hearing to consider the environmental review and approvals for the Project.
+
+28 52. During the public hearing, multiple community members spoke in opposition to the
+
+- 13 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+Project, raising concerns about the increased pollution, health and cancer risks, and lack
+
+2 of adequate public notice. Additionally, Councilmember Laurie Guillen highlighted
+w A U concerns about the dangers of transporting hydrogen and fuel in residential
+neighborhoods, the health impacts to children and families in the area, and the increased
+financial burdens on residents near the Refinery.
+
+6 53. Despite the concerns raised about the sufficiency of the SEIR as an informational
+
+7 document and significant impacts that would be caused by the Project, the City Council,
+
+8 in a 3-1 vote, certified the Final SEIR and approved the Project. Councilmember Guillen
+5o cast the dissenting vote.
+10 54. On April 18, 2022, the Los Angeles County Clerk posted the Notice of Determination
+11 providing notice of the City's final decision triggering the 30-day statutory deadline
+12 under CEQA to challenge the approval of the SEIR. CEQA Guidelines, § 15112(c)(I). §
+13
+
+14 V. CEQA LEGAL BACKGROUND
+
+15 55. The California Environmental Quality Act is a comprehensive statute designed to provide
+
+16 for long-term protection of the environment. Cal. Pub. Res. Code, §§ 21000-21189. It
+
+17 accomplishes this in two ways. First, CEQA review informs decisionmakers and the
+
+18 public about the potential significant environmental effects of a project. CEQA
+
+19 Guidelines, § 15002(a)(1). Such disclosure ensures that "long term protection of the
+
+20 environment . .. shall be the guiding criterion in public decisions." Cal. Pub. Resources
+
+21 Code § 21001(d). The EIR is the "heart" of this requirement. See No Oil, Inc. V. City of
+
+22 Los Angeles, 13 Cal.3d 68, 84 (1974). The EIR has been described as "an environmental
+
+23 'alarm bell' whose purpose it is to alert it the public and its responsible officials to
+
+24 environmental changes before they have reached ecological points of no return." County
+
+25 of Inyo v. Yorty, 32 Cal.App.3d 795, 810 (1973).
+
+26 56. Second, CEQA requires public agencies to avoid or reduce environmental damage
+
+27 whenever feasible by considering changes in projects through project alternatives or
+
+28
+- 14 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+2 enforceable mitigation measures. See CEQA Guidelines, §§ 15002(a)(2)-(3),
+
+3 15126.4(a)(2); see also Citizens of Goleta Valley v. Board of Supervisors 52 Cal.3d 553,
+
+4 564 (1990). To measure the environmental damages of a project and provide adequate
+
+5 mitigation, CEQA and its implementing guidelines require that an EIR "include a
+
+6 description of the physical environmental conditions in the vicinity of the project .. as
+
+7 they exist at the time the notice of preparation is published." CEQA Guidelines, §
+
+8 15125(a). This baseline is a key component in identifying and quantifying a project's
+
+o environmental effects and the starting point from which a lead agency measures whether
+
+10 an impact may be environmentally significant. Id. Without an adequate baseline
+
+11 description, "analysis of impacts, mitigation measures and project alternatives becomes
+
+12 impossible." Save our Peninsula Comm. v. Monterey Cnty. Bd. of Supervisors, 87 Cal.
+
+13 App 4th 99, 124 (2001) [quoting County of Amador v. El Dorado Cnty. Water Agency, 76
+Cal. App 4th 931, 953 (1999)].
+
+14
+
+15 FIRST CAUSE OF ACTION
+
+16 (Violations of CEQA - Public Resources Section 21000, et seq.)
+
+17
+
+18 57. Petitioners incorporate herein by reference the allegations contained in the foregoing
+paragraphs.
+
+19
+
+20 58. The City violated CEQA by certifying a legally deficient Final SEIR and by approving
+
+21 the Project without adequate environmental review. The City's CEQA violations include
+the following:
+22
+23 a. The City failed to require that the Final SEIR base its environmental review and
+
+24 analyses on an accurate, stable, and finite description of the Biofuels Project that
+
+25 fully discloses and fairly evaluates the nature and objectives of the Project. The
+
+26 description of the Project failed to provide decisionmakers and the public with
+
+27 enough information to understand the Project's environmental impacts,
+
+28 appropriate mitigation, and potential alternatives. For instance, the description of
+
+- 15 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+2 the Project is inaccurate and incomplete in the following way:
+
+A i. The Final SEIR confirms the gray Hydrogen Generation Unit would be
+larger than what may be needed to supply the Refinery, The Final SEIR
+
+5 fails to describe the foreseeable future generation, export, transport, and
+
+6 use of hydrogen for non-Project specific purposes and environmental
+
+7 impacts. Because of this omission, the SEIR gave conflicting signals about
+
+8 the Project's nature and scope.
+
+E50 b. The City failed to measure the impacts of the Biofuels Project using an accurate
+or realistic baseline that reflects existing physical environmental conditions at the
+
+12 time the City published the notice of preparation. The City published the notice of
+
+13 preparation on June 4, 2020. The Final SEIR, however, used a 2011 baseline that
+
+14 reflects the last time the Refinery was refining crude oil before idling and
+
+15 permanently shutting down crude oil refining in September 2017. The Final SEIR
+lacks substantial evidence supporting its use of this baseline or how it provides a
+
+moré accurate or
+
+16
+
+17 realistic measurement of the Project's impacts. The Final SEIR's
+baseline is misleading and prevented decisionmakers and the public from
+
+18 C. understanding the Project's likely environmental impacts.
+
+19 The City failed to adequately evaluate the Biofuels Project's environmental
+
+20 impacts, and failed to respond to public comments concerning a varietÿ of
+
+21 significant environmental effects of the Project, including the following:
+
+22 i. The Final SEIR uses an overly narrow two-mile geographic area to
+
+23
+
+24 evaluate cumulative impacts, fails to disclose and analyze the potential
+cumulative impacts from refinery conversions in the area, and fails to
+
+25
+
+26 disclose and analyze the environmental and climate impacts that will result
+from competition for limited quantities of feedstock and increases in oil
+
+27 crop production or foreign imports that are associated with current biofuel
+
+trends.
+
+28
+16 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+1 ii. The Final SEIR fails to disclose and analyze pipeline fugitive emissions,
+
+2 including the quantities and types of air contaminants. Fugitive emissions
+
+3 are likely to occur from necessary pipeline maintenance operations and
+4 routine inspections to detect corrosion or damage, but the Final SEIR
+
+5 failed to account for these emissions.
+
+6 iii. The Final SEIR fails to disclose and analyze potential process hazards that
+
+7 could result from lower-grade feedstock. There are significant hazards
+
+8 related to the use of lower-grade feedstocks, including potential plugging
+9 and gumming in pipes between ships or trucks and tanks, or from
+10 pretreatment units that could result in process upsets.
+iv. The Final SEIR fails to disclose and analyze the potential for runaway
+12 reactions and flaring from the Project. The Biofuels Project will process
+13 lower-grade oils, fats, and/or greases that require significantly more
+14 hydrogen and that elevate the risk of flaring and explosions from runaway
+15 process reactions that generate high heat.
+16 V. The Final SEIR fails to disclose and analyze hazards associated with the
+17 storage, transportation, and disposal of spent catalysts. A catalyst is toxic
+18 and pyrophoric, meaning that it can spontaneously ignite when exposed to
+19 air. The Project will increase the amount of spent catalyst by several
+20 hundred tons per year.
+21 vi. The Final SEIR fails to disclose and analyze hazards from toxic dust that
+22 could migrate during construction. The Final SEIR does not disclose the
+23 types of soil contaminants and potential environmental and health risks.
+24 The Final SEIR relies solely on regulatory compliance to conclude
+25 impacts would be less than significant.
+26 vii. The Final SEIR fails to disclose and analyze the Project's climate change
+27 impacts. The Final SEIR analyzes the Project's climate change impacts
+28
+- 17 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+1 using a 2008 interim threshold developed by the South Coast Air Quality
+
+2 Management District, despite evidence in the record confirming that since
+007 10 2008 climate conditions are deteriorating more rapidly than predicted and
+require more drastic emissions reductions than the interim threshold
+envisioned.
+
+viii. The Final SEIR fails to describe the range of materials that could be
+7 processed and their differing environmental impacts. The Final SEIR
+
+8 detailed that the Project would allow the Refinery to process lower-grade
+02=0 oils, fats, and/or greases, but these categories are overbroad and could
+include a range of feedstocks.
+d. The City failed to consider, discuss, or adopt adequate mitigation measures to
+minimize the Biofuels Project's significant and detrimental impacts, or otherwise
+
+13 improperly deferred mitigation necessary to minimize the Project's impacts,
+14 including the following:
+
+15 i. The Final SEIR fails to describe and consider feasible mitigation measures
+
+16 to address significant air pollution impacts from the Project's construction
+
+17 and operation, including use of zero emissions trucks and construction
+
+18 equipment, electric boilers and heaters, and leakless valves to control
+
+19 fugitive VOC emissions. The City approved the Project without ensuring
+
+20 that it implemented all feasible mitigation measures.
+
+21 ii. The Final SEIR defers developing the details of Mitigation Measure AQ-
+
+22 2b (NOx Reduction Program), including reduction measures, potential
+23 reductions, performance criteria, and amount of funding necessary. The
+
+24 Final SEIR fails to explain why it would be impractical or infeasible to
+
+25 formulate the details of this mitigation measure.
+
+26 iii. The Final SEIR fails to support its decision to limit indoor air filter
+
+27 distribution to residences and schools between 200 to 1,000 feet of the
+
+28
+- 18 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+1
+
+2 Refinery under Mitigation Measure AQ-2b. The Final SEIR based this
+
+3 filter distribution on localized modeling of NOx emissions during
+
+4 construction only and ignored significant NOx emissions that would occur
+
+5 during both construction and operation where NOx and VOC pollution is
+expected to be significant.
+
+6
+
+7 iv. The Final SEIR fails to support its decision to limit Mitigation Measure
+
+8 AQ-2b to NOx emissions, despite the potential for significant VOC
+
+vO emissions during construction and operation overlap. The Final SEIR
+ignored the potential for VOCs to travel long distances and the longer
+
+11 atmospheric lifetimes of these pollutants.
+
+12 V. The Final SEIR incorporates unlawful compliance exemptions to
+
+13 Mitigation Measure AQ-1a. which creates on and off-road construction
+
+14 vehicle requirements to reduce NOx emissions. The Final SEIR allows the
+
+15 Refinery to use higher-polluting equipment after "good faith" efforts to
+
+16 comply, rendering the measure optional and ineffective.
+
+17 vi. The Final SEIR fails to adequately mitigate the Project's climate change
+
+18 impacts from significant greenhouse gas emissions during construction
+
+19 and operations. The Final SEIR relies on California's temporary cap-and-
+
+20 trade program to mitigate the Project's greenhouse gas emission even after
+
+21 2030 when the program is set to expire.
+
+22 vii. The Final SEIR fails to provide adequate mitigation for construction
+
+23 traffic impacts. The Final SEIR estimates about 1,312 construction
+
+24 workers would visit the refinery each day but asserts that offsite parking
+and shuttles would be available to reduce traffic
+
+25 impacts. The Final SEIR,
+
+26 however, does not make use of this offsite parking mandatory for the
+Refinery and contractors.
+27
+
+28 e. The City failed to adequately analyze a reasonable range of alternatives and
+
+- 19 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+rejected feasible alternatives that would substantially lessen the Biofuels Project's
+2 significant environmental effects. The Final SEIR created narrow objectives to
+0t n ensure the Project would be approved as proposed and to dismiss from
+consideration other feasible alternatives with less significant environmental
+impacts, including a reduced throughput alternative or an alternative that does not
+6 require additional production of hydrogen on site.
+
+7 59. If the City, Real Parties in Interest, and DOES 1 to 40 are 1 not enjoined from moving
+
+8 forward with permitting, constructing and operating the Biofuels Project without
+60 adequate environmental analysis and mitigation, and without complying with CEQA's
+
+10 environmental review and evidentiary requirements, Petitioners will suffer irreparable
+
+11 harm from which there is no plain, speedy, or adequate remedy at law unless this Court
+
+12 grants the requested writ of mandate.
+13 60. By certifying the Final SEIR and by approving the Biofuels Project, the City committed a
+
+14 prejudicial abuse of discretion, failed to proceed in the manner required by law, and acted
+
+15 without substantial evidentiary support.
+
+16 VI. PRAYER FOR RELIEF
+
+17 WHEREFORE, Petitioners pray for judgment as set forth below:
+
+18 A. For a writ of mandate or peremptory writ issued under the seal of this Court pursuant to
+
+19 Code of Civil Procedure section 1094.5, or in the alternative section 1085, directing the
+
+20 City to:
+
+21 1. Set aside and withdraw its certification of the Final SEIR and approval of the
+
+22 statement of overriding considerations;
+
+23 2. Set aside and withdraw all approvals for the Biofuels Project, including the
+
+24 amendment to Conditional Use Permit No. 757 and Zone Variance No. 409; and
+
+25 3. Refrain from granting any further approvals for the Project unless and until the
+
+26 City complies fully with the requirements of CEQA.
+
+27
+
+28
+- 20 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+B. For entry of injunctive relief prohibiting the City and the Real Party in Interest from
+
+2 constructing and operating the Project until the City complies fully with the requirements
+3 of CEQA by voiding the approved Final SEIR, setting aside and withdrawing all
+approvals issued in reliance on the Final SEIR, and conducting a new environmental
+review process that complies with CEQA's requirements as set forth herein.
+
+6 C. For a declaratory judgment stating that the City violated CEQA by approving the
+
+7 Biofuels Project.
+
+8 D. For a declaratory judgment that the City's failure to prepare, consider, and approve or
+9 certify an adequate environmental analysis under CEQA is a prejudicial abuse of
+10 discretion.
+
+11 E. For Petitioners' fees and costs, including reasonable attorneys' fees and costs, as
+12 authorized by Code of Civil Procedure section 1021.5 and any other applicable
+13 provisions of law.
+14 F. For such other legal and equitable relief as this Court deems appropriate and just.
+15 Respectfully Submitted,
+16
+
+17
+
+18 DATED: May 16, 2022 SaaL2
+19 SHANA EMILE
+OSCAR ESPINO-PADRON
+20 ANGELA JOHNSON MESZAROS
+EARTHJUSTICE
+21
+
+22 Attorneys for Petitioners/Plaintiffs Communities
+for a Better Environment,
+23 East Yard Communities for a Better Environment,
+
+24 and Center for Biological Diversity
+
+25 SHANA LAZEROW
+
+26 ALISON HAHM
+COMMUNITIES FOR A BETTER
+27 ENVIRONMENT
+
+28
+- 21 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+Attorneys for Petitioner/Plaintiff Communities for
+a Better Environment
+
+ELIZABETH JONES F
+
+MAYA GOLDEN-KRASNER
+CENTER FOR BIOLOGICAL DIVERSITY 2
+
+0 t n Attorneys for Petitioner/Plaintiff Center for
+Biological Diversity
+6
+
+7
+
+9=90
+14
+
+15
+
+16
+
+2
+
+20
+
+21
+
+22
+23
+
+24
+
+25
+
+26
+
+- 22 - 27
+
+28
+
+... a VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+1 VERIFICATION
+
+2
+
+3 I, Darryl Molina Sarmiento, hereby declare:
+
+4 am the Executive Director for Petitioner Communities for a Better Environment, a non-
+
+5 profit corporation with offices in Huntington Park and Los Angeles, California. I have read the
+
+6 foregoing petition and complaint and am familiar with its contents. The facts alleged in it are true
+
+7 to my personal knowledge and belief.
+
+8 declare under penalty of perjury under the laws of the State of California that the above
+
+9 IS true and correct and that this verification is executed on this 12th day of May 2022 in Rancho
+
+10 Cucamonga, California.
+
+11
+
+12
+
+13 Darryl Molina Sarmiento
+Executive Director
+14 Communities for a Better Environment
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+• 23 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+VERIFICATION F
+
+2
+
+m* Whitney Amaya, hereby declare:
+I am the Zero Waste Community Organizer for Petitioner, East Yard Communities for
+
+5 Environmental Justice, a non-profit corporation with offices in Commerce, California. I have
+
+6 read the foregoing petition and complaint and am familiar with its contents. 'The facts alleged in
+
+7 are true to my personal knowledge and belief.
+
+8 I declare under penalty of perjury under the laws of the State of California that the above
+
+9 is true and correct and that this verification is executed on this 13th day of May 2022 in
+
+10 Bellflower, California.
+
+11
+
+12
+
+13 Zero Waste Community Organizer
+14 East Yard Communities for Environmental Justice
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+- 24 - 28
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+1 VERIFICATION
+
+2
+
+3 Peter Galvin, hereby declare:
+
+4 am the Director of Programs for Petitioner Center for Biological Diversity, a non-profit
+
+5 corporation with offices in Los Angeles, California. I have read the foregoing petition and
+
+6 complaint and am familiar with its contents. The facts alleged in it are true to my personal
+
+7 knowledge and belief.
+
+8 I declare under penalty of perjury under the laws of the State of California that the above
+
+9 IS true and correct and that this verification is executed on this 12th day of May 2022 in Petaluma,
+
+10 California.
+
+11
+
+12
+
+13
+
+14 -Det a SpaN
+
+15 Peter Galvin
+Director of Programs
+16 Center for Biological Diversity
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+• 25 -
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND
+INJUNCTIVE RELIEF
+
+.
+
+EXHIBIT A
+Notice to Respondents of Intent to File CEQA
+Action and Proof of Service
+
+EARTHJUSTICE
+
+May 13, 2022
+
+VIA CERTIFIED MAIL & E-MAIL
+
+Heidi Luce, City Clerk
+City of Paramount
+16400 Colorado Avenue
+Paramount, CA 90723
+hluce@paramountcity.com
+
+RE: Notice of Intent to File California Environmental Quality Act Petition
+Challenging the Certification of the Final Subsequent Environmental
+Impact Report for the AltAir Renewable Fuels Conversion Project (State
+Clearinghouse No. 2020069013)
+Dear City Clerk Heidi Luce:
+
+PLEASE TAKE NOTICE that as required under California Public Resources Code section 21167.5, Communities for a Better Environment, East Yard Communities for Environmental Justice, and Center for Biological Diversity ("Petitioners") hereby provide notice of their intent to file a verified petition for writ of mandate under the
+California Environmental Quality Act ("CEQA") against the City of Paramount and Paramount City Council ("Respondents"), and AltAir Paramount, LLC ("Real Party in Interest") in Los Angeles County Superior Court. (See Pub. Res. Code § 21000, et
+seq.)
+
+Petitioners seek to challenge Respondents' approval and certification of the Final
+Subsequent Environmental Impact Report ("SEIR") for the AltAir Renewable Fuels
+Conversion Project (*Project") on April 11, 2022. Petitioners will file this CEQA
+challenge based on the SEIR's failure to adequately disclose, analyze, and mitigate
+the Project's significant environmental impacts.
+Among other relief, Petitioners will request that the court issue a writ of mandate
+ordering the City of Paramount to vacate the SEIR certification and recirculate an SEIR that conforms to CEQA requirements. Additionally, Petitioners will seek attorneys' fees and costs. (See Cal. Civ. Proc. § 1021.5.)
+
+COMMUNITY PARTNERSHIPS PROGRAM 707 WILSHIRE BOULEVARD, SUITE 4300 LOS ANGELES, CA 90017
+
+T: 415.217. 2000 F: 213.403.4822 SEMILE@EARTHJUSTICE.ORG WWW.EARTHJUSTICE.ORG
+
+Based on the reasons outlined above, Respondents should immediately vacate the certification of the SEIR and engage in an appropriate CEQA review process that
+results in an adequate SEIR.
+
+Respectfully,
+ShonL2 Shana Emile, Associate Attorney
+Oscar Espino-Padron, Senior Attorney
+
+EARTHJUSTICE
+
+cc: John Carver, Planning Director
+City of Paramount
+16400 Colorado Avenue
+Paramount, CA 90723
+JCarver@paramountcity.com
+
+John E. Cavanaugh, Paramount City Attorney The Cavanaugh Law Group, APLC
+PO Box 823
+Chino Hills, CA 91709-0028
+jcavanaugh@cavanaughlaw.net
+
+2
+
+DECLARATION OF PROOF OF SERVICE
+
+I, Lupe Ruelas, declare:
+
+I am a resident of the State of California, and I am over the age of 18 years and not a party to the within entitled action. My business address is 707 Wilshire Boulevard, Suite 4300, Los Angeles,
+CA 90017.
+
+hereby certify that on May 13, 2022, I served the following document(s):
+
+NOTICE OF INTENT TO FILE CEQA PETITION CHALLENGING THE
+CERTIFICATION OF THE FINAL SEIR FOR THE ALTAIR RENEWABLE FUELS
+CONVERSION PROJECT (STATE CLEARINGHOUSE NO. 2020069013)
+
+(X) VIA CERTIFIED MAIL, RETURN RECEIPT REQUESTED by enclosing the
+document(s) in a sealed envelope or package addressed to the person(s) set forth below and
+depositing the sealed envelope with the United States Postal Service, with the postage fully
+prepaid, following this organization's ordinary practices with which I am readily familiar.
+
+(X) VIA E-MAIL by causing the document(s) to be sent to the person(s) at the e-mail address(es)
+listed below.
+
+Heidi Luce, City Clerk
+City of Paramount John Carver, Planning Director City of Paramount
+16400 Colorado Avenue 16400 Colorado Avenue
+Paramount, CA 90723 Paramount, CA 90723
+hluce@paramountcity.com JCarver@paramountcity.com
+John E. Cavanaugh, Paramount City
+Attorney
+The Cavanaugh Law Group, APLC
+PO Box 823
+Chino Hills, CA 91709-0028
+jcavanaugh@cavanaughlaw.net
+
+I declare under penalty of perjury under the laws of the State of California that the
+foregoing is true and correct. Executed on May 13, 2022, in Los Angeles, California.
+ML Lupe Ruelas
+
+DECLARATION OF PROOF OF SERVICE
+I, Lupe Ruelas, declare:
+a I am a resident of the State of California, and I am over the age of 18 years and not party to
+the within entitled action. My business address is 707 Wilshire Boulevard, Suite 4300, Los
+Angeles, CA 90017.
+I hereby certify that on May 16, 2022, I served the following document(s):
+(1) NOTICE TO ATTORNEY GENERAL OF THE STATE OF CALIFORNIA OF
+VERIFIED CEQA PETITION FOR WRIT OF MANDATE; and
+(2) PETITIONERS' VERIFIED PETITION FOR WRIT OF MANDATE
+(X) VIA FIRST-CLASS MAIL by enclosing the document(s) in a sealed envelope or package
+addressed to the person(s) set forth below and depositing the sealed envelope with the United
+States Postal Service, with the postage fully prepaid, following this organization's ordinary
+practices with which am readily familiar.
+(X) VIA E-MAIL by causing the document(s) to be sent to the person(s) at the e-mail
+address(es) listed below.
+
+CEQA Coordinator
+Office of the Attorney General
+Environment Section
+1300 "I" Street
+Sacramento, CA 95814-2919
+Email: CEQA@doj.ca.gov
+
+I declare under penalty of perjury under the laws of the State of California that the
+is foregoing is true and correct. Executed on May 16, 2022, in Los Angeles, California.
+
+Lupe Ruelas
+
+PROOF OF SERVICE
+
+2w 301140 04MWY2 Sc C1lSOr I0 INTHIRY. 9O:1lH8
+C
+E SRRSABOL E

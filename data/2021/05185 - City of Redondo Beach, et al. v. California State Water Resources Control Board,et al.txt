@@ -1,0 +1,906 @@
+Eloctronically FILED by Superior Court of California, County of Los Angeles on 10/01/2020 04:18 PM Shemi R. Carter, Executive OmceriClerk of Court, by R. Perez, Deputy Clerk
+
+- MICHAEL W. WEBB, City Attorney (BAR NO. 133414) CITY OF REDONDO BEÄCH
+2 415 Diamond Street
+
+3 Redondo Beach, California 90277 Telephone: 310.318.0655 Facsimile: 310.372.3886 4 Michael.Webb@redondo.org
+5 Attorneys for Petitioner.
+
+6 CITY OF REDONDO BEACH
+
+7 RICHARDS, WATSON & GERSHON
+A Professional Corporation LISA BOND (BAR NO. 172342) 8 IIbond@rwglaw.com GINETTAL. GIOVINCO (BAR NO. 227140) 9 ggiovinco@rwglaw.com MARVIN BONILLA (BAR NO. 305888) 10 mbonilla@rwglaw.com
+
+RICHARDS WATSON GERSHON ATTORNEYS AT LAW - A PROFESSIONAL CORPORATIO 350 South Grand Avenue, 37th Floor 11 Los Angeles, California 90071 Telephone: 213.626.8484 12 Facsimile: 213.626.0078
+13 Attorneys for Petitioners. CITY OF REDONDO BEACH and 14 CITY OF HERMOSA BEACH
+
+15
+
+16 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+17 COUNTY OF LOS ANGELES, CENTRAL DISTRICT
+
+18 CITY OF REDONDO BEACH, a municipal Case No. 208TCPO3193 corporation; CITY OF HERMOSA 19 BEACH, a municipal corporation,
+20
+
+21 V. Petitioners, PETITION FOR WRIT OF MANDATE
+
+I CALIFORNIA STATE WATER 22 RESOURCES CONTROL BOARD, (California Environmental Quality Act |CEQA] Pub. Res. Code § 21000, et seq.; Code of Civ. Proc. § 1085)
+
+23 Respondent;
+24 AES SOUTHLAND ENERGY, LLC, a
+I Delaware limited liability company; AES [Exempt from filing fees pursuant to Govt. Code § 6103]
+
+25 SOUTHLAND ENERGY HOLDINGS II, LLC, a Delaware limited liability company; 26 AES REDONDO BEACH, LLC, a Delaware limited liability company; AES 27 HUNTINGTON BEACH, LLC, a Delaware limited liability company; AES 28 ALAMITOS, LLC, a Delaware limited
+liability company: THE AES
+
+| R6900-1017\2462864v4.doc PETITION FOR WRIT OF MANDATE
+
+1 CORPORATION WHICH WILL DO
+BUSINESS IN CALIFORNIA AS THE 2 DELAWARE AES CORPORATION, a Delaware corporation; SLH FUND, LLC, a 3 California limited liability company; BH
+
+4 KARKA, LLC, a California limited liability company; DAVID DROMY, an individual; 9300 WILSHIRE, LLC, a Delaware limited 5 liability company; 1112 INVESTMENT COMPANY, LLC, a California limited 6 liability company; ED FLORES, LLC, a California limited liability company; 9300 7 WILSHIRE FEE, LLC. a Delaware limited liability company; 1650 VETERAN, LLC, a 8 California limited liability company; OUTDOOR BILLBOARD COMPANY.
+9 LLC, a California limited liability company; 5TH STREET INVESTMENT COMPANY.
+
+505
+RICHARDS WATSON GERSHON ATTORNEYS AT LAW • A PROFESSIONAL CORPORATIO 10 LLC. a i Vasioia lircied takiity company; a 11 California limited liability company; PEAK ALCOTT, LLC, a California limited 12 liability company; NEW COMMUNE DTLA, LLC, a California limited liability 13 company; LEONID PUSTILNIKOV, an individual; GENON CALIFORNIA 14 SOUTH GP, LLC, a Delaware limited
+
+15 liability company; and DOES 1-50,
+
+16 Real Parties in Interest.
+
+17
+
+18
+19 (Hermosa Beach") (collectively, the "Cities" or "Petitioners") allege as
+20 Petitioners City of Redondo Beach ("Redondo Beach") and City of Hermosa Beach
+follows:
+
+21
+
+22 1. INTRODUCTION
+
+This lawsuit challenges the discretionary action of the California State Water
+23 Resources Control Board ("Water Board") to approve an amendment to the Water Quality
+24 Control Policy on the Use of Coastal and Estuarine Waters for Power Plant Cooling ("OTC
+25 Policy") without fully analyzing, disclosing, or mitigating the adverse environmental
+26 impacts of the OTC Policy amendment ("OTC Policy Amendment"). a As a result of the
+27 Water Board's action and extension of deadlines, multiple power plants will be allowed to
+28 continue operating without achieving full compliance under the OTC Policy, which is
+
+-2-
+
+| R6900-1017\2462864v4.doc PETITION FOR WRIT OF MANDATE
+
+•
+
+intended to protect marine life from the harmful effects of cooling water intake structures at
+2 coastal power plants.
+
+3 2. Petitioners allege that the Water Board's September 1, 2020 reliance on an
+4 un-adopted Addendum to its previously prepared substitute environmental document
+5 violates multiple provisions of the California Environmental Quality Act (Pub. Resources
+6 Code § 21000, et seq.) ("CEQA") and the CEQA Guidelines (14 Cal. Code Regs. § 15000,
+7 et seq.) ("CEQA Guidelines"), including but not limited to the following:
+
+8
+
+9
+
+10 The Water Board improperly relied on a 10-year old substitute environmental
+
+ATTORNEYS AT LAW - A PROFESSIONAL CORPORATION RICHARDS WATSON GERSHON 11 document as its baseline environmental document and analysis, and failed to
+
+12 consider new information and substantial evidence showing that there are
+
+os changed circumstances and significant, adverse environmental impacts that
+preclude the use of an Addendum;
+
+14
+
+15 The Water Board ignored substantial evidence demonstrating that the OTC
+
+16 Policy Amendment and the extended operation of numerous power plants will
+
+17 result in substantial adverse environmental impacts to air quality and marine
+life, among other environmental impacts;
+
+18
+19 As a result of the Water Board's failure to sufficiently analyze and disclose
+
+20 impacts, the Water Board also failed to impose effective, feasible, and
+
+21 necessary mitigation measures to reduce such environmental impacts;
+
+22 The Water Board failed to find that the Addendum, which was included in the
+
+23 staff report prepared for the Water Board, reflected the Water Board's
+independent judgment.
+
+24
+
+25 The Water Board failed to actually adopt or approve the Addendum to the
+
+26 substitute environmental document, thereby resulting in the OTC Policy
+Amendment being adopted without any environmental review.
+As a result, the Water Board abused its discretion in that it failed to proceed as
+27 required by law, and its purported reliance on the Addendum is not supported by substantial
+28 evidence.
+
+I| R6900-1017\2462864v4.doc -3-
+PETITION FOR WRIT OF MANDATE
+
+1 THE PARTIES
+
+2 3. Petitioner City of Redondo Beach is a charter city and a municipal
+3 corporation located in the County of Los Angeles. Redondo Beach alone and its
+4 constituents and residents have a beneficial interest in the Water Board's lawful
+5 performance of its duties, particularly with respect to approval and adoption of an
+6 Addendum for a project (the OTC Policy Amendment) that applies expressly to a power a
+7 plant directly located in part within Redondo Beach's boundaries.
+
+8 4. Petitioner City of Hermosa Beach is a general law city and a municipal
+9 corporation located in the County of Los Angeles. Hermosa Beach alone and its
+10 constituents and residents have a beneficial interest in the Water Board's lawful
+
+ATTORNEYS AT LAW - A PROFESSIONAL CORPORATIOR NOHSHINOSLYMSGHVHOId 11 performance of its duties, particularly with respect to approval and adoption of an
+12 Addendum for a project a (the OTC Policy Amendment) that applies expressly to a power
+13 plant directly adjacent in part to Hermosa Beach's boundaries.
+14 5. Respondent California State Water Resources Control Board is a California
+15 state agency that is designated as the state water pollution control agency for all purposes
+16 stated in the Clean Water Act, including water quality control planning and waste discharge
+17 regulation. The Water Board is responsible for adopting state policy for water quality
+18 control, which may consist of water quality principles, guidelines, and objectives deemed
+19 essential for water quality control. The Water Board is the public entity that served as the
+20 lead agency under CEQA in connection with the supposed approval and adoption of the
+21 Addendum challenged herein.
+
+22 6. Petitioners are informed and believe and based thereon allege that Real Party
+23 in Interest AES Southland Energy, LLC, is a Delaware limited liability company and is the
+24 current or former owner and/or operator of one or more of the following: the AES Redondo
+25 Beach Generating Station ("AES Redondo Beach") in the City of Redondo Beach, the AES
+26 Alamitos Generating Station in Alamitos, and the AES Huntington Beach Generating
+27 Station in the City of Huntington Beach.
+28 ///
+
+-4-
+PETITION FOR WRIT OF MANDATE
+
+| R6900-101712462864v4.doc
+
+7. Petitioners are informed and believe and based thereon allege that Real Party
+2 | in Interest AES Southland Energy Holdings II, LLC, is a Delaware limited liability
+company and is the current or former owner and/or operator of one or more of the
+4 following: the AES Redondo Beach, the AES Alamitos Generating Station, and/or the AES
+5 Huntington Beach Generating Station.
+8. Petitioners are informed and believe and based thereon allege that Real Party
+7 in Interest AES Redondo Beach, LLC, is a Delaware limited liability company and is the
+
+8
+
+10 current or former owner and/or operator of AES Redondo Beach or the property on which it
+9 is located.
+
+9.
+
+RICHARDS WATSON GERSHON ATTORNEYS AT LAW - A PROFESSIONAL CORPORATIO Petitioners are informed and believe and based thereon allege that Real Party
+11 in Interest AES Huntington Beach, LLC, is a Delaware limited liability company and is the
+12 current or former owner and/or operator of the AES Huntington Beach Generating Station
+
+13
+
+14 or the property on which it is located.
+10.
+
+15 in Interest AES Alamitos, LLC, is a Delaware limited liability company and is the current
+16 Petitioners are informed and believe and based thereon allege that Real Party
+
+17 which it is located.
+
+18 or former owner and/or operator of the AES Alamitos Generating Station or the property on
+
+11. Petitioners are informed and believe and based thereon allege that Real Party
+19 in Interest The AES Corporation Which Will Do Business in California as the Delaware
+20 AES Corporation is a Delaware corporation and is the current or former owner and/or
+21 operator or the parent company of the owners and/or operators of one or more of the
+22 following: AES Redondo Beach, the AES Alamitos Generating Station, and/or the AES
+23 Huntington Beach Generating Station.
+
+24 12. Petitioners are informed and believe and based thereon allege that Real
+25 Parties in Interest SLH Fund, LLC, a California limited liability company; BH Karka, LLC,
+26 a California limited liability company; David Dromy, an individual; 9300 Wilshire, LLC, a
+27 Delaware limited liability company; 1112 Investment Company, LLC, a California limited
+28 liability company; Ed Flores, LLC, a California limited liability company; 9300 Wilshire
+
+R6900-10172462864v4.doc -5-
+PETITION FOR WRIT OF MANDATE
+
+1
+
+Fee, LLC, a Delaware limited liability company; 1650 Veteran, LLC, a California limited
+2 liability company; Outdoor Billboard Company, LLC, a California limited liability a
+3 company; 5th Street Investment Company, LLC, a California limited liability company;
+
+4 505 Investment Company, LLC, a California limited liability company; Peak Alcott, LLC, a
+5 California limited liability company; New Commune DTLA, LLC, a California limited
+6 liability company; and Leonid Pustilnikov, an individual, are the current and/or former
+
+7 owners of the real property located at 1100 North Harbor Drive in the City of Redondo
+8 Beach, Los Angeles County, on which AES Redondo Beach is located.
+
+9 13.
+
+FORNEYS AT LAW - A PROFESSIONAL CORPORATION Petitioners are informed and believe and based thereon allege that GenOn
+
+ICHARDS WATSON GERSHON 10 California South GP, LLC, is a Delaware limited liability company and is the operator of
+11 the Ormond Beach Generating Station in the City of Oxnard.
+
+12 14. Petitioners are ignorant of the true names and capacities, whether individual,
+13 corporate, or otherwise, of the real parties in interest named herein as DOES 1 through 50,
+14 inclusive, and therefore sue these parties by their fictitious names. Petitioners will amend
+15 this petition to state the true names and capacities of each such fictitiously named real party
+16 in interest when ascertained.
+
+17 15. Petitioners are informed and believe, and thereon allege, that at all times
+18 material hereto, real parties in interest DOES 1 through 50, inclusive, were and now are
+19 either the agents or principals of the other real parties in interest, and of each other, of were
+20 and now are either the owners, interest holders, or co-obligees of the other real parties in
+21 interest and, in such capacity or capacities, stand to be directly affected by this litigation.
+
+22
+
+23 16. JURISDICTION AND VENUE
+
+24 Procedure section 1085 and Public Resources Code sections 21168, 21168.5, and 21080.5.
+
+25 This Court has jurisdiction over this action pursuant to Code of Civil
+
+17. Venue is proper in this Court pursuant to Code of Civil Procedure sections
+26 393 and/or 395 because the OTC Policy amendment applies expressly to a power plant
+27 directly located in Los Angeles County and the environmental effects of the OTC Policy
+28 amendment will be felt in Los Angeles County, and pursuant to Code of Civil Procedure
+
+-6-
+
+| R6900-1017\2462864v4.doc PETITION FOR WRIT OF MANDATE
+
+1 section 401 and Government Code section 955.3, in that the Water Board is an agency of
+2 the State of California, and the Attorney General of the State of California has an office
+3 located in the County of Los Angeles.
+
+4
+
+5 GENERAL ALLEGATIONS AND BACKGROUND
+The OTC Policy
+
+6 18. On May 4, 2010, the Water Board adopted the OTC Policy which became
+7 effective on October 1, 2010. The OTC Policy establishes uniform, technology-based
+8 standards to implement Clean Water Act section 316(b), which requires that the location,
+
+ATTORNEYS AT LAW - A PROFESSIONAL CORPORATION 9 design, construction, and capacity of cooling water intake structures reflect the best
+
+7RICHARDS WATSON GERSHO 10 technology available for minimizing adverse environmental impacts. Put simply, the OTC
+11
+
+13 Policy was adopted with the explicit purpose of minimizing adverse environmental impacts
+12 to marine life resulting from use of coastal and estuarine waters for power plant cooling.
+19. The OTC Policy was necessary because, as stated in the Water Board's staff
+14 report prepared in connection with the OTC Policy Amendment, "Cooling water
+15 withdrawals cause adverse impacts when larger aquatic organisms, such as fish and
+16 mammals, are trapped against a facility's intake screens (impingement) and when smaller
+17 marine life, such as larvae and eggs, are killed by being drawn through the cooling system
+18 and exposed to high pressures and temperatures (entrainment)."
+
+19 20. The OTC Policy applies to certain existing power plants located along the
+20 California coast, including AES Redondo Beach, and is implemented through National
+21 Pollutant Discharge Elimination System ("NPDES") permits, issued pursuant to Clean
+22 Water Act section 402, which authorize the point source discharge of pollutants to
+23 navigable waters.
+
+24 21. The OTC Policy establishes a schedule that provides the latest compliance
+25 date for the replacement, repowering, or retirement of each remaining power plant still
+26 utilizing once-through cooling operations while accounting for potential impacts to
+27 California's electrical supply.
+28 //l
+
+I| R6900-1017\2462864v4.doc -7-
+PETITION FOR WRIT OF MANDATE
+
+22. The OTC Policy initially required AES Redondo Beach and other coastal
+2 power plants to effectively eliminate their once-through-cooling systems, or take other
+
+4 measures to achieve compliance, by December 31, 2020.
+23. Petitioners have long awaited the final compliance deadline when the AES
+
+7 Redondo Beach power plant would cease emitting harmful air pollutants through its black,
+
+8 billowing smoke which contaminates the surrounding environment and adversely affects
+
+9 the health and well-being of residents, employees, and visitors in Redondo Beach and
+Hermosa Beach.
+
+24. The OTC Policy Amendment considered and ultimately adopted by the Water
+
+ATTORNEYS AT LAW - A PROFESSIONAL CORPORATIO RICHARDS WATSON GERSH 10 Board on September 1, 2020, extended the current OTC Policy compliance deadline of
+11 December 31, 2020 for three years until December 31, 2023 for three coastal power plants,
+12 as follows: the Alamitos Generating Station, the Huntington Beach Generating Station, and
+13 the Ormond Beach Generating Station. The December 31, 2020 compliance deadline was
+14 extended for one year until December 31, 2021 for AES Redondo Beach.
+15
+
+16 Purported Environmental Review
+
+25. The California Natural Resources Agency approved the Water Board's water
+17 quality control planning process as a certified regulatory program that adequately satisfies
+18 CEQA requirements for preparing environmental documents, pursuant to 23 C.C.R. section
+19 3777. Consequently, a substitute environmental document ("SED") was used in place of an
+20 environmental impact report as the required environmental documentation for the original
+21 OTC Policy, and a Final SED was adopted on May 4, 2010.
+22 26. While claiming that the OTC Policy Amendment does not constitute a project
+23 under CEQA, the Water Board nonetheless purported to rely on an Addendum to the Final
+24 SED as the environmental review for the OTC Policy Amendment.
+25 27. The Addendum was contained in the Water Board staff report prepared for
+26 the September 1, 2020 public hearing and included only one paragraph of purported
+27 analysis of the impacts of the OTC Policy Amendment.
+28  ///
+
+I R6900-10172462864v4.doc -8-
+PETITION FOR WRIT OF MANDATE
+
+28. The Water Board Resolution approving the OTC Policy Amendment did not
+2 include any finding that the Water Board exercised its independent judgment in considering
+3 the Addendum.
+
+4 29. The Water Board did not expressly approve or adopt the Addendum in its
+Resolution but appeared only to implicitly rely on it as its CEQA compliance.
+
+6 COMPLIANCE WITH PREREQUISITES
+
+7 30. Petitioners have performed any and all conditions precedent to the filing of
+8 this lawsuit, and have fully exhausted their administrative remedies by participating in the
+9 Water Board's administrative processes related to the OTC Policy Amendment and the
+10 Water Board's purported Addendum, to the extent that those processes were available,
+
+ATTORNEYS AT LAW - A PROFESSIONAL CORPORATION NOHSH30 NOSIVMSGHVHOIH 11 including Redondo Beach's submittal of letters to the Water Board on April 16, 2020 and
+12 on May 18, 2020, and testimony at an April 21, 2020 workshop and at the September 1,
+13 2020 Water Board hearing, and Hermosa Beach's submittal of letters on April 16, 2020 and
+14 May 11, 2020.
+
+15 31. Petitioners have no plain, speedy, or adequate remedy at law unless the Court
+16 grants the requested relief. In the absence of the requested relief, the Water Board's
+17 amendment to the OTC Policy will result in AES Redondo Beach continuing to pollute the
+18 air and cause water quality impacts for at least another year.
+
+19 32. Petitioners have complied with Public Resources Code section 21167.5 and,
+20 prior to filing this lawsuit, have served upon the Water Board notices of their intent to file
+21 this lawsuit. Copies of those notices are attached collectively as Exhibit A.
+
+22 33. This lawsuit has been commenced within any applicable time limits as set
+23 forth in the California Code of Civil Procedure and California Public Resources Code.
+
+24 FIRST CAUSE OF ACTION
+
+25 (Failure to Comply with the California Environmental Quality Act)
+26 (Writ of Mandate [C.C.P. § 1085] against Respondent Water Board)
+27 34. Petitioners incorporate by reference the allegations of paragraphs 1 through
+28 33 as though fully set forth herein
+
+-9-
+PETITION FOR WRIT OF MANDATE
+
+I R6900-10172462864v4.doc
+
+1 35.
+
+2 The Water Board is required to conduct adequate environmental review prior
+to making any formal decision regarding projects subject to CEQA, including the OTP
+3 Policy Amendment. CEQA imposes upon the Water Board a clear, present, and
+
+4
+
+5 mandatory duty to adequately analyze and mitigate adverse environmental impacts
+resulting from the OTC Policy Amendment and the extension of time for compliance by
+6 power plants such as AES Redondo Beach.
+36.
+
+8 The Water Board violated CEQA by failing to recognize the OTC Policy
+Amendment as a project subject to CEQA, instead stating in its Resolution, without any
+support, that "[t]he changes in compliance dates do not constitute a project within the
+10 meaning of CEQA."
+
+RICHARDS WATSON GERSHON ATTORNEYS AT LAW - A PROFESSIONAL CORPORATIO 11 37.
+
+12 The OTC Policy Amendment meets the definition of a project under CEQA
+
+13 (CEQA Guidelines § 15378) because it is an activity directly undertaken by a public
+agency that has a potential for resulting in a direct physical change in the environment or a
+14 reasonably foreseeable indirect physical change in the environment.
+15 38. Notwithstanding the Water Board's statement in its Resolution, the Water
+16 Board nonetheless purported to prepare an Addendum under CEQA (CEQA Guidelines
+
+17 § 15164) to the Final SED as the environmental review for the OTC Policy Amendment,
+18 thereby implicitly treating the OTC Policy Amendment as a project to some extent.
+
+19 39.
+
+20 CEQA provides that an Addendum to a previously certified environmental
+
+21 document may be used only where some changes or additions are necessary to the prior
+
+22 environmental document but none of the conditions set forth in CEQA Guidelines $ 15162
+
+have been met.
+
+23 40.
+
+24 CEQA Guidelines section 15162 provides that a subsequent environmental
+
+25 document must be prepared when:
+
+26 (1) Substantial changes are proposed in the project which will require major
+
+27 revisions of the previous [environmental document] due to the involvement of new significant environmental effects or a substantial increase in the severity a of previously identified significant effects;
+
+28 (2) Substantial changes occur with respect to the circumstances under which the project is undertaken which will require major revisions of the previous [environmental document] due to the involvement of new significant -10-
+
+R6900-10172462864v4.doc PETITION FOR WRIT OF MANDATE
+
+p environmental effects or a substantial increase in the severity of previously
+2 identified significant effects; or
+
+3 (3) New information of substantial importance, which was not known and could not have been known with the exercise of reasonable diligence at the time the previous [environmental document was certified or adopted], shows 4 any of the following:
+5 (A) The project will have one or more significant effects not discussed
+wO in the previous [environmental document];
+
+7 (B) Significant effects previously examined will be substantially more severe than shown in the previous [environmental document];
+
+8 (C) Mitigation measures or alternatives previously found not to be feasible would in fact be feasible and would substantially reduce one or more significant effects of the project, but the project proponents
+10 decline to adopt the mitigation measure or alternative; or
+
+11 (D) Mitigation measures or alternatives which are considerably different from those analyzed in the previous [environmental OHSHED NOSIVMSGHVHOIH ATTORNEYS AT LAW - A PROFESSIONAL CORPORAT 12 document] would substantially reduce one or more significant effects on the environment, but the project proponents decline to adopt the
+13 mitigation measure or alternative.
+
+14 41. Here, substantial changes with respect to the circumstances under which the
+
+15 project (the OTC Policy Amendment) is undertaken have occurred since the Final SED
+16 was adopted, and new information of substantial importance, which was not known and
+
+17 could not have been known with the exercise of reasonable diligence at the time the
+
+18 previous Final SED was adopted, shows that the OTC Policy Amendment will have
+19 impacts not previously analyzed, more significant than previously analyzed, and that new
+20| and different mitigation measures would substantially reduce significant effects on the
+21 environment.
+
+22 42. For example, the Final SED states: "State Water Board staff cannot
+23 accurately assess air quality impacts related to criteria pollutants because it is difficult to
+24 estimate the method of compliance for each facility." Yet, at the time of the September 1,
+
+25 2020 meeting, the Water Board had more than 10 years' worth of data to consider since it
+
+26 adopted the Final SED in 2010. New evidence about air quality impacts from the OTC
+27 facilities, which was not known in 2010, reveals previously unanalyzed environmental
+28 impacts that were required to be evaluated.
+
+-11-
+PETITION FOR WRIT OF MANDATE
+| R6900-10172462864v4.doc
+
+43.
+
+2 Furthermore, greenhouse gas emissions ("GHGs") resulting directly from the
+
+3 continued operation of the power plants have not been analyzed or disclosed. California's
+
+4 clear statutory mandates require the reduction of GHGs now and on a go-forward basis;
+
+5 the Water Board not only has failed to demonstrate how the OTC Policy Amendment
+
+6 complies with these obligations, it failed to conduct any analysis of the issue at all, in
+violation of CEQA.
+
+7 44.
+
+8 The Water Board also failed to analyze and disclose other changes in
+conditions at the AES Redondo Beach site since 2010, including but not limited to the
+9| determination that approximately 5.93 acres of jurisdictional wetlands exists at the site and
+
+10
+
+RICHARDS WATSON GERSHON ATTORNEYS AT LAW - A PROFESSIONAL CORPORATION 11 serves as habitat for wildlife. In fact, on May 26, 2020, the California Coastal
+
+12 Commission issued a Notice of Violation to AES Redondo Beach for violations of the
+
+13 California Coastal Act (Pub. Resources Code § 30000, et seq.) and the Redondo Beach
+
+14 Local Coastal Program. The Notice of Violation identified the following violations:
+"Unpermitted development including but not limited to the unpermitted installation and
+15 operation of water pumps for the purpose of groundwater dewatering affecting
+16 approximately 5.93 acres of wetlands at the former tank portion of the site; unpermitted
+17 installation and operation of water pumps in the vault area."
+
+18 45.
+
+19 In short, the Water Board failed to consider new information and substantial
+evidence showing that there are significant environmental impacts resulting from the
+20 extended operation of these power plants beyond their anticipated compliance date, and
+
+21
+
+22 more effective mitigation measures to reduce such environmental impacts.
+46.
+
+23 a As a result, more marine life will be killed and harmful air pollution emitted
+
+24 into the densely populated South Bay communities of Redondo Beach, Hermosa Beach,
+
+25 and other surrounding cities.
+
+47.
+
+26 In addition to its failure to comply with CEQA by not properly analyzing,
+
+27 disclosing, and mitigating impacts resulting from the OTC Policy Amendment, the Water
+
+28 Board violated CEQA by failing to adopt a finding (including as required by CEQA
+Guidelines section 15090) stating that the Addendum reflected the Water Board's
+
+-12-
+
+I R6900-10172462864v4.doc PETITION FOR WRIT OF MANDATE
+
+1 independent judgment.
+
+2 48.
+
+3 The Water Board further violated CEQA by failing to approve or adopt the
+
+4 Addendum at all, thus adopting the OTC Policy Amendment without any CEQA review.
+
+5 Instead, the Water Board's Resolution stated only that "Consistent with CEQA, the State
+
+6 Water Board finds the Staff Report [which contained the Addendum] does not engage in
+
+7 speculation, but rather analyzes the project and the alternatives to the project, and
+
+8 concludes that the project will not result in any additional environmental impacts." The
+
+9 Water Board did not formally adopt or approve
+49. the Addendum.
+
+10 As a result of all of the foregoing, the Water Board has violated its duties
+
+RICHARDS WATSON GERSHON ATTORNEYS AT LAW - A PROFESSIONAL CORPORATIO! 11 under law, engaged in prejudicial abuse of discretion, failed to proceed in the manner
+
+12 required by law, and decided the matters complained of without the support of any
+substantial evidence.
+
+13 50.
+
+14 Petitioners have incurred attorneys' fees in preparing and filing this lawsuit
+
+15 and will incur attorneys' fees in an amount not yet known in prosecuting this lawsuit and
+this cause of action.
+
+16
+
+17
+
+18 PRAYER FOR RELIEF
+
+19 for judgment against the Water Board as follows:
+20 WHEREFORE, Petitioners City of Redondo Beach and City of Hermosa Beach pray
+
+1. For a peremptory writ of mandate, issued under the seal of this Court,
+21 commanding respondent, California State Water Resources Control Board, forthwith, to
+22 vacate, annul, and set aside its adoption of the OTC Policy Amendment as set forth in its
+23 Resolution adopted on September 1, 2020, and its purported adoption of an Addendum
+24 under CEQA related thereto.
+
+25 2. For a peremptory writ of mandate, issued under the seal of this Court,
+26 commanding respondent, California State Water Resources Control Board, to set aside any
+27 and all decisions approving any project or discretionary action ostensibly reliant upon the
+28 adoption of the OTC Policy Amendment as set forth in the Water Board's Resolution
+
+-13-
+
+I R6900-10172462864v4.doc PETITION FOR WRIT OF MANDATE
+
+adopted on September 1, 2020, and its purported adoption of an Addendum under CEQA,
+2 or in furtherance of the OTC Policy Amendment.
+
+3. For a peremptory writ of mandate, issued under the seal of this Court,
+commanding respondent, California State Water Resources Control Board, to fully comply
+5 with CEQA and conduct legally adequate environmental review prior to approving any
+
+6 OTC Policy Amendment.
+
+4. a For a stay and/or temporary restraining order, preliminary injunction and/or
+8 permanent injunction restraining, enjoining, and preventing the Water Board from taking
+9 any action, including extending the deadlines for compliance with the OTC Policy, in
+
+ATTORNEYS AT LAW - A PROFESSIONAL CORPORATIO RICHARDS WATSON GERSHON 10 reliance upon the Addendum or in furtherance of the OTC Policy Amendment unless and
+11 until the Water Board prepares and considers a legally adequate environmental document,
+12 and lawfully approves any amendment to the OTC Policy.
+13 5.
+
+14 For its costs of suit herein.
+
+6.
+
+15 7.
+
+16 For its attorneys' fees, pursuant to Code of Civil Procedure section 1021.5.
+For such other relief as the Court may deem just and proper.
+
+17 Dated: October 1, 2020
+18 MICHAEL W. WEBB
+
+19 CITY ATTORNEY CITY OF REDONDO BEACH
+
+20
+
+21 By: mikelv cult
+
+22 MICHAEL W. WEBB
+
+23 Attorneys for Petitioner
+CITY OF REDONDO BEACH
+
+24
+
+25
+
+26
+
+27
+
+28
+
+-14-
+
+R6900-1017\2462864v4.doc PETITION FOR WRIT OF MANDATE
+
+1 Dated: October 1, 2020 RICHARDS, WATSON & GERSHON
+A Professional Corporation
+2 LISA BOND GINETTA L. GIOVINCO
+3 MARVIN E. BONILLA
+
+5 By: FisBaul
+LISA BOND
+Attorneys for Petitioners CITY OF REDONDO BEACH and
+CITY OF HERMOSA BEACH
+
+[PURSUANT TO CODE OF CIVIL PROCEDURE SECTION 446, THIS PETITION
+10 IS DEEMED VERIFIED BY OPERATION OF LAW.I
+
+11
+ATTORNEYS AT LAW - A PROFESSIONAL CORPORATIO NOHSH3D NOSLVMSOHVHOIH 12
+13
+14
+15
+
+16
+17
+18
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+-15-
+PETITION FOR WRIT OF MANDATE
+
+|| R6900-1017\2462864v4.doc
+
+EXHIBIT A
+
+Lisa Bond
+RWG 213.626.8484 350 South Grand Avenue
+213.626.0078 37th Floor
+E Ibond@rwglaw.com Los Angeles, CA 90071 LAW rwglaw.com
+
+September 25, 2020
+
+VIA ELECTRONIC MAIL & U.S. MAIL
+
+E. Joaquin Esquivel, Chair of the Board
+Jeanine Townsend, Clerk of the Board
+California State Water Resources Control Board
+P.O. Box 100
+Sacramento, CA 95812-0100
+OCC-Service-Of-Process@waterboards.ca.gov
+
+Re: Notice of Intent to Commence Lawsuit re: Failure to Comply with the
+California Environmental Quality Act ("CEQA")
+
+To the Chair and Clerk of the California State Water Resources Control Board:
+PLEASE TAKE NOTICE, under Public Resources Code Section 21167.5, that petitioner, City of
+Redondo Beach (the "City"), intends to file petition for writ of mandate against respondent,
+California State Water Resources Control Board ("Board"), challenging its failure to comply with
+the California Environmental Quality Act ("CEQA"), Public Resources Code Sections 21000, et
+seq., in connection with the Amendment to the Water Quality Control Policy on the Use of
+Coastal and Estuarine Waters for Power Plant Cooling for Extension of Compliance Schedules of
+Alamitos, Huntington Beach, Ormond Beach, and Redondo Beach Generating Stations ("OTC
+Policy Amendment"). The Board approved the OTC Policy Amendment at its meeting on
+September 1, 2020, without conducting the necessary environmental review as required under
+CEQA.
+
+Richards, Watson & Gershon
+A Professional Corporation
+Fha Bal
+By: Lisa Bond
+Attorneys for Petitioner,
+City of Redondo Beach
+
+Los Angeles San Francisco Orange County Temecula Central Coast RICHARDSWATSON GERSHON
+
+Lisa Bond RWG 213.626.8484 350 South Grand Avenue
+213.626.0078 37th Floor
+E Ibond@rwglaw.com Los Angeles, CA 90071
+LAW rwglaw.com
+
+September 30, 2020
+
+VIA ELECTRONIC MAIL & U.S. MAIL
+
+E. Joaquin Esquivel, Chair of the Board
+Jeanine Townsend, Clerk of the Board
+California State Water Resources Control Board
+P.O. Box 100
+Sacramento, CA 95812-0100
+OCC-Service-Of-Process@waterboards.ca.gov
+
+Re: Notice of Intent to Commence Lawsuit re: Failure to Comply with the
+California Environmental Quality Act ("CEQA")
+
+To the Chair and Clerk of the California State Water Resources Control Board:
+PLEASE TAKE NOTICE, under Public Resources Code Section 21167.5, that petitioner, City of
+Hermosa Beach (the "City"), intends to file a petition for writ of mandate against respondent,
+California State Water Resources Control Board ("Board"), challenging its failure to comply with
+the California Environmental Quality Act ("CEQA"), Public Resources Code Sections 21000, et
+seq., in connection with the Amendment to the Water Quality Control Policy on the Use of
+Coastal and Estuarine Waters for Power Plant Cooling for Extension of Compliance Schedules of Alamitos, Huntington Beach, Ormond Beach, and Redondo Beach Generating Stations ("OTC
+Policy Amendment"). The Board approved the OTC Policy Amendment at its meeting on
+September 1, 2020, without conducting the necessary environmental review as required under
+CEQA.
+
+Richards, Watson & Gershon
+A Professional Corporation
+Fia Bol
+By: Lisa Bond
+Attorneys for Petitioner,
+City of Hermosa Beach
+
+Los Angeles San Francisco Orange County Temecula Central Coast RICHARDS WATSON GERSHON
+
+1
+
+2 PROOF OF SERVICE
+
+3 City of Redondo Beach, et al. v. California State Water Resources Control Board
+
+4 LASC Case No. 20STCP03193
+
+I, Audrey J. Powell, declare:
+
+5
+
+6 I am a resident of the State of California and over the age of eighteen years and not a party to the within action. My business address is 350 South Grand Avenue, 37th Floor, Los Angeles, California 90071. On Öctober 8, 2020, I served the within document(s) described as:
+
+8 NOTICE OF PETITION FOR WRIT OF MANDATE
+
+9 on the interested parties in this action as stated below:
+
+10 Honorable Xavier Becerra, Attorney General Office of the Attorney General Attn: CEQA Filing
+
+ATTORNEYS AT LAW - A PROFESSIONAL CORPORATION RICHARDS WATSON GERSHOI 11 300 S. Spring Street
+
+12 Los Angeles, CA 90013-1230
+
+13 X AGelectronicservice@doj.ca.gov
+
+14 (BY OVERNIGHT DELIVERY) By placing the document(s) listed above in a sealed envelope and affixing a pre-paid air bill, and causing the envelope to be delivered to a
+
+15 FedEx agent for delivery, or deposited in a FedEx box or other facility regularly maintained by FedEx, in an envelope or package designated by the express service carrier, with
+
+above.
+
+16 X delivery fees paid or provided for, addressed to the person(s) at the address(es) set forth
+
+17 (BY E-MAIL) By transmitting a true copy of the foregoing document(s) to the e-mail addresses set forth above.
+
+I declare under penalty of perjury under the laws of the State of California that the 18 foregoing is true and correct.
+
+19
+
+20 Executed on October 8. 2020, at Los Angeles, California.
+
+21
+
+22 (Signature)
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+-1-
+
+/ R6900-0001\2465090v1.doc PROOF OF SERVICE
+
+Marvin E. Bonilla
+RWG 213.626.8484 350 South Grand Avenue
+F 213.626.0078 37th Floor
+E mbonilla@rwglaw.com Los Angeles, CA 90071
+LAW rwglaw.com
+
+October 8, 2020
+
+VIA ELECTRONIC MAIL & U.S. MAIL
+
+Honorable Xavier Becerra, Attorney General
+Office of the Attorney General
+Attn: CEQA Filing
+300 S. Spring Street
+Los Angeles, CA 90013-1230
+AGelectronicservice@doj.ca.gov
+
+Re: City of Redondo Beach v. California State Water Resources Control Board
+(LASC Case No. 20STCP03193) - Notice of CEQA Petition
+
+Dear Attorney General Becerra:
+Enclosed please find a copy of the Petition for Writ of Mandate ("Petition") filed by Petitioners City of Redondo Beach and City of Hermosa Beach ("Petitioners") on October 1, 2020, in the
+above-referenced action. This copy is provided to you in compliance with Public Resources
+Code Section 21167.7 and Code of Civil Procedure Section 388.
+
+The Petition alleges that the California State Water Resources Control Board ("State Board")
+failed to comply with the California Environmental Quality Act ("CEQA"), Public Resources Code
+Sections 21000, et seq., in connection with the Amendment to the Water Quality Control Policy
+on the Use of Coastal and Estuarine Waters for Power Plant Cooling for Extension of
+Compliance Schedules of Alamitos, Huntington Beach, Ormond Beach, and Redondo Beach
+Generating Stations ("OTC Policy Amendment"). The State Board approved the OTC Policy
+Amendment at its meeting on September 1, 2020. Petitioners allege that this approval was
+made without conducting the necessary environmental review as required under CEQA.
+
+Los Angeles San Francisco Orange County Temecula Central Coast RICHARDS WATSON GERSHON
+
+Honorable Xavier Becerra, Attorney General
+October 8, 2020 Page | 2
+
+We would welcome the opportunity to discuss this matter further. Please do not hesitate to contact our office should you have any questions or concerns.
+
+Very truly yours, oil Bonilla
+
+Enclosure(s)
+
+R6900-1017\2465001v1.doc
+
+RICHARDS WATSON GERSHON
+
+DECEIVEN
+JAN: 0 7 2021
+
+BY:____________

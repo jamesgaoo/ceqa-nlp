@@ -1,0 +1,1620 @@
+JASON R. FLANDERS, SBN 238007
+
+2 AQUA TERRA AERIS (ATA) LAW GROUP
+4030 Martin Luther King Jr. Way
+3 Oakland, CA 94609
+Telephone: (916) 202-2018
+4 Email: jrf@atalawgroup.com
+
+5
+Attorneys for Petitioner
+6 Protecting the Children of Orchard School
+
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+COUNTY OF SANTA CLARA
+
+10
+
+11 PROTECTING THE CHILDREN OF Case No.: 20CV370153
+ORCHARD SCHOOL,
+12 NOTICE TO ATTORNEY GENERAL
+Petitioner,
+13 (Code Civ. Proc. 388; Cal. Pub. Resources
+
+VS. Code § 21167.7)
+14
+
+15 CITY OF SAN JOSE; DOES 1 through 100, inclusive,
+16
+Respondents.
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL
+
+TO THE ATTORNEY GENERAL OF THE STATE OF CALIFORNIA:
+
+-PLEASE TAKE NOTICE, under Public Resources Code section 21167.7 and Code of Civil
+Procedure section 388, that on April 28, 2021, Protecting the Children of Orchard School
+
+5 | ("Petitioner") filed a First Amended Verified Petition for Writ of Mandate against the City of San
+Jose ("City") in the Santa Clara County Superior Court. The Petition challenges the City's
+6
+certification of a Final Environmental Impact Report and approval of the "Charcot Avenue Extension
+Project" ("Project"). The lawsuit is based on violations of the California Environmental Quality Act
+8
+and seeks recovery of Petitioner's reasonable costs and attorneys' fees under Code of Civil Procedure
+0
+section 1021.5 or other applicable theories, as discussed more fully in the Petition attached to this
+10
+notice.
+11
+
+12
+
+13
+
+14 DATED: April 28, 2021
+
+15
+
+16
+Jason R. Flanders
+17 Attorneys for Petitioner
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL
+
+*
+
+SERVICE LIST
+
+2 Xaiver Becerra
+Office of the Attorney General
+3 1300 "I" Street
+Sacramento, CA 95814-2919
+
+5
+
+6
+
+7
+
+8
+
+11
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+3
+NOTICE TO ATTORNEY GENERAL
+
+PROOF OF SERVICE
+
+2
+am a citizen of the United States, employed in the County of Alameda. My business
+address is 4030 Martin Luther King Jr. Way, Oakland, California 94609. I am over the age of 18
+years and not a party to the above-entitled action. Document(s) served:
+
+NOTICE TO ATTORNEY GENERAL
+On April 28, 2021, I served the foregoing document(s) on the parties in this action, located
+on the attached service list, by placing copies thereof in sealed envelopes addressed as shown
+
+8 below for service as designated below:
+
+9 (xx) By First Class Mail: Deposited the sealed envelope with the United States
+10 Postal Service, with the postage fully paid.
+
+11 By Personal Service: I personally delivered each such envelope to the office of the address on the date last written below.
+
+12 By Overnight Mail: I caused each such envelope to be placed in a box a or
+other facility regularly maintained by the express service
+13 carrier, or delivered to an authorized courier or driver authorized by the express service carrier to receive
+14 documents, in an envelope or package designated by the express service carrier with delivery fees paid or
+15 provided for.
+
+16 ) By Electronic Transmission: Based on a court order or an agreement of the parties to accept service by electronic transmission, I caused the
+
+17 documents to be sent to the person(s) at the e-mail addresses listed below. I did not receive, within a
+
+18 reasonable time after the transmission, any electronic message or other indication that the transmission was
+unsuccessful.
+19
+
+20 I declare under penalty of perjury under the laws of the State of California that the above is
+21 true and correct. Executed on April 28, 2021, Fremont, California.
+22
+
+23
+
+24 Çirirallefut Esmeralda Bustos
+25
+
+26
+
+27
+
+28
+
+2
+NOTICE TO ATTORNEY GENERAL
+
+AQUA TERRA AERIS LAW GROUP
+JASON R. FLANDERS, Cal. Bar No. 238007 2 4030 Martin Luther King Jr. Way
+3 Oakland, CA 94609
+/ Telephone: (916) 202-3018
+Email: jrf@atalawgroup.com
+
+5 Attorneys for Petitioner
+
+6 Protecting the Children of Orchard School
+
+7 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+8 COUNTY OF SANTA CLARA
+9
+
+10
+PROTECTING THE CHILDREN OF Case No.: 20CV370153
+11 ORCHARD SCHOOL,
+FIRST AMENDED VERIFIED PETITION 12 Petitioner, FOR WRIT OF MANDATE (California
+13 Environmental Quality Act, Pub. Resources
+V. Code §§ 21100 et seq.)
+14
+CITY OF SAN JOSE; DOES 1 through 100, 15 inclusive,
+16 Respondents.
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+Petitioner PROTECTING THE CHILDREN OF ORCHARD SCHOOL ("Petitioner")
+2 brings this action for writ of mandate under the California Environmental Quality Act ("CEQA")
+3 ("Petition") on behalf of Petitioner's interested members and residents, and in the public interest.
+
+4 INTRODUCTION
+
+5 1. On June 9, 2020, the City of San Jose ("City" or "Respondent") passed resolution
+6 No. 79559 (*Resolution") certifying the Final Environmental Impact Report ("FEIR") for its
+7 | Charcot Avenue Extension Project (*Project"), making certain findings regarding significant
+8 impacts, adopting a statement of overriding considerations, and adopting a mitigation monitoring
+9 and reporting program.
+
+10 2. The Project seeks to extend Charcot Avenue from its eastern boundary at Paragon
+
+11 Drive over Interstate 880 (*I-880") to Oakland Road in the North San Jose area. This would
+12 include an approximately .6 mile-long two-lane extension and an overcrossing, sidewalks,
+13 bikeways, and intersection modifications.
+
+14 3. This Project has been on the City's plans for over 26-years, yet the environmental
+15 review itself shows that the Project serves no particular current need and that the Project would
+16 lead to thousands of additional cars passing a few feet away from Orchard School's ("School")
+17 classrooms, baseball field and elementary school playground, causing significant environmental
+
+18 effects.
+
+19 4. Beholden to this antiquated plan, the City failed to properly consider alternatives to
+20 the Project, and relied on an unduly narrow set of project purposes and objectives.
+
+21 5. The FEIR, and the statement of overriding considerations in the Resolution, are
+22 deficient and legally inadequate under CEQA as an informational document in numerous respects
+
+23 as alleged herein. California courts repeatedly have held that CEQA must be scrupulously
+
+24 followed in order to afford the "fullest protection to the environment." Moreover, "[a]n EIR must
+25 include detail sufficient to enable those who did not participate in its preparation to understand and
+26 to consider meaningfully the issues raised by the proposed project."
+
+27
+
+28
+
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+6. The Court should therefore issue a peremptory writ of mandate, vacating
+2 Respondents' approvals of the FEIR and Project, unless and until the Project can be brought into
+3 compliance with law.
+
+4 THE PARTIES
+
+5 7. Petitioner PROTECTING THE CHILDREN OF ORCHARD SCHOOL is an
+
+6 unincorporated association dedicated to the protection of the students of Orchard School.
+7 Members of Petitioner group commented in opposition to the Project for its numerous CEQA
+8 I deficiencies and deleterious significant effects to public health and welfare.
+
+9 8. Respondent CITY OF SAN JOSE is a city of California and is the "lead agency"
+10 that prepared and certified the FEIR, and approved the Project.
+
+11 9. The true names and capacities of the Respondents named here as DOES I through
+12 100, inclusive, are presently unknown to Petitioner. As such, Petitioner has sued these
+13 Respondents by fictitious names, and Petitioner will seek to amend this Petition to show their true
+
+14 names and capacities when ascertained.
+
+15 JURISDICTION AND VENUE
+
+16 10. This Court has jurisdiction to issue a writ of mandate to set aside Respondents'
+17 actions and decisions relating to the FEIR and Project, and to compel Respondents to comply with
+18 CEQA under California Code of Civil Procedure section 1085 and California Public Resources
+
+19 Code section 21168.5.
+
+20 11. This Court has jurisdiction to issue an order for injunctive relief pursuant to
+21 California Code of Civil Procedure section 525 et seq.
+
+22 12. Venue is proper in the County of Santa Clara under California Code of Civil
+23 Procedure section 393 and 401 and California Government Code section 955.3.
+
+24 NOTICE REQUIREMENTS AND TIMING
+
+25 13. The City filed a Notice of Determination regarding its certification of the FEIR on
+26 June 11, 2020.
+
+27
+
+28
+
+2
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+14. Pursuant to Judicial Council of California's emergency rule 9, amended effective
+2 May 29, 2020, "Notwithstanding any other law, the statutes of limitations and repose for civil
+3 causes of action that are 180 days or less are tolled from April 6, 2020, until August 3, 2020.
+
+4 Advisory Committee Comment to emergency rule 9 states that 9 "Emergency rule 9 is intended to
+5 apply broadly to toll any statute of limitations on the filing of a pleading in court asserting a civil
+
+6 cause of action" which includes "all the types of petitions for writ made for California
+
+7 Environmental Quality (CEQA) and land use challenges." Thus, here, the statute of limitations did
+8 not begin to run until August 3, 2020.
+
+9 15. Petitioner filed this action within the applicable statute of limitation as required by
+10 California Public Resources Code section 21167(c).
+
+11 16. On August 26, 2020, prior to commencing this action, Petitioner served
+12 Respondents with written notice of Petitioner's intent to commence this action under CEQA, and
+13 thus Petitioner has complied with the requirements of California Public Resources Code section
+14 21167.5. Copies of that written notice and proof of service are attached as Exhibit A.
+15 17. On September 1, 2020, Petitioner provided to the Attorney General of the State of
+16 California notice of the filing of this Petition and copy thereof. On April 28, 2021, Petitioner
+17 provided to the Attorney General notice and copy of this First Amended Petition. Thus, Petitioner
+18 has complied with the requirements of California Public Resources Code section 21167.7 and
+19 California Code of Civil Procedure section 388. A copy of these notices are attached as Exhibit B.
+20 ADDITIONAL STANDING ALLEGATIONS
+
+21 18. Petitioner and its respective members and residents live in the areas included in,
+22 and that will otherwise be affected by the Project, and use the areas affected by the Project for
+23 recreational and educational purposes.
+
+24 19. Petitioner and its respective members and residents are directly and beneficially
+25  interested in Respondents' mandatory duty to fully comply with CEQA, and Petitioner and its
+26 respective members and residents are directly and beneficially interested in, and aggrieved by, the
+27 acts, decisions, and omissions of Respondents as alleged in this Petition.
+28
+
+3
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+20. Petitioner and its respective members and residents have articulated their concerns
+2 about and objections to the Project and FEIR to Respondents. Petitioner has exhausted any and all
+3  available administrative remedies to the extent required by law. Respondents' determinations are
+
+4 final and no further administrative appeal procedures are provided by state or local law. Petitioner
+
+5 and its respective members and residents, as well as many other organizations and public entities,
+6 presented detailed and specific objections to the Project and FEIR orally at public meetings and
+7 hearings during the public comment period. These objections include each of the legal deficiencies
+8 asserted in this Petition.
+
+9 21. Petitioner does not have a plain, speedy and adequate remedy in the ordinary course
+10 of law. Without the requested mandatory and injunctive relief, Petitioner and its respective
+11 members and residents will be irreparably harmed by implementation of the Project and by
+12 Respondents' violations of CEQA. Such harm cannot be adequately compensated by money or
+13 other legal remedies.
+
+14 PRIVATE ATTORNEY GENERAL DOCTRINE
+
+15 22. Petitioner brings this action as a private attorney general pursuant to California
+16 Code of Civil Procedure section 1021.5, and any other applicable legal theory, to enforce
+17 important rights affecting the public interest.
+
+18 23. Issuance of the relief requested in this Petition will confer significant benefits on
+19 the general public by, among other benefits: 1) requiring Respondents to properly disclose,
+20 analyze and mitigate the direct, indirect, and cumulative impacts of the Project that were not
+21  properly disclosed, analyzed or mitigated, 2) ensuring that Respondents properly consider
+22 alternatives and/or mitigation measures to reduce or avoid the Project's potentially significant,
+23 adverse environmental effects, 3) requiring Respondents to implement all feasible alternatives and
+24 mitigation measures to avoid such adverse effects or reduce them to less-than-significant levels,
+25 and 4) ensuring that Respondents afford the public and affected agencies with the opportunity to
+26 review and comment on potentially significant project impacts, and receiving : meaningful and
+27 complete response to any such comments on such issues, prior to the approval of such Project.
+28
+
+4
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+P
+
+24. Issuance of the relief requested in this Petition will result in the enforcement of
+2 important rights affecting the public interest. By compelling Respondents to complete a legally
+3 adequate analysis of the Project, to protect public health and natural resources, Respondents will
+
+4 be required to properly and publicly disclose and analyze all of the Project's potentially
+
+5 significant, adverse environmental effects, and to ensure that all feasible mitigation measures or
+
+6 alternatives that would reduce or avoid the Project's potentially significant, adverse environmental
+7 impacts are implemented.
+
+8 25. The necessity and financial burden of enforcement are such as to make an award of
+
+0 attorneys' fees appropriate in this proceeding. Absent enforcement by Petitioner, the Project might
+10 otherwise be deemed valid despite its legally and factually inadequate disclosures, analysis,
+11 conclusions, mitigation measures, and alternatives, among other things, and, as a result, potentially
+12 significant, adverse environmental effects might otherwise have evaded legally adequate
+13 environmental review and mitigation in accordance with the California Legislature's policy, in
+14 adopting CEQA, of affording the greatest protections to the environment within the scope of the
+15 statute.
+
+16 26. Petitioner has served a copy of this Petition on the Attorney General's office to
+17 give notice of Petitioner's intent to bring this proceeding as private attorneys general under Code
+18 of Civil Procedure section 1021.5, attached as Exhibit B.
+
+19 LEGAL FRAMEWORK
+
+20 27. CEQA has two purposes: environmental protection and informed self-government.
+21 Woodward Park Homeowners Assn., Inc. v. City of Fresno, 150 Cal.App.4th 683, 690-691 (2007).
+22 CEQA is "to be interpreted to afford the fullest possible protection to the environment within the
+23 reasonable scope of the statutory language." Mountain Lion Foundation v. Fish & Game Com., 16
+24 Cal.4th 105, 134 (1997). CEQA requires agencies to "take all action necessary to protect,
+25 rehabilitate, and enhance the environmental quality of the state." Pub. Resources Code, §
+26 21001(a).
+
+27
+
+28
+
+5
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+28. Pursuant to CEQA, a "project" is an activity which may cause either direct physical
+2 change in the environment, or reasonably foreseeable indirect physical change in the environment
+3 (Pub. Resources Code § 21065(a)); and a "discretionary" project is one that is subject to is
+4  judgmental controls, where the agency can use its judgment to decide whether and how to carry
+5 out a project. Cal. Code Regs., tit. 14, ch. 3 ("CEQA Guidelines"), § 15002(i). Prior to approving §
+
+6 any discretionary project, an agency must fully disclose and analyze all of the project's potentially
+7 significant direct, indirect, and cumulative environmental effects. See, e.g., CEQA Guidelines
+8 15002(f)). Further, public agencies must avoid or minimize such environmental damage where
+9 feasible. CEQA Guidelines § 15021(a). Pursuant to this duty, no public agency may approve or
+
+10 carry a out a project where one or more significant effects on the environment may occur if the
+11 project is approved, unless certain narrow findings are made. CEQA Guidelines §§ 15091, 15093.
+12 FACTUAL BACKGROUND
+
+13 29. On April 30, 2018, the Notice of Preparation ("NOP") of the EIR was issued for
+14 public review.
+
+15 30. In August of 2019, the City released the Draft Environmental Impact Report
+16 | ("DEIR") for a 69-day review period from August 27, 2019 to November 4, 2019.
+17 31. On or about May 27, 2020, the City released a "First Amendment to the Draft
+18 EIR." As stated therein, "This document, together with the Draft Environmental Impact Report"
+19 "constitutes the Final Environmental Report."
+
+20 32. The Project seeks to extend Charcot Avenue from its eastern boundary at Paragon
+21 Drive over I-880 to Oakland Road in the North San Jose area. This would include an
+22 approximately .6 mile-long two-lane extension and an overcrossing, sidewalks and bikeways, and
+23 intersection modifications.
+
+24 33. The FEIR characterizes the a project as a "major roadway improvement," yet in
+25 response to comments characterizes the Project as not being a "major roadway improvement" and
+26 as "local serving."
+
+27
+
+28
+
+6
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+34. The City asserts that the Project would, in part, implement an existing City of San
+2 Jose settlement agreement with Santa Clara County, City of Santa Clara, and City of Milpitas,
+3 without disclosing these agreements as part of the whole of the Project, or assessing the effects of
+4 implementing these agreements.
+
+35. The EIR identifies the North San Jose Area Development Policy, and the North San
+6 Jose Deficiency Plan ("NSJADP"), as key to the Project's goals and objectives, but the EIR fails
+7 to describe the underlying purposes identified in the NSJADP, or to assess whether the Project
+8 would satisfy those purposes, which it would not.
+
+9 36. The EIR's project objectives are unclear, too narrow, and/or inconsistently applied.
+10 The EIR states:
+
+11 The purpose of extending Charcot Avenue across I-880 is to provide a safe multi-modal
+12 facility, improve connectivity for vehicular, bicycle, and pedestrian travel routes, provide
+13 the opportunity to utilize alternative travel modes, and reduce travel time for the east-west
+14 travelers in the North San José Area.
+
+15 The objectives for the proposed project are as follows:
+16 Improve connectivity between the east side of 1-880 and the west side of I-880;
+17 Increase the capacity for east/west travel across the I-880 corridor;
+18 Provide a safe bicycle/pedestrian facility over I-880, in compliance with San José's
+19 Complete Strects Policy;
+20 Implement programmed roadway network improvement project identified in the
+21 Envision San José 2040 General Plan; and
+
+22 Implement a planned major roadway improvement project, as set forth in the North San
+23 José Area Development Policy and the North San José Deficiency Plan.
+24 37. Elsewhere, however, the EIR reveals that the City believes only an automobile
+25 serving alternative would meet most of the Project's objectives, which is untrue, and reveals that
+26 two of the Project objectives are unduly narrow for purposes of CEQA review, or to meet the
+27 Project's stated goals. Even worse, however, the EIR fails to demonstrate that the selected Project
+28
+
+7
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 alternative would even serve the Project's goals or objectives, stating that "[t]he proposed
+
+2 extension will provide little to no measurable travel time savings" for drivers, although the EIR
+3 provides several contradictory remarks on this point.
+
+4 38. The DEIR did not exclude Alternative E, "New Overcrossing for Bicycles and
+5 Pedestrians Only," as infeasible, and suggested that it may have the fewest adverse environmental
+6 effects. However, the FEIR rejected Alternative E as the environmentally superior alternative,
+7 despite comments that Alternative E could meet more than one project objective, contrary to the
+8 City's position.
+9 39. The FEIR itself has numerous problems with how it is organized and presented. For
+10 example, the air quality and greenhouse gas analysis contained 140 pages of non-indexed tables,
+11 as well as missing citations to data and thus there was no reasonable way to further evaluate the
+12 results.
+
+13 40. The description of baseline conditions did not take existing conditions and hazards
+14 to pedestrians in and around the Project area, and specifically on Fox Lane, into account because
+15 the City did not consider them to be required under CEQA. The City did not accurately describe
+16 the existing conditions of the Silk Wood Lane and Fox Lane student pick-up and drop-off areas,
+17 and neglected to assess effects related to shifting student drop-off and pick-up locations.
+
+18 41. The DEIR states that while "the project would impact the ability to drop-off/pick-
+19 up students on Silk Wood Lane, it is likely that students would continue to cross Charcot
+20 Avenue/Silk Wood Lane as they walk between the School and the neighborhood to the North."
+21 The City therefore concedes an impact on students, yet the FEIR does not evaluate or mitigate this
+22 impact and instead asserts that "the project's impacts to school drop-off/pick-up activities ... are
+23 non-CEQA items that neither involve a significant adverse environmental impact, nor require
+24 mitigation under CEQA." Consistent with this assertion, the FEIR fails to formulate mitigation
+25 measures for its self-identified Project impact, and instead offers suggestions as to ways in which
+
+26 the School could reduce the adverse effects of a City-implemented Project.
+27 42. The City failed to measure and discuss current pedestrian, bicycle, and vehicle
+
+28
+
+8
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+travel to, from, and in the vicinity of the School, including measuring the number of students who
+2 access the School via Charcot Avenue and Silk Wood Lane, and failed to analyze the Project's
+3 impact on such travel. As a result, no measurement of current or future activity is provided for use
+4 of the extension or crossing the extension to access the School.
+
+43. The traffic report completed for the Project determined that the Project would result
+in significant safety impacts at the intersections of Paragon Drive and Charcot Avenue, and
+7 O'Toole Avenue and Charcot Avenue. Mitigation measures recommended in the traffic report to
+8 ameliorate the safety impact at the identified intersections are not discussed or included in the
+
+9 Project. In response to a comment noting the same, the FEIR states, "the ultimate implementation
+10 of the recommendations will be determined and designed upon project approval." This constitutes
+11 an impermissible deferral of mitigation measures by the City.
+12 44. The City failed to discuss or evaluate existing safety hazards to students based on
+13 the proximity of the current roadway to the School, and the extent to which the Project will
+14 exacerbate such hazards. The School Superintendent has reported that there have been multiple
+15 instances of cars crashing through the School fence from Oakland Road. The Project will result in
+16 an increased amount of traffic on that route as cars turn right from Charcot Road to Oakland Road,
+17 which will increase the risk of additional accidents, thereby increasing the hazard to students. The
+18 FEIR does not address this impact.
+
+19 45. Additionally, the FEIR does not include an analysis of the visibility of the High-
+20 Intensity Activated Crosswalk ("HAWK") signal for drivers who will be using the extension and
+21 children will be crossing the extension, despite the fact that cars coming downslope on the
+22 roadway extension will be headed east and directly into the glare of the morning sun. The DEIR
+23 does not analyze whether a HAWK light will be an effective way to protect students who will be
+24 walking to the School via Charcot Avenue and Silk Wood Lane.
+25 46. Further, the DEIR does not address the possible implementation of any safety
+26 measures other than the HAWK light. When questioned in the comment period to the Notice of
+27 Preparation about the possible use of crossing guards to mitigate the safety impacts of the Project,
+28
+
+9
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+the City improperly deferred any analysis to a future date. The placement of the extension in
+2 relation to the Orchard School will result in safety hazards to pedestrians and students, and the
+3 City failed to adequately analyze or mitigate such impacts.
+
+4 47. While an analysis of the effects of the Project on School operations and the
+5 neighborhood between Silk Wood Lane and Rock Avenue are omitted from the FEIR, CEQA
+
+6 Guidelines state that a Project can create a significant effect if it "[s]ubstantially increases hazards
+7 due to a geometric design feature or incompatible use." CEQA Guidelines Appendix G:
+8 Environmental Checklist Form, § XVII(c). School area vehicular, bus, pedestrian, bike, and pick-
+
+9 up and drop-off operations, as well as neighborhood traffic operations, all have serious safety
+10 | implications and the Project will require modifications to School access for all travel modes as
+11 well as its pick-up and drop-off areas and facilities. Such modifications must be analyzed in detail
+12 with appropriate mitigation measures identified and implemented.
+
+13 48. The FEIR failed to evaluate effects related to induced demand as a result of
+14 increasing roadway capacity. The City's Transportation Analysis Handbook explains that,
+15 "[s]hortly after the project becomes operational, induced [Vehicle Miles Traveled] may occur
+16 where road users respond to an initial appreciable reduction in travel time. With lower travel
+17 times, the modified facility becomes more attractive to travelers." Here, the EIR found a sixty
+18 percent decrease in travel time for some users, which would lead to induced demand, though the
+19 reduction in travel time is also inconsistent with other findings in the EIR. The fundamental rule of
+20 traffic is, building more roads makes people drive more.
+
+21 49. In responding to comments regarding the effect the Project will have on Fox Lane
+22 traffic conditions, the FEIR states that the project "would not result in changes to traffic volumes
+23 on Fox Lane," while contradicting that representation in the following sentence by asserting that
+24 the "subsequent greater use of Fox Lane" as a result of the Project "is the obligation of the school
+25 to remedy."
+
+26 50. The FEIR also failed to assess the full scope of traffic effects, arbitrarily limiting
+27 the sphere of traffic effects considered to a 1.5 mile radius from the Project, whereas the FEIR's
+
+28
+
+10
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+air quality assessment considers effects at a 2.5 mile radius.
+
+2 51. The FEIR purports to evaluate vehicle miles traveled ("VMT") "for informational
+3 purposes only,' claiming VMT analysis is exempted by the City's Transportation Analysis Policy,
+4 but the EIR fails to accurately apply the City's transportation policy to the Project, and fails to
+5 accurately or fully assess VMT.
+
+6 52. The FEIR states, without substantial evidence, that the Project would result in a
+7 decrease in traffic congestions, resulting in a decrease in greenhouse gas emissions, neither of
+8 which conclusions are supported by substantial evidence in the record, and which are contradicted
+
+0 by evidence in the record.
+
+10 53. The FEIR did not properly evaluate or mitigate significant air quality impacts from
+11 the Project.
+
+12 54. According to the EIR itself, the Project would more than double existing PM2.5 air
+13 pollution.
+
+14 55. The EIR's own modeling, which was criticized by the Bay Area Air Quality
+15 Management District ("BAAQMD"), and which was clearly flawed, estimates that the Project will
+16 be extremely close to the BAAQMD threshold of significance for a single project's PM2.5
+17 exposure, and proper modeling and analysis would likely have put the project above the
+18 BAAQMD threshold.
+
+19 56. Traffic studies undertaken by the City prior to the publication of the EIR showed
+20 one and a half times the number of expected automobile trips on the Project, which would result in
+
+21 a significantly worse air quality impact.
+
+22 57. The EIR fails to disclose all air quality modeling assumptions, rendering public
+23 review and informed decision-making impossible.
+
+24 58. The EIR proposes sound walls, and acknowledges that such barriers can alter the
+25 flow and concentration of air pollution, but fails to explain such effects at the Project site, while
+26 determining without substantial evidence that such effects would be less than significant.
+
+27 59. The FEIR fails to evaluate or mitigate significant water quality impacts from the
+
+28
+11
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+Project to Coyote Creek, a 63.6 mile river that flows through the Santa Clara Valley and which the
+
+2 DEIR describes as being "330 feet west and outside of the project alignment." Federally
+
+3 threatened and California species of concern such as steelhead and western pond turtle are known
+
+4 inhabitants of Coyote Creek, and two sensitive vegetation habitats are located within its banks.
+5 Additional traffic on the bridge over Coyote Creek will result in additional toxins entering the
+6 waterway. The FEIR determines without analysis or substantial evidence that "[i]mpacts to Coyote
+
+7 Creek will not occur because the project will not construct any improvements within 330 feet of
+
+8 that resource."
+
+9 60. The FEIR did not properly evaluate or mitigate significant noise impacts from the
+10 Project.
+
+11 61. The FEIR defers design of noise barriers until after Project approval, but fails to
+12 address questions regarding site configuration, calling into question the feasibility of such
+13 mitigation.
+
+14 62. The FEIR employs an improper noise level standard for the outside School areas.
+15 The FEIR applied Land Use Category 2, described as "Outdoor Sports and Recreation,
+16 Neighborhood Parks and Playgrounds" to the exterior levels of the School campus, which
+
+17 considers an exterior noise level of 65 decibels to be "normally acceptable." However, the exterior
+18 areas of the School should fall under Land Use Category 3, described as "Schools, Libraries,
+19 Museums, Meeting Halls, and Churches," with an exterior noise level of 60 decibels considered to
+20 be "normally acceptable."
+
+21 63. The DEIR found the noise increases in the School's outdoor field to be a significant
+22 impact and proposed to erect a six-foot noise barrier as a mitigation measure, which the City
+23 asserts will reduce noise levels in outdoor play areas to 65 decibels and exterior levels at the
+24 primary classrooms to 60 decibels. However, residents of Silk Wood Lane will receive a ten-foot
+25 noise barrier, reducing noise levels to 60 decibels or less, while yet other impacted areas will
+26 receive an eight-foot noise barrier. The FEIR fails to provide a discussion or an explanation as to
+27 why the School's noise barrier is shorter than the others, and why a higher decibel level is deemed
+
+28
+12
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 to be acceptable at the School site.
+
+2 64. Further, the FEIR fails to consider noise effects upon the second floor of
+
+3 residences, which would be located well above the sound wall.
+
+4 CAUSE OF ACTION
+
+5 (Violations of CEQA)
+
+6 65. Petitioner incorporates by reference the allegations of set forth above, as if fully set
+
+7 forth in this paragraph.
+
+8 66. The City prejudicially abused its discretion in certifying the FEIR. The City did not
+
+9 proceed in the manner required by law and its decisions in approving the Project and certifying the
+10 FEIR are not supported by substantial evidence. Pub. Resources Code § 21168.5; Vineyard Area
+
+11 Citizens for Responsible Growth v. City of Rancho Cordova, 40 Cal.4th 412, 426 (Cal. 2007).
+12 These legal deficiencies include, without limitation, the following:
+
+13 The Project Description is Vague, Incomplete, and Unstable
+
+14 67. CEQA requires that an EIR include an accurate project description, and that the
+15 nature and objective of a project be fully disclosed and fairly evaluated in an EIR. San Joaquin
+16 Raptor Rescue Center v. County of Merced, 149 Cal.App.4th 646, 655 (2007) (SJ Raptor). An EIR
+17 should contain a "sufficient degree of analysis to provide decision-makers with information which
+18 enables them to make a decision which intelligently takes account of environmental
+19 consequences." CEQA Guidelines $ 15151. "An accurate, stable and finite project description is
+20 the sine qua non of an informative and legally sufficient EIR." County of Inyo v. City of Los
+21 Angeles, 71 Cal. App. 3d 185, 193 (1977). "Only through an accurate view of the project may
+22 affected outsiders and public decision makers balance the proposal's benefit against its
+23 environmental cost, consider mitigation measures, assess the advantage of terminating the
+
+24 proposal and weigh other alternatives in the balance." Id. at 192-93. A project description may
+25 not provide conflicting signals to decision makers and the public about the nature and scope of the
+26 project as such a description is fundamentally inadequate and misleading. SJ Raptor, supra, 149
+27 Cal. App. 4th at 655-656.
+
+28
+13
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+68. The FEIR characterizes the scale of the Project in a contradictory manner,
+2 including characterizing the Project as a "major roadway improvement," yet in response to
+
+3 comments characterizes the Project as not being a "major roadway improvement" and as "local
+
+4 serving."
+
+5 69. The FEIR fails to explain the extent to which the Project implements an existing
+
+6 City of San Jose settlement agreement with Santa Clara County, City of Santa Clara, and Milpitas;
+7 and fails to analyze consistency with the North San Jose Area Development Policy, which are all
+
+8 part of the whole of the Project, requiring environmental review.
+
+9 The Project Uses Impermissible Project Obiectives
+
+10 70. CEQA requires that an EIR set forth a project's basic objectives. (CEQA
+11 Guidelines, § 15124, sub. (b) ['A clearly written statement of objectives will help the lead agency
+12 develop a reasonable range of alternatives to evaluate in the EIR and will aid the decision makers
+13 in preparing findings or a statement of overriding considerations, if necessary."); Habitat &
+14 Watershed Caretakers V. City of Santa Cruz, (2013) 213 Cal. App. 4th 1277, 1299. Project
+15 objectives should not be SO narrowly defined that they preclude consideration of reasonable
+16| alternatives for achieving the project's underlying purpose. (North Coast Rivers Alliance 1
+17 Kawamura (2015) 243 Cal.App.4th 647, 668.)
+18 71. The FEIR's project objectives are unclear, too narrow, and/or inconsistently
+19 applied.
+20 72. The project objectives to "Implement a programmed roadway network
+21| improvement project identified in the Envision San José 2040 General Plan," and to "Implement a
+22 planned major roadway improvement project, as set forth in the North San José Area Development
+and the North San José Deficiency Plan," were unduly narrow, as they could only be met 23 Policy
+24 by developing an automobile roadway, when other projects could have adequately met the project
+25 goals and underlying purposes of the inclusion of the Project in the Envision San José 2040
+26 General Plan and North San José Area Development Policy.
+27
+
+28
+14
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+F The FEIR is Inadequate as an Informational Document
+
+2 73. The information in an EIR must not only be sufficient in quantity, but it must be
+
+3 presented a clear manner so as to adequately inform the public and decision makers. "A reader of
+
+4 the FEIR could not reasonably be expected to ferret out an unreferenced discussion . . ., interpret
+
+5 that discussion's unexplained figures without assistance, and spontaneously incorporate them into
+
+6 the FEIR's own discussion of total projected supply and demand." Vineyard Area Citizens for
+7 Responsible Growth, Inc. V. City of Rancho Cordova, 40 Cal.4th 412, 442 (2007). Information
+8 scattered throughout an EIR and its appendices and supporting reports are not substitutes for good
+faith reasoned analysis. Ibid. An EIR should be written in a way that readers are not forced "to sift
+10 through" to find important components of the analysis. SJ Raptor, supra, 149 Cal.App.4th at 659.
+11 74. Here, the EIR is disorganized, relevant information is inaccessible, and the analysis
+12 is incomplete. Relevant data and assumptions regarding air, noise, and traffic effects are difficult if
+
+13 not impossible to locate; descriptions of the Project itself vary significantly throughout the
+14 documents; and understanding and application of the Project's goals and objectives are
+15 inconsistent and ambiguous.
+
+16 The FEIR Fails to Adequately Define the Project's Baseline
+
+17 75. In order to determine whether a project's impacts will be significant, CEQA
+18 requires lead agencies to compare the impact of a proposed project to the "physical environmental
+19 conditions in the vicinity of the project, as they exist at the time the notice of preparation is
+20 published." These conditions serve as the project's "baseline." CEQA Guidelines § 15125. The
+21 description of the project's baseline ensures that the public has "an understanding of the
+22 significant effects of the proposed project and its alternatives." CEQA Guidelines § 15125(a).
+23 Accurately determining the baseline environmental conditions is crucial to accurately evaluating a
+24 project's impact. E.g., San Joaquin Raptor/Wildlife Rescue Ctr. v. County of Stanislaus, 27
+25 Cal.App.4th 713 (1994).
+
+26 76. The FEIR's description of baseline conditions is alternatively incomplete and
+27 inaccurate, infecting and invalidating the entirety of the EIR's environmental analysis. The flaws
+28
+15
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+- include, but are not limited to:
+
+2 A.
+
+3 Failure to sufficiently address baseline existing hazards to pedestrians and
+
+students;
+
+4 B.
+
+5 Failure to discuss current vehicle, pedestrian, and bicycle traffic to, from,
+
+6 and in the vicinity of the School, including student pick-up and drop-off
+
+areas;
+
+7 C.
+
+8 Incomplete and inadequate discussion and misrepresentation of current
+
+9 roadway traffic conditions and current causes of congestion, making it
+
+10 impossible to independently assess the plausibility of the results of the
+
+11 theoretical traffic modelling and whether the project meets its underlying
+
+purpose.
+
+12
+
+13 The FEIR Fails to Adequately Analyze Significant Environmental Impacts
+
+77. CEQA requires that an EIR describe the proposed project's significant
+14 environmental effects. Each must be revealed and fully analyzed in the EIR. Pub. Resources Code
+15 § 21100(b), CEQA Guidelines § 15126.2(a).
+
+16 78. The FEIR fails to provide decision makers with sufficient analysis in numerous
+17 respects, as discussed, above: induced vehicle demand, VMT, air pollution, greenhouse gasses,
+18 water quality impacts, noise impacts, impacts to pedestrian and student safety, and traffic effects
+19 to Fox Lane.
+
+20 The FEIR's Project Alternatives Analysis Is Inadequate
+
+21 79. The FEIR must "consider a reasonable range of potentially feasible alternatives that
+22 will foster informed decision making and public participation." CEQA Guidelines $ 15126.6.
+
+23 80. The FEIR improperly rejected Alternative E as the environmentally superior
+24 alternative, through misapplication of both facts and law.
+
+25 81. The Statement of Overriding Consideration, in turn, failed to include a defensible
+26 legal rationale supported by any evidence in its decision to reject Alternative E as the E
+27 environmentally superior alternative.
+
+28
+16
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+The FEIR's Mitigation Measures are Legally Inadequate
+
+2 82. "An EIR shall describe feasible measures which could minimize significant adverse
+impacts." CEQA Guidelines § 15126.4(a)(1). An EIR may not defer the formulation of mitigation
+4 measures to a future time, but mitigation measures may specify performance standards that would
+
+5 mitigate significant effects and may be accomplished in more than one specified way.
+
+6 "Impermissible deferral of mitigation measures occurs when an EIR puts off analysis or orders a
+7 report without either setting standards or demonstrating how the impact can be mitigated in the
+
+8 manner described in the EIR." Preserve Wild Santee V. City of Santee, 210 Cal.App.4th 260, 280-
+9 281 (2012).
+
+10 83. The efficacy of a mitigation measure in remedying the identified environmental
+
+11 problem must be apparent in the EIR. Sierra Club v. County of San Diego, (2014) 231 Cal.App.4th
+12 1152, 1168; Communities for a Better Env't v. City of Richmond, (2010) 184 Cal.App.4th 70,
+13 95; Gray v. County of Madera, (2008) 167 Cal.App.4th 1099, 1116; Cleveland Nat'l Forest
+14 Found. v. San Diego Ass'n of Gov'ts, (2017) 17 Cal.App.5th 413, 433.
+15 84. The FEIR improperly defers analysis and formulation of mitigation measures, and
+16 the mitigation measures that are included in the FEIR are unenforceable or insufficient, including
+17 its adopted mitigation measures for noise and pedestrian safety.
+
+18 The FEIR Failed to Respond to All Comments
+
+19 85. "The lead agency shall evaluate comments on environmental issues received from
+
+20 persons who reviewed the draft EIR and shall prepare a written response." CEQA Guidelines §
+21 15088.
+
+22 86. The FEIR failed to include and address at least three comment letters that were
+23 submitted during the public comment period on the Draft EIR, including: comments from Andrew
+24 Tubbs, regarding Project objectives, sent September 3, 2019; comments from Robin Roemer,
+25 regarding air pollution and project objectives, sent September 17, 2019; and comments from
+26 Clemence Tiradon, regarding air quality, sent November 3, 2019.
+
+27
+
+28
+17
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+87. Where a comment suggests specific mitigation, the response must address the
+2 suggested mitigation measure with a reasoned analysis explaining why a it was not accepted. King
+3 |l & Gardiner Farms, LLC v. County of Kern, (2020) 45 Cal.5th 814, 880. The FEIR failed to
+4  substantively address a portion of the comment letter that was submitted during the public
+5 comment period on the Draft EIR, sent on November 4, 2019 by Lozano Smith regarding noise
+
+6 impacts of the project and the City's decision to employ different mitigation measures for the
+
+7 School and the residences on Silk Wood Lane.
+
+8 88. A specific response is required when a comment raises a specific question about a
+9 significant environmental issue. 14 Cal. Code Regs §§ 15088(b), 15204(a). The FEIR failed to
+10 substantively respond to a portion of a comment letter that was submitted during the public
+
+11 comment period on the Draft EIR, sent on November 4, 2019 by Jeffrey Lawson regarding the
+12 impacts of the project on Coyote Creek. The FEIR asserts that it is exempt from considering or
+13 analyzing such impacts, concluding that "[t]he fact that traffic volumes will increase on the
+14 existing bridge over the creek does not equate to increased impacts because the bridge was
+
+15 constructed and evaluated under the assumption that Charcot Avenue would be extended to
+16 Oakland Road." However, the Charcot bridge over Coyote Creek was built in 1971.
+
+17 89. The FEIR failed to substantively respond to portion of a comment letter that was
+18 submitted during the public comment period on the Draft EIR, sent on November 4, 2019 by
+19 | Lozano Smith regarding the DEIR's failure to analyze the impact of the Project on the Orchard
+20 School operations and the neighborhood between Silk Wood Lane and Rock Avenue.
+
+21 90. The FEIR failed to substantively respond to a portion of a comment letter that was
+22 submitted during the public comment period on the Draft EIR, sent on November 4, 2019 by
+23  Lozano Smith regarding the safety impacts of the Project on students and pedestrians, including
+24 | but not limited to the efficacy of the HAWK light, the decision not to utilize crossing guards or
+25  implement other safety measures, and the increased likelihood of cars crashing through the School
+26  fence from Oakland Road.
+
+27
+
+28
+18
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+91. For each of these reasons, the City prejudicially abused its discretion and failed to
+
+2 proceed in the manner required by law in certifying the FEIR and approving the Project. The
+
+3 FEIR's errors and omissions precluded informed decision making and informed public
+4 I participation, thereby thwarting the statutory goals of the EIR process.
+
+5 WHEREFORE, Petitioner prays for relief as follows:
+
+6 1. That this Court issue a peremptory writ of mandate:
+
+7 a. Commanding Respondents to set aside their certifications of the FEIR and to
+
+8 prepare a revised EIR and otherwise comply with CEQA prior to any
+9 subsequent action taken to approve the Project:
+10 b. Commanding Respondents to immediately suspend all activities in furtherance
+11 of the Project; and,
+
+12 c. Commanding Respondents to set aside their approvals of the Project.
+
+13 2. For an award of Petitioner's costs incurred in bringing this action, and reasonable
+14 attorneys' fees pursuant to Code of Civil Procedure Section 1021.5, or as otherwise authorized by
+15 law; and
+
+16 3. For such other relief as the Court deems just and proper.
+
+17
+
+18 Dated: April 28, 2021
+
+19 AQUA TERRA AERIS LAW GROUP
+20
+
+21 By CAA
+JASON R. FLANDERS
+22
+Attorneys for 23 Protecting the Children of Orchard School
+24
+
+25
+
+26
+
+27
+
+28
+19
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+VERIFICATION
+
+2 1, Robin Roemer, am an authorized representative and member of Petitioner, Protecting the
+3 Children of Orchard School. I have read the foregoing Petition and know the contents thereof. The
+4 same is true of my own knowledge, except as to those matters that are alleged on information and
+5 belief, and as to those matters, I believe them to be true.
+
+6 I declare under penalty of perjury under the laws of the State of California that the
+7 foregoing is true and correct. Executed this 28th day of April 2021, in San Jose, California.
+8
+Ana Yrore
+10 Robin Roemer
+
+11 Protecting Children of Orchard School
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+20
+FIRST AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+EXHIBIT A
+
+DATA ARUA TERRA ABRIS LAW GROUP
+
+August 26, 2020
+
+Jason R. Flanders
+Aqua Terra Aeris Law Group 4030 Martin Luther King Jr. Way Oakland, CA 94609
+irf@atalawgroup.com
+916.202.3018
+
+City of San Jose
+Sam Liccardo, Mayor San Jose City Clerk 200 E. Santa Clara Street, 14th Floor
+San Jose, CA 95113
+
+San Jose, Office of the City Attorney
+Nora Frimann, Acting City Attorney 200 E. Santa Clara Street, 16th Floor
+San Jose, CA 95113
+cao.main@sanjoseca.gov
+
+RE: Notice of Intent to File CEQA Petition for Writ of Mandate
+
+To Whom It May Concern:
+
+Please take notice, pursuant to Public Resources Code § 21167.5, that our client. Protecting the Children of Orchard School, intends to file a petition under the provisions of the California Environmental Quality Act (CEQA") against respondent, City of San Jose,
+challenging the City's approval of the Charcot Avenue Extension Project (the "Project") and the
+City's certification of the Environmental Impact Report ("EIR") for the Project. The petition will seek an order of the court compelling the City to set aside its approval of the Project and its certification of the EIR; for respondents to pay petitioner's costs of suit and reasonable attorneys' fees related to this proceeding; and for such other relief as the court may deem proper.
+If you would like to discuss resolution of this matter without litigation, please contact me at your earliest convenience.
+
+Sincerely,
+
+Apry Jason R. Flanders
+AQUA TERRA AERIS LAW GROUP
+
+PROOF OF SERVICE
+
+[ am a citizen of the United States, employed in the County of Alameda, My business
+address is 4030 Martin Luther King Jr. Way, Oakland, CA 94609. I am over the age of 18 years
+and not a party to the above-entitled action. Document served:
+NOTICE OF INTENT TO FILE CEQA PETITION FOR WRIT OF
+MANDATE
+
+On August 26, 2020, I served the foregoing document on the parties in this action,
+located on the attached service list, by placing copies thereof in sealed envelopes addressed as
+shown below for service as designated below:
+
+(xx) By First Class Mail: Deposited the sealed envelope with the United States Postal Service, with the postage fully paid.
+( ) By Certified Mail: Deposited the sealed envelope with the United States Postal Service, with the postage fully paid.
+( By Electronic Transmission: caused each such document to be sent by email to the following persons or their representative named in the service list below.
+
+I declare under penalty of perjury under the laws of the State of California that the above
+is true and correct. Executed on September 1, 2020, in Fremont, California.
+
+ttrsrald hts Esmeralda Bustos
+
+SERVICE LIST
+
+City of San Jose
+Sam Liccardo, Mayor
+200 E. Santa Clara Street, 14th Floor San Jose, CA 95113
+
+City of San Jose
+San Jose City Clerk
+200 B. Santa Clara Street, 14th Floor
+San Jose, CA 95113
+
+San Jose, Office of the City Attorney
+Nora Frimann, Acting City Attorney
+200 E. Santa Clara Street, 16th Floor
+San Jose, CA 95113
+cao.main@sanjoseca.gov
+
+EXHIBIT B
+
+JASON R. FLANDERS, SBN 238007
+
+2 AQUA TERRA AERIS (ATA) LAW GROUP
+4030 Martin Luther King Jr. Way Oakland, CA 94609
+Telephone: (916) 202-2018
+4 Email: jrf@atalawgroup.com
+
+Attorneys for Petitioner 6 Protecting the Children of Orchard School
+7
+
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+9 COUNTY OF SANTA CLARA
+
+10
+
+11 PROTECTING THE CHILDREN OF Case No.:
+ORCHARD SCHOOL,
+12 NOTICE TO ATTORNEY GENERAL
+Petitioner,
+13 (Code Civ. Proc. § 388; Cal. Pub. Resources
+VS. Code § 21167.7)
+14
+
+15 CITY OF SAN JOSE; DOES 1 through 100, inclusive,
+16
+Respondents.
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL
+
+1
+TO THE ATTORNEY GENERAL OF THE STATE OF CALIFORNIA:
+2
+PLEASE TAKE NOTICE, under Public Resources Code section 21167.7 and Code of Civil
+3
+Procedure section 388, that on September 1, 2020, Protecting the Children of Orchard School
+4
+
+5 ("Petitioner") filed a Verified Petition for Writ of Mandate against the City of San Jose ("City") in
+the Santa Clara County Superior Court. The Petition challenges the City's certification of Final
+6
+I Environmental Impact Report and approval of the "Charcot Avenue Extension Project" (*Project"). 7 The lawsuit is based on violations of the California Environmental Quality Act and seeks recovery of 8
+Petitioner's reasonable costs and attorneys' fees under Code of Civil Procedure section 1021.5 or
+9
+
+10 other applicable theories, as discussed more fully in the Petition attached to this notice.
+
+11
+
+12
+
+13 DATED: September 1, 2020
+
+14
+
+15
+Jason R. Flanders
+16 Attorneys for Petitioner
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL
+
+PROOF OF SERVICE
+
+2
+
+3 am a citizen of the United States, employed in the County of Alameda. My business
+address is 4030 Martin Luther King Jr. Way, Oakland, California 94609. am over the age of 18
+4 years and not a party to the above-entitled action. Document(s) served:
+5 NOTICE TO ATTORNEY GENERAL
+6 On September 1, 2020, I served the foregoing document(s) on the parties in this action,
+7 located on the attached service list, by placing copies thereof in sealed envelopes addressed as
+8 shown below for service as designated below:
+
+9 (X) By First Class Mail: Deposited the sealed envelope with the United States
+10 Postal Service, with the postage fully paid.
+
+11 ( ) By Personal Service: I personally delivered each such envelope to the office of the address on the date last written below.
+12 () By Overnight Mail: I caused each such envelope to be placed a in a box or other facility regularly maintained by the express service
+13 carrier, or delivered to an authorized courier or driver authorized by the express service carrier to receive
+14 documents, in an envelope or package designated by the express service carrier with delivery fees paid or
+15 provided for.
+
+16 ( ) By Electronic Transmission: Based on a court order or an agreement of the parties to accept service by electronic transmission, I caused the
+17 documents to be sent to the person(s) at the e-mail addresses listed below. I did not receive, within a
+18 reasonable time after the transmission, any electronic message or other indication that the transmission was
+unsuccessful. 19
+
+20 I declare under penalty of perjury under the laws of the State of California that the above is
+21 true and correct. Executed on September 1, 2020, Fremont, California.
+22
+
+23
+
+24 Lirstialleht Esmeralda Bustos
+25
+
+26
+
+27
+
+28
+
+2
+NOTICE TO ATTORNEY GENERAL
+
+SERVICE LIST
+
+2 Xaiver Becerra
+Office of the Attorney General 3 1300 "T" Street Sacramento, CA 95814-2919
+4
+
+5
+
+6
+
+7
+
+8
+
+0
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL
+
+JASON R. FLANDERS, SBN 238007
+
+2 AQUA TERRA AERIS (ATA) LAW GROUP
+4030 Martin Luther King Jr. Way
+
+3 Oakland, CA 94609
+Telephone: (916) 202-2018
+4 Email: jrf@atalawgroup.com
+
+5
+Attorneys for Petitioner 6 Protecting the Children of Orchard School
+
+7
+
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+9 COUNTY OF SANTA CLARA
+
+10
+
+11 PROTECTING THE CHILDREN OF Case No.: 20CV370153
+ORCHARD SCHOOL,
+12 NOTICE TO ATTORNEY GENERAL
+Petitioner,
+13 (Code Civ. Proc. § 388; Cal. Pub. Resources
+
+VS. Code § 21167.7)
+14
+
+15 CITY OF SAN JOSE; DOES 1 through 100,
+inclusive,
+16
+Respondents.
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL
+
+2 TO THE ATTORNEY GENERAL OF THE STATE OF CALIFORNIA:
+
+3 PLEASE TAKE NOTICE, under Public Resources Code section 21167.7 and Code of Civil
+
+4 Procedure section 388, that on April 28, 2021, Protecting the Children of Orchard School
+
+5 ("Petitioner") filed a First Amended Verified Petition for Writ of Mandate against the City of San
+
+6 Jose ("City") in the Santa Clara County Superior Court. The Petition challenges the City's
+
+7 certification of a Final Environmental Impact Report and approval of the "Charcot Avenue Extension
+
+8 Project" (*Project"). The lawsuit is based on violations of the California Environmental Quality Act
+
+0 and seeks recovery of Petitioner's reasonable costs and attorneys' fees under Code of Civil Procedure
+
+10 section 1021.5 or other applicable theories, as discussed more fully in the Petition attached to this
+
+notice.
+11
+
+12
+
+13
+
+14 DATED: April 28, 2021
+
+15
+
+16
+Jason R. Flanders
+17 Attorneys for Petitioner
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL
+
+PROOF OF SERVICE
+
+2
+
+3 a I am a citizen of the United States, employed in the County of Alameda. My business
+address is 4030 Martin Luther King Jr. Way, Oakland, California 94609. am over the age of 18
+4 years and not a party to the above-entitled action. Document(s) served:
+5 NOTICE TO ATTORNEY GENERAL
+6 On April 28, 2021, I served the foregoing document(s) on the parties in this action, located
+7 on the attached service list, by placing copies thereof in sealed envelopes addressed as shown
+
+8 below for service as designated below:
+
+9 (xx) By First Class Mail: Deposited the sealed envelope with the United States
+10 Postal Service, with the postage fully paid.
+
+11 ( By Personal Service: I personally delivered each such envelope to the office of
+the address on the date last written below.
+
+12 ( By Overnight Mail: caused each such envelope to be placed in a box or other facility regularly maintained by the express service
+13 carrier, or delivered to an authorized courier or driver authorized by the express service carrier to receive
+14 documents, in an envelope or package designated by the express service carrier with delivery fees paid or
+15 provided for.
+
+16 By Electronic Transmission: Based on a court order or an agreement of the parties to accept service by electronic transmission, I caused the
+
+17 documents to be sent to the person(s) at the e-mail addresses listed below. I did not receive, within
+
+18 reasonable time after the transmission, any electronic message or other indication that the transmission was unsuccessful.
+19
+
+20 I declare under penalty of perjury under the laws of the State of California that the above is
+21 true and correct. Executed on April 28, 2021, Fremont, California.
+22
+
+23
+
+24 Cordiunaldbees fats Esmeralda Bustos
+25
+
+26
+
+27
+
+28
+
+2
+NOTICE TO ATTORNEY GENERAL
+
+SERVICE LIST
+
+2 Xaiver Becerra
+Office of the Attorney General 1300 "I" Street
+/Sacramento, CA 95814-2919
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20 ;
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+3
+NOTICE TO ATTORNEY GENERAL
+
+DECEIVET
+MAY:0 3 2021
+
+BY:____________.

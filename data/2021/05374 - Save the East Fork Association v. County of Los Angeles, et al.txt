@@ -1,0 +1,573 @@
+MITCHELL M. TSAI (Cal. Bar No. 277156)
+GEORGE T. AGUILAR (Cal. Bar No. 303990)
+2 MITCHELL M. TSAI, ATTORNEY AT LAW
+139 South Hudson Avenue, Suite 200
+3 Pasadena, California 91101
+
+4 Ph: (626) 381 - 9248
+Fx: (626) 389 - 5414
+5 Em: mitch@mitchtsailaw.com
+Em: george@mitchtsailaw.com
+6
+
+7 Attorneys for Petitioner,
+SAVE THE EAST FORK ASSOCIATION
+8
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+4
+
+10 FOR THE COUNTY OF LOS ANGELES
+
+11 SAVE THE EAST FORK ASSOCIATION, CASE NO.:
+12
+
+13 Plaintiff and Petitioner, NOTICE TO ATTORNEY GENERAL
+
+14 California Environmental Quality Act, Cal. Pub COUNTY OF LOS ANGELES; COUNTY OF Res. Code § 21000 et seq. 15 LOS ANGELES BOARD OF SUPERVISORS;
+
+16 COUNTY OF LOS ANGELES DEPARTMENT
+OF REGIONAL PLANNING; and DOES 1-10;
+17 Defendants and Respondents
+18
+
+19 Bungee America, LLC; Saunders Mine, LLC; and
+ROES 1-10;
+20 Real Parties in Interest
+21
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+-1-
+NOTICE TO ATTORNEY GENERAL
+
+2 To the Attorney General of the State of California:
+
+3 PLEASE TAKE NOTICE, under Public Resources Code , 21167.7 and Code of Civil
+
+4 Procedure 388, that on July 30, 2021 Plaintiff and Petitioner SAVE THE EAST FORK
+
+5 ASSOCIATION (*Plaintiff and Petitioner") filed a VERIFIED PETITION FOR WRIT OF
+
+6 MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF against the
+
+7 COUNTY OF LOS ANGELES, a political subdivision of the State of California and Charter County;
+
+8 the COUNTY OF LOS ANGELES BOARD OF SUPERVISORS, governing body of the County of
+
+9 Los Angeles; the COUNTY OF LOS ANGELES DEPARTMENT OF REGIONAL PLANNING, a
+
+10 public entity; and DOES 1-10 (collectively, "Defendants and Respondents") in Los Angeles County
+
+11 Superior Court. The Plaintiff and Petitioner alleges, inter alia, violations of the California
+
+12 Environmental Quality Act (*CEQA"), Public Resources Code § 21100, et seq.
+
+13 A copy of the Petition is attached as Exhibit A.
+
+14 DATED: July 30, 2021 MITCHELL M. TSAI, ATTORNEY AT LAW
+
+15
+
+16 MU 2 By:
+MITCHELL M. TSAI
+
+17 Attorneys for Plaintiff and Petitioner.
+
+18 SAVE THE EAST FORK ASSOCIATION
+
+19
+
+20
+:SN 22
+23
+24
+
+25
+
+26
+
+27
+
+28
+
+-1-
+NOTICE TO ATTORNEY GENERAL
+
+]
+
+2 PROOF OF SERVICE
+
+3 I, Brandon Young, being duly sworn, deposes and says:
+
+4
+
+5 am a citizen of the United States and work in Los Angeles County, California. I am over the age of eighteen years and am not a party to the within entitled action. My business address is: 155 South
+
+6 EI Molino Avenue, Suite 104, Pasadena, California 91101. I served this list of persons with the following document(s) on July 30, 2021:
+
+7 NOTICE TO ATTORNEY GENERAL
+
+8 The document(s) was served on:
+
+0
+
+10 By placing the document(s) listed above in sealed envelope with postage thereon fully prepaid, in the United States mail at Pasadena, California addressed as well as by electronic transmission as set forth below.
+11
+
+12 Xavier Becerra, Attorney General Ed Ochoa, Senior Assistant Attorney General
+13 California Attorney General's Office
+
+14 600 West Broadway, 18th Floor
+San Diego, CA 92101
+
+15 Em: Ed.Ochoa@doj.ca.gov
+Em: AGelectronicservice@doj.ca.gov
+
+16
+
+17 I declare under penalty of perjury, according to the laws of the State of California, that the foregoing is true and correct.
+
+18 Executed this July 30, 2021, at Pasadena, California.
+
+19
+
+20
+
+21 Brandon Young
+
+22
+8 24
+
+25
+
+26
+
+27
+
+28
+
+-2-
+NOTICE TO ATTORNEY GENERAL
+
+EXHIBIT A
+
+- MITCHELL M. TSAI (Cal. Bar No. 277156)
+
+2 GEORGE T. AGUILAR (Cal. Bar No. 303990)
+MITCHELL M. TSAI, ATTORNEY AT LAW
+
+3 139 South Hudson Avenue, Suite 200
+Pasadena, California 91101
+
+4 Ph: (626) 381 - 9248
+Fx: (626) 389 - 5414
+5 Em: mitch@mitchtsailaw.com
+
+6 Em: george@mitchtsailaw.com
+
+7 Attorney for Petitioner
+SAVE THE EAST FORK ASSOCIATION
+8
+
+9 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+10 FOR THE COUNTY OF LOS ANGELES
+
+11
+
+12 SAVE THE EAST FORK ASSOCIATION, CASE NO.:
+
+13 Plaintiff and Petitioner, VERIFIED PETITION FOR WRIT OF
+
+14 MANDATE AND COMPLAINT FOR
+DECLARATORY AND INJUNCTIVE
+
+15 COUNTY OF LOS ANGELES; COUNTY OF
+LOS ANGELES BOARD OF SUPERVISORS; RELIEF
+
+16 COUNTY OF LOS ANGELES DEPARTMENT OF REGIONAL PLANNING; and DOES 1-10; California Environmental Quality Act, Cal. Pub
+
+17 Res. § Code 8 21000 et seq.
+
+18 Defendants and Respondents Dep't:
+
+19 Bungee America, LLC; Saunders Mine, LLC; and ROES 1-10;
+20
+
+21 Real Parties in Interest. )
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+INTRODUCTION
+
+2 1. This lawsuit seeks to enjoin the COUNTY OF LOS ANGELES ("County"), COUNTY
+3 OF LOS ANGELES BOARD OF SUPERVISORS ("Board"), and COUNTY OF LOS ANGELES
+4 DEPARTMENT OF REGIONAL PLANNING ("Regional Planning") (collectively "Respondents")
+5 February 3, 2021 action, by and through Regional Planning Director Amy J. Bodek, to extend pursuant
+6 to Los Angeles County Zoning Code ("Zoning Code") section 22.02.070(B) what is referred to as a
+7 "clean hands waiver" to BUNGEE AMERICA, LLC and SAUNDERS MINE, LLC's (each
+8 individually a "Real Party in Interest" and collectively "Real Parties in Interest" or "Bungee America"),
+9 authorizing Bungee America's continued operation of an unlawful commercial bungee jumping
+10 operation and associated camping, heliport, bathroom, and storage facilities (the "Project").
+11 2. The Project is located on a 50-acre private inholding within the Angeles National Forest,
+12 Sheep Mountain Wilderness, and San Gabriel Mountains National Monument on parcels identified by
+13 Assessor Parcel Numbers 8678-002-009, 8678-002-010, 8678-002-011 (Project Site"). The structure
+14 upon which bungee jumping activities occur is a bridge known as the "Bridge to Nowhere," which
+15 crosses the East Fork of the San Gabriel River on the Project Site. The Project Site is remote and has no
+16 road or direct vehicle access. Access to the Project Site is limited to hiking approximately five (5) miles
+17 along the East Fork Trail, a public trail established and maintained by the U.S. Forest Service, from an
+18 existing trailhead located at the terminus of Camp Bonita Road. Bungee America transports staff,
+19 supplies, and waste to and from the Project Site by helicopter.
+20 3. Bungee America has operated the Project for nearly 30 years in violation of the law,
+21 both putting the Project Site to a use not in conformity with its zoning designation and operating the
+22 Project without necessary permits, authorizations, and approvals, including a Conditional Use Permit,
+23 Parking Variance, and Aviation Permit from the County. Bungee America's unlawful operation has
+24 substantial impacts on the surrounding natural environment and the people who enjoy it. Impacts from
+25 the Project include but are not limited to increased traffic and parking congestion at and near the
+26 trailhead for the East Fork Trail; excessive noise associated with operating a helicopter over and within
+27 protected Wilderness and park space; the discharge of waste from the unpermitted bathroom; and
+28 increased risks to human health and safety in areas hard to access by emergency responders. Due in part
+
+-1-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+1 to the seriousness of these impacts, the Project's unlawful operation has been rightfully subject to
+2 substantial public and agency scrutiny, including enforcement actions by both the State of California
+
+3 and Regional Planning.
+
+4 4. Only after Regional Planning initiated a zoning enforcement action against Bungee
+5 America in 2014 did Bungee America initiate efforts to come into compliance with the law. In 2014,
+6 Bungee America requested from Regional Planning clean hands waiver so that it could continue
+7 operating the Project while Regional Planning processed its application for decades-overdue permits
+8 and approvals. In 2018, Regional Planning granted Bungee America a clean hands waiver subject to a
+9 multiple conditions affecting the operation of the Project and maintenance of the Project Site. Regional
+10 Planning has extended that waiver five (5) times and subjected Bungee America to additional
+11 conditions. Most recently, by letter dated February 3, 2021, Regional Planning extended Bungee
+12 America's clean hands waiver until February 4, 2022. Regional Planning conducted no public review or
+13 environmental analysis of the Project prior to approving its continued operation through the clean hands
+14 waiver.
+
+15 5. Respondents violated the California Environmental Quality Act, Cal. Pub Res. Code §
+16 21100, et seq ("CEQA"), which applies to discretionary approvals of projects, when Regional Planning
+17 exercised its discretionary authority to approve the unlawful Project's continued operation while it
+18 processed Bungee America's request for necessary permits and approvals. Respondents' failure to
+19 subject the Project to public review and environmental analysis, as CEQA requires, betrays
+20 Respondents' obligations under CEQA that are intended to fulfill critical open government and
+21 environmental protection purposes. With no other recourse, Petitioner files this action.
+22 PARTIES
+23 6. Petitioner SAVE THE EAST FORK ASSOCIATION (*Petitioner") is an unincorporated
+24 associated of citizens dedicated to working with various governmental agencies and conservation
+25 groups to address problems facing the Angeles National Forest and improve recreation, safety,
+26 watershed health, and protected habitat along the East Fork of the San Gabriel River.
+27 7. Defendant and Respondent COUNTY OF LOS ANGELES ("County") is a Charter
+28 County and subdivision of the State of California, organized and existing by virtue of the Constitution
+
+-2-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+P and laws of the State of California. The Project is within the jurisdictional limits of the County.
+2 8. Defendant and Respondent COUNTY OF LOS ANGELES BOARD OF
+
+3 SUPERVISORS ("Board") is the elected governing body of the County with supervisory jurisdiction
+4 over County departments.
+
+5 9. Defendant and Respondent COUNTY OF LOS ANGELES DEPARTMENT OF
+6 REGIONAL PLANNING ("Regional Planning") is an agency of the County responsible for the
+7 oversight and administration of planning matters, advising the Board on all planning matters, as well as
+8 developing, applying, and enforcing state and local land-use and zoning laws within the jurisdictional
+9 limits of the County. Regional Planning, through its Director, granted and extended the clean hands
+10 waiver at issue in this matter.
+
+11 10. Defendants and Respondents DOES 1 - 10 are entities which the true names, capacities,
+12 corporate, and associates are unknown to Petitioner at this time, and who, therefore, are sued using
+13 fictitious names. Petitioner will amend this Petition/Complaint to show the true names and capacities
+14 when ascertained.
+
+15 11. Real Party in Interest BUNGEE AMERICA, LLC ("Real Party in Interest") is a
+16 California limited liability company that owns and/or operates the Project and Project Site.
+17 12. Real Party in Interest SAUNDERS MINE, LLC (Real Party in Interest") is a California
+18 limited liability company that owns and/or operates the Project and Project Site.
+19 13. Petitioner is currently unaware of the respective ownership and operational roles of
+20 BUNGEE AMERICA, LLC and SAUNDERS MINE, LLC (collectively "Real Parties in Interest" or
+21 "Bungee America"), as both entities are named interchangeably throughout documents related to the
+22 Project and Project Site. Petitioner understands and believes that both entities are beneficiaries of
+23 Respondents' decisions to grant and extend a clean hands waiver for the Project. Petitioner will amend
+24 this Petition/Complaint to show their true roles and capacities when ascertained.
+25 14. Real Parties in Interest ROES 1 - 10 are entities which the true names, capacities,
+26 corporate, and associates are unknown to Petitioner at this time, and who, therefore, are sued using
+27 fictitious names. Petitioner will amend this Petition/Complaint to show the true names and capacities
+28 when ascertained.
+
+-3-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+1 JURISDICTION AND VENUE
+
+2 15. This Court has jurisdiction over this action pursuant to California Code of Civil
+
+3 Procedure ("CCP") sections 526 (injunctive relief), 1060 (declaratory relief), 1085 (traditional mandate)
+
+4 and 1094.5 (administrative mandate), and California Public Resource Code ("PRC") sections 21168 and
+5 21168.5 (judicial review under CEQA).
+
+6 16. Venue is proper in this Court because the Project Site lies entirely within the County of
+7 Los Angeles and the environmental impacts of the Project will be acutely felt in the County of Los
+8 Angeles. The cause alleged in this Petition, or some part of that cause, arise in this county. (CCP § 393;
+
+9 Cal. State Parks Foundation v. Super. Ct. (2007) 150 Cal.App.4th 826.) Venue is also proper in this
+10 Court pursuant to CCP sections 394 (actions against a city, county or local agency), and 395 (actions
+11 generally), since Respondents are local agencies of the County of Los Angeles.
+12 17. As required by PRC section 21167(a), this petition is timely filed within 180 days of
+13 Respondents' February 3, 2021 action to approve Bungee America's continued operation of the Project
+14 through an extension of its clean hands waiver pursuant to Zoning Code section 22.02.070(B).
+15 18. Petitioner has provided written notice to Respondents of its intention to file this petition
+16 in compliance with PRC section 21167.5, a true and correct copy of and are including which the notice
+17 and proof of service as are attached hereto as Exhibit A.
+
+18 19. Petitioner has concurrently filed a notice of its election to prepare the record of
+19 administrative proceedings relating to this action, in compliance with PRC section 21167.6 or other
+20 applicable laws, a true and correct copy of which notice is attached hereto as Exhibit B.
+21 20. Petitioner has concurrently filed a request for hearing in compliance with PRC section
+22 21167.4, a true and correct copy of which request is attached hereto as Exhibit C.
+23 21. Petitioner has concurrently filed and served notice of this lawsuit to the California
+24 Attorney General in compliance with PRC section 21167.7 and CCP section 388, a true and correct
+25 copy of which is attached hereto as Exhibit D.
+26 22. Petitioner has performed all conditions precedent to filing this instant action.
+27 Respondents provided no public hearing or other opportunity for members of the public to raise
+28 objections orally or in writing before approving the Project, denying the public and Petitioner any
+
+-4-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+F opportunity to formally object to the Project or exhaust administrative remedies pursuant to PRC
+2 section 21177.
+
+3 23. The violations by Respondent as alleged herein have affected the beneficial interests of
+
+4 Petitioner and/or its supporting members. The relief sought by way of this Petition will redress this
+
+5 beneficial interest and the likelihood of future injury and interference with Petitioner's interests, and
+6 those of its supporting members.
+
+7 24. Petitioner has no plain, speedy, or adequate remedy in the course of ordinary law unless
+8 this Court grants the requested writ of mandate to require Respondent to set aside the certification of
+
+9 the Project and the supporting environmental documents. In the absence of such remedies,
+10 Respondent's decisions will remain in effect in violation of state law and injurious to Petitioner and its
+11 members.
+
+12 STATUTORY FRAMEWORK
+13 Clean Hands Waivers
+
+14 25. Pursuant to section 22.02.070(A) of the Zoning Code, the County will not process
+15 requests for or grant land use permits for properties whose existing land use is in violation of the
+16 Zoning Code (i.e., the County will only work with applicants with "clean hands"). However, Zoning
+17 Code section 22.02.070(B) authorizes the Director of Regional Planning, in their sole discretion, to
+18 permit a property owner to continue with an unpermitted land use and sanction the County's processing
+19 of the property owner's application (i.e., waive the "clean hands" requirement) when the Director
+20 determines the non-compliant use in question is (1) "consistent with the objectives, goals and policies
+21 of the General Plan," or (2) "essential or desirable to the public convenience or welfare." (Id.)
+22 California Environmental Quality Act
+23 26. CEQA applies to "discretionary projects proposed to be carried out or approved by
+24 public agencies." (PRC section 21080(a).)
+25 27. A "project" is activity requiring "the issuance to a person of a lease, permit, license,
+26 certificate, or other entitlement for use by one or more public agencies" (14 Cal. Code of Regs.
+27
+
+28
+
+-5-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+] (CCR"), § 15378(a)(1))' "which has a potential for resulting in either a direct physical change in the
+
+2 environment, or a reasonably foresceable indirect physical change in the environment...." (14 CCR §
+
+3 15378(a)).
+
+4 28. "Approving" a project means any "decision by a public agency which commits the
+
+5 agency to a definite course of action in regard to a project intended to be carried out by any person" and
+
+6 often occurs upon the "the issuance by the public agency of a discretionary contract, grant, subsidy,
+7 loan, or other form of financial assistance, lease, permit, license, certificate, or other entitlement for use
+
+8 of the project." (14 CCR § 15352.)
+
+9 29. CEQA is designed to inform the public and decision makers about the potential
+10 significant environmental effects of proposed projects before decisions to approve them are made. (See
+11 14 CCR § 15002(a)(1).) To that end, CEQA requires that public agencies conduct an environmental
+12 analysis, generally in the form of an environmental impact report, prior to approving a project. (See 14
+13 CCR § 15002(f).) Furthermore, CEQA requires public agencies avoid and reduce t project's significant
+14 environmental effects when "feasible" by requiring "environmentally superior" alternatives be
+15 implemented and all feasible mitigation measures be applied. (14 CCR § 15002(a)(2).)
+16 30. When a public agency fails to apply CEQA, conduct an environmental analysis of a
+17 project, and consequently "approve[s] a project that may have a significant effect on the environment
+18 without having determined whether the a project may have a significant effect on the environment[,l"
+19 that decision may be attacked, set aside, voided, or annulled on the grounds of noncompliance with
+20 CEQA. (PRC § 21167(a); see also PRC § 21168.5 [failure to proceed a in a manner required by law].)
+21 PRIVATE ATTORNEY GENERAL
+
+22 31. This proceeding involves enforcement of important rights affecting the public interest.
+23 Issuance of the relief requested in this Petition will confer a substantial benefit on the public, including
+24 citizens, residents, businesses and taxpayers of the County of Los Angeles, and will result in the
+25
+14 CCR 15000 et seq. are referred to herein as the "CEQA Guidelines." The CEQA Guidelines, 26 codified in Title 14 of the California Code of Regulations, section 150000 et seq, are regulatory
+27 guidelines promulgated by the state Natural Resources Agency for the implementation of CEQA. (PRC 21083.) The CEQA Guidelines are given "great weight in interpreting CEQA except when . clearly 28 unauthorized or erroneous." (Center for Biological Diversity v. Department of Fish & Wildlife (2015) 62 Cal. 4th 204, 217.)
+-6-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+enforcement of important public rights by requiring Respondents to comply with CEQA and other legal
+2 requirements applicable to the proposed Project and by voiding the clean hands waiver and prohibiting
+3 Real Parties in Interest from operating the Project in violation of the law until Respondents and Real
+
+4 Parties in Interest have complied with those legal requirements.
+
+5 32. Petitioner is entitled to recover attorneys' fees as provided in CCP section 1021.5 when
+
+6 it prevails in this action. The necessity and financial burden of enforcement of these public rights entitle
+7 Petitioner to an award of reasonable attorneys' fees pursuant to that section.
+
+8 STATEMENT OF FACTS
+
+9 33. On or about October 28, 2014, Bungee America requested Regional Planning grant a
+10 clean hands waiver permitting the continued operation of the unlawful Project while Regional Planning
+11 processed Bungee America's application for the long-outstanding permits and approvals necessary to
+12 legally operate the Project.
+13 34. On or about July 3, 2018, Regional Planning Director Amy Bodek, in a letter
+14 acknowledging that Bungee America does not have any land use permits for the Project and expressing
+15 some discomfort with granting Bungee America's clean hands waiver request, nevertheless determined
+16 without explanation that the project is "desirable to the public convenience" and granted Bungee
+17 America's requested clean hands waiver on condition that Bungee America comply with thirteen (13)
+18 conditions controlling the maintenance and operation of the Project, including conditions requiring
+19 maintenance of restroom facilities in accordance with public health code, the staffing of the Project Site
+20 with knowledgeable personnel during certain hours, and the acknowledgment of the potential future
+21 need to remove structures from the Project Site. The waiver was to expire on March 31, 2019.
+22 35. On or about April 8, 2019, Regional Planning granted six (6) month extension of the
+23 waiver to October 8, 2019, adding three (3) additional conditions to the waiver. Those conditions
+24 pay for Regional required Bungee America to establish a trust fund with Regional Planning to
+25 Planning's CEQA compliance efforts related to its processing of Bungee America's application for
+26 other land use entitlements, not for any purpose related to the clean hands waiver. The conditions also
+27 obligated Bungee America to develop and submit to Regional Planning an environmental analysis of
+28 the Project in the form of an "initial study" under CEQA.
+
+-7-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+36. On or about November 13, 2019, Regional Planning extended the waiver by six (6)
+
+2 months to April 9, 2020, this time adding two (2) new special conditions, including a condition which
+
+3 required the removal of zip lines and other infrastructure from the Project Site.
+
+4 37. On or about June 9, 2020, Regional Planning extended the clean hands waiver by six (6)
+
+5 months to November 11, 2020, adding three (3) new special conditions, including conditions requiring
+
+6 tracking and reporting of the Project's waste disposal methods.
+
+7 38. On February 3, 2021, Regional Planning extended the clean hands waiver by a full year,
+
+8 until February 4, 2022.
+
+9 39. Concurrent with Regional Planning's seemingly perpetual extension of Bungee
+10 America's clean hands waiver, Regional Planning is processing Bungee America's applications for
+11 land use entitlements. Part of that process includes subjecting the Project to an environmental analysis
+12 under CEQA, That analysis has yet to be released for public notice and comment. Respondents have
+13 made no formal or informal finding with respect to the applicability of CEQA to its approval of the
+14 Project through its grant and extension of a clean hands waiver, nor have Respondents made any CEQA
+15 findings with respect to the significance of the impacts resulting from approval of the Project through
+16 the clean hands waiver.
+
+17 CAUSE OF ACTION
+18 (Failure to Comply with CEQA; PRC § 21168.5; PRC § 21167(a)
+19 40. Petitioner hereby reallege and incorporate all the above paragraphs as if fully set forth
+20 herein.
+21 41. Respondents' decision to approve with conditions Bungee America's request for a clean
+22 hands waiver constituted a discretionary approval of a project under CEQA. Each and every subsequent
+23 decision to extend that waiver, including Respondents' February 3, 2021 extension decision, was also a
+24 discretionary project approval subject to CEQA.
+25 42. Respondents' failure to conduct any CEQA review prior to approving the Project
+26 constituted a prejudicial abuse of discretion for failure to proceed in a manner required by law. (PRC §
+27 21168.5.)
+28
+
+-8-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+43. Accordingly, the clean hand waiver issued by Respondents to Bungee America must be
+2 vacated and set aside.
+
+3 PRAYER FOR RELIEF
+
+4 WHEREFORE, Petitioner pray for judgment as set forth below:
+
+5 A. For a writ of mandate commanding Respondents to vacate and withdraw the clean hands
+
+6 waiver for the Project, and to require Respondents to complete the CEQA environmental review and
+7 public comment processes as required by law prior to reissuing a clean hands waiver or any other approval
+8 of the Project;
+
+9 B. For a temporary stay, temporary restraining order, and preliminary and permanent
+10 injunctions enjoining Respondents and Real Parties in Interest, and their agents, employees, officers or
+11 representatives, and all persons acting in concert or participating with Real Parties in Interest from taking
+12 any action to operate or implement the Project, unless and until Respondents fully comply with CEQA;
+13 C. a For a declaration of the rights and duties of the parties hereto, including but not limited
+14 to a declaratory judgment that Respondents violated their duty pursuant CEQA and that the clean hands
+15 waiver is null and void and without legal effect;
+16 D. For Petitioner's fees and costs, including reasonable attorneys' fees and costs, as
+17 authorized by California Code of Civil Procedure section 1021.5 and any other applicable provisions of
+18 law; and
+
+19 E. For such other relief as this Court deems appropriate and just.
+20
+
+21 DATED: July 30, 2021 MITCHELL M. TSAI, ATTORNEY AT LAW
+
+22
+
+23 By: MitU 2 24 MITCHELL M. TSAI
+Attorneys for SAVE THE
+25 EAST FORK ASSOCIATION
+
+26
+
+27
+
+28
+
+-9-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT
+
+DECEIVEN
+AUG 0 4 2021
+BY: __________._.
+
+:C Wd 3 9nV 1(203
+NarP A 0S1IN

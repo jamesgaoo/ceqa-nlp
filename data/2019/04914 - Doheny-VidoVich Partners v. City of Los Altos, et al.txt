@@ -1,0 +1,992 @@
+TIFFANY K. WRIGHT, SBN 210060
+
+2 NATHAN O. GEORGE, SBN 303707
+REMY MOOSE MANLEY, LLP
+3 555 Capitol Mall, Suite 800
+Sacramento, CA 95814
+4 Telephone: (916) 443-2745
+Facsimile: (916) 443-9017
+5 Email: twright@rmmenvirolaw.com
+
+6 ngeorge@rmmenvirolaw.com
+
+Attorneys for Petitioner/Plaintiff
+| DOHENY-VIDOVICH PARTNERS,
+8 a California General Partnership
+
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+11 COUNTY OF SANTA CLARA
+
+12 DOHENY-VIDOVICH PARTNERS, a Case No. 19CV359702
+
+13 California General Partnership, NOTICE TO ATTORNEY GENERAL
+
+14 Petitioner and Plaintiff, [Public Resources Code § 21167.7 and Code of
+V. Civil Procedure 388]
+15
+CITY OF LOS ALTOS, a California general law ACTION BASED ON CALIFORNIA
+16 municipality; CITY OF LOS ALTOS CITY ENVIRONMENTAL QUALITY ACT
+
+17 COUNCIL, a governing body; CITY OF LOS
+ALTOS PLANNING AND TRANSPORTATION Petition filed: December 4, 2019
+18 COMMISSION, a public body; CITY OF LOS
+ALTOS COMMUNITY DEVELOPMENT
+19 DEPARTMENT, a division of the CITY OF LOS
+
+20 ALTOS; and DOES 1 through 10, inclusive,
+
+21 Respondents and Defendants;
+
+22 LOLA, LLC; Jeff Taylor, an individual; and
+ROES 1 through 10, inclusive,
+23
+Real Parties in Interest. 24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL
+
+TO THE ATTORNEY GENERAL OF THE STATE OF CALIFORNIA:
+
+2 OFFICE OF THE ATTORNEY GENERAL
+
+3 1300 "T" STREET, SACRAMENTO, CA 95814
+
+PLEASE TAKE NOTICE that, pursuant to Public Resources Code section 21167.7 and Code of
+Civil Procedure section 388, on December 4, 2019, Petitioner and Plaintiff DOHENY-VIDOVICH
+6 PARTNERS (Petitioner) filed a petition for writ of mandate (Petition) under the provisions of the
+
+8 California Environmental Quality Act (CEQA) against the City of Los Altos (City). The Petition was
+filed in the Santa Clara County Superior Court and alleges, inter alia, that the City improperly
+9 approved the construction of a rooftop diesel generator at 4880 El Camino Real (Project) without
+10 necessary planning and environmental review, and without complying with CEQA. A true and correct
+11 copy of the petition is attached hereto as Exhibit A.
+12
+
+13 Dated: December 10, 2019
+
+14 REMY MOOSE MANLEY, LLP
+
+15 By:
+
+16 TIFFANY K. WRIGHT
+
+17 NATHAN O. GEORGE
+Attorneys for Petitioner/Plaintiff
+
+18 DOHENY-VIDOVICH PARTNERS,
+a California General Partnership
+
+19
+
+20
+Y 22
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+2
+NOTICE TO ATTORNEY GENERAL
+
+EXHIBIT A
+
+TIFFANY K. WRIGHT, SBN 210060
+
+2 NATHAN O. GEORGE, SBN 303707
+REMY MOOSE MANLEY, LLP
+3 555 Capitol Mall, Suite 800
+Sacramento, CA 95814
+4 Telephone: (916) 443-2745
+Facsimile: (916) 443-9017
+5 Email: twright@rmmenvirolaw.com
+ngeorge@rmmenvirolaw.com
+Attorneys for Petitioner/Plaintiff
+DOHENY-VIDOVICH PARTNERS,
+8 a California General Partnership
+
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+11 COUNTY OF SANTA CLARA
+
+12 DOHENY-VIDOVICH PARTNERS, a Case No.:
+
+13 California General Partnership,
+VERIFIED PETITION FOR WRIT OF
+
+14 Petitioner and Plaintiff, MANDATE AND COMPLAINT FOR
+V. INJUNCTIVE AND DECLARATORY
+15 RELIEF
+CITY OF LOS ALTOS, a California general law
+16 municipality; CITY OF LOS ALTOS CITY ACTION BASED ON CALIFORNIA
+
+17 COUNCIL, a governing body; CITY OF LOS ENVIRONMENTAL QUALITY ACT
+ALTOS PLANNING AND TRANSPORTATION
+
+18 COMMISSION, a public body; CITY OF LOS Code of Civil Procedure Section 1085 and
+ALTOS COMMUNITY DEVELOPMENT 1094.5; California Environmental Quality Act
+19 DEPARTMENT, a division of the CITY OF LOS (CEQA) (Public Resources Code Section
+21000 et seq.) 20 ALTOS; and DOES through 10, inclusive,
+
+21 Respondents and Defendants;
+
+22 LOLA, LLC; Jeff Taylor, an individual; and
+ROES through 10, inclusive,
+23
+
+24 Real Parties in Interest.
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND
+COMPLAINT FOR INJUNCTIVE AND DECLARATORY RELIEF
+
+Petitioner and Plaintiff DOHENY-VIDOVICH PARTNERS, a California General Partnership,
+
+2 alleges as follows:
+INTRODUCTION
+
+1. Through this action, Petitioner and Plaintiff DOHENY-VIDOVICH PARTNERS, a
+5 California General Partnership (Petitioner), seeks declaratory and injunctive relief, as well as
+6 alternative and peremptory writs of mandate commanding Respondents and Defendants CITY OF LOS
+7 ALTOS, a California general law municipality; CITY COUNCIL OF THE CITY OF LOS ALTOS, a
+8 governing body; CITY OF LOS ALTOS PLANNING AND TRANSPORTATION COMMISSION, a
+public body; CITY OF LOS ALTOS COMMUNITY DEVELOPMENT DEPARTMENT, a division of
+10 the CITY OF LOS ALTOS (collectively, the City) to enforce the Los Altos Municipal Code (City
+11 Code), and the conditions of approval placed on Use Permit No. 2016-UP-02 (Conditions of Approval),
+12 applied for by Real Parties in Interest Jeff Taylor (Applicant) and LOLA, LLC (LOLA) (collectively,
+13 Real Parties). Petitioner also seeks declaratory and injunctive relief and alternative and peremptory
+14 writs of mandate commanding the City to rescind its underground approval of substantive project
+15 changes to Use Permit No. 2016-UP-02 and Building Permit No. 2016-667756 in violation of the City
+16 Code, the Conditions of Approval, and the California Environmental Quality Act (Public Resources
+17 Code section 21000 et seq.) (CEQA).
+
+18 2. Petitioner is informed and believes, and based thereon alleges that the City, through the
+19 Community Development Department, has approved substantive project changes to Use Permit No.
+20 2016-UP-02, Building Permit No. 2016-667756, and the development plans originally approved by the
+21 City Council on September 13, 2016 for Real Parties' multi-family residential development located at
+22 4880 El Camino Real, in the City of Los Altos (Project). Specifically, the City recently permitted
+23| LOLA to construct a diesel-powered, backup generator on the roof of the Project without the review
+24 and mitigation required by the Conditions of Approval, even though the City's 2016 approval
+25 documents admit that diesel generators are sources of air pollution, including Toxic Air Contaminants
+26 (TACs) and noise, both of which would impact adjacent sensitive receptors. In fact, the City's noise
+27 and air quality studies specifically found that the Project would not have significant air quality and
+28 noise impacts because the Project would not include a generator.
+2
+VERIFIED PETITION FOR WRIT OF MANDATE AND
+•COMPLAINT FOR INJUNCTIVE AND DECLARATORY RELIEF
+
+3. The Conditions of Approval require that substantive project changes be presented to the
+2 City through a formal amendment to the Project application with review by the Planning and
+Transportation Commission and City Council. The Conditions of Approval also require final project
+4 design to incorporate, and for Real Parties to implement all mitigation for noise and air quality impacts
+recommended in the air quality and noise studies performed for the Project. By adding the rooftop
+
+6 diesel generator long after the City's approval of the final project design, and without formally
+7| amending the application for Planning and Transportation Commission and City Council review, Real
+8 Parties are in violation of the Conditions of Approval. /
+
+9 4. Moreover, "[t]he lack of public notice that the agency had authorized these substantial
+10 changes compromise the goal of public participation in the environmental review process." (Concerned
+11 Citizens of Costa Mesa, Inc. V. 32nd Dist. Agricultural Assn. (1986) 42 Cal.3d 929, 938.) The City's
+12 underground approval of the rooftop diesel generator, after specifically concluding that the Project
+13 would not have operational impacts due to the absence of a generator, constituted a prejudicial abuse of
+14 discretion and a violation of CEQA.
+
+15 5. The City has a ministerial duty to enforce the Conditions of Approval, and the authority
+16 to stop construction of the Project and require Real Parties to correct the violations, including removal
+17 of the rooftop diesel generator. The City must exercise its authority and enforce the Conditions of
+18 Approval by requiring Real Parties to remove the generator and formally amend the Project application
+19 so that the admitted adverse environmental impacts of the generator can be adequately studied and
+20 mitigated, before review by the Planning and Transportation Commission and City Council.
+
+21 6. Petitioner respectfully seeks a writ of mandate commanding the City to vacate and set
+22 aside the underground approval of the rooftop generator; remove the generator and related
+23 infrastructure from the roof of the Project; and enforce the Conditions of Approval on Real Parties for
+24 this and any other change to the approved development plans.
+
+25 7. Petitioner also seeks a declaration that the City's underground approval of substantive
+26| project changes in the form of the rooftop diesel generator, without requiring compliance with the
+27 Conditions of Approval, violated the rights of Petitioner and the Public, as enshrined in the City Code
+28 and the Planning and Zoning law.
+3
+VERIFIED PETITION FOR WRIT OF MANDATE AND
+COMPLAINT FOR INJUNCTIVE AND DECLARATORY RELIEF
+
+8. Lastly, Petitioner prays for appropriate injunctive relief to prevent the City and/or Real
+2 Parties from taking further action to implement or proceed with the Project or make additional
+3 substantive project changes during the pendency of this litigation and prior to complying with the
+4 Conditions of Approval, City Code, and CEQA.
+
+PARTIES
+
+6 9. Petitioner and Plaintiff DOHENY-VIDOVICH PARTNERS, is a partnership organized
+and existing under the laws of the Sate of California, and is the owner of real property located
+8 immediately adjacent to the Project. Petitioner's property is currently improved with a single-family
+9 residence at 856 Jordan Avenue and a Jack in the Box restaurant at a 4896 El Camino Real in the City of
+10 Los Altos. The health and safety of Petitioner and its tenants and customers, who live and work within
+11 the Project area, will be directly affected by the substantive project changes, which will cause
+12 significant adverse impacts, including air quality and noise impacts. The health and safety of Petitioner,
+13 its tenants, and customers will therefore be significantly impacted by the air quality and noise impacts
+14 of these substantive project changes, including the lack of adequate mitigation required by the
+15 Conditions of Approval. As members of the public, moreover, Petitioner, its tenants and customers
+16 possess an interest in protecting public resources present in the area, including air quality. The interests
+17 of Petitioner will be directly impacted by the substantive project changes. Petitioner is suing on its
+18 behalf, and on behalf of those similarly situated who will be adversely affected by the rooftop diesel
+19 generator in the Project area, as well as for citizens more broadly, including those who seek to maintain
+20 the integrity and fairness of the environmental review and land use entitlement process.
+21 10. Respondent CITY OF LOS ALTOS is a municipality governed by the laws of the State
+22 of California and is a political subdivision thereof, located in the County of Santa Clara.
+23 11. Respondent CITY COUNCIL OF THE CITY OF LOS ALTOS is the elected governing
+24 body of the City, and is the body ultimately responsible for the actions at issue herein.
+25 12. Respondent CITY OF LOS ALTOS PLANNING AND TRANSPORTATION
+26 COMMISSION is a government body appointed to review and make recommendations on planning
+27 and transportation actions, including those at issue herein.
+28
+
+4
+VERIFIED PETITION FOR WRIT OF MANDATE AND
+COMPLAINT FOR INJUNCTIVE AND DECLARATORY RELIEF
+
+13. Respondent CITY OF LOS ALTOS COMMUNITY DEVELOPMENT DEPARTMENT
+2 is a division of the City responsible for the processing and review of development, planning, and
+3 permitting decisions made by the City, including those at issue herein.
+
+4 14. Petitioner is informed and believes, and based thereon alleges that Real Party in Interest
+5 LOLA, LLC is and at all times relevant herein was, a limited liability company authorized by and
+6 existing under the laws of the State of California.
+
+7 15. Real Party in Interest Jeff Taylor is an individual and is listed as the Applicant on the
+8 Project application.
+
+16. The true names and capacities, corporate, associate, or otherwise, of Respondents named
+10 as DOES 1 through 10, inclusive, are unknown to Petitioner who, therefore, sues said Respondents by
+11 fictitious names. Petitioner will amend this Petition to allege their true names and capacities when the
+12 same has been ascertained.
+
+13 17. The true names and capacities, corporate, associate, or otherwise, of Real Parties in
+14 Interest named as ROES 1 through 10, inclusive, are unknown to Petitioner who, therefore, sues said
+15 Real Parties in Interest by fictitious names. Petitioner will amend this Petition to allege their true names
+16 and capacities when the same has been ascertained.
+
+17 JURISDICTION AND VENUE
+
+18 18. This Petition is brought pursuant to sections 526, 1085 and 1094.5 of the Code of Civil
+19 Procedure; and Public Resources Code sections 21168, 21168.5, and 21168.9. This court has
+20 jurisdiction over this action pursuant to the above provisions and because each of the Respondents and
+21 Real Parties named in this litigation are present and operating within the jurisdictional limits of the
+22 County of Santa Clara.
+23 19. Venue is proper in this court under sections 393 and 395 of the Code of Civil Procedure
+24 because all of the acts and omissions complained of in this litigation took place within this judicial
+25 district.
+26 ///
+
+27
+
+28
+
+5
+VERIFIED PETITION FOR WRIT OF MANDATE AND
+COMPLAINT FOR INJUNCTIVE AND DECLARATORY RELIEF
+
+STANDING
+
+2 20. Petitioner has a direct and substantial beneficial interest in the City's full and complete
+3 compliance with the City Code, CEQA, and all other applicable laws, in approving the Project and all
+4 substantive changes thereto, including the construction of the rooftop generator at issue in this petition.
+21. The City has a mandatory and ministerial duty to enforce the Conditions of Approval on
+6 LOLA for the benefit of the public.
+
+22. Petitioner has the right to enforce the public right and the duties that the City Code,
+8 Planning and Zoning law, and CEQA impose on the City.
+
+23. Petitioner has no plain, speedy, and adequate remedy in the ordinary course of law, and
+10 will suffer irreparable injury unless this court issues the requested relief.
+11 EXHAUSTION
+
+12 24. Due to the underground nature of the City's approval of the substantive project changes,
+13| there was no meaningful opportunity for members of the public to raise objections either orally or in
+14 writing prior to the City's approval of the rooftop diesel generator without compliance with the
+15 Conditions of Approval. Nor did the City give any notice to the public or affected adjacent landowners,
+16 including Petitioner, that it would be considering substantive project changes. Under such
+17 circumstances the exhaustion doctrine does not apply. (Endangered Habitats League, Inc. v. State
+18 Water Resources Control Bd. (1997) 63 Cal.App.4th 227, 239-241.)
+19 25. Petitioner has informed the City in writing of Real Parties' violations of the Conditions
+20| of Approval, the City's ministerial duty to enforce the Conditions of Approval, and the City's duty to
+21 comply with the City Code, Planning and Zoning law, and CEQA.
+22 26. The grounds for noncompliance with CEQA alleged in this Petition are consistent with
+23 the written notice provided to the City by Petitioner.
+24 27. To the extent provided by the City, Petitioner has exhausted its administrative remedies.
+25 GENERAL ALLEGATIONS
+
+26 28. On May 19, 2016 the Planning and Transportation Commission considered and
+27 recommended that the City Council approve the Project, including design review, subdivision and Use
+28
+
+6
+VERIFIED PETITION FOR WRIT OF MANDATE AND
+COMPLAINT FOR INJUNCTIVE AND DECLARATORY RELIEF
+
+Permit 2016-UP-02. The Commission also recommended that the City Council find the Project exempt
+2 from CEQA as infill development that would not have any significant environmental effects related to
+
+3 traffic, noise, air or water quality, and where the site is adequately served by all required utilities and
+
+4 public services, pursuant to California Code of Regulations, title 14, division 6, chapter 3 (CEQA
+Guidelines) section 15332.
+
+6 29. To support the exemption finding, the City and/or Real Parties hired consultants to study
+the Project's potential effects on traffic, noise, and air quality. These studies were based on the Project
+8 proposed to the City in early 2016 and include an Air Quality & Greenhouse Gas Emissions
+9 Assessment prepared by Illingworth & Rodkin, Inc. dated March 18, 2016 (Air Quality Study) and a
+10 Noise Study prepared by Wilson Ihrig, dated March 2, 2016 (Noise Study). Both studies concluded that
+11 the Project would have potentially significant environmental effects and proposed mitigation measures
+12| to reduce the air quality and noise impacts to less than significant levels.
+13 30. The Air Quality Study concluded that Project operations would not have significant air
+14 quality impacts because the Project would not include "[s]tationary sources of air pollution (e.g., back-
+15 up generators)." The Air Quality Study went on to conclude that "[o]peration of the project is not
+16 expected to cause any localized emissions that could expose sensitive receptors to unhealthy air
+17 pollution levels. No stationary sources of TACs, such as generators, are proposed as part of the
+18 project." The Air Quality Study also acknowledged that Petitioner's tenants at 845 Jordan Avenue are
+19 sensitive receptors and that the Project would add new sensitive receptors to the area. The Air Quality
+20 Study only proposed air quality mitigation for Project residents.
+21 31. The Noise Study did not consider a rooftop diesel generator as a potential source of
+22 Project operational noise and concluded that "current plans indicate that mechanical equipment will be
+23 located in a room at the Garage Level, which will contain most of the noise....*" The Noise Study also
+24 recommended that "[d]uring detailed design of the project, noise mitigation measures will be employed
+25 as necessary to ensure compliance with" the City's noise ordinance.
+
+26 32. Implementation of the mitigation measures proposed in the Air Quality and Noise
+27 Studies was required in conditions 28 and 29 respectively.
+
+28
+7
+VERIFIED PETITION FOR WRIT OF MANDATE AND
+COMPLAINT FOR INJUNCTIVE AND DECLARATORY RELIEF
+
+33. Development plans dated April 22, 2016 depicted the Project as having mechanical
+2 equipment room in the basement and approximately 2,010 square feet of roof area that would be
+
+3 "prewired" for solar photovoltaic panels.
+
+4 34. Development plans dated August 12, 2016 depict the Project as having backup batteries
+5 in the basement in addition to the mechanical equipment room.
+35. Neither the April 22, 2016 plans nor the August 12, 2016 plans suggest that a generator
+of any type would be included at any location on the Project site.
+
+8 36. On September 13, 2016 the City County adopted the recommendations of the Planning
+
+9 and Transportation Commission and approved the Project, subject to the Conditions of Approval, and
+10 found it exempt under CEQA Guidelines section 15332.
+
+11 37. The adopted Conditions of Approval, in addition to requiring implementation of the
+12 recommended mitigation measures for noise and air quality impacts, include two conditions that are
+13 particularly relevant to the issues here. First, condition 1 states that "[t]he project approval is based on
+14 the plans received on August 12, 2016, except as modified by these conditions." Second, condition 9
+15 states that "It]he Planning and Transportation Commission may approve minor changes to the
+16 development plans. Substantive project changes require a formal amendment of the application with
+17 review by the Planning and Transportation Commission and City Council."
+
+18 38. On or about August 22, 2017, the City Council adopted the Planning and Transportation
+19 Commission's recommendation to approve a height waiver for the Project's elevator tower.
+20 39. On or about January 9, 2018, the Building Department (a subdivision of the Community
+21 Development Department) issued Building Permit No. 2016-667756.
+
+22 40. Petitioner is informed and believes, and based thereon alleges that the Community
+23 Development Department has approved multiple revisions to the development plans, but, with the
+24 exception of the height waiver, the Planning and Transportation Commission and City Council have not
+25 reviewed any of those changes, including the substantive project changes at issue in this petition.
+26 41. Petitioner is informed and believes, and based thereon alleges that Real Parties have not
+27 formally amended the Project application for review by the Planning and Transportation Commission
+28 and City County to substantively change the Project by adding the rooftop diesel generator.
+8
+VERIFIED PETITION FOR WRIT OF MANDATE AND
+COMPLAINT FOR INJUNCTIVE AND DECLARATORY RELIEF
+
+42. Petitioner is informed and believes, and based thereon alleges that the Community
+2 Development Department approved changes to the development plans adding the rooftop diesel
+3 generator without requiring review by the Planning and Transportation Commission or formal
+4 amendment of the application with review by the Planning and Transportation Commission and City
+Council.
+
+43. By a letter dated November 7, 2019 (attached hereto as Exhibit A) Petitioner appealed
+the City's underground approval of the rooftop diesel generator and the City's failure to enforce the
+8 Conditions of Approval to the City Council pursuant to Los Altos Municipal Code section 1.12.010 to
+
+9 ensure that the City Council has the opportunity to consider these issues.
+
+10 44. Petitioner's November 7, 2019 letter informed the City of the basis for Petitioner's
+11 appeal and provided the City with the opportunity to redress the harms created by the substantive
+12| project changes and the City's failure to enforce the Conditions of Approval.
+13 45. Petitioner has performed all conditions imposed by law precedent to filing this action,
+14 including complying with the requirement of Public Resources Code section 21167.5 by providing
+15 notice to the City that this action would be filed, a copy of which is attached hereto as Exhibit B.
+
+16 46. Petitioner will also serve a copy of this Petition on the California Attorney General as
+17 required by Public Resources Code section 21167.7.
+
+18 47. Petitioner as well as members of the general public will suffer irreparable harm if the
+19 relief requested herein is not granted and the substantive project changes embodied in the rooftop diesel
+20 generator are permitted without the necessary planning and environmental review and mitigation as set
+21 forth in the Conditions of Approval and required by law.
+
+22 48. Petitioner hereby and by a separate election notifies the City that Petitioner elects to
+23 prepare the record of proceedings relevant to the substantive project changes to the Project and the
+24 resulting unstudied significant environmental impacts in compliance with Public Resources Code
+25 section 21167.6, subdivision (b)(2). A copy of such notice is filed concurrently with this Petition.
+26  ///
+
+27
+
+28
+
+9
+VERIFIED PETITION FOR WRIT OF MANDATE AND
+COMPLAINT FOR INJUNCTIVE AND DECLARATORY RELIEF
+
+FIRST CAUSE OF ACTION
+
+2 (Mandamus under Code of Civil Procedure Section 1085 and Request for Declaratory Relief under Code of Civil Procedure Section 1060: Violation of Mandatory and Ministerial Duty to Enforce the Conditions of Approval)
+
+4 49. Petitioner hereby re-alleges and incorporates all previous paragraphs as if fully set forth
+5 herein.
+
+6 50. Code of Civil Procedure section 1085 grants this court the authority to issue a writ to the
+7 City compelling performance of e mandatory and ministerial duty.
+8 51. Los Altos Municipal Code section 14.80.010 requires the City, when approving a
+conditional use, to consider the "general public interest and the interests of persons residing or working
+10| in the vicinity of the use" in setting the conditions of that use. The Conditions of Approval, including
+11 those at issue in this Petition, were placed on the Project for the public benefit, including the benefit of
+12 those that reside and work in the vicinity of the Project, which includes Petitioner, and its tenants and
+13 customers.
+
+14 52. The Conditions of Approval at issue here are unambiguous.
+15 a. Condition 1 ties project approval to the specific development plans provided to
+16 the City on August 12, 2016 "except as modified by these conditions."
+17 b. Condition 9 allows minor changes to the development plans to be approved by
+18 the Planning and Transportation Commission, but requires that the project
+19 application be formally amended with review by the Planning and Transportation
+20 Commission and City Council for any substantive project changes.
+21 C. Condition 28 requires Real Parties to "implement and incorporate the air quality
+22 mitigation into the plans as required by staff in accordance with the" Air Quality
+23 Study.
+
+24 d. Condition 29 requires Real Parties to "implement and incorporate the noise
+25 mitigation into the plans as required by staff in accordance with the" Noise
+
+26 Study.
+
+27 53. The City "has no discretion but rather a ministerial duty to enforce the condition[s]."
+28 (Terminal Plaza Corp. v. City and County of San Francisco (1986) 186 Cal.App.3d 814, 830.)
+10
+VERIFIED PETITION FOR WRIT OF MANDATE AND
+COMPLAINT FOR INJUNCTIVE AND DECLARATORY RELIEF
+
+54. The City has not enforced conditions 9 and 9 as the Community Development
+2 Department has approved substantive project changes without following the process required for the
+revicw of such changes in the Conditions of Approval.
+
+55. The City has not enforced conditions 28 and 29 as the Air Quality and Noise Studies
+5 acknowledged that a generator would have air quality and noise impacts and, in approving the rooftop
+6 diesel generator without required review, the City has allowed those impacts to go unmitigated.
+56. The City's failure to enforce the Conditions of Approval constitute a violation of its
+
+8 mandatory and ministerial duty to do so.
+SECOND CAUSE OF ACTION
+
+10 (Violations of CEQA and Request for Declaratory Relief under Code of Civil Procedure section 1060: Failure to Accurately Describe the Project, Analyze
+11 Admitted Significant Adverse Impacts, and Adopt Feasible Mitigation Measures)
+12 57. Petitioner hereby re-alleges and incorporates all previous paragraphs as if fully set forth
+13 herein.
+
+14 a. The addition of the rooftop generator shifts the Project description, making it
+15 inaccurate.
+
+16 58. A "project" is "an activity which may cause either a direct physical change in the
+17 environment, or a reasonably foreseeable indirect physical change in the environment." (Pub.
+18 Resources Code, § 21065.) A "project" includes "the whole of an action." (Guidelines, § 15378, subd.
+19| (a).)
+20 59. Without an accurate description of the Project, the public and decision-makers cannot
+21 "balance the proposal's benefit against its environmental costs...." (County of Inyo v. City of Los
+22 Angeles (1977) 71 Cal.App.3d 185, 192.)
+23 60. The Project described in the application and development plans that was approved by
+24 the City Council did not include a generator on the roof or anywhere on the site.
+25 61. Based on the August 12, 2016 description of the Project, the City Council concluded that
+26 the Project was categorically exempt from CEQA under CEQA Guidelines section 15332.
+27 62. The Noise and Air Quality Studies both concluded that the Project would not have
+28 significant operational impacts because the Project would not include a generator. The Air Quality
+11
+VERIFIED PETITION FOR WRIT OF MANDATE AND
+COMPLAINT FOR INJUNCTIVE AND DECLARATORY RELIEF
+
+Study specifically identified a generator as a source of air pollution and TACs which could impact
+2 sensitive receptors adjacent to and within the Project, and concluded that the absence of a generator
+3 mcant the Project would not have operational air quality impacts.
+
+4 63. Adding the rooftop generator substantively changes the Project and adds new, unstudied,
+5 and unmitigated environmental impacts and negates the conclusions in the Air Quality and Noise
+6 Studies, as well as the City Council's determination that the Project is exempt from CEQA.
+
+64. The City's failure to analyze the substantive change in the scope of the Project
+8 I constitutes prejudicial abuse of discretion.
+
+9 b. The City failed to adequately analyze the impacts of the rooftop generator.
+10 65. The City must compare the Project, including the substantive project changes made by
+11 LOLA, "with what will happen if the site is left alone." (Woodward Park Homeowners Assn., Inc. V.
+12 City of Fresno (2007) 150 Cal.App.4th 683, 707.)
+
+13 66. The Community Development Department's underground approval of the rooftop
+14 generator, without the required formal application amendment with review by the Planning and
+15 Transportation Commission and City Council, violated CEQA's mandate that the City evaluate the
+16 rooftop diesel generator's admitted environmental impacts.
+17 67. No such evaluation took place with respect to the admitted significant environmental
+18 effects of the rooftop generator. This failure constitutes a prejudicial abuse of discretion.
+19 c. The City failed to adopt feasible mitigation measures for the rooftop generator.
+20 68. CEQA requires the City to adopt all feasible mitigation measures that can substantially
+21 lessen the Project's significant impacts, and the City must ensure that these measures are "fully
+22 enforceable" through permit conditions, agreements, or other legally binding instruments. (Pub.
+23 Resources Code, § 21002; Guidelines §§ 15002, subd. (a)(3), 15126.4, subd. (a)(2); City of Marina v.
+24| Bd. of Trustees of Cal. State Univ. (2006) 39 Cal.4th 341, 359, 368-369.)
+
+25 69. The requirement of enforceability ensures "that feasible mitigation measures will
+26 actually be implemented as conditions of development, and not merely adopted and then neglected or
+27 disregarded." (Federation of Hillside and Canyon Associations v. City of Los Angeles (2000) 83
+28 Cal.App.4th 1252, 1261, italics omitted.)
+12
+VERIFIED PETITION FOR WRIT OF MANDATE AND
+COMPLAINT FOR INJUNCTIVE AND DECLARATORY RELIEF
+
+70. The City's failure to consider or adopt feasible, enforceable mitigation for the admitted
+2 significant impacts of the rooftop generator constitutes prejudicial abuse of discretion and violates
+
+3 CEQA.
+
+4 d. The City cannot mitigate its way into another exemption.
+
+5 71. "[A]n activity that may have a significant effect on the environment cannot be
+6 categorically exempt." (Mountain Lion Foundation v. Fish & Game Com. (1997) 16 Cal.4th 105, 124.)
+
+7 72. The City cannot, as it did in 2016, rely on mitigation measures to find the substantively
+8 changed Project exempt from CEQA. (Salmon Protection & Watershed Network v. County of Marin
+9 (2004) 125 Cal.App.4th 1098, 1107.)
+
+10 73. The City must study the adverse environmental effects of the substantively changed
+11 Project, first through an initial study before determining whether to proceed with an Environmental
+12 Impact Report or other CEQA review document. Anything less would be a failure to "afford the fullest
+13 possible protection to the environment...." (See Union of Medical Marijuana Patients, Inc. v. City of
+14 San Diego (2019) 7 Cal.5th 1171, 1184.)
+
+15 e. The generator itself qualifies as a "project" for the purposes of CEQA.
+
+16 74. Placing the backup diesel generator on the roof of the Project is itself "an activity which
+17| may cause a direct physical change in the environment, or a reasonably foreseeable indirect physical
+18 change in the environment...."* (Pub. Resources Code, § 21065; see also Muzzy Ranch Co. v. Solano
+19 County Airport Land Use Com. (2007) 41 Cal.4th 372, 382 ["Whether an activity is a project is an issue
+20|| of law...".)
+
+21 75. The City, by adopting the conclusions of the Air Quality Study, has admitted that
+22 generators, including the rooftop diesel generator at issue here, are sources of air pollution and TACs.
+
+23 76. The activity of adding a rooftop diesel generator is one which "involves the issuance to a
+24 person of a lease, permit, license, certificate, or other entitlement for use by one or more public
+25 agencies." (Pub. Resources Code, § 21065, subd. (c).)
+
+26 77. The Community Development Department approved the rooftop diesel generator.
+
+27 78. Whether analyzed as a component of the Project or on its own, the rooftop generator
+28 requires CEQA review, mitigation, and public disclosure of any decision approving the generator and
+13
+VERIFIED PETITION FOR WRIT OF MANDATE AND
+COMPLAINT FOR INJUNCTIVE AND DECLARATORY RELIEF
+
+the environmental consequences of that decision. The City's failure to comply with the requirements of
+2 CEQA constitutes a prejudicial abuse of discretion.
+
+3 PRAYER FOR RELEIF
+
+4 WHEREFORE, Petitioner prays for judgment as follows:
+
+5 1. That the court issue alternative and peremptory writs of mandate commanding the City
+6 to:
+a. Set aside and vacate the Community Development Department's underground
+8 approval of the rooftop generator;
+b. Remove the rooftop generator and related infrastructure pending compliance 101 with the Conditions of Approval and CEQA;
+11 C. Enforce the Conditions of Approval on Real Parties, and comply with CEQA, in
+12 any future proposed change to the Project; including any proposal to add a
+13 rooftop generator;
+
+14 2. For a judicial determination and declaration that Respondents underground approval of
+15 the rooftop diesel generator are void, and without force and effect, and that Respondents must comply
+16 with the law and enforce the Conditions of Approval;
+17 3. For temporary stay, temporary restraining order, and preliminary or permanent
+18| injunction or other order enjoining Respondents and Real Parties from all work on the Project related to
+19 the installation and operation of the rooftop diesel generator, pending compliance with the Conditions
+20 of Approval and CEQA;
+
+21 4. For Petitioner's costs of suit;
+22 // /
+23 ///
+
+24
+
+25
+
+26
+
+27
+
+28
+14
+VERIFIED PETITION FOR WRIT OF MANDATE AND
+COMPLAINT FOR INJUNCTIVE AND DECLARATORY RELIEF
+
+5. For an award of reasonable attorneys' fees, including, but not limited to, feés authorized
+2 under Code of Civil Procedure section 1021.5 and 1032 and under Government Code section 800; and
+3 6, For such other and further relief as the Court finds just and proper.
+
+4 Respectfully submitted,
+5 Dated: December 4, 2019 REMY MOOSE MANLEY, LLP
+
+6
+
+7 By: BPO
+TIFFANY K. WRIGHT
+8 NATHAN O. GEORGE
+Attorneys for Petitioner/Plaintiff
+DOHENY-VIDOVICH PARTNERS,
+10 a California General Partnership
+
+11
+12
+
+13
+14
+
+15
+
+16.
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+15
+VERIFIED PETITION FOR WRIT OF MANDATE AND
+COMPLAINT FOR INJUNCTIVE AND DECLARATORY RELIEF
+
+1
+
+2 VERIFICATION
+
+I, Nathan O. George, am an Associate at Remy Moose Manley, LLP, attorneys of record for
+
+4 Petitioner and Plaintiff Doheny-Vidovich Partners in this action. I have read the Verified Petition for
+Writ of Mandate and Complaint for Injunctive and Declaratory Relief, and am familiar with the
+5 contents thereof. I am informed and believ( and based thereon allege that the matters stated therein are
+6 true. This verification was not signed by a party to this action because, at the time the Verified Petition
+7 for Writ of Mandate and Complaint for Injunctive and Declaratory Relief was drafted and ready for
+8 filing, Petitioner and Plaintiff was absent from the county where I have my office.
+
+10 Executed on December 4, 2019 at Sacramento, California.
+
+11
+
+12 PA Nathan O. George
+
+13.
+
+14 ~
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+16
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE AND DECLARATORY RELIEF
+
+EXHIBIT A
+
+RMM
+
+REMY SE MANLEY
+LI.P
+
+Tiffany K. Wright
+twright@rmmenvirolaw.com
+November 7, 2019
+
+Via U.S. Mail and Email
+jbiggs@losaltosca.gov
+jmaginot@losaltosca.gov christopher.diaz@bbklaw.com
+
+Jon Biggs
+City of Los Altos,
+Community Development Director Jon Maginot City of Los Altos, Deputy City Manager Los Altos City Hall
+1 North San Antonio Road
+Los Altos, CA 94022
+
+Christopher Diaz, Esq.
+City of Los Altos, City Attorney BEST BEST & KRIEGER, LLP
+2001 North Main Street, Suite 390
+Walnut Creek, CA 94596
+Re: Request to enforce conditions of approval, and appeal of Use Permit No. 16- UP-02 and Building Permit No. 2016-667756 to City Council under Los
+Altos Code of Ordinances section 1.12.010.
+
+Dear Messrs. Biggs, Maginot, and Diaz:
+
+Our office represents Doheny-Vidovich Partners, the owner of real property immediately adjacent to the under-construction development project at 4880 E1 Camino Real ("Project") in the City of Los Altos ("City"). Our client's property is currently a improved with a single-family residence at 856 Jordan Avenue and a Jack in the Box restaurant at 4896 El Camino Real (collectively, the "Property"). It is our understanding that LOLA, LLC applied for, and the City Council of the City of Los Altos ("City Council") approved Use Permit No. 16-UP-02 for the Project on or about September 13, 2016, and that the Building Department of the City of Los Altos issued Building Permit No. 2016-667756 for the Project on or about January 9, 2018.
+Recent events have made clear that what is being constructed at 4880 E1 Camino Real by LOLA, LLC is not the Project that was approved by the City Council in 2016.
+
+555 Capitol Mall, Suite 800. Sacramento CA 95814 | Phone: (916) 443-2745 Fax: (916) 443-9017 | www.rmmenvirolaw.com
+
+Jon Biggs
+Jon Maginot
+Christopher Diaz
+November 7, 2019
+Page 2
+LOLA, LLC placed a diesel-powered backup generator on the roof of the Project in violation of the Los Altos Code of Ordinances ("City Code"), the condition of approval placed on the Project by the City Council, and the California Environmental Quality Act (Pub. Resources Code section 21000 et seq.) ("CEQA"). This substantive project change deletes environmentally benign project features and replaces them with cheaper but environmentally harmful aspects. It is our understanding that these substantive and detrimental changes were made without required environmental and planning review or consideration by the Planning and Transportation Commission and City Council, foreclosing public disclosure. Project construction must be halted, the generator must be removed, and no further activity should take place until these changes are reviewed for their impacts on the environment and considered by the Planning and Transportation Commission and the City Council at public meetings, as required by law.
+
+City Council Approval
+
+As stated above, the Project was initially approved by the City Council in September 2016. City Planning Department staff have revealed that since that approval, the Project has been back before the Planning Commission and City Council only once. On or about August 22, 2017, (which was before the Building Department issued the building permit on or about January 9, 2018) the City Council approved a height waiver for the elevator tower proposed for the Project. According to Planning staff, no other
+review of the Project by the Planning Department has occurred. City Building
+Department staff, on the other hand, have stated that numerous changes to the Project have been made and approved by Building staff since the issuance of the building permit on or about January 9, 2018.
+
+The Project plans approved by the City Councill show that backup power for the Project would be provided by batteries located in the basement, and that approximately 2,010 square feet of the rooftop area would be "prewired" for potential solar photovoltaic electricity generation. (See Exhibit A, page 1, Exhibit B, page 23.) The City Council found that the Project was exempt from CEQA as infill development under California Code of Regulations, title 14, division 6, chapter 3 ("CEQA Guidelines") section 15332. (Exhibit C [Resolution No. 2016-27 and Findings in support] page 3.) In order to find the Project exempt under CEQA Guidelines section 15332, the City Council had to find, based on substantial evidence, that "[a]pproval of the project would not result in any significant effects relating to traffic, noise, air quality, or water quality." (CEQA
+Guidelines, § 15332, subd. (d).)
+To support the finding required by CEQA Guidelines section 15332, subdivision (d), the City and LOLA, LLC hired consultants to study the Project's potential effects on
+
+The plans provided to our client by LOLA, LLC are dated August 12, 2016. The plans
+available on the City's website are dated April 22, 2016. It is our understanding that the
+August 12, 2016 dated plans were considered and approved by the City Council.
+
+Jon Biggs
+Jon Maginot
+Christopher Diaz
+November 7, 2019
+Page 3
+traffic, noise, and air quality. (See, generally, Exhibit D [May 16, 2016 Planning and Transportation Commission Staff Report and Attachments].) These studies were based on the Project as proposed to the City at that time and included an Air Quality & Greenhouse Gas Emissions Assessment prepared by Illingworth & Rodkin, Inc. ("Air Quality Study") dated March 18, 2018 (Exhibit D, pages 41-93), and a Noise Study prepared by Wilson Ihrig (*Noise Study"), dated March 2, 2016 (Exhibit D, pages 94- 113). Both studies found potential significant environmental effects of the Project and proposed mitigation measures to address them. (Exhibit D, pages 46-59 [Air Quality], 99-110 [Noise].)? Implementation of the mitigation measures recommended in those studies was required in the conditions of approval for the Project. (Exhibit C, page 10.) The conditions of approval also include a requirement that "minor changes to the development plans" may be approved by the Planning and Transportation Commission,
+and that "[s]ubstantive project changes require a formal amendment of the application
+with review by the Planning and Transportation Commission and City Council."
+(Exhibit C, page 7.)
+The Trespass and Nuisance Action
+Since construction of the Project began, our client's tenants have been harassed and threatened by representatives of LOLA, LLC, and the Property has been repeatedly intruded upon without consent and damaged by agents of LOLA, LLC. These activities recently culminated in LOLA, LLC constructing a portion of the Project on the Property owned by Doheny-Vidovich Partners. Our client has filed civil litigation against LOLA, LLC for damages resulting from LOLA, LLC's trespass and nuisance activities on the Property. (See Exhibit E [First Amended Complaint, filed October 10, 2019].) It was during discussions with LOLA, LLC and its agents regarding the trespass and nuisance activities that our client became aware that the original Project was not being constructed
+as approved by the City Council and that substantive project changes had occurred.
+
+Substantive Project changes have occurred without required review.
+
+Our client recently became aware that LOLA, LLC was constructing a diesel- powered backup generator on the roof of the Project. Further research has revealed that the development plans approved by the City Council did not include a diesel generator at all, much less one on the roof of the Project. As stated above, discussions with Planning and Building staff have revealed that this substantive project change was never brought to
+the attention of the Planning and Transportation Commission, much less the City Council, as required by the conditions of approval. Moreover, there is no indication that LOLA, LLC ever initiated the required "formal amendment of the application" before making this substantive project change. Instead, the building permit was amended to add
+
+2 As discussed in greater depth below, CEQA does not permit reliance on mitigation measures to find a project categorically exempt.
+
+Jón Biggs
+Jon Maginot
+Christopher Diaz
+November 7, 2019
+Page 4
+the diesel generator in March 2019 by Building staff, without the required amendment
+and review by Planning.3 (Exhibit C, page 7.)
+
+The replacement of the backup batteries, which, according to the approved plans, would have been located in the basement, with a rooftop diesel generator is a substantive project change that required LOLA, LLC to formally amend its application and seek the approval of the Planning and Transportation Commission and City Council for two reasons. First, the approved development plans did not include backup generator at all, much less one located on the rooftop. The City Council should consider whether or not to approve such a sea change in the way backup power will be provided. Second, the
+inclusion of a backup diesel generator on the roof will cause significant air quality and
+noise impacts to sensitive receptors immediately adjacent to the Project site, including our client's tenants. These impacts negate the findings made by the City Council in 2016, requiring them to reconsider these issues.
+As stated above, placing a backup diesel generator on the roof of the Project will likely have significant environmental effects. The City's own approval documents establish that this is the case. The Air Quality study, for example, repeatedly states that Project operations would not have a significant impact on air quality because the Project would not include "[s] tationary sourci of air pollution (e.g., back-up generators)." (Exhibit D, [Air Quality Study] page 47; see also Exhibit D at pages 48-49 ["Operation of the project is not expected to cause any localized emissions that could expose sensitive receptor to unhealthy air pollution levels. No stationary sources of TACs [Toxic Air Contaminants], such as generators, are proposed as part of the project"], 55 [other than traffic on El Camino Real, "[t]here are no other substantial sources of TACs within 1,000 feet of the project site"].) The Air Quality Study acknowledges that our client's tenants at 856 Jordan Avenue are sensitive receptors for the purposes of the air quality analysis, and that the Project would also introduce new sensitive receptors. (Exhibit D, pages 43 and 49.) The Air Quality Study admits that a diesel generator would be a stationary source of air pollution, including TACs, and specifically concludes that Project operations would not have significant air quality impacts because no generators are a proposed. Revising the project to add a new source of air pollution and TACs, on the roof a of the Project no less, is a substantive project change requiring formal amendment of
+the application with review by the Planning and Transportation Commission and City Council. As discussed below, this substantive project change requires the City Council to reconsider its determination that the Project is exempt from CEQA.
+Similarly, the Noise Study did not consider a rooftop diesel generator as a potential source of operational project noise and concluded that "current plans indicate
+
+3 Our client has a great deal of respect for Planning and Building Department staff and believes that there was simply a breakdown in communication between the two departments in this instance. This letter is intended to provide the City with the
+opportunity to correct that error and remedy the harm that will otherwise occur.
+
+Jon Biggs
+Jon Maginot
+Christopher Diaz
+November 7, 2019
+Page 5
+that mechanical equipment will be located in a room at the Garage Level, which will contain most of the noise...." (Exhibit D, page 102.) The Noise Study promised that "[d]uring detailed design of the project, noise mitigation measures will be employed as necessary to ensure compliance with" the City's noise ordinance. (Exhibit D, page 102.) By adding the rooftop diesel generator long after the final design was approved by the City Council and the building permit was issued, LOLA, LLC has bypassed this critical
+mitigation step as well. Adding a new source of noise not contemplated by the Noise Study is a substantive project change requiring formal amendment of the application with review by the Planning and Transportation Commission and City Council. Moreover, failing to implement the mitigation required by the Noise Study is also a violation of the conditions of approval. The substantive change also requires the City Council to
+reconsider whether or not the Project is exempt from CEQA.
+
+The City has a ministerial duty to enforce the conditions of approval.
+Once the City Council decided to approve the Project with conditions, "the various city departments [were] charged with the ministerial task of implementing" that decision, including enforcing the conditions of approval. (Harbach v. El Pueblo de Los
+Angeles, etc. Com. (1971) 14 Cal.App.3d 828, 834; see City Code, § 1.10.010 ["All officials, departments, and employees of the city vested with the authority or duty to issue permits, certificates, or licenses shall conform to the provisions of this chapter and shall issue no permit, certificate, or license which conflicts with the provisions of this chapter. Any permit, certificate, or license issued in conflict with the provisions of this chapter shall be null and void"].) Specific to the conditions of approval, where such conditions are clear, the City "has no discretion but rather a ministerial duty to enforce the condition[s]." (Terminal Plaza Corp. V. City and County of San Francisco (1986) 186 Cal.App.3d 814 830.) "This is particularly the case where the condition is for the public
+benefit.» (Id. at p. 834.) Such is the case here.
+
+City Code section 1.10.020 designates the city planner as the zoning administrator
+and makes them "responsible for the enforcement of the provisions of this chapter." The
+authority to enforce includes the power to "serve notice on the owner or his or her
+authorized agent, or on a tenant, or on an architect, builder, contractor, or other person
+who commits or participates in any violation, requiring the removal of any structure or
+use in violation of the provisions of this chapter. The zoning administrator may call upon
+the city attorney to institute necessary legal proceedings to enforce the provisions of this chapter, and the city attorney is hereby authorized to institute appropriate actions to that end.» The Planning Department has a ministerial duty to enforce the conditions of
+approval as they were adopted for the public benefit. (See City Code § 14.80.010 ["The specific conditions under which each such use is permitted shall be considered in the light
+of general public interests and the interests of persons residing or working in the vicinity of the use"].) Planning and Building staff have revealed that the required amendment and review did not occur in this case. The City must ensure that LOLA, LLC complies with the conditions of approval.
+
+Jon Biggs
+Jon Maginot
+Christopher Diaz
+November-7, 2019
+Page 6
+LOLA, LLC's use permit should be revoked.
+
+LOLA, LLC's failure to comply with the conditions of approval also warrants revocation of Use Permit 16-UP-02. City Code, section 14.80.080 states that "[a] use permit may be revoked by the community development director or their designee, planning and transportation commission and/or city council, whichever body initially approved the permit, based upon a determination by the community development director or their designee that the holder of the permit has failed to comply with any condition thereof or has violated any applicable provision of this chapter." As explained above, LOLA, LLC has failed to comply with two separate conditions of approval placed on the Project by the City Council. First, LOLA, LLC has failed to formally amend its application for the substantive project change made to the Project and to submit the amended application for Planning and Transportation Commission and City Council review. Second, LOLA, LLC has failed to "implement and incorporate the noise mitigation measures into plans as required by staff in accordance with the report by Wilson Ihrig, dated March 2, 2016 and revised on April 20, 2016." (Exhibit C, page 10.) These failures support "a determination by the community development director or their designee that the holder of the permit has failed to comply with any condition thereof or has violated any applicable provision of this chapter."
+All remedies, including civil litigation are available to address this critical error.
+The City initially determined that the Project was exempt from CEQA review as infill development under § CEQA Guidelines, $ 15332 on or about September 13, 2016. In most cases, the limitations periods in Public Resources Code section 21167, would have passed. Here, however, the "[s] ubstantial project change" of adding a diesel generator to the roof causes "a 'new' 180-day period ... to run from the time a plaintiff knew or should have known the project substantially differed from the original 'project. (City of Chula Vista v. County of San Diego (1994) 23 Cal.App.4th 1713, 1720; see also Concerned Citizens of Costa Mesa, Inc. v. 32nd Dist. Agricultural Assn. (1986) 42 Cal.3d 929, 938 ['"The lack of public notice that the agency had authorized these substantial changes compromised the goal of public participation in the environmental review process"].)
+
+Our client only recently learned that the installation of the rooftop generator was a
+substantive project change that was never reviewed by Planning staff, the Planning and Transportation Commission, or the City Council. Thus, our client would be within its rights to file CEQA action challenging the failure of the City to analyze the impacts of the rooftop generator. (See Endangered Habitats League, Inc. V. State Water Resources Control Bd. (1997) 63 Cal.App.4th 227, 239-241 [exhaustion doctrine and statute of limitations did not bar CEQA claims where agency "held no meeting to consider the specific plans challenged" and made "no formal site-specific decision" on a project
+intended to implement a previously approved "broad conceptual plan"].) Though there is
+no requirement to exhaust because the City did not publicly "decide" to not enforce the conditions of approval, our client believes that it would be in the best interests of all
+
+Jon Biggs
+Jon Maginot
+Christopher Diaz
+November 7, 2019
+Page 7
+involved for the City to resolve these issues administratively. Should that effort fail, however, judicial intervention may be necessary to enforce the conditions of approval and/or CEQA.
+
+Notice of appeal to the City Council under City Code section 1.12.010
+As stated in the subject line, this letter also serves as written notice of appeal to the City Council of Use Permit No. 16-UP-02 and Building Permit No. 2016-667756. City
+Code section 1.12.010 authorizes "any interested person objecting to the whole or any portion of any administrative determination or decision made by a commission, committee or an official of the city, where such determination or decision involves the exercise of administrative discretion or personal judgment pursuant to any of the provisions of this code [to] appeal to the city council by filing with the city clerk a notice of appeal clearly identifying the determination or decision from which the appeal is taken and stating the grounds for the appeal. The notice of appeal shall be accompanied by the payment of a filing fee in such amount as established from time to time by resolution of the city council." Our client takes this additional procedural step to ensure that the City appreciates the serious nature of the issues at hand, and believes that, given this opportunity, the City will do the right thing.
+The "determination or decision" here is twofold. First, the Planning Department has not enforced the conditions of approval in Use Permit No. 16-UP-02 on the Project, which constitutes an ongoing "determination or decision" by "an official of the city" that "involves the exercise of administrative discretion." Because that decision was not
+communicated to the public, our client is not constrained by the time limit in City Code section 1.12.030. (See Endangered Habitats League, Inc. v. State Water Resources Control Bd. (1997) 63 Cal.App.4th 227, 239-241.) Second, the Building Department's decision to approve the diesel rooftop generator by amending Building Permit No. 2016- 667756, without requiring Planning Department review of the change or compliance the conditions of approval in Use Permit No. 16-UP-02 constitutes a "decision" by "an
+official of the city" that "involves the exercise of administrative discretion." This
+determination was also made without public disclosure, so our client is not bound by the
+time limit in City Code section 1.12.030.
+This letter clearly states the grounds for the appeal, in that the City Code and the conditions of approval require formal amendment of LOLA, LLC's application with
+review by the Planning and Transportation Commission and City Council, and that the
+City has a ministerial duty to enforce the conditions of approval, which has not occurred. Lastly, included with this written notice of appeal is the payment of the established filing fee. (See Exhibit F [City of Los Altos Fee Schedule - FY 2018/19].)
+CEQA requires the City to study the environmental impacts of the generator.
+As the Air Quality and Noise Studies admit, the original project approved by the City Council did not include a rooftop diesel generator. The City specifically concluded
+
+Jon Biggs
+Jon Maginot
+Christopher Diaz
+November 7, 2019
+Page 8
+that the Project would not have operational impacts on air quality because the Project did not include a generator. (Exhibit D, pages 47-49.) Without an accurate description of the Project, the public and decision-makers cannot "balance the proposal's benefit against its environmental costs..." (County of Inyo v. City of Los Angeles (1977) 71 Cal.App.3d 185, 192.) CEQA requires the City to compare "what will happen if the project is built with what will happen if the site is left alone." (Woodward Park Homcowners Assn., Inc. V. City of Fresno (2007) 150 Cal.App.4th 683, 707.) LOLA, LLC foreclosed the City's ability to do so by failing to comply with the conditions of approval. The City can remedy this error by either directing LOLA, LLC to remove the generator or by analyzing the admitted environmental effects of the generator now.
+
+CEQA also requires that a lead agency a adopt all feasible mitigation measures that
+can substantially lessen the project's significant impacts, and it must ensure that these measures are "fully enforceable" through permit conditions, agreements, or other legally binding instruments. (Pub. Res. Code 21002; Guidelines 15002(a)(3), 15126.4(a)(2); City of Marina v. Bd. of Trustees of the Cal. State Univ. (2006) 39 Cal.4th 341, 359, 368-369.) The requirement of enforceability ensures "that feasible mitigation measures will actually be implemented as condition of development, and not merely adopted and then neglected or disregarded." (Federation of Hillside and Canyon Associations v. City
+of Los Angeles (2000) 83 Cal.App.4th 1252, 1261, italics omitted.) Here, the City did not consider or adopt feasible enforceable mitigation for the rooftop generator because LOLA, LLC did not include a generator in the project plans, and the substantive project change of adding the rooftop generator was not reviewed by the Planning and Transportation Commission and City Council in violation of the conditions of approval.
+The City must analyze the substantive project change of adding the rooftop diesel generator to the Project and determine whether it will have significant environmental
+effects. Given the previously adopted conclusions in the Air Quality and Noise Studies, it is likely that the generator will be found to have significant effects. As stated above, such a conclusion triggers the need to mitigate the generator's significant effects. Moreover, "an activity that may have a significant effect on the environment cannot be categorically exempt." (Mountain Lion Foundation v. Fish & Game Com. (1997) 16 Cal.4th 105, 124.) Nor may the City rely on mitigation to grant a categorical exemption. (Salmon Protection & Watershed Network v. County of Marin (2004) 125 Cal.App.4th 1098, 1107.) Thus, the City must study the potential adverse impacts of the generator in an initial study and then determine whether to proceed with an environmental impact report or a mitigated negative declaration.
+The generator itself also qualifies as a "project" for the purposes of CEQA. Placing the backup diesel generator on the roof of the Project is "an activity which may cause a direct physical change in the environment, or a reasonably foreseeable indirect physical change in the environment...." (Pub. Resources Code, § 21065; see also Muzzy Ranch Co. v. Solano County Airport Land Use Com. (2007) 41 Cal.4th 372, 382 ["Whether an activity is a project is an issue of law..."]; Union of Medical Marijuana Patients, Inc. V. City of San Diego (2019) 7 Cal.5th 1171, 1184 [CEQA must be interpreted to "afford
+
+Jon Biggs
+Jon Maginot
+Christopher Diaz
+November 7, 2019
+Page 9
+the fullest possible protection to the environment..."].) As discussed above, the City has already admitted as much by adopting the conclusions in the Air Quality and Noise Studies. (See Exhibit D, pages 47-49, 102.) Moreover, the activity is one which "involves the issuance to a person of a lease, permit, license, certificate, or other entitlement for use by one or more public agencies." (Pub. Resources Code, § 21065, subd. (c).) As explained above, the conditions of approval for Use Permit 2016-UP-02 require the "formal amendment of the application with review by the Planning and Transportation Commission and City Council" whenever "[s]ubstantive project changes" are made. (Exhibit C, page 7.) The generator is such a substantive project change.
+Whether analyzed as a component of the Project or on its own, the rooftop generator requires CEQA review, mitigation, and public disclosure of any decision approving the generator and the environmental consequences of that decision.
+
+Conclusion
+
+We respectfully request that the City comply with the law and its own ordinances and enforce the conditions of approval on the Project. To ensure that the City Council reviews these important issues, this letter includes a formal written notice of appeal under City Code section 1.12.010. In any case, Planning staff and, if necessary, the City Attorney, must enforce the City Code and require LOLA, LLC to bring the Project into compliance with the conditions of approval and the City Code by removing the rooftop diesel generator. LOLA, LLC must then either construct the Project approved by the City Council in 2016, or formally amend its application to include this substantive project change for review by the Planning and Transportation Commission and City Council, which must include CEQA analysis of the environmental impacts of the generator and mitigation for those impacts.
+Our client would like to reiterate their respect for City staff and decision makers. This letter is intended primarily to provide the City with the opportunity to bring LOLA, LLC into compliance as efficiently and expediently as possible. Though legal action is available to our client, it will not be necessary if the City provides our client with sufficient assurances that the City is working to correct the errors described above and to bring LOLA, LLC into compliance with the conditions of approval.
+Very truly yours,
+Pullo
+Tiffany K. Wright
+
+Enclosures
+cc: John Vidovich
+
+EXHIBIT B
+
+RMM
+
+REMY OOSE MANLEY
+ILP
+
+Tiffany K. Wright
+twright@rmmenvirolaw.com
+December 3, 2019
+Via U.S. Mail and Email
+dhawkins@losaltosca.gov
+jbiggs@losaltosca.gov
+christopher.diaz@bbklaw.com
+
+Dennis Hawkins
+City of Los Altos, City Clerk
+Jon Biggs City of Los Altos, Community Development Director Los Altos City Hall
+1 North San Antonio Road
+Los Altos, CA 94022
+Christopher Diaz, Esq. City of Los Altos, City Attorney BEST BEST & KRIEGER, LLP 2001 North Main Street, Suite 390
+Walnut Creek, CA 94596
+Re: Notice of Intent to Commence CEQA Action and Proceeding; Use Permit No. 2016-UP-02, Building Permit No. 2016-667756
+Dear Messrs. Hawkins, Biggs, and Diaz:
+PLEASE TAKE NOTICE that, pursuant to Public Resources Code section 21167.5, Petitioner and Plaintiff DOHENY-VIDOVICH PARTNERS (Petitioner) intends to immediately file a petition for writ of mandate (Petition) under the provisions of the California Environmental Quality Act (CEQA) against the City of Los Altos (City). The Petition will be filed in the Santa Clara County Superior Court and will allege, inter alia, that the City improperly approved the construction of a rooftop diesel generator at 4880 EI Camino Real (Project) without necessary planning and environmental review, and without complying with CEQA. Among other things, the Petition will request that the court direct the City to vacate and rescind the approval of the generator, remove the generator from the roof of the Project, and to otherwise comply with CEQA. Additionally, the Petition will seek Petitioner's costs and attorneys' fees.
+
+Very truly yours,
+Tulo Tiffany K. Wright
+
+555 Capitol Mall, Suite 800 Sacramento CA 95814 | Phone: (916) 443-2745 | Fax: (916) 443-9017 | www.rmmenvirolaw.com
+
+&
+
+ATTORSEY DOCKE 20S DEC I2 R.I0:0:
+
+MECEIVEN
+DEC: 2019
+BY: ____-----.

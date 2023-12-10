@@ -1,0 +1,934 @@
+Marc Chytilo (SBN 132742) Ana Citrin (SBN 255587)
+2 LAW OFFICE OF MARC CHYTILO, APC P.O. Box 92233
+3 Santa Barbara, CA 93190
+Telephone: 4 Facsimile: (805) 682-0585 (805) 682-2379
+Email(s): Marc@lomcsb.com; Ana@lomcsb.com
+Attorneys for Petitioners 6 Raemar Crest, LLC and Brilliant Projects, LLC
+
+7
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+8
+COUNTY OF SANTA BARBARA
+9
+ANACAPA DIVISION
+10
+
+11
+RAEMAR CREST, LLC; and BRILLIANT Case No. 18CV04906
+12 PROJECTS, LLC,
+
+13 Petitioners, NOTICE TO ATTORNEY GENERAL
+
+14
+VS.
+15
+
+16 COUNTY OF SANTA BARBARA; BOARD
+OF SUPER VISORS FOR THE COUNTY OF
+
+17 SANTA BARBARA; and DOES 1-10,
+
+Respondents, Judge: Hon. Thomas P. Anderle
+18 Department: 3
+
+19 JANICE FELDMAN; and ROES 11-20,
+20
+
+21 Real Party in Interest.
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+PLEASE TAKE NOTICE, under Public Resources Code Section 21167.7, and Code of Civil
+2 Procedure Section 388, that on October 4, 2018, Petitioners RAEMAR CREST, LLC and BRILLIANT
+3 PROJECTS, LLC filed a Verified Petition for Writ of Mandamus against Respondents COUNTY OF
+4 SANTA BARBARA and BOARD OF SUPER VISORS FOR THE COUNTY OF SANTA BARBARA,
+and Real Party in Interest JANICE FELDMAN, in the above-referenced Court. The Petition alleges that 6
+
+7 Respondents violated the California Environmental Quality Act (CEQA). The Verified Petition for Writ
+
+8 of Mandamus is enclosed herewith.
+
+9
+
+10
+
+11 DATED: October 11, 2018 LAW OFFICE OF MARC CHYTILO, APC
+
+12
+
+13 Chuestot ANA CITRIN
+14 Attorney for Petitioners
+15 Raemar Crest, LLC and Brilliant Projects, LLC
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27.
+
+28 NOTICE TO ATTORNEY GENERAL
+
+PROOF OF SERVICE BY MAIL -
+
+N m + w I certify and declare as follows:
+
+am over the age of 18, and not a party to this action. My business address is Law
+Office of Marc Chytilo, Post Office Box 92233, Santa Barbara, California 93190, which is
+located in Santa Barbara County where the mailing described below took place.
+6 am familiar with the business practice at my place of business for the collection and
+7 processing of correspondence for mailing with the United States Postal Service.
+8
+Correspondence so collected and processed is deposited with the United States Postal Service
+9
+that same day in the ordinary course of business. 9 - sc On October 11, 2018 the following document(s):
+NP VERIFIED PETITION FOR WRIT OF MANDAMUS NOTICE RE PREPARATION OF RECORD OF ADMINISTRATIVE
+PROCEEDINGS
+3. NOTICE TO ATTORNEY GENERAL
+14 was placed for deposit in the United States Postal Service in a sealed envelope, with postage
+
+15 fully paid to:
+
+16 Attorney General of the State of California
+
+17 1300 I Street
+Sacramento, CA 95814
+
+18
+
+19 I certify and declare under penalty of perjury that the forgoing is true and correct.
+20
+
+21
+
+22 Dated: October 11, 2018
+
+Ana Citrin 23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+LAW
+OFFICE
+OF MARC PROOF OF SERVICE OF
+Case No. 18CV04906 CHYTILO NOTICE TO ATTORNEY GENERAL
+
+J
+
+ELECTRONICALLY FILED
+Superior Court of California County of Santa Barbara
+Marc Chytilo (SBN 132742) Darrel E. Parker, Executive Officer
+Ana Citrin (SBN 255587) 10/4/2018 1:01 PM
+2 LAW OFFICE OF MARC CHYTILO, APC
+P.O. Box 92233 By: Terri Chavez, Deputy
+3 Santa Barbara, CA 93190
+Telephone: (805) 682-0585
+Facsimile: (805) 682-2379 Email(s): Marc@lomcsb.com; Ana@lomcsb.com
+5
+Attorneys for Petitioners
+6 Raemar Crest, LLC and Brilliant Projects, LLC
+
+7
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+8
+COUNTY OF SANTA BARBARA 9 ANACAPA DIVISION
+10
+
+11
+RAEMAR CREST, LLC; and BRILLIANT
+12 PROJECTS, LLC, Case No. 18CV04906
+VERIFIED PETITION FOR WRIT OF
+13 Petitioners, MANDAMUS
+
+14
+VS. CALIFORNIA ENVIRONMENTAL 15
+COUNTY OF SANTA BARBARA; BOARD QUALITY ACT ("CEQA") [CAL. PUBLIC
+16 OF SUPERVISORS FOR THE COUNTY OF RESOURCES CODE §§ 21000 et seq.]
+
+17 SANTA BARBARA; and DOES 1-10,
+
+18 Respondents,
+
+19 JANICE FELDMAN; and ROES 11-20,
+20
+
+21 Real Party in Interest.
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+INTRODUCTION
+
+1. Petitioners Raemar Crest, LLC and Brilliant Projects, LLC (collectively "Petitioners") challenge
+the County of Santa Barbara and Board of Supervisors of the County of Santa Barbara's (collectively
+4 "the County" or "Respondents") approval of the Feldman New Residence (Project), and adoption of the
+Mitigated Negative Declaration (MND) for the Project. The Project involves the demolition of the
+6 existing modest residence at 755 Sand Point Road in Carpinteria, and construction of a new
+substantially larger residence. The Project site is located on a narrow sand spit situated between the
+environmentally sensitive and significant Carpinteria Slough and the Pacific Occan, making it
+particularly vulnerable to coastal hazards from the south and fluvial hazards from the three coastal
+10 watersheds to the north that empty into the Carpinteria Slough (aka "Carpinteria Salt Marsh" and "El
+11 Estero"). The Project site is atypical among the other Sand Point Road properties in that it has an on-
+
+12 site jurisdictional wetland immediately adjacent to the proposed Development Envelope, and contains
+
+13 one of the few open space areas between the nearly continuous row of homes that offers a gap allowing
+
+14 biological, and potentially hydrological connectivity between the ocean and the Carpinteria Slough.
+
+15 Due to its size and length, Project development intrudes into minimum buffers designed to protect
+
+16 wetlands and Environmentally Sensitive Habitat Areas (ESHA)s, and diminishes valuable open space
+
+17 that connects marine and wetland habitats, resulting in potentially significant impacts to the
+
+18 environment.
+
+2.
+19 The County acted contrary to the California Environmental Quality Act (CEQA) in, inter alia,
+
+20 adopting an MND for the Project when an Environmental Impact Report (EIR) is required due to the
+existence of substantial evidence in the record supporting a fair argument that the Project may have
+21
+
+22 significant environmental impacts including in the areas of biological resources, water resources, and
+land use.
+23 3. Petitioners bring this Petition for Writ of Mandamus on their own behalf, and on behalf of the
+24 general public under California Code of Civil Procedure §1094.5 and allege as follows:
+25
+
+26
+
+27 PARTIES
+
+4.
+28 Petitioners hereby incorporate by reference paragraphs 1 through 3 as if fully set forth herein.
+
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+
+5. Petitioner Raemar Crest, LLC is a Delaware Limited Liability Company. Raemar Crest, LLC is
+
+2 owner of 745 Sand Point Road, which is adjacent to the proposed Project at 755 Sand Point Road.
+3 Raemar Crest, LLC, through its representatives, participated in the proceedings below, including
+submittal of written and oral comments to Respondent Board of Supervisors. Petitioner is interested in
+
+5 preserving of the integrity of the environment in the County of Santa Barbara including coastal
+watersheds, the Carpinteria Slough, and sensitive species, as well as the community character, visual
+
+7 environment, and safety of the Sandyland community, including first responders. Petitioner's interests
+will be adversely affected by the violations of CEQA and the approval of the Project.
+6. Petitioner Brilliant Projects, LLC is a Delaware Limited Liability Company. Brilliant Projects,
+
+10 LLC is owner of 735 Sand Point Road, which is adjacent to the proposed Project at 755 Sand Point
+
+11 Road. Brilliant Projects, LLC, through its representatives, participated in the proceedings below,
+
+12 including submittal of written and oral comments to Respondent Board of Supervisors. Petitioner is
+interested in preserving of the integrity of the environment in the County of Santa Barbara including
+13 coastal watersheds, the Carpinteria Slough, and sensitive species, as well as the community character,
+14 visual environment, and safety of the Sandyland community, including first responders. Petitioner's
+15 interests will be adversely affected by the violations of CEQA and the approval of the Project.
+16 7. Respondent County of Santa Barbara is organized under the laws and Constitution of the State of
+17 California. The County is empowered, among other duties, to provide for the orderly planning and
+18 management of land use within its borders, including permitting of the Feldman New Residence
+19 Project, subject to the obligations and limitations of all applicable state, federal and other laws,
+
+20 including CEQA. The County is the lead agency under CEQA.
+
+21 8. Respondent Board of Supervisors of the County of Santa Barbara is the highest governing
+
+22 authority of the County of Santa Barbara, exercising legislative authority over County land use matters
+
+23 and controlling, through the Chair of the Board, the conduct of the Board of Supervisors' hearings
+
+24 generally and specifically the hearing which led to the approval of the Project.
+
+25 9. DOES 1 through 10, inclusive, are officers, agents or employees of Respondent Santa Barbara
+
+26 County, or other unknown persons, entities or agencies with an interest in the subject matter of this
+
+27 dispute. The identities and capacities of such DOES are unknown to Petitioners at this time.
+
+28 2
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+
+1 Petitioners will seck leave to amend this Petition to identify the true name and capacity of each such
+
+2 person when identified.
+
+3 10. Real Party in Interest Janice Feldman is the Project applicant, as listed on the County's Notice of
+
+4 Determination (NOD).
+
+5 11. ROES 11 through 20, inclusive, are individuals, governmental agencies, entities, corporations or
+
+6 other unknown persons that are Real Parties in Interest to this dispute. The identities and capacities of
+such ROES are unknown to Petitioners at this time. Petitioners will seek leave to amend this Petition to
+
+8 identify the true name and capacity of each such person when identified.
+
+9
+STANDING
+10
+12.
+11 Petitioners hereby incorporate by reference paragraphs 1 through 11 as if fully set forth herein.
+
+13.
+12 Approval of the Project will adversely affect the interests of Petitioners. Petitioners own
+
+13 property adjacent to the proposed Project and are interested in protecting the integrity of the
+environment surrounding their property including coastal watersheds, the Carpinteria Slough, and
+14 sensitive species, and the community character, visual environment, and safety of the Sandyland
+15 community as set forth, at paragraphs 5, and 6 hereof. Approval of the Project and Mitigated Negative
+16 Declaration will adversely affect these interests of Petitioners. Petitioners have submitted comments on
+17 and objections to the lack of CEQA compliance, and have participated at public hearings before the
+18 Board of Supervisors, Planning Commission, and Zoning Administrator. Accordingly, Petitioners are
+
+19 "aggrieved persons" within the meaning of Public Resources Code Section 21177.
+20
+
+21 EXHAUSTION OF ADMINISTRATIVE REMEDIES
+
+22 14. Petitioners hereby incorporate by reference paragraphs 1 through 13 as if fully set forth herein.
+
+23 15. Petitioners have performed all conditions precedent to the filing of this petition by raising each
+
+24 and every issue known to them before the County, in compliance with Public Resources Code Section
+
+25 21177, and Code of Civil Procedure Sections 1085 and 1094.5.
+
+26 16. Notice of the filing of this action, as required by Public Resources Code Section 21167.5 was
+
+27 mailed to the Respondents on October 4, 2018. (See Notice Letter and Proof of Service attached hereto
+
+28 as Exhibit "1") 3
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+
+JURISDICTION AND VENUE
+2
+
+3 17. Petitioners hereby incorporate by reference paragraphs 1 through 16 as if fully set forth herein.
+18. This Court has subject matter jurisdiction pursuant to the California Constitution, Article VI,
+Section 10, because this case is not a cause given by statute to other trial courts. Jurisdiction of this
+Court is invoked pursuant to California Code of Civil Procedure Section 1094.5; California Public
+Resources Code Section 21167; CEQA Guidelines Section 15112; and applicable law.
+7 19. Venue is proper in this Court pursuant to Code of Civil Procedure §§393, 394 because both
+Petitioners and Respondent are located within the County of Santa Barbara.
+9 20. This Court has jurisdiction over the County of Santa Barbara and the Board of Supervisors of the
+10 County of Santa Barbara because the County is an agency established by the legislature of the State of
+11 California with its principal place of business located in the County of Santa Barbara.
+12 21. Petitioners have no plain, speedy or adequate remedy in the course of ordinary law unless this
+13 Court grants the requested writ of mandate to require Respondents to set aside their approval of the
+14 Project. In the absence of such remedies, the County's approval will remain in effect in violation of
+15 state law.
+
+16
+
+17 STATEMENT OF FACTS
+18
+
+19 22. Petitioners hereby incorporate by reference paragraphs 1 through 22 as if fully set forth herein.
+
+20 23. The Project site, 755 Sand Point Road, is a 1.15-acre area located seaward of Sand Point Road in
+
+21 Carpinteria, Santa Barbara County. The Project site is a portion of a 6.15-acre legal lot (APN 005-460-
+
+22 043), which includes 5 acres north of Sand Point Road and within the Carpinteria Slough and 1.15
+
+23 acres between the Slough and Pacific Ocean. The Property is currently developed with a 1,744 square
+
+24 foot residence, which occupies the south east corner of the 1.15-acre Project site. The Project site
+includes an
+25 open space area between the existing residence and the neighboring residence to the west,
+
+26 one of the few open spaces between the continuous row of homes along Sand Point Road.
+24. The Project entails the demolition of an existing 1,774 square foot residence and the construction 27 of a new 5,995 gross q. ft. residence, to be built on top of a 5,800 gross sq. ft. of lower level storage
+28
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+
+area, and attached garage (1,335 gross sq. ft.), and pool and hot tub (486 sq. ft.). The proposed
+
+2 residence's roof ridges extend to a height of 30.8 ft, exceeding the allowed 28 feet maximum,
+
+3 necessitating the approved Modification. Driveway access to the proposed residence would be widened
+
+4 to 20 feet, a new fire hydrant would be installed in the Sandpoint Road right-of-way. The project entails
+
+5 the addition of 5,990 square feet (.14 acres) of additional impervious surfaces on the site, an
+
+6 approximate 66% increase, and proposes to limit additional surface runoff with a Tier 1 Stormwater
+Control Plan.
+
+25.
+8 The Project site is located in a designated high flood hazard area, situated on a low-lying sand
+
+9 spit that is particularly vulnerable to coastal hazards including coastal erosion, sea level rise, and storm
+
+10 surges. The Project site includes two rock revetments that armor the sand spit, one of which pre-dated
+
+11 the Coastal Act while the other was installed and both were subsequently cnhanced without the benefit
+of permits. The unpermitted 1984 revetment and 1994 and 1998 maintenance projects have been
+12 identified by Coastal Commission enforcement staff as Unpermitted Development installed and
+13 maintained in violation of the Coastal Act that the County is reportedly "working" to address. The
+14 Project site also abuts the Carpinteria Salt Marsh, subjecting the site to fluvial hazards including
+15 flooding from the Salt Marsh side.
+16 26. The 1.15 acre Project site contains a small on-site wetland south of Sand Point Road that is
+17 hydrologically and biologically connected to the Carpinteria Slough and that qualifies both as a federal
+18 and state jurisdictional wetland, and, like the Carpinteria Slough, is an ESHA protected by the County's
+
+19 Local Coastal Program (LCP) and the Coastal Act. Project development proposed within the 100-foot
+
+20 buffer established by the LCP to protect wetlands and ESHA includes: 1,409 square feet of the
+
+21 proposed residence, 914 square feet of the driveway (in addition to the 790 square feet of existing
+
+22 driveway within the area), 90 square feet of hardscape, 219 square feet of stairway, and 100 square feet
+
+23 for fire hydrant, for a combined total permanent ground disturbance of 2,732 square feet
+
+24 (approximately 0.062 acres), plus additional disturbance during construction.
+
+25 27. The County prepared a draft MND dated June, 13 2017, which was revised and recirculated on
+
+26 January 16, 2018, and again revised and finalized without recirculation on June 13, 2018. California
+
+27 Coastal Commission staff submitted two sets of comments on the MNDs, identifying a number of
+
+28 potentially significant environmental impacts and policy conflicts, and requesting, inter alia, increased
+5
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+
+setbacks from both the ocean and from the on-site jurisdictional wetland to avoid significant impacts
+
+2 and achieve consistency with the LCP and Coastal Act as well as requesting consideration of a range of
+m siting and design alternatives to minimize coastal hazards and avoid or minimize impacts to coastal
+
+resources.
+
+5 28. The County Zoning Administrator considered the Project including the MND, Coastal
+Development Permit (CDP), and Modification to height regulations in the Coastal Zoning Ordinance
+
+7 (CZO) to allow 146.65 sq. ft. of the proposed residence's roof ridges and peaks to extend above the
+
+8 maximum allowed height, and approved it over the objections of Petitioners and others, and without
+accommodating the Coastal Commission's requested setback increase from the on-site wetland and
+without considering alternative project siting and designs that reduced the Project's impacts and coastal 10
+hazard profile.
+11 29. Petitioners appealed the Zoning Administrator's approval to the County Planning Commission, 12 which voted to deny the appeal and approve the Project and its MND. Petitioners then appealed the
+13 Planning Commission's approval to the Board of Supervisors, which voted to deny the appeal and
+14 approve the Project and its MND on August 28, 2018.
+15 30. Respondents have abused their discretion and have failed to comply with the law in the
+16 following ways:
+17
+FIRST CAUSE OF ACTION 18
+(Violations of CEQA: Pub. Res. Code §§ 21000, et seq.) 19
+
+20 31. Petitioners hereby incorporate by reference paragraphs 1 through 30 as if fully set forth herein.
+21 32. Respondents abused their discretion and failed to proceed in a manner required by CEQA by
+22 adopting a MND for the Project in lieu of an EIR and approving the Project on that basis, despite the
+23 existence of substantial evidence in the record supporting a fair argument of potentially significant
+
+24 environmental impacts.
+
+25 33. CEQA creates a low threshold requirement for preparation of an EIR, requiring that a public
+26 agency prepare an EIR whenever substantial evidence supports a fair argument that a proposed project
+
+27 may have a significant effect on the environment. (Public Resources Code § 21151). Significant effect
+
+28 6
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+
+on the environment means a substantial, or potentially substantial, adverse change in the environment.
+
+2 (Public Resources Code § 21068).
+
+3 34. The record before Respondents contains substantial evidence supporting a fair argument that the
+
+4 Project may result in significant direct, indirect, and cumulative impacts to the environment including
+
+5 impacts to wetlands, coastal watersheds, water quality, and to environmentally sensitive species and
+
+6 their habitats.
+
+7 35. Substantial evidence supporting a fair argument that the Project may result in significant direct,
+
+8 indirect, and cumulative impacts to the on-site wetland, Carpinteria Slough, and sensitive biological
+
+9 resources that rely on those habitats includes, inter alia, the detailed fact-based testimony of a
+
+10 credentialed biologist, and written comments from Coastal Commission staff. This evidence
+
+11 demonstrates that Project site biological resources were not properly identified or evaluated, and that
+the MND did not adequately mitigate impacts to these resources including to endangered, threatened,
+12 and special status species including the federally endangered Saltmarsh bird's beak (Cordylanthus
+13 maritimus ssp. maritimus).
+14 36. Substantial evidence supporting a fair argument that the Project may significantly impact coastal
+15 watersheds and exacerbate flooding and crosion hazards includes, inter alia, the detailed fact-based
+16 testimony of a credentialed coastal geomorphologist, and written comments from Coastal Commission
+17 staff. This evidence demonstrates that coastal and fluvial hazards were not properly identified or
+18 evaluated, and that the Project including its mitigation measures will exacerbate existing hazards, create
+
+19 new hazards, and significantly impact coastal watersheds and habitat for sensitive species.
+
+20 37. Substantial evidence also supports a fair argument that the Project may significantly impact
+
+21 water quality. The project would result in the addition of 5,990 square feet (.14 acres) of additional
+
+22 impervious surface, an approximate 66% increase which is more than twice the County's adopted
+
+23 threshold of significance of a 25% increase for identifying significant impacts to water quality. The
+
+24 detailed fact-based testimony of a credentialed biologist explains the inadequacy of proposed mitigation
+
+25 including the Tier 1 Stormwater Control Plan to reduce this impact below significant levels.
+
+26 38. The record before Respondents also contains substantial evidence supporting a fair argument that
+
+27 the Project may result in significant land use impacts caused by the Project's inconsistency with
+
+28 applicable policies in the County's Coastal Land Use Plan (CLUP), recognized as grounds for requiring
+7
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+
+an EIR (see The Pocket Protectors V. City of Sacramento (2004) 124 Cal.App.4th 903, 930).
+
+2 Supporting this fair argument are comments by Coastal Commission staff, and credentialed experts,
+
+3 identifying inconsistencies between the Project and policies designed to protect the environment
+including policies establishing minimum buffers around wetlands and ESHA policies protecting against
+
+5 flood and erosion hazards, and policies protecting visual resources. Specifically, the Project is
+inconsistent with CLUP Policies 2-11, 9-9, and Coastal Act sections 30231 and 30240 (incorporated by
+reference into the LCP by CLUP Policy 1-1), because it fails to include adequate buffers and other
+protective measures provided for in these policies and designed to prevent impacts to wetlands and
+environmentally sensitive habitats. The Project is also inconsistent with CLUP Policies 3-11, 3-12, 3-
+
+10 14, 3-19 because it develops open space that is unsuited for development due to known flood and
+
+11 erosion hazards, contributes to flood hazards, and inadequately protects coastal watersheds from
+pollution. The Project's excessive bulk and height is also inconsistent with CLUP Policy 4-4 and 12 Coastal Act section 30251 which protect public views to and along the coast and require that structures
+13 conform with the scale of the existing community.
+14
+
+15 PRAYER FOR RELIEF
+
+16 WHEREFORE, Petitioners pray for judgment as set forth below:
+17 A. For Alternative and Peremptory Writs of Mandate ordering Respondents to vacate and set
+18 aside their approval of each and every element and aspect of the entitlement and
+19 authorization of the Project and acceptance of the MND for the Feldman New Residence
+20 Project;
+21 B. For an order staying the approval and prohibiting Respondents from engaging in any
+22 activity pursuant to the Feldman New Residence Project approvals until such time that
+23 Respondents have complied with CEQA and all other applicable state and local laws,
+
+24 policies, ordinances and regulations as are directed by this Court;
+
+25 C. For an order granting an injunction prohibiting Real Party from engaging in any activity
+
+26 pursuant to the Feldman New Residence Project approvals until such time that
+
+27 Respondents have complied with CEQA and all other applicable state and local laws,
+
+28 policies, ordinances and regulations as are directed by this Court; 8
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+
+D. For reasonable attorneys' fees associated with bringing this suit, as authorized under
+
+2 California Code of Civil Procedure 8 1021.5 and any other applicable provisions of law;
+
+3 E. For costs of suit; and
+
+4 F. For such other and further relief as this Court deems proper.
+
+6 Respectfully Submitted,
+LAW OFFICE OF MARC CHYTILO
+
+8
+
+9 Dated: October 4,2018 Marc Chytilo -
+10 Ana Citrin
+Attorneys for Petitioners
+11 RAEMAR CREST, LLC and
+BRILLIANT PROJECTS, LLC 12
+
+13
+
+14 Exhibit 1: Notice of Commencement of Action, October 4, 2018
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+VERIFIED PETITION FOR WRIT OF MANDAMUS
+
+1 Verification
+
+2
+
+3
+
+4 I, Carey Lovelace, in my capacity as Member of Raemar Crest, LLC and Brilliant Projects, LLC,
+
+5 Petitioners in this matter and duly authorized to make such statement, declare that I have read the
+
+6
+- - 24 attached Petition and know its contents, which are true of my own knowledge except as to those matters
+
+7 stated on my information and belief, and as to those matters ! believe the Petition to be true.
+
+8 I declare under penalty of perjury under the laws of the State of California that the foregoing is
+9 true and correct.
+10 Executed on October 4 2018 at New
+
+11
+
+12
+
+13 7n Catey Lovelace, Member
+
+14 Raemar Crest, LLC and Brilliant Projects, LLC
+Petitioners /
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+VERIFIED PETITION FOR WRIT OF MANDAMUS 10
+
+- Marc Chytilo (SBN 132742) Ana Citrin (SBN 255587) 2 LAW OFFICE OF MARC CHYTILO, APC
+P.O. Box 92233
+3 Santa Barbara, CA 93190
+Telephone: (805) 682-0585 4 Facsimile:
+Email(s): (805) 682-2379 Marc@lomcsb.com; Ana@lomcsb.com
+5
+Attorneys for Petitioners 6 Raemar Crest, LLC and Brilliant Projects, LLC
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+8
+9 COUNTY OF SANTA BARBARA
+
+ANACAPA DIVISION
+10
+
+11 RAEMAR CREST, LLC; and BRILLIANT Case No.
+12| PROJECTS, LLC,
+
+13 Petitioners, NOTICE OF INTENT TO COMMENCE
+LITIGATION PURSUANT TO THE
+14 VS. CALIFORNIA ENVIRONMENTAL
+
+15 QUALITY ACT (CEQA)
+COUNTY OF SANTA BARBARA; BOARD 16 OF SUPERVISORS FOR THE COUNTY OF
+17 SANTA BARBARA; and DOES 1-10,
+
+18 Respondents,
+
+19 JANICE FELDMAN; and ROES 11-20,
+20
+
+21 Real Party in Interest.
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+EXHIBIT 1
+
+PLEASE TAKE NOTICE, pursuant to the requirements of Public Resources Code Section
+21167.5, this will serve as notice of the commencement of litigation against COUNTY OF SANTA
+BARBARA and the BOARD OF SUPERVISORS FOR THE COUNTY OF SANTA BARBARA
+(collectively "Respondents"), by RAEMAR CREST, LLC and BRILLIANT PROJECTS, LLC, for
+approval of the Feldman New Residence Project and related actions. This litigation is being
+commenced because the Respondents have not complied with the California Environmental Quality Act
+(Public Resources Code Section 21000, et seq.).
+
+Respectfully Submitted,
+LAW OFFICE OF MARC CHYTILO
+10
+
+11 Dated: October 4 ,2018 dubre
+12 Marc Chytilo
+Ana Citrin
+13 Attorneys for Petitioners
+RAEMAR CREST, LLC and
+14 BRILLIANT PROJECTS, LLC
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+NOTICE OF INTENT TO COMMENCE LITIGATION
+
+1 PROOF OF SERVICE BY MAIL
+
+2 I certify and declare as follows:
+3 am over the age of 18, and not a party to this action. My business address is Law
+4 Office of Marc Chytilo, Post Office Box 92233, Santa Barbara, California 93190, which is
+5 located in Santa Barbara County where the mailing described below took place.
+6 I am familiar with the business practice at my place of business for the collection and
+7
+
+8 processing of correspondence for mailing with the United States Postal Service.
+
+9 Correspondence so collected and processed is deposited with the United States Postal Service
+
+10 that same day in the ordinary course of business.
+
+11 On October 4, 2018 the following document(s):
+
+12 1) Notice of Intent to Commence Litigation Pursuant to the California
+Environmental Quality Act (CEQA)
+13 was placed for deposit in the United States Postal Service in a sealed envelope, with postage
+14 fully paid to:
+15 County of Santa Barbara and
+16 Board of Supervisors for the County of Santa Barbara 105 East Anapamu Street
+17 Santa Barbara, CA 93101
+
+18 certify and declare under penalty of perjury that the forgoing is true and correct.
+19
+
+20
+
+21 Dated: October 4, 2018
+
+22 Ana Citrin
+
+23
+
+24
+25
+
+26
+
+27
+
+28
+
+LAW
+OPFICE
+OP MARC
+CHYTILO PROOF OF SERVICE OF NOTICE OF
+INTENT TO COMMENCE LITIGATION 1
+
+ELECTRONICALLY FILED
+Superior Court of California
+Marc Chytilo (SBN 132742) County of Santa Barbara
+Ana Citrin (SBN 255587) Darrel E. Parker, Executive Officer
+2 LAW OFFICE OF MARC CHYTILO, APC 10/4/2018 1:01 PM
+P.O. Box 92233 By: Terri Chavez, Deputy
+3 Santa Barbara, CA 93190 Telephone: (805) 682-0585
+4 Facsimile: (805) 682-2379
+Email(s): Marc@lomcsb.com; Ana@lomcsb.com
+Attorneys for Petitioners 6 Raemar Crest, LLC and Brilliant Projects, LLC
+
+7
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+8
+COUNTY OF SANTA BARBARA
+9 ANACAPA DIVISION
+10
+
+11 RAEMAR CREST, LLC; and BRILLIANT Case No. 18CV04906
+12 PROJECTS, LLC,
+
+13 Petitioners, NOTICE RE PREPARATION OF
+
+14 RECORD OF ADMINISTRATIVE
+
+VS. PROCEEDINGS
+15
+COUNTY OF SANTA BARBARA; BOARD CALIFORNIA ENVIRONMENTAL 16 OF SUPERVISORS FOR THE COUNTY OF QUALITY ACT ("CEQA") [CAL.
+17 SANTA BARBARA; and DOES 1-10, PUBLIC RESOURCES CODE § § 21000
+Respondents, et seq.]
+18
+
+19 JANICE FELDMAN; and ROES 11-20,
+20
+
+21 Real Party in Interest.
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+TO COUNTY OF SANTA BARBARA:
+
+2 PLEASE TAKE NOTICE that pursuant to Public Resources Code section
+3 21167.6, Petitioners Raemar Crest, LLC and Brilliant Projects, LLC request that Respondent
+4 County of Santa Barbara ("County") certify the record of administrative proceedings before it
+5 concerning the agency's August 28, 2018 approval of the Feldman New Residence ("Project")
+6 and adoption of the Mitigated Negative Declaration (MND) for the Project,
+7 Pursuant to Public Resources Code section 21167.6(b)(2), Petitioners elect to prepare the
+8 record of administrative proceedings subject to certification by the County.
+9
+
+10 DATED: October 4, 2018 LAW OFFICE OF MARC CHYTILO, APC
+
+11
+12 Anhst ANA CITRIN
+13 Attorney for Petitioners
+14 Raemar Crest, LLC and Brilliant Projects, LLC
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24 MECEIVEN
+
+25 OCT 2018 E ATT
+
+26 BY:________._.... 0G1 2010
+
+27
+
+28 BY:
+
+NOTICE RE: PREPARATION OF RECORD OF PROCEEDINGS

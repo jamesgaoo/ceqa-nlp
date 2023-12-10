@@ -1,0 +1,1863 @@
+1 CHATTEN-BROWN & CARSTENS LLP
+
+2 Douglas P. Carstens, SBN 193439
+Michelle Black, SBN 261962
+3 2200 Pacific Coast Hwy, Suite 318
+
+4 Hermosa Beach, CA 90254
+310.798.2400; Fax 310.798.2402
+5
+Attorneys for Petitioner
+6 INGLEWOOD RESIDENTS AGAINST TAKINGS
+
+7 AND EVICTIONS
+
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+9 COUNTY OF LOS ANGELES
+
+10 INGLEWOOD RESIDENTS AGAINST
+TAKINGS AND EVICTIONS, / CASE NO.:
+11
+
+12 Plaintiff and Petitioner, VERIFIED PETITION FOR WRIT
+OF MANDATE AND COMPLAINT
+13 V. FOR INJUNCTIVE RELIEF
+
+14 SUCCESSOR AGENCY TO THE PURSUANT TO THE RALPH M.
+BROWN ACT AND CALIFORNIA
+15 INGLEWOOD REDEVELOPMENT
+AGENCY; OVERSIGHT BOARD TO THE ENVIRONMENTAL QUALITY ACT
+
+16 SUCCESSOR AGENCY TO THE
+
+17 INGLEWOOD REDEVELOPMENT
+AGENCY; LOS ANGELES COUNTY (Code Civ. Proc. §§ 1085, 1094.5 and
+
+18 SECOND DISTRICT CONSOLIDATED 526; Gov. Code §§ 54950 et seq.; Pub.
+OVERSIGHT BOARD and DOES 1-10; Resources Code §§ 21000 et seq.)
+
+19
+
+20 Defendants and Respondents,
+
+21
+
+22
+
+23
+
+24 MURPHY'S BOWL LLC, a Delaware Limited
+25 Liability Company; ROES 10-20;
+
+26 Real Parties in Interest.
+27
+
+28
+
+Printed on Recycled Paper VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEQA
+
+- INTRODUCTION
+
+2 1.
+
+3 Petitioner and Plaintiff Inglewood Residents Against Takings And
+
+4 Evictions ("Petitioner") hereby alleges violations of the Ralph M. Brown Act,
+
+5 Government Code section 54950 et seq. and the California Environmental Quality
+
+6 Act, by the Successor Agency to the Inglewood Redevelopment Agency ("Successor
+Agency") and the Oversight Board To The Successor Agency To The Inglewood
+7 Redevelopment Agency ("Oversight Board") ' (collectively, "Respondents"). These
+
+8
+
+9 violations benefited Real Party in Interest Murphy's Bowl LLC (the "Developer").
+2. The Brown Act, also known as the California open meeting law, has a
+10 clear and forcefully stated purpose: "In enacting this chapter, the Legislature finds
+
+11
+
+12 and declares that the public commissions, boards and councils and the other public
+agencies in this State exist to aid in the conduct of the people's business. It is the
+13 intent of the law that their actions be taken openly and that their deliberations be
+14 conducted openly. [1] The people of this State do not yield their sovereignty to the
+15 agencies which serve them. The people, in delegating authority, do not give their
+
+16 public servants the right to decide what is good for the people to know and what is
+17 not good for them to know. The people insist on remaining informed so that they may
+18 retain control over the instruments they have created." (Gov. Code § 54950.)
+
+19 3. To accomplish these vital goals, the Brown Act, inter alia, (1) requires
+20 that an agenda be posted at least 72 hours before a regular meeting, (2) requires the
+
+21
+
+22 agenda include a brief description that is informative to the public of the action to be
+
+23 taken, and (3) forbids action on any item not on that agenda. In this way, the Brown
+
+24 Act serves to facilitate public participation in all phases of local government
+
+25 decisionmaking and to curb misuse of the democratic process by secret legislation of
+
+26
+
+27 As explained below, as of July 1, 2018, the Successor Agency was dissolved and its powers,
+
+28 duties, and liabilities were taken over by the Los Angeles County Second District Consolidated Oversight Board. For clarity's sake, this petition refers to the Oversight Board throughout but such reference includes the Second District Consolidated Oversight Board.
+
+Printed on Recycled Paper 2
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEQA AND BROWN ACT
+
+public bodies. (San Joaquin Raptor Rescue Center v. County of Merced (2013) 216
+
+2 Cal.App.4th 1167, 1176.)
+4. At its June 19, 2018 meeting, Respondent Successor Agency took action on
+
+a matter not properly noticed putting Petitioner and the public in a position where they
+could not have reasonably understood the nature of the action or the implications of the
+
+6 same. More specifically, the Successor Agency acted to further the disposition of 13
+
+7 parcels of property that would be used for construction of a sports arena project ("Land
+
+8 Transfer"). However, neither the notice for the meeting, the agenda nor the available
+
+9 meeting materials specifically identify the land or the reasons for the Land Transfer in a
+
+10 way that would adequately inform the public of the nature of the action the Successor
+
+11 Agency purported to take.
+
+12 5. At its June 27, 2018 meeting, Respondent Oversight Board similarly took
+13 action on a matter not properly noticed putting Petitioner and the public in a position
+
+14 where they could not have reasonably understood the nature of the action or the
+
+15 implications of the same: More specifically, the Oversight Board acted to facilitate the
+
+16 Land Transfer. However, neither the notice for the meeting, the agenda, nor the available
+
+17 meeting materials specifically identify the land or the reasons for the Land Transfer in a
+
+18 way that would adequately inform the public of the nature of the action the Oversight
+
+19 Board purported to take.
+
+20 6. The Land Transfer would dispose properties that are included within an
+
+21 Exclusive Negotiating Agreement ("ENA") among the City of Inglewood, the Successor
+
+22 Agency, the Inglewood Parking Authority and Murphy's Bowl LLC for a sports arena for
+
+23 the Clippers basketball team (the "Arena Project").
+
+24 7. These meetings violated the Brown Act. The Successor Agency and
+
+25 Oversight Board failed to inform the public that they were taking actions in furtherance
+
+26 of the effort to dispose properties pursuant to an agreement with extensive potential
+
+27 impacts on thousands of Inglewood residents and businesses. The agenda for each
+
+28 meeting merely stated each agency would act to implement the Long Range Property
+
+3
+Printed on Recycled Paper VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEQA AND BROWN ACT
+
+1 Management Plan, without stating what that implementation entailed. Contrary to Brown
+
+2 Act requirements, this description was overly vague and uninformative. It did not inform
+
+3 the public that the property disposition actions are taken in furtherance of the ENA for
+
+4 the Clippers Arena and involving Murphy's Bowl LLC. It failed to inform the public that
+
+5 the parcels being transferred are specifically designated in maps in the ENA for
+
+6 construction of the Arena Project.
+
+7 8. This failure to adequately inform the public is consistent with and further
+8 evidence of the City of Inglewood's deliberate attempts to obfuscate the true nature of
+
+9 actions taken to facilitate the Clippers Arena Project. Such actions were the subject of
+
+10 Karen Foshay's March 15, 2018 article entitled "Documents Show How Inglewood
+
+11 Clippers Arena Deal Stayed Secret." This article included a complete copy of a June 9,
+
+12 2017 email between Clippers and City of Inglewood representatives stating "the entity
+
+13 [Murphy's a Bowl LLC] will have a generic name so it won't identify the proposed
+
+14 project."
+
+15 9. Respondents' actions reflect a continuing course of conduct deliberately
+16 designed to obfuscate the subject of public business being conducted. These actions
+
+17 violate the Brown Act.
+
+18 10. Additionally, Petitioner challenges the Respondents' actions under the
+
+19 California Environmental Quality Act ("CEQA"). Respondents have forced the filing of
+
+20 this action by ignoring California's procedural rules and laws designed to ensure
+
+21 environmental protection, ignoring the interests of the community, and rushing to
+22 facilitate a sports arena development that could displace families and businesses, small
+23 and large, for a billionaire's benefit. Respondents' actions purportedly facilitate the Land
+24 Transfer pursuant to the ENA2 for the Arena Project.
+
+25
+
+26
+
+27 The ENA was amended and restated on August 15, 2017 but its essential terms remained the
+28 same and was approved by the Oversight Board on September 7, 2017. Therefore, this Petition refers throughout to "the ENA" and, where relevant, "the Revised ENA."
+4
+Printed on Recycled Paper VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEQA AND BROWN ACT
+
+•
+
+11. The ENA sets forth and specifically details the Arena Project's scope and
+
+2 even defines it as a "Project." The level of detail the ENA and staff report contain on the
+
+3 Arena Project was more than enough to complete environmental review. The ENA states
+
+4 that Respondents will convey property "to the Developer for development as a premier
+
+5 and state of the art National Basketball Association ('NBA') professional basketball
+
+6 arena consisting of approximately 18,000 to 20,000 seats as well as related landscaping,
+7 parking and various other ancillary uses related to and compatible with the operation and
+8 promotion of a state-of-the-art NBA arena on the Site." (ENA, at pp. 1-2.) The staff
+report for the June 15, 2017, special meeting also confirms that the ENA's purpose is to
+10 "facilitate the development of a premier and state-of-the-art National Basketball
+11 Association ('NBA') professional basketball arena consisting of approximately 18,000 to
+12 20,000 seats." The Arena Project's size and location are all that is needed for the City to
+
+13 conduct environmental review as they establish the parameters of the project's impacts.
+14 No additional information is needed to study the Arena Project's environmental impacts,
+15 yet the Respondents seem to have kicked the proverbial can down the road and decided to
+16 possibly do environmental reiiew later. CEQA requires more and Respondents' decision
+17 to ignore their obligations under state law cannot and should not be countenanced.
+
+18 12. Despite specifically defining the Arena Project in the ENA, Respondents
+19 have prepared no environmental review for the Arena Project before taking actions to
+20 facilitate the Arena Project. The Successor Agency already agreed that for three years it
+21 would "not negotiate with or consider any offers or solicitations from, any person or
+22 entity, other than the Developer, regarding a Disposition and Development Agreement
+23 for the sale, lease, disposition, and/or development of the Site." (ENA, at § 2(a).)
+24 13. Respondents' decision to approve actions to facilitate the Land Transfer
+25 prior to completing environmental review violates CEQA. CEQA prohibits a
+26 government entity from taking actions that foreclose alternatives or potential mitigation
+27 measures before performing the requisite environmental review. The actions to facilitate
+28 the Land Transfer create significant commitments to and momentum for the Arena
+
+5
+Printed on Recycled Paper VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEQA AND BROWN ACT
+
+1 Project. As such, Respondents will undoubtedly ignore the environmental impacts that
+
+2 any future environmental review may uncover, and potentially superior alternative
+
+3 projects, in pursuit of the Arena Project. The Land Transfer will result in significant
+
+4 environmental impacts that must be analyzed in an Environmental Impact Report
+
+5 ("EIR"), disclosed to the public and considered by Respondents prior to approving
+
+6 actions to facilitate the Land Transfer. Respondents' failure to do so violated CEQA.
+14. Respondents' disregard for the community's and the City's well-being, of
+
+8 their obligations under CEQA, for how the Land Transfer and the Arena Project will
+9 significantly impact the environment, and the requirement to comply with the Brown
+10 Act's agenda description requirements necessitate this challenge to Respondents'
+11 respective purported approvals of the actions to facilitate the Land Transfer.
+
+12 PARTIES TO THIS PROCEEDING
+
+13 15. Petitioner Inglewood Residents Against Takings And Evictions is an
+14 unincorporated association that opposes the ENA, the Land Transfer, and the City's,
+
+15 Successor Agency's, Parking Authority's, and Oversight Board's approvals to facilitate
+
+16 the development of the Arena Project by Developer in a residential area and the use of
+17 eminent domain to acquire property to develop the Arena Project. Petitioner and its
+
+18 members will be adversely impacted by the Land Transfer as it will result in significant
+19 impacts to the environment including blight and urban decay, the loss of existing
+
+20 businesses and jobs, and will facilitate development that is inconsistent with the City's
+21 Zoning and General Plan. Petitioner and its members will also be adversely impacted by
+
+22 the environmental impacts created by the Arena Project's construction and operation,
+
+23 including impacts to air quality, traffic congestion, nighttime lighting, and noise.
+
+24 16. Respondent and Defendant Successor Agency is responsible for overseeing
+25 the winding down of redevelopment activity at the local level under the Redevelopment
+26 Law, including managing existing redevelopment projects, making payments on
+27 enforceable obligations, and disposing of redevelopment assets and properties. On or
+28 about January 10, 2012, pursuant to the Redevelopment Law dissolution legislation (AB
+
+6
+Printed on Recycled Paper VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEQA AND BROWN ACT
+
+X1 26 as amended by AB 1484), the City elected to be the Successor Agency to the
+
+2 Redevelopment Agency of the City of Inglewood. The Redevelopment Agency was
+
+3 officially dissolved on or about February 1, 2012.
+
+4 17. Respondent and Defendant Oversight Board To The Successor Agency To
+
+5 The Inglewood Redevelopment Agency is the governing body of the entity that under the
+
+6 Health and Safety Code must approve Successor Agency agreements with the City of
+7 Inglewood prior to the Successor Agency approving those agreements. Inglewood's
+
+8 Mayor Butts was the chair of the Oversight Board at all times relevant to this action.
+
+0 18. Respondent and Defendant Los Angeles County Second District
+
+10 Consolidated Oversight Board is the successor in interest to the Oversight Board.
+11 Pursuant to Health and Safety Code Section 34179 subdivision (j), as of July 1, 2018, the
+12 Oversight Board was dissolved and its duties, responsibilities, and liabilities were taken
+13 over by the Second District Consolidated Oversight Board.
+
+14 19. Real Party in Interest, Murphy's Bowl LLC, is a Delaware Limited
+
+15 Liability Company. Real Party in Interest is the designated developer of the Arena
+16 Project under the ENA.
+
+17 20. Petitioner does not know the true names or capacities, whether individual,
+18 corporate, associate or otherwise, of Respondent Does through 10, or of Real Parties in
+
+19 Interest Roes 10-20, inclusive, and therefore sues said Respondents and Real Parties in
+20 Interest under fictitious names. Petitioner will amend this Petition to show their true
+
+21 names and capacities when and if the same has been ascertained.
+
+22 JURISDICTION AND VENUE
+23 21. This Court has jurisdiction over this proceeding pursuant to California
+24 Code of Civil Procedure section 1085 and 1094.5; and Government Code sections 54960,
+25 54960.1, and 54960.2; and Public Resource Code sections 21168 and 21168.5.
+
+26 22. Venue in this Court is proper pursuant to Code of Civil Procedure section
+27 394, in that Respondents are located within the County of Los Angeles.
+
+28
+
+7
+Printed on Recycled Paper VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEQA AND BROWN ACT
+
+1 23. Petitioner has complied with the requirements of Government Code section
+
+2 54960.1 and 54960.2 by delivering to the Oversight Board on June 29, 2018 a letter
+
+3 demanding that the Oversight Board cure or correct and cease and desist its Brown Act
+
+4 violations. A copy of the letter is attached hereto as Exhibit C.
+
+5 24. Petitioner has complied with the requirements of Government Code section
+6 54960.1 and 54960.2 by delivering to the Successor Agency on June 29, 2018 a letter
+7 demanding that the Successor Agency cure or correct and cease and desist its Brown Act
+
+8 violations. A copy of the letter is attached hereto as Exhibit D.
+
+9 25. Neither Respondent has responded to these letters.
+
+10 THE RALPH M. BROWN ACT.
+
+11 26. The Brown Act provides that "[a]t least 72 hours before a regular meeting,
+
+12 the legislative body of the local agency, or its designee, shall post an agenda containing a
+13 brief general description of each item of business to be transacted or discussed at the
+
+14 meeting, including items to be discussed in closed session. A brief general description of
+
+15 an item generally need not exceed 20 words. The agenda shall specify the time and
+16 location of the regular meeting and shall be posted in a location that is freely accessible to
+17 members of the public and on the local agency's Internet Web site, if the local agency has
+18 one." (Gov. Code § 54954.2 subd. (a)(1).)
+
+19 27. The Brown Act further provides that "[n]o action or discussion shall be
+
+20 undertaken on any item not appearing on the posted agenda, except that members of a
+
+21 legislative body or its staff may briefly respond to statements made or questions posed by
+
+22 persons exercising their public testimony rights under Section 54954.3." (Gov. Code §
+
+23 54954.2 subd. (a)(3).)
+
+24
+
+25 CALIFORNIA ENVIRONMENTAL QUALITY ACT
+
+26 28. The California Environmental Quality Act, found at Public Resources Code
+27 Section 21000 et seq., is based on the principle that "the maintenance of a quality
+
+28
+
+8
+Printed on Recycled Paper VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEQA AND BROWN ACT
+
+1 environment for the people of this state now and in the future is a matter of statewide
+2 concern." (Pub. Resources Code, § 21000, subd. (a).)*
+29. In CEQA, the Legislature has established procedures designed to achieve
+these goals, principally the EIR. These procedures provide both for the determination
+
+5 and for full public disclosure of the potential adverse effects on the environment of
+
+6 discretionary projects that governmental agencies propose to approve, and require a
+
+7 description of feasible alternatives to such proposed projects and feasible mitigation
+
+8 measures to lessen their environmental harm. (Pub. Resources Code § 21002.)
+9 30. The Guidelines require "all phases of project planning, implementation, and
+10 operation" to be considered in the Initial Study for a project. (Guidelines §15063, subd.
+11 (a)(1).) CEQA defines a project as "the whole of an action, which has a potential for
+12 resulting in either a direct physical change to the environment, or a reasonably
+13 foreseeable indirect physical change in the environment." (Guidelines § 15378, subd.
+14 (a).)
+
+15 31. CEQA is not merely a procedural statute. CEQA imposes clear and
+16 substantive responsibilities on agencies that propose to approve projects, requiring that
+17 public agencies not approve projects that harm the environment unless and until all
+
+18 feasible mitigation measures are employed to minimize that harm. (Pub. Resources
+
+19 Code§§ 21002, 21002.1, subd. (b).)
+
+20 32. The alternatives analysis is the "core of the EIR." (Citizens of Goleta Valley
+21 V. Board of Supervisors (1990) 52 Cal.3d 553, 564.) The purpose of a CEQA alternatives
+22 analysis is to identify and analyze alternatives to a project that will avoid or substantially
+23 lessen its significant environmental impacts. (Pub. Resources Code § 21002.) Thus,
+24 "before conducting CEQA review, agencies must not 'take any action' that significantly
+25 furthers a project 'in a manner that forecloses alternatives or mitigation measures that
+26
+
+27 3 CEQA authorizes and directs the State Office of Planning and Research to adopt guidelines for the implementation of CEQA by public agencies. (Pub. Resources Code § 21083.) These 28 guidelines are found at title 14, California Code of Regulations, Sectión 15000 et seq. ("Guidelines") and are binding on all state and local agencies, including Respondents.
+9
+Printed on Recycled Paper VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEQA AND BROWN ACT
+
+1 would ordinarily be part of CEQA review of that public project." (Save Tara V. City of
+
+2 West Hollywood (2008) 45 Cal.4th 116, 138.)
+
+3 33. Agencies may not undertake discretionary actions that could have a
+
+4 significant adverse effect on the environment, or limit the choice of alternatives or
+
+5 mitigation measures, before complying with CEQA. (Guidelines §15004, subd. (b)(2).)
+
+6 The "lead agency," which is the public agency that has the principal responsibility for
+
+7 carrying out the project, is responsible for conducting an initial study to determine, in
+
+8 consultation with other relevant state agencies, whether an environmental impact report, a
+9 negative declaration, or a mitigated negative declaration will be prepared for a project.
+
+10 (Pub. Resources Code §§ 21067; 21080.1, subd. (a); 21083, subd. (a).) Accordingly,
+
+11 public agencies may not "take any action" that furthers project "in a manner that
+
+12 forecloses alternatives or mitigation measures that would ordinarily be part of CEQA
+
+13 review of that public project." (Save Tara, supra, 45 Cal.4th at 138.)
+
+14 34. Thus, CEQA does not permit the postponement of environmental review
+
+15 "to the point where the 'bureaucratic and financial momentum*"* has built up "irresistibly
+16 behind a proposed project 'thus providing a strong incentive to ignore environmental
+
+17 concerns.'" (Save Tara, supra, 45 Cal.4th at 135.)
+
+18 35. Failure either to comply with the substantive requirements of CEQA or to
+
+19 carry out the full CEQA procedures so that complete information as to a project's impacts
+20 is developed and publicly disclosed constitutes a prejudicial abuse of discretion that
+
+21 requires invalidation of the public agency action regardless of whether full compliance
+22 would have produced a different result. (Pub. Resources Code § 21005.)
+
+23 GENERAL ALLEGATIONS
+
+24 36. On June 15, 2017, the City, the City Council, the Successor Agency, and
+
+25 the Parking Authority each purported to hold a special meeting (the "Special Meeting")
+26 pursuant to Government Code Section 54956. At the Special Meeting, Respondents
+27 purported to approve the ENA among the City, the Successor Agency, the Authority and
+28 the Developer "to facilitate the development of a premier and state-of-the-art National
+10
+Printed on Recycled Paper VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF
+
+• PURSUANT TO CEQA AND BROWN ACT
+
+,
+
+1 Basketball Association ('NBA') professional basketball arena consisting of
+2 approximately 18,000 to 20,000 seats."
+
+3 37. On July 20, 2017, Petitioner filed a petition alleging violation of CEQA and
+
+4 fair meeting requirements.
+
+5 38. The Inglewood City Council held a meeting on August 15, 2017. At the
+
+6 August hearing, the City Council approved a "Revised ENA" which contained many of
+
+7 the same terms as the prior ENA and a revised map of the project area purporting to
+
+8 reduce the area of potential eminent domain use. City councilmembers stated it was not
+
+9 the City's intention to take houses or a church by eminent domain. A map attached to the
+10 Revised ENA removed many residences from the boundaries of the project area.
+
+11 However, the Mayor and other councilmembers refused to forego the use of eminent
+
+12 domain altogether.
+
+13 39. On September 7, 2017, Inglewood's Oversight Board to the Successor
+14 Agency to the Inglewood Redevelopment Agency, which is chaired by the Mayor of
+15 Inglewood, approved the Revised ENA as consistent with a long range property
+16 management plan and Redevelopment Dissolution Law.
+17 40. The ENA provides for the conveyance of certain real property within a
+18 defined "Site"-including property owned by the City (**City Parcels"), by the Successor
+19 Agency ("Agency Parcels") and by third parties ("Potential Participating Parcels") --to
+20 the Developer, for the Arena Project.
+21 41. In approving the ENA, Respondents did not consider the environmental
+
+22 impacts of either the ENA or the Arena Project. No environmental review was conducted
+
+23 with respect to the ENA's approval. The ENA is a project under CEQA that has the
+24 potential to result in significant physical changes in the environment. Respondents erred
+25 by not conducting environmental review for the ENA.
+
+26
+
+27
+
+28
+
+11
+Printed on Recycled Paper VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEQA AND BROWN ACT
+
+1
+
+2
+
+3 42. On June 19, 2018, Respondent Successor Agency took steps to implement
+
+4 the ENA by taking action to facilitate the Land Transfer. The Successor Agency's
+
+5 agenda stated the following:
+
+6 A. CSA-3. OFFICE OF THE EXECUTIVE DIRECTOR
+
+7 Staff report recommending approval to request that the Oversight Board for the Successor Agency of the Former Inglewood Redevelopment Agency adopt a
+8 Resolution, directing the Successor Agency to implemeni the State of California Department of Finance approved Long-Range Property Management Plan, as
+9 amended, with respect to the Long-Term Use and Disposition of the LAX Noise Mitigation Properties, B-1.1 through and including B-3, representing Parcels
+10 through and including 13, subject to the applicable disposition requirements of the Federal Aviation Administration grant agreements and Los Angeles World Airports
+11 letter agreements. (Emphasis added.)
+
+12 43. Contrary to Brown Act requirements, the Successor Agency's agenda
+
+13 description was overly vague and uninformative. It does not inform the public that the
+
+14 property disposition actions are taken in furtherance of the ENA for the Clippers Arena
+
+15 and involve Murphy's Bowl LLC. It fails to inform the public, and does not alert the
+
+16 public to the fact, that the parcels being transferred are specifically designated in maps in
+
+17 the ENA for construction of the arena project.
+
+18 44. The Successor Agency also failed to make available the "Federal Aviation
+
+19 Administration grant agreements and Los Angeles World Airports letter agreements" to
+
+20 the public.
+
+21 45. The Successor Agency's failure to adequately inform the public is
+
+22 consistent with and further evidence of the City of Inglewood's deliberate attempts to
+
+23 obfuscate the true nature of actions taken to facilitate the Clippers arena project. This
+
+24 purposeful obfuscation by the City and Murphy's Bowl was reported by Karen Foshay in
+
+25 a story entitled "Documents Show How Inglewood Clippers Arena Deal Stayed Secret,"
+
+26 for KCET on March 15, 2018 and is available at https://www.kcet.org/shows/socal-
+
+27 connected/documents-show-how-inglewood-clippers-arena-deal-stayed-secret. This
+
+28 story reported a June 9, 2017 email between Clippers and City of Inglewood
+
+12
+Printed on Recycled Paper VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEQÀ AND BROWN ACT
+
+representatives stating "the entity [Murphy's Bowl LLC] will have a generic name so it
+
+2 won't identify the proposed project." Therefore, the City and Murphy's Bowl
+
+3 purposefully obscured the identity of the parties involved in the ENA and subsequent
+transactions with a "generic name."
+46. On June 19, 2018, Respondent Successor Agency approved the action to
+
+6 facilitate the Land Transfer to dispose of 13 parcels of property that would be used for
+7 construction of the Clippers sports arena project in violation of CEQA and the Brown
+
+8 Act. The Successor Agency acted to facilitate the disposal of the following properties
+
+9 that are included within the ENA:
+
+10 Property Name Parcel Number on LRPMP Inventory
+11 a. Prairie & 101st (B-1.1) F
+
+12 b. Prairie & 102nd (B-1.2) 2, 3
+
+13 C. 102nd Street (B-2) 4, 5, 6, 7, 8
+
+14 d. Century & Prairie (B-3) 9, 10, 11, 12, 13
+15 For reference, the ENA's Site Map is included below. The above-designated properties
+16 are marked in yellow:
+
+17 E thibr  Az Site Map 18
+
+19
+
+LArct,ULsSi 20
+
+21
+
+22
+
+23
+
+24
+
+1HU5ONA 25
+
+26 47. Respondent Oversight Board on June 27, 2018 took steps to implement the
+27 ENA by taking action to facilitate the Land Transfer. This action violated the Brown Act
+
+28 and CEQA. The Oversight Board failed to inform the public that the properties are
+13
+Printed on Recycled Paper VERIFIED PETITION FOR WRIT OF MANDATE
+AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEQA AND BROWN ÄCT
+
+1 proposed to be disposed of pursuant to an agreement with extensive potential impacts on
+
+2 thousands of Inglewood residents and businesses. The brief description on the Oversight
+
+3 Board agenda for its June 27, 2018 meeting stated:
+7 00 Adoption of Resolution by the Oversight Board to the Successor Agency of the former Inglewood Redevelopment Agency Directing the City of Inglewood as the Successor Agency to ormer Inglewood Redevelopment Agency to Implement the approved Long-Range Property Management Plan, as amended, with respect to the Long-Term Use and Disposition of the LAX Noise Mitigation Properties, B-1.1 through and including B-3, representing Parcels 1 through and including 13, subject to the applicable Disposition Requirements of the Federal Aviation Administration grant
+cc agreements and Los Angeles World Airports letter agreements. (Emphasis added.)
+48. Contrary to Brown Act requirements, the Oversight Board's agenda
+
+10 description was overly vague and uninformative. It does not inform the public that the
+
+11 property disposition actions are taken in furtherance of the ENA for the Clippers Arena
+and involve Murphy's Bowl LLC. It fails to inform the public, and does not alert the 12 public to the fact, that the parcels being transferred are specifically designated in maps in 13
+the ENA for construction of the Arena Project.
+14
+49. The Oversight Board also failed to make available the "Federal Aviation 15
+
+16 Administration grant agreements and Los Angeles World Airports letter agreements" to
+the public.
+17
+50. On June 27, 2018, Respondent Oversight Board approved the action to 18
+
+19 facilitate the Land Transfer to dispose of 13 parcels of property that would be used for
+construction of the Clippers sports arena project in violation of CEQA and the Brown
+20 Act. The Oversight Board acted to facilitate the disposal of the following properties that 21
+are included within the ENA:
+22
+Property Name Parcel Number on LRPMP Inventory
+23 a. Prairie & 101st (B-1.1) 1
+24 b. Prairie & 102nd (B-1.2) 2, 3
+25
+C. 102nd Street (B-2) 4, 5, 6, 7, 8
+26
+d. Century & Prairie (B-3) 9, 10, 11, 12, 13
+27
+
+28
+
+14
+VERIFIED PETITION FOR WRIT OF MANDATE Printed on Recycled Paper AND COMPLAINT FOR INJUNCTIVE RÉLIEF PURSUANT TO CEQA AND BROWN ACT
+
+For reference, the ENA's Site Map is included again below. The above-designated
+
+2 properties are marked in yellow:
+
+3
+
+0AAu • ESHBISATSIOM y
+4
+
+5
+
+LAALA1.LE
+6
+
+7
+
+8 INTT
+
+9
+
+10
+
+LCUCAS C WasLy *. 11
+
+12 51. In taking action to facilitate the Land Transfer, Respondents did not
+13 evaluate the potential environmental impacts of the Land Transfer. Respondents' failure
+14 to consider the Land Transfers' potential environmental impacts violated CEQA.
+15 52. Petitioner on June 29, 2018, pursuant to Government Code section 54960.1,
+16 demanded that the Oversight Board cure or correct its violations of the Brown Act within
+17 30 days. The Oversight Board failed to do so.
+
+18 53. Petitioner on June 29, 2018, pursuant to Government Code section 54960.1,
+19 demanded that the Successor Agency cure or correct its violations of the Brown Act
+
+20 within 30 days. The Successor Agency failed to do so.
+
+21 54. The Land Transfer is a "project" under CEQA, as defined by Guidelines
+22 section 15378. Respondents' actions to facilitate the Land Transfer is an "approval"
+23 under CEQA as defined by Guidelines section 15352. The Land Transfer may cause a
+24 direct and/or reasonably foreseeable indirect environmental change. Therefore, the Land
+25 Transfer is subject to CEQA review.
+
+26 55. In failing to subject the action to facilitate the Land Transfer to CEQA
+27 review, Respondents ignored the impact that the Land Transfer will have on the
+28 environment. Respondents are prohibited from engaging in negotiations with anyone
+15
+Printed on Recycled Paper VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEQA AND BROWN ACT
+
+F other than the Developer regarding the potential development of the Site. (ENA, § 2(a).)
+
+2 Further, the ENA prohibits Respondents from selling or otherwise transferring to third
+
+3 parties their interests in any property on the Site. (ENA, § 11.)
+
+4 56. In failing to subject the action to facilitate the Land Transfer to CEQA
+
+5 review, Respondents did not consider, and did not inform the public of, direct and
+
+6 reasonably foreseeable indirect environmental impacts that will occur as a result of the
+
+7 Land Transfer, including but not limited to land use consistency and urban decay and
+
+8 blight.
+
+9 57. The action to facilitate the approval of the Land Transfer is subject to
+
+10 CEQA because it will result in significant land use impacts.
+
+11 58. In sum, Respondents have failed to consider the Land Transfer's potential
+
+12 and reasonably foreseeable environmental impacts, including:
+
+13 Environmental impacts of noise, traffic, air pollution, aesthetics, and other
+
+14 impacts;
+
+15 Effects on land use inconsistent with the City's General Plan; and
+
+16 Increases in urban decay and blight.
+
+17 FIRST CAUSE OF ACTION
+
+18 (Failure to Comply with CEQA: Failure to Conduct Initial Study
+
+19 and/or Environmental Assessment)
+
+20 59. Petitioner incorporates herein and realleges the allegations in prior
+
+21 paragraphs, as if fully set forth herein.
+
+22 60. CEQA applies "to discretionary projects proposed to be carried out or
+23 approved by public agencies. .. ." (Pub. Resources Code, § 21080, subd. (a).)
+
+24 61. CEQA defines a "project" as "an activity which may cause either a direct
+25  physical change in the environment, or a reasonably foreseeable indirect physical change
+26 in the environment. ..." (Pub. Resources Code, § 21065.) The Guidelines define
+
+27 "project" as "the whole of an action, which has a potential for resulting in either a direct a
+
+28
+
+16
+Printed on Recycled Paper VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEQA AND BROWN ACT
+
+1 physical change in the environment, or a reasonably foreseeable indirect physical change
+
+2 in the environment." (Guidelines, § 15371, subd. (a).)
+
+3 62. The Guidelines define "approval" to mean "the decision by a public agency
+
+4 which commits the agency to a definite course of action in regard a to a project intended to
+
+5 be carried out by any person." (Guidelines § 15352, subd. (a).)
+63. Respondents' approval of actions to facilitate the Land Transfer constitutes
+
+7 a discretionary project that will cause foreseeable, adverse physical changes to the
+
+8 environment and is, therefore, subject to CEQA review. (See City of Livermore v.
+
+9 LAFCO (1986) 184 Cal.App.3d 531 [adoption of revisions to sphere-of-influence
+10 guidelines constitute a "project" subject to CEQA review because the revisions reflected
+
+11 a major policy shift relating to where growth would occur and what the focus of urban
+
+12 development would be].)
+
+13 64. "Obviously it is desirable that the precise information concerning
+
+14 environmental consequences which an EIR affords be furnished and considered at the
+
+15 earliest possible stage. The Guidelines express this principle in a variety of ways. Thus,
+16 'EIR's should be prepared as early in the planning process as possible to enable
+17 environmental considerations to influence project, program or design.' [citation.]."
+18 (Bozung V. Local Agency Formation Com. (1975) 13 Cal.3d 263, 282.) "Decisions
+19 reflecting environmental considerations could most easily be made when other basic
+
+20 decisions were being made, that is, during the early stage of project conceptualization,
+
+21 design and planning." (Citizens for Responsible Gov't v. City of Albany (1997) 56
+22 Cal.App.4th 1199, 1221 (quotations omitted).)
+
+23 65. Respondents failed to consider, avoid or mitigate the individual and
+24 cumulative impacts of reasonably foreseeable environmental impacts resulting from the
+25 actions facilitating the approval of the Land Transfer. Such impacts include noise, traffic,
+
+26 air quality, aesthetics, land use inconsistency, urban decay and blight.
+27 66. Respondents have violated CEQA and failed to proceed in the manner
+28 reguired by law, committed : prejudicial abuse of discretion, and acted arbitrarily and
+17
+Printed on Recycled Paper VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEQA AND BROWN ACT
+
+capriciously in their approval of the Land Transfer because, without limitation,
+
+2 Respondents failed to subject the Land Transfer to an Initial Study or other
+
+3 environmental assessment as required by CEQA.
+
+4 67. Petitioner has served the California Attorney General with a copy a of this
+
+5 amended verified petition, along with a notice of its filing, in compliance with Public
+
+6 Resources Code section 21167.7. A true and correct copy of that notice and proof of
+
+7 service is attached as Exhibit A hereto.
+
+8 68. Petitioner has provided written notice of the commencement of this action
+
+9 to Respondents, in compliance with Public Resources Code section 21167.5. A true and
+10 correct copy of that notice and proof of service is attached as Exhibit B hereto.
+
+11 69. Petitioner has performed any and all conditions precedent to filing a CEQA
+12 action against Respondents, and has exhausted any and all available administrative
+13 remedies to the extent required by law.
+
+14 SECOND CAUSE OF ACTION
+
+15 (Failure to Comply with CEQA: Improper Deferral
+
+16 of Environmental Analysis)
+
+17 70. Petitioner incorporates herein and realleges the allegations in prior
+18 paragraphs, as if fully set forth herein.
+
+19 71. Petitioner is informed and believes and thereon alleges that Respondents
+20 | have deferred analysis under CEQA for the Arena Project.
+
+21 72. Petitioner is informed and believes and thereon alleges that the actions to
+22 facilitate the Land Transfer commit Respondents to a definite course of action with
+
+23 respect to the Arena Project by, for example, defining now, before any CEQA studies
+
+24 occur, which parts of the City should be considered for the proposed Arena Project and
+
+25 the acceptable size of the proposed Arena Project.
+
+26 73. The actions to facilitate the Land Transfer commits Respondents to a
+27 definite course of action that will cause numerous adverse environmental effects that
+28 should have been studied in an EIR before the Land Transfer was approved.
+18
+Printed on Recycled Paper VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEQA AND BROWN ACT
+
+1 74. By taking the actions to facilitate the Land Transfer, Respondents have
+2 displayed a level of commitment to the Arena Project that is more than sufficient to
+
+3 constitute a "project approval."
+75. By taking the actions to facilitate the Land Transfer, Respondents have
+circumscribed or limited their discretion with respect to future environmental review,
+
+6 mitigation measures, project alternatives and alternative locations.
+
+7 76. The Guidelines are clear that Respondents are barred from taking actions
+
+8 "that would have a significant adverse effect or limit the choice of alternatives or
+
+9 mitigation measures, before completion of CEQA compliance." (Guidelines § 15004,
+10 subd. (b)(2)(emphasis added).)
+
+11 77. Petitioner is informed and believes and thereon alleges that Respondents'
+12 taking the actions to facilitate the Land Transfer constitutes such an unauthorized action
+
+13 because it limits Respondents' choices of methods to eliminate and/or mitigate adverse
+14 environmental impacts generated by the Land Transfer.
+
+15 78. Petitioner is informed and believes and thereon alleges that the Land
+16 Transfer constitutes a prejudgment by Respondents on the proposed Arena Project and
+17 the proposed Site.
+
+18 79. Petitioner is informed and believes and thereon alleges that the Land
+
+19 Transfer commits Respondents to a definite course of action and SO constrains
+20 Respondents' exercise of police power such that the future CEQA review envisioned by
+
+21 the Land Transfer is rendered an unlawful post hoc rationalization for decisions and
+
+22 commitments already made.
+
+23 80. Any later-performed environmental analysis will be influenced in its
+24 discussion of impacts, mitigation and alternatives by the significant funds already given
+25 to the City by the Developer.
+
+26 81. Respondents have violated CEQA and failed to proceed in the manner
+27 required by law, committed a prejudicial abuse of discretion, and acted arbitrarily and
+28 capriciously in their approval of the Land Transfer because Respondents committed
+19
+Printed on Recycled Paper VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEQA AND BROWN ÄCT
+
+1 themselves to a definite course of action, i.e. the Arena Project, before complying with
+2 CEQA, and improperly deferred CEQA analysis of the Arena Project to a later time.
+
+3 THIRD CAUSE OF ACTION
+
+4 (Violation of Ralph M. Brown Act, Gov. Code § 54954.1 and 54954.2).
+82. Petitioner incorporates herein and realleges the allegations in prior
+6 paragraphs, as if fully set forth herein.
+
+7 83. The purpose of the Ralph M. Brown Act is to "aid in the conduct of the
+8 people's business" by encouraging public participation in government decision making.
+9 (Government Code §54950.)
+
+10 84. In furtherance of its goal of public participation, the Brown Act requires
+
+11 that at least 72 hours before a regular meeting, a legislative body must post an agenda
+12 containing a "brief description" of each item of business to be acted upon at the meeting.
+
+13 (Government Code § 54954.2(a)(1).)
+
+14 85. The legislative body may not take any action on an item not appearing on
+15 the posted agenda, except in certain situations not applicable here. (Government Code §§
+16 54952(a)(3), 54954.2(b).)
+
+17 86. The Successor Agency violated the Brown Act by failing to properly list in
+18 the agenda for the June 19, 2018 Successor Agency meeting the actions to be taken at
+19 that meeting. Specifically, the posted agenda listed no item of business describing that
+
+20 the Successor Agency would consider disposition of properties included within an
+
+21 Exclusive Negotiating Agreement between the City of Inglewood, the Successor Agency,
+
+22 the Parking Authority, and Murphy's Bowl, LLC for construction of a sports arena.
+
+23 87. The Successor Agency agenda for the meeting disclosed only that the
+
+24 Successor Agency would "request that the Oversight Board for the Successor Agency of
+25 the Former Inglewood Redevelopment Agency adopt a Resolution, directing the
+
+26 Successor Agency to implement the State of California Department of Finance approved
+27 Long-Range Property Management Plan, as amended, with respect to the Long-Term Use
+28 and Disposition of the LAX Noise Mitigation Properties, B-1.1 through and including B-
+20
+Printed on Recycled Paper VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEOA AND BROWN ÁCT
+
+1 3, representing Parcels through and including 13, subject to the applicable disposition
+2 requirements of the Federal Aviation Administration grant agreements and Los Angeles
+
+3 World Airports letter agreements."
+
+4 88. The Successor Agency failed to inform the public that it was proposing to
+
+5 dispose of properties pursuant to an agreement with extensive potential impacts on
+
+6 hundreds of Inglewood residents and businesses. The Successor Agency failed to inform
+the public of any connection between the listed agenda item and the construction of the
+8 Arena Project.
+
+9 89. The Successor Agency failed to make available to the public the "Federal
+10 Aviation Administration grant agreements and Los Angeles World Airports letter
+11 agreements."
+
+12 90. Thus, the agenda's description was overly vague, and the Successor
+13 Agency's action was not adequately or accurately described on the agenda, in violation of
+14 the Brown Act.
+
+15 91. The Successor Agency further violated the Brown Act by not making
+16 available the Federal Aviation Administration grant agreements and Los Angeles World
+17 Airports letter agreements to the public.
+
+18 92. Petitioner IRATE was prejudiced by this violation because it was denied
+19 the opportunity to prepare and provide meaningful comments to the Successor Agency on
+20 the implementation of the amended Long-Range Property Management Plan, the
+21 applicable disposition requiremenits of the "Federal Aviation Administration grant
+22 agreements and Los Angeles World Airports letter agreements," the disposition of
+23 Parcels 1 through 13, and the interaction between the disposition of the properties and the
+24 Arena Project or to ascertain the extent to which the implementation of the Long-Range
+25 Property Management Plan or requirements of the "Federal Aviation Administration
+26 grant agreements and Los Angeles World Airports letter agreements" would affect the
+27 interests of IRATE's members.
+
+28
+
+21
+Printed on Recycled Paper VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEQA AND BROWN ACT
+
+93. On June 29, 2018, pursuant to Government Code section 54960.1(b),
+
+2 IRATE timely submitted a demand to the Successor Agency to cure or correct the action
+
+3 taken on June 19, 2018 in violation of the Brown Act. The Successor Agency did not
+
+4 respond.
+
+5 94. The Oversight Board violated the Brown Act by failing to properly list in
+
+6 the agenda for the June 27, 2018 Oversight Board meeting the actions to be taken at that
+
+7 meeting. Specifically, the posted agenda listed no item of business describing that the
+
+8 Oversight Board would consider disposition of properties included within an Exclusive
+
+9 Negotiating Agreement between the City of Inglewood, the Successor Agency, the
+10 Parking Authority, and Murphy's Bowl, LLC for construction of a sports arena.
+
+11 95. The Oversight Board agenda for its June 27, 2018 meeting disclosed the
+12 Board would consider: "Adoption of Resolution by the Oversight Board to the Successor
+
+13 Agency of the former Inglewood Redevelopment Agency Directing the City of
+
+14 Inglewood as the Successor Agency to former Inglewood Redevelopment Agency to
+
+15 Implement the approved Long-Range Property Management Plan, as amended, with
+
+16 respect to the Long-Term Use and Disposition of the LAX Noise Mitigation Properties,
+
+17 B-1.1 through and including B-3, representing Parcels 1 through and including 13,
+
+18 subject to the applicable Disposition Requirements of the Federal Aviation
+19 Administration grant agreements and Los Angeles World Airports letter agreements."
+20 The Oversight Board failed to inform the public that it was proposing to dispose of
+
+21 properties pursuant to an agreement with extensive potential impacts on thousands of
+22 Inglewood residents and businesses. The Oversight Board failed to inform the public of
+
+23 any connection between the listed agenda item and the construction of a sports arena.
+
+24 96. Thus, the agenda's description was overly vague, and the Oversight
+25 Board's action was not adequately or accurately described on the agenda, in violation of
+
+26 the Brown Act.
+
+27
+
+28
+
+22
+Printed on Recycled Paper VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEQA AND BROWN ACT
+
+1 97. The Oversight Board Agency further violated the Brown Act by not making
+
+2 available the Federal Aviation Administration grant agreements and Los Angeles World
+
+3 Airports letter agreements to the public.
+
+4 98. Petitioner IRATE was prejudiced by this violation because it was denied
+the opportunity to prepare and provide meaningful comments to the Oversight Board on
+
+6 the implementation of the amended Long-Range Property Management Plan, the
+7 applicable disposition requirements of the "Federal Aviation Administration grant
+
+8 agreements and Los Angeles World Airports letter agreements," the disposition of
+
+9 1 Parcels 1 through 13, and the interaction between the disposition of the properties and the
+10 Arena Project or to ascertain the extent to which the implementation of thé Long-Range
+11 Property Management Plan or requirements of the "Federal Aviation Administration
+
+12 grant agreements and Los Angeles World Airports letter agreements" would affect the
+
+13 interests of IRATE's members. For these reasons, the Oversight Board's action at its
+14 June 27, 2018, including adoption of a resolution directing implementation of the
+15 approved Long-Range Property Management Plan, as amended, with respect to the
+16 disposition of Parcels through 13, must be declared null and void, pursuant to
+17  Government Code section 54960.1(a).
+
+18 99. On June 29, 2018, pursuant to Government Code section 54960.1(b),
+19 IRATE timely submitted a demand to the Oversight Board to cure or correct the action
+20 taken on June 27, 2018 in violation of the Brown Act. The Oversight Board did not
+21 respond.
+
+22 100. For the reasons stated above, the Successor Agency' action taken on June
+23 19, 2018 and the Oversight Board's action taken on June 27, 2018 with respect to
+24 LRPMP 1-13 must be declared null and void, pursuant to Government Code section
+25 54960.1(a).
+
+26 101. Without a writ of mandate and declaratory and injunctive relieve provided
+27 for by the Brown Act, IRATE is informed and believes, and on that basis alleges, that it
+28 and other interested persons, citizens, and taxpayers will be irreparably harmed because
+23
+Printed on Recycled Paper VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF E PURSUANT TO CEQA AND BROWN ACT
+
+1 they will be denied notice of and the opportunity to participate in the Successor Agency's
+
+2 and Oversight Board's meetings, a right guaranteed by law." Government Code Section
+
+3 54960(a) provides that any interested person, such as IRATE, may commence an action
+
+4 by mandamus, injunction, or declaratory relief for the purpose of stopping or preventing
+
+5 violations or threatened violations of the Brown Act.
+
+6 FOURTH CAUSE OF ACTION
+
+7 (Injunction Against Further Pursuit of the Land Transfer
+
+8 Until Respondents Comply with CEQA and the Brown Act)
+
+9 102. Petitioner incorporates herein and realleges the allegations in prior
+10 paragraphs, as if fully set forth herein.
+11 103. Respondents failed to comply with CEQA and the Brown Act prior to
+12 taking actions to facilitate the Arena Project and the Land Transfer. Petitioner therefore
+13 prays for a preliminary and permanent injunction against Respondents and any of their
+14 agents from taking any further action to advance the Land Transfer and/or Arena Project
+
+15 unless and until such time as Respondents comply with their mandatory duties under
+16 CEQA, the Brown Act, and all other applicable environmental rules, regulations and
+17 procedures.
+
+18 104. Petitioner has no adequate remedy other than that prayed for herein in that
+19 the subject matter is unique and monetary damages would therefore be inadequate to
+20 fully compensate Petitioner for the consequences of Respondents' actions in their
+
+21 continued failure to comply with CEQA and the Brown Act with respect to the Project
+
+22 and the Land Transfer. Petitioner therefore seeks, and is entitled to, injunctive relief
+
+23 under Code of Civil Procedure section 526 et seq., and to a stay, preliminary and/or
+24 permanent injunction.
+
+25 PRAYER FOR RELIEF
+
+26 WHEREFORE, Petitioner and Plaintiff prays for relief as follows:
+
+27 1. For a peremptory writ of mandate:
+
+28
+
+24
+Printed on Recycled Paper VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEQA AND BROWN ACT
+
+a. directing Respondents Successor Agency and the Oversight Board,
+2 and each of them, to rescind and set aside their actions take on June 19, 2018 and June
+
+3 27, respectively; and
+
+4 b. enjoining Respondents Successor Agency and the Oversight Board,
+5 their respective officers, employees, agents, boards, commissions, and all subdivisions
+
+6 from granting any authority, permits, or entitlements as part of the Arena Project or the
+7 Land Transfer; and
+
+8 C. commanding Respondents Successor Agency and the Oversight
+
+9 Board, and each of them, to immediately suspend all activities in furtherance or
+10 implementation of the Land Transfer until such time as environmental review has been
+
+11 completed in compliance with CEQA.
+
+12 2. For a preliminary and permanent injunction against Respondents Successor
+13 Agency and the Oversight Board, and each of them, and any of their agents, enjoining
+14 them from further pursuing the Land Transfer and/or commencing work under the Land
+15 Transfer unless and until such time as Respondents comply with their mandatory duties
+16 under CEQA and all other applicable environmental rules, regulations and procedures.
+17 3. For a declaration that the Successor Agency actions of June 19, 2018,
+18 including the adoption of a resolution implementing the long range property management
+19 plan are null and void due to the Board's violations of the Brown Act;
+20 4. For a declaration that the Oversight Board actions of June 27, 2018,
+21 including the adoption of a resolution directing the Successor Agency to implement the
+22 long range property management plan are null and void due to the Board's violations of
+23 the Brown Act;
+
+24 5. For an award of its costs of suit and litigation expenses, including, without
+25 limitation, attorneys' fees incurred herein as permitted or required by law.
+26 6. For attorneys' fees as authorized by Government Code section 54960.5 and
+27 Code of Civil Procedure section 1021.5; and
+
+28
+
+25
+Printed on Recycled Paper VERIFIED. PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEQA AND BROWN ACT
+
+7.
+
+2
+
+3 For such other relief as the Court deems just and proper.
+Dated: August 10, 2018
+
+4 Respectfully submitted,
+
+un CHATTEN-BROWN & CARSTENS LLP
+
+Nt By
+
+8 Douglas P. Carstens Michelle Black
+
+9 Attorneys for Petitioner
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Printed on Recycled Paper 26
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RBLIEF PURSUANT TO CEQA AND BROWN ACT
+
+VERIFICATION
+2
+
+3 1, the undersigned, declare that 1 am an officer of Inglewood Residents Against
+
+4 Takings and Evictions, Petitioner in this action. I have read the foregoing Verified
+Petition For Writ Of Mandate and know the contents thereof, and the same is true of my
+5
+own knowledge.
+6
+
+7 I declare under penalty of perjury that the foregoing is true and correct. Executed
+
+8 this 10 day of August 2018 a Idauvade  Cslfetile
+
+10 Alexis Cormier
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+27
+Printed on R d'Paper VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE RELIEF PURSUANT TO CEQA AND BROWN ACT
+
+EXHIBIT A
+
+Hermosa Beach Office Phone: (310) 798-2400 Chatten-Brown & Carstens LLP Douglas Carstens
+
+San Diego Office 2200 Pacific Coast Highway, Suite 318 Email Address:
+Hermosa Beach, CA 90254 dpc@cbcearthlaw.com
+Phone: (858) 999-0070 www.cbcearthlaw.com Direct Dial;
+Phone: (619) 940-4522 310-798-2400 Ext. 1
+
+August 10, 2018
+By U.S. Mail California Attorpey General 300 South Spring Street Los Angeles, CA 90013-1230
+Re: Challenge to Successor Agency to the Inglewood Redevelopment Agency, Oversight Board to the Successor Agency to the Inglewood Redevelopment Agency; Los Angeles County Second District Countywide Oversight Board, and Murphy's Bowl LLC, Inglewood Residents Against Takings And Evictions v. Successor Agency to the Inglewood Redevelopment Agency, et al. f
+
+Honorable Attorney General:
+
+Pursuant to Public Resources Code section 21167.7 and Code of Civil Procedure section 388, please find enclosed a copy of Plaintiff and Petitioner the Inglewood Residents Against Takings And Evictions' ("Petitioner") Verified Petition for Writ of Mandate and Complaint for Injunctive Relief Pursuant to the California Environmental Quality Act ("Pétition") against Defendants and Respondents Successor Agency to the Inglewood Redevelopment Agency, Los Angeles County Second District Consolidated Oversight Board (collectively, "Respondents") and Real Party in Interest Murphy's Bowl LLC, filed in Los Angeles Superior Court, Stanley Mosk Courthouse, located at 111 N. Hill Street, Los Angeles, CA 90012.
+Petitioner challenges Respondents' approval of a land transfer to facilitate the construction of a professional sports arena in the City of Inglewood. Among other causes of action, Petitioner challenges Respondents' failure to adhere to the requirements of the California Environmental Quality Act, including proper preparation of an Environmental Impact Report, and failure to comply with the Brown Act.
+
+This Petition is being provided pursuant to the notice provisions of the Public Resources Code. Please contact me if you have any questions.
+
+Sincerely, Urhé Douglas P. Carstens
+Encl: Verified Petition for Writ of Mandate and Complaint for Injunctive Relief Pursuant
+to the California Environmental Quality Act and Brown Act
+
+California Attorney General
+August 10, 2018
+Page 2
+
+PROOF OF SERVICE
+
+I am employed by Chatten-Brown & Carstens LLP in the County of Los Angeles, State of California. I am over the age of 18 and not a party to the within action. My business address is 2200 Pacific Coast Highway, Ste. 318, Hermosa Beach, CA 90254 . On 8- 10-18 I served the within documents:
+
+LETTER TO CALIFORNIA ATTORNEY GENERAL
+
+VIA UNITED STATES MAIL. I am readily familiar with this business' practice for collection and processing of correspondence for mailing with the United States Postal Service. On thé same day that correspondence is placed for collection and mailing, it is deposited in the ordinary course of business with the United States Postal Service in a sealed envelope with postage fully prepaid. I enclosed the above-referenced document(s) in a sealed envelope or package addressed to the person(s) at the address(es) as set forth below, and following ordinary business practices I placed the package for collection and mailing on the date and at the place of business set forth above.
+declare that I am employed in the office of a member of the bar of this court whose direction the service was made. I declare under penalty of perjury under the laws of the State of California that the above is true and correct. Executed on § -/0-)8 at
+Hermosa Beach, California 90254. Gu Cynthia Kellman
+
+SERVICE LIST
+
+California Attorney General
+300 South Spring Street
+Los Angeles, CA 90013-1230
+
+\
+
+EXHIBIT B
+
+Hermosa Beach Office
+Phone: (310) 798-2400 EBC Douglas P. Carstens
+Fax: (310) 798-2402
+San Diego Qffice Chatten-Brown & Carstens LLP Email Address:
+2200 Pacific Cöast Highway, Suite 318 dpc@cbcearthlaw.com
+
+Phone: (858) 999-0070 Phone: (619) 940-4522 Hermosa Beach, CA 90254 Direct Dial:
+www.cbcearthlaw.com 310-798-2400 Ext. 1
+
+August 10, 2018
+By U.S. Mail
+
+Rhonda Rangel Los Angeles County Consolidated Oversight Board
+500 West Temple Street, Room B-50
+Los Angeles, CA 90012
+
+Re: Challenge to June 27, 2018 Approval to Facilitate Land Transfer for
+Inglewood Clippers Arena Project
+
+Dear Ms. Rangel:
+
+Pursuant to Public Resources Code section 21167.5, please take notice that the Inglewood Residents Against Takings And Evictions plans to file a petition for writ of mandate and complaint challenging the June 27, 2018 approval of a land transfer to develop a professional sports arena by the Oversight Board to the Successor Agency to the Inglewood Redevelopment Agency. This petition will be filed in Los Angeles Superior Court, Stanley Mosk Courthouse, located at 111 N. Hill Street, Los Angeles, CA 90012.
+Sincerely,
+Lugtao Ptt
+Douglas P. Carstens
+
+Page 2 of 2
+PROOF OF SERVICE
+
+am employed by Chatten-Brown & Carstens LLP in the County of Los Angeles, State of California. I am over the age of 18 and not a party to the within action. My business address is 2200 Pacific Coast Highway, Ste. 318, Hermosa Beach, CA 90254 . On Augsst- 10, 2o 1 8 I served the within documents:
+LETTER TO LA CONSOLIDATED OVERSIGHT BOARD
+
+VIA UNITED STATES MAIL. I am readily familiar with this business' practice for collection and processing of correspondence for mailing with the United States Postal Service. On the same day that correspondence is placed for collection and mailing, it is deposited in the ordinary course of business with the United States Postal Service in a sealed envelope with postage fully prepaid. I enclosed the above-referenced document(s) in a sealed envelope or package addressed to the person(s) at the address(es) as set forth below, and following ordinary business practices I placed the package for collection and mailing on the date and at the place of business set forth above.
+I declare that I am employed in the office of a member of the bar of this court whose direction the service was made. I declaré under penalty of perjury under the laws of the State of California that the above is true
+Hermosa Beach, California 90254. and correct. Executed on Avgust lo at
+gh Zorf
+
+Cynthia Kellman
+
+SERVICE LIST
+Rhonda Rangel LA Consolidated Oversight Board 500 West Temple Street, Room B-50 Los Angeles, CA 90012
+
+Hermosa Beach Office Phone: (310) 798-2400 CBC Douglas P. Carstens
+Fax: (310) 798-2402
+San Diego Office Chatten-Brown & Carstens LLP Email Address:
+2200 Pacific Coast Highway, Suite 318 dpc@cbcearthlaw.com
+
+Phone: (858) 999-0070 Hermosa Beach, CA 90254
+Phone: (619) 940-4522 Direct Dial:
+www.cbcearthlaw.com 310-798-2400 Ext. 1
+
+August 10, 2018
+
+By U.S. Mail
+James T. Butts, Chair of the Board
+Oversight Board to the Successor Agency to the Inglewood Redevelopment Agency 1 Manchester Boulevard
+Inglewood, CA 90301
+
+Re: Challenge to June 27, 2018 Approval to Facilitate Land Transfer for
+Inglewood Clippers Arena Project
+
+Dear Chairman Butts:
+
+Pursuant to Public Resources Code section 21167.5, please take notice that the Inglewood Residents Against Takings And Evictions plans to file a petition for writ of mandate and complaint challenging the June 27, 2018 approval to facillitate a land a transfer to develop a professional sports arena by the Oversight Board to the Successor Agency to the Inglewood Redevelopment Agency. This petition will be filed in Los Angeles Superior Court, Stanley Mosk Courthouse, located at 111 N. Hill Street, Los Angeles, CA 90012.
+Sincerely,
+Aarfes Htfe Douglas P. Carstens
+
+Page 2 of 2
+PROOF OF SERVICE
+
+am employed by Chatten-Brown & Carstens LLP in the County of Los Angeles, State of California. Iam over the age of 18 and not a party to the within action. My business address is 2200 Pacific Coast Highway, Ste. 318, Hermosa Beach, CA 90254 . On 8-/o-18 I served the within documents:
+
+LETTER TO OVERSIGHT BOARD TO THE SUCCESSOR AGENCY
+TO THE INGLEWOOD REDEVELOPMENT AGENCY
+REGARDING PETITION FOR WRIT OF MANDATE
+
+VIA UNITED STATES MAIL. I am readily familiar with this business'
+practice for collection and processing of correspondence for mailing with the United States Postal Service. On the same day that correspondence is placed for collectión and mailing, it is deposited in the ordinary course of business with the United States Postal Service in a sealed envelope with postage fully prepaid. enclosed the above-referenced document(s) in a sealed envelope or
+package addressed to the person(s) at the address(es) as set forth below, and
+following ordinary business practices I placed the package for collection and mailing on the date and at the place of business set forth above.
+
+declare that I am employed in the office of a member of the bar of this court whose direction the service was made. I declare under penalty of perjury under the laws of the State of California that the above is true and correct. Executed on &-10-/8 , at
+Hermosa Beach, California 90254.
+
+Cynthia Kellman
+
+SERVICE LIST
+James T. Butts, Chair of the Board
+Oversight Board to the Successor
+Agency to the Inglewood
+Redevelopment Agency 1 Manchester Boulevard
+Inglewood, CA 90301
+
+Hermosa Beach Office Phône: (310) 798-2400
+Fax: (310) 798-2402 Chatten-Brown & Garstens LLP Douglas P. Carstens Email Áddress:
+San Diego Office dpc@cbcearthlaw.com
+Phone: (858) 999-0070 2200 Pacific Coast Highway, Suite 318
+Phone: (619) 940-4522 Hermosa Beach, CA 90254 Direct Dial:
+www.cbcearthlaw.com 310-798-2400 Ext.
+
+August 10, 2018
+
+By U.S. Mail
+
+James T. Butts, Chair of the Board Successor Agency to the Inglewood Redevelopment Agency 1 Manchester Boulevard
+Inglewood, CA 90301
+
+Re: Challenge to June 19, 2018 Approval to Facilitate Land Transfer for
+Inglewood Clippers Arena Project
+
+Dear Chairman Butts:
+
+Pursuant to Public Resources Code section 21167.5, please take notice that the Inglewood Residents Against Takings And Evictions plans to file a petition for writ of mandate and complaint challenging the June 19, 2018 approval to facillitate a land transfer to develop a professional sports arena by the Successor Agency to the Inglewood Redevelopment Agency. This petition will be filed in Los Angeles Superior Court, Stanley Mosk Courthouse, located at 111 N. Hill Street, Los Angeles, CA 90012.
+
+: Sincerely, MoTE Douglas P. Carstens
+
+Page 2 of 2
+PROOF OF SERVICE
+
+am employed by Chatten-Brown & Carstens LLP in the County of Los Angeles, State of California. I am over the age of 18 and not a party to the within action. My business address is 2200 Pacific Coast Highway, Ste. 318, Hermosa Beach, CA 90254 .
+On 8-/0-18 I served the within documents:
+
+LETTER TO THE SUCCESSOR AGENCY
+TO THE INGLEWOOD REDEVELOPMENT AGENCY
+REGARDING PETITION FOR WRIT OF MANDATE
+
+VIA UNITED I STATES MAIL. I am readily familiar with this business' practice for collection and processing of correspondence for mailing with the United States Postal Service. On the same day that correspondence is placed for collection and mailing, it is deposited in the ordinary course of business with the United States Postal Service in a sealed envelope with postage fully prepaid. I enclosed the above-referenced document(s) in a sealed envelope or package addressed to the person(s) at the address(es) as set forth below, and following ordinary business practices I placed the package for collection and mailing on the date and at the place of business set forth above.
+
+I declare that am employed in the office of a member of the bar of this court
+whose direction the service was made. I declare under penalty of perjury under the laws of the State of California that the above is true and correct. Executed on &-10-18' , at Hermosa Beach, California 90254. G
+
+SERVICE LIST
+James T. Butts, Chair of the Board
+Successor Agency to the Inglewood Redevelopment Agency
+1 Manchester Boulevärd
+Inglewood, CA 90301
+
+A
+
+^ 0
+
+EXHIBIT C
+
+Hermosa Beach Office Chatten-Brown & Carstens LLP
+Phone: (310) 798-2400 2200 Pacific Coast Highway, Suite 318 Douglas P. Carstens
+
+San Dlego Öffice Hermosa Begch, CA 90254 Email Address: dec@cbcearthlaw.com
+Phone: (858) 999-0070 www.cbcearthlaw.com
+Phone: (619) 940-4522 Direct Dial
+310-798-2400 Ext.'
+
+June 29, 2018
+
+Sent Via Email and Overnight Mail
+
+Chairperson James T. Butts, Jr.
+Members of the Oversight Board of the Inglewood Successor Agency
+1 Manchester Blvd. Inglewood, CA 90301
+
+Re: Demand to Cure and Correct Brown Act Violation in Disposition of Properties by Oversight Board Resolution Adopted June 27, 2018
+Dear Oversight Board Members:
+These comments are provided on behalf of the Inglewood Residents Against Takings and Evictions (*IRATE") regarding the June 27, 2018 City of Inglewood Former Redevelopment Agency Oversight Board agenda. This action approved the disposition of 13 parcels of property that would be used for construction of the Clippers sports arena project.
+We demand that you cease and desist in your continuing efforts to defeat the
+public transparency purposes of the Brown Act, and that you rescind the disposition of property that the Oversight Board approved on June 27, 2018.
+
+I. THE OVERSIGHT BOARD VIOLATED THE BROWN ACT.
+The Oversight Board on June 27, 2018 acted to dispose properties that are included within an Exclusive Negotiating Agreement between the City of Inglewood, the Successor Agency, the Parking Authority and Murphy's Bowl LLC for a sports arena (the "Arena Project"). This meeting violated the Brown Act.
+The Oversight Board failed to inform the public that it was proposing to dispose properties pursuant to an agreement with extensive potential impacts on hundreds of Inglewood residents and businesses. The brief description on the Oversight Board agenda for its June 27, 2018 meeting stated:
+
+Inglewood Successor Agency Oversight Board
+June 29, 2018
+Page 2
+
+Adoption of Resolution by the Oversight Board to the Successor Agency of the former Inglewood Redevelopment Agency Directing the City of Inglewood as the Successor Agency to former Inglewood Redevelopment Agency to Implement the approved Long-Range Property Management Plan, as amended, with respect to the Long-Term Use and Disposition of the LAX Noise Mitigation Properties, B. 1.1 through and including B-3, representing Parcels 1 through and including 13, subject to the applicable Disposition Requirements of the Federal Aviation Administration grant agreements and Los Angeles World Airports letter agreements. (Emphasis added.)
+Contrary to Brown Act requirements, this description is overly vague and uninformative. It does not bother to inform the public that the property disposition actions are taken in furtherance of an Exclusive Negotiating Agreement (ENA) for the Clippers Arena and involving Murphy's Bowl LLC. It fails to inform the public that the parcels being transferred are specifically designated in maps in the ENA for construction of the arena project. This failure to adequately inform the public is consistent with and further evidence of the City of Inglewood's deliberate attempts to obfuscate the true nature of actions taken to facilitate the Clippers arena project. (See enclosure 1, Karen Foshay, "Documents Show How Inglewood Clippers Arena Deal Stayed Secret," KCET (Mar. 15, 2018), available at https://www.kcet.org/shows/socal-connected/documents- show-how-intlewood-clippers-arena-deal-stayed-secret; and enclosure 2, June 9, 2017 email between Clippers and City of Inglewood representatives stating "the entity [Murphy's Bowl LLC] will have a generic name so it won't identify the proposed project.")
+The Oversight Board has clearly violated the letter and spirit of the Brown Act. The Arena Project is a big deal. The ENA is a big deal. The ENA and Arena Project will severely impact homes, small businesses and a church.
+Once again, pursuant to Government Code section 54960.1, we hereby demand that the Oversight Board cure or correct its violations of the Brown Act within 30 days or we will consider all available options, including seeking judicial determination that the action taken violated the Brown Act and will seek reasonable attorneys' fees and costs incurred in bringing such an action.
+
+Il. CONCLUSION.
+
+Public property dispositions cannot be approved without adequate notice and compliance with Brown Act requirements. The Oversight Board is again violating the Brown Act and has not complied with the California Environmental Quality Act (CEQA), as explained in our letter to the Oversight Board dated June 27, 2018.
+
+2
+
+Inglewood Successor Agency Oversight Board June 29, 2018
+Page 3
+We urge you to put the needs and interests of the Inglewood community first. We demand that you rescind your improperly granted approvals of property disposition at the June 27, 2018 hearing, and comply with the Brown Act and CBQA prior to taking further property disposition actions.
+Sincerely,
+faengharhtorts
+Douglas P. Carstens
+
+Enclosures:
+1. Article entitled "Documents Show How Inglewood Clippers Arena Deal Stayed Secret," KCET (Mar. 15, 2018), available at
+https://www.kcet.org/shows/socal-connected/documents-show-how
+inglewood-clipners-arena-deal-staved-secret;
+
+2. June 9, 2017 email exchange between Clippers and City of Inglewood representatives
+
+3
+
+ENCLOSURE 1
+
+Documents Show How Inglewood Clippers Arena Deal Stayed Secret https://www.kcet.org/shows/socal-connected/documents-show-how-in..
+
+Documents Show How Inglewood Clippers Arena Deal Stayed
+Secret
+
+Manch 15,2018
+
+Inglewood City
+Inglewood city officials were secretly negotlating an agreement to buld an arena for the Clippers basketball team for months befote giving a carefully guarded e to the public, accolding to neny released documents.
+Now there is a requieist for the Los Angeles Districi Attorney's Office to investigate.
+Residents learned about the project on June 15, 2017 at a special meeting of the city counci. The documents suggest that backers of the arena may have purposely used a special meeting because it required fust 24 bowrs public notice, while a regular mecting requirés /2 hours notice. The meeting agenda didn't mentioh the arena or the Clippers, but géve an obscure fiame of a related company negotiating the deal.
+Ajudge ordered the docuiments be made public carlier this month as part of ongoing litigation involving the city and a community group. The Inglewood Residents Againat Taking and Eviction, or IRATE, is suing Inglewood, claiming the city aid not tollow the California Environmnental Quality Act, or CEQA, before it approved the excusive negotiating agreement to build the prena.
+On.Thureday, Doug Carstens, an environmental attorney representing IRATE sent a letter to the Los Angeles District Attorhey lackde Lacey askdng het office to investigate the city for intentional Brown Act violatione. The Brown Act is a state law guaranteeing the public'e right to attend meetings held by local legislative bodies.
+"These actions are exactly contrary to the government openness and transparency purposes of the Brown Act and the California Environmental Quality Act," said Carstens.
+The state's oldest environmental law, CEQA, requires local and state agencies to do environmental reviews before approving certain projects. An environmental impact report evaluating the arena is currently underway, according to city officials, Should the project be approved, some local business owners and residents have voiced concern the city may use eminent domain to acquire property to develop the arena.
+Carstens sought documents, including emails, related to the agreement. The city had argued the emails were protected by attorney client privilege. Los Angeles Superior Court Judge Amy Hogue partially disagreed and ordered attorneys defending Inglewood to release over 200 pages of draft agreements and emails Monday.
+In an April 2017 email from Royce Jones, an attorney for Inglewood, to Chris Hunter, the attorney negotiating for the project, Jones confirms a draft of the agreement was prepared based on discussions earlier in the month with Mayor 3 James Butts and "certain other City and Clipper representatives."
+IRATE contends that the documents show the secrecy was maintained Wegally.
+
+1 of 2 6/29/2018, 1:15 PM
+
+Documents Show How Inglewood Clippers Arena Deal Stayed Secret htttps://www.kcet.org/shows/socal-connected/documents-show-how-in.
+
+In a June 9 email, Hunter asked Jones if the agreement must be part of the city council's public agenda or could be dowploaded "shortly before the meeting" because his client wanted to reach out to "various players." Jones responded that the agreement must be part of the agenda and "that is why we elected to just post 24 hours versus the normal 72 hours."
+
+Hello Chris,
+The document has to be posted with the agenda. That ls why we elected to just post 24 hours versus the nonmal 72
+hours.
+
+Royce
+
+Sent from tiy IPhone
+
+June 9 email between lawyens for Inglewood and the Clippers.
+Hunter added that the entity he is representing "will have a generic name so it won't identify the proposed project." Regidents would see only that the meeting involved Murphy's Bowl LLC, an entity formed in January 2017 in Delaware. It has one member, Steven Ballmer, the owner of the Clippers, accoiding to court records.
+The Inglewood City Council's regular meetings are held on alternate Tuesdays, but there wasn't one on Tuesday, June 13. Instead, there was a special meeting on Thursday, which only required the agenda to be posted 24 bours in advance.
+The timing is more than suspect, Carstens believes.
+"Each of these actions individually and collectively shows an ongoing and illegal pattern of gaming the system, depriving the public of notice, and hiding the ball,' said Carstens.
+In the Mayor'a newsletters, Butts acknowledged negotiations with the Clippers began in January 2017.
+Butte and City Attorney Ken Campos did not respond to1 request for comment.
+The negotiations are characterized as "secret meetinge" in a lawsuit filed March 5 by the Madison Square Garden Co., which owns the Forum, MSG is suing the city of Inglewood including Butts, the city council and the parking authority, claiming they violated a contractual agreement involving a 15-acre parking lot. Inglewood leased the lot to MSG for seven years starting in 2014 to use for overflow parking.
+MSG says in the laweuit that it invested $100 million into the Forum property based on agreements with the city, induding the parking lot lease. The lawsult also claims that in January 2017 the city pressured MSG to back out of the parking lease agreement and that the mayor claimed the city needed the land to create a "technology park."
+Butts is at the center of what MSG calls a "fraudulent scheme" to let the Clippers use the land to build a facility that would compete with the Forum. The mayor told MSG officials use his personal email and not his official city account to communicate, according the complaint.
+The Forum was acquired by MSG in 2012 and has been a venue for concerts and sporting events.
+By early April MSG terminated the parking lease agreement. At the time, MSG did not know Inglewood officials were already well underway in drafting an agreement with the owners of the Clippers to sell them the parking lot in order to build an arena for the basketball team. MSG claims it would not have broken the lease had it known of the city's "true intentiobs.* The company learned about the plan on June 14 when Butts broke the news in a telephone call to an MSG executive, the same day the public agenda was posted.
+
+2 of 2 6/29/2018, 1:15 PM
+
+ENCLOSURE 2
+
+M
+
+Royce M
+Feom: Royce K. Jones Friday, June 9, 2017 5:28 PM
+Chris Hunter
+Subject: Re: Question
+
+Hello Chris,
+
+The document has to be posted with the egenda. Thet is why we elected to just post 24 hours versus the normal 72 hours,
+
+Royce
+
+Sent from my IPhone
+
+> On Jun 9, 2017, at 5:22 PM, Chris Hunter «chunter@rhhslaw.com> wrote:
+
+>Hi Royce
+> What are the city's requlrements for when the ENA document has to be posted, I understand The agende has to go out 24 hours In advance but the question that I was asked was whether the document must be part of the public agenda or If it can be down loaded shortly before the hearing. My client is trying to time it out reach to the various players. Our entity will have a generic name so it won't Identify the proposed project
+> Sent from my iPhone
+2
+> Chris Hunter
+
+1
+
+IRATE000825 ING-252
+
+EXHIBIT D
+
+CBC
+
+Hermosa Beach Office Chatten-Brown & Carstens LLP
+Phone: (310) 798-2400 2200 Pacific Coast Highway, Suite 318 Douglas P. Carstens
+Email Address: San Diego Office Hermosa Beach, CA 90254
+Phone: (858) 999-0070 www.cbcearthlaw.com doc@cbcearthlaw.com Direct Dia™ Phone: (619) 940-4522 310-798-2400 Ext.
+
+June 29, 2018
+
+Sent Via Email and Overnight Mail
+Governing Board of the Successor Agency to the Inglewood Redevelopment Agency c/o Margarita Cruz
+Successor Agency Manager
+1 Manchester Boulevard
+Inglewood, California 90301
+
+Re: Demand to Cure and Correct Brown Act Violations in Disposition of Properties by Successor Agency Action on June 19, 2018
+
+Dear Successor Agency Board Members:
+These comments are provided on behalf of the Inglewood Residents Against Takings and Evictions ("IRATE*) regarding Agenda Item CSA-3 on the June 19, 2018 Inglewood Successor Agency agenda. This action approved the disposition of 13 parcels of property that would be used for construction of the Clippers sports arena project.
+We demand that you cease and desist in your continuing efforts to defeat the public transparency purposes of the Brown Act, and that you rescind the disposition of property that the Successor Agency approved on June 19, 2018.
+
+I. THE SUCCESSOR AGENCY VIOLATED THE BROWN ACT.
+The Successor Agency on June 19, 2018 acted to dispose properties that are included within an Exclusive Negotiating Agreement between the City of Inglewood, the Successor Agency, the Parking Authority and Murphy's Bowl LLC for a sports arena (the "Arena Project"). This meeting violated the Brown Act.
+The Successor Agency failed to inform the public that it was proposing to dispose properties pursuant to an agreement with extensive potential impacts on hundreds of Inglewood residents and businesses. The brief description of the action on the Successor Agency agenda reads as follows:
+
+Inglewood Successor Agency June 29, 2018
+Page 2
+
+A. CSA-3. OFFICE OF THE EXECUTIVE DIRECTOR
+Staff report recommending approval to request that the Oversight Board for the Successor Agency of the Former Inglewood Redevelopment Agency adopt a Resolution, directing the Successor Agengy to implement the State of California Department of Finance approved Long-Range Property Management Plan, as amended, with respect to the Long-Term Use and Disposition of the LAX Noise Mitigation Properties, B-1.1 through and including B-3, representing Parcels through and including 13, subject to the applicable disposition requirements of the Federal Aviation Administration grant agreements and Los Angeles World Airports letter agreements. (Emphasis added.)
+Contrary to Brown Act requirements, this description is overly vague and uninformative. It does pot bother to inform the public that the property disposition actions are taken in furtherance of an Exclusive Negotiating Agreement (ENA) for the Clippers Arena and involving Murphy's Bowl Ll .C. hi fails to inform the public that the paroels being transforred are specifically designated in maps in the ENA for construction of the arena project. This failure to adequately inform the public is consistent with and further evidence of the City of Inglewood's deliberate attempts to obfuscate the true natute of actións taken to facilitate the Clippers arena project. (See enclosure 1, Karen Foshay, *Doouments Show How Inglewood Clippers Arena Deal Stayed Seeret," KCET (Mar. 15, 2018), available at hups://www.kcet.org/shows/socal-connected/documents: show-how-inglewood-clippers-arena-deal-staved-sectet, and enclosure 2, June 9, 2017 email between Clippers and City of Inglewood representatives stating "the entity [Murphy'& Bowl LLC] will have a generic name so it wön't identify the proposed project.")
+The Successor Agency has clearly violated the letter and spirit of the Brown Act. The Arena Project is a big deal. The ENA is a big deal. The ENA and Arena Project will severely impact homes, small businesses and a church.
+Once again, pursuant to Government Code section 54960.1, we hereby demand that the Successor Agency cure or correct its violations of the Brown Act within 30 days or we will consider all available options, including seeking judicial determination that the action taken violated the Brown Act and will seek reasonable incurred in bringing such an action. ättorneys' fees and costs
+
+II. CONCLUSION.
+
+Public property dispositions cannot be approved without adequate notice and compliance with Brown Act requirernents. The Successor Agency is again violating the Brown Act and has not complied with the California Environmental Quality Act
+
+2
+
+Inglewood Successor Agency June 29, 2018
+Page 3
+
+(CEQA), as explained in our letter to the Successor Agency Oversight Board dated June 27, 2018.
+
+We urge you to put the needs and interests of the Inglewood community first. We demand that you rescind your improperly granted approvals of property disposition at the June 19, 2018 hearing, and comply with the Brown Act and CEQA prior to taking further property disposition actions.
+Sincerely,
+
+Douglas P. Carstens
+
+Enclosures:
+1. Article entitled "Documents Show How Inglewood Clippers Arena Deal Stayed Secret," KCET (Mar. 15, 2018), available at https://www.kcet.org/shows/socal-connected/documents-show-how: inglewood-clippers-arena-deal-stayed-secret;
+
+2. June 9, 2017 email exchange between Clippers and City of Inglewood representatives
+
+3
+
+O
+
+ENCLOSURE P
+
+Documents Show How Inglowood Clippers Arena Deal Stayed Secret https://www.kcet.org/shows/socal-sonnected/döcuments-show-how-in.
+
+Documents Show How Inglewood Clippers Arena Deal Stayed Secret
+
+March 15, 2018
+
+Inglewood City Coundl | Lawrence K. Ho, Los Angeles Times via Getty Images
+Inglewood city officials were secretly negotiating an agreement to build an arena for the Clippers basketball team for months before giving a carefully guarded notice to the public, according to newly released documents.
+Now there is a request for the Los Angeles District Attorney's Office to investigate.
+Residents learned about the project on June i5, 2017, at a spetial meeting of the city council. The documents suggest that backers of the arena may have purposely used a special meeting because it required just 24 hours public notice, while e regular meeting requires 72 hours notice. The meeting agenda didn't mention the arena or the Clippers, but gave an obscure name of a related company negotiating the deal.
+A judge ordered the documents be made public earlier this month as part of ongoing litigation involving the city and a community group. The Inglewood Residents Against Taking and Eviction, or IRATE, is suing Inglewood, claiming the city did not follow the Callfornia Environmental Quality Act, or CEQA, before it approved the exclusive negotiating agreement to build the arena.
+On Thursday, Doug Carstens, an environmental attorney representing IRATE sent a letter to the Los Angeles District Attorney Jackie Lacey asking her office to investigate the city for intentional Brown Act violations. The Brown Act is a state law guaranteeing the public's right to attend meetings held by local legislative bodies.
+"These actions are exactly contrary to the government openness and transparency purposes of the Brown Act and the California Erivironmental Quality Act," said Carstens.
+The state's oldest environmental law, CEQA, requires local and state agencies to do environmental reviews before approving certain projects. An environmental impact report evaluating the arena is currently underway, according to city officials. Should the project be approved, some local business owners and residents have voiced concern the city may use eminent domain to acquire property to develop the arena.
+Carstens sought documents, including emails, related to the agreement. The city had argued the emails were protected by attorney-client privilege. Los Angeles Superior Court Judge Amy Hogue partially disagreed and ordered attorneys defending Inglewood to release over 200 pages of draft agreements and emails Monday,
+In an April 2017 email from Royce Jones, an attorney for Inglewood, to Chris Hunter, the attorney negotlating for the project, Jones confirms a draft of the agreement was prepared based on discussions earlier in the month with Mayor James Butts and "certain other City and Clipper representatives,"
+IRATE contends that the documents show the secrecy was maintained Illegally.
+
+1 of 2 6/29/2018, 1:05 PM
+
+Documents Show How Inglewood Clippers Arena Deal Stayed Secret https://www.kcet.org/shows/socal-connected/documents-show-how-in.
+
+In a June 9 email, Hunter asked Jones if the agreement must be part of the city councll's public agenda or could be downloaded "shortly before the meeting" because his allent wanted to reach out to "various players." Jones responded that the agreement must be part of the agenda and "that is why we elected to just post 24 hours versus the normal 72 hours.'
+
+Hello Chris,
+The document has to be posted with the agenda. That is why we elected to just post 24 hours versus the normal 72
+hours.
+
+Royce
+
+Sent from my iPhone
+
+June 9 email between lawyers for Inglewood and the Clippers.
+Hunter added that the entity he is representing will have a generic name so it won't identify the proposed project." Residents would see only that the meeting involved Murphy'& Bowl LLC, an entity formed in January 2017 in Delaware. It has one member, Steven Ballmer, the owner of the Clippers, according to court records.
+The Inglewond City Counci's regular meetings are held on alternate Tuesdays, but there wasn't one on Tuesday, June 13. Instead, there was a special meeting on Thursday, which only required the agenda to be posted 24 hours in advance,
+The timing is more than suspect, Carstens belleyea.
+"Each of these actione individually and collectively shows an ongoing and illegal pattern of gaming the system, depriving the public of notice, and hiding the ball," said Carstens.
+In the Maxor's .newsletters, Butts acknowledged pegotiations with the Clippers began in January 2017.
+Butts and City Attorney Ken Campos did not respond to 1 request for comment.
+The negotiations are characterized as "secret meetings" in a lawsuit filed March s by the Madison Square Garden Co., which owns the Forum. MSG is suing the city of Inglewood including Butts, the city coundil and the parking authority, claiming they violatea à contractual agreement involving a 15-acre parking lot. Inglewood leased the lot to MSG for seven
+yeats starting in Zoia to use for bverflow parking.
+MSG says in the lawsuit that it invested $100 million into the Forum property based on agreements with the city, including the parking lot lease. The lawsult algo claims that in January 2017 the city pressured MSG to back out of the parking lease agreement and that the mayor claimed the dty needed the land to create a "technology park."
+Buitts is at the center of what MSG calle a "fraudulent schemne" to Jet the Clippere use the lend to build a facility that would compete with the Forum. The mayor told MSG officials use his personal email and not his official city account to communicate, according the complaint,
+The Forum was acquired by MSG in 2012 and has been a venue for concerts and spotting events.
+By early April MSG terminated the parking lease agreement. At the time, MSG did not know Inglewood officials were already well underway in drafting an agreement with the owners of the Clippers to sell them the parking lot in order to build an arena for the basketball team. MSG claima it would not have broken the lease had it known of the city's "true intentions." The company learned about the plan on June 14 when Butts broke the news in a telephone call to an MSG executive, the same day the public agenda was posted.
+
+2 of 2 6/29/2018, 1:05 PM
+
+0
+
+ENCLOSURE 2
+
+/
+
+C
+
+Rovce K. Jones
+
+Royce K. Jones
+Friday, June 9, 2017 5:28 PM
+Chris Hunter
+Re: Question
+
+Hello Chris,
+
+The document has to be posted with the agenda. That is why we elected to just post 24 hours versus the normal 72 hours.
+
+Royce
+
+Sent from my iPhone
+
+> On Jun 8, 2017, at 5:22 PM, Chris Hunter cchunter@rhhslaw.com> wrote:
+>H1 Royce
+
+> What are the city's requirements for when the ENA document has to be posted, I understand The agenda has to go out 24 hours in advance but the question that I was asked was whether the document must be part of the public agenda or Mit can be down toaded shortly belore the hearing. My dlent is trying to time it out reach to the varlous players. Our entity will have a generic name so it won't identify the proposed project
+> Sent from my IPhone
+> Chris Hunter
+
+^ 1
+
+ING-252
+IRATE000825
+
+AM Il: 47 ç2 198 LOS ANGELES 83N30 AZNSOI. *h
+
+1 81OZ E
+
+*) S077V83H39 A2NVOIIV $3733XY 8S :O1 WV EI 9NV BI0Z 033038 Jonathan Cagalawan
+
+CBC
+Hermosa Beach Office Chatten-Brown & Carstens LLP Douglas Carstens
+Phone: (310) 798-2400
+San Diego Office 2200 Pacific Coast Highway, Suite 318 Email Address:
+
+Hermosa Beach, CA 90254 dpc@cbcearthlaw.com
+Phone: (858) 999-0070 Direct Dial:
+Phone: (619) 940-4522 www.cbcearthlaw.com 310-798-2400 Ext.
+
+August 10, 2018
+By U.S. Mail
+California Attorney General
+300 South Spring Street
+Los Angeles, CA 90013-1230
+
+Re: Challenge to Successor Agency to the Inglewood Redevelopment Agency, Oversight Board to the Successor Agency to the Inglewood Redevelopment Agency; Los Angeles County Second District Countywide Oversight Board, and Murphy's Bowl LLC, Inglewood Residents Against Takings And Evictions v. Successor Agency to the Inglewood Redevelopment Agency, et al.
+
+Honorable Attorney General:
+
+Pursuant to Public Resources Code section 21167.7 and Code of Civil Procedure
+section 388, please find enclosed a copy of Plaintiff and Petitioner the Inglewood Residents Against Takings And Evictions' ("Petitioner") Verified Petition for Writ of Mandate and Complaint for Injunctive Relief Pursuant to the California Environmental Quality Act ("Petition") against Defendants and Respondents Successor Agency to the Inglewood Redevelopment Agency, Los Angeles County Second District Consolidated Oversight Board (collectively, "Respondents") and Real Party in Interest Murphy's Bowl LLC, filed in Los Angeles Superior Court, Stanley Mosk Courthouse, located at 111 N.
+Hill Street, Los Angeles, CA 90012.
+
+Petitioner challenges Respondents' approval of a land transfer to facilitate the construction of a professional sports arena in the City of Inglewood. Among other causes of action, Petitioner challenges Respondents' failure to adhere to the requirements of the California Environmental Quality Act, including proper preparation of an Environmental Impact Report, and failure to comply with the Brown Act.
+This Petition is being provided pursuant to the notice provisions of the Public Resources Code. Please contact me if you have any questions.
+
+Sincerely, Lo Douglas P. Carstens
+Encl: Verified Petition for Writ of Mandate and Complaint for Injunctive Relief Pursuant
+to the California Environmental Quality Act and Brown Act
+
+California Attorney General
+August 10, 2018
+Page 2
+
+PROOF OF SERVICE
+
+I am employed by Chatten-Brown & Carstens LLP in the County of Los Angeles, State of California. I am over the age of 18 and not a party to the within action. My
+business address is 2200 Pacific Coast Highway, Ste. 318, Hermosa Beach, CA 90254 . On 8-00-18 I served the within documents:
+
+LETTER TO CALIFORNIA ATTORNEY GENERAL
+
+VIA UNITED STATES MAIL. I am readily familiar with this business'
+practice for collection and processing of correspondence for mailing with the United States Postal Service. On the same day that correspondence is placed for collection and mailing, it is deposited in the ordinary course of business with the United States Postal Service in a sealed envelope with postage fully prepaid. I enclosed the above-referenced document(s) in a sealed envelope a or package addressed to the person(s) at the address(es) as set forth below, and following ordinary business practices I placed the package for collection and mailing on the date and at the place of business set forth above.
+
+declare that I am employed in the office of a member of the bar of this court whose direction the service was made. I declare under penalty of perjury under the laws of the State of California that the above is true and correct. Executed on & -/0-8 at
+Hermosa Beach, California 90254. G Cyntlia Kellman
+
+SERVICE LIST
+
+California Attorney General
+300 South Spring Street
+Los Angeles, CA 90013-1230
+
+NECEEN SEP 0 7 2018
+BY:_

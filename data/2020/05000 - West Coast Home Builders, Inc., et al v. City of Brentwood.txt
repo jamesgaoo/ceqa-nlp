@@ -1,0 +1,926 @@
+1 ARTHUR F. COON (Bar No. 124206) MATTHEW C. HENDERSON (Bar No. 229259) 2 MILLER STARR REGALIA
+A Professional Law Corporation
+3 1331 N. California Blvd., Fifth Floor
+Walnut Creek, California 94596
+4 | Telephone: 925 935 9400
+Facsimile: 925 933 4126
+5 Email: arthur.coon@msrlegal.com matthew.henderson@msrlegal.com
+6
+Attorneys for Petitioners and Plaintiffs
+7 WEST COAST HOME BUILDERS, INC. and I DISCOVERY BUILDERS, INC.
+8
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+9
+COUNTY OF CONTRA COSTA
+10
+
+11
+WEST COAST HOME BUILDERS, INC., a Case No. NO0~0210
+12 California corporation, and DISCOVERY
+
+13 BUILDERS, INC., California corporation, NOTICE TO ATTORNEY GENERAL
+Petitioners and Plaintiffs, [Pub. Resources Code § 21167.7 and Code of
+
+14 Civil Procedure § 388]
+
+15 CEQA Action
+
+16 CITY OF BRENTWOOD, a California municipal corporation, and DOES 1 through 20, inclusive, 17
+Respondent and Defendant.
+18
+
+19
+TO THE ATTORNEY GENERAL OF THE STATE OF CALIFORNIA:
+20
+PLEASE TAKE NOTICE, under Public Resources Code section 21167.7 and Code 21
+
+22 of Civil Procedure section 388, that on or about January 31, 2020, Petitioners and Plaintiffs WEST
+
+23 COAST HOME BUILDERS, INC. and DISCOVERY BUILDERS, INC. filed in the above-
+
+24 captioned matter a Verified Petition for Writ of Mandate and Complaint For Declaratory Relief
+
+25 (*Petition") against Respondent and Defendant CITY OF BRENTWOOD ("Respondent")
+
+26 alleging, inter alia, violations of the California Environmental Quality Act ("CEQA"; Pub.
+
+27 Resources Code, § 21000 et seq.) by Respondent's failure to timely prepare and/or certify an
+
+28 environmental impact report for the proposed Bridle Gate project.
+
+MCI--9999912228958.1 -]-
+NOTICE TO ATTORNEY GENERAL
+
+A copy of the Petition is included with this notice.
+2 Dated: January 31, 2020 MILLER STARR REGALIA
+
+3
+
+4 By:
+5 aer Nud ARTHUR F. COON
+MATTHEW C. HENDERSON
+6 Attorneys for Petitioners and Plaintiffs West Coast
+7 Home Builders, Inc. and Discovery Builders, Inc.
+
+8
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+| MCH-99999\2228958.1 -2-
+NOTICE TO ATTORNEY GENERAL
+
+1 PROOF OF SERVICE
+
+2 At the time of service, I was over 18 years of age and not a party to this action. I am employed in the County of Contra Costa, State of California. My business address is 1331 N. 3 California Blvd., Fifth Floor, Walnut Creek, CA 94596.
+
+4 On January 31, 2020, I served true copies of the following document(s) described as NOTICE TO ATTORNEY GENERAL on the interested parties in this action as follows: 5
+Office of the Attorney General
+6 1330 "I" Street
+Sacramento, CA 95814-2919
+7 Tel: 916.445.9555
+
+8 BY MAIL: I enclosed the document(s) in a sealed envelope or package addressed to the persons at the addresses listed in the Service List and placed the envelope for collection and
+9 mailing, following our ordinary business practices. I am readily familiar with the practice of Miller Starr Regalia for collecting and processing correspondence for mailing. On the same day 10 that correspondence is placed for collection and mailing, it is deposited in the ordinary course of
+
+11 business with the United States Postal Service, in a sealed envelope with postage fully prepaid. I am a resident or employed in the county where the mailing occurred. The envelope was placed in the mail at Walnut Creek, California.
+12
+declare under penalty of perjury under the laws of the State of California that the 13 foregoing is true and correct.
+
+14 Executed on January 31, 2020, at Walnut Creek, California.
+
+15
+
+16
+Karen 17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+I MCH-99999\2228958.1 -3-
+NOTICE TO ATTORNEY GENERAL
+
+GCOPY
+
+XV$ A8 371 ARTHUR F. COON (Bar No. 124206) MATTHEW C. HENDERSON (Bar No. 229259) .0021 D 2:13
+MILLER STARR REGALIA 2020 JAN 31 P
+A Professional Law Corporation COURT
+CLERK OFT 1.oR
+1331 N. California Blvd., Fifth Floor COUNTY ESTA, CA
+Walnut Creek, California 94596 BY: .pr LK Telephone: 925 935 9400
+Facsimile: 925 933 4126
+5 Email: arthur.coon@msrlegal.com matthew.henderson@msrlegal.com PER LOCAL RULE, THIS
+Attorneys for Petitioners and Plaintiffs CASE ISASSIGNED TO DEPT 91 FOR ALL 7 WEST COAST HOME BUILDERS, INC. and PURPOSES DISCOVERY BUILDERS, INC.
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+9 COUNTY OF CONTRA COSTA SUMMONS ISSUED 10
+
+11 WEST COAST HOME BUILDERS, INC., a Case No. N20-0210
+12 California corporation, and DISCOVERY BUILDERS, INC., a California corporation, VERIFIED PETITION FOR WRIT OF
+13 MANDATE AND COMPLAINT FOR Petitioners and Plaintiffs, DECLARATORY RELIEF
+14
+V. [CCP §§ 1060, 1085, 1094.5; Pub. Resources 15 CITY OF BRENTWOOD, a California Code, § 21000 et seq; Cal. Code Regs., tit. 14,
+16 municipal corporation, and DOES 1 through coa 15000 et seq.]
+20, inclusive, CEOA Action 17 Respondent and Defendant. 18
+
+19 Petitioners and Plaintiffs West Coast Home Builders, Inc. and Discovery Builders, Inc. 20
+
+21 allege as follows:
+GENERAL ALLEGATIONS
+22
+1. Petitioner and Plaintiff West Coast Home Builders, Inc., a California
+23
+
+24 corporation ("WCHB"), is a property owner and taxpayer in the City of Brentwood ("City") in the
+
+25 County of Contra Costa. WCHB is the owner and a developer of real property located in the City
+
+26 and designated as assessor's parcel number 019-082-007 and portions of assessor's parcel
+
+27 numbers 019-110-050 and 019-110-051 on the County of Contra Costa tax rolls comprising
+(the "Property"). WCHB acquired the Property on or 28 approximately 140 acres within the City
+
+MCH\99999\2227151.3 •]-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+- about October 19, 1998 via grant deed from Meadow Creek Estates, Inc. Petitioner and Plaintiff
+
+3 Discovery Builders, Inc., a California corporation ("DBI") is also a developer of the Property.
+WCHB and DBI are referred to collectively as the "Petitioners."
+2.
+
+5 On or about June 12, 2017, Petitioners applied for various entitlements
+
+6 required to develop a residential subdivision on part of the Property with both single family
+homes, an apartment complex and approximately 20 acres for commercial known as the "Bridle
+7 Gate" project ("Project"). On or about November 9, 2017, Petitioners submitted a supplemental
+8 planning application for the Project. Petitioners' interest in lawful, orderly, consistent, timely, and
+9 environmentally sound land use planning and development processing and approvals in the City
+10 will be adversely affected if the City continues to violate the California Environmental Quality Act
+11 ("CEQA"; Public Resources Code section 21000 et seq.) by failing to timely complete and certify
+12 an Environmental Impact Report ("EIR") for the Project. Petitioners are now, and will continue to
+13 be, adversely affected by the City's unlawful and unwarranted delay in completing and certifying
+14 an EIR for the Project, and are beneficially interested in the relief sought by this Petition and
+15 Complaint.
+
+16 3.
+
+17 Petitioners are informed and believe, and based thereon allege, that the
+
+18 City is, and at all times herein mentioned was, a municipal corporation duly organized and
+
+19 existing under the laws of the State of California. The City is, and at all times herein mentioned
+was, the lead agency responsible for carrying out and complying with the provisions of CEQA,
+20 and the administrative regulations promulgated thereunder ("CEQA Guidelines"; Cal. Code Regs.,
+21 tit. 14, § 15000 et seq.).
+
+22 4. Petitioners are unaware of the true names and capacities of the parties
+23 fictitiously sued herein as DOES through 20, and will amend this Petition and Complaint to set
+24 forth their true names and capacities when the same have been ascertained. Petitioners are
+25 informed and believe, and based thereon allege, that said fictitiously-named Respondents and
+26 Defendants were the agents and employees of other fictitiously-named or actually-named
+27 Respondents and Defendants, and acting within the scope of such agency and/or employment,
+28 took some part in the acts or omissions hereinafter set forth, or are the principals and took part in
+
+MCH\99999\2227151.3 -2-
+VERIFIRD PRTITION FOR WRIT OF MANDATR AND COMPLAINT FOR DECLARATORY RELIEF
+
+such acts or omissions, by reason of which said fictitiously-named Respondents and Defendants
+
+2 are liable to Petitioners for the relief prayed for herein.
+
+3 5. On or about June 12, 2017, Petitioners submitted an application for various
+4  entitlements required to develop the Project. Those entitlements include a General Plan
+5 amendment, rezoning, vesting tentative map, and design review approvals. With the application
+6 Petitioners also submitted a payment to the City of $145,845.87 consisting of processing costs
+
+7 associated with the application.
+
+8 6. In 2017 the City determined that the Project was subject to CEQA review.
+9 On July 11, 2017 the City Council passed resolution 2017-100 authorizing Raney Planning &
+10 Management, Inc. ("Raney") to prepare an initial study and mitigated negative declaration
+11 ("IS/MND") pursuant to CEQA a for a budget of $105,449.00, plus a 25% City administration fee
+12 for a total cost of $131,811.25.
+
+13 7. In response to comments and feedback on the application from City staff,
+14 | Petitioners submitted a supplemental planning application for the Project on or about November 9,
+15 2017. At the same time Petitioners also paid the City an additional $26,362.25 for costs associated
+16 with the preparation of the IS/MND.
+
+17 8. On or about March 8, 2018, the City notified Petitioners that the Project
+18 application was formally complete via a letter from Associate Planner Timothy a R. Nielsen.
+
+19 9. On May 8, 2018 the City Council passed Resolution 2018-40 authorizing an
+20 amendment of the contract with Raney in order to upgrade the IS/MND for the Project to an EIR,
+
+21 and increasing the budget by $54,239.00. By that time Petitioners had already paid the City
+22 $172,208.12 in application fees, including funds intended for the preparation of any documents
+23 required by CEQA.
+
+24 10. In March of 2019, a year after the Project application was deemed complete
+25 and ten months after the City approved the preparation of an EIR for the Project, representatives of
+26 Petitioners continued to request updates from the City as to the status of the processing of the
+27 application and the preparation of the EIR. Specifically, Petitioners asked repeatedly for the status
+
+28
+
+II MCHN99999\2227151.3 -3-
+VRRIFIED PRTTTION FOR WRIT OF MANDATR AND COMPL.AINT FOR DECLARATORY RELIEF
+
+P of the City's preparation of a Notice of Preparation for the EIR and the public scoping meeting for
+
+2 the same.
+
+3 11. Following several months of discussion with the City on the subject,
+4 Petitioners submitted an application for a development agreement with the City for the Project on
+
+5 April 15, 2019. The proposed development agreement did not substantively change the Project,
+6 but was intended only to vest Petitioners' rights to develop it pursuant to the already-complete
+7 application so as to extend the life of the subdivision map to facilitate construction of the Project
+
+8 in phases and commercial property.
+
+9 12. On April 16, 2019, the City answered Petitioners' inquiries via an email
+10| promising a substantive response within a week. On April 19, 2019, the City emailed an estimate
+11 to Petitioner that the EIR process would be completed within approximately six months,
+12 commencing with the release of the Notice of Preparation "shortly after[]" a meeting between the
+13  parties scheduled for the week of April 22, 2019.
+
+14 13. The City did not adhere to the time frame set forth in its April 19, 2019
+15 email. The City issued a Notice of Preparation of the EIR on or about August 2, 2019, with a
+16 review period ending on September 3, 2019. However, as of the date of this petition, the City has
+17 failed to issue draft or administrative draft EIR for review or comment. In November of 2019,
+18 after previously falsely representing to Petitioners that an administrative draft EIR had been
+19 prepared for the Project by Raney, the City advised Petitioners that only an administrative draft of
+20 the initial study - a preliminary study whose purpose is to determine whether : project may have
+21 potentially significant impacts and whether a negative declaration or EIR should be prepared - had
+22 been completed and had not yet been reviewed by the City.
+
+23 14. Petitioners have made repeated inquiries of the City throughout 2019 and
+24 early 2020 as to the status of the EIR for the Project. The City has either ignored or failed to
+25 substantively or accurately respond to these inquiries, and has still not provided any date,
+26 schedule, or time frame for the completion of the EIR for the Project. In January of 2020 a
+27 representative from the City informed Petitioners that the City might prefer to delay processing the
+28 Project until after the November 2020 election, which is almost ten months away as of the date of
+
+11 MCH\99999\2227151.3 -4-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+- this Petition and Complaint (and more than two and a half years after the City deemed Petitioners'
+2 application complete).
+
+3 15.
+
+4 Accordingly, more than twenty-two months after Petitioners' application
+
+5 was deemed complete, and more than twenty months after the City authorized the preparation of
+
+6 an EIR, the City has not released any draft EIR for the Project and have indicated to Petitioners'
+
+7 attorney that it hasn't even been prepared. Thus, notwithstanding the fact that Public Resources
+Code sections 21100.2(a) and 21151.5(a) require that a final EIR be completed and certified
+8 within one year after the date on which the City deemed Petitioners' entitlement application
+9 complete, an EIR has not yet been completed or certified for the Project.
+10 16. This action is timely filed, and Petitioners have exhausted all administrative
+11  remedies made available to them to the extent the same are not inadequate or futile. Petitioners
+12 have further satisfied the requirements of Public Resources Code section 21177 prior to filing this
+13 action. Petitioners have performed all conditions precedent to the filing of this action.
+
+14 17. Petitioners have complied with the requirements of Public Resources Code
+15 section 21167.5 by mailing a written notice of the commencement of this action to the City prior
+16| to filing this Petition and Complaint. A true and correct copy of the notice provided pursuant
+17 thereto, with proof of service thereof, is attached hereto as Exhibit A.
+
+18 18. Petitioners have complied with the provisions of Code of Civil Procedure
+19 section 388 and Public Resources Code section 21167.7 by mailing a copy of the Petition and
+20 Complaint to the Attorney General of the State of California. A true and correct copy of
+
+21 | Petitioners' covering Notice to Attorney General of the State of California is attached hereto as
+22 Exhibit B.
+
+23 19. Petitioners bring this action to vindicate their own legal rights as well as to
+24 enforce important rights affecting the public as a private attorney general under Code of Civil
+
+25 Procedure section 1021.5, and to redress arbitrary and capricious government action pursuant to
+26 Government Code 800 and all applicable law.
+
+27
+
+28
+
+MCH199999\2227151.3
+
+1 FIRST CAUSE OF ACTION
+
+2 (Writ of Mandate - Violations of CEQA)
+3 20. Petitioners hereby incorporate herein by reference, as though set forth in
+4 full, each of the allegations set forth in paragraphs 1 through 19 above.
+5 21. Public Resources Code section 21151.5 provides, in pertinent part, that the
+6 City ".shall establish, by ordinance or resolution, time limits that do not exceed the following:
+7 (A) One year for completing and certifying environmental impact reports..." (Pub. Resources
+8 Code, § 21151.5, subd. (a)(1)(A).) As further set forth in Public Resources Code section 21151.5,
+9 subdivision (a)(2), the statutorily mandated one-year time limit "shall be measured from the date
+10 on which an application requesting approval of the project is received and accepted as complete by
+11 the local agency."
+
+12 22. Petitioners are informed and believe, and based thereon allege, that the City
+13 has not established, by ordinance or resolution, a one year time limit, or any other time limit, for
+14 completing and certifying environmental impact reports.
+15 23. Petitioners are further informed and believe, and based thereon allege, that
+16 the City has not completed or certified an EIR for the Project, notwithstanding that the Project
+17 entitlement application was received and accepted as complete on March 8, 2018 - almost two
+18 years ago.
+19 24. The City's failure to complete and certify an EIR for the Project constitutes
+20| a prejudicial abuse of discretion in that the City has failed to proceed in the manner required by
+21 law. In particular, the City has failed to comply with the provisions of Public Resources Code
+22 section 21151.5 because the City has not established the statutorily mandated time limit requiring
+23 completion and certification of environmental impact reports within one year, and has not
+24 completed and certified an EIR for the Project, despite that the "application requesting approval of
+25| the project" was "received and accepted as complete" by the City on March 8, 2018 - almost two
+26 years ago.
+27
+
+28
+
+| MCHN99999\2227151.3 -6-
+VEDIFIED DETITION FOR WRIT OR MANDATR AND COMPI AINT FOR DRCLAR ATORY RRI.IRF
+
+25. Petitioners have no plain, speedy, or adequate remedy in the ordinary course
+2 of law, as shown by the representations in this verified petition, and traditional mandamus under
+3 Code of Civil Procedure section 1085 is the prescribed remedy for violations of this type.
+4 WHEREFORE, Petitioners pray for judgment as hereinafter set forth.
+
+5 SECOND CAUSE OF ACTION
+
+6 (Declaratory Relief)
+
+7 26. Petitioners hereby incorporate herein by reference, as though set forth in
+8 full, each of the allegations set forth in paragraphs 1 through 25 above.
+9 27. An actual controversy has arisen and now exists between Petitioners, on the
+10 one hand, and the City, on the other hand, in that Petitioners contend, and are informed and
+11 believe, and based thereon allege, that the City denies that it has failed to comply with CEQA, all
+12 as set forth in more detail above.
+
+13 28. It is necessary and appropriate at this time that the Court issue a declaratory
+14 judgment so that all parties hereto and the public as a whole may know the illegality or the legality
+15 of the actions of the City, as set forth in more detail above.
+
+16 WHEREFORE, Petitioners pray for judgment as hereinafter set forth.
+17 (1) For a writ of mandate directing, ordering and compelling the City to comply
+18 with the procedural requirements and provisions of CEQA and the CEQA Guidelines by
+19 immediately completing and certifying an EIR for the Project;
+
+20 (2) For declaratory judgment that Respondent City's failure to complete and
+21 certify an EIR within the statutorily-mandated one-year time period violates the provisions of
+
+22 CEQA and the CEQA Guidelines;
+
+23 (3) For attorneys' fees pursuant to Code of Civil Procedure section 1021.5,
+24 Government Code section 800, and all applicable law, and costs of suit incurred herein; and
+
+25
+
+26
+
+27
+
+28
+
+MCH\99999\2227151.3 -7-
+VERIFIED PRTITION POR WRIT OF MANDATR AND COMPLAINT FÖR DECLARATORY RELIEF
+
+1 (4) For such other and further relief as the Court may deem just and proper.
+2
+
+3 Dated: January 31, 2020 MILLER STARR REGALIA
+
+4
+
+5 By:
+6 ARTHUR F. COON dellessfuda
+MATTHEW C. HENDERSON 7 Attorneys for Petitioners and Plaintiffs West Coast
+8 Home Builders, Inc. and Discovery Builders, Inc.
+
+10
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+I| MCH\99999\2227151.3 -8-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+VERIFICATION
+
+2 I, Louis Parsons, am the President of Petitioner and Plaintiff Discovery Builders,
+
+3 Inc. in this action and I am authorized to execute this verification on its behalf. I have read the
+4 foregoing Petition for Writ of Mandate and Complaint for Declaratory Relief and am familiar with
+
+5 its contents. The facts recited in this Petition and Complaint are true of my personal knowledge,
+
+6 unless stated on information and belief, and as to those facts and matters, am informed and
+
+7 believe them to be true.
+
+8 declare under penalty of perjury under the laws of the State of California that the
+
+9 foregoing is true and correct.
+
+10 Executed on January 3), 2020, at Con Corcl California.
+
+11
+
+12
+Louis Parsons
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+MCI 99999\2227151.3 -9-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RELIEF
+
+- VERIFICATION
+
+2 I. Jeanne Pavao, am the Senior Vice President of Petitioner and Plaintiff West
+3 Coast Home Builders. Inc. in this action and I am authorized to execute this verification on its
+4 behalf. I have read the foregoing Petition for Writ of Mandate and Complaint for Declaratory
+5 Relief and am familiar with its contents. The facts recited in this Petition and Complaint are truc
+6of my personal knowledge, unless stated on information and belief. and as to those facts and
+7 matters, I am informed and believe them to be true.
+
+8 declare under penalty of perjury under the laws of the State of California that the
+0 foregoing is true IS and correct.
+
+10
+
+11 Executed on January 3l2020, at Concord .California.
+
+12
+13 Gosrachame Jeanne Pavao
+
+14
+
+15
+
+16
+
+17
+
+18
+
+|9
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+M(1890999 \2227151.3 -10)-
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY RETIFF
+
+EXHIBIT A
+
+1 ARTHUR F. COON (Bar No. 124206) MATTHEW C. HENDERSON (Bar No. 229259)
+2 MILLER STARR REGALIA
+A Professional Law Corporation 3 1331 N. California Blvd., Fifth Floor Walnut Creek, California 94596
+4 Telephone: 925 935 9400
+Facsimile: 925 933 4126
+5 Email: arthur.coon@msrlegal.com matthew.henderson@msrlegal.com
+6
+Attorneys for Petitioners and Plaintiffs 7 WEST COAST HOME BUILDERS, INC. and
+I DISCOVERY BUILDERS, INC.
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+9 COUNTY OF CONTRA COSTA
+10
+
+11
+WEST COAST HOME BUILDERS, INC., a Case No.
+12 California corporation, and DISCOVERY
+
+13 BUILDERS, INC., California corporation, NOTICE OF INTENT TO COMMENCE
+CEQA ACTION
+Petitioners and Plaintiffs,
+14 [Pub. Resources Code, § 21167.5]
+
+V.
+15 CITY OF BRENTWOOD, a California CEQA Action
+16 municipal corporation, and DOES through 20, inclusive,
+17
+Respondent and Defendant.
+18
+
+19
+TO: CITY OF BRENTWOOD
+20
+
+21 PLEASE TAKE NOTICE that pursuant to Public Resources Code section
+21167.5 Petitioners and Plaintiffs WEST COAST HOME BUILDERS, INC. and DISCOVERY
+22
+
+23 BUILDERS, INC. will commence a civil action under the California Environmental Quality Act
+
+24 ("CEQA"; Pub. Resources Code, § 21000 et seq.) against the CITY OF BRENTWOOD
+
+25 (*Respondent") seeking to compel Respondent to comply with CEQA by timely preparing and
+
+26 certifying an environmental impact report for the proposed Bridle Gate project.
+
+27
+
+28
+
+MCH-99999\2228956.1 -]-
+MOTIAT AR AITEATT TO NOMLIPAAD ADOA
+
+The action will be filed in the Superior Court for the County of Contra Costa on or
+2 about January 31, 2020.
+3 Dated: January 31, 2020
+
+4 MILLER STARR REGALIA
+
+5
+
+6 By: Aliflos Suml
+
+7 ARTHUR F. COON
+MATTHEW C. HENDERSON
+
+8 Attorneys for Petitioners and Plaintiffs WEST
+COAST HOME BUILDERS, INC. AND
+
+o DISCOVERY BUILDERS, INC.
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+MCH-99999\2228956.1 -2-
+NOTICE OF INTENT TO COMMENCE CEOA ACTION
+
+PROOF OF SERVICE
+
+2 At the time of service, I was over 18 years of age and not a party to this action. Iam employed in the County of Contra Costa, State of California. My business address is 1331 N. 3 California Blvd., Fifth Floor, Walnut Creek, CA 94596.
+
+4 On January 31, 2020, I served true copies of the following document(s) described as NOTICE OF INTENT TO COMMENCE CEQA ACTION on the interested parties in this 5 action as follows:
+
+6 City Clerk
+City of Brentwood
+7 150 City Park Way Brentwood, CA 94513
+8
+BY MAIL: I enclosed the document(s) in a sealed envelope or package addressed to the 9 persons at the addresses listed in the Service List and placed the envelope for collection and mailing, following our ordinary business practices. I am readily familiar with the practice of 10 Miller Starr Regalia for collecting and processing correspondence for mailing. On the same day that correspondence is placed for collection and mailing, it is deposited in the ordinary course of 11 business with the United States Postal Service, in sealed envelope with postage fully prepaid. I am a resident or employed in the county where the mailing occurred. The envelope was placed in 12 the mail at Walnut Creek, California.
+
+13 declare under penalty of perjury under the laws of the State of California that the
+14 foregoing is true and correct.
+
+Executed on January 31, 2020, at Walnut Creek, California. 15
+
+16 C 17 Karen Mleyius 18
+
+19
+
+20
+388 24
+
+25
+
+26
+
+27
+
+28
+
+I MCH-99999\2228956.1 -3-
+NOTICE OF INTENT TO COMMENCE CEQA ACTION
+
+EXHIBIT B
+
+1 ARTHUR F. COON (Bar No. 124206)
+
+2 MATTHEW C. HENDERSON (Bar No. 229259) MILLER STARR REGALIA
+A Professional Law Corporation 3 1331 N. California Blvd., Fifth Floor
+
+4 Walnut Creek, California 94596
+Telephone:
+
+5 Facsimile: 925 935 9400
+
+Email: 925 933 4126
+arthur.coon@msrlegal.com
+
+6 matthew.henderson@msrlegal.com
+Attorneys for Petitioners and Plaintiffs 7 WEST COAST HOME BUILDERS, INC. and
+
+co DISCOVERY BUILDERS, INC.
+
+9 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+10 COUNTY OF CONTRA COSTA
+
+11
+WEST COAST HOME BUILDERS, INC., a 12 California corporation, and DISCOVERY Case No.
+
+13 BUILDERS, INC., a California corporation, NOTICE TO ATTORNEY GENERAL
+Petitioners and Plaintiffs, [Pub. Resources Code $ 21167.7 and Code of
+
+14 Civil Procedure § 388]
+
+V.
+15 CITY OF BRENTWOOD, a California CEQA Action
+
+16 municipal corporation, and DOES through
+
+17 20, inclusive,
+
+18 Respondent and Defendant.
+
+19
+
+20 TO THE ATTORNEY GENERAL OF THE STATE OF CALIFORNIA:
+
+21 PLEASE TAKE NOTICE, under Public Resources Code section 21167.7 and Code
+
+22 of Civil Procedure section 388, that on or about January 31, 2020, Petitioners and Plaintiffs WEST
+
+23 COAST HOME BUILDERS, INC. and DISCOVERY BUILDERS, INC. filed in the above-
+
+24 captioned matter a Verified Petition for Writ of Mandate and Complaint For Declaratory Relief
+
+25 (*Petition") against Respondent and Defendant CITY OF BRENTWOOD ("Respondent")
+
+26 alleging, inter alia, violations of the California Environmental Quality Act ("CEQA"; Pub.
+
+27 Resources Code, § 21000 et seq.) by Respondent's failure to timely prepare and/or certify an
+
+28 environmental impact report for the proposed Bridle Gate project.
+
+MCH-99999\2228958.1 -1-
+cwAB mA ATTADATPY ATAATED
+
+1 A copy of the Petition is included with this notice.
+2 Dated: January 31, 2020 MILLER STARR REGALIA
+
+3
+
+4
+
+5 By: Aller Nudo ARTHUR F. COON
+
+6 MATTHEW C. HENDERSON
+
+7 Attorneys for Petitioners and Plaintiffs West Coast
+Home Builders, Inc. and Discovery Builders, Inc.
+
+8
+
+o
+10
+
+11
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+MCH-99999\2228958.1 -2-
+NOTICE TO ATTODMEV GEMED AI
+
+-
+
+2 PROOF OF SERVICE
+At the time of service, I was over 18 years of age and not a party to this action. Iam
+3 California Blvd., Fifth Floor, Walnut Creek, CA 94596.
+
+4 employed in the County of Contra Costa, State of California. My business address is 1331 N.
+
+5 On January 31, 2020, I served true copies of the following document(s) described as the interested parties in this action as follows: on
+
+6 Office of the Attorney General 1330 "I" Street
+
+7 Sacramento, CA 95814-2919 Tel: 916.445.9555
+
+8 BY MAIL: I enclosed the document(s) in a sealed envelope or package addressed to the persons at the addresses listed in the Service List and placed the envelope for collection and 9 mailing, following our ordinary business practices. am readily familiar with the practice of Miller Starr Regalia for collecting and processing correspondence for mailing. On the same day 10 that correspondence is placed for collection and mailing, it is deposited in the ordinary course of
+
+11
+
+12 business with the United States Postal Service, in a sealed envelope with postage fully prepaid. - am a resident or employed in the county where the mailing occurred. The envelope was placed in the mail at Walnut Creek, California.
+
+13 foregoing is true and correct.
+
+14 I declare under penalty of perjury under the laws of the State of California that the
+
+15 Executed on January 31, 2020, at Walnut Creek, California.
+
+16
+
+17
+
+18 Karen Wigylus
+
+19
+
+20
+s 22
+23
+24
+
+25
+
+26
+
+27
+
+28
+
+| MCH-99999\2228958.1 -3-
+
+PUCETVE F53  . 2020
+
+BY:___________.

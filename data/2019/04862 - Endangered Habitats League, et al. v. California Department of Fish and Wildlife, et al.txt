@@ -1,0 +1,958 @@
+L
+
+WILLIAM J. WHITE (State Bar No. 181441) SARA A. CLARK (State Bar No. 273600) 2 EDWARD T. SCHEXNAYDER (State Bar No. 284494) SHUTE, MIHALY & WEINBERGER LLP
+3 396 Hayes Street San Francisco, California 94102 4 | Telephone: (415) 552-7272 Facsimile: (415) 552-5816
+5 White@smwlaw.com |Clark@smwlaw.com 6 Schexnayder@smwlaw.com
+
+7 Attorneys for Petitioner ENDANGERED HABITATS LEAGUE
+8
+
+9 Additional Counsel Listed on Next Page
+
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+11 COUNTY OF SAN DIEGO, CENTRAL DIVISION
+
+12
+
+13 ENDANGERED HABITATS LEAGUE; Case No.
+and CENTER FOR BIOLOGICAL
+14 DIVERSITY, VERIFIED PETITION FOR WRIT OF
+MANDATE
+15 Petitioners,
+
+16 CCP §§ 1085, 1094.5; Pub. Resources
+V. Code § 21000 et seq. (CEQA)
+17 CALIFORNIA DEPARTMENT OF FISH AND WILDLIFE: CHARLTON H. 18 BONHAM, as Director of the California I Department of Fish and Wildlife; and 19 DOES 1-10,
+
+20 Respondents.
+
+21
+COUNTY OF SAN DIEGO; GDCI
+22 PROCTOR VALLEY, L.P.; JACKSON
+PENDO DEVELOPMENT COMPANY; 23 and DOES 11-20,
+
+24 Real Parties in Interest.
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY & INJUNCTIVE RELIEF
+Case No.
+
+4
+
+JOHN BUSE (SBN 163156) ARUNA PRABHALA (SBN 278865) 2 PETER BRODERICK (SBN 293060) CENTER FOR BIOLOGICAL DIVERSITY
+1212 Broadway, Suite 800 Oakland, California 94612 4 Telephone: (510) 844-7100 Facsimile: (510) 844-7150 jbuse@biologicaldiversity.org aprabhala@biologicaldiversity.org 6 pbroderick@biologicaldiversity.org
+Attorneys for Petitioner CENTER FOR BIOLOGICAL DIVERSITY
+
+o
+10
+
+11
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+2
+VERIFIED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY & INJUNCTIVE RELIEF
+Case No.
+
+INTRODUCTION
+
+2 1. On or about June 27, 2019, the California Department of Fish and Wildlife
+3 ("CDFW") approved and entered into a Dispute Resolution Agreement ("DRA" or
+4 "Agreement") concerning the proposed Otay Ranch Village 14 and Planning Areas 16/19
+
+5 project ("Village 14 Project") in unincorporated San Diego County. The Agreement commits
+
+6 CDFW to transfer public lands in the Rancho Jamul Ecological Reserve to the private Village 14
+Project developer for development, and to take other actions to facilitate an agreed alternative to
+8 the Village 14 Project ("DRA Project") all without any public review and without conducting
+9 any analysis under the California Environmental Quality Act ("CEQA"). CDFW's decision to
+10 give up protections for a wide swath of pristine San Diego backcountry and to support the DRA
+11 Project without any public input or environmental review violates CEQA.
+12 2. The Village 14 Project has been under consideration by the County for over two
+13 years. GDCI Proctor Valley, L.P., the site owner, and Jackson Pendo Development Company,
+14 its agent and manager (collectively, "Jackson Pendo"), are seeking to construct 1,119 single-
+15 family houses on nearly 1,300 acres. The project includes development of sensitive habitat
+16 known as PV-1, PV-2, and PV-3. The Village 14 Project would locate 340 houses on these 200
+17 acres.
+
+18 3. Throughout the County's administrative review of the Village 14 Project, CDFW
+19 submitted comments objecting to development on PV-1, PV-2, and PV-3. In the 1990s, CDFW
+20| and the U.S. Fish and Wildlife Service ("USFWS") approved a Multiple Species Conservation
+21 Program ("MSCP") for San Diego County, which establishes habitat preserves and other
+22 mitigation necessary to allow the County to authorize limited development that results in the
+23 incidental take of endangered and other protected species. Under the MSCP and the associated
+24| County Subarea Plan, PV-1, PV-2, and PV-3 were designated as preserve or "no take
+25 authorized" lands. CDFW informed the County that the County was prohibited from authorizing
+26 development of PV-1, PV-2, and PV-3 pursuant to the MSCP and its implementing plans and
+27 agreements. Nevertheless, the County approved the Village 14 project. Petitioners have
+28 separately filed suit challenging that approval.
+3
+VERIFIED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY & INJUNC RELIEF
+Case No.
+
+v
+
+4. Notwithstanding its concerns, CDFW proceeded to work with Jackson Pendo
+2 behind closed doors. CDFW ultimately agreed to take action to support a completely
+3 reconfigured project-the DRA Project-by which Jackson Pendo will withdraw development
+4 plans for PV-1 and a portion of PV-3 and certain other portions of the Village 14 project in
+
+5 exchange for CDFW allowing the development of PV-2 and a portion of PV-3, and transferring
+
+6 currently protected public lands within the Rancho Jamul Ecological Reserve to Jackson Pendo
+for development. In other words, CDFW agreed to give a private developer protected lands
+within a state ecological reserve, and to allow development on lands currently protected by the
+
+9 MSCP-all in exchange for the developer's agreement not to develop lands that are already
+10 protected by the MSCP.
+11 5. Before entering into this startling agreement, CDFW took no steps to comply with
+12 CEQA. CDFW prepared no analysis of environmental impacts for the public or decisionmakers,
+13 made none of the required ÇEQA findings, and took no other procedural steps necessary to
+14 comply with the statute. The Agreement states that "CDFW will rely on the County-certified
+15 Project EIR for its consideration of any action regarding or pursuant to th[e] Agreement." But in
+16 approving the Agreement, CDFW committed itself to the sale of the Ecological Reserve
+17 property and to support the DRA Project, regardless of the outcome of any future environmental
+18 review. This commitment to implementing the DRA Project before undertaking CEQA
+19 compliance is unlawful.
+20 6. For these reasons, CDFW's approval of the Agreement constituted an abuse of
+21 discretion and must be overturned.
+
+22 PARTIES
+
+23 7. Petitioner Endangered Habitats League ("EHL") is a is a tax-exempt non-profit
+24 California corporation dedicated to the conservation of native ecosystems and to sustainable
+25 land use and transportation planning. Since 1991, EHL has engaged in planning partnerships
+26 across Southern California and worked to create habitat preserve systems, including the MSCP,
+27 now threatened by climate change and the approval of the DRA Project. EHL is extremely
+28 active in the San Diego region, where many of its members live and enjoy the biological
+4
+VERIFIED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY & INJUNCTIVE RELIEF
+Case No.
+
+diversity in the area and served on the County advisory committee for the 2011 General Plan
+2 Update. EHL submitted written comments to CDFW objecting to and commenting on the
+
+3 Agreement.
+
+8. Petitioner Center for Biological Diversity (the "Center") is a non-profit a
+conservation organization dedicated to the protection of native species and their habitats through
+6 science, policy, and environmental law. The Center has approximately 70,000 members
+7 worldwide, including residents of San Diego County within communities in the vicinity of the
+8 DRA Project. The Center has worked for many years to protect imperiled plants and wildlife,
+
+9 open space, air and water quality, and the overall quality of life for people in unincorporated San
+10 Diego County where the DRA Project is proposed. Members of the Center objected to the
+11 approval the Agreement and will be directly and adversely affected by the Agreement.
+12 9. The interests that EHL and the Center (together, "Petitioners") seek to further in
+13 this action are within the goals and purposes of these organizations. Petitioners and their
+14 members have a direct and beneficial interest in the CDFW's compliance with laws bearing on
+15 approval of the Agreement. These interests will be directly and adversely affected by the
+16 Agreement, which violates the law as set forth in this Petition, and implementation of which
+17 would cause substantial harm to the natural environment, public health, and the quality of life in
+18 the surrounding community. The maintenance and prosecution of this action will confer a
+19 substantial benefit on the public by protecting the public from the environmental and other
+20 harms alleged herein.
+21 10. Respondent CDFW is, and at all times herein mentioned was, an administrative
+22 and regulatory agency of the State of California with a mission of managing California's diverse
+23 fish, wildlife, and plant resources, and the habitats upon which they depend, for their ecological
+24 values and for their use and enjoyment by the public. CDFW has a mandatory duty to comply
+25 with CEQA.
+
+26 11. Respondent Charlton H. Bonham is, and at all times herein mentioned was, the
+27 appointed Director of Respondent CDFW. Mr. Bonham is the signatory, on behalf of CDFW, of
+28 the Agreement. As the Director, Mr. Bonham is charged with responsibilities under CEQA for
+5
+VERIFIED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY & INJUNCTIVE RELIEF
+Case No.
+
+•
+
+1
+
+1 conducting a proper review of the Agreement's environmental impacts and granting the various
+2 approvals necessary for the Agreement. Mr. Bonhame is sued in his official capacity.
+
+3 12. Petitioners are unaware of the true names and capacities of Respondents Does
+4 through 10 and sue such respondents by fictitious names. Petitioners are informed and believe,
+
+5 and on that basis allege, the fictitiously named respondents are also responsible for the actions
+
+6 described in this Petition. When the true identities and capacities of these respondents have been
+7 determined, Petitioners will amend this petition, with leave of the Court if necessary, to insert
+8 such identities and capacities.
+13. Petitioners are informed and believe, and on that basis allege, that Real Party in
+10 Interest County of San Diego is and at a all times herein was a political subdivision of the State of
+11 California. The County a of San Diego has a significant interest in the Agreement and will incur
+12 significant obligations through its participation therein.
+
+13 14. Petitioners are informed and believe, and on that basis allege, that Real Party in
+14 Interest GDCI Proctor Valley, L.P., is a Delaware limited partnership registered to do business
+15 in California and owner of the Village 14 Project site. GDCI Proctor Valley, L.P. has a
+16 significant interest in the Agreement and will incur significant obligations through its
+17 participation therein.
+
+18 15. Petitioners are informed and believe, and on that basis allege, that Real Party in
+19 Interest Jackson Pendo Development Company is a California corporation, the authorized agent
+20 and manager of GDCI Proctor Valley, L.P., and signatory of the Agreement. Jackson Pendo
+21 Development Company, on behalf of GDCI Proctor Valley, L.P., has a significant interest in the
+22 Agreement and will incur significant obligations through its participation therein.
+23 16. Petitioners are unaware of the true capacities of Real Parties in Interest Does 11
+24 through 20 and sue such real parties in interest by fictitious names. Petitioners are informed and
+25 believe, and on that basis allege, that the fictitiously named real parties in interest are directly
+26 and materially affected by the actions described in this Petition. When the true identities and
+27 capacities of these real parties in interest have been determined, Petitioners will amend this
+28 Petition, with leave of the Court if necessary, to insert such identities and capacities.
+
+6
+VERIFIED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY & INJUNCTIVE RELIEF
+Case No.
+
+JURISDICTION AND VENUE
+
+2 17. Pursuant to Code of Civil Procedure sections 526, 527, 1085, 1087, and 1094.5,
+3 and Public Resources Code sections 21168, 21168.5 and 21168.9, the San Diego County
+4 Superior Court has initial jurisdiction to issue a writ of mandate to set aside CDFW's decision to
+5 enter into the Agreement.
+
+18. Venue for this action properly lies in the Superior Court for the State of California
+7 in and for the County of San Diego pursuant to Code of Civil Procedure section 393(b). The
+
+8 effects of the actions taken by Respondents will be felt in San Diego County, and therefore the
+9 | causes of action plead below arose in San Diego County.
+
+10 19. Venue for this action properly lies in the Central Division of the Superior Court
+11 for the State of California for the County of San Diego. On information and belief, the DRA
+12 Project is located in zip codes 91914 (South Division) and 91935 (East Division). However, as
+13 this petition pleads a California Environmental Quality Act claim, venue is proper in the Central
+14 Division pursuant to Local Rule 1.2.2(E).
+15 20. Petitioners have performed any and all conditions precedent to filing this action
+16 and have exhausted any and all available administrative remedies to the extent possible and
+17 required by law. Petitioners and their members submitted numerous objections to approval of
+18 the Agreement, CDFW's failure to evaluate the DRA Project's impacts as required by CEQA,
+19 and the DRA Project's inconsistency with the existing MSCP and implementing plans and
+20 agreements.
+
+21 21. Respondents have taken final agency actions with respect to entering into the
+22 Agreement. Respondents have a duty to comply with applicable state laws, including but not
+23 limited to CEQA, prior to undertaking the discretionary approvals at issue in this lawsuit.
+24 22. On July 26, 2019, Petitioners complied with Public Resources Code section
+25 21167.5 by emailing and mailing to Respondents a letter stating that Petitioners planned to file a
+26 Petition for Writ of Mandate seeking to invalidate Respondents' approval of the Agreement.
+27 Attached hereto as Exhibit A is the true and correct copy of this letter.
+28
+
+7
+VERIFIED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY & INJUNCTIVE RELIEF
+Case No.
+
+- 23. On July 29, 2019, Petitioners will comply with Public Resources Code section
+2 21167.7 and Code of Civil Procedure section 388 by furnishing the Attorney General of the
+3 State of California with a copy a of the Petition. Attached hereto as Exhibit B is the true and
+
+4
+
+5 correct copy of the letter transmitting the Petition to the Attorney General.
+24. Pursuant to Public Resources Code section 21167.6(b)(2), Petitioners elect to
+6 prepare the record of proceedings in this action. Concurrently with this Petition, Petitioners will
+a 7 file a notice of election to prepare the administrative record.
+
+8 25. Petitioners have no plain, speedy, or adequate remedy in the course of ordinary
+9 law unless this Court grants the requested writ of mandate to require Respondents to set aside
+10 their decision to enter the Agreement. In the absence of this remedy, Respondents' decision will
+11 remain in effect in violation of State law, and Petitioners and their members will be irreparably
+12 harmed. No money damages or legal remedy could adequately compensate Petitioners and their
+13 members for that harm.
+
+14 26. This petition is timely filed.
+15
+
+16 STATEMENT OF FACTS®
+
+17 Proctor Valley and the Proposed Project Site
+
+27. The DRA Project would be located in the remote Proctor Valley area of San Diego
+18 County, northwest of the City of Chula Vista and near the small, unincorporated town of Jamul.
+19 Apart from the dirt and gravel Proctor Valley Road, a designated scenic highway, the site is
+20 entirely undeveloped. Travelers along Proctor Valley road are treated to the undeveloped, gentle
+21
+
+22 hillsides of Proctor Valley, San Miguel and the Jamul Mountains, and the dense trees and shrubs
+of Upper Otay Reservoir.
+23 28. Proctor Valley is located at the crossroads of a wealth of biological resources. The
+24 site abuts the 5,600-acre Rancho Jamul Ecological Reserve, owned by CDFW, to the west,
+25 north, and east. The Rancho Jamul Ecological Reserve provides raptor foraging habitat, host
+26 plants and nectar resources for the Quino checkerspot butterfly, habitat occupied by the
+27 California gnatcatcher and San Diego fairy shrimp, burrowing owl locations, and important
+28 habitat for numerous other special and protected species, including the mountain lion.
+8
+VERIFIED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY & INJUNCTIVE RELIEF
+Case No.
+
+29. CDFW acquired the portion of the Rancho Jamul Ecological Reserve at issue in
+2 the DRA with state and federal funding to "provide permanent protection of important
+3 biological, scenic, cultural and historic resources." Before this acquisition, the Wildlife
+
+4 Conservation Board staff explained that this land was "the highest priority for acquisition by the
+State and federal government as part of the joint Natural Community Conservation Planning
+program. Proctor Valley also provides the last remaining connection between the San Diego
+7 National Wildlife Refuge and other protected open space in southern San Diego County.
+30. The Wildlife Refuge is otherwise surrounded by development. As such, Proctor
+9 Valley and the DRA Project site provide a vital wildlife movement corridor for species traveling
+10 between the protected habitat of San Miguel Mountain within the Wildlife Refuge to the
+11 northwest and the Jamul Mountains to the southeast. CDFW has recognized the importance of
+12 water sources in Proctor Valley for wildlife migration between these two areas.
+13 31. The DRA Project site itself supports numerous sensitive natural vegetation
+14 communities including chaparral, coastal sage scrub, riparian and vernal pools. For instance, the
+15 site contains special-status plants, including the federally threatened/state endangered Otay
+16 tarplant, the federally threatened spreading navarretia, and other California Rare Plant Rank list
+17 species. The site also contains special-status wildlife species, including the federally endangered
+18 San Diego fairy shrimp and Quino checkerspot butterfly, the federally threatened California
+19 gnatcatcher, the state fully protected Golden Eagle and white-tailed kite, and the federal
+20 candidate western spadefoot toad. The site is not only replete with sensitive flora and fauna; it
+21 provides some of the County's last best habitat for many of these species.
+22 32. For instance, Proctor Valley contains key habitat for the federally endangered
+23 Quino checkerspot butterfly, a small orange-and-black butterfly that was once one of the most
+24 common butterflies in Southern California but is now on the verge of extinction. Proctor Valley
+25 connects vital habitat areas for the Quino checkerspot butterfly---San Miguel Mountain and
+26 Otay Mountain-and contains significant habitat, including host plants and nectar sources. After
+27 the wet winters of 2017 and 2018, limited surveys revealed over 50 Quino checkerspot butterfly
+28 on and near the site.
+
+VERIFIED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY & INJUNCTIVE RELIEF
+Case No.
+
+33. In addition, recent observations and USGS tracking data show that federally-listed
+2 Golden Eagles frequently travels through Proctor Valley and forages in the DRA Project site.
+
+3 Recent scientific literature indicates that Golden Eagles are particularly sensitive to
+4 development; for instances, houses, roads, and infrastructure can cause Golden Eagles to vacate
+5 nearby areas. Development in Proctor Valley would result in the loss of important eagle
+6 foraging habitat and the San Miguel Mountain/Rancho San Diego eagle territory, shrinking
+7 available habitat in San Diego County significantly.
+
+8 34. The western spadefoot toad, a state species of special concern, is also present in
+9 Proctor Valley. This brown and green amphibian requires shallow, temporary pools or streams
+10 during breeding season, many of which are present on or near the DRA Project site.
+11 II. The Multiple Species Conservation Program
+
+12 35. In response to ongoing threats to federal and state listed endangered species and
+13 continued development pressures, CDFW and USFWS prepared the MSCP for San Diego
+14 County. The MSCP is a joint federal Habitat Conservation Plan and state Natural Community
+15 Conservation Plan. The MSCP established mechanisms to ensure the survival and recovery of
+16 certain federally and state listed species while providing the County with limited "take"
+17 authorization pursuant to the federal Endangered Species Act, 16 U.S.C. section 1531 et seq.,
+18 and the California Endangered Species Act, Fish and Game Code section 2050 et seq. Notably,
+19 the MSCP does not cover some sensitive species found on the DRA Project site, including the
+20 Quino checkerspot butterfly and the western spadefoot toad.
+21 36. To implement the MSCP in the vicinity of the DRA Project, CDFW worked with
+22 the County, the City of Chula Vista, and the USFWS to prepare a MSCP Subarea Plan. The
+23 DRA Project is located within the "South County Segment" of the Subarea Plan.
+24 37. CDFW approved the County's take permit pursuant to the Natural Community
+25 Conservation Program Act (Fish and Game Code § 2800 et seq.) on March 17, 1998. CDFW
+26 also entered into an "Implementing Agreement" with the County to establish the entities' roles
+27 and responsibilities for carrying out the MSCP and Subarea Plan.
+
+28
+10
+VERIFIED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY & INJUNCTIVE RELIEF
+Case No.
+
+38. The MSCP and the Subarea Plan includes an open space preserve system that
+2 differs from the one originally approved by the County as part of the County's General Plan
+3 (specifically, in the Otay Ranch Subregional Plan). Among other things, the MSCP expanded
+the preserve system to include approximately 200 acres of central Proctor Valley (known as PV-
+1, PV-2, and PV-3) in exchange for allowing for increased development in other areas. PV-1,
+
+6 PV-2, and PV-3 are designated in the Subarea Plan as "no take authorized" and "Otay Ranch
+7 Areas Where No 'Take Permits' Will be Issued, " and are identified in the MSCP Subregional
+Plan and its EIR as "100 percent conserved," meaning such lands fall within the designated
+9 "Hardline Preserve" area. In exchange designating these and other lands as Preserve, the MSCP
+10 allowed expanded development footprints, increased residential density and/or reduced Preserve
+11 in Otay Ranch Villages 1, 2, 3, 4, 9, 10 and 11, areas in which the City of Chula Vista
+12 subsequently permitted development.
+
+13 39. The EIR prepared for the MSCP also establishes preservation of PV-1, PV-2 and
+14 PV-3 as mitigation for the impacts of the development authorized by the MSCP.
+15 III. History of the Village 14 and DRA Projects.
+
+16 40. Jackson Pendo has been interested in acquiring the Rancho Jamul Ecological
+17 Reserve for development for a number of years. Before submitting its Village 14 proposal to the
+18 County, Jackson Pendo contacted CDFW regarding a proposed land exchange, which would
+19 involve Jackson Pendo's acquisition and development of lands within the Rancho Jamul
+20 Ecological Reserve. By letter dated July 22, 2016, CDFW informed Jackson Pendo that it "must
+21 decline [the] proposal," citing its determination that the proposed land exchange would not
+22 result in a net conservation benefit.
+
+23 41. Lacking access to Rancho Jamul, Jackson Pendo submitted an application for the
+24 Village 14 Project in November 2016. Village 14 is proposed as a sprawling residential
+25 community located on a 1,284-acre site, with 1,119 single-family homes and "ranchettes,"
+26 10,000 square feet of commercial space, and associated development. The proposed Village 14
+27 Project did not include development on Rancho Jamul Ecological Reserve.
+
+28
+
+11
+VERIFIED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY & INJUNCTIVE RELIEF
+Case No.
+
+42. Between December 15, 2016 and January 23, 2017, the County circulated a notice
+a 2 of preparation ("NOP") for a Draft Environmental Impact Report for Village 14. CDFW
+3 commented on the NOP, noting that the development footprint included PV-1, PV-2, and PV-3,
+
+4
+
+Un which were designated in the MSCP Subarea Plan as "Otay Ranch Areas Where No 'Take
+
+6 Permits' Will Be Issued." CDFW also commented that a proposed alternative involving
+development on Rancho Jamul would not be feasible.
+
+7 43. On March 1, 2018, the County released the draft environmental impact report
+8 ("DEIR") for the Village 14 Project. Despite CDFW's comments on the NOP, the document
+9 defined the project as the development of Village 14, 16 and 19 (including PV-1, PV-2, and PV-
+10 3) with up to 1,119 single-family residential units.
+
+11 44.
+
+12 On Aril 16, 2018, EHL submitted extensive comments on the DEIR. For instance:
+
+a. EHL commented that the proposed development of least 340 new homes in
+13 PV-1, PV-2, and PV-3 conflicted with the MSCP and associated Subarea Plan.
+
+14 b. EHL noted that approval of Village 14 in this configuration would require
+15 modification of mitigation measures established for the MSCP, specifically related to protection
+16 of PV-1, PV-2, and PV-3.
+
+17 C. EHL commented on the many ways the DEIR failed to adequately analyze,
+18 mitigate, and avoid direct, indirect, and cumulative impacts to biological resources, including
+19 the western spadefoot toad, the Quino checkerspot butterfly, the Golden Eagle, and other
+20 sensitive flora and fauna.
+
+21 d. EHL noted that any land exchange alternative, involving development of
+22 the Rancho Jamul Ecological Reserve, was infeasible given CDFW's stated unwillingness to
+23 transfer the property.
+24 45. Numerous other agencies, organizations, and individuals also commented on the
+25 DEIR. For instance, CDFW submitted extensive comments on the Village 14 Project's conflict
+26 with the MSCP and Subarea Plan, as well as its likely adverse impacts on many special status
+27 plants and animals.
+
+28
+12
+VERIFIED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY & INJUNCTIVE RELIEF
+Case No.
+
+46. In September 2018, the County released the Final EIR ("FEIR") for the Village 14
+2 Project. Despite the significant and fundamental flaws identified in the DEIR, the FEIR
+
+3 contained only limited revisions. The Village 14 Project's key components remained unchanged.
+
+47. On October 19, 2018, the County Planning Commission considered the Village 14
+
+5 Project, ultimately voting 5-1 to recommend approval.
+
+48. On November 26, 2018, Mr. Bonham wrote to the County regarding a proposal to
+7 | "condition" approval of the Village 14 project on future amendments to the MSCP to remove
+8 the PV-1, PV-2, and PV-3 Preserve and "No Take" designations. Mr. Bonham stated that the
+9 MSCP and Subarea Plan do not authorize the County to conditionally approve development of
+10 the Village 14 Project and PV-1, PV-2, and PV-3 through a non-MSCP process. Instead, Mr.
+11 Bonham stated that to develop PV-1, PV-2, and PV-3, the County and project developer would
+12 have to pursue an amendment to the MSCP before the County considered the Village 14 Project.
+13 49. On December 21, 2018, EHL sent a letter to CDFW regarding development of
+14 PV-1, PV-2, and PV-3. EHL explained that amendments to such designated preserve areas, as
+15 suggested by CDFW, would require a major amendment to the MSCP.
+
+16 50. On March 19, 2019, Mr. Bonham sent a letter to the County offering to meet
+17 directly with members of the Board "to try to find a path forward." Mr. Bonham stated that "the
+18 most appropriate and preferred approach to address development on PV-1, PV-2 and PV-3
+19 [would be] through a major amendment process" to the MSCP. Mr. Bonham also reiterated his
+20 concern that the County's proposed approach of merely conditioning approval of the Village 14
+21 Project on a future amendment to the MSCP was unlawful.
+
+22 51. On March 20, 2019, EHL sent a letter to CDFW mirroring some of these concerns.
+23 Specifically, EHL raised legal and practical issues associated with the County's proposal to
+24 condition approval of the Village 14 Project on a future MSCP amendment.
+
+25 52. In mid-May 2019, the County set the Village 14 Project for hearing before the
+26 Board of Supervisors on June 26, 2019.
+27
+
+28
+
+13
+VERIFIED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY & INJUNCTIVE RELIEF
+Case No.
+
+F 53: On June 19, 2019, EHL submitted further comments outlining the continued flaws
+2 in the County's FEIR and the Village 14 Project's ongoing inconsistencies with state law and
+3 relevant plans.
+
+4 54. On or around June 19, 2019, the County for the first time made public that, in
+
+5 addition to considering the Village 14 Project analyzed in the EIR, the County would also be
+6 considering approval of the DRA. According to the staff report, all parties intended that the
+7 Agreement would "memorialize the parties' discussions regarding the process for extending take
+8 authorizations and addressing issues related to the MSCP.3
+
+9 55. On information and belief, none of these discussions occurred in a public forum.
+10 56. The DRA obligates the CFDW to facilitate approval of a completely reconfigured
+11 project, which had never been disclosed to the public or analyzed under CEQA. The Agreement,
+12 while woefully sparse on details, would allow development of PV-2 and portions of PV-3, while
+13 also allowing Jackson Pendo to acquire and develop portions of the Rancho Jamul Ecological
+14 Reserve. The Agreement obligates CFDW to place deeds to the reserve property into escrow,
+15 and to close on the transfer to Jackson Pendo, subject-only to future approval by WCB. The
+16 Agreement further requires CFDW to take actions to support and implement the DRA Project
+17 and prohibits CFDW from taking any actions that would interfere with the timely
+18 implementation of the DRA Project.
+
+19 57. EHL and CBD objected to the Agreement in letters to CDFW on June 25, 2019.
+20| Specifically, EHL and CDB commented that:
+21 a. The Agreement obligated CDFW to take certain steps with respect to the
+22 DRA Project, including applying for a land conservation evaluation with the Wildlife
+23 Conservation Board to transfer lands within the Rancho Jamul Ecological Preserve to Jackson
+24 Pendo and approving a revised tentative map. As the Agreement effectively surrenders CDFW's
+25 future discretion to reject the DRA Project, approval of the Agreement is a project pursuant to
+26 CEQA and requires CDFW compliance with its mandates.
+27 b. The DRA Project would lead to greater environmental harm than the
+28 original Village 14 Project. As CDFW commented in 2016, transfer and development of the
+14
+VERIFIED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY & INJUNCTIVE RELIEF
+Case No.
+
+Rancho Jamul Ecological Reserve lands would result in degradation of lands that were actively
+2 achieving the conservation goals for which they were acquired.
+
+3 58. On June 26, 2019, the County voted 3-2 to approve both the Village 14 Project
+
+4 and the Agreement.
+
+59. On June 27, 2019, Director Charlton H. Bonham executed the Agreement on
+6 behalf of CDFW. On information and belief, CDFW prepared no CEQA documents related to
+7 approval of the Agreement.
+
+8 60. On information and belief, CFDW did not prepare or file a notice of exemption,
+9 notice of determination, or other notice related to CEQA compliance.
+
+10 FIRST CAUSE OF ACTION
+
+11 Violations of 2A - Against All Respondents
+12 (Public Resources Code § 21000 et seq; State CEQA Guidelines; CCP §§ 1085, 1094.5)
+13 61. Petitioners hereby reallege and incorporate by reference the preceding paragraphs
+14 in their entirety.
+
+15 62. On June 27, 2019, Mr. Bonham executed the DRA on behalf of CDFW. Entering
+16 into the Agreement is a project pursuant to the California Environmental Quality Act. See
+17 CEQA Guidelines § 15378. Specifically, the Agreement obligates CDFW to transfer the Rancho
+18 Jamul Ecological Reserve lands to Jackson Pendo subject only to future actions outside of its
+19 control, and further requires CDFW to take actions to support and implement the DRA Project,
+20 and to refrain from taking actions that would interfere with the timely implementation of that
+21 project.
+
+22 63. CDFW has therefore committed to actions that have the potential to cause direct
+23 and indirect physical changes in the environment, specifically those related to the development
+24 of the DRA Project. The DRA Project includes development of the Rancho Jamul Ecological
+25 Reserve, biologically rich area set aside for permanent preservation. In addition, the DRA
+26 Project authorizes development of PV-2 and a portion of PV-3, despite their preservation
+27 designations in the MSCP, Subarea Plan, and EIR. By approving the DRA, the CDFW took final
+28
+15
+VERIFIED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY & INJUNCTIVE RELIEF
+Case No.
+
+action to approve a sale of the Rancho Jamul lands and took the first step toward committing
+2 itself to amendment to the MSCP to conform to the MRA Project.
+
+3 64. On information and belief, CDFW took no steps to comply with CEQA prior to
+
+4 entering into the Agreement. It did not prepare or make available to the public any
+
+5 environmental document, make any necessary findings or statements of overriding
+
+6 consideration, or otherwise comply with CEQA's specific, procedural obligations.
+
+7 65. While the DRA states that CDFW anticipates relying on the FEIR certified by the
+
+8 County for the Village 14 Project in the future, CDFW did not rely on the FEIR to approve the
+9 Agreement. On information and belief, CDFW did not certify that it reviewed and considered
+10 the information in the FEIR, did not adopt related CEQA findings or a statement of overriding
+11 considerations, or file a notice of determination or other notice for its approval of the
+12 Agreement. In addition, the FEIR for the Village 14 Project did not analyze the environmental
+13 impacts of the DRA Project.
+14 66. As a result of the foregoing defects, Respondents prejudicially abused their
+15 discretion and failed to proceed in the manner required by law by entering into the DRA without
+16 complying with the requirements of CEQA. Respondents' approval of the Agreement must be
+17 set aside.
+
+18 PRAYER FOR RELIEF
+
+19 WHEREFORE, Petitioner prays for judgment as follows:
+20 1. Alternative and peremptory writs of mandate directing CDFW and Mr. Bonham to
+21 vacate and set aside their approval of the Agreement;
+22 2. Alternative and peremptory writs of mandate directing CDFW and Mr. Bonham to
+23 comply with the requirements of CEQA and to take any other action as required by Public
+24 Resources Code section 21168.9;
+
+25 3. For a temporary stay, temporary restraining order, and preliminary and permanent
+26 injunctions restraining CDFW, Mr. Bonham, and Real Parties in Interest and their agents,
+27 servants, and employees, and all others acting in concert with CDFW and/or Mr. Bonham on
+28 their behalf, from taking any action to implement the Agreement, pending full compliance with
+16
+VERIFIED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY & INJUNCTIVE RELIEF
+Case No.
+
+the requirements of CEQA and the CEQA Guidelines;
+
+2 4. For costs of the suit;
+
+3 5. An order awarding Petitioner its attorneys' fees under Code of Civil Procedure
+4 section 1021.5 and other applicable authority; and
+
+6. For such other and further relief as the Court deems just and proper.
+6 DATED: July 29, 2019 SHUTE, MIHALY & WEINBERGER LLP
+
+7
+
+8
+
+9 By:
+SARA A. CLARK
+10 Attorneys for Petitioner ENDANGERED
+11 HABITATS LEAGUE
+
+12
+
+13 DATED: July 29, 2019 CENTER FOR BIOLOGICAL DIVERSITY
+
+14
+
+15 By:
+16 JOHN BUSE
+
+17 ARUNA PRABHALA
+Co PETER BRODERICK
+18
+
+19 Attorneys for Petitioner CENTER FOR
+BIOLOGICAL DIVERSITY
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+17 VERIFIED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY & INJUNCTIVE RELIEF
+Case No.
+
+VERIFICATION
+
+I, Dan Silver, declare as follows:
+I am executive director of Endangered Habitats League and am authorized to execute this
+verification on Petitioners' behalf. I have read the foregoing Petition for Writ of Mandate and
+am familiar with its contents. All facts alleged in the above Petition, and not otherwise
+supported by exhibits or other documents, are true of my own knowledge, except to matters
+
+7 stated on information and belief, and as to those matters I believe them to be truc.
+I declare under penalty of perjury that the above is true and correct.
+
+10 Executed this 2 2 day of July, 2019, in Los Ajaler California.
+
+11
+12
+
+13 Dan Silver
+
+14
+1144806.4
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE & COMPLAINT FOR DECLARATORY & INJUNCTIVE RELIEF
+Case No.
+
+EXHIBIT A
+
+SHUTE, MIHALY
+(WEINBERGER LLP
+
+396 HAYES STREET, SAN FRANCISCO, CA 94102 SARA A. CLARK
+T: (415) 552-7272 F: (415) 552-5816 Attorney
+www.smwlaw.com Clark@smwlaw.com
+July 26, 2019
+Via E-Mail and U.S. Mail
+
+California Department of Fish and Wildlife California Department of Fish and Wildlife
+Charlton "Chuck" Bonham, Director Wendy Bogdan, General Counsel
+P.O. Box 944209 P.O. Box 944209
+Sacramento, CA 94244-2090 Sacramento, CA 94244-2090
+Chuck.Bonham@wildlife.ca.gov wendy.bogdan@wildlife.ca.gov
+California Department of Fish and Wildlife Ed Pert, South Coast Regional Manager
+3883 Ruffin Road
+San Diego, CA 92123
+ed.pert@wildlife.ca.gov
+
+Re: Endangered Habitats al. v. California Department Of
+Fish And Wildlife, et al.
+
+Dear Director Bonham, Ms. Bogdan, and Mr. Pert:
+This letter is to notify you that Endangered Habitats League and the Center
+for Biological Diversity will file suit against the California Department of Fish and Wildlife and its Director for failure to comply with the requirements of the California Environmental Quality Act ("CEQA"), Public Resources Code section 21000 et seq., the CEQA Guidelines, California Code of Regulations section 15000 et seq., and other state laws in the Department's approval of a "Dispute Resolution Agreement" regarding the Otay Ranch Village 14 and Planning Areas 16/19 project. This notice is given pursuant to
+Public Resources Code section 21167.5.
+
+Very truly yours,
+
+SHUTE, MIHALY & WEINBERGER LLP
+Meve Alaipr
+Sara A. Clark
+
+SAC:CL
+
+1144418.1
+
+- PROOF OF SERVICE
+
+2
+
+3 Endangered Habitats League, et al. v. California Department Of Fish And Wildlife, et al.
+
+4 Superior Court of the State of California, County of San Diego, Central Division
+At the time of service, I was over 18 years of age and not a party to this action. I am employed in the County of San Francisco, State of California. My business address is 396 5 Hayes Street, San Francisco, CA 94102.
+
+6
+
+7 On July 26, 2019, I served the original of the following document(s) described as:
+
+8 LETTER RE: NOTIFICATION OF INTENT TO SUE
+on the parties in this action as follows:
+
+9
+
+10 SEE ATTACHED SERVICE LIST
+BY MAIL: I enclosed the document(s) in a sealed envelope or package addressed to the persons at the addresses listed in the Service List and placed the envelope for collection and 11 mailing, following our ordinary business practices. am readily familiar with Shute, Mihaly & Weinberger LLP's practice for collecting and processing correspondence for mailing. On the 12 same day that the correspondence is placed for collection and mailing, it is deposited in the ordinary course of business with the United States Postal Service, in a sealed envelope with 13 postage fully prepaid.
+
+14 BY E-MAIL OR ELECTRONIC TRANSMISSION: I caused a copy of the document(s) to be sent from e-mail address CLudlow@smwlaw.com to the persons at the e-mail 15 addresses listed in the Service List. I did not receive, within a reasonable time after the
+
+16 transmission, any electronic message or other indication that the transmission was unsuccessful.
+declare under penalty of perjury under the laws of the State of California that the 17 foregoing is true and correct.
+
+18
+
+19 Executed on July 26, 2019, at San Francisco, California.
+
+20
+
+21 CRudtm Crystal Ludlow
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+SERVICE LIST
+
+2 Endangered Habitats League, et al. v. California Department Of Fish And Wildlife, et al.
+Superior Court of the State of California, County of San Diego, Central Division
+California Department of Fish and Wildlife 4 Charlton "Chuck" Bonham, Director California Department of Fish and Wildlife
+P.O. Box 944209 Wendy Bogdan, General Counsel P.O. Box 944209
+Sacramento, CA 94244-2090
+I| Chuck.Bonham@wildlife.ca.gov Sacramento, CA 94244-2090
+wendv.bogdan@wildlife.ca.gov
+
+California Department of Fish and Wildlife Ed Pert. South Coast Regional Manager 3883 Ruffin Road San Diego, CA 92123
+Il ed.pert@.wildlife.ca.gov
+9
+
+10 1144419.1
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+2
+
+EXHIBIT B
+
+SHUTE, MIHALY
+(WEINBERGER LLP
+
+396 HAYES STREET, SAN FRANCISCO, CA 94102 SARA A. CLARK
+T: (415) 552-7272 F: (415) 552-5816 Attorney
+www.smwlaw.com Clark@smwlaw.com
+
+July 29, 2019
+
+Xavier Becerra
+Attorney General
+California Department of Justice
+1300 Street
+Sacramento, CA 95814-2919
+
+Re: Notice of Filing CEQA Litigation
+(Endangered Habitats League, et al. v. California Department of Fish
+and Wildlife, et al.)
+
+Dear Attorney General Becerra:
+Enclosed please find copy of the Verified Petition for Writ of Mandate in
+the above-titled action. The petition is provided to you in compliance with Public Resources Code section 21167.7 and Code of Civil Procedure section 388. Please
+acknowledge receipt in the enclosed prepaid, self-addressed envelope.
+Thank you for your attention to this matter.
+Very truly yours,
+
+SHUTE, MIHALY & WEINBERGER LLP
+
+Maro Unaf
+Sara A. Clark
+
+SAC:CL
+
+Enclosure: Verified Petition for Writ of Mandate
+
+SHUTE, MIHALY
+(WEINBERGER LLP
+
+396 HAYES STREET, SAN FRANCISCO, CA 94102 SARA A. CLARK
+T: (415) 552-7272 F: (415) 552-5816 Attorney
+www.smwlaw.com Clark@smwlaw.com
+
+July 29, 2019
+
+Xavier Becerra
+Attorney General
+California Department of Justice
+1300 Street
+Sacramento, CA 95814-2919
+
+Re: Notice of Filing CEQA Litigation
+(Endangered Habitats League, et al. v. California Department of Fish
+and Wildlife, et al.)
+
+Dear Attorney General Becerra:
+Enclosed please find a copy of the Verified Petition for Writ of Mandate in
+the above-titled action. The petition is provided to you in compliance with Public
+Resources Code section 21167.7 and Code of Civil Procedure section 388. Please
+acknowledge receipt in the enclosed prepaid, self-addressed envelope.
+Thank you for your attention to this matter.
+Very truly yours,
+
+SHUTE, MIHALY & WEINBERGER LLP
+
+Mere Lacipr
+Sara A. Clark
+
+SAC:CL
+
+Enclosure: Verified Petition for Writ of Mandate
+
+DECEIVEN AJ2 0 1 2019 BY:-_________..

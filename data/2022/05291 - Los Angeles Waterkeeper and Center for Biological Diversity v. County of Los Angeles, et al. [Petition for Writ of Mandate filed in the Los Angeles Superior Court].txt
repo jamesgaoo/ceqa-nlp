@@ -1,0 +1,3616 @@
+CBCM
+
+Hermosa Beach Office Chatten-Brown, Carstens & Minteer LLP Phone: (310) 798-2400 Michelle N. Black
+Fax: (310) 798-2402 2200 Pacific Coast Highway, Suite 318 Email Address:
+mnb@cbcearthlaw.com
+San Diego Office Hermosa Beach, CA 90254
+Phone: (619) 940-4522 www.cbcearthlaw.com Direct Dial: 310-798-2400 Ext. 5
+
+July 13, 2022
+
+By U.S. Mail
+California Attorney General
+300 South Spring Street, Ste. 1700
+Los Angeles, CA 90013
+
+Re: Challenge under the California Environmental Quality Act to the approval of the Los Angeles River Master Plan Update
+Honorable Attorney General:
+
+Please find enclosed a copy of the Petition for Writ of Mandate filed to challenge the County of Los Angeles approval of the Los Angeles River Master Plan Update under the California Environmental Quality Act. Petitioners Los Angeles Waterkeeper and Center for Biological Diversity allege that the environmental impact report (EIR) fails to adequately describe the project, resulting in the EIR's failure to disclose, analyze, and mitigate the impacts of the 51-mile-long project.
+This Petition is being provided pursuant to the notice provisions of the Public Resources Code. Please contact me if you have any questions.
+
+Sincerely,
+molPa
+
+Michelle Black
+Enclosure
+
+PROOF OF SERVICE
+
+I am employed by Chatten-Brown, Carstens & Minteer LLP in the County of Los Angeles, State of California. am over the age of 18 and not a party to the within action. My business address is 2200 Pacific Coast Highway, Ste. 318, Hermosa Beach, CA 90254. On July 13, 2022, I served the within documents:
+LETTER TO THE CA ATTORNEY GENERAL REGARDING
+PETITION FOR WRIT OF MANDATE
+
+VIA UNITED STATES MAIL. - am readily familiar with this business' practice for collection and processing of correspondence for mailing with the United States Postal Service. On the same day that correspondence is placed for collection and mailing, it is deposited in the ordinary course of business with the United States Postal Service in a sealed envelope with postage fully prepaid. I enclosed the above-referenced document(s) in a sealed envelope or package addressed to the person(s) at the address(es) as set forth below, and following ordinary business practices I placed the package for collection and mailing on the date and at the place of business
+set forth above.
+
+I declare that I am employed in the office of a member of the bar of this court whose direction the service was made. declare under penalty of perjury under the laws of the State of California that the above is true and correct. Executed on July 13, 2022, at Hermosa Beach, California 90254.
+
+/s/ Cynthia Kellman
+Cynthia Kellman
+
+SERVICE LIST
+Office of the CA Attorney General 300 South Spring Street, Ste. 1700 Los Angeles, CA 90013
+
+-
+
+2 CHATTEN-BROWN, CARSTENS & MINTEER, LLP
+Amy Minteer, SBN 223832
+
+3 Michelle Black, SBN 261962
+2200 Pacific Coast Hwy, Suite 318
+
+4 Hermosa Beach, CA 90254
+310.798.2400; Fax 310.798.2402
+
+5 Email: acm@cbcearthlaw.com
+
+6 mnb@cbcearthlaw.com
+
+7 Attorneys for Petitioners
+
+8 LOS ANGELES WATERKEEPER and CENTER FOR
+BIOLOGICAL DIVERSITY
+
+9 Continued next page
+
+10
+
+11
+
+12 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+13 FOR THE COUNTY OF LOS ANGELES
+
+14 LOS ANGELES WATERKEEPER and
+
+15 CENTER FOR BIOLOGICAL DIVERSITY CASE NO.:
+
+16 Petitioners,
+
+17 VERIFIED PETITION FOR WRIT OF
+
+18 COUNTY OF LOS ANGELES and BOARD MANDATE
+
+19 OF SUPERVISORS OF THE COUNTY OF
+LOS ANGELES and LOS ANGELES California Environmental Quality Act
+
+COUNTY DEPARTMENT OF PUBLIC
+20 WORKS and LOS ANGELES COUNTY
+
+21 FLOOD CONTROL DISTRICT
+
+22 Respondents,
+
+23
+
+24 DOES 1 THROUGH 10
+
+25 Real Parties in Interest.
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE H
+
+LOS ANGELES WATERKEEPER
+Benjamin Harris, SBN 313193
+120 Broadway, Suite 105
+Santa Monica, CA 90401
+(310) 394-6162 ext. 102; Fax: (310) 394-6178
+Email: ben@lawaterkeeper.org
+
+5 Attorneys for Petitioner
+6 LOS ANGELES WATERKEEPER
+
+7
+
+8 CENTER FOR BIOLOGICAL DIVERSITY
+John P. Rose (SBN 285819)
+9 1212 Broadway, Suite 800
+10 Oakland, CA 94612
+Tel: (510) 844-7100
+11 Email: jrose@biologicaldiversity.org
+
+12 Attorneys for Petitioner
+13 CENTER FOR BIOLOGICAL DIVERSITY
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE 2
+
+INTRODUCTION
+
+2 1. On June 14, 2022, Respondent County of Los Angeles violated the California
+
+3 Environmental Quality Act, Pub. Resources Code §§ 21000 et seq. ("CEQA"), by approving the
+
+4 Los Angeles River Master Plan Update ("Master Plan" or "Project") and certifying a legally
+
+5 inadequate Program Environmental Impact Report ("PEIR" or "Program EIR"). Petitioners Los
+
+6 Angeles Waterkeeper and the Center for Biological Diversity ("Petitioners") bring this action to
+
+7 challenge the County's failure to comply with the requirements of CEQA.
+2. The Project consists of a program-level planning document that is intended to serve
+
+9 a as a roadmap for future projects along the Los Angeles River ("LA River"). However, the
+
+10 Master Plan lacks a cohesive vision for the future of the LA River and fails to offer guidance to
+
+11 project proponents about how to prioritize the many broad goals identified in the Master Plan.
+
+12 The Master Plan is not actually a plan, but acts as a menu of options for future individual
+13 projects that each could lead to vastly different results for LA River projects.
+
+14 3. In approving this Project, the County fails to analyze the foreseeable significant
+15 impacts to the environment that the Master Plan will authorize. The PEIR's definition of the
+
+16 "Project" subject to environmental review is defined broadly as merely an advanced planning
+17 document, but conflictingly, the Master Plan and PEIR simultaneously describe and analyze
+18 "planned" projects at identified opportunity sites. Some of these planned projects-particularly
+
+19 the development of large platform parks that would encase large stretches of the LA River
+20 channel in more concrete are certain to have significant environmental impacts that cannot be
+
+21 mitigated, particularly those project components with specific design guidelines incorporated in
+22 the Master Plan. Yet the Master Plan improperly defers environmental analysis and
+
+23 consideration of mitigation measures to the CEQA process for those individual projects, even
+24 though the County simultaneously pursued federal funding for unspecified "shovel-ready" LA
+25 River projects under the Master Plan before the CEQA process was complete. The County also
+26 adopts an insufficient analysis of alternatives by failing to consider the LA River as a living
+27 river, instead treating it solely as a flood control channel beyond saving, and therefore refusing
+28 to explore Project alternatives to commit to removing concrete from the LA River channel
+
+VERIFIED PETITION FOR WRIT OF MANDATE 3
+
+P wherever feasible.
+
+2 4. Additionally, the County's process for the adoption of the Master Plan and PEIR
+
+3 reveals a pre-commitment to the structure and scope of the Master Plan and the planned or
+
+4 potential projects described in the Master Plan. Despite best efforts from Petitioners and other
+
+5 non-profit organizations, community-based organizations, and members of the public to
+
+6 convince the County to adopt a Master Plan that prioritized ecological and community health
+
+7 and resilience, the final Master Plan does not reflect the community's values. Instead, the
+
+8 County misrepresents that the repeated interactions with Petitioners and other organizations on
+
+9 the Master Plan's Steering Committee contributed to the direction of the Master Plan and the
+
+10 environmental analysis in the PEIR. Ultimately, the County made almost no substantive changes
+
+11 to the Master Plan in response to comments on the draft Master Plan and draft EIR, including
+
+12 comments from Petitioners as well as detailed comments from State agencies identifying
+
+13 concerns with the draft Master Plan and draft PEIR.
+
+14 5. For these reasons and others described herein, Petitioners seek a writ of mandate
+15 vacating the certification of the PEIR and approval of the Project.
+
+16 JURISDICTION AND VENUE
+
+17 6. This Court has jurisdiction over this CEQA writ action under sections 1085 and
+
+18 1094.5 of the Code of Civil Procedure. This Court also has jurisdiction over this CEQA writ
+
+19 action under sections 21168 and 21168.5 of the Public Resources Code.
+
+20 7. This Court has jurisdiction because Petitioners have fully exhausted their
+
+21 administrative remedies and because Petitioners have a beneficial interest in the County's
+
+22 compliance with CEQA.
+
+23 8. This Court has jurisdiction because this action is timely filed under Public
+
+24 Resources Code section 21167 subdivisions (b) and (c).
+
+25 9. Venue is proper in Los Angeles County under Code of Civil Procedure section
+
+26 394, because the County is a governmental district situated in Los Angeles County.
+
+27 10. Petitioners have standing to bring this action.
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE 4
+
+- PARTIES
+
+2 11.
+
+3 Petitioner LOS ANGELES WATERKEEPER ("Waterkeeper") is a non-profit
+
+4 organization incorporated under the laws of the State of California with members who live and
+
+5 recreate throughout the Los Angeles area, including in the watershed of the LA River. Founded
+
+6 in 1993 as Santa Monica BayKeeper, Waterkeeper changed its name in 2012 to reflect its
+broader concerns with the health of all waters in Los Angeles County, including the LA River.
+7 Waterkeeper's mission is to promote and protect the health of all coastal and inland water
+
+8
+
+9 resources in Los Angeles County and to ensure a sustainable water supply for the Los Angeles
+
+10 region. Through advocacy, education, community action, and litigation, Waterkeeper strives to
+
+11 ensure its members and all Los Angeles County residents have access to healthy, safe, and
+
+12 environmentally sensitive inland and coastal waters and water resources. In particular,
+
+13 Waterkeeper partners closely with other non-profit organizations to advocate for the County
+
+14 and other government agencies to restore the LA River from its current state as a concrete flood
+
+15 control channel into a natural and climate-resilient river, in a manner that achieves community
+
+16 stabilization and increases park space for river-adjacent neighborhoods burdened with
+pollution.
+
+17 12.
+
+18 Petitioner CENTER FOR BIOLOGICAL DIVERSITY ("Center") is a national
+
+19 conservation organization and California nonprofit corporation that works through science, law,
+
+20 and policy to secure a future for all species, great or small, hovering on the brink of extinction.
+
+21 The Center has over 89,000 members worldwide, including many in Los Angeles County. The
+
+22 Center has worked for many years to protect imperiled plants and wildlife, open space, air and
+
+23 water quality, and the overall quality of life for people in Los Angeles County.
+13.
+
+24 Respondent COUNTY OF LOS ANGELES ("County") is a political subdivision
+
+25 of the State of California. The County is the CEQA Lead Agency for the Project and is
+
+26 identified as the Project applicant on the Notice of Determination filed on June 14, 2022.
+14.
+
+27 Respondent BOARD OF SUPERVISORS OF THE COUNTY OF LOS
+
+28 ANGELES ("Board") is the legislative body and the highest administrative body of the County.
+The Board approved the Project and certified that the PEIR for the Project was adequate under
+
+VERIFIED PETITION FOR WRIT OF MANDATE 5
+
+] CEQA.
+
+2 15. Respondent LOS ANGELES COUNTY DEPARTMENT OF PUBLIC WORKS
+
+3 ("Department") is the public works agency that oversees infrastructure, construction,
+
+4 development, and other services throughout Los Angeles County. The Department acted as the
+
+5 CEQA Lead Agency for the Project on behalf of the County.
+
+6 16. Respondent LOS ANGELES COUNTY FLOOD CONTROL DISTRICT
+
+7 ("District") oversees flood protection, water conservation, recreation, and aesthetic
+I enhancement for water bodies within Los Angeles County. The District is governed by the
+
+9 Board as a separate entity from the County. The Board delegated authority to the District over
+
+10 certain aspects of the Master Plan as part of the Board's approval of the Project.
+
+11 17. Petitioners are unaware of the true names of Real Parties in Interest 1 through 10 at
+
+12 this time, and accordingly names them as DOES 1-10 until such time as the true name of each
+
+13 party so named is discovered.
+
+14 STATEMENT OF FACTS
+
+15 The Los Angeles River.
+
+16 18. The Project site for the Master Plan is the LA River, a 51-mile channel through the
+
+17 heart of Los Angeles County. The headwaters of the LA River are located in the San Fernando
+
+18 Valley, originating from a confluence of multiple tributaries that collect rainwater from the
+
+19 Santa Monica Mountains, Simi Hills, Santa Susana Mountains, and San Gabriel Mountains. The
+20 river then travels eastward through residential and urban areas in the San Fernando Valley until
+
+21 reaching Glendale, at which point the river changes course to flow south around Griffith Park
+
+22 and east of downtown Los Angeles. As it approaches the City of Vernon, the river slopes
+
+23 eastward and passes along the eastern boundary of Maywood, before returning to a southern
+
+24 course through Southeast Los Angeles and into the Pacific Ocean by Long Beach.
+25 19. Before westerners colonized the Los Angeles region, the LA River was a powerful
+
+26 natural water body that saw its flows, and even its path, change depending on the weather. The
+
+27 LA River supported a diverse riparian Mediterranean ecosystem, establishing marshes and
+
+28 wetlands fed by high groundwater tables throughout much of the river's expansive watershed.
+
+VERIFIED PETITION FOR WRIT OF MANDATE 6
+
+Many stretches of the river (including near present-day downtown Los Angeles) flowed year-
+
+2 round, and experienced flash floods following heavy rains that at times changed the river's
+
+3 course dramatically, while surface flows in other stretches ceased during the dry season. For
+
+4 thousands of years, the Indigenous tribes of the Tataviam, Kizh, and Tongva Peoples all
+recognized the dynamic nature of the LA River and established settlements near the river's
+
+6 banks while keeping the changing floodplains in mind.
+20. Starting at the turn of the 20th century, colonists put down permanent roots against
+8 the riverbanks, exposing people and property to extreme floods and resulting in multiple
+
+9 catastrophes throughout the 1930s. In response, through concrete-heavy engineering tactics, the
+
+10 US Army Corps of Engineers ("Army Corps") spent two decades taming the LA River and its
+11 tributaries into a vast network of concrete channels, save for about 11 miles near downtown Los
+
+12 Angeles with soft-bottom vegetated channels referred to as the Glendale Narrows (as well as a
+13 small section of the river near Lake Balboa). Now, literally walled off from its namesake city,
+14 the LA River is treated as merely a 51-mile sewerage and stormwater conveyance channel to
+15 send floodwaters and wastewater discharges into the Pacific Ocean as fast as possible-and
+16 occasionally as a Hollywood prop during the dry season.
+17 21. Since its entombment in concrete, the LA River and its adjacent residential
+18 communities have experienced a long history of neglect. Failing to recognize the LA River as a
+19 living river, local governments and agencies instead saw opportunities to develop even more
+20 human-centric projects within the current river channel's historic floodplain. a As a result, much
+
+21 of the LA River is abutted by ever-expanding industrial facilities, railyards, and highways
+22 characterized by significant contributions of air and water pollution and, unsurprisingly, the LA
+23 River and its tributaries now suffer from poor water quality. Indeed, they previously have been
+24 or are identified as "impaired" under the federal Clean Water Act-i.e., too polluted to support
+25 beneficial uses for human use and wildlife-for a variety of metals (including copper, lead,
+26 cadmium, aluminum, selenium, and zinc) and other toxic and conventional pollutants (including
+27 but not limited to chlordane, DDT, PCB, sediment toxicity, coliform bacteria, cyanide,
+
+28 diazinon, trash, oil, pH, algae, nutrients, and ammonia). As a sad but foreseeable consequence,
+
+VERIFIED PETITION FOR WRIT OF MANDATE 7
+
+F according to CalEnviroScreen-a screening and mapping tool promulgated by the California
+
+2 Office of Environmental Health Hazard Assessment to identify environmental justice
+
+3 communities-LA River neighborhoods currently rank among the most pollution-burdened
+
+4 areas within Los Angeles County.
+
+5 22. However, the LA River is finally being recognized as the important environmental,
+
+6 recreational, and cultural amenity that it is--and how it might function if restored. For example,
+
+7 years of attention on the Taylor Yard site-a former railyard-culminated in the development
+of Rio De Los Angeles State Park, a mixed-use multi-benefit park next to the LA River's soft-
+
+9 bottom channel in the Glendale Narrows. In January 2022, the federal government made
+
+10 available $28 million for the Los Angeles River Ecosystem Restoration Project, with the Army
+
+11 Corps to undertake ecosystem and habitat restoration projects at Taylor Yard and other
+
+12 stretches of the Glendale Narrows. In March 2022, the City of Los Angeles unveiled the Taylor
+
+13 Yard Bridge, a pedestrian and bike crossing over the river, to enhance connectivity to the park.
+
+14 The City of South Gate is moving forward with construction of the Urban Orchard Project,
+
+15 multi-use wetland and park next to the LA River with an underground stormwater infiltration
+
+16 gallery, recreational opportunities, and other community amenities. Stormwater capture
+
+17 projects, linear and pocket parks, and even kayaks are becoming a more common sight along
+
+18 the LA River. For the first time in nearly a century, the phrase "Los Angeles River" is taking on
+
+19 a non-ironic meaning.
+20 II. The History of the Master Plan.
+
+21 23. The County released the first iteration of the Master Plan in 1996 ("1996 Master
+
+22 Plan"). The original 1996 Master Plan set forth generic goals for LA River projects to achieve
+
+23 flood control and public safety while considering alternatives for stormwater management, to
+
+24 improve the river's appearance by enhancing and restoring environmental resources, to promote
+
+25 the river as an "economic asset," and to provide recreational opportunities and safe access to the
+
+26 river. The 1996 Master Plan intended to guide decision-making for the County by establishing
+
+27 that the Department would coordinate all river projects and ensure consistency with the Master
+
+28 Plan's goals. Despite the Department's oversight role, the 1996 Master Plan intended to
+
+VERIFIED PETITION FOR WRIT OF MANDATE 8
+
+preserve local jurisdictions' autonomy over individual projects while encouraging cities to
+
+2 coordinate with each other to implement the plan.
+
+3 24. Efforts to update the 1996 Master Plan began in 2015, when it was announced in
+
+4 August that architect Frank Gehry was working with the City of Los Angeles ("City") to
+
+5 develop a new revitalization plan for all 51 miles of the LA River. Gehry's interest in LA River
+
+6 projects was linked to the City's expressed interest in hosting the international Olympics in
+
+7 2024. The environmental group Friends of the Los Angeles River ("FOLAR"), a close partner of
+
+8 Waterkeeper, repeatedly expressed displeasure with the lack of public transparency and input
+regarding Gehry's involvement in steering the direction of river revitalization plans. Gehry's
+10 coordination with the City ultimately was unfruitful, as the City never formally pursued an
+
+11 update to its own river planning documents.
+
+12 25. In 2016, Gehry collaborated with the non-profit organization RiverLA to hold
+13 listening sessions in LA River neighborhoods and released a website with maps and charts
+14 identifying LA River project sites and opportunities.
+15 26. On October 18, 2016, the Board voted to approve Motion 16-5168, requiring the
+16 establishment of a Steering Committee comprised of regional agencies, city leaders, nonprofit
+17 and community groups, and other interested stakeholders to develop an update to the 1996
+18 Master Plan. Supervisor Sheila Kuehl touted the Master Plan update process as "designed to
+19 ensure that the LA River Master Plan engages all stakeholders and develops a unified vision
+20 that reflects the needs of all communities and includes all voices." Supervisor Hilda Solis, then-
+21 Chair of the Board, reiterated that "it is important that we work with our community groups,
+22 departments, and residents to obtain valuable input to [sic] and be inclusive."
+23 27. Following the Board's motion, the County put out calls for bids for consultants
+24 interested in developing the Master Plan update. About one year before the County released a
+25 Request for Proposal for the Master Plan update, however, the President of the Department
+26 attended a stakeholder meeting for a separate river planning process in the lower LA River and
+27 declared that Gehry would be drafting a new LA River Master Plan for the County.
+28 28. In March 2018, the County ultimately selected Geosyntec Consultants
+
+VERIFIED PETITION FOR WRIT OF MANDATE 9
+
+("Geosyntec") to head the Master Plan update team. Consistent with the Department's
+
+2 representations a year earlier, Geosyntec subcontracted with Gehry's architecture firm--Gehry
+
+3 Partners, LLP ("Gehry Partners") to handle the architecture and urban planning components
+
+4 of the Master Plan update, along with a separate architecture firm The Olin Studio. RiverLA,
+
+5 Gehry's previous partner on LA River project mapping, was selected to lead the Master Plan
+
+6 update's community engagement and outreach process. In a press release issued by the County
+
+7 on March 5, 2018, Gehry stated that the consulting team "will be exploring and studying
+8 meaningful options for open space use while respecting the flood control mandate and other
+
+9 water engineering requirements of the river," and that Gehry "look[ed] forward to working with
+
+10 the County, our many partners in the city of Los Angeles and other County cities, nonprofit
+
+11 partners, and the public through the Master Plan process as we translate ideas into action."
+
+12 II. The Process to Develop the Master Plan Update.
+
+13 29. After issuing public notice of the Project, between 2018 and 2020, the County
+
+14 embarked on what appeared to be earnest efforts to engage with the public, including
+
+15 Petitioners, non-profit organizations, community groups, and residents, to solicit feedback on
+
+16 what the updated Master Plan should look like. As the drafting process began, however, it
+
+17 became clear that the County did not intend to listen to community members nor incorporate
+
+18 any feedback into the updated Master Plan. The County ultimately released a draft Master Plan
+
+19 that failed to reflect the repeated comments and concerns raised by Petitioners, other non-profit
+20 organizations, and community members who had called for a clear vision for future projects
+
+21 under the Master Plan that prioritized ecological and community health and resilience. The final
+
+22 Master Plan similarly ignored public comments from Petitioners and other stakeholders on the
+
+23 draft Master Plan, making no meaningful changes from the prior version and further
+24 committing to building harmful platform park projects over many objections from concerned
+
+25 community members.
+
+26 A. The Steering Committee.
+
+27 30. The County first established a Steering Committee for the Master Plan update in
+28 the spring of 2018. The Steering Committee included representatives of non-profit
+
+VERIFIED PETITION FOR WRIT OF MANDATE 10
+
+organizations, local government agencies, and other stakeholders. The County also created
+
+2 three subcommittees for the Steering Committee groups-Water, Environment, and People
+
+3 which met separately within one to two weeks after each Steering Committee meeting to
+
+4 discuss specific topics relevant to each subcommittee at greater length. The County appointed
+
+5 Waterkeeper to the Steering Committee from its inception, and Waterkeeper participated as a
+member of the Steering Committee during the entirety of the Master Plan engagement process.
+Waterkeeper also served on the Water and Environment subcommittees.
+31. At the beginning of the Steering Committee process, the County identified the role
+
+9 of the Steering Committee as "helping to guide the Master Plan Update by providing input,
+10 ideas, comments, and feedback throughout the planning process, incorporating members'
+
+11 expertise, knowledge, and resources." The County stated that the Master Plan team "will
+
+12 consider the Steering Committee input when preparing the updated Master Plan, along with
+13 input from the broader community and stakeholder involvement process, technical and
+14 regulatory requirements, and other County needs and goals."
+
+15 32. The County held Steering Committee meetings on 8 different occasions: (1) April
+16 11, 2018; (2) June 27, 2018; (3) September 26, 2018; (4) December 12, 2018; (5) April 10,
+17 2019; (6) June 26, 2019; (7) September 25, 2019; and (8) December 12, 2019. Each Steering
+18 Committee discussed a different element of the Master Plan, including the vision statement,
+19 planning frames, project design guidelines, and the "kit of parts" ("KOP") categories for future
+20 river projects. During some of these meetings, the County provided the Steering Committee
+21 with early drafts of the Master Plan for their review and comment. A representative from
+
+22 Waterkeeper attended each Steering Committee meeting.
+
+23 33. The County held 24 subcommittee meetings with Steering Committee members. A
+24 representative from Waterkeeper attended most, if not all, of the 8 respective meetings for each
+25 of the Environment subcommittee and the Water subcommittee.
+
+26 34. On March 20, 2019, the County also held a special subcommittee workshop on
+27 hydrology and hydraulics. A representative from Waterkeeper attended the special
+28 subcommittee workshop on hydrology and hydraulics. At the workshop, the Master Plan
+
+VERIFIED PETITION FOR WRIT OF MANDATE 11
+
+1 consulting team asserted that it conducted an analysis of flood risks and the possibility for
+
+2 nature-based solutions to remove concrete from the channel, conveying orally the team's
+
+3 conclusion that concrete removal was infeasible without increasing flood risks to the point of
+
+4 displacing thousands of residents. However, the Master Plan consulting team never shared the
+
+5 underlying analysis with the Steering Committee or the public, making it impossible for
+
+6 Petitioners to assess the accuracy of the analysis and offer meaningful feedback on the Master
+
+7 Plan consulting team's conclusions.
+
+8 35. At the Steering Committee and subcommittee meetings, Waterkeeper and other
+
+9 members of the Steering Committee repeatedly commented to the County to request that the
+
+10 Master Plan update adopt a vision that prioritizes improving community health and resilience
+
+11 through ecological restoration of the LA River. Commenters highlighted the importance of
+
+12 floodplain reclamation, enhanced public access to and connectivity with open space, climate
+
+13 adaptation, consideration of equity for future river projects, unified governance systems,
+14 binding protections that prevent gentrification and displacement to ensure community
+
+15 stabilization, and adopting watershed-level approach to integrate these considerations for all
+
+16 projects within the LA River watershed.
+
+17 36. On May 16, 2019, Waterkeeper sent a letter to the Master Plan update team
+
+18 providing detailed comments on Waterkeeper's concerns about the discussions at the Steering
+
+19 Committee meetings and the expected scope of the Master Plan, including feedback on the
+20 goals and KOP categories.
+
+21 37. Waterkeeper and other Steering Committee members raised concerns about the
+
+22 composition of the Steering Committee during many of the meetings. Early on, Waterkeeper
+
+23 and Steering Committee members noted the exclusion of important community organizations
+
+24 and environmental justice organizations, such as East Yard Communities for Environmental
+
+25 Justice ("EYCEJ"), and the lack of diverse Indigenous representation through the absence of a
+
+26 representative from the Tongva People. Waterkeeper and Steering Committee members
+27 requested that the Master Plan update team add representatives from these groups to the
+
+28 Steering Committee to improve the diversity of voices and allow for more meaningful feedback
+
+VERIFIED PETITION FOR WRIT OF MANDATE 12
+
+on the Master Plan update. While the Master Plan update team eventually added EYCEJ to the
+
+2 Steering Committee in light of this feedback, a Tongva representative was not added.
+
+3 38. Additionally, Waterkeeper and other organizations raised concerns about the
+
+4 Steering Committee process during many of the meetings, and in separate meetings with the
+Master Plan update team. Waterkeeper and other organizations objected to the agenda and form
+
+6 of discussion during full Steering Committee meetings, where the Master Plan team would
+
+7 spend most of the meeting providing detailed updates about the extent of community
+
+8 engagement. The limited time left at the end of meetings focused mostly on unimportant topics
+
+9 such as specific word choice in the Master Plan's vision statement, rather than discussing
+10 overall priorities for LA River projects or the representative examples of beneficial projects that
+11 the County should support. When Waterkeeper and its partner organizations attempted to
+12 discuss substantive issues during these Steering Committee meetings, the Master Plan update
+13 team deferred those meaningful conversations to subsequent subcommittee meetings. Because
+
+14 the subcommittee meetings were held shortly after larger Steering Committee meetings, and
+15 months before the next Steering Committee meeting, it was unclear to Waterkeeper and its
+16 whether and to what extent any feedback provided during subcommittee meetings were
+17 incorporated into the Master Plan. By structuring the Steering Committee and subcommittee
+18 meetings in this manner, the Master Plan update team did not allow for meaningful input or
+19 debate from Steering Committee members regarding important issues underlying the Master
+20 Plan-including, for example, the feasibility of concrete removal and ecological restoration and
+
+21 the relative benefits and costs nature-based flood control solutions.
+
+22 39. During the Steering Committee process, Waterkeeper and other partner
+
+23 organizations repeatedly met separately with the Master Plan consultants, Department staff, and
+24 offices of the Board's Supervisors to raise these concerns about the direction of the Master Plan
+
+25 update and deficiencies in the planning process and structure of Steering Committee and
+
+26 subcommittee meetings.
+27 B. Community Engagement.
+
+28 40. During the same time period as the Steering Committee process, the Master Plan
+
+VERIFIED PETITION FOR WRIT OF MANDATE 13
+
+I update team held 13 meetings with communities along the LA River between July 2018 and
+
+2 October 2019, coordinated a youth summit in the fall of 2018, and solicited feedback from the
+
+3 general public through digital outreach on social media and public surveys. The Master Plan
+
+4 team maintained a public website with information about these engagement opportunities.
+
+5 41. The Master Plan update team did not synthesize data from these community
+
+6 engagement sessions into a consolidated report that identified the public's priorities for the
+
+7 Master Plan. The team only issued one summary report from January 2019, not even halfway
+
+8 through the community engagement process.
+
+9 42. In the absence of adequate reporting from the County regarding the results of
+
+10 community engagement, Waterkeeper worked with a graduate planning student at California
+
+11 State University Northridge to compile all information gathered at each individual community
+
+12 workshop and prepare a report that outlined the public's priorities and desires for the Master
+
+13 Plan. The report-finalized in February 2021 and updated in March 2021--analyzed the data of
+
+14 survey responses from community members that participated in the workshop.
+
+15 43. The public survey report developed by Waterkeeper revealed that community
+
+16 feedback on the Master Plan update largely reflected the priorities and concerns of Steering
+
+17 Committee members. For example, over 40% of respondents emphasized the environment and
+
+18 nature as the most important goal for the LA River, and 10% of respondents noted the desire to
+
+19 improve the reliability of local water supplies. The environment was identified as the most
+
+20 prevalent theme in written survey comments. The report also concluded that the Master Plan
+21 update team left out several important LA River neighborhoods, including Atwater Village,
+
+22 Boyle Heights, Huntington Park, and Maywood, from community workshops.
+
+23 44. In the Summer of 2021, after the draft Master Plan was released to the public, the
+
+24 Thomas and Dorothy Leavey Center for the Study of Los Angeles ("StudyLA") at Loyola
+
+25 Marymount University conducted another study of public opinion surrounding the LA River by
+26 calling 600 residents living within one mile of the river between July 7, 2021 and July 19, 2021.
+
+27 The responses in the StudyLA survey similarly mirrored the priorities and concerns of the
+
+28 Steering Committee. Most respondents indicated support for the Master Plan to enhance access
+
+VERIFIED PETITION FOR WRIT OF MANDATE 14
+
+- to parks, natural areas, and recreational and cultural opportunities. For example, 82% of
+
+2 respondents supported concrete removal where feasible to re-naturalize stretches of the LA
+
+3 River and identified creating habitat for plants and animals as a high priority. In total, 91% of
+
+4 respondents supported efforts to revitalize the LA River.
+
+5 C. Petitioners' Continued Engagement with the Master Plan Team.
+
+6 45. Following the Steering Committee and community engagement process,
+Petitioners continued to meet with the Master Plan update team and submitted additional letters
+advocating for improvements to the direction of the Master Plan update that would reflect
+
+9 community priorities.
+
+10 46. On March 12, 2020, Waterkeeper and seven partner organizations from the
+
+11 Steering Committee sent a letter to the Master Plan consulting team and the County to elevate
+12 concerns with the Master Plan that were ignored during the planning process. The letter
+13 highlighted that the Master Plan update suffered from the lack of a clear vision and
+14 prioritization for future river projects, the failure to commit to measurable metrics to address
+15 inequities for residents in LA River communities, the exclusion of Tongva voices from the
+16 development process, the choice to proceed with a corridor planning frame over a watershed
+
+17 approach, and the support for projects that add more concrete to the river channel.
+18 47. On June 29, 2020, the County held a scoping meeting for the Draft PEIR for the
+19 Master Plan.
+
+20 48. On July 7, 2020, the County filed a Notice of Completion & Environmental
+
+21 Document Transmittal for the Master Plan, identifying the Department as the Lead Agency.
+22 49. On July 7, 2020, the County issued a Notice of Preparation ("NOP") for the Draft
+23 PEIR for the Master Plan, identifying the County as the Lead Agency, through the Department.
+24 The County established a review period for the NOP between July 7, 2020 and August 6, 2020.
+25 50. On August 4, 2020, Petitioners, along with two partner organizations from the
+26 Steering Committee, sent a letter to the County commenting on the NOP and raising concerns
+27 about the County's lack of transparency surrounding the type of environmental impact report
+28 ("EIR"), the uncertain description of the Project subject to environmental review, and the
+
+VERIFIED PETITION FOR WRIT OF MANDATE 15
+
+importance of including an alternative to the proposed Project that would adopt a watershed-
+
+2 wide ecological restoration approach. The letter requested that the County prepare a Master
+EIR, rather than a Program EIR, to match the high-level description of the Master Plan with the
+
+4 degree a of environmental review in the EIR in a manner that lays a foundation for focused EIRs
+
+5 to be produced for individual projects under the Master Plan. The letter also urged the County
+
+6 to identify a clear set of feasible alternative actions in the EIR that would allow members of the
+
+7 public to comment on their preferred alternative. The Master Plan update team never responded
+to the August 4, 2020 letter.
+
+9 51. On August 6, 2020, the Center sent a letter to the County commenting on the NOP.
+
+10 The letter urged the County to avoid and minimize impacts to wildlife habitat and wildlife
+
+11 movement, and to assess the prioritization of regional water quality improvement projects and
+
+12 the benefits of removing impervious surfaces and restoring wetlands and green spaces. The
+
+13 letter also asked the County to mitigate any displacement impacts of the plan and prioritize
+
+14 access for all communities along the LA River. In addition, the letter reiterated the request in
+
+15 Petitioners' August 4, 2022 letter that the County consider a watershed restoration alternative.
+
+16 52. On August 25, 2020, the County responded to Waterkeeper's March 20, 2020
+
+17 letter stating that "several of your comments are in fact shaping the next draft of the plan, some
+
+18 we believe are currently already addressed, and a few are not able to be incorporated as
+
+19 requested." The County then provided a table of responses to specific points raised in
+
+20 Waterkeeper's letter, most of which refuted the points and priorities raised by Waterkeeper and
+
+21 its partner organizations.
+
+22 53. On November 3, 2020, Waterkeeper and other partner organizations met with staff
+
+23 of the Department to discuss their concerns about the Master Plan's lack of a clear vision and
+24 priorities for future projects.
+
+25 54. On November 11, 2020, Waterkeeper and seven partner organizations from the
+
+26 Steering Committee submitted a letter to the County requesting an extension of the timeline for
+27 development of the Master Plan by eight months. The letter identified priority requests that
+
+28 would address the organizations' concerns, including providing a clear vision to prioritize
+
+VERIFIED PETITION FOR WRIT OF MANDATE 16
+
+projects in manner that commits to implementing affordable housing protections, improving
+
+2 climate resilience and flood mitigation for all residents along the LA River, enhancing
+
+3 biodiverse ecosystems, and recharging groundwater. The letter also requested the removal of
+the "platforms" element of the KOP toolkit discussed at Steering Committee meetings, and
+requested the integration of past plans to achieve restoration of the soft-bottom section of the
+
+6 LA River, including the Los Angeles City River Master Plan, the Army Corps' ARBOR Study,
+
+7 and the 100 Acre Vision at G2 Taylor Yards.
+
+8 55. During the Steering Committee process, the County repeatedly represented that it
+
+9 was infeasible to remove concrete from the LA River channel while preserving flood
+10 protections for nearby residents, except for in small stretches of the river that are already soft-
+
+11 bottom channels. In response to the Master Plan consulting team's refusal to release its analysis
+
+12 regarding the feasibility of concrete removal, in January 2021, FoLAR commissioned the LA
+13 River Management Strategies for the Glendale Narrows: Feasibility Study ("Glendale Narrows
+
+14 Feasibility Study"), a feasibility study to analyze opportunities for nature-based solutions in the
+
+15 Glendale Narrows stretch of the LA River and identify engineering constraints and
+16 opportunities. The study concluded that "there are feasible engineering solutions within Elysian
+17 Valley and Atwater Village to resolve local flooding without significant compromise to the
+18 bold visions for ecological restoration." (Glendale Narrows Feasibility Study, at p. 42.)
+19 D. The Draft Master Plan Update and Draft PEIR.
+
+20 56. On February 1, 2021, the County released a Notice of Availability ("NOA") for
+21 the Draft Master Plan and the Draft Program EIR, establishing a public review period between
+22 February 1, 2021 and March 18, 2021.
+
+23 57. The Master Plan update team did not incorporate feedback from Petitioners,
+24 Steering Committee members, and community members into the Draft Master Plan. As a
+
+25 foreseeable result, the Draft Master Plan did not reflect the public's priorities and did not
+
+26 address the public's concerns. Yet the Master Plan team simultaneously relied on its many
+27 meetings with the Steering Committee and community members to falsely represent in public
+28 communications that the Draft Master Plan reflected communities' desires.
+
+VERIFIED PETITION FOR WRIT OF MANDATE 17
+
+58. In the Draft Master Plan, the County rejected the opportunity for concrete removal
+
+2 in the LA River, stating that "it is not feasible to remove the concrete from the LA River
+
+3 without causing significant negative impacts to communities and local culture" and further
+
+4 representing that uncertainty from climate change impacts necessitates maintaining existing
+
+5 channel capacity "while also finding ways to increase capacity where the channel is
+
+6 undersized." (Draft Master Plan at p. 23.) When discussing opportunities to widen the channel
+
+7 and naturalize the river, the County stated: "[w]hile there may be strategic locations in the LA
+
+8 River watershed where channels can be widened into a right-of-way or an acquired mosaic of
+parcels, a holistic 51-mile restoration strategy is not realistic, even on a generational timeline."
+
+10 (Id. at p. 24.)
+
+11 59. The Draft Master Plan included a "Kit of Parts" that represented possible design
+
+12 typologies for future projects. (Draft Master Plan at pp. 245-46.) One component of the KOP
+
+13 was "Crossings and Platforms," diagrams of which suggested that the Master Plan would
+
+14 support projects that would cap the LA River channel in a layer of concrete and construct parks
+
+15 or amenities on top of the concrete cap. (Id. at pp. 254-55.) The Draft Master Plan included a
+
+16 section describing "Site-Based Project Examples," with detailed visual renderings of possible
+
+17 future projects at specific sites along the LA River. One project example identified was the
+
+18 Compton - Paramount Connectivity Corridor, a 37.1-acre project depicted as concrete platform
+
+19 over a stretch of the LA River with park and green space developed on top of the platform.
+20 (Draft Master Plan, at pp. 350-55.) Another project example, labeled as a "Planned Major
+
+21 Project" under a header titled "Existing Project Spotlight," was the development of a larger
+
+22 164.6-acre platform park in South Gate at the confluence between the LA River and the Rio
+
+23 Hondo. (Id. at pp. 356-57.) Petitioners, other organizations on the Steering Committee, and
+24 members of the public had repeatedly objected to the inclusion of platform parks in the Master
+
+25 Plan during the development process.
+
+26 60. The Draft PEIR did not contain a clear and stable definition of the Project subject
+27 to environmental review. The study area was defined as the 2-mile-wide corridor around the
+
+28 entire 51-mile length of the LA River. (Draft PEIR at p. 2-2.) The Draft PEIR identified nine
+
+VERIFIED PETITION FOR WRIT OF MANDATE 18
+
+project objectives and characterized the Draft Master Plan as embodying a "goal-driven
+
+2 framework." (Id. at p. 2-7.) The Draft PEIR stated that future individual projects would need to
+
+3 include "common elements" to achieve the Master Plan's objectives and could select from the
+
+4 six categories of KOP categories, illustrating "the range of possible strategies that the
+
+5 proponents of subsequent projects, including the County, can use along the river." (Id. at p. 2-8;
+
+6 see id. at pp. 2-9-2-15.) In other words, the Draft Master Plan did not include a clear vision for
+future individual projects along the LA River that would provide guidance to project
+
+8 proponents about how to prioritize different goals and objectives identified in the plan. Rather,
+
+9 the Draft Master Plan was merely a menu of options for future projects, and the options were SO
+
+10 different from each other as to lead to wildly different results for the LA River depending on
+
+11 which option future project proponents selected.
+
+12 61. The Draft PEIR concluded that there would be no significant environmental
+
+13 impacts from unspecified future individual projects, that any significant environmental impacts
+
+14 could be mitigated through the imposition of vague mitigation measures, or that any
+15 unavoidable significant impacts for non-County projects would be the responsibility of the
+
+16 individual project proponent at a subsequent phase of environmental review. The Draft PEIR
+
+17 repeatedly stated that detailed environmental review for individual projects is not proper at this
+18 time, because the Master Plan did not approve any specific projects. In effect, the County
+
+19 deferred CEQA compliance, including consideration of environmental impacts and mitigation
+20 measures, to future individual projects.
+
+21 62. The Draft PEIR considered only two Project alternatives: (1) a No Project
+22 alternative, which would leave the 1996 Master Plan as the only guiding plan for LA River
+23 development projects moving forward; and (2) a Channel Avoidance alternative, under which
+24 future projects would not include improvements or modifications within the banks of the LA
+
+25 River channel. (Draft PEIR at pp. 5-1-5-7.)
+
+26 63. On March 4, 2021, the County issued a revised NOA for the Draft Master Plan that
+27 extended the end of the public review period until April 2, 2021.
+28 64. On March 8, 2021, a the County issued a second revised NOA for the Draft Master
+
+VERIFIED PETITION FOR WRIT OF MANDATE 19
+
+Plan that extended the end of the public review period until May 13, 2021.
+
+2 65. On May 13, 2021, Waterkeeper and seven partner organizations-most of which
+served on the Steering Committee-submitted a comment letter to the County raising the same
+
+4 concerns with the Draft Master Plan as during the Steering Committee process. The letter
+5 explained that the Draft Master Plan a has a deficient vision statement, lacks clear prioritization
+
+6 for future projects, could lead to negative results for the future of the LA River, and is not the
+
+7 product of the diverse community feedback and priorities to achieve climate resiliency, adopt a
+
+8 watershed planning approach, ensure community stabilization, expand green space in river-
+
+9 adjacent communities, and adopt alternative governance approaches. The letter reiterated the
+
+10 exclusion of Tongva voices from the Steering Committee and noted the County's insufficient
+
+11 engagement process with California Native American Tribes. The letter requested changes to
+
+12 the Draft Master Plan to be consistent with the Steering Committee's prior feedback on these
+
+13 issues.
+
+14 66. On May 13, 2021, Waterkeeper, through its undersigned counsel, also submitted a
+
+15 comment letter to the County identifying-among others-the following legal deficiencies with
+
+16 the County's environmental review in the Draft PEIR pursuant to CEQA:
+
+17 The Draft Master Plan was merely a menu of options that serves as a vague vision
+
+18 statement, fails to adequately define the "Project" under CEQA, and is not ripe for
+
+19 environmental review;
+
+20 The Draft Program EIR was not suitable for tiering environmental review between
+
+21 the Master Plan and future individual projects;
+
+22 The Draft PEIR did not provide project-level information on known future projects
+
+23 described at length in the Master Plan, particularly the platform parks, and therefore
+24 the failure to assess those individual river projects for significant environmental
+
+25 impacts violated CEQA;
+
+26 The alternatives considered in the Draft PEIR were deficient, and the County should
+
+27 have considered additional alternatives, including remediation of contaminated lands
+
+28 and nature-based solutions to enhance ecological habitat while preserving flood
+
+VERIFIED PETITION FOR WRIT OF MANDATE 20
+
+1 control, consistent with FoLAR's feasibility study from January 2021;
+
+2 The Draft PEIR's analysis of significant impacts to hydrology and water quality, and
+
+3 significant impacts to biological resources, was deficient; and
+
+4 The County's public participation process under CEQA was deficient through the
+
+5 exclusion of Tongva representatives and the failure to a publish a Spanish translation
+
+6 of the Draft Master Plan and Draft PEIR.
+
+7 67. On May 13, 2021, the Center submitted two separate letters commenting on the
+
+8 Draft PEIR and the Draft Master Plan. The letters raised many of the same concerns from
+
+9 letters submitted by Waterkeeper and other organizations, and again urged consideration of a
+
+10 plan that restored ecological function of the LA River and prioritized the needs of local
+11 communities.
+
+12 68. Additionally, on May 13, 2021, Petitioners and 43 other environmental,
+
+13 environmental justice, and community-based organizations submitted a comment letter echoing
+
+14 the same concerns raised in previous Steering Committee comment letters.
+
+15 69. The County received thousands of other public comments on the Draft Master Plan
+
+16 from other organizations and community members, many of which identified the same concerns
+17 as Petitioners regarding the Master Plan's lack of vision and priorities, the uncertain Project
+18 description in the PEIR, and the support for platform parks and other projects that would add
+
+19 more concrete to the LA River channel.
+
+20 70. Following the public comment period for the Draft Master Plan and Draft PEIR,
+
+21 Waterkeeper and partner organizations held additional meetings with Department staff and
+22 County Supervisors to raise their concerns about the Draft Master Plan and Draft PEIR, urging
+
+23 the County to reverse course and commit to a more appropriate Master Plan.
+24 E. The County's Funding Request for LA River Projects.
+
+25 71. On June 22, 2021, Board Supervisor Hilda Solis submitted Motion 21-2599 to the
+26 Board, to direct the County's legislative affairs office to request federal funding from Congress
+27 in the amount of $8.6 billion for LA River projects contemplated under the Master Plan and
+28 prepare a legislative strategy to maximize federal funding opportunities ("Federal Funding
+
+VERIFIED PETITION FOR WRIT OF MANDATE 21
+
+I Motion"). $2 billion of the requested funding would be dedicated to projects around the
+
+2 "Confluence area," referencing the confluence between the LA River and the Rio Hondo in
+
+3 South Gate-the location identified as an opportunity site for a major platform park project in
+
+4 the Draft Master Plan. The Federal Funding Motion acknowledged that federal funding
+
+5 opportunities were limited to "shovel-ready" projects, or those that were ready for construction,
+
+6 and the Federal Funding Motion conceded that the Master Plan update was not yet completed at
+
+7 that time. Nevertheless, the Federal Funding Motion asserted that "[t]he Los Angeles River
+
+8 meets all the criteria for shovel-worthiness, and many projects are shovel-ready." The Federal
+
+9 Funding Motion was included as Item No. 61-J on a supplemental agenda to the Board meeting,
+
+10 without notice to Petitioners or other organizations that served on the Steering Committee or
+
+11 submitted public comments on the Draft Master Plan and Draft PEIR.
+
+12 72. Because of the County's lack of transparency, the Federal Funding Motion added
+
+13 significantly to the confusion about the Project description and whether the County pre-
+
+14 committed to specific projects under the Master Plan, even though the Master Plan update
+
+15 process was still ongoing. Based on the description of the projects in the Federal Funding
+
+16 Motion and the exorbitantly high price tag for the funding request, Waterkeeper believed the
+
+17 County sought to procure funding for the platform park projects described in the Draft Master
+
+18 Plan.
+
+19 73. Through its undersigned counsel, Waterkeeper submitted a letter as part of the
+20 | public comments on the Federal Funding Motion, explaining that "[t]he County's proposal to
+
+21 seeking this federal funding fails to identify the projects that would be funded and would also
+22 improperly pre-commit the County to projects for which environmental review has not been
+23 completed." Waterkeeper cautioned that "[a]pproval of the motion would be evidence of an
+24 improper precommitment to the expenditure of funds on vaguely defined [Master Plan] projects
+
+25 prior to the completion of the EIR for this plan." FOLAR and other members of the public
+
+26 similarly commented to oppose the federal funding request and to raise concerns about the lack
+
+27 of transparency surrounding how the requested federal funding would be spent.
+
+28 74. At the June 22, 2021, Board meeting, the Board did not take oral public comments
+
+VERIFIED PETITION FOR WRIT OF MANDATE 22
+
+on the supplemental agenda item for the Federal Funding Motion, nor did the Board discuss the
+
+2 Federal Funding Motion during the meeting. Instead, the Board voted to approve the Federal
+
+3 Funding Motion on "consent"-i.e., simultaneously with all other items on consent and without
+
+4 an actual vote on the particular agenda item.
+
+5 75. On June 23, 2021, as directed in the Federal Funding Motion, the Board sent
+
+6 letters to the House Committee on Appropriations and the House Committee on Transportation
+
+7 & Infrastructure to request $8.6 billion in federal funding for LA River projects under the
+
+8 Master Plan.
+
+9 76. On July 22, 2021, the County's Chief Executive Officer sent the Board a report
+10 describing a proposed legislative strategy to secure federal funding for investments under the
+11 Master Plan, as directed in the Federal Funding Motion ("Legislative Strategy Report"). The
+12 Legislative Strategy Report acknowledged that the Master Plan "does not prescribe or provide
+13 specific designs" for the opportunity sites identified in the Draft Master Plan, while
+14 simultaneously conceding that "there are approximately 50 existing major planned projects
+15 from other planning efforts at various stages of development along the River." Included in a
+16 table of such "existing major planned projects" were the Rio Hondo Confluence Area Project
+17 and the SELA Cultural Center projects, as described in the Lower LA River Revitalization Plan.
+
+18 The Legislative Strategy Report estimated that the Rio Hondo Confluence Area Project would
+19 cost $1.4 billion to complete, and that there were no estimated costs available for the SELA
+20 Cultural Center at that time.
+
+21 77. Other projects identified in the Legislative Strategy Report included the City's G2
+22 Taylor Yard project, which would restore the soft-bottom section of the LA River nearby
+23 Taylor Yards consistent with the Army Corps' ARBOR Study (estimated $200 million cost);
+24 LA Metro's Metro PATH Project to expand pedestrian and bicycle access to the LA River
+25 (estimated $365 million cost); and the City's LA River Valley Bikeway and Greenway project
+26 to a establish a greenway with pedestrian and bicycle access along stretches of the LA River in
+
+27 the West San Fernando Valley (estimated $588 million cost).
+
+28 78. On July 26, 2021, Waterkeeper, through its undersigned counsel, sent a letter to
+
+VERIFIED PETITION FOR WRIT OF MANDATE 23
+
+the Board requesting all documents related to the Supplemental Agenda Item No. 61-J and the
+
+2 Federal Funding Motion pursuant to the California Public Records Act ("PRA").
+
+3 79. On August 19, 2021, the County responded to Waterkeeper's PRA request by
+
+4 producing a few emails and the Legislative Strategy Report. Notably, the County's response to
+
+5 Waterkeeper's PRA request did not include the June 23, 2021 letters from the Board to the
+
+6 House committees.
+
+7 80. On November 2, 2021, Waterkeeper, through its undersigned counsel, sent a letter
+
+8 to the County to request supplemental responses to Waterkeeper's PRA request containing all
+
+9 documents previously withheld and/or privilege log describing with specificity the documents
+
+10 being withheld and the claimed reason for exemption from disclosure under the PRA. The
+
+11 County never responded to this letter.
+
+12 81. On November 4, 2021, Waterkeeper, through its undersigned counsel, sent
+
+13 identical PRA requests to the County's Chief Sustainability Office, the Department, and the
+
+14 District. The County's responses to these PRA requests did not contain any new documents or
+15  information about the Federal Funding Motion.
+
+16 82. Following the release of the Draft Master Plan, Waterkeeper collaborated with
+
+17 undergraduate students in a senior practicum course at the UCLA Institute of the Environment
+18 during the 2021-2022 academic year to develop a report to identify alternative park locations in
+
+19 LA River communities where the proposed platform park projects described in the Draft Master
+20 Plan would be built. The report, finalized on June 10, 2022, established a framework to identify
+
+21 park locations that would best serve community needs and would be feasible locations for
+
+22 short-term park projects. The practicum team selected a framework that prioritized
+
+23 environmental justice communities, considered community characteristics, and proposed
+
+24 multiple benefit parks that would ensure equitable results for the most park-poor communities
+
+25 along the LA River. Estimating the cost of developing the platform parks described in the Draft
+
+26 Master Plan, the practicum team concluded that, using a more modest cost estimate of around
+
+27 $4.2 billion for the platform parks, "157 pocket parks can be built for the price of the
+
+28 Connectivity Corridor and 696 pocket parks can be built for the price of the Rio Hondo
+
+VERIFIED PETITION FOR WRIT OF MANDATE 24
+
+Confluence." (Community Park Planning Along the Los Angeles River: An Equitable
+
+2 Approach Based on Environmental, Socioeconomic, and Health Metrics, at p. 25.) The report
+
+3 identified 17 potential park locations in Bell Gardens, Boyle Heights, Compton, Cudahy, Long
+
+4 Beach, Los Angeles, Maywood, Paramount, South Gate, and Vernon that could be developed
+
+5 into cheaper pocket park alternatives. (Id. at p. 37.)
+
+6 IV. The Final Master Plan Update and Final PEIR.
+
+7 83. The County delayed release of the final Master Plan and final Program EIR for
+
+8 many months. During the fall of 2021 and into the winter of 2022, Waterkeeper continuously
+
+9 reached out to Department staff on a periodic basis to inquire as to the status and expected
+10 timing of the final documents.
+
+11 84. On March 28, 2022, Waterkeeper and four partner organizations from the Steering
+12 Committee submitted a letter to the Master Plan update team to request advance notice of the
+
+13 release of the final Master Plan and final PEIR, and to have an opportunity to comment on the
+14 final documents.
+
+15 85. On April 13, 2022, the Department responded to Waterkeeper's March 28, 2022
+16 letter, noting the expected timeline for the Board to adopt the final Master Plan in early summer
+17 2022, with the final Master Plan and final PEIR to be released at least three weeks before that
+
+18 date.
+
+19 86. On May 17, 2022, the County released the Final Master Plan on its website. The
+20 same day, the County also posted its responses to comments received on the Draft Master Plan.
+
+21 87. On May 23, 2022, the County released the NOA for the Final Program EIR.
+
+22 88. The Final Master Plan and Final PEIR were almost identical to the drafts. The
+
+23 County did not make any meaningful changes to the Project description, the KOP and the
+24 *platform and crossings" component, the planned opportunity sites, or the analysis of
+25 significant impacts and mitigation measures. As such, the concerns raised by Petitioners and
+
+26 other organizations and members of the public regarding the Draft Master Plan and Draft PEIR
+
+27 remained equally applicable to the final versions of the documents.
+
+28 89. The Final Master Plan also included two appendices, including detailed technical
+
+VERIFIED PETITION FOR WRIT OF MANDATE 25
+
+1 design guidelines for specific components of unspecified future projects under the Master Plan.
+
+2 Appendix I to the Master Plan ("Design Guidelines") support creating 51 miles of connected
+
+3 open space "with equitable access [for residents], including trails, gateways, and accesspoints."
+
+4 (Design Guidelines at p. 66.) Some of these contemplated access points are rendered in the Plan
+
+5 as "Tier III gathering pavilions" with basic amenities, "ideally situated every 2-3 miles" at river
+
+6 access points. (Master Plan at p. 350.) These statements in the Design Guidelines directly
+
+7 conflict with the Master Plan's stated goal to increase riparian habitat near the LA River and to
+
+8 promote the introduction of endemic and native species into the area. (See Final Master Plan at
+
+9 p. 175.) Similarly, the Design Guidelines specify designs for maintenance ramps to allow
+
+10 vehicle access the River channel, designed in ways that can be used for both human access and
+
+11 recreation and also to allow access for wildlife. (Design Guidelines at p. 186.) The Design
+
+12 Guidelines also provide more technical specifications for platforms, bridges, channel
+13 modifications, and other projects that could add more concrete to the LA River channel and the
+
+14 river right-of-way. (See, id. at pp. 90-93, 176, 181, 188, 200.)
+
+15 90. The County rejected the vast majority of public comments received on the Draft
+16 Master Plan and Draft PEIR and concluded that no changes were necessary, except for small
+
+17 tweaks.
+
+18 91. Notably, the Final Master Plan misrepresented the main priority identified from
+
+19 the Steering Committee and community engagement process as "protecting vulnerable plants
+20 and animals." (Final Master Plan at p. 138.) This statement excludes the potential to expand
+
+21 habitat for plants and animals by restoring natural ecological riverbeds within the LA River
+
+22 channel through concrete removal wherever feasible, the critical priority that Petitioners and
+
+23 others raised during the Master Plan development process.
+
+24 92. In the Final PEIR, the County failed to respond adequately to Waterkeeper's
+
+25 comments on the Draft PEIR, repeating the same assertions contained in the Draft Master Plan
+
+26 and Draft PEIR regarding the deferral of project-specific CEQA analysis and the infeasibility of
+
+27 concrete removal for most of the LA River channel. (See Final PEIR at pp. 2-341-2-380
+
+28 [responding to Comments 017-1-017-45].) The County improperly responded to Waterkeeper's
+
+VERIFIED PETITION FOR WRIT OF MANDATE 26
+
+F comments regarding the exclusion of Tongva representation on the Steering Committee and the
+
+2 failure to translate the Draft PEIR into Spanish or Chinese (Cantonese or Mandarin), relying on
+3 the Spanish translation of the Draft PEIR notices and publication of those notices in Spanish
+
+4 newspapers as sufficient. (See id. at pp. 2-377-2-378 [responding to Comments 017-41-017-
+
+5 42].)
+
+6 93. The County also failed to respond adequately to comments from state agencies in
+
+7 the Final PEIR. For example, the California Coastal Commission ("CCC") submitted detailed
+
+8 comments on the Draft PEIR to outline concerns about possible land use impacts and the
+
+9 inconsistency of some Master Plan components with existing laws, but the County effectively
+10 rejected the CCC's input and deferred consideration of the CCC's concerns to future individual
+
+11 plan CEQA processes. (See Final PEIR at pp. 2-19-2-47 [responding to Comments A5-1-A5-
+12 55].)
+
+13 94. Similarly, the California Department of Fish & Wildlife (CDFW") submitted
+14 detailed comments identifying deficiencies in mitigation measures and the possible significant
+15 impacts on biological resources, to which the County again improperly deferred consideration
+16 and specific mitigation requirements to future individual project CEQA proceedings. (See Final
+17 PEIR at pp. 2-48-2-83 [responding to Comments A6-1-A6-20].) The County expanded certain
+18 mitigation measures and their definitions in the Final PEIR in response to CDFW's
+19 recommended mitigation related to California Species of Special Concern, but the new
+20 mitigation measures effectively reflected that CDFW's concerns would be addressed on a
+
+21 project-by-project basis through biological assessments for future individual projects. (See id. at
+22 pp. 2-69-2-72 [responding to Comment A6-9].)
+
+23 95. The County added new mitigation measures, including BIO-3d(ii), BIO-3d(iii),
+24 and BIO-20b, in response to CDFW's comments identifying significant new information about
+25 potential significant environmental impacts. (See Final PEIR at p. 2-25; id. at pp. 2-69-2-72
+26 [explaining edits to existing mitigation measures in response to CDFW's Comment A6-9
+27 regarding California Species of Special Concern].) However, the County did not recirculate the
+
+28 PEIR for public review and comment on the adequacy of these new mitigation measures, in
+
+VERIFIED PETITION FOR WRIT OF MANDATE 27
+
+r violation of CEQA. (See Pub. Resources Code § 21092.1 [requiring recirculation of an
+
+2 environmental impact report when "significant new information" is added]; Cal. Code Regs, tit.
+
+3 14 ("CEQA Guidelines") § 15088.5 [requiring recirculation when the new information shows
+
+4 newly significant environmental impacts or increased severity of previously disclosed
+
+5 environmental impacts].)
+
+6 96. On June 13, 2022, Waterkeeper, through its undersigned counsel, submitted a
+
+7 letter to the County setting forth the deficiencies with the Final PEIR, including the lack of a
+
+8 clear Project definition, the improper decision to defer review of environmental impacts and
+
+9 mitigation measures to foreseeable future individual projects, the pre-commitment to certain
+
+10 individual projects such as platform parks in the Master Plan, the inadequate analysis of
+
+11 alternatives, and the failure to provide good-faith responses to comments from Petitioners,
+
+12 members of the public, and state agencies.
+13 V. Approval of the Project Over Petitioners' Objections.
+14 97. On June 10, 2022, Waterkeeper and its partner organizations from the Steering
+
+15 Committee-with support from the Center and another community-based organization--sent a
+16 letter to the County to request that their organizational names and logos be removed from the
+
+17 Final Master Plan's discussion of community engagement and the Steering Committee. The
+
+18 County did not respond to this letter and has not amended the Final Master Plan to remove the
+19 organizational names and logos as requested.
+20 98. On June 14, 2022, the Board held a meeting to vote to approve the Final Master
+
+21 Plan and certify the Final PEIR. During the public comment period at the Board meeting, a
+
+22 representative from Waterkeeper spoke to urge the Supervisors to reject the Final Master Plan
+
+23 and pursue a revised plan that prioritized ecological and community health and resilience, as
+
+24 repeatedly requested by the organizations on the Steering Committee and other public
+
+25 comments from community members.
+26 99. The same day, during the Board meeting, Waterkeeper held a joint press
+27 conference with FoLAR, EYCEJ, and Sacred Places Institute for Indigenous Peoples at
+
+28 Riverfront Park in Maywood to voice the organizations' objections to the Final Master Plan and
+
+VERIFIED PETITION FOR WRIT OF MANDATE 28
+
+announce that they requested that their organizations' names and logos be removed from the
+
+2 Final Master Plan.
+
+3 100. The Board discussed the Final Master Plan at the Board meeting, asking questions
+
+4 of Department staff and acknowledging the opposition to the Master Plan from Petitioners and
+
+5 their partner organizations. Nevertheless, the Board voted unanimously to approve the Final
+
+6 Master Plan and Final PEIR.
+
+7 101. The County made the following approvals for the Project:
+Certified the Final Program EIR;
+9 Adopted the Mitigation Monitoring and Reporting Program;
+10 Adopted the Final Master Plan;
+11 Authorized the District to establish standards and conditions consistent with the
+
+12 Master Plan and the Design Guidelines for future actions related to LA River
+
+13 projects;
+
+14 Adopted the Design Guidelines and Technical Documents;
+
+15 Delegated authority to the Department and the District to comply with CEQA with
+16 respect to the updated Design Guidelines; and
+
+17 Delegated authority to the Department to update or revise the Design Guidelines.
+18 102. At the same Board meeting on June 14, 2022, Supervisor Sheila Kuehl introduced
+19 a motion added to the supplemental agenda to ensure equitable implementation of the Master
+20 Plan ("Implementation Motion"). Recognizing that the Master Plan did not provide adequate
+
+21 guidance for future individual projects, Supervisor Kuehl moved for the Board to direct County
+22 agencies to convene an implementation team to "establish guidance to prioritize County
+23 projects along the River, in consultation with community stakeholders, consistent with the
+24 Plan's community needs assessments and the prioritization criteria being developed as part of
+25 the County Infrastructure Initiative and Climate Resilience Initiative, with a particular focus on
+
+26 equity, sustainability, resilience, and community health." The Board voted unanimously to
+27 approve the Implementation Motion.
+
+28 103. A Notice of Determination was filed on June 14, 2022.
+
+VERIFIED PETITION FOR WRIT OF MANDATE 29
+
+I 104. This action timely follows.
+
+2 LEGAL STANDARDS
+
+3 105. CEQA serves the dual purposes of environmental protection and informed and
+
+4 transparent self-government. (Citizens of Goleta Valley v. Bd. Of Supervisors (1990) 52 Cal. 3d
+
+5 553, 564.) The Legislature intended for CEQA "to be interpreted in such manner as to afford
+
+6 the fullest possible protection to the environment within the reasonable scope of the statutory
+
+7 language." (Friends of Mammoth v. Bd. Of Supervisors of Mono County 8 Cal. 3d 247, 259.)
+
+8 The EIR, which includes a detailed assessment of potentially significant environmental impacts
+
+9 and an analysis of reasonable alternatives and mitigation measures, is "the heart of CEQA" and
+
+10 the most important mechanism by which the statutory goals of CEQA are given effect. (Laurel
+
+11 Heights Improvement Assn. V. Regents of the University of California (1993) 6 Cal. 4th 1112,
+
+12 1123.)
+
+13 106. Before an agency approves a non-exempt project subject to CEQA, the Lead
+14 Agency must conduct a CEQA review. (14 Cal. Code Regs. (hereafter "Guidelines")
+
+15 con 15004(b); Guidelines § 15352; Save Tara v. City of West Hollywood (2008) 45 Cal. 4th 116,
+
+16 128-129.) CEQA prohibits a lead agency from approving a project that may have a significant
+
+17 impact on the environment without first preparing, considering, and certifying an adequate EIR.
+
+18 (Save Tara, supra, 45 Cal. 4th at 121.)
+
+19 107. The purpose of an EIR is to provide public agencies and the public with detailed
+20 information about the effects that a proposed project is likely to have on the physical
+
+21 environment. (Pub. Resources Code § 21061.) An EIR must fully disclose and analyze all of a
+
+22 project's potentially significant direct, indirect, and cumulative environmental effects. (Pub.
+
+23 Resources Code § 21100 subd. (b)(1); Guidelines § 15064(d).) The EIR must contain enough
+
+24 analysis to provide the decision makers with the information necessary for them to intelligently
+
+25 account for the environmental impacts of a project when rendering a decision on project
+
+26 approval. (Guidelines § 15151.) The Lead Agency must make a best effort to "find out and
+
+27 disclose all it reasonably can." (Guidelines § 15144.)
+
+28 108. The Lead Agency's duty includes determining whether an environmental effect is
+
+VERIFIED PETITION FOR WRIT OF MANDATE 30
+
+adverse. The Lead Agency must consider "direct physical changes in the environment which
+
+2 may be caused by the project and reasonably foreseeable indirect physical changes in the
+environment which may be caused by the project." (Guidelines § 15064 subd. (d).) A direct
+
+4 physical change is "caused by and immediately related to the project"; an indirect change
+occurs when "a direct physical change in the environment in turn causes another change."
+
+6 (Guidelines § 15064 subd. (d)(1); subd. (d)(2).)
+
+7 109. Additionally, a program EIR is intended to "provide an occasion for a more a
+
+8 exhaustive consideration of the effects and alternatives that would be impractical in an EIR on
+
+9 an individual action." (CEQA Guidelines §15168(b)(1).) "Designating an EIR as a program
+10 EIR .. does not by itself decrease the level of analysis otherwise required in the EIR."
+
+11 (Cleveland National Forest Foundation V. SANDAG (2017) 17 Cal.App.5th 413, 426.). "[T]f
+12 known impacts are not analyzed and addressed in a program EIR, they may potentially escape
+13 analysis in a later-tier EIR." (Forest Foundation, supra, 17 Cal.App.5th at p. 440.)
+
+14 EXHAUSTION OF ADMINISTRATIVE REMEDIES AND
+
+15 INADEQUATE REMEDIES AT LAW
+
+16 110. Petitioners objected to the Project at every stage of the CEQA administrative
+17 process and fully exhausted its administrative remedies. Petitioners timely objected to approval
+18 of the Final Master Plan prior to and during the approval hearing on June 14, 2022.
+19 111. Petitioners and/or other objecting or commenting parties raised all of the issues
+20 asserted herein.
+
+21 112. Petitioners have no plain, speedy, or adequate remedy in the course of ordinary
+22 law unless this Court grants the requested writ of mandate. In the absence of such remedy, the
+23 County's approval of the desalination Project would form the basis for a project that would
+
+24 proceed in violation of California law.
+
+25 113. Petitioners have complied with Public Resources Code section 261167.7 and Code
+
+26 of Civil Procedure section 388 by filing a copy of this Petition with the California Attorney
+27 General. A copy of the cover letter to the Office of the Attorney General is attached as Exhibit
+28 A.
+
+VERIFIED PETITION FOR WRIT OF MANDATE 31
+
+114. Petitioners have complied with Public Resources Code section 21167.5 by
+
+2 providing the County with notice of its intention to commence this action. A copy of the Proof
+
+3 of Service with the notice letter is included with Exhibit B.
+
+4 115. Petitioners elect to prepare the administrative record. A copy of the election is
+
+5 attached as Exhibit C.
+
+6 FIRST CAUSE OF ACTION
+
+7 (VIOLATION OF THE CALIFORNIA ENVIRONMENTAL QUALITY ACT)
+
+8 116. Petitioners incorporate all of the previous paragraphs as if fully set forth herein.
+
+9 The PEIR Does Not Contain an Adequate Project Description.
+
+10 117. An EIR's analysis of a project's potential environmental impacts is based on the
+
+11 project description contained in the EIR. "An accurate, stable and finite project description is
+
+12 the Sine qua non of an informative and legally sufficient EIR." (County of Inyo v. City of Los
+
+13 Angeles (1977) 71 Cal.App.3d 185, 192-193.) Put another way, adequate CEQA review
+
+14 requires a complete and accurate project description.
+
+15 118. Further, the EIR's "bona fide subject" must be "[t]he defined project and not some
+
+16 different project." (Concerned Citizens of Costa Mesa v. 32nd Dist. Agric. Assn. (1986) 42
+
+17 Cal.3d 929, 938.)
+
+18 119. Importantly, the project description cannot fail to describe key elements of the
+
+19 Project. (San Joaquin Raptor/Wildlife Rescue Center v. County of Stanislaus (1994) 27
+20 |Cal.App.4th 713, 730-35.)
+
+21 120. A clear and accurate project description is also required to satisfy CEQA's public
+22 information and disclosure requirements. An inadequate or incomplete project description
+23 "precludes 'informed decisionmaking and informed public participation" because the public
+
+24 cannot provide meaningful comment when the project has not been identified. (Washoe
+25 Meadows Community v. Department of Parks and Recreation (2017) 17 Cal.App.5th 277, 290
+26 [citations omitted]; stopthemillenniumhollywood.com v. City of Los Angeles (2019) 39
+27 Cal.App.5th 1, 17-19.)
+
+28 121. Further, a "curtailed or distorted project description may stultify the objectives of
+
+VERIFIED PETITION FOR WRIT OF MANDATE 32
+
+1 the reporting process" and does not allow "outsiders and public decision-makers [to] balance
+
+2 the proposal's benefit against its environmental cost, consider mitigation measures, assess the
+3 advantage of terminating the proposal (i.e., the 'no project' alternative) and weigh other
+
+4 alternatives in the balance." (County of Inyo, supra, 192-193.)
+
+5 122. The PEIR relies on a vague and unstable project description for an area 51 miles
+
+6 long and up to two miles wide, in violation of CEQA's requirements.
+
+7 123. The project description in the PEIR includes two basic outlines of what it
+
+8 considers "typical projects": a common elements project, which includes pavilions along the
+
+9 River with varying levels of public facilities; and multi-use trails and access gateways. (Draft
+
+10 PEIR pp. 2-10 to 2-11.) These projects could occur anywhere along the LA River's 51-mile
+11 length.
+
+12 124. The Common Elements Typical Project would consist of pavilions, cafes,
+13 restrooms, benches, water fountains, bike racks, lighting, fencing, stormwater BMPs, and
+14 performance spaces implemented individually or in any combination on a site up to 3 acres in
+
+15 size or arranged along up to one mile of river. (Draft PEIR p. 2-10.) The Multi-Use Trails and
+
+16 Access Gateways Typical Project would consist of a continuous multi-use path and welcoming
+17 access gateways to the River. For purposes of analysis, each project is assumed to be 5 miles 5
+18 long and 40 feet wide. (Draft PEIR p. 2-11.) Although Typical Projects have a generally
+
+19 recognizable form, they lack information about location. Even the same project would have
+20 differing effects in different locations.
+
+21 125. The project description then includes six categories of the KOP along with the two
+22 typical, although only vaguely defined, projects. The PEIR includes a long list a of potential
+23 activities that could fit within each KOP category. While the PEIR claims these KOP
+24 categories are intended to inform future projects, many of listed potential activities are
+25 competing or contradictory. Activities within a KOP category will not necessarily have similar
+26 environmental impacts.
+
+27 126. For example, KOP Category 2 "Channel Modifications" include both installing
+28 concrete bottoms and removing concrete bottoms. (Draft PEIR p. 2-9.) While removal of
+
+VERIFIED PETITION FOR WRIT OF MANDATE 33
+
+1 concrete bottoms would benefit wildlife, the installation of concrete bottoms unquestionably
+
+2 harms wildlife. Yet, the Master Plan categorizes these activities together in the PEIR.
+
+3 127. KOP Category 1 "Trails and Access Gateways" includes pedestrian, bike, and
+
+4 equestrian trails to increase nonvehicular connectivity, but it also includes "vehicular access"
+
+5 which may counter the safety or benefit of multi-modal trails. (Draft PEIR p. 2-9.) The design
+
+6 components within single KOP category could serve competing interests, with different
+
+7 environmental impacts. For example, the PEIR describes Trails and Access Gateways with
+
+8 similar cross sections and arrangements that could either serve recreational uses with playing
+
+9 fields or ecological uses with habitat corridors and vegetated buffers. (DPEIR p. 2-12.)
+
+10 128. KOP Category 3 "Crossings and Platforms" contains both habitat/wildlife bridges,
+
+11 which would promote habitat connectivity, and platforms, which would destroy habitat beneath
+
+12 them.
+
+13 129. KOP Category 4 "Diversions" include pipes, pumps, and wetlands. While
+
+14 wetlands will improve the natural features of the LA River and provide wildlife habitat, pipes
+
+15 and pumps may not.
+16 130. Given the broad and competing nature of the potential activities within each KOP
+
+17 category, the PEIR fails to analyze, disclose, and mitigate the impacts of each KOP category or
+
+18 the activities contained within.
+
+19 131. The PEIR further fails to describe or explain with any specificity where each KOP
+20 might be implemented along the 51-mile LA River. Thus, the project description fails to
+
+21 identify with any specificity the project that is being proposed.
+
+22 132. Projects consisting of the KOP categories could take almost any form in almost
+
+23 any location. For example, Channel Modifications could consist of increasing concrete
+24 lining--which a has a certain set of adverse environmental impactsor of removing concrete
+
+25 lining-which has altogether different long-term benefits and impacts.
+26 133. The Draft PEIR provides, "Under the 2020 LA River Master Plan, the multi-
+
+27 benefit design components can be implemented individually or in combination with other
+
+28 design components as subsequent projects under the 2020 LA River Master Plan." (Draft PEIR
+
+VERIFIED PETITION FOR WRIT OF MANDATE 34
+
+1 p. 2-12.) Thus, the Master Plan is a menu, not a project.
+
+2 134. Adding to the confusion, the PEIR references "up to 107 potential projects
+
+3 ranging in size from extra-small (less than 1 acre) to extra-large (150+ acres/10 miles) that
+
+4 would be implemented over the 25-year horizon period," but the PEIR never describes what
+
+5 these projects are. (Draft PEIR p. 2-15.)
+
+6 135. The PEIR provides, "These would include the two Typical Projects . .. that would
+
+7 a be constructed at a specified cadence, or spacing, along the river to ensure equitable distribution
+
+8 of facilities throughout the 51-mile-long corridor and help improve access and safety; and
+
+9 additional subsequent projects from the KOP categories; multi-benefit design components.
+
+10 These elements together comprise the entirety of the 2020 LA River Master Plan." (Draft PEIR
+11 p. 2-15.)
+
+12 136. The project description in the PEIR includes no identification of project phases by
+13 priority or any other means. Instead, the project description serves as merely a list of vaguely
+
+14 described potential activities that does not allow for an assessment of potential impacts, the
+
+15 development of mitigation, or an assessment of project alternatives.
+16 137. The PEIR has provided only a "blurred view of the project" and thus fails an
+
+17 informational document. (Stopthemillenniumhollywood.com v. City of Los Angeles (2019) 39
+
+18 Cal.App.5th 1, 12-13.)
+
+19 138. "The EIR is intended to furnish both the road map and the environmental price tag
+20 for a project, so that the decision maker and the public both know, before the journey begins,
+
+21 just where the journey will lead, and how much they-and the environment-will have to give up
+22 in order to take that journey." (NRDC v. City of Los Angeles (2002) 103 Cal.App.4th 268, 271.)
+23 However, the PEIR contains little information regarding what will happen on which part of the
+24 River and when, in violation of CEQA.
+
+25 139. The County's use of a program EIR, as opposed to a project-specific EIR, does not
+26 excuse its obligation to provide clear and detailed information to the public. "Designating an
+27 EIR as a program EIR . . . does not by itself decrease the level of analysis otherwise required in
+28 the EIR." (Cleveland National Forest Foundation v. SANDAG (2017) 17 Cal.App.5th 413,
+
+VERIFIED PETITION FOR WRIT OF MANDATE 35
+
+t 426.).
+
+2 140. "The ultimate inquiry ... is whether the EIR includes enough detail 'to enable
+
+3 those who did not participate in its preparation to understand and to consider meaningfully the
+
+4 issues raised by the proposed project.' " (Sierra Club v. County of Fresno (2018) 6 Cal.5th 502,
+
+5 516.) The PEIR does not include the requisite detail.
+
+6 141. The County must provide and analyze all known information about the Project
+7 now, including planned projects contemplated under the Master Plan, to ensure that components
+
+8 of the Project do not escape environmental review altogether.
+
+9 142. Since the County claims it cannot yet provide sufficient information about the
+10 Project (including all planned projects identified in the Master Plan) to enable a useful review
+
+11 of its environmental impacts, the Project is essentially unripe for CEQA review.
+
+12 143. The PEIR fails to achieve the advantages of a program EIR identified by CEQA.
+
+13 I. The PEIR Is an Inadequate Basis for Future Tiering.
+
+14 144. CEQA allows for tiering of environmental review, but only when there are issues
+15 ripe for consideration. (Pub. Resources Code § 21093.)
+
+16 145. The County's NOA provides, "It is anticipated that the County or other agencies
+
+17 may use the PEIR as the first-tier analysis when considering subsequent discretionary actions."
+
+18 (NOA, March 8, 2021, p. 4.)
+
+19 146. The PEIR further explains "the two Typical Projects are analyzed in greater detail
+20 in this PEIR than the other elements. The six KOP categories and related design components -
+
+21 as well as the 2020 LA River Master Plan in its entirety - are analyzed qualitatively at a
+
+22 program level." (Draft PEIR p. 2-10.)
+
+23 147. Thus, it appears the County intends to use this Programmatic EIR to limit the
+24 environmental review required for future projects based on the Typical Projects and the KOP
+
+25 categories anywhere along the River's 51-mile reach. (See Draft PEIR p. 2-2 [*study area is
+26 defined as a 2-mile-wide corridor. mile on each side of the river - that follows the centerline
+
+27 of the LA River for its entire 51 miles" and "subsequent projects could be located anywhere in
+
+28 the 2-mile-wide study area. '].)
+
+VERIFIED PETITION FOR WRIT OF MANDATE 36
+
+148. However, the PEIR fails to provide enough detail about the Project to enable
+
+2 meaningful environmental review about the impacts of the Typical Projects or the KOP
+
+3 categories.
+
+4 149. If the PEIR is relied upon by the County or the 17 River cities, there is no
+
+5 guarantee of future environmental analysis for projects employing the often-conflicting KOP
+
+6 categories anywhere along the LA River.
+150. The County's preparation and certification of the PEIR without the required
+information serves only as an attempt to insulate the approval of the activities under the KOP
+
+9 categories from future environmental review, when the impacts, mitigation, and alternatives
+10 could and should truly be assessed.
+
+11 151. Thus, these issues are not ripe for environmental review, and the PEIR may not be
+12 used as a basis for future tiering.
+
+13 III. The PEIR Fails to Provide Project-Level Information on Known, Future Projects.
+14 152. CEQA requires analysis of the "whole of a project" and prohibits analyses that
+15 divide Projects into pieces in order to minimize cumulative impacts. (CEQA Guidelines
+16 15003(h).) The statute recognizes, "environmental considerations do not become submerged by
+17 chopping a large project into many little ones -- each with a minimal potential impact on the
+18 environment -- which cumulatively may have disastrous consequences." (Bozung V. Local
+19 Agency Formation Commission (1975) 13 Cal. 3d 263, 283-284.)
+20 153. While the Final Master Plan provides limited information on its plans for most of
+21 the LA River's length, the County has worked for years with Gehry Partners on proposed
+22 platform parks on the LA River and other well-defined projects.
+23 154. These projects would be located within the Master Plan study area and are well-
+24 defined on public websites.
+
+25 155. The project description must describe key elements of the Project. (San Joaquin
+26 Raptor/Wildlife Rescue Center v. County of Stanislaus (1994) 27 Cal.App.4th 713, 730-35.)
+27 156. However, these projects are not included in the PEIR's analysis, in violation of
+28 CEQA. The omission of any real analysis of the potential impacts of the platform parks is a
+
+VERIFIED PETITION FOR WRIT OF MANDATE 37
+
+1 failure to provide an adequate Project Description under CEQA as well as a possible
+2 segmentation deficiency.
+
+3 157. The court in Tuolumne County Citizens for Responsible Growth, Inc. V. City of
+
+4 Sonora (2007) 155 Cal.App.4th 1214 set out three items to be used to determine what
+
+5 constitutes the whole of a project: (1) relationship in time; (2) physical location; and (3) the
+
+6 entity undertaking the action. (Id. at 1227.) Here, (1) the platform parks have been under
+
+7 consideration for years, contemporaneous with the County's lengthy discussion and
+
+8 engagement about updating the Master Plan, (2) are located in and over the LA River channel
+
+9 itself, and (3) would be implemented by the County and the same consultants that were selected
+
+10 to develop the Master Plan update.
+
+11 158. CEQA also requires consideration of probable, future projects in an EIR.
+
+12 159. In Gray v. County of Madera (2008) 167 Cal.App.4th 1099, 1127-28, the court
+
+13 defined probable future projects as "any future project where the applicant has devoted
+14 significant time and financial resources to prepare for any regulatory review should be
+
+15 considered as probable future projects for the purposes of cumulative impact." The County, its
+16 consultants, and its partners have devoted very significant time and resources to produce
+
+17 detailed descriptions, drawings, engineering solutions, and layouts for these platform parks.
+
+18 Gehry Partners helped lead the County public workshop on the release of the Master Plan
+
+19 update. The Los Angeles Times has reported on the County and Gehry Partners' long
+20 partnership on LA River matters. Review of these proposed platform parks is required now.
+
+21 Future environmental documents prepared for these parks cannot rely on the lack of analysis in
+
+22 this PEIR to avoid full and thorough environmental review.
+
+23 160. According to the website for the Lower LA River Revitalization Plan, "The Rio
+
+24 Hondo Confluence Area Project, also known as RHCAP, was identified in the 2018 Lower Los
+
+25 Angeles River Revitalization Plan and is located at a key opportunity site along the Lower Los
+26 Angeles River. Conceptual development is exploring options to connect communities to the
+
+27 RHCAP and create a key gathering place for Southeast Los Angeles." A graphic on the
+
+28 webpage includes logos from the County and the Department, as well as a reference to the
+
+VERIFIED PETITION FOR WRIT OF MANDATE 38
+
+Master Plan update team, including Gehry Partners, Geosyntec, and RiverLA. The map on this
+
+2 website depicts several platform parks that would have significant environmental consequences
+
+3 that must be evaluated under CEQA. Yet none of these projects or their environmental impacts
+
+4 are discussed in any detail in the PEIR.
+161. For example, conceptual designs from the Master Plan consulting team describe a
+
+6 platform park project situated over the LA River just upstream from the confluence with the
+
+7 Rio Hondo, which would establish "approximately 22 acres of new opportunities for recreation
+
+8 and habitat." Similarly, a second platform park situated over the Rio Hondo that would
+
+9 establish "approximately 11 acres of new opportunities for recreation, art, and habitat.3
+
+10 Documentation about these platform parks, prepared by the Master Plan consulting team itself,
+11 provides more than enough detail to enable useful environmental review of these platform parks
+
+12 in the PEIR.
+
+13 162. This detail includes: "The LA River Platform Park is situated over an
+
+14 approximately 3,200-foot stretch of the LA River. The platform park site is bounded to the
+15 north by the LA River channel jurisdiction line between the [District] and the [Army Corps]. A
+16 separate project could potentially extend the platform park north of that line in the future,
+17 creating the Southern Avenue Bridge Park. This continuation of the platform would allow for a
+
+18 connection of communities on the east and west of the LA River, in alignment with Southern
+19 Avenue. To the south, the platform park boundary is offset a minimum of 300' feet from the
+20 nearest platform wall and staggered away from the residential neighborhoods directly to the
+
+21 west. The eastern and western edges of the platform park are defined by the location of the
+22 flood channel parapet walls, or the inner edge of the levee when no parapet walls are present."
+23 163. Public documents contain detailed drawings and schematics of cross-sections and
+24 layouts for the park.
+
+25 164. Similarly detailed plans and documents exist concerning the Rio Hondo platform
+
+26 park.
+
+27 165. The sites of the LA River platform park and Rio Hondo platform park are
+
+28 delineated as Opportunity Sites in the Master Plan.
+
+VERIFIED PETITION FOR WRIT OF MANDATE 39
+
+1 166. Further, the County has sought federal and state funding for projects, including
+
+2 platform parks, located at these opportunity sites.
+
+3 167. Even so, the PEIR fails to disclose, analyze, and mitigate the very real
+
+4 environmental impacts of constructing of massive platforms over the LA River, regardless of
+
+5 what the County develops on top of the platform.
+
+6 168. On the contrary, the PEIR and the County's responses to comments maintain that
+
+7 the Master Plan does not commit to any specific projects.
+
+8 169. An EIR reviewing these platform parks should assess hydrological impacts,
+
+9 impacts to biological resources from changed sunlight and hydrological conditions,
+
+10 construction impacts, land use impacts, recreational impacts, and many others. The PEIR failed
+
+11 to conduct this analysis, as required.
+
+12 170. Moreover, CEQA requires that environmental review occur before momentum
+
+13 becomes unstoppable and alternatives to a project become foreclosed. (Save Tara v. City of
+14 West Hollywood (2008) 45 Cal.4th 116.)
+
+15 171. By including these platform parks and other opportunity site projects in the Master
+
+16 Plan without first conducting environmental review, seeking funding for these projects, and
+
+17 other actions, the County has improperly pre-committed to them in violation of CEQA.
+
+18 IV. The Project Objectives Identified in the PEIR Fail to Provide Adequate Direction
+
+19 to Guide Future Projects or Allow for a Comparison of Alternatives.
+20 172. The project description is required to identify the project objectives.
+
+21 173. "A clearly written statement of objectives will help the lead agency develop a
+
+22 reasonable range of alternatives to evaluate in the EIR and will aid the decision makers in
+23 preparing findings or a statement of overriding considerations, if necessary. The statement of
+
+24 objectives should include the underlying purpose of the project and may discuss the project
+
+25 benefits." (CEQA Guidelines § 15124.)
+
+26 174. The PEIR fails to provide a clearly written statement of objectives to allow for
+27 development of alternatives or the evaluation of the benefits of the Project. The vague and
+
+28 generalized goals identified for the Master Plan Update fail to prioritize goals for activities
+
+VERIFIED PETITION FOR WRIT OF MANDATE 40
+
+1 along the LA River. It includes competing goals with no identification of which goals should
+
+2 take priority if there is a conflict, or where limited financial resources should be given priority.
+3 (Draft PEIR p. 2-7.)
+
+4 175. For example, the PEIR project objective of addressing potential adverse impacts
+
+5 on is housing affordability is overly broad. The steering committee's intent in raising the issue of
+
+6 housing affordability was to ensure the Master Plan update prevents housing displacement and
+7 addresses impacts to homeless populations along the LA River. In recent years, the broad goal
+
+8 of housing affordability has been used to push through numerous market rate housing
+
+9 developments that promise to reserve a very small number of units as affordable. The PEIR
+
+10 and Master Plan must clarify this project objective to ensure the broadly stated goal of "housing
+11 affordability" is not used to support market rate housing developments along the LA River.
+12 V. The Alternatives Analysis in the PEIR Is Inadequate.
+
+13 176. Section 15126.6 of the CEQA Guidelines requires an EIR to "describe a range of
+
+14 reasonable alternatives to the project, or to the location of the project, which would feasibly
+15 attain most of the basic objectives of the project but would avoid or substantially lessen any of
+
+16 the significant effects of the project, and evaluate the comparative merits of the alternatives . .
+
+17 even if these alternatives would impede to some degree the attainment of the project objectives,
+18 or would be more costly." This discussion must include "sufficient information about each
+
+19 alternative to allow meaningful evaluation, analysis, and comparison with the proposed
+20 project," and expressly must address "[t]he specific alternative of 'no project,** the purpose of
+21 which "is to allow decisionmakers to compare the impacts of approving the proposed project
+22 with the impacts of not approving the proposed project." (Ibid.)
+23 177. The PEIR fails to provide a reasonable range of alternatives, including only two:
+24 the No Project Alternative and the Channel Avoidance Alternative. (Draft PEIR p. 5-2.) For a
+25 program that covers 834 square miles and includes numerous and varied potential actions under
+
+26 the Master Plan, this limited assessment of alternatives is inadequate. The lack of an adequate
+27 alternatives analysis is due in large part to the lack of an accurate, stable and finite project
+28 description. The PEIR provides an inadequate project description and overly generalized
+
+VERIFIED PETITION FOR WRIT OF MANDATE 41
+
+1 project objectives that do not allow for a balancing of "the proposal's benefit against its
+
+2 environmental cost, consider mitigation measures, assess the advantage of terminating the
+
+3 proposal (i.e., the 'no project' alternative) and weigh other alternatives in the balance." (County
+
+4 of Inyo v. City of Los Angeles (1977) 71 Cal.App.3d 185, 192-193.)
+
+5 178. Waterkeeper and others proposed several alternatives to reduce the Project's
+
+6 significant environmental impacts: (1) an alternative focused on environmental contaminant
+
+7 clean-up to allow for reuse of brownfield and other sites adjacent to the LA River as parks; (2)
+
+8 an alternative focused on enhancing access to nature and a healthy natural river while
+
+9 mitigating flood risk, as outlined in the Glendale Narrows Feasibility Study; and (3) an
+
+10 alternative that combines the No Project alternative with natural flood reclamation measures.
+
+11 179. The County's failure to include these reasonable alternatives violates CEQA.
+
+12 180. A recurring theme in the Master Plan and PEIR is the disclaimer of concrete
+
+13 removal and river channel naturalization as a viable option for future projects, except on a small
+
+14 scale in undefined specific locations. (See, e.g., Final PEIR at pp. 2-11-2-12 [rejecting the
+15 multitude of public comments calling for concrete removal and river restoration]; Final Master
+
+16 Plan at p. 30 [concluding without environmental impact analysis that "a holistic 51-mile
+
+17 restoration strategy [for the LA River] is not realistic, even on a generational timeline"]; id. at
+
+18 p. 268 [labeling the Floodplain Reclamation KOP category as the least feasible option].)
+
+19 181. Yet the PEIR conducts no analysis to consider the alternative of concrete removal
+20 a on a broader scale and the environmental impacts of developing new projects that bring people
+
+21 closer to the LA River while leaving concrete and industrial land contamination in place. The
+
+22 Master Plan and PEIR cannot treat concrete removal and concrete addition as resulting in the
+
+23 same (absence of) environmental impacts. The conclusory statements in the Master Plan and
+
+24 Final PEIR that concrete removal is infeasible confirm the County's deficient consideration of
+
+25 alternatives.
+
+26 182. The PEIR further failed to analyze the No Project alternative in the manner set
+
+27 forth by CEQA. "The purpose of describing and analyzing a no a project alternative is to allow
+
+28 decisionmakers to compare the impacts of approving the proposed project with the impacts of
+
+VERIFIED PETITION FOR WRIT OF MANDATE 42
+
+not approving the proposed project." (CEQA Guidelines § 15126.6.) "When the project is the
+
+2 revision of an existing land use or regulatory plan, policy O1® ongoing operation, the 'no project'
+3 alternative will be the continuation of the existing plan, policy or operation into the future .
+
+4 the projected impacts of the proposed plan or alternative plans would be compared to the
+
+5 impacts that would occur under the existing plan." (Ibid.)
+
+6 183. The PEIR correctly identified the No Project Alternative as a continuation of the
+1996 LA River Master Plan, but it failed to cogently disclose the differences between this 1996
+Master Plan and the 2020 Master Plan Update. There is inadequate information included in the
+
+9 alternatives analysis to allow for a true comparison of the impacts of the Master Plan with the
+
+10 previous plan.
+
+11 184. Moreover, in the limited discussion provided, the PEIR disclosed that the 1996
+
+12 Master Plan would eliminate or substantially lessen a number of impacts associated with the
+13 Master Plan, making it the environmentally superior alternative. For example, the 1996 Master
+
+14 Plan "would result in fewer hydrology and water quality impacts when compared to the
+
+15 proposed 2020 LA River Master Plan." (Draft PEIR p. 5-21.) While the PEIR claims the Final
+16 Master Plan would have benefits that make it more desirable than 1996 Master Plan, only
+17| uncertain potential benefits are discussed. The PEIR lacks adequate information to allow for a
+
+18 comparison of the benefits stemming from the project and alternatives.
+19 185. The PEIR refers to potential actions under the Master Plan that may or may not be
+20 implemented as the benefits of the Project. The PEIR also fails to address why flooding and
+21 water quality benefits could not be achieved under the 1996 Master Plan.
+
+22 VI. Project Mitigation in the PEIR Is Deferred and Speculative.
+23 186. The PEIR contains very long lists of mitigation measures required to reduce most
+24 Project impacts below a level of significance.
+25 187. Mitigation measures must be "fully enforceable through permit conditions,
+
+26 agreements, or other measures." (Pub. Resources Code § 21081.6(b).)
+27 188. "The purpose of these requirements is to ensure that feasible mitigation measures
+
+28 will actually be implemented as a condition a of development, and not merely adopted and then
+
+VERIFIED PETITION FOR WRIT OF MANDATE 43
+
+I neglected or disregarded." (Federation of Hillside & Canyon v. City of Los Angeles (2000) 83
+
+2 Cal.App.4th 1252, 1261; Katzeff v. California Dept. of Forestry and Fire Protection (2010) 181
+
+3 Cal.App.4th 601, 612; Lincoln Place Tenants Assn v. City of Los Angeles (2005) 130
+
+4 Cal.App.4th 1491.)
+
+5 189. The PEIR recognizes that future projects under the Master Plan could be
+
+6 implemented by any of the 17 cities along the LA River if they are not implemented by the
+
+7 County. Thus, the County plans to "encourage" these 17 cities to adopt the PEIR.
+
+8 Unfortunately, if these cities do not adopt the PEIR, and if any of these cities implement
+
+9 projects, there could be adverse environmental impacts that are not disclosed in the PEIR.
+
+10 CEQA requires that mitigation measures be concrete and enforceable. (Pub. Resources Code §
+
+11 21081.6(b).) There is no enforceability to the mitigation measures contained in the PEIR.
+
+12 190. Even if actually adopted by implementing agencies, the Project's mitigation
+
+13 measures are vague, speculative, deferred, or unenforceable, in violation of CEQA. Deferred
+14 mitigation is only allowed if "specific performance criteria" are required at the "time of project
+
+15 approval." (Endangered Habitats League, supra, at 793-94; CEQA Guidelines §
+
+16 15126.4(a)(1)(B); Sacramento Old City Association v. City Council of Sacramento (1991) 229
+
+17 Cal.App.3d 1011, 1029.)
+
+18 191. Preparation of the Construction Management Plan (LU-1) is impermissibly
+
+19 deferred to future individual projects under the Master Plan.
+20 192. Mitigation Measure AES-2, protecting scenic vistas, is vague: "During project
+
+21 design, the implementing agency will minimize visual intrusions from public views of
+
+22 designated scenic vistas by following local jurisdictions' applicable policies and ordinances that
+
+23 protect views of designated scenic vistas by taking into consideration sightlines, scale and
+
+24 massing of structures, and materials used for construction, and other measures as needed." No
+
+25 performance standard is included.
+
+26 193. Mitigation Measure AES-3a (lighting) does not contain an enforceable
+
+27 performance standard. In the Final PEIR, the County's only statement in response to public
+
+28 comments received on this mitigation measure is a reference to the Design Guidelines' vague
+
+VERIFIED PETITION FOR WRIT OF MANDATE 44
+
+1 expression that lighting installation should "minimize light pollution to the greatest extent
+
+2 possible and be sensitive to ecological needs."
+
+3 194. Mitigation Measure AES 3b (glare) does not contain an enforceable performance
+
+4 standard. In the Final PEIR, the County's only statement in response to public comments
+
+5 received on this mitigation measure is a reference to the Design Guidelines' vague expression
+
+6 that lighting installation should "minimize light pollution to the greatest extent possible and be
+7 sensitive to ecological needs."
+
+8 195. Mitigation Measure BIO-1 constitutes both deferred analysis and deferred
+
+9 mitigation. Analysis of the impacts this measure addresses must occur now, so the public and
+10 decisionmakers may be fully informed. "A mitigation measure cannot be used as a device to
+11 avoid disclosing project impacts." (San Joaquin Raptor Rescue Center v. County of Merced
+12 (2007) 149 Cal.App.4th 645, 663-664.) In the Final PEIR, the County's changes to BIO-1
+13 clarify the scope of literature review and that a rare plant survey shall be conducted by a
+14 botanist at future project sites, but no analysis is conducted regarding the presence of rare plant
+15 species within the project area.
+16 196. Mitigation Measure BIO-2 is deferred mitigation without specific performance
+17 standards, and the County refused to make meaningful changes to BIO-2 in the Final PEIR in
+18 response to public comments raising concerns.
+19 197. Mitigation Measure BIO-3d provides for burrowing owl surveys to determine the
+20 presence of burrowing owls. In response to comments received from CDFW, in the Final PEIR
+21 the County added new measures BIO-3d(ii), Implement Burrowing Owl Avoidance and
+22 Relocation Measures, and BIO-3d(iii), Implement Burrowing Owl Mitigation Management
+23 Plan. (Final PEIR at p. 2-25; id. at pp. 2-69-2-72 [noting edits to existing mitigation measures
+24 in response to CDFW's Comment A6-9 regarding California Species of Special Concern].) The
+25 addition of new mitigation measures entirely excluded from the Draft PEIR, in response to
+26 significant new information about potential significant environmental impacts, necessitates a
+27 recirculation of the Final PEIR for review and comment on the adequacy of these new
+28 mitigation measures. CEQA requires recirculation of an environmental impact report when
+
+VERIFIED PETITION FOR WRIT OF MANDATE 45
+
+1 "significant new information" is added. (See Pub. Resources Code § 21092.1 [requiring
+
+2 recirculation of an environmental impact report when "significant new information" is added];
+
+3 CEQA Guidelines § 15088.5 [requiring recirculation when the new information shows newly
+
+4 significant environmental impacts or increased severity of previously disclosed environmental
+
+5 impacts].)
+
+6 198. Mitigation Measure BIO-3g regarding American Badgers provides for eviction of
+
+7 non-pupping badgers from their dens but not for relocation. This measure will not help the
+
+8 species. Further, the PEIR fails to evaluate the significant impacts caused by this mitigation
+
+9 measure. (CEQA Guidelines § 15126.4.)
+
+10 199. Mitigation Measure BIO-5, the weed abatement plan, is deferred. While site-
+
+11 specific details may be appropriate for deferral, general methods and herbicide protocol should
+
+12 have been developed before Project approval so that responsible agencies could evaluate the
+13 effectiveness of the mitigation and any environmental impacts of this mitigation measure. The
+
+14 addition in the Final EIR of a requirement for a qualified biologist to review herbicide protocols
+
+15 developed for individual projects, rather than establishing binding requirements for herbicide
+
+16 protocols now, confirms that BIO-5 is deferred mitigation.
+
+17 200. Mitigation Measure BIO-7 provides that intentional killing or collection of wildlife
+
+18 "could" result in a stop work order. This language is not mandatory or enforceable.
+
+19 201. Mitigation Measure BIO-12 recognizes that best practices for bird and bat-friendly
+20 nighttime lighting conflict but does not resolve the conflict. As a result, the PEIR fails to
+21 mitigate the unanalyzed impacts to both birds and bats. In the Final PEIR, the County failed to
+22 acknowledge or respond to comments identifying this conflict.
+23 202. Additionally, as the PEIR fails to include a defined project description sufficient to
+
+24 enable useful environmental review or the formulation of mitigation measures, the PEIR
+
+25 necessarily fails to mitigate many of the Project's environmental impacts.
+
+26 203. The County failed to recirculate the PEIR after the development of a project ripe
+
+27 for review, along with concrete and useful mitigation measures that address the potentially
+
+28 significant environmental impacts of implementing that ripe project, as requested by
+
+VERIFIED PETITION FOR WRIT OF MANDATE 46
+
+Waterkeeper, the Center, and others.
+
+2 204. The PEIR also failed to include analysis of defined projects under consideration
+
+3 for the LA River, and, consequently, lacks mitigation formulated to address the very real and
+
+4 likely environmentally damaging aspects of the 22-acre LA River platform park and the 11-acre
+Rio Hondo platform park, among other projects.
+205. Finally, many of the Master Plan's Design Guidelines are not explicitly
+mandatory, yet the PEIR assumes they will be followed. (Draft PEIR p. 2-16.)
+
+8 206. To the extent that the PEIR relies upon the Design Guidelines to mitigate
+
+9 significant environmental impacts, or to the extent that the PEIR relies upon the Design
+10 Guidelines to conclude the Project that will not have environmental impacts in the first
+11 instance, the Design Guidelines fail to reduce relevant impacts below a level of significance.
+12 207. Owing to these deficiencies in mitigation, the County lacks substantial evidence
+13 supporting the PEIR's claims that impacts have been mitigated a below a level of significance.
+14 VII. The Master Plan and PEIR Process Failed to Maximize Public Participation.
+15 208. It is well established that an EIR is "a document of accountability." (Laurel
+16 Heights Improvement Assn. v. Regents of the University of California (1988) 47 Cal.3d 376,
+17 392.
+
+18 209. It is essential to the functioning of CEQA that the public be informed about and
+19 involved in decisions made by their public officials that affect the environment in which they
+20 live and raise their children. Environmental review derives its vitality from public
+
+21 participation. (Ocean View Estates Homeowners Ass'n, Inc. V. Montecito Water Dist. (2004)
+22 116 Cal.App.4th 396, 400.)
+
+23 210. Section 15201 of the CEQA Guidelines provides: "Public participation is an
+24 essential part of the CEQA process. Each public agency should include provisions in its CEQA
+25 procedures for wide public involvement. ..." (See also CEQA Guidelines § 15002(a)(1)
+26 [identifying one of the basic purposes of CEQA as to "[i]nform decisionmakers and the public
+27 about the potential significant environmental effects of proposed activities"]; id. § 15003(c)
+28 'The EIR is to inform other governmental agencies and the public generally of the
+
+VERIFIED PETITION FOR WRIT OF MANDATE 47
+
+r environmental impact of a proposed project.".)
+
+2 211. The people of Los Angeles County speak 185 different languages at home. The
+
+3 LA River flows through some of the most diverse communities in Los Angeles County,
+
+4 including many a with a high percentage of non-English speakers. For this reason, important
+
+5 notices, such as those concerning voting, are provided in up to 12 languages by the County.
+
+6 212. The State Office of Planning and Research Guidelines recommend that: "All
+
+7 communication .. should be done in the major languages spoken in the community. This
+
+8 includes any advertising and written background materials as well as live interpretation at key
+
+9 public events." (OPR, "General Plan Guidelines," p. 32.)
+
+10 213. However, none of the Draft Master Plan, the Draft PEIR, nor the Appendices to
+
+11 the Draft PEIR were made available to the public in Spanish, or any language other than
+
+12 English.
+
+13 214. During the Steering Committee process, Waterkeeper also noted the lack of
+
+14 outreach to important communities residing along the LA River. Meetings were held in some
+
+15 River communities, but not in Atwater Village, Boyle Heights, Huntington Park, and
+
+16 Maywood.
+
+17 215. As pointed out by Waterkeeper and other partner organizations on the Steering
+
+18 Committee, the Tongva and other Indigenous Peoples were left out of the Master Plan process,
+
+19 despite the fact that Indigenous Peoples have lived in the Los Angeles Basin for thousands of
+20 years, and have some of the longest relationships with the LA River.
+
+21 216. Failure to provide the Draft Master Plan and Draft PEIR in Spanish has violated
+
+22 State policy, which is central to CEQA and Planning and Zoning Law. The US Census Bureau
+23 reports that in Los Angeles County, an estimated 56.6% of households speak a language other
+24 than English at home, and about 48.6% of the County's population is Hispanic or Latino.
+
+25 Nearly forty percent of Los Angeles County households speak primarily Spanish at home.
+26 217. Where a public agency does not make documents available in the language spoken
+27 by people likely affected by the project, the agency fails to comply with CEQA's public
+
+28 participation policies.
+
+VERIFIED PETITION FOR WRIT OF MANDATE 48
+
+218. Further, Zoom and online meetings during the Covid-19 pandemic resulted in a
+
+2 lack of access to the CEQA process for the Master Plan update for community members
+
+3 without at-home computer or internet access and/or sufficient technological experience. These
+
+4 barred residents are already those most likely to be adversely impacted by developments in their
+5 neighborhoods, including future development projects under the Master Plan.
+
+6 219. Even for community members with the computers and adequate internet access,
+
+7 participation in the Master Plan process was challenging. For example, during the March 3,
+
+8 2021 public meeting for the Draft Master Plan and Draft PEIR, it became clear that many
+
+9 members of the public who signed up to speak were unable to connect their audio or video to
+10 provide comments. Others may have been able to share their comments, but meeting
+11 facilitators could only find participants by the exact names entered into the Eventbrite
+12 preregistration. If a community member was using a Zoom account on a device with a name
+13 that did not match, as would occur if a community member borrowed a device, they were often
+14 unable to speak.
+
+15 220. For these and other reasons, the County's process placed great barriers to public
+16 participation for a project that will impact several hundred square miles of the County, and the
+17 entire LA River.
+
+18 VIII. The Final PEIR Failed to Adequately Respond to Comments.
+
+19 221. CEQA requires the County to respond to the public's comments and questions
+20 with "reasoned, good faith analysis." (CEQA Guidelines § 15088). When a comment raises a
+
+21 significant environmental issue, the lead agency must address the comment "in detail giving
+22 reasons why" the comment was "not accepted." (Ibid.) "Conclusory statements unsupported
+23 by factual information will not suffice." (Ibid; Laurel Heights Improvement Assn. V. Regents of
+24 University of California (1993) 6 Cal.4th 1112, 1124.)
+
+25 222. The level of detail of responses to comments must be commensurate with the level
+
+26 of detail of the comments. (Friends of the Eel River v. Sonoma County Water Agency (2003)
+27 108 Cal.App.4th 859, 878 ['"the determination of the sufficiency of the agency's responses to
+28 comments on the draft EIR turns upon the detail required in the responses"].)
+
+VERIFIED PETITION FOR WRIT OF MANDATE 49
+
+1 223. This is especially important with regard to the substantive comments of
+
+2 responsible or "sister agencies" which may not simply be ignored. (Cleary v. County of
+
+3 Stanislaus (1981) 118 Cal.App.3d 348, 357.)
+
+4 224. This requirement for good faith, reasoned analysis "ensures that stubborn problems
+
+5 or serious criticism are not swept under the rug." (Santa Clarita Organization for Planning the
+
+6 Environment v. County of Los Angeles (2003) 106 Cal.App.4th 715, 732.)
+
+7 225. The courts have held that inadequate responses to comments-alone-can be
+
+8 grounds for voiding a project's approval. (See Environmental Protection Information Center.
+
+9 V. Johnson (1985) 170 Cal.App.3d 604, 627.)
+
+10 226. Failure to respond to a single comment is sufficient to invalidate approval of a
+
+11 final EIR. (Flanders Foundation v. City of Carmel by-the-Sea (2012) 202 Cal.App.4th 603.)
+
+12 227. The Final PEIR failed to respond adequately to comments raised in Petitioners'
+
+13 comments on the DEIR.
+
+14 228. The County dismissed Waterkeeper's comments regarding the deficiencies in the
+
+15 Project description establishing that the "Project" is merely a menu of options without a
+
+16 coherent vision. The County's response repeated the same irrelevant and inaccurate statements
+
+17 from the Draft PEIR regarding the general purpose of programmatic EIRs with deferred
+18 project-specific analysis and approval. (Final PEIR at pp. 2-341, 2-343, 2-348-2-354
+19 [responding to Comments 017-1, 017-2, and 017-7-017-14].)
+
+20 229. Waterkeeper identified the County's failure to provide more information and
+
+21 environmental impacts analysis for specific projects contemplated at opportunity sites, in light
+
+22 of the detailed technical specifications and visual renderings for those projects. The County's
+
+23 response repeated unconvincingly that these projects are not approved and are only conceptual.
+
+24 (Final PEIR at pp. 2-355-2-361 [responding to Comments 017-17-017-22].)
+
+25 230. Waterkeeper identified the failure to consider feasible alternatives to eliminate
+
+26 concrete and naturalize the LA River channel while preserving flood control functionality, to
+
+27 which the County responded by repeating the unsupported discussion from the DEIR that such
+
+28 an alternative is infeasible. (Final PEIR at pp. 2-362-2-366 [responding to Comments 017-24-
+
+VERIFIED PETITION FOR WRIT OF MANDATE 50
+
+1 017-26].)
+
+2 231. Waterkeeper critiqued the County's deficient analysis of impacts to hydrology and
+3 water quality, biological resources, and mitigation measures for those impacts. The County
+4 responded by claiming that water impacts would be addressed solely through compliance with
+
+5 local and regional water quality and stormwater requirements, by refusing to consider detailed
+
+6 evidence submitted by commenters of baseline wildlife conditions, and by acknowledging
+7 mitigation must be deferred and cannot yet be implemented or required because specific
+
+8 projects are not being considered. (Final PEIR at pp. 2-366-2-376 [responding to Comments
+9 017-27-017-401.)
+
+10 232. The County similarly failed to respond meaningfully to the Center's comments on
+11 the Draft PEIR. The Center proposed specific mitigation measures and other additions to the
+
+12 Draft PEIR, and the Center raised similar concerns as Waterkeeper regarding the undefined
+13 project description. The County responded in the same manner as to Waterkeeper by relying on
+14 existing portions deficient mitigation measures or other portions of the PEIR to assert that the
+
+15 Center's suggestions were unnecessary. (Final PEIR at pp. 2-410-2-436 [responding to
+16 Comments 022-1-022-48].)
+
+17 233. The Final PEIR dismissed comments from sister State agencies without adequately
+18 considering their concerns or incorporating changes into the Plan or FPEIR to reflect those
+
+19 concerns.
+
+20 234. The CCC submitted detailed comments on the Draft PEIR to outline concerns
+
+21 about possible land use impacts and the inconsistency of some Plan components with existing
+22 laws, but the County effectively rejected the CCC's input and deferred consideration of the
+
+23 CCC's concerns to future individual plan processes.
+24 235. The CCC identified the need for future projects to consider sea level rise consistent
+25 with guidance from the Ocean Protection Council. the County responded by stating that future
+26 projects would comply with applicable state and local requirements for considering sea level
+27 rise, without any explanation as to how the Master Plan would ensure such compliance. (Final
+28 PEIR at pp. 2-25-2-26 [responding to Comment A5-8].)
+
+VERIFIED PETITION FOR WRIT OF MANDATE 51
+
+1 236. The CCC also explained aspects of the Master Plan that would conflict with
+
+2 existing laws and land use plans (such as the California Coastal Act, the Long Beach Local
+
+3 Coastal Program, and the Long Beach Port Master Plan) or would require permits, rendering
+
+4 those aspects of the Master Plan currently impossible to accomplish or creating significant land
+
+5 use impacts (including with respect to hazardous materials). The County's response ignored this
+
+6 aspect of the CCC's comments, merely stating that future projects would have to be consistent
+
+7 with relevant regulations and that as a "mitigation" measure, the implementing agencies would
+
+8 have to coordinate for all necessary permits, approvals, and amendments. (Final PEIR at pp. 2-
+
+9 26, 2-28-2-29, 2-33-2-37, 2-39-2-42, 2-44-2-47 [responding to Comments A5-9, A5-12, A5-19-
+
+10 A5-20, A5-23, A5-26, A5-30, A5-34-A5-43, A5-45-A5-49, A5-53-A5-54].)
+
+11 237. The CCC offered specific feedback on some of the KOP categories in the plan,
+
+12 pointing out certain components that would not be feasible to implement in isolation. The
+
+13 County failed to respond substantively and repeated its position that the Final PEIR does not
+
+14 assess any specific project proposals and is merely programmatic in nature, sO any specific
+
+15 consideration of the CCC's concerns would occur in subsequent environmental review for
+
+16 individual proposals or would be addressed through future site-specific studies required as
+
+17 "mitigation" measures. (Final PEIR at pp. 2-29-2-32, 2-43-2-44 [responding to Comments A5-
+
+18 13-A5-17, A5-52].)
+
+19 238. The CCC noted the possibility of local agencies pursuing wastewater recycling and
+20 increasing greywater treatment capacity to create a closed water utility system, as relevant to
+
+21 possible mitigation of wastewater impacts under the Common Elements Typical Projects. Yet
+
+22 the County's response rejected any need to consider possible future changes to wastewater
+
+23 treatment systems or water recycling, sticking to a baseline regulatory setting of the existing
+24 landscape of systems, thereby refusing to analyze foreseeable future cumulative impacts. (Final
+
+25 PEIR at pp. 2-32-2-33 [responding to Comment A5-18].)
+
+26 239. The County refused to include more detailed environmental justice analysis in
+
+27 response to a request from the CCC to do so, stating summarily that "environmental justice is
+
+28 a not a CEQA requirement." (Final PEIR at pp. 2-37-2-38 [responding to Comments A5-30-A5-
+
+VERIFIED PETITION FOR WRIT OF MANDATE 52
+
+31].)
+240. Similarly, CDFW submitted detailed comments identifying deficiencies in
+
+3 mitigation measures and the possible significant impacts on biological resources. The County's
+
+4 responses to CDFW's detailed and specific concerns about biological impacts deferred
+
+5 mitigation considerations to future biological assessments for individual projects, in violation of
+
+6 CEQA.
+
+7 241. CDFW raised concerns about biological impacts from increased visitors and
+
+8 recreation uses along the LA River, fencing and access barriers that may impact wildlife
+
+Q dispersal, and ground disturbances, noise and light pollution, and streambed alterations during
+10 the project development process. In response, the County improperly deferred mitigation to
+11 future individual projects through recommendations in future biological reports or surveys and
+12 claims that an existing mitigation measure "already begins the process of making a
+13  determination of whether the proposed individual subsequent project would have a significant
+14 environmental impact on biological resources and provides the steps necessary to make that
+15| determination," therefore requiring no evaluation now. (Final PEIR at pp. 2-52-2-59, 2-72-75
+16| [responding to Comments A6-3-A6-5, A6-10]). "[A]n agency goes too far when it simply
+17 requires a project applicant to obtain a biological report and then comply with any
+18 recommendations that may be made in the report."(Defend the Bay v. City of Irvine (2004), 119
+19 Cal.App.4th 1261, 1275.)
+
+20 242. CDFW raised significant concerns regarding dry weather diversions of water from
+21 the LA River and the significant impacts on species and beneficial uses, which would reduce
+22 water flows and could affect a variety of plants, fish, macroinvertebrates, and other wildlife.
+
+23 CDFW identified these concerns in the context of KOP categories for channel modifications
+24 and water diversions, requesting more environmental analysis of how those components might
+25 impact biological resources in both concrete-lined and soft-bottom portions of the LA River. In
+26 response, the County again deferred any consideration of these impacts to future specific
+27 project approvals and "anticipated" future CEQA proceedings, which would include regulatory
+28 assessments for mitigation opportunities, rather than making any determinations now. (Final
+
+VERIFIED PETITION FOR WRIT OF MANDATE 53
+
+PEIR at pp. 2-59-2-64 [responding to Comment A6-6].)
+
+2 243. CDFW also raises concerns about significant impacts to endangered species of
+
+3 anadromous fish (such as Southern California steelhead) that may use the LA River for habitat,
+
+4 which are particularly certain to occur from projects employing KOP categories for channel
+
+5 modifications, water diversions, and platform parks or land bridges atop the River, concluding
+
+6 in no uncertain terms that "impacts would be significant." The County again responded by
+
+7 deferring analysis to individual subsequent projects and "anticipated" CEQA processes,
+
+8 including "mitigation" measures to conduct assessments for those individual projects, but
+
+9 makes no changes to the KOP categories in the Plan or how they may be deployed. (Final PEIR
+
+10 at pp. 2-64-2-67 [responding to Comment A6-7].)
+
+11 244. CDFW noted that many of the Plan components would impact riparian habitat and
+
+12 "may result in temporary or permanent loss of riparian resources," calling for specific language
+
+13 to be included in a mitigation measure to ensure no net loss of riparian habitat in the River and
+
+14 increasing compensatory mitigation measures for rare or threatened riparian habitat and
+
+15 vegetation measures. The County made no changes in the Master Plan or PEIR in response to
+
+16 CDFW's thoughtful and focused comment, once again deferring all such considerations to
+
+17 future individual projects. (Final PEIR at pp. 2-68-2-69 [responding to Comment A6-8]).
+
+18 245. The County responded to CDFW's recommended mitigation measures for
+
+19 California Species of Special Concern by expanding certain mitigation measures and their
+20 definitions, but largely noting that CDFW's concerns would again be dealt with on a project-
+
+21 by-project basis through biological assessments. (Final PEIR at pp. 2-69-2-72 [responding to
+
+22 Comment A6-9].)
+
+23 246. In the Final PEIR, the County acknowledged that it added new mitigation
+
+24 measures in response to comments from CDFW, including BIO-3d(ii), Implement Burrowing
+
+25 Owl Avoidance and Relocation Measures; BIO-3d(iii), Implement Burrowing Owl Mitigation
+
+26 Management Plan; and BIO-20b, Protect Against Tree Diseases, Pests, and Pathogens. (Final
+27 PEIR at p. 2-25; id. at pp. 2-69-2-72 [noting edits to existing mitigation measures in response to
+
+28 CDFW's Comment A6-9 regarding California Species of Special Concern].) The addition of
+
+VERIFIED PETITION FOR WRIT OF MANDATE 54
+
+- new mitigation measures entirely excluded from the Draft PEIR, in response to significant new
+2 information about potential significant environmental impacts, necessitates a recirculation of
+
+3
+
+4 the FEIR for review and comment on the adequacy of these new mitigation measures. (See
+
+5 Pub. Resources Code § 21092.1; CEQA Guidelines § 15088.5.)
+IX.
+
+6 The PEIR Did Not Contain Adequate Analysis and Mitigation of Significant
+Environmental Impacts.
+
+7
+
+8 247. CEQA requires the County to conduct an adequate environmental review prior to
+
+9 approving projects subject to CEQA. (CEQA Guidelines § 15004.)
+
+10 248. CEQA imposes a clear, present, and mandatory duty upon the County to certify an
+
+11 EIR only if the EIR fully discloses to the public and decision makers the significant
+
+12 environmental effects of the Project and commits to feasible mitigation measures.
+
+13 249. For example, as described above, the PEIR's failure to define the Project with any
+
+14 specificity results in its failure to disclose, analyze, and mitigate the impacts of the Project.
+
+15 250. The PEIR for the Project does not meet any of those requirements, and thus does
+not comply with CEQA.
+
+16
+
+17 251. Specifically, the PEIR fails to adequately disclose, analyze, and mitigate the
+
+18 Project's likely, significant and adverse environmental impacts to, inter alia, hydrology and
+
+19 water quality, biological resources, and consistency with applicable plans and policies.
+A.
+
+20 The PEIR Failed to Adequately Analyze and Mitigate Impacts to Hydrology
+and Water Quality.
+
+21
+
+22 252. Despite the fact that the Master Plan is a plan for the LA River-a water body-
+
+23 the PEIR only includes a very general and perfunctory analysis of any hydrological and water
+
+24 quality impacts. The lack of analysis is particularly egregious given the vast size of the LA
+
+25 River: its watershed covers 834 square mile and is home to millions of Los Angeles area
+residents.
+
+26
+
+27 253. The bare analysis of hydrology and water quality in the PEIR is inadequate to
+
+28 support a determination that hydrological and water quality impacts would be less than
+significant. The PEIR thus fails as an informational document in its assessment of hydrological
+
+VERIFIED PETITION FOR WRIT OF MANDATE 55
+
+P and water quality impacts. (Sierra Club v. County of Fresno (2018) 6 Cal.5th 502, 515.)
+
+2 254. Relatedly, the hydrology and water quality section in the PEIR concluded that
+
+3 mitigation measures are not required. However, instead of providing the necessary analysis of
+
+4 impacts to allow for development of mitigation measures, the PEIR simply assumed all
+
+5 components will comply with Clean Water Act permits, the permit governing municipal
+
+6 I stormwater discharges, and yet-to-be-disclosed Best Management Practices. The PEIR then
+
+7 concluded that compliance with these unspecified requirements would eliminate the potential
+
+8 for significant adverse impacts. (Draft PEIR pp. 3.9-39 to 3.9-57.)
+
+9 255. Without full assessment of the water quality and groundwater impacts, the PEIR
+
+10 lacks evidentiary support for the claim that compliance with these permits would be possible or
+
+11 that such compliance would mitigate impacts to a less than significant level. Simply deferring
+
+12 a to a regulatory scheme instead of analyzing environmental consequences falls "short of [the]
+
+13 duty under CEQA to meaningfully consider the issues raised by the proposed project."
+
+14 (Californians for Alternatives to Toxics v. Department of Food & Agriculture (2005) 136
+
+15 Cal.App.4th 1, 16.)
+
+16 256. Moreover, the existing and past lack of compliance with the Los Angeles County
+
+17 municipal stormwater permit has been well-documented by Waterkeeper and others. The
+
+18 history of non-compliance with permits relied upon in the PEIR as sufficient to eliminate
+19 significant impacts must be taken into consideration when evaluating the sufficiency of
+20 mitigation measures for potential impacts to hydrology and water quality. (Laurel Heights
+
+21 Improvement Assn. V. Regents of University of California (1988) 47 Cal.3d 376, 420.)
+
+22 257. The PEIR also impermissibly deferred mitigation for potential hydrology and
+
+23 water quality impacts by failing to establish required specific performance criteria for those
+
+24 mitigation measures.
+
+25 258. Instead, the PEIR set indefinite thresholds of significance upon which the County
+
+26 appeared to rely as performance criteria. The threshold of preventing "substantially alter[ation
+27 ofl the existing drainage pattern" does not set specific performance criteria with which the
+28 actions under the Project would comply. (Draft PEIR p. 3.9-37.) This vague threshold was not
+
+VERIFIED PETITION FOR WRIT OF MANDATE 56
+
+1 adopted as a mitigation measure and is therefore unenforceable.
+
+2 259. The PEIR acknowledged that dewatering of groundwater tables will be required
+
+3 for unspecified future projects under the Master Plan, but instead of analyzing the potential
+4 impacts, the County assumed an undefined stormwater pollution prevention plan will be used
+
+5 that address those impacts, thereby claiming the impact is less than significant and requires no
+
+6 mitigation. (Draft PEIR p. 3.9-38.) In doing so, the County improperly compressed the impact
+
+7 analysis and mitigation, in violation of CEQA. An EIR must acknowledge the potentially
+8 significant impacts and then analyze the ability of mitigation measures to address those impacts.
+
+9 (Lotus v. Department of Transportation (2014) 223 Cal.App.4th 645, 656 [*By compressing the
+10 analysis of impacts and mitigation measures into a single issue, the EIR disregards the
+11 requirements of CEQA"].)
+
+12 260. The only mitigation provided for hydrology and water quality impacts in the PEIR
+13 relates to potential flooding impacts. The PEIR concluded that several reaches of the LA River
+
+14 (Frames 5 through 9) do not meet existing design standards for flood conveyance capacity and
+15 acknowledged that an increase in site runoff from actions under the Master Plan would further
+
+16 exacerbate this impact.
+
+17 261. The mitigation included for this impact is also improperly deferred because it
+18 relies on deferred drainage studies and then, based on the results of the report, "measures during
+19 construction and operation may be required to ensure flood flows are not impeded and to
+20 minimize redirected flood flows." (Draft PEIR p. 3.9-61, emphasis added.) "Impermissible
+21 deferral of mitigation occurs when an EIR puts off analysis or orders a report without either
+
+22 setting standards or demonstrating how the impact can be mitigated in the manner described in
+23 the EIR." (Clover Valley Foundation v. City of Rocklin (2011) 197 Cal.App.4th 200, 236;
+24 Defend the Bay v. City of Irvine (2004) 119 Cal.App.4th 1261, 1275; Preserve Wild Santee V.
+25 City of Santee (2012) 210 Cal.App.4th 260, 280-82.)
+
+26 262. The PEIR failed to analyze or mitigate impacts related to the impacts of climate
+27 change on the LA River's hydrology. The PEIR should have analyzed how future projects
+28 under the Master Plan could limit the hydrological and water quality impacts in a changing
+
+VERIFIED PETITION FOR WRIT OF MANDATE 57
+
+climate or adopt mitigation measures requiring actions or assessments to ensure climate
+
+2 resilience for every project.
+
+3 263. This omission is inconsistent with Los Angeles County General Plan Policy
+
+4 section 2.3, which requires the County to "[c]onsider climate change adaptation strategies in
+flood and inundation hazard."
+
+6 264. Waterkeeper provided the County with the Glendale Narrows Feasibility Study for
+
+7 consideration to address impacts from climate change. The study communicated opportunities
+
+8 to enhance access to nature and a healthy natural river while mitigating flood risk, by exploring
+
+9 possible new ways to plan for the LA River that incorporate novel and integrated solutions to
+
+10 achieve climate resilience.
+
+11 265. The PEIR similarly failed to address the impacts of the Master Plan's proposed
+
+12 activities on an "increasing potable water scarcity associated with population growth, drought,
+
+13 climate change, regulatory/legal policy, and protection of endangered species."
+
+14 266. The objectives in the Master Plan and PEIR included the goal to improve water
+
+15 supply reliability, and the hydrology section in the PEIR stated that some activities
+
+16 contemplated under the Master Plan may provide opportunities for reuse of water for
+
+17 groundwater recharge. Nevertheless, the PEIR did not convey the importance of expanded
+
+18 efforts to conserve and reuse wastewater and other discharges throughout the LA River
+
+19 watershed. The PEIR failed to address whether the Master Plan would be consistent with the
+20 State Water Resources Control Board's recycled water policy, which encourages water reuse
+
+21 while ensuring the protection of existing water rights and beneficial uses.
+
+22 B. The PEIR Failed to Adequately Analyze and Mitigate Impacts to Biological
+
+23 Resources.
+
+24 267. The PEIR failed to adequately disclose, analyze, and mitigate impacts to the LA
+
+25 River's biological resources.
+
+26 268. The PEIR improperly restricted its analysis to a narrow 1-mile stretch of land on
+
+27 each side of the LA River channel, when wildlife impacts may extend beyond the channel and
+
+28 berm areas.
+
+VERIFIED PETITION FOR WRIT OF MANDATE 58
+
+1 269. The PEIR neglected to assess wildlife corridors outside of Griffith Park.
+
+2 270. In reliance on decade-old studies, the PEIR failed to identify and analyze
+3 potentially impacted wildlife species.
+
+4 271. During the comment process for the Draft Master Plan and Draft PEIR,
+
+5 Waterkeeper directed the County's attention to its 2020 River Assessment Fieldwork Team
+
+6 Report on the Los Angeles River, which contains valuable baseline information about the health
+
+7 of benthic communities and water quality at different sites along the River, for inclusion in the
+
+8 PEIR. The County failed to incorporate this information into the Final Master Plan or Final
+
+9 PEIR.
+
+10 272. The PEIR failed to adequately analyze and mitigate direct, indirect, and
+
+11 cumulative impacts to wildlife movement and connectivity and special status species.
+
+12 C. The PEIR Failed to Adequately Analyze Consistency with Applicable Plans
+
+13 and Policies.
+
+14 273. The PEIR failed to adequately analyze consistency of the Project with applicable
+15 plans including, but not limited to, the Los Angeles River Revitalization Master Plan, Lower
+
+16 Los Angeles River Revitalization Plan, Los Angeles County Community Climate Action Plan,
+17 L.A. Green New Deal Sustainability Plan, and the Los Angeles Countywide Sustainability Plan.
+18 274. The PEIR was inconsistent with many of the goals and policies in the Los Angeles
+19 Countywide Sustainability Plan, including implementing strategies to preserve and protect
+20  terrestrial streams, wetlands, and aquatic habitats.
+
+21 PRAYER FOR RELIEF
+
+22 In each of the respects enumerated above, the County has violated its duties under law,
+
+23 failed to execute a non-discretionary duty, abused its discretion, failed to proceed in the manner
+24 required by law, decided the matters complained of without the support of substantial evidence,
+25 and failed to include required findings. Accordingly, the certification of the EIR and the
+
+26 approval of the Project must be set aside.
+
+27 WHEREFORE, Petitioners pray for relief as follows:
+28 1. For a peremptory writ of mandate commanding the County:
+
+VERIFIED PETITION FOR WRIT OF MANDATE 59
+
+2 a. to set aside and vacate the certification of the PEIR and all associated
+
+certifications or approvals;
+0 b. to set aside and vacate the approval for the Project and all associated approvals or
+adoptions;
+wo C. for an order enjoining the County from taking any action to construct any portion
+of the Project, to develop or alter the Project site in any way that could result in a
+
+8 significant adverse impact on the environment, or to support other agencies in
+
+o doing the same a unless and until a lawful approval is obtained after the preparation
+
+10 and consideration of an adequate EIR and adoption of all feasible alternatives and
+mitigation measures;
+
+11 2. For costs of the suit;
+
+12 3. For reasonable attorneys' fees pursuant to
+
+13 and other applicable laws; and Code of Civil Procedure section 1021.5
+
+14
+
+15 4. For any such other and further relief as the Court deems just and proper.
+
+16 Respectfully Submitted,
+
+17
+
+18 July 13, 2022
+
+19
+
+20 Ceulcorea Benjamin Harris
+
+21 Los Angeles Waterkeeper
+
+22
+
+23 IL A
+
+24 John P. Rose
+Center for Biological Diversity
+
+25
+
+26 mauD
+
+27 Michelle N. Black. for Petitioners
+
+28 Los Angeles Waterkeeper and
+Center for Biological Diversity
+
+VERIFIED PETITION FOR WRIT OF MANDATE 60
+
+1 VERIFICATION
+
+2 Bruce Reznik, declare:
+
+3 I have read the foregoing Verified Petition for Writ of Mandate, and know its contents. I am the
+
+4 Executive Director of Los Angeles Waterkeeper, a Petitioner in this action, and am authorized to make
+
+5 this verification for and on its behalf, and I make this verification for that reason. am informed and
+
+6 believe and on that ground allege that the matters stated in the foregoing document are true.
+
+7
+
+8 I declare under penalty of perjury under the laws of the State of California that the foregoing is
+true and correct.
+9
+
+10 Executed on July 13, 2022, at Los Angeles, California.
+11
+
+12 R 13 Bruce Reznik
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE 61
+
+1 VERIFICATION
+
+2 I, Elizabeth Reid-Wainscoat, declare:
+
+3 have read the foregoing Verified Petition for Writ of Mandate, and know its contents. I am the
+
+4 Policy Director & Senior Attorney of the Center for Biological Diversity, a Petitioner in this action, and
+
+5 am authorized to make this verification for and on its behalf, and make this verification for that reason.
+
+6 am informed and believe and on that ground allege that the matters stated in the foregoing document
+
+7 are true.
+
+8 I declare under penalty of perjury under the laws of the State of California that the foregoing is
+9 true and correct.
+10
+
+11 Executed on July 13, 2022, at Los Angeles, California.
+12
+
+13
+
+14 Elixabeth Reid-Wamscoat Campaigher, Urban Wildlands Program
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE 62
+
+EXHIBIT A
+
+VERIFIED PETITION FOR WRIT OF MANDATE 63
+
+CBCM
+
+Hermosa Beach Office Chatten-Brown, Carstens & Minteer LLP Michelle N. Black
+Phone: (310) 798-2400
+Fax: (310) 798-2402 2200 Pacific Coast Highway, Suite 318 Email Address:
+mnb@cbcearthlaw.com
+
+San Diego Office Hermosa Beach, CA 90254
+Phone: (619) 940-4522 www.cbcearthlaw.com Direct Dial:
+310-798-2400 Ext. 5
+
+July 13, 2022
+
+By U.S. Mail
+California Attorney General
+300 South Spring Street, Ste. 1700
+Los Angeles, CA 90013
+
+Re: Challenge under the California Environmental Quality Act to
+the approval of the Los Angeles River Master Plan Update
+
+Honorable Attorney General:
+
+Please find enclosed a copy of the Petition for Writ of Mandate filed to challenge
+the County of Los Angeles approval of the Los Angeles River Master Plan Update under the California Environmental Quality Act. Petitioners Los Angeles Waterkeeper and Center for Biological Diversity allege that the environmental impact report (EIR) fails to adequately describe the project, resulting in the EIR's failure to disclose, analyze, and mitigate the impacts of the 51-mile-long project.
+This Petition is being provided pursuant to the notice provisions of the Public Resources Code. Please contact me if you have any questions.
+
+Sincerely,
+molPa
+
+Michelle Black
+Enclosure
+
+VERIFIED PETITION FOR WRIT OF MANDATE 64
+
+PROOF OF SERVICE
+
+I am employed by Chatten-Brown, Carstens & Minteer LLP in the County of Los Angeles, State of California. am over the age of 18 and not a party to the within action. My business address is 2200 Pacific Coast Highway, Ste. 318, Hermosa Beach, CA 90254. On July 13, 2022, served the within documents:
+
+LETTER TO THE CA ATTORNEY GENERAL REGARDING
+PETITION FOR WRIT OF MANDATE
+
+VIA UNITED STATES MAIL.
+I am readily familiar with this business' practice for collection and
+processing of correspondence for mailing with the United States Postal Service. On the same day that correspondence is placed for collection and mailing, it is deposited in the ordinary course of business with the United States Postal Service in a sealed envelope with postage fully prepaid. enclosed the above-referenced document(s) in a sealed envelope or package addressed to the person(s) at the address(es) as set forth below, and following ordinary business practices I placed the package for collection and mailing on the date and at the place of business
+set forth above.
+
+I declare that I am employed in the office of a member of the bar of this court whose direction the service was made. I declare under penalty of perjury under the laws of the State of California that the above is true and correct. Executed on July 13, 2022, at Hermosa Beach, California 90254.
+
+/s/ Cynthia Kellman
+
+Cynthia Kellman
+
+SERVICE LIST
+Office of the CA Attorney General 300 South Spring Street, Ste. 1700
+Los Angeles, CA 90013
+
+VERIFIED PETITION FOR WRIT OF MANDATE 65
+
+EXHIBIT B
+
+VERIFIED PETITION FOR WRIT OF MANDATE 66
+
+CBCM
+
+Hermosa Beach Office Chatten-Brown, Carstens & Minteer LLP
+Phone: (310) 798-2400 Michelle N. Black
+
+Fax: (310) 798-2402 2200 Pacific Coast Highway, Suite 318 Email Address:
+mnb@cbcearthlaw.com
+San Diego Office Hermosa Beach, CA 90254
+Phone: (619) 940-4522 www.cbcearthlaw.com Direct Dial:
+310-798-2400 Ext. 5
+
+July 12, 2022
+
+By U.S. Mail
+
+Mr. Dean Logan
+Los Angeles County Registrar-Recorder/County Clerk
+12400 Imperial Highway
+Norwalk, CA 90650
+
+Ms. Celia Zavala, Executive Officer
+Executive Office of the Board of Supervisors
+Kenneth Hahn Hall of Administration
+500 West Temple St. Ste 383
+Los Angeles, CA 90012
+
+Re: Challenge under the California Environmental Quality Act (CEQA) to
+the approval of the Los Angeles River Master Plan Update
+
+Dear Mr. Logan and Ms. Zavala,
+
+Please take notice that LA Waterkeeper and the Center for Biological Diversity
+plan to file a Petition for Writ of Mandate challenging the City of Los Angeles' failure to
+comply with the California Environmental Quality Act (CEQA) in approving the Los Angeles River Master Plan Update and certifying its environmental impact report.
+
+Sincerely,
+malT
+
+Michelle Black
+
+VERIFIED PETITION FOR WRIT OF MANDATE 67
+
+PROOF OF SERVICE
+
+I am employed by Chatten-Brown, Carstens & Minteer LLP in the County of Los
+Angeles, State of California. I am over the age of 18 and not a party to the within action.
+My business address is 2200 Pacific Coast Highway, Ste. 318, Hermosa Beach, CA
+90254. On July 12, 2022, I served the within documents:
+
+LETTER TO LOS ANGELES COUNTY CLERK and EXECUTIVE OFFICER
+
+VIA UNITED STATES MAIL. am readily familiar with this business'
+practice for collection and processing of correspondence for mailing with the
+United States Postal Service. On the same day that correspondence is placed
+for collection and mailing, it is deposited in the ordinary course of business
+with the United States Postal Service in a sealed envelope with postage fully
+prepaid. I enclosed the above-referenced document(s) in a sealed envelope or
+package addressed to the person(s) at the address(es) as set forth below, and
+following ordinary business practices I placed the package for collection and
+mailing on the date and at the place of business set forth above.
+
+I declare that am employed in the office of a member of the bar of this court
+whose direction the service was made. I declare under penalty of perjury under the laws
+of the State of California that the above is true and correct. Executed on July 12, 2022, at
+Hermosa Beach, California 90254.
+
+/s/ Cynthia Kellman
+Cynthia Kellman
+SERVICE LIST
+Mr. Dean Logan
+Los Angeles County Registrar-Recorder/County Clerk
+12400 Imperial Highway
+Norwalk, CA 90650
+
+Ms. Celia Zavala, Executive Officer
+Executive Office of the Board of Supervisors
+Kenneth Hahn Hall of Administration
+500 West Temple St. Ste 383
+Los Angeles, CA 90012
+VERIFIED PETITION FOR WRIT OF MANDATE 68
+
+CBCM
+
+Hermosa Beach Office Chatten-Brown, Carstens & Minteer LLP
+Phone: (310) 798-2400 Michelle N. Black
+
+Fax: (310) 798-2402 2200 Pacific Coast Highway, Suite 318 Email Address:
+I mnb@cbcearthlaw.com
+San Diego Office Hermosa Beach, CA 90254
+Phone: (619) 940-4522 www.cbcearthlaw.com Direct Dial:
+310-798-2400 Ext. 5
+
+July 12, 2022
+
+By U.S. Mail
+
+Mr. Mark Pestrella, Director
+Los Angeles County Department of Public Works
+900 S. Fremont Ave.
+Alhambra, CA 91803
+
+Re: Challenge under the California Environmental Quality Act (CEQA) to
+the approval of the Los Angeles River Master Plan Update
+
+Dear Mr. Pestrella,
+
+Please take notice that LA Waterkeeper and the Center for Biological Diversity
+plan to file a Petition for Writ of Mandate challenging the City of Los Angeles' failure to comply with the California Environmental Quality Act (CEQA) in approving the Los
+Angeles River Master Plan Update and certifying its environmental impact report.
+
+Sincerely,
+MeMP
+
+Michelle Black
+
+VERIFIED PETITION FOR WRIT OF MANDATE 69
+
+PROOF OF SERVICE
+
+I am employed by Chatten-Brown, Carstens & Minteer LLP in the County of Los
+Angeles, State of California. I am over the age of 18 and not a party to the within action.
+My business address is 2200 Pacific Coast Highway, Ste. 318, Hermosa Beach, CA
+90254. On July 12, 2022, I served the within documents:
+
+LETTER TO LOS ANGELES COUNTY CLERK and EXECUTIVE OFFICER
+
+VIA UNITED STATES MAIL. I am readily familiar with this business'
+practice for collection and processing of correspondence for mailing with the
+United States Postal Service. On the same day that correspondence is placed
+for collection and mailing, it is deposited in the ordinary course of business
+with the United States Postal Service in a sealed envelope with postage fully
+prepaid. I enclosed the above-referenced document(s) in a sealed envelope or
+package addressed to the person(s) at the address(es) as set forth below, and
+following ordinary business practices I placed the package for collection and
+mailing on the date and at the place of business set forth above.
+
+I declare that I am employed in the office of a member of the bar of this court
+whose direction the service was made. I declare under penalty of perjury under the laws
+of the State of California that the above is true and correct. Executed on July 12, 2022, at
+Hermosa Beach, California 90254.
+
+/s/ Cynthia Kellman
+Cynthia Kellman
+SERVICE LIST
+Mr. Mark Pestrella, Director
+Los Angeles County Department of Public Works
+900 S. Fremont Ave.
+Alhambra, CA 91803
+
+VERIFIED PETITION FOR WRIT OF MANDATE 70
+
+CBCM
+
+Hermosa Beach Office Chatten-Brown, Carstens & Minteer LLP
+Phone: (310) 798-2400 Michelle N. Black
+
+Fax: (310) 798-2402 2200 Pacific Coast Highway, Suite 318 Email Address:
+mnb@cbcearthlaw.com
+San Diego Office Hermosa Beach, CA 90254
+Phone: (619) 940-4522 www.cbcearthlaw.com Direct Dial:
+310-798-2400 Ext. 5
+
+July 12, 2022
+
+By U.S. Mail
+
+Mr. Mark Pestrella, Director
+Los Angeles County Flood Control District
+900 S. Fremont Ave.
+Alhambra, CA 91803
+
+Re: Challenge under the California Environmental Quality Act (CEQA) to
+the approval of the Los Angeles River Master Plan Update
+
+Dear Mr. Pestrella,
+
+Please take notice that LA Waterkeeper and the Center for Biological Diversity
+plan to file a Petition for Writ of Mandate challenging the City of Los Angeles' failure to
+comply with the California Environmental Quality Act (CEQA) in approving the Los
+Angeles River Master Plan Update and certifying its environmental impact report.
+
+Sincerely,
+mouD
+
+Michelle Black
+
+VERIFIED PETITION FOR WRIT OF MANDATE 71
+
+PROOF OF SERVICE
+
+I am employed by Chatten-Brown, Carstens & Minteer LLP in the County of Los
+Angeles, State of California. I am over the age of 18 and not a party to the within action.
+My business address is 2200 Pacific Coast Highway, Ste. 318, Hermosa Beach, CA
+90254. On July 12, 2022, I served the within documents:
+
+LETTER TO LOS ANGELES COUNTY CLERK and EXECUTIVE OFFICER
+
+VIA UNITED STATES MAIL. am readily familiar with this business'
+practice for collection and processing of correspondence for mailing with the
+United States Postal Service. On the same day that correspondence is placed
+for collection and mailing, it is deposited in the ordinary course of business
+with the United States Postal Service in a sealed envelope with postage fully
+prepaid. I enclosed the above-referenced document(s) in a sealed envelope or
+package addressed to the person(s) at the address(es) as set forth below, and
+following ordinary business practices I placed the package for collection and
+mailing on the date and at the place of business set forth above.
+
+I declare that I am employed in the office of a member of the bar of this court
+whose direction the service was made. I declare under penalty of perjury under the laws
+of the State of California that the above is true and correct. Executed on July 12, 2022, at
+Hermosa Beach, California 90254.
+
+/s/ Cynthia Kellman
+Cynthia Kellman
+SERVICE LIST
+Mr. Mark Pestrella, Director
+Los Angeles County Flood Control District
+900 S. Fremont Ave.
+Alhambra, CA 91803
+
+VERIFIED PETITION FOR WRIT OF MANDATE 72
+
+EXHIBIT C
+
+VERIFIED PETITION FOR WRIT OF MANDATE 73
+
+- CHATTEN-BROWN, CARSTENS & MINTEER, LLP
+Amy Minteer, SBN 223832
+2 Michelle Black, SBN 261962
+
+3 2200 Pacific Coast Hwy, Suite 318
+Hermosa Beach, CA 90254
+4 310.798.2400; Fax 310.798.2402
+acm@cbcearthlaw.com 5 Il mnb@cbcearthlaw.com
+6
+
+7 Attorneys for Petitioners
+LOS ANGELES WATERKEEPER and CENTER FOR
+
+8 BIOLOGICAL DIVERSITY
+Continued next page •
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+11
+FOR THE COUNTY OF LOS ANGELES 12
+
+13 LOS ANGELES WATERKEEPER and CASE NO.:
+
+14 CENTER FOR BIOLOGICAL DIVERSITY
+
+NOTICE OF ELECTION TO PREPARE 15 Petitioners,
+ADMINISTRATIVE RECORD V.
+16
+
+17 COUNTY OF LOS ANGELES and BOARD
+OF SUPERVISORS OF THE COUNTY OF
+18 LOS ANGELES and LOS ANGELES
+
+19 COUNTY DEPARTMENT OF PUBLIC
+WORKS and LOS ANGELES COUNTY
+20 FLOOD CONTROL DISTRICT
+
+21 Respondents,
+22
+
+23 DOES 1 THROUGH 10
+24
+Real Parties in Interest. 25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE 74 NOTICE OF ELECTION TO PREPARE ADMINISTRATIVE RECORD
+
+- LOS ANGELES WATERKEEPER
+
+2 Benjamin Harris, SBN 313193 120 Broadway, Suite 105
+
+3 Santa Monica, CA 90401
+
+4 (310) 394-6162 ext. 102; Fax: (310) 394-6178
+Email: ben@lawaterkeeper.org
+
+5 Attorneys for Petitioner
+6 LOS ANGELES WATERKEEPER
+
+7
+
+8 CENTER FOR BIOLOGICAL DIVERSITY
+John P. Rose (SBN 285819)
+9 1212 Broadway, Suite 800
+
+10 Oakland, CA 94612
+Tel: (510) 844-7100
+11 Email: jrose@biologicaldiversity.org
+
+12 Attorneys for Petitioner
+13 CENTER FOR BIOLOGICAL DIVERSITY
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+NOTICE OF ELECTION TO PREPARE ADMINISTRATIVE RECORD 75
+
+1 PLEASE TAKE NOTICE:
+
+2 Pursuant to Public Resources Code section 21167.6, Petitioners Los Angeles
+
+3 Waterkeeper and Center for Biological Diversity hereby elect to prepare the administrative
+
+4 record in this matter.
+
+5
+
+Respectfully Submitted, 6 July 13, 2022
+CHATTEN-BROWN, CARSTENS & 7
+
+MINTEER 8
+
+0 2 By: ouT
+Michelle N. Black, for Petitioners
+Los Angeles Waterkeeper 11
+Center for Biological Diversity 12
+2‡
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26 $3739NV $077V83N39 A3NSOLIV 27 4Z : |1 Wd 81 mnr ZZoZ 28
+
+PETITION FOR WEN FOP MANDATE 76 VERIFIED
+NOTICE OF ELECTION TO PREPARE ADMINISTRATIVE RECORD

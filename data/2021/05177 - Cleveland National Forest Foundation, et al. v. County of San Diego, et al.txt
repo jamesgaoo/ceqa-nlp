@@ -1,0 +1,1582 @@
+KEVIN P. BUNDY (State Bar No. 231686) SHUTE, MIHALY & WEINBERGER LLP ELECTRONICALLY FILED Superior Court of Califomia,
+2 396 Hayes Street County of San Diego
+San Francisco, California 94102 10/27/2020 at 12:31:00 PM
+3 Telephone: (415) 552-7272 | Facsimile: (415) 552-5816 Clerk of the Superior Court
+By Kristin Sorianosos,Deputy Clerk
+4 |bundy@smwlaw.com
+
+5 Attorneys for Petitioners and Plaintiffs CLEVELAND NATIONAL FOREST 6 FOUNDATION and COASTAL ENVIRONMENTAL RIGHTS FOUNDATION
+7
+MARCO A. GONZALEZ (SBN 190832) 8 LIVIA BORAK BEAUDIN (SBN 259434) COAST LAW GROUP, LLP 9 1140 South Coast Highway 101 Encinitas, California 92024 10 Telephone: (760) 942-8505 Facsimile: (760) 942-8515 11 marco@coastlawgroup.com livia@coastlawgroup.com 12
+Attorneys for Petitioner and Plaintiff 13 COASTAL ENVIRONMENTAL RIGHTS
+II FOUNDATION
+14
+
+15 [Additional Counsel Listed on Next Page]
+SUPERIOR COURT OF THE STATE OF CALIFORNIA 16
+
+17 COUNTY OF SAN DIEGO, CENTRAL DIVISION
+CLEVELAND NATIONAL FOREST
+18 FOUNDATION, COASTAL Case No. 37-2020-00031320-CU-WM-
+CTL
+
+19 ENVIRONMENTAL RIGHTS FOUNDATION, and SIERRA CLUB, FIRST AMENDED VERIFIED
+20 Petitioners and Plaintiffs, PETITION FOR WRIT OF
+MANDATE AND COMPLAINT FOR
+V.
+21 DECLARATORY AND INJUNCTIVE RELIEF
+COUNTY OF SAN DIEGO; BOARD OF
+22 SUPERVISORS OF COUNTY OF SAN
+DIEGO; COUNTY OF SAN DIEGO Code Civ. Proc. §§ 1060, 1085, 1094.5
+23 PLANNING AND DEVELOPMENT Pub. Res. Code 21000 et seq. ("CEQA")
+
+24 SERVICES; and DOES 1-10, inclusive, Hon. Timothy Taylor
+
+25 Respondents and Defendants. Dept: C-72
+
+26 DOES 11-40, inclusive,
+
+27 Real Parties in Interest.
+
+28
+
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-00031320-CU-WM-CTL
+
+JAN CHATTEN-BROWN (SBN 50275) JOSH CHATTEN-BROWN (SBN 253605) 2 CHATTEN-BROWN, CARSTENS & MINTEER LLP 302 Washington Street, #710 San Diego, CA 92103 Telephone: (619) 940-4522; (310) 798-2400 || Facsimile: (310) 798-2402 Iljcb@cbcearthlaw.com 5 |ljrcb@cbcearthlaw.com
+
+6 Attorneys for Petitioner SIERRA CLUB
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+2
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief
+Case No. 37-2020-00031320-CU-WM-CTL
+
+2 INTRODUCTION
+
+3 1. This action challenges the June 24, 2020 decision of the County of San Diego, its
+4 Board of Supervisors, and its Planning and Development Services department (collectively,
+5 "County" or "Respondents") to approve a Transportation Study Guide and associated thresholds
+6 of significance for evaluation of transportation impacts (the "SB 743 Implementation Project" or
+7 "Project") under the California Environmental Quality Act ("CEQA").
+
+8 2. The Legislature enacted Senate Bill 743 in 2013 in order to change the way the
+9 transportation impacts of development are addressed under CEQA. After SB 743, rather than
+10 focusing on measures of traffic congestion and delay, agencies must address vehicle miles
+11 traveled ("VMT") or other measures that better elucidate and reduce the climate, air quality, and
+12 other impacts of vehicle travel.
+
+13 3. SB 743 supports California's broader climate goals by ensuring that analysis and
+14 mitigation of environmental impacts under CEQA will aid in reducing greenhouse gas emissions
+
+15 from the transportation sector, the state's largest source of climate pollution. Indeed, the
+16 California Air Resources Board has found that without significant reductions in VMT, achieving
+17 California's climate goals will be impossible.
+
+18 4. The SB 743 Implementation Project runs directly counter to the state legislation it
+19 purports to implement. Rather than require analysis of future projects' contribution to VMT in
+20 accordance with SB 743, the Project will create sweeping exemptions from VMT analysis
+21 requirements. And rather than reduce greenhouse gas emissions and other environmental
+
+22 impacts from vehicle travel as the Legislature directed, the Project will facilitate increased
+23 greenhouse gas emissions and other adverse transportation-related effects from future
+24 development projects without any disclosure, analysis, or mitigation.
+25 5. Under CEQA, "thresholds of significance" are intended to aid agencies in
+26 determining whether particular environmental impacts of a project should be considered
+27 "significant," and thus subject to heightened environmental analysis, mitigation, and avoidance
+28 requirements. The County's VMT thresholds, in contrast, are not designed to help determine
+3 First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-00031320-CU-WM-CTL
+
+1 whether environmental impacts from transportation are significant under CEQA. Rather, the
+
+2 County's thresholds appear to have been designed to exempt as much County development as
+3 possible from any requirement to evaluate or mitigate transportation impacts.
+6. The County created this massive and unlawful exemption from CEQA's and SB
+5 743's requirements in two ways.
+7. First, the County established a threshold of significance under which projects with
+VMT 15% below the existing regional average would be considered to have less-than-
+significant impacts. But the County manipulated the average regional baseline against which a
+
+9 project's VMT would be compared. Rather than using average VMT across the highly
+10 connected, integrated San Diego region as expert state technical guidance recommended, the
+11 County instead used a much higher average VMT baseline derived exclusively from largely
+12 rural unincorporated areas. The County thus inflated the baseline against which the 15%
+13 reduction threshold must be compared. Because the baseline is so much higher, future projects
+14 with higher VMT will fall below the County's thresholds- and those projects' transportation-
+15 related impacts will never be analyzed or mitigated under CEQA.
+
+16 8. Second, the County adopted an unsupported "screening threshold" for purportedly
+17 small projects. Under this threshold, the County concluded that all of the residential
+18 development in unincorporated rural and semi-rural areas-areas where vehicle trips reasonably
+19 could be expected to be the longest-would be "small" and thus exempt from VMT analysis and
+20 mitigation.
+
+21 9. Together, the County's thresholds could exempt the vast majority of the potential
+22 residential units that could be developed under the County's General Plan from any
+23 transportation impacts analysis whatsoever.
+
+24 10. Adding insult to injury, the County refused to analyze the environmental
+
+25 consequences of adopting these sweeping exemptions. Instead, the County found the SB 743
+26 Implementation Project itself exempt from CEQA, based on a series of dubious rationalizations
+27 that lack legal and evidentiary support.
+
+28 11. The County's actions not only violate CEQA, but also directly undermine the clear
+4
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief
+Case No. 37-2020-00031320-CU-WM-CTL
+
+intent and direction of the Legislature in SB 743 to reduce greenhouse gas emissions and other
+
+2 impacts of vehicle travel. The SB 743 Implementation Project is contrary to law and
+3 unsupported by substantial evidence. Its adoption was a clear abuse of discretion and must be set
+
+4 aside.
+
+5 PARTIES
+
+6 12. Petitioner and Plaintiff Cleveland National Forest Foundation ("CNFF") is a
+7 nonprofit corporation dedicated to preserving the plants, animals and other natural resources of
+8 Southern California mountains by protecting the land and water they need to survive. CNFF is
+9 committed to sustainable regional land use planning in San Diego County in order to stem the
+10 tide of urban encroachment on wildlands. Members of CNFF are residents and taxpayers of San
+11 Diego County who will be adversely affected by the SB 743 Implementation Project's
+12 significant environmental impacts. CNFF submitted written comments to the County objecting
+13 to and commenting on the SB 743 Implementation Project and related approvals.
+14 13. Petitioner and Plaintiff Coastal Environmental Rights Foundation ("CERF") is a
+15 non-profit public benefit corporation organized under the laws of the State of California with its
+16 office located in Encinitas, California. CERF was founded by surfers in North San Diego
+17 County and is active throughout California's coastal communities. CERF was established to
+18 advocate for the protection and enhancement of coastal natural resources and the quality of life
+19 for coastal residents. Members of CERF are residents and taxpayers of San Diego County who
+20 will be adversely affected by the SB 743 Implementation Project's significant environmental
+21 impacts. CERF submitted written comments to the County objecting to and commenting on the
+22 SB 743 Implementation Project and related approvals.
+23 14. Petitioner and Plaintiff Sierra Club is a national nonprofit organization with more
+24 than 822,900 members nationwide, including 179,000 members in California, and
+25 approximately 15,300 members in San Diego and Imperial Counties. The Sierra Club is
+26 dedicated to exploring, enjoying, and protecting the wild places of the earth; practicing and
+27 promoting the responsible use of the earth's ecosystems and resources; educating and enlisting
+28 humanity to protect and restore the quality of the natural and human environment; and to using
+5
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-00031320-CU-WM-CTL
+
+all lawful means to carry out these objectives. The Sierra Club's concerns encompass climate
+
+2 stabilization, coastal issues (including climate change-caused sea level rise), land use,
+transportation, wildlife and habit preservation, and protection of parks and recreation. The
+interests that this Petition seeks to further are within the purposes and goals of the Sierra Club.
+Members of Sierra Club are residents and taxpayers of San Diego County who will be adversely
+
+6 affected by the SB 743 Implementation Project's significant environmental impacts. Sierra Club
+submitted written comments to the County objecting to and commenting on the SB 743
+Implementation Project and related approvals.
+
+15. The interests that CNFF, CERF, and Sierra Club (together, "Petitioners") seek to
+10 further in this action are within the goals and purposes of these organizations. Petitioners and
+11 their members have a direct and beneficial interest in the County's compliance with laws
+12 bearing on the SB 743 Implementation Project. These interests will be directly and adversely
+13 affected by the Project, which violates the law as set forth in this Petition, and which would
+14 cause substantial harm to Petitioners' members, the natural environment, public health, and the
+15 quality of life in the surrounding community. The maintenance and prosecution of this action
+
+16 will a confer a substantial benefit on the public by protecting the public from the environmental
+
+17 and other harms alleged herein,
+
+18 16. Respondent and Defendant County of San Diego is, and at all times herein
+19 mentioned was, a political subdivision of the State of California responsible for regulating and
+20 controlling land use within the County, including but not limited to implementing and
+21 complying with the provisions of CEQA as well as other state and local laws. The County is the
+22 "lead agency" for the purposes of Public Resources Code section 21067, with principal
+23 responsibility for conducting environmental review of proposed actions. The County has a duty
+24 to comply with CEQA and state law.
+25 17. Respondent and Defendant Board of Supervisors of the County of San Diego is,
+26 and at all times herein mentioned was, the duly elected decision-making body of Respondent
+27 County. As the decision-making body, the Board of Supervisors was charged with
+28 responsibilities under CEQA for conducting a proper review of the proposed action's
+6
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-00031320-CU-WM-CTL
+
+1 environmental impacts and granting the various approvals necessary for the Project. The Board
+2 also is and was responsible for implementing and complying with CEQA, including the
+3 provisions of SB 743, in connection with land use planning and development projects occurring
+4 in the County. The Board and its members are sued in their official capacities.
+
+5 18. Respondent and Defendant County of San Diego Planning and Development
+
+6 Services ("PDS") is listed as the "Project Applicant" on the County's July 9, 2020 Notice of
+7 Exemption related to the Project. Based on information found at a website maintained by PDS,
+8 Petitioners are informed and believe, and on that basis allege, that PDS is "responsible for long
+9 range land use planning, including the County General Plan and Zoning Ordinance, which
+10 determine how our communities will grow. The department analyzes privately initiated land use
+11 projects to ensure compliance with land use regulations, and advises the Board of Supervisors
+12 and Planning Commission on the projects."I
+13 19, Petitioners are unaware of the true names and capacities of Respondents and
+14 Defendants Does 1 through 10 and sue such respondents by fictitious names. Petitioners are
+15 informed and believe, and on that basis allege, the fictitiously named respondents are also
+16 responsible for the actions described in this Petition. When the true identities and capacities of
+17 these respondents have been determined, Petitioners will amend this petition, with leave of the
+18 Court if necessary, to insert such identities and capacities.
+
+19 20. Petitioners are unaware of the true names and capacities, whether individual,
+20 corporate, associate, or otherwise, of Real Parties in Interest Doe 11 through Doe 40, inclusive,
+21 and therefore sue said Real Parties in Interest under fictional names. Petitioners allege, upon
+22 information and belief, that each fictionally named Real Party in Interest is responsible in some
+23 manner for committing the acts upon which this action is based or has material interests affected
+24 by the Project or by the County's actions with respect to the Project. Petitioners will amend this
+25 Petition to show their true names and capacities if and when the same have been ascertained.
+
+26 County of San Diego, Planning & Development Services, "About Planning & Development
+27 Services," at https://www.sandiegocounty.gov/content/sdc/pds/AboutUs.html(visited August 29, 2020).
+28
+
+7
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-00031320-CU-WM-CTL
+
+JURISDICTION AND VENUE
+
+21. Pursuant to Code of Civil Procedure sections 526, 527, 1060, 1085, 1087, and
+1094.5, and Public Resources Code sections 21168, 21168.5 and 21168.9, the San Diego County
+
+4 Superior Court has initial jurisdiction to issue appropriate injunctive and declaratory relief and
+5 to issue a writ of mandate to set aside Respondents' decision to approve the SB 743
+
+6 Implementation Project and make related CEQA findings.
+
+7 22. Venue for this action properly lies in the Superior Court for the State of California
+8 in and for the County of San Diego pursuant to Code of Civil Procedure section 394. The
+
+9 activities authorized by Respondents will occur in San Diego County.
+
+10 23. Venue for this action properly lies in the Central Division of the Superior Court
+
+11 for the State of California for the County of San Diego pursuant to Local Rule 1.2.2(E) because
+12 this petition pleads a California Environmental Quality Act claim, Respondents County of San
+
+13 Diego and Board of Supervisors of County of San Diego are located in zip code 92101, and
+14 Respondent PDS is located in zip code 92123.2
+
+15 24. Petitioners have performed any and all conditions precedent to filing this action
+16 and have exhausted any and all available administrative remedies to the extent possible and
+17 required by law. Petitioners and their members submitted comments objecting to approval of the
+18 Project based on the absence of evidentiary support for the SB 743 Implementation Project, the
+19 County's improper findings that the Project was exempt from CEQA, and the Project's conflicts
+
+20 with state law.
+
+21 25. Respondents have taken final agency actions with respect to approving the SB 743
+22 Implementation Project and making related CEQA findings. Respondents have a duty to comply
+23 with applicable state laws, including but not limited to CEQA, prior to undertaking the
+24 discretionary approvals at issue in this lawsuit.
+
+25 26. On September 2, 2020, Petitioners complied with Public Resources Code section
+
+26 See Superior Court of California, County of San Diego, Civil Division, "Where to File," at
+27 http://www.sdcourt.ca.gov/portal/page?_pageid=55.1555635&_dad=portal&_schema=PORTAL
+
+28
+
+8
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-00031320-CU-WM-CTL
+
+1 21167.5 by emailing and mailing to Respondents a letter stating that Petitioners planned to file a
+2 Petition for Writ of Mandate seeking to invalidate Respondents' approval of the SB 743
+3 Implementation Project. Attached hereto as Exhibit A is a true and correct copy of this letter.
+
+4 27. On September 4, 2020, Petitioners will comply with Public Resources Code
+5 section 21167.7 and Code of Civil Procedure section 388 by furnishing the Attorney General of
+6 the State of California with a copy of the Petition. Attached hereto as Exhibit B is a true and
+
+7 correct copy of the letter transmitting the Petition to the Attorney General.
+
+8 28. Pursuant to Public Resources Code section 21167.6(b)(2), Petitioners elect to
+
+9 prepare the record of proceedings in this action. Concurrently with this Petition, Petitioners will
+10 file a notice of election to prepare the administrative record.
+11 29. Petitioners have no plain, speedy, or adequate remedy in the course of ordinary
+12 law unless this Court grants the requested writ of mandate to require Respondents to set aside
+13 their approval of the Project. In the absence of such remedies, Respondents' approvals will
+14 remain in effect in violation of State law, and Petitioners and their members will be irreparably
+15 harmed. No money damages or legal remedy could adequately compensate Petitioners and their
+16 members for that harm.
+
+17 30. This petition is timely filed pursuant to Public Resources Code section 21167(d)
+18 and Judicial Council Emergency Rule 9 (as amended May 29, 2020).
+19 STATEMENT OF FACTS
+
+20 SB 743 and Vehicle Miles Traveled
+
+21 31. The County's action purports to implement-but fails to comply with-Senate
+22 Bill 743 ("SB 743"), codified at Public Resources Code section 21099.
+23 32. SB 743 directed the Office of Planning and Research to prepare and develop, and
+24 the California Natural Resources Agency to certify and adopt, guidelines establishing criteria for
+25 determining the significance of transportation impacts under CEQA. The legislation provided
+26 that transportation impacts should be evaluated in terms of vehicle miles traveled ("VMT") or
+27 similar metrics, rather than "levels of service" or other measures of vehicular capacity or
+28 roadway congestion. (See Pub. Resources Code § 21099(b)(1), (2).)
+9
+First Amended Verified Petition for Writ of landate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-00031320-CU-WM-CTL
+
+33. The Legislature specifically directed that transportation significance criteria "shall
+2 promote the reduction of greenhouse gas emissions, the development of multimodal
+3 transportation networks, and a diversity of land uses." (Pub. Resources Code § 21099(b).)
+
+4 34. The Office of Planning and Research developed guidelines and criteria in response
+5 to SB 743 and transmitted the guidelines to the California Natural Resources Agency. In late
+6 2018, the California Natural Resources Agency promulgated those guidelines and criteria by
+7 adding a new section 15064.3 to the CEQA Guidelines.3
+
+8 35. Under SB 743, local agencies like the County retain authority to establish their
+9 own thresholds of significance for analyzing VMT, but only to the extent that those thresholds
+
+10 are "more protective of the environment" than the state guidelines require. (Pub. Resources
+
+11 Code § 21099(e).)
+
+12 36. In December 2018, contemporaneously with the promulgation of CEQA
+
+13 Guidelines section 15064.3, the Office of Planning and Research published a document entitled
+14 "Technical Advisory on Evaluating Transportation Impacts in CEQA" ("Technical Advisory").
+15 The Technical Advisory provided "technical recommendations regarding assessment of VMT,
+16 thresholds of significance, and mitigation measures." (Technical Advisory at 1.)
+
+17 37. The Technical Advisory explained that VMT analysis and mitigation are critical to
+18 achievement of California's legislatively mandated targets for greenhouse gas emissions
+
+19 reduction. Indeed, "it will not be possible to achieve the State's 2030 and post-2030 emissions
+20 goals without reducing VMT growth." (Technical Advisory at 2.)
+21 38. The Technical Advisory further explained that necessary reductions in VMT can
+22 occur under CEQA through identification of significant VMT impacts and adoption of
+23 mitigation measures to reduce VMT. (Technical Advisory at 2-3.)
+
+24 39. The Technical Advisory stressed that in evaluating VMT, "[l]ead agencies should
+25 not truncate any VMT analysis because of jurisdictional or other boundaries, for example, by
+
+26
+
+27 3 References to the "CEQA Guidelines" are to the California Code of Regulations, title 14,
+section 15000 et seq.
+28
+10
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief
+Case No. 37-2020-00031320-CU-WM-CTL
+
+1 failing to count the portion of a trip that falls outside the jurisdiction or by discounting the VMT
+2 from a trip that crosses a jurisdictional boundary." (Technical Advisory at 6.)
+
+3 40. The Technical Advisory recommended thresholds of significance for use in
+4 determining whether specific projects may have significant transportation impacts, and thus
+
+5 require VMT mitigation, under CEQA. Specifically, the Office of Planning and Research
+6 "recommend[ed] using quantitative VMT thresholds linked to [greenhouse gas] reduction targets
+7 when methods exist to do so." (Technical Advisory at 8.)
+
+8 41. Informed by a quantitative assessment by the California Air Resources Board
+9 evaluating the degree of VMT reduction necessary to meet the State's long-term climate goals,
+10 the Technical Advisory concluded that a project with a per capita or per employee VMT that is
+11 15% below that of existing development may reasonably be found not a to have a significant
+12 transportation impact. (Technical Advisory at 10-12, 15.)
+
+13 42. The Technical Advisory concluded that "existing" VMT "may be measured as
+14 regional VMT per capita or as city VMT per capita." (Technical Advisory at 15.)
+15 43. The Technical Advisory used the term "region" synonymously with the "areas"
+16 subject to metropolitan planning organization jurisdiction. (Technical Advisory at 15.)
+17 44. In San Diego County, the relevant metropolitan planning organization is the San
+18 Diego Association of Governments ("SANDAG"), and the relevant "region" is the San Diego
+19 region encompassed by SANDAG's regional transportation plan.
+20 45. For residential projects in unincorporated arcas, the Technical Advisory stated that
+21 the project's VMT can be compared to either "(1) the region's VMT per capita, or (2) the
+22 aggregate population-weighted VMT per capita of all cities in the region." (Technical Advisory
+23 at 15.)
+
+24 46. The Technical Advisory also discussed a possible "screening threshold" for
+25 "smaller projects," under which projects generating fewer than 110 average daily trips ("ADT")
+26 could be assumed to cause a less-than-significant transportation impact. (Technical Advisory at
+27 12.) The Technical Advisory derived this screening threshold from a CEQA categorical
+28 exemption for "existing facilities, including additions to existing structures of up to 10,000
+11
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-00031320-CU-WM-CTL
+
+square feet, so long as the project is in an area where public infrastructure is available to allow
+2 for maximum panned development and the project is not in an environmentally sensitive area."
+
+3 (Technical Advisory at 12 & fn. 19.)
+
+4 47. The Technical Advisory identified a range of potentially feasible mitigation
+5 measures and alternatives that could be adopted to reduce significant VMT impacts from
+
+6 development projects. (Technical Advisory at 26-28.)
+
+48. Although local agencies could "elect to be governed by" its provisions at any time
+
+8 after promulgation, CEQA Guidelines section 15064.3 took effect statewide on July 1, 2020,
+9 and applies to all environmental documents set out for public review after that date. (CEQA
+10 Guidelines §§ 15007(c), 15064.3(c).)
+11 II. The County's Review and Approval of the SB 743 Implementation Project
+
+12 49. On May 7, 2020, the County issued a "Notice of Intent to Adopt Updated
+13 Transportation Study Guide," along with a draft version of proposed "Transportation Study
+14 Guidelines." According to the Notice of Intent, the draft "Guide" included "options for the
+15 Board of Supervisors to consider related to: 1) the geography to use in calculating total/average
+16 VMT for the unincorporated county; 2) criteria to use in determining which projects must
+17 conduct detailed VMT analysis; and, 3) the VMT threshold to use in determining significance."
+18 The Notice of Intent stated that public comments on the Transportation Study Guidelines would
+19 be accepted through June 8, 2020.
+
+20 A. The Planning Commission's Consideration of the Project
+
+21 50. On May 15, 2020, the San Diego County Planning Commission considered the
+22 proposed Transportation Study Guidelines. According to the Planning Commission's agenda,
+23 planning staff requested that the Planning Commission "make recommendations to the Board of
+24 Supervisors on a range of options."
+
+25 51. County staff prepared a "Hearing Report" in connection with the May 15, 2020
+26 agenda item. A copy of the proposed Draft Transportation Study Guidelines was attached as an
+27 exhibit to the Hearing Report.
+
+28 52. The Hearing Report explained that staff proposed "transitioning from [level of
+12
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief
+Case No. 37-2020-00031320-CU-WM-CTL
+
+1 service analysis] to VMT as a methodology for CEQA analysis." (Hearing Report at 2.)
+
+2 53. The Hearing Report identified "three policy decisions . that require Board
+3 direction to implement SB 743 and establish VMT as the methodology for CEQA transportation
+
+4 analysis": (1) establishment of a "geographic boundary" to serve as the "average baseline VMT"
+5 for comparison to estimated VMT from particular projects; (2) establishment of "project
+6 | analysis screening criteria for which projects must conduct a VMT analysis"; and (3)
+7 establishment of a "Level of Significant Impact (Significance Threshold), which is the amount
+8 of VMT created by a project that will be considered to have a transportation impact." (Hearing
+
+9 Report at 9.)
+10 54. In connection with the first policy decision- -establishment of a "geographic
+11 boundary"-the Hearing Report asserted that "[t]he State does not provide a recommended
+12 geography to use, and jurisdictions, like the County, have discretion in defining the geography
+13 to use in calculating average baseline VMT." (Hearing Report at 11.)
+14 55. The Draft Transportation Study Guidelines attached to the Hearing Report, in
+15 contrast, acknowledged that the Technical Advisory discussed using the "region" as an
+
+16| "appropriate geography to establish average VMT and thresholds." (Draft Transportation Study
+17 Guidelines, Appendix F at F-2.) The Draft Transportation Study Guidelines further
+18 acknowledged that the term "region," as used in the Technical Advisory, "refer[s] to a
+19 [metropolitan planning organization] region as a basis for determining average VMT."
+20 56. The Hearing Report identified three different options for "geographic boundaries"
+21 to be used as possible "baselines" for VMT analysis: "the San Diego region as a whole," the
+22 unincorporated area of the County, and "smaller subareas within the unincorporated area."
+23 (Hearing Report at 11.) The Hearing Report designated these options as Option A, Option B,
+24 and Option C, respectively. (See Hearing Report at 12-14.) The Hearing Report proposed that
+25 these geographic baseline averages be used to define "VMT-efficient" areas of the County,
+26 within which VMT would be expected to be 15% or more below the baseline average. (See
+27 Hearing Report at 10.)
+28 57. The Hearing Report stated that average VMT in the San Diego region is 21.85
+13
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-00031320-CU-WM-CTL
+
+miles per capita, while average VMT in the unincorporated area is 32.54 miles per capita.
+
+2 (Hearing Report at 12.) Average VMT in the unincorporated area is higher because "trips
+originating within the unincorporated arca . . . tend to be fewer and longer in distance." (Id.)
+
+4 58. The Hearing Report did not compare the three proposed options for "geographic
+boundaries" based on their utility in determining total VMT, reflecting actual traffic patterns, or
+
+6 elucidating the relative significance of transportation-related environmental impacts.
+
+7 59. Instead, the Hearing Report compared the three options primarily in terms of how
+8 much of the unincorporated County, and how many "potential dwelling units" contemplated in
+9 the County's General Plan, would be exempt from VMT analysis and mitigation under each
+10 option.
+
+11 60. The Hearing Report stated that Option A- -using the San Diego region as the
+12 relevant geographic boundary -would result in 61,881 acres (2.7%) of the unincorporated
+13 County being designated "VMT efficient,' and would exempt approximately 1,108 potential
+14 dwelling units from VMT analysis. (Hearing Report at 12.) The Hearing Report further stated
+15 that among other things, Option A would result in more VMT reductions, greater mitigation
+16 requirements for development projects in the unincorporated area, more development projects
+17 having to prepare environmental impact reports under CEQA, an increase in.cost and time to
+18 process land development permits, and a decrease in developments within the unincorporated
+19 area. (Id.)
+
+20 61. The Hearing Report stated that Option B-using the unincorporated County as the
+21 relevant geographic boundary-would result in 81,215 acres (3.5%) of the unincorporated
+22 County being designated "VMT efficient," and would exempt approximately 18,940 potential
+23 dwelling units from VMT analysis. (Hearing Report at 12.) The Hearing Report further stated
+24 that Option B would result in "less required VMT reductions," fewer development projects
+25 having to prepare environmental impact reports, reduced costs and time to process land
+26 development permits, and "less of a decrease" in developments within the unincorporated area.
+27 (Id. at 13.) According to the Hearing Report, Option B would provide an advantage to
+28 developments "along the western edge of the unincorporated area." (Id.)
+14
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief
+Case No. 37-2020-00031320-CU-WM-CTL
+
+1 62. The Hearing Report stated that Option C-using "subareas within the
+2 unincorporated area" as the relevant geographic boundaries-would result in 85,550 acres
+3 (3.7%) of the unincorporated County being designated "VMT efficient," and would exempt
+
+4 approximately 17,676 potential dwelling units from VMT analysis. (Hearing Report at 13.) The
+5 Hearing Report further stated that the effects of Option C on development would be similar to
+
+6 those of Option B, except that Option C would not "provide an advantage to villages along the
+7 western edge of the unincorporated area where we have seen more development occurring."
+
+8 (Id.)
+
+9 63. The Hearing Report recommended Option B--using the unincorporated area of
+10 the County as the "geographic boundary'-claiming that it "follows General Plan Goals and
+11 Policies" and "reflects the pattern of General Plan compliant development observed since 2011."
+12 (Hearing Report at 13.)
+13 64. According to the Hearing Report, the General Plan identifies the potential for
+14 60,748 dwelling units to be built across four regional land use categories. (Hearing Report at
+15 11.) Option B would exempt 18,940 of these potential units--about 31.2% of the County
+16 total--from any requirement to analyze or mitigate transportation impacts under CEQA.
+
+17 65. An appendix to the Draft Transportation Study Guide attached to the Hearing
+18 Report contained maps showing the location of proposed VMT efficient areas under Options A,
+19 B, and C. (Draft Transportation Study Guide, Appendix C.) These maps designate large areas of
+20 the unincorporated County as having "insufficient data to determine average VMT." (Id.)
+21 Neither the Hearing Report nor the Draft Transportation Study Guide explained whether or how
+22 VMT would be analyzed or mitigated for projects in areas with "insufficient data to determine
+23 average VMT."
+
+24 66. In connection with the second policy decision establishment of a "screening
+25 threshold" for "small" projectsthe Hearing Report recommended that projects generating less
+26 than 110 average daily trips ("ADT") be exempted from VMT analysis and mitigation
+27 requirements. (Hearing Report at 14.) Using this threshold, the Hearing Report concluded that
+28 all of the potential General Plan dwelling unit capacity in the rural and semi-rural land use
+15
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-00031320-CU-WM-CTL
+
+categories approximately 30,860 potential General Plan dwelling units, or roughly 50% of
+2 the County total would be "exempt from SB 743." (Id. at 10.)
+67. In connection with the third policy decision--establishment of a "threshold of
+4 significance"-the Hearing Report proposed that projects with VMT at least 15% below the
+
+5 existing regional VMT average be found to have less-than-significant transportation impacts.
+
+6 (Hearing Report at 14-15.)
+
+7 68. The Draft Transportation Study Guidelines indicated that the same "regional"
+
+8 average baseline used to designate "VMT efficient" areas of the County would be used in
+applying the project-specific threshold of significance. (See Draft Transportation Study
+
+10 Guidelines at 19.)
+
+11 69. The Hearing Report and findings accompanying a draft Planning Commission
+12 resolution proposed that the County find its approval of the Transportation Study Guidelines and
+13 associated thresholds of significance exempt from CEQA.
+
+14 70. The Hearing Report and findings stated four basic rationales for finding the project
+15 exempt from CEQA: (1) the project is not a "project" under CEQA because it simply "codifies
+16 existing law"; (2) the project is exempt from CEQA as a "ministerial" action because the County
+17 must comply with SB 743; (3) the project is exempt pursuant to CEQA Guidelines section
+18 15308, which exempts public agency actions to enhance or protect the environment; and (4) the
+19 project is subject to CEQA's "common sense" exception (see CEQA Guidelines section
+20 15061(b)(3)) because it can be seen with a certainty that there is no possibility the project may
+21 have a significant environmental impact. (Hearing Report at 18-19 & Attachment A, Ex. A.)
+22 71. Individuals and organizations submitted comments to the Planning Commission
+23 objecting to the Draft Transportation Study Guide and accompanying thresholds of significance.
+24 Comments objected, among other things, to the proposed selection of the unincorporated County
+25 as the "geographic boundary" for determining existing average VMT.
+
+26 72. Notwithstanding these objections, the Planning Commission on May 15, 2020
+27 voted 5-2 to recommend approval of the staff recommendations outlined in the Hearing Report.
+
+28 73. Individuals and organizations continued to submit comments to Planning and
+16
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-00031320-CU-WM-CTL
+
+1 Development Services objecting to the Draft Transportation Study Guidelines and thresholds of
+2 significance.
+
+3 74. CNFF submitted comments to Planning and Development Services dated June 8,
+
+4 2020. Among other objections, CNFF's comments addressed the following:
+
+5 a. The thresholds of significance recommended in the Hearing Report and
+
+6 Draft Transportation Study Guidelines, which would use the unincorporated County as the
+7| "geographic boundary" for calculating existing regional VMT, were unsupported by substantial
+8  evidence.
+
+9 b. The recommended "geographic boundary" lacked support because it was
+10 not established to reflect actual travel patterns or indicate the significance of environmental
+11 impacts. Rather, the "geographic boundary" was established in order to exempt future
+12 developments from VMT analysis and mitigation requirements and to promote certain kinds of
+13 development in certain locations.
+
+14 C. The recommended "geographic boundary" conflicted with clear guidance in
+15 the Technical Advisory regarding the "region" to be used in calculating existing average VMT.
+
+16 d. The recommended "threshold of significance" was unsupported because it
+17 relied on the average VMT derived from the flawed "geographic boundary" as a baseline for
+18 comparison.
+
+19 e. The "screening threshold" recommended in the Hearing Report and Draft
+20 Transportation Study Guidelines was unsupported by substantial evidence.
+21 f. The "screening threshold" departed significantly from and was unsupported
+22 by the rationale articulated for such threshold in the Technical Advisory.
+23 g. By focusing solely on the number of daily trips, the "screening threshold"
+24 failed to account for the length of trips originating in the unincorporated County, and thus failed
+25 to serve as a rational proxy for VMT.
+
+26 h. The "screening threshold" had the counterintuitive and counterfactual effect
+27| of exempting all potential General Plan development in rural and semi-rural land use categories
+28 from VMT analysis and mitigation requirements.
+17
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief Casc No. 37-2020-00031320-CU-WM-CTL
+
+i. Each of the County's proposed rationales for finding adoption of the Draft
+2 Transportation Study Guidelines and associated thresholds of significance exempt from CEQA
+was contrary to law and without substantial evidentiary support.
+j. Adoption of the Draft Transportation Study Guidelines and thresholds of
+significance had the potential to cause a direct or reasonably foreseeable indirect effect on the
+environment, and thus met the definition of a "project" in CEQA Guidelines section 15378.
+Among other things, the recommended thresholds of significance would result in increased
+greenhouse gas emissions. The thresholds also were proposed explicitly because they would
+encourage particular kinds of development and direct it to particular locations, which itself may
+10 cause environmental impacts.
+
+11 k. Adoption of the Draft Transportation Study Guidelines and thresholds of
+12 significance was not exempt from CEQA as a ministerial action.
+13 1. Adoption of the Draft Transportation Study Guidelines and thresholds of
+14 significance was not exempt from CEQA as a proposal for legislation to be enacted by the State
+15 Legislature.
+
+16 m. Adoption of the Draft Transportation Study Guidelines and thresholds of
+17 significance was not exempt from CEQA as an action to protect or enhance the environment. On
+18 the contrary, the Project would reduce environmental protection by increasing greenhouse gas
+19 emissions and exempting the vast majority of potential residential development under the
+20 General Plan from analysis and mitigation requirements necessary to protect and enhance the
+21 environment.
+
+22 n, Adoption of the Draft Transportation Study Guidelines and thresholds of
+23 significance was not exempt from CEQA under the "common sense" exception.
+24 0. The Draft Transportation Study Guidelines and thresholds of significance
+25 conflicted with SB 743.
+
+26 75. CERF also submitted comments to Planning and Development Services dated June
+27 8, 2020. Among other things, CERF objected that using the unincorporated County to determine
+28 average existing regional VMT not only would conflict with both the Technical Advisory and
+18
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-00031320-CU-WM-CTL
+
+SB 743, but also would cause increased greenhouse gas emissions and air quality impacts.
+
+2 76. Sierra Club submitted comments to the San Diego County Board of Supervisors
+
+3 dated June 8, 2020. Among other objections, Sierra Club's comments addressed the following:
+
+4 a. The Draft Transportation Study Guidelines improperly relied on the
+
+5 County's Climate Action Plan and Threshold of Significance in concluding that the overall
+6 "VMT trend" in the County "can be considered downward." The Climate Action Plan had been
+7 ordered set aside by the Superior Court for the County of San Diego, and further did not support
+8 the conclusion stated in the Draft Transportation Study Guidelines.
+
+9 b. The Draft Transportation Study Guidelines cited only the Climate Action
+10 Plan's general "strategies and measures" to reduce greenhouse gas emissions, and did not show
+11 that any reduction measures are being successfully carried out. The Draft Transportation Study
+12 Guidelines failed to present substantial evidence of a downward VMT trend in the County.
+13 C. Adoption of the unincorporated County as the "geographic boundary" for
+14 VMT analysis would be a non-ministerial, discretionary project with the potential to have a
+15 significant effect on the environment, and thus would require CEQA review.
+16 d. Exempting developments in rural and semi-rural areas from VMT analysis
+17 (and presumably the CEQA duty to adopt all feasible mitigation for significant impacts) using
+18 the proposed "screening" threshold has the potential to adversely affect the environment by
+19 allowing substantial additional VMT and increased emissions of greenhouse gases and
+20 conventional air pollutants such as ozone, threatening compliance with both state and federal
+21 targets and standards.
+
+22 e. The County must perform a CEQA analysis of the Draft Transportation
+23 Guidelines on the whole of the project. The project may not be parceled into smaller, less-
+24 threatening pieces that hide its true potential for environmental harm.
+25 f. The County's decisions to exempt future developments from VMT analysis
+26 and mitigation of their individual and cumulative impacts, and its determinations regarding the
+27 potential environmental impacts of the Draft Transportation Study Guidelines, were not
+28 supported by substantial evidence.
+19
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-00031320-CU-WM-CTL
+
+g, The Draft Transportation Study Guidelines adopted a methodology that
+2 impermissibly created a presumption that exempt projects would not result in air quality, noise,
+3 safety, or other transportation-related impacts, in violation of SB 743. (Pub. Resources Code §
+4 21099(b)(3).)
+
+5 h. The thresholds in the Draft Transportation Study Guidelines are not linked
+6 to meeting statewide goals for GHG reduction. Rather, the Draft Transportation Study
+7 Guidelines will facilitate increased VMTs.
+
+8 i. The Draft Transportation Study Guidelines proposed only vague,
+9 conceptual, and inadequately supported measures for mitigating VMT impacts. Moreover, the
+10 measures proposed in the Draft Transportation Study Guidelines would not address localized
+11 impacts of VMT on air quality. The proposed mitigation measures also completely ignore the
+12 existence of legally binding statutory and regulatory schemes for reducing or offsetting GHGs
+13 and conventional air pollutants, violating the County's duty under CEQA to "find out and
+14 disclose all that it reasonably can." (CEQA Guidelines § 15144.)
+
+15 j. The screening process proposed in the Draft Transportation Study
+16 Guidelines for determining whether future projects would be subject to VMT analysis would be
+17 conducted entirely out of public view, in violation of CEQA's information disclosure and public
+18 accountability requirements.
+
+19 77. On June 12, 2020, the Fourth District Court of Appeal, Division One, issued an
+20 opinion affirming the San Diego County Superior Court's judgment and writ of mandate
+21 ordering that the County's February 2018 approval of its Climate Action Plan be set aside and
+22 vacated. (Golden Door Properties, LLC v. County of San Diego (2020) 50 Cal.App.5th 467.)
+23 B. The Board of Supervisors' Consideration and Approval of the Project
+
+24 78. The San Diego County Board of Supervisors held a hearing to consider the Draft
+25 Transportation Study Guidelines and thresholds of significance on June 24, 2020.
+
+26 79. County staff prepared a report to the Board of Supervisors ("Board Letter")
+27 regarding the proposal.
+
+28 80. The Board Letter acknowledged that in comparison to the County's incorporated
+20
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-00031320-CU-WM-CTL
+
+1 cities, "the number of vehicle trips in the unincorporated area are less in quantity, but longer in
+
+2 distance. Lacking transit services and with a much less developed road network, many of the
+3 residents within the unincorporated area drive to the cities for employment and services." (Board
+4 Letter at 7.)
+
+5 81. The Board Letter reiterated that the Board would need to make several "policy
+6 decisions" to implement SB 743, including three "decision points": (1) defining a significance
+7 threshold, i.e., the level at which transportation impacts from a proposed project would be
+8 presumed significant; (2) defining a "geographic boundary to determine the average VMT"; and
+9 (3) "establishing project screening criteria for projects that do not have to conduct a VMT
+10 analysis." (Board Letter at 10.)
+11 82. The Board Letter presented two options for the first decision point (the
+12 "significance threshold"): 15% below the average VMT, or less than 15% below the average
+13 VMT, based on the geographic boundary chosen in the second decision point. (Board Letter at
+14 11.) Staff recommended the first option: 15% below average VMT. (Id. at 11-12.)
+15 83. The Board Letter presented three options for the second decision point (the
+16 "geographic boundary" used to establish average VMT): the San Diego region; the
+17 unincorporated County; and subregions within the unincorporated County. (Board Letter at 11.)
+18 84. The Board Letter stated that using the San Diego region as the geographic
+19 boundary would result in an average VMT of 21.85 miles. According to the Board Letter, this
+20 option may likely result in "[t]he greatest amount of [greenhouse gas] reductions," higher levels
+21 of CEQA analysis, higher mitigation requirements for projects in the unincorporated area,
+22 "[l]east benefit to infill development in the unincorporated area," and "[m]inimal incentive to
+23 locate development" in the western portion of the unincorporated area. (Board Letter at 13.)
+24 85. The Board Letter further stated that using the San Diego region as the geographic
+25 boundary would provide "only 2,467 acres of VMT efficient areas" and would exempt
+26 approximately 1,108 "potential General Plan dwelling units" from VMT analysis. (Board Letter
+27 at 13.)
+
+28 86. The Board Letter stated that using the unincorporated County as the geographic
+21
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-00031320-CU-WM-CTL
+
+boundary would "increase[] the VMT average for the unincorporated area to 32.54 miles."
+2 (Board Letter at 13.) According to the Board Letter, this option would likely result in "[n]ot as
+much GHG reductions with not as many General Plan compliant projects subject to a higher
+level of CEQA analysis" and mitigation requirements, the "greatest benefit to infill development
+in the unincorporated arca," and "the greatest incentive to locate" development in the western
+
+6 portion of the unincorporated area. (Id. at 14.)
+
+87. The Board Letter further stated that using the unincorporated County as the
+geographic boundary would result in 45,444 acres of VMT efficient areas and would exempt
+approximately 18,940 potential General Plan dwelling units from VMT analysis and mitigation.
+10 (Board Letter at 13.)
+
+11 88. An appendix to the Draft Transportation Study Guidelines attached to the Board
+12 Letter further explained that using the unincorporated County as the geographic boundary would
+13 support the County's "ability to establish thresholds that reflect agency specific goals and
+14 policies." (Draft Transportation Study Guidelines, Appx. F at F-2.)
+15 89. The Board Letter stated that using subareas within the unincorporated County as
+16 the geographic boundary would result in average VMT ranging from 29.79 to 64.43 miles.
+17 (Board Letter at 14.) The Board Letter found that this option would be similar to the option of
+18 using the unincorporated County, except that it would not create incentives to locate as much
+19 development in the western portion of the unincorporated area. (Id. at 14-15.) The Board Letter
+
+20 further found the subarea option would exempt approximately 17,676 potential General Plan
+21 dwelling units from VMT analysis.
+
+22 90. Staff again recommended using the unincorporated County as the geographic
+23 boundary to determine average VMT. (Board Letter at 15.)
+
+24 91. The Board Letter presented two options for the third decision point (the
+25 | "screening" threshold for small projects): exclude projects with less than 110 ADT, or exclude
+26 projects with less than 200 ADT (based on SANDAG trip generation rates). (Board Letter at
+27 11.)
+
+28 92. Staff again recommended a "screening" threshold under which projects generating
+22
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-00031320-CU-WM-CTL
+
+1 fewer than 110 ADT would be exempt from VMT analysis and mitigation requirements. (Board
+
+2 Letter at 17-18.)
+
+3 93. The Board Letter asserted that the County's adoption of the Transportation Study
+
+4 Guidelines and thresholds of significance would be exempt from CEQA for four basic reasons:
+
+5 (1) the Project is not a "project" as defined in CEQA because it has no potential to cause a
+6 physical change in the environment; (2) the Project is exempt under CEQA Guidelines section
+
+7 15378(b)(1), which excludes "proposals for legislation to be enacted by the State Legislature"
+
+8 from CEQA's definition of a "project"; (3) the Project is ministerial; and (4) the project is
+
+9 exempt under CEQA Guidelines section 15308, which exempts actions to enhance or protect the
+10 environment. (Board Letter at 20-21.) An exhibit to the draft resolution attached to the Board
+11 Letter articulated the same basic rationales for finding the Project exempt from CEQA. (Board
+12 Letter Attachment A, Ex. A.)
+
+13 94. Numerous individuals and organizations filed comments with the Board of
+14 Supervisors objecting to the proposed Transportation Study Guidelines and thresholds of
+15 significance.
+
+16 95. CNFF filed comments with the Board of Supervisors dated June 22, 2020,
+17 objecting to adoption of the Transportation Study Guidelines and thresholds of significance on
+18 numerous grounds, including the following:
+
+19 a. Substantial evidence did not support using the unincorporated County as
+20 the geographic boundary for determining VMT.
+21 b. The proposed thresholds of significance were not based on any
+22 determination as to whether environmental impacts would be significant, but rather on an effort
+23 to exempt as much development as possible from VMT analysis and to thereby create incentives
+24 for development in certain locations. The proposed thresholds therefore were unsupported by
+25 substantial evidence.
+
+26 C. The proposed "screening" threshold for small projects was unsupported by
+27 substantial evidence.
+
+28 d. The proposed rationales for finding approval of the project exempt from
+23
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-00031320-CU-WM-CTL
+
+- CEQA lacked both legal and evidentiary support.
+
+2 96.
+
+3 CERF filed comments with the Board of Supervisors dated June 23, 2020,
+
+4 objecting to adoption of the Transportation Study Guidelines and thresholds of significance on
+numerous grounds, including the following:
+
+5 a. The County's proposed approach would undermine the intent of SB 743
+6 and the state's greenhouse gas reduction goals.
+
+7 b. The County's proposed approach would incentivize inefficient sprawl
+8 development and result in significant environmental impacts, including increases in greenhouse
+
+9 gas emissions and air pollution as well as greater VMT.
+
+10 C. The proposed "screening" threshold did not accurately reflect the true VMT
+11 impact of rural and semi-rural development.
+
+12 d.
+
+13 inconsistent. The CEQA exemptions relied on in the Board Letter were inapplicable and
+
+14 97. At the June 24, 2020 Board of Supervisors meeting, Supervisor Fletcher
+15 introduced a motion to use the San Diego region, including incorporated cities and the
+16 unincorporated County, as the "geographic boundary" for establishing average VMT. The
+17 motion failed for lack of a second.
+
+18 98.
+
+19 On the motion of Supervisor Jacob, seconded by Supervisor Gaspar, the Board of
+Supervisors instead voted 4-1 to:
+
+20 a. Adopt Resolution No. 20-082, adopting the Transportation Study Guide
+21 and thresholds of significance for vehicle miles traveled;
+
+22 b.
+
+23 establishing VMT; Use the unincorporated County as the "geographic boundary" for
+
+24 C.
+
+25 d. Establish a significance threshold of 15% below average VMT; and
+Adopt "screening" criteria that would exclude projects generating less than
+26 110 daily vehicle trips from VMT analysis and mitigation; and
+27 e. Find the proposed resolution complies with CEQA because: (1) it is not a
+28 "project" as defined in CEQA and the CEQA Guidelines, and therefore is not subject to CEQA;
+24
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief
+Case No. 37-2020-00031320-CU-WM-CTL
+
+1 (2) it is considered "ministerial" because the County is mandated to comply with SB 743; (3) it
+2 is categorically exempt under CEQA Guidelines section 15308 as an action taken to enhance
+3 and protect the environment; and (4) it is subject to the "common sense" exemption because it
+
+4 implements existing law and therefore has no possibility of causing a significant impact on the
+5 environment.
+
+6 99. The County filed a notice of exemption regarding the project on July 9, 2020.
+
+7 FIRST CAUSE OF ACTION
+
+8 Violations of CEQA - Against All Respondents
+
+9 Lack of Substantial Evidence to Support Adopted Thresholds of Significance
+10 (Public Resources Code § 21000 et seq; CEQA Guidelines;
+11 CCP §§ 1085, 1094.5)
+12 100. Petitioners hereby reallege and incorporate by reference the preceding paragraphs
+13 in their entirety.
+
+14 101. CEQA is designed to ensure that government agencies incorporate the goal of
+15 long-term protection of the environment into their decisions. CEQA applies to any discretionary
+16 action taken by an agency that may cause a reasonably foreseeable change in the environment.
+17 102. Public agencies may not approve projects as proposed if there are feasible
+18 mitigation measures or alternatives that would substantially lessen the significant environmental
+19 effects of those projects. (Pub. Resources Code § 21002.) Public agencies are thus required to
+20 mitigate or avoid the significant environmental effects of projects they approve whenever it is
+21 feasible to do so. (Pub. Resources Code § 21002.1(b).)
+22 103. "Determining whether a project may have a significant effect plays a critical role
+23 in the CEQA process." (CEQA Guidelines § 15064(a).) If there is substantial evidence in light
+24 of the whole record that a project may have a significant effect a on the environment, the lead
+25 agency must prepare an environmental impact report. (CEQA Guidelines § 15064(a)(1).) And if
+26 the final environmental impact report identifies one or more significant effects, the agency must
+27 make specific findings that feasible mitigation measures or alternatives that reduce or avoid
+28 those effects have been incorporated into the project. (CEQA Guidelines 15064(a)(2); see Pub.
+25
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-00031320-CU-WM-CTL
+
+1 Resources Code § 21081.)
+
+2 104. The determination of whether an impact is significant "calls for careful judgment"
+3 on the part of the public agency, "based to the extent possible on scientific and factual data."
+4 (CEQA Guidelines 8 15064(b)(1).)
+
+5 105. A "threshold of significance" is "an identifiable quantitative, qualitative, or
+6 performance level of a particular environmental effect, non-compliance with which means the
+7 effect will normally be determined to be significant by the agency and compliance with which
+8 means the effect normally will be determined to be less than significant." (CEQA Guidelines
+9 15064.7(a).)
+
+10 106. Thresholds of significance may assist public agencies in determining whether an
+11 environmental impact is significant. (CEQA Guidelines § 15064(b)(2).) However, compliance
+12 with a threshold of significance does not relieve an agency of responsibility for determining
+13  whether substantial evidence indicates an impact may be significant notwithstanding compliance
+14 with the threshold. (Id.; Protect the Historic Amador Waterways v. Amador Water Agency
+15 (2004) 116 Cal.App.4th 1099, 1106-1107.)
+
+16 107. An agency's determination as to whether an environmental impact is significant
+17 must be based on substantial evidence in the record. (CEQA Guidelines § 15064(f).)
+
+18 108. Thresholds of significance serve the same purpose: to aid the agency in
+19 determining whether environmental impacts are significant. Accordingly, a threshold of a
+20 significance adopted by a public agency for general use in that agency's environmental review
+21 process also must be supported by substantial evidence. (CEQA Guidelines § 15064.7(b).)
+22 109. The thresholds of significance contained within the Transportation Study
+23 Guidelines are not supported by substantial evidence.
+
+24 110. Respondents' decision to use the unincorporated County as the "geographic
+25 boundary" for calculating existing average baseline VMT was unsupported by substantial
+26 evidence for several reasons:
+
+27 a. The County's decision was not based on substantial evidence that using the
+28 unincorporated County as the "geographic boundary" would result in a threshold of significance
+26
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief
+Case No. 37-2020-00031320-CU-WM-CTL
+
+1 that rationally distinguishes between significant and less-than-significant environmental
+2 impacts.
+
+3 b. The County's decision was not based on substantial evidence that using the
+
+4 unincorporated County as the "geographic boundary" accurately reflected actual existing travel
+5 patterns and VMT in the San Diego region.
+
+6 C. The County's choice of a "geographic boundary" instead reflects an attempt
+7  to exempt certain types of development in certain locations from VMT analysis and mitigation,
+
+8 and thereby to create incentives that would direct development to certain locations by reducing
+
+9 perceived burdens of CEQA compliance. Such exemptions and perceived incentives are not the
+10 type of substantial evidence that CEQA requires to support a threshold of significance or a
+11 determination regarding the significance or non-significance of environmental impacts.
+12 d. The County chose a "geographic boundary" that supported its ability to
+13 reflect its own planning goals and policies, rather than a boundary that would aid the County in
+14 distinguishing significant from less-than-significant environmental impacts. The County's
+15 preconceived planning goals and policies are not the type of substantial evidence that CEQA
+16 requires in order to support adoption of a threshold of significance or a determination of a
+17 significance.
+
+18 e. The County's decision was unsupported by, and directly conflicted with,
+19 recommendations in the Technical Advisory to use "regional" average VMT as the baseline for
+20 analysis. The "region" referenced in the Technical Advisory was the "region" subject to
+21 metropolitan planning organization jurisdiction-here, the San Diego region under SANDAG's
+22 jurisdiction.
+
+23 111. Because the County's selection of the unincorporated area as the "geographic
+24 region" was unsupported by substantial evidence, the County's designation of "VMT efficient"
+25 areas where VMT analysis will not be required also was unsupported by substantial evidence.
+26 112. Because the County's selection of the unincorporated area as the "geographic
+27 region" was unsupported by substantial evidence, the thresholds of significance of 15% below
+28 average existing VMT adopted in the Transportation Study Guidelines were unsupported by
+27
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief
+Case No. 37-2020-00031320-CU-WM-CTL
+
+1 substantial evidence.
+
+2 113. Respondents' decision to adopt a "screening" threshold exempting projects
+3 generating less than 110 ADT was unsupported by substantial evidence for several reasons:
+
+4 a. The "screening" threshold took into account only the number of daily trips,
+
+5 not their length. Vehicle trips originating in rural and semi-rural areas of the County are longer
+6 than vehicle trips originating elsewhere. Accordingly, there is no substantial evidence ADT
+7 serves as an adequate proxy for VMT in the unincorporated County.
+
+8 b. Available trip-generation data do not support the "screening" threshold.
+
+9 C. The Technical Advisory does not provide substantial evidence to support
+10 the County's application of the "screening" threshold to rural and semi-rural residential
+11 development.
+
+12 d. The County's attempt to exempt all residential development in rural and
+13 semi-rural areaswhere vehicle trips are likely to be the longest-from VMT analysis is
+14 unsupported by substantial evidence.
+
+15 114. The Transportation Study Guidelines impermissibly relied on the County's
+16 Climate Action Plan in concluding that VMT trends in the County are on a downward trajectory.
+17 The Climate Action Plan has been found invalid by both the San Diego County Superior Court
+18 and the Court of Appeal, and has been ordered vacated and set aside. The Climate Action Plan
+19 does not provide substantial evidence in support of the Project.
+
+20 115. The County prejudicially abused its discretion in adopting thresholds of
+
+21 significance that are unsupported by substantial evidence.
+
+22 SECOND CAUSE OF ACTION
+
+23 Violations of CEQA - Against All Respondents
+
+24 •Improper Determination that Project is Exempt from CEQA
+
+25 (Pub. Resources Code § 21000 et seq.; CCP §§ 1085, 1094.5)
+26 116. Petitioners hereby reallege and incorporate by reference the preceding paragraphs
+27 in their entirety.
+
+28 117. Respondents prejudicially abused their discretion by finding and determining that
+28
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief
+Case No. 37-2020-00031320-CU-WM-CTL
+
+1 their adoption of the Transportation Study Guidelines and thresholds of significance was exempt
+
+2 from CEQA. As a result, Respondents failed to disclose or evaluate the potentially significant
+3 environmental effects of their actions, and further failed to consider mitigation measures and
+4 alternatives that could lessen or avoid those impacts.
+
+5 118. Each of Respondents' rationales for finding the Project exempt from CEQA is
+6 both legally erroneous and unsupported by substantial evidence.
+
+7 119. Adoption of the Transportation Study Guidelines and thresholds of significance is
+8 a "project" under CEQA because it has the potential to cause direct or reasonably foreseeable
+9 indirect changes in the environment. (Pub. Resources Code § 21065; CEQA Guidelines
+10 15378.) The Project is not subject to any of the exceptions to the definition of a "project"
+11 provided in CEQA Guidelines section 15378(b), including the exception for proposed state
+12 legislation.
+13 120. The Project is not exempt from CEQA as a ministerial action.
+
+14 121. The Project is not subject to the categorical exemption in CEQA Guidelines
+15 section 15308 for agency actions taken to protect or enhance the environment.
+16 122. The Project is not subject to CEQA's "common sense" exception (CEQA
+17 Guidelines section 15061(b)(3)) because it cannot be seen with a certainty that there is no
+18 possibility the Project may have a significant environmental impact.
+19 THIRD CAUSE OF ACTION
+20 Violation of State Law - Declaratory Relief - Against All Respondents
+21 Conflict with SB 743
+
+22 (CCP § 1060)
+
+23 123. Petitioners hereby reallege and incorporate by reference the preceding paragraphs
+24 in their entirety.
+
+25 124. An actual and immediate controversy has arisen and now exists regarding the
+26 legality of the County's action in adopting Transportation Study Guidelines and thresholds of
+27 significance that could exempt the vast majority of potential General Plan dwelling units from
+28 the VMT analysis and mitigation required by SB 743.
+29
+First Amended Verified Petition for Writ of landate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-00031320-CU-WM-CTL
+
+125. SB 743 mandates that "criteria" for determining the significance of transportation
+2 impacts "promote the reduction of greenhouse gas emissions, the development of multimodal
+3 transportation networks, and a diversity of land uses." (Pub. Resources Code § 21099(b)(1).)
+126. The Technical Advisory states that local agencies should select thresholds of
+significance for transportation impacts that align with all three of these goals.
+127. The County's Transportation Study Guidelines and thresholds of significance not
+
+7 only fail to align with the goals of SB 743, but also directly conflict with and undermine the
+8 Legislature's purpose and intent in enacting SB 743.
+128. The primary purpose and effect of the Transportation Study Guidelines and
+10 thresholds of significance is to exempt development in large areas of the County from any
+11 requirement to analyze transportation impacts under CEQA. Under the County's thresholds, the
+12 vast majority of potential General Plan dwelling units (units in "VMT efficient" areas and
+13 residential developments in rural and semi-rural land use categories) would not be required to
+14 analyze or mitigate VMT.
+
+15 129. The Board of Supervisors expressly rejected a motion to select the "geographic
+16 boundary" for establishing average VMT that would have achieved the greatest greenhouse gas
+17 reductions among the options considered. Instead, the County selected the geographic boundary
+18 for establishing existing average VMT that would exempt the most potential development from
+19 VMT analysis requirements, achieve the least greenhouse gas emissions, and require the least
+20 analysis and mitigation of transportation impacts.
+21 130. Achieving California's legislatively mandated climate goals will require
+22 reductions in VMT. Yet there is no evidence that the Transportation Study Guidelines and
+23 associated thresholds of significance will actually reduce VMT in the County.
+
+24 131. The Transportation Study Guidelines impermissibly create a presumption that
+25 future projects will not result in significant impacts related to air quality, noise, safety, or other
+26 impacts associated with transportation, and thus violate the plain requirements of SB 743. (Pub.
+27 Resources Code § 21099(b)(3).)
+
+28 132. A judicial declaration is necessary and appropriate at this time in order that the
+30
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief
+Case No. 37-2020-00031320-CU-WM-CTL
+
+1 parties ascertain the correct interpretation of SB 743 in light of its contemporaneous
+
+2 construction by the Office of Planning and Research, and further ascertain their rights and
+3 obligations with respect to the selection of thresholds of significance necessary to comply with
+4 and implement SB 743.
+
+5 133. Therefore, Petitioners seek a declaration that the County's action in approving
+6 Transportation Study Guidelines and thresholds of significance that will achieve the least
+7 greenhouse gas reductions of the options considered and interfere with disclosure and mitigation
+8 of other transportation impacts, while at the same time exempting the vast majority of potential
+9 General Plan dwelling units from VMT analysis and mitigation, conflicts with the intent and
+10 purpose of SB 743, is an abuse of discretion, or otherwise fails to comply with the law.
+
+11 PRAYER FOR RELIEF
+
+12 WHEREFORE, Petitioners pray for judgment as follows:
+
+13 1. Alternative and peremptory writs of mandate directing the County to vacate and
+14 set aside all approvals related to the SB 743 Implementation Project, including adoption of
+15 Resolution No. 20-082, the Transportation Study Guidelines, associated thresholds of
+16 significance, and accompanying findings and determinations;
+
+17 2. Alternative and peremptory writs of mandate directing the County to comply with
+18 the requirements of CEQA and to take any other action as required by Public Resources Code
+19 section 21168.9;
+
+20 3. For a temporary stay, temporary restraining order, and preliminary and permanent
+21 injunctions restraining Respondents and their agents, servants, and employees, and all others
+22 acting in concert with Respondents on their behalf, from taking any action to implement the SB
+23 743 Implementation Project, pending full compliance with the requirements of CEQA, the
+24 CEQA Guidelines, and other applicable authority;
+
+25 4. For a declaration that the SB 743 Implementation Project as adopted conflicts with
+26 and impedes the purposes and intent of SB 743;
+27 5. For costs of the suit;
+
+28 6. For an order awarding Petitioners their attorneys' fees under Code of Civil
+31
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief
+Case No. 37-2020-00031320-CU-WM-CTL
+
+1 Procedure section 1021.5 and other applicable authority; and
+
+2 7. For such other and further relief as the Court deems just and proper.
+
+3
+
+4 DATED: October 26, 2020 SHUTE, MIHALY & WEINBERGER LLP
+
+5
+
+6
+
+7
+
+8 By:
+KEVIN P. BUNDY
+
+10 Attorney for Petitioners and Plaintiffs
+CLEVELAND NATIONAL FOREST
+11 FOUNDATION and COASTAL
+
+12 ENVIRONMENTAL RIGHTS FOUNDATION
+
+13
+
+14 DATED: October 26, 2020 COAST LAW GROUP, LLP
+15
+
+16
+
+17
+
+18 By: 18K
+19 MARCO A. GONZALEZ
+LIVIA BORAK BEAUDIN
+20
+
+21 Attorneys for Petitioner and Plaintiff
+COASTAL ENVIRONMENTAL RIGHTS
+22 FOUNDATION
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+32
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief
+Case No. 37-2020-00031320-CU-WM-CTL
+
+DATED: October 26 , 2020 CHATTEN-BROWN, CARSTENS & MINTEER
+
+3
+
+4
+
+5 By:
+JOSH CHATTEN BROWN
+6
+
+7 Attorneys for Petitioner and Plaintiff SIERRA CLUB
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 33
+First Amended Verified Petition for. Writ of Mandate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-0031320-CU-WM-CTL
+
+1 VERIFICATION
+
+2 I, Duncan McFetridge, declare as follows:
+
+3 I am the Director of the Cleveland National Forest Foundation and am authorized to
+execute this verification on its behalf. I have read the foregoing First Amended Petition for Writ
+
+5 of Mandate and Complaint for Declaratory and Injunctive Relief and am familiar with its
+6 contents. All facts alleged in the above Petition, and not otherwise supported by exhibits or other
+7 documents, are true of my own knowledge, except to matters stated on information and belief,
+8  and as to those matters, I believe them to be true.
+
+9 I declare under penalty of perjury that the above is true and correct.
+10
+
+11 Executed this 2loday of October, 2020, in Descaeo California.
+
+12
+
+13 Dunaan lbl tatriola
+14 Duncan McFetridge
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 34
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-0031320-CU-WM-CTL
+
+-
+
+2 VERIFICATION
+
+I, Sara Kent, declare as follows:
+
+3 I am Programs Director of Coastal Environmental Rights Foundation and am authorized
+4 to execute this verification on its behalf. I have read the foregoing First Amended Petition for
+5 Writ of Mandate and Complaint for Declaratory and Injunctive Relief and am familiar with its
+
+6 contents. All facts alleged in the above Petition, and not otherwise supported by exhibits or other
+7 documents, are true of my own knowledge, except to matters stated on information and belief,
+8 and as to those matters, I believe them to be true.
+
+9
+
+10 I declare under penalty of perjury that the above is true and correct.
+
+11
+
+12 Executed this 26th day of October, 2020, in Chula Vista, California.
+
+13
+
+14 Sara Kent
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+35
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief
+Case No. 37-2020-00031320-CU-WM-CTL
+
+1 VERIFICATION
+
+2 I, George Courser, declare as follows:
+
+3 I am a Legal Committee member of Sierra Club and am authorized to execute this
+
+4 verification on its behalf. have read the foregoing First Amended Petition for Writ of Mandate
+
+5 and Complaint for Declaratory and Injunctive Relief and am familiar with its contents. All facts
+6 alleged in the above Petition, and not otherwise supported by exhibits or other documents, are
+
+7 true of my own knowledge, except to matters stated on information and belief, and as to those
+8 matters, I believe them to be true.
+
+9 declare under penalty of perjury that the above is true and correct.
+
+10
+
+11 Executed this 21st day of October, 2020, in San Diego, California.
+
+12
+
+13
+
+14
+
+15 Ateuar
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 36
+First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-0031320-CU-WM-CTL
+
+PROOF OF SERVICE
+
+2 Cleveland National Forest Foundation, et al. v. County of San Diego, et al. Case No. 37-202000031320-CU-WM-CTL
+3 San Diego County Superior Court
+
+4 At the time of service, I was over 18 years of age and not a party to this action. Iam employed in the County of San Francisco, State of California. My business address is 396 5 Hayes Street, San Francisco, CA 94102.
+
+6 On October 27, 2020, I served true copies of the following document(s) described as:
+
+7 FIRST AMENDED VERIFIED PETITION FOR WRIT OF
+MANDATE/COMPLAINT FOR DECLARATORY AND
+8 INJUNCTIVE RELIEF
+
+9 on the parties in this action as follows:
+10 Thomas E. Montgomery, County Counsel
+
+11 Joshua M. Heinlein, Senior Deputy Attorneys for Respondents/Defendants
+Office of County Counsel COUNTY OF SAN DIEGO; BOARD OF
+County of San Diego SUPERVISORS OF COUNTY OF SAN
+
+12 1600 Pacific Highway, Suite 355 DIEGO; and COUNTY OF SAN DIEGO
+San Diego, California 92101 PLANNING AND DEVELOPMENT SERVICES
+13 Tel: (619) 531-5850 Fax: (619) 531-6005 14 Email: joshua.heinlein@sdcounty.ca.gov
+
+15 odette.ortega@sdcounty.ca.gov thomas.velasauez(@sdcountv.ca.gov
+
+16 BY E-MAIL OR ELECTRONIC TRANSMISSION: Based on a court order or an agreement of the parties to accept service by e-mail or electronic transmission, I caused the 17 document(s) to be sent from e-mail address Weibel@smwlaw.com to the persons at the e-mail addresses listed in the Service List. I did not receive, within a reasonable time after the 18 transmission, any electronic message or other indication that the transmission was unsuccessful.
+
+19 declare under penalty of perjury under the laws of the State of California that the
+
+20 foregoing is true and correct.
+
+21 Executed on October 27, 2020, at San Francisco, California.
+
+22
+
+23 Caoil Wuhl
+
+24 David Weibel
+
+25
+
+26
+
+27
+
+28
+37
+First Amended Verified Petition for Writ of N landate and Complaint for Declaratory and Injunctive Relief Case No. 37-2020-00031320-CU-WM-CTL
+
+CZ OIWY IZ AMC 1ZO7 NENPET
+
+093I0NYS 1Y83N39 A3N8O1A
+
+SHUTE. MIHALY
+WEINBERGER LLP
+
+396 HAYES STREET, SAN FRANCISCO, CA 94102 KEVIN P. BUNDY
+T: (415) 552-7272 F: (415) 552-5816 Attorney
+www.smwlaw.com bundy@smwlaw.com
+
+January 14, 2021
+
+Via U.S. Mail
+
+Xavier Becerra
+Attorney General
+California Department of Justice
+1300 I Street
+Sacramento, CA 95814-2919
+
+Re: Cleveland National Forest Foundation, et al. V. County of San Diego, et al. San Diego County Sup. Court Case No. 37-2020-00031320-CU-WM-CTL
+Filing of First Amended Petition
+
+Dear Attorney General Becerra:
+
+Enclosed please find a copy of the First Amended Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief in the above-referenced action. This amended petition is provided to you in compliance with the rules governing CEQA litigation. Please acknowledge receipt using the enclosed postage prepaid, pre- addressed envelope.
+Thank you for your attention to this matter.
+Very truly yours,
+
+SHUTE, MIHALY & WEINBERGER LLP
+
+le lr
+Kevin P. Bundy
+
+KPB/dw
+Encl.: First Amended Verified Petition
+
+1328021.1
+
+FEB•0 2028

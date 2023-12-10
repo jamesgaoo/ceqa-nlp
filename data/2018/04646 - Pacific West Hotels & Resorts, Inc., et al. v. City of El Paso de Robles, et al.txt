@@ -1,0 +1,1038 @@
+- II PAUL J. BEARD II (State Bar No. 210563)
+
+2 ALSTON & BIRD LLP
+1121 L Street, Suite 700
+
+3 Sacramento, CA 95814 Telephone: (916) 498-3354
+
+4 Email: paul.beard@alston.com
+
+5 MAX ROLLENS (Statc Bar No. 308984)
+ALSTON & BIRD LLP
+
+6 333 South Hope Street, Sixteenth Floor Los Angeles, CA 90071
+
+7 Telephone: (213) 576-1000 Email: max.rollens@alston.com
+
+8 NEIL S. TARDIFF (State Bar No. 94350)
+
+9 DUSTIN M. TARDIFF (State Bar No. 281241) TARDIFF LAW OFFICES
+
+10 6699 Bay Laurel Pl., No. Avila Beach, CA 93424
+
+11 Telephone: (805) 544-8100 Email: neil@tardifflaw.com
+
+12 Email: dustin@tardifflaw.com
+
+13 Attorneys for Petitioners/Plaintiffs
+PACIFIC WEST HOTELS & RESORTS, INC., ET AL.
+
+14 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+15 FOR THE COUNTY OF SAN LUIS OBISPO
+
+16 PASO ROBLES BRANCH
+
+17 PACIFIC WEST HOTELS & RESORTS, INC.; KEVIN BIERL; PACIFIC COAST HOTEL Case No.: 18CVP-0220
+
+18 PROPERTIES I. LLC; PACIFIC COAST HOTEL
+
+19 PROPERTIES II, LLC NOTICE TO ATTORNEY GENERAL OF
+
+Petitioners/Plaintiffs, THE STATE OF CALIFORNIA OF
+
+20 VERIFIED PETITION FOR WRIT OF
+MANDATE AND COMPLAINT FOR
+
+21 V. DECLARATORY AND INJUNCTIVE
+
+CITY OF EL PASO DE ROBLES; CITY RELIEF
+
+22 COUNCIL OF THE CITY OF EL PASO DE
+
+23 ROBLES; DOES 1-20 Judge: Hon. Linda D. Hurst
+
+24 Respondents/Defendants, Dept.: P-2
+
+25 ZEN PASO ROBLES, LLC; RUPESH PATEL;
+26 DOES 21-40
+
+27 Real Parties in Interest.
+
+28
+
+NOTICE TO ATTORNEY GENERAL OF THE STATE OF CALIFORNIA
+
+/
+
+TO THE ATTORNEY GENERAL OF THE STATE OF CALIFORNIA:
+
+2 PLEASE TAKE NOTICE that, under Public Resources Code section 21167.7 and Code of
+
+3 Civil Procedure section 388, Petitioners/Plaintiffs have filed the attached Verified Petition for Writ
+
+4 of Mandate and Complaint for Declaratory and Injunctive Relief against Respondents/Defendants
+
+5 City of El Paso de Robles, et al. ("City"), in part under the provisions of the California
+
+6 Environmental Quality Act ("CEQA") (Public Resources Code section 21000, et seq.).
+
+7 The lawsuit challenges, as violations of CEQA (among other laws), the City's recent
+
+8 approval of a land swap with a private entity, along with its certification of a Mitigated Negative
+9 Declaration for, and approval of, hotel project.
+
+10 DATED: July 12, 2018 PAUL BEARD II
+
+11 MAX ROLLENS
+ALSTON & BIRD LLP
+
+12 NEIL S. TARDIFF
+
+13 DUSTIN M. TARDIFF
+TARDIFF LAW OFFICES
+
+14 (
+15
+
+16 PAUL BEARD II
+
+17 Attorneys for Petitioners PACIFIC WEST HOTELS & RESORTS, INC., ET AL.
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL OF THE STATE OF CALIFORNIA
+
+$435
+
+ELECTRONICALLY
+1 PAUL J. BEARD II (State Bar No. 210563) FILED
+ALSTON & BIRD LLP
+2 1121 L Street, Suite 700 7/6/2018 5:17 PM
+Sacramento, CA 95814 3 Telephone: (916) 498-3354 SARLUIS OBISPO GUPSRIOR COURT
+Email: paul.beard@alston.com AY: CmEaSTrd C. M. Kaabner, Depuly Clok
+4
+
+5 MAX ROLLENS (State Bar No. 308984) ALSTON & BIRD LLP
+
+6 333 South Hope Street, Sixteenth Floor Los Angeles, CA 90071
+
+7 Telephone: (213) 576-1000 Email: max.rollens@alston.com
+
+8 NEIL S. TARDIFF (State Bar No. 94350)
+DUSTIN M. TARDIFF (State Bar No. 281241)
+9 TARDIFF LAW OFFICES
+
+10 6699 Bay Laurel Pl., No. Avila Beach, CA 93424
+
+11 Telephone: (805) 544-8100 Email: neil@tardifflaw.com
+
+12 Email: dustin@tardifflaw.com
+
+Attorneys for Petitioners/Plaintiffs
+13 PACIFIC WEST HOTELS & RESORTS, INC., ET AL.
+
+14 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+15 FOR THE COUNTY OF SAN LUIS OBISPO
+
+16 PASO ROBLES BRANCH
+
+17 PACIFIC WEST HOTELS & RESORTS, INC.; KEVIN BIERL; PACIFIC COAST HOTEL Case No.: 18CVP-0220
+
+18 PROPERTIES I, LLC; PACIFIC COAST HOTEL
+PROPERTIES II, LLC
+19 VERIFIED PETITION FOR WRIT OF
+Petitioners/Plaintiffs, MANDATE AND COMPLAINT FOR 20 DECLARATORY AND INJUNCTIVE
+V. RELIEF
+21
+
+22 CITY OF EL PASO DE ROBLES; CITY
+COUNCIL OF THE CITY OF EL PASO DE California Environmental Quality Act ("CEQA"); Code of Civil Procedure
+
+23 ROBLES; DOES 1-20 1094.5 and/or 1085; Code of Civil Procedure § 526a; Code of Civil Procedure
+
+24 Respondents/Defendants, section 1060
+
+25 ZEN PASO ROBLES, LLC; RUPESH PATEL;
+
+26 DOES 21-40
+
+27 Real Parties in Interest.
+
+28
+
+Verified Pet. for Writ of Mandate & Complaint for Dec. & Inj. Relief
+
+- INTRODUCTION
+
+2 1.
+
+3 This action challenges certain surreptitious acts and omissions by Respondents' CITY
+
+4 OF EL PASO DE ROBLES and CITY COUNCIL OF THE CITY OF EL PASO DE ROBLES
+
+5 ("City") associated with (a) the City's June 5, 2018, approval of a property exchange agreement
+
+6 ("Land Swap") with Real Parties in Interest ZEN PASO ROBLES, LLC and RUPESH PATEL
+
+7 ("Zen"), and (b) the City's June 5, 2018, certification of a Mitigated Negative Declaration and
+
+8 associated Mitigation Monitoring and Reporting Program for, and approval of, Zen's Hyatt Place
+Hotel Planned Development (PD 17-011) ("Hotel Project").
+
+9 2.
+
+10 The City approved the Land Swap and Hotel Project without any analysis of the Land
+
+11 Swap's significant environmental impacts; without evidence that the Land Swap is anything other
+
+12 than a substantial waste of City property, to the detriment of the City's taxpayers and to the
+
+13 exclusive and private benefit of Zen; and without adequate public disclosures or opportunities for
+public review, comment, and input.
+
+14 3.
+
+15 The City's acts and omissions, and related approvals, constitute violations of the
+
+16 California Environmental Quality Act ("CEQA") (Public Resources Code section 21000 et seq.) and
+
+17 CEQA Guidelines (title 14, California Code of Regulations, section 15000 et seq.); Government
+Code sections 37350-51; and Code of Civil Procedure section 526a.
+
+18 4.
+
+19 The City's approvals of the Land Swap and Hotel Project, and each of the illegal acts
+
+20 and omissions resulting in those approvals, constitute abuses of discretion on the part of the City. In
+
+21 light of the City's grave violations of state laws enacted for the protection of the public's
+fundamental rights to full public disclosure of the environmental impacts of projects under
+22 consideration; judicious use and disposition of public property; and open and transparent
+
+23
+
+24 government proceedings, the City's approvals must be vacated and set aside. This action seeks to
+enforce those important statutory rights affecting the public interest.
+
+25 PARTIES
+
+26 5.
+
+27 Petitioner2 PACIFIC WEST HOTELS & RESORTS, INC. ("Pacific. West") is a
+
+28 "Respondents" shall mean "Respondents and/or Defendants." 2 "Petitioner" shall mean "Petitioner and/or Plaintiff."
+Verified Pet. for Writ of Mandate & Complaint for Dec. & Inj. Relief
+
+1 development company organized under the laws of the State of Arizona. It is owned entirely by
+
+2 Petitioner KEVIN BIERL.
+
+3 6. Petitioner KEVIN BIERL has an ownership interest in, and is the managing member
+
+4 of, Petitioners PACIFIC COAST HOTEL PROPERTIES I, LLC (*PCHP I") and PACIFIC COAST
+HOTEL PROPERTIES II, LLC ("PCHP II") (collectively, "LLC Petitioners"). Mr. Bierl and his
+
+agents, both on his own behalf and on behalf of PCHP I and PCHP II, have submitted extensive
+
+7 written and oral comments objecting to the City's acts and omissions leading up to, and including,
+
+8 the approvals of the Land Swap and Hotel Project that are the subject of this lawsuit. As described in
+
+9 greater detail below, all Petitioners are directly and beneficially interested in the outcome of this
+
+10 case, including, without limitation, because of the direct and adverse impacts of the City's approvals
+
+11 on Petitioners' property interests. In addition, PCHP I and PCHP pay taxes to the City and therefore
+12 enjoy the right, as taxpayers, to restrain and prevent the waste of, or injury to, City-owned property.
+13 7. Respondent CITY OF EL PASO DE ROBLES is the lead agency for the Land Swap
+14 and Hotel Project, and has sole responsibility for conducting environmental revicw for those projects
+15 and taking other actions necessary to comply with applicable state laws, including CEQA.
+
+16 8. Respondent CITY COUNCIL OF THE CITY OF EL PASO DE ROBLES is the
+
+17 governing body of the City and is ultimately responsible for reviewing, and approving or denying,
+18 the Land Swap and Hotel Project.
+
+19 9. Petitioners do not know the true names and capacities, whether individual, corporate,
+
+20 associate, or otherwise, of Respondents DOES 1 through 20, inclusive, and therefore sue said
+21 Respondents under fictitious names. Petitioners will amend this petition and complaint to show their
+
+22 true names and capacities when the same have been ascertained.
+
+23 10. On information and belief, Real Party in Interest ZEN PASO ROBLES, LLC is a
+24 California corporation based in Burlingame, California. Zen is record owner of the River Lodge
+
+25 Parcel, which the City has agreed to receive in exchange for its valuable Theatre Drive Parcel,
+
+26 pursuant to an illegal Land Swap.
+
+27 11. On information and belief, Real Party in Interest RUPESH PATEL is the Hotel
+28 Project applicant. As the project applicant, Mr. Patel is the recipient of the approvais granted by
+3
+Verified Pet. for Writ of Mandate & Complaint for Dec. & Inj. Relief
+
+Respondents and is therefore a Real Party in Interest within the meaning of Public Resources Code
+
+2 section 21167.6.5.
+
+3 12. Petitioners do not know the true names and capacities, whether individual, corporate,
+
+4 associate, or otherwise, of Real Parties in Interest DOES 21 through 40, inclusive, and therefore sue
+
+5 said Real Parties in Interest under fictitious names. Petitioners will amend this Petition to show their
+
+6 true names and capacities when the same have been ascertained.
+
+7 JURISDICTION AND VENUE
+
+8 13. This Court has jurisdiction to issue a writ of mandate to set aside the City's Land
+
+9 Swap and Hotel Project approvals under Code of Civil Procedure sections 526a, 1085 and 1094.5,
+
+10 and Public Resources Code sections 21168 and 21168.9. The Court also has jurisdiction to grant
+
+11 declaratory relief under Code of Civil Procedure section 1060.
+
+12 14. Venue is proper in this Court because this action challenges acts and omissions by
+
+13 public officers by virtue of their offices, and the causes of action alleged in this Petition arose in the
+
+14 County of San Luis Obispo. Venue is also proper in this Court because all of Respondents are
+
+15 located in the County. Further, venue is proper in the Paso Robles Branch of this Court, because the
+16 acts and omissions at issue took place in, and the properties that are the subject of this challenge are
+
+17 located in, the Paso Robles.
+
+18 15. Petitioners have complied with the requirements of Public Resources Code section
+
+19 21167.5 by serving written notice upon the City of the commencement of this action. A copy of the
+20 written notice and proof of service is attached hereto as Exhibit A.
+21 16. Petitioners have performed all conditions precedent to filing this action, and have
+
+22 exhausted any and all available administrative remedies to the extent required by law.
+
+23 17. Petitioners have no plain, speedy, or adequate remedy in the course of ordinary law
+
+24 unless this Court grants the requested equitable relief, requiring Respondents to set aside their
+
+25 approvals of the Land Swap and Hotel Project. In the absence of such remedies, the decisions of
+
+26 Respondents will remain in effect in violation of state laws and to the prejudice of Petitioners.
+
+27 111
+
+28 /1/
+
+4
+Verified Pet. for Writ of Mandate & Complaint for Dec. & Inj. Relief
+
+1 STATEMENT OF FACTS
+
+2 Mr. Bierl Helns Build Paso Robles' "Gateway" Into the City
+
+3 18. Mr. Bierl launched his family-run hotel business in Paso Robles in 2001, with a
+
+4 vision of helping to promote tourism in the City. Through PCHP I and II, he built and continues to
+
+5 have an ownership interest in two hotels in the City: (1) the Hampton Inn & Suites, located at 206
+
+6 Alexa Court, Paso Robles (APN 009-831-023), and (2) in La Bellasera Hotel and Suites, located at
+
+7 212 Alexa Court (APN 009-831-022).
+
+8 19. Both the Hampton Inn and La Bellasera are located at the southwest intersection of
+
+9 State Route 46 and Highway 101. Given its high-profile location, the area where the hotels are
+10 located is the "gateway" into the City, and provides visitors to the City with an important first
+11 impression,
+
+12 20. The Hampton Inn parcel is bordered to the immediate west by a City-owned 3.11-acre
+
+13 parcel with APN 009-831-029, which lies at the southeast corner of State Route 46 and Theatre
+
+14 Drive ("Theatre Drive Parcel). To the immediate south of the Hampton Inn and La Bellasera
+
+15 parcels is a smaller, City-owned 1.03-acre parcel with APN 009-831-030. For several years, Mr.
+16 Bierl made repeated offers to purchase the City-owned parcels surrounding the Hampton Inn and La
+17 Bellasera. Given his unique interests and know-how, Mr. Bierl was well-positioned to develop those
+18 properties in way that enhanced the area's "gateway" status. The City repeatedly represented to Mr.
+
+19 Bierl that, when the time came for the City to sell, he would have the opportunity to bid for the City-
+
+20 owned parcels in an open and transparent process, on equal footing with other potential buyers.
+21 Zen Buys the Historie River Lodge Property Adjacent to Mr. Bierl's Hotels, Wrongly
+
+22 Speculating That It Can Tear It Down and Build a New Hotel in Its Stead
+
+23 21. In the meantime, Zen purchased from a private owner a 2.11-acre parcel improved
+
+24 with the historic River Lodge Motel at 1955 Theatre Drive, to the immediate east of La Bellasera
+
+25 ("River Lodge Parcel"). The motel was built around 1954 as part of a larger development that
+
+26 included a drive-in theatre, gas station and restaurant.
+
+27 22. On May 10, 2016, Zen applied to the City for a permit to demolish the River Lodge
+
+28 Motel and, in its stead, build a 4-story, 116-room Hyatt Place Hotel. The City undertook an
+5
+Verified Pet. for Writ of Mandate & Complaint for Dec. & Inj. Relief™
+
+-
+
+2 extensive environmental analysis of Zen's project under CEQA. The ultimate result was the issuance
+
+3 of a draft Environmental Impact Report ("EIR") that concluded that demolition of the River Lodge
+
+4 Motel, al historic and cultural resource, would result in a "Class I, Significant Unavoidable
+
+5 Environmental Impact" under CEQA. Members of the public spoke out against the motel's
+
+6 demolition, emphasizing the importance of maintaining the existing River Lodge Motel and motel
+sign as contributors to the unique historic character of the community. Those advocating for the
+
+8 motel's preservation included the Paso Robles Historical Society and Paso Robles Mainstreet
+
+9 Association. Further, the EIR concluded that the motel's proposed replacement-the Hyatt Place-
+
+10 had problems of its own, given its significant height and mass, and its disruption of views (both from
+the existing hotels to the west and from the highway to the east).
+
+11 23.
+
+12 In short, it became clear that it would be exceedingly difficult, if not legally and
+
+13 politically impossible, for Zen to build a Hyatt Place Hotel on the River Lodge site. In order to
+
+14 overcome a Class I impact and approve the Hyatt Place Hotel, the City would have to make detailed
+
+15 findings supporting a "Statement of Overriding Considerations," establishing that specific economic,
+
+16 social or other stated benefits are sufficient to warrant project approval despite the project's
+
+17 significant and unavoidable adverse impacts. 14 Cal. Code Regs. § 15093(a). Those findings must be
+
+18 supported by substantial evidence. Id. § 15093(b). The City made no such "Statement of Overriding
+
+19 Considerations," and the City and Zen abandoned the Hyatt Place Hotel project-at least as
+proposed for the River Lodge Parcel.
+
+20
+
+21 The City Bails Out Zen in a Back-Room Deal That Gives Zen the City's Developable Theatre
+
+22 Drive Parcel in Exchange for Zen's Undevelopable River Lodge Motel
+
+24.
+
+23 Sometime thereafter, the City began working behind closed doors on a plan that
+
+24 would allow Zen to build its Hyatt Place Hotel on another parcel. In the end, and as detailed below,
+
+25 the City would approve a lopsided deal to give away to Zen its vacant and fully developable Theatre
+
+26 Drive Parcel in exchange for Zen's presumably undevelopable River Lodge Parcel. But not before it
+
+27 would mislead the public for months about the true nature and import of its closed session meetings.
+
+25.
+
+28 Starting with its January 17, 2017, meeting, and at a number of meetings thereafter
+through to and including its September 7 mceting, the City met in closed session purportedly to
+6
+Verified Pet. for Writ of Mandate & Complaint for Dec. & Inj. Relief
+
+1 discuss the "[p]rice and terms of payment" related to the City's parcel to the immediate south of the
+
+2 Hampton Inn (APN 009-831-030) not the Theatre Drive Parcel. For those closed-session
+meetings, the City described the "negotiating parties" as Zenique Hotel (Mr. Patel's company) and
+
+4 Pacific West, Mr. Bierl's company. The State's "open government" law applicable to local agencies,
+the Brown Act, allows a local agency to meet in closed session to discuss real-estate negotiations
+
+6 with its negotiator, but only "regarding the price and terms of payment for the purchase, sale,
+
+7 exchange, or lease" of real property, Gov. Code § 54956.8.
+
+8 26. During this time period, even though it was mentioned as a "negotiating party" in the
+various agendas, Pacific West was not approached about any real-estate transaction. This, despite
+
+10 past representations by the City that Mr. Bierl would have the opportunity to bid for any City-owned
+
+11 parcel surrounding his hotels, if and when it was up for sale.
+
+12 27. At its July 18, 2017, meeting, the City purportedly discussed in closed session the
+
+13 "[p]rice and terms of payment" for the same parcel (i.e., APN 009-831-030, not the Theatre Drive
+
+14 Parcel). But this time, the matter was agendized as one related to "Potential Litigation." In an cmail
+
+15 to Mr. Bierl, Assistant City Manager Meg Williamson cryptically explained that the real-estate
+16 transaction discussed in closed session-if consummated-would "address [his] stated concerns
+17 with the proposed Hyatt project" contemplated for the River Lodge
+
+18 Parcel. The minutes for the July 18 meeting later stated that the agenda had mistakenly characterized
+
+19 the real-estate deal as one pertaining to "Potential Litigation," rather than "Real Property
+
+20 Negotiations." If the City was indeed crafting a land swap to stave off potential litigation arising out
+21 of Zen's inability to devclop the River Lodge Parcel, the City did not disclose that fact to the public
+
+22 as it was required by law to do.
+
+23 28. On September 12, 2017, the City's Planning Commission met to discuss a "Property
+24 Exchange Agreement" agreed to between the City and Zen. That was the first time the public was
+
+25 made aware that, in exchange for Zen's River Lodge Parcel, the City was proposing to convey to
+26 Zen, not its southern parcel (APN 009-831-030) as described in past closed-session agendas, but its
+
+27 valuable and fully developable Theatre Drive Parcel. The Planning Commission Agenda Report is
+28 revcaling. It makes clear that, because the City was not in a position to approve Zen's proposed
+7
+Verified Pet. for Writ of Mandate & Complaint for Dec. & Inj. Relief
+
+- Hyatt hotel on the River Lodge Parcel, given the Class I significant and unavoidable impacts
+
+2 associated with demolition of the historic motel, the City was working on a "two-party exchange"
+
+3 between it and Zen. Again, the public had no notice of the back-room deal until after the City and
+
+4 Zen agreed to the exchange, and it certainly had no indication that the land swap might be the City's
+
+5 way of settling threatened litigation by Zen.
+
+6 29. Notably, the September 12, 2017, Planning Commission Agenda Report suggests that
+7 all of the prior closed sessions concerning the City's alleged "negotiations" had nothing whatever to
+
+8 do with giving the City's negotiator authority regarding "[p]rice and terms of payment." The City's
+closed-session agendas between January and September 2017 were misleading to the public and did
+
+10 not disclose the true nature of the discussions: namely, to effectuate pure land swap to the benefit
+
+11 of a private party (Zen).
+
+12 30. At its September 19, 2017 meeting, the City Council considered and conditionally
+
+13 a approved a property exchange agreement with Zen, whereby the City would give Zen the Theatre
+14 Drive Parccl in exchange for Zen's River Lodge Parcel. But the City did not definitively commit
+
+15 itself to that Land Swap. To the contrary, council members expressed serious reservations about the
+16 swap, based on the absence of professional appraisal establishing the parcels' relative values. The
+17 land swap was proposed by City staff on the basis only of a broker's opinion that the two parcels
+18 were sufficiently similar in value to support an exchange, but some council members wanted more.
+19 31. On the basis of legitimate concerns about the parcels' relative values, the City
+
+20 Council adopted a motion only conditionally approving the Land Swap pending an appraisal of the
+21 two parcels and a re-evaluation of the transaction based on that appraisal's findings. The City
+
+22 Council made clear that the tentative approval could be withdrawn, if the appraisal did not justify the
+
+23 swap. The City did not say definitively what it planned to do with the River City it Lodge Parcel, if
+
+24 and when it acquired it that parcel as part of the swap. While its prior EIR for the Hyatt Hotel Project
+25 on the site suggested that the motel would have to be preserved, the City also suggested that it might
+
+26 be developed, depending on the community's input. Needless to say, the City did not undertake any
+
+27 environmental analysis of the potential environmental impacts associated with the land swap,
+
+28 including reasonably foresceable uses or developments of the two exchanged parcels.
+8
+Verified Pet. for Writ of Mandate & Complaint for Dec. & Inj. Relief
+
+32. On November 19, 2017, Zen applied for a permit to build its Hotel Project on the
+
+2 Theatre Drive Parcel (once conveyed to Zen). At its December 13, 2017 meeting, the City Council
+
+3 instructed its consultants to a prepare a Mitigated Negative Declaration for that Hotel Project. At its
+
+4 April 25, 2018, meeting, the Planning Commission adopted resolutions recommending that the City
+
+5 Council adopt a Mitigated Negative Declaration and Mitigation Monitoring and Reporting Program
+
+6 for the Hotel Project and that it approve the Hotel Project.
+
+7 33. In the meantime, the City Council continued to meet in closed session concerning
+
+8 some version of the land swap between up through and including at its May 15, 2018 meeting. The
+City Council's agenda for its January 16, 2018, closed session describes negotiations over the
+
+10 Theatre Drive Parcel, but its April 3 and May 15 closed-session agenda contrarily describe
+
+11 negotiations over the southern parcel (APN 009-831-030). The City Council never clarified for the
+
+12 public what it was discussing in closed session, and why---given the land swap involved no price or
+
+13 terms of payment-it was meeting in closed session in the first place, and not in a public hearing.
+
+14 The City Approves the Land Swap and Hotel Project for Zen's Private Benefit, at a Significant
+
+15 Loss to Taxpayers, and Without Revicwing the Swap's Environmental Impacts
+
+16 34. At its June 5, 2018, meeting, the City Council committed to and authorized the land
+
+17 swap, based on a "preliminary" appraisal (dated January 10, 2018); the final appraisal was not made
+
+18 available to the public. The appraisal concluded that the two parcels were of roughly equivalent
+
+19 value, based on the unsubstantiated assumption that the River Lodge Motel Parcel would be
+
+20 developed with a new hotel after demolition of the historical motel currently located there. That
+
+21 assumption finds no evidentiary support in the record and conflicts with the City's EIR for the
+
+22 original Hyatt Place Hotel project and Zen's subsequent abandonment of that project, which
+
+23 evidence the legal and political infeasibility of any new development on the River Lodge Parcel. In
+
+24 short, the appraisal does not support the conclusion that the two parcels are of substantially equal
+
+25 value, and substantial evidence in the record indicates that the River Lodge Parcel was substantially
+
+26 overvalued.
+
+27 35. Also at its June 5 meeting, the City approved Zen's Hotel Project on the Theatre
+
+28 Drive Parcel, following certification of a Mitigated Negative Declaration and A Mitigation
+
+Verified Pet. for Writ of Mandate & Complaint for Dec. & Inj. Relief
+
+-
+
+2 Monitoring and Reporting Program. The City did not analyze the environmental impacts associated
+
+3 with the Land Swap, including the reasonable likelihood-as the City's own appraisal assumes-
+
+4 that the historic River Lodge Motel will be demolished and a new hotel (or other) development
+approved in its place.
+
+5 36.
+
+6 On June 7, the City filed its Notice of Determination, indicating it certified a
+
+7 Mitigated Negative Declaration and Mitigation Monitoring and Reporting Program, and also
+
+8 approved the Hotel Project for the Theatre Drive Parcel. The Notice of Determination does not
+mention approval of the Land Swap and the
+
+9 Lodge Parcel may be re-developed. prospect that, as a consequence of that swap, the River
+
+10 37.
+
+11 Mr. Biel, on behalf of himself and co-Petitioners, regularly communicated to the City
+
+12 his concerns and objections about the City's acts and omissions leading to approval of the Land
+
+13 Swap and the Hotel Project, as well as about the approvals themselves. Further, Petitioners' attorney
+
+14 sent a July 2, 2018, letter to the City Council advising them of the legal deficiencies in their
+
+15 approvals, which are the grounds for Petitioners' claims herein. Among other things, the letter
+
+16 demanded that the City cure or correct its Brown Act violations. When the time for the City to act on
+
+17 that demand has expired, and if the City's response is inadequate, Petitioners intend to amend this
+
+18 petition and complaint to state a cause of action for violations of the Brown Act.
+FIRST CAUSE OF ACTION
+
+19 FOR VIOLATION OF CEQA
+
+20 38. (By All Petitioners Against All Respondents)
+
+21 their entirety. Petitioners re-allege and incorporate by reference herein the preceding paragraphs in
+
+22 39.
+
+23 CEQA applies to any discretionary action taken by an agency that may cause a
+reasonably foreseeable change in the environment.
+
+24 40.
+
+25 CEQA requires that an agency prepare an EIR a for a project whenever substantial
+
+26 evidence in the record supports a fair argument a that the project may have a significant impact on the
+
+27 environment. The EIR is the cornerstone of the CEQA process and discloses a project's potential
+
+28 adverse environmental impacts. The EIR also informs decision-makers, responsible agencies, and
+the public of alternative mitigation measures, project elements, or project designs that would lessen
+10
+Verified Pet. for Writ of Mandate & Complaint for Dec. & Inj. Relief
+
+or avoid the project's environmental impacts.
+
+2 41. CEQA requires that an EIR include an accurate project description, and that the
+
+3 nature and objective of a project be fully disclosed and fairly evaluated in the BIR.
+
+4 42. CEQA also mandates that the lead agency adopt feasible and enforceable mitigation
+
+5 measures that would reduce or avoid any of the project's significant environmental impacts. If
+
+6 substantial evidence in the record supports a fair argument that any of the project's significant
+7 environmental impacts cannot be mitigated to a less than significant level, an agency may not rely on
+
+8 a Mitigated Negative Declaration ("MND") and must instead prepare an EIR.
+
+9 43. The City's approvals of a exchange of its land for private land, and of a development
+
+10 permit, constitute discretionary approvals of projects that trigger the City's obligation to comply
+11 with CEQA.
+
+12 44. The City violated CEQA when it approved the Land Swap, a "project" under CEQA,
+
+13 for the following non-exclusive list of reasons:
+
+14 a. The Land Swap, if consummated, will result in the development of the T'heatre Drive
+
+15 Parcel, the development of improvements related to access at the site, and (if the City-
+
+16 commissioned appraisal is to be accepted) the demolition of a historic motel (a Class ]
+
+17 impact) and the re-development of the River Lodge Parcel with a new hotel. Yet the
+
+18 City failed to undertake any environmental review of the Land Swap's impacts in
+
+19 violation of CEQA.
+
+20 b. The City failed to accurately describe the nature, scope, and purpose of the swap, in
+21 violation of the CEQA's mandate requiring an accurate project description.
+
+22 45. In the alternative, the City violated CEQA when it approved the Hotel Project, for the
+
+23 following non-exclusive list of reasons:
+
+24 a. The City failed to accurately describe the Hotel Project, when it failed to disclose in
+
+25 any environmental document prepared for the Hotel Project that said project is
+
+26 dependent upon, and inextricably connected to, the Land Swap. That violates
+
+27 CEQA's mandate requiring an accurate project description.
+
+28 b. If the City-commissioned appraisal is to be accepted, the Land Swap will have a
+11
+Verified Pet. for Writ of Mandate & Complaint for Dec. & Inj. Relief
+
+1 Class I significant and unavoidable impact (destruction of a historical motel). As a
+
+2 conscquence, the City could not rely on an MND, but instead had to prepare an EIR
+3 evaluating the impacts of the Hotel Project, which rests on the Land Swap. Because
+4 the City failed to prepare an EIR considering those impacts, the City violated CEQA.
+
+5 46. By failing to comply with CEQA as described above, the City committed a
+
+6 prejudicial abuse of discretion, failed to proceed in the manner required by law, and did not make the
+7 necessary findings or adduce the necessary evidence to support its conclusions.
+
+8 SECOND CAUSE OF ACTION
+
+9 FOR VIOLATION OF GOVERNMENT CODE §§ 37350-51 (By All Petitioners Against All Respondents)
+10 47. Petitioners re-alleged and incorporate by reference herein the preceding paragraphs in
+
+11 their entirety.
+
+12 48. California law expressly limits the power of cities to buy, sell, or exchange land.
+13 49. Section 37350 of the Government Code provides that a city "may purchase, lease,
+14 receive, hold and enjoy real and personal property, and control and dispose of it for the common
+
+15 benefit. Gov't Code cc 37350 (emphasis added). Section 37351 further provides that the city "may
+
+16 purchase, lease, exchange, or receive such personal property and real estate situated inside or outside
+17 the city limits as is necessary or proper for municipal purposes," and "may control, dispose of, and
+
+18 convey such property for the benefit of the city." Id. § 37351 (emphasis added).
+
+19 50. The City's approval of the Land Swap violates both statutes. There is insufficient
+
+20 evidence in the record to support the finding that the Theatre Drive and River Lodge Parcels are of
+
+21 substantially equal valuc. Indeed, the evidence indicates that the River Lodge Parcel, given the Class
+
+22 impacts associated with any likely re-development project, is of substantially lower value than the
+
+23 Theatre Drive parcel.
+
+24 51. Given the difference in values between the exchanged parcels, the City cannot
+
+25 establish that its exchange is for "the common benefit," was "necessary or proper for municipal
+26 purposes, or was for "the benefit of the city." Gov. Code § 37350-01. Certainly, the City does not
+27 need to acquire the River Lodge Parcel in order to preserve it, for there is no indication that the
+28 historic structure is subject to demolition and replacement anyway, whether or not the City owns it.
+12
+Verified Pet. for Writ of Mandate & Complaint for Dec. & Inj. Relief
+
+1 The apparent purpose of the land swap seems to have been to substantially benefit a private party-
+
+2 namely, Zen and its owner, Mr. Patel.
+3 52. Because the Land Swap was not for the common benefit of the City, and was not
+
+4 necessary or proper for any municipal purpose other than to placate a private party, the City's
+5 approval violates sections 37350 and 37351 of the Government Code.
+
+6 THIRD CAUSE OF ACTION
+
+7 FOR TAXPAYER WASTE (CODE OF CIVIL PROCEDURE § 526a) (By LLC Petitioners Against All Respondents)
+
+8 53. Petitioners re-alleged and incorporate by reference herein the preceding paragraphs in
+
+9 their entirety.
+
+10 54. The LLC Petitioners have been assessed and are liable to pay, or within one year
+11 before the commencement of this action have paid, taxes to the State of California, the County of
+
+12 San Luis Obispo, and the City.
+
+13 55. The City approved a land swap, whereby it would convey its Theatre Drive Parcel for
+
+14 Zen's River Lodge Parcel. Yet there is insufficient evidence establishing that the two parcels are of
+
+15 substantially the same value. To the contrary, the evidence indicates that the Theatre Drive Parcel-a
+
+16 fully developable parcel-is worth far more than the River Lodge Parcel, which has significant
+
+17 development constraints due to the existence of a historic motel on site.
+
+18 56. Further, in approving the Land Swap, the City violated a number of state laws, as
+19 alleged herein.
+
+20 57. The City's approval of the Land Swap constitutes an illegal waste of City property
+21 and funds, an actionable violation of law under 526a of the Code of Civil Procedure.
+
+22 PRAYER FOR RELIEF
+
+23 WHEREFORE, Petitioners pray for judgment as follows:
+
+24 1. For alternative and peremptory writs of mandate directing Respondents to vacate and
+
+25 set aside all approvals associated with the Land Swap and the Hotel Project;
+
+26 2. For alternative and peremptory writs of mandate directing Respondents to comply
+27 with CEQA and the CEQA Guidelines;
+
+28 3. For a declaration that the Land Swap is unlawful under Government Code sections
+13
+Verified Pet. for Writ of Mandate & Complaint for Dec. & Inj. Relief
+
+37350-51, and Code of Civil Procedure section 526a.
+
+2 4. For a temporary stay, temporary restraining order, and preliminary and permanent
+
+3 injunctions retraining Respondents and their agents, servants, and employees, and all others acting in
+
+4 concert with Respondents on their behalf, from taking any action to implement the Land Swap and
+
+5 Hotel Project, pending full compliance with the requirements of CEQA, the CEQA Guidelines,
+
+6 Government Code sections 37350-51, Code of Civil Procedure section 526a, and all other applicable
+7 laws;
+
+8 5. For a temporary stay, temporary restraining order, and preliminary and permanent
+
+9 injunctions retraining Real Parties in Interest and their agents, servants, and employees, and all
+
+10 others acting in concert with Real Parties in Interest on their behalf, from taking any action to
+
+11 implement the Land Swap and Hotel Project, pending full compliance with the requirements of
+
+12 CEQA, the CEQA Guidelines, Government Code sections 37350-51, Code of Civil Procedure
+
+13 section 526a, and all other applicable laws;
+
+14 6. For costs of suit;
+
+15 7. For attorneys' fees as authorized by Code of Civil Procedure section 1021.5 and other
+
+16 provisions of law; and
+
+17 8. For such other and future relief as the Court deems just and proper.
+
+18 DATED: July 6, 2018 PAUL BEARD II
+
+19 MAX ROLLENS
+ALSTON & BIRD LLP
+
+20 NEIL S. TARDIFF
+
+21 DUSTIN M. TARDIFF
+TARDIFF LAW OFFICES
+
+22 04=W-
+23
+
+24 PAUL BEARD II
+
+25 Attorneys for Petitioners PACIFIC WEST HOTELS & RESORTS, INC., ET AL.
+26
+
+27
+
+28
+14
+Verified Pet. for Writ of Mandate & Complaint for Dec. & Inj. Relief
+
+VERIFICATION
+
+2 a am a Petitioner in this action, the owner of Petitioner Pacific West Hotels & Resorts, Inc.,
+
+3 and the manager member of Pacific Coast Hotel Properties I, LLC, and Pacific Coast Hotel
+4 Properties II, LLC. I am authorized to make this verification on behalf of all Petitioners, I have read
+
+5 the foregoing VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR
+
+6 DECLARATORY AND INJUNCTIVE RELIEF and know its contents. The factual matters stated
+
+7 therein are true of my own knowledge except as to those factual matters that are stated on
+8 information and belief, and as to those matters, I believe them to be true.
+
+9 declare under penalty of perjury under the laws of the State of California that the foregoing
+10 is true and correct.
+
+11 Executed on July 6, 2018, at Puerto Penasco, Mexico,
+
+12
+
+13 dasaes
+14 Kevin Bierl
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+15
+
+Exhibit A
+
+ALSTON & BIRD
+
+333 South Hope Street, 16th Floor
+Los Angeles, CA 90071-1410
+213-576-1000 | Fax: 213-576-1100
+
+Paul J. Beard II Direct Dial: 916-498-3354 Email: paul.beard@alston.com
+
+July 5, 2018
+
+VIA EMAIL AND CERTIFIED MAIL
+
+Mayor Steven W. Martin and Members of
+the Paso Robles City Council
+1000 Spring Street
+Paso Robles, CA 93446
+council@prcity.com; cityclerk@prcity.com
+
+Re: Notice of Lawsuit Challenging Approval of Hyatt Place Hotel Planned Development (PD 17-011) & Property Exchange Agreement
+Dear Mayor Martin and Members of the City Council:
+Please take notice that Pacific West Hotels & Resorts, Inc., will file suit challenging the City's actions associated with its approval of the property exchange with Zen Paso Robles, LLC / Rupesh Patel, and with its approval of the Hyatt Place Hotel Planned Development (PD 17-011) for failure to comply with the California Environmental Quality Act (among other laws). This notice is given pursuant to Public Resources Code section
+21167.5.
+
+Sincerely,
+
+(4p
+
+Paul J. Beard II
+Attorney for Pacific West Hotels & Resorts, Inc.
+
+Alston & Bird LLP www.alston.com
+
+Atlanta | Beijing | Brussels Charlotte | Dallas Los Angeles | New York Raleigh | San Francisco | Silicon Valley Washington, D.C.
+
+1 PROOF OF SERVICE
+
+2 I, Yolanda S. Ramos, declare:
+
+3 am employed in the County of Los Angeles, State of California. I am over the age of 18 and
+4 not a party to the within action. My business address is Alston & Bird LLP, 333 South Hope Street, Sixteenth Floor, Los Angeles, CA 90071, I am over the age of eighteen years and not a party to the action in which this service is made.
+5
+
+6 On July 12, 2018, served the document(s) described as NOTICE TO ATTORNEY
+GENERAL OF THE STATE OF CALIFORNIA OF VERIFIED PETITION FOR WRIT OF
+
+7 MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF on the interested parties in this action as follows:
+
+8 Office of the Attorney General
+
+9 1300 "I" Street
+Sacramento, CA 95814-2919
+
+10 1 BY MAIL: I am "readily familiar" with this firm's practice for the collection and the
+
+I1 processing of correspondence for mailing with the United States Postal Service. In the ordinary course of business, the correspondence would be deposited with the United States
+12 Postal Scrvice at 333 South Hope Street, Los Angeles, California 90071 with postage thereon fully prepaid the same day on which the correspondence was placed for collection and
+13 mailing at the firm. Following ordinary business practices, I placed for collection and mailing with the United States Postal Service such envelope at Alston & Bird LLP, 333 South Hope
+14 Street, Los Angeles, California 90071.
+
+X
+15 UPS NEXT DAY AIR deposited such envelope in a facility regularly maintained by UPS with delivery fees fully provided for or delivered the envelope to a courier or driver of UPS
+16 authorized to receive documents at Alston & Bird LLP, 333 South Hope Street, 16th Floor, Los Angeles, CA 90071.
+
+17 C BY FACSIMILE: telecopied a copy of said document(s) to the following addressee(s) at
+18 the following number(s) in accordance with the written confirmation of counsel in this action.
+0
+19 BY ELECTRONIC MAIL TRANSMISSION WITH ATTACHMENT: On this date, I transmitted the above-mentioned document by electronic mail transmission with attachment
+20 to the parlies at the electronic mail transmission address set forth on the attached service list.
+
+x 21 [State] I declare under penalty of perjury under the laws of the State of California that the above is true and correct.
+22 0 [Federal] - declare under penalty of perjury under the laws of the United States of
+23 America that the foregoing is true and correct.
+
+24 Executed on July 12, 2018, at Los Angeles, Califoraia,/ 25
+
+26 4142 Yolanda S. Ramos
+27
+
+28
+
+PROOF OF SERVICE
+
+ATOUEY . 2218 J0 16 PM 4:51
+
+a* n: *
+
+3t

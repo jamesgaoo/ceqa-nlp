@@ -1,0 +1,979 @@
+JORDAN R. SISSON (SBN 327057)
+LAW OFFICE OF JORDAN R. SISSON
+2 P.O. Box 569
+Riverside, CA 92502
+3 Telephone: 213.629.2071 ext. 1102
+jordan@irsissonlaw.com
+4
+Attorney for Petitioner
+5 COMITE CIVICO DEL VALLE
+
+6
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+7
+COUNTY OF IMPERIAL
+8
+COMITE CIVICO DEL VALLE, Case No. ECU001573
+9
+
+10 Petitioners, NOTICE TO ATTORNEY GENERAL
+
+11 V. Filed under California Quality Act (CEQA)
+
+12 COUNTY OF IMPERIAL;
+DOES 1 through 4,
+13
+Respondents,
+14
+
+15 EL TORO EXPORTS LLC; ETX, LLC;
+16 5 DOES 5 through 10,
+
+17 Real Parties in Interest.
+
+18
+
+19 TO THE CALIFORNIA ATTORNEY GENERAL:
+
+20 Pursuant to Pub. Res. Code § 21167.7, Petitioner Comité Civico del Valle ("CCV")
+
+21 hereby gives notice of its Verified Petition for Writ of Mandate filed September 11, 2020
+
+22 (*Petition"), attached hereto as Exhibit A, which includes claims made under the California
+
+23 Environmental Quality Act ("CEQA").
+
+24 The Petition challenges the actions of the County of Imperial ("County") in approving an
+
+25 expansion-essentially doubling in acreage and head--of an existing roughly 80-acre, 17,000-
+
+26 head cattle feedlot ("Project") located 96 East Fawcett Road in Heber, California ("Site")-an
+
+27 AB 617 community. Specifically, on August 11, 2020, the County approved the Project's request
+
+28 Zone Change that eliminated the Site's "NO GROWTH ALLOWED" special condition adopted
+
+LAW OFFICE OF 1
+JORDAN R. SISSON NOTICE TO ATTORNEY GENERAL
+
+1 by the County in 2007. The Petitioner alleges that the County relied upon a fundamentally flawed
+
+2 Mitigated Negative Declaration ("MND") lacking critical analysis involving air quality impacts,
+
+3 odors, and greenhouse gas emission. So too, it appears that this is but the most recent incident of
+
+4 inadequate analysis for cattle lot projects and alike by the County.
+
+5 Petitioner urges the Attorney General to review the Petition.
+
+6
+
+7
+
+DATE: September 18. 2020 LAW OFFICE OF JORDAN R. SISSON 8
+
+9
+
+By: 10
+TORDAN R. SISSON Attorney for PETITIONER 11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+22 e 8 &
+25
+
+26
+
+27
+
+28
+2 LAW OFFICE OF
+JORDAN R. SISSON NOTICE TO ATTORNEY GENERAL
+
+EXHIBIT A
+
+FILED
+
+JORDAN R. SISSON (SBN 327057) SUPERIOR COURT COUNTY OF IMPERIAL
+LAW OFFICE OF JORDAN R. SISSON CLERK OF THE COURT BY...Mchelle.Carsia..x DEPUTY
+2 P.O. Box 569
+Riverside, CA 92502 Telephone: 213.629.2071 ext. 1102
+jordan@irsissonlaw.com Assigned for all purposes to 4
+Attorney for Petitioner Judge L. Brooks Anderholt
+
+5 COMITE CIVICO DEL VALLE including trial
+
+6 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+[Vi 7 COUNTY OF IMPERIAL
+0'70•00 8 COMITE CIVICO DEL VALLE, Case No. ECU001573
+9 VERIFIED PETITION FOR WRIT OF
+8 10 Petitioners, MANDATE
+0O-11-2UCU naNIIANG KISMOAS BfnaIIn nadamU TInnA InrIAdno uIpona 11 V. Filed under California Quality Act (CEQA)
+
+12 COUNTY OF IMPERIAL;
+DOES through 4,
+13 Respondents,
+14
+
+15 EL TORO EXPORTS LLC; ETX, LLC;
+
+16 DOES 5 through 10,
+
+17 Real Parties in Interest.
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+LAW OFFICE OF
+JORDAN R. SISSON VERIFIED PETITION FOR WRIT OF MANDATE
+
+F
+
+2 Petitioner Comité Civico del Valle ("Petitioner" or "CCV") files this Verified Petition for
+Writ of Mandate ("Petition") and alleges as follows:
+
+3 INTRODUCTION
+
+4 1.
+
+5 By this Petition, Petitioner challenges the approval by the Board of Supervisors of
+
+6 Imperial County ("Respondent" or "County") of an approximate 17,000-head expansion
+
+- IVI 7 ("Project") of an existing roughly 80-acre feedlot located at 96 East Fawcett Road Heber,
+
+ipenai oupenui vuul nebepicu ui vuyu cuclvel! ouvmaugu v7-1I™cUCU ai UO.UC.VI 8 California 92249 ("Site") proposed by Real Party El Toro Exports LLC or ETX, LLC ("Real
+
+9 Party" or "ETX"). Specifically, in furtherance of the Project, the County approved/adopted on
+
+10 August 11, 2020: 1) a Zone Change (No. 18-0006) ("Zone Change"); 2) a Mitigated Negative
+
+11 Declaration (State Clearinghouse No. 2020059027) ("MND"), inclusive of its Mitigation
+
+12 Monitoring and Reporting Program (*MMRP"); and 3) various other approvals (e.g., Ordinance
+
+13 1562, Resolution 2020-78, Resolution 2020-79) (collectively "Project Approvals").
+2.
+
+14 Petitioner alleges that the Project Approvals violated the California Environmental
+
+15 Quality Act, Pub. Res. Code § 21000 et seq., ("CEQA"). Specifically, as set forth in the First
+
+16 Cause of Action herein, Respondent used an MND in lieu of a more comprehensive
+
+17 Environmental Impact Report ("EIR"), despite substantial evidenceincluding expert
+
+18 comments-establishing a fair argument that the Project poses various significant environmental
+
+19 impacts including but not limited to air quality and greenhouse gas ("GHG") emissions, and
+
+20 threatens public health and human safety. As set forth in the Second Cause of Action, Respondent
+
+21 abused its discretion in approving the Project Approvals contrary to applicable land use plans and
+zoning laws.
+
+22 JURISDICTION
+
+23 3.
+
+24 This Court has jurisdiction under Pub. Res. Code §§ 21168 or 21168.5 and Code
+
+25 Civ. Proc §§ 1085 or 1094.5. The parties and the Project Site are located in Imperial County.
+
+26 The within action has been timely brought within 90 days of the Project Approval per Gov. Code
+
+27 con 65009, and timely brought within 30 days of the August 13, 2020 posting of the CEQA Notice
+
+28 of Determination for the Project per Pub. Res. Code § 21167. Petitioner served a Notice of Intent
+
+LAW OFFICE OF to file this Petition on Respondent pursuant to Pub. Res. Code § 21167.5 by mail prior to filing
+
+JORDAN R. SISSON 2
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+this Petition, as reflected in Exhibit A attached hereto. Concurrent with the filing of this action,
+
+2 Petitioner has notified the Attorney General of the State of California of the filing of this Petition
+
+3 in accordance with Pub. Res. Code 8 21167.7.
+
+4 4. As alleged herein, the violations by Respondent have affected the beneficial
+
+5 interests of Petitioner and/or its supporting members, as well as enforcement of important rights
+
+6 affecting the public interest. Issuance of the relief requested in this Petition will confer a
+
+IVI 7 substantial benefit on the public, including citizens, residents, businesses and taxpayers affected
+
+8 by the County's actions here, and will result in the enforcement of important public rights by
+
+9 requiring Respondent and Real Party to comply with CEQA and other legal requirements
+
+10
+AZAZ-U1-AA NanItIAnG KiNSnA ufnoun naidanw unc applicable to the proposed Project.
+
+11 5. Petitioner has no plain, speedy or adequate remedy under ordinary law unless this
+
+12 Court grants the requested writ of mandate to require Respondent to set aside the Project
+
+13 Approvals and prohibiting Respondent and Real Party from taking further actions concerning the
+
+14 Project until it has complied with those legal requirements. In the absence of such remedies,
+
+15 Respondent's decision will remain in effect in violation of state law and injurious to Petitioner
+
+16 and the public. The relief sought by way of this Petition will redress the likelihood of future
+
+17 injury and interference with Petitioner's beneficial interests, its supporting members, and the
+
+18 public's interest in having the law duly followed.
+
+19 PARTIES
+
+20 6.
+
+21 Petitioner Comité Civico del Valle is a non-profit corporation located at 235 Main
+Street, Brawley, California 92227, whose members include affected individuals who have a
+
+22 beneficial interest in the matter set forth in this Petition. Petitioner's mission is to ensure
+
+IDIOAUI Jupeny 23 environmentally responsible development and informed decisionmaking by public officials with
+
+24 particular attention to environmental justice issues affecting stakeholders in Imperial County.
+
+25 Petitioner's interest, and the public's interest, will be directly affected by the Project and
+
+26
+
+27 Respondent's failure to comply with the requirements of CEQA in connection with the Project,
+
+28 including but not limited to air quality, odor, and GHG impacts resulting from the Project, as well
+
+LAW OFFICE OF as adverse effects to the public health and welfare. In addition to having standing via is members,
+
+JORDAN R. SISSON 3
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+Petitioner has public interest given the Project involves the County's duty to enforce applicable
+
+2 laws. (See Rialto Citizens for Responsible Growth v. City of Rialto (2012) 208 Cal.App.4th 899,
+
+3 914-916, n6.)
+
+4 7. Petitioner objected to the Project Approvals before the close of the public hearing
+
+5 on the Project. Petitioner has exhausted all administrative remedies in that the determinations by
+
+6 the Respondent are final and no further administrative appeal procedures are provided by State or
+E O.JE.UIrI 7 local law. All issues submitted for judicial review in this Petition were sufficiently raised and
+
+8 disputed with Respondent before the final approval of the Project. Respondent was given notice
+
+9 and the opportunity to act in compliance with CEQA and other applicable laws but failed to do
+
+: 10 so. It is well-established that any party who participates in the administrative process can assert 0207-11-e0 nonmunne CIOABAGA |RnaIn vour alLepiou IAuAdno muAd 11 all factual and legal issues raised by any commenting party, official, or agency. (See Citizens for
+
+12 Open Government v. City of Lodi (2006) 144 Cal.App.4th 865, 875.)
+
+13 8. Respondent County is a political and geographical subdivision of the State of
+
+14 California with its principal offices located in the E1 Centro, California, with the legal ability to
+
+15 be sued. (See Gov. Code § 23001 et. seq.). The County, via its subagents including its Board of
+
+16 Supervisors, acted as the lead agency for environmental review of the Project and adopted the
+
+17 Project's MND in that capacity, as indicated in the Project's CEQA Notice of Determination filed
+
+18 August 13, 2020. The County has a mandatory duty a to comply with applicable local planning
+
+19 documents, local ordinances, and state law requirements, including CEQA and 14 Cal. Code
+
+20 Regs. ("CEQA Guidelines"), when considering discretionary activities and land use regulatory
+
+21 actions, such as the Project.
+
+22 9. Real Party ETX is believed to a be a California corporation and will be the ultimate
+
+23 recipient of the Project Approval.
+
+24 10. The true names, capacities, corporate, associate or otherwise of Respondents and
+
+25 Real Parties named herein as DOES 1 through 10, inclusive, are unknown to Petitioner who,
+
+26 therefore, sues said Respondents and Real Parties by fictitious names. Petitioner will amend this
+
+27 Petition to show the true names and capacities when they have been ascertained.
+
+28
+
+LAW OFFICE OF 4
+JORDAN R. SISSON VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 GENERAL ALLEGATIONS
+
+2 11. THE SITE: The Project Site is approximately 160 acres located at 96 East Fawcett
+
+3 Road at the southwest corner of the Pitzer Road/Fawcett Road intersection in the unincorporated
+
+4 town of Heber (see figure below [outlined in red]). Currently, the northern half of the Site (appx.
+
+5 80 acres) is used for an existing cattle feed operation (appx. 17,000 cattle) (see figure below [no
+
+6 crosshatching marks]) with composting operations located along the southeastern corner of the
+
+E 7 Site (appx. 40 acres) (see figure below [yellow crosshatching marks]). The Site is in close
+
+8 proximity to numerous sensitive receptors, such as residents and students.
+
+9 PROJECT LOCATION MAP
+
+/ al 10
+
+11
+
+12
+
+13
+911nne CIAAAnA uRnaun naidanu unao innadno IOHANItI 14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+• Prbett Loca5as
+20
+ETX, LLC Pided Paçots
+
+21 ZO #18-0006/IS #18-0023 Phase'$ Exdansion
+
+APN #054-250-012 & 014 •Piaso 2 Expansion
+Ronds
+
+22
+
+23 12. THE PROJECT: The Project entails an expansion of the cattle feedlot operations in
+
+24 two phases, including phase one entailing 8,500 additional head of cattle along the southwestern
+
+25 portion of the site (see figure above [green crosshatching marks]); and phase two entailing 8,500
+
+26 additional head of cattle along southeastern corner of the Site (see figure above [yellow
+
+27 crosshatching marks]), as well as relocating the composting operation to an unknown location
+
+28 outside a 2-mile radius of the Project Site.
+
+LAW OFFICE OF
+JORDAN R, SISSON VERIFIED PETITION FOR WRIT OF MANDATE
+
+13.
+
+2 PRIOR APPROVAL OF EXISTING OPERATIONS: In July 2007, the Project Site
+
+3 received a conditional zone change from A-2 Medium Agriculture to A-3 Heavy Agriculture,
+
+4 allowing composting operations subject to conditions ("2007 Approval"). At that time, the
+
+5 County determined that the composting facility--absent special conditions-could be
+
+6 incompatible in some respects with surrounding uses. Among those special conditions include
+"S17" that provided:
+
+E 7 S17
+
+vO.JL.UI 8 NO GROWTH ALLOWED:
+
+9 This zone change does not in anyway allow the existing feedlot operation to expand from its current size. This will be based on the
+
+8
+IEpelaI OupelluI vuuiL nolopiou A307-11-C0 nanunanc ÁisAlOna nRnaun 10 current number of corrals, size of corrals and footprint of the operation, being 148 corrals.
+14.
+
+11 The 2007 Approval relied upon a Negative Declaration finding there would be no
+
+12 new or additional air impacts. Petitioner is informed and believes that this determination was
+
+13 made absent any air quality or GHG modeling, but rather based on the County's understanding
+
+14 that the then-existing cattle feed operation had been in use for 25 years and would merely keep
+
+15 the status quo. Over the objections of the public, including those made by Petitioner, the County
+granted ETX the 2007 Approvals.
+
+16 15.
+
+17 APPROVAL OF PROJECT: In October 2018, Real Party submitted its application for
+
+18 the Zone Change that would remove special condition S17. By February 2020, the MND was
+
+19 prepared for the Project. In May 2020, the County's Environmental Evaluation Committee
+
+20 reviewed and recommended approval of the MND. In June 2020, the County's Planning
+
+21 Commission recommended approval of the Project Approvals. On August 11, 2020, the County's
+
+22 Board of Supervisors ("BOS") approved the Project Approvals. On August 13, 2020, Respondent
+
+23 filed CEQA Notice of Determination for the Project.
+
+16.
+
+24 Prior to the BOS's August 11, 2020 approval of the Project, Petitioner objected to
+
+25 the Project, including written testimony through counsel that included expert comments that
+
+26 identified fundamental flaws in the MND's air quality, odor, and GHG analysis. So too,
+
+27 numerous other commenting parties raised significant issues about these and other environmental
+
+28 and land use/zoning issues with the Project.
+
+LAW OFFICE OF
+JORDAN R. SISSON VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 FIRST CAUSE OF ACTION
+
+2 (WRIT OF MANDATE - CEQA VIOLATIONS)
+
+3 17. Petitioner restates and realleges Paragraphs 1-16, as if fully set forth herein.
+
+4 18. CEQA has a strong presumption in favor of requiring preparation of an EIR. This
+
+5 reflected in what is known as the "fair argument" standard, under which an agency presumption is
+
+6 must prepare an EIR whenever substantial evidence in the record supports a fair argument that a
+
+1V1 7 project may have a significant effect on the environment. (See Laurel Heights Improvement
+Ouvillueu 0g-11°zuou at VO.JG.VI vuun ALLapIeu unvuyu cucively IAAdnO IDHAAIU 8 Ass'n v. Regents of the Univ. of Cal. (1993) 6 Cal.4th 1112, 1123; No Oil. Inc, V. City of Los
+
+9 Angeles (1974) 13 Cal.3d 68, 75.) A lead agency must prepare an EIR if a project may cause
+
+10 significant effects on the environment, even if the project is beneficial. (See Pub. Res. Code §§
+
+11 21100, 21151 and CEQA Guidelines § 15063(b)(1).)
+
+12 19. The fair argument test is a "low threshold" where a project "may" have a
+
+13 significant effect on the environment if there is a "reasonable probability" that it will result in a
+
+14 significant impact. (No Oil, Inc, 13 Cal.3d at 83-84 n. 16.) Substantial evidence is enough
+
+15 relevant information and a reasonable inference that a fair argument can be made to support a
+
+16 conclusion, even though other conclusions. (See CEQA Guidelines § 15384(a).) Substantial
+
+17 evidence includes facts, reasonable assumptions predicated on facts, and expert opinions
+
+18 supported by facts. (See Pub. Res. Code §§ 21080(e), 21082.2(c); CEQA Guidelines §§
+
+19 15064(f)(5), 15384.) Hence, an agency must prepare an EIR whenever it can be fairly argued by
+
+20 substantial evidence that a project may have a significant environmental impact-if there is
+
+21 substantial evidence both for and against preparing an EIR, then the agency must prepare the EIR.
+
+22 20. Here, multiple commenting agencies and/or parties informed Respondent that
+
+23 substantial evidence showed the MND was flawed and failed to disclose, analyze, and adequately
+
+24 mitigate potentially significant impacts on multiple resources. For example, as set forth in
+
+25 Petitioner's comments including expert opinionsthe MND failed to analyze potential impacts
+
+26 involving air quality, odors, GHG emissions or translate human health effects of these impacts.
+
+27 Other impacts left unresolved by the MND's inadequate analysis include, but not limited to,
+
+28 impacts on land use consistency, agriculture/forest resources, traffic, and cumulative impact (to
+
+LAW OFFICE O 7
+JORDAN R. SISSON VERIFIED PETITION FOR WRIT OF MANDATE
+
+2 name a few). Nor did the MND or Respondent take into acount the unique environmental justice
+
+3 community where the Projet Site lies, which will suffer acutely from Project impacts as compared
+
+4 to other populations. So too, substantial evidence was presented that the Project improperly
+
+5 removed special condition S17. (See e.g., Katzeff v. Dept. of Forestry & Fire Protection (2010)
+
+6 181 Cal.App.4th 601, 614; Lincoln Place Tenants Ass'n v. City of Los Angeles (2005) 130
+
+UO.UC.UI IAI J 7 Cal.App.4th 1491, 1508.) Additionally, substantial evidence was presented that the Project failed
+
+8 to incorporate feasible mitigation measures that would substantially lessen or avoid Project
+
+9 impacts that were not described in the MND, as required by CEQA. (See Pub. Res. Code §
+
+8
+IpOlas upaluI vuuil nubopiou nnuAno ÁIasuAnA uRnaun v7-11-CUCU 10 21081.6(b).) Also, Respondent was presented with substantial evidence there was a fair argument
+
+11 contrary to the Respondent's CEQA findings, and requested more thorough EIR for the Project.
+
+12 So too, no analysis was provided regarding the relocated composting activities, which amounts to
+
+13 improper project piecemealing. (See e.g., CEQA Guidelines § 15378(a); Bozung v. LAFCO
+
+14 (1975) 13 Cal.3d 263, 283-284; McQueen v. Bd. of Supervisors (1988) 202 Cal.App.3d 1136,
+1146-47.)
+
+15 21.
+
+16 Furthermore, Petitioner is informed and believes that this Project's inadequate
+
+17 environmental review is but the latest instance in a pattern and practice by the Respondent of
+
+18 inadequately reviewing the environmental impacts of cattle-feed projects and alike.
+
+22.
+
+19 In sum, Respondent failed to acknowledge that there was a fair argument of
+
+20 potentially significant impacts despite being confronted with credible opinions and substantial
+
+21 evidence on numerous issues. Respondent should have prepared an EIR. Anyone of the impacts
+
+22 mentioned above would lead to the requirement that an EIR be prepared. The Respondent's
+
+23 refusal to prepare an EIR was not based on substantial evidence and was a failure to proceed in
+
+24 accordance with CEQA. Nor is Respondent's pattern and practice of inadequate environmental
+
+25 review of these types of projects proper under CEQA.
+
+26 SECOND CAUSE OF ACTION
+
+27 23. (WRIT OF MANDATE - INCONSISTENCY WITH APPLICABLE ZONING LAWS)
+
+28 Petitioner restates and realleges Paragraphs 1-22, as if fully set forth herein.
+
+LAW OFFICE OF
+JORDAN R. SISSON 8
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+- 24. The California Supreme Court has described General Plans and zoning schemes in'
+
+2 many ways. (See e.g., DeVita v. County of Napa (1995) 9 Cal.4th 763, 773 [as a 'constitution,'
+
+3 "for future development located at the top of "the hierarchy of local government law regulating
+
+4 land use]; Topanga Assn. for a Scenic Community v. County of Los Angeles (1974) 11 Cal.3d 506,
+
+5 517-518 [as a 'contracts,' where "each party foregoes rights to use its land as it wishes in return
+
+6 for the assurance that the use of neighboring property will be similarly restricted, the rationale
+
+7 being that such mutual restriction can enhance total community welfare"]; Orange Citizens for
+
+8 Parks & Recreation v. Superior Court (2016) 2 Cal.5th 141, 159 [as a 'yardstick,' where "one
+
+9 should be able to 'take an individual parcel and check it against the plan and then know which
+
+10 uses would be permissible"].) While planning agencies enjoy some discretion interpreting their
+19-1I-ZUZU nannAnG fi2MAnA uRnaun naidanu uinn 11 zoning laws, "deference has limits" and courts are not bound by unreasonable interpretations
+
+12 contrary to the plain language of regulations and statutes. (Id. at 146, 156-157 [rejecting attempts
+
+13 to "downplay the facial inconsistency," the Court held the city abused its discretion finding
+
+14 residential project consistent with general plan designation where "no reasonable person could
+
+15 conclude that the Property could be developed without a general plan amendment"]; see also
+
+16 Stolman, 114 Cal.App.4th at 928-930 [vacating variance based on the zoning administrator's
+
+17 interpretation contradicted by the plain language of the municipal code].)
+
+18 25. Here, Petitioner is informed and believes that granting the Project Approvals,
+
+19 including but not limited to removal of special condition S17 and approval of the Zone Change,
+
+20 constituted a prejudicial abuse of discretion by Respondent failing to proceed in the manner
+
+21 required by law and/or making the required land use findings (required under the Imperial County
+
+22 Municipal Code ["Code"]) supported by substantial evidence. Without a Project-specific EIR,
+
+23 oupenv mipena Code-required findings cannot be made given the numerous potential impacts affecting public
+
+24 health and welfare, such as adverse impacts on air quality, odors, and GHG emissions (to name a
+
+25 few). Here, the County's Code-required findings simply fail to "bridge the analystical gap
+
+26 between the raw evidence and the ulitmate decision 3 (Topanga, 11 Cal.3d at 515.) So too, it
+
+27 would be contrary to applicable land use plans, such as the Site's underlying SPA Heber land use
+
+28 designation under the General Plan and Heber Urban Area Plan. Also, Petitioner is informed and
+9 LAW OFFICE C
+JORDAN R. SISSON VERIFIED PETITION FOR WRIT OF MANDATE
+
+2
+
+3 believes that various procedural errors were committed when Respondent approved the Project
+
+4 (e.g., maintaining adequate documentation of the 2007 Approvals, missing information in public
+hearing notices, etc.), which defeated adequate public participation here.
+
+26.
+
+5
+
+6 Petitioner has no plain, speedy or adequate remedy at law other than the relief
+
+FIVI 7 sought in this Petition. If Respondent persists in their refusal to rescind the Project Approval, and
+
+UO.U4.UI 8 if Respondent and Real Party are not enjoined or stayed from undertaking acts in furtherance of
+
+9 the Project, Petitioner and the public will suffer irreparable harm from which there is no adequate
+
+8
+IOuAdno IDIAdI tuuil nucepiou ulluuyii CUGIIVGI nanIlinne J9-II-CUGU 10 remedy at law in that the Project can be occupied, operations commence and significant adverse
+impacts on the environment would occur, contrary to the requirements of the law.
+
+27.
+
+11
+
+12 For the foregoing reasons, the County has failed to proceed in accordance with
+
+13 applicable land use plans and zoning laws and, therefore, Petitioner is entitled to the issuance of a
+writ of mandate setting aside all Project Approvals.
+
+14 PRAYER FOR RELIEF
+
+15 WHEREFORE, Petitioner prays for the following relief:
+
+1.
+
+16
+
+17 That the Court enters a peremptory writ of mandate ordering Respondent to set
+
+18 aside and void the Project Approvals, pending its full compliance with CEQA, including adequate
+
+environmental review.
+
+2.
+
+19
+
+20 For a judgment enforcing the duty imposed upon Respondent by CEQA to prepare
+
+21 an adequate environmental review that addresses potential impacts to the environment in any
+subsequent action taken regarding the Project.
+
+3.
+
+22
+
+23 For a judgment enforcing the duty imposed upon Respondent by CEQA to
+adequately consider mitigation to reduce significant impacts in any subsequent action taken
+regarding the Project.
+
+24 4.
+
+25
+
+26 That the Court issue a temporary stay, stay, temporary restraining order, and/or an
+
+27 injunction ordering the Respondent, Real Party, their agents and successors to refrain from
+
+28 proceeding with the Project and issuing further permits while this Petition is pending. is
+
+LAW OFFICE OF
+JORDAN R. SISSON 10
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 5. That the Court issue a permanent injunction ordering the Respondent and Real
+
+2 Party to refrain from proceeding with the Project pending Respondent's full compliance with
+
+3 CEQA including preparation of appropriate CEQA documentation.
+
+4 6. For Petitioner's costs and fees pursuant to Code of Civil Procedure; and
+
+5 7. For other and further relief as the Court finds proper.
+
+6
+
+IVI 7 DATE: September 11, 2020 LAW OFFICE OF JORDAN R. SISSON
+
+10'20'00 10 0707-1 t-2n 21IlUAne taMana tfnau naidagaw unnA Inuadno iouadu 8
+
+9 By:
+
+10 JORDAN R/ SISSON Attorney for PETITIONER
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+LAW OFFICE OI 11
+JORDAN R. SISSON VERIFIED PETITION FOR WRIT OF MANDATE
+
+F
+
+2 VERIFICATION
+
+3
+
+4 I, Luis Olmedo, have read the VERIFIED PETITION FOR WRIT OF MANDATE and
+
+know its contents. The matters stated therein are true
+
+5 to my own knowledge and belief, except as
+stated on information and belief, and to those matters I believe them to be true.
+
+6
+
+tVI I declare under penalty of perjury under the laws of the State of California that the
+
+L 7 foregoing is true and correct.
+
+yo.JC.UI 8 Executed on September 11, 2020, at Brawley, California.
+
+9
+
+8
+IAu2Ano IDIIOmIIL voui nocepieu unvuyu 0707-11-60 NanIlInne ÁIAAAAD 10
+
+11
+
+12
+
+13 Luis Olmedo on behalf of Comité Civico del Valle
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+LAW OFFICE OF
+JORDAN R. SISSON 12
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+E UO.U.VI ri
+8
+ouvmueu 09-11-ZUCU ougivery bfnaun naidamu uinna Inuadno mipenai EXHIBIT A
+
+P.O. Box 569
+Riverside, CA 9250I JORDAN R. SISSON
+ATTORNEY AT LAW
+
+September 9, 2020
+
+VIA PERSONAL SERVICE AND Direct Dial: 213-629-2071 ext. 1102
+
+CERTIFIED MAIL, RETURN RECEIPT REQUESTED Email: jordan@jrsissonlaw.com
+
+UO.JC.UI FIVI Chuck Storey, County Clerk
+County of Imperial
+940 W. Main Street, Suite 202
+EI Centro, CA 92243
+
+RE:
+
+8
+Ipelal upenui vvuil AuCepIou uouyi cuciively puululllou Va-t1-UAU Notice of Intent to File CEQA Petition; EI Toro, LLC Zone Change (#18-0006) & MND (SCH # 2020059027)
+Dear Mr. Storey:
+This office serves as counsel to Civico del Valle ("Comité"). This letter is provided to the County of Imperial ("County") in accordance with Pub. Res. Code 5 21167.5.
+Please take notice that on or before September 14, 2020, pursuant to Pub. Res. Code § 21167, Comité will file a Petition for Writ of Mandate ("Petition") challenging the County's August 11, 2020 approval of the proposed EI Toro cattle feedlot expansion ("Project"), including but not limited to the granting of Zone Change # 18-0006 and adoption of Mitigated Negative Declaration SCH # 2020059027.
+
+Project. The Petition will allege, among other things, that the County did not comply with the California Environmental Quality Act (Pub. Res. Code § 21000 et seq.) ("CEQA") when it approved the proposed
+
+Sincerely,
+
+Jordan R,/ Sisson
+Attorney for Comité Cixieo del Valle
+
+JORDAN R. SISSON
+ATTORNEY AT LAW
+P.O. Box 569 Direct Dial: 213-629-2071 ext. 1102
+Riverside, CA 92501 Email: jordan@jrsissonlaw.com
+
+September 11, 2020
+
+VIA U.S. MAIL
+
+Clerk of the Board
+County of Imperial
+940 W. Main Street
+lAI El Centro, CA 92243
+
+RE: Notice of Intent to File CEQA Petition;
+
+vO.J El Toro, LLC Zone Change (#18-0006) & MND (SCH # 2020059027)
+
+Dear Clerk of the Board:
+8
+-IIGUAU This office serves as counsel to Civico del Valle ("Comité"). This letter is provided to the County of Imperial ("County") in accordance with Pub. Res. Code § 21167.5.
+Please take notice that on or before September 14, 2020, pursuant to Pub. Res. Code $ 21167,
+Comité will file a Petition for Writ of Mandate ("Petition") challenging the County's August 11, 2020
+SWIInne KioNana ufnoun nadanu uinno Inadno iouadi approval of the proposed El Toro cattle feedlot expansion ("Project"), including but not limited to the granting of Zone Change # 18-0006 and adoption of Mitigated Negative Declaration SCH # 2020059027. The Petition will allege, among other things, that the County did not comply with the California Environmental Quality Act (Pub. Res. Code § 21000 et seq.) ("CEQA") when it approved the proposed
+Project.
+
+Sincerely,
+
+Jordan R/Sisson
+Attorney for Comité Cixicó del Valle
+
+PROOF OF SERVICE
+
+2 I, Jordan R. Sisson, being duly sworn, deposes and says:
+
+3 am a citizen of the United States and work in Riverside County, California. I am over the age of eighteen
+
+4 years and am not a party to the within entitled action. My business mailing address is: P.O. Box 569, Riverside, CA 92501. On September 18, 2020, I served this list of persons with the following document(s):
+
+NOTICE TO ATTORNEY GENERAL OF CEQA ACTION
+6
+
+7 The document(s) was served on:
+
+8 Christie L. Vosburg
+California Attorney General's Office
+
+9 California Department of Justice, 1300 I Street, 15th Floor
+
+10 Sacramento, CA 95814
+christie.vosburg@doj.ca.gov
+11 X By placing a true copy thereof enclosed in a sealed envelope, with postage thereon fully
+12 prepaid, in the United States Post Office mailbox at 801 S. Grand Ave., 11 th Floor, Los Angeles, California 90017. I am readily familiar with the office's practice of collection and
+13 processing correspondence for mailing. It is deposited with the U.S. Postal Service on the same day in the ordinary course of business. I am aware that on motion of party served,
+14 service is presumed invalid if postal cancellation date of postage meter date is more than day after date of deposit for mailing in affidavit.
+
+15 X By transmitting via electronic mail the document(s) listed above to the e-mail addresses set forth herein on this date.
+16
+
+17 By submitting an electronic version of the document(s) to One Legal, LLC through the user interface at www.onelegal.com.
+18
+
+19 Executed this September 18, 2020 at Los Angeles, California.
+
+20
+
+21 By: JORDAN R. SISSON
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+LAW OFFICE OF
+JORDAN R. SISSON PROOF OF SERVICE
+
+301d.10 0INTHYYO71 N mneai CPARTMENT OF JUS WCE AM U!: 21 1119I : 9 : >

@@ -1,0 +1,587 @@
+Electronically FILED by Superior Court of California, County of Los Angeles on 07/23/2021 09:42 AM Sherri R. Carter, Executive Officer/Clerk of Court, by R. Clifton, Deputy Clerk
+
+- Law Office of Claudia Medina
+
+2 Claudia Medina (SBN 249139)
+811 Wilshire Blvd. 17th Floor
+3 Los Angeles, CA 90017
+4 Phone: (213) 269-4001
+
+5 Facsimile: (213) 269-4539
+claudia@cmedinalawoffice.com
+6
+
+7 Attorney for Petitioner,
+8 COALITION FOR AN EQUITABLE WESTLAKE/MACARTHUR PARK
+
+9
+
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+11 FOR THE COUNTY OF LOS ANGELES
+NMI09SD COALITION FOR AN EQUITABLE CASE No. 21STCV27117
+WESTLAKE/MACARTHUR PARK,
+VERIFIED PETITION FOR WRIT OF
+V. ManDate
+
+CITY OF LOS ANGELES, California Environmental Quality Act (Pub.
+LOS ANGELES CITY COUNCIL,
+LOS ANGELES DEPARTMENT OF CITY Res. Code §§ 21000-21189.3)
+
+20 PLANNING, LOS ANGELES CITY
+PLANNING COMMISSION,
+21
+22 RESPONDENTS,
+
+23 SHAHIN SIMON NEMAN; APARTMENTS
+24 ON 8TH L LLC; APARTMENTS ON 8TH LL
+
+25 LLC; APARTMENTS ON 8TH LLL LLC;
+DOES 1 TO 1 100,
+26
+
+27 REAL PARTIES IN INTEREST.
+
+28
+
+29
+
+30
+31
+32
+33
+34
+35
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+- Petitioner, Coalition for An Equitable Westlake/Macarthur Park, alleges:
+
+2 Introduction
+3
+4 1. By this action, Petitioner, Coalition for An Equitable Westlake/Macarthur Park
+
+5 challenges the unlawful actions of the City of Los Angeles, its Planning
+
+6 Department, and its City Council, (collectively, the City) to approve the
+
+7 development of, and to adopt a California Environmental Quality Act ("CEQA")
+
+8 Categorical Exemption for a project (the Project) proposed to be constructed at
+
+9 1517-1523 West gth Street in the City of Los Angeles (Project Site).
+
+10 2. The City abused its discretion in approving the Project and related environmental
+11 documentation, as described below.
+12 0520202&5 Parties
+
+3. Petitioner Coalition for an Equitable Westlake/Macarthur Park (the Coalition) is
+an unincorporated association whose members include individuals residing and
+working in the vicinity of the Project. The Coalition brings this action on behalf
+of the public. Members of the Coalition have a beneficial interest in this case
+because the actions being taken by the City, and challenged in this case, affect
+them directly as neighbors of the Project and members of the public at large. The
+Coalition is aggrieved by the Project for the reasons set forth below in this
+petition.
+22
+23 4. Respondent City of Los Angeles (City) is a charter city and municipal
+
+24 corporation and is responsible for regulating and controlling land use in the
+
+25 City's territory, including but not limited to implementing and complying with
+
+26 the provisions of CEQA, the CEQA Guidelines, other California laws, and its
+
+27 General Plan. The Los Angeles City Council (City Council) is the City's
+
+28 legislative body. The Los Angeles Planning Department (Planning Department)
+
+29 is a unit of City government having jurisdiction over certain land-use approvals
+
+30 within the City. Respondent City is the lead agency for purposes of Public
+
+31 Resources Code § 21067, with principal responsibility for conducting
+
+32 environmental review for and approving the Project.
+
+33 5. Real Parties in Interest, Shahin Simon Neman, Apartments on 8th I, LLC,
+34 Apartments on 8th II, LLC, Apartments on 8th III, LLC, are, on information and
+35
+
+- 1-
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+- belief, the legal and equitable owners of the Project Site and the Applicant for the
+
+2 entitlements being challenged in this case (Applicant).
+
+3 6. Petitioner is currently unaware of the true names and capacities of respondents 4 and defendants Does 1 through 10, and therefore sues those parties by such
+5 fictitious names. Does through 10 are agents of the Respondent and Real Party
+6 in Interest who are responsible in some manner for the conduct described in this
+7 petition, or other persons or entities who claim some legal or equitable interest in
+8 the subject matter of this action. Petitioners will amend this petition to show the
+9 true names and capacities of Does 1 through 10 when such names and capacities 10 become known.
+11
+12 Jurisdiction and Venue
+7. This Court has jurisdiction over the matters alleged in this petition under Code of
+14 : 2920983 Civil Procedure (CCP) §§1085 and 1094.5, Pub. Res. Code §§ 21167, 21168,
+and 21168.5.
+
+8. This case is properly classified as an unlimited civil case, and therefore within
+the jurisdiction of this Court, because it is not one of the types of cases listed as
+limited civil cases in CCP §§ 86, 86.1 or 87.
+9. Venue is proper in this Court under CCP con 394 because the Respondent City of
+Los Angeles is a local agency with territory wholly within Los Angeles County,
+22 which is where the Project's environmental effects will be felt.
+23
+24 10. Petitioners have performed all conditions precedent to filing this action,
+
+25 including exhaustion of all administrative remedies to the extent required by law.
+
+26 Petitioner and/or other agencies and individuals raised each of the legal
+
+27 deficiencies asserted in this petition orally or in writing during the Respondent's
+
+28 decision-making process.
+
+29 11. Petitioner has no plain, speedy, or adequate remedy in the course of ordinary law
+30 unless this Court grants the requested writ of mandate to require Respondent to
+31 set aside its certification of the Project and environmental documents. In the
+32 absence of such remedies, Respondent's decisions will remain in effect in
+33 violation of the state law and injurious to Petitioner.
+34
+35
+
+- 2 -
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+-
+2 The Project
+
+3
+4 12. The Project at issue in this case is involving the demolition of the two existing
+
+5 residential structures, and the construction, use, and maintenance of a new seven
+
+6 story, 82 feet in height, mixed-use building with 60 dwelling units, reserving six
+
+7 units for Extremely Low Income Household occupancy for a period of 55 years,
+
+8 over approximately 1,150 square feet of ground floor commercial space, with
+
+9 two levels of parking containing 32 automobile parking stalls; the proposed
+
+10 building will encompass approximately 45,960 square feet in total building area,
+
+11 with a Floor Area Ratio (FAR) of approximately 3.76:1; of the proposed 60 units,
+
+12 34 will be studio units, 22 will be one-bedroom units, and four will be three-
+
+MEcasatET bedroom units; the project will provide 50 long-term bicycle parking spaces and
+six short term bicycle parking spaces in addition to 32 automobile parking
+spaces, and will include approximately 5,077 square feet of open space, provided
+by a combination of balconies, a roof deck, a courtyard, and a recreation
+room/fitness center; the project will maintain a 6-inch front yard, and five-foot
+rear yard as permitted by the underlying C2-2D Zone for Mixed Use Projects
+pursuant to Los Angeles Municipal Code (LAMC) Section 13.09-B .3 and
+LAMC Section 12.22-A.18(c); and will maintain a five-foot setback for the side
+yards, in accordance with the RAS3 Zone; for the properties located at 1517-
+1523 West 8th Street.
+
+22
+23 13. The Applicant applied for Project entitlements on December 30, 2019.
+
+24
+25 14. The project was determined to qualify for the City's Transient Oriented
+
+26 Communities (TOC) program. Pursuant to this qualification, the Project received
+
+27 certain incentives: (1) a 70 percent increase in density consistent with the
+
+28 provisions of the Transit Oriented Communities (TOC) Affordable Housing
+
+29 Incentive Program along with the following two (2) incentives for a Tier 3
+
+30 project totaling 60 dwelling units, reserving six (6) units for Extremely Low
+Income (ELI) Household occupancy for a period of 55 years;
+
+31 a.
+
+32 Yard/Setback. Utilization of side yard setback requirements of the RAS3
+
+33 Zone for a project in the commercial zone; and
+
+34
+35 b. Open Space. A maximum 25 percent reduction in required open space;
+
+- 3 -
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+-
+2
+
+3 15. On December 15, 2020, Petitioner appealed the Director's Determination that the
+Project qualified for a CEQA Categorical Exemption.
+
+4
+
+5 16. On June 1, 2021, the Planning and Land Use (PLUM) Committee considered a
+
+6 report from the Planning Department and Petitioner's CEQA appeal for the
+
+7 Project. After an opportunity for public comment, and presentation from the
+
+8 Appellant's Representative, the Committee recommended to deny Petitioner's
+
+9 appeal and sustain the Director of Planning's determination in approving the
+
+10 Categorical Exemption as the environmental clearance for the project.
+
+11 17. On June 15, 2021, the Los Angeles City Council voted to adopt the
+
+12 187∞55085 recommendations of the PLUM Committee and determined that the Project was
+exempt from CEQA.
+
+18. A Notice of Exemption was filed and posted with the Los Angeles County
+Registrar on June 18, 2021.
+
+First Cause of Action
+Violation of the California Environmental Quality Act (CEQA)
+19. Coalition for an Equitable Westlake/Macarthur Park incorporates 11 1-20 as
+though set forth herein.
+
+21
+22 20. In approving the Categorical Exemption for the Project, the City violated the
+
+23 California Environmental Quality Act, Public Resources Code §§ 21000-21189.3
+
+24 (CEQA) and the CEQA Guidelines (14 Cal. Code Regs. § § 15000-15387 plus
+
+25 appendices) in significant ways, which are described in the following paragraphs.
+
+26
+27 21. On May 19, 2021, the City approved a class-32, "infill development project"
+
+28 categorical exemption, under CEQA Guidelines § 15332(a), is that the Project be
+
+29 "consistent with the applicable general plan designation and all applicable
+
+30 general plan policies as well as with applicable zoning designation and
+regulations."
+
+31
+32 22. CEQA Guidelines § 15300.2(b) contains exceptions that apply to the Project and
+
+33 therefore prohibit the use of a categorical exemption in this case. The Project
+
+34 does not meet the applicable requirements due to the reasons stated below.
+
+35
+
+- 4 -
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+-
+2 a. There is substantial evidence in the record of cumulative impacts. There
+
+3 are numerous other approved housing projects in the vicinity of the
+
+4 Project, which contribute towards significant air quality, traffic, and noise
+
+5 impacts. The Project's contribution to these impacts is cumulatively
+
+6 considerable. CEQA Guidelines section 15355 states: "Cumulative
+
+7 impacts refer to two or more individual effects which, when considered
+
+∞o together, are considerable or which compound or increase other
+environmental impacts."
+9
+10 b. A categorical exemption shall not be used for an activity where there is a
+
+11 reasonable possibility that the activity will have a significant effect on the
+
+90220202851 environment due to unusual circumstances - the unusual circumstances
+being the influx in projects approved and proposed for the area in such a
+short time span, many of them TOC projects approved and proposed
+without proper environmental analysis
+
+Prayer for Relief
+WHEREFORE, Petitioner prays for relief as follows:
+1. for a peremptory Writ of Mandate:
+a. directing the City to set aside and vacate its approval of the Categorical
+
+22 Exemption for the Project;
+
+23 b. directing the City to set aside and vacate all approvals for the Project; and
+
+24 C.
+
+25 ordering the City and the Applicant to cease any and all activity related to
+
+26 the Project that may result in a physical change to the environment unless
+
+27 and until the Project is modified so that it is consistent with the applicable
+
+28 plan and zoning ordinances, and is re-approved following the adoption of
+a legally sufficient CEQA document for the Project.
+
+29
+30 2. For costs of suit;
+
+31 3.
+
+32 For attorney's fees as authorized by Code of Civil Procedure §1021.5 and other
+provisions of law; and
+
+33
+34 4. For such other and further relief as the Court deems just and proper.
+
+35
+
+- 5 -
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+-
+2 Dated: July 22, 2021
+
+3 Respectfully Submitted,
+
+4
+
+5
+6
+7
+∞0 Claudia Medina, Attorney for
+
+9 Petitioner, Coalition for an Equitable
+Westlake/Macarthur Park
+
+10
+11
+90220202858 22
+23
+24
+25
+26
+27
+28
+
+29
+30
+31
+32
+33
+34
+35
+
+- 6 -
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+pd Verification 2
+3 am a member of the unincorporated association known as Coalition for an
+
+4 Equitable Westlake/Macarthur Park, the Petitioner in this action. I am authorized to I
+
+5 execute this verification on its behalf. The foregoing Petition was read to me, and am
+familiar with its contents.
+6
+7 The matters stated herein are true of my own knowledge except as to those
+
+8 matters that are stated on information and belief, and as to those matters, I believe
+them to be true.
+9
+10 I declare under penalty of perjury under the laws of the State of California
+
+11 that the foregoing is true and correct and that this declaration was executed on :
+
+12 7-23-21, at Los Angeles, California.
+
+13
+14
+15
+16 Aeeldaen d ?g 17
+18
+285888
+25
+26
+27
+28
+29
+30
+31
+32
+
+33
+34
+35
+
+VERIFICATION OF PETITION FOR WRIT OF MANDATE
+
+Law Office of Claudia Medina
+
+Claudia Medina
+811 Wilshire Blvd. 17th Floor
+Los Angeles, CA 90017
+(213) 269-4001 (t)
+(213) 269-4539 (f)
+
+Holly L. Wolcott, City Clerk 200 North Spring Stréet City Hall - • Room 360 Los Angeles, CA, 90012 Em: cityclerk@lacity.org
+
+July 22, 2021
+
+Re: Case Nos. CEQA No. ENV-2019-7743-CE; DIR-2019-7742-TOC
+Project Location: 1517-1523 West 8th Street, Los Angeles, CA, 90017 ("the Project")
+
+Dear Ms. Walcott,
+
+My office is writing on behalf of the Coalition for an Equitable Westlake/Macarthur Park,
+regarding a proposed Transit Oriented Communities Project located at 1517-1523 West gth Street
+(the Project). The Project at issue in this case is involving the demolition of the two existing
+residential structures, and the construction, use, and maintenance of a new seven story, 82 feet in
+height, mixed-use building with 60 dwelling units, reserving six units for Extremely Low Income
+Household occupancy for a period of 55 years, over approximately 1,150 square feet of ground
+floor commercial space, with two levels of parking containing 32 automobile parking stalls; the
+proposed building will encompass approximately 45,960 square feet in total building area, with a
+Floor Area Ratio (FAR) of approximately 3.76:1; of the proposed 60 units, 34 will be studio units,
+22 will be one-bedroom units, and four will be three-bedroom units; the project will provide 50
+long-term bicycle parking spaces and six short term bicycle parking spaces in addition to 32
+automobile parking spaces, and will include approximately 5,077 square feet of open space,
+provided by a combination of balconies, a roof deck, a courtyard, and a recreation room/fitness
+center; the project will maintain a 6-inch front yard, and five-foot rear yard as permitted by the
+underlying C2-2D Zone for Mixed Use Projects pursuant to Los Angeles Municipal Code (LAMC)
+Section 13.09-B .3 and LAMC Section 12.22-A.18(c); and will maintain a five-foot setback for the
+side yards, in accordance with the RAS3 Zone; for the properties located at 1517-1523 West 8th
+Stree.
+
+Please take notice, pursuant to Public Resources Code ("PRC") 21167.5, that Petitioners
+intend to file a Verified Petition for Peremptory Writ of Mandate and Complaint for Declaratory
+
+Law Office of Claudia Medina
+
+Claudia Medina
+811 Wilshire Blvd. 17th Floor
+Los Angeles, CA 90017
+(213) 269-4001 (t)
+(213) 269-4539 (f)
+
+and Injunctive Relief (*Petition"), under the provisions of the California Environmental Quality
+Act ("CEQA"), Public Resources Code §21000 et seq., as well as the California Planning and
+Zoning Law, against Respondent and Defendant City of Los Angeles, Los Angeles City Council,
+Los Angeles City Planning Commission and the Los Angeles Department of City Planning
+(collectively "City") challenging the unlawful actions taken by City on June 15, 2021, in (1)
+approving the Project; and (2) failing to conduct an adequate CEQA document for the Project. The
+Petition filed will seek the following relief:
+A. For a writ of mandate commanding Respondent to vacate and withdraw the finding that the
+project qualifies for a CEQA exemption, and any purported approvals of the Project, and to
+require Respondents to adequately complete the CEQA environmental review as required
+by law;
+B. For temporary stay, temporary restraining order, and preliminary and permanent injunctions
+enjoining Respondent and Real Parties in Interest, and their agents, employees, officers or
+representatives, and all persons in concert or participating with Real Parties in Interest from
+taking any action to implement the Project, unless and until Respondent fully complies with
+CEQA;
+C. For a declaration of the rights and duties of the parties hereto, including but not limited to a
+declaratory judgment that Respondent violated its duty pursuant to CEQA by certifying the
+project as CEQA exempt, issuing a Notice of Determination, and purporting to approve the
+project and that the approval for the project, including the environmental document, are null
+and void and without legal effect;
+D. For petitioner's fees and costs, including reasonable attorneys' fees and costs, as authorized
+by California Code of Civil Procedure section 1021.5 and any other applicable provisions of
+law; and
+E. For such other relief as the Court deems appropriate and just.
+
+Law Office of Claudia Medina
+
+Claudia Medina
+811 Wilshire Blvd. 17th Floor
+Los Angeles, CA 90017
+(213) 269-4001 (t)
+(213) 269-4539 (f)
+
+Petitioners urge Respondents to rescind the Notice of Exemption for the Project, as well as the
+existing Project approvals, and prepare the appropriate CEQA documents for this Project as
+required by law.
+
+Very Truly Yours,
+
+Claudia Medina Attorney for Coalition for an Equitable Westlake/Macarthur Park
+
+ectronically FILED by Superior Court of California, County of Los Angeles on 07/23/2021 02:19 PM Sherri R. Carter, Executive Officer/Clerk of Court, by S. Bolden, Deputy Clerk
+
+Law Office of Claudia Medina
+Claudia Medina (SBN 249139) 811 Wilshire Blvd. 17th Floor
++000 00 Los Angeles, CA 90017 Phone: (213) 269-4001
+Facsimile: (213) 269-4539
+claudia@cmedinalawoffice.com
+
+Attorney for Petitioner, COALITION FOR AN EQUITABLE WESTLAKE/MACARTHUR PARK
+
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+= 90 FOR THE COUNTY OF LOS ANGELES
+
+COALITION FOR AN EQUITABLE . ZSTCU ZU7 | Case No. 14 WESTLAKE/MACARTHUR PARK,
+ELECTION REGARDING 15 ADMINISTRATIVE RECORD V. 16
+California Environmental Quality Act (Pub. 17 CITY OF LOS ANGELES,
+LOS ANGELES CITY COUNCIL, Resources Code §§ 21000-21189.3) 18 LOS ANGELES DEPARTMENT OF CITY
+19 PLANNING, LOS ANGELES CITY
+20 PLANNING COMMISSION,
+21
+22 Respondents,
+
+23 SHAHIN SIMON NEMAN; APARTMENTS
+24 ON 8TH L LLC; APARTMENTS ON 8TH LL
+LLC; APARTMENTS ON 8TH LLL LLC; 25 DOES 1 TO 100,
+26
+27 Real Parties in Interest.
+
+28
+29
+30
+31
+32
+33
+34
+35
+
+ELECTION REGARDING ADMINISTRATIVE RECORD
+
+-N0T0ON 0 TO THE HONORABLE COURT, RESPONDENTS AND REAL PARTIES:
+PLEASE TAKE NOTICE THAT under the California Environmental Quality Act,
+Pub. Res. Code § 21167.6(b)(2) ("CEQA"), Petitioner hereby elects to prepare the
+administrative record of proceedings in the referenced matter.
+
+Dated: July 23, 2021 Respectfully Submitted,
+By:
+
+10
+Claudia Medina, Attorney for oN Petitioner, Coalition for an Equitable
+Westlake/Macarthur Park
+
+15
+16
+0008 20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+
+-1-
+
+ELECTION REGARDING ADMINISTRATIVE RECORD

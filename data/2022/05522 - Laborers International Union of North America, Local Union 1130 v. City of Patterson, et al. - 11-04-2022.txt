@@ -1,0 +1,1661 @@
+REBECCA DAVIS (SBN 271662)
+ADAM J. FRANKEL (SBN 343594)
+
+2 LOZEAU | DRURY LLP
+1939 Harrison Street, Suite 150
+3 Oakland, CA 94612
+
+4 Tel: (510) 836-4200; Fax: (510) 836-4205
+E-mail: rebecca@lozeaudrury.com
+
+5 adam@lozeaudrury.com
+
+6 Attorneys for Petitioner
+
+7 LABORERS' INTERNATIONAL
+UNION OF NORTH AMERICA,
+
+8 LOCAL UNION 1130
+
+9
+
+10
+
+11
+
+12 SUPERIOR COURT FOR THE STATE OF CALIFORNIA
+COUNTY OF STANISLAUS
+
+13 LABORERS' INTERNATIONAL UNION OF Case No.: CV-22-004270
+14 NORTH AMERICA, LOCAL UNION 1130, an
+
+15 organized labor union, Filed Under the California Environmental
+Quality Act ("CEQA")
+Petitioner,
+16 NOTICE TO ATTORNEY GENERAL
+
+VS. OF AMENDED VERIFIED PETITION
+
+17 FOR WRIT OF MANDATE
+
+18 CITY OF PATTERSON, a municipality; and
+CITY COUNCIL OF THE CITY OF
+PATTERSON, a municipal body, (CEQA, Pub. Res. Code § 21000, et seq.;
+19 Code of Civil Procedure §§ 1094.5, 1085)
+
+20 Respondents. Dept.: 21 Judge: Hon. John R. Mayne
+21
+
+22 KEYSTONE CORPORATION dba
+KEYSTONE (NC) CORPORATION, a North
+23 Carolina corporation; BALDWIN RANCH
+
+24 DEVELOPMENT LLC, a California limited
+liability company; and ROES through 10,
+25 inclusive,
+
+26 Real Parties in Interest.
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL
+
+- To the Attorney General of the State of California:
+
+2
+
+3 PLEASE TAKE NOTICE, pursuant to Public Resources Code 8 21167.7 and Code of
+
+4 Civil Procedure § 388, that on November 4, 2022, LABORERS' INTERNATIONAL UNION
+
+5 OF NORTH AMERICA, LOCAL UNION 1130 ("Petitioner") filed an Amended Verified
+
+6 Petition for Writ of Mandate ("Petition") against the CITY OF PATTERSON and the CITY
+
+7 COUNCIL OF THE CITY OF PATTERSON ("City" or "Respondents"), and Real Parties in
+
+8 Interest KEYSTONE CORPORATION dba KEYSTONE (NC) CORPORATION, a North
+
+9 Carolina corporation, and BALDWIN RANCH DEVELOPMENT, LLC, in the Stanislaus
+
+10 County Superior Court.
+
+11 The Petition alleges, inter alia, violations of the California Environmental Quality Act
+
+12 ("CEQA"), Public Resources Code § 21000 et seq., in connection with Respondents' unlawful
+
+13 August 16, 2022 decisions, whereby Respondents: (1) approved the Baldwin and Zacharias
+
+14 Master Plans (the "Project"), which together involve the annexation and development of 1,297
+
+15 acres into the City of Patterson; (2) certified an Environmental Impact Report ("EIR") for
+
+16
+
+17 development of the Project; and (3) adopted findings pursuant to the California Environmental
+
+18 Quality Act ("CEQA"), a Statement of Overriding Considerations, and Mitigation Monitoring
+
+19 and Reporting Program for the Project. A copy of the Petition is attached to this Notice.
+
+20 Dated: November 4, 2022 LOZEAU DRURY LLP
+
+21
+
+22
+
+23 )
+
+24 Rebecca Davis
+Attorney for Petitioner
+
+25
+
+26
+
+27
+
+28
+
+2
+NOTICE TO ATTORNEY GENERAL
+
+ATTACHMENTS
+
+REBECCA DAVIS (SBN 271662)
+ADAM J. FRANKEL (SBN 343594)
+2 LOZEAU | DRURY LLP
+1939 Harrison Street, Suite 150
+Oakland, CA 94612
+
+4 Telephone: (510) 836-4200
+E-mail: rebecca@lozeaudrury.com
+5 adam@lozeaudrury.com
+
+6 Attorneys for Petitioner LABORERS' INTERNATIONAL UNION
+7 OF NORTH AMERICA, LOCAL UNION 1130
+
+8 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+9 COUNTY OF STANISLAUS
+10
+
+11 LABORERS' INTERNATIONAL UNION OF Case No.: CV-22-004270
+12 NORTH AMERICA, LOCAL UNION 1130; an
+
+13 organized labor union, Filed Under the California Environmental
+Quality Act ("CEQA")
+Petitioner,
+14 AMENDED VERIFIED PETITION FOR
+V.
+15 WRIT OF MANDATE
+
+16 CITY OF PATTERSON, a municipality; and
+CITY COUNCIL OF THE CITY OF
+
+17 PATTERSON, a municipal body, (CEQA, Pub. Res. Code § 21000, et seq.; Code of Civil Procedure §§ 1094.5, 1085)
+
+18 Respondents,
+Dept.: 21
+KEYSTONE CORPORATION dba
+19 KEYSTONE (NC) CORPORATION, a North Judge: Hon. John R. Mayne
+
+20 Carolina corporation; and BALDWIN RANCH DEVELOPMENT LLC, a California limited
+
+21 liability company; and ROES through 10, inclusive,
+
+22 Real Parties in Interest.
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Amended Verified Petition for Writ of Mandate
+
+INTRODUCTION
+
+2 1. Petitioner LABORERS' INTERNATIONAL UNION OF NORTH AMERICA, LOCAL
+
+3 UNION 1130 ("Petitioner" or "LIUNA") brings this action to challenge the unlawful actions of
+
+4 Respondents CITY OF PATTERSON and CITY COUNCIL OF THE CITY OF PATTERSON
+
+5 (collectively, "City") in approving the Zacharias and Baldwin Ranch Master Plans (Project") and
+
+6 certifying an Environmental Impact Report ("EIR") for the Project because the EIR fails to satisfy the
+
+7 requirements of the California Environmental Quality Act ("CEQA"), Public Resources Code §§ 21000
+
+8 et seq., and the CEQA Guidelines, title 14, California Code of Regulations, §§ 15000 et seq. The Project
+consists of two separate Master Plans (Baldwin and Zacharias) that together involve the annexation of
+
+10 1,297 acres into the City of Patterson, both of which were approved by Respondents along with a
+
+11 General Plan amendment, various Conditions of Approval, and an Ordinance requiring that the
+
+12 properties located within the Master Plan boundaries be "prezoned" to be consistent with the land use
+
+13 designations of the Master Plans (collectively, the "Approvals").
+
+14 2. Jointly proposed by five property ownership groupsidentified as Zacharias Ranch, TFP
+
+15 Development, Lakeside Hills, Keystone Ranch, and Baldwin Ranch-which collectively own 1,160
+
+16 acres, the Project contemplates the development of residential, mixed use, commercial, industrial,
+
+17 school, parks, and open space uses. Each of the two Master Plans is composed of smaller "development
+
+18 areas" that are designated for a variety of land uses. The Zacharias Master Plan includes five
+
+19 development areas while the Baldwin Master Plan includes only one. This Petition is solely concerned
+
+20 with Respondents' violation of CEQA as pertains to the approval of light industrial uses within the
+
+21 Zacharias Ranch Development Area.
+
+22 3. By far the Project's most significant environmental impact, the Zacharias Ranch
+
+23 Development Area would include the development of approximately 6,910,000 square feet zoned for
+
+24 light industrial uses. The Zacharias Ranch Development Area is located east of Rogers Road, south of
+25 Zacharias Road, and west of Baldwin Road, and is composed of approximately 478.7 acres. The
+
+26 proposed land uses within it include 125.3 acres for medium-density residential use; 22.2 acres for
+27 community commercial use; 10 acres for park use; 3.7 acres for trail use; and a sprawling 317.5 acres for
+
+28 light industrial use. In total, the planned industrial use constitutes roughly two-thirds of the area's total
+
+Amended Verified Petition for Writ of Mandate
+
+acreage.
+
+2 4. The Project will be developed in phases, beginning with those areas located closest to
+
+3 existing development. The industrial portions of the Zacharias Ranch Development Area would be
+
+4 developed during phases 1C and 2A, the third and fourth phases, respectively, of seven phases of
+
+5 development for the five planning areas which collectively constitute the Zacharias Master Plan.
+
+6 5. The Project site currently consists of largely undeveloped land, rich in biological
+
+7 resources, including hundreds of acres of critical habitat for dozens of wildlife species, at least six of
+
+8 which are designated special-status species.
+
+9 6. In certifying the EIR, Respondents failed to comply with CEQA. More specifically,
+
+10 Respondents prejudicially abused their discretion and failed to proceed in the manner required by law
+
+11 by certifying an EIR that does not adequately analyze or mitigate the significant environmental impacts
+
+12 that will result from the planned industrial land uses within the Zacharias Ranch Development Area.
+
+13 The EIR also fails to adopt all feasible mitigation measures, fails to provide an adequate response to
+
+14 comments, and presents an insufficient statement of overriding considerations. As a result of these and
+
+15 other deficiencies, the EIR fails as an informational document.
+
+16 7. Because the EIR violates CEQA, all Approvals related to industrial land uses within the
+
+17 Zacharias Ranch Development Area must be overturned. Petitioner respectfully requests that the Court
+
+18 direct Respondents to prepare a supplemental EIR to address the specific CEQA violations related to
+
+19 these planned industrial uses.
+
+20 PARTIES
+
+21 8. Petitioner LABORERS' INTERNATIONAL UNION OF NORTH AMERICA, LOCAL
+
+22 UNION 1130 ("LIUNA") is a labor organization a made up of members who reside throughout Merced
+
+23 and Stanislaus Counties, including in the City of Patterson. LIUNA's purposes include advocating on
+
+24 behalf of its members to ensure safe workplace environments; working to protect recreational
+
+25 opportunities for its members to improve its members' quality of life when off the job; advocating to
+
+26 assure its members access to safe, healthful, productive, and aesthetically and culturally pleasing
+
+27 surroundings on and off the job; promoting environmentally sustainable businesses and development
+
+28 projects on behalf of its members, including providing comments raising environmental concerns and
+
+2
+Amended Verified Petition for Writ of Mandate
+
+benefits on proposed development projects; advocating for changes to proposed development projects
+
+2 that will help to achieve a balance between employment, the human population, and resource use to
+
+3 permit high standards of living and a wide sharing of life's amenities by its members as well as the
+
+4 general public; advocating for steps to preserve important historic, cultural, and natural aspects of our
+
+5 national heritage, and maintain, wherever possible, an environment that supports diversity and variety of
+
+6 individual choice; advocating on behalf of its members for programs, policies, and development projects
+
+7 that promote not only good jobs but also a healthy natural environment and working environment,
+
+8 including advocating for changes to proposed projects and policies that, if adopted, would reduce air,
+
+9 soil, and water pollution, minimize harm to wildlife, conserve wild places, reduce traffic congestion,
+
+10 reduce global warming impacts, and assure compliance with applicable land use ordinances; and
+
+11 working to attain the widest range of beneficial uses of the environment without degradation, risk to
+health or safety, or other undesirable or unintended consequences.
+12 9. LIUNA and its members have a direct and beneficial interest in Respondents' compliance
+13 with laws bearing upon approval of the Project. These interests will be directly and adversely affected
+14 by the Project, which violates the law as set forth in this Petition. The maintenance and prosecution of
+15 this action will confer a substantial benefit on the public by protecting the public from the environmental
+16 and other harms alleged below and others that may exist but are unknown due to the lack of a full
+17 environmental analysis. LIUNA and its members submitted comments to the City's Planning
+
+18 Commission and the City Council objecting to and commenting on the Project and its unsupported and
+
+19 inadequate environmental review pursuant to CEQA.
+
+20 10. Respondent CITY OF PATTERSON ("City") is a municipal body in whose jurisdiction
+
+21 the Project will be located. Respondent CITY OF PATTERSON is the "lead agency" for the Project for
+
+22 purposes of Public Resources Code 21067, and has principal responsibility for conducting
+
+23 environmental review for the Project and taking other actions necessary to comply with CEQA.
+
+24 11. Respondent CITY COUNCIL OF THE CITY OF PATTERSON ("City Council") serves
+
+25 as the elected governing body of the City of Patterson. The City Council is vested with all the powers of
+
+26 the City, including reviewing and approving certain development plans and complying with the
+
+27 requirements of state laws. Respondent CITY COUNCIL is ultimately responsible for reviewing and
+
+28 approving or denying the Project. The CITY COUNCIL voted on August 16, 2022, to approve the
+
+3
+
+Amended Verified Petition for Writ of Mandate
+
+Project, including certification of the EIR.
+
+2 12. Real Party in Interest KEYSTONE CORPORATION dba KEYSTONE (NC)
+3 CORPORATION is a North Carolina corporation doing business in California and is listed as the
+
+4 Project applicant on the Notice of Determination (NOD"), which the City filed with the Stanislaus
+
+5 County Clerk-Recorder on August 18, 2022.
+
+6 13. Real Party in Interest BALDWIN RANCH DEVELOPMENT LLC is not listed on the
+
+7 NOD. However, its designated agent for service of process, Mr. Joseph B. Hollowell III, is listed in the
+
+8 EIR as the property owner and representative for the Baldwin Ranch and Zacharias Ranch development
+areas. Petitioner therefore believes that BALDWIN RANCH DEVELOPMENT LLC is the entity
+
+10 responsible for development of the Zacharias Ranch Development Area.
+
+11 14. Real Parties in Interest KEYSTONE CORPORATION and BALDWIN RANCH
+
+12 DEVELOPMENT LLC may collectively be referred to hereafter as "Applicants" or "Real Parties."
+
+13 15. The true names and capacities of Real Parties in Interest 1 ROES 1 through 10 are not
+
+14 presently known to Petitioner. Petitioner may amend this Petition to add the true names and capacities of
+
+15 said Roes at such time as they are discovered.
+
+16 JURISDICTION AND VENUE
+
+17 16. This Court has jurisdiction over the matters alleged in this Petition pursuant to Code of
+
+18 Civil Procedure sections 1085 and 1094.5, and Public Resources Code sections 21167, 21168 and
+
+19 21168.5.
+
+20 17. Venue is proper in Stanislaus County Superior Court in accordance with Code of Civil
+
+21 Procedure section 395 because the Project at issue is located in the County of Stanislaus.
+
+22 18. Venue is proper in this Court under California Code of Civil Procedure §§ 394 (actions
+
+23 against a city, county, or local agency) and 395 (actions generally) because Respondents include a City
+
+24 and local agencies based in the County of Stanislaus and because the cause of action alleged in this
+
+25 Petition arose in the County of Stanislaus and the Project will occur within the County of Stanislaus.
+
+26 19. This action was timely filed. Petitioner has filed this Petition prior to the expiration of
+
+27 any applicable statute of limitations.
+
+28 STANDING
+
+4
+
+Amended Verified Petition for Writ of Mandate
+
+20. Petitioner has standing to assert the claims alleged in this Petition because they are
+
+2 beneficially interested in this matter, as required by Code of Civil Procedure section 1086. Petitioner has
+
+3 direct and beneficial interests in Respondents' compliance with laws bearing upon approval of the
+
+4 Project. These interests will be directly and adversely affected by the Project, which violates the law as
+
+5 set forth in this Petition and would cause substantial harm to the natural environment and the quality of
+
+6 life in the surrounding community. In addition, unless the relief requested herein is granted, the
+
+7 environment will be adversely affected and injured by Respondents' failure to comply with CEQA when
+
+8 certifying the EIR and approving the Project.
+
+9 21. Petitioner actively participated in the Project's administrative approval process in an
+
+10 attempt to ensure Respondents complied with CEQA and all other applicable laws.
+
+11 EXHAUSTION OF ADMINISTRATIVE REMEDIES
+
+12 22. Petitioner has performed or will perform all conditions precedent to the filing of this
+
+13 Petition. Petitioner has actively participated in the administrative and environmental review process
+
+14 prior to close of the public hearings on the Project and before the issuance of the notice of
+
+15 determination. Petitioner has fully exhausted administrative remedies to the extent required by law.
+
+16 (Pub. Resources Code, § 21177, subd. (a).)
+
+17 23. CEQA allows a petitioner who objected to a project to allege in a writ petition all
+
+18 deficiencies asserted by others. (Citizens for Clean Energy v. City of Woodland (2014) 225 Cal.App.4th
+
+19 173, 191.) Petitioner, other agencies, interested groups, and individuals made oral and written commentsl
+20 on the Project, and raised each of the legal deficiencies asserted in this Petition.
+
+21 24. Respondents have taken final agency actions certifying the EIR and adopting the related
+
+22 Project approvals. Respondents had a mandatory duty to comply with all applicable laws, including, but
+
+23 not limited to CEQA, prior to undertaking the discretionary approvals at issue in this lawsuit. Petitioners
+
+24 possess no effective remedy to challenge the Project approvals at issue in this action other than by
+
+25 means of this lawsuit.
+
+26 NOTICE OF CEOA SUIT
+
+27 25. On August 30, 2022, Petitioner served a notice of its intent to file this lawsuit, in
+
+28 accordance with Public Resources Code section 21167.5. (See Exhibit 1: Notice of Intent to File Petition
+
+5
+
+Amended Verified Petition for Writ of Mandate
+
+Pursuant to the California Environmental Quality Act.)
+
+2 PREPARATION OF ADMINISTRATIVE RECORD
+
+26. Pursuant to Public Resources Code, section 21167.6, subdivision (b)(2), Petitioner elects
+
+4 to prepare the record of proceedings in this action. (See Exhibit 2: Petitioner's Notice of Intent to
+
+5 Prepare Record.)
+
+6 PRIVATE ATTORNEY GENERAL DOCTRINE
+
+7 27. Petitioners bring this action as private attorneys general pursuant to Code of Civil
+
+8 Procedure section 1021.5, and any other applicable legal theory, to enforce important rights affecting
+
+9 the public interest.
+
+10 28. Issuance of the relief requested in this Petition will confer a significant benefit on the
+
+11 general public by requiring Respondents to carry out their duties under CEQA and other applicable
+
+12 laws before approving the Project.
+
+13 29. Issuance of the relief requested in this Petition will also result in the enforcement of
+
+14 important rights affecting the public interest by compelling Respondents to engage in a legally adequate
+
+15 analysis of the Project, and to ensure that the public has meaningful opportunity to review and
+
+16 comment on the impacts and mitigation measures for the Project.
+17 30. The necessity and financial burden of enforcement make an award of attorneys' fees
+
+18 appropriate in this case. Without this Petition, Respondents and Real Party will proceed with a plan and
+
+19 development that will cause significant, unmitigated environmental impacts that might otherwise have
+
+20 been reduced or avoided through legally adequate environmental review and the adoption of feasible
+
+21 mitigation measures.
+
+22 IRREPARABLE HARM
+
+23 31. Petitioner and its members live, work, and/or recreate near the Project site and in the
+
+24 City of Patterson. They have been and will continue to be harmed by Respondents' failure to provide
+
+25 environmental documents that accurately and fully inform interested persons of the Project's true
+
+26 impacts, and mitigate those impacts. Such documents would lead to better environmental decision-
+
+27 making regarding the Project, and would enable all residents, land owners, and business owners in the
+
+28 affected region to better understand the true environmental impacts of the Project.
+
+6
+
+Amended Verified Petition for Writ of Mandate
+
+32. Petitioner has no plain, speedy, or adequate remedy in the course of ordinary law unless
+
+2 this Court grants the requested writ of mandate to require Respondents to set aside their approval of the
+
+3 Project. In the absence of such remedies, Respondents' decisions will remain in effect in violation of
+
+4 State law and Petitioner will be irreparably harmed. No monetary damages or legal remedy could fully
+
+5 and adequately compensate Petitioner for that harm.
+
+6 PROCEDURAL ALLEGATIONS
+
+7 33. On December 3, 2020, the City released a Draft EIR (DEIR") for public review and
+
+8 comment on the Project.
+
+9 34. Several parties provided written comments on the DEIR, including organizations, public
+
+10 agencies, and individual members of the public.
+
+11 35. Petitioner submitted written comments to Respondents on the DEIR on April 14, 2021.
+
+12 36. On July 1, 2021, the City released a Final EIR ("FEIR") for the Project.
+
+13 37. On August 12, 2021, the City Planning Commission held a hearing to consider the Project
+
+14 and the FEIR.
+
+15 38. At the August 12, 2021 hearing, the Planning Commission voted to recommend approval
+
+16 of the Project and certification of the FEIR.
+
+17 39. Petitioner submitted written comments to Respondents on the FEIR on August 16, 2022.
+
+18 40. On August 16, 2022, following a hearing, the City Council approved the Project, certified
+
+19 the EIR, and adopted Findings, a Statement of Overriding Considerations, and a Mitigation Monitoring
+
+20 and Reporting Program. At this meeting, the City Council adopted a Motion to Approve a First Reading
+
+21 and Introduction of Ordinance No. 862, reading by title only and waiving further reading. Once adopted,
+
+22 Ordinance No. 862 would prezone the properties located within the Baldwin and Zacharias Master Plan
+
+23 Areas to be consistent with the land use designations of the City's Master Plan. On August 18, 2022, the
+
+24 City a filed a Notice of Determination regarding the City Council's approvals for the Project with the
+
+25 Stanislaus County Clerk-Recorder.
+
+26 41. On October 4, 2022, following a hearing, the City Council adopted a Motion to Approve
+
+27 a Second Reading of Ordinance No. 862, reading by title only and waiving further reading, and a Motion
+
+28 to Adopt Ordinance No. 862, reading by title only and waiving further reading. Ordinance No. 862 was
+
+7
+Amended Verified Petition for Writ of Mandate
+
+thereupon formally adopted by the City Council, thus prezoning the properties located within the Baldwin
+
+2 and Zacharias Master Plan Areas.
+
+FACTUAL ALLEGATIONS
+
+4 THE PROJECT AND PROJECT SITE:
+
+5 42. The Project consists of two separate Master Plans (Baldwin and Zacharias) that together
+
+6 involve the annexation of 1,297 acres into the City of Patterson.
+
+7 43. The Project contemplates the development of residential, mixed use, commercial,
+
+8 industrial, school, parks, and open space uses.
+
+9 44. The Zacharias Ranch Development Area (*Development Area") is one of five
+
+10 development areas proposed under the Zacharias Master Plan. By far the Project's most significant
+
+11 environmental impact, it involves the development of approximately 6,910,000 square feet for light
+12 industrial uses. The Development Area is the only segment of the Project which contemplates industrial
+
+13 development.
+
+14 45. The Development Area is located east of Rogers Road, south of Zacharias Road, west of
+
+15 Baldwin Road, and is composed of approximately 478.7 acres. The proposed land uses within the
+16 Development Area include 125.3 acres for medium-density residential use; 22.2 acres for community
+
+17 commercial use; 10 acres for park use; 3.7 acres for trail use; and a massive 317.5 acres for light
+
+18 industrial use. In total, the planned industrial use constitutes roughly two-thirds of the Development
+
+19 Area's total land area.
+
+20 46. Currently, the Development Area is largely undeveloped, consisting mainly of open
+
+21 space and agricultural land. The Project site contains hundreds of acres of open land which provide
+
+22 critical habitat for dozens of wildlife species, including at least six special-status species.
+
+23 IMPACTS ON BIOLOGICAL RESOURCES:
+
+24 47. Petitioner submitted written comments to Respondents, on April 14, 2021, describing
+
+25 numerous ways in which the DEIR's analysis and mitigation of Project impacts on biological resources
+
+26 failed to comply with CEQA. These comments included an expert analysis prepared by wildlife
+
+27 biologist Dr. Shawn Smallwood, Ph.D.
+
+28 48. Dr. Smallwood found that the DEIR's discussion of wildlife impacts was insufficient
+
+8
+Amended Verified Petition for Writ of Mandate
+
+because it: (1) mischaracterized the environmental setting and abundance of species occurring or likely
+
+2 to occur on the Project site; (2) failed to account for habitat loss; (3) mischaracterized the CEQA
+
+3 standard for assessing impacts to wildlife movement; (4) failed to assess the impacts on wildlife from
+
+4 traffic, window collisions, and house cats; (5) failed to assess the Project's impact on wildlife resulting
+
+5 from future energy demands; and (6) failed to assess the Project's cumulative impacts on wildlife. The
+
+6 FEIR does not respond to any of Dr. Smallwood's comments or address these impacts to wildlife.
+
+7 49. Dr. Smallwood determined that at least six special-status species occur on or near the
+
+8 Project site. Among other findings, Dr. Smallwood reported four sightings of Loggerhead shrike
+(Lanius ludovicianus) throughout the Project site. Loggerhead shrike is designated by the U.S. Fish and
+
+10 Wildlife Service as a Bird Species of Conservation Concern ("BCC") and is classified as a California
+
+11 Species of Special Concern, Priority Level 2. In one instance, Dr. Smallwood viewed Loggerhead
+
+12 shrike from a vantage point near Rogers Road, approximately 900 meters south of Zacharias Road, a
+
+13 location squarely within the Zacharias Ranch Development Area. The FEIR includes no reference
+
+14 whatsoever to the presence of Loggerhead shrike on the Project site.
+15 50. Dr. Smallwood additionally observed that the DEIR presented "flawed and misleading
+
+16 conclusions" regarding the likely presence of Swainson's hawk (Buteo swainsoni) on the Project site
+
+17 and surrounding areas. For instance, the DEIR stated that no Swainson's hawks were observed on the
+
+18 Project site -without disclosing that the birds are in fact widely known to seasonally migrate to Mexico
+
+19 at the time of year during which the wildlife survey was conducted. The California Department of Fish
+
+20 and Wildlife ("CDFW") raised similar concerns regarding the EIR's failure to provide sufficient
+
+21 mitigation to compensate for the Project's likely significant impacts to Swainson's hawk. In response,
+
+22 the FEIR asserts, without evidence, that "compensatory mitigation for Swainson's hawk ...] is not
+
+23 necessary nor recommended."
+
+24 AIR QUALITY IMPACTS:
+
+25 51. Petitioner submitted written comments to Respondents, on April 14, 2021, describing
+
+26 various ways in which the DEIR's analysis of air quality impacts failed to comply with CEQA. These
+
+27 comments included expert written analysis prepared by Matt Hagemann, P.G., C.Hg., and Dr. Paul E.
+
+28 Rosenfeld, Ph.D., of the environmental consulting firm Soil/Water/Air Protection Enterprise
+
+9
+
+Amended Verified Petition for Writ of Mandate
+
+("SWAPE").
+
+2 52. SWAPE found that the DEIR severely underestimated the Project's construction and
+
+3 operational emissions, and that it failed to implement all feasible mitigation measures to reduce the
+
+4 Project's significant emissions of criteria air pollutants, including reactive organic gases ("ROG"),
+
+5 nitrogen oxides ("NOx"), carbon monoxide ("CO"), and particulate matter ("PM10"and "PM2.5"). The
+
+6 FEIR does not respond to these comments or discuss in any detail the Project's air quality impacts.
+
+7 53. Petitioner submitted additional written comments to Respondents, on August 16, 2021,
+
+8 regarding the FEIR's failure to include feasible mitigation measures addressing the Project's significant
+and unavoidable air quality impacts. The FEIR asserted, without evidence, that the only feasible
+
+10 mitigation measure available to address these impacts is the EIR's proposed measure, MM AIR-3, which
+
+11 would require that the Project's future construction contractors demonstrate to the City that "a good faith
+12 effort was made to obtain off-road equipment meeting Tier 4 standards."
+
+13 54. Tier 4 is an emissions standard for nonroad diesel engines established by the U.S.
+14 Environmental Protection Agency ("EPA") and enforced by the California Air Resources Board
+15 ("CARB"). CARB is currently drafting a rulemaking that would require more stringent emissions
+
+16 reductions for future production and sales of new off-road diesel engine equipment within California.
+
+17 55. The EIR fails to provide substantial evidence in support of Respondents' decision to
+
+18 approve the Project without adopting all feasible mitigation measures to reduce air quality impacts. For
+
+19 instance, Respondents offer no evidence to support the EIR's claim that it would be infeasible to require
+
+20 that industrial projects within the Zacharias Ranch Development Area utilize only Tier 4 or higher-level
+
+21 equipment to minimize future construction emissions.
+
+22 GREENHOUSE GAS IMPACTS:
+
+23 56. Petitioner submitted written comments to Respondents, on April 14, 2021, describing
+
+24 various ways in which the DEIR's analysis of greenhouse gas ("GHG") impacts failed to comply with
+25 CEQA. These comments included SWAPE's expert analysis on the subject.
+
+26 57. SWAPE found that the DEIR failed to adequately evaluate the Project's GHG emissions
+
+27 and failed to implement all feasible mitigation measures to reduce the Project's GHG emissions.
+
+28 58. Petitioner submitted additional written comments to Respondents, on August 16, 2021,
+
+10
+Amended Verified Petition for Writ of Mandate
+
+regarding the FEIR's failure to include feasible mitigation measures that would address the Project's
+
+2 significant and unavoidable GHG impacts.
+
+3 59. The EIR fails to provide any evidence in support of Respondents' decision to not require
+
+4 the installation of solar panels on all industrial buildings within the Zacharias Ranch Development Area.
+
+5 Solar panels are widely used throughout the State and, if utilized here, would provide a sufficient energy
+
+6 supply to meet all projected energy demand from the Project's industrial buildings while significantly
+
+7 reducing the Project's reliance on GHGs.
+
+8 HUMAN HEALTH IMPACTS:
+
+9 60. Petitioner submitted written comments to Respondents, on April 14, 2021, describing the
+
+10 DEIR's failure to quantify the risk to human health from the Project's emissions of diesel particulate
+
+11 matter ("DPM"). These comments were presented together with SWAPE's expert analysis on this issue.
+
+12 61. An overwhelming majority of the Project's DPM emissions will be generated by the daily
+
+13 operation of heavy-duty diesel-powered trucks operating in and around the industrial buildings located
+
+14 within the Zacharias Ranch Development Area.
+
+15 62. The DEIR did not contain a quantified health risk assessment ("HRA") to evaluate the
+
+16 Project's impact on human health from DPM emissions. The failure to provide a quantified HRA is
+17 inconsistent with the most recent guidance of the Office of Environmental Health Hazard Assessment
+
+18 ("OEHHA"). OEHHA recommends that all short-term projects lasting at least two months be evaluated
+
+19 for cancer risks to nearby sensitive receptors. OEHHA also recommends that exposure from projects
+20 lasting more than 6 months be evaluated for the duration of the project and recommends that an
+
+21 exposure duration of 30 years be used to estimate individual cancer risk for the maximally exposed
+
+22 individual resident ("MEIR").
+
+23 63. In response to the DEIR's failure to consider human health impacts, SWAPE prepared a
+
+24 screening-level HRA to evaluate potential DPM impacts resulting from the Project's construction and
+
+25 future operation. SWAPE found that the Project would produce elevated cancer risks in infants,
+
+26 children, and lifetime residents, all in excess of the applicable significance threshold established by the
+
+27 San Joaquin Valley Air Pollution Control District ("SJVAPCD"). The FEIR provides no response to
+
+28 these comments and fails to address the Project's human health impacts.
+
+11
+Amended Verified Petition for Writ of Mandate
+
+64. The EIR's air quality analysis further violates CEQA by failing to properly analyze the
+
+2 correlation between adverse air quality impacts and resultant negative health impacts. A failure to
+
+3 correlate a project's adverse air quality impacts to increased incidents of health ailments constitutes a
+
+4 prejudicial abuse of discretion under CEQA. Instead, an EIR must "correlate the identified adverse air
+
+5 quality impacts to resultant adverse health effects." Bakersfield Citizens. for Local Control v. City of
+
+6 Bakersfield (2004) 124 Cal.App.4th 1184, 1219. The City has violated CEQA by failing to disclose or
+
+7 evaluate these significant health impacts in the EIR.
+
+8 ENERGY IMPACTS:
+
+9
+65.
+10 Petitioner submitted written comments to Respondents, on August 16, 2022, detailing the
+
+11 EIR's failure to adequately address the Project's energy impacts and proposing implementation of
+
+12 feasible renewable energy options.
+
+66.
+13 CEQA provides that all Projects must include mitigation measures "to reduce the
+
+14 wasteful, inefficient, and unnecessary consumption of energy." (PRC § 21100(b)(3).) Energy
+
+15 conservation under CEQA is defined as the "wise and efficient use of energy." (CEQA Guidelines, app.
+
+16 F, § I.) The "wise and efficient use of energy" is achieved by "(1) decreasing overall per capita energy
+
+17 consumption, (2) decreasing reliance on fossil fuels such as coal, natural gas and oil, and (3) increasing
+
+18 reliance on renewable energy resources." (Id.)
+
+67.
+19 Mere compliance with the California Building Energy Efficiency Standards (Cal. Code
+
+20 Regs., tit. 24, part 6 ("Title 24") does not constitute an adequate analysis of energy. League to Save Lake
+
+21 Tahoe, 75 Cal. App. 5th at 165; Ukiah Citizens for Safety First v. City of Ukiah (2016) 248 Cal. App. 4th
+
+22 256, 264-65. Notably, in California Clean Energy V. City of Woodland, the court held unlawful an EIR's
+
+23 energy analysis which relied solely upon compliance with Title 24 to conclude that energy impacts
+
+24 would be less than significant. California Clean Energy Committee v. City of Woodland (2014) 225 Cal.
+
+25 App. 4th 173, 209-13 (City of Woodland).
+
+68.
+26 The courts have since affirmed City of Woodland, explaining that even where "[an] EIR
+
+27 [has] determined the project's impacts on energy resources would be less than significant," a lead
+
+28 agency must still analyze implementation of all "renewable energy options that might have been
+available or appropriate for [a] project." (League to Save Lake Tahoe Mountain Area Preservation
+
+12
+Amended Verified Petition for Writ of Mandate
+
+Foundation v. County of Placer (2022) 75 Cal.App.5th 63, 167.) Furthermore, the court explained, a
+
+2 lead agency's failure to consider implementation of all feasible renewable energy proposals raised
+
+3 during the environmental review process constitutes a "prejudicial error." (Id. at 168.) Therefore, it is
+
+4 clear that the EIR violates CEQA due to its failure to consider implementation of feasible renewable
+
+5 energy options which were proposed during the Project's environmental review process.
+
+6 WATER IMPACTS:
+
+7 69. The Patterson Irrigation District and West Stanislaus Irrigation District (*Water
+
+8 Districts") submitted written comments on the EIR during the administrative process ("Water Districts'
+|Comments"). As the Water Districts' Comments noted, the EIR fails to accurately describe, analyze, and
+
+10 adequately mitigate the Project's water impacts due to inaccurate project descriptions relating to the
+
+11 planned use of groundwater and surface water.
+
+12 70. Respondents failed to adequately respond to the Water Districts' Comments in the FEIR
+
+13 and failed to revise the EIR to accurately describe, analyze, and adequately mitigate the Project's water
+
+14 impacts.
+
+15 71. In 2019, Respondent City of Patterson elected to become a groundwater sustainability
+
+16 agency ("GSA") and, in this capacity, jointly entered into a groundwater sustainability plan ("GSP")
+
+17 with the Water Districts. The GSP governs the groundwater use actions of all member GSAs. The GSP
+
+18 was revised and approved once again by all GSA members in 2022.
+
+19 72. The EIR is inconsistent with the City's existing commitments under the GSP. The
+
+20 Project's future water consumption will substantially exceed the City's water consumption limits which
+
+21 the City voluntarily adopted pursuant to the GSP prior to its certification of the EIR.
+
+22 IAGRICULTURAL IMPACTS:
+
+23 73. Respondents have failed to present substantial evidence showing that the Project's
+
+24 impacts on agricultural land within the surrounding areas will be adequately mitigated. The EIR states
+
+25 the Project will convert 1,034.23 acres of Prime Farmland, 60.40 acres of Unique Farmland, and 151.75
+
+26 acres of Farmland of Statewide Importance to non-agricultural uses.
+
+27 74. The EIR's proposed mitigation measures fail to adequately address these impacts.
+28 Specifically, mitigation measure AG-1 states the applicant shall "preserve Important Farmland acreage
+
+13
+Amended Verified Petition for Writ of Mandate
+
+within Stanislaus County, but outside of the Patterson Planning Area at a ratio of no less than 1:1 for
+
+2 each acre of Important Farmland converted to non-agricultural use by the proposed project." However,
+
+3 the Court of Appeal for the Fifth District has expressly held that the use of "1:1 mitigation ratios [….]
+
+4 does not provide effective mitigation for the conversion of agricultural land" under CEQA. CEQA. King
+
+5 & Gardiner Farms, LLC v. County of Kern (2020) 45 Cal.App.5th 814, 873-876.
+
+6 MANDATORY REQUIREMENTS OF CEOA
+
+7 75. CEQA has two primary purposes. First, it is designed to inform decision makers and the
+
+8 public about a project's environmental effects. (Cal. Code Regs., tit. 14, § 15002(a)(1).) "The EIR
+process protects not only the environment but also informed self-government." (Laurel Heights
+
+10 Improvement Ass'n v. Regents of the University of California (1988) 47 Cal.3d 376, 392.)
+
+11 76. CEQA's second purpose is to require public agencies to identify ways to avoid or reduce
+12 environmental damage caused by a project by requiring changes to the project, when feasible. (Cal.
+
+13 Code Regs., tit. 14, § 15002(a)(2), (3).) A project cannot be approved if its significant impacts can be
+
+14 feasibly reduced to insignificance through project alternatives or mitigation measures. (Pub. Res. Code
+15 §§ 21002, 21021.)
+
+16 77. To achieve these goals, CEQA contains a number of substantive and procedural
+17 requirements, including, the following.
+
+18 78. CEQA generally requires that a lead agency prepare and certify an EIR for any project
+
+19 that may have a significant effect on the environment. The EIR must analyze and disclose the project's
+
+20 significant environmental impacts, and must analyze feasible mitigation measures and project
+
+21 alternatives that would reduce or avoid those significant impacts.
+
+22 79. The EIR must contain an accurate, stable, and finite project description. (County of Inyo
+
+23 V. City of Los Angeles (1977) 71 Cal.App.3d 185, 192.)
+
+24 80. In addition to project-specific impacts, the EIR must also evaluate any impacts of the
+
+25 project that may be "cumulatively considerable," and address the project's incremental effects when
+
+26 combined with the effects of past, current, and probable future projects. (Cal. Code Regs., tit. 14, §§
+
+27 15064, subd. (h)(1), 15130, subd. (a), 15355.)
+
+28 81. The EIR must include sufficient information to allow the public and decision makers to
+
+14
+Amended Verified Petition for Writ of Mandate
+
+intelligently and fully consider the environmental consequences of approving a project. This includes
+
+2 not just a disclosure that a project will have a specific impact, but also a discussion of the magnitude of
+
+3 the impact.
+
+4 82. A lead agency must respond to comments received on a draft EIR. Responses to
+
+5 comments must be detailed and must provide a reasoned, good faith analysis. (Cal. Code Regs., tit. 14,
+
+6 co. 15088(c).) Responses to comments on a draft EIR must state reasons for rejecting suggested
+
+7 mitigation measures and comments on significant environmental issues. "Conclusory statements
+
+8 unsupported by factual information" are not an adequate response. (Id. at § 15088(b), (c).)
+
+9 83. A lead agency cannot certify an EIR and approve a project with significant
+10 environmental effects unless the agency makes a series of detailed findings. These include findings that
+
+11 changes or alterations have been required that mitigate or avoid the project's significant effects on the
+
+12 environment, or that specific considerations render the mitigation measures or alternatives "infeasible"
+
+13 but that the benefits of the project nonetheless outweigh the project's significant environmental effects.
+
+14 Additionally, a lead agency may not approve a Project that would result in environmental impacts that
+
+15 would conflict with a local a agency's existing conservation plans or policies. North Coast Rivers
+
+16 Alliance V. Marin Municipal Water Dist. Bd. of Directors (2013) 216 Cal.App.4th 614, 631. Lastly, the
+
+17 lead agency's findings must be supported by substantial evidence in the administrative record. (Pub.
+
+18 Resources Code, § 21081; Cal. Code Regs., tit. 14, § 15091-15093.)
+
+19 84. Substantial evidence in the administrative record must support every one of a lead
+20 agency's findings and conclusions, including those findings and conclusions contained in the EIR. The
+
+21 administrative record must also contain an explanation for the analytical route the lead agency followed
+
+22 from evidence to conclusion.
+
+23 85. Noncompliance with the requirements outlined above constitutes a prejudicial abuse of
+
+24 discretion under Public Resources Code sections 21168 and 21168.5, regardless of whether a different
+
+25 outcome would have resulted if the lead agency had complied with those requirements in the first place.
+
+26 (Pub. Res. Code, § 21005.) Abuse of discretion is established if the agency has not proceeded in a
+
+27 manner required by law or if the agency's determination or decision is not supported by substantial
+
+28 evidence in the administrative record. (Pub. Res. Code, §§ 21168, 21168.5.)
+
+15
+Amended Verified Petition for Writ of Mandate
+
+86. A court may limit the scope of its orders made pursuant to a finding of noncompliance
+
+2 under CEQA by ruling only on "that portion of a determination, finding, or decision or the specific
+
+3 project activity or activities found to be in noncompliance." (Pub. Res. Code. § 21168.9(b).) To do so,
+
+4 the court must find that "(1) the portion or specific project activity or activities are severable, (2)
+
+5 severance will not prejudice complete and full compliance with this division, and (3) the court has not
+
+6 found the remainder of the project to be in noncompliance with this division." (Id.)
+
+7 FIRST CAUSE OF ACTION
+
+8 Violation of CEQA
+9 (Public Resources Code § 21000 et seq.)
+
+10 87. Petitioner realleges and incorporates by reference the paragraphs set forth above.
+
+11 88. Respondents prejudicially abused their discretion by failing to proceed in a manner
+
+12 required by law by certifying an EIR that does not comply with CEQA and by approving the Project
+
+13 based on the inadequate EIR.
+
+14 89. Biological Resources. The EIR fails to adequately disclose, analyze, and/or mitigate the
+
+15 Project's significant direct and cumulative impacts to biological resources, including numerous special-
+
+16 status wildlife species. Those wildlife species include, but are not limited to: Red-tailed hawk, Cooper's
+
+17 hawk, Peregrine falcon, Nutall's woodpecker, Loggerhead shrike, and horned lark. The EIR's
+
+18 biological resources analysis is inadequate because, inter alia, the EIR:
+
+19 a. fails to include and fully analyze all biological resources impacts resulting from the Project;
+
+20 b. relies on mitigation measures that are vague, ineffective, deferred, and/or unenforceable;
+
+21 c. fails to incorporate all feasible mitigation or avoidance measures; and
+
+22 d. fails to adequately disclose, analyze and/or mitigate the direct, indirect, and cumulative
+
+23 impacts of the Project on other biological resources, including cumulative impacts to wildlifel
+
+24 movement.
+
+25 90. Greenhouse Gases. The EIR fails to disclose analyze and/or mitigate the Project's
+
+26 significant direct, indirect, and cumulative greenhouse gas impacts. The EIR's analysis of greenhouse
+
+27 gas impacts is inadequate because, inter alia, the EIR:
+
+28 a. fails to include and fully analyze all greenhouse gas emissions resulting from the Project;
+
+16
+Amended Verified Petition for Writ of Mandate
+
+b. fails to support its selection of thresholds of significance with substantial evidence in the
+
+2 record;
+
+C. relies on greenhouse gas mitigation measures that are vague, ineffective, deferred, and/or
+
+4 unenforceable; and
+
+5 d. fails to incorporate all feasible mitigation and avoidance measures.
+
+6 91. Energy. The EIR fails to adequately analyze the Project's energy impacts or consider
+7 implementation of feasible renewable energy options. Instead, it merely points to planned compliance
+
+8 with Title 24. The EIR violates CEQA because it fails to analyze and consider the use of available
+renewable energy sources to supply power to the Project.
+
+10 92. Human Health. The EIR fails to quantify or mitigate the risk to human health from
+
+11 the Project's DPM emissions. The EIR violates CEQA by failing to disclose or analyze the
+
+12 correlation between the Project's significant adverse air quality impacts and the resulting
+
+13 adverse health impacts that will follow--and by failing to offer any mitigation measures to
+
+14 reduce the extent of such impacts.
+
+15 93. Water Resources. The EIR fails to accurately describe the Project's future water use and
+
+16 provides inadequate mitigation of significant adverse impacts to the local and regional water supply. The
+
+17 EIR's assertion that the Project will not negatively impact water resources is not supported by
+
+18 substantial evidence. Additionally, the EIR violates CEQA because it impermissibly permits
+
+19 Respondents to plan future water uses that would conflict with the City's existing commitments under
+20 the regional Groundwater Sustainability Plan.
+
+21 94. Agricultural Resources. The EIR fails to adequately address the Project's significant
+
+22 adverse impacts on agricultural resources. The EIR's proposed mitigation to reduce these impacts has
+
+23 been expressly disapproved by the Courts as inadequate under CEQA. Furthermore, the EIR's assertion
+
+24 that the Project's agricultural impacts will be less than significant with mitigation is not supported by
+
+25 substantial evidence.
+
+26 95. Responses to Comments. The responses to comments in the Final EIR fail to adequately
+
+27 respond to comments from the public, experts, and agencies. The Final EIR's responses to comments
+
+28 violates CEQA because the responses do not specifically explain the reasons for rejecting suggestions
+
+17
+Amended Verified Petition for Writ of Mandate
+
+received in comments, supported with specific references to empirical information, scientific authority,
+
+2 and/or explanatory information.
+
+3 96. Failure to Adopt Feasible Mitigation Measures. The EIR fails to implement all
+
+4 feasible mitigation measures to reduce the Project's significant and unavoidable air quality and
+
+5 greenhouse gas impacts. The EIR's explanation for its decision to not adopt all feasible mitigation
+
+6 measures related to these impacts lacks any substantial evidence.
+
+7 97. Inadequate Findings and Statement of Overriding Considerations. Respondents
+
+8 failed to adopt legally adequate Findings of Fact and Statement of Overriding Considerations. The
+Findings of Fact are not each supported by substantial evidence, they do not explain the analytic route
+
+10 taken by Respondents from facts to conclusions. The Statement of Overriding Considerations is also not
+
+11 supported by substantial evidence, and the Project benefits listed in the Statement of Considerations are
+
+12 not outweighed by the Project's significant impacts.
+
+13 98. As a result of the foregoing defects, Respondents prejudicially abused their discretion and
+
+14 adoption of the EIR and associated approvals should be set aside.
+
+15 PRAYER FOR RELIEF
+
+16 WHEREFORE, Petitioners respectfully request the following relief and entry of judgment as
+
+17 follows:
+
+18 1. For a stay of Respondents' decisions approving industrial land uses within the Zacharias
+
+19 Ranch Development Area pending trial;
+
+20 2. For a peremptory writ of mandate directing:
+
+21 a. Respondents to prepare, circulate, and consider a supplemental EIR to address all
+22 CEQA violations related to the approval of industrial land uses within the
+
+23 Zacharias Ranch Development Area; and
+
+24 b. Respondents and Real Party in Interest to suspend all construction activity
+
+25 related to industrial development within the Zacharias Ranch Development Area;
+
+26 3. For a declaration that Respondents' actions certifying those portions of the EIR which
+
+27 pertain to industrial development within the Zacharias Ranch Development Area
+
+28 violated CEQA and the CEQA Guidelines; and declaring invalid any sections of the
+
+18
+Amended Verified Petition for Writ of Mandate
+
+2 certified EIR, as well as any related Project approvals, related to industrial development
+within the Zacharias Ranch Development Area.
+
+4.
+
+p For an order awarding Petitioner's attorneys' fees under Code of Civil Procedure section
+
+5. 1021.5, Government Code section 800, and other applicable authority;
+For costs of suit; and
+
+6 6.
+
+7 For such other and further relief as the court deems just and proper.
+
+8 Dated: November 4, 2022
+
+9 LOZEAU DRURY LLP
+
+10 By:
+
+11 Rebecca L. Davis
+Adam J. Frankel
+
+12 Attorneys for Petitioner
+
+13 LABORERS' INTERNATIONAL UNION OF
+NORTH AMERICA, LOCAL UNION 1130
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+19
+Amended Verified Petition for Writ of Mandate
+
+VERIFICATION
+
+2 I. Rebecca Davis, am an attorney for Petitioner in this action. I am verifying this Petition
+
+3 pursuant to California Code of Civil Procedure section 446. Petitioner is absent from the County of
+
+4 Alameda, in which have my office. I have read the foregoing petition and complaint. I am informed
+
+5 and believe that the matters in it are true, and on that ground, allege that the matters stated in the
+complaint are true.
+6 I declare under penalty of perjury under the laws of the State of California that the foregoing is
+7 true and correct.
+8
+
+9 Date: November 4, 2022
+
+10 Rebecca Davis
+Attorney for Petitioner
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+20
+Amended Verified Petition for Writ of Mandate
+
+ATTACHMENTS
+
+EXHIBIT 1
+
+LOZEAU DRURYLLP T 510.836.4200 1939 Harrison Street, Ste. 150 www.lozeaudrury.com
+F 510.836.4205 Oakland, CA 94612 rebecca@lozeaudrury.com
+
+VIA U.S. MAIL AND E-MAIL
+
+August 30, 2022
+
+Patterson City Council Aracely Alegre, City Clerk
+c/o Mayor Dennis McCord Office of the City Clerk
+City Hall City Hall
+1 Plaza Plaza, 2nd Floor
+Patterson, CA 95363 Patterson, CA 95363
+dmccord@ci.patterson.ca.us cityclerk@ci.patterson.ca.us
+
+Bryan Stice, Community Development
+Director Nubia Goldstein
+Joel Andrews, City Planner City of Patterson City Attorney
+City of Patterson 1414 K Street, 3rd Floor
+Community Development Department Sacramento, CA 95814
+1 Plaza Circle nubia@whitebrennerllp.com
+Patterson, CA 95363
+bstice@ci.patterson.ca.us
+jandrews@ci.patterson.ca.us
+
+Re: Notice of Intent to File Suit Under the California Environmental Quality Act Regarding the Zacharias & Baldwin Ranch Master Plan
+
+Dear Mayor McCord, Mr. Stice, Mr. Andres, Ms. Alegre, and Ms. Goldstein:
+
+am writing on behalf of Laborers International Union of North America, Local Union, Local 1130 and its members living or working in and around the City of Patterson ("LIUNA")
+regarding the City's decisions approving the Zacharias & Baldwin Master Plan and associated approvals (the "Project") and certifying the environmental impact report ("EIR") for the same.
+
+Please take notice, pursuant to Public Resources Code ("PRC") section 21167.5 and Code
+of Civil Procedure sections 1085 and 1094.5, that Petitioners intend to file Verified Petition for
+Writ of Mandate and Complaint for Declaratory and Injunctive Relief (*Petition"), under the
+provisions of CEQA, PRC §21000 et seq., against Respondents and Defendants City of Patterson and the Planning Commission of the City of Patterson (*Respondents") in the Superior Court for the County of Stanislaus, challenging the City Council's August 16, 2022 decision approving the Project and certifying the EIR for the Project.
+
+Notice of Intent to File CEQA Suit
+Zacharias & Baldwin Master Plan
+August 30, 2022
+Page 2 of 3
+
+Among other issues, Petitioners will allege that Respondents failed to proceed in the manner required by law and without substantial evidence in certifying the EIR and approving the Project. The Petition being filed will request, inter alia, that the Court grant the following relief:
+
+1. 2. A stay pending trial of Respondents' decisions approving the Project.
+A peremptory writ of mandate ordering:
+a. Respondents to vacate and set aside certification of the EIR for the Project and decisions approving the project;
+b. Respondents and Real Parties in Interest to suspend all activity under the
+EIR and approval of the Project that could result in any change or
+alternation to the physical environment until Respondents have taken all
+actions necessary to bring the certification and Project approvals into
+compliance with CEQA; and
+C. Respondents to prepare, circulate, and consider an EIR in compliance with CEQA prior to any subsequent action to approve the Project.
+3. For the costs of suit.
+4. For an award of attorney fees pursuant to Code of Civil Procedure § 1021.5 and
+any other applicable provisions of law or equity.
+5. For any other equitable or legal relief that the Court considers just and proper.
+
+Sincerely,
+K Rebecca L. Davis
+Lozeau | Drury LLP
+
+Notice of Intent to File CEQA Suit
+Zacharias & Baldwin Master Plan
+August 30, 2022
+Page 3 of 3
+
+PROOF OF SERVICE
+I, Hannah Hughes, declare as follows:
+am a resident of the State of California, and employed in Oakland, California. I am over the age of 18 years and am a not a party to the above-entitled action. My business address is 1939 Harrison Street, Suite 150, Oakland, California, 94612.
+
+On August 30, 2022, I served a copy of the foregoing document entitled:
+
+Notice of Intent to File Suit Under the California Environmental Quality Act Regarding
+the Zacharias & Baldwin Ranch Master Plan
+
+On the following parties:
+Patterson City Council Aracely Alegre, City Clerk
+c/o Mayor Dennis McCord Office of the City Clerk
+City Hall City Hall
+1 Plaza Plaza, 2nd Floor
+Patterson, CA 95363 Patterson, CA 95363
+dmccord@ci.patterson.ca.us cityclerk@ci.patterson.ca.us
+
+Bryan Stice, Community Development
+Director Nubia Goldstein
+Joel Andrews, City Planner City of Patterson City Attorney
+City of Patterson 1414 K Street, 3rd Floor
+Community Development Department Sacramento, CA 95814
+1 Plaza Circle nubia@whitebrennerllp.com
+Patterson, CA 95363
+bstice@ci.patterson.ca.us
+jandrews@ci.patterson.ca.us
+
+BY MAIL. By placing the document listed above in a sealed envelope with postage thereon fully prepaid for First Class mail, in the United States mail at Oakland, California addressed as set forth above.
+BY EMAIL. By sending the documents as an electronic mail attachment in PDF
+format to the e-mail address above.
+
+I declare under penalty of perjury under the laws of the State of California that the
+foregoing is true and correct, and
+California. that this declaration was executed August 30, 2022 at Oakland,
+Hond i Hegor
+Hannah Hughes
+
+EXHIBIT 2
+
+1 REBECCA DAVIS (SBN 271662)
+
+2 ADAM J. FRANKEL (SBN 343594)
+LOZEAU| DRURY LLP
+3 1939 Harrison Street, Suite 150
+Oakland, CA 94612
+4 Tel: (510) 836-4200; Fax: (510) 836-4205
+
+5 E-mail: rebecca@lozeaudrury.com
+adam@lozeaudrury.com
+
+6
+Attorneys for Petitioner
+7 LABORERS' INTERNATIONAL UNION
+
+8 OF NORTH AMERICA, LOCAL UNION 1130
+
+9
+
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+11 COUNTY OF STANISLAUS
+
+12
+
+13
+LABORERS' INTERNATIONAL UNION OF CASE No.:
+14 NORTH AMERICA, LOCAL UNION 1130, an
+
+15 organized labor union, Filed Under the California Environmental
+
+Petitioner, Quality Act ("CEQA")
+
+16 PETITIONER'S NOTICE OF INTENT
+VS.
+17 TO PREPARE ADMINISTRATIVE
+
+18 CITY OF PATTERSON, a municipality; and RECORD
+
+CITY COUNCIL OF THE CITY OF
+19 PATTERSON, a municipal body, (CEQA, Pub. Res. Code § 21000, et seq.;
+20 Respondents. Code of Civil Procedure §§ 1094.5, 1085)
+
+21
+
+22 KEYSTONE CORPORATION dba KEYSTONE
+
+23 (NC) CORPORATION, a North Carolina
+corporation; BALDWIN RANCH
+24 DEVELOPMENT LLC, a California limited
+liability company; and ROES through 10,
+25 inclusive,
+
+26 Real Parties in Interest.
+
+27
+
+28
+
+1
+
+PETITIONER'S NOTICE OF INTENT TO PREPARE ADMINISTRATIVE RECORD
+
+1 Pursuant to Public Resources Code section 21167.6(b) Petitioner LABORERS'
+2 | INTERNATIONAL UNION OF NORTH AMERICA, LOCAL UNION 1130 ("Petitioner")
+
+3 hereby notifies all parties that Petitioner elects to prepare the administrative record relating to the
+
+4 above-captioned action, involving the unlawful decisions of Respondents CITY OF
+5 PATTERSON and CITY COUNCIL OF THE CITY OF PATTERSON ("Respondents"), on
+6 August 16, 2022, whereby Respondents: (1) approved the Baldwin and Zacharias Master Plans
+7
+(the "Project"), which together involve the annexation and development of 1,297 acres into the
+8
+City of Patterson; (2) certified an Environmental Impact Report ("EIR") for development of the
+9
+Project; and (3) adopted findings pursuant to the California Environmental Quality Act
+10
+
+11 ("CEQA"), a Statement of Overriding Considerations, and Mitigation Monitoring and Reporting
+
+12 Program for the Project; in violation of, inter alia, the California Environmental Quality Act
+
+13 ("CEQA"), Public Resources Code 21000 et seq. Respondents and Real Parties in Interest are
+
+14 directed not to prepare the administrative record for this action and not to expend any resources
+
+15 to prepare the administrative record.
+
+16
+
+17
+
+18 Dated: September 16, 2022 LOZEAU | DRURY LLP
+
+19
+
+20 4
+
+21 Rebecca Davis
+Attorney for Petitioner
+22 LABORERS' INTERNATIONAL UNION OF
+NORTH AMERICA, LOCAL UNION 1130
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+2
+
+PETITIONER'S NOTICE OF INTENT TO PREPARE ADMINISTRATIVE RECORD
+
+PROOF OF SERVICE
+
+I, Toyer Grear, declare as follows:
+I am a resident of the State of California and am employed in Oakland, California. I am over the age of 18 years and am not a party to the above-entitled action. My business address is 1939 Harrison Street, Suite 150, Oakland, California, 94612. On November 4, 2022, I served a
+copy of the following document(s) entitled:
+
+AMENDED VERIFIED PETITION FOR WRIT OF MANDATE
+
+On the following parties:
+Attorney for Respondents Attorneys for Real Party in Interest
+CITY OF PATTERSON and CITY Keystone Corporation:
+COUNCIL OF THE CITY OF David P. Lanferman
+PATTERSON: Erik Leggio
+Rutan & Tucker, LLP
+Barbara A. Brenner 455 Market Street, Suite 1870
+Nubia I. Goldstein San Francisco, CA 94105
+Patrick Barbieri dlanferman@rutan.com
+White Brenner LLP eleggio@rutan.com
+City Attorney for the City of Patterson 1414 K Street, 3rd Floor George Petrulakis
+Sacramento, CA 95814 Petrulakis Law & Advocacy
+barbara@whitebrennerllp.com 1130 12th St., # B
+nubia@whitebrennerllp.com Modesto, CA 95354
+patrick@whitebrennerllp.com george@petrulakis.com
+
+Agent for Service of Process for
+BALDWIN RANCH
+DEVELOPMENT LLC:
+
+Joseph B. Hollowell III
+1412 Rockhaven Drive
+Modesto, CA 95356
+BY MAIL. By placing the document listed above in a sealed envelope with postage thereon fully prepaid for First Class mail, in the United States mail at
+Oakland, California addressed as set forth above.
+BY EMAIL. By sending the documents as an electronic mail attachment in PDF
+format to the e-mail address(es) above.
+I declare under penalty of perjury under the laws of the State of California that the foregoing is true and correct, and that this declaration was executed on November 4, 2022 at
+Oakland, California. Snprdlasar
+Toyer Grear
+
+PROOF OF SERVICE
+
+I, Toyer Grear, declare as follows:
+I am a resident of the State of California and am employed in Oakland, California. I am over the age of 18 years and am not a party to the above-entitled action. My business address is
+1939 Harrison Street, Suite 150, Oakland, California, 94612.
+
+On November 4, 2022, I served a copy of the following document(s) entitled:
+NOTICE TO ATTORNEY GENERAL OF AMENDED VERIFIED PETITION FOR
+WRIT OF MANDATE
+
+on the following interested parties in the above referenced case, using the below-indicated methods of service:
+
+BY U.S. MAIL. By placing the document listed above in a sealed envelope with postage thereon fully prepaid for First Class mail, in the United States mail at Oakland, California addressed as set forth above.
+BY E-MAIL. By sending the documents as an electronic mail attachment in
+PDF format to the e-mail address(es) above.
+
+Barbara A. Brenner Attorneys for Respondents
+Nubia I. Goldstein CITY OF PATTERSON and CITY
+Patrick Barbieri COUNCIL OF THE CITY OF
+White Brenner LLP PATTERSON
+City Attorney for the City of Patterson 1414 K Street, 3rd Floor
+Sacramento, CA 95814
+barbara@whitebrennerllp.com
+nubia@whitebrennerllp.com
+patrick@whitebrennerllp.com
+
+David P. Lanferman Attorneys for Real Party in Interest
+Erik Leggio KEYSTONE CORPORATION
+Rutan & Tucker, LLP
+455 Market Street, Suite 1870
+San Francisco, CA 94105
+dlanferman@rutan.com
+eleggio@rutan.com
+
+George Petrulakis
+Petrulakis Law & Advocacy
+1130 12th St., # B
+Modesto, CA 95354
+george@petrulakis.com
+
+BY U.S. MAIL ONLY. By placing the document listed above in a sealed
+envelope with postage thereon fully prepaid for First Class mail, in the United
+States mail at Oakland, California addressed as set forth above.
+
+Joseph B. Hollowell III Agent for Service of Process for
+1412 Rockhaven Drive BALDWIN RANCH
+Modesto, CA 95356 DEVELOPMENT LLC
+
+X BY E-MAIL ONLY. By sending the documents as an electronic mail
+attachment in PDF format to the e-mail address(es) above.
+
+CEQA@doj.ca.gov CEQA Coordinator
+OFFICE OF THE
+ATTORNEY GENERAL,
+ENVIRONMENT SECTION
+
+I declare under penalty of perjury under the laws of the State of California that the foregoing is true and correct, and that this declaration was executed on November 4, 2022 at Oakland, California.
+SaprElasar
+Toyer Grear
+
+2

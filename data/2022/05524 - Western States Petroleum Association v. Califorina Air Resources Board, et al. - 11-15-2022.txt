@@ -1,0 +1,2270 @@
+101 CALIFORNIA ST. AUSTIN NEW YORK
+
+BAKER BOTTS LLP SUITE 3200 BRUSSELS PALO ALTO
+SAN FRANCISCO, CALIFORNIA DALLAS RIYADH
+94111 DUBAI SAN FRANCISCO
+HOUSTON WASHINGTON
+TEL +1.415.291.6200 LONDON
+FAX +1.415.291.6300
+BakerBotts.com
+
+November 15, 2022
+
+Megan H. Berge
+TEL: 2026391308
+FAX: 2026391171
+VIA E-MAIL (CEQA@DOJ.CA.GOV) megan.berge@bakerbotts.com
+
+VIA U.S. MAIL
+
+Attorney General Rob Bonta
+CEQA Coordinator
+Office of the Attorney General
+1300 Street
+Sacramento, CA 95814-2919
+
+Re: Notice to the Attorney General of Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief in Western States Petroleum
+Association v. California Air Resources Board, et al.
+
+Dear Attorney General Bonta:
+Enclosed please find a copy of the Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief (*Petition") in the above-referenced action, filed on November 14, 2022 in the Fresno County Superior Court. The Petition is provided to you in
+compliance with Public Resources Code Section 21167.7 and Code of Civil Procedure Section
+388.
+
+Sincerely,
+
+MB
+Enclosure
+
+Active 101273506.1.DOCX
+
+Megan Berge (SBN: 332536)
+101 California Street, Suite 3200
+San Francisco, CA 94111
+Telephone: +1 (415) 291-6233
+Fax Number: +1 (202) 639-1171
+4 Email: megan.berge@bakerbotts.com
+
+5 Lily Chinn (SBN: 203173)
+
+6 101 California Street, Suite 3200
+San Francisco, CA 94111
+
+7 Telephone: +1 (415) 291-6214
+Fax Number: +1 (415) 291-6314
+8 Email: lily.chinn@bakerbotts.com
+Aaron Streett (to be requested admission pro hac vice) 910 Louisiana Street
+10 Houston, TX 77002 Telephone: +1 (713) 229-1855
+11 Fax Number: +1 (713) 229-7855
+Email: aaron.streett@bakerbotts.com
+12
+Attorneys for Petitioner and Plaintiff, 13 Western States Petroleum Association
+
+14
+
+15 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+16 FOR THE COUNTY OF FRESNO
+
+17 WESTERN STATES PETROLEUM Case No.:
+ASSOCIATION,
+18 VERIFIED PETITION FOR WRIT OF
+Petitioner and Plaintiff, MANDATE AND COMPLAINT FOR
+19 DECLARATORY AND INJUNCTIVE
+V. RELIEF
+20
+CALIFORNIA AIR RESOURCES BOARD; (California Environmental Quality Act;
+21 STEVEN S. CLIFF, in his official capacity as Executive Officer of the California Air Resources California Constitution; Health & Safety Code
+and the California Administrative Procedure
+22 Board; and
+DOES 1 through 10, inclusive, Act; fundamental vested rights)
+23 Respondents and Defendants. Judge:
+24 Action Filed:
+25
+
+26
+
+27
+
+28 - 1 -
+VERIFIED PETITION AND COMPLAINT
+
+Petitioner and Plaintiff, Western States Petroleum Association ("WSPA" or "Petitioner"),
+brings its Verified Petition for Writ of Mandate and Complaint for Declaratory and Injunctive
+Relief (the "Petition") against Respondents California Air Resources Board ("CARB"), Steven
+
+4 S. Cliff in his official capacity as Executive Officer of CARB, and Does through 10, inclusive
+5 (collectively, "Respondents"), and alleges as follows.
+
+6 INTRODUCTION
+
+7 1. This Petition seeks to set aside the Advanced Clean Cars II Regulations ("ACC
+
+8 II" or "Regulations"), adopted by Respondents on August 25, 2022, which mandates the
+eradication of the sales of new internal combustion engine vehicles state-wide in California by
+10 2035.
+
+11 2. Because ACC II violates California law, including but not limited to the
+12 California Environmental Quality Act ("CEQA"), the California Constitution, the California
+13 Health & Safety Code, and the California Administrative Procedure Act, Petitioner requests the
+14 following:
+
+15 a. A writ of mandate directing Respondents, pursuant to Section 21080.5 of
+
+16 the Public Resources Code and Sections 1085 and 1094.5 of the Code of
+
+17 Civil Procedure, and all applicable laws as alleged herein, to set aside
+
+18 certain decisions made by Respondents described below and to enforce
+
+19 compliance with the laws of California;
+
+20 b. A declaration and judgment pursuant to Section 1060 of the Code of Civil
+21 Procedure and Section 11350 of the Government Code that Respondents'
+
+22 acts, omissions, and findings with respect to ACC II did not comply with
+
+23 the laws of California; and
+
+24 C. Injunctive relief pursuant to Sections 525 and 526 of the Code of Civil
+
+25 Procedure to enjoin implementation and/or enforcement of ACC II.
+
+26 3. In broad, introductory terms, ACC II requires manufacturers to meet a 100% zero-
+27 emission vehicles ("ZEV") or plug-in hybrid electric vehicles sales requirement in California by
+
+28 - 2 -
+VERIFIED PETITION AND COMPLAINT
+
+the 2035 model year and includes more stringent emission standards to address internal
+combustion engine vehicles remaining on California's roads beyond 2035. This means that by
+2035 at the latest, no new internal combustion engine vehicles will be sold in the State of
+
+4 California.
+
+5 4. These Regulations will impose disruptive consequences to differently situated
+
+6 stakeholders and communities in California, both economically and environmentally.
+
+7 5. Governor Gavin Newsom recognized the far-reaching impacts of a ZEV mandate
+
+8 requiring a transition of this magnitude and speed. As a result, his Executive Order N-79-20
+directed multiple state agencies to weigh in on developing a comprehensive strategy that is
+10 "consistent with State and federal law" and "consistent[] with technological feasibility and cost-
+11 effectiveness," requiring extensive analysis of a broad range of potential impacts across multiple
+12 sectors.
+
+13 6. Despite the Governor's clear acknowledgment of the severe consequences of a
+a 14 100% ZEV mandate in such a short time period, and his demands for multiple layers of state
+15 agency action to address these consequences, CARB acted unilaterally to adopt ACC II even
+16 before many of the necessary safety nets described in the Executive Order were developed.
+
+17 7. During the Regulations' rulemaking process, WSPA and its members (along with
+18 others) expressed various concerns over ACC II's disruptive consequences.
+
+19 8. Notwithstanding the public's expressed concerns, Respondents finalized the
+20 Regulations, which contain at least four legal flawsany one of which warrants judicial relief
+21 requested by Petitioner.
+
+22 9. First, ACC II violates CEQA. Respondents failed to consider a reasonable range
+23 of regulatory alternatives, performing only a cursory evaluation of the feasibility of relying on
+24 low-carbon alternative fuels in place of a 100% ZEV sales mandate, and predetermining the
+25 outcome of their Environmental Analysis. Further, Respondents failed to consider an
+26 appropriate scope of environmental impacts by writing off significant impacts as speculative or
+27 outside the required scope of review.
+
+28 3 -
+VERIFIED PETITION AND COMPLAINT
+
+10. Second, ACC II falls outside CARB's authority, violating fundamental separation
+2 of powers principles in addition to basic administrative law. ACC II would effectively assign
+Respondents sweeping power to transform the California economy, including the state's
+4 transportation and energy industry, and such plenary power requires, at minimum, a clear
+
+5 statement of authorization from the Legislature. Yet the record demonstrates that ACC II was an
+
+6 initiative pursuant to the Governor's Executive Order N-79-20. And contrary to the California
+7 Legislature's directive to regulate the petroleum industry, ACC II seeks to ultimately ban the
+
+8 industry altogether. Thus, in promulgating ACC II, CARB either unlawfully usurped legislative
+9 powers or acted far beyond what the Legislature has authorized.
+
+10 11. Third, ACC II deprives California businesses of fundamental vested rights
+11| protected under California law. California citizens have the fundamental vested right to continue
+12 operating an established business in which one has made a substantial investment. By
+13 dismantling an entire mode of transportation and relatedly discouraging petroleum production
+14 and manufacturing, as well as an array of related businesses, in California, ACC II would deprive
+15 multiple long-established businesses of such rights.
+
+16 12. Fourth, ACC II fails to comply with the statutory duty to consider economic
+17 impacts in violation of the Health & Safety Code and the California Administrative Procedure
+18 Act. These statutes and their implementing regulations require Respondents to consider the
+19 economic impacts associated with any rulemaking proposal, and to consider potential impacts to
+20 California's workers, businesses, and the greater economy. While Respondents assert that they
+21 satisfied these duties, the record contravenes their assertions.
+
+22 13. Similar to what Petitioner shared with CARB via multiple comment letters
+23 submitted throughout the informal and formal rulemaking process, Petitioner also alleges that
+24 harmful policy consequences will follow from the ACC II, including but not limited to economic
+25 setbacks, electrical grid instability, and increased wildfire risks. Requiring Respondents'
+26 compliance with the law and preserving procedural integrity of the rulemaking process is the
+27 legal equivalent of guardrails intended to best minimize the risk of such unintended
+
+28 - 4 -
+VERIFIED PETITION AND COMPLAINT
+
+consequences. Denial of Petitioner's request would amount to allowing a sweeping agency rule
+2 to be enacted without the rule undergoing the legal steps necessary.
+
+14. Accordingly, this Petition seeks a writ of mandate adjudging that Respondents'
+4 actions regarding ACC II were arbitrary, capricious, contrary to law, an abuse of discretion, and
+
+5 of no legal force or effect, and commanding that Respondents set aside and vacate their actions
+
+6 in adopting or implementing ACC II, and declaratory and injunctive relief as alleged herein.
+
+7 PARTIES
+
+8 A. Petitioner and Plaintiff
+
+15. WSPA is a non-profit trade association, formed and existing under the laws of
+
+10 California.
+
+11 16. Founded in 1907 and headquartered in Sacramento, California, WSPA is the
+12 oldest petroleum trade association in the United States.
+
+13 17. WSPA is an advocate for the oil and gas industry in California. WSPA's essential
+14 mission is to help its members provide adequate, reliable, and affordable sources of energy and
+
+15 ensure that Americans continue to have reliable access to petroleum and petroleum products
+16 through policies that are socially, economically, and environmentally responsible.
+
+17 18. WSPA's members explore for, produce, refine, transport, and market petroleum,
+18 petroleum products, natural gas, and other energy supplies in California and four other western
+
+19 states in the United States.
+
+20 19. The petroleum industry generates more than $152 billion in total economic output
+21 and makes significant fiscal and economic contributions to California's state and local
+22 governments. Such contributions include more than $21 billion in state and local tax revenues,
+23 $11 billion in sales taxes, $7 billion in property taxes, and $1 billion in income taxes.
+24 20. WSPA's members employ more than 360,000 people in California.
+
+25 21. WSPA's members produce around 42 million gallons of gasoline and 10 million
+26 gallons of diesel a day to support California's 35 million registered vehicles. Members continue
+
+27
+
+28 • 5 -
+VERIFIED PETITION AND COMPLAINT
+
+to lower the carbon intensity of their fuels and spur investment in emissions reduction
+2 technologies and renewable fuels.
+
+22. WSPA is beneficially interested in the correct and lawful application of CARB's
+4 mandated rulemaking procedures, and its public planning and environmental review process
+
+5 bearing on the adoption of ACC II. WSPA seeks to ensure that Respondents, during the public
+
+6 planning and environmental review processes, take into account the evidence in the rulemaking
+7 record of the real-world risks, impacts, and costs of ACC II, and that the public and
+
+8 Respondents' decision-makers have all the relevant environmental information required under
+9 CEQA and other necessary information as required by the laws of California, so that the public
+10 can meaningfully participate in Respondents' decision-making process and the agency decision-
+11 makers can make informed, reasonable, and lawful decisions supported by the available
+
+12 evidence.
+
+13 23. WSPA participated extensively in the ACC II rulemaking process, submitting
+14 numerous written comments to CARB and in turn setting forth WSPA's objections to ACC II.
+
+15 24. Specifically, WSPA provided written comments to CARB as part of a continuing
+16 effort to provide feedback on ACC II, including comments submitted on June 11th, September
+17 1st, and October 22nd, 2021. On May 31, 2022, WSPA submitted written comments to CARB
+18 setting forth its objections to the Draft Environmental Analysis and the ACC II proposal,
+19 incorporating prior comment letters.
+
+20 25. WSPA's comment letters identified numerous issues with ACC II that were never
+
+21 adequately considered, much less corrected, in the final version of the Regulations.
+
+22 26. WSPA has performed any and all conditions precedent to filing this action and
+23 has exhausted any and all available administrative remedies to the extent required by law.
+24 WSPA's interests as articulated in this Petition would be frustrated without a decision in
+
+25 WSPA's favor in this action.
+
+26 27. Based on the foregoing and other allegations made in this Petition, WSPA has
+27 standing to bring this action on behalf of itself and its members.
+
+28 - 6 -
+VERIFIED PETITION AND COMPLAINT
+
+B. Respondents and Defendants
+
+2 28. Respondent CARB is an agency of the State of California.
+
+29. CARB is the "lead agency" for purposes of Public Resources Code Section
+4 21067, having the principal responsibility for conducting environmental review for and
+
+5 approving ACC II.
+
+6 30. Respondent Steven S. Cliff is the current Executive Officer of CARB, who is
+7 made a party to a this action in his official capacity only. Mr. Cliff acts as the director and
+8 manager of CARB professionals and other staff personnel, who all report to him.
+
+31. Petitioner is unaware of the true names of Respondents sued herein as Does
+10 through 10, inclusive. Petitioner is informed and believes, and on that basis alleges, that
+
+11 Respondents Does 1 through 10, inclusive, are individuals, entities, or agencies with authority to
+12 approve and/or with an interest in ACC II alleged herein. When the true identities and capacities
+13 of these Respondents have been determined, Petitioner will, with leave of Court if necessary,
+14 amend this Petition to insert such identities and capacities.
+
+15 JURISDICTION AND VENUE
+
+16 32. This Court has jurisdiction over this proceeding pursuant to, among others: the
+17 California Constitution, Article VI, Section 10; Code of Civil Procedure Sections 1085 and
+
+18 1094.5; and Public Resources Code Sections 21168, 21168.5, and 21168.9.
+
+19 33. Section 21080.5 of the Public Resources Code and Section 1085 of the Code of
+
+20 Civil Procedure provide for review in this Court of actions by state agencies and their officers to
+21 determine whether those actions comply with CEQA, the CEQA Guidelines, and other CEQA
+22 implementing regulations.
+
+23 34. Sections 525, 526, and 527 of the Code of Civil Procedure provide for an
+24 injunction when the complaint shows that the plaintiff is entitled to the relief demanded, and the
+
+25
+
+26
+
+27 Title 14, California Code of Regulations, Section 15000, et seq. (hereinafter referred to as
+"CEQA Guidelines").
+
+28 - 7 -
+VERIFIED PETITION AND COMPLAINT
+
+relief, or any part thereof, consists in restraining the commission or continuance of the act
+
+2 complained thereof.
+
+35. Section 1060 of the Code of Civil Procedure provides for a judicial declaration of
+
+4 Petitioner's rights and Respondents' duties in a case of actual controversy relating to those legal
+5 rights and duties of the respective parties.
+
+6 36. Accordingly, and based on the facts alleged in this Petition, this Court has
+7  jurisdiction to grant declaratory relief and injunctive relief, and to issue a writ of mandate on the
+
+8 claims presented.
+
+37. Venue in this Court is proper pursuant to Section 401 of the Code of Civil
+10 Procedure because CARB is a state agency, Mr. Cliff is a state officer, and the Attorney General
+11 of the State of California has an office located in the County of Fresno. In addition, many
+12 petroleum operations that would be affected by ACC II are located in the County of Fresno.
+
+13 38. Petitioner provided written notice of its intention to commence this action to
+14 Respondents, in compliance with Public Resources Code Section 21167.5. A copy of that notice
+15 and proof of service is attached as Exhibit A to this Petition.
+
+16 39. Concurrent with the filing of this Petition, Petitioner has filed a notice requesting
+17 that the Respondent CARB prepare the administrative record for this action, in accordance with
+18 Public Resources Code Section 21167.6(a). A copy of this notice is attached as Exhibit B to this
+19 Petition.
+
+20 40. Petitioner will provide notice of this action to the Attorney General of the State of
+21 California, by serving a copy of this Petition to the California Attorney General as required by
+22 Public Resources Code Section 21167.7 and Code of Civil Procedure Section 388.
+
+23 FACTUAL ALLEGATIONS
+
+24 41. In addition to the factual allegations made in the foregoing paragraphs, Petitioner
+25 alleges the following.
+
+26
+
+27
+
+28 - 8 -
+VERIFIED PETITION AND COMPLAINT
+
+A. CARB's Original "ACC I" Program and Initial Updates to ACC I
+
+42. In 2012, CARB adopted the original Advanced Clean Cars Program ("ACC I") to
+control criteria pollutants and greenhouse gas emissions for new light- and medium-duty vehicles
+4 for model years 2015 through 2025, and to require manufacturers to produce increasing numbers
+
+5 of zero-emission vehicles ("ZEVs") which includes battery-electric vehicles, fuel cell electric
+
+6 vehicles, and plug-in hybrid vehicles-for model years 2018 through 2025.
+
+7 43. ACC I required manufacturers to meet a 22% annual total ZEV requirement by
+
+8 2025 for vehicles produced by the manufacturer and delivered for sale in California.
+
+44. In 2017, CARB conducted a midterm review of ACC to evaluate, among other
+10 metrics, ZEV compliance, consumer acceptance of ZEVs, ZEV technology developments, and
+
+11 ZEV infrastructure buildout.
+
+12 45. The resultant midterm review report, published by CARB, concluded that "the
+13 ZEV and PHEV [plug-in hybrid vehicles] market is still in the early stages of development" and
+14 that "[c]onsumer awareness of ZEV is still low."
+
+15 46. The same report also emphasized the importance of regulatory stability to "help
+16 ensure a continued path of increasing, but achievable, ZEV volumes."
+
+17 47. In September 2020, CARB held its first public workshop to discuss draft
+18 regulatory concepts for updates to ACC I.
+
+19 48. In the first public workshop, the draft regulatory concepts centered around
+20 measures to support consumer acceptance and wide-scale adoption of ZEVs, through proposals
+21 to provide assurances for ZEV infrastructure development and to promote standardization of
+22 ZEV technology.
+
+23 49. In other words, the ideas discussed during the first public workshop were focused
+
+24 on the promotion and positive encouragement of ZEVs.
+
+25 B. Executive Order N-79-20
+
+26 50. On September 23, 2020, California Governor Gavin Newsom issued Executive
+27 Order N-79-20, which purported to authorize CARB to require 100% new ZEV sales by 2035.
+
+28 - 9-
+VERIFIED PETITION AND COMPLAINT
+
+51. Executive Order N-79-20, in part, states: "It shall be a goal of the State that 100
+percent of in-state sales of new passenger cars and trucks will be zero-emission by 2035."
+
+52. Executive Order N-79-20 directs CARB to "develop and propose . . . Passenger
+4 vehicle and truck regulations requiring increasing volumes of new zero-emission vehicles sold in
+
+5 the State towards the target of 100 percent of in-state sales by 2035."
+
+53. At the same time, the Executive Order also directs CARB that such development
+7 and proposal must only be "to the extent consistent with State and federal law." The Executive
+
+8 Order does not and cannot expand CARB's existing regulatory authority.
+
+54. Moreover, the Executive Order acknowledged that any resultant regulations
+10 would have extensive economic impacts. The Executive Order thus emphasized that CARB
+
+11 "shall act consistently with technological feasibility and cost-effectiveness." In addition, the
+12 Executive Order required certain state agencies to develop and update various reports supporting
+13 the levels of electric vehicle adoption required, including developing and implementing "a Just
+14 Transition Roadmap."
+
+15 55. As of the date of the filing of this Petition, to Petitioner's knowledge the Just
+16 Transition Roadmap still has not been developed or implemented as required.
+
+17 C. Promulgation of ACC II and WSPA's Involvement in the Rulemaking Process
+
+18 1. CARB's Subsequent Public Workshops Prior to the ACC II Proposal
+
+19 56. In May 2021, CARB held a second public workshop.
+
+20 57. CARB represented that the second public workshop was held to discuss
+21 preliminary proposals to amend the ZEV regulations in ACC I and to comply with Executive
+
+22 Order N-79-20.
+
+23 58. WSPA and other regulated parties submitted comments on the second public
+24 workshop, dated June 11, 2021.
+
+25 a. In its initial comment letters, WSPA informed CARB that the agency had
+
+26 not demonstrated the feasibility of a 100% ZEV sales mandate by 2035,
+
+27 emphasizing that future electric grid reliability, infrastructure needs,
+
+28 - 10 -
+VERIFIED PETITION AND COMPLAINT
+
+critical mineral resources, and current ZEV market shares all present
+serious feasibility constraints.
+
+b. WSPA and other stakeholders also advised that CARB was legally
+
+4 obligated to evaluate multiple vehicle and fuel technology scenarios
+
+5 instead of focusing on an electric vehicle centric approach, particularly
+
+6 when CARB had failed to adequately assess the impacts of its regulations
+
+7 on criteria pollutants.
+
+8 C. In addition, WSPA advised CARB that the agency had omitted key cost
+
+9 metrics in its regulatory assessment.
+
+10 59. In its public presentation materials for the second public workshop, CARB
+11 acknowledged that for model years 2021 through 2025, the market share of ZEVs and plug-in
+12 hybrid vehicles was at most 25%.
+
+13 60. Yet notwithstanding the adoption challenges just discussed, CARB concluded that
+14 compliance with long-term air quality and greenhouse gas emissions reductions targets would
+
+15 require transition to 100% ZEVs.
+
+16 61. In August 2021, CARB held a third public workshop.
+
+17 62. CARB represented that this workshop was a CEQA scoping meeting.
+
+18 63. In the third public workshop, CARB also presented the regulatory proposals for
+19 ACC II, which included proposed measures to increase access to ZEVs for priority communities.
+
+20 64. WSPA provided comments on the third public workshop as well, dated September
+
+21 1, 2021.
+
+22 a. WSPA pointed out again that CARB should evaluate multiple vehicle and
+
+23 fuel systems alternatives.
+
+24 b. WSPA identified further errors underlying CARB's cost assumptions for
+
+25 the proposed regulations.
+
+26
+
+27
+
+28 - 11 -
+VERIFIED PETITION AND COMPLAINT
+
+C. WSPA also advised CARB that the agency should expand its
+environmental analysis to include a broader range of feasible indirect
+impacts in order to comply with CEQA.
+
+4 65. In its public presentation materials at the third public workshop, CARB
+
+5 acknowledged that ZEV affordability is a concern for environmental justice communities.
+
+6 66. In that same presentation, CARB emphasized that its focus was on "simplifying
+7 and strengthening the regulation toward 100% ZEV goal," rather than considering non-ZEV
+8 regulatory alternatives.
+
+67. CARB's representation about the project indicates that CARB had already defined
+10 the project scope, despite labeling this third public workshop as the CEQA scoping meeting to
+11 initiate the environmental review process and solicit public feedback, prior to defining the scope
+
+12 of the project and reasonable regulatory alternatives for CEQA purposes.
+
+13 68. CARB purported to solicit input on alternative approaches, but cabined
+14 alternatives to those that "fulfill the purposes of the draft regulatory proposal as CARB has
+
+15 presented it" and gave no serious consideration to alternative approaches otherwise.
+
+16 69. In October 2021, CARB held a fourth public workshop.
+
+17 70. In the fourth public workshop, CARB presented updated analyses and proposals
+18 to amend the ZEV regulations, as well as statewide costs and emissions benefits for the full
+19 regulation proposal and two alternatives considered.
+
+20 71. Among other updates, CARB proposed a credit pooling provision in which
+21 manufacturers would be able to pool and transfer the credits they earn from ZEV sales across
+22 "Section 177 states" (states that have adopted California's Low-Emission Vehicle Standards
+
+23 under Section 177 of the Clean Air Act, 42 U.S.C. § 7507) to meet up to 15% of their total
+24 obligation in each state.
+
+25 72. On October 22, 2021, WSPA submitted a comment letter on the fourth public
+26 workshop, reiterating points made in previous comments. In particular, WSPA provided
+27 additional evidence that a low carbon fuel alternative could secure greater near-term greenhouse
+
+28 - 12 -
+VERIFIED PETITION AND COMPLAINT
+
+gas emissions reductions. CARB repeatedly failed to consider these comments, instead stating
+2 that alternative fuels are not covered in the scope of ACC II and need to be considered in a Low
+Carbon Fuel Standard.
+
+4 73. In its presentation, CARB estimated that the average incremental retail price of
+5 vehicles would increase by $1,417 per vehicle in 2030 and by $1,939 per vehicle in 2035.
+74. CARB also acknowledged in its presentation materials that electricity costs would
+7 be impacted by the ZEV mandate, which could vary significantly by housing type.
+
+8 75. The two alternatives CARB considered in the fourth public workshop were: (1)
+9 mandating 70% ZEVs by 2035, and (2) 100% ZEVs by 2032 ("accelerated rollout").
+
+10 2. The Proposed ACC II
+
+11 76. In January 2022, CARB published the draft Standardized Regulatory Impact
+
+12 Assessment for the proposed ACC II, which was updated in March 2022.
+
+13 77. Of note, the Standardized Regulatory Impact Assessment stated the following:
+
+14 a. It estimated that the petroleum and coal products manufacturing industry
+
+15 will decrease output by $17.34 billion as a result of the regulation.
+
+16 b. It indicated that the regulation would result in the loss of 86,929 jobs in
+
+17 2034 and 93,117 jobs in 2038 overall in California.
+
+18 78. On April 12, 2022, CARB publicly released its official rulemaking documents for
+
+19 the proposed ACC II. These documents included the following, among others:
+
+20 a. The proposed regulatory text;
+
+21 b. An Initial Statement of Reasons; and
+
+22 C. An accompanying "Draft Environmental Analysis" purportedly prepared
+
+23 pursuant to CEQA, CEQA's implementing regulations, and CARB's
+
+24 certified regulatory program.
+
+25 79. The Initial Statement of Reasons stated: "Between 2026 and 2040, the Proposed
+26 Regulation is estimated to result in additional costs to businesses of $30.2 billion, or $2.0 billion
+
+27
+
+28 - 13 -
+VERIFIED PETITION AND COMPLAINT
+
+on average per year." The net job impact would be a "decrease in employment growth of 39,800
+2 jobs."
+
+80. The Draft Environmental Analysis included four alternatives to the proposed
+
+4 project:
+
+5 a. Alternative 1: No Project Alternative. Alternative 1 assumed that existing
+
+6 ZEV regulations would remain in place but that the proposed ACC II
+
+7 would not be implemented.
+
+8 b. Alternative 2: Less Stringent ZEV Sales Requirement in the Early Years.
+Alternative 2 included a lower ZEV sales percentage in 2026 and a slower
+
+10 ramp rate from 2026 to 2031, but still reached a 100% ZEV sales mandate
+11 by 2035.
+
+12 C. Alternative 3: Less Stringent Overall ZEV Sales Requirement with 70
+
+13 Percent by 2035. Alternative 3 included a 70% ZEV sales mandate by
+
+14 2035, compared to the 100% sales mandate in the proposed project.
+
+15 d. Alternative 4: No Low-Emission Vehicle Regulation Updates. Alternative
+
+16 4 assumed that existing requirements for low-emission vehicles would
+
+17 remain in place but that the proposed amendments to the Low-Emission
+
+18 Vehicle Regulation would not occur.
+
+19 81. CARB also "considered but rejected" an alternative requiring lower-carbon
+20 alternative fuels coupled with improved internal combustion engine technologies, rather than
+21 requiring ZEV sales from manufacturers.
+
+22 82. According to CARB, the agency did not perform a detailed evaluation of this
+23 alternative because CARB determined it was infeasible and failed to meet the project objectives.
+24 See CEQA Guidelines § 15126.6(c).
+
+25 83. CARB received 181 written comments in response to its Draft Environmental
+26 Analysis and Initial Statement of Reasons.
+
+27
+
+28 - 14 -
+VERIFIED PETITION AND COMPLAINT
+
+84. Many of these comments raised significant concerns regarding the scope of
+2 CARB's environmental analysis and compliance with CEQA.
+
+85. In particular, on May 31, 2022, WSPA submitted a comment letter on the
+
+4 proposed ACC II regulations and CARB's Initial Statement of Reasons.
+
+5 a. WSPA expressed serious concerns that the proposed ZEV mandate was
+
+6 neither technologically feasible nor cost effective, all based on the weight
+
+7 of the evidence in the rulemaking record.
+
+8 b. WSPA once again notified CARB that its analysis of environmental
+impacts, regulatory alternatives, and costs was deficient.
+
+10 C. WSPA further explained in the comment letter that, to date, Respondents
+11 had failed to document-as required by California law-that the ZEV
+
+12 regulation, in fact, minimized leakage and that CARB had fully considered
+
+13 the regulatory impacts to the state's economy, including competitive
+
+14 impacts and impacts to specific businesses.
+
+15 d. WSPA also advised CARB that it lacked authority to ban entire industries,
+
+16 including the oil and gas production and refining and related industries.
+
+17 86. On June 9, 2022, CARB held a public hearing on the proposed ACC II.
+
+18 87. In this public hearing, CARB presented the draft regulatory language and a
+19 preliminary cost analysis of the proposed regulations.
+
+20 88. Approximately 55 members of the public offered comments during the public
+21 hearing.
+
+22 89. Again, many of these comments raised significant concerns regarding the scope of
+23 CARB's environmental analysis.
+
+24 90. In the Initial Statement of Reasons' preliminary cost analysis, CARB once again
+25 projected that the petroleum and coal products manufacturing industry would bear some of the
+26 greatest regulatory impacts based on reduced demand for petroleum fuels.
+
+27
+
+28 - 15 -
+VERIFIED PETITION AND COMPLAINT
+
+91. CARB thereafter released a modified draft regulatory language and additional
+rulemaking documents in July and August 2022. CARB also reopened the public comment
+period for 15 days.
+
+4 3. Finalization of ACC II
+
+5 92. On August 22 and 24, 2022, CARB publicly released its final rulemaking
+
+6 documents for ACC II. These documents included the following, among others:
+
+7 a. The final regulatory orders;
+
+8 b. A Final Environmental Analysis;
+
+C. CARB's Response to Comments on the Draft Environmental Analysis
+
+10 ("Response to Comments"); and
+
+11 d. CARB's Findings and Statement of Overriding Considerations.
+
+12 93. On August 24, 2022, CARB responded to public comments to the Draft
+
+13 Environmental Analysis.
+
+14 94. In its Response to Comments, CARB identified 31 comment letters that raised
+15 significant environmental issues related to the Draft Environmental Analysis, which included
+16 WSPA's written comments.
+
+17 95. CARB's responses to the issues raised by WSPA were limited, largely asserting
+18 that WSPA's concerns are not reasonably foreseeable or that the impacts identified fell outside of
+19 CARB's required analysis.
+
+20 96. On August 24, 2022, CARB published its Final Environmental Analysis.
+
+21 97. According to CARB, the Final Environmental Analysis included only "minor
+22 revisions" that "merely clarify, amplify, or make insignificant modifications to the otherwise-
+23 adequate Draft Environmental Analysis."
+
+24 98. In the Initial Statement of Reasons and later the Response to Comments, CARB
+25 represented that ACC II was proposed and finalized pursuant to certain statutes under California
+
+26 law. Those statutes include, but are not limited to:
+
+27 a. Health and Safety Code § 39003; cop
+
+28 - 16 -
+VERIFIED PETITION AND COMPLAINT
+
+b. Health and Safety Code §§ 39002, 39667, 43018, and 43101;
+
+C. Health and Safety Code § 39602;
+
+d. Health and Safety Code §§ 38510, 38560, and 38562;
+
+4 e. Health and Safety Code con 38566; and
+
+5 f. Health and Safety Code §§ 39600, 39601, 39602.5, 43000, 43000.5,
+
+6 43013, and 43018.
+
+7 99. However, none of the statutes referenced by CARB in promulgating the ACC II-
+
+8 or any other California statute currently in placeauthorizes CARB to eliminate an entire
+9 business to supply energy for a key part of the transportation sector in California, or to issue a
+10 regulation that would have such similar effect.
+
+11 100. On August 25, 2022, CARB adopted the ACC II regulations.
+
+12 101. Until October 14, 2022, CARB delayed and did not file its Notice of Decision
+13 (which were pursuant to CARB's regulations) as a certified regulatory program under CEQA.
+
+14 CARB eventually posted the Notice of Decision and made the document available to the public.
+
+15 COUNT ONE
+
+16 (For violations of CEQA, Pub. Res. Code § 21000, et seq., and the CEQA Guidelines, 14
+
+17 C.C.R. § 15000, et seq., against all Respondents)
+
+18 102. Petitioner hereby realleges and incorporates Paragraphs 1 through 101, inclusive.
+
+19 103. Respondents violated CEQA and its implementing regulations and guidelines by
+20 certifying a legally deficient environmental analysis.
+
+21 104. a CEQA is a fundamental requirement for public agency actions. It imposes clear
+22 and substantive responsibilities on agencies and is not merely a procedural statute. CEQA
+23 generally requires that public agencies not approve projects that harm the environment unless
+24 and until all feasible mitigation measures are employed to minimize that harm. Pub. Res. Code
+25 §§ 21002, 21002.1(b). Agencies shall not undertake actions that could have a significant adverse
+26 effect on the environment, or limit the choice of alternatives or mitigation measures, before
+27 complying with CEQA. CEQA Guidelines, 14 C.C.R. § 15004(b)(2).
+
+28 - 17 -
+VERIFIED PETITION AND COMPLAINT
+
+105. CARB's certified environmental analysis was legally deficient in at least two
+ways. CARB failed to analyze a reasonable range of regulatory alternatives; and CARB failed to
+analyze significant environmental impacts both of which were required by law. In particular,
+
+4 CARB overlooked substantial evidence related to alternatives and environmental impacts that it
+
+5 was required to consider.
+
+6 A. CEQA Background
+
+7 106. CARB has a regulatory program certified under Public Resources Code Section
+
+8 21080.5, and pursuant to this program CARB conducts environmental analyses to meet the
+9 requirements of CEQA.
+
+10 107. Under its certified regulatory program, CARB need not comply with requirements
+11 for preparing initial studies, negative declarations, or environmental impact reports. CARB's
+12 actions, however, remain subject to other provisions of CEQA. CEQA Guidelines, 14 C.C.R. §
+
+13 15250.
+
+14 108. CARB's regulatory program is contained in 17 C.C.R. Sections 60000 to 60007.
+15 These provisions require the preparation of a staff report at least 45 days before the public
+16 hearing on a proposed regulation, in which the report is required to be available for public review
+
+17 and comment.
+
+18 109. It is CARB's policy to prepare its staff reports "in a manner consistent with the
+19 environmental protection purposes of [CARB's] regulatory program, with the goals and policies
+20 of [CEQA],... and with the California Administrative Procedure Act."
+
+21 110. In promulgating ACC II, Respondents prepared an Environmental Analysis
+22 purporting to comply with CEQA requirements.
+
+23 111. CARB has identified ACC II as a "project" under CEQA. The CEQA Guidelines
+24 define a project as "the whole of an action, which has a potential for resulting in either a direct
+25 physical change in the environment, or reasonably foreseeable indirect physical change in the
+26 environment." CEQA Guidelines, 14 C.C.R. § 15378(a). Where an approval is "an essential
+
+27
+
+28 18 -
+VERIFIED PETITION AND COMPLAINT
+
+step leading to ultimate environmental impact[,] it [is] a 'project' within the scope of CEQA."
+2 Fullerton Joint Union High Sch. Dist. v. State Bd. of Educ., 32 Cal. 3d 779, 797 (1982).
+
+112. "There is no dispute that CEQA forbids 'piecemeal' review of the significant
+
+4 environmental impacts of a project. This rule derives, in part, from section 21002.1, subdivision
+5 (d), which requires the lead agency . .. to 'consider[] the effects, both individual and collective,
+
+6 of all activities involved in [the] project.™ Berkeley Keep Jets Over the Bay Comm. V. Bd. of
+7 Port Comm'rs, 91 Cal. App. 4th 1344, 1358 (1st Dist. 2001) (second and third alterations in
+
+8 original), as modified on denial of reh g (Sep. 26, 2001).
+
+113. The preparation, public review, and final agency approval of an environmental
+10 impact report, or its functional equivalent, is central to the accomplishment of CEQA's
+11 objectives. The heart of an Environmental Analysis is the agency's analysis of the possible
+12 impacts of the action the agency is considering, the agency's analysis of alternatives, and the
+13 agency's response to public comments. CEQA review and the application of CEQA procedures
+14 must be followed at all stages of project consideration, to carry out the legislative intent "to
+15 compel government at all levels to make decisions with environmental consequences in mind."
+16 Bozung v. Loc. Agency Formation Comm'n of Ventura Cnty., 13 Cal. 3d 263, 283 (1975).
+
+17 114. For this reason, it is essential that an Environmental Analysis is "prepared as early
+18| in the planning process as possible to enable environmental considerations to influence project,
+19 program or design." See Laurel Heights Improvement Ass'n. V. Regents of Univ. of Cal., 47 Cal.
+20 3d 376, 395 (1988), as modified on denial of reh'g (Jan. 26, 1989) (citing Bozung, 13 Cal. 3d at
+21 282). Agencies must avoid the kind of "bureaucratic and financial momentum" that provides "a
+22 strong incentive to ignore environmental concerns." Id. "[T]he later the environmental review
+23 process begins, the more bureaucratic and financial momentum there is behind a proposed
+24| project. . .." Id.
+
+25 115. While "CEQA does not, indeed cannot, guarantee that these decisions will always
+
+26 be those which favor environmental considerations,' members of the public "have right to
+
+27
+
+28 - 19 -
+VERIFIED PETITION AND COMPLAINT
+
+expect that those who must decide will approach their task neutrally, with no parochial interest at
+2 stake." Bozung, 13 Cal. 3d at 283.
+
+116. CARB's regulatory program requires the agency to consider regulatory
+4 alternatives consistent with CEQA Guidelines.
+
+5 117. Specifically, CARB must assess "a reasonable range of alternatives to the
+
+6 proposed project, which could feasibly attain most of the project objectives but could avoid or
+7 substantially lessen any of the identified significant impacts." 17 C.C.R. § 60004.2.
+
+8 118. CARB must also consider, consistent with CEQA Guidelines, the impacts of a
+9 proposed project, which include any "cumulative and growth-inducing impacts." Id.
+
+10 119. Regulatory alternatives must similarly be assessed in light of their cumulative
+11 impacts. 14 C.C.R. § 15130.
+
+12 B. Defect One: Failure to Analyze a Reasonable Range of Regulatory Alternatives
+
+13 120. Starting in September 2021, Petitioner repeatedly urged CARB through its public
+14 comment letters to consider low-carbon alternative fuels and engine technologies as an
+15 alternative to ACC II's 100% ZEV sales mandate.
+
+16 121. Despite these comments, in its Draft Environmental Analysis, Respondents
+
+17 determined that a low-carbon fuel alternative did not warrant further evaluation because such an
+
+18 alternative would be infeasible and would not meet the basic objectives of the regulatory
+19 program.
+
+20 122. CARB opined, without support, that a low-carbon fuel alternative would be
+21 infeasible because "renewable gasoline as a liquid drop-in fuel has not been commercialized at
+22 scale" and "biomass supplies are limited and will need to be focused on other mobile sectors that
+
+23 are harder to electrify."
+
+24 123. Also according to CARB, a low-carbon fuel alternative would fail to meet most of
+25 the basic project objectives because "low-carbon fuel technology fails to reduce criteria
+26 emissions needed to meet ambient air quality standards"; the resulting program may not be
+
+27
+
+28 20 -
+VERIFIED PETITION AND COMPLAINT
+
+verifiable or enforceable; and such an approach "does not accelerate the deployment of vehicles
+2 that achieve the maximum emissions reductions possible and fails to lead the transition to
+
+ZEVs."
+
+4 124. According to CARB's Draft Environmental Analysis, the "primary objectives" of
+5 ACC II include goals to "[m]aintain and continue reductions in emissions of [greenhouse gas
+
+6 emissions] beyond 2020" and "[c]omplement existing programs and plans to ensure, to the extent
+
+7 feasible, that activities undertaken pursuant to the measures complement, and do not interfere
+
+8 with, existing planning efforts to reduce [greenhouse gas] emissions, criteria pollutants,
+9 petroleum-based transportation fuels, and [toxic air contaminant] emissions."
+
+10 125. CARB has provided no authority for its premise that completely removing
+11 petroleum-based and renewable transportation fuels is a legitimate objective for the agency.
+
+12 126. CARB cannot choose an artificially narrow definition of a project's purposes in
+13 order to limit the alternatives it must analyze. Pub. Res. Code § 21061; see also Ocean St.
+14 Extension Neighborhood Ass'n v. City of Santa n Cruz, 73 Cal. App. 5th 985, 1013 (4th Dist.
+
+15 2021).
+
+16 127. Petitioner demonstrated in comments that low-carbon fuels like renewable diesel,
+17 ethanol, and renewable gasoline are compatible with existing vehicle infrastructure and can
+18 immediately reduce both criteria pollutants and greenhouse gas emissions from the transportation
+19 sector without waiting for the time and expenses it will take to build out electric vehicle
+
+20 infrastructure.
+
+21 128. Existing programs like CARB's own Low Carbon Fuel Standard and the federal
+22 Renewable Fuel Standard indicate that such fuels are already available in the transportation
+23 sector, contradicting CARB's assertion that low-carbon fuel alternatives would be infeasible and
+
+24 unenforceable.
+
+25 129. These existing programs also demonstrate that low-carbon fuels can achieve
+26 substantial reductions in greenhouse gas emissions and criteria pollutants.
+
+27
+
+28 . 21 -
+VERIFIED PETITION AND COMPLAINT
+
+130. Analyzing a low-carbon fuel standard alternative also aligns with CARB's
+statutory mandate pursuant to Health & Safety Code Section 57005 to consider any less costly
+but equally effective alternatives.
+
+4 131. a Further, a low-carbon fuel alternative better aligns with the California
+
+5 Administrative Procedure Act rulemaking requirements for CARB to consider performance
+
+6 standards as an alternative whenever CARB proposes a regulation that would mandate the use of
+
+7 specific technologies or equipment, or prescribe specific actions or procedures. Cal. Gov't Code
+
+8 11346.2(b)(4)(A).
+
+132. Nevertheless, in its Response to Comments, CARB reiterated the same reasons
+10 for failing to perform a complete analysis of a low-carbon fuels alternative, adding only that
+11 "low-carbon liquid fuel technologies produce higher criteria emissions relative to zero-emission
+12 vehicles" and that "this alternative does not accelerate the deployment of vehicles that achieve
+13 the maximum emissions reductions possible and fails to lead the transition to ZEVs as called for
+
+14 in the Governor's Executive Order."
+
+15 133. Respondents effectively foreclosed meaningful analysis of a low-carbon fuel
+16 alternative after the issuance of Executive Order N-79-20, limiting its analysis of regulatory
+17 alternatives to ZEV-centric measures in furtherance of a foregone result based on the Executive
+18 Order's directive. CEQA Guidelines Section 15004(b)(2)(B) provides that public agencies
+19 should not "take any action which gives impetus to a planned or foreseeable project in a manner
+20 that forecloses alternatives or mitigation measures that would ordinarily be part of CEQA review
+21 of that public project."
+
+22 134. As early as May 2021, prior to its August 2021 CEQA scoping meeting,
+23 Respondents had already coalesced around carrying out Executive Order N-79-20 by
+24 prematurely "concluding" that compliance with long-term air quality and greenhouse gas
+25  emissions reductions targets would require transition to 100% ZEVs.
+
+26 135. CARB is prohibited from "committ[ing] itself to the project as a whole or to any
+27 particular features, SO as to effectively preclude any alternatives or mitigation measures that
+
+28 • 22 -
+VERIFIED PETITION AND COMPLAINT
+
+CEQA would otherwise require to be considered." Save Tara v. City of W. Hollywood, 45 Cal.
+2 4th 116, 139 (2008), as modified (Dec. 10, 2008). Thus, CEQA does not permit the
+Ipostponement of environmental review to the point where "bureaucratic and financial
+4 momentum" has built up "irresistibly ehind proposed project, thus providing strong
+
+5 incentive to ignore environmental concerns.' See id. at 135 (citing Laurel Heights I, 47 Cal. 3d
+
+6 at 395).
+
+7 136. CARB's failure to analyze a reasonable range of regulatory alternatives to ACC II
+
+8 violates CEQA.
+
+9 C. Defect Two: Failure to Analyze Significant Environmental Impacts
+
+10 137. Respondents also failed to adequately evaluate the direct, indirect, and cumulative
+11 environmental impacts of ACC II in its Final Environmental Analysis, even after commenters
+
+12 identified numerous review gaps in their comments on the Draft Environmental Analysis. The
+
+13 CEQA Guidelines at Section 15355 define a cumulative impact as the condition under which
+14 "two or more individual effects which, when considered together, are considerable or which
+15 compound or increase other environmental impacts. . . . The cumulative impact from several
+16 projects is the change in the environment which results from the incremental impact of the
+17 project when added to other closely related past, present, and reasonably foreseeable probable
+18 future projects. Cumulative impacts can result from individually minor but collectively
+19 significant projects taking place over a period of time."
+20 138. Respondents were fully on notice of the scale and nature of the impacts associated
+21 with the ZEV sales mandate based on significant discussion in public comments reviewed by
+22 CARB, which identified multiple unavoidable significant adverse environmental impacts from
+23 implementation of the ZEV sales mandate.
+
+24 139. The deficiencies in the Final Environmental Analysis include but are not limited
+
+25 to the following three issues.
+
+26 140. First, increased electricity demand and associated indirect environmental impacts.
+27 CARB did not adequately consider how increased demand on the electric grid due to
+
+28 • 23 -
+VERIFIED PETITION AND COMPLAINT
+
+significantly increased ZEV use will require additional increases in electric utility construction,
+2 which will likely include gas units to make up for the intermittency of renewable resources such
+as wind and solar.
+
+4 141. The construction of these facilities, as well as the use of additional gas facilities to
+
+5 meet demand, will have environmental impacts, including impacts on biological resources and
+
+6 increased greenhouse gas emissions and criteria pollutants, which CARB did not consider.
+
+7 142. Second, housing costs. CARB did not adequately consider how requiring ZEVs
+
+8 will necessitate accessible residential charging stations, which will drive up the costs of housing
+9 in the state and could result in housing displacement.
+
+10 143. Third, indirect impacts stemming from a lifecycle analysis of ZEV. CARB failed
+11 to analyze the full lifecycle impacts of ZEVs. Battery production, transport, and disposal or
+12 recycling present emissions and waste impacts that CARB must take into account.
+
+13 144. Fourth, wildfire risks. CARB did not adequately consider impacts to wildfire
+14 risks stemming from ACC II's transportation electrification mandate, which may create outsized
+15 cumulative impacts in environmentally vulnerable communities.
+
+16 1. Electricity Demand
+
+17 145. It is undisputed that CARB's ZEV sales mandate will significantly increase
+18 electricity demand.
+
+19 146. CARB's Standardized Regulatory Impact Analysis predicts a 20.23% increase 1n
+20 output for electric power generation, transmission, and distribution by 2040.
+
+21 147. In its comments on CARB's Draft Environmental Analysis, WSPA emphasized
+22 that California currently faces unresolved grid reliability issues based on challenges in meeting
+23 demand during extreme heat waves.
+
+24 148. In August 2020, nearly half a million Californians lost power, and as recently as
+25 July 30, 2021, Governor Gavin Newsom issued an emergency proclamation based on energy
+26 supply shortages of up to 3,500 megawatts during peak demand periods.
+27
+
+28 24 -
+VERIFIED PETITION AND COMPLAINT
+
+149. Recent studies have found that factors affecting grid reliability are predicted to
+increase in future years, as California is expected to experience continued greater demand for
+electricity.
+
+4 150. Nevertheless, CARB concluded in its Final Environmental Analysis that "long-
+
+5 term operation-related energy impacts would be less than significant," despite CARB's
+6 acknowledgement that the ACC II regulations are expected to increase electricity demand by
+
+7 around 20 to 25%.
+
+8 151. CARB also concluded that "long-term operational-related effects to utilities and
+9 services systems, associated with the Proposed Program [ACC II] would be potentially
+10 significant," based on "new demand for water, wastewater, electricity, and gas services for new
+11 or modified facilities."
+
+12 152. These construction activities may foreseeably include "investment in
+13 transformers, meters, breakers, wires, conduit, and associated civil engineering work will be
+14 necessary."
+
+15 153. CARB determined that "the specific location and type of construction needed is
+
+16 not known and would be dependent upon a variety of market factors that are not within the
+17 control of CARB."
+
+18 154. While CARB concluded that these impacts "could be reduced to a less-than-
+
+19 significant level by mitigation that can and should be implemented by local lead agencies," it
+20 determined that such measures are "beyond the authority of CARB and not within its purview."
+
+21 155. In its Response to Comments, CARB indicated that "[i]t is speculative and not
+22 reasonably foreseeable at this time to anticipate all the environmental impacts of all downstream
+23 projects to this programmatic Draft EA [Environmental Analysis]."
+
+24 156. CARB cannot reasonably evaluate the cumulative impacts of ACC II, which
+25 mandates the vast expansion of electric vehicles and associated infrastructure throughout the
+26 state, without evaluating the downstream effects of increased electricity demand, such as higher
+
+27
+
+28 25 -
+VERIFIED PETITION AND COMPLAINT
+
+costs and impaired reliability. CARB cannot ignore such impacts by writing them off as
+speculative.
+
+2. Housing Costs
+
+4 157. One of CEQA's primary concerns is with "human health and safety." See Cal.
+5 Bldg. Indus. Assn. v. Bay Area Air Quality Mgmt. Dist., 62 Cal. 4th 369, 386 (2015); Pub. Res.
+
+6 Code § 21083(b)(3). Impacts to housing costs fall within the scope of required analysis under
+7 CEQA. See Concerned Citizens of South Central L.A. v. L.A. Unified Sch. Dist., 24 Cal. App.
+8 4th 826, 840 (2d Dist. 1994).
+
+158. CARB's Final Environmental Analysis acknowledges that its ZEV sales mandate
+10 will require significant infrastructure, with modeling projecting that "California will need more
+11 than 700,000 shared private and public chargers in 2030 to support 5 million ZEVs."
+
+12 159. CARB further acknowledges that this infrastructure will necessarily include
+13 multi-unit dwellings.
+
+14 160. In its public presentation materials at the fourth public workshop held in October
+15 2021, CARB also acknowledged that electricity costs would be impacted by the ZEV mandate,
+16 which could vary significantly by housing type.
+
+17 161. In comments, WSPA noted that ZEV infrastructure needs may drive up the costs
+
+18 of housing in the state and could result in housing displacement.
+
+19 162. In its Response to Comments, CARB asserted that such impacts are "speculative"
+20 and further asserted, with limited analysis, that "home charging is not so significant in cost to
+21 prohibitively increase housing costs to cause people to lose housing."
+
+22 163. Such indirect impacts to housing costs have significant cumulative impacts that
+23 fall within the scope of CARB's required review under CEQA.
+
+24 3. Indirect Lifecycle Impacts
+
+25 164. CARB acknowledges in its Draft Environmental Analysis that propulsion battery
+26 production needs will significantly expand as a result of ACC II, estimating that "approximately
+
+27
+
+28 26 -
+VERIFIED PETITION AND COMPLAINT
+
+150 gigawatt-hours of propulsion battery capacity will need to be produced annually to supply
+2 ZEVs and [plug-in hybrid electric vehicles] in California."
+
+165. CARB also acknowledges that "[l]ithium-ion batteries are currently expensive
+4 and represent a sizeable physical system in a vehicle (volume and mass)."
+
+5 166. While CARB includes some discussion of battery reuse and recycling, CARB
+
+6 notes that "the cost of material recovery remains a challenge for the industry" and that "[sJeveral
+7 companies in North America can recycle [plug-in electric vehicle] batteries, but none have
+8 recycling facilities in California."
+
+167. Despite CARB's acknowledgement of these battery-related challenges, CARB
+10 does not consider indirect environmental impacts associated with battery production, transport,
+11 and disposal or recycling, including emissions and waste impacts.
+
+12 168. In particular, CARB does not adequately consider risk factors and end-of-life
+13 transportation, handling, storage and disposal of electric vehicle batteries and other components,
+14 and the associated risk of releasing hazardous substances.
+
+15 169. Similarly, despite acknowledging the increased vehicle mass associated with
+16 battery electric vehicles, CARB does not consider associated environmental impacts, including
+17| increased tire wear requiring additional maintenance and increased road dust impacting air
+
+18 quality.
+
+19 170. In its comments on CARB's ACC II proposal, WSPA emphasized that CARB
+20 must account for lifecycle impacts associated with ZEVs, including battery production and
+21 disposal.
+
+22 171. Nevertheless, in its Response to Comments, CARB provided a cursory
+23 explanation that increased recycling and improved ZEV longevity would help reduce any
+24 impacts from propulsion batteries, without adequately engaging with end-of-life or production
+
+25 issues and associated impacts. Instead, CARB relied on face-value assertions that recycling
+26 programs would improve over time.
+
+27
+
+28 27 -
+VERIFIED PETITION AND COMPLAINT
+
+4. Wildfire Risks
+
+172. CARB's Initial Statement of Reasons acknowledges that California faces
+significant wildfire risks, noting that "California's annual wildfire extent has increased fivefold
+4 since the 1970s, and California's 2020 fire season alone shattered records, not only in the total
+
+5 amount of acres burned (at just over 4 million) but also in wildfire size, with 5 of the 6 largest
+
+6 wildfires in California history occurring in 2020." In its comments on CARB's Draft
+
+7 Environmental Analysis, WSPA reiterated these risks, emphasizing that wildfire risks are
+8 exacerbated by increased reliance on electricity infrastructure.
+
+173. In particular, WSPA noted that wildfires cause substantial damage to electrical
+10 transmission and distribution assets throughout the state, and that such damages can also increase
+
+11 generation costs and disrupt customer service, which may cause outsized harm to
+12 environmentally vulnerable communities.
+
+13 174. Nevertheless, in its Final Environmental Analysis, CARB concluded that
+14 "implementation of the Proposed Program would have a less than significant short-term
+15 construction-related and long-term operational impact on wildfire."
+
+16 175. CARB acknowledged that "[o]verhead powerlines associated with new
+17 infrastructure, including those lines built to support increased energy demand to accommodate
+18 increased reliance on the electrical grid, could increase the risk of wildfire ignition."
+
+19 176. CARB pointed to "new safety initiatives, development standards, and regulatory
+20 oversight for electric utilities" as mitigating any increased risk of wildfire ignition resulting from
+21 new electricity infrastructure, but these measures are not sufficient to relieve CARB of its duty
+22 under CEQA to address significant environmental impacts.
+
+23 177. In its Response to Comments, CARB further asserted that "the Proposed Program
+24 cannot claim impacts from wildfire from faulty electrical infrastructure." a As a result, CARB
+25 summarily dismissed such impacts without conducting a full and fair analysis as required by
+26 CEQA.
+
+27
+
+28 28 -
+VERIFIED PETITION AND COMPLAINT
+
+178. In sum, CARB's failure to analyze significant environmental impacts of ACC
+
+2 II-in at least four different ways-violates CEQA.
+
+***
+
+4 179. As a result of these defects (and others) in the Final Environmental Analysis,
+5 Respondents prejudicially abused its discretion by certifying an Environmental Analysis that
+
+6 does not comply with CEQA and by failing to proceed in the manner required by law.
+
+7 180. Failure to comply with CEQA's substantive or procedural requirements so that
+8 complete information as to a project's impacts is not developed and publicly disclosed
+constitutes a prejudicial abuse of discretion that requires invalidation of the public agency action
+
+10 regardless of whether full compliance would have produced a different result. Pub. Res. Code §
+11 21005.
+
+12 181. Petitioner objected to CARB's approvals of a ZEV sales mandate prior to the
+13 close of the final public hearings on ACC II, and raised each of the legal deficiencies asserted in
+
+14 this Petition.
+
+15 182. Petitioner have performed all conditions precedent to the filing of this Petition,
+16| including complying with Public Resources Code Section 21167.5 by serving notice of the
+17 commencement of this action prior to filing it with this Court.
+
+18 COUNT TWO
+
+19 (For actions outside the scope of the agency's authority, against all Respondents)
+
+20 183. Petitioner hereby realleges and incorporates Paragraphs 1 through 182, inclusive.
+
+21 184. ACC II exceeds CARB's authority in violation of the California Constitution and
+
+22 the California Administrative Procedure Act, because CARB lacks the power to legislate, or the
+23 power to issue a regulation that would fundamentally transform California's economy but with
+
+24 no clear statutory directive from the California Legislature to do so.
+
+25
+
+26
+
+27
+
+28 29
+VERIFIED PETITION AND COMPLAINT
+
+A. No Authority to Legislate
+
+185. "The legislative power of this State is vested in the California Legislature which
+consists of the Senate and Assembly, but the people reserve to themselves the powers of
+4 initiative and referendum." Cal. Const. art. IV § 1.
+
+5 186. The California Legislature knows how to delegate authority to CARB if the
+
+6 Legislature indeed wanted CARB to develop and implement broad regulatory programs with
+
+7 substantial statewide impacts. For instance, in the Global Warming Solutions Act of 2006, the
+8 Legislature "authorize[d] the state board to adopt market-based compliance mechanisms, as
+9 defined, meeting specified requirements," placing careful limits on CARB's development of a
+10 cap-and-trade program given the program's expansive economic implications.
+
+11 187. As an executive agency, CARB has no legislative authority to compel 100 percent
+12 ZEVs by 2035, a target that has never been codified and that the Legislature has never adopted.
+
+13 188. ACC II was promulgated pursuant to Executive Order N-79-20, which is also a
+14 directive of the Executive Branch that does not resolve CARB's lack of legislative authority.
+
+15 189. General environmental or emissions reductions statutes do not serve as a basis for
+
+16 legislative delegation because they would lack "adequate direction for the implementation of a
+17 fundamental policy." Plastic Pipe & Fittings Assn. v. Cal. Bldg. Standards Com., 124 Cal. App.
+18 4th 1390, 1410 (2d. Dist. 2004); see also Gundy v. United States, 139 S. Ct. 2116, 2123 (2019)
+19 (requiring "intelligible principle").
+
+20 190. Respondents' usurpation of the legislative authority violates the California
+21 Constitution which deems any breach of the separation of powers principle unconstitutional. It is
+22 also arbitrary and capricious, an abuse of discretion, and contrary to the laws of California.
+23 B. No Authority to Regulate Outside the Clear Statement by the Legislature
+
+24 191. To the extent that agencies such as CARB have the authority to promulgate
+25 regulations, the regulation "shall be within the scope of authority conferred and in accordance
+26 with standards prescribed by other provisions of law." Cal. Gov't Code § 11342.1.
+
+27
+
+28 30 -
+VERIFIED PETITION AND COMPLAINT
+
+192. Even if the authority conferred by the Legislature may be implicit, "no regulation
+adopted is valid or effective unless consistent and not in conflict with the statute and reasonably
+necessary to effectuate the purpose of the statute." § Id. § 11342.2.
+
+4 193. Such authorizations by the Legislature must be clearly discernible, especially if
+
+5 the authorization would be of deep political and economic significance. See generally Garcia v.
+
+6 McCutchen, 16 Cal. 4th 469, 482 (1997) ("We are not persuaded the Legislature would have
+
+7 silently, or at best obscurely, decided so important . . . a public policy matter and created a
+
+8 significant departure from the existing law." (omission in original).
+194. ACC II would be of such deep political and economic significance because it
+10 seeks to phase out an entire business to supply energy for a key part of the transportation sector
+11 as expeditiously as possible after 2035.
+
+12 195. Notwithstanding ACC II's sweeping nature, which affects California's economy
+
+13 and beyond, Respondents cannot identify any clear direction from the California Legislature to
+14 promulgate it.
+
+15 196. For example, Assembly Bill 1745, 2021-22 Reg. Sess. (Cal. 2018), would have
+16 prohibited the original registration of non-ZEV vehicles starting in 2040. The Bill did not pass.
+
+17 197. The California Global Warming Solutions Act of 2006 and the general mobile
+18 source emission standard provisions under the Health & Safety Code, which Respondents cite as
+19 the statutory authority permitting ACC II as discussed 1n this Petition's Factual Allegations
+20 supra Paragraph 98, do not provide any clear statement that would justify removing an entire
+21 business to supply energy for a key part of the transportation sector out of the state and radically
+22 changing the sales of new motor vehicles in the state.
+
+23 198. The statutes referenced by Respondents actually demonstrate the opposite: the
+24 fact that the Legislature clearly expressed that internal combustion engine vehicles were to be
+25 regulated rather than banned demonstrates clear legislative statement to preserve petroleum
+
+26 industries in California.
+
+27
+
+28 - 31 -
+VERIFIED PETITION AND COMPLAINT
+
+199. In fact, the statutes referenced by CARB require reductions in greenhouse gas
+emissions and include no language indicating that seeking reductions in petroleum-based
+transportation fuels is a legitimate objective for CARB. Carbon capture and other innovative
+4 technologies offer opportunities for petroleum-derived fuels to achieve greenhouse gas
+
+5 reductions in compliance with these statutory mandates.
+
+200. Yet, in contrast to this statutory direction, Respondents have expressed that one of
+7 the "primary objectives" of ACC II is to "reduce ... petroleum-based transportation fuels."
+
+8 201. Additionally, ACC II conflicts with other legislative priorities clearly expressed
+9 by the California Legislature, such as wildfire resilience measures in SB-456 and SB-85, because
+10 the Regulations would put even more stress on the electric utility infrastructure, which already
+11 poses a significant wildfire ignition risk. See S.B. 456, 2021-22 Reg. Sess. (Cal. 2021); S.B. 85,
+12 2021-22 Reg. Sess. (Cal. 2021).
+
+13 202. Under the California Constitution and California administrative law principles, it
+14 is the role of the Legislature, not a state agency, to weigh competing state priorities to achieve
+15 the appropriate balance.
+
+16 203. The only clear direction in the record to promulgate ACC II comes from an
+17 Executive Order, which was issued by the Executive Branch and cannot grant CARB the
+18 expansive legislative powers it seeks it to utilize here.
+
+19 204. In stark contrast to the Legislature's careful balancing of policy objectives and
+20 economic considerations, the Governor's authority to issue an Executive Order is tied to broad
+21 and temporary emergency powers, which are not applicable in this dispute. See Cal. Gov't Code
+
+22 con 8567; Newsom v. Superior Ct., 63 Cal. App. 5th 1099, 1115-17 (2021), review denied (Aug.
+23 11, 2021).
+
+24 205. With no clear statement from the legislative body, ACC II is an unconstitutional,
+25 ultra vires exercise of Respondent's authority and must be held unlawful and set aside. It is also
+26 arbitrary, capricious, and an abuse of discretion.
+
+27
+
+28 • 32 -
+VERIFIED PETITION AND COMPLAINT
+
+206. As alleged throughout this Petition, ACC II is fraught with numerous other
+procedural defects, including violations of CEQA, the California Administrative Procedure Act,
+and the Health & Safety Code. These procedural defects further indicate that Respondents'
+4 actions were ultra vires and taken contrary to law.
+
+5 ***
+
+6 207. Petitioner has a clear, present, and substantial right to have Respondents perform
+
+7 their legal duties to only promulgate and enforce regulations that are within the scope of
+
+8 Respondents' authority, consistent with and necessary to implement, interpret, and make specific
+9 statutory provisions.
+
+10 208. Other than the relief sought herein, Petitioner lacks any plain, speedy, or adequate
+11 remedy at law, and Petitioner's interests will be irreparably harmed if ACC II goes into effect.
+
+12 COUNT THREE
+
+13 (For infringement of fundamental vested rights, against all Respondents)
+
+14 209. Petitioner hereby realleges and incorporates Paragraphs 1 through 208, inclusive.
+
+15 210. ACC II impermissibly burdens California citizens and businesses of fundamental
+16 vested rights protected under California law, namely the right to continue operation of an
+17 established business in accordance with a valid government authorization.
+
+18 211. Vested rights are those rights "already possessed" or "legitimately acquired."
+19 Harlow v. Carleson, 16 Cal. 3d 731, 735 (1976).
+
+20 212. In the context of vested rights, it is irrelevant that the California Legislature
+21 retains the general power to amend or revoke the benefits/rights granted. See id. at 736.
+
+22 213. Certain vested rights are so "fundamental" that the court must apply the
+23 "independent judgment test" standard of review, rather than deferring to the agency's review of
+24 the record, in assessing whether the government's infringement of such right was appropriate.
+
+25 See id. at 735-36.
+
+26 214. When the property and/or right was legitimately acquired, the business activity is
+27 "undertaken in accordance with applicable statutory mandates," and the right has a "potentially
+
+28 • 33 -
+VERIFIED PETITION AND COMPLAINT
+
+massive economic aspect," then "[c]ertainly, a fundamental vested right is at issue." The Termo
+2 Co. v. Luther, 169 Cal. App. 4th 394, 407-08 (2008).
+
+215. California courts have found fundamental vested rights in "the right to continue
+
+4 operating an established business in which he has made a substantial investment." See, e.g.,
+
+5 Goat Hill Tavern v. City of Costa Mesa, 6 Cal. App. 4th 1519, 1529 (1992).
+
+6 216. ACC II implicates such fundamental vested rights because, by CARB's own
+
+7 admission in the agency's Initial Statement of Reasons, an intended outcome of ACC II is the
+8 "displacement" of internal combustion engine vehicles-which could also potentially displace
+9 "fossil fuel extraction, refinement, manufacture, distribution and combustion."
+
+10 217. WSPA members' fundamental vested right to continue operations in California in
+11 accordance with a valid government authorization, which were established far before ACC II,
+12 would therefore be impermissibly burdened.
+
+13 218. Many other businesses that support or depend upon the internal combustion
+14 engine vehicle industry would also have a fundamental vested right to continue their operations
+
+15 in California.
+
+16 219. Removal or alteration of various operations, as they will occur under ACC II,
+17 would have substantial and costly impacts to the petroleum industry (and other businesses that
+
+18 support or depend upon the internal combustion engine vehicle industry) that conducted business
+19 in reliance of the California government's authorization.
+
+20 220. Such a result would cause substantial harm and would impermissibly burden
+21 businesses' fundamental vested rights.
+
+22 221. Other than the relief sought herein, Petitioner lacks any plain, speedy, or adequate
+23 remedy at law, and Petitioner's interests will be irreparably harmed if ACC II goes into effect.
+
+24 COUNT FOUR
+
+25 (For violations of Health & Safety Code and California Administrative Procedure Act,
+
+26 against all Respondents)
+
+27 222. Petitioner hereby realleges and incorporates Paragraphs 1 through 221, inclusive.
+
+28 34 -
+VERIFIED PETITION AND COMPLAINT
+
+223. ACC II fails to comply with the Health & Safety Code and the California
+
+Administrative Procedure Act because these statutes require CARB to consider the proposed
+rule's economic impacts, yet when finalizing the Regulations, Respondents failed to consider: (1)
+4 the competitive impacts to oil and gas production and refinery businesses in the state or the
+
+5 broader petroleum industry; (2) the leakage potentials due to greater greenhouse gas emissions
+
+6 outside of California; and (3) the economic impacts of electrification and existing strains on
+7 California's grid.
+
+8 224. Before adopting a regulatory scheme such as ACC II, Respondents must consider
+9 the economic impacts associated with any rulemaking proposal, and consider potential impacts
+10 to California's workers, businesses, and the greater economy.
+
+11 225. Respondents must also comply with additional statutory requirements to consider
+12 economic impacts because the Regulations are considered a "major regulation" under the
+13 California Administrative Procedure Act, defined as a regulation that "will have an economic
+14 impact on California business enterprises and individuals in an amount exceeding fifty million
+
+15 dollars." Cal. Gov't Code $ 11342.548.
+
+16 226. Respondents admit that ACC II is a major regulation, as stated in CARB's
+17 Standardized Regulatory Impact Assessment for ACC II.
+
+18 227. The specific statutory requirements that ACC II must comply with include the
+19 following:
+
+20 a. Before adopting emission standards for new motor vehicles, CARB "shall
+
+21 consider the impact of these standards on the economy of the state,
+
+22 including, but not limited to, their effect on motor vehicle fuel efficiency."
+
+23 Cal. Health & Safety Code § 43101(a).
+
+24 b. In developing "regulations that achieve the maximum feasible and cost-
+
+25 effective reduction of greenhouse gas emissions from motor vehicles,"
+
+26 CARB shall consider: job creation, creation/elimination of businesses,
+
+27 expansion of businesses, competitiveness, "ability of the state to maintain
+
+28 - 35 -
+VERIFIED PETITION AND COMPLAINT
+
+and attract businesses in communities with the most significant exposure
+to air contaminants, localized air contaminants, or both, including, but not
+limited to, communities with minority populations or low-income
+
+4 populations, or both." and automobile workers and affiliated businesses in
+
+5 the state. See id. § 43018.5; see also Cal. Gov't Code $ 11346.3 (similar
+
+6 requirements for all major regulations).
+
+7 C. CARB shall consider "less costly alternative[s] or combination of
+
+8 alternatives which would be equally as effective." Cal. Health & Safety
+Code 57005(a).
+
+10 d. CARB shall consider adverse economic impacts on California business
+11 enterprises and individuals, including the ability of California businesses
+
+12 to compete with those in other states. Cal. Gov't Code § 11346.5(a)(7). §
+
+13 e. In adopting greenhouse gas emissions limits, CARB shall minimize
+
+14 "leakage," which is the likelihood that emission reductions to be achieved
+
+15 under the rule will be cancelled out by an equivalent or even greater
+
+16 increase in greenhouse gas emissions outside of the state. See Cal. Health
+
+17 & Safety Code § 38562(b)(8).
+
+18 228. These statutory requirements must be read and construed "broadly." See John R.
+19 Lawson Rock & Oil. Inc. V. State Air Res. Bd., 20 Cal. App. 5th 77, 114 (5th Dist. 2018).
+
+20 229. Similarly, Executive Order N-79-20 also requires that CARB shall act
+21 consistently with cost-effectiveness and with state and federal law.
+
+22 230. Respondents have acted arbitrarily, capriciously, and/or in violation of their legal
+23 duties in adopting ACC II in that, among other things, CARB narrowly focused on the direct
+24 costs centered around vehicle manufacturing and ownership.
+
+25 231. CARB failed to consider at least three economic impacts which, if properly
+26 considered, would have prohibited CARB from adopting the Regulation.
+
+27
+
+28 36 -
+VERIFIED PETITION AND COMPLAINT
+
+232. First, CARB failed to consider competitive impacts on oil and gas production and
+refinery businesses in the state. CARB also failed to consider any of the numerous other
+businesses related to the petroleum industry, such as gas stations, storage terminals, asphalt
+4 production, lubricants, and others.
+
+5 233. CARB has acknowledged throughout its public rulemaking process that ACC II
+
+6 will generally have an outsized impact on the petroleum and oil refining industry, although
+7 CARB has not performed the kind of in-depth analysis that would allow CARB to adequately
+
+8 consider such impacts.
+
+234. In its comments on CARB's Draft Environmental Analysis, WSPA explicitly
+10 raised the likelihood of significant competitive impacts resulting from ACC II, noting that
+11 competitive disadvantages to California oil and gas production and refinery businesses will either
+12 drive these businesses out of state or force these businesses to shut down, requiring California to
+13 import petroleum or refined petroleum products to meet remaining demand.
+
+14 235. CARB is required to analyze competitive impacts pursuant to Health & Safety
+15 Code Sections 43101 and 43018.5, as well as CARB's rulemaking requirements pursuant to
+
+16 California Administrative Procedure Act Section 11346.5.
+
+17 236. Nevertheless, in its Response to Comments, CARB indicated that such
+18 competitive impacts, and their resulting indirect environmental impacts, were not reasonably
+19 foreseeable, asserting instead that "[a]ttempting to predict decisions by regulated entities that
+20 may oversee construction or operation of facilities or infrastructure built as compliance responses
+21 to the actions included in the Proposed Program is inherently speculative."
+
+22 237. In its limited assessment of competitive impacts, CARB only considered the
+23 potential advantages to certain vehicle manufacturers as a result of already producing ZEVs.
+
+24 238. This response directly contravenes Executive Order N-79-20, which made clear
+25 that there needed to be a plan a in place to account for the vast economic impacts of a statewide
+26 ZEV sales mandate and emphasized that CARB must still act consistently with state law.
+
+27
+
+28 - 37 -
+VERIFIED PETITION AND COMPLAINT
+
+239. Second, CARB failed to consider ACC II's "leakage" potential because the
+agency did not account for an accurate lifecycle analysis associated with electric vehicles and
+their infrastructure, as well as residual demand for liquid fuels for internal combustion engine
+4 vehicles remaining in 2035 and beyond.
+
+5 240. A leakage analysis inherently requires estimating emissions impacts outside the
+
+6 state. This analysis must account for potential increases in out-of-state emissions resulting from
+
+7 increased economic investment outside of California based on higher in-state power costs, given
+8 CARB's projections of substantial increases in electricity demand and need for new electricity
+infrastructure. Emissions from increases in out-of-state power generation may offset any in-state
+
+10 reductions.
+
+11 241. Under Health and Safety Code Section 38562(b)(8), CARB is required to analyze
+12 the potential for emissions reduction activities in the state to be offset by an equivalent or greater
+13 increase in greenhouse gas emissions outside the state resulting from its regulations.
+
+14 242. In its comments, WSPA noted that competitive impacts to the petroleum and
+
+15 refining industry create the potential for emissions reduction activities in the state to be offset by
+16 an equivalent or greater increase in greenhouse gas emissions outside the state.
+
+17 243. However, CARB failed to conduct a leakage analysis even though WSPA and its
+
+18 members commented on the issue.
+
+19 244. In its June 9, 2022 public hearing, CARB acknowledged that some residual
+20 demand for liquid fuels would remain in 2035 and beyond to support older, carry-over internal
+21 combustion engine vehicles. However, CARB made no attempt to show that California industry
+22 could continue to generate supply given the substantial competitive impacts to the petroleum and
+23 coal products manufacturing industry resulting from the regulation. CARB fails to account for
+24 the possibility that competitive disadvantages to California oil and gas production and refinery
+25 businesses will either drive these businesses out of state or force them to shut down, requiring
+26 California to import petroleum (or refined petroleum) products to meet remaining demand.
+
+27
+
+28 38•
+VERIFIED PETITION AND COMPLAINT
+
+Importing these fuels could generate significant additional emissions offsetting any in-state
+
+2 reductions.
+
+245. Instead, CARB determined in its Response to Comments on its Draft
+
+4 Environmental Analysis that leakage concerns are not reasonably foreseeable, noting that these
+
+5 concerns "are predicated a on a hypothetical scenario in which the oil and gas industry would be
+
+6 adversely impacted to such a degree that its in-state production and capacity would decline faster
+
+7 than in-state oil and gas demand, causing increased importation of petroleum."
+
+8 246. CARB's assertion that leakage concerns are not reasonably foreseeable is
+9 inconsistent with its statutory requirement to analyze leakage impacts.
+
+10 247. Third, even though CARB had access to ample information related to the
+11 economic impacts of electrification and existing strains on California's grid, CARB failed to
+12 address those impacts.
+
+13 248. As just one of many illustrative examples, WSPA and its members commented on
+
+14 how California's electric infrastructure is already stressed, how ACC II's ZEV initiatives will
+15 exacerbate those concerns, and how grid infrastructure upgrades that would be necessary because
+16 of ACC II will require significant investments.
+
+17 249. To the extent that CARB referenced grid impacts stemming from increased
+18 electrification, its analysis was cursory at best, since all the agency concluded was that state
+19 agencies and electric utilities are proactively planning and that energy use forecasting 1S not
+20 necessary under CEQA.
+
+21 250. By ignoring all of the economic impacts referenced above, Respondents
+22| prejudged ZEVs to be the favorable technology over internal combustion engine vehicles and
+23 effectively "placed the state's thumb on the scale for one group of in-state businesses over
+24 another." John R. Lawson Rock & Oil, Inc., 20 Cal. App. 5th 77, 115 (5th Dist. 2018).
+25 Respondents "ignore[d] evidence of impacts to specific segments of business already doing
+26 business in California," id. at 114-15, which Respondents were not allowed to do.
+
+27
+
+28 39
+VERIFIED PETITION AND COMPLAINT
+
+251. Respondents' prejudgment in favor of ZEVs is further evinced by CARB's Initial
+Statement of Reasons, which stated "'The Executive Officer has made an initial determination
+that the proposed regulatory action would not have a significant statewide adverse economic
+4 impact directly affecting businesses, including the ability of California businesses to compete
+
+5 with businesses in other state[s], or on representative private persons," and excluded easily
+
+6 identifiable consequences from removing liquid fuel vehicles from the California economy.
+
+7 252. Other than the relief sought herein, Petitioner lacks any plain, speedy, or adequate
+
+8 remedy at law, and Petitioner's interests will be irreparably harmed if ACC II goes into effect.
+
+COUNT FIVE
+
+10 (Declaratory relief against all Respondents)
+
+11 253. Petitioner hereby realleges and incorporates Paragraphs : through 252, inclusive.
+
+12 254. With respect to the violations of law alleged herein, there exists a clear and actual
+13 controversy between Petitioner and Respondents regarding Respondents' (1) failures to comply
+14 with CEQA and its implementing guidelines and regulations, (2) actions unauthorized by law or
+15 statute, (3) deprivations of fundamental vested rights, and (4) violations of the Health & Safety
+16 Code and the California Administrative Procedure Act.
+
+17 255. Petitioner contends that Respondents have not complied with these legal
+18 requirements, and that Respondents have taken actions that are arbitrary, capricious, without
+19 evidentiary support, an abuse of discretion, and/or in violation of their legal duties. In contrast,
+
+20 Respondents contend that they have complied with these requirements and have not taken
+21 actions that are arbitrary, capricious, without evidentiary support, an abuse of discretion, and/or
+
+22 in violation of their legal duties.
+
+23 256. To remedy these violations of law, Petitioner respectfully requests declaration of
+24 the Respondents' duties under the legal authorities listed above.
+
+25 COUNT SIX
+
+26 (Injunctive relief against all Respondents)
+
+27 257. Petitioner hereby realleges and incorporates Paragraphs 1 through 256, inclusive.
+
+28 40 -
+VERIFIED PETITION AND COMPLAINT
+
+258. With respect to the violations of law alleged herein, Petitioner is entitled to the
+2 relief demanded, which includes vacating and setting aside Respondents' approval of ACC II.
+
+259. Other than the relief sought herein, Petitioner does not have : plain, speedy, or
+4 adequate remedy at law, and will suffer irreparable injury unless this Court grants the requested
+
+5 writ of mandate and injunctive relief.
+
+260. As alleged herein, Petitioner has a special interest in the continued operations of
+7 its members' industry. The WSPA members' business is at risk without the Court's decision in
+
+8 WSPA's favor.
+
+261. Petitioner seeks to ensure that Respondents properly take into account the
+10 evidence in the rulemaking record and risks, impacts, and costs of the Regulations, and that the
+11 public and Respondents' decision-makers have all the environmental and economic information
+12 required under CEQA and other applicable laws.
+
+13 262. On information and belief, Respondents, on the other hand, will not suffer any
+14 harm, and the balance of equities lies in Petitioner's favor.
+
+15 263. Petitioner is therefore entitled to a permanent injunction pursuant to Sections 525
+16 and 526 of the Code of Civil Procedure, commanding Respondents to cease violating the legal
+17 requirements as alleged herein, to set aside and cease implementation and enforcement of ACC
+
+18 II. and to follow all required legal processes with respect to further action on ACC II, if any.
+
+19 PRAYER FOR RELIEF
+
+20 264. WHEREFORE, Petitioner prays for judgment as set forth below:
+
+21 a. For alternative and peremptory writs of mandate issued under seal of this
+
+22 Court and directing Respondents to vacate and set aside their approval of
+
+23 the Advanced Clean Cars II Regulations;
+
+24 b. For alternative and peremptory writs of mandate issued under seal of this
+
+25 Court and directing Respondents to comply with CEQA, the CEQA
+
+26 Guidelines, and CEQA implementing regulations, and to take any other
+27 action required by law;
+
+28 - 41 -
+VERIFIED PETITION AND COMPLAINT
+
+C. For a declaration and judgment that Respondents' adoption of the
+Advanced Clean Cars II Regulations is void, invalid, and of no legal
+
+effect:
+
+4 d. For a declaration of Respondents' duties under CEQA, the CEQA
+
+5 Guidelines, and CEQA implementing regulations, and the sections of the
+
+6 California Health and Safety Code and Government Code alleged herein;
+
+7 e. For an injunction restraining Respondents and their agents, employees,
+
+officers, and representatives from taking any action to implement or
+enforce the Advanced Clean Cars II Regulations;
+
+10 f. For an award to Petitioner of its costs herein;
+11 g. For attorneys' fees as authorized by Code of Civil Procedure Section
+12 1021.5 and other provisions of law; and
+
+13 h. For such other legal and equitable relief as this Court deems appropriate
+
+14 and just.
+
+15
+
+16 DATED: November 14, 2022
+
+17
+
+18
+
+19 Mebe Lily Chinn
+
+20 Aaron Streett (pro hac vice forthcoming) Attorneys for Petitioner and Plaintiff WESTERN STATES
+21 PETROLEUM ASSOCIATION
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 - 42 -
+VERIFIED PETITION AND COMPLAINT
+
+VERIFICATION
+
+I, Catherine H. Reheis-Boyd, declare:
+am an Officer, to wit; Western States Petroleum Association, a California non-profit
+
+4 trade association organized and existing under the laws of California. Western States
+
+5 Petroleum Association is Petitioner and Plaintiff in the above-entitled action, and I have been
+
+6 authorized to make this verification on its behalf.
+
+7 have read the foregoing Verified Complaint and Petition for Writ of Mandate and know
+
+8 the contents thereof, except as to those matters which are alleged on information and belief,
+
+9 and as to those matters, I believe them to be true.
+
+10 I declare under penalty of perjury, under the laws of the State of California, that the
+11 foregoing is true and correct and that this verification was signed on the 14th day of November,
+12 2022 in Sacramento, California.
+
+13
+
+14
+
+15 Calepfatli Rul
+
+16 Catherine H. Reheis-Boyd
+Chief Executive Officer & President
+17 Western States Petroleum Association
+Petitioner and Plaintiff
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 43 -
+VERIFIED PETITION AND COMPLAINT
+
+EXHIBIT A
+
+101 CALIFORNIA ST. AUSTIN NEW YORK
+
+BAKER BOTTS LLP SUITE 3200 BRUSSELS PALO ALTO
+SAN FRANCISCO, CALIFORNIA DALLAS RIYADH
+94111 DUBAI SAN FRANCISCO
+HOUSTON WASHINGTON
+TEL +1.415.291.6200 LONDON
+FAX +1.415.291.6300
+BakerBotts.com
+
+November 11, 2022
+
+Megan H. Berge
+TEL: 2026391308
+FAX: 2026391171
+VIA E-MAIL (SCLIFF@ARB.CA.GOV) megan.berge@bakerbotts.com
+
+VIA FEDEX
+
+Hon. Steven S. Cliff, Ph.D.
+Executive Officer
+California Air Resources Board
+1001 "I" Street
+Sacramento, CA 95814
+
+Re: Notice of Intent to Sue
+Advanced Clean Cars II Regulations
+
+Dear Members of the Board:
+
+PLEASE TAKE NOTICE under Public Resources Code Section 21167.5, that on
+November 14, 2022, Petitioner Western States Petroleum Association plans to file a petition for
+writ of mandate in Fresno County Superior Court challenging actions of Respondents the California Air Resources Board (*CARB") and Steven S. Cliff, in his official capacity as Executive Officer of CARB (collectively, "Respondents"), pursuant to the California Environmental Quality Act ("CEQA"), Public Resources Code Section 2100, et seq. and other applicable laws as discussed more fully in the Project's administrative and environmental review proceedings.
+Petitioners allege that in connection with their consideration and approval of the Advanced Clean Cars II Regulations, Respondents violated California law, including but not limited to CEQA, the California Constitution, the California Health & Safety Code, and the California Administrative Procedure Act. The exact nature of the allegations and relief sought is described in
+a Petition for Writ of Mandate that Petitioner plans to file on November 14, 2022.
+
+Sincerely, rer Megan . Berge
+
+MB
+
+Megan Berge (SBN: 332536)
+101 California Street, Suite 3200
+San Francisco, CA 94111
+Telephone: +1 (415) 291-6233
+Fax Number: +1 (202) 639-1171
+4 Email: megan.berge@bakerbotts.com
+
+5 Lily Chinn (SBN: 203173)
+
+6 101 California Street, Suite 3200
+San Francisco, CA 94111
+
+7 Telephone: +1 (415) 291-6214
+Fax Number: +1 (415) 291-6314
+8 Email: lily.chinn@bakerbotts.com
+
+Aaron Streett (to be requested admission pro hac vice) 910 Louisiana Street
+10 Houston, TX 77002 Telephone: +1 (713) 229-1855
+11 Fax Number: +1 (713) 229-7855
+Email: aaron.streett@bakerbotts.com
+12
+Attorneys for Petitioner and Plaintiff, 13 Western States Petroleum Association
+
+14
+
+15 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+16 FOR THE COUNTY OF FRESNO
+
+WESTERN STATES PETROLEUM 17 ASSOCIATION, Case No.:
+
+PROOF OF SERVICE
+18 Petitioner and Plaintiff,
+
+19 V.
+
+20 CALIFORNIA AIR RESOURCES BOARD; STEVEN S. CLIFF, in his official capacity as 21 Executive Officer of the California Air Resources
+
+22 Board: and
+DOES 1 through 10, inclusive,
+23 Respondents and Defendants.
+
+24
+
+25
+
+26
+
+27
+
+28 - 1-
+Proof of Service
+
+PROOF OF SERVICE
+
+I. Megan Berge, declare as follows:
+
+4 am employed in the County of San Francisco, State of California, I am over the age of eighteen
+
+5 years and am not a party to this action; my business address is 101 California St., Suite 3200,
+
+6 San Francisco, CA 94111, in said County and State. On November 11, 2022, I served the
+
+7 following document(s):
+
+8 LETTER TO HON. STEVEN S. CLIFF, PHD RE NOTICE OF INTENT TO
+SUE
+
+on the parties stated below, by the following means of service:
+10
+
+11 California Air Resources Board
+c/o Hon. Steven S. Cliff, Ph.D.
+12 Executive Officer
+1001 "T"' Street
+13 Sacramento, CA 95814
+
+14 |l scliff@arb.ca.gov
+
+15 V BY OVERNIGHT DELIVERY: On the above-mentioned date, I enclosed the documents in an envelope
+or package provided by an overnight delivery carrier and addressed to the persons at the addresses shown
+16 above. I placed the envelope or package for collection and overnight delivery at an office or a regularly
+utilized drop box of the overnight delivery carrier with delivery fees paid or provided for.
+17 V BY ELECTRONIC SERVICE: caused the documents to be sent to the person(s) at the electronic
+18 notification addresses as shown above.
+
+19 I declare under penalty of perjury under the laws of the State of California that the foregoing is true and
+correct.
+20
+
+21 Executed on November 11, 2022.
+22
+
+23
+
+24 hhber
+
+25
+
+26
+
+27
+
+28 - 2 -
+Proof of Service
+
+FedEx Ship Manager Print Your Label(s)
+
+d 11/11/22, 12:30 PM
+
+6 1564 7704 7326 9309 111) 111-1111 OINEWYHOVS § VIN8OJITVO 13381SI SUITE 3200 UNITED STATES US* '* 101 CALIFORNIA STREET SAN FRANCISCO, CA 94111 VOdV:dI NIOIHO d11S1108 d3XV8
+€ % VNT8 8
+P1896
+DEPT REF: 088068.010X HON. STEVEN S. CLIFF, PH.D. EXECOFI MEGAN BERGE
+
+79-+67
+
+2
+SENDER EAA0A3 11NOV22 aIvO dIHS CAD: 110829518/INET4530 CA-US
+°5ME IHOINJIAO ALIdOIdd MON - 14 NOV 10:30A RESOURCES advoa à%
+'Xapa! ssaJoxd
+581 J6/E4B8FE2D J224222101801u9
+
+1. Use the 'Print' button on this page to print your label to your laser or inkjet printer.
+3. Place label in shipping pouch and affix it to your shipment so that the barcode portion of the label can be read and scanned. After printing this label:
+
+Warning: Use only the printed original label for shipping. Using a photocopy of this label for shipping purposes is fraudulent and could result in 2. Fold the printed page along the horizontal line.
+
+Use of this system constitutes your agreement to the service conditions in the current FedEx Service Guide, available on fedex.com.FedEx will not be responsible for any claim in excess of $100 per package, whether the result of loss, damage, delay, non-delivery,misdelivery,or misinformation, additional billing charges, along with the cancellation of your FedEx account number.
+
+unless you declare a higher value, pay an additional charge, document your actual loss and file a timely claim.Limitations found in the current FedEx Service Guide apply. Your right to recover from FedEx for any loss, including intrinsic value of the package, loss of sales, income interest, profit, attorney's fees, costs, and other forms of damage whether direct, incidental, consequential, or special is limited to the greater of $100 or the authorized declared value. Recovery cannot exceed actual documented loss.Maximum for items of extraordinary value is $1,000, e.g. jewelry, precious metals, negotiable instruments and other items listed in our ServiceGuide. Written claims must be filed within strict time limits, see current
+FedEx Service Guide.
+
+1/1 https://www.fedex.com/shipping/shipAction.handle?method=doContinue
+
+EXHIBIT B
+
+Megan Berge (SBN: 332536)
+101 California Street, Suite 3200
+San Francisco, CA 94111
+Telephone: +1 (415) 291-6233
+Fax Number: +1 (202) 639-1171
+4 Email: megan.berge@bakerbotts.com
+
+5 Lily Chinn (SBN: 203173)
+
+6 101 California Street, Suite 3200
+San Francisco, CA 94111
+
+7 Telephone: +1 (415) 291-6214
+Fax Number: +1 (415) 291-6314
+8 Email: lily.chinn@bakerbotts.com
+
+Aaron Streett (to be requested admission pro hac vice)
+910 Louisiana Street
+10 Houston, TX 77002
+
+11 Telephone: +1 (713) 229-1855 Fax Number: +1 (713) 229-7855
+
+12 Email: aaron.streett@bakerbotts.com
+
+Attorneys for Petitioner and Plaintiff, 13 Western States Petroleum Association
+
+14
+
+15 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+16 FOR THE COUNTY OF FRESNO
+
+17 WESTERN STATES PETROLEUM Case No.:
+ASSOCIATION,
+18 PETITIONER'S NOTICE REQUESTING
+Petitioner and Plaintiff, PREPARATION OF THE RECORD OF
+PROCEEDINGS
+19 V. (CEQA CLAIM)
+
+20 CALIFORNIA AIR RESOURCES BOARD; (California Environmental Quality Act, Pub.
+21 STEVEN S. CLIFF, in his official capacity as Executive Officer of the California Air Resources Res. Code § 21167.6)
+
+22 Board: and
+DOES 1 through 10, inclusive,
+23 Respondents and Defendants.
+24
+
+25
+
+26
+
+27
+
+28 - 1-
+NOTICE TO PREPARE RECORD OF PROCEEDINGS
+
+Under Public Resources Code § 21167.6, Petitioner, Western States Petroleum
+
+Association ("WSPA"), requests that Respondent, California Air Resources Board ("CARB"),
+prepare the record of proceedings relating to and concerning CARB's August 25, 2022,
+
+4 approval of Resolution 22-12, Advanced Clean Cars II ("ACC II') Regulations.
+
+5 WSPA requests that CARB include in the record all documents and materials
+identified in CEQA § 21167.6(e), and any other documents or records relating to CARB's
+
+7 determinations and actions relating to the ACC II Regulations.
+
+R WSPA will pay the reasonable cost of preparation of the record on notice of the
+
+9 estimated cost of payment, provided that an agreement for cost-sharing might be arranged.
+
+10
+
+11 DATED: November 14, 2022.
+
+12
+
+13 tbe 14 Attorney for Petitioner and Plaintiff WESTERN STATES
+15 PETROLEUM ASSOCIATION
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 2 -
+NOTICE TO PREPARE RECORD OF PROCEEDINGS

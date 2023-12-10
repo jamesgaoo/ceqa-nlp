@@ -1,0 +1,984 @@
+Philip J. Henderson, Esq. (State Bar No. 197222) Stan M. Barankiewiez II, Esq. (State Bar No. 204513) 2 Tempestt L. Garland, Esq. (State Bar No. 292790) ORBACH HUFF & HENDERSON LLP
+3 1901 Avenue of the Stars, Suite 575
+Los Angeles, California 90067-6007
+4 Telephone: (310) 788-9200 Facsimile: (310) 788-9210 5 dhuff@ohhlegal.com sbarankiewicz@ohhlegal.com
+6 tgarland@ohhlegal.com Fee Exempt per Gov. Code, § 6103
+
+7 Attorneys for Petitioner LONG BEACH UNIFIED SCHOOL DISTRICT
+8
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+9
+
+10 FOR THE COUNTY OF LOS ANGELES - CENTRAL DISTRICT
+
+HENDERSON LLP 11
+LONG BEACH UNIFIED SCHOOL CASE NO.:
+12 DISTRICT, a California public school district,
+UNLIMITED JURISDICTION
+13 Petitioner,
+
+14 V. NOTICE TO ATTORNEY GENERAL OF
+
+15 dd CITY OF LONG BEACH PLANNING CEQA ACTION
+
+dANH HOVIXO COMMISSION, CITY OF LONG BEACH, a [California Environmental Quality Act; 16 California municipal corporation, ALEXIS OROPEZA, Zoning Administrator for the City Code of Civ. Proc., §§ 1060, 1085, and 1094.5;
+of Long Beach, and ROES 1 through 100, Pub. Resources Code, §§ 21168 and 21168.5] 17
+inclusive,
+18
+Respondent,
+19
+
+20
+
+21 a 7-ELEVEN, INC., a Texas Corporation, ASI
+
+22 DEVELOPMENT, a California Corporation, and ROES 101-200,
+
+23 Real Parties-in-Interest.
+
+24
+
+25
+
+26 ///
+
+27 ///
+
+28 /1/
+
+NOTICE TO ATTORNEY GENERAL OF CEQA ACTION
+
+2 To the Attorney General of the State of California:
+
+3 PLEASE TAKE NOTICE that under Public Resources Code co? 21167.7 and Code of Civil
+
+4 Procedure § 388, that on July 29, 2021, the Long Beach Unified School District filed its Verified
+
+5
+
+6 Petition for Writ of Administrative Mandamus against the City Planning Commission, City of Long
+
+7 Beach, and Alexis Oropeza, Zoning Administrator for the City of Long Beach (collectively, ("City")
+in Los Angeles County Superior Court. The petition alleges that the City violated the California
+
+8 Environmental Quality Act ("CEQA") by illegally approving the Administrative Use Permit for the
+
+9
+
+10 7-11 Project (AUP20-004) ("Project") and determining that the Project is categorically exempt from
+CEQA without conducting proper environmental review required under the Class 32 In-fill
+
+HENDERSON LLP 11 Developments Project Categorical Exemption set forth in CEQA Guidelines $ 15332 8 of the potential
+
+12 significant impacts on the Colin Powell Elementary School. A copy of the Petition is attached to this
+
+notice.
+
+13
+
+14 DATED: July 28, 2021
+
+d 15 ORBACH HUFF & HENDERSON LLP
+
+HOVIHO HUFF 16
+
+17 By: dou M Doubuu A
+
+18 Philip J. Henderson, Esq. Stan M. Barankiewicz Ii, Esq.
+
+19 Tempestt L. Garland, Esq. Attorneys for Petitioner
+
+20 LONG BEACH UNIFIED SCHOOL DISTRICT
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+2
+NOTICE TO ATTORNEY GENERAL OF CEQA ACTION
+
+Electronically FILED by superior Court of Callfornia, County of Los Angeles on 07/28/2021 03:26 PM Sherri R. Carter, Executive Omcer/Clerk of Court, by R. Perez, Deputy Clerk
+
+Philip J. Henderson, Esq. (State Bar No. 197222) Stan M. Barankiewicz II, Esq. (State Bar No. 204513) 2 Tempestt L. Garland, Esq. (State Bar No. 292790) ORBACH HUFF & HENDERSON LLP
+3 1901 Avenue of the Stars, Suite 575 Los Angeles, California 90067-6007
+4 Telephone: (310) 788-9200 Facsimile: (310) 788-9210 phenderson@ohhlegal.com sbarankiewicz@ohhlegal.com
+6 tgarland@ohhlegal.com Fee Exempt per Gov. Code, § 6103
+
+7 Attorneys for Petitioner LONG BEACH UNIFIED SCHOOL DISTRICT
+8
+SUPERIOR COURT OF THE STATE OF CALIFORNIA 9
+FOR THE COUNTY OF LOS ANGELES - CENTRAL DISTRICT 10
+
+HENDERSON LLP 11
+CASE NO.: 218TCP02440 12 LONG BEACH UNIFIED SCHOOL DISTRICT, a California public school district, UNLIMITED JURISDICTION 13 Petitioner,
+
+14 V. VERIFIED PETITION FOR WRIT OF ADMINISTRATIVE MANDAMUS
+è 15 CITY OF LONG BEACH PLANNING
+HANH HOFIMO COMMISSION, CITY OF LONG BEACH, a [California Environmental Quality Act; 16 California municipal corporation, ALEXIS
+
+17 OROPEZA, in her official capacity as the Zoning Code of Civ. Proc., §§ 1060, 1085, and 1094.5:
+Administrator for the City of Long Beach, and Pub. Resources Code, §§ 21168 and 21168.5]
+ROES through 100, inclusive, 18 [Deemed verified per Code of Civ. Proc., § 446J
+Respondent,
+19
+
+20
+
+21 7-ELEVEN. INC. a Texas Corporation, ASI DEVELOPMENT, a California Corporation, and ROES 101-200, 22
+Real Parties-in-Interest.
+23
+
+24
+
+25
+26 (11
+27 //!
+
+28 ///
+
+VERIFIED PETITION FOR WRIT OF ADMINISTRATIVE MANDAMUS
+
+•
+
+Petitioner LONG BEACH UNIFIED SCHOOL DISTRICT ("District") hereby brings this
+
+2 Verified Petition for Writ of Administrative Mandamus (*Petition") against Respondent CITY OF
+
+3 LONG BEACH PLANNING COMMISSION ("Commission"), CITY OF LONG BEACH ("City"),
+
+4 ALEXIS OROPEZA ("Zoning Administrator") and ROES 1 through 100, and alleges as follows:
+
+5
+
+6 PARTIES
+
+7 1. Petitioner, District is now, and at all times, mentioned herein has been, a California
+
+8 public school district organized and existing pursuant to the laws of the State of California. The
+
+9 District's jurisdictional boundaries are located within certain portions of Los Angeles County that
+
+10 include the cities of Long Beach, Signal Hill, Lakewood, and Avalon on Catalina Island (outside of Los
+dTI NOSHEGNHH 11 Angeles County).
+
+12 2. Respondent, Long Beach Planning Commission, is the planning commission for the City
+13 of Long Beach, a California public agency.
+
+14 3. Respondent, City of Long Beach is now, and at all times mentioned herein, has been
+
+d 15 subdivision of the State of California.
+ORBACH HUFF 16 4. Respondent, Alexis Oropeza is now, and at all times mentioned herein, has been the
+
+17 Zoning Administrator of the City of Long Beach, Under the City of Long Beach's Municipal Code
+18 section 21.25.405, the Zoning Administrator is authorized to consider and act on requests for
+
+19 administrative use permits on behalf of the City and required to comply with the California
+20 Environmental Quality Act ("CEQA"). The District sues Alexis Oropeza in her official capacity as the
+21 city's Zoning Administrator.
+
+22 5. Upon information and belief, Real Party in Interest, 7-Eleven, Inc., ("7-Eleven") is a
+
+23 Texas corporation approved to conduct business in California with Corporate Creations Network Inc.
+24 as its agent for service of process in Marina del Rey, California, and 7-Eleven is the applicant for the
+25 proposed commercial development FDR 7 Eleven-Convenience Store/Fueling at 6090 Long Beach
+
+26 Boulevard, Long Beach, California 90805 (*Project"), which is the subject of this action.
+
+27 6. Upon information and belief, Real Party in Interest, ASi Development, Inc., (ASi
+28 Development") a is a California corporation with its principal place of business located in Huntington
+
+2
+VERIFIED PETITION FOR WRIT OF ADMINISTRATIVE MANDAMUS
+
+4
+
+2 Beach, California, and ASi Development has applied for the Administrative Use Permit for the Project
+on behalf of the Applicant, which is the subject of this action.
+
+3 7.
+
+4 Respondents ROES 1 through 200, inclusive, whether individual, corporate, associate or
+
+5 otherwise, are fictitious names of Respondents whose true names and capacities are, at this time,
+
+6 unknown to Petitioner. Petitioner alleges that at all times herein mentioned, each of the Respondents
+
+7 sued herein as ROE was acting for himself/herself or itself as an agent, servant and employee of his/her
+
+8 or its co-respondents, and in doing the things hereinafter alleged, was acting within the scope of
+
+9 authority as that agent, servant and employee and with the knowledge, permission and/or consent of
+
+10 his/her or its co-respondents, and each of those fictitiously named respondents, whether acting for
+
+ORBACH HUFF & HENDERSON ad LLP 11 himself/herself or itself or as an agent, corporation, association or otherwise, is in some way liable or
+
+12 responsible to Petitioner. At the time as Respondents' true names become known to it. Petitioner will
+seek leave to amend its Petition to insert those
+
+13 Respondents' true names. Reference herein to
+
+14 Respondents, without any other limitation, shall include both the specifically named and fictitiously
+named Respondents.
+
+15 8.
+
+16 Petitioner is currently unaware of the true names and capacities of Real Parties in
+
+17 Interest, ROES 101 through 200, inclusive. ROES 101 through 200, inclusive, are persons or entities
+
+18 presently unknown to the Petitioner who claim some legal or equitable interest in the Project that is the
+
+19 subject of this action. The Petitioner will amend this petition to show the true names and capacities of
+
+20 ROES 101 through 200 when those names and capacities become known.
+
+21 VENUE AND JURISDICTION
+
+22 9.
+
+23 Venue is proper in this Court per Code of Civil Procedure § 395(a) as the acts and
+
+24 omissions complained of herein occurred, and the property affected by those acts is located, in Los
+Angeles County.
+
+25 10.
+
+26 This Court has subject matter jurisdiction per Public Resources Code §§ 21167(d),
+
+27 21168, 21168.5, and Code of Civil Procedure §8 1060 et seq., 1085, and 1094.5.
+
+/1/
+
+28 /1/
+
+3
+VERIFIED PETITION FOR WRIT OF ADMINISTRATIVE MANDAMUS
+
+1 11. This Court has personal jurisdiction over each party in this action because each of them
+2 is either located, incorporated in and/or qualified to do business in the State of California and in the
+
+3 County of Los Angeles.
+
+4 12. District has complied with Public Resources Code § 21167.5 by providing Respondents
+5 with notices of commencement of this action. These notices are collectively attached hereto as Exhibit
+
+6 A.
+
+7 13, In accordance with Public Resources Code § 21167.6(a), District has concurrently filed
+8 a request for Respondents to prepare the administrative record. This request is attached hereto as
+
+9 Exhibit B.
+
+10 14. In accordance with Public Resources Code § 21167.7, District notified the California
+ITI NOSHEANTH 11 Attorney General of this Petition. This notice is attached hereto as Exhibit C.
+
+12 15. District has a direct and beneficial interest in the Project because the Project will
+13 potentially cause significant, unmitigated impacts on the District's students, staff, and visitors of the
+14 Colin Powell Elementary School ("Colin Powell School"), which is within 613 feet of the Project and
+15
+8 is subject to its impacts.
+ORBACH HUFF 16 16. This action has been commenced within the time limits imposed for this action under
+17 Code of Civil Procedure §§ 1085 and/or 1094.5, and Public Resources Code § 21167.
+18 17. A public hearing on Administrative Use Permits is required pursuant to Long Beach
+19 Municipal Code Table 21-1 and sections 21.21.302(A) and (B).
+20
+
+21 BACKGROUND
+
+22 18. On or about April 4, 2020, 7-Eleven and ASi Development jointly applied for an
+23 Administrative Use Permit for the Project from the City.
+24 19. The Project is described by Respondents as retail sales of diesel fuel at the site.
+25 However, the whole of the Project is a 7-Eleven convenience store with both diesel and gasoline retail
+26 sales.
+
+27 20. On February 3, 2021, the Zoning Administrator released a "Notice of Public Hearing"
+28 on the Project for February 8, 2021.
+
+4
+VERIFIED PETITION FOR WRIT OF ADMINISTRATIVE MANDAMUS
+
+21.
+
+2 Along with the Notice of Public Hearing, the City posted the February 8, 2021 Agenda.
+
+3 Item No. 3 of this agenda recommended approval of the Project and a determination that the Project is
+
+4 exempt from CEQA, per the Class 32 In-Fill Development Projects Categorical Exemption. However,
+
+5 the referenced technical studies purportedly supporting City staff's recommendations to determine the
+
+6 Project categorically exempt and approve the Project were not included with the agenda and were not
+
+7 posted on the City's website nor made available to the public in advance of the February 8, 2021 public
+hearing.
+
+8 22.
+
+9 The District became aware of the Project shortly before the February 8 public hearing
+
+10 only after being informed by a community member but did not have sufficient time to analyze
+comment upon the Project at the February 8 public hearing. or
+
+è ORBACH HUFF & HENDERSON LLP 11 23.
+
+12 On February 8, 2021, the Zoning Administrator took public testimony about the Project.
+
+13 Community members voiced concerns with the Project's potential environmental impacts and the lack
+
+14 of transparency displayed by City staff and the Zoning Administrator regarding the Project. The District
+
+15 objected to the Zoning Administrator's failure to conduct community outreach; her failure to conduct
+
+16 adequate technical studies to prove that the Project would not cause a significant air quality, traffic, or
+water quality impact; and whether she properly consulted with the District.
+
+17 24.
+
+18 At the conclusion of the February 8 hearing, the Zoning Administrator continued the
+
+19 hearing until March 8, 2021, with instruction to the Project applicant to conduct community outreach
+and to disclose the technical studies to the public.
+20 25,
+
+21 The City posted the agenda for the Zoning Administrator Hearing on March 8, 2021.
+
+22 Item No. 1 was for the continued hearing on the Project. Included with the agenda were the following
+
+23 relevant technical studies: Linscott Law & Greenspan's Traffic Impact Assessment of the Proposed
+
+24 Long Beach Boulevard & Cambridge 7-Eleven Project, dated October 21, 2020 ("TIA Report");
+
+25 Stantec's Phase II Environmental Site Assessment, 7-Eleven Store No. 41282 (1046369) 6020/6090
+
+26 Long Beach Boulevard, Long Beach, CA 90805, dated December 6. 2019; Vista Environmental's Air
+
+27 Quality and Greenhouse Gas Emissions Impact Analysis, 7-Eleven at 6090 Long Beach Blvd Project,
+
+28 City of Long Beach, dated October 26, 2020 (*AQ-GHG Report"); and Vista Environmental's Noise
+Impact Analysis, 7-Eleven at 6090 Long Beach Blvd Project, City of Long Beach, dated October 26,
+
+5
+VERIFIED PETITION FOR WRIT OF ADMINISTRATIVE MANDAMUS
+
+1
+
+1 2020 ("NIA Report").
+
+2 26.
+
+3 On March 8, 2021, the District submitted a comment letter to the Zoning Administrator
+
+4 highlighting concerns related to the close proximity of this Project (613 feet) to the Colin Powell School,
+
+5 and the lack of analyzing the air quality, traffic safety, and pedestrian safety impacts that the Project
+
+6 may cause to the Colin Powell School's students, faculty, and staff. The Colin Powell School has a
+population of approximately 966 students.
+
+7 27.
+
+8 On March 8, 2021, the Zoning Administrator held the continued public hearing on the
+
+9 Project. Various community members testified concerning the inaccurate Project description, the
+
+10 unjustified categorical exemption, and inaccuracies and incompleteness of the Air Quality Report, the
+TIA Report, the NIA Report, and other issues. The District's Planning Program Manager and Interim
+ORBACH HUFF & HENDERSON d LLP 11
+
+12 Planning Administrator, Tracy Nishihira, testified at that hearing and echoed these concerns and lack
+
+13 of coordination from the City and objected that the technical studies and other analyses did not directly
+
+14 evaluate the Project's potentially significant environmental impacts on the Colin Powell School.
+
+28.
+
+15 After hearing public testimony, including the District's, and statements from the
+
+16 applicant, on March 8, 2021, the Zoning Administrator improperly found that the Project is exempt
+
+17 from CEQA per the Class 32 Categorical Exemption and imposed some conditions of approval, not
+relevant here, and improperly approved the Project.
+
+18 29.
+
+19 On March 17, 2021, the District submitted its appeal to the determination that the Project
+
+20 is categorically exempt from CEQA and approval of the Project on the basis of incomplete and
+
+21 inadequate analyses of potential significant environmental impacts on the Colin Powell School.
+30.
+
+22 On June 16, 2021, the District submitted its objections to the City staff's
+recommendation for the Commission to deny the District's Appeal.
+
+23 31.
+
+24 On June 16, 2021, the Commission heard the District's Appeal. The District's Business
+
+25 Services Administrator, Alan Reising, and Tracy Nishihira, testified to the lack of complete
+environmental impact studies that the Project may cause on
+
+26 the Colin Powell School. After taking
+
+27 testimony from the District and others, Commission members discussed the issues with Commission
+staff. Afterwards, the Commission denied the District's appeal.
+28 /1/
+
+6
+VERIFIED PETITION FOR WRIT OF ADMINISTRATIVE MANDAMUS
+
+32.
+
+2 On June 24, 2021, the Commission filed a Notice of Exemption on the Project with the
+Clerk of Los Angeles County.
+
+3
+
+4 FIRST CAUSE OF ACTION
+
+5 (For Writ of Administrative Mandamus
+
+6 per Code Civ. Proc., §§ 1085 and 1094.5 to Vacate
+
+7 Determination that the Project is Exempt from CEQA and Vacate Approval of the Project)
+
+8 [As against City, Commission, Zoning Administrator, and ROES 1 through 200] 1
+33.
+
+Q District realleges and incorporates by reference each above paragraph, as though fully
+set forth herein.
+
+10
+
+= CITY AND COMMISSION VIOLATED CEQA BY FAILING TO PROPERLY
+LLP NOSHHONIH 12 ANALYZE THE PROJECT'S POTENTIAL TO CREATE SIGNIFICANT
+
+13 ENVIRONMENTAL IMPACTS TO THE COLIN POWELL SCHOOL
+34.
+
+14 City and Commission violated CEQA by determining the Project meets the definition of
+
+15 the Class 32 In-Fill Developments Categorical Exemption set forth in CEQA Guidelines § 15332(d)
+
+8
+ORBACH HUFF 16 ("Class 32 Exemption"), which requires the Commission to show that "[a]pproval of the project would
+not result in any significant effects relating to traffic, noise, air quality,
+17 or water quality."
+35.
+
+18 City and Commission violated CEQA by failing to show that the Project will not result
+
+19 a in a significant traffic impact by using inaccurate Project trip generation numbers, which causes the
+Project's true trips and impacts to be understated.
+
+20 36.
+
+21 City and Commission violated CEQA by failing to show that the Project will not result
+
+22 in significant impacts on the pedestrian safety of the Colin Powell School students. Pedestrian safety
+relates to traffic.
+
+23 37.
+
+24 City and Commission violated CEQA by failing to show that the Project will not result
+
+25 in air quality impacts by failing to fully analyze the air quality impact on the Colin Powell School.
+Specifically, neither the Commission nor
+
+26 the Zoning Administrator analyzed the combined or
+
+27 cumulative air quality impacts from hazardous air emitters within ¼-mile of the Colin Powell School.
+38.
+
+28 As a result of the foregoing CEQA violations, City and Commission prejudicially abused
+its discretion by failing to proceed in the manner required by law.
+
+7
+VERIFIED PETITION FOR WRIT OF ADMINISTRATIVE MANDAMUS
+
+39. District has no plain, speedy, or adequate remedy in the ordinary course of law, other
+
+2 than the relief sought in this Petition, in that City, Commission and ROES 1 through 200's inadequate
+
+3 and missing environmental review and participation in the Project are not otherwise reviewable in
+
+4 manner that provides District with an adequate remedy at law.
+
+5 40. District has exhausted all available and non-futile City administrative remedies required
+
+6 to be pursued by it under the law and circumstances surrounding City, Commission and ROES 1 through
+
+7 200's determination that the Project is exempt from CEQA and their approvals of the Project.
+
+8 41. Without a writ of mandate, City, Commission, and ROES through 200, and each of
+
+9 them, will continue to disregard their duties and continue to violate CEQA by refusing to conduct proper
+CEQA review of the Project before implementing the Project. Issuance of a writ is therefore necessary 10
+
+LLP NOSHEONIH HHNH HOFENO 11 to prevent the continued disregard of City, Commission and ROES 1 through 200's duties that have
+
+12 harmed and are harming the District.
+
+13 ZONING ADMINISTRATOR, COMMISSION, AND CITY'S DETERMINATION
+
+14 THAT THE PROJECT WAS EXEMPT FROM CEQA IS NOT SUPPORTED BY
+
+15 SUBSTANTIAL EVIDENCE. 8
+16 42, CEQA and the CEQA Guidelines establish a three-tier process to ensure that public
+
+17 agencies inform their decisions with environmental considerations.
+
+18 43. First, a public agency must review an application for the activity to determine whether
+19 the activity is "project" subject to CEQA. (CEQA Guidelines, § 15060.)
+
+20 44. CEQA Guidelines § 15378 defines a "project" as the whole of an action, which has a
+
+21 potential for resulting in either a direct physical change in the environment or a reasonably foreseeable
+
+22 indirect physical change in the environment. An activity that is not a "project" is not subject to CEQA.
+
+23 45. If the activity in question is a project, a public agency can make a determination as to
+
+24 whether the project is exempt from CEQA. A public agency may only exempt a project from CEQA if
+25 it is exempt by statute, categorically exempt, but not barred by one of the exceptions.
+
+26 46. The City and Commission approved the Project and determined that it was exempt under
+27 the Class 32 Exemption despite many members of the public voicing traffic, noise, and air quality
+
+28 concerns and despite the District and other community members identifying deficiencies in its technical
+
+8
+VERIFIED PETITION FOR WRIT OF ADMINISTRATIVE MANDAMUS
+
+reports supporting its determination.
+
+2 47. Further, the District's own traffic expert identified deficiencies in the City and
+Commission's traffic analysis, and those concerns went unaddressed. Thus, City and Commission
+
+4 violated CEQA by incorrectly determining that the Project is exempt from CEQA and not supporting
+
+5 its determination with substantial evidence.
+
+6
+
+7 PRAYER FOR RELIEF
+
+8 WHEREFORE, the Petitioner prays for judgment against Respondents, and each of them, as
+
+9 follows:
+
+10
+
+LLP HENDERSON 11 ON THE FIRST CAUSE OF ACTION
+
+12 (For Writ of Administrative Mandamus Against City, Commission and ROES 1 through 200)
+13 1. For a writ of administrative mandamus pursuant to Code of Civil Procedure §§ 1085
+14 and/or 1094.5 directing Commission, as follows:
+
+d 15 a. To vacate the determination that the Project is exempt from CEQA.
+ORBACH HUFF 16 b. To vacate the approval of the Project,
+17 c. To vacate the filing of the Project's Notice of Determination.
+18
+
+19 ON ALL CAUSES OF ACTION
+
+20 2. For a temporary restraining order and preliminary injunction prohibiting any actions by
+21 City, Commission and/or the Zoning Administrator from issuing the Administrative Use
+22 Permit for the Project during the pendency of this action.
+
+23 3. For attorneys' fees per to Code of Civil Procedure § 1021.5, since the maintenance and
+24 prosecution of this action will, if successful, result in the enforcement of important rights
+25 affecting the public interest and confer a significant benefit on the general public or a
+26 large class of persons; Government Code § 800, Code of Civil Procedure § 1032, or other
+27 applicable law.
+
+28 ///
+
+9
+VERIFIED PETITION FOR WRIT OF ADMINISTRATIVE MANDAMUS
+
+4.
+
+2 5. For District's costs of suit.
+
+3
+
+4 For all other and further relief as the Court deems just and proper.
+
+5 DATED: July 28, 2021
+
+6 ORBACH HUFF & HENDERSON LLP
+
+7 By:
+
+8 do M SoreubuF Philip J. Henderson, Esq. Stan M. Barankiewicz II, Esq. Tempestt L. Garland, Esq.
+
+10 Attorneys for Petitioner
+
+HENDERSON LLP LONG BEACH UNIFIED SCHOOL DISTRICT
+
+(PETITION DEEMED VERIFIED PER CODE CIV. PROC., § 446.)
+
+d
+ORBACH HUFF =9910 16
+17
+
+18
+
+19
+
+CUNNE 24
+25
+
+26
+
+27
+
+28
+
+10
+VERIFIED PETITION FOR WRIT OF ADMINISTRATIVE MANDAMUS
+
+EXHIBIT A
+
+Attorneys at Law
+ORBACH HUFF + HENDERSON LP
+www.ohhlegal.com
+
+Sulte 575
+
+Writer's E-Mall: sbaranklewlcz@ohhlegal.com 1901 Avenue of the Stars
+
+Writer's Direct Dial: (310) 228-2089 Los Angeles, CA 90067 310 788-9200 PHONE
+310 788-9210 • FAX
+
+Flle Number 9
+4582.007 Sulte 210
+6210 Stoneridge Mall Road
+Pleasanton, CA 94588
+510 999-7908 PHONE
+510 999-7918 • FAX
+July 23, 2021 H2
+Sulte 400
+3111 Camino Del Rio North
+San Diego, CA 92108
+VIA FEDERAL EXPRESS & EMAIL
+$
+
+Monique DeLaGarza, City Clerk Sulte 170
+13181 Crossroads Parkway N.
+City of Long Beach City of Industry, CA 91745
+411 W. Ocean Blvd
+Long Beach, CA 90802
+Cityclerk@longbeach.gov
+
+Patricia Diefenderfer, Planning Bureau Manager
+City of Long Beach 411 W. Ocean Blvd
+Long Beach, CA 90802
+Patricia.Diefenderfer@longbeach.gov
+
+Re: NOTICE OF COMMENCEMENT OF CEQA ACTION: Failure to Comply with the Requirements of CEQA in Connection with the Approval of Administrative Use Permit (AUP20-004)
+
+Dear Mses. DeLaGarza and Diefenderfer:
+
+PLEASE TAKE NOTICE, that per Public Resources Code section 21167.5, Long Beach Unified
+School District will be commencing an action against the City of Long Beach, City Planning Commission, and Zoning Administrator (collectively, "City") by filing a Petition for Writ of Administrative Mandamus under the provisions of the California Environmental Quality Act ("CEQA") to compel the City to (1) vacate its approval of the Administrative Use Permit for the 7-Eleven Project (AUP20-004) ("Project") (2) vacate its improper and deficient determination that the Project is categorically exempt from CEQA review under the Class 32 Categorical Exemption for In-Fill Development Projects; (3) conduct full and proper CEQA analysis of the Project that takes into account potential significant impacts on the students, faculty, and staff of the nearby
+Colin Powell Elementary School before reconsidering approval of the Project; and (4) adopt appropriate mitigation measures for any potentially significant environmental impacts to the Colin Powell Elementary School's students, faculty, or staff that are discovered as a result of further
+study.
+
+July 23, 2021
+Page 2
+
+If City fails to voluntarily vacate its determinations on and approvals of the Project, as described above, the Petition will be filed in the Los Angeles Superior Court no later than July 29, 2021.
+
+Very truly yours, ORBACH HUFF & HENDERSON LLP San M Craubiu A
+Stan M. Barankiewicz II
+
+SMB:tg
+
+cC: Alan Reising, Long Beach Unified School District, Business Services Administrator
+
+EXHIBIT B
+
+2 Philip J. Henderson, Esq. (State Bar No. 197222) Stan M. Barankiewicz II, Esq. (State Bar No. 204513)
+
+3 Tempestt L. Garland, Esq. (State Bar No. 292790) ORBACH HUFF & HENDERSON LLP 1901 Avenue of the Stars, Suite 575
+
+4 Los Angeles, California 90067-6007 Telephone: (310) 788-9200
+
+5 Facsimile: (310) 788-9210 dhuff@ohhlegal.com sbarankiewicz@ohhlegal.com
+6 tgarland@ohhlegal.com
+
+7 Attorneys for Petitioner LONG BEACH UNIFIED SCHOOL DISTRICT Fee Exempt per Gov. Code, § 6103
+
+8
+
+9 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+10 FOR THE COUNTY OF LOS ANGELES - CENTRAL DISTRICT
+
+HENDERSON LLP 11
+12 LONG BEACH UNIFIED SCHOOL CASE NO.:
+
+13 DISTRICT, a California public school district,
+Petitioner, UNLIMITED JURISDICTION
+
+14 V.
+
+d 15 CITY OF LONG BEACH PLANNING
+
+16 COMMISSION, CITY OF LONG BEACH, a PETITIONER, LONG BEACH UNIFIED
+
+ORBACH HUFF SCHOOL DISTRICT'S REQUEST FOR
+
+17 California municipal corporation, ALEXIS OROPEZA, Zoning Administrator for the City RESPONDENT CITY OF LONG BEACH PLANNING COMMISSION TO PREPARE THE RECORD OF PROCEEDINGS
+
+18 of Long Beach, and ROES through 100, inclusive, [California Environmental Quality Act;
+
+19 Respondent, Code of Civ. Proc., §§ 1060, 1085, and 1094.5; Pub. Resources Code, §§ 21168 and 21168.5]
+
+20
+
+21
+
+22 a 7-ELEVEN, INC., a Texas Corporation, ASI DEVELOPMENT, a California Corporation, and ROES 101-200,
+
+23 Real Parties-in-Interest.
+
+24
+
+25
+26
+27
+
+28
+
+REQUEST FOR RESPONDENT TO PREPARE THE ADMINISTRATIVE RECORD
+
+-4
+
+2
+
+3
+
+4 Pursuant to Public Resources Code § 21167.6(a), Petitioner LONG BEACH UNIFIED
+
+5 SCHOOL DISTRICT ("District") hereby requests that Respondents, CITY OF LONG BEACH
+
+6 PLANNING COMMISSION, CITY OF LONG BEACH, and ALEXIS OROPEZA (collectively,
+
+7 "City"), prepare the record of proceedings for the City's approval of Administrative Use Permit
+(AUP20-004) (*Project") and its determinations that the Project is exempt from the California
+Environmental Quality Act.
+
+9 DATED: July 28, 2021
+
+10 ORBACH HUFF & HENDERSON LLP
+
+HENDERSON LLP 11 By:
+
+12
+
+13 M BnrnbuuT Philip J. Henderson, Esq. Stan M. Barankiewicz II, Esq. Tempestt L. Garland, Esq.
+
+14 Attorneys for Petitioner
+
+d 15 LONG BEACH UNIFIED SCHOOL DISTRICT
+
+HOFENO HUFF 16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+7
+REQUEST FOR RESPONDENT TO PREPARE THE ADMINISTRATIVE RECORD.
+
+EXHIBIT C
+
+- Philip J. Henderson, Esq. (State Bar No. 197222) Stan M. Barankiewicz II, Esq. (State Bar No. 204513)
+2 Tempestt L. Garland, Esq. (State Bar No. 292790) ORBACH HUFF & HENDERSON LLP
+3 1901 Avenue of the Stars, Suite 575
+Los Angeles, California 90067-6007
+4 Telephone: (310) 788-9200 Facsimile: (310) 788-9210
+5 dhuff@ohhlegal.com Il sbarankiewicz@ohhlegal.com
+6 tgarland@ohhlegal.com Fee Exempt per Gov. Code, § 6103
+
+7 Attorneys for Petitioner LONG BEACH UNIFIED SCHOOL DISTRICT
+8
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+wo FOR THE COUNTY OF LOS ANGELES - CED DISTRICT
+10
+
+d'IT NOSHEONHH 11
+LONG BEACH UNIFIED SCHOOL CASE NO.:
+12 DISTRICT, a California public school district,
+UNLIMITED JURISDICTION
+13 Petitioner,
+
+14 V. NOTICE TO ATTORNEY GENERAL OF
+CEQA ACTION
+
+& 15 CITY OF LONG BEACH PLANNING
+
+HUFF HOVENO COMMISSION, CITY OF LONG BEACH, a [California Environmental Quality Act; 16 California municipal corporation, ALEXIS OROPEZA, Zoning Administrator for the City Code of Civ. Proc. §§ 1060, 1085, and 1094.5;
+of Long Beach, and ROES 1 through 100, Pub. Resources Code, §§ 21168 and 21168.5]
+17
+inclusive,
+18
+Respondent,
+19
+
+20
+
+21 7-ELEVEN, INC., a Texas Corporation, ASI DEVELOPMENT, a California Corporation, 22 and ROES 101-200,
+
+23 Real Parties-in-Interest.
+
+24
+
+25 111
+26 /1/
+
+•27 111
+28 411
+
+NOTICE TO ATTORNEY GENERAL OF CEQA ACTION
+
+2 To the Attorney General of the State of California:
+PLEASE TAKE NOTICE that under Public Resources Code § 21167.7 and Code of Civil
+
+4 Procedure 388, that on July 29, 2021, the Long Beach Unified School District filed its Verified
+
+5
+
+6 Petition for Writ of Administrative Mandamus against the City Planning Commission, City of Long
+
+7 Beach, and Alexis Oropeza, Zoning Administrator for the City of Long Beach (collectively, ("City")
+
+8 in Los Angeles County Superior Court. The petition alleges that the City violated the California
+
+o Environmental Quality Act ("CEQA") by illegally approving the Administrative Use Permit for the
+
+10 7-11 Project (AUP20-004) (*Project") and determining that the Project is categorically exempt from
+
+11 CEQA without conducting proper environmental review required under the Class 32 In-fill
+
+HENDERSON LLP 12 Developments Project Categorical Exemption set forth in CEQA Guidelines § 15332 of the potential
+
+notice.
+
+13 significant impacts on the Colin Powell Elementary School. A copy of the Petition is attached to this
+
+14 DATED: July 28, 2021
+
+od 15 ORBACH HUFF & HENDERSON LLP
+
+ORBACH HUFF 16
+
+17 By: Zdo. M DraubuT
+
+18 Philip J. Henderson, Esq. Stan M. Barankiewicz II, Esq.
+
+19 Tempestt L. Garland, Esq. Attorneys for Petitioner
+
+20 LONG BEACH UNIFIED SCHOOL DISTRICT
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+2
+NOTICE TO ATTORNEY GENERAL OF CEQA ACTION
+
+JUL 30
+E
+
+OG:ZIHd 2- OnV 1ZOZ 003IO NVS VHENEO XENLOLY
+
+Attorneys at Law
+ORBACH HUFF + HENDERSON LLP
+Suite 575
+1901 Avenue of the Stars
+Los Angeles, CA 90067
+310 788-9200 • PHONE
+Writer's E-Mail: tgarland@ohhlegal.com 310 788-9210 • FAX Writer's Direct Dial: (310) 228-2070 www.ohhlegal.com
+
+File Number Suite 210
+4582.007 6210 Stoneridge Mall Road
+Pleasanton, CA 94588
+510 999-7908 PHONE
+510 999-7918 • FAX
+July 29, 2021
+Suite 170
+13181 Crossroads Parkway N.
+City of Industry, CA 91745
+
+VIA FEDERAL EXPRESS
+
+Rob Bonta
+Attorney General
+Office of the Attorney General
+1300 "I" Street
+Sacramento, CA 95814
+
+Re: Notice to Attorney General of CEQA Action
+
+Dear Mr. Bonta:
+
+Our firm represents Long Beach Unified School District in the action against the City of Long Beach, City Planning Commission, and Zoning Administrator (collectively, "City") in connection with the City's determination that approval of the Administrative Use Permit for the 7-Eleven
+Project (AUP20-004) (*Project") is exempt from California Environmental Quality Act review and approval of the Project. Per Public Resources Code section 21167.7, please find enclosed the District's Notice to Attorney General of CEQA Action ("Notice"). Attached to the Notice is a copy of the Verified Petition for Writ of Administrative Mandamus.
+Very truly yours, ORRACH HUFF & HENDERSON LLP
+'gopl Nalal
+Tempestt L. Garland
+Enclosures
+
+DECEIVEN
+AUG-0 3 2021
+BY:_________....

@@ -1,0 +1,2073 @@
+DAVID H. McCRAY (SBN 169113)
+
+2 JACOB P. DUGINSKI (SBN 316091)
+BEVERIDGE & DIAMOND, P.C.
+
+3 456 Montgomery Street, Suite 1800
+San Francisco, CA 94104-1251
+4 Telephone: (415) 262-4000
+Facsimile: (415) 262-4040
+5 Email: dmccray@bdlaw.com
+
+6 jduginski@bdlaw.com
+
+7 Attorneys for Petitioner/Plaintiff
+Martinez Refining Company LLC
+8
+
+9 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+10 FOR THE COUNTY OF CONTRA COSTA
+
+11
+
+12 MARTINEZ REFINING COMPANY LLC, Case No. N21-1568
+
+13 Petitioner/Plaintiff,
+14 NOTICE TO ATTORNEY GENERAL
+VS.
+
+15 BAY AREA AIR QUALITY MANAGEMENT CEQA CASE
+
+16 DISTRICT and DOES 1 through 20, inclusive,
+
+17 Respondents/Defendants.
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL; CASE # N21-1568
+
+TO THE ATTORNEY GENERAL OF THE STATE OF CALIFORNIA:
+
+2 PLEASE TAKE NOTICE, under Public Resources Code §21167.7 and Code of Civil
+
+3 Procedure §388, that on September 7, 2021, Martinez Refining Company LLC ("MRC"') filed:
+
+4 petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief against the Bay
+
+5 Area Air Quality Management District ("District") in Contra Costa County Superior Court. The
+
+6 petition/complaint alleges that on July 21, 2021, the District violated the California
+
+7 Environmental Quality Act by approving a Negative Declaration and adopting amendments to
+8 BAAQMD Regulation 6-5 without an adequate environmental review. A copy of the petition iS
+
+9 attached to this notice.
+
+10
+
+11 Dated: September 9, 2021 BEVERIDGE & DIAMOND, P.C.
+
+12 ByDacrd Nl M Lay
+
+13 David H. McCray (SBN 169113) Jacob P. Duginski (SBN 316091)
+14 456 Montgomery Street, Suite 1800
+San Francisco, CA 94104-1251
+15 Telephone: (415) 262-4000
+
+16 Facsimile: (415) 262-4040
+dmccray@bdlaw.com
+
+17 jduginski@bdlaw.com
+
+18 Attorneys for Petitioner/Plaintiff
+MARTINEZ REFINING COMPANY
+19 LLC
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+2
+NOTICE TO ATTORNEY GENERAL; CASE # N21-1568
+
+1 DAVID H. McCRAY (SBN 169113) FILED
+
+2 JACOB P. DUGINSKI (SBN 316091)
+BEVERIDGE & DIAMOND, P.C. SEP - 7 2021
+
+456 Montgomery Street, Suite 1800 . BIEKER CLERK OF THE COURT
+
+3 SUPERIOR COURT OF CALIFORNIA
+
+San Francisco, CA 94104-1251 COUNTY OF CONTRA COSTA
+Schradef, Doputy Clork
+
+4 Telephone: (415) 262-4000
+
+5 | Facsimile: (415) 262-4040
+Email: dmccray@bdlaw.com
+
+6 jduginski@bdlaw.com
+
+7 Attorneys for Petitioner/Plaintiff
+
+8 MARTINEZ REFINING COMPANY LLC
+
+9
+
+10 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+11 FOR THE COUNTY OF CONTRA COSTA
+
+12 MARTINEZ REFINING COMPANY LLC, Case No. N %1 - 1568
+
+13 Petitioner/Plaintiff,
+
+14 VS. VERIFIED PETITION FOR
+WRIT OF MANDATE AND
+
+15 BAY AREA AIR QUALITY MANAGEMENT COMPLAINT FOR DECLARATORY
+
+16 DISTRICT and DOES through 20, inclusive, AND INJUNCTIVE RELIEF
+
+Respondents/Defendants. (Code Civ. Proc §§ 1085, 1094.5)
+
+17 CEQA CASE
+
+18
+
+19
+
+28 21
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+1. In this Verified Petition for Writ of Mandate and Complaint for Declaratory and
+
+2 Injunctive Relief, Petitioner/Plaintiff Martinez Refining Company LLC ("MRC" or
+
+3 "Petitioner/Plaintiff") asks this Court to declare as invalid, unenforceable, and ultra vires the July
+
+4 21, 2021 adoption of amendments to "Regulation 6-5: Particulate Emissions from Refinery
+
+5 Fluidized Catalytic Cracking Units 2021 Amendment" (those amendments are referred to herein
+
+6 as the "Rule 6-5 Amendment") by Respondent/ Defendant Bay Area Air Quality Management
+
+7 District (the "District") through the actions of its Board of Directors ("Board"), including the
+
+8 Notice of Determination dated August 6, 2021 ("NOD") and filed on August 9, 2021 in Solano
+
+9 County, and thereafter in other counties.
+
+10 2. Petitioner/Plaintiff further seeks a writ of mandate ordering the District to vacate and
+
+11 rescind the District's adoption of the Rule 6-5 Amendment, as well as appropriate declaratory relief,
+
+12 injunctive relief, and reasonable costs incurred by Petitioner/Plaintiff to bring this action.
+13 Petitioner/Plaintiff further alleges as follows:
+
+14 INTRODUCTION
+
+15 3. The Rule 6-5 Amendment is aimed at reducing total particulate matter ("TPM"),
+
+16 sulfur dioxide ("SO2"), and ammonia emissions from Fluidized Catalytic Cracking Units
+
+17 ("FCCUs") operating at refineries in the Bay Area, and will apply to MRC's refinery located in
+
+18 Martinez, California ("Refinery").
+
+19 4. To achieve TPM reductions, the Rule 6-5 Amendment requires Bay Area refineries'
+
+20 FCCUs to meet a 0.01 grains per dry standard cubic foot ("gr/dscf") standard within five years of
+
+21 July 21, 2021.
+
+22 5. Although the Rule 6-5 Amendment does not specify a particular emission control
+
+23 technology to meet the 0.01 gr/dscf TPM standard, during the rulemaking process, the only
+
+24 technology the District determined was capable of meeting this standard is a Wet Gas Scrubber
+
+25 ("WGS"), which the District indicated it considers "Best Available Retrofit Control Technology",
+
+26 referred to herein as "BARCT." (Bay Area Air Quality Management District, Final Staff Report
+
+27 (May 2021), p. 17 ["The proposed total PM10 limit of 0.010 gr/dscfat 5% oxygen represents an
+
+28
+
+2
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+achievable level of control that has been demonstrated to be feasible at multiple facilities through
+
+2 the use of wet gas scrubbers"].)
+
+3 6. MRC provided comments throughout the rulemaking process demonstrating the
+
+4 technical infeasibility, cost-prohibitive nature, and significant environmental impacts of the
+
+5 District's BARCT determination. (See MRC Comment Letters dated July 13, 2020, April 29, 2021,
+
+6 April 30, 2021, May 18, 2021, June 1, 2021, and July 20, 2021.)
+
+7 7. In light of the foregoing, MRC proposed a feasible alternative TPM reduction (0.02
+
+8 gr/dscf TPM standard) that would achieve significant TPM reductions while avoiding the
+
+9 significant costs and environmental impacts of the District's BARCT determination.
+
+10 8. However, although MRC's alternative TPM reduction proposal was initially
+
+11 considered by District staff, it was improperly removed from consideration and not presented to the
+
+12 District Board when the Rule 6-5 Amendment was adopted with the 0.01 gr/dscf TPM standard.
+
+13 9. Furthermore, when adopting the Rule 6-5 Amendment, the District flagrantly
+
+14 ignored numerous mandatory requirements of the California Environmental Quality Act ("CEQA")
+
+15 and the California Health and Safety Code ("H&S Code").
+
+16 10. The District's adoption of the Rule 6-5 Amendment also violated California
+
+17 common law.
+
+18 11. These failings render the Rule 6-5 Amendment ultra vires, illegal, and
+
+19 unenforceable.
+
+20 12. When promulgating rules and regulations, the District is required to comply with the
+
+21 requirements of CEQA, Public Resources Code, §§ 21000 et seq. CEQA is further implemented by
+
+22 the CEQA Guidelines, Title 14, California Code of Regulations, §§ 15000 et seq. (the "CEQA
+
+23 Guidelines").
+
+24 a. CEQA and the CEQA Guidelines impose procedural and substantive
+
+25 requirements on public agencies when they undertake or approve an activity
+
+26 defined by CEQA as a "project."
+
+27 b. Among other things, CEQA requires an initial environmental study to determine
+
+28 if a "project" will have a significant effect on the environment. If so, the lead
+
+3
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+agency must prepare an Environmental Impact Report ("EIR") evaluating
+
+2 numerous criteria, including cumulative environmental impacts of the action,
+
+3 project alternatives, and mitigation measures.
+
+4 c. The District ignored the requirements of CEQA by relying on the "2018 Final
+
+5 Environmental Impact Report - AB 617 Expedited Best Available Retrofit
+
+6 Technology (BARCT) Implementation Schedule" (the "2018 EIR") which did
+
+7 not consider the impacts of the Rule 6-5 Amendment itself, including without
+
+8 limitation, the direct, indirect, and cumulative impacts from the massive
+
+9 consumption of fresh water; the generation of massive amounts of greenhouse
+10 gas emissions, wastewater, and hazardous materials; and the significant
+11 aesthetics impacts to meet the 0.01 gr/dscf TPM standard of the Rule 6-5
+
+12 Amendment.
+
+13 d. The 2018 EIR also did not evaluate all of the reasonable alternatives for the Rule
+
+14 6-5 Amendment project that were subsequently considered and approved of by
+
+15 the District during its rulemaking process for the Rule 6-5 Amendment-
+
+16 including MRC's alternative TPM reduction proposal. This vital omission
+
+17 deprived the public of a full and complete assessment of the alternatives, their
+
+18 relative impacts, and potential mitigation options.
+
+19 e. These actions plainly violate CEQA and other related requirements of California
+
+20 law.
+
+21 13. In addition to CEQA, the District violated several provisions of the H&S Code when
+
+22 adopting the Rule 6-5 Amendment. The California Legislature adopted these provisions to
+
+23 constrain the District's authority and the District cannot simply choose to ignore those provisions
+
+24 when they prove inconvenient.
+
+25 a. Among other things, the Rule 6-5 Amendment requires FCCU units to meet a
+
+26 0.01 gr/dscf TPM standard. But the WGS technology likely required to meet this
+
+27 standard (and which forms the foundation of the District's BARCT
+
+28 determination) will have significant adverse cost, operational, and business
+
+4
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+impacts to regulated refineries. And in the case of MRC, installation of a WGS is
+
+2 technically infeasible given the lack of available space at the Refinery.
+
+3 b. The District adopted its 0.01 gr/dscf TPM standard without properly analyzing
+
+4 MRC's proposed alternative TPM emissions limitation-a 0.02 gr/dscf TPM
+
+5 standard. A TPM standard of 0.02 gr/dscf would result in nearly identical
+
+6 reductions in ambient TPM concentrations as the 0.01 gr/dscf standard.
+
+7 Although District staff initially considered this alternative, the District
+
+8 improperly removed it from consideration and adopted the 0.01 gr/dscf TPM
+
+9 standard, which imposes unprecedented costs, was not analyzed for significant
+10 environmental impacts, and would produce only marginal incremental reductions
+11 compared to the 0.02 gr/dscf TPM alternative.
+
+12 c. The District asserts that it has taken these actions in order to fulfill the
+
+13 requirements of AB 617 and its implementing statutory provisions, including
+
+14 H&S Code § 40920.6, which address planning for and requiring the installation
+
+15 of BARCT at certain stationary sources in California. At the same time, the
+
+16 District has failed to properly reference and comply with the requirements of
+
+17 these underlying laws, including with respect to key considerations of
+
+18 achievability, cost-effectiveness, and incremental cost-effectiveness for its
+
+19 BARCT determination and the related 0.01 gr/dscf TPM standard established by
+
+20 the Rule 6-5 Amendment. The District cannot have it both ways: if it wants to
+
+21 take action under AB 617 and H&S Code $ 40920.6, it must comply with the
+
+22 statutory requirements of those laws.
+
+23 d. The District's actions also run afoul of H&S Code § 40606, which requires that
+
+24 BARCT be "achievable"; H&S Code § 40703, which requires an assessment of
+
+25 cost-effectiveness; H&S Code § 40728.5, which requires the District to "actively
+
+26 consider the socioeconomic impact of regulations"; and H&S Code § 40727,
+
+27 which requires the District to make numerous findings in the record that it
+
+28 simply ignored and skipped.
+
+5
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+14. The District is not free to ignore the commands of the California Legislature, which
+
+2 has established both substantive and procedural requirements that the District failed to comply with
+
+3 in adopting the Rule 6-5 Amendment.
+
+4 15. These failings are compounded by the District's procedural irregularities and failure
+
+5 to give appropriate consideration to comments submitted by MRC.
+
+6 16. The District also violated core tenets of California common law by, among other
+
+7 things, ignoring valid and real-world data submitted by MRC and other impacted refineries and
+
+8 conducting a sham cost-benefit analysis during the rulemaking process, rendering the Rule 6-5
+
+9 Amendment and the accompanying Resolution 2021-10 adopted by the District's Board arbitrary,
+
+10 capricious, not supported by the record, and a prejudicial abuse of discretion.
+
+11 17. In accordance with the above and as supported by each cause of action below,
+
+12 Petitioner/Plaintiff seeks a determination from this Court that:
+
+13 a. The District's reliance on the 2018 EIR for the Rule 6-5 Amendment as indicated
+
+14 in the Final Staff Report, adopting Resolution, and Notice of Determination
+
+15 ("NOD") filed on August 9, 2021, was unlawful, null, void, and unenforceable.
+
+16 b. The Rule 6-5 Amendment, and the District's promulgation of that amendment,
+
+17 are invalid and void for failing to satisfy the requirements of CEQA.
+
+18 C. The Rule 6-5 Amendment is invalid and void because the District failed to
+
+19 comply with the H&S Code, including without limitation Sections 40606,
+
+20 40920.6, 40703, 40728.5, and 40727.
+
+21 d. The Rule 6-5 Amendment is invalid and void because it is arbitrary, capricious,
+
+22 and lacks adequate basis in the record.
+
+23 18. For the foregoing reasons, Petitioner/Plaintiff ask this Court to issue a writ of
+
+24 mandate requiring the District to vacate and rescind the Rule 6-5 Amendment or grant such other
+
+25 relief as the Court deems just and proper.
+
+26 19. Petitioner/Plaintiff also asks this Court for declaratory relief and judgment against
+
+27 the District (i) declaring that the Rule 6-5 Amendment is arbitrary, capricious, and lacks adequate
+
+28 basis in the record; (ii) declaring that the District's promulgation of the Rule 6-5 Amendment
+
+6
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+violates H&S Code §§ 40703, 40920.6, 40606, 40728.5, and 40727; (iii) declaring that the
+
+2 District's promulgation of the Rule 6-5 Amendment is ultra vires; and (iv) in the form of any other
+
+3 declaratory relief the Court deems just and proper.
+
+4 20. Petitioner/Plaintiff further seeks injunctive relief and ask this Court to enjoin the
+
+5 District from enforcing any of the requirements contained in the Rule 6-5 Amendment.
+
+6 PARTIES
+
+7 21. Petitioner/Plaintiff MRC operates the Refinery that is regulated by the District and
+
+8 subject to Rule 6-5 and the Rule 6-5 Amendment.
+
+9 22. Respondent/Defendant District is a state Public Agency located in Northern
+
+10 California.
+
+11 23. The District's jurisdiction in regulating air quality for stationary and certain other
+
+12 sources includes Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, and Santa Clara
+
+13 Counties, and the southern portions of Solano and Sonoma Counties.
+
+14 24. Petitioner/Plaintiff is unaware of the true names and capacities of
+
+15 Respondents/Defendants identified as Does 1-20, and sue such Respondents/Defendants herein by
+
+16 fictitious names. Petitioner/Plaintiff upon information and belief allege that
+
+17 Respondents/Defendants Does 1-20 are also responsible, in whole or in part, for the invalid and
+
+18 unlawful approval of the Rule 6-5 Amendment and the failure to comply with required rulemaking
+
+19 procedures and applicable state laws. When the true identities and capacities of these
+20 Respondents/Defendants have been determined, Petitioner/Plaintiff will, with leave of the Court if
+
+21 necessary, amend this Petition and Complaint to insert such identities and capacities.
+
+22 REGULATORY & PROCEDURAL HISTORY
+
+23 25. The history in this matter is straightforward and telling.
+
+24 26. The District first adopted an earlier version of Rule 6-5 in 2015. The District made
+
+25 limited amendments to that rule in 2018. These initial versions of Rule 6-5 imposed certain
+26 requirements on FCCUs related to ammonia emissions but did not contain emissions limitations for
+
+27 sulfur dioxide ("SO2") or TPM.
+
+28 27. In July 2017, California enacted legislation known as "AB 617."
+
+7
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+28. Among other things, AB 617 required California air districts in nonattainment areas
+
+2 to "adopt an expedited schedule for the implementation of best available retrofit control
+
+3 technology" (generally referred to as BARCT) for certain equipment and sources to address
+4 nonattainment pollutants in that area. (H&S Code § 40920.6(c).) Air districts were required to
+
+5 adopt such schedules on or before January 1, 2019, and to implement the schedule by December 31,
+
+6 2023. (Id.)
+
+7 29. Recognizing the difficulty in requiring retrofits on equipment located at thousands of
+
+8 facilities throughout California to address nonattainment pollutants, and the associated
+
+9 socioeconomic impacts, the California Legislature also required air districts to undertake a series of
+
+10 steps when establishing emission control options constituting BARCT for certain equipment and
+
+11 sources. Districts are required to identify emission control options and to assess both cost-
+
+12 effectiveness (as defined by AB 617) and calculate incremental cost-effectiveness (again as defined
+
+13 by AB 617). (H&S Code § 40920.6(a)).
+
+14 30. In December 2018, the District's Board adopted the District's "AB 617 Expedited
+
+15 Best Available Retrofit Control Technology Implementation Schedule" (referred to hereafter as
+
+16 "AB 617 Expedited BARCT Implementation Schedule").
+
+17 31. Also in December 2018, the District adopted the 2018 EIR in support of the AB 617
+
+18 Expedited BARCT Implementation Schedule.
+
+19 a. The purpose of the 2018 EIR was to "address the potential environmental
+
+20 impacts associated with the Expedited BARCT Implementation Schedule," while
+
+21 the defined CEQA "project" was "to implement [six] rule development projects."
+
+22 b. The 2018 EIR acknowledges that "the degree of specificity required in an EIR
+
+23 corresponds to the degree of specificity involved in the underlying activity
+
+24 described in the EIR.'
+
+25 c. The 2018 EIR did not-and could not have adequately consider all project
+
+26 alternatives and impacts considered and related to the development of BARCT
+
+27 requirements for refineries in the rulemaking process for the Rule 6-5
+
+28 Amendment.
+
+8
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+d. The District staff expressly acknowledged this issue and promised to the
+
+2 public- -and to the District's Board, prior to its adoption of the 2018 EIR-that
+
+3 there would be a separate CEQA analysis for each individual BARCT rule
+
+4 brought forward for consideration and eventual adoption. The District breached
+
+5 that promise.
+
+6 32. The District first released draft amendments to Rule 6-5 and an Initial Staff Report in
+
+7 May 2020. The District revised these proposals through 2020 pursuant to District meetings,
+
+8 workshops, and the collection of public comments.
+
+9 33. In January 2021, the District released two versions of draft amendments to Rule 6-5
+
+10 and held a workshop reflecting two alternative control options then under consideration by the
+
+11 District: Control Option A (with a 0.02 gr/dscf TPM standard, MRC's alternative proposal) and
+
+12 Control Option B (with a 0.01 gr/dscf TPM standard).
+
+13 34. The District released its proposed Rule 6-5 Amendment and Draft Staff Report on
+
+14 March 30, 2021 and sought public comments through April 30, 2021. But this proposed
+
+15 amendment reflected only Control Option B, with its corresponding 0.01 gr/dscf TPM standard,
+
+16 limiting the options considered for adoption by the District's Board.
+
+17 35. The District issued its Final Staff Report for the Rule 6-5 Amendment in May 2021.
+
+18 That document-in only half a page- relies exclusively on the 2018 EIR for compliance with
+
+19 CEQA and does not purport to conduct any independent or updated CEQA analysis with respect to
+
+20 the Rule 6-5 Amendment. This action is contrary to the District's prior public assurances that each
+
+21 new BARCT rule would be accompanied by a new and individualized CEQA analysis.
+
+22 36. Throughout the rulemaking process, MRC and other refineries submitted numerous
+
+23 written and oral comments to the District documenting points of legal and technical concern,
+
+24 especially the lack of a proper CEQA analysis for the proposed rule amendments. In particular,
+
+25 MRC submitted written comments on July 13, 2020, April 29, 2021, April 30, 2021, May 18, 2021,
+
+26 June 1, 2021, and July 20, 2021.
+
+27 37. On May 25, 2021, the District released a "Summary of Comments and Response on
+
+28 the Regulatory Package for Proposed Amendments to Regulation 6, Rule 5: Particulate Emissions
+
+9
+
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+from Refinery Fluidized Catalytic Cracking Units." This document purports to respond to
+
+2 comments but does not adequately address the important technical and legal issues raised during the
+
+3 rulemaking process by MRC and others.
+
+4 38. A public hearing on the Rule 6-5 Amendment was held on June 2, 2021. After hours
+
+5 of debate regarding the contents and appropriateness of the Rule 6-5 Amendment, that hearing was
+
+6 continued until July 21, 2021.
+
+7 39. At a public hearing held on July 21, 2021, the District's Board voted to adopt the
+
+8 Rule 6-5 Amendment, relying on the 2018 EIR for CEQA, and approved the District's related
+
+9 Resolution No. 2021-10.
+
+10 40. The District posted a NOD for the Rule 6-5 Amendment in Solano County on
+
+11 August 9, 2021. The NOD expressly relies exclusively on the 2018 EIR for the District's
+
+12 compliance with CEQA when adopting the Rule 6-5 Amendment.
+
+13 41. The District failed to comply with California law when it adopted the Rule 6-5
+
+14 Amendment.
+
+15 42. Petitioner/Plaintiff timely filed this Petition and Complaint on September 7, 2021.
+
+16 43. For the Petitioner/Plaintiff, this Petition is deemed verified. (Code of Civ. Proc.
+
+17 § 446.).
+
+18 JURISDICTION AND VENUE
+
+19 44. This action arises under the following laws:
+
+20 a. CEQA and its implementing regulations, Pub. Resources Code § 21000 et seq.;
+
+21 Cal. Code Regs., title 14, § 15000 et seq. (also referred to herein as the CEQA
+
+22 Guidelines);
+
+23 b. The H&S Code, including without limitation H&S Code § § 40606, 40728.5,
+
+24 40703, 40727, 40920.6, and 40922;
+
+25 c. AB 617 and H&S Code provisions implementing the BARCT provisions of that
+
+26 law, inclusive of H&S Code § 40920.6; and
+
+27 d. California common law.
+
+28
+
+10
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+45. This Court has jurisdiction over the matters alleged in this Petition and Complaint
+
+2 pursuant to Code of Civil Procedure §§ 1085, 1094.5, and 1060; and Public Resources Code §§
+
+3 21168 and 21168.5.
+
+4 46. Venue is proper in this Court pursuant to Code of Civil Procedure § 394(a).
+
+5 47. Pursuant to Code of Civil Procedure 388, Petitioner/Plaintiff is serving the
+
+6 California Attorney General with a copy of this Petition. Additionally, consistent with Public
+
+7 Resources Code § 21167.5, Petitioner/Plaintiff has served the District with notice of this Petition
+
+8 and Complaint. A true and correct copy of that notice is attached as Exhibit 1.
+
+9 EXHAUSTION OF ADMINISTRATIVE REMEDIES
+
+10 48. Petitioner/Plaintiff has performed all conditions precedent to filing this action.
+
+11 Petitioner/Plaintiff actively participated in the rulemaking process, submitted numerous and
+
+12 voluminous written comments in a timely manner, and provided oral comments at the District's
+
+13 publicly held meetings.
+
+14 49. Petitioner/Plaintiff will comply with Public Resources Code § 21167.6 by timely
+
+15 filing a request concerning the preparation of the record of administrative proceedings relating to
+
+16 the Rule 6-5 Amendment.
+
+17 50. Petitioner/Plaintiff has no plain, speedy or adequate remedy in the ordinary course of
+
+18 law unless this Court grants the requested writ of mandate to require Respondent/Defendant to set
+
+19 aside the District's approval of the Rule 6-5 Amendment for: (1) failing to comply with CEQA; (2)
+
+20 failing to comply with the H&S Code and other applicable laws; and (3) because the Rule 6-5
+
+21 Amendment is ultra vires, arbitrary, and/or capricious.
+
+22 51. Petitioner/Plaintiff brought this action within 30 days of the District's posting of the
+
+23 NOD. (See Public Resources Code § 21167.)
+
+24 STANDING
+
+25 52. MRC has standing to assert the claims raised in this Petition/Complaint because the
+
+26 adopted Rule 6-5 Amendment applies to MRC. MRC owns and operates the Refinery that is within
+
+27 the geographic territory regulated by the District and is subject to the District's rules and
+
+28 regulations, including the Rule 6-5 Amendment.
+
+11
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+53. MRC's environmental, economic, and/or beneficial interests are directly and
+
+2 adversely affected by the District's adoption of the Rule 6-5 Amendment.
+
+3 54. MRC will sustain direct harm and injury-in-fact as a result of the District's BARCT
+4 determination and the Rule 6-5 Amendment's 0.01 gr/dscf TPM emissions limitation, which will
+
+5 cause a direct, immediate, and significant adverse impact on the Refinery's operations and business.
+
+6 That injury is imminent because the Rule 6-5 Amendment is now final; as a result, refineries
+
+7 subject to the rule will need to begin taking measures immediately to prepare to comply with new
+
+8 emissions requirements contained in the Rule 6-5 Amendment, particularly the 0.01 gr/dscf TPM
+
+9 standard.
+
+10 55. This Court has the power to remedy the harm and injury caused by the District's
+
+11 actions by granting MRC the relief requested herein.
+
+12 FIRST CAUSE OF ACTION
+
+13 (Violation of the California Environmental Quality Act)
+
+14 56. Petitioner/Plaintiff re-alleges and incorporates by reference, as though fully set forth
+
+15 herein, the allegations contained above in Paragraphs 1-55, inclusive.
+
+16 57. Petitioner/Plaintiff bring this First Cause of Action pursuant to Public Resources
+
+17 Code § 21168 and § 21168.5, on the grounds that the District failed to act in accordance with the
+
+18 law and committed a prejudicial abuse of discretion, in that it considered and approved
+
+19 regulations/rules without undertaking an analysis of the potential environmental impacts as required
+
+20 by CEQA.
+
+21 58. The District is a "Public Agency" within the meaning of CEQA. (Pub. Res. Code
+
+22 21063; CEQA Guidelines § 15383.) CEQA requires public agencies to conduct environmental
+
+23 reviews prior to approving any discretionary project that may have a significant impact on the
+
+24 environment. The District's approval of the Rule 6-5 Amendment is a discretionary approval.
+
+25 59. Under CEQA, "project" means "the whole of an action, which has the potential for
+
+26 resulting in either a direct physical a change in the environment, or a reasonably foreseeable indirect
+
+27 physical change in the environment." (CEQA Guidelines 15378(a).)
+
+28 60. The District's approval of the Rule 6-5 Amendment constitutes a "project" within
+
+12
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+the meaning of CEQA. CEQA requires that all cumulative impacts related to the project must be
+
+2 analyzed together. (CEQA Guidelines § 15130.)
+
+3 61. "Approval" of a project means "the decision by a public agency which commits the
+
+4 agency to a definite course of action in regard to a project intended to be carried out by any person.'
+
+5 (CEQA Guidelines § 15352.) The District's actions related to its adoption of the Rule 6-5
+
+6 Amendment constitute an "approval" within the meaning of CEQA.
+
+7 62. Compliance with the procedural requirements of CEQA informs the public of the
+
+8 proposed project and aids in identifying project alternatives and mitigation measures. These
+
+9 procedural requirements (and the project alternatives and mitigation measures they identify) further
+
+10 CEQA's purpose of reducing the potential for either a direct or a reasonably foreseeable a indirect
+
+11 physical change in the environment.
+
+12 63. Without a proper procedural foundation, a public agency cannot comply with
+
+13 CEQA's mandate to approve projects as proposed only if there are no feasible alternatives or
+
+14 feasible mitigation measures available which would substantially lessen the significant
+15  environmental effects of such projects. (Pub. Res. Code § 21002.)
+
+16 64. Whenever there is a fair argument based on substantial evidence that a project may
+
+17 have a significant impact on the environment, the lead agency must prepare an EIR. (Pub. Res.
+
+18 Code, §§ 21100 [state agencies], 21151 [local agencies].)
+
+19 65. The Rule 6-5 Amendment has the potential to result in a direct or reasonably
+
+20 foreseeable indirect significant effect on the environment. Substantial evidence in the record shows
+
+21 that the Rule 6-5 Amendment may result in significant environmental impacts from the District's
+
+22 BARCT determination and the installation and operation of controls likely required to achieve the
+
+23 0.01 gr/dscf TPM standard in the Rule 6-5 Amendment. CEQA requires the District to analyze all
+
+24 direct, indirect and cumulative impacts arising from the whole of a given action. (See CEQA
+
+25 Guidelines § 15126.2(a).) To fulfill this mandate, the District is obligated to consider "all phases of
+
+26 project" including "planning, acquisition, development, and operation.' (CEQA Guidelines §
+
+27 15126.) The District committed prejudicial abuse of discretion and violated CEQA when it failed
+
+28 to conduct an adequate investigation and mitigate the significant environmental impacts of the Rule
+
+13
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+6-5 Amendment associated with the District's BARCT determination and the 0.01 gr/dscf TPM
+
+2 standard. If a WGS was installed at MRC's Refinery, as contemplated by the District's action, that
+
+3 WGS alone would result in the following unanalyzed/inadequately analyzed or unmitigated
+
+4 impacts, among others:
+
+5 a. Increased water consumption by 250,000,000 gallons per year (enough to serve
+
+6 7,000 people) in already drought-stricken California;
+
+7 b. A 10,000 metric ton increase in greenhouse gas emissions;
+
+8 C. An increase in electricity (22,000 megawatt hours) consumption;
+
+9 d. An increase in natural gas consumption (200,000,000 standard cubic feet)
+10 consumption;
+11 e. A 500,000 gallon per year increase in the generation of hazardous materials;
+
+12 f. An 800,000 pound per year increase in the generation of hazardous waste;
+
+13 g. Significant increases in construction and operational air pollutant emissions,
+
+14 including greenhouse gases;
+
+15 h. Wastewater treatment and wastewater discharges into the Carquinez Straits (250
+
+16 gallons per minute of wastewater, which would potentially require upgrades to
+
+17 the Refinery's wastewater treatment plant to ensure adequate wastewater
+
+18 treatment capacity);
+
+19 i. Impacts to visual resources from the generation of plumes; and
+
+20 j. The cumulative impact of all these impacts at MRC's Refinery and every other
+
+21 refinery in the Bay Area Air Basin.
+
+22 66. The District has not prepared an EIR for the Rule 6-5 Amendment project, violating
+
+23 CEQA and depriving the public and decision-makers of critical information regarding the adoption
+
+24 of the Rule 6-5 Amendment. In fact, the District did not engage in any substantive environmental
+
+25 review under CEQA related specifically to the adoption of the Rule 6-5 Amendment, dedicating
+
+26 only half of a page in its Final Staff Report to the topic.
+27 67. Instead, despite assurances made in December 2018, the District relies exclusively
+
+28 on the 2018 EIR related to its adoption of the AB 617 Expedited BARCT Implementation Schedule.
+
+14
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+The 2018 EIR did not analyze (or did not analyze sufficiently) the impacts of the Rule 6-5
+
+2 Amendment. The District cannot rely solely on the 2018 EIR to comply with CEQA for its
+
+3 adoption of the Rule 6-5 Amendment.
+
+4 68. The 2018 EIR is what CEQA refers to a as a "Program" EIR. A Program EIR is
+
+5 "prepared and certified for a program, plan, policy, or ordinance," and CEQA requires that the lead
+
+6 agency "examine significant effects of the later project upon the environment by using a tiered
+
+7 environmental impact report." (Pub. Res. Code § 21094(a).) In this instance, the 2018 AB 617
+
+8 Expedited BARCT Implementation Schedule is obviously a "program, plan, policy or ordinance" as
+
+9 it was intended to cover six District future rulemakings; the Rule 6-5 Amendment is one of these
+
+10 future rulemakingsa "later project" for CEQA purposes.
+
+11 69. When using a Program EIR for CEQA purposes, the lead agency is required to
+
+12 conduct an initial study to determine whether the later project "may cause significant effects on the
+
+13 environment that were not examined in the prior environmental impact report." (Pub. Res. Code con
+
+14 21094(c).) The District did not conduct an initial study to determine whether the Rule 6-5
+
+15 Amendment may have a significant effect on the environment. The Rule 6-5 Amendment was not
+
+16 analyzed in the 2018 EIR. This alone violates CEQA, and for good reason-the District's failure to
+
+17 conduct the initial study resulted in it ignoring the substantial environmental effects that will result
+
+18 from the Rule 6-5 Amendment.
+
+19 70. In an effort to avoid its regulatory obligations under CEQA to use a Program EIR,
+
+20 the District instead has disingenuously asserted that the 2018 EIR, alone was sufficient to justify the
+
+21 adoption of the Rule 6-5 Amendment, and cited to Public Resources Code § 21166 as support for
+
+22 this justification. But even if that section applied, which it does not, the District's failure to provide
+
+23 any sort of supplemental or subsequent environmental review for the Rule 6-5 Amendment violates
+
+24 CEQA.
+
+25 71. The District is required to prepare a subsequent EIR or supplemental EIR for the
+
+26 same project when substantial changes occur with respect to the circumstances under which the
+
+27 project is undertaken that will require major revisions of the previous EIR due to the involvement of
+
+28 new significant environmental effects or a substantial increase in the severity of previously
+
+15
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+identified significant effects. (Pub. Res. Code § 21166; CEQA Guidelines §§ 15162(a)(2),
+
+2 15162(b), and 15163.)
+
+3 72. As an example of the District's failure to analyze "new significant environmental
+
+4 effects or a substantial increase in the severity of previously identified significant effects" related to
+
+5 the Rule 6-5 Amendment, in March 2021, the California Department of Water Resources lowered
+
+6 its forecast of the deliveries it expects to make to cities and farms that belong to the State Water
+
+7 Project to just 5% of contracted deliveries.
+
+8 73. On April 21, 2021, Governor Gavin Newson declared a Regional Drought
+
+9 Emergency that included the portion of Sonoma County that is within the District's jurisdiction, and
+
+10 stated that "California is facing the familiar reality of drought conditions .. .. This 'new normal'
+
+11 gives urgency to building drought resilience in regions across the state and preparing for what may
+
+12 be a prolonged drought at our doorstep." Governor Newsom followed this with Executive Order N-
+
+13 10-21, executed on July 8, 2021, calling on all Californians to reduce their water usage by 15%
+
+14 from 2020 levels to "preserve the State's surface and groundwater supplies and better prepare for
+
+15 the potential for continued dry conditions next year" because, among other things, "severe drought
+
+16 afflicts the American West and increasingly warming temperatures driven by climate change
+
+17 exacerbate harmful drought effects including disruption of drinking water and irrigation supplies,
+
+18 degradation of fish and wildlife habitat, and heightened flammability of wildland vegetation."
+
+19 74. Given the considerable amount of water needed to operate a WGS as BARCT at
+
+20 each of the Bay Area's impacted refineries, the Governor's drought declarations and recent efforts
+
+21 by California and Federal agencies to conserve water show that substantial changes have occurred
+
+22 with respect to the circumstances under which the Rule 6-5 Amendment project is undertaken. This
+
+23 "new normal" drastically increases the severity of any water consumption impacts contemplated by
+
+24 the 2018 EIR and CEQA requires that the District prepare a subsequent EIR to analyze such
+
+25 impacts.
+
+26 75. The District is required to prepare a subsequent EIR for the same project when new
+
+27 information of substantial importance, which was not known and could not have been known with
+
+28 the exercise of reasonable diligence at the time the previous EIR was certified as complete, shows
+
+16
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+that mitigation measures or alternatives which are considerably different from those analyzed in the
+
+2 previous EIR, would substantially reduce one or more significant effects on the environment, but
+
+3 the project proponents decline to adopt the mitigation measure or alternative. (Pub. Res. Code §
+
+4 21166; CEQA Guidelines § § 15162(a)(3)(D), 15162(b), and 15163.) The 2018 EIR only analyzed
+
+5 two alternatives: either not adopting the AB 617 Expedited BARCT Implementation Schedule or
+
+6 delaying implementation of the schedule. Alternatives with respect to each rule, including the Rule
+
+7 6-5 Amendment, were never analyzed or taken into account in the 2018 EIR. The Rule 6-5
+
+8 Amendment adopts a 0.01 gr/dscf TPM standard but MRC's alternative TPM emission proposal
+
+9 (0.02 gr/dscf TPM standard) initially contemplated by District staff, was not proposed and
+
+10 considered by the District until after the 2018 EIR was certified. MRC's alternative proposal-
+
+11 which would not result in the massive amounts of water consumption, energy use, greenhouse gas
+
+12 and other emissions, wastewater and hazardous waste generation, and visual impairment from
+
+13 plumeswas never considered under CEQA specifically for the Rule 6-5 Amendment. Rather,
+
+14 MRC's alternative proposal was improperly removed from consideration and never analyzed in the
+
+15 District's CEQA analysis for the Draft Rule Amendment. The failure to analyze such a project
+16 alternative, particularly if it could be the environmentally superior alternative, violates CEQA and
+
+17 requires that the District prepare a subsequent EIR to the 2018 EIR, or at the very least, a
+
+18 supplemental environmental document. (CEQA Guidelines § § 15162(a)(3)(D), 15163.)
+
+19 76. Major revisions will be required to the 2018 EIR to make its analysis adequate for
+
+20 adoption of the Rule 6-5 Amendment. Nearly every environmental resource area analyzed in the
+
+21 2018 EIR will need to be updated and revised. An analysis of the difference between the 0.01
+
+22 gr/dscf and 0.02 gr/dscf TPM standard alternatives, which were never analyzed or compared in the
+
+23 2018 EIR or in any other CEQA document, will need to be conducted. Absent these analyses, the
+
+24 decision-makers (the District Board) and the public will be deprived of meaningful information
+
+25 regarding the environmental impacts of the Rule 6-5 Amendment, in violation of CEQA.
+
+26 77. For the reasons stated above, the District's adoption of the Rule 6-5 Amendment
+
+27 failed to comply with CEQA. The Rule 6-5 Amendment will have significant adverse
+
+28 environmental, economic, operational, and other impacts on Petitioner/Plaintiff. Petitioner/Plaintiff
+
+17
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+has no other plain, speedy, or adequate legal remedy for this harm and seek appropriate relief
+
+2 through this Petition and Complaint.
+
+3 SECOND CAUSE OF ACTION
+
+4 (Violation of California Health and Safety Code 40703)
+
+5 78. Petitioner/Plaintiff re-alleges and incorporates by reference, as though fully set forth
+
+6 herein, the allegations contained above in Paragraphs 1-77, inclusive.
+
+7 79. H&S Code § 40703 requires that, in adopting any regulation, the District must
+
+8 "consider, pursuant to Section 40922, and make available to the public, its findings related to the
+
+9 cost effectiveness of a control measure, as well as the basis for the findings and the considerations
+
+10 involved. A district shall make reasonable efforts, to the extent feasible within existing budget
+
+11 constraints, to make specific reference to the direct costs expected to be incurred by regulated
+
+12 parties, including businesses and individuals."
+
+13 80. The District did not meaningfully consider cost-effectiveness when adopting the
+
+14 Rule 6-5 Amendment.
+
+15 81. The Rule 6-5 Amendment is the costliest rule in the District's history, while
+
+16 targeting a small fraction of Bay Area TPM emissions.
+
+17 82. The District purposefully ignored valid and real-world cost data submitted by MRC
+
+18 and other refineries subject to the rule in order to downplay the actual cost and over-inflate the
+
+19 benefits of the Rule 6-5 Amendment.
+
+20 83. The District dramatically and purposefully underestimates the cost of its BARCT
+
+21 determination in California to meet the 0.01 gr/dscf TPM standard.
+
+22 84. The District's cost estimates are simply wrong, and the District has failed to explain
+
+23 why it disagrees with the valid and real-world cost estimates presented by MRC and other
+
+24 commenters during the rulemaking process.
+
+25 85. The District's own data also show that the Rule 6-5 Amendment is not economically
+
+26 feasible or cost-effective by any rational measure, with cost-effectiveness values dramatically out of
+
+27 line with prior District rulemaking determinations.
+
+28
+
+18
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+a. The District fails to identify any comparable rules in terms of cost-effectiveness;
+
+2 the District has not identified any regulatory precedents because there are none.
+
+3 b. The District's assessments of "reasonable" TPM and SO2 control costs for prior
+
+4 rules it has adopted illustrate why the TPM cost-effectiveness for Control
+
+5 Scenario B (0.01 gr/dscf TPM standard) and the Rue 6-5 Amendment as adopted
+
+6 are arbitrary and irrational.
+
+7 86. The District further failed to meaningfully account for the significant costs regarding
+
+8 the Rule 6-5 Amendment as applied to MRC (e.g., lack of physical space at the Refinery associated
+
+9 with the District's BARCT determination).
+
+10 87. The District failed to explain how cost-effectiveness influenced its decision to
+
+11 finalize the Rule 6-5 Amendment based on Control Scenario B (0.01 gr/dscf TPM standard), rather
+
+12 than Control Scenario A (0.02 gr/dscf TPM standard), notwithstanding that Control Scenario A
+
+13 would achieve similar air quality benefits at dramatically lower costs.
+
+14 88. The District did not explain why it believes the control costs of the Rule 6-5
+
+15 Amendment are at all compatible with reasoned decision-making.
+
+16 89. By any reasonable standard, the Rule 6-5 Amendment is not cost-effective.
+
+17 90. By failing to conduct an accurate, thorough, unbiased, and otherwise appropriate
+18 cost-effectiveness analysis for the Rule 6-5 Amendment, the District violated H&S Code § 40703.
+
+19 That violation harms Petitioner/Plaintiff because the Rule 6-5 Amendment will have significant
+
+20 adverse environmental, economic, operational, and other impacts on Petitioner/Plaintiff.
+
+21 Petitioner/Plaintiff has no other plain, speedy, or adequate legal remedy for this harm and seek
+
+22 appropriate relief through this Petition and Complaint.
+
+23 THIRD CAUSE OF ACTION
+
+24 (Violations of Health & Safety Code § 40920.6)
+
+25 91. Petitioner/Plaintiff re-alleges and incorporates by reference, as though fully set forth
+
+26 herein, the allegations contained above in Paragraphs 1-90, inclusive.
+
+27 92. When adopting AB 617 and H&S Code § 40920.6, the State Legislature required
+
+28 additional cost considerations in order to ensure reasoned decision-making and to constrain BARCT
+
+19
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+to standards that were actually achievable.
+
+2 93. Importantly, the Legislature mandated consideration of both cost-effectiveness, as
+
+3 defined by H&S Code 40920.6 and consideration of "incremental cost-effectiveness for the
+
+4 potential control options" as further efined by H&S Code § 40920.6.
+
+5 94. With respect to cost considerations and cost-effectiveness, the District has violated
+
+6 H&S Code con 40920.6 for the same reasons Plaintiff alleges the District has violated H&S § 40703.
+
+7 95. The District also has violated H&S Code § 40920.6 in numerous additional ways,
+
+8 including:
+
+9 a. The District has not reasonably considered the factors prescribed by H&S Code
+10 40920.6;
+
+11 b. The District has not meaningfully assessed or considered the cost-effectiveness
+
+12 of potential emission control options;
+
+13 C. The District has not meaningfully assessed or considered the incremental cost-
+
+14 effectiveness of potential emission control options; and
+
+15 d. The District has failed to make reasoned findings in the record supported by
+
+16 substantial evidence regarding both cost-effectiveness and incremental cost-
+
+17 effectiveness of the control options considered.
+
+18 96. These failures are especially pronounced given the vast difference in costs and the
+
+19 relatively limited difference in environmental benefit when comparing the two emission control
+
+20 options initially considered by the District, with only one option (0.01 gr/dscf TPM standard)
+
+21 presented to the District Board for consideration and eventual adoption.
+
+22 97. The District's failures to meaningfully provide reasoning supported by substantial
+
+23 evidence regarding cost-effectiveness and incremental cost-effectiveness violates the Legislature's
+
+24 express commands to carefully consider cost-effectiveness and incremental cost-effectiveness when
+
+25 imposing BARCT controls pursuant to AB 617 and H&S Code § 40920.6.
+
+26 98. For these and other reasons stated above, the District's adoption of the Rule 6-5
+
+27 Amendment violated H&S Code 40920.6. As amended, Rule 6-5 will have significant adverse
+
+28 environmental, economic, operational, and other impacts on Petitioner/Plaintiff. Petitioner/Plaintiff
+
+20
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+have no other plain, speedy, or adequate legal remedy for this harm and seek appropriate relief
+
+2 through this Petition and Complaint.
+
+3 FOURTH CAUSE OF ACTION
+
+4 (Violations of Health & Safety Code § 40406)
+
+5 99. Petitioner/Plaintiff re-alleges and incorporates by reference, as though fully set forth
+
+6 herein, the allegations contained above in Paragraphs 1-98, inclusive.
+
+7 100. H&S Code § 40406 defines BARCT.
+
+8 101. The District has not reasonably considered the factors prescribed by this statute,
+
+9 including the rule's environmental, energy, and economic impacts.
+
+10 102. These failings are for the same reasons as describe above, most particularly, but not
+
+11 exclusively, with respect to:
+
+12 a. The lack of cost-effectiveness of the Rule 6-5 Amendment and the District's
+
+13 BARCT determination, resulting in significant adverse cost, operational, and
+
+14 business impacts to regulated refineries;
+
+15 b. The massive and unmitigated fresh water use; generation of massive amounts of
+
+16 greenhouse gases, wastewater, and hazardous materials; and significant
+
+17 aesthetics impacts that the District's identified control option for complying with
+
+18 the Rule 6-5 Amendment would require; and
+
+19 C. The lack of "achievability" to meet the 0.01 gr/dscf TPM standard set by the
+
+20 Rule 6-5 Amendment based on the District's BARCT determination.
+
+21 103. In addition, the very definition of BARCT contained in H&S Code § 40406 requires
+
+22 that it is "achievable."
+
+23 104. For MRC, the Rule 6-5 Amendment and the District's purported BARCT
+24 determination to meet the 0.01 gr/dscf TPM standard would not be "achievable" given the lack of
+
+25 available space at MRC's Refinery for new the installation of new emissions controls.
+
+26 105. Data submitted by the Western States Petroleum Association and other commenters
+
+27 during the Rule 6-5 Amendment rulemaking process, as well as the District's own documents,
+
+28
+
+21
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+clearly demonstrate that WGSs-the technology the District relied on to establish the 0.01 gr/dscf
+
+2 TPM standarddo not consistently achieve the 0.01 gr/dscfTPM standard (at 5% oxygen).
+
+3 106. This not only undermines the validity of the District's analysis, BARCT
+
+4 determination, and the 0.01 gr/dscf TPM standard of the Rule 6-5 Amendment, but directly
+
+5 contradicts the command of H&S Code § 40406 that BARCT standards must be "achievable."
+
+6 107. These failures have resulted in a standard that is not the "best achievable retrofit
+
+7 control technology," BARCT, as that term is defined in H&S Code 8 40406.
+
+8 108. For these and other reasons stated above, the District's adoption of the Rule 6-5
+
+9 Amendment violated H&S Code § 40406. As amended, Rule 6-5 will have significant adverse
+
+10 environmental, economic, operational, and other impacts on Petitioner/Plaintiff. Petitioner/Plaintiff
+
+11 has no other plain, speedy, or adequate legal remedy for this harm and seeks appropriate relief
+
+12 through this Petition and Complaint.
+
+13 FIFTH CAUSE OF ACTION
+
+14 (The District's Adoption of Rule 6-5 is Arbitrary, Capricious, and Lacking in Adequate Evidentiary Support)
+
+15 109. Petitioner/Plaintiff re-alleges and incorporates by reference, as though fully set forth
+
+16 herein, the allegations contained above in Paragraphs 1-108, inclusive.
+
+17 110. District actions that are arbitrary, capricious, entirely lacking in evidentiary support,
+
+18 unlawful, or procedurally unfair are a prejudicial abuse of discretion, illegal, and void.
+
+19 111. The District's adoption of the Rule 6-5 Amendment itself was demonstrably
+
+20 arbitrary, capricious, entirely lacking in evidentiary support, unlawful, and procedurally unfair.
+
+21 112. Numerous actions and omissions during the rulemaking process highlight the
+
+22 arbitrary and capricious nature of the District Board's decision to adopt the Rule 6-5 Amendment,
+
+23 as well as the lack of evidentiary support in the record on many key issues. These include, without
+
+24 limitation, the following:
+
+25 a. The District pre-determined that it would regulate TPM from FCCUs, despite the
+
+26 costs being "unknown.'
+
+27 b. The District used flawed and inaccurate data in its cost-effectiveness analysis.
+
+28 C. The District failed to meaningfully explain how it considered cost-effectiveness.
+
+22
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+d. The District failed to meaningfully explain how it considered incremental cost-
+
+2 effectiveness.
+
+3 e. The District failed to meaningfully explain the enormous discrepancy in cost-
+
+4 effectiveness between the Rule 6-5 Amendment (under both
+
+5 Petitioner's/Plaintiff's valid and real-world estimates, and the District's own
+
+6 understated estimates), and the cost-effectiveness of any other District rule
+
+7 targeting the same air pollutants.
+
+8 f. Despite SO2 generally being more expensive to control on a per-ton basis, the
+
+9 District failed to meaningfully explain why it is appropriate to require more
+10 expensive controls for TPM than for SO2 on a per-ton basis.
+11 g. The District's dismissal of the economic impacts of the COVID-19 pandemic on
+
+12 the refinery sector is without basis in the record.
+
+13 h. The District fails to adequately explain why it has finalized the Rule 6-5
+
+14 Amendment under Control Scenario B (0.01 grain/dscf TPM standard) versus
+
+15 Control Scenario A (MRC's alternative TPM reduction proposal, a 0.02
+
+16 grain/dscf TPM standard).
+
+17 i. The two standards are similar when it comes to reductions in ambient
+
+18 particulate matter concentrations, but worlds apart when it comes to all
+
+19 measures of achievability, technical feasibility, cost-effectiveness,
+
+20 environmental impacts (i.e., water resource usage), and socioeconomic
+
+21 impacts.
+
+22 ii. The District's distinctions between Control Scenario A (0.02 grain/dscf
+
+23 TPM standard) and Control Scenario B (0.01 grain/dscf TPM standard)
+
+24 are arbitrary and lacking evidentiary support.
+
+25 iii. The District's distinctions between Control Scenario A (0.02 grain/dscf
+
+26 TPM standard) and Control Scenario B (0.01 grain/dscf TPM standard)
+
+27 are not supported by the record.
+
+28
+
+23
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+i. The District has grossly overestimated emission reductions and environmental
+
+2 benefits from the Rule 6-5 Amendment in a manner a not supported by the record.
+
+3 j. The District has exaggerated and misstated the anticipated health benefits of the
+
+4 Rule 6-5 Amendment.
+
+5 k. The Rule 6-5 Amendment would reduce particulate matter by a small fraction in
+
+6 the Bay Area, while at the same time imposing significant costs on impacted
+
+7 refineries, something the District has purposely glossed over in the record.
+
+8 I. The District's health-effects analysis fails to account for the fact that most TPM
+
+9 being controlled by the Rule 6-5 Amendment would be sulfate.
+
+10 113. The District has failed to meaningfully respond to comments from MRC and others
+
+11 with respect to these and the other vital matters raised in this Petition and Complaint during the
+
+12 Rule 6-5 Amendment rulemaking process.
+
+13 114. The District's adoption of the Rule 6-5 Amendment is arbitrary, capricious and not
+
+14 supported by evidence in the record. Those actions harm Petitioner/Plaintiff because Rule 6-5 will
+
+15 have significant adverse environmental, economic, operational, and other impacts on
+
+16 Petitioner/Plaintiff. Petitioner/Plaintiff has no other plain, speedy, or adequate legal remedy for this
+
+17 harm and seeks appropriate relief through this Petition and Complaint.
+
+18 SIXTH CAUSE OF ACTION
+
+19 (The Implementation Timeline for Rule 6-5 Is Arbitrary, Capricious, and Lacking in
+Adequate Evidentiary Support)
+20 115. Petitioner/Plaintiff re-alleges and incorporates by reference, as though fully set forth
+21 herein, the allegations contained above in Paragraphs 1-114, inclusive.
+22 116. District actions that are arbitrary, capricious, entirely lacking in evidentiary support,
+23 unlawful, or procedurally unfair are a prejudicial abuse of discretion, illegal, and void.
+24 117. The District's adoption of an infeasible five-year timeframe for implementation of
+25 the Rule 6-5 Amendment is arbitrary, capricious, entirely lacking in evidentiary support, unlawful,
+26 and procedurally unfair.
+27
+
+28
+
+24
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+118. The District has adopted a timeline for implementation that fails to account for the
+
+2 time necessary for design, engineering, procurement, fabrication, delivery, construction, testing,
+
+3 and other logistics to comply with the Rule 6-5 Amendment's 0.01 gr/dscf TPM standard.
+
+4 119. The District has failed to meaningfully respond to comments from MRC and others
+
+5 regarding the issues in the preceding paragraph, especially MRC's comment that the District's
+
+6 BARCT determination is not physically feasible at MRC's Refinery due to space constraints.
+
+7 120. By failing to adopt a reasonable timeline for implementation, the District has
+
+8 effectively adopted a rule with costs higher than those estimated by the District while imposing
+
+9 requirements that are unachievable in practice.
+
+10 121. The District's adoption of the Rule 6-5 Amendment implementation timeframe is
+
+11 arbitrary, capricious and not supported by evidence in the record. Those actions harm
+
+12 Petitioner/Plaintiff because the Rule 6-5 Amendment will have significant adverse environmental,
+
+13 economic, operational, and other impacts on Petitioner/Plaintiff. Petitioner/Plaintiff has no other
+
+14 plain, speedy, or adequate legal remedy for this harm and seeks appropriate relief through this
+
+15 Petition and Complaint.
+
+16 SEVENTH CAUSE OF ACTION
+
+17 (The District's Imposition of Requirements That Are Unachievable is Arbitrary, Capricious, and Lacking in Adequate Evidentiary Support)
+18 122. Petitioner/Plaintiff re-alleges and incorporates by reference, as though fully set forth
+19 herein, the allegations contained above in Paragraphs 1-121, inclusive.
+20 123. District actions that are arbitrary, capricious, entirely lacking in evidentiary support,
+21 unlawful, or procedurally unfair are a prejudicial abuse of discretion, illegal, and void.
+22 124. The District's adoption of the Rule 6-5 Amendment itself was demonstrably
+23 arbitrary, capricious, entirely lacking in evidentiary support, unlawful, and procedurally unfair.
+24 125. The District also has failed to meaningfully address the space constraints at
+
+25 Petitioner's/Plaintiff's Refinery related to the District's BARCT determination that make meeting
+
+26 the 0.01 gr/dscf TPM standard technically infeasible.
+27 126. MRC presented the District with detailed and voluminous comments and other
+28 substantive information during the rulemaking process demonstrating that it was impossible to meet
+
+25
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+the 0.01 gr/dscf TPM standard for the District's BARCT determination due to a lack of physical
+
+2 space at MRC's Refinery.
+
+3 127. The District repeatedly brushed these concerns aside, stating merely that it
+
+4 "believes" Petitioner/Plaintiff could rearrange the facility, but without any reasoned analysis or
+
+5 basis in the record to support the District's actions. The District has failed to meaningfully respond
+
+6 to MRC's comments to the contrary.
+
+7 128. The lack of space at the Refinery to accommodate the technology that forms the
+
+8 basis of the District's BARCT determination means that MRC cannot comply with the Rule 6-5
+
+9 Amendment's 0.01 grain/dscf TPM standard in the manner contemplated by the District's analysis.
+
+10 129. The District failed to meaningfully respond to comments regarding infeasibility at
+11 Petitioner's/Plaintiff's Refinery and acted in an arbitrary and capricious manner when it adopted the
+
+12 0.01 gr/dscf TMP standard that cannot be achieved in the manner contemplated by the District's
+
+13 analysis.
+
+14 130. The District also has arbitrarily ignored comments regarding the efficacy of its
+
+15 BARCT determination, and has failed to provide a meaningful and reasoned analysis and response
+
+16 regarding emission control efficacy and the achievability in practice of the Rule 6-5 Amendment
+
+17 0.01 grain/dscf TPM standard.
+
+18 131. The District's adoption of the Rule 6-5 Amendment with a 0.01 grain/dscf TPM
+
+19 standard is arbitrary, capricious and not supported by evidence in the record. Those actions harm
+20 Petitioner/Plaintiff because the Rule 6-5 Amendment will have significant adverse environmental,
+
+21 economic, operational, and other impacts on Petitioner/Plaintiff. Petitioner/Plaintiff has no other
+
+22 plain, speedy, or adequate legal remedy for this harm and seeks appropriate relief through this
+
+23 Petition and Complaint.
+
+24 EIGHTH CAUSE OF ACTION
+
+25 (Violation of California Health and Safety Code § 40728.5)
+
+26 132. Petitioner/Plaintiff re-alleges and incorporates by reference, as though fully set forth
+
+27 herein, the allegations contained above in Paragraphs 1-131, inclusive.
+
+28
+
+26
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+133. When adopting or amending air quality rules, H&S Code Section § 40728.5 requires
+
+2 the District to "actively consider the socioeconomic impact of regulations and make a good faith
+
+3 effort to minimize adverse socioeconomic impacts."
+
+4 134. The District must comply with specific statutory factors when undertaking this
+
+5 assessment, as detailed by H&S Code Section § 40728.5.b.
+
+6 135. The District has not made "good faith efforts" to minimize socioeconomic impacts
+
+7 when adopting the Rule 6-5 Amendment.
+
+8 136. The Rule 6-5 Amendment will cause significant financial impacts on Bay Area
+
+9 refineries, severely impacting the local economy and creating significant adverse socioeconomic
+
+10 impacts.
+
+11 137. At the same time, another alternative was available before the District that would
+
+12 achieve similar air quality benefits without creating such dramatic socioeconomic impacts.
+
+13 138. Despite H&S Code Section § 40728.5 requiring the District and its Board to "make a
+
+14 good faith effort to minimize adverse socioeconomic impacts," and the District's acknowledgment
+
+15 made any of the significant socioeconomic impacts of the Rule 6-5 Amendment, the District has not
+
+16 "good faith" efforts to minimize those impacts. In fact, the District's failure to consider alternative
+
+17 emissions standards that would avoid such impacts evidences the District's disregard for its
+
+18 statutory obligation to both "actively consider" and "minimize" socioeconomic impacts.
+
+19 139. The District has ignored the intent of H&S Code Section § 40728.5, as well as the
+
+20 comments from numerous citizens and employees who worry about job losses and other
+
+21 socioeconomic impacts resulting from the Rule 6-5 Amendment.
+
+22 140. The District's adoption of the Rule 6-5 Amendment violates H&S Code Section
+
+23 § 40728.5. This action harms Petitioner/Plaintiff because the Rule 6-5 Amendment will have
+
+24 significant adverse environmental, economic, operational, and other impacts on Petitioner/Plaintiff.
+
+25 Petitioner/Plaintiff has no other plain, speedy, or adequate legal remedy for this harm and seeks
+
+26 appropriate relief through this Petition and Complaint.
+
+27
+
+28
+
+27
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+NINTH CAUSE OF ACTION
+
+2 (Violation of California Health and Safety Code § 40727)
+
+3 141. Petitioner/Plaintiff re-allege and incorporates by reference, as though fully set forth
+
+4 herein, the allegations contained above in Paragraphs 1-140, inclusive.
+
+5 142. H&S Code § 40727 imposes six specific statutory requirements that must be met
+
+6 before the District can issue new regulations. These six requirements include Necessity, Authority,
+
+7 Clarity, Consistency, Non-Duplication and Reference.
+
+8 143. With respect to the requirement of "Necessity," the H&S Code requires that the
+
+9 "record of the rulemaking" must demonstrate the need for the new regulation with "substantial
+
+10 evidence," which requires that the record of rulemaking contain sufficient objective information and
+
+11 expert opinion based on objective information to support the logical inference of the "need" for the
+
+12 regulation. To demonstrate the "need" for a regulation, the District must make a substantive
+
+13 showing that the regulation is not merely desirable or of potential use, but that the regulation is
+
+14 "necessary" before it can be imposed on the governed.
+
+15 a. The District has not demonstrated a need for the Rule 6-5 Amendment as
+
+16 finalized, nor in comparison to other BARCT control options considered by the
+
+17 District during the Rule 6-5 Amendment rulemaking process, with only one
+
+18 option (0.01 gr/dscf TPM standard) presented to the District Board for adoption.
+
+19 b. The District asserts that the Rule 6-5 Amendment is required by AB 617, but
+
+20 nothing in AB 617 requires the District to impose a certain form of BARCT or a
+
+21 particular level of control. Rather, BARCT selection must comport with
+
+22 statutory factors addressed above, which the District failed to comply with in
+
+23 adopting the Rule 6-5 Amendment.
+
+24 C. The District does not explain in adopting the Rule 6-5 Amendment why it must
+
+25 impose those emission requirements, as opposed to other control options
+
+26 considered.
+
+27
+
+28
+
+28
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+144. With respect to the requirement of "Authority," the statute requires that the District
+
+2 identify the provision of law that permits or requires the adoption or amendment of a regulation.
+
+3 The District identified its authority as H&S Code §§ 40000, 40001, 40702, and 40725 40728.5.
+
+4 a. Many of the new regulatory requirements imposed by the Rule 6-5 Amendment,
+
+5 however, are not authorized by the specific provisions that are cited by the
+
+6 District, nor does the District necessarily implement or interpret the cited
+
+7 provisions.
+
+8 b. The District's analyses throughout the Rule 6-5 Amendment rulemaking process
+
+9 are uniformly cursory and do not provide the level of detail required by law.
+10 C. The District's assertion of authority fails to mention AB 617 or H&S Code
+11 cop 40920.6 as sources of authority for the Rule 6-5 Amendment, despite the
+
+12 District's reliance on its prior BARCT planning process and 2018 CEQA
+
+13 analysis (the 2018 EIR) undertaken in furtherance of those laws.
+
+14 d. This unexplained disconnect-failing to mention AB 617 or H&S Code
+
+15 sop 40920.6 as sources of authority-is problematic and indicates that the District
+
+16 is not aware of its statutory obligations when adopting BARCT requirements.
+
+17 e. The District's failure to identify the statutory provisions it relied on as the legal
+
+18 basis for adopting the Rule 6-5 Amendment deprives Petitioners/Plaintiffs and
+
+19 the public of a full and fair opportunity to evaluate and comment on the District's
+
+20 compliance with the legal requirements of H&S Code § 40727.
+
+21 145. The requirement of "Reference" provides that the District must identify the
+
+22 provision of law that the District implements or interprets when it adopts or amends a regulation.
+
+23 a. The District asserts that the Rule 6-5 Amendment will be implementing,
+
+24 interpreting, or making specific the provisions of H&S Code § § 40000, 40001,
+
+25 40702, and 40727.
+
+26 b. The District's assertion of authority fails to reference that the Rule 6-5
+
+27 Amendment would implement or interpret AB 617 or H&S Code § 40920.6,
+
+28
+
+29
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+despite the District's reliance on its prior BARCT planning process and 2018
+
+2 CEQA analysis (the 2018 EIR) undertaken in furtherance of those laws.
+
+3 146. The District's perfunctory assertions that it has satisfied all six requirements of H&S
+
+4 Code con 40727 in adopting the Rule 6-5 Amendment are arbitrary, capricious and not supported by
+
+5 evidence in the record. Those actions harm Petitioner/Plaintiff because the Rule 6-5 Amendment
+
+6 will have significant adverse environmental, economic, operational, and other impacts on
+7 Petitioner/Plaintiff. Petitioner/Plaintiff has no other plain, speedy, or adequate legal remedy for this
+
+8 harm and seeks appropriate relief through this Petition and Complaint.
+
+9
+PRAYER FOR RELIEF
+10
+
+11 WHEREFORE, Petitioner/Plaintiff pray for judgment and further relief as follows:
+
+1.
+12 For peremptory writ of mandate ordering the District to:
+
+a.
+13 Vacate and set aside the Rule 6-5 Amendment and the NOD;
+
+b.
+14 Prepare, circulate, and consider a new legally adequate CEQA analysis for
+the Rule 6-5 Amendment; and
+15
+C.
+16 Comply with the requirements of the H&S Code and California common law
+
+17 in these or any related rulemaking proceedings;
+
+2.
+18 For declaratory relief declaring that the Rule 6-5 Amendment fails to comply with
+
+19 applicable provisions of the H&S Code;
+
+3.
+20 For declaratory relief declaring the Rule 6-5 Amendment arbitrary, capricious, and
+
+21 not supported by evidence;
+
+4.
+22 For declaratory relief declaring the Rule 6-5 Amendment unlawful, null, void, and
+
+unenforceable;
+23
+5.
+24 For declaratory relief declaring that the Rule 6-5 Amendment constitute an illegal
+
+25 ultra vires action, in whole or in part;
+
+6.
+26 For injunctive relief prohibiting the District from enforcing any provision of the Rule
+
+27 6-5 Amendment;
+
+28
+
+30
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+7. For injunctive relief prohibiting the District from enforcing or implementing any
+
+2 provision of the Rule 6-5 Amendment and requiring the District to undertake a new or appropriate
+
+3 supplemental environmental analysis that complies with CEQA;
+
+4 8. For costs of suit, including reasonable attorneys' fees; and
+
+5 9. For such other equitable or legal relief as the Court may deem just and proper.
+
+6
+
+7 Dated: September 7, 2021 BEVERIDGE & DIAMOND, P.C.
+
+8 By: Dard N. M Lan
+9 David H. McCray (SBN 169113)
+Jacob P. Duginski (SBN 316091)
+10 456 Montgomery Street, Suite 1800
+11 San Francisco, CA 94104-1251
+Telephone: (415) 262-4000
+12 Facsimile: (415) 262-4040
+dmccray@bdlaw.com
+13 jduginski@bdlaw.com
+
+14 Attorneys for Petitioner/Plaintiff
+
+15 MARTINEZ REFINING COMPANY
+LLC
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+31
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+VERIFICATION
+
+2 I am an attorney for Petitioner/Plaintiff Martinez Refining Company LLC in this action. I
+
+3 make this verification on behalf of Petitioner/Plaintiff because such parties and their representatives
+
+4 are absent from the county in which my office is located. I have read the foregoing Verified
+
+5 Petition for Writ of Mandate and Complaint for Declaratory and Injunctive Relief and know its
+
+6 contents. The facts therein alleged are true and correct to the best of my knowledge and belief.
+
+7 I declare under penalty of perjury that the foregoing is true and correct.
+
+8 Executed this September 7, 2021, in the County of Placer, California.
+
+9
+
+10 Davrd 1 M Cey David H. McCray
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+32
+VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+EXHIBIT 1
+
+Beveridge
+& Diamond
+
+David H. McCray
+456 Montgomery Street, Suite 1800
+San Francisco, CA 94104-1251
++1.415.262.4025
+DMcCray@bdlaw.com
+
+September 7, 2021
+
+Via EMAIL AND U.S. MAIL
+
+Jack Broadbent, Executive Officer
+jbroadbent@baaqmd.gov
+Marcy Hiratzka, Clerk of the Board
+mhiratzka@baaqmd.gov
+Bay Area Air Quality Management District
+375 Beale Street, Suite 600
+San Francisco, CA 94105
+
+Re: NOTICE OF INTENT TO FILE CEQA PETITION
+
+Dear Mr. Broadbent and Ms. Hiratzka:
+
+Please take notice that under the California Public Resources Code section 21167.5,
+Petitioner/Plantiff Martinez Refining Company LLC (*MRC") intends to file a Writ of Mandate a and Complaint for Declaratory and Injunctive Relief in Contra Costa Superior Court under the
+provisions of the California Environmental Quality Act against Respondent/Defendant the Bay
+Area Air Quality Management District (*District") challenging the District's July 21, 2021 approval of a Negative Declaration and adopting amendments to Regulation 6-5: Particulate Emissions from Petroleum Refinery Fluidized Catalytic Cracking Units - 2021 Amendment ("Project") and the District's filing of Notice of Determination in the required counties starting
+on August 9, 2021.
+The petition for writ of mandate will request that the court direct Respondent/Defendant
+to vacate and set aside the approval of the Project and the adoption of the amendment to Regulation 6-5, and to issue declaratory and injunctive relief. Additionally, the petition will seek
+Petitioner/Plaintiff's costs and attorney's fees associated with this action.
+
+Sincerely yours,
+Dard W. M Cag David H. McCray
+Of Counsel
+Attorney for Martinez Refinery Company LLC
+
+Austin, TX Baltimore, MD Boston, MA
+New York, NY San Francisco, CA Seattle, WA Washington, DC
+
+PROOF OF ELECTRONIC SERVICE
+2 I, the undersigned, declare that I am employed in the County of San Francisco; I am
+3 over the age of eighteen years and not a party to the within entitled action; my business address is 456 Montgomery Street, Suite 1800, San Francisco, CA 94104-1251. My email is
+4 ACruz@bdlaw.com.
+
+5 I further declare that on September 9, 2021, I electronically served the following document(s): NOTICE TO ATTORNEY GENERAL AND VERIFIED PETITION FOR
+6 WRIT OF MANDATE AND COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF (CEQA CASE) on the interested party(ies) in this action.
+7
+
+8 Office of the Attorney General
+1300 "I" Street
+9 Sacramento, CA 95814-2919
+
+10 Telephone: (916) 445-9555
+Email: CEQA@doj.ca.gov
+11
+
+12 The documents were served by the following means:
+
+13 BY ELECTRONIC TRANSMISSION: I caused the documents to be sent to the
+Office of the Attorney General at the electronic notification address set forth above.
+14 I declare under penalty of perjury under the laws of the State of California that the
+15 foregoing is true and correct.
+
+16 Date: September 9, 2021 hih. C.Coz Adela Cruz
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+3
+NOTICE TO ATTORNEY GENERAL; CASE # N21-1568

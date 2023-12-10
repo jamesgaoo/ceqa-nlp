@@ -1,0 +1,2055 @@
+J
+RUTAN & TUCKER, LLP Jeffrey T. Melching (State Bar No. 180351) Exempt From Filing Fees Pursuant to Government Code § 6103 2 jmelching@rutan.com William M. Marticorena (State Bar No. 77309) 3 bmarticorena@rutan.com Alan B. Fenstermacher (State Bar No. 278171) Iafenstermacher@rutan.com 611 Anton Boulevard, Suite 1400
+5 Costa Mesa, California 92626-1931
+Telephone: 714-641-5100 6 Facsimile: 714-546-9035
+
+7 Attorneys for Plaintiff/Petitioner
+CITY OF IRVINE
+8
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+10 FOR THE COUNTY OF ORANGE, CENTRAL JUSTICE CENTER
+11 CITY OF IRVINE, Case No. 30-2018-01003486-CU-BC-CXC
+
+12 Petitioner and Plaintiff, ASSIGNED FOR ALL PURPOSES TO: JUDGE WILLIAM CLASTER 13 VS. DEPT.: CX102
+
+14 COUNTY OF ORANGE, a political NOTICE TO THE ATTORNEY GENERAL subdivision of the State of California; RE COMMENCEMENT OF ACTION 15 ORANGE COUNTY BOARD OF UNDER THE CALIFORNIA SUPERVISORS; and DOES 1 through 25, ENVIRONMENTAL QUALITY ACT 16 inclusive, ("CEQA")
+
+17 Respondents and Defendants [Pub. Res. Code § 21167.7; C.C.P § 388]
+18
+LOWE ENTERPRISES REAL ESTATE Date Action Filed: July 5, 2018 19 GROUP, a California corporation; and ROES Trial Date: None Set
+
+20 26 through 100, inclusive,
+
+Real Parties In Interest. 21
+
+22
+
+23
+
+24
+
+25 S8S
+
+26
+
+27
+
+28
+
+Rutan & Tucker, LLP -
+attorneys at law 2523/048170-1005 NOTICE TO ATTORNEY GENERAL RE COMMENCMENT OF CEQA
+12582709.1 a07/10/18 ACTION
+
+-
+
+2 TO THE ATTORNEY GENERAL OF THE STATE OF CALIFORNIA:
+PLEASE TAKE NOTICE, pursuant to Public Resources Code section 21167.7 and Code
+3 of Civil Procedure section 388, that on July 5, 2018, Petitioner CITY OF IRVINE ("City") filed a
+4 petition for wit of mandate and complaint for breach of contract, injunctive relief and declaratory
+5 relief ("Petition") against Respondents COUNTY OF ORANGE and ORANGE COUNTY BOARD
+6 OF SUPERVISORS ("Respondents") and Real Party in Interest LOWE ENTERPRISES REAL
+7 ESTATE GROUP ("Real Party") in Orange County Superior Court.
+
+9 Petitioner alleges that Respondents and Real Party violated the California Environmental
+Quality Act ("CEQA") (Public Resources Code section 21000, et seq.), CEQA's implementing
+10 Guidelines and other applicable state and local laws as a result of Respondents' June 5, 2018
+11 approval of Resolution 18-052, which included the approval of the West Alston
+12 certification of Final EIR No. 621, and other related actions. Development Plan,
+
+13
+
+14 A copy of the Petition is attached to this Notice as Exhibit 1.
+
+15 Dated: July 11, 2018
+
+16 RUTAN & TUCKER, LLP JEFFREY T. MELCHING
+
+17 WILLIAM M. MARTICORENA
+ALAN B. FENSTERMACHER
+
+18 By:
+
+19 /s/ Jeffrey T. Melching Jeffrey T. Melching, City Attorney
+
+20 Attorneys for Plaintiff/Petitioner CITY OF IRVINE
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Rutan & Tucker, LLP
+attorneys al law -2-
+
+2523/048170-1005
+12582709.1 a07/I0/18 NOTICE TO ATTORNEY GENERAL RE COMMENCMENT OF CEQA ACTION
+
+RUTAN & TUCKER, LLP Jeffrey T. Melching, City Attorney (State Bar No. 180351) Exempt From Filing Fees Pursuant 2 jmelching@rutan.com to Government Code $ 6103 William M. Marticorena (State Bar No. 77309) 3 bmarticorena@rutan.com Alan B. Fenstermacher (State Bar No. 278171) ELECTRONICALLY FILED Superior Court of California, 4 afenstermacher@rutan.com County of Orange 611 Anton Boulevard, Suite 1400 5 Costa Mesa, California 92626-1931 07/05/2018 at 01:57:2B PM
+Telephone: 6 Facsimile: 714-641-5100 Clerk of the Superior Court
+714-546-9035 By Georgina Ramirez, Deputy Clerk
+
+7 Attorneys for Plaintiff/Petitioner CITY OF IRVINE
+8
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+10 FOR THE COUNTY OF ORANGE, CIVIL COMPLEX CENTER
+11 CITY OF IRVINE, Case No. 30-2018-01003486-CU-BC-CXC|
+12 Petitioner and Plaintiff, Judge William Claster
+
+13 PETITION FOR WRIT OF MANDATE VS. (C.C.P. §§ 1085, 1094.5) AND COMPLAINT
+14 COUNTY OF ORANGE, political FOR BREACH OF CONTRACT,
+subdivision of the State of California; INJUNCTIVE RELIEF AND
+15 ORANGE COUNTY BOARD OF DECLARATORY RELIEF
+SUPERVISORS; and DOES 1 16 inclusive, through 25,
+[Code Civ. Proc. §§ 526, 1060, 1085, 1094.5, and 17 Respondents and Defendants. Pub. Res. Code § 21000 et seq.]
+
+18
+LOWE ENTERPRISES REAL ESTATE 19 GROUP, a California corporation; and ROES CX-102
+
+20 26 through 100, inclusive,
+
+21 Real Parties In Interest.
+
+22
+
+23
+
+24
+
+25
+
+26 (1!
+
+27 W/
+
+28 ///
+
+Rutan & Tucker, LLP -1- altorneys at law 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH 12535821.2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 3
+
+INTRODUCTORY ALLEGATIONS
+
+2 1. This Petition for Writ of Mandate and Complaint ("Petition") is brought by
+3 Petitioner/Plaintiff City of Irvine ("City") pursuant to Code of Civil Procedure sections 1085,
+4 1094.5, 1060 and 526 et seq., as well as Public Resources Code sections 21167, 21168 and 21168.5,
+to challenge the County of Orange ("County") and Orange County Board of Supervisors' ("Board")
+6 (collectively, "Respondents") approval of a high impact, high-density multi-family residential
+7 project allowing development of 803 residential dwelling units (the "Project") on approximately
+8 32.32 acres adjacent to a protected 11.84 acre wildlife corridor, totaling approximately 44.16 acres,
+9 in the City of Irvine ("City") (the "Site") that was formerly part of the EI Toro Marine Corps Air
+10 Station (the "Base"). Respondents' approval of the Project ignored the fact that the Site has long
+
+11 been planned for only low impact, permanent agricultural and open space uses, as reflected in the
+12 applicable City and County General Plan and zoning designations, as well as the parties' Property
+13 Tax Transfer and Pre-Annexation Agreement (*Property Tax Exchange Agreement") and City's
+14 Amended and Restated Development Agreement ("ARDA"), which governs the redevelopment of
+15 the former Base as the Orange County Great Park ("OCGP").
+
+16 2. As described in more detail herein, Respondents' approval of the Project violated the
+17  California Environmental Quality Act ("CEQA," codified as Public Resources Code §§ 21000 et
+18  seq.); the State CEQA Guidelines ("CEQA Guidelines," promulgated as title 14 of the California
+
+19 Code of Regulations, § 15000 et seq.); the City's General Plan, the County's General Plan, including
+
+20 a ballot measure amending the same ("Measure W'), City and County Code; and the Property Tax
+21  Exchange Agreement entered into by the City and County (as well as the City's now defunct
+22 Redevelopment Agency) concerning future use the Site.
+
+23 3, This Petition seeks a Court Order mandating that Respondents rescind the
+24 June 5, 2018 approval of Resolution 18-052 (the "Resolution"), which (a) certified Final EIR
+25 No. 621 for the West Alton Parcel Development Plan ("FEIR"); (b) adopted a Statement of Facts,
+26 Findings and Statement of Overriding Considerations for the FEIR; (c) adopted a Mitigation and
+27 Monitoring and Reporting Program ("MMRP") for the FEIR; and (d) approved the West Alton
+28 Parcel Development Plan ("Development Plan"), as proposed in the FEIR.
+
+Rutan & Tucker, LLP -2-
+attorneys at lew 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 4
+
+1 4. This Petition further seeks a Court Order (a) mandating that Respondents rescind
+2 approval of the Resolution because it is inconsistent is with both the City and/or County General Plan,
+3 and (b) enjoining Respondents from approving any other project on the Site or any other property
+that was formerly part of the Base and is now under County control that allows uses that are
+5 inconsistent with either the City or County General Plans (i.e., the 100 Acre Parcel, as that term is
+6 defined herein).
+
+7 5. This Petition further seeks a Court Order (a) declaring that Respondents, by
+8 approving the Resolution, have breached the Property Tax Exchange Agreement because the
+9 Property Tax Exchange Agreement does not allow Respondents to approve the uses allowed by the
+10 Project on the Site, and (b) enjoining Respondents from approving any other project on the Site or
+
+11 any other property that was formerly part of the Base and is now under County control that allows
+12 üses not contemplated by the Property Tax Exchange Agreement (i.e., the 100 Acre Parcel, as that
+13  term is defined herein).
+
+14 6. While Respondents' approval of the Project was unlawful (and the FEIR is
+15 inadequate under CEQA) for many reasons, many of the Project and the FEIR's defects are the result
+16 of the County's erroneous position that the Project is not subject to any land use authority, and in
+17 particular, its steadfast refusal to acknowledge that the City has any authority over a large, for-profit
+18 private residential project proposed within its jurisdiction, which has no basis in fact or law.
+
+19 THE PARTIES
+
+20 7. Petitioner and Plaintiff City is, and at all times mentioned herein was, a municipal
+21 corporation and charter city, duly organized and existing under the Constitution and laws of the
+22 State of California and the City's Charter, and is governed by its duly elected City Council. The
+23 City has been, for many years, designated as "the safest city in America" for cities with a population
+24 over 100,000 residents. The City has been closely monitoring the processing of the Project to ensure
+25 that, among other issues, public safety issues and other matters of governmental and public interest
+26 are fully addressed in the FEIR. The City has the authority and duty to protect the public health,
+27 safety and general welfare of its citizens, residents, employees and visitors within its boundaries,
+28 including those who travel through or are otherwise directly or indirectly affected by the operation
+
+Rutan & Tucker, LLP -3-
+attorneys af lew 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 5
+
+and use of the Project. By virtue of its police powers, duties and responsibilities, the City is
+2 beneficially interested in the Project and the outcome of this proceeding. Unlike virtually any other
+development project proposed within the City's jurisdiction, the City was not the lead agency under
+4 CEQA for the Project, and the County has steadfastly refused to allow the City land use (or any)
+
+5 approval authority over the Project, over the City's objections. The Project would result in large
+6 high-density residential development within the jurisdiction of the City, yet not controlled by the
+7 City, nor would it comply with the City's Code, standards or design guidelines. As a result, the a
+8 Project will result in significant impacts on the City and its residents.
+9 8. Further, issuance of the relief requested in this Petition will confer significant
+10 benefits on the general public by requiring the County to carry out their duties under CEQA and
+11 other applicable laws prior to proceeding with the Project. Issuance of the relief requested will also
+12 result in the enforcement of important rights affecting the public interest by compelling the County
+13 to engage in a fair, objective, and legally adequate analysis of the Project, and ensure that the public
+14 has a meaningful opportunity to review and comment on the impacts and mitigation measures for
+15 the Project. *. .*
+
+16 9. The City also brings this action as a private attorney general a pursuant to Code of
+17 Civil Procedure section 1021.5, and any other applicable legal theory to enforce important rights
+18 affecting the public interest. The necessity and financial burden of enforcement are such as to make
+
+19 an award of attorneys' fees appropriate in this case. Absent enforcement by the City, the County
+20 will proceed with a project that will cause significant, unmitigated environmental impacts that might
+21 otherwise have been reduced or avoided through legally adequate environmental review and the
+22 adoption of feasible mitigation measures.
+
+23 10. Respondent and Defendant County is a political and geographical subdivision of the
+24 | State of California with its principal offices located in the City of Santa Ana, California, with the
+25 legal ability to be sued. (See, Government Code 23001 et. seq.). The County acted as lead agency
+26 for environmental review of the Project and certified the FEIR in that capacity, as indicated in the
+27 Project's June 5, 2018 Notice of Determination ("NOD"). The County has a mandatory duty to
+28 comply with applicable local planning documents (e.g., the City and County General Plans), local
+
+Rutan & Tucker, LLP
+attorneys at law 2859/048170-1005 -4-
+
+12535821.2 a07/05/18 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page
+
+1 ordinances, and state law requirements, including CEQA and the CEQA Guidelines, when
+2 considering discretionary activities and land use regulatory actions, such as the Project. The County
+3  also has a mandatory duty to comply with the Property Tax Exchange Agreement.
+
+4 11. Respondent and Defendant Orange County Board of Supervisors ("Board") is the
+5 legislative body of the County, which voted to approve the Project and certify the FEIR by approving
+6 the Resolution.
+
+7 12. The City is informed and believes, and alleges thereon that Real Party in Interest
+8 | Lowe Enterprises Real Estate Group ("Lowe") is a California corporation. Pursuant to the
+
+9 Development Plan approved by the County on June 5, 2018, Lowe will develop the Project. In
+10 substance, the City is informed and believes, and alleges thereon, that Lowe is the proponent - or at
+11 a minimum, along with the County, a proponent - of the Project.
+
+12 13. The City is ignorant of the true names and capacities of Respondents and Defendants
+13 sued herein as Does through 50 and therefore sues those Respondents and Defendants by such
+14 fictitious names. The City is informed and believes, and alleges thereon that each of the fictitiously-
+15 named Respondents and Defendants is in some manner responsible or liable for the events and
+16 happenings referred to herein, and that each such fictitiously named Respondent and Defendant
+17 caused injury and damage to City as alleged in this Petition. The City will seek leave of Court to
+18  amend this Petition to allege the true names and capacities of such fictitiously-named Respondents
+
+19 and Defendants when the same are ascertained.
+
+20 14. The City is ignorant of the true names and capacities of Real Parties in Interest sued
+21 herein as Roes 51 through 60 and therefore sues those Real Parties in Interest by such fictitious
+22 names. The City is informed and believes, and alleges thereon that each of the fictitiously-named
+23 Real Parties in Interest is in some manner responsible or liable for the events and happenings referred
+24 to herein, and that each such fictitiously named Real Parties in Interest caused injury and damage to
+25 City as alleged in this Petition. The City will seek leave of Court to amend this Petition to allege
+26  the true names and capacities of such fictitiously-named Real Parties in Interest when the same are
+27 ascertained.
+
+28
+
+Rutän & Tucker, LLP -5-
+attorneys at law 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 7
+
+EXHAUSTION OF ADMINISTRATIVE REMEDIES
+
+2 15. The City has performed all conditions precedent to filing a CEQA action against
+3 Respondents and has exhausted all available administrative remedies to the extent required by law.
+4 The City objected to the approval of the Project and certification of the FEIR during the
+5 administrative process, including but not limited to its two comment letters (dated February 9, 2017
+6 and June 4, 2018) setting forth, inter alia, the many deficiencies in both the draft and final versions
+7 of the EIR, as well as Respondents' violation of the Property Tax Exchange Agreement, the City
+8 and County's General Plans, and City and County Code.
+9 16. Notice of the City's intent to file this Petition was served by personal service and
+10 certified mail, return receipt requested on Respondents on July 3, 2018, to the attention of Hugh
+11 Ngyuen, the County Clerk-Recorder (a true and correct copy of the proof of service of this notice is
+12 attached hereto as Exhibit A and incorporated herein by this reference), pursuant to Public Resources
+
+13 Code section 21167.5.
+
+14 17. A copy of this pleading shall be furnished to the Attorney General of the State of
+15 California in accordance with Public Resources Code section 21167.7.
+
+16 18. The City elects to prepare the administrative record, and that election is filed and
+17 served with this Petition.
+
+18 JURISDICTION AND VENUE
+
+19 19. This Court has jurisdiction over this proceeding pursuant to California Code of Civil
+20 Procedure sections 1085, 1094.5, 1060, 526 et seq., and CEQA, including but not limited to Public
+21 Resource Code sections 21167, 21168 and 21168.5. Venue in this Court is proper pursuant to Code
+22 of Civil Procedure section 394, because both the County and the City are located within the County
+23 of Orange, and the impacts of the Project will occur in the County of Orange.
+
+24 20. On June 5, 2018, or soon thereafter, the County filed for posting an NOD for the
+25 Project. This Petition was filed on July 5, 2018, within the applicable statute of limitations.
+
+26 21. The subject matter of this Complaint relates to Respondents' June 5, 2018 approval
+27 of Resolution 18-052, which relates to real property within the boundaries of the City of Irvine.
+28 Code of Civil Procedure section 860 et seq, authorizes a local agency or private party to bring an
+
+Rutan & Tucker, LLP -6-
+attorneys at lew 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 8
+
+action in the Superior Court of the County in which the principal office of the local agency is located
+2 to determine the validity of a matter that under any other law authorizes to be determined pursuant
+
+3 to Code of Civil Procedure section 860 et seq. Code of Civil Procedure section 860 et seq.
+4 establishes that this case is, among other things, a proceeding in rem. Under these facts, jurisdiction
+
+5 and venue are proper in the Superior Court of the State of California, County of Orange.
+
+6 GENERAL ALLEGATIONS
+
+7 Annexation of the Base from the County into the City
+
+8 22. In July 1992, the United States Department of Navy ("DoN*) decided to close the
+9 Base under the Base Realignment and Closure Act. At that time, the Base was located in an
+10 unincorporated area of the County.
+
+11 23. At the March 5, 2002 election, the voters of the County adopted Measure W, and in
+12 so doing, decided that the Base would be redeveloped as what is now known as the OCGP. In
+13 particular, Measure W "amends the Orange County General Plan to authorize the closed [Base] to
+14 be used for non-aviation uses, including multi-purpose central park, open space, nature preserve,
+15  universities and schools, cultural facility, and other interim and long-term uses described herein."
+16 (Measure W, § A.)
+
+17 24. Dating back to November 25, 1997, the City determined that it would pursue the
+18 annexation of the Base into the City. Before annexation could be accomplished, the following five
+19 steps, among others, had to be completed: (1) prezoning of the property; (2) formulation of a
+20 Municipal Services Plan; (3) preparation of a Fiscal Impact Report; (4) preparation of environmental
+21 documentation; and (5) entry into a Property Tax Exchange Agreement with the County. Although
+22 the City had substantial control over the first four steps in the process, execution of a Property Tax
+23 Exchange Agreement required the cooperation, and ultimately consent, of the County.
+
+24 25, Property tax exchange agreements are generally governed by Revenue & Taxation
+25 Code (*R&T Code") §§ 99 and 99.02. Property tax exchange agreements, whether formulated
+26 pursuant to R&T Code § 99 or R&T Code § 99.02, constitute a modification and reallocation of
+27 property tax revenues from the basic property tax allocation scheme, generally known as "AB8", as
+28  specifically found in R&T Code §§ 96 and/or 96.1. (See R&T Code §§ 99(a)(1) and 99.02(a).)
+
+Rutan & Tucker, LLP -7-
+attorneys at law 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 9
+
+26. Property tax exchange agreements which involve a "jurisdictional a change" subject
+2 to the Cortese-Knox-Hertzberg Local Government Reorganization Act of 2000 (Division 3)
+3 (commencing with Section 56000) of Title 5 of the Government Code (the "Reorganization Act"),
+4 such as the annexation of the Base to the City, are governed by R&T Code § 99(b). In general,
+5 negotiations of property tax exchange agreements pursuant to R&T Code § 99(b) are limited in
+6 scope to the "exchange of property tax revenues."
+
+7 27. In addition to the general procedural and substantive requirements and limitations
+8 | imposed upon property tax exchange agreements subject to the Reorganization Act, R&T Code
+9 | § 99(e)(1) imposes further substantive and procedural requirements and limitations upon a
+10 "jurisdictional change" that consists of the City's qualified annexation of an unincorporated
+11 territory, such as the case at bar, which includes, among other things, retention of a third-party
+12 consultant to perform a comprehensive, independent, fiscal analysis that specifies estimates of all
+13 tax revenues that would be derived from the annexed territory and the cost of county services with
+14 respect to the annexed territory, as well as mediation, and ultimately arbitration if an annexing city
+15 and a county cannot reach agreement regarding the division of property tax revenues. (R&T Code
+16| § 99(e)(1).) A local agency formation commission (*LAFCO") shall not impose any fiscal
+17 conditions upon a city's qualified annexation of unincorporated territory other than the division of
+18 property tax revenues as determined in the process set forth in R&T Code § 99(e)(1). (R&T Code
+19 § 99(e)(2).)
+
+20 28. Property tax exchange agreements formulated outside of the purview of the
+21 Reorganization Act are generally governed by R&T Code § 99.02. As is the case with property tax
+22 exchange agreements formulated pursuant to R&T Code § 99, property tax exchange agreements
+23 formulated pursuant to R&T Code § 99.02 are limited to property tax transfers and exchanges. In
+24 addition, property tax exchange agreements formulated pursuant to R&T Code § 99.02 require,
+25 among other things, a noticed public hearing and the adoption of certain findings. (R&T Code
+26 § 99.02(e)-(f).) The City is informed and believes, and thereupon alleges, that neither City Council
+27 nor the Board followed or complied with R&T Code § 99.02(e)-(f) in relation to any property tax
+28  exchange agreement ultimately executed between those parties.
+
+Rutan & Tucker, LLP -8-
+attorneys af law 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 10
+
+29. The County possessed no viable objections to annexation of the Base into the City.
+2 However, and notwithstanding the specific limitations set forth upon property tax exchange
+
+3 agreements in R&T Code §§ 99 and 99.02, the County demanded, and ultimately received, several
+
+4 significant concessions and giveaways from the City beyond an appropriate division of property tax
+revenues. In general, as explained in more detail below, the County required that it receive, an
+6 approximately 44 acre parcel northwest of the intersection of Alton Parkway and Irvine Boulevard
+
+7 in the City (i.e., the Project Site) and approximately 108 acres generally located south of Marine
+8 Way, generally north of the Railroad tracks that run along the southern border of the El Toro
+9 property, and generally east of O Street (*100-Acre Parcel"), where the County approved the 100-
+10 Acre Development Plan (*100-Acre Project") in November 2017. The County's approval of the
+11  100-Acre Project is currently being challenged by the City and other Petitioners in related lawsuits,
+12 on grounds substantially similar to those set forth with respect to the Project in this Petition.
+
+13 30. The City, the former Irvine Redevelopment Agency ("Irvine RDA"), and the County
+14 | ultimately entered into the Property Tax Exchange Agreement on or about March 4, 2003, Property
+15 tax exchange agreements subject to the Reorganization Act, such as the one at bar, are incorporated
+16 into the LAFCO approval process in that the LAFCO Executive Officer "shall not issue a certificate
+17 of filing pursuant to Section 56658 of the Government Code until the local agencies included in the
+18 property tax revenue exchange negotiation ... present resolutions adopted by each such county and
+19 city whereby each county and city agrees to accept the exchange of property tax revenues." (R&T
+20 Code § 99(b)(6).) The City is informed and believes, and thereupon alleges, that the Property Tax
+21 Exchange Agreement was presented to the Orange County LAFCO Executive Director pursuant to
+22 the requirements of R&T Code § 99(b)(6). The Property Tax Exchange Agreement was part and
+23 parcel of the LAFCO process.
+
+24 31. As previously discussed, property tax exchange agreements are statutorily limited to
+25 the transfer and exchange of property tax revenues. Notwithstanding this fact, the County demanded
+26 not only the transfer of the Site and the 100-Acre Parcel to the County, but certain guarantees
+27 regarding the land use characterization of the Site to be provided by present and future City
+28 Councils. Said demand not only exceeded the authorization set forth in R&T Code §§ 99 and 99.02,
+
+Rutan & Tucker, LLP -9-
+altorneys at law 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 11
+
+but once incorporated into the Orange County LAFCO process, further violated the direct
+2 prohibition that LAFCO "shall not impose any conditions that would directly regulate land use
+3 density or intensity, property development, or subdivision requirements." (Government Code
+4 § 56375(a)(6).) In addition, the decision of a LAFCO with regard to a proposal to annex territory
+
+5 to a city, such as the one at bar, "shall be based upon the general plan and prezoning of the city."
+6| (Government Code § 56375(a)(7).) In attempting to leverage the LAFCO approval process to secure
+7 the exaction of over 150 acres of land, without payment or compensation, along with certain land
+
+8 use and development guarantees, the County, and ultimately the Property Tax Exchange Agreement,
+9 ran afoul of the clear limitations and prohibitions set forth in both the Revenue & Taxation Code as
+10  well as the Reorganization Act. For these reasons alone, certain provisions of the Property Tax
+11 Exchange Agreement should be declared void and without enforceability.
+
+12 32. In the Property Tax Exchange Agreement, the County sought not only the gratis
+13 dedication of acres of approximately 152 acres valuable land, but also sought certain land use and
+14  development guarantees applicable to both the then-current as well as future City Councils.
+15 Although the Property Tax Exchange Agreement does not identify specific uses for the Site, it does
+16 define that property as being "for the exclusive use of the County or its designees, lessees, or
+17 concessionaires, including but not limited to joint venturers with private or public agencies to
+18 construct and operate permitted uses and facilities." (Property Tax Exchange Agreement, § 2.2.3.1).
+
+19 Consistent with that designation, Exhibit A to the Property Tax Exchange Agreement describes the
+20 Site (and the 100-Acre Parcel) as "public facilities." (Property Tax Exchange Agreement,
+21 Exhibit A, Note 5). Section 2.2.4 of the Property Tax Exchange Agreement further provides:
+
+22 "Irvine agrees that while the parcels of Base property the County is to receive will
+
+23 be annexed to Irvine, that notwithstanding said fact, Irvine will zone County's parcels and designate them in Irvine's General Plan, in accordance with the County's designation. In addition, County shall retain exclusive land use control over said
+24 parcels, and shall be entitled to place any development upon said parcels the County
+
+25 shall determine to be desirable for County's needs, as though said property remained unincorporated, without the obligation for payment to Irvine for any permit fees or
+
+26 other mitigation/impact fees, other than in Section 2.2.5, including but not limited to the following uses, all of which Irvine agrees with." "The uses listed in Section 2.2.4 include animal shelters, environmental health facilities, automotive/equipment repair
+27 facilities, child care facilities, youth and family resource center, law enforcement training facilities, emergency shelters, transitional shelter care facilities, children and
+28 family service centers, business offices, warehouses, storage facilities, vehicle parking and storage facilities, heavy equipment maintenance and storage, and field
+Rutan & Tucker, LLP -10-
+attorneys at law 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 12
+
+-d operation and maintenance facilities."
+
+2 33. If, and to the extent, sections 2.2.3 and 2.2.4 of the Property Tax Exchange
+3 Agreement are ultimately determined to be complete and limitless delegations of City Councilmanic
+4 land use authority over the Site (and 100-Acre Parcel) to the County, or its "designees, lessees, or
+
+5 concessionaires. " (Property Tax Exchange Agreement, section 2.2.3.1), the Property Tax
+6 Exchange Agreement, or at least those provisions thereof, would constitute an abdication of the
+7 City's Police Power, a violation of numerous public hearing, public participation, and transparency
+8 requirements and an unlawful delegation of police power constitutionally held by the City Council
+9 to external public agencies or even private parties, and thus void and unenforceable.
+
+10 34. Recognizing the potentially unlawful nature of an unbridled grant of police power
+11 land use discretion to the County, or its public and private designees, as potentially voiding the gratis
+12 extraction of the Site and potentially as well as other property dedicated to the County pursuant to
+13 the Property Tax Exchange Agreement, such as the 100-Acre Parcel, the County agreed that its use
+14 of the property shall be subject to, at a minimum, County land use controls including the County
+15 General Plan, sO that the County's use of the Site would be "as though said property remained
+16| unincorporated. . ." (Property Tax Exchange Agreement, Section 2.2.4). This language, which
+17  limits the County's "exclusive land use control over said parcels," subjects the County's use of the
+18 Site to, at a minimum, County land use controls applied on a uniform and non-discriminatory matter,
+19 which the County has also refused to recognize. One of those County land use controls, which
+20 would have been applicable on March 4, 2003 and is currently applicable, is Measure W.
+
+21 35. Measure W, which was a voter initiative amending the County's General Plan for all
+22 of the property located within the Base, limits the uses available on the Site to public facilities and
+23 prohibits, without exception, the uses proposed by the Project, as set forth in more detail herein.
+24 Any interpretation of Sections 2.2.3 and 2.2.4 of the Property Tax Exchange Agreement which
+25 exempts the Development Plan from the City's General Plan, the County's General Plan (including
+26 Measure W), the City's Zoning Code, and the County's Zoning Code clearly and unequivocally
+27 constitutes an abdication of the City's police power, a violation of numerous public hearing, public
+28 participation, and transparency requirements, and a delegation and abdication of the City's police
+
+Rutan & Tucker, LLP
+attorneys af law 2859/048170-1005 -11-
+
+12535821.2 a07/05/18 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 13
+
+1 power land use authority and is unenforceable.
+
+2 36. Assuming that Sections 2.2.3 - 2.2.4 do not constitute an unlawful delegation and
+3 abdication of the City's police power land use authority over the Site, those provisions must be
+4 | interpreted in a such a manner that the City retains meaningful land use authority over the Site.
+
+5 37. Recognizing that Sections 2.2.3 - 2.2.4, at a minimum, might be unlawful and
+6 unenforceable, the County attempted to include a "poison pill" a through the inclusion of Section 5,
+7 which reads, in relevant part:
+
+8 "The parties agree that the provisions of this agreement are dependent upon each
+9 other, and failure of any party to comply with any provision of this agreement shall render the entire agreement void. In particular, the provisions of this agreement
+10 relating to a property tax transfer under subparagraph 2.2.6 above shall be void and shall be of no force and effect, unless the parties fully comply with other provisions of this agreement."
+11
+
+12 In addition to an express recognition that the property tax transfer provisions of the Property
+13 Tax Exchange Agreement, which are located in Section 2.2.6, are independent of the other
+14 provisions of the Property Tax Exchange Agreement, this provision to the extent that it coerces
+15 compliance with an otherwise unlawful and unenforceable condition and requirement of the
+16 Property Tax Exchange Agreement, is likewise void, unlawful, and unenforceable.
+
+17 38. The City is informed and believes, and alleges thereon, that the City completed its
+18 annexation of the Base, specifically including the Site and the 100-Acre Parcel, in January 2004.
+
+19 39. On or about October 12, 2004, the City entered into a development agreement with
+20 the developers of the remainder of the former Base property, which was amended in December 2010
+21 (the Amended and Restated Development Agreement, or "ARDA").
+
+22 40. As set forth in the ARDA and evidenced by the Site's General Plan and zoning
+23 designations, as well as other long-range planning documents (e.g., the Southern California
+24 Association of Governments' Regional Transportation Plan/Sustainable Communities Strategy
+25 ("SCAG's RTP/SCS")), the Site has long been planned for approximately 44 acres of exclusive
+26 agriculture and preserved open space uses resulting in a maximum of 88 average daily trips
+27 ("ADTs"). The 100-Acre Parcel has long been planned for approximately 300,00 square feet of low
+28 impact governmental/institutional uses resulting in a maximum of 6,916 ADTs.
+
+Rutan & Tucker, LLP -12-
+atforneys at law 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/78 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 14
+
+a 41. However, by 2014, the County had drastically changed its long-standing position,
+2 and began processing the massive mixed use 100-Acre Project. Even the so-called "reduced
+
+4 density" version of the 100-Acre Project that was ultimately approved by the Board would result in
+the development of thousands of dwelling units and millions of square feet of office, retail and hotel
+5 uses, which will result in 35,719 ADTs, approximately five times the amount of traffic that has long
+
+6 been planned for and allocated to the 100-Acre Parcel. The County unilaterally decided to make
+7 this significant change to the well-established long-term plan for the 100-Acre Parcel, steadfastly
+8 refusing to allow the City to assert any authority, land use or otherwise, over the 100-Acre Project.
+
+9 42. The Project challenged here, which was processed concurrently with the 100-Acre
+10 Project, proposed the development of over 800 dwelling units, which will result in 4,963 ADTs,
+11  over fifty-six times the amount of traffic that has long been planned for and allocated to the Site.
+12 Again, the County unilaterally decided to make this significant change to the well-established long-
+
+13 term plan for the Site, steadfastly refusing to allow the City to assert any authority, land use or
+14 otherwise, over the Site.
+
+15
+
+16 The County's Processing and Approval of the 100-Acre Development Plan
+
+43. On or about January 28, 2014, the Board approved a Disposition and Development
+17 Agreement ("DDA") with Lowe, which set up the framework for the development of both the Site
+18 and the 100-Acre Parcel with private, for-profit residential, office, retail and hotel uses, whereby
+19 Lowe would take control of the 100-Acre Parcel from the County pursuant to the Master Ground
+20 Lease.
+
+21 44. The City is informed and believes, and alleges thereon, that the County and Lowe
+22 collectively prepared the 100-Acre Development Plan to begin the so-called entitlement phase, or
+23 "Phase 1". but Lowe was its principal creator. The City is further informed and believes, and alleges
+24 thereon, that nothing in the County's Zoning Code authorizes a "development plan" entitlement,
+25 which appears to have been created by Lowe and the County specifically the challenged Project and
+26 the 100-Acre Project. In substance, both Development Plans are substantially similar to a specific a
+27 plan.
+
+28 45.
+
+Rutan & Tucker, LLP On or about November 7, 2014, the County released the Notice of Preparation ("100-
+
+aftorneys at law -13-
+
+2859/048170-1005
+12535821.2 a07/05/18 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 15
+
+1  Acre NOP") of a program environmental impact report ("PEIR") to purportedly analyze the impacts
+2 of the development of the 100-Acre Parcel permitted by the proposed 100-Acre Development Plan.
+3 The 100-Acre Development Plan referenced in the 100-Acre NOP and ultimately analyzed as the
+
+4 "project" in the Final PEIR ("FPEIR") would have allowed the development of the Site with
+
+5 1,876,000 square feet of office uses, 2,103 dwelling units, 220,000 square feet of retail, and 242
+6 hotel rooms (the "100-Acre NOP Project").
+
+7 46. Under Table 2 of the 100-Acre NOP, which is entitled "County of Orange Required
+8 Approvals," the 100-Acre NOP lists the first required action as the County Planning Commission
+making a recommendation to the Board regarding certification of the FPEIR and approval (or denial)
+
+10 of the proposed 100-Acre Development Plan. The County Planning Commission was never
+11 permitted to consider or take action on the 100-Acre Project or the FPEIR, and never made any
+
+12 recommendation to the Board.
+
+13 47. On November 4, 2016, the County released the Draft Program EIR No. 620
+14 ("DPEIR") (State Clearinghouse No. 2014111019) for public review and comment. The County
+15 received many comments from concerned and interested parties pointing out the DPEIR's many
+
+16 significant problems.
+
+17 48. In particular, on December 19, 2016, the City submitted a detailed comment letter
+18 containing hundreds of specific comments setting forth the many deficiencies in the DPEIR and
+19 resulting violations of CEQA, as well as a cover letter summarizing selected major issues. The
+20 City's comment letter also alerted the County to the fact that the 100-Acre Project violated the
+21 Property Tax Exchange Agreement, both the City and the County's General Plans (including
+22 | Measure W), and the City's Zoning Code (as well as other City Code provisions, standards,
+23 requirements and guidelines).
+
+24 49. Among many other things, the City's letter makes clear that the entire premise upon
+25 which the County was processing approval of the 100-Acre Development Plan was flawed. The
+26 County took the position that regardless of the uses it approved for the 100-Acre Parcel, the 100-
+27 Acre Project was entirely exempt from the City's land use authority and all other potentially
+28 applicable land use regulations, standards and requirements. No provision of law supports the
+
+Rutan & Tucker, LLP -14-
+altorneys at law 2859/0481 70-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 16
+
+County's position that the proposed 100-Acre Project - a profit generating mixed use development
+
+2 is exempt from all City regulation, the City and County General Plans (including Measure W),
+3 and/or the Property Tax Exchange Agreement, As set forth herein, the County has taken the same
+
+4 position in response to similar comments made on Project EIR.
+
+50. In particular, the County's position appears to be based, at least in part, on an
+6 incorrect interpretation of Government Code sections 53090 through 53091. Those sections would
+7 only be potentially applicable if the 100-Acre Parcel was being used for County governmental uses,
+8 and certainly have no application for the proprietary mixed use project approved by Respondents.
+9 (See, e.g., Board of Trustee v. City of Los Angeles (1975) 49 Cal.App.3d 45, 50.)
+
+10 51. The County's decision to process the 100-Acre Project - and now, the Project -
+11 under the assumption that it is not required to comply with the City's General Plan, Zoning Code or
+12 other land use regulations, standards, requirements or design guidelines also resulted in the DPEIR
+13 failing to analyze certain impacts and improperly concluding that a number of impacts are less than
+14 significant, when they are, in fact, significant and require mitigation. Further, the County's flawed
+15  premise also resulted in the DPEIR concluding that certain significant impacts are unavoidable,
+16 when, in fact, they are avoidable, and can be mitigated to a less than significant level by compliance
+17 with City requirements.
+
+18 52. On November 3, 2017, the County posted a Notice of Availability and publicly
+19 released the FPEIR (inoluding the Responses to Comments contained therein) which was to be
+20 considered by the Board - without County Planning Commission review - a mere eleven (11)
+21 calendar days later. The City, other commenters, members of the public, and the Board were all
+22 given less than two weeks to review the FPEIR's changes to the DPEIR, its 1,328 pages of
+23 Responses to Comments, and its 14,681 pages of new attachments that were not included in the
+24 DPEIR. As set forth below, the County followed this same truncated public procedure when
+25 approving the Development Plan for the Project.
+
+26 53. The FPEIR's Responses to Comments were, in large part, nonresponsive to the issues
+27 raised by the City in its December 19, 2016 letter, and were also nonresponsive to issues raised by
+28 other commenting parties. Further, the FPEIR failed to correct any of the deficiencies in the DPEIR
+
+Rutan & Tucker, LI.P -15-
+altorneys at law 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 17
+
+set forth in the City's December 19, 2016 comment letter.
+
+2 54. Even though the City had an extremely short time frame in which to review the
+3 FPEIR - and in particular, its 381 specific responses to the City's comments, along with thirteen
+
+4 "topical responses" to issues raised by the City and others on November 13, 2017, the City
+
+5 submitted another letter to the County, pointing out the many deficiencies that remained in the
+6 FPEIR, its inadequate Responses to Comments, and the need for the County to recirculate the FPEIR
+7 in light of the significant changes and additions to the FPEIR when compared to the DPEIR.
+
+8 55. On November 14, 2017, despite requests from numerous parties to delay
+9 consideration of the Project and FPEIR to allow both the public and the Board adequate time to
+10 review the thousands of pages of new material included in the FPEIR, the Board considered the 100-
+11 Acre Project at a public hearing. The Board also ignored requests from the public to allow the
+12 County Planning Commission to consider the Project and FPEIR first, and make recommendation(s)
+13 concerning the same.
+
+14 56. At the Board's November 14, 2017 hearing, staff recommended that the Board certify
+15 the FPEIR and approve the 100-Acre Project, although staff recommended that the Board approve
+16 the so-called Reduced Intensity and Reduced Density Alternative ("RDA"), discussed as Alternative
+173 to the NOP Project in FPEIR. The RDA - and ultimately, the version of the 100-Acre Project that
+18 was approved - would allow development of 1,000,000 square feet of office uses, 1,998 dwelling
+19 units of residential, 200,000 square feet of retail, and 242 hotel rooms, along with the associated
+
+20 infrastructure,
+
+21 57. Following the public hearing, the Board followed County staff's recommendation
+22 approved the Project by a 4-1 vote. As set forth above, the County's approval of the Project
+23 consisted of the approval the Resolution, which (a) certified the FPEIR; (b) adopted a Statement of
+24 Facts, Findings and Statement of Overriding Considerations for the FPEIR; (c) adopted an MMRP
+25 for the FPEIR; (d) approved the 100-Acre Development Plan, as modified by the RDA set forth as
+26 Alternative 3 in the FPEIR; and (e) authorized execution of the Master Ground Lease with Lowe in
+27 substantially the same form as is attached to the Resolution.
+
+28 58. Also on November 14, 2017, the County filed an NOD, which provided notice that
+
+Rutan & Tucker, LLP -16-
+attorneys et lew 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 18
+
+1 the Board certified the FPEIR and approved the RDA version of the Development Plan (Alternative
+2|3) as the Project.
+
+3 59. As expressly acknowledged by Respondents, the 100-Acre Project as approved will
+4 still result in a number of significant, unmitigated impacts. When compared with the 100-Acre NOP
+5 Project, the 100-Acre Project as approved does not avoid any significant impacts.
+
+6 60. Accordingly, the Statement of Facts, Findings and Statement of Overriding
+7 Considerations approved by Respondents, which are not supported by substantial evidence in the
+8 record, concluded that the 100-Acre Project would result in significant and unavoidable impacts on
+9 (i) air quality; (ii) land use and planning; (iii) population and housing; and (iv) transportation and
+10 traffic. A number of these impacts are avoidable, but Respondents unlawfully failed to impose
+11  feasible mitigation or adopt a less impactful alternative to reduce those impacts to a less than
+12 significant level.
+
+13 61. Further, Respondents' Statement of Facts, Findings and Statement of Overriding
+14 Considerations are inadequate as a result of the improper conclusion that a number of the 100-Acre
+15 Project's impacts are less than significant, when in fact they are significant and must be mitigated.
+16 For example, under the City's standards - which the County chose to ignore - the 100-Acre Project's
+17 | impacts on recreation are in fact significant, yet they are unmitigated and no finding was made that
+18 the 100-Acre Project's impacts on recreation are outweighed or overridden by the Project's
+19 purported benefits.
+
+20 The County's Processing and Approval of the West Alton Development Plan
+
+21 62. The City is informed and believes, and alleges thereon, that the County and Lowe
+22 collectively prepared the Development Plan, but Lowe was its principal creator. The City is further
+23 informed and believes, and alleges thereon, that nothing in the County's Zoning Code authorizes a
+24 "development plan" entitlement, which appears to have been created by Lowe and the County
+25 specifically for this Project and the 100-Acre Project. As alleged above, the Development Plan is
+26 substantially similar to a specific plan.
+
+27 63. On or about December 19, 2014, the County released the Notice of Preparation
+28 (*NOP") of an environmental impact report ("EIR") to purportedly analyze the impacts of the
+
+Rutan & Tucker, LLP -17-
+altorneys at law 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 19
+
+Pd development of the Site permitted by the proposed Development Plan. The Development Plan
+2 referenced in the NOP would have allowed 970 multi-family units at with an average density of
+3 approximately 30 units per acres (the "NOP Project"). Ultimately, the FEIR analyzed an 803 unit
+4 (multi-family development with an average density of approximately 25 units per acre.
+
+5 64. Under Table of the NOP, which is entitled "County of Orange Required
+6 Approvals," the NOP lists the first required action as the County Planning Commission making a
+7 recommendation to the Board regarding certification of the FEIR and approval (or denial) of the
+8 proposed Development Plan. However, the County Planning Commission was never permitted to
+9 consider or take action on the Project or the FEIR, and never made any recommendation to the
+
+10 Board.
+
+11 65. On December 9, 2016, the County released the Draft EIR No. 621 ("DEIR") (State
+12 Clearinghouse No. 2014121065) for public review and comment. The County received many
+13 comments from concerned and interested parties pointing out the DEIR's many significant
+14 problems. A number of commenters appeared to be shocked by both the Project's proposed use
+15 when compared to what has long been publicly planned for the Site as well as the complete disregard
+16 for the Wildlife Corridor that runs through the middle of the Project, and the Project's resulting
+17 significant impacts on biological resources.
+
+18 66. In particular, on February 9, 2017, the City submitted a detailed comment letter
+19 containing hundreds of specific comments setting forth the many deficiencies in the DEIR and
+20 resulting violations of CEQA, as well as a cover letter summarizing selected major issues. Again.
+21 the City's comment letter also alerted the County to the fact that the Project violated the Property
+22 Tax Exchange Agreement, both the City and the County's General Plans (including Measure W),
+23 and the City's Zoning Code (as well as other City Code provisions, standards, requirements and
+24  guidelines).
+
+25 67. Among many other things, the City's letter makes clear that the entire premise upon
+26 which the County was processing approval of the Development Plan was flawed. The County has
+27 taken the position that regardless of the uses it approves for the Site, the Project is entirely exempt
+28 from the City's land use authority and all other potentially applicable land use regulations, standards
+
+-18- Rutan & Tucker, LLP
+attorneys at lew 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 20
+
+1 and requirements. No provision of law supports the County's position that the proposed Project -
+2 a profit generating residential development - is exempt from all City regulation, the City and County
+3 General Plans (including Measure W), and/or the Property Tax Exchange Agreement.
+
+4 68. In particular, as was the case with the 100-Acre Project, the County's position
+
+5 appears to be based, at least in part, on an incorrect interpretation of Government Code sections
+
+6 53090 through 53091. Those sections would only be potentially applicable if the Site was being
+
+7 used for County governmental uses, and certainly have no application for the private, for-profit
+
+8 residential Project approved by Respondents here. (See, e.g., Board of Trustee v. City of Los Angeles
+9 (1975) 49 Cal.App.3d 45, 50.)
+
+10 69. The County's decision to process the Project under the assumption that the Project is
+11 not required to comply with the City's General Plan, Zoning Code or other land use regulations,
+12 standards, requirements or design guidelines also resulted in the DEIR failing to analyze certain
+13 impacts and improperly concluding that a number of impacts are less than significant, when they
+14 are in fact significant and require mitigation. Further, the County's flawed premise also resulted in
+15 the DEIR concluding that certain significant impacts are unavoidable, when in fact they are
+16 avoidable, and can be mitigated to a less than significant level by compliance with City
+17 requirements.
+
+18 70. The City's letter further pointed out that the Project EIR. engages in "piecemealing"
+19 by segmenting the environmental review of the Project and the 100-Acre Project into two separate
+20 EIRs. Indeed, the EIRs were even processed concurrently, as both the draft and final EIR for the
+21 Project were released mere months after the draft and final EIR for the 100-Acre Project were
+22 released, respectively. As a result, the true impacts of the Project were not fully analyzed and
+23 mitigation measures that may have mitigated potentially significant impacts could not be imposed.
+
+24 71. The City's letter also notes that the DEIR's discussion of so-called "Development
+25 Plan measures" consistently and unlawfully compresses its impact analysis with its analysis of
+26 mitigation measures. As a result, the DEIR improperly concludes that a number of impacts are less
+27 than significant without first providing a full discussion and analysis of the potential impact before
+28 the implementation of any Development Plan measures.
+
+Rutan Tucker, LLP -19-
+altorneys at law 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 21
+
+1 72: The City's comments also pointed out a significant number of legal deficiencies
+2 (both CEQA and otherwise), factual errors, incomplete analysis and other problems with the DEIR.
+3 In particular, the City detailed the DEIR's many deficiencies relating to its analysis and conclusions
+4 regarding the Project's impacts on aesthetics, air quality, biological resources, geology and soils,
+
+5 greenhouse gas emissions, hazards and hazardous materials, hydrology and water quality, land use
+6 and planning, light and glare, noise, population and housing, public services, recreation/parkland,
+7 transportation and traffic, cumulative impacts, and project alternatives.
+
+8 73, The City's letter, as well as a comment letter from the United States Fish and Wildlife
+9 Service, also pointed out that the Project will have a severely detrimental impact on the viability of
+10 the Wildlife Corridor by placing high density residential uses directly adjacent to the Wildlife
+11 Corridor and incorrectly states that the impact is less than significant. As a result, the a DEIR does
+12 not study meaningful alternatives and fails to provide mitigation measures that mitigate the
+13 potentially significant impacts.
+
+14 74. On May 25, 2018, the Friday before the Memorial Day weekend, the County posted
+15 a Notice of Availability and publicly released the FEIR (including the Responses to Comments
+16 contained therein) which was to be considered by the Board - without County Planning Commission
+17 review-a mere eleven (11) calendar days later. The City, other commenters, members of the public,
+18 and the Board were all given less than two weeks to review the FEIR's changes to the DEIR, its 694
+19 pages of Responses to Comments, and its 19,930 pages of new attachments that were not included
+20 in the DEIR.
+
+21 75. The FEIR's Responses to Comments were, in large part, nonresponsive to the issues
+22 raised by the City in its February 9, 2017 letter, and were also nonresponsive to issues raised by
+23 other commenting parties. Further, the FEIR failed to correct any of the deficiencies in the DEIR
+24 discussed above and set forth in the City's February 9, 2017 comment letter concerning the same.
+
+25 76. Even though the City had an extremely short time frame in which to review the FEIR
+
+26 and in particular, its 234 specific responses to the City's comments, along with eleven "topical
+27 responses" to issues raised by the City and others - on June 4, 2018, the City submitted another
+28 letter to the County, pointing out the many deficiencies that remained in the FEIR, its inadequate
+
+Rutan & Tucker, LLP -20-
+attorneys al law 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821,2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 22
+
+1 Responses to Comments, and the need for the County to recirculate the FEIR in light of the
+2 significant changes and additions to the FEIR when compared to the DEIR.
+
+3 77. The City's June 4, 2018 letter summarized and cited to a number of specific
+
+4 responses to comments in the FEIR that are legally inadequate (see, Pub. Res. Code §§ 21153, 2109
+5 & 21092.5; CEQA Guidelines § 15088), including responses to the City's comments concerning
+6 land use, recreation/parkland, traffic and transportation (specifically including, inter alia, responses
+7 to the City's comments concerning the North Irvine Transportation Mitigation ("NITM") program,
+8 traffic thresholds, traffic generation assumptions, the scoping of the traffic impact analysis ("TIA"),
+9 and cumulative impacts), biological resources and the Wildlife Corridor, piecemeal environmental
+10 review, greenhouse gas emissions, air quality, noise, the Development Plan/Project descriptions,
+11 and the alternatives analysis. The City's June 4, 2018 letter also asserted that, at a minimum, the a
+12 FEIR sections related to affordable housing, traffic and transportation (including new appendices
+13 concerning the same), greenhouse gas emissions, and hydrology and water quality must be
+14 recirculated pursuant to Public Resources Code section 21092.1 and CEQA Guidelines section
+15 15088.5.
+
+16 78. On June 5, 2018, despite requests from numerous parties to delay consideration of
+17 the Project and FEIR to allow both the public and the Board adequate time to review the thousands
+18 of pages of new material included in the FEIR, the Board considered the Project at a public hearing.
+19 The Board also ignored requests from the public to allow the County Planning Commission to
+20 consider the Project and FEIR first, and make recommendation(s) concerning the same.
+21 79. At the Board's June 5, 2018 hearing, County staff recommended that the Board
+22 certify the FEIR and approve the Project as proposed with 803 multi-family residential units.
+23 80. Following the public hearing, the Board followed County staff's recommendation
+24 approved the Project by a 3-1 vote. As set forth above, the County's approval of the Project
+25 consisted of the approval of the Resolution, which (a) certified the FEIR; (b) adopted a Statement
+26 of Facts, Findings and Statement of Overriding Considerations for the FEIR; (c) adopted an MMRP
+27 for the FEIR; and (d) approved the Development Plan,
+28 81. Also on June 5, 2018, the County filed an NOD, which provided notice that the Board
+
+Rutan & Tucker, LLP -21-
+alforneys at law 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 23
+
+1 certified the FEIR and approved the Development Plan as the Project.
+
+2 82. As expressly acknowledged by Respondents, the Project as approved will result in a
+3 number of significant, unmitigated impacts. In particular, the Statement of Facts, Findings and
+4 Statement of Overriding Considerations approved by Respondents, which are not supported by
+5 substantial evidence in the record, concluded that the Project would result in significant and
+6 unavoidable impacts on (i) air quality; (ii) land use and planning; (iii) population and housing;
+7 (iv) transportation and traffic; and (v) hydrology and water quality. A number of these impacts are
+8 avoidable, but Respondents unlawfully failed to impose feasible mitigation or adopt a less impactful
+9 alternative to reduce those impacts a to a less than significant level.
+
+10 83. Further, Respondents' Statement of Facts, Findings and Statement of Overriding
+11 Considerations are inadequate as a result of the improper conclusion that a number of the Project's
+12 impacts are less than significant, when in fact they are significant and must be mitigated. For
+13 example, under the City's standards - which the County chose to ignore - the Project's impacts on
+14 | recreation are in fact significant, yet they are unmitigated and no finding was made that the Project's
+15 impacts on recreation are outweighed or overridden by the Project's purported benefits. The
+16 Project's impacts on biological resources are also significant, and must be mitigated.
+
+17
+
+18 FIRST CAUSE OF ACTION
+
+19 84. (Writ of Mandate - Violations of CEQA)
+
+20 l contain ins paragraphs 1 through 83 above.
+
+21 85. The City realleges and incorporates by this reference each and every allegation
+
+Respondents violated CEQA and the CEQA Guidelines by certifying an EIR for the
+22 Project that is inadequate and fails to comply with the requirements of CEQA and the CEQA
+23| Guidelines. The FEIR contains deficient analysis and/or conclusions in its analysis of
+
+24 environmental issue-area/impact category. •.e 181 a...
+
+25 86. every
+
+Respondents and Real Parties violated CEQA, and the approval of the Resolution, e.
+
+26 specifically including Respondents' certification of the FEIR, must be rescinded for the following -***-:
+
+27 non-exclusive reasons:
+
+28
+
+Rutan & Tucker, LLP A.
+
+attorneys at law 2859/048170-1005
+12535821.2 a07/05/18 The FEIR fails to fully analyze the Project's potential impacts related to land
+
+-22-
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 24
+
+use by, inter alia, incorrectly assuming that the Project is exempt from City regulation
+
+2 (including the City's General Plan, Zoning Code, and all other standards, requirements,
+
+3 regulations and guidelines), failing to analyze the Project's consistency with the County's
+General Plan (including Measure W). The FEIR further fails to make a good-faith effort at
+fully disclosing the Project's conflicts with applicable land use plans, policies and
+1o regulations and the resulting impacts;
+
+7 B. The FEIR fails to impose feasible mitigation relating to its impacts on land
+
+8 use, and/or adopt a feasible alternative that would reduce such impacts, instead relying solely
+o on vague and uncertain future amendments of the City's General Plan, Zoning Code,
+10 SCAG's RTP/SCS and other applicable land use documents and regulations, which does not
+
+11 actually modify the Project or lessen its impacts;
+
+12 C. The FEIR's comparisons of the Project to the City's 8.1 Trails and Transit-
+
+13 Oriented Development ("TTOD") zoning designation are misleading, inaccurate and fail to
+
+14 disclose the actual extent of the Project's impacts, and in particular, the full extent of its
+
+15 inconsistency with the City's TTOD Zoning, including but not limited to fact that the many
+
+16 uses, heights, and densities permitted by the Project would not be permitted or appropriate
+
+17 if the Project was governed by the City's TTOD Zoning. For this reason, among others, the
+18 FEIR's project description (and description of the Development Plan) is misleading and
+
+19 inaccurate;
+
+20 D. The FEIR improperly refuses to use City's General Plan, Zoning Code and
+
+21 other standards, requirements, regulations or guidelines as thresholds of significance, which
+22 results in an underestimation of impacts and incorrect conclusions regarding the significance
+
+23 of such impacts, including but not limited to the Project's impacts on air quality, aesthetics,
+
+24 biological resources, land use, recreation/parkland, public services, utilities and service
+
+25 systems, population and housing, greenhouse gas emissions, hazards and hazardous
+
+26 materials, noise, protected natural resources, and traffic/transportation. Accordingly, the
+
+27 FEIR fails to properly identify, disclose and mitigate a number of significant impacts;
+
+28 E. Based on its refusal to use City requirements and standards as thresholds of
+
+Rutan & Tucker, LLP -23-
+attorneys at law 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 25
+
+- significance, the FEIR improperly concludes that the Project's impacts on parkland would
+
+2 be less than significant because the Project would provide approximately 4 acres of parkland,
+
+3 which complies with County standards. However, City standards require approximately
+7.99 acres of parkland, meaning that under the correct threshold of significance, the Project's
+
+5
+
+6 impacts on parkland are significant, and must be mitigated. Further, the FEIR improperly
+considers setbacks (or "Focal Gardens" and "Pocket Parks") to be parkland, which do not
+
+7 qualify as such under City (or even County) standards. In sum, the FEIR's conclusion that
+
+8
+
+9 the Project's impact on parkland is less than significant is not supported by substantial
+evidence;
+
+10 F.
+
+11 The FEIR also refuses to require compliance with City requirements and
+
+12 standards relating to traffic and transportation, nor does it analyze the Project's impacts using
+
+13 City standards as thresholds of significance, resulting in additional undisclosed significant
+
+14 impacts. In particular, the FEIR does not comply with the City's Traffic Impact Analysis
+
+15 Guidelines (resulting in, among other things, a stale traffic analysis) and fails to accurately
+
+16 describe or implement the City's level of service ("LOS") standards, allowance policy or
+
+17 traffic significance thresholds, which require mitigation back to an acceptable LOS
+
+18 regardless of the ICU increase, unless the baseline condition is already at an unacceptable
+
+19 LOS, in which case the threshold of 0.02 or greater ICU increase applies. The FEIR also
+
+20 fails to disclose the Project's significant impact resulting from its inconsistency with the
+ARDA's ADT budget for the site, which the Project will exceed fifty-six times over;
+21 G. The FEIR also fails to
+
+22 disclose all impacts, improperly defers
+
+23 mitigation/imposes uncertain mitigation, and fails to adopt available, feasible mitigation
+
+24 relating to the Project's impacts on traffic and transportation by, among other things,
+
+25 erroneously assuming that the Project can participate in the NITM program, and by failing
+to address what happens if County is unable to reach agreement with the City and/or Caltrans
+
+26 regarding traffic mitigation measures;
+
+27 H. The FEIR further improperly refuses to acknowledge and/or fails to disclose
+
+28 that the Project is responsible for one hundred percent of the improvement costs for all
+
+Rutan & Tucker, LLP
+attorneys at law -24-
+
+2859/048170-1005
+12535821.2 a07/05/18 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 26
+
+intersections impacted by the Project except for those with fully funded NITM
+
+2 improvements (and in the case of partially funded NITM locations, one hundred percent of
+m t the unfunded balance), and defers feasible mitigation by not requiring such funding as
+mitigation for both project level and cumulative impacts;
+
+I. The FEIR improperly compresses its discussion of potential project impacts
+with mitigation measures, when it is instead required to first analyze a potential impact
+
+7 without mitigation, reach a significance conclusion, and then develop and impose mitigation
+
+8 measures. (See, Lotus v. Department of Transportation (2014) 3 Cal.App.4th 654). The
+o FEIR does this by relying on the implementation of "Development Plan measures" to reduce
+
+10 impacts to a less than significant level without mitigation, and does not discuss the potential
+
+11 Project impacts without/before the implementation of the "Development Plan measures,"
+
+12 which appear to be, in substance, CEQA mitigation measures. In particular, this defective
+
+13 analysis is present in the FEIR's analysis of impacts related to aesthetics, hazardous and
+
+14 hazardous materials, hydrology and water quality, light and glare, noise and public services,
+
+15 as well as other areas of the FEIR;
+
+16 J. The FEIR fails to study an adequate and/or reasonable range of alternatives.
+
+17 In particular, the FEIR failed to adequately analyze an alternative that minimizes the impacts
+
+18 on the Wildlife Corridor by not developing the area north of the Wildlife Corridor
+19 developing non-residential uses south of the Wildlife Corridor;
+
+20 K. The FEIR's analysis of the Project's impacts on aesthetics is incomplete, does
+
+21 not disclose all impacts, defers mitigation, and its conclusion that the Project will result in a
+
+22 less than significant impact on aesthetics is not supported by substantial evidence;
+
+23 L. The FEIR's analysis of the Project's impacts on biological resources is
+
+24 incomplete, does not disclose all impacts, defers mitigation, and its conclusion that the
+
+25 Project will result in a less than significant impact on aesthetics is not supported by
+
+26 substantial evidence;
+
+27 M. The FEIR's analysis of the Project's impacts on air quality is incomplete,
+
+28 does not disclose all impacts (including but not limited to emissions from the nearby
+
+Rutan & Tucker, LLP -25-
+attorneys at lew 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 27
+
+1 - railway), defers mitigation, improperly relies on future revisions to the Air Quality
+2 Management Plan ("AQMP*) to conclude that the Project would not obstruct
+
+implementation of the AQMP, and its conclusion that a number of air quality impacts will
+be less than significant is not supported by substantial evidence;
+
+N. The FEIR's analysis of the Project's impacts on geology and soils is
+6 incomplete, does not disclose all impacts, defers mitigation, and fails to separately analyze
+
+7 short term and long term impacts;
+
+8 O. The FEIR's analysis of the Project's impacts from greenhouse gas emissions
+
+9 is incomplete, does not disclose all impacts, defers mitigation, and among other things,
+10 improperly amortizes construction period greenhouse gas emissions, resulting in
+
+11 understating the Project's impacts. As a result, the FEIR's conclusion that the Project's
+
+12 impacts from greenhouse gas emissions are less than significant is not supported by
+
+13 substantial evidence;
+
+14 P. As discussed above, the FEIR'S analysis of the Project's impacts related to
+
+15 land use is incomplete, does not disclose all impacts, defers mitigation, and its impact
+
+16 conclusions are not supported by substantial evidence;
+
+17 Q. As discussed above, the FEIR's analysis of the Project's impacts related to
+
+18 recreation is incomplete, does not disclose all impacts, defers mitigation, and its conclusion
+
+19 that such impacts would be less than significant is not supported by substantial evidence;
+20 R. The FEIR's analysis of the Project's impacts on public services is incomplete,
+
+21 does not disclose all impacts, defers mitigation, and its conclusion that such impacts would
+
+22 be less than significant is not supported by substantial evidence, particularly because the
+
+23 FEIR relies on the City's public services (e.g., police and fire services) without requiring
+
+24 compliance with City Code, standards and requirements, nor does it impose any contribution
+
+25 for funding for additional services required by the Project as mitigation;
+
+26 S. As discussed above, the FEIR's analysis of the Project's impacts related to
+
+27 traffic and transportation is incomplete, does not disclose all impacts, defers mitigation, and
+
+28 its impact conclusions are not supported by substantial evidence. The FEIR also fails to
+
+Rutan & Tucker, LLP
+altorneys at law -26-
+
+2859/048170-1005
+12535821.2 a07/05/18 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 28
+
+1 mitigate the Project's cumulative impacts on traffic and transportation;
+2 T. The FEIR's analysis of the Project's impacts related to biological resources,
+3 hazards and hazardous materials, hydrology and water quality, light and glare, noise,
+4 population and housing, and utilities and service systems is incomplete, does not disclose all
+5 impacts, defers mitigation, and its conclusion that such impacts would be less than
+6 significant is not supported by substantial evidence;
+
+7 U. The FEIR's analysis of the Project's cumulative impacts related to all
+8 environmental issue-areas/impact categories does not disclose all impacts, defers mitigation,
+9 and its impact conclusions concerning the same are not supported by substantial evidence;
+10 V. The FEIR contains improper deferral of environmental analysis, such that the
+11 full scope of environmental impacts was neither analyzed nor disclosed nor mitigated prior
+12 to the certification of the FEIR, and there is an absence of substantial evidence demonstrating
+13 the adequacy of mitigation to reduce the Project's potentially significant environmental
+14 impacts to a level of insignificance;
+
+15 W. The FEIR improperly defers of mitigation, such that the efficacy of mitigation
+16 cannot be adequately judged and, therefore, the conclusion that various impacts are
+17 "*mitigated to below a level of significance" cannot be verified, and improperly relies on
+18 mitigation that has no articulated standards;
+
+19 X. The FEIR's decision to rely on thresholds of significance not based on or in
+20 conflict with City Code, requirements, standards, or guidelines is not supported by
+21 substantial evidence;
+
+22 Y. Respondents' Findings of Fact and Statement of Overriding Considerations
+23 approved by Respondents are legally and factually deficient, and not supported by
+24 substantial evidence in the administrative record. Respondents also failed to adopt findings
+25 to justify the Project's unmitigated, significant impacts in a number a of areas because the
+26 FEIR improperly concluded that those impacts are less than significant, including but not
+27 limited to impacts on land use, greenhouse gas emissions, public services and
+28 recreation/parkland;
+
+Rutan & Tucker, LLP -27-
+altorneys at law 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 29
+
+* *a1 -...
+
+p Z.
+
+2 The FEIR's Responses to Comments are nonresponsive and/or otherwise
+
+u A 0 legally inadequate, specifically including, but not limited to, the Responses to Comments
+regarding land use, recreation/parkland, traffic and transportation, greenhouse gas
+emissions, air quality, noise, the Development Plan/Project descriptions, and the EIR's
+
+6 alternative analysis, in violation of CEQA and CEQA Guidelines section 15088 in particular;
+
+AA.
+
+7 Significant new information was added to the FEIR, as compared to the
+
+8 DEIR, such that it was required to be recirculated for public review and comment, pursuant
+
+9 to CEQA Guidelines section 15088.5. The significant new information in the FEIR includes,
+
+10 but it is not limited to, additional information relating to the Project's impacts on affordable
+housing, traffic and transportation, and greenhouse gas emissions.
+
+11 BB.
+
+12 The FEIR improperly segmented and/or piecemealed its analysis by
+
+13 analyzing the Project's impacts separately from the similar, recently approved mixed use
+
+14 development of the 100-Acre Parcel (the 100-Acre Project), which is proposed by the same
+
+15 developer (Lowe) under the same flawed theory that the County's former Base properties
+
+16 are exempt from all land use regulation. The Project and the 100-Acre Project were covered
+
+17 under the same DDA and the Project's DEIR and the DPEIR for the 100-Acre Project were
+
+18 released in close succession, as was the Project's FEIR and the FPEIR for the 100-Acre
+
+19 Project. The development of both the Site and the 100-Acre Parcel should be analyzed
+
+20 together, and the County's failure to do so has resulted in a lack of disclosure and analysis
+
+21 of the full impacts of both the Project and the previously approved 100-Acre Project.
+
+87. As a result of the foregoing defects, Respondents prejudicially abused their discretion
+22 by certifying an EIR that does not comply with the requirements of CEQA. As such, Respondents'
+23 certification of the FEIR and approval of the Project must be set aside, Respondents' approval of
+24 the Resolution rescinded, and the Court should enjoin Respondents and Lowe from taking any
+25 further action with respect to the Project, until a timely writ of mandate is returned to this Court in
+26 compliance with CEQA, and the other applicable land use regulations violated by Respondents and
+27 Lowe.
+
+28 ///
+
+Rutan & Tucker, LLP
+attorneys at law -28-
+
+2859/048170-1005
+12535821.2 a07/05/18 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 30
+
+-
+
+2 SECOND CAUSE OF ACTION
+
+3 (Writ of Mandate - Inconsistency with the City General Plan and Zoning Code)
+
+88. The City realleges and incorporates by this reference each and every allegation
+4 contained in paragraphs 1 through 87 above.
+
+5 89. All public agencies, including the County, have a mandatory duty to refuse to
+6 approve any private development project that is inconsistent with the General Plan of the City or
+7 County in which the development project is located. Likewise, all public agencies have a mandatory
+8 duty to refuse approval of any private development project that is inconsistent with the relevant
+9 property's zoning designation.
+
+10 90. There is no dispute that the Site is located within the jurisdiction of the City, and has
+11 been since it was annexed into the City in 2004.
+
+12 91. As acknowledged in the DEIR, the City's General Plan Land Use Element designates
+13 the Site as Orange County Great Park (PA 51) and contemplates no development on the Site. The
+14 803 multi-family unit residential development proposed by the Project is clearly inconsistent with
+15 the City's General Plan.
+
+16 92. As acknowledged in the DEIR, the City's Zoning Map identifies the Project site as
+17 1.1, Exclusive Agricultural, and 1.4, Preservation Area. The Exclusive Agriculture zoning district
+18 applies to land designated for agricultural use. The only permitted uses within the 1.1 zoning district
+19 are agricultural and accessory uses. The Preservation zoning district is intended to protect and
+20 maintain natural resources by permanently preserving its natural state with little to no modification.
+21 The permitted uses in the 1.4 zoning district are accessory uses, agriculture, caretaker's quarters,
+22 manufactured structure for up to two a years, and a wireless communication facility, The Project is
+23 likewise clearly inconsistent and does not comply with its Exclusive Agriculture and Preservation
+24  zoning designation.
+
+25 93. The County does not contend that the Project is consistent with the City's General
+26 Plan or Zoning, but instead relies on an argument that "the Project is not required to comply with
+27 the City or County General Plan policies or other similar plans and regulations."
+
+28 94.
+
+Rutan & Tucker, LLP However, because the Project proposes proprietary, non-governmental/institutional
+
+altorneys at law -29.
+
+2859/048170-1005
+12535821.2 a07/05/18 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1. Page 31
+
+uses that will be developed by Lowe, a private developer, the Project is in fact required to comply
+2 with the City's General Plan, as well as the City's Zoning Code, requirements, standards, policies,
+
+3 and other "similar plans and regulations", The Property Tax Exchange Agreement, Government
+4 Code sections 53090 and 53091, or any other provision that would purport to provide the County
+
+5 and/or Lowe with immunity from the City's General Plan, Zoning Code, and other City regulations
+6 do not apply and/or extend to a private developer or private project, like the Project here. The FEIR,
+7 and other documents relating to the Project make clear that the Project is Lowe's private
+8 development, and a the County is not a partner nor in a public private partnership with Lowe.
+9 95. Accordingly, because the Project is plainly inconsistent with the City's General Plan
+10 and does not comply with the Site's Exclusive Agriculture and Preservation zoning designation
+11 (neither of which are disputed), and a writ must issue overturning Respondents' approval of the
+12| Resolution. The County has abused its discretion by approving the Project.
+
+13 THIRD CAUSE OF ACTION
+
+14 (Writ of Mandate - Inconsistency with the County General Plan)
+
+15 96. The City realleges and incorporates by this reference each and every allegation
+16 contained in paragraphs 1 through 95 above.
+
+17 97. Respondents have a mandatory duty to comply with the County General Plan, and
+
+18 refuse to approve any development project that is inconsistent with its Land Use Element.
+
+19 98. The Project, as approved, authorizes uses of the Project that are not permitted by, and
+20 are inconsistent with, the County's General Plan, as amended by Measure W.
+
+21 99. The County has taken the position that, pursuant to the Property Tax Exchange
+22 Agreement, is permitted to "place any development upon said parcels the County shall determine to
+23 be desirable for County's needs, as though said property remained unincorporated." If the Site had
+24 "remained unincorporated," then it would be subject to the County's General Plan.
+25 100. The County's General Plan was amended by the voters of Orange County through
+26 the adoption of Measure W in 2002, approximately 1 year before the City and County entered into
+27 the Property Tax Exchange Agreement. Measure W states that it "amends the Orange County
+28 General Plan to authorize the closed [Base] to be used for non-aviation uses, including a multi-
+
+Rutan & Tucker, LLP -30-
+altorneys at law 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 32
+
+1 purpose central park, open space, nature preserve, universities and schools, cultural facility, and
+2 other interim and long-term uses described herein." (See, Measure W § A.) Conspicuously absent
+3 is any mention of high density multi-family residential uses.
+
+4 101. Indeed, it was contemplated in the public debate that "about 100 acres would stay
+5 under County control for various programs and to provide housing for the homeless." The voters
+6 have not since voted to amend, change or repeal Measure W.
+
+7 102. Accordingly, even if true that pursuant to the Property Tax Exchange Agreement, the
+8 County is somehow entitled to develop the Site with private, for-profit development as if the Site
+9 was unincorporated, the Project still is inconsistent with the County's General Plan, and therefore a
+10 writ must issue overturning Respondents' approval of the Resolution. The County has abused its
+11 discretion by approving the Project.
+
+12 FOURTH CAUSE OF ACTION
+
+13 (Writ of Mandate - Failure to Follow Mandatory Procedures)
+
+14 103. The City realleges and incorporates by this reference each and every allegation
+15 contained in paragraphs 1 through 102 above.
+
+16 104. While the "development plan" entitlement does not appear to exist in the County's
+17 Zoning Code, it is substantially similar, and for all intents and purposes, a specific plan.
+
+18 105. The County violated its mandatory duties and abused its discretion failing to submit
+19 the FEIR and the Project to the County Planning Commission for review and recommendation
+it 20 before it was submitted to the Board for review and approval, both in violation of state law and the
+21 City and County Codes. (See, Government Code § 65453; County Code § 7-9-5; City Code, Div. 2.)
+
+22 106. The County also violated its mandatory duties and abused its discretion by failing to
+23 hold the requisite number of publicly noticed hearings before certifying the FEIR and approving the
+24 Project.
+
+25 107. Accordingly, e writ must issue overturning Respondents' approval of the Resolution.
+
+26 FIFTH CAUSE OF ACTION
+
+27 (Breach of Contract and Anticipatory Breach of Contract Against Respondents)
+
+28 108. The City realleges and incorporates by this reference each and every allegation
+
+Rutan & Tucker, LLP -31-
+attorneys af law 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 33
+
+1 contained in paragraphs 1 through 107 above.
+
+2 109. Respondents' approval of the Project, and particularly the approval of the
+3 Development Plan, constitutes an anticipatory material breach and/or a current material breach of
+4 Sections 2.2.3 and 2.2.4 of the Property Tax Exchange Agreement in that the approved Development
+5 Plan provides for, authorizes, and allows uses of the Site, and portions thereof, which are not
+
+6 *Permitted Uses and Facilities," within the meaning of the Property Tax Exchange Agreement, or
+7 otherwise permitted.
+
+8 110. As alleged above, Respondents' approval of the Project authorizes, provides for, and
+9 allows uses upon the Site which are inconsistent with, among other things, the City's General Plan,
+10 the County's General Plan (including Measure W), the City Zoning Code, the County Zoning Code,
+11 or each of them, and, as a result, constitute material anticipatory and/or current breaches of Sections
+12 2.2.3 and 2.2.4 of the Property Tax Exchange Agreement.
+
+13 111. The fact that the residential uses proposed by the Project are not "Permitted Uses and
+14 Facilities" within the meaning of the Property Tax Exchange Agreement, and conflict with the other
+15 land use documents set forth above, is further evidenced by a statement made by the County CEO
+
+16 in an August 22, 2006 letter, in response to the Orange County Grand Jury Report:
+
+17 the County entered into a pre-annexation agreement and property tax agreement with the City of Irvine whereby the County agreed not to oppose Irvine's annexation
+18 of the Property. In exchange, Irvine agreed to the County sharing in a certain
+
+19 percentage of the property taxes as well as receipt of certain parcels of property, totaling approximately 240 acres to be used for certain County purposes such as Youth and Family Resource Center, an animal shelter, childcare facilities, law 20 enforcement training facilities, and an emergency shelter."
+
+21 112. The City has complied with each and every material provision of the Property Tax
+22 Exchange Agreement.
+
+23 SIXTH CAUSE OF ACTION
+
+24 (Declaratory Relief)
+
+25 113. The City realleges and incorporates by this reference each and every allegation
+26 contained in paragraphs 1 through 112 above.
+
+27 114. The City alleges and declares, and seeks a declaration of this Court as provided
+28  below, as follows:
+
+Rutan & Tucker, LLP -32-
+attorneys at law 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/18 OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 34
+
+- A.
+
+2 The Property Tax Exchange Agreement, and specifically Sections 2.2.3 and
+2.2.4 thereof, requires that the Site, the 100-Acre Parcel, and uses thereupon, are subject to,
+and remain subject to, the City's General Plan, the City's Zoning Code, the California
+Subdivision Law, and all other procedures applicable to all public/private developments in
+
+5
+
+6 the City provided, however, permitted uses, as defined and set forth in Section 2.2.4, shall
+be allowed on, and constitute permitted uses of, the Site and the 100-Accre Parcel.
+
+7 B.
+
+8 In the alternative, the Property Tax Exchange Agreement, and specifically
+
+9 Sections 2.2.3 and 2.2.4 thereof, requires that the Site and 100-Acre Parcel, and uses
+
+10 thereupon, are subject to, and remain subject to, the County's General Plan (including
+
+11 Measure W), the County's Zoning Code, the California Subdivision Law, and all other
+
+12 procedures applicable to all public/private developments in the County provided, however,
+
+13 permitted uses, as defined and set forth in Section 2.2.4, shall be allowed on, and constitute
+permitted uses of, the Site and the 100-Acre Parcel.
+
+14 C.
+
+15 Sections 2.2.3 and 2.2.4, and each of them, are unlawful, void, and
+unenforceable in that they, and each of them:
+
+16 (i) constitute an abdication of the City's police power, a violation of a
+17 numerous public hearing, public participation, and transparency requirements, and an unlawful
+18 delegation and abdication of the City Council's police power and land use authority in relation to
+19 the Site and the 100-Acre Parcel, and each and every portion thereof, and/or an unlawful attempt to
+20  bind future City Councils in relation to their exercise(s) of police power and land use authority;
+
+21 (ii) exceed the authority granted to local agencies in relation to the
+22 negotiation and approval of property tax transfer or exchange agreements as provided by Revenue
+23 & Taxation Code §g 99 and 99.02;
+
+24 D.
+
+25 The invalidation of Sections 2.2.3 and 2.2.4 of the Property Tax Exchange
+
+26 Agreement, and/or each of them, will not and shall not void or otherwise render the Property
+
+27 Tax Exchange Agreement, with the exception of those two sections thereof, of no force and
+
+28 effect in that the invalidation of otherwise lawful provisions of the Property Tax Exchange
+
+Rutan & Tucker, LLP Agreement due to the invalidation of unlawful provisions of the Property Tax Exchange
+
+attorneys at law -33-
+
+2859/048170-1005
+12535821.2-a07/05/18 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 35
+
+1 Agreement would be void and violative of public policy.
+
+2 E. If, and to the extent, the Property Tax Exchange Agreement is declared void
+
+3
+
+4 and of no force and effect, the property tax transfer and exchange provisions thereof, as set
+
+un forth in Section 2.2.6, shall revert to the operative provisions set forth in the Master Property
+
+6 Tax Exchange Agreement 80-2035, dated October 28, 1980, or shall be established pursuant
+to R&T Code § 99(e)(1).
+
+7 F. If, and to the extent, the Property Tax Exchange Agreement is declared void
+
+8
+
+9 and of no force and effect pursuant to Section 5 thereof, or any other reason, County, its
+designees, lessees, or concessionaires, shall re-convey the Site and the 100-Acre Parcel, and
+
+10
+
+11 any other real or personal property transferred to the County, and each and every portion
+
+12 thereof, back to the City free of liens, leases, easements, financial encumbrances, non-utility
+easements, or other restrictions upon the property, or the use thereof, caused by, or associated
+
+13 with, the County's ownership, possession, and/or use, or any agent thereof, of the Site and
+
+14 the 100-Acre Parcel.
+
+15 115. The City is informed and believes, and alleges thereon, that Respondents dispute
+16 each and every one of the allegations and declarations set forth in paragraph 114 above, and that an
+17 actual controversy exists as to each and every allegation and declaration therein.
+
+18 SEVENTH CAUSE OF ACTION
+
+19 (Injunctive Relief)
+
+20 116. The City realleges and incorporates by this reference each and every allegation
+21 contained in paragraphs 1 through 115 above.
+
+22 117. If, and to the extent, it is determined that Respondents' approval of the Project and/or
+23  the implementation thereof, are violative of law, for whatever reason, the City does, and will,
+24 possess no effective legal remedy by way of damages or otherwise.
+
+25 118. If, and to the extent, the approval of the Resolution is deemed to violate law, for
+26 whatever reason, the City, as a legal entity, will be irreparably harmed, both in its individual capacity
+
+27 and as a representative of its residents, for, among other reasons, the reasons set forth below:
+
+28 A.
+
+Rutan & Tucker, LLP The integrity of the City's General Plan, Zoning Code, Building Code, and
+
+attorneys at law -34-
+
+2859/048170-1005
+12535821.2 a07/05/18 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 36
+
+-
+
+2
+
+3 B.
+
+D all other police power regulations of the City will be irreparably impaired and infirmed.
+
+5 The Project will interfere with, impair, and otherwise impede the
+
+6 development of the OCGP, and each and every portion thereof, by way of increased traffic,
+
+7 congestion, noise, pollution, irreparable damage to biological resources, and other impacts
+which will not be, and cannot be, adequately mitigated given the size, scope, nature, and
+composition of the Project.
+
+C.
+
+8
+
+9
+10 The Project will adversely impact the quality of life in adjacent areas, if not
+
+11 the entire City, based upon the traffic, congestion, noise, pollution, greenhouse gas,
+aesthetics, open space and parkland, irreparable damage to biological resources, and other
+negative impacts associated with high density residential properties.
+119. Because the County has artificially limited the nature of the Project as to require
+12 multiple and sequential additional proceedings, the City would be forced to bring multiplicity of
+13 lawsuits in order to address both individual and accumulated adverse impacts related to
+
+15 14 implementation of the Project, and the various components of the Project,
+
+120. The Court should therefore permanently enjoin Respondents and Lowe from
+16  implementing the Project, the previously approved development of the 100-Acre Parcel (the 100-
+17 Acre Project), or any development of either the Site or the 100-Acre Parcel with uses that are not
+18 consistent with the City's existing General Plan, Zoning Code or any other City regulations,
+19 standards, requirements or design guidelines.
+20 11
+21
+22
+
+23
+
+24
+
+25
+
+26
+
+27 04SSSSO -
+
+28
+
+Rutan & Tucker, LLP
+atforneys at law 2859/0481 70-1005
+12535821.2 a07/05/18 -35-
+PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 37
+
+1 PRAYER FOR RELIEF
+
+2 WHEREFORE, Petitioner and Plaintiff respectfully requests the entry of judgment as
+
+3 h follows:
+
+4 1. For the entry of judgment against Respondents and Lowe, and for the City;
+
+5 2. For the issuance of an alternative and/or peremptory Writ of Mandate directing
+6 Respondents to vacate and set aside the Resolution, specifically including a writ directing
+7 Respondents to vacate and set aside certification of the FEIR and approvals of the Development
+8 Plan, and Statement of Facts, Findings and Statement of Overriding Considerations, on the grounds
+9 that adequate CEQA compliance did not precede those actions, those actions did not comply with
+10 the City's General Plan, the County's General Plan, and the required City and County procedures
+11 for approving the Development Plan;
+
+12 3. For the issuance of an order that Respondents have breached the Property Tax
+13 Exchange Agreement;
+
+14 4. For a declaration that any development of the Site and the 100-Acre Parcel must
+15 comply with the City's General Plan, the City's Zoning Code, the California Subdivision Law, and
+16 all other procedures applicable to all public/private developments in the City, or in the alternative,
+17 a declaration that any development of the Site and the 100-Acre Parcel must comply with the
+18 County's General Plan, the County's Zoning Code, the California Subdivision Law, Measure W,
+19 and all other procedures applicable to all public/private developments in the County;
+
+20 5. A declaration that sections 2.2.3 and 2.3.4 of the Property Tax Exchange Agreement
+21 are unlawful, void, and unenforceable, and an order that the invalidation of those sections do not
+22 void or otherwise render the Property Tax Exchange Agreement, with the exception of those two
+23 sections, of no force and effect;
+
+24 6. For an injunctive relief precluding County or Lowe from taking any action to advance
+25 the Project, or to develop either the Site or the 100-Acre Parcel with any uses that are not consistent
+26 with the City's existing General Plan, Zoning Code, California Subdivision Law, and all other
+27 procedures applicable to all public/private developments in the City;
+
+28 7. For damages for breach of contract;
+
+Rutan Tucker, LLP -36-
+attorneys at law 2859/048170-1005 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH
+12535821.2 a07/05/18 OF CONTRACT; INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 38
+
+1 8. For the award to the City of its attorneys' fees incurred in this proceeding pursuant 2 to Code of Civil Procedure section 1021.5, Government Code section 800, and other applicable
+3 authority;
+
+4 9.
+
+5 10. For the award to the City of its costs of suit incurred in this proceeding; and For such other and further relief as the Court deems just and proper.
+6 Dated: July 5, 2018
+7 RUTAN & TUCKER, LLP JEFFREY T. MELCHING
+
+8 WILLIAM M. MARTICORENA
+ALAN B. FENSTERMACHER
+
+=70 By: /s/ Jeffrey T. Melching
+Jeffrey T. Melching, City Attorney Attorneys for Plaintiff/Petitioner CITY OF IRVINE
+
+12 Deemed verified pursuant to Code of Civil
+
+13 Procedure section 446
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Rutan & Tucker, LLP
+altorneys et law -37-
+
+2859/048170-1005
+12535821.2 a07/05/18 PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR BREACH OF CONTRACT, INJUNCTIVE RELIEF AND DECLARATORY RELIEF
+Exhibit 1, Page 39
+
+RUTAN & TUCKER, LLP Jeffrey T. Melching (State Bar No. 180351) Exempt From Filing Fees Pursuant
+2 jmelching@rutan.com to Government Code § 6103
+William M. Marticorena (State Bar No. 77309) ELECTRONICALLY FILED
+3 bmarticorena@rutan.com Superior Court of California,
+Alan B. Fenstermacher (State Bar No. 278171) County of Orange
+
+4 afenstermacher@rutan.com 07/06/2018 at 05:13:00 PM
+611 Anton Boulevard, Suite 1400 Clerk of the Superior Court
+5 Costa Mesa, California 92626-1931 By Sarah Loose,Deputy Clerk
+Telephone: 714-641-5100
+6 Facsimile: 714-546-9035
+
+7 Attorneys for Plaintiff/Petitioner CITY OF IRVINE
+8
+
+9 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+10 FOR THE COUNTY OF ORANGE, CENTRAL JUSTICE CENTER
+11 CITY OF IRVINE, Case No. 30-2018-01003486-CU-BC-CXC
+
+12 Petitioner and Plaintiff, ASSIGNED FOR ALL PURPOSES TO:
+JUDGE WILLIAM CLASTER 13 VS. DEPT.: CX102
+
+14 COUNTY OF ORANGE, a political subdivision of the State of California; NOTICE OF ERRATA RE EXHIBIT A TO
+15 ORANGE COUNTY BOARD OF PETITION AND COMPLAINT
+
+SUPERVISORS; and DOES 1 through 25, 16 inclusive, Date Actin Filed: July 5,2018 Trial Date: None Set
+
+17 Respondents and Defendants
+
+18
+LOWE ENTERPRISES REAL ESTATE 19 GROUP, a California corporation; and ROES
+20 26 through 100, inclusive,
+Real Parties In Interest.
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+28 /1/
+
+Rutan & Tucker, LLP
+attorneys at law -1- 2523/048170-1005
+12568008.1 a07/06/18 NOTICE OF ERRATA
+Exhibit 1, Page 40
+
+1 TO ALL PARTIES AND TO THEIR ATTORNEYS OF RECORD:
+
+2 PLEASE TAKE NOTICE that Petitioner and Plaintiff City of Irvine ("City") inadvertently
+3 failed to attached Exhibit A to its Petition and Complaint ("Petition"), filed on July 5, 2018 in the
+above-captioned matter. A true and correct copy of Exhibit A, which is referenced in Paragraph 16
+5 of the Petition and incorporated by reference therein, has been attached hereto.
+
+6
+
+7 Dated: July 6, 2018 RUTAN & TUCKER, LLP
+JEFFREY T. MELCHING 8 WILLIAM M. MARTICORENA
+ALAN B. FENSTERMACHER 9
+10 By: /s/ Alan B. Fenstermacher
+Alan B. Fenstermacher 11 Attorneys for Plaintiff/Petitioner CITY OF IRVINE 12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Rutan & Tucker, LLP
+attorneys el law -2- 2523/048170-1005
+12568008.1 a07/06/18 NOTICE OF ERRATA
+Exhibit 1, Page 41
+
+RUTAN Jeffrey T. Melching Direct Dial: (714) 641-3422 RUTAN & TUCKER, LLP E-mail: jmelching@rutan.com
+
+July 3, 2018
+
+VIA PERSONAL SERVICE AND CERTIFIED MAIL, RETURN RECEIPT REQUESTED
+Hugh Ngyuen
+Clerk-Recorder
+County of Orange 12 Civic Center Plaza, Room 101 Santa Ana, CA 92701
+
+Re: Notice of Commencement Of CEQA Lawsuit - West Alton Parcel Development Plan
+Dear Mr. Ngyuen:
+This office serves as the City Attorney to the City of Irvine. This letter is provided to the County of Orange ("County") in accordance with Public Resources Code section 21167.5.
+Please take notice that on or before July 5, 2018, pursuant to Public Resources Code section 21167, the City of Irvine will file a Petition for Writ of Mandate and Complaint ("Petition") challenging the County's June 5, 2018, approval of the West Alton Parcel Development Plan (the "Development Plan") and its certification of the Final Environmental Impact Report No. 621 for the Development Plan ("FEIR"). The Petition will allege, among other things, that the County did not comply with the California Environmental Quality Act (Public Resources Code section 21000 et certified the FEIR. seq.) when it approved the proposed Project and
+
+Sincerely, RUTAN & TUCKER, LLP L44,
+
+cc: Sean Joyce, City Manager, City of Irvine
+
+611 Anton Blvd., Suite 1400, Costa Mesa, CA 92626 PO Box 1950, Costa Mesa, CA 92628-1950 714.641.5100l Fax 714.546.9035 Orange County Palo Alto | www.rutan.com Exhibit A, Paqe 78176-1005 Exhibit. Rages42
+
+JEFFREY T. MELCHING, ESQ. SBN: 180351 FOR COURT USE ONLY
+RUTAN & TUCKER LLP
+611 ANTON BOULEVARD, 14TH FLOOR COSTA MESA, CA 92626
+Attornoy For:
+TELEPHONE NO.: (714) 662-4655 FAX NO. (Optlonal): (714) 841-3485 E-MAIL ADDRESS (Opbional):
+LOS ANGELES SUPERIOR COURT - CENTRAL CIVIL WEST
+STREET ADDRESS: 600 Commonwealth Ave.
+MAILING ADDRESS:
+CITY AND ZIP CODE LoS Angolos, CA.90005
+BRANCH NAME:
+
+PLAINTIFF(name.each):
+DEFENDANT(name each): CASE NUMBER:
+
+HEARING DATE; TME: DEPT.: Rof No, or Filo No.:
+PROOF OF DELIVERY 048170-1005 0680
+
+AT THE TIME OF SERVICE I WAS AT LEAST 18 YEARS OF AGE AND NOT A PARTY TO THIS ACTION, ANDI SERVED COPIES OF THE:
+Letter Dated July 3, 2018
+
+NAME OF PARTY; County of Orange, Attn: Hugh Nguyon, Clork-Recorder
+DELIVERED TO: Christina O.
+
+DATE & TIME OF DELIVERY: 07/03/2018
+02:10 pm
+
+ADDRESS, CITY, AND STATE: County of Orange
+12 Civic Center Plaza, Room 101
+Santa Ana, CA 92701
+
+MANNER OF SERVICE:
+Delivery to a Businese: Service was made by delivery to the business office; or by leaving the document(s) with his olerk over the age of 18 therein; or with a person having charge theroot; or If there was no such person In the office, by leaving them between the hours of nine in the morning and five in the afternoon, In a conspicuous place in the office, [CCP 1011]
+
+Fee for Service: 53.35
+vanonysRE County: I declare under penalty of perjury under the laws of The
+Registration No.: State of California that the foregoing Information contained in the return of service and statement of Nationwide Legal, LLC service fees is true and correct and that this declaration
+(12-234648) was executed on July 6,2018.
+12-234648
+200 W. Santa Ana Blvd., Suite 300 Santa Ana, CA 92701 (714) 558-2400 Signature:
+Ref: 048170-1005 0680 ANGELO T: LIBUNAO
+
+PROOF OF HAND DELIVERY Order#: 2808085KF/DROPSERVE
+Exhibit A, Page 4 Exhibit 1, Page 43
+
+.. ....
+
+TO: 9414 7266 9904 2058 9879 1Page 1 o:
+
+Hugh Ngyuen County of Orange
+
+eneahee 12 Civic Center Plaza, Room 101 Santa Ana, CA 92701' US
+
+SENDER: 048170.1005-0680
+muichina.
+
+PS Form 3800, January 2005
+RETURN
+RECEIPT Postage Caubo)
+
+SERVICE Cerlified Fee
+Return Receipt Feed
+Restricted Delivery
+Total Postage & ees
+USPS®
+Receipt for Certified Mail® ROSTMARK'OR DATE
+
+No Insurance Coverage Provided §
+
+Do Not Use for International Mail
+
+Exhibit A, Page 5
+Exhibit 1, Page 44
+
+- PROOF OF SERVICE
+
+2 (City of Irvine v. County of Orange, et al. Orange County Superior Court, Civil Complex Center Case No. 30-2018-01003486-CU-BC-CXC)
+4 STATE OF CALIFORNIA, COUNTY OF ORANGE
+
+I am employed by the law office of Rutan & Tucker, LLP in the County of Orange, State of 6 California. I am over the age of 18 and not a party to the within action. My business address is 611 Anton Boulevard, Suite 1400, Costa Mesa, California 92626-1931.
+On July 11, 2018, I served on the interested parties in said action the within:
+NOTICE TO THE ATTORNEY GENERAL RE COMMENCEMENT OF ACTION 9 UNDER THE CALIFORNIA ENVIRONMENTAL QUALITY ACT ("CEQA")
+10 as stated below:
+
+11 California State Office of the Attorney General
+12 1300 Street, 11th Floor Sacramento, CA 95814
+
+13 X
+
+14 (BY FEDEX) by depositing in a box or other facility regularly maintained by FedEx, an express service carrier, or delivering to a courier or driver authorized by said express service
+
+15 carrier to receive documents, a true copy of the foregoing document in sealed envelopes or packages designated by the oxpress service carrier, addressed as shown above, with fees for overnight delivery provided for or paid.
+16 Executed on July 11, 2018, at Costa Mesa, California.
+
+17
+
+18 I declare under penalty of perjury under the laws of the State of California that the foregoing is true and correct.
+
+19 Heather Dall
+
+20 (Type or print name) /s/ Heather Dall
+(Signature)
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+2523/048170-1005
+12583582.1 a07/11/18 -45-
+
+*1

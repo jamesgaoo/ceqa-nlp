@@ -1,0 +1,2492 @@
+VED IN CRIMINAL DOCKETING CA 35/4
+
+LATHAM & WATKINS LLP Christopher W. Garrett (Bar No. 100764)
+2 christopher.garrett@/w.com Daniel P. Brunton (Bar. No. 218615)
+3 daniel.brunton@/w.com
+12670 High Bluff Drive
+4 San Diego, California 92130
+Telephone: (858) 523-5400
+5 Facsimile: (858) 523-5450
+
+6 Paul N. Singarella (Bar No. 155393)
+
+7 paul.singarella@/w.com Emily Haws (Bar No. 319653) emily.haws@/w.com
+8 650 Town Center Drive, 20th Floor Costa Mesa, California 92626-1925 Telephone: (714) 540-1235 Facsimile: (714) 755-8290
+10
+Attorneys for Petitioners and Plaintiffs
+11 Jose Gameros, Reinaldo Gatica, Javier Rodriguez, California Restaurant Association, and Dart
+12 Container Corporation of California
+
+13 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+14 COUNTY OF SAN DIEGO
+
+15
+
+16 JOSE GAMEROS, REINALDO GATICA, CASE NO.
+JAVIER RODRIGUEZ, CALIFORNIA 17 RESTAURANT ASSOCIATION, AND DART CONTAINER CORPORATION OF NOTICE TO STATE OF CALIFORNIA
+OFFICE OF THE ATTORNEY
+18 CALIFORNIA, GENERAL OF COMMENCEMENT OF
+
+19 Petitioners and Plaintiffs, ACTION SEEKING WRIT OF MANDATE
+AND INJUNCTIVE AND DECLARATORY
+RELIEF FOR VIOLATION OF
+20 V. CALIFORNIA ENVIRONMENTAL QUALITY ACT
+21 CITY OF SAN DIEGO, AND DOES 1-100,
+Respondents and Defendants. [Pub. Resources Code § 21167.7]
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+LATHAM•WATKINS- US-DOCS\106413846.1 NOTICE TO THE J
+ATTORNEYS AT LAW
+1
+
+TO THE CALIFORNIA ATTORNEY GENERAL:
+
+2 The above-captioned petitioners hereby notify you that petitioners are commencing an
+
+3 action pursuant to the California Environmental Quality Act and other laws on this date.
+
+4 Petitioner is concurrently serving you with its VERIFIED PETITION FOR WRIT OF
+
+5 MANDATE AND COMPLAINT FOR INJUNCTIVE AND DECLARATORY RELIEF.
+
+6 Petitioners provide this notice pursuant to Public Resources Code section 21167.7 and Code of
+7 Civil Procedure section 388, not because the Attorney General or any entity that the Attorney
+
+8 to this suit. General represents is named as a party
+
+10 Dated: March 12, 2019 LATHAM & WATKINS LLP
+
+11
+
+12 By /s/Christopher W. Garrett
+
+13 Christopher W. Garrett
+Attorneys for Petitioners
+
+14 Jose Gameros, Reinaldo Gatica, Javier Rodriguez, California Restaurant
+
+15 Association, and Dart Container Corporation of California
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+LATHAM•WATKINSw US-DOCS\I06413846.1 ATTORNEYS AT LAW
+SAN DIEGO 2
+
+- LATHAM & WATKINS LLP
+Christopher W. Garrett (Bar No. 100764) 2 christopher.garrett@/w.com Daniel P. Brunton (Bar. No. 218615)
+daniel.brunton@/w.com
+
+4 12670 High Bluff Drive
+San Diego, California 92130
+
+5 Telephone: (858) 523-5400 Facsimile: (858) 523-5450
+
+6 Paul N. Singarella (Bar No. 155393)
+
+7 paul.singarella@/w.com Emily Haws (Bar No. 319653) emily.haws@lw.com 650 Town Center Drive, 20th Floor Costa Mesa, California 92626-1925 Telephone: (714) 540-1235
+
+10 Facsimile: (714) 755-8290
+
+11 Attorneys for Petitioners and Plaintiffs Jose Gameros, Reinaldo Gatica, Javier Rodriguez,
+
+12 California Restaurant Association, and Dart
+Container Corporation of California
+
+13 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+14 COUNTY OF SAN DIEGO
+
+15
+
+16 JOSE GAMEROS, REINALDO GATICA,
+JAVIER RODRIGUEZ, CALIFORNIA CASE NO.
+
+17 RESTAURANT ASSOCIATION, AND
+
+18 DART CONTAINER CORPORATION OF
+CALIFORNIA, VERIFIED PETITION FOR WRIT OF
+MANDATE AND COMPLAINT FOR
+
+19 Petitioners and Plaintiffs, INJUNCTIVE AND DECLARATORY
+RELIEF
+
+20 V.
+
+21 CITY OF SAN DIEGO, AND DOES 1-100, [Code Civ. Proc. S8 1060, 1085, 1094.5; Pub. Res. Code §§ 21000 et seq. (California
+
+Respondents and Defendants. Environmental Quality Act or "CEQA")]
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+LATHAM•WATKINS. US-DOCS\10568174.
+ATTORNEYS AT LAW
+SAN DIEGO VERIFIED PETTTION FOR WRI
+
+1 AND COMPLAINT 1
+
+1 I. INTRODUCTION
+
+2 1. The City of San Diego (*City") violated the California Environmental Quality Act
+
+3 ("CEQA") by adopting an ordinance to ban the distribution of polystyrene foam ("foam" or
+
+4 "EPS") food containers in San Diego (*Ordinance") without first preparing any environmental
+
+5 analysis with respect to the potential environmental impacts of the proposed ban.' Not a single
+
+6 sentence of analysis; simply two conclusory sentences stating that the ban is exempt from
+
+7 CEQA. Despite hundreds of pages of testimony, reports, and letters-including detailed expert
+
+8 letters, reports, and studies raising serious concerns regarding potentially significant
+
+9 environmental impacts from such a ban-the City disregarded all of the testimony, reports and
+10 studies, did not even ask to have it reviewed, and adopted a two-sentence conclusion without any
+
+11 analysis or support:
+
+12 The proposed Ordinance is exempt from the provisions of the
+13 California Environmental Quality Act (CEQA) pursuant to Section 15061(b)(3) of Title 14 of the California Code of Regulations
+
+14 because it can be seen with certainty that there is no possibility that the proposed Ordinance would have a significant adverse effect on
+15 the environment. Further, the proposed Ordinance iS exempt from CEQA on the separate and independent ground that it is an action of
+
+16 a regulatory agency (the City) for the "maintenance, restoration, enhancement, and protection of the environment" pursuant to
+
+17 Section 15308 of Title 14 of the California Code of Regulations, through the regulation of the distribution of expanded polystyrene
+
+18 products.
+
+19 2. Evidence before the City when it adopted the Ordinance uniformly showed that a
+
+20 ban on EPS, which is recyclable, will not reduce litter or trash and will result in polystyrene foam
+21 being substituted with replacement products that have far greater environmental impacts and
+
+22 result in increased litter and trash.
+
+23 3. This substitution effect and the significant environmental problems a ban creates
+
+24 IS well recognized by experts and regulators. Indeed, as was presented in testimony and reports
+
+25 to the City Council, three California State agencies- the California Department of Toxic
+26 Substance Control, the California State Water Resources Control Board, and CalRecycle with
+
+27
+
+28 Polystyrene foam is sometimes referred to as expanded polystyrene or EPS.
+
+LATHAM•WATKINS US-DOCS\105681742 VERIFIED PETITION FOR WRIT
+ATTORNEYS AT LAW AND COMPLAINT FOR INJU
+SAN DIEGO 2 DECLARATORY RECI
+
+I broad expertise in hazardous waste, water quality, and recycling have specifically analyzed bans
+
+2 and rejected them as having potentially significant environmental impacts and being ineffective
+
+3 and counterproductive.
+
+4 4. The State Water Resources Control Board ("State Board"), the State of
+
+5 California's top water-quality regulator, in 2015 rejected a policy that would have encouraged
+6 bans statewide, finding after detailed study that bans cause significant environmental impacts
+7 because products that replace polystyrene foam after it is banned have significant environmental
+
+8 impacts:2
+
+9 [B]ans on polystyrene food containers would cause a shift to materials with other significant environmental impacts (University
+10 of California at San Diego 2006).
+
+11 In other words, the State's lead water quality regulator foundafter years of detailed technical
+12 study-that bans of polystyrene foam create significant environmental impacts. Yet the City,
+
+13 after no analysis, and without even acknowledging the existence of the State Board's analysis
+
+14 and conclusion (which was presented to the City Council), found that there is no possibility a ban
+
+15 would have significant impacts. This standing alone is enough for the Court to overturn the
+16 City's finding and to find that the City violated CEQA. CEQA does not allow the City to waive
+17 off the State Board's explicit finding that bans cause significant environmental impacts (made
+
+18 after years of technical analysis) with two conclusory sentences. The City's finding was not
+19 supported by substantial evidenceit was not supported by any evidence. rather, it ignored the
+
+20 mountain of evidence that bans do cause environmental impacts.
+
+21 5. Similarly, the California Department of Toxic Substances Control ("DTSC")
+
+22 found that bans "often create new problems when substitutions are made";3 and CalRecycle, as
+
+23 part of a detailed study on polystyrene commissioned by the Legislature, found that bans are "not
+
+24
+2
+25 Cal. State Water Res. Control Bd., Amendment to the Water Quality Control Plan for the Ocean Waters of California to Control Trash and Part 1 Trash Provisions of the Water Quality
+26 Control Plan for Inland Surface Waters, Enclosed Bays, and Estuaries of California A-19 (Apr. 7, 2015),
+27 https://www.waterboards.ca.gov/water_issues/programs/trash_control/docs/trash_a_040715.pdf
+3 Cal. EPA and Cal. Dep't of Toxic Substances Control, California Green Chemistry 28 Initiative Final Report 2 (Dec. 2008).
+
+LATHAM•WATKINS. US-DOCS\105681742 VERIFIED PETITION FOR WRIT O
+ATTORNEYS AT LAW AND COMPLAINT FOR
+SAN DIEGO 3
+
+an effective long-term solution.™4
+
+6. Members of the public, including the American Chemistry Council (*ACC"), Dart
+Container Corporation of California ("Dart Container Corporation," or "Dart"), and numerous
+
+4 small business owners and residents submitted hundreds of pages of evidenceincluding
+approximately twenty-five expert reports, scientific studies, and government studies containing
+
+6 detailed technical analysisshowing that banning the distribution of polystyrene foam may
+cause numerous significant environmental and health impacts and would not eliminate litter and
+will undermine recycling. The studies and reports showing that the ban may cause significant
+environmental impacts included reports by leading academics, consultants, and government
+
+10 agencies. Among the numerous studies and reports submitted regarding potential environmental
+
+11 impacts and the effectiveness of such a ban were reports from Dr. Mark Berkman, an expert in
+
+12 applied microeconomics, with a PhD from The Wharton School of the University of
+
+13 Pennsylvania, Ramboll, one of the world's leading environmental consultant firms, and The
+
+14 Acheson Group, one of the nation's foremost experts on food safety. Also studies by the State
+
+15 Board, California's leading water-quality regulator, and Dr. Mark Grey, an expert with decades
+
+16 of expertise in trash and water quality were submitted.
+
+17 7. The City simply ignored the mountains of evidence presented to it -it ignored
+
+18 the findings of other agencies, it ignored the academic experts from prestigious institutions, and
+
+19 it ignored the dozens of technical and expert reports submitted to it. Not only did the City not
+
+20 prepare an environmental impact report, as CEQA requires, but it also failed to conduct any
+
+21 analysis of the Ordinance. There was no screening analysis, no initial study, no expert report-
+22 nothing but two sentences of conclusory findings with no analysis.
+
+23 8. The clear evidence presented to the City demonstrated that the proposed ban will
+24 have environmental impacts with respect to a host of environmental resources: increased energy
+25 consumption, increased greenhouse gas emissions, decreases in water quality, increases in
+26 marine litter, increased water use, increased regulated air emissions, increased forest products
+
+27
+
+28 Cal. Integrated Waste Mgmt. Bd., Use and Disposal of Polystyrene in California 6 (Dec. 2004), https://www2.calrecycle.ca.gov/Publications/Download/563.
+
+LATHAM•WATKINS US-DOCS\105681742 VERIFIED PETITION FOR WRIL OF MANI
+ATTORNEYS A AND COMPLAINT F
+SAN DIEGO 4
+
+consumption, and increases in the amount of material sent to landfill facilities. The expert
+2 analysis submitted to the City was very clear that the ban may have significant impacts that need
+to be analyzed in an environmental impact report. For example, Ramboll stated: "A ban on
+certain EPS products, as is being considered by the City, would result in potentially significant
+environmental impacts." And regarding specific impacts, the expert analysis concluded as
+
+6 follows:
+
+"[T]he increased use of substitute products could have, and is not necessarily limited
+
+8 to, significant environmental effects within the following CEQA technical areas:
+utilities and service systems, hydrology/water quality, biological resources, air
+10 quality, greenhouse gases ("GHGs"), aesthetics, and agriculture/forest resources. "*6
+11 "An EPS ban would impact the City's waste systems (e.g., recycling, composting,
+
+12 and landfill operations)."7
+
+13 "[I]ncreasing the prevalence of non-EPS plastics in use may increase marine litter."8
+
+14 "[S]ubstituting other single-use products in place of EPS will result in increased
+
+15 criteria air pollutant emissions."9
+
+16 "[S]ubstituting other single-use products in place of EPS will result in increased
+
+17 greenhouse gas emissions."10
+
+18 "[T]he proposed ban is very unlikely to achieve its stated purpose and very likely to
+
+19 have unintended consequences. These include higher levels of air pollution, water
+
+20 consumption, and material consumption. The ban will also discourage investment and
+
+21 innovation in efforts to recycle EPS."11
+
+22
+
+23 Ramboll, Research Regarding the Environmental Impacts of Substitutes to EPS 2 (Oct. 2018) (*2018 Ramboll Report").
+24 6 Id. at 2.
+25 Id.
+
+26 Id.
+Id.
+27 10 Id.
+28 11 The Brattle Grp., Letter Report 1 (Jan. 7, 2019) (*2019 Brattle Report").
+
+LATHAM•WATKINS… US-DOCSW105681742 VERIFIED PETITION FOR WRIT O
+ATTORNEYS AT LAW AND COMPLAINT F
+SAN DIEGO 5
+
+"A ban is likely to increase litter and trash ."12
+
+2 9. The City offered no explanation at all regarding its conclusion that the Ordinance
+
+3 would not have significant environmental impacts and that it was exempt. it And the City cannot
+
+4 assume that San Diego is a small jurisdiction so that what it does will not make much of a
+
+5 difference. Quite the contrary, with a population of approximately 1.4 million people, the City
+
+6 of San Diego is the second largest city in California, and the eighth largest in the United States.
+
+7 The City IS very large geographically-spanning 370 square miles, including 44 miles of
+
+8 shoreline. And the City is a significant economy in itself-its economy is approximately the size
+
+o of Portugal's. So when the City adopts a City-wide ban, the potentially significant
+10 environmental impacts are magnified. Again, the City did no analysis of the ban's potential
+
+11 impacts given the size of the City and its economy.
+
+12 10. Additionally, the ban is directly contrary to San Diego's recycling goals. EPS is
+13 recyclable. Many of the substitute products are not and have significant environmental and
+
+14 health issues. Indeed. in 2017, the City announced a program to recycle EPS, including "all
+
+15 foam food and drink containers."13 Now, the City is reversing course with no reasonable
+16 explanation and banning EPS, despite acknowledging that it is recyclable. By banning this
+
+17 recyclable material, the City is acting directly contrary to its own zero waste goals.
+
+18 11. The City's ban also undermines the City's Climate Action Plan ("CAP"), which
+19 includes "zero waste" as a key component. And the ban will increase use of local landfills which
+
+20 are already capacity constrained. Despite hundreds of pages of expert analysis showing that the
+21 ban may, and, in fact, will, have significant environmental impacts, the City simply ignored the
+22 evidence submitted to it showing that the ban is directly contrary to its own CAP.
+
+23 12. As described further below, in this suit, Petitioners ask the Court to require the
+
+24 City to set aside the Ordinance and to conduct an environmental impact report as CEQA requires
+
+25 before reconsidering the ban.
+
+26
+12 Ramboll, Follow-up to October 14 Memorandum Regarding Potential Impacts of EPS
+27 Ban Ordinance 5 (Jan. 7, 2019) (2019 Ramboll Report").
+13
+28 I Love a Clean San Diego, The Right Way to Recycle: Polystyrene Foam (Dec. 20, 2017), https://www.ilacsd.org/2017/12/20/the-right-way-to-recycle-polystyrene-foam/.
+
+LATHAM•WATKINS… US-DOCS\105681742 ATTORNEYS AT LAW VERIFIED PETITION FOR WRILOF
+
+SAN DIEGO AND COMPLAINT FOR I
+6
+
+- 13. The City needs to evaluate mitigation measures and alternatives in an
+2 environmental impact report, including the alternative of promoting and expanding recycling
+
+3 instead of banning a recyclable material.
+
+4 II. THE PARTIES
+
+5 14. Petitioner and Plaintiff Jose Gameros owns and operates Mariscos El Golosito, a
+6 small San Diego seafood restaurant that has been in business for more than 25 years.
+
+7 Gameros
+
+8 stated his opposition to the City's proposed polystyrene ban, prior to the City Council's adoption
+
+9 of the ban, by letter submitted to the City. Gameros has a direct and beneficial interest in the
+
+10 City's compliance with CEQA and in the protection of San Diego's environment.
+
+15.
+
+11 Petitioner and Plaintiff Reinaldo Gatica works at, and is the son of the owner of,
+Orlando's Taco Shop, a San Diego small business in operation for at least six years. Expanded
+12 polystyrene has been used at Orlando's Taco Shop for many years. Gatica sent the City of San
+
+13 Diego a letter expressing his opposition to the ban. Gatica has a direct and beneficial interest in
+14 the City's compliance with CEQA and in the protection of San Diego's environment.
+
+15 16. Petitioner and Plaintiff Javier Rodriguez is the owner and operator of Antojitos
+16 Colombianos, a San Diego small business for at least seven years.
+
+17 Prior to the City Council's
+adoption of the expanded polystyrene ban, Rodriguez sent the City of San Diego a letter
+18 expressing his opposition to the ban. Rodriguez has a direct and beneficial interest in the City's
+19 compliance with CEQA and in the protection of San Diego's environment.
+
+20 17. Petitioner California Restaurant Association ("CRA") is a not-for-profit trade
+21 association based in Auburn, California. CRA represents the interests of thousands of
+22 restaurants across California, including restaurants in San Diego that benefit from and rely on
+
+23 San Diego's unique coastal environment. CRA has a direct and beneficial interest in the City's
+24 compliance with CEQA and in the protection of San Diego's environment.
+
+25 18. Petitioner Dart Container Corporation of California is a Michigan Corporation,
+26 which has at all relevant times been in good standing and qualified to do business in California.
+
+27 Dart exhausted its administrative remedies. Dart Container Corporation manufactures foam
+28 products that are banned by the Ordinance. The Ordinance will therefore have a severe effect on
+
+LATHAM•WATKINS US-DOCS\105681742
+ATTORNEYS AT LAW
+SAN DIEGO VERIFIED PETITION FOR WRIT OF1
+
+7 AND COMPLAIN DEOEARANEN RELI
+
+l Dart Container Corporation's business in San Diego and Dart Container Corporation has a direct,
+
+2 substantial beneficial interest in this case.
+
+3 19. Respondent City of San Diego is a political subdivision of the State of California.
+
+4 The City IS the "lead agency" for the purposes of Public Resources Code section 21067, with
+5 principal responsibility for conducting environmental review of the Ordinance and complying
+6 with CEQA and other state laws.
+
+20. The Notice of Exemption does not identify any other real parties in interest, and
+therefore there is no requirement to name any additional real parties in interest as parties.
+
+o Petitioners are unaware of any other parties that CEQA requires as named real parties under
+10 applicable law or the true names and capacities of Respondents/Defendants/Real Parties
+
+11 fictitiously named herein as Does 1 through 100, inclusive, and sues such
+12 Respondents/Defendants/Real Parties by fictitious names. Petitioners will amend this Petition,
+
+13 with leave of the Court if necessary, to allege the fictitiously named
+14 Respondents/Defendants/Real Parties' true names and capacities if ascertained.
+
+15 III. JURISDICTION AND VENUE
+
+16 21. This Court has jurisdiction pursuant to Code of Civil Procedure sections 1060,
+
+17 1085, and 1094.5, and Public Resources Code sections 21168 and 21168.5.
+
+18 22. Petitioners performed all conditions precedent to filing this Petition and
+19 Complaint, including, but not limited to, exhausting all administrative remedies.
+
+20 23. Venue is proper in this Court because Respondent City of San Diego is located in
+
+21 the County of San Diego, and the violations of Petitioners' rights occurred in the County of San
+
+22 Diego.
+
+23 24. Petitioners have standing to assert their claims because they have a material a
+24 interest in ensuring that the City properly analyzes and mitigates the effects of the Ordinance.
+
+25 Petitioners have a legitimate interest in foam, plastics, recycling, and the environment.
+26 Petitioners have no plain, speedy, or adequate remedy at law.
+
+27
+
+28
+
+LATHAM&WATKINS US-DOCS\105681 VERIFIED PETITION FOR WRI
+ATTORNEYS A
+SAN DIEGO AND COMPLAINT FOR DECLARATOR
+
+l IV. FACTUAL BACKGROUND
+
+2 A. The City adopted its proposed ban with no CEQA review, despite substantial
+
+3 evidence that a ban may have significant environmental impacts and that
+
+4 CEQA exemptions do not apply.
+
+5 25. The City Council held the first reading of the Ordinance on October 15, 2018.
+
+6 26. A staff report accompanied the Ordinance. It contained a conclusory assertion-
+
+7 with no analysis-that the Ordinance is exempt from CEQA. The portion of the staff report
+
+8 addressing the ban's environmental impacts states in its entirety:
+The proposed Ordinance is exempt from the provisions of the
+2= California Environmental Quality Act (CEQA) pursuant to Section 15061(b)(3) of Title 14 of the California Code of Regulations because it can be seen with certainty that there is no possibility that the proposed Ordinance would have a significant adverse effect on 12 the environment. Further, the proposed Ordinance is exempt from CEOA on the separate and independent ground that it is an action of
+13 a regulatory agency (the City) for the "maintenance, restoration, enhancement, and protection of the environment" pursuant to Section 15308 of Title 14 of the California Code of Regulations, 14 through the regulation of the distribution of expanded polystyrene products. 15
+
+16 27. With the agenda packet that accompanied the draft Ordinance, the City also
+17 included a report by Equinox Project titled "Recommendations for Reducing or Banning Foam
+
+18 Food Containers." The report by the Equinox Project is a high-level report discussing foam bans
+19 generally. It is not a San Diego-specific analysis of potential impacts of banning foam, nor is it a
+20 cumulative-impacts analysis of bans across the state. Indeed, the report acknowledges that "the
+
+21 production of alternative food service containers may have : greater environmental impact than
+
+22 EPS production, since EPS requires relatively little energy and water to produce."
+23 28. Also included with the draft Ordinance was a resolution finding the Ordinance is
+
+24 exempt from CEQA. The resolution includes no analysis whatsoever, but finds "the Council of
+
+25 the City of San Diego, using its independent judgment, has determined that the Project will not
+
+26 have a significant effect on the environment." The resolution does not describe how the City
+
+27 made that finding or what evidence it was relying on. The resolution found the Ordinance
+
+28 exempt from CEQA under both the "common sense exemption" and under the Class 8 exemption
+
+LATHAM•WATKINS US-DOCS\105681742 VERIFIED PETTTION FOR WRIT OF AND COMPLAINT FOR INJL ATTORNEYS AT LAW
+SAN DIEGO 9
+
+for "actions taken by regulatory agencies, as authorized by state or local ordinance, to assure the
+
+2 maintenance, restoration, enhancement, or protection of the environment where the regulatory
+
+3 process involves procedures for protection of the environment." 14 Cal. Code Regs., § 15308.
+
+4 29. The City failed to do any environmental analysis on the ban despite substantial
+
+5 evidence that the public submitted that the ban may have significant environmental impacts and
+
+6 IS not exempt from CEQA. At the October 15, 2018 hearing, dozens of members of the public
+
+7 spoke or submitted letters to the City urging it not to it adopt the ban. ACC submitted letter
+
+8 urging the City to expand recycling of polystyrene foam, rather than banning this
+9 environmentally superior material. CRA submitted a presentation on behalf of its members
+
+10 showing that alternatives to EPS could be 145% more expensive than EPS. And approximately
+
+11 156 independent restaurants submitted letters urging the City not to adopt the ban.
+
+12 30. Also at the October 15, 2018 hearing, Dart Container Corporation submitted an
+
+13 extensive comment letter through its counsel. The letter and its attachments were approximately
+
+14 335 pages of analysis, technical reports, and expert materials-including two expert reports
+15 prepared specifically analyzing San Diego's proposed ban. The letter included approximately 11
+16 technical studies and papers supporting the comment letter and demonstrating how the ban will
+17 have significant environmental impacts. The expert studies show that product bans simply
+
+18 replace one type of trash with another without reducing overall trash and result in other,
+
+19 potentially more harmful, products ending up in waterways. Included with the comment letter
+
+20 were expert reports by Ramboll and The Acheson Group specifically analyzing the potential
+
+21 impacts of the Ordinance in the City of San Diego. The evidence submitted to the City showed
+22 that the Ordinance would result in environmental impacts including greater energy use, pollutant
+
+23 emissions, and water use, and further demonstrates that foam has life-cycle advantages over
+24 substitute products. In addition, the evidence showed that foam is recyclable, and a ban would
+25 undermine San Diego's ability to meet the recycling goals in the City's Zero Waste Plan and the
+26 GHG goals in the City's CAP. The report by The Acheson Group showed that, as a result of
+
+27 foam's lesser porousness and better insulating qualities, it offers greater protection against
+28 foodborne illness and communicable diseases than alternative single-use food service products.
+
+LATHAM&WATKINSw US-DOCS\105681742 VERIFIED PETITION FOR WRIT
+ATTORNEYS AT LAW
+SAN DIEGO 10 AND COMPLAINT FOR INJL
+
+Dart Container Corporation specifically explained in its comments that the City could not rely on
+
+2 a CEQA exemption, but was required to prepare an environmental impact report to study these
+and other potential impacts from the Ordinance.
+
+4 31. The City ignored all of the evidence submitted to it showing that the ban could
+have significant impacts. It did not conduct any CEQA analysis, and did not even respond to the
+materials submitted showing that the ban could have significant impacts.
+
+32. Despite the voluminous evidence showing that a ban a could have significant
+environmental impacts, on October 15, 2018, the City Council voted 5-3 to adopt the Ordinance.
+
+9 On the same day, the City Council adopted a resolution finding the Ordinance exempt from
+
+10 CEQA.
+
+11 33. Under the City Charter, the Ordinance required a second reading by the City
+
+12 Council for its adoption. San Diego City Charter § 275(c).
+
+13 34. On January 8, 2019, the City held a public hearing and a second reading of the
+
+14 Ordinance. Again, numerous small business owners testified against a proposed ban. Dart
+
+15 Container Corporation once again submitted comments asking the City to complete an analysis
+16 under CEQA before considering : ban and urging the City to look at alternatives such as
+
+17 recycling instead of a ban.
+
+18 35. Dart Container Corporation's letter for the January 8, 2019 hearing included
+
+19 approximately 14 expert reports, included approximately 1,318 pages of technical analysis,
+
+20 study, and reports, and further demonstrated that the ban may have significant environmental
+
+21 impacts. Two of the additional technical reports specifically analyzed potential impacts of the
+
+22 Ordinance in San Diego-a second report by Ramboll and a report by the Brattle Group.
+
+23 36. Dart Container Corporation's January 7, 2019 letter to the City and technical
+
+24 reports cite potential impacts from the Ordinance, including preventing the City from meeting its
+
+25 recycling goals in the City's Zero Waste Plan and the GHG goals in the City's CAP, increasing
+26 odor complaints from local composting facilities, and additional impacts regarding landfill space,
+
+27 biological resources, forest resources, air quality, hydrology and water quality, micro-litter, and
+28 increasing demand at landfills and composting facilities. The Ramboll report also explained that,
+
+LATHAM+WATKINS… US-DOCS\105681742 VERIFIED PETITION FOR WRIT OF
+ATTORNEYS AT LAW
+SAN DIEGO AND COMPLAINT FOR INJU
+11 DECLARATOR
+
+-
+
+2 based on Ramboll's survey, homeless shelters in San Diego use foam. Banning foam would
+
+3 impose greater costs on the shelters, and also deprive the vulnerable homeless population of a
+
+4 safe, sanitary, superior insulator-polystyrene foam. The ban could thus increase foodborne
+
+5 illness and have significant impacts related to public health, including the health of homeless
+persons. Once again, Dart Container Corporation (and other commenters) explained that the
+6 City could not rely on a CEQA exemption.
+
+7 37.
+
+8 As it had done in the prior hearing, the City simply ignored the evidence
+
+9 submitted to it showing that the ban may have significant environmental impacts. Despite the
+
+10 evidence that a ban may have numerous significant environmental impacts, at the January 8,
+
+11 2019 second reading of the Ordinance, the City voted 6-3 to adopt the Ordinance.
+
+38.
+
+12 Upon information and belief, the City Clerk transmitted the Ordinance to the
+
+13 Mayor on January 8, 2019. The Mayor declined to sign the Ordinance. Under the City's
+
+14 Charter, "final passage" of the Ordinance occurred on or about January 24, 2019 ten business
+
+15 days after the Clerk transmitted the Ordinance to the Mayor. San Diego City Charter § 280(c)(2)
+(Mayor "shall act upon each resolution or ordinance within ten business days of receiving the
+16 City Clerk's transmittal"); §295(a)(2) ("If the time for approval or veto by the Mayor has expired
+17 and no action has been taken by the Mayor, the date of expiration of that time shall be deemed
+18 the date of its final passage.").
+
+19 39. The City filed a notice of exemption under CEQA for the ordinance on
+20 February 6, 2019.
+
+21 40.
+
+22 Under its own terms, the Ordinance becomes effective "on the thirtieth day from
+and after its final passage"-which was on or about February 23, 2019. Similarly, by the
+23 Ordinance's own terms, the ban becomes effective 90 days after the Ordinance's effective date
+24 which will be on or about May 24, 2019.
+
+25 41.
+
+26 further below. Examples of the multiple significant impacts that the ban may have are described
+
+27
+
+28
+
+LATHAM•WATKINS US-DOCS\105681742
+ATTORNEYS AT LAW
+SAN DIEGO VERIFIED PETITION FOR WRI'
+
+12 AND COMPLAINT FOR INJUNCI ECLARATOR
+
+B. The ban will not reduce trash or litter, and it may substantially increase
+trash and litter; the City must analyze this potential impact in an
+environmental impact report.
+
+4 42. One of the City's purported reasons for the ban was to address litter. But
+evidence submitted to the City shows that the ban will not reduce litter. Rather it is likely to
+
+6 increase trash and litter, including litter that may be carried to San Diego's waterways and
+ultimately to the ocean. Once again, evidence that the ban is likely to increase trash and litter
+
+8 was submitted to the City. Based on the record in front of the City Council there was clear
+
+9 evidence of potentially significant environmental impacts that the City must analyze in an
+10 environmental impact report. But the City simply ignored it, without any meaningful
+
+11 explanation and without any CEQA analysis. In fact, there was no analysis from the City to even
+
+12 explain its rationale for the asserted CEQA exemptions. Just two conclusory sentences.
+
+13 43. Substantial evidence presented to the City, including expert reports from the
+
+14 State, demonstrate that the ban would not be effective in reducing trash or litter. One reason that
+15 the Ordinance will not reduce trash or litter is the substitution effect. People will not stop using
+16 single-use food containers after the ban goes into effect. Rather, they will use substitute products
+
+17 that may also be littered. This is common sense, and it is also affirmed by multiple experts. Dr.
+
+18 David Sunding, Thomas Graff Professor in the College of Natural Resources at University of
+19 California, Berkeley, studied this issue and concluded: "No study has been conducted showing
+20 that bans of polystyrene materials are successful in reducing overall litter. In fact, a recent report
+
+21 shows that due to a substitution of alternative products for banned PS [polystyrene] products,
+
+22 litter volume remains the same or even increases after the implementation of a PS ban."14
+
+23 44. Dr. Mark Grey, another expert with deep expertise in trash and water quality,
+24 explains that plastic bag bans are not a good analogue for polystyrene foam bans. There are
+25 readily available reusable substitutes for plastic bags, but there are not readily available reusable
+
+26
+
+27
+14
+
+28 The Brattle Grp., Comments on the Draft Amendments to Statewide Water Quality Control Plans to Control Trash 9 (Aug. 5, 2014) (*2014 Brattle Report").
+
+LATHAM•WATKINS US-DOCS\105681742 VERIFIED PETITION FOR WRI
+ATTORNEYS AT LAW
+13 KNBCONPLANDESL
+
+I substitutes for polystyrene foam food containers. 15
+
+2 45. Michael Harding, another expert with over 35 years of experience in pollution
+
+3 control, similarly finds that bans of polystyrene foam do not reduce litter because litter is a
+4 problem of human behavior: "The source of all categories of trash and litter is anthropogenic,
+
+5 meaning that if one particular type of container, bag or food ware is banned (i.e.,
+6 plastic/polystyrene) whatever material takes its place will in all likelihood be discarded and
+7 introduced into the storm drain unless public education programs, improved collection
+8 management, anti-littering enforcement programs are proportionally increased."16
+
+Q 46. The State Board analyzed empirical data from before and after a polystyrene foam
+10 ban in San Francisco. It also found a substitution effect: 17
+
+11 Data from the City of San Francisco's Streets Litter Re-Audit report
+
+12 confirmed that eliminating all food-related polystyrene would simply change the type of litter found on our streets and in our
+13 waterways, and result in an increase in the non-polystyrene related litter items, thus, showing no overall reduction in litter (or trash to
+
+14 the waterways) (City of San Francisco 2008).
+
+15 47. In sum, the evidence shows that the City's ban will not reduce litter or trash.
+it 16 Rather, it will change the composition of the litter and trash. As discussed below, substitute
+
+17 products are likely to have greater environmental impacts than polystyrene foam.
+
+18 48. In addition, because of polystyrene foam's superior insulating properties, and
+19 because more replacement products are needed to meet the performance of foam, there will
+
+20 likely be more trash and more litter after the ban. As Ramboll stated in its expert report: 18
+
+21
+15
+22 Dr. Mark Grey, PhD, Proposed Polystyrene Foam Food Ware Ban in San Jose Will Not Reduce Trash Loads in Storm Drains and Receiving Waters (Aug. 2013).
+23 16 Michael Harding, Comments on Bay Area Stormwater Management Agencies Association's Preliminary Baseline Trash Generation Rates for San Francisco Bay Area MS4s 24 and Trash Load Reduction Tracking Method 2 (Mar. 20, 2012).
+17
+25 Cal. State Water Res. Control Bd., supra note 2, at 19.
+18 2019 Ramboll Report, supra note 12, at 4; see also 2018 Ramboll Report, supra note 5, at 26 2 (*[B]anning EPS food containers is expected to result in the increased use of other single-use products where there will be at least a one-for-one product substitution. Due to the superior 27 insulation properties of EPS, there is likely a greater than one-for-one product substitution based
+
+28 on the attempts to reproduce the insulation properties of EPS (e.g., the use of multiple coffee cup sleeves).").
+
+LATHAM•WATKINS… US-DOCS\105681742 VERIFIED PETITION FOR WRIT OF MAN
+ATTORNEYS AT
+SAN DIEGO AND COMPLAINT FOR
+14
+
+1 Due to the superior insulation properties of EPS, there is likely a
+
+2 greater than one-for-one product substitution based on the attempts to reproduce the insulation properties of EPS. Often when a hot beverage is served inside a paper cup, an additional layer of insulation such as a sleeve or another cup is used to make the
+
+4 beverage safe or comfortable to hold. This generates more waste compared to simply using one EPS cup. Given the size of the San Diego market, this could cause a significant increase in trash and litter in San Diego.
+
+6 This phenomenon of people double cupping hot beverages (like hot coffee) is well-known and is
+
+7 cited as inspiration for the invention of the cup sleeve. 19
+
+8 49. Additionally, according to Ramboll, "Consumers are also more likely to litter
+
+Q substitutes to EPS because they may wrongly believe that littering products marketed as
+10| 'biodegradable' does not impact the environment. A national survey to examine littering
+
+11
+
+12 behavior in the United States found that littering was reported more frequently in instances when
+the item was biodegradable."20 Keep America Beautiful explains the phenomenon as follows:
+
+13 "Littering was reported more frequently in instances when the person was in a hurry, no trash
+
+14 can was nearby, the item was biodegradable, there was a sense that someone else would pick it
+
+15 up, and when the item was not recyclable.™21 In other words, people may wrongly think that
+
+16 littering paper or compostable products is benign, so they are more likely to litter those products
+17 than polystyrene foam. The government agency tasked with increasing recycling in California
+
+18 has acknowledged this same effect.22
+
+19 50. Thus, the ban will not be effective in reducing litter or trash. But more than that,
+
+20
+
+21 19 Colleen Connolly, How the Coffee Cup Sleeve Was Invented, Smithsonian.com (Aug. 16, 2013), https://www.smithsonianmag.com/arts-culture/how-the-coffee-cup-sleeve-was-invented- 22 119479/.
+20
+23 21 2019 Ramboll Report, supra note 12, at 5.
+
+24 2009), Action Research, Inc., Littering Behavior in America: Results of a National Study 4 (Jan.
+
+25 https://www.kab.org/sites/default/files/News&Info_Research_LitteringBehaviorinAmerica_2009
+Report_F
+22 .pdf (emphasis added).
+
+26 Cal. Integrated Waste Mgmt. Bd., supra note 4, at 6 ("[U]sing biodegradable food service
+
+27 products alone"-as might result from a ban "will not eliminate litter problems"; indeed, "[s]ome have argued that it may even increase litter if consumers believe that it no longer poses
+
+28 an environmental problem"); see also 2019 Brattle Report, supra note 11, at (*[B]ased on available research, a ban on EPS will not reduce litter levels in San Diego, and may increase litter levels.").
+
+LATHAM•WATKINS… US-DOCS\105681742
+ATTORNEYS / SAN DIEGO VERIFIED PETITION FOR WRITE
+
+15 AND COMPLAINT FOR E Ri
+
+it may actually increase litter and trash -both because people need to use more of replacement
+
+2 products (e.g., double cupping) and because people are more likely to litter replacement products
+
+3 that they may wrongly believe are environmentally benign.
+
+4 51. This evidence was submitted to the City before the ban, but the City simply
+
+5 ignored it. The City made no attempt to analyze the Ordinance's potential impact of additional
+
+6 trash and littering. The City did not even acknowledge this potential impact--despite the ample
+7 technical support for it, including from state agencies charged with protecting California's
+8 environment. This impact is potentially significant, and the City must analyze it in an
+9 environmental impact report.
+
+10 C. The ban will increase GHG emissions and San Diego is particularly
+
+11 vulnerable to climate change.
+
+12 52. The public submitted technical reports and evidence showing that a ban may
+
+13 increase greenhouse gas emissions. But instead of analyzing this potentially significant impact
+
+14 in an environmental impact report, the City ignored the evidence of this potentially significant
+
+15 impact.
+
+16 53. It is imperative for the City of San Diego to address climate change and other
+17 environmental concerns.23 As the Mayor has stated, the "[C]ity's responsibility is to ensure a
+
+18 clean, sustainable San Diego for generations to come."24
+
+19 54. In 2015, the City of San Diego enacted the CAP to much fanfare.25 The CAP
+20 outlines a series of steps that, when implemented, would lead to the City achieving required
+
+21 greenhouse gas reductions by 2035.26
+
+22 55. The City's CAP states that "research from state, regional, and local agencies
+
+23
+
+24 23 City of San Diego, Climate Action Plan 1 (Dec. 2015),
+25 https://www.sandiego.gov/sites/default/files/final_july_2016_cap.pdf
+24 Id.
+26 25 City of San Diego, Mayor Faulconer's Climate Action Plan Wins Unanimous City
+27 Council Approval (Dec. 15, 2015), https://www.sandiego.gov/mayor/news/releases/20151215_climateactionplanvote.
+28 26 Id.
+
+LATHAM•WATKINS- US-DOCS\105681742 VERIFIED PETTTION FOR WRITT
+ATTORNEYS AT LAW
+SAN DIEGO 16 AND COMPLAINT FOR DEEENANA ECN
+
+2 indicate that the City of San Diego faces serious vulnerabilities from climate change impacts.»27
+
+3 These impacts include increases in air pollution and mosquito populations, increased wildfire
+and drought, and rising sea levels.28
+
+4 56.
+
+5 As a City built around the coast and the San Diego Bay in particular, the City
+must pay close attention to reducing climate change and its impacts.29 According to sea-level
+6 rise models, areas within the City may be more vulnerable to regularly occurring inundation and
+
+7
+
+8 flooding over time.30 A map of where flooding is projected to occur due to sea level rise by the
+year 2100 is below.31
+
+: 6 11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23 27
+
+24 28 City of San Diego, supra note 23, at 56.
+Id.
+25 29
+
+26 ICLEI-Local Governments for Sustainability, Sea Level Rise Adaptation Strategy for San Diego Bay (2012), at iv, https://www.imperialbeachca.gov/vertical/sites/%7B6283CA4C-E2BD- 4DFA-A7F7- 8D4ECD543F0F%7D/uploads/San_Diego_Bay_SLR_Adaptation_Strategy_Complete.pdf.
+27 30 Id.
+28 31 Id. at 15.
+
+LATHAM•WATKINS… US-DOCS\105681742
+ATTORNEYS AT L
+SAN DIEGO VERIFIED PETITION FOR WRIT OF M.
+
+17 AND COMPLAINT FOR INT CLARATO #
+
+4
+
+5
+
+6
+
+10
+11 Potertiai Future Ficodng
+Airpon
+Mitary Facilty
+12 Pak
+Sat Pond
+Hiohwav
+13 M aor R
+Hover
+
+14 Muric pai Bor
+Plarring Area
+
+15 57. Due to the serious risk of sea level rise within the City of San Diego, the City's
+16 2008 General Plan includes provisions requiring setbacks from the coast in areas subject to sea
+17 level rise. 32
+18 58. Despite these risks and the City's seemingly serious commitment to fighting
+19 climate change, the City adopted the ban on polystyrene foam, which is likely to increase
+20 greenhouse gas emissions because substitutes for polystyrene foam food service ware use more
+21 energy and water. Specifically, there was evidence before the City when it acted that the life
+22 cycle of foam containers generates lower greenhouse gas emissions.33
+23 59. Banning polystyrene foam will result in the use of substitute products, some of
+24 which have been shown to have a larger GHG emissions footprint. Specifically, polystyrene
+25 foam clamshell food containers have lower greenhouse gas emissions per functional unit than
+
+26
+
+27 32 City of San Diego, supra note 23, at 59.
+28 33 2014 Brattle Report, supra note 14, at 17.
+
+LATHAM•WATKINS US-DOCS\105681742 VERIFIED PETITION FT
+ATTORNEYS AT LAW AND COMPLAINT
+SAN DIEGO 18
+
+- higher-grade polymers like polyethylene terephthalate (EPS is 32% lower) and polypropylene
+2 (EPS is 9% lower).34 A shift to an alternative polymer could lead to an increase in net
+
+3 greenhouse gas emissions. And polystyrene cups have a 39% lower life cycle global warming
+4 potential than coated paperboard cups (21% lower even without the insulating sleeve) and 34%
+
+5 lower than solid polylactic acid (PLA) cups.3
+
+6 60. The City of San Diego's ban of polystyrene foam runs directly contrary to the
+7 City's own stated concerns about and efforts to reduce GHG emissions. The ban may have
+
+8 significant impacts on the environment and greenhouse gases in particular due to the use of
+
+10 replacement products with greenhouse gas impacts higher to those of foam. The Ordinance must
+
+11 be set aside until the City complies with CEQA and prepares an environmental impact report that
+
+12 analyzes the greenhouse gas impacts associated with substituting polystyrene foam with
+alternative products.
+
+13 D.
+
+14 Because alternative products have greater environmental impacts and use
+
+15 more environmental resources in their lifecycles, the Ordinance may have
+
+16 61. substantial impacts with respect to a host of environmental resources.
+Members of the public submitted ample evidence to the City showing greater
+17 environmental impacts associated with substitute products than with foam. But the City failed to
+18 analyze these impacts of the Ordinance in
+
+19 ignored them. an environmental impact report and instead simply
+
+20 62. A 2004 California Integrated Waste Management Board study reviewed life cycle
+21 analyses of foam and other products and determined that "[i]n many cases, PS [polystyrene] is
+22 superior in a variety of ways to several alternative products."36 In fact, "[p]rovided PS is used
+
+23
+
+24 appropriately and reused, recycled, or disposed of properly, it appears to have net positive
+impacts." 37
+
+25
+34
+26
+35 2018 Ramboll Report, supra note 5, at 9.
+Id.
+27 36
+
+28 37 Cal. Integrated Waste Mgmt. Bd., supra note 4, at 19.
+Id.
+
+LATHAM•WATKINS US-DOCS\105681742
+ATTORNEYS AT LAW
+DIEGO VERIFIED PETITION FOR WRIT.OF
+
+19 AND COMPLAINT FO]
+
+- 63.
+
+2 Based on several life-cycle assessments, it is clear that polystyrene food service
+
+3 products consume less energy and water and generate less greenhouse gases in production and
+transport than their substitutes.38
+
+4 64.
+
+5 Alternatives to foam are associated with increased energy consumption. The life
+
+6 cycle of foam containers consumes less energy than that of alternative products. 39 For example,
+
+7 studies have found that foam plates have significantly lower total energy requirements than
+
+8 coated paperboard alternatives,4° and that foam containers use significantly less energy than
+
+9 paper-based or corn-based alternatives, primarily due to polystyrene's much lower weight.41
+
+10 Energy generation is major cause of air pollution and a major source of greenhouse gas
+
+11 emissions.42 By one estimate, energy demands account for 78 percent of greenhouse gas
+emissions.43
+
+12 65.
+
+13 Alternatives to foam are associated with greater greenhouse gas emissions. The
+life cycle of foam containers generates lower greenhouse gas emissions than compostable
+14 substitute products.44 Foam clamshell food containers have lower greenhouse gas emissions per
+15 functional unit than other petroleum-based polymers like polyethylene terephthalate and
+
+16
+
+17 38 2014 Brattle Report, supra note 14, at 17. See also Dr. Mark Berkman & Dr. David Sunding, The Brattle Grp., Economic Analysis of SB568's Proposed Polystyrene Foam Ban 5 18 (Aug. 2011) (*2011 Brattle Report").
+39
+19 40 2014 Brattle Report, supra note 14, at 17.
+
+20 Franklin Associates, Life Cycle Assessment of Hefty Polystyrene Foam Plates and Two Coated Paperboard Disposable Plates (Nov. 30, 2015),
+
+21 https://www.pactiv.com/Pactiv/PDF/LCA_of_Foam_and Paper_Plates_with_PR_Approval.pdf.
+41
+
+22 See Am. Chemistry, New Study: Polystyrene Foam Foodservice Cups and Plates Use Less Energy (Mar. 24, 2011),
+
+23 https://www.americanchemistry.com/Media/PressReleasesTranscripts/ACC-news-releases/New- Study-Polystyrene-Foam-Cups-and-Plates-Use-Less-Energy.html (citing Franklin Associates,
+
+24 Life Cycle Inventory of Foam Polystyrene, Paper-based, and PLA Foodservice Products (Feb. 4, 2011), https://www.plasticfoodservicefacts.com/wp-
+
+25 content/uploads/2017/12/Peer_Reviewed_Foodservice_LCA_Study-2011.pdf.
+42 Union of Concerned Scientists, Clean Energy, https://www.ucsusa.org/clean-energy(last
+visited March 1, 2019).
+26 43
+
+27 David Biello, How to Solve Global Warming: It's the Energy Supply, Scientific American Apr. 13, 2014, https://www.scientificamerican.com/article/how-to-solve-global-warming-its-the- energy-supply/.
+28 44 Id.
+
+LATHAM•WATKINS… US-DOCS\105681742
+ATTORNEYS AT LAW
+SAN DIEGO VERIFIED PETITION FOR WRIT OF
+
+20 AND COMPLAINT FOR INJUNCT DECLARATORY
+
+polypropylene.45 Foam cups have lower life cycle global warming potential than coated
+
+2 paperboard cups and solid polylactic acid cups.* Larger emissions of greenhouse gases lead to
+higher concentrations in the atmosphere.47 The accumulation of greenhouse gases in the
+
+4 atmosphere has been well-studied as a source of global warming.48 The City of San Diego has
+
+5 recognized reducing greenhouse gases as an important State and City goal.49
+
+6 66. Alternatives to foam are associated with decreases in water quality. The
+papermaking process demands large amounts of fresh water and produces large quantities of
+
+8 wastewater.30 Wastewater discharges for pulp and paper mills contain chemicals, including
+lignin, cellulosic compounds, phenols, mercaptans, sulfides, and chlorinated compounds. 51
+
+10 These chemicals end up in aquatic ecosystems in part because many wastewater treatment plants
+
+11 do not filter out the chemicals completely.52 The chemicals have toxic effects on marine life and
+
+12 species. 53
+
+13 67. Alternatives to foam are associated with increased water use. The life cycle of
+
+14 foam containers consumes less water due to the paper making process demanding large amounts
+
+15 of fresh water and producing large quantities of wastewater. 54 For example, polystyrene
+
+16 clamshells use up to four times less water to produce than PLA clamshells.5 California is
+
+17 already faced with decreasing rainfall and snow pack feeding the state's freshwater systems, and
+
+18
+
+19 2018 Ramboll Report, supra note 5, at 9.
+46
+20 Id.
+47 EPA, Overview of Greenhouse Gases, https://www.epa.gov/ghgemissions/overview- 21 greenhouse-gases (last visited March 1, 2019).
+48
+22 See EPA, Greenhouse Gases, https://www.epa.gov/report-environment/greenhouse-gases
+(last visited March 1, 2019).
+23 49 City of San Diego, supra note 23, at 3.
+50
+24 2018 Ramboll Report, supra note 5, at 9-10.
+51 Id.
+25 52 ScienceDaily, Chemicals In Our Waters Are Affecting Humans And Aquatic Life In
+26 Unanticipated Ways (Feb. 21, 2008).
+53 2018 Ramboll Report, supra note 5, at 9-10.
+27 54 Id. at 2-3.
+28 55 See American Chemistry, supra note 41.
+
+LATHAM•WATKINS… US-DOCS\105681742 VERIFIED PETITION FOR WR
+ATTORNEYS AT I
+SAn DIEGO AND COMPLAINT F
+21 RE
+
+droughts are expected to become more dangerous and more frequent in the state 56 Precipitation
+over California may diminish by as much as 15% within 20 to 30 years. 57
+
+68. Alternatives to foam are associated with increases in particulate emissions.
+Production of common plastic substitutes to EPS- -polyethylene terephthalate (PET) and
+in polypropylene (PP)-result in greater particulate emissions (PM10) compared to EPS on a "per-
+
+6 cup" basis 58 PET production results in up to five times the particulate emissions of EPS on a
+"per-cup" basis.59 Particles can be carried over long distances by wind; when they settle on
+
+8 water or land, they cause water acidity, upset water nutrient balance, deplete soil of nutrients,
+
+9 damage sensitive forests and farm crops, affect biodiversity, and contribute to acid rain effects.60
+
+10 69. Alternatives to foam are associated with increased VOC emissions. EPS has
+
+11 lower uncontrolled VOC emissions than paper or PET products.° Paper production results in up
+
+12 to five times the VOC emissions compared to EPS on a "per-cup" basis. 62 VOCs react with
+
+13 nitrogen oxides to form ozone, the main constituent of smog.63
+
+14 70. Alternatives to foam are associated with increased criteria air pollutant emissions.
+15 Compostable materials have potential environmental impacts due to composting facilities having
+
+16 meaningful air emissions (e.g., bioaerosols, volatile organic compounds).64 Lead, one criteria air
+17 pollutant, causes decreased growth and reproductive rates in plants and animals, and neurological
+
+18
+
+19
+
+20 56 Evan Halper, Climate scientists see alarming new threat to California, L.A. Times, Dec.
+
+21 5, 2017, http://www.latimes.com/politics/la-na-pol-climate-california-20171205-htmlstory.html.
+57 Id.
+22 58 2018 Ramboll Report, supra note 5, at 7.
+59
+23 Id.
+
+60 EPA, Health and Environmental Effects of Particulate Matter (PM), 24 https://www.epa.gov/pm-pollution/health-and-environmental-effects-particulate-matter-pm(last visited March 1, 2019).
+25 61 2018 Ramboll Report, supra note 5, at 7.
+26 62 Id.
+
+63
+27 EPA, Volatile Organic Compound (VOC) Control Regulations, https://www3.epa.gov/region1/airquality/voc.html(last visited March 1, 2019).
+28 64 2018 Ramboll Report, supra note 5, at 3.
+
+LATHAM&WATKINS… US-DOCS\105681742 VERIFIED PETITION FOR WRITT
+ATTORNEYS AT LAW
+SAN DIEGO AND COMPLAINT FOR I
+22
+
+effects in vertebrates 65
+
+2 71. Alternatives to foam are associated with increased forest products consumption.
+
+3 Paper-based product manufacturing impacts forests and other biological resources, and increases
+
+4 GHG emissions through increased harvesting, which could be significant. 66 Demand for wood
+
+5 products such as paper is major cause of damage to tropical forests, and that demand is
+
+6 expected to increase over the next half century.67
+
+7 72. Alternatives to foam are associated with increases in the amount of material sent
+
+8 to landfilling facilities. EPS is almost 95% air; it generates less solid waste both in weight and
+volume than other comparable alternative products.68 The U.S. is in the midst of a garbage
+
+10 crisis; some recycling facilities are so full they have stopped sorting through plastic and paper
+
+11 altogether and are sending it all to landfill.09 Moreover, compostable food products are not
+
+12 recyclable in the City of San Diego,7 and PLA materials cannot be recycled and will
+
+13 contaminate the recycling stream if not disposed of properly."1
+
+14 73. Alternatives to foam are associated with impacts on the marine environment. For
+
+15 example, expanded polystyrene foam is a much smaller contributor to litter in marine
+16 environments than other materials. 72 Alternative products do not biodegrade in marine
+17 environments. Almost all biodegradable plastics are designed to break down in soil, not water.
+
+18 Hence, issues similar to conventional plastics can be anticipated for biodegradable plastics.73
+
+19
+
+20 65 EPA, Basic Information about Lead Air Pollution, https://www.epa.gov/lead-air- pollution/basic-information-about-lead-air-pollution#ecosystems(last visited March 1, 2019). 21 66 Id. at 4.
+22 67 Union of Concerned Scientists, Planting for the Future: How Demand for Wood Products Could Be Friendly to Tropical Forests (Oct. 2014), https://www.ucsusa.org/our- 23 work/global-warming/stop-deforestation/planting-future-demand-wood-products.
+68
+24 2018 Ramboll Report, supra note 5, at 2.
+69 Carly Cassella, There's a Trash Crisis in The US Happening Right Now, ScienceAlert 25 (Dec. 6, 2018), https://www.sciencealert.com/the-us-has-nowhere-to-put-its-recycling.
+70
+26 2018 Ramboll Report, supra note 5, at 15.
+71 Id.
+27 72 Id. at 2-3.
+28 73 Id. at 16.
+
+LATHAM•WATKINS… US-DOCS\105681742 VERIFIED PETITION FOR WRIT C
+ATTORNEYS AT LAW 4 DIEGO 23 AND COMPLAIN DEOEARANCN KEAN
+
+- Polystyrene foam is not a major contributor to plastic debris in the ocean.74 Studies do not show
+
+2 foam to be a hazard to marine life.75
+
+74. To take one example of increased impacts caused by alternatives to foam, a
+
+4 common alternative to a foam cup, a Polyethylene Coated Paper cup with a corrugated sleeve, is
+associated with greater energy use, higher solid weight, higher solid waste volume, greater water
+
+6 emissions, and greater GHG emissions than a foam cup.76
+
+7 75. The ban by San Diego of EPS is not analogous to the ban of plastic bags by the
+8 City of Manhattan Beach. First, as noted by Dr. Mark Grey, plastic bag bans are not a good
+
+9 analogue for polystyrene foam bans. There are readily available reusable substitutes for plastic
+10 bags, but there are not readily available reusable substitutes for polystyrene foam food
+
+11 containers. Moreover, the negative environmental effects of a polystyrene ban in San Diego will
+
+12 have & much greater environmental impact than a ban in a much smaller city. Environmental
+
+13 impacts of a polystyrene ban correlate with the size of the region in which it is implemented.77
+
+14 San Diego is the eighth most populous city in the United States, with a population of
+15 approximately 1.4 million, 40 times larger than Manhattan Beach, a land area 93 times larger
+16 than Manhattan Beach, and a coastline over 20 times longer.78
+
+17 76. Retail sales and sales from accommodation and food service in the City of San
+18 Diego are 23 times those of Manhattan Beach, and waste disposal rates are 42 times greater.79 In
+19 effect, a much larger amount of disposable products such as shopping bags and food containers
+
+20 are used and disposed of (or littered) in San Diego.80 The environmental impacts of an EPS ban
+
+21 in San Diego are significant given its size and footprint.
+
+22
+
+23 74 Dr. Angelique White, Comments on Amendments to Statewide Water Quality Control
+24 Plans to Control Trash 2 (Aug. 2014).
+75 Id. at 3.
+25 76 Id. at 13.
+26 77 2019 Ramboll Report, supra note 12, at 2.
+78
+27 Id. at 2-3.
+79 Id. at 3.
+28 80 Id.
+
+VERIFIED PETITION FOR WRIT .OF A LATHAM•WATKINS… US-DOCS\105681742 AND COMPLAINT ATTORNEYS AT LAW
+SAN DIEGO 24
+
+2
+
+3 City of San Diego
+4
+City of
+5 Manhattan
+Beach
+6 Area:
+4 miles*
+
+Coastline:
+2 miles
+
+Q
+Coastline:
+44 miles
+10
+
+11
+
+12 RAMBÓLL
+
+13 E. The ban will harm San Diego's vulnerable homeless population and put
+
+14 public health at risk: the City must analyze these potential impacts in an
+
+15 environmental impact report.
+
+16 77. Evidence was submitted to the City showing that the Ordinance will hurt San
+17 Diego's homeless population by increasing the costs for non-profits that serve the homeless
+
+18 community and that it threatens public health by depriving the homeless community of a safe,
+
+19 sanitary means to keep their food safe for consumption. Instead of analyzing these impacts in an
+20 environmental impact report, the City simply ignored them.
+
+21 78. San Diego has the fourth-largest homeless population in the United States, with
+
+22 8,576 homeless in 2018 as reported by the U.S. Department of Housing and Urban
+23 Development.&1 San Diego has the second most homeless veterans of any City in the United
+
+24 States- 1,312 homeless veterans. 82 The City also has 876 "unaccompanied homeless youth,"
+
+25
+
+26 81 U.S. Dep't of Hous. and Urban Dev., The 2018 Annual Homeless Assessment Report
+27 (AHAR) 10 Congress 20 (Dec. 2018), https://www.hudexchange.info/resources/documents/2018- AHAR-Part-1.pdf.
+28 82 Id. at 62.
+
+LATHAM•WATKINS- US-DOCS\105681742 VERIFIED PETTTION FOR WRII
+ATTORNEYS AT LAW AND COMPLAINT FO
+SAN DIEGO 25 ok
+
+and 78.8 percent of these homeless children are what HUD defines as "unsheltered."83 This
+means they live and sleep on the street or in other locations not suitable for human habitation 84
+
+79. San Diego lacks sufficient resources to meet the needs of its homeless population.
+For example, a recent press report recounts that San Diego's shelters are falling short of goals in
+finding permanent housing for the homeless.85 The strain on is resources is becoming more acute
+
+6 in recent months as the federal government releases asylum seekers and immigrants on to the
+streets with no resources. According to press reports, "Federal authorities have released
+
+8 thousands of migrant families in San Diego over the past two months, sometimes straight into the
+streets and otherwise leaving them to find their way as they await asylum proceedings."86 The
+
+10 same press account says that the City has said they are willing to help, but that so far this offer
+
+11 has been just talk: "The [C]ity and [C]ountry both said they are willing to step in and do what
+
+12 they can, but so far it's mostly remained at the conversation level."787 As such, "the burden of
+13 providing the shelter continues to remain on the nonprofits....»88
+
+14 80. The crisis of homelessness also threatens public health. It is reported that
+15 "Service providers and state officials say the finger-pointing, the punting of responsibility and
+16 resulting inaction has reminded them of the bureaucratic stumbling over hepatitis A last year."89
+
+17 81. In 2017, the City of San Diego had a hepatitis A outbreak that infected more than
+
+18
+
+19
+
+20 83 Id. at 53.
+21 84 Id. at 3.
+22 85 John Wilkens, City's Shelters Falling Short of Goals in Finding Permanent Housing for the Homeless, San Diego Union Tribune, June 17, 2018, 23 https://www.sandiegouniontribune.com/news/homelessness/sd-me-homeless-tents-20180613-
+story.html.
+24 86 Maya Srikrishnan and Lisa Halverstadt, Politicians Point Fingers as Migrant Shelter and
+25 Public Health Crisis Looms in San Diego, Voice of San Diego, Dec. 20, 2018, https://www.voiceofsandiego.org/topics/government/politicians-point-fingers-as-migrant-shelter-
+26 and-public-health-crisis-looms-in-san-diego/.
+87 Id.
+27 88 Id.
+28 89 Id.
+
+LATHAM•WATKINS… US-DOCS\10568174 VERIFIED PETITION FOR V
+ATTORNEYS A
+SAN DIEGO 26 AND COMPLAIN DEOEARAI KE ELIEF
+
+-
+
+2 500 people and killed 20.90 In a report regarding the hepatitis A outbreak, the County of San
+
+3 Diego notes that hepatitis A is commonly spread through contaminated food:91
+
+4 HAV [hepatitis A] can be spread two ways: person-to-person via the fecal-oral route or through exposure to contaminated food or water.
+
+5 Person-to-person transmission via the fecal-oral route occurs when an uninfected person takes in the virus by mouth due to contact with
+
+6 objects (such as drug paraphernalia or cigarettes), food, or drinks that have been contaminated with feces from an infected person.
+
+7 82. Numerous people, including public health workers and homeless people
+8 themselves, concluded that one reason for the City's hepatitis A outbreak was the City's ban of
+
+10 plastic bags.92 Homeless people are known to use plastic bags to dispose of human waste, and
+
+11 by banning plastic bags, the City eliminated an important tool for homeless people to protect
+
+12 their health.93 Said one homeless man: "The plastic bag ban is the main reason for the hepatitis
+
+13 outbreak. The hepatitis outbreak was completely predictable-it's why left San Diego."94
+
+83. Similarly, the polystyrene foam food containers that the City banned are a safe,
+14 hygienic way of keeping food clean and healthy. The Acheson Groupnationally recognized
+15
+
+16 experts in food safety-authored a report warning of the consequence of banning foam:95
+
+17 Paper-based single-use food-service materials are more porous than foam. As a result, bacteria are more likely to become trapped and to
+
+18 grow in paper-based food-service materials than in foam food- service materials. In addition, foam has superior insulating
+
+19 properties, which can retard the growth of bacteria by keeping food
+
+90
+20 Associated Press and NBC Staff, Grand Jury Faults Response t0 San Diego's Hepatitis A
+
+21 Outbreak, NBC San Diego, (May 17, 2018), https://www.nbcsandiego.com/news/local/Grand- Jury-Faults-Response-to-San-Diegos-Hepatitis-A-Outbreak-482972091.html.
+91
+22 Cty. of San Diego, Hepatitis A Outbreak After Action Report 8 (May 2018), https://www.sandiegocounty.gov/content/dam/sdc/cosd/SanDiegoHepatitisAOutbreak-2017-18-
+
+23 AfterActionReport.pdf.
+92
+
+24 Usha Lee McFarling, STAT, An outbreak waiting to happen: hepatitis A marches through San Diego's homeless community, PBS NewsHour (Oct. 8, 2017, 10:18 AM),
+
+25 https://www.pbs.org/newshour/health/outbreak-waiting-happen-hepatitis-marches-san-diegos- I| homeless-community.
+93 Marty Graham, Plastic-bag ban led to hep A health crisis?, San Diego Reader, Sept. 8, 26 2017, https://www.sandiegoreader.com/news/2017/sep/08/stringers-plastic-bag-ban-led-hep-
+health-crisis/.
+27 94 Id.
+
+28 95 The Acheson Grp., Expanded Polystyrene Report 4 (Feb. 2018).
+
+LATHAM•WATKINS… US-DOCS\105681742
+ATTORNEYS A
+SAN DIEGO 27 VERITIED TEVUIONFOPO RUOR AND COMPLAINT FOR INI DECLARATOR RE
+
+appropriately hot or cold. Because of foam's lesser porousness and
+
+2 better insulating qualities, it offers greater protection against foodborne illness and communicable diseases than alternative single-use food-service products.
+3
+84. Ramboll, another nationally recognized scientific and environmental consultant
+4 concluded that the superior safety of foam for storing food is particularly important for homeless
+5 people, and for avoiding foodborne illness:%6
+6
+
+7 An EPS ban could also have significant impacts regarding public health.. This is important to consider for homeless individuals,
+
+8 who use (and often reuse) disposable containers for food storage. For those without reliable access to a refrigerator, longer-term storage in containers better suited for controlling bacterial growth is
+9 a safer from a public health standpoint as it may result in reduced instances of foodborne illness.
+10 85. The City's ban of polystyrene foam directly harms our most vulnerable
+11 including homeless children, homeless veterans, and homeless immigrants and asylum seekers in
+12 at least two ways.
+13 86. First, the ban will deprive vulnerable populations of a safe, sanitary means of
+14 handling food. As Ramboll, the nationally recognized scientific and environmental expert,
+15 cautioned the City, "An EPS ban could also have significant impacts regarding public health."97
+16 The Ordinance deprives homeless people of an important tool for hygiene and to keep
+17 themselves free of foodborne disease. But the Ordinance did not make any provision for
+18 mitigating the potential public health effects on the homeless. For example, the Ordinance did
+19 not study potentially providing homeless people with food-storage facilities, since the ban is
+20 depriving them of one option for safe storage of food. In fact, the City simply ignored the public
+21 comments pointing out that it is potentially endangering public health by enacting the ban.
+22 87. Second, the ban forces non-profits that work with these vulnerable populations to
+23 purchase more expensive alternatives to foam. Resources for our most vulnerable populations
+24 are short, and every penny counts. The Ordinance does not have a provision to reimburse
+25 nonprofits for the added cost of purchasing more expensive substitutes for polystyrene foam. So
+26
+
+27 96
+28 97 2019 Ramboll Report, supra note 12, at 7-8.
+Id. at 7.
+
+LATHAM•WATKINS… US-DOCS\105681742 VERIFIED PETITION FOR V
+ATTORNEYS AT LAW
+SAN DIEGO AND COMPLAINT I
+28
+
+1 by forcing them to purchase more expensive products, the ban takes money from nonprofits
+
+2 helping homeless veterans, homeless children, homeless immigrants, and other vulnerable
+
+3 populations. This is not a theoretical concern-there are shelters in the City that will have fewer
+
+4 resources to serve homeless veterans, homeless children, impoverished asylum seekers, and other
+5 vulnerable populations as a direct result of the Ordinance. During the administrative proceedings
+
+6 on the Ordinance, the commenters made the City aware that passing the Ordinance would result
+
+7 In fewer meals served to the homeless. As one report submitted to the City stated:98
+
+8 Based on interviews with local homeless shelters in San Diego made
+
+Q by Ramboll in late 2018, some shelters utilize disposable food containers made from EPS. One representative in charge of
+10 coordinating meals at a local shelter revealed that they rely on EPS foodware items to serve thousands of meals per week. The
+11 representative indicated that if EPS were banned, this shelter's costs would increase significantly due to the need to purchase foodware
+12 items made from alternative materials other than EPS. According to the representative, these substitute items likely cost twice as much
+13 as EPS, if not more. Thus, the Proposed Ban would likely result in a diversion of funds from food served at this shelter to the containers
+
+14 used to store it, which would likely result in fewer meals served, based on the same available funding.
+
+15 88. Despite this plea, the City approved the ban without any mechanism to reimburse
+16 nonprofits for their increased costs or any other mechanism to mitigate the ban's harm to
+17 homeless children, veterans, immigrants, and other vulnerable populations.
+
+18 89. In sum, the ban may have significant impacts on public health in general and on
+
+19 the health of San Diego's most vulnerable populations specificallyincluding homeless
+
+20 veterans, homeless children, and homeless immigrants. The City must analyze these impacts in
+
+21 an environmental impact report under CEQA before considering the ban.
+
+22 F. Polystyrene foam is recyclable but many substitute products are not, so the
+
+23 ban will undermine San Diego's recycling goals.
+
+24 90. Ample evidence was submitted to the City showing that foam is recyclable, and
+25 that many substitutes for foam are not recyclable. But the City simply ignored the evidence that
+26 the ban may have significant environmental impacts regarding undermining recycling-
+
+27
+
+28 98 Id. at 8.
+
+LATHAM•WATKINS" US-DOCS\105681742 VERIFIED PETITION FOR WRI
+ATTORNEYS AT LAW
+SAN DIEGO AND COMPLAINT F
+29
+
+I including the State of California's recycling goals and the City's own recycling goals.
+
+2 91. Recycling is a statewide priority for California. CalRecycle's website explains:
+3 "Through landmark initiatives like the Integrated Waste Management Act and Beverage
+
+4 Container Recycling and Litter Reduction Act, California works toward a society that uses less,
+
+5 recycles more, and takes resource conservation to higher and higher levels. Our state leads the
+
+6 nation with an approximate 65 percent diversion rate for all materials, and today recycling
+
+7 supports more than 140,000 green jobs in California."99
+
+8 92. In 2011, the California Legislature adopted Assembly Bill 341, which set a policy
+
+Q goal for the state that not less than 75 percent of solid waste generated be source reduced,
+
+10 recycled, or composted by the year 2020.100 CalRecycle's 2015 report to the Legislature on
+
+11 Assembly Bill 341 makes clear that recycling has been at the center of California's success in
+
+12 reducing waste: 101
+
+13 In moving away from its historically disposal-dominated approach
+
+14 to waste management, California developed an infrastructure for collection, sorting, and preliminary processing of recyclable
+
+15 materials in order to meet the state's statutory recycling and diversion directives. This was accomplished with the hard work and
+
+16 dedication of all of our partners including local jurisdictions, the waste and recycling industry, and an enlightened public that
+17 embraced the new programs and changed its behavior.
+
+18 The report also states that California has long way to go to reach the 75% goal- as a state we
+
+19 need to increase source reduction, composting, and recycling from about 37 million tons to about
+
+20 60 million tons per year.' 102 One of the key strategies CalRecycle identifies in its 2015 report to
+
+21 the Legislature on Assembly Bill 341 is expanding California's current recycling and
+
+22 manufacturing infrastructure. 103 Notably, nowhere does the report recommend banning
+
+23
+
+24 99 CalRecycle, About CalRecycle, https://www.calrecycle.ca.gov/AboutUs/(last visited March 1, 2019).
+25 100 CalRecycle, AB 341 Report to the Legislature 1 (Aug. 2015),
+26 https://www2.calrecycle.ca.gov/Publications/Documents/1538/20151538.pdf.
+101 Id.
+27 102 Id.
+
+28 103 ld. at 7.
+
+LATHAM•WATKINS US-DOCS\105681742 VERIFIED PETITION FOR WRIT
+ATTORNEYS A1 SAN DiEGO AND COMPLAINT F
+30
+
+recyclable material like polystyrene foam to increase California's recycling rate.
+
+93. The City of San Diego has adopted an aggressive Zero Waste Plan, which calls
+for increased recycling and ultimately for the City to reach zero waste. 104 The Zero Waste Plan
+explains the principle of using discarded materials as a valuable commodity:105
+
+5 Zero Waste is a principle that calls for handling discarded materials
+
+6 as commodities for reuse rather than for disposal, and conserving those commodities through waste prevention, recycling, composting, and other technologies. This "discards" management system emphasizes commodities can flow full circle focusing on
+
+8 conservation during the total life cycle of materials from product design, collection, and processing to the marketing of new products
+9 made from the material.
+
+10 94. The City's Zero Waste Plan sets a goal of 75% diversion of waste from landfills
+
+11 by 2020, 90% diversion by 2035, and 100% diversion (zero waste) by 2040.106 The City
+
+12 acknowledges that it has a long way to go to achieve these goals, and that even to "increase the
+13 City's waste diversion rate to 75% will require an estimated additional 332,000 tons per year to
+
+14 be diverted from landfill disposal."107 Nowhere does the City's Zero Waste Plan recommend
+
+15 banning recyclable material like polystyrene foam to increase San Diego's recycling rate.
+
+16 95. Polystyrene foam is recyclable.108 And polystyrene foam used for food service
+
+17 specifically is recyclable. As the City is well aware, recycling foam is feasible, and the City is
+
+18 already recycling foam, including foam used for foodservice. An expert report submitted to the
+
+19 City explains that newer technology in materials recovery facilities has enabled increased
+
+20 recycling of foam:109
+
+21 EPS is a recyclable material and has many characteristics that make
+22 it an ideal product for foodware (and other) applications. In fact, the
+
+23 104 City of San Diego, Zero Waste Plan (June 2015), https://www.sandiego.gov/sites/default/files/legacy/mayor/pdf/2015/ZeroWastePlan.pdf(last 24 visited March 1, 2019).
+105
+25 Id. at 2.
+106 Id.
+26 107 Id.
+27 108 2019 Brattle Report, supra note 11, at 8 (noting that there are multiple recycling sites or
+
+28 curbside recycling programs for polystyrene foam in California and Southern California).
+109 2018 Ramboll Report, supra note 5, at 4.
+
+LATHAM•WATKINS… US-DOCS\105681742
+ATTORNEYS A
+SAN DIEGO VERTND CEMPEAN OSON
+31 DECHARATOR) LE
+
+, N City of San Diego has permitted the recycling of certain EPS materials such as packaging material for years and in mid-2017, the City Council voted to expand recycling capabilities to include all EPS foodware products. This ability to recycle a wider range of EPS products is partially attributable to the emergence of new secondary Material Recovery Facilities (MRFs), which make the process more economically viable. These secondary processing facilities accept baled materials that typical MRFs would otherwise landfill and further sort out mixed plastics, polystyrene, and other high-value
+
+6 recyclables that may have escaped the initial MRF sort. By using technological advances in material sorting, such as optical scanners that can accurately identify plastic resins, these secondary MRFs are able to bale solid polystyrene with EPS to achieve an ideal density for the commodity.
+
+9 96. As of the drafting of this Petition, the City's website still shows that foam is
+10 recyclable in the City of San Diego.110 Below is a screen shot of the City's website clearly
+
+11 identifying that polystyrene food and drink containers can be recycled.
+
+12
+
+13 View Images of What Can and Can't Be Recycled
+
+14 Yes. these can be recycled in your curbside bin NEW! Clean Styrofoam food and drink
+containers now accepted in the blue recycling bin!
+No. these can't be recycled in your curbside bin
+
+15 D. What Goes Where2 Recycling Flyer
+
+16 97. Not only is it technically feasible to recycle foam, but also there is a market for
+17 recycled foam, with both buyers and sellers. As two leading natural resources economists put
+
+18 it-111
+
+19 One key sign that recycling of polystyrene is economically feasible
+
+20 is the existence of a market for recycled PS, with both buyers and
+sellers. Buyers exist because recycled polystyrene can be used as an
+
+21 input in manufacturing processes. Companies are currently using recycled PS to produce products such as picture frames, crown
+
+22 molding, baseboards, and flower pots. Regarding sellers, the California Ocean Science Trust report cites several examples. One
+
+23 of the companies mentioned in the report, FP International, is able to recycle about 4 million pounds of polystyrene per year, another saves $80,000 per year by recycling EPS. while
+
+24 98.
+25 In contrast to polystyrene foam, which is recyclable, many products that would
+
+26 replace foam after it is banned cannot be recycled. For example, paper cups have plastic liner
+
+110
+27 City of San Diego, What Can Be Recycled?, https://www.sandiego.gov/environmental-
+
+28 services/recycling/residential/curbside/list (last visited March 1, 2019).
+111 2014 Brattle Report, supra note 14, at 23.
+
+LATHAM•WATKINSw US-DOCS\105681742
+ATTORNEYS AT LAW
+SAN DIEGO VERIFIED PETTTION FOR WRIT C
+
+32 AND COMPLAINT FC
+
+2 that makes them difficult to recycle. "'Most waste management facilities will treat the cups as
+trash."112
+
+3 99. Compostable food products are not recyclable in the City of San Diego. In fact,
+
+5 the Environmental Services Department published a pamphlet advising citizens to stop using
+
+6 compostable products, noting that they "do not biodegrade into compost and eventually end up
+
+7 creating methane gas in the Miramar Landfill" and "...if they are mixed with other recyclables in
+
+8 the blue bin, they can contaminate the quality of plastics when they are made into new
+products."113 An excerpt of this City publication is below.
+
+: Stop Using Compostable Products!
+
+11 Compostable products such as containers, utensils, plates and
+
+12 bowls are made out of corn, potatoes, sugarcane, etc. You may think you're doing good
+
+13 thing for the environment by using compostables.
+However, in the City's Greenery Program they do not biodegrade
+
+14 into compost and eventually end up creating methane gas in the Miramar Landfill. Also, if they are mixed with other recyclables in
+
+15 the blue bin, they can contaminate the quality of plastics when they
+
+16 are made into new products.
+So please place all compostable
+
+17 products in the black trash bin BIODEGRADA
+and use reusable plates, cups and
+
+18 silverware whenever possible.
+
+19 100.
+
+20 A more recent pamphlet included a reminder that compostable foodware products
+
+21 must still be disposed of in the regular trash bin. 114 Thus, there is currently no feasible way to
+recycle or compost these products in San Diego, some of the very products that will be
+22 substituted for recyclable polystyrene foam food containers.
+
+23 101.
+
+24 Because polystyrene foam food containers are recyclable and in fact are recycled
+
+112
+25 Livia Albeck-Ripka, 6 Things You're Recycling Wrong, N.Y. Times, May 29, 2018,
+
+26 https://www.nytimes.com/2018/05/29/climate/recycling-wrong-mistakes.html.
+113 City of San Diego, The Curbsider (Winter 2014), https://www.sandiego.gov/sites/default/files/legacy/environmental- 27 services/pdf/recycling/2014curbsider.pdf.
+114
+28 City of San Diego, The Curbsider (Winter 2018-2019), https://www.sandiego.gov/sites/default/files/curbsider_2018-19_-_3_pages.pdf.
+
+LATHAM•WATKINS US-DOCS\105681742
+ATTORNEYS AT I
+SAN DIEGO VERIFIED PETITION FOR WRIT
+
+33 AND COMPLAIN DEOE ANAT
+
+in numerous jurisdictions in California, but replacement products often are not, banning foam
+will undermine recycling in the City. This potentially conflicts with Assembly Bill 341 and with
+the City's own Zero Waste Plan, and the City failed to analyze this potential conflict. By
+banning a recyclable material, the Ordinance will cause more waste to be diverted to the land fill,
+and it will undermine the City's recycling goals. The City must analyze these potentially
+
+6 significant impacts in an environmental impact report. Instead, in adopting the Ordinance, the
+City showed no awareness that products that are likely substitutions for banned foam are not
+
+8 recyclable.
+
+9 102. As jurisdictions ban foam, especially large cities like San Diego, "it will become
+
+10 more difficult and expensive to collect sufficient amounts of used EPS to recycle
+11 Il economically."113 In other words, by banning foam instead of recycling it, the City is not just
+12 undermining its own recycling efforts-it is potentially making it more difficult for other
+13 jurisdictions to recycle foam, because the City's ban undermines the whole industry. This is a
+
+14 potential cumulative impact that was pointed out to the City in the administrative proceedings,
+
+15 but the City failed to analyze it or even acknowledge it. The City must analyze these potentially
+16 significant impacts in an environmental impact report.
+
+17 G. By undermining the City's zero waste goals, the City's ban also undermines
+
+18 the City's Climate Action Plan.
+
+19 103. The City's polystyrene foam ban may also interfere with the City's ability to
+
+20 attain its lauded greenhouse gas emission reduction goals.116 The City of San Diego CAP calls
+
+21 for eliminating half of all greenhouse gas emissions in the City.117 In order to achieve this goal,
+22 the CAP outlines a strategy for greenhouse gas reductions and specifies particular action items
+
+23 and steps that must be implemented to achieve state-mandated reduction targets.
+
+24 104. According to the City's CAP, one of the five key components necessary for
+
+25
+
+26 2019 Brattle Report, supra note 11, at 8.
+116
+27 City of San Diego, supra note 23.
+117 City of San Diego, City of San Diego's Climate Action Plan, 28 https://www.sandiego.gov/sustainability/climate-action-plan (last visited March 1, 2019).
+
+LATHAM•WATKINS US-DOCS\105681742 VERIFIED PETITION FOR WRIT
+ATTORNEYS AT LAW AND COMPLAINT F
+SAN DIEGO 34 DECLARATO
+
+- achieving these greenhouse gas reductions is "zero waste."112
+
+2 105. In the CAP, the City explains that implementation of the City's Zero Waste Plan
+is key to achieving necessary greenhouse gas
+
+4 reductions 119 One goal in the CAP is to "divert
+solid waste and capture landfill methane gas emissions." 120 In order to achieve this goal, the
+
+6 City's CAP sets stringent targets for solid waste diversion. Specifically, "the goal for the City is
+
+7 to achieve a 75 percent waste diversion rate by 2020. The City also has a goal to strive for Zero
+Waste disposal by 2040."121
+
+106. According to the City's own 2018 CAP Annual Report, the City has achieved a
+
+10 solid waste diversion rate of only 66 percent. 122 This rate is far below the 75 percent goal that
+
+11 must be achieved by next year in order for the City to stay on track to achieve state-mandated
+greenhouse gas reductions.
+
+12 107.
+
+13 Once again, expert evidence of this potential impact was submitted to the City,
+
+14 but the City simply ignored it. The City must prepare an environmental impact report that
+analyzes this potential impact.
+
+15 H.
+
+16 The ban will increase use of local landfills, which are already capacity
+
+constrained.
+
+17 108.
+
+18 The City of San Diego has limited landfill and composting space and availability.
+
+19 The ban may cause a significant impact regarding increased use of landfills. While evidence of
+
+20 this impact was submitted to the City during the administrative proceedings, the City simply
+ignored this potential impact.
+
+21 109.
+
+22 The West Miramar Landfill is the City's only municipally-operated landfill and is
+
+23
+
+24 118
+
+25 119 City of San Diego, supra note 23, at 25.
+Id. at 40.
+
+26 120 Id.
+
+121
+27 Id. at 25.
+122 City of San Diego, Climate Action Plan 2018 Annual Report 5, 28 https://www.sandiego.gov/sites/default/files/city_of_san_diego_2018_cap_annual_report.pdf.
+
+LATHAM•WATKINS… US-DOCS\105681742 ATTORNEYS AT LAW VERIFIED PETITION FOR WRIT OF M.
+
+35 AND COMPLAINT FOR INJUNCT DECLARATORY RELII
+
+currently projected to reach capacity and close by 2022.123 One recent report commissioned by
+
+2 the City of San Diego concluded that: 124
+The City faces running out of landfill capacity at the [West Miramar
+4 Landfili] by 2021. The region is projected to have capacity only until 2025 if the Sycamore Landfill expansion is not approved.
+5 These projected dates include the capacity gained from the City's recycling and [construction and demolition] ordinance
+
+6 implementation. If the Sycamore Landfill expansion is approved and diversion continues from implementing the City's recycling and [construction and demolition] ordinances, as well as continued implementation of existing zero waste programs, the region iS projected to have capacity until 2037 at the Sycamore Landfill.
+
+110. The City of San Diego continues to go to great lengths to research and analyze
+
+10 how to extend the life of and maximize the capacity of the Miramar Landfill, 125 including
+
+11 through implementation of the City's Zero Waste Plan discussed above.
+
+12 111. Despite the City's constrained landfill capacity, the City adopted a ban in the face
+
+13 of evidence in the Ramboll Report that it could generate more waste that would need to be
+14 landfilled.
+
+15 112. Specifically, as the report stated, "[o]ften when a hot beverage is served inside a
+
+16 paper cup, an additional layer of insulation such as a sleeve or another cup is used to make the
+17 beverage safe or comfortable to hold. This generates more waste compared to simply using one
+
+18 EPS [foam] cup. Given the size of the San Diego market, this could cause a significant increase
+
+19 in trash and litter in San Diego."
+
+20 113. In addition, analyses in the record found that substitutes for polystyrene foam
+
+21 food service ware increases the amount of material sent to recycling and landfilling facilities-
+
+22 polystyrene foam is almost 95 percent air; it generates less solid waste both in weight and
+
+23 volume than other comparable substitute products. 126
+
+24 123 City of San Diego, Long-Term Resource Management Strategic Plan, 25 https://www.sandiego.gov/environmental-services/geninfo/lwmo(last visited March 1, 2019).
+124
+26 City of San Diego, Long-Term Resource Management Strategic Plan Phase Il Report 2- 9, https://www.sandiego.gov/sites/default/files/legacy/environmental-
+27 services/geninfo/pdf/LTRMOFinalReport.pdf.
+125 City of San Diego, supra note 124.
+28 126 2018 Ramboll Report, supra note 5, at 2.
+
+LATHAM•WATKINS… US-DOCS\105681742 VERIFIED PETTTION FOR WR
+ATTORNEYS AT LAW AND COMPLAINT F
+SAN DIEGO 36
+
+114. As the City's Ordinance forces consumers to purchase, use, and dispose of
+2 substitute products, the City is placing increased pressure on its already constrained landfills.
+Replacement products that are not 95% air will not compress down in a landfill the way
+polystyrene products will. These replacement products, therefore, have the potential to take up
+more space in the City's already dwindling landfill capacity.
+
+115. The City has spent a tremendous amount of time and government resources
+
+7 attempting to solve its landfill capacity problem. And yet, the City is carelessly undermining its
+own zero waste goals and landfill planning processes by increasing the amount of waste that will
+be disposed of and the amount of space that waste will take up in a landfill. This is a potential
+10 environmental impact that was raised with the City during its administrative proceedings and it
+
+11 has not been addressed. The City must analyze this potentially significant impact in an
+
+12 environmental impact report.
+
+13 I. The ban may cause significant impacts on the marine environment; the City
+
+14 must analyze this potential impact in an environmental impact report.
+
+15 116. Evidence submitted to the City showed that the ban may have significant impacts
+
+16 on the marine environment. But as with evidence of other impacts, the City simply ignored
+
+17 evidence of potential impacts to the marine environment. The City must study potential impacts
+
+18 to the ocean and to the marine environment in an environmental impact report.
+
+19 117. Polystyrene foam is not a hazard for marine animals. "[N]o available studies have
+20 specifically shown polystyrene foam to be either an entanglement or ingestion hazard in the
+
+21 marine environment."127
+
+22 118. As discussed above, the ban will not reduce litter or trash, and it is likely even to
+
+23 increase litter and trash. And the substitute products will have greater impacts related to
+24 greenhouse gas emissions, energy use, water quality, air emissions, deforestation, and other
+25 impacts. Thus, a ban will not help the marine environment, but it will hurt the marine
+26 environment by forcing substitution of products with greater impacts. Dr. Angelique White,
+
+27
+
+28 127 White, supra note 74, at 3.
+
+LATHAM•WATKINS- US-DOCS\105681742 VERIFIED PETITION FOR
+ATTORNEYS AT I AND COMPLAINT
+SAN DIEGO 37 KEf
+
+Associate Professor of Ocean Ecology and Biogeochemistry at Oregon State University, puts this
+
+2 unfortunate result of bans as follows:128 "In the case of polystyrene foam, there is little to no
+
+3 existing data for deleterious impacts of this specific product on marine organisms; there is the
+
+4 likelihood that substituted products may have similar litter rates and more significantly, product
+substitutions may lead to enhanced greenhouse gas production that continue to threaten our
+
+6 ocean resources."
+
+119. Instead of analyzing the ban's potential impacts on the marine environment, the
+
+8 City failed to analyze, or even acknowledge, potential impacts of the ban on these resources.
+
+q The City must analyze these potential impacts in an environmental impact report.
+
+10 J. The City needs to evaluate mitigation measures and alternatives in an
+
+11 environmental impact report.
+
+12 120. The City failed to propose and analyze mitigation measures for the significant
+
+13 impacts caused by an expanded polystyrene ban. Dart Container Corporation's October 15, 2018
+
+14 letter includes recommended mitigation measures that are both feasible and enforceable,
+15 including the following: (i) requiring the City to offset the increased carbon emissions due to the
+
+16 ban; (ii) requiring the City to purchase renewable energy credits for the increased energy use that
+
+17 ban will cause; and (iii) requiring the City to conduct restoration projects to compensate for the
+
+18 increased water use and pollutant discharges that a ban will cause.
+
+19 121. The City failed to propose and analyze alternatives that would avoid or reduce the
+20 environmental impacts of the ban. The opportunity costs of a polystyrene ban are high due to the
+
+21 fact that "[p]olystyrene bans are expensive."129 A polystyrene ban requires funds that could
+
+22 otherwise be used by the City for trash reduction methods that are demonstrably effective,
+
+23 including structural best management practices, the use of full capture devices, education, litter
+
+24 cleanup programs, street and storm drain cleanups, and river and shoreline cleanups. 130 Since
+25
+
+26
+128 Id. at 2.
+27 129 2014 Brattle Report, supra note 14, at 4.
+28 130 Grey, supra note 15, at 2, 10-11.
+
+LATHAM•WATKINS… US-DOCS\105681742 VERIFIED PETITION FOR WR
+ATTORNEYS AT LAW
+SAN DIEGO AND COMPLAINT FOF
+38
+
+] polystyrene can be recycled, promoting recycling is likely to be far more effective than a ban. 131
+
+2 122. One alternative that the City should analyze in a full environmental impact report
+
+3 is a public-private partnership to upgrade and further develop the City's recycling program.
+
+4 ACC offered to enter into such a public-private partnership with the City.
+
+5 123. ACC made its offer of a public-private partnership to the City in writing on
+
+6 October 11, 2018.132 ACC's proposal is designed to meet the following goals: "establish a
+
+7 sustained, efficient and economical polystyrene recycling program for the City of San Diego that
+
+8 a) utilizes best available recovery technology, likely predicated upon proactive optical sorting,
+
+Q b) accesses developed and developing markets, and c) is well supported technically and
+10 administratively by its industry partners to achieve ongoing effectiveness."133
+
+11 124. ACC's proposal had four key elements to ensure the further expansion of
+12 polystyrene foam recycling:
+
+13 Bridge support funding. ACC's proposal included funding intended to defray the
+
+14 City's cost of polystyrene recycling while the program is implemented.
+
+15 Technical support. ACC's proposal included funding of technical resources to
+
+16 support the strongest possible implementation of the polystyrene recycling
+
+17 system.
+
+18 Funding for best available technology. ACC's proposal included funding for
+
+19 technology to help processing polystyrene foam for recycling.
+
+20 Ongoing market development support. ACC's proposal included a commitment
+
+21 to help the City find, evaluate, and support markets for the recycled polystyrene
+
+22 material.
+
+23 ACC proposed to invest $1,970,000 in this public-private partnership to support polystyrene
+
+24
+
+25
+131 2014 Brattle Report, supra note 14, at 4.
+26 132 Letter from Mike Levy, Senior Director, American Chemistry Council, to Ken Prue,
+27 Recycling Program Manager, City of San Diego (*ACC's Recycling Partnership Offer") (Oct. 11, 2018).
+28 133 Id.
+
+LATHAM•WATKINS… US-DOCS\105681742 VERIFIED PETTTION FOR WRIT
+ATTORNEYS AT LAW
+SAN DIEGO AND COMPLAINT F
+39
+
+foam recycling.134
+
+2 125. Instead of working with stakeholders to further expand recycling of polystyrene
+
+3 foam, the City chose to adopt the Ordinance, which bans this recyclable product and will have
+
+4 the impacts described above. The City did not analyze or study whether increasing recycling
+
+5 would be better for the environment than adopting a ban of polystyrene foam that may have
+
+6 significant environmental impacts. The Court should require the City to prepare a full
+environmental impact report before considering a ban. And the alternatives analysis should
+include the alternative of expanding recycling, including via a public-private partnership.
+
+9 V. CAUSES OF ACTION
+
+10 126. Based on the allegations herein, the following causes of action are alleged.
+
+11 FIRST CAUSE OF ACTION
+
+12 (Violations of CEQA)
+
+13 127. The foregoing allegations are incorporated by reference.
+
+14 128. The Legislature enacted CEQA to ensure that government agencies incorporate
+
+15 the goal of long-term protection of the environment into their decisions that may affect the
+16 environment. CEQA applies to any discretionary action taken by an agency that may cause a
+17 reasonably foreseeable change in the environment.
+
+18 129. Because categorical exemptions like the Class 8 exemption and the common
+
+19 sense exemption excuse environmental review under CEQA, they are narrowly construed. The
+20 burden of showing an exemption applies is on the agency-in this case, the City.
+21 130. The City violated CEQA by relying on exemptions to adopt the Ordinance. The
+
+22 City failed to meet its burden of showing that the Class 8 exemption or the common sense
+
+23 exemption apply. Evidence submitted by Petitioner Dart and others showed that the Ordinance
+
+24 may have significant environmental impacts.
+
+25 131. The Class 8 exemption does not apply to the Ordinance, because even though the
+
+26 Ordinance is intended to address one set of environmental issues, the evidence in the record
+
+27
+
+28 134 Id.
+
+LATHAM&WATKINSw US-DOCS\105681742 VERIFIED PETITION FC
+ATTORNEYS AT LAW
+SAN DIEGO AND COMPLAINI
+40 E REf
+
+I shows the Ordinance may cause other environmental impacts. In other words, even a "new
+
+2 regulation that strengthens some environmental requirements may not be entitled to an
+
+3 exemption if the new requirements could result in other potentially significant effects."
+4 California Unions for Reliable Energy v. Mojave Desert Air Quality Management Dist. (2009)
+
+5 178 Cal. App. 4th 1225, 1240-1247 [rejecting use of Class 8 exemption for air district rule where
+
+6 there was evidence that rule could lead to increased paving]. Here, the evidence in the record, at
+
+7 a minimum, shows the Ordinance will not improve environmental conditions across the board;
+
+8 rather, it will cause people to use more substitute products that have greater environmental
+impacts. Thus, the Class 8 exemption does not apply.
+
+10 132. The common sense exemption also does not apply. That exemption applies only
+
+11 if "it can be seen with certainty that there is no possibility that the activity in question may have
+
+12 a significant effect on the environment...." 14 Cal. Code Regs., § 15061(b)(3). Here, mountains
+
+13 of uncontroverted evidence in the record shows that the Ordinance may have significant
+14 environmental impacts.
+
+15 133. Even if the City had shown that the Ordinance fits within 8 the Class 8 categorical
+16 exemption or the common sense exemption (which it did not), there is substantial evidence in the
+
+17 record showing that exceptions to the exemptions apply. is There is substantial evidence in the
+
+18 record showing that "there is a reasonable possibility" that the Ordinance "will have a significant
+
+19 effect on the environment due to unusual circumstances." Cal. Code Regs., § 15300.2(c). Those
+
+20 unusual circumstances include the fact that an agency would typically ban a product only when
+
+21 alternative products have fewer impacts. The Ordinance is unusual in that the City has chosen to
+
+22 ban product-polystyrene foam-that has superior environmental attributes to alternative
+23 products. It is also an unusual circumstance for the City to adopt a ban in the face of findings by
+
+24 the state agencies with primary jurisdiction over water quality, recycling, and waste that bans are
+
+25 ineffective or bad public policy.
+
+26 134. Independently, the cumulative impact exception applies here such that the City
+
+27 may not rely on a Class 8 exemption. The CEQA Guidelines provide that exemptions "are
+28 inapplicable when the cumulative impact of successive projects of the same type in the same
+
+LATHAM•WATKINS… US-DOCS\105681742 VERIFIED PETTTION FOR WRIT OI
+ATTORNEYS AT LAW
+SAN DIEGO 41 AND COMPLAINT FOR INJU DECLARATOR
+
+place, over time is significant." Cal. Code Regs., § 15300.2(b). The evidence in the record
+
+2 shows that polystyrene foam bans will have significant cumulative effect on the environment.
+3 Approximately 117 jurisdictions in California have banned the distribution and sale of
+4 polystyrene. When analyzed together, substituting polystyrene foam for its alternatives due to
+
+5 this ban in conjunction with others results in significantly increased energy consumption, greater
+
+6 GHG emissions, decreased water quality, increased marine litter, increased water use, increased
+7 particulate emissions, increased VOC emissions, increased criteria air pollutant emissions,
+
+8 increased forest products consumption, and increased material sent to recycling and landfilling
+
+Q facilities.
+
+10 135. As a result of the foregoing defects, the City prejudicially abused its discretion by
+
+11 relying on exemptions for CEQA compliance for the Ordinance. As such, the Ordinance must be
+
+12 set aside until the City complies with CEQA and prepares an environmental impact report.
+
+13 SECOND CAUSE OF ACTION
+
+14 (Declaratory Relief)
+
+15 136. The foregoing allegations are incorporated by reference.
+
+16 137. An actual controversy exists between Petitioners and Plaintiffs on the one hand,
+
+17 and the City on the other, involving substantial questions regarding the City's compliance with
+
+18 CEQA.
+
+19 138. Accordingly, Petitioners and Plaintiffs seek a declaration of the rights of the
+
+20 public and the obligations of the City under CEQA.
+
+21 139. Such a declaration is a necessary and proper exercise of the Court's power at this
+22 time and, under the circumstances, in order to prevent further actions by the City in violation of
+
+23 law.
+
+24 PRAYER FOR RELIEF
+
+25 A. A declaration of the rights and duties of the respective parties stating that the
+
+26 Ordinance violates CEQA as alleged herein;
+
+27 B. For alternative and peremptory writs of mandate directing the City to set aside the
+
+28 Ordinance for violations of CEQA, as alleged herein;
+
+LATHAM•WATKINS US-DOCS\105681742 VERIFIED PETITION FOR WRIT
+ATTORNEYS AT LAW
+SAN DIEGO AND COMPLAIN'
+42
+
+C. For alternative and peremptory writs of mandate directing the City to comply with
+CEQA and the CEQA Guidelines, and to take any other action as required by Public Resources
+
+3 Code section 21168.9;
+
+4 D. For a temporary stay, temporary restraining order, and preliminary and permanent
+
+5 injunctions restraining the City and its agents, servants, and employees, and all others acting in
+
+6 concert with the City on its behalf, from taking any action to implement the Ordinance, pending
+full compliance with the requirements of CEQA, the CEQA Guidelines, and all other applicable
+laws and regulations as alleged herein;
+
+9 E. An order directing the recovery of reasonable attorneys' fees incurred in this
+
+10 matter from the defendants, respondents, and/or real parties in interest, jointly and severally,
+
+11 pursuant to Code of Civil Procedure section 1021.5 or other applicable law;
+
+12 F. An order directing the recovery of costs of suit incurred herein from defendants,
+
+13 respondents, and/or real parties in interest, jointly and severally; and
+
+14 G. Such other and further relief as the Court deems just, proper, or appropriate.
+
+15 Dated: March 12, 2019 LATHAM & WATKINS LLP
+
+16
+
+17 By /s/Christopher W. Garrett
+
+18 Christopher W. Garrett Attorneys for Petitioners
+
+19 Jose Gameros, Reinaldo Gatica, Javier Rodriguez, California Restaurant
+20 Association, and Dart Container Corporation of California
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+LATHAM•WATKINS… US-DOCS\105681742 VERIFIED PETITION FOR WRIT
+ATTORNEYS AT LAW
+SAN DIEGO AND COMPLAINT F
+43
+
+- VERIFICATION
+
+2 I, Francis X. Liesman II, am the General Counsel, for Petitioner and Dart
+3 Container Corporation of California, one of the Petitioners in this action, and I am authorized to
+4 make this verification. I have read the foregoing VERIFIED PETITION FOR WRIT OF
+5 MANDATE AND COMPLAINT FOR INJUNCTIVE AND DECLARATORY RELIEF and am
+
+6 familiar with its contents. All facts alleged in the VERIFIED PETITION FOR WRIT OF
+7 MANDATE AND COMPLAINT FOR INJUNCTIVE AND DECLARATORY RELIEF are
+
+8
+
+9 either true of my own knowledge or I am informed and believe them to be true and on that basis
+allege them to be true.
+
+10 1 declare under penalty of perjury under the laws of the State of California that the
+11 foregoing is true and correct.
+12
+
+13 Executed this 12th day of March, 2019, at Mason, Michigan.
+
+14
+
+15 Hu Franeis X. Liesman II
+
+16
+
+17
+
+18
+
+19
+
+20
+21
+22
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+LATHAM•WATKINS US-DOCS\I05681742
+ATTORNEYS AT LAW SAN DI6GO 44 VERIFIED PETITION FOR WRIT OF MANDATE AND COMPLAINT FOR INJUNCTIVE AND DECLARATORY RELIEF
+
+Leceived in tne sau diego omice of the Attorney General:
+
+Date: 3/18/19
+
+18:l Nd 4I 8VH6IOZ Time:_ 2:36 PM
+
+OOFICNVS Bv: RECEPTION
+7VE3N30 NHOLIV
+
+PROOF OF SERVICE
+
+2 I am employed in the County of Los Angeles, State of California. I am over the age of 18
+3 years and not a party to this action. My business address is Latham & Watkins LLP, 355 South
+4 Grand Avenue, Suite 100, Los Angeles, CA 90071.
+
+5 On March 12, 2019, I served the following document described as:
+
+6 NOTICE TO STATE OF CALIFORNIA OFFICE OF THE ATTORNEY
+GENERAL OF COMMENCEMENT OF ACTION SEEKING WRIT OF MANDATE
+AND INJUNCTIVE AND DECLARATORY RELIEF FOR VIOLATION OF CALIFORNIA ENVIRONMENTAL QUALITY ACT by serving a true copy of the above-described document in the following manner: BY U.S. MAIL
+
+I deposited a sealed envelope or package containing the document in accordance with the
+10 office practice of Latham & Watkins for collecting and processing documents for mailing. Iam
+11 familiar with the office practice of Latham & Watkins for collecting and processing documents
+12 for mailing. Under that practice, documents are deposited with the Latham & Watkins personnel
+13 responsible for depositing documents with the United States Postal Service and such documents
+14
+are delivered to the U.S. Postal Service on that same day with postage thereon fully prepaid in the
+15 ordinary course of business. The sealed envelope or package containing the document was
+16
+addressed as set forth above.
+17 Office of the Attorney General 600 West Broadway, Suite 1800 Office of the City Attorney
+18 San Diego, CA 92101-3702 City of San Diego 1200 Third Ave., Suite 1620
+19 Phone: (619) 738-9000 San Diego, CA 92101 (619) 236-6200
+20 I declare that I am employed in the office of a member of the State Bar of California, or
+21 permitted to practice before, this Court at whose direction the service was made and declare
+22 under penalty of perjury under the laws of the State of California that the foregoing is true and
+23 correct.
+24 Executed on March 12, 2019, at Los Angeles, California.
+25 /s/ Shirin Behrooz
+26 Shirin Behrooz
+
+27
+
+28
+
+LATHAM•WATKINS… US-DOCS\106413846.1 NOTICE TO THE ATTORNEY
+ATTORNEYS AT LAW
+SAN DIEGO 3

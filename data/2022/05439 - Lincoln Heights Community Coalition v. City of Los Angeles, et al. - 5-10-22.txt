@@ -1,0 +1,1445 @@
+- MATTHEW C. MACLEAR, SBN 209228
+Email: mcm@atalawgroup.com 2 ERICA A. MAHARG, SBN 279396
+3 Email: eam@atalawgroup.com
+J. THOMAS BRETT, SBN 315820
+4 Email: jtb@atalawgroup.com
+KENYA S. ROTHSTEIN, SBN 340854
+Email: ksr@atalawgroup.com
+
+6 AQUA TERRA AERIS LAW GROUP
+4030 Martin Luther King Jr. Way
+Oakland, CA 94609
+
+8 Telephone: (415) 568-5200
+
+9 Attorneys for Petitioner
+LINCOLN HEIGHTS COMMUNITY COALITION
+
+10
+
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+12 COUNTY OF LOS ANGELES
+
+13
+
+14 LINCOLN HEIGHTS COMMUNITY
+15 COALITION, Case No.: 22STCP01636
+
+16 Petitioner, NOTICE TO ATTORNEY GENERAL
+
+17 VS.
+
+CITY OF LOS ANGELES and CALIFORNIA (Code Civ. Proc. § 388; Cal. Pub. Resources
+
+18 Code § 21167.7)
+
+19 DEPARTMENT OF TOXIC SUBSTANCES
+CONTROL, and DOES 1-10,
+
+20 Respondents,
+
+21 R CAP AVENUE 34, LLC,
+
+22
+
+23 Real Party in Interest.
+
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL
+
+TO THE ATTORNEY GENERAL OF THE STATE OF CALIFORNIA:
+PLEASE TAKE NOTICE, under Public Resources Code section 21167.7 and Code of Civil
+
+3 Procedure section 388, that on May 2, 2022, Lincoln Heights Community Coalition ("Petitioner")
+
+4 filed a Verified Petition for Writ of Mandate against the City of Los Angeles ("City") and California
+5 Department of Toxic Substances Control ("DTSC') in the Los Angeles County Superior Court. The
+
+6 Petition challenges the adequacy and lawfulness of DTSC's approval of the Addendum to the Avenue
+7 34 Project Initial Study/Mitigated Negative Declaration, SCH 2017021069 ("MND"), and the City's
+
+8 failure to supplement the MND after significant contamination was discovered at the site of the
+
+9 approved project.
+
+10 The lawsuit is based on violations of the California Environmental Quality Act (CEQA) and
+11 Health and Safety Code. Petitioner seeks an injunction until DTSC and the City meet the requirements
+12 of CEQA and the Health and Safety Code and recovery of Petitioner's reasonable costs and attorneys'
+13 fees under Code of Civil Procedure section 1021.5 or other applicable theories, as discussed more
+14 fully in the Petition attached to this notice.
+
+15
+DATED: May 5, 2022 AQUA TERRA AERIS LAW GROUP 16
+
+17
+
+18 rM
+19 Matthew C. Maclear
+Attorneys for LINCOLN HEIGHTS 20 COMMUNITY COALITION
+
+21
+
+22
+
+23
+24
+
+25
+
+26
+
+27
+
+28
+
+NOTICE TO ATTORNEY GENERAL
+
+F PROOF OF SERVICE
+
+2
+I am a citizen of the United States, employed in the County of Alameda. My business 3 address is 4030 Martin Luther King Jr. Way, Oakland, California 94609. I am over the age of 18
+4 a years and not a party to the above-entitled action. Document(s) served:
+5 NOTICE TO ATTORNEY GENERAL
+6 On May 5, 2022, I served the foregoing document(s) on the parties in this action, located on
+7 the attached service list, by placing copies thereof in sealed envelopes addressed as shown below
+8 for service as designated below:
+
+9 (xx) By First Class Mail: Deposited the sealed envelope with the United States
+10 Postal Service, with the postage fully paid.
+By Personal Service: I personally delivered each such envelope to the office of 11 the address on the date last written below.
+12 By Overnight Mail: I caused each such envelope to be placed in a box or other facility regularly maintained by the express service
+13 carrier, or delivered to an authorized courier or driver
+authorized B• the express service carrier to receive
+14 documents, in an envelope or package designated by the express service carrier with delivery fees paid or
+15 provided for.
+By Electronic Transmission: Based on a court order or an agreement of the parties to 16 accept service by electronic transmission, I caused the documents to be sent to the person(s) at the e-mail 17 addresses listed below. I did not receive, within a reasonable time after the transmission, any electronic 18 message or other indication that the transmission was
+unsuccessful. 19
+
+20 I declare under penalty of perjury under the laws of the State of California that the above is
+21 true and correct. Executed on May 5, 2022, Hayward, California.
+22
+
+23
+
+24 Emiralle fats Esmeralda Bustos
+25
+
+26
+
+27
+
+28
+
+2
+NOTICE TO ATTORNEY GENERAL
+
+SERVICE LIST F
+
+2 CEQA Coordinator
+Office of the Attorney General 3 Environment Section
+1300 "I" Street
+4 Sacramento, CA 95814-2919
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+3
+NOTICE TO ATTORNEY GENERAL
+
+EHUCARY MJ ¡PoHvI Juutt SUIHIUIIIICA, uuIy VI LUJ J MIgUIU UN VUIVEILULS VT.I0Im UICIEIN anUI, ouuis, vy it i vius,bupury viuin 22STCP01636
+
+MATTHEW C. MACLEAR, SBN 209228
+
+2 Email: mcm@atalawgroup.com
+ERICA A. MAHARG, SBN 279396
+
+3 Email: cam@atalawgroup.com J. THOMAS BRETT, SBN 315820
+4 Email: jtb@atalawgroup.com
+KENYA S. ROTHSTEIN, SBN 340854
+5 Email: ksr@atalawgroup.com
+
+6 AQUA TERRA AERIS LAW GROUP
+4030 Martin Luther King Jr. Way
+7 Oakland, CA 94609
+Telephone: (415) 568-5200
+8
+
+9 Attorneys for Petitioner
+
+10 LINCOLN HEIGHTS COMMUNITY COALITION
+
+11 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+12 COUNTY OF LOS ANGELES
+13
+
+14 LINCOLN HEIGHTS COMMUNITY Case No.: 22STCP01636
+15 COALITION,
+VERIFIED PETITION FOR WRIT OF
+16 Petitioner, MANDATE (California Environmental
+
+17 Quality Act, Pub. Resources Code § 21100 VS. et seq.; Code of Civil Procedure §§ 1094.5
+18 CITY OF LOS ANGELES and CALIFORNIA and 1085)
+
+19 DEPARTMENT OF TOXIC SUBSTANCES
+CONTROL, and DOES 1-10,
+20
+
+21 Respondents,
+
+22 R CAP AVENUE 34, LLC,
+23 Real Party in Interest.
+24
+
+25
+
+26
+
+27
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+Petitioner LINCOLN HEIGHTS COMMUNITY COALITION (*Petitioner" or "Coalition")
+2 brings this action for writ of mandate under the California Environmental Quality Act ("CEQA")
+
+3 ("Petition") and Code of Civil Procedure section 1094.5, or in the alternative Code of Civil Procedure
+
+4 section 1085, on behalf of Petitioner's interested members and residents and the public interest.
+
+5 INTRODUCTION
+
+6 1. In 2017, the City of Los Angeles (the "City") approved the "Avenue 34 Project," the
+7 redevelopment of an approximately 5-acre site in the Lincoln Heights neighborhood of the City. The
+
+8 Avenue 34 Project consisted of demolishing several existing buildings and constructing a mixed-use
+9 development with 372 residential dwelling units and 40,000 square feet for commercial units.
+10 2. In 2017, along with approving the Avenue 34 Project, the City prepared the Initial
+11 Study/Mitigated Negative Declaration (*2017 MND"). The 2017 MND did not disclose any history
+12 of contamination at the site of the Avenue 34 Project (*Project Site") and did not impose any
+13 mitigation measures to protect against the Avenue 34 Project's environmental impacts as a result of
+14| potential contamination.
+
+15 3. In 2021, sampling at the Project Site found widespread contamination at the Project
+16 Site.
+
+17 4. Sampling at the Project Site in 2021 identified chemicals of concern (COCs), including
+18 tetrachloroethylene (PCE), trichloroethene (TCE), vinyl chloride (VC), and total petroleum
+19 hydrocarbons (TPH) in soil gas and soil. The maximum concentrations of soil gas for many of these
+20 constituents were found to be thousands of times higher than Screening Levels for Residential Air
+21 established by the Department of Toxic Substances Control (DTSC).
+
+22 5. After discovering this contamination, Real Party-in-Interest R Cap Avenue 34, LLC,
+23 the current developer of the Avenue 34 Project (*Applicant"), prepared a draft Removal Action
+24 Workplan (RAW), which DTSC reviewed and published for public comment in November 2021.
+
+25 6. The RAW summarizes sampling conducted at the Project and proposes to remove
+26 small portion of the contaminated soil and potentially implement an as-yet-undefined vapor extraction
+27 system in the future.
+
+28
+
+1
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+- 7.
+
+2 Site. The draft RAW did not identify any on-site source of past contamination at the Project
+
+3 8.
+
+4 During public comments, community members, as a result of their own historical
+
+5 research, notified DTSC that the Project Site was, in fact, the location of an illegal toxic waste dump
+in the 1980s. American Caster, a previous occupant of the Project Site, had buried approximately 254,
+6 52-gallon, barrels of hazardous waste in various locations
+7 contained xylene, toluene, and other volatile at the Project Site. The buried barrels
+
+8 hazardous waste barrels were organic compounds (VOCs). A majority of the 254
+corroded, with their contents having already leaked into the surrounding
+9 soil. A comprehensive cleanup has never occurred on the Project Site despite this dumping.
+10 9. Despite numerous analyses supposedly reviewing potential contamination at the
+11 Project Site, this egregious history of toxic dumping at the Project Site was first disclosed to the public
+12 in December 2021.
+
+13 10. DTSC did not require any modification to the RAW after discovering the widespread,
+14 historical contamination of the Project Site.
+
+15 11. Prior to approving the final RAW, DTSC prepared an addendum to the 2017 MND
+16 (*2022 Addendum"'). DTSC filed a Notice of Determination approving the 2022 Addendum on April
+17 1, 2022.
+
+18 12.
+
+19 Project Site. The 2022 Addendum says nothing about the past dumping and contamination at the
+
+20 13.
+
+21 Neither DTSC nor the City have required additional testing or analysis to determine if
+the past contamination has resulted or could result in off-site impacts as a result of the Avenue 34
+22 Project.
+
+23 14. The Coalition and its members have presented substantial evidence that the
+24 contamination at the Project Site may have significant impacts to the neighboring community.
+25 15. Yet neither the City nor DTSC have ever required sampling to be conducted outside
+26 of the Project Site within the neighboring community, and no study analyzing whether the Avenue
+27 34 Project will cause on-site contamination to result in off-site environmental impacts has ever been
+28 prepared.
+
+2
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 16. Because of Respondents' inaction, the Coalition, on behalf of its members, bring this
+
+2 action to ensure that all potentially significant environmental impacts from the Avenue 34 Project
+3 have been disclosed and mitigated if feasible and that all rules, policies, and procedures applicable to
+4 the investigation and RAW have been followed.
+
+5 JURISDICTION AND VENUE
+
+6 17. The Court has jurisdiction over this matter in accordance with Code of Civil Procedure
+7 sections 1085 and 1094.5 and Public Resources Code sections 21168 and 21168.5
+
+8 18. Venue is proper in Los Angeles County because the Avenue 34 Project, which is at
+
+9 issue is this case, is located within Los Angeles County.
+
+10 19. This complaint is timely filed within any and all applicable statutes of limitations.
+11 THE PARTIES
+
+12 20. Petitioner LINCOLN HEIGHTS COMMUNITY COALITION is a mutual benefit
+13 nonprofit corporation formed and registered in the State of California.
+
+14 21. Respondent CALIFORNIA DEPARTMENT OF TOXIC SUBSTANCES CONTROL
+a 15 (DTSC) is a public agency of the State of California organized and existing under, and pursuant to,
+16 Health and Safety Code section 58000 et seq.
+
+17 22. DTSC is the lead agency overseeing the cleanup of the Project Site and approved the
+18 Removal Action Workplan and the 2022 Addendum evaluating the potential significant
+19 environmental impacts of the RAW.
+
+20 23. Respondent CITY OF LOS ANGELES (the "City") is a municipality formed under
+
+21 the laws of the State of California.
+
+22 24. The City is the lead agency for CEQA purposes and approved the Avenue 34 Project
+23 and the 2017 MND.
+
+24 25. Real Party in Interest R CAP AVENUE 34, LLC is a limited liability company formed
+25 in Delaware and registered in California. R Cap Avenue 34 LLC is identified as the most recent
+26 applicant for the Avenue 34 Project.
+
+27 26. The true names and capacities, whether individual, corporate, associate, coconspirator,
+28 partner, or alter-ego of those Respondents sued herein under the fictitious names of DOES 1 through
+
+3
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+10, inclusive, are not known to Petitioner, who therefore sues those Respondents by such fictitious
+2 names. Petitioner will ask leave of court to amend this Petition and insert the true names and capacities
+3 of these defendants and respondents when the same have been ascertained. Petitioner is informed and
+
+4 believes, and on that basis allege, that each of the Respondents designated herein as a DOE respondent
+
+5 is legally responsible in some manner for the events and happenings alleged in this Petition, and that
+
+6 Petitioner's alleged injuries were proximately caused by the defendants' conduct.
+
+7 STANDING
+
+8 27. Members of Petitioner Lincoln Heights Community Coalition live and/or work in the
+9 direct vicinity of the Project Site. The Coalition advocates for a safe, healthy, and diverse Lincoln
+10 Heights.
+
+11 28. The Coalition, as well as its individual members, have been actively involved in
+12 monitoring the Avenue 34 Project, including but not limited to submitting comments on the draft
+13 Removal Action Workplan; contacting the City of Los Angeles, DTSC, and elected officials about
+14 their concerns over the contamination on the site and other impacts of the Avenue 34 Project;
+15 educating and speaking with neighbors about the Avenue 34 Project; and pursuing administrative and
+16 legal remedies to address the actual and/or potential harms caused by the Avenue 34 Project.
+
+17 29. Failure by Respondents to properly evaluate and ascribe appropriate mitigation for the
+18 potential harm from the contamination at the Site harms Coalition members' interests and uses of
+19 their residences, workplaces, and community. Unless the requested relief is granted, the Coalition's
+20 interests will continue to be injured. The injuries described above are actual, concrete injuries that
+
+21 will occur unless relief is granted by this Court. The relief sought herein, Respondents' compliance
+
+22 with CEQA and the Health and Safety Code, would redress the Coalition's injuries. The Coalition
+23 has no other adequate remedy at law, and they bring this action on behalf of their adversely affected
+24 members.
+
+25 30. Respondents' failures, set forth in this Petition, constitute a prejudicial abuse of
+26 discretion within the meaning of the Code of Civil Procedure and CEQA. (See Code Civ. Proc., § §
+
+27 1085, 1094.5; Pub. Resources Code, §§ 21168, 21168.5.)
+
+28
+
+4
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+31. The Coalition has no plain, speedy, or adequate remedy in the ordinary course of law.
+
+2 If Respondents' approval of the Project moves forward without adequate CEQA review or in full
+
+3 compliance with Health and Safety Code requirements, the Coalition, its members, and the
+4 environment will be irreparably harmed. No money damages could adequately compensate for that
+
+5 harm.
+
+6 EXHAUSTION OF ADMINISTRATIVE REMEDIES
+
+7 32. The Coalition has performed all conditions precedent to this filing and participated in
+
+8 the administrative process. While there was no public comment period for the 2022 Addendum, the
+9 Coalition actively submitted comments on the Removal Action Workplan, the only public process
+
+10 available to them.
+
+11 33. Moreover, the Coalition has submitted public comments and engaged in all public
+12 processes available to them as the City has authorized subsequent discretionary approvals after the
+13 2017 MND for the Avenue 34 Project.
+
+14 34. As such, the Coalition has fully exhausted its administrative remedies, to the extent
+15 such remedies exist and to the extent that exhaustion of administrative remedies is legally necessary.
+16 NOTICE OF CEQA SUIT
+
+17 35. The Coalition has complied with California Public Resources Code section 21167.5
+18 by providing written notice of commencement of this action to Respondents prior to filing this
+19 Petition. A true and correct copy of the notice provided pursuant thereto, with proof of service thereof,
+
+20 is attached hereto as Exhibit A.
+
+21 ELECTION TO PREPARE RECORD
+
+22 36. The Coalition herein elects to prepare the CEQA administrative record in this
+23 proceeding pursuant to Public Resources Code section 21167.6(b)(2).
+
+24 PRIVATE ATTORNEY GENERAL DOCTRINE
+
+25 37. Petitioners bring this action as a private attorneys general pursuant to California Code
+26 of Civil Procedure section 1021.5, and any other applicable legal theory, to enforce important rights
+27 affecting the public interest.
+
+28
+
+5
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+38. Issuance of the relief requested in this Petition will confer significant benefits on the
+2 general public by, among other benefits, requiring Respondents to properly identify, disclose,
+
+3 analyze, and mitigate the direct, indirect, and cumulative impacts of the Project and the Removal
+
+4 Action Workplan in a Supplemental MND or Environmental Impact Report that were not properly
+disclosed, analyzed, or mitigated in the 2022 Addendum and will ensure that the RAW meets Health
+6 and Safety Code requirements that protect public health and safety and the environment.
+
+7 39. Issuance of the relief requested in this Petition will result in the enforcement of
+8 important rights affecting the public interest. By compelling Respondents to complete a legally
+9 adequate analysis of the Avenue 34 Project and/or Removal Action Workplan, Respondents will be
+10 required to properly and publicly disclose and analyze all of the potentially significant, adverse
+11 environmental effects and to ensure that all feasible mitigation measures or alternatives that would
+12 reduce or avoid such potentially significant, adverse environmental impacts are implemented. Further,
+13 by compelling DTSC to comply with Health and Safety Code Requirements, DTSC will be required
+14 to ensure the RAW or any other investigation or cleanup action at the Project Site effectively protects
+15 public health and safety and the environment.
+
+16 40. The necessity and financial burden of enforcement are such as to make an award of
+17 attorneys' fees appropriate in this proceeding. Absent enforcement by the Coalition, the Avenue 34
+18 Project and/or Removal Action Workplan might otherwise be deemed valid despite its legally and
+19 factually inadequate disclosures, analysis, conclusions, mitigation measures, and alternatives, among
+20 other things. As a result, potentially significant, adverse environmental effects might otherwise have
+21 evaded legally adequate environmental review and mitigation in accordance with the California
+22 Legislature's policy of affording the greatest protections to the environment within the scope of
+23 CEQA. Moreover, the RAW would remain in place despite its failure to effectively protect public
+24 health and safety and the environment as required by law.
+
+25 LEGAL FRAMEWORK
+
+26 A. CALIFORNIA ENVIRONMENTAL QUALITY ACT
+
+27 41. CEQA has two purposes: environmental protection and informed self-government.
+28 Woodward Park Homeowners Assn., Inc. v. City of Fresno, 150 Cal.App.4th 683, 690-691
+
+6
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+(2007). CEQA is "to be interpreted to afford the fullest possible protection to the environment within
+2 the reasonable scope of the statutory language." Mountain Lion Foundation v. Fish & Game Com.,
+3 16 Cal.4th 105, 134 (1997). CEQA requires agencies to "take all action necessary to protect,
+
+4 rehabilitate, and enhance the environmental quality of the state." Pub. Resources Code, § 21001(a).
+
+5 42. Prior to approving any discretionary project, an agency must fully disclose and analyze
+
+6 all of the project's potentially significant direct, indirect, and cumulative environmental effects. See,
+
+7 e.g., CEQA Guidelines § 15002(f)), and must avoid or minimize such environmental damage where
+
+8 feasible, CEQA Guidelines § 15021(a). Pursuant to this duty, no public agency may approve or carry
+out a project where one or more significant effects on the environment may occur if the project is
+10 approved, unless certain narrow findings are made. CEQA Guidelines § § 15091, 15093.1
+
+11 43. Generally, the lead agency conducting the CEQA analysis will first prepare an initial
+12 study to "determine if the project may have a significant effect on the environment." CEQA
+13 Guidelines, § 15063.
+
+14 44. If the "project, either individually or cumulatively, may cause a significant effect on a
+15 the environment," the lead agency, in most cases, will prepare an Environmental Impact Report (EIR).
+16 (Id. [emphasis added].)
+
+17 45. The lead agency may prepare a negative declaration "if there is no substantial evidence
+18 that the project or any of its aspects may case a significant effect on the environment." (Id.; CEQA
+19 Guidelines § 15070(a).)
+
+20 46. The CEQA Guidelines also allow a lead agency to prepare a mitigated negative
+21 declaration (MND) if the project would not have a significant effect on the environment after
+22 implementation of mitigation measures. (CEQA Guidelines § 15070(b); see also Friends of College
+23 of San Mateo Gardens V. San Mateo County Community College Dist. (2017) 11 Cal. App. 5th 596,
+24 604 ["San Mateo Gardens"].)
+
+25 47. CEQA requires a lead agency to take additional actions when approving a project
+26 within a quarter mile of a school when that project "might reasonably be anticipated to emit hazardous
+27
+
+28 The CEQA Guidelines are found at California Code of Regulations, Title 14, Division 6, Chapter 3, Sections 15000- 15387.
+7
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 air emissions" or involve the handling of extremely hazardous substances. (Pub. Res. C. $21151.4(a)-
+
+2 (b); see also CEQA Guidelines §15186(b)(1)-(2).)
+
+3 48. Public Resources Code section 21166 and CEQA Guidelines section 15162 provide
+
+4 that a subsequent analysis must be prepared where: (i) the revised project will create new significant
+
+5 impacts on the environment that were not previously identified, (ii) the revised project will create a
+
+6 substantial increase in the severity of a previously identified significant impact, or (iii) there is new
+7 information of substantial importance that was not previously available, which shows a new
+8 significant impact, substantial increase in the severity of previously identified significant impact, or
+9 mitigation measures that were not considered would substantially reduce one or more significant
+
+10 effects on the environment.
+
+11 49. An addendum to a negative declaration is permitted "only if minor technical changes
+12 or additions are necessary or none of the conditions described in [CEQA Guidelines] Section 15162
+13 calling for the preparation of a subsequent EIR or negative declaration have occurred." CEQA
+
+14 Guidelines 15164(b).
+
+15 50. An agency must prepare a subsequent EIR or negative declaration, rather than an
+16 addendum, "whenever there is substantial evidence to support a fair argument that proposed changes
+17 might have a significant environmental impact not previously considered in connection with the
+18 project as originally approved." (San Mateo Gardens, 11 Cal. App. 5th at 607 [internal quotations
+19 and citations omitted].)
+
+20 B. RELEVANT HEALTH & SAFETY CODE REQUIREMENTS
+
+21 51. Health and Safety Code section 25355.5(a)(1)(C) authorizes DTSC to enter into a
+22 voluntary enforceable agreement to provide for review and comment on proposed plans for the
+23 investigation and/or remediation of a release or a threatened release of any hazardous substance at or
+
+24 from the site.
+
+25 52. A removal action work plan is a plan prepared by or approved by DTSC for a removal
+26 action (i.e., "the cleanup or removal of released hazardous substances from the environment or the
+27 taking of other actions as may be necessary to prevent, minimize, or mitigate damage which may
+28 otherwise result from a release or threatened release . . ."). (Health & Safety Code § § 25323, 25323.1.)
+
+8
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+53. A removal action must, "in an effective manner," be "protective of the public health
+
+2 and safety and the environment. The removal action work plan shall include a detailed engineering
+plan for conducting the removal action, a description on the onsite contamination, the goals to be
+4 achieved by the removal action, and any alternative removal options that were considered and rejected
+
+5 and the basis for that rejection." (Health & Safety Code § 25323.1.)
+
+6 54. Health and Safety Code section 25355.7 orders DTSC to "establish policies and
+7 procedures . . . that [DTSC's] representative shall follow in overseeing and supervising the activities
+8 of responsible parties who are carrying out the investigation of, and taking removal or remedial
+
+9 actions at, hazardous substance release sites."
+
+10 55. DTSC has adopted a number of policies and procedures to govern removal and
+11 remedial actions, including but not limited to the Final Guidance for the Evaluation and Mitigation
+12 of Subsurface Vapor Intrusion to Indoor Air, October 2011 ("Vapor Intrusion Guidance").
+
+13 FACTUAL BACKGROUND
+
+14 C. CITY OF LOS ANGELES' INITIAL APPROVAL OF AVENUE 34 PROJECT
+
+15 56. The Project Site is located at 3401-3437 North Pasadena Avenue and 135-137 West
+16 Avenue, Los Angeles, California 90031.
+
+17 57. The Avenue 34 Project was originally proposed to include the demolition of an 86,712
+18 square-foot warehouse building, along with other structures, to allow for the construction and
+
+19 operation of a mixed-use development with 372 residential dwelling units and 40,000 square feet for
+
+20 commercial uses.
+
+21 58. The Project Site is located in the Lincoln Heights neighborhood of Los Angeles.
+
+22 59. "CalEnviroScreen is a screening methodology that can be used to help identify
+23 California communities that are disproportionately burdened by multiple sources of pollution."2
+24 According to CalEnviroScreen, the Project Site and the surrounding streets have a pollution burden
+25 percentile of 100 and an overall CalEnviroScreen percentile of 98. The area is exposed to diesel
+26 particulate matter in the 95th percentile, to Particulate Matter 2.5 in the 94th percentile, and to traffic
+
+27
+
+28
+2 https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40
+9
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+in the 92nd percentile. In short, this neighborhood is one of the most heavily polluted census tracts in
+
+2 California.
+
+3 60. Hillside Elementary School, as well as several private residences, are located to the
+4 east of and directly across the street from the Avenue 34 Project.
+
+5 61. Before approving the Avenue 34 Project, the City of Los Angeles, the lead agency for
+
+6 CEQA purposes, prepared the 2017 MND to evaluate the potential environmental impacts of the
+
+7 Avenue 34 Project.
+
+8 62. The 2017 MND recognized that two adjacent properties, Metro Rail Pasadena Blue
+9 Line and the former Welch's Uniform Rental Facility are recorded as hazardous waste sites and that
+
+10 "[t]he solids underneath these properties are contaminated with lead, polychlorinated biphenyls
+11 (PCBs), tetrachloroethane (PCE), and trichloroethylene (TCE)." (2017 MND, p. III-41.) In
+12 contradiction and with disregard for its own findings, the 2017 MND concluded that "there is no
+13 indication from a review of regulatory records and a Project Site inspection that the Project Site has
+14 had any problems concerning the storage, usage or disposal of hazardous materials in relation to these
+15 properties." (Id.)
+
+16 63. The 2017 MND contains no discussion of the past hazardous waste contamination at
+17 the Project Site, nor any mention of public records or a description of the purported "regulatory
+18 records" it searched. Further, there is no mention in any of the CEQA documents about any attempt
+19 to contact the local Certified Unified Program Agency (which enforces, in relevant part, hazardous
+
+20 material and hazardous waste laws) or the Site Mitigation Unit (which provides local oversight for
+21 contaminated properties such as the Ave 34 Project). Both regulatory programs are administered
+22 through the LA County Fire Dept, Health Hazardous Materials Division.
+
+23 64. The 2017 MND states:
+
+24 [N]o signs of illegal dumping…..were observed on the Project Site. There was no evidence of
+
+25 underground storage tanks, septic tanks or wells on the Project Site, and there was no indication of obvious contamination on the Project Site.
+26 (2017 MND, p. III-41.)
+27
+
+28
+
+10
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+65. The discussion of the contamination (or lack of contamination) at the Project Site was,
+2 at least in part, based on a Phase I Environmental Site Assessment conducted in 2015.3
+
+3 66. The 2017 MND contains no mitigation measures related to the Avenue 34 Project's
+4 impacts on the environment related to soil contamination, hazardous vapor intrusion, or vapor
+
+5 migration offsite.
+
+67. The only concerns related to hazardous materials that the 2017 MND disclosed and
+
+7 addressed through mitigation measures were related to lead and asbestos in the existing buildings.
+
+8 68. Although the City did not impose any mitigation measures to minimize or avoid harms
+9 from contaminated soils, the City's zoning ordinance subjects the Project Site to various Regulatory
+
+10 Compliance Measures (RCMs), including a condition requiring that:
+
+11
+
+12 Property owners shall satisfy any requirements from the State Department of Toxic Substances Control (DTSC) in relation to potential contamination on the subject site. Prior
+13 to the issuance of any clearances by the Department of City Planning (DCP), property owners shall provide to DCP a letter from DTSC that establishes DTSC's satisfaction that
+14 the subject site currently meets DTSC requirements for the proposed use or, alternatively, that establishes DTSC's satisfaction with the property owner's contamination testing plan
+15 for the proposed use.
+16 (2017 MND, p. 23.) (hereafter "DTSC Approval Requirement").
+
+17 69. On or about February 22, 2017, the City of Los Angeles adopted the 2017 MND.
+
+18 D. POST-APPROVAL CHANGES TO THE AVENUE 34 PROJECT PLAN
+
+19 70. Sometime between February 2017 and the end of 2020, the design and scope of the
+20 Avenue 34 Project was changed significantly, and the project proponent changed to Real Party-in-
+21 Interest R Cap Avenue 34, LLC ("Applicant").
+22 71. The revised Avenue 34 Project would redevelop the same property and construct a
+23 mix-used development with multi-family and commercial uses. However, the revised Avenue 34
+24 Project planned to remove all existing structures, build five new buildings instead of three, increase
+25 the number of residential units from 372 to 468 and increase the number of Very Low Income
+26
+
+27
+
+28 3 A Phase Environmental Site Assessment is a study conducted on a property to evaluate the likelihood of environmental contamination.
+11
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+F affordable units from 31 to 66 units, reduce the commercial space by more than half, and remove
+
+2 sixty-six parking spaces.
+
+3 72. In December 2019, an Addendum to the 2017 MND was prepared ("2019
+4 Addendum") to evaluate the environmental impacts from the changes to the Avenue 34 Project.
+
+5 73. The 2019 Addendum stated that "[t]he environmental setting and existing conditions
+
+6 within the Project Site remain the same as that evaluated for the MND. No significant changes have
+
+7 occurred regarding the existing conditions under which the project would be implemented." (2019
+8 Addendum, p. 11.)
+
+9 74. The 2019 Addendum noted that a new Phase I Environmental Site Assessment, dated
+10 July 19, 2019, had been prepared for the Project Site. Similar to the 2015 Phase I Environmental Site
+11 Assessment, the 2019 Phase I Environmental Site Assessment determined that there was no evidence
+
+12 past contamination or areas of significant environmental concern at the Project Site.
+
+13 75. On December 22, 2020, the Los Angeles City Planning Commission ("Planning
+14 Commission") published a Letter of Determination, wherein it found that the 2019 Addendum met
+15| its obligations under CEQA and approved the revisions to the Avenue 34 Project.
+16 76. The Coalition timely appealed that the Planning Commission's approval to the Los
+
+17 Angeles City Council ("City Council"), on January 2, 2021.
+
+18 77. After the Coalition filed its appeal, the Department of City Planning notified the City
+19 Council that the appeal was not timely because the Avenue 34 Project was approved in 2017 and
+
+20 stated that the appeal should be dismissed.
+
+21 78. The City Clerk then notified the Coalition via email that the appeal was terminated.
+
+22 79. On March 16, 2021, the Coalition responded to the City Council stating the reasons
+
+23 why the appeal was timely and should not be terminated.
+
+24 80. To date, the City Council has not taken action on the Coalition's appeal. The City
+25 website indicates that the City Council must act on the appeal by March 12, 2023.4
+26
+
+27
+
+28
+4 https://cityclerk.lacity.org/lacityclerkconnect/index.cfm?fa=ccfi.viewrecord&cfnumber=21-0024.
+12
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+81. Based on information available to Petitioner, the CEQANet database does not have
+
+2 any record of the final approval of the 2019 Addendum5
+
+3 82. Based on information and belief, the Coalition alleges that the 2019 Addendum never
+4 became final.
+
+5 83. The City has not conducted any CEQA analysis other than the 2017 MND and the
+
+6 2019 Addendum.
+
+7 E. POST-APPROVAL DISCOVERY OF CONTAMINATION AT THE PROJECT SITE AND THE
+REMOVAL ACTION WORKPLAN
+8
+
+9 84. In October 2020, the Applicant requested a letter from DTSC approving the Avenue
+
+10 34 Project, in order to comply with the DTSC Approval Requirement.
+
+11 85. On November 10, 2020, DTSC wrote a letter to the City, stating that DTSC anticipates
+
+12 no risk to future residents from the contamination migrating to the Project Site from adjacent
+13 contaminated properties. The letter does not make any reference to contamination at the Project Site
+14 itself. Prior to writing this letter, DTSC did not require the Applicant to conduct any additional
+
+15 investigation or analysis of the Project Site contamination.
+
+16 86. After community outcry over the DTSC letter approving the Avenue 34 Project, the
+17 Applicant entered into a Voluntary Agreement with DTSC, thereby giving DTSC final approval and
+18 oversight authority over the scope of the investigation, remedial or removal action, and whether to
+
+19 1ssue a no further action closure letter.
+
+20 87. On February 17, 2021, the Applicant submitted a Request for Agency Oversight
+
+21 Application to DTSC, in which the Applicant sought to enter into a Voluntary Agreement with DTSC
+22 a for a Soil Management Plan.
+
+23
+
+24
+
+25
+
+26 • "CEQAnet is the online searchable environmental database of the State Clearinghouse (SCH) within the Office of Planning & Research (OPR). The CEQAnet database contains key information 27 from all California Environmental Quality Act (CEQA) documents submitted to the SCH for state review since 1990."
+28 https://ceqanet.opr.ca.gov/Home/About#:~:text=CEQAnet%20is%20the%20online%20searchable,f I or%20state%20review%20since%201990.
+13
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+88. On March 12, 2021, the Applicant entered into a Voluntary Agreement with DTSC,
+
+2 pursuant to Health & Safety Code section 25355.5(a)(1)(c), which provided for DTSC's review of
+3  environmental assessment reports and a proposed sampling plan.
+
+4 89. The Voluntary Agreement requires that the Applicant "perform the work in
+5 accordance with applicable local, state and federal statutes, regulations, ordinances, rules and
+
+6 guidance documents, in particular, Health and Safety Code section 25300 et seq., as amended."
+7 (Voluntary Agreement, March 12, 2021, 1 6.)
+
+8 90. On July 19, 2021, DTSC and the Applicant entered into an Amended Voluntary
+9 Agreement that changed the scope of work that the Applicant would conduct at the Project Site. In
+10 the Amended Voluntary Agreement, the Applicant, inter alia, committed to prepare a soil sampling
+11 plan, Phase II Investigation Report, supplemental site investigation, and remedy selection and
+12 implementation.' DTSC committed to conduct all necessary CEQA analyses and community and
+13 tribal outreach. The Applicant prepared a Draft Removal Action Work Plan (*Draft RAW") that
+14  summarized the result of soil, soil gas, and groundwater sampling conducted on the Project Site and
+15 identified actions to remove some contamination on site and to reduce human exposure to COCs
+16 present in the subsurface at the Project Site.
+
+17 91. Sampling at the Project Site in 2021 identified chemicals of concern (COCs), including
+18 tetrachloroethylene (PCE), trichloroethene (TCE), vinyl chloride (VC), and total petroleum
+19 hydrocarbons (TPH) in soil gas and soil.
+
+20 92. of these constituents were found to The maximum concentrations of soil gas for many
+21 be thousands of times higher than the DTSC Screening Levels for Residential Air, as indicated the
+22 Table pasted below:
+
+23
+
+24
+
+25
+
+26 6 A Phase II Environmental Site Assessment, also referred to as a "subsurface investigation" or 27 more commonly "site investigation," typically consists of collecting a series of soil, soil gas, which includes sampling for vapor intrusion, and groundwater samples and sending the samples to a 28 laboratory to determine if operations have impacted the property negatively through environmental contamination.
+14
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+COC DTSC Screening Predicted Indoor Predicted Indoor
+2 (Max. Concentration Level for Air Concentration Air Concentration
+Soil Gas 2021) Residential Air using 0.03 AF Calculated Risk Range
+using 0.001 AF (Hazard Quotient)
+1g/m ug/m j4g/m ug/m°
+TPH (1,800,000) 3.1 54,000 1,800 580.6 -- 17,419.4
+4 TCE (100,000) 0.48 3,000 100 (6.25E-03) -(2.08E-04)
+PCE (640,000) 0.46 19,200 640 (4.17E-02) - (1.39E-03)
+5 VC (5,500) 0.0095 165 5.5
+Cis, 1,2-DCE (5,500) (1.74E-02) - (5.79E-04)
+8.3 165 5.5 19.9 - 0.66
+6
+
+7 (Removal Action Work Plan, March 31, 2022 ("RA W"), p. 22)
+
+8 93. Sampling also identified lead, arsenic, and hexavalent chromium in soil and PCE,
+9 TCE, TPH, and dichloroethane (cis,1,2-DCE) in groundwater.
+
+10 94. TCE is characterized as carcinogenic to humans by all routes of exposure as
+
+11 documented in the United States EPA's Integrated Risk Information System. Short-term TCE
+12 inhalation exposure to TCE by women in the first trimester of pregnancy can result in heart
+13 malformation for the developing fetus.
+
+14 95. Vinyl chloride is a known carcinogen and can result in changes to the structure of
+15 livers in individuals who have breathed vinyl chloride for several years. Vinyl chloride, moreover,
+16 can result in nerve damage and immune reactions.7
+
+17 96. PCE is considered a likely human carcinogen by all routes of exposure.8
+
+18 97. Sampling also discovered concentrations of per-and-polyfluoroalkyl substances
+19 (PFAS) in groundwater.
+
+20 98. Neither DTSC nor the Applicant have further analyzed whether PFAS are found within
+
+21 the soil at the Project Site or what impact the presence of PFAS in groundwater will have despite
+22 implementation of the RAW.
+
+23 99. The RAW found that there were a number a of complete exposure pathways for the
+24 contamination at the Project Site, including to "future onsite construction workers, future onsite
+25 residential occupants, future onsite commercial employees, and current and future nearby residents
+
+26
+
+27
+
+28 https://wwwn.cdc.gov/TSP/ToxFAQs/ToxFAQsDetails.aspx?faqid=281&toxid=51
+https://wwwn.cdc.gov/TSP/ToxFAQs/ToxFAQsDetails.aspx?faqid=264&toxid=48
+15
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+- and commercial occupants." (RAW, p. 17.) The RAW further found that "[c]urrent nearby residents
+
+2 and commercial workers are also subject to VI [vapor intrusion] and dust exposure." (Id.)
+
+3 100. As part of the RAW, despite samples taken at and near the Project Site boundaries
+4 indicating the presence of hazardous chemicals of concern and completely exposure pathways to
+5 nearby residents, no sampling was conducted outside of the Project Site to determine potential impacts
+
+6 to off-site community residents, as result of Avenue 34 Project's development of the contaminated
+7 Project Site.
+
+8 101. As a remedy, the Draft RAW proposed to excavate in certain locations of the Project
+9 Site to a depth of 20 feet. After excavation, the Applicant will conduct a soil vapor extraction (SVE)
+10 pilot test and develop a SVE program, "if determined to be necessary." (RAW, p. 24.)
+
+11 102. The excavation in the RAW will leave the majority of the contaminated soil in place,
+12 thereby posing a danger to both the new residents and surrounding community members.
+
+13 103. DTSC made the Draft RAW available for public comment from November 10, 2021
+14 to December 10, 2021.
+
+15 104. DTSC received seventy-one comments on the Draft RAW from concerned community
+16 members, the Coalition, and elected officials.
+
+17 105. Concerned community members, including the Coalition, submitted public comments
+18 detailing the deficient nature of the Draft RAW's mitigation measures and the failure of the Draft
+19 RAW to monitor and/or mitigate exposure to subsurface COCs beyond the boundaries of the Project
+20 Site, including Hillside Elementary and private residences directly across the streets from the Project
+
+21 Site.
+
+22 106. During this time period, local resident, by searching through archival records of the
+23 Los Angeles Times and other newspapers' records, discovered the Project Site was the site of
+
+24 extensive illegal dumping by a previous occupant.
+
+25 107. From 1977 to 1999, a portion of the Project Site was occupied by the American
+26 Caster Corporation (hereafter, "American Caster").
+
+27 108. In 1984, it was discovered that American Caster had buried more than 250, 52-gallon,
+28 barrels of hazardous waste in various locations at the Project Site. Many of barrels were damaged
+
+16
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+F and contained less than full amounts of hazardous wastes. Further, the investigation conducted found
+
+2 that employees of American Caster Corporation and discharged unknown volumes of
+3 hazardous wastes from the Project Site into and through Los Angeles City sewers.
+
+4 109. Investigators discovered in 1984 that the buried barrels contained xylene, toluene, and
+
+5 other volatile organic compounds (hereafter "VOCs"). A majority of the hazardous waste barrels were
+6 corroded, with their contents having already leaked into the surrounding soil. Corporate officers and
+7 employees from American Caster were sentenced to jail time as a result of a prosecution brought
+
+8 through the LA City Attorney's Office.'
+
+9 110. The Draft RAW made no mention of this previous contamination at the Project Site
+10 and was finalized without an adequate investigation of publicly known information or communication
+11 with LA County Fire.
+
+12 111. During the comment period on the Draft RAW, many commenters, including the
+13 Coalition and its consultant, noted that the Draft RAW did not mention nor consider the impacts
+14 arising from this illegal disposal of hazardous waste.
+
+15 112. The Coalition hired a consultant, Dr. James T. Wells of L. Everett & Associates, to
+16 review the adequacy of the Draft RAW and provide comments to DTSC. Dr. Wells has more than
+17 thirty years of experience as an environmental geologist working on assessing the nature and extent
+18 of contamination and remediation of soil, soil vapor, and groundwater.
+
+19 113. The Coalition and Dr. Wells' comments included numerous reasons why the Draft
+20 RAW was inadequate and did not ensure that the Avenue 34 Project would not result in significant
+21 impacts to the environment, including future residents, nearby residents, and construction workers,
+22 including but not limited to:
+
+23 a. The Draft RAW's failure to disclose and consider the impact of American
+
+24 Caster's illegal dumping;
+
+25 b. The lack of a human health risk assessment, even though two different
+26 departments at DTSC-the Geological Services Unit and the Human and Ecological Risk Office
+
+27
+
+28| ° https://capitalandmain.com/amateur-sleuthing-uncovers-history-of-toxic-waste-disposal-at-
+redevelopment-site
+17
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+recommended that a pre-remediation human health risk assessment should be performed to evaluate
+2 the risks posed by the subsurface contamination at the Project Site and the mobilization of such
+3 contamination as a result of Avenue 34 Project development;
+
+4 C. The failure to consider pathways of contaminants outside of the Project Site,
+5 including but not limited to the utilities and sewer lines;
+
+6 d. The Draft RAW's failure to require a cleanup goal sufficient to meet federal
+7 residential standards; and
+
+8 e. The inadequate nature of the removal action, specifically the depth of the
+
+9 proposed excavation and the vague and inadequate SVE program, and the likely impacts on future
+
+10 users as a result.
+
+11 114. In addition to comments submitted by the Coalition, Dr. Wells, and numerous other
+12 community members, elected officials, including Congressman Jimmy Gomez and Supervisor Hilda
+13 L. Solis, submitted comments asking DTSC to conduct further investigation into the potential impacts
+
+14 to community members.
+
+15 115. In its Response to Comments, DTSC summarily dismissed community members' and
+16| elected officials' requests for testing and/or analysis of potential off-site impacts.
+
+17 116. DTSC admitted in its Response to Comments that it was not aware of American
+18 Caster's prior illegal dumping until mid-December 2021. Yet it determined that no further analysis
+19 was necessary without even knowing where the dumping events occurred. Further, DTSC did not
+
+20 require any additional investigation or analysis of soils around sewer pipes, which are
+
+21 known as preferential pathways for the migration of contamination in soils.
+
+22 117. After making only minor changes, DTSC approved the Draft RAW, on March 18,
+23 2022.
+
+24 118. As of March 18, 2022, DTSC still had no information as to the locations of the
+
+25| underground disposals by American Caster at the Project Site.
+
+26 119. The Applicant submitted the Final RAW on March 31, 2022 to DTSC.
+
+27
+
+28
+
+18
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+F. DTSC PREPARES AND ADOPTS THE 2022 ADDENDUM TO THE 2017 MND
+
+2 120. The 2022 Addendum was drafted to address the potential environmental effects of the
+
+3 Final RAW. (2022 Addendum at 1.1.)
+
+4 121. The Addendum analyzes the "potential effects of excavating and hauling the
+I contaminated soil from the site, and the instillation of the [Vapor Extraction Systems] and [Vapor
+
+6 Intrusion Mitigation Systems]." (Addendum at 3.1.)
+
+7 122. The 2022 Addendum does not analyze the potential significant environmental,
+8 including human health, effects from the proposed A venue 34 Project, in light of the new information
+9 regarding the previously-unknown, widespread soil contamination, including contamination resulting
+10 from American Caster, at the Project Site. Instead, the 2022 Addendum only assesses the potential
+11 environmental effects of measures prescribed by the Final RAW.
+
+12 123. The Addendum is devoid of any discussion on the historic contamination at the Project
+13 Site, including but not limited to the contamination resulting from American Caster's unlawful
+14 dumping and sewering of hazardous wastes.
+
+15 124. Despite the discovery of widespread contamination at the Project Site, the 2022
+16| Addendum falsely states that: "No substantial changes in circumstances have occurred since the [2017
+
+17 MND] was prepared and no new information of substantial importance has become available since
+18 the [2017 MND] was prepared." (2022 Addendum, p. 6.)
+
+19 125. The 2022 Addendum provides no analysis of continuing impacts to future users of the
+
+20 Avenue 34 Project as a result of the RAW's inadequate removal plan, including the insufficient
+
+21 excavation of soil and the undersized SVE program.
+
+22 126. The 2022 Addendum provides no analysis of potential offsite impacts to Hillside
+23 Elementary or surrounding residences that may result from the Avenue 34 Project and the soil
+24 contamination at the Project Site.
+
+25 127. The 2022 Addendum does not require monitoring of areas outside the boundaries of
+26 the Project Site for vapor migration or vapor intrusion.
+
+27 128. The 2022 Addendum states that the cleanup activities will use diesel vehicles and
+28 equipment and that implementation of the RAW will cause air impacts to increase by 26%. Yet the
+
+19
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+2022 Addendum finds, without any analysis, that this increase "would not cause any emission source
+
+2 to exceed a peak daily threshold," and concludes such impacts are less than significant.
+
+3 129. Diesel emissions negatively impact human health, by causing serious health conditions
+4 like asthma and worsening hearth and lung disease, especially in children and the elderly, like those
+at Hillside Elementary and in the immediate vicinity of the Project Site.
+
+130. The impact of diesel emissions is especially pronounced in the areas surrounding these
+7 Project Site, which as noted above, are already exposed to diesel particulate matter in the 95th
+8 percentile according to CalEnviroScreen.
+
+131. Diesel emissions also contribute to the production of ground-level ozone and acid rain,
+10 affecting crops, trees, and waterways.
+
+11 132. The 2022 Addendum further discloses that truck traffic will increase by 12% as a result
+12 of the implementation of the RAW. Yet the 2022 Addendum fails to provide evidence to support the
+13 conclusion that this increase would not result in potentially significant impacts to any of the
+14 surrounding streets, in particular the two-way residential streets abutting the Project Site.
+
+15 133. The 2022 Addendum does not discuss potential cumulative impacts of the Avenue 34
+a 16 Project as a result of the newly-acquired information of the contamination on-site or the adoption of
+17 the RAW.
+
+18 134. DTSC did not publish the 2022 Addendum for public comment.
+
+19 135. DTSC adopted the Addendum and filed a Notice of Determination on April 1, 2022.
+
+20 FIRST CLAIM FOR RELIEF
+
+21 (Violations of CEQA by DTSC)
+
+22 136. The Coalition incorporates by reference each and every allegation contained in
+23 Paragraphs 1 through 135 as though fully set forth herein.
+
+24 137. DTSC's action in approving the 2022 Addendum constitutes a prejudicial abuse of
+25 discretion in that DTSC failed to proceed in the manner required by law and failed to support its
+26 decision with substantial evidence. Among other things, DTSC:
+
+27 a. Failed adequately to disclose, analyze, mitigate, and/or avoid the new
+28 potentially significant environmental impacts of the Avenue 34 Project, including but not limited to
+
+20
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 hazards and hazardous materials, air quality, and transportation, which result from the newly-
+2 identified and widespread contamination at the Site and were not previously disclosed in the 2017
+
+3 IS/MND.
+
+4 b. Failed adequately to disclose, analyze, mitigate, and/or avoid the new
+
+5 potentially significant environmental impacts, including but not limited to hazards and hazardous
+6 materials, air quality, and transportation, which result from changes to the Avenue 34 Project,
+7 specifically the adoption of the RAW.
+
+8 C. Failed adequately to disclose, analyze, mitigate, and/or avoid new and
+9 substantial increases in the severity of significant cumulative impacts on all areas based on new
+10 information that was not previously available.
+
+11 d. Failed adequately to disclose and analyze new mitigation measures that were
+12 not considered that would substantially reduce the severity of one or more significant effects on the
+13 environment.
+
+14 e. Failed to prepare and circulate a subsequent EIR or negative declaration when
+
+15 required under Public Resources Code section 21166 and CEQA Guidelines section 15162, which
+
+16 among other things deprived Petitioner and other interested individuals of their opportunity to
+17 participate in formal public review and comment in accordance with CEQA Guidelines sections
+18 15162(d) and 15163(c).
+
+19 138. DTSC further violated CEQA by adopting findings that are inadequate as a matter of
+
+20 law because they do not contain the findings required when approving a project based on a
+21 supplemental or subsequent EIR and they are not supported by substantial evidence in the record.
+
+22 139. As a result of the foregoing defects, DTSC prejudicially abused its discretion by
+23 proceeding with the 2022 Addendum and approving the Removal Action Workplan in reliance
+24 thereon. Accordingly, DTSC's determination that the 2022 Addendum was appropriate and approval
+
+25 of the Removal Action Workplan and all other approvals and entitlements, which rely on the defective
+26 2022 Addendum, must be set aside.
+
+27 ### HH#
+
+28 ###
+
+21
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 SECOND CLAIM FOR RELIEF
+
+2 (Violations of CEQA by City of Los Angeles)
+
+3 140. The Coalition incorporates by reference each and every allegation contained in
+
+4 Paragraphs 1 through 139 as though fully set forth herein.
+
+5 141. The City's failure to prepare a subsequent EIR or negative declaration in response to
+
+6 substantial changes in the Avenue 34 Project and/or the discovery of new information, will result in
+
+7 one or more significant effects not previously discussed in the 2017 MND and constitutes a prejudicial
+
+8 abuse of discretion because the City failed to proceed in the manner required by law.
+
+9 142. The City's failure to prepare and circulate subsequent EIR or negative declaration
+10 when required under Public Resources Code section 21166 and CEQA Guidelines section 15162,
+11 among other things, deprived Petitioner and other interested individuals of their opportunity to
+
+1i •12 participate in formal public review and comment in accordance with CEQA Guidelines sections
+13 15162(d) and 15163(c).
+
+14 143. Accordingly, the City's approvals of the Avenue 34 Project must be set aside.
+
+15 THIRD CLAIM FOR RELIEF
+
+16 (Violations of Health and Safety Code by DTSC)
+
+17 144. The Coalition incorporates by reference each and every allegation contained in
+18 Paragraphs 1 through 143 as though fully set forth herein.
+
+19 145. DTSC's action in approving the RAW constitutes a prejudicial abuse of discretion in
+20 that DTSC failed to proceed in the manner required by law and failed to support its decision with
+21 substantial evidence, including but not limited to:
+
+22 a. Failing to comply with Health and Safety Code section 25355.7, among other
+23 legal requirements; and
+
+24 b. Failing to support its conclusion that the RAW will effectively protect public
+25 health and safety and the environment.
+
+26 146. DTSC violated the requirements of Health and Safety Code section 25355.7 by, among
+27 other things, failing to comply with the policies and procedures established in the Vapor Intrusion
+28 Guidance, including but not limited to the following:
+
+22
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 a. Failing to evaluate and describe the past historical contamination on the Project
+
+2 a Site as a result of American Caster's toxic dumping;
+
+3 b. Failing to evaluate all potential pathways for vapor intrusion, including but not
+
+4 limited to the utilities and sewer lines;
+
+5 C. Failing to fully delineate the extent of VOC contamination and the soil gas
+
+6 contaminant plume;
+
+7 d. Failing a to prepare a sufficient conceptual site model;
+
+8 e. Failing a to conduct a human health risk assessment, in particular with respect
+9 to Hillside Elementary; and
+
+10 f. Failing to calculate cumulative health risks.
+
+11 147. As a result of the foregoing defects, DTSC prejudicially abused its discretion by
+12 approving the Removal Action Workplan. Accordingly, DTSC's approval of the Removal Action
+
+13 Workplan must be set aside.
+
+14 WHEREFORE, Petitioners pray for relief as hereinafter stated.
+
+15 PRAYER FOR RELIEF
+
+16 WHEREFORE, Petitioners pray for relief as follows:
+
+17 148. Issue a peremptory writ of mandate commanding DTSC to vacate and set aside its
+18 approval of the 2022 Addendum, its approval of the Removal Action Workplan, and any and all
+19 approvals rendered pursuant to and/or in furtherance of all or any part of the Removal Action
+
+20 Workplan;
+
+21 149. Preliminarily and permanently enjoin DTSC from approving any other removal or
+22 remedial work at the Site unless and until DTSC complies with the requirements of CEQA and the
+23 Health and Safety Code;
+
+24 150. Issue a peremptory writ of mandate commanding the City of Los Angeles to vacate
+25 and set aside any and all approvals rendered pursuant to and/or in furtherance of all or any part of the
+26 Project;
+
+27
+
+28
+
+23
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+151. Preliminarily and permanently enjoin the City of Los Angeles from further approval
+2 related to the Project unless and until the City of Los Angeles complies with the requirements of
+
+3 CEQA;
+
+4 152. Award Petitioners their reasonable attorneys' fees and the costs of this action; and,
+
+5 153. Grant other such relief as the Court deems just and proper.
+
+6 DATED: May 2, 2022 AQUA TERRA AERIS LAW GROUP
+
+7
+
+8 urs
+9 Matthew C. Maclear
+
+10 Attorneys for LINCOLN HEIGHTS
+COMMUNITY COALITION
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+24
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+VERIFICATION
+
+2 I. Michael Henry Hayden, am an authorized representative and member of Petitioner Lincoln
+
+3 Heights Community Coalition. I have read the foregoing Petition and know the contents thereof to be
+true and correct. The same is true of my own knowledge, except as to those matters that are alleged
+
+5 on information and belief. and as to those matters, I believe them to be true.
+declare under penalty of perjury under the laws of the state of California that the foregoing
+is true and correct. Executed May 2, 2022, in Los Angeles, California.
+
+0 ∞500EU5-5O MNSUNONYY MMtJtL Michael Henry Hayden
+Lincoln Heights Community Coalition
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+Exhibit A
+
+ATA MATTHEW C. MACLEAR
+
+AQUA TERRA AERIS T: 415-568-5200
+
+LAW GROUP mcm@atalawgroup.com
+
+April 29, 2022
+
+Via Priority Mail Express
+
+Department of Toxic Substances Control Department of Toxic Substances Control
+Attn: Luis Garcia P.O. Box 806
+9211 Oakdale Ave. Sacramento, CA 95812-0806
+Chatsworth, CA 91311
+
+City of Los Angeles
+Office of the City Clerk
+200 N. Spring St., Room 360
+Los Angeles, CA 90012
+
+RE: Notice of Commencement of CEQA Action Against the City of Los Angeles and the California Department of Toxic Substances Control
+Dear Mr. Garcia and to Whom It May Concern at the City of Los Angeles and Department of Toxic Substances Control,
+
+PLEASE TAKE NOTICE, under Public Resources Code section 21167.5, that Lincoln Heights Community Coalition intends to file a writ of mandate under the provisions of the California Environmental Quality Act ("CEQA") against the City of Los Angeles and California Department of Toxic Substances Control ("DTSC") challenging the adequacy and lawfulness of the Addendum to the Avenue 34 Project Initial Study/Mitigated Negative Declaration, SCH
+2017021069.
+
+The lawsuit will be based on violations of CEQA. The exact nature of the allegations and
+relief sought is described in the petition for writ of mandate that Petitioner plans to file in Los
+Angeles County Superior Court on May 2, 2022.
+
+Respectfully,
+
+MR
+Matthew C. Maclear
+AQUA TERRA AERIS LAW GROUP
+
+AQUA TERRA AERIS LAW GROUP 4030 MARTIN LUTHER KING JR. WAY • OAKLAND, CA 94609
+
+ATA AQUA TERRA AERI GROUP
+
+PROOF OF SERVICE
+
+a I am a citizen of the United States, employed in the County of Alameda. My business address is 4030 Martin Luther King Jr. Way, Oakland, CA 94609. I am over the
+and not a party to the above-entitled action. Document(s) served: age of 18 years
+
+NOTICE OF COMMENCEMENT OF CEQA ACTION AGAINST THE CITY OF LOS ANGELES AND THE CALIFORNIA DEPARTMENT OF TOXIC
+SUBSTANCES CONTROL
+
+On April 29, 2022, I served the foregoing document(s) on the parties in this action, located on the attached service list, as shown below for service as designated below:
+
+(xx) By U.S. Mail Deposited the sealed envelope with the United States Postal Service, with the postage fully paid.
+By Personal Service personally delivered each such envelope to the office of the address on the date last written below.
+(xx) By Overnight Mail caused each such envelope to be placed in a box or other facility regularly maintained by the express service carrier, or delivered to an authorized courier or driver authorized by the express service carrier to receive documents, in an envelope or package designated by the express service carrier with delivery fees paid or provided for.
+By Electronic Mail Based on a court order or an agreement of the parties to accept service by electronic transmission, caused the documents to be
+sent to the person(s) at the e-mail addresses listed below. I did not receive, within a reasonable time after the transmission, any electronic message or other indication that the transmission was
+unsuccessful.
+
+declare under penalty of perjury under the laws of the State of California that the above is true and correct. Executed on April 29, 2022, in Hayward, California.
+
+Lidriral lefrts Esmeralda Bustos

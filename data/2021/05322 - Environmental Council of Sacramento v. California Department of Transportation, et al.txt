@@ -1,0 +1,992 @@
+1 LAW OFFICES OF DONALD B. MOONEY DONALD B. MOONEY (SBN 153721) MAR 29 2021
+2 417 Mace Boulevard, Suite J-334 Davis, Califomia 95618 By: T. Growther
+Dapuly Clerk 3 Telephone: (530) 758-2377
+4 Facsimile: (530) 758-7169
+Email: dbmooney@dcn.org
+
+5 Attorneys for Petitioner Environmental Council
+6 of Sacramento
+
+DaO: IN THE SUPERIOR COURT OF THE STATE OF CALIFORNIA
+FOR THE COUNTY OF SACRAMENTO
+
+11 ENVIRONMENTAL COUNCIL OF SACRAMENTO, a California
+12 non-profit Corporation 34-2021-80003617
+Case No,
+13 Petitioner
+
+V. VERIFIED PETITION FOR WRIT
+'14 OF MANDATE
+CALIFORNIA DEPARTMENT OF
+15 TRANSPORTATION; TOKS OMISHAKIN, DIRECTOR OF BY FAX 16 CALIFORNIA DEPARTMENT OF TRANSPORTATION; and DOES 17 1-20;
+
+18 Respondents
+9808888 -
+
+26
+27
+
+28
+
+1. By this action, Petitioner ENVIRONMENTAL COUNCIL OF SACRAMENTO
+N m 0 tpo challenges Respondent CALIFORNIA DEPARTMENT OF TRANSPORTATION'S approval of
+the Mitigated Negati ve Declaration ("MND") for American River Bridge Deck Replacement
+Project ("Project"), the required findings under the California Environmental Quality Act
+("CEQA"), Public Resources Code, section 21000 et seq., and the approval of the Project. The
+MND asserts that the purpose of the Project is to rehabilitate the American River Bridge along
+State Route ("SR") 51 in Sacramento County from post mile 2.0 to 3.5.
+2. The IS/MND does not provide adequate environmental review under CEQA. The
+
+9 MND fails to provide an adequate project description and piecemeals environmental review of
+
+10 other planned improvements and widening of SR 51. Additionally, substantial evidence supports
+
+11 a fair argument that the Project may have potentially significant impacts to greenhouse gas
+
+12 emissions ("GHG") and climate change.
+
+13 3. Petitioner seeks a determination from this Court that Respondents' approval of the
+
+14 Project is invalid and void and that Initial Study/Mitigated Negative ("IS/MND") Declaration for
+15. the Project fails to satisfy the requirements of CEQA, and the CEQA Guidelines, Title 14,
+16 California Code of Regulations, section 15000 et seq. :
+
+T 17 -PARTIES -.-. .
+
+18 4. Petitioner Environmental Council of Sacramento ("ECOS") is a California
+
+-19 nonprofit public benefit corporation working to protect and improve the environmental quality of
+20 the Greater Sacramento Metropolitan Region and its adjoining ecosystems. Its members include |
+21 other environmental organizations, neighborhood groups, and individuals. ECOS has expressed
+
+22 particular concern for the environment in which its members live, including Sacramento County.|
+
+23 5. The environment and residents of Sacramento County will be directly affected by
+
+24 the impacts of the Project. ECOS members live, work, travel, and enjoy recreational activities
+
+25 in Sacramento County. These members have a particular interest in the protection of the
+
+26 environment of Sacramento County, and are increasingly concerned about worsening ofi
+
+27 environmental and land use conditions that detrimentally affect their well-being and that of
+
+28 other residents and visitors to Sacramento County. ECOS and its members have a direct and
+
+VERIFIED PETITION FOR WRIT OF MANDATE 2
+
+1 substantial beneficial interest in ensuring that Respondents comply with laws relating to
+
+2 environmental protection. ECOS and its members are adversely affected by Respondents'
+m t 10 failure to comply with CEQA in approving the Project.
+
+6. Respondent California Department of Transportation (*CalTrans") is an agency of
+the State of California. CalTrans is the CEQA "lead agency" for the Project. As lead agency
+for the Project, CalTrans is responsible for preparation of an environmental document and
+'N describes the Project and its impacts, and if necessary evaluates mitigation measures and/or -
+
+8 alternatives to lessen or avoid any significant environmental impacts. CalTrans is responsible
+
+9 for implementing and complying with the provisions of CEQA and the CEQA Guidelines with -
+
+10 respect to the Project.
+
+11 7.
+• Respondent Toks Omishakin, is the Director of CalTrans. As Director, Mr.
+
+12 Omishakin is responsible for the day-to-day operation of CalTrans. Mr. Omishakin is sued in -
+
+13 his official capacity as Director of CalTrans.
+
+14 8, Petitioner is unaware of the true names and capacities of Respondents identified as
+
+15 Does 1-20. Petitioner is informed and believes, and on that basis alleges, that Respondents Does
+
+16 1-20, inclusive, are individuals, entities or agencies with material interests affected by the -
+
+17 Project with respect to the Project or by the County's actions with respect to the Project. When
+18 the true identities and capacities of these Respondents have been determined, Petitioner will,
+
+19 with leave of Court if necessary, amend this Petition to insert such identities and capacities.
+20 BACKGROUND FACTS
+
+21 THE PROJECT -- -
+
+22 9. The Project is located on State Route 51 in Sacramento County from mile post
+
+23 ("PM") 2.0 to 3.5. The American River Bridge, a multi-span bridge, was originally built in
+
+24 1954 with two lanes in each direction. In 1966, an additional lane was added in each direction
+
+25 in the median. In 1977 and again in 1988, the American River Bridge was seismically
+
+26 retrofitted in various locations.
+
+27 10. A thin asphalt concrete overlay that has worn off covers the American River
+
+28 Bridge Deck. Caltrans' Bridge Needs Report for the American River Bridge identified bridge
+
+VERIFIED PETITION FOR WRIT OF MANDATE 3
+
+P deck has cracks/spalls and needs major deck rehabilitation to help preserve the deck and
+N m t  0 N • provide a better wearing surface.
+
+11. The Project is programmed in the Sacramento Area Council of Governments
+("SACOG") Metropolitan Transportation Implementation Plan (MTIP, 2019-2020).
+
+12. Another proposed project (Caltrans EA 03-0H931, SR 51 Corridor Improvements)
+provides for the widening of SR 51 and American River Bridge to accommodate three mixed
+flow lanes, one bus/carpool lane, and one auxiliary lane in each direction. This would occur
+from E Street to El Camino Avenue in the City of Sacramento (PM 1.0 to 4.4). The SR 51
+
+9 Corridor Improvements Project is currently not fully funded and the IS/MND did not discuss or
+
+10 analyze that project. On September 18, 2017 Caltrans released a Notice of Preparation of a
+
+11 Draft Environmental Impact Report for the SR 51 Corridor Improvements Project.
+
+12 13. The Initial Study identified three build alternatives. The Project Description for --
+
+:13 Alternative 1 includes the following:
+
+14 a. Remove and replace the existing concrete bridge deck with a 1¼" thicker -
+
+15 deck than existing deck.
+
+16 b. Widen the American River Bridge to maintain 3 lanes of traffic in each
+17 direction during construction. *:
+
+18 C. Provide a 14 foot bike/pedestrian path on the northbound side of the bridge
+
+19 separated from the traffic by a concrete barrier. The bike/pedestrian path will extend from
+
+20 levee to levee. Portions of the path outside of the bridge limits are anticipated to be funded
+
+21 with 2020 SHOPP Complete Streets Reservation funds.
+
+22 d. Widen the substructure and superstructure by 54'-11"* on the northbound
+
+23 side of the structure.
+
+24 Widen the approaches of SR 51 to accommodate the widening of the
+
+25 American River Bridge.
+
+26 f. Modification of an existing soundwall on the southeast side of the
+27 American River bridge.
+28 g. Construct 30 foot approach slabs.
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+h. Strengthen existing girders.
+00 7000.0 i. Lengthen a box culvert to the East, North of the American River Bridge.
+•- Install overhead sign.
+
+k. Widen bridge abutments, footings, bents, and piers supported by piles.
+
+1. Install permanent sheet piles at piers 4-6 for scour mitigation.
+
+m. Construct temporary construction access trestles and cofferdams to
+facilitate construction on in-water piers.
+
+0. Install lighting on the proposed bike/pedestrian path.
+09=9 p. a Create a temporary construction access road across a wetland area or/and
+use existing dirt road to access the construction site.
+
+q. Construct median barrier (Type 60) and bridge barrier (Type 842).
+
+r. Upgrade existing metal beam guardrail to Midwest Guardrail System.
+13 S. Replace steel girder post-tensioning system at spans 1 & 2.
+14 t. Construct concrete catcher blocks underneath existing girders.
+15 u. Install new joint seals.
+
+16 Near abutment I, construct retaining wall and soundwall from the
+
+17 modified soundwall along the Northbound side of the highway, near the Southeast quadrant of 1
+
+18 the American River Bridge and extend the retaining wall down the bike/pedestrian path.
+19 W. Construct retaining walls between American River Bridge and Cal Expo -
+
+20 undercrossing.
+
+21 X. Remove vegetation and trees to accommodate widening of SR 51 for -ali
+22 bridge deck construction staging.
+23 y. Modify Exposition Boulevard northbound off-Ramp.
+
+24 Z. Widen Cal Expo undercrossing on the northbound side.
+
+25 aa. Modify the Exposition Boulevard off-ramp in the northbound direction
+
+26 14. The Project Description for Alternative 2 includes the project scope for Alternative,|
+
+27 but varies in the following elements:
+
+28 a. Widen the substructure to the ultimate width by 38' -11"+ on the
+
+VERJFIED PETITION FOR WRIT OF MANDATE
+
+southbound side to accommodate the future widening of SR 51.
+
+b. Alternative 2 is contingent on obtaining additional construction capital 2
+
+evns funding (Non-SHOPP) prior to RTL.
+
+15. The Project Description for Alternative 3 includes the project scope for Alternative,
+but varies in the following elements:
+
+a, Widen superstructure and substructure by 381 -11"t on the southbound side
+to accommodate the future widening of SR 51. co b. Requires no girder strengthening.
+9 C. Alternative 3 is contingent on obtaining additional construction capital
+
+10 funding (Non-SHOPP) prior to RTL.
+
+11 d. Re-align the portion of the American River bicycle trail, which runs below
+
+12 and parallel to the bridge to be further from the edge of deck.
+13 16. The Project provides for the new substructure of the bridge to be built to
+
+14 accommodate Caltrans' widening for with the SR 51 Corridor Improvements Project
+
+15 17. The Initial Study failed to identify a preferred alternative.
+16 B. CALTRANS' APPROVAL OF THE PROJECT
+
+17 18. In October 2020, CalTrans released for public review and comment the Initial
+
+18 Study with Proposed Negative Declaration.
+
+19 19. On February 17, 2021, CalTrans approved the Project and found the Project will
+
+20 not a have a significant effect on the environment.
+
+21 20. On March 1, 2021, CalTrans posted with the State of California, Office of
+
+22 Planning and Research (State Clearing House) a Notice of Determination under Public
+
+23 Resources Code, section 21152. The Notice of Determination fails to identify which Project -
+
+24 alternative CalTrans approved.
+
+JURISDICTION AND VENUE 25
+
+26 21. This Court has jurisdiction over the matters alleged in this Petition pursuant to
+
+27 Code of Civil Procedure section 1085, and Public Resources Code section 21168.5. In the
+4
+
+28
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+alternative, this Court has jurisdiction pursuant to Code of Civil Procedure section 1094,5 and
+Nm Public Resources Code section 21168.
+
+22. Pursuant to Code of Civil Procedure section 394(a), venue is proper in this Court
+because the Project is located in the County of Sacramento.
+EXHAUSTION OF ADMINISTRATIVE REMEDIES
+AND INADEQUACY OF REMEDY
+
+23. Petitioner has performed any and all conditions precedent to filing the instant action
+
+and has exhausted any and all available administrative remedies to the extent required by law.
+
+24. Petitioner has complied with the requirements of Public Resources Code, section -
+
+0
+
+10 21167.5 by sending via facsimile and Federal Express written notice of this action to the
+
+11 Respondents. A copy of this written notice and proof of service are attached as Exhibit A to this
+Petition for Writ of Mandate.
+12
+25.
+13 Petitioner has complied with Public Resources Code section 21167.6 by
+
+14 concurrently filing a request concerning preparation of the record of administrative proceedings -
+
+15 relating to this action. --
+26.-
+16 Petitioner has no plain, speedy or adequate remedy in the course of ordinary law
+
+17 unless this Court grants the requested writ of mandate to require respondents to set aside their
+
+18 approval of the Project and certification of the EIR. In the absence of such remedies, CalTrans' -a*
+
+19 approval will remain in effect in violation of State law.
+
+27.
+20 This action has been brought within 30 days of CalTrans filing of the Notice of
+
+21 Determination as required by Public Resources Code section 21167(c).
+
+88 STANDING
+
+28. Petitioner has standing to assert the claims raised in this Petition because Petitioner
+
+24 and its members' aesthetic and environmental interests are directly and adversely affected by
+25 the CalTrans' approval of the Project.
+
+26 CAUSE OF ACTION (Violation of the Canfornia Environmental Quatity Act,
+27 Public Resources Code, § 21000 et seq.)
+
+29.
+28 Petitioner realleges and incorporate by reference Paragraphs 1 through 28,
+inclusive, of this Petition, as if fully set forth below.
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+30. Respondents committed a prejudicial abuse of discretion and failed to proceed in
+a manner required by law by relying on an IS/MND that fails to meet CEQA's requirements
+for disclosure, analysis, and/or mitigation of significant project impacts.
+
+31. Respondents' action in adopting the IS/MND violates CEQA in that Respondents
+failed to proceed in the manner required by law and their decision not to prepare an
+environmental impact report ("EIR") and to segment environmental review of the whole SR51
+widening project is not supported by substantial evidence.
+
+32.
+
+9 Approval of the Project, based on a MND instead of an EIR violates CEQA as
+
+10 substantial evidence supports fair argument that the Project may have potentially significant
+
+11 impacts. CEQA requires full disclosure of a project's significant environmental effects so that|
+
+12 decision makers and the public are informed of consequences before a project is approved, to
+
+ensure
+
+13 that government officials are held accountable for these consequences. (Laurel Heights -
+
+14 Improvement Ass'n of San Francisco v. Regents of the University of California ("Laurel Heights]
+I") (1988) 47 Cal.3d 376, 392.)
+
+15 33.
+
+16 An agency must prepare an EIR instead of a MND whenever a proposed project
+
+17 may have a significant impact on the environment. (Pub. Resources Code. § 21082.2(d) [*If
+
+18 there is substantial evidence, in light of the whole record before the lead agency, that a project
+
+19 may have a significant effect on the environment, an environmental impact report shall be
+
+20 prepared.")) An agency's decision not to prepare an EIR is judged by the "fair argument" •
+
+21 standard of review. Under this standard, an EIR must be prepared "whenever it can be fairly
+
+22 argued on the basis of substantial evidence that the project may have significant environmental
+
+23 impact." (No Oil, Inc. v. City of Los Angeles (1974) 13 Cal.3d 68,75, emphasis added; Laurel
+
+24 Heights Improvement Assn. v. Regents of University of California (1993) 6 Cal.4th 1112, 1123.) |
+
+25 The fair argument standard is a "low threshold" test for requiring the preparation of an EIR.
+(No Oil, supra, 13 Cal.3d at 84.)
+
+26 A.
+
+27 34. THE MND CONTAINS A LEGALLY INADEQUATE PROJECT DESCRIPTION
+
+28 An initial study must accurately describe the proposed project. (Guidelines
+§15071(a).) "An accurate, stable and finite project description is the sine qua non of an
+
+VERIFIED PETITION FOR WRIT OF MANDATE 8
+
+informative and legally sufficient [CEQA document]." (County of Inyo v. City of Los Angeles
+Nm (1977) 71 Cal.App.3d 185, 193.) CEQA requires a complete project description to ensure that
+all of the project's environmental impacts are considered. (City of Santee v. County of San
+Diego (1989) 214 Cal .App.3d 1450, 1454; see also Communities for a Better Environment v.
+City of Richmond (2010) 184 Cal.App.4th 70, 82.) A curtailed, enigmatic or unstable project
+description draws a red herring across the path of public input." (San Joaquin Raptor Rescue
+n Center v. County of Merced (2007) 149 Cal.App.4th 645, 656; quoting County of Inyo, supra, -
+
+8 71 Cal.App.3d at 197-198.)
+
+9 35. The Project Description describes three Project Alternatives, but fails to identify
+
+10 which alternative is the actual Project and which alternative is specifically addressed in the
+
+11 Initial Study. Thus, the Project Description is vague and ambiguous as to what has been
+
+12 evaluated and what has been approved.
+
+13 36. The Project Description also fails to address the whole of the action which is the
+
+14 expansion and widening of SR 51, along with the widening the American River Bridge. CEQA
+
+15 defines a "project" as "an activity that may cause either a direct physical change in the
+
+16 environment, or a reasonably foreseeable indirect physical change in the environment, which
+17 constitutes an activity directly undertaken by any public agency." (Pub. Resources Code, §
+
+18 21065.) The CEQA Guidelines further define a "project" as "the whole of an action, which has
+
+'19 a potential for resulting in either a direct physical change in the environment, or a reasonably
+
+20 foreseeable indirect physical change in the environment" and that is an activity directly
+
+21 undertaken by any public agency acti vity which is being approved. (CEQA Guidelines, §
+
+22 15378(a)(1).) "The term project refers to the activity which is being approved and which may
+
+23 be subject to several discretionary approvals by governmental agencies. The term 'project'
+
+24 does not mean each separate governmental approval." (ld., § 15378(c).) The term "approval"
+
+25 refers to a public agency decision that commits the agency to a definite course of action in
+
+26 regard to a project. (Id., § 15352(a).) The definition of "approval" applies to all projects -
+
+27 including actions authorized or carried out by a public agency. (Id.) Thus, an initial study must
+28
+
+VERIFIED PETITION FOR WRIT ÖF MANDATE 9
+
+consider all phases of project planning, implementation, and operation, including phases
+N. planned for future implementation. (CEQA Guidelines, § 15063(a)(1).)
+c 37. The IS/MND states that the new structure will be built to accommodate the
+
+1 proposed widening of future Caltrans' Project. The SR 51 Corridor Improvenents Project,
+which includes the widening of the American River Bridge is currently under environmental
+review by Caltrans. The NOP for the SR51 Corridor Improvement Project states that Project
+consists of replacing the bridge deck of the American River Bridge and widen the bridge to
+accommodate 3 mixed flows in each direction, one bus/carpool lane in each direction, and one
+
+9 auxiliary lane in each direction, for a total of 10 lanes. Thus, the widening of SR 51, including
+
+10 the expansion of lanes is the whole of the Project. That expansion includes the widening of the
+
+11 American River Bridge that is the subject of the MND.
+
+12 38. The IS/MND's failure to describe the whole of the project violates CEQA's
+
+13 requirements and constitutes a prejudicial abuse of discretion and is contrary to law.
+
+14 B. THE MND SEGMENTS ENVIRONMENTAL REVIEW OF THE WHOLE PROJECT
+
+15 39. CEQA forbids "piecemeal" review of the significant environmental impacts of a
+
+16 project. (Berkeley Keep Jets Over the Bay Com. v. Board of Port Commissioners (2001) 91
+
+17 Cal App.4th 1344, 1358; and Laurel Heights I, supra, 47 Cal.3d at 396 ["Laurel Heights P"];
+
+18 and Guidelines § 15165.) When a specific project contemplates future expansion, the lead
+
+19 agency is required to review all phases of the project. (Laurel Heights I, supra, 47 Cal.3d at
+- 20 376; see also Banning Ranch Conservancy v. City of Newport Beach (2012) 211 Cal .App4th
+
+21 1209, 1224.) This requirement reflects CEQA's broad definition of "project" as "the whole of
+
+22 an action" that may impact the environment. (Guidelines § 15378; and see Habitat &
+
+23 Watershed Caretakers v. City of Santa Cruz (2013) 213 Cal.App.4th 1277, 1297.) What
+24 constitutes the "whole of an action" is a question of law that courts independently decide.
+
+25 (Tuolumne County Citizens for Responsible Growth, Inc. v City of Sonora (2007) 155
+
+26 Cal.App.4th 1214, 1224.) "[T]he requirements of CEQA cannot be avoided by chopping up
+
+27 proposed projects into bite-sized pieces which, when taken individually, may have no .
+
+28 significant adverse effect on the environment." (Id. at 1222-1223.)
+
+10 VERIFIED PETITION FOR WRIT OF MANDATE
+
+P 40. The Supreme Court explained that an agency must analyze the effects of potential
+
+2 future development if such de velopment is: (1) "a reasonably foreseeable consequence of the
+
+3 initial project;" and (2) "will likely change the scope or nature of the initial project or its
+T1 vo environmental effects." (Laurel Heights I, supra, 47 Cal.3d at 396.)
+
+41. The Project meets the first part of the test as the widening and expansion of SR51
+is a reasonably foresecable consequence of the American River Bridge deck replacement, since
+it is more than just a deck replacement but a widening and expansion of bridge capacity that -
+co will facilitate the construction of the SR51 Corridor Improvement Project (Caltrans EA 03-
+
+9 0H931). The foreseeability is not speculation as in September 2017 Caltrans released an NOP
+
+10 for the SR51 Corridor Improvement Project and is preparing a draft environmental impact
+
+11 report for that project, which specifically includes the Project that is the subject of the IS/MND.
+
+12 42. The Project meets the second part of the test of whether the future development
+
+13 "will likely change the scope or nature of the initial project or its environmental effects." As
+
+14 the future development includes the significant expansion of SR 51, including the American -
+
+15 River Bridge, it includes the expansion to three mixed flow lanes, one bus/carpool lane, and one
+
+16 auxiliary lane in each direction for a total of 10 lanes. Such expansion of SR51 will most
+
+-:* 17 certainly change the scope and nature of American River Bridge Project and its environmental
+
+18 effects, especially as set forth in the IS/MND.
+
+:19 43. Caltrans' decision to limit environmental review to only the lnslkrmpliesenonefor
+
+20 the American River Bridge violates CBQA's prohibition on segmentation of environmental
+
+21 review. As such, Caltrans' approval of the IS/MND and approval of the Project constitutes a -
+
+22 prejudicial abuse of discretion and is contrary to law.
+23 C. THE MND FAILS TO ADDRESS CUMULATIVE IMPACTS ASSOCIATED WITH
+
+24 THE CAPITOL CITY FREEWAY IMPROVEMENT PROJECT
+
+25 44. The IS/MND fails to comply with the requirements of CEQA in that it fails to
+
+26 adequately disclose, analyze and/or mitigate the Project's cumulative environmental impacts as
+
+27 required by law. CEQA requires an EIR to discuss a project's significant cumulative effect on
+
+28 the environment in conjunction with other closely related past, present and reasonably
+
+VERIFIED PETITION FOR WRIT OF MANDATE 11
+
+foreseeable probable future projects. (Pub. Resources Code, § 21083(b); CEQA Guidelines, §§
+
+2 15130(b)(1)(A), 15355.) The term "[c]umulative impacts' refer{s] to two or more individual
+effects which, when considered together, are considerable or which compound or increase other
+v 1 1O environmental impacts." (CEQA Guidelines, § 15355.) An EIR must discuss if the
+"cumulative impact may be significant and the project's incremental effect, though individually
+limited, is cumulatively considerable." (Id., § 15064(h)(1).) "Cumulatively considerable'
+means that the incremental effects of past projects, the effects of other current projects, and the
+8 effects of probable future projects." (Id.)
+LD 45. A legally adequate "cumulative impacts analysis" views a particular project over
+
+10 time and in conjunction with other related past, present, and reasonably foreseeable probable
+
+11 future projects whose impacts might compound or interrelate with those of the project at hand.
+
+12 "Cumulative impacts can result from individually minor but collectively significant projects
+13 taking place over a period of time." (CEQA Guidelines, § 15355(b); see Communities for a
+
+14 Better Environment supra, 103 Cal.App .4th at 117, ['The cumulative impact from several
+
+15 projects is the change in the environment which results from the incremental impact of the
+
+16 project when added to other closely related past, present, and reasonably foreseeable probable
+
+-.. -ie 1 17 future projects."].)
+
+18 46. The NOP for the SR51 Corridor Improvement Project identifies a reasonably
+
+19 foreseeable probable future project that is not only related to this Project, but includes this
+
+20 Project. The NOP identifies numerous temporary and permanent environmental effects such
+
+21 aesthetics, air quality, biological resources, cultural resources, land use planning, recreation;
+
+22 and transportation/traffic.
+
+23 47. Caltrans' failure to includes a cumulative impacts analysis that includes the SR51
+24 Corridor Improvement Project violates CBQA. As such approval of the Project constitutes a
+
+25 prejudicial abuse of discretion and is contrary to law.
+b 26
+
+27
+
+28 2 5 2
+
+VERIFIED PETTTIÓN FOR WRIT OF MANDATE 12
+
+D. SUBSTANTIAL EVIDENCE SUPPORTS A FAIR ARGUMENT THE PROJECT MAY
+N 07no N HAVE SIGNIFICANT ENVIRONMENTAL IMPACT.
+
+48. Substantial evidence in the administrative record supports a "fair argument" that
+the Project may result in a significant impact to the environment. The substantial evidence
+before Respondents demonstrate that:
+
+1. GREENHOUSE GAS EMISSIONS FROM CONSTRUCTION
+
+49. The IS/MND discussion of construction impacts to climate change fails to address
+co emissions associated with the use of substantial quantities of concrete. Concrete production
+
+9 contributes 8 percent of global GHG. While the IS/MND clearly states the construction
+
+10 includes the use of concrete, the Initial Study makes no effort to quantify or analyze the amount
+
+11 of GHG emissions associated with the use of concrete. The IS/MND references GHG
+
+12 emissions from material processing, but does not state if that includes GHG emissions from the
+
+13 concrete. Table 3 provides estimates of GHG Emissions during construction, but provides no
+
+14 breakdown of the source of the emissions. (IS, Table 3 at 86.) Thus, it is unclear what
+
+15 constitutes the source of the GHG emissions.
+
+16 50. The IS/MND concludes that "With implementation of construction GHG-reduction
+17 measures, the impact would be less than significant." The IS/MND also does not identify any
+18 threshold of significance for GHG emissions, yet it makes a conclusion that the Projection's
+
+-19 construction impacts are less than significant. It is unclear how that conclusion can be reached
+
+20 without any quantification of the supposed reduction of GHG during construction and without
+
+21 any standards to apply. (CEQA Guidelines, 15064(b)(1); Cleveland National Forest
+
+22 Foundation v. San Diego Association of Governments (2017) 3 Cal.5th 497, 515 [lead agency's
+
+23 choice of thresholds of significance must be "based to the extent possible on scientific and
+
+24 factual data."].)
+
+25 51, Caltrans makes a significance determination without any standard of significance
+
+26 and without any substantial evidence that the impact would be less than significant. The
+
+27 IS/MND simply cannot make this statement without having quantified the reduction in GHG
+
+28 emissions and then applying that to a standard that Caltrans has failed to identify.
+
+13 VERIFIED PETITION POR WRIT OF MANDATE
+
+4 N.0 tM 52. The IS/MND also provides for the implementation of measures to reduce GHG
+emissions from construction activities, such as compliance with emission reduction regulations -
+mandated by the California Air Resources Board. The IS/MND, however, makes no effort to
+identify or disclose what activities are required so as to reduce the emissions nor does it
+quantify the reductions in emissions from those activities.
+
+53. The IS/MND specifically states that it is the implementation of the reduction
+measures that makes the impact less than significant, but fails to include them or require them
+co as mitigation measures. (See Pub. Resources Code, § 21080(c); CEQA Guidelines, §§
+-2=92* 15070(b)(1); 15071(e).)
+
+54. The record supports a fair argument that the Project may have significant impacts
+LO greenhouse gas emissions.
+
+2. Vehicle Miles Travelled
+
+55. The IS/MND fails to include any discussion regarding VMT and simply concludes
+that the project will not result in any increase in operational GHG emissions. This is based upon|
+15 the false assumption the Project will not increase traffic capacity. The IS/MND also ignores that
+
+16 it is reasonably foresecable that the Project will result in widening the American River Bridge
+
+J1 17 and adjacent portions of SR 51.
+
+18 56. The record supports a fair argument that the Project will lead to an increase in
+19 highway which leads to increased VMT that the IS/MND has not evaluated.
+
+20 3. Biological Resources
+
+21 57. The IS/MND fails to evaluate the Project's impacts to bats and the Western Pond
+
+22 Turtle. Substantial evidence in the record supports a fair argument that the Project, as well as
+
+23 the widening Project, will result in significant impact bats that use the bridge for habitat, as well
+24 as impacts to the Western Pond Turtle.
+25 58. The IS/MND fails to adequately mitigate the permanent loss of 0.33 acres of habitat
+26 for federally listed salmonids and the permanent removal of 3.83, acres of riparian vegetation as
+
+27 it directly relates to Chinook Salmon. As such, substantial evidence in the record supports a fair |
+
+14 28
+
+VERIFIED PETITION FOR WRIT OF MANDATE
+
+1 argument
+
+2 salmon. that the Project will resuit in significant impacts to biological resources, including --
+
+cvuo PRAYER FOR RELIEF -
+
+WHEREFORE, Petitioner prays for judgment as follows:
+
+l. That this Court issue a peremptory writ of mandate ordering Respondents to:
+
+(a)
+
+7 vacate and set aside approval of the Mitigated Negative Declaration on the
+
+8 grounds that it violates the California Environmental Quality Act, Public Resources Code
+section 21000 et seq.
+
+9 (b)
+
+10 vacate and set aside its approval of the Project on the grounds that it
+
+11 violates the California Environmental Quality Act, Public Resources Code section 21000 et
+
+seq.
+
+12 (c)
+13 (d) withdraw the Notice of Determination for the Project;,
+
+14 project; prepare, circulate and consider a legally adequate EIR for the whole
+
+15 (e)
+16 3 suspend approval of any and all construction of the Project until the
+Respondents are in compliance with CEQA;
+
+(f)
+18 suspend all activity that could result in any change or alteration to the
+
+19 physical environment until Respondents have taken such actions as may be necessary to bring
+
+20 their determination, findings or decision regarding the Project into compliance with CEQA;
+
+2.
+
+21 3. For Petitioner's costs associated with this action;
+
+22 For an award of reasonable attorneys' fees pursuant to Code of Civil Procedure
+
+section 1021 .5; and
+
+23 4.
+
+24 For such other and further relief as the Court may deem just and proper.
+
+25 Dated: March 29,2021 Respectfully submitted,
+
+26 LAW OFFICE OF DONALD B. MOONEY
+
+27 Bd
+
+28 Donald B. Mooney Attorney for Enviropmental
+
+VERIFIED PETTTION FOR WAIT OF MANDATE Council of Sacramento
+
+15
+
+- VERIFICATION
+
+my office. For that 1
+
+2 am the attorney for Petitioner Environmental Council of Sacramento. Petitioner is
+3 located outside the County of Yolo, State of California, where I have
+
+4 reason, I make this verification for and on Petitioner's behalf pursuant to California Code of
+
+0 Civil Procedure section 446. I have read the Petition for Writ of Mandate and know its
+
+6 contents. The matters stated in it are true and correct based on my knowledge, except as to the
+
+7 matters that are stated therein on information and belief and as to those matters, I believe them
+
+8
+
+declare under penalty of perjury that the above is true and correct. Executed this 29th to be true.
+
+4
+
+9 = day of March, 2021, at Davis, California.
+Leliathen Donald B. Mooney 12
+13
+
+14
+
+15
+55.
+18
+
+19
+
+20
+
+21 888988
+
+16 28
+
+VERIFIED PETITION FOR WFRIT OF MANDATE
+
+EXHIBIT A
+
+EXHIBIT A
+
+LAW OFFICE OF DONALD B. MOONEY
+417 Mace Boulevard, Suite J-334
+Davis, CA 95618
+530-304-2424
+dbmooney@dcn.org
+
+March 25, 2021
+
+VIA FEDERAL EXPRESS
+AND FASCIMILE
+(916-654-6608)
+
+Toks Omishakin, Director
+California Department of Transportation
+1120 "N" Street
+Sacramento, CA 95814
+
+Re: NOTICE OF INTENT TO FILE CEQA PETITION
+
+Dear Mr. Dougherty:
+
+Please take notice that under Public Resources Code section 21167.5, that
+Petitioner Environmental Council of Sacramento intends to file a petition for Writ of
+Mandate in Sacramento County Superior Court under the provisions of the California Environmental Quality Act against you and the California Department of Transportation ("Caltrans"), challenging CalTrans' approval of the Mitigated Negative Declaration for the American River Bridge Deck Replacement Project.
+
+The petition for writ of mandate will request that the court direct respondents to
+vacate and rescind approval of the Mitigated Negative Declaration and approval of the
+Project. Additionally, the petition will seek Petitioner's costs and attorney's fees
+associated with this action.
+
+Very truly yours,
+Donald B. Mooney saan eaed yony Attorney for Environmental
+Council of Sacramente
+
+PROOF OF SERVICE
+
+am employed in the County of Yolo; my business address is 417 Mace Boulevard, Suite
+On March 25, 2021, I served a true and correct copy of as follows: J-334, Davis, California; 1 am over the age of 18 years and not a party to the foregoing action.
+
+NOTICE OF INTENT LETTER DATED MARCH 25, 2021
+
+States mailbox in Davis, California. (by mail) on all parties in said action listed below, in accordance with Code of Civil Procedure §1013a(3), by placing a true copy thereof enclosed in a sealed envelope in a United
+
+below: _X_(by facsimile) to the person at the phone number address set forth below:
+X_(by overnight delivery service) via Federal Express to the person at the address set forth
+
+Toks Omishakin, Director
+
+1120 "N" Street California Department of Transportation
+
+Sacramento, CA 95814
+(916-654-6608)
+
+March 25, 2021, at Davis, California. I declare under penalty of perjury that the foregoing is true and correct. Executed on
+
+h4z: Donald B. Mooney
+
+•...
+
+...-
+
+...
+
+3
+
+MAR 2 9 2021 •, - LAW OFFICES OF DONALD B. MOONEY
+DONALD B. MOONEY (SBN 153721) By: T. Cr her 417 Mace Boulevard, Suite J-334 D Ck N m 7'O Davis, California 95618
+Telephone: (530) 758-2377 Facsimile: (530) 758-7169 Email: dbmooney@dcn.org
+Attorneys for Petitioner Environmental Council
+of Sacramento
+
+00 • IN THE SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+FOR THE COUNTY OF SACRAMENTO * 9
+
+10
+ENVIRONMENTAL COUNCIL
+11 OF SACRAMENTO, a California 34-2021-80003617
+12 non-profit Corporation Case No.
+Petitioner
+13
+NOTICE OF PREPARATION OF V.
+RECORD OF PROCEEDINGS 14
+CALIFORNIA DEPARTMENT OF
+15 TRANSPORTATION; TOKS
+
+PE3• 16 OMISHAKIN, DIRECTOR OF
+. CALIFORNIA DEPARTMENT OF
+TRANSPORTATION; and DOES 17 1-20;
+
+18 Respondents
+
+19
+
+TO RESPONDENTS CALIFORNIA DEPARTMENT OF TRANSPORTATION l 8d AND DIRECTOR TOKS OMISHAKIN:
+
+22. In this action Petitioner ENVIRONMENTAL COUNCIL OF SACRAMENTO challenges
+
+23 •• Respondent CALIFORNIA DEPARTMENT OF TRANSPORTATION'S approval of the
+
+24 Mitigated Negative Declaration ("MND") for American River Bridge Deck Replacement Project|.
+
+25 ("Project"), the required findings under the California Environmental Quality Act ("CEQA"),
+
+26. Public Resources Code, section 21000 et seq., and the approval of the Project. The MND asserts
+
+27 that the purpose of the Project is to rehabilitate the American River Bridge along State Route
+mile 2.0 to 35. 28 ("SR") 51 in Sacramento County from post
+
+-0 00 7 0N 00 Pursuant to Public Resources Code section 21167.6(b)(2), Petitioner hereby elects to
+
+prepare the record of proceedings related to this action. The record will be organized
+chronologically, paginated consecutively, and indexed so that each document may be clearly
+identified as to its content and source, in a form and format consistent with the California Rules
+-ar
+Petitioner will include in the record of proceedings all documents, including transcripts, of Court, Rule 3.1365.
+
+minutes of meetings, notices, correspondence, reports, studies, proposed decisions, final drafts -
+and any other documents or records relating to Respondents' determination to approve the
+- - O Project.
+
+Respectfully submitted, 9910 Dated: March 29, 2021
+LAW OFFICE OF DONALD B. MOONEY
+
+Donald B. Mooney Zocag By Aletiz
+Attorney for Environmental Council of Sacramento
+16
+1T
+
+-
+-a 19
+
+20
+
+21
+
+23
+24
+
+25
+26
+
+27
+
+28
+
+NOTICE OF PREPARATION OF RECORD OF PROCEEDINGS
+
+SUPERIOR COURT OF CALIFORNIA
+County of Sacramento
+720 Ninth Street Room 102
+Sacramento, CA 95814-1380
+(916) 874-5522
+www.saccourt.ca.gov
+NOTICE OF CASE ASSIGNMENT
+Proceeding for Writ of Mandate and/or Prohibition
+
+Case Number : 34-2021-80003617-CU-WM-GDS
+
+This case has been assigned for all purposes to the judicial officer indicated below pursuant to rule 3.734 of the California Rules of Court and Sacramento Superior Court Local Rule 2.01; it is exempt from the requirements of the Trial Court Delay Reduction Act and the Case Management Program under Chapter 11 of the
+Sacramento Superior Court Local Rules.
+
+JUDGE COURT LOCATION DEPT.
+Shelleyanne W L Chang Gordon D. Schaber Courthouse 21
+
+The petitioner shall serve all parties with a copy of this order and a copy of the Sacramento Superior Court Guide to the Procedures for Prosecuting Petitions for Prerogative Writs. The Guide is available in Room 102 of the courthouse, from the clerk of the department to which this matter has been assigned, and on the "Civil" page of the Sacramento Superior Court internet website (www.saccourt.ca.gov).
+Scheduling
+Contact the clerk in the assigned department to schedule any judicial proceedings in this matter, including hearings on ex parte applications and noticed motions.
+
+JUDGE DEPT. PHONE
+Hon. James P. Arguelles 17 (916) 874-5511
+Hon. Steven M. Gevercer 27 (916) 874-6697
+Hon. Shelleyanne W.L. Chang 21 (916) 874-5924
+Hon. Laurie M. Earl 23 (916) 874-5754
+
+Other Information
+Pursuant to Local Rule 2.01, all documents submitted for filing in this case shall be filed in person at the Civil Front Counter (Room 102) or by mail addressed to the Clerk of the Sacramento Superior Court, Attn: Civil Division-Roon 102, with the exception of certain documents filed on the day of the hearing. For specific requirements, please see th
+Sacramento Superior Court Guide to the Procedures for Prosecuting Petitions for Prerogative Writs.
+Any administrative record must be lodged with the assigned department.
+
+Date: 03/30/2021
+SOSI 8:18 Signed:
+T. Crowther, Deputy Clerk
+
+Notice of Case Assignment
+CV\E-181 (Rev 12 16 2012) Page of 1
+
+DECEIVEN MAY -0 6 2021 BY:.
+
+64 :6 WW 4l &dY IZOZ
+
+003I0 NVS 7V83N39 A3N8OLIV
