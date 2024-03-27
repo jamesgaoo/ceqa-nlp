@@ -1,0 +1,4420 @@
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 1 of 32
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+CENTER FOR BIOLOGICAL DIVERSITY,
+AMERICAN BIRD CONSERVANCY,
+SURFRIDER FOUNDATION, SAVE RGV,
+and THE CARRIZO/COMECRUDO
+NATION OF TEXAS, INC., CV:
+
+Plaintiffs, Complaint for Declaratory
+and Injunctive Relief
+V.
+
+FEDERAL AVIATION ADMINISTRATION
+and BILLY NOLEN, in his official capacity,
+
+Defendants.
+
+INTRODUCTION
+
+1. This case concerns whether the Nation's commitment to preserving our critical
+
+wildlife habitat and treasured coastal landscapes must be sacrificed as we reach out to explore
+
+the cosmos-a question with national, global, and even interstellar implications. It is also about
+
+whether regulators will hold powerful corporations accountable or allow them to disregard
+
+environmental laws simply because of their political and financial influence. As the Nation
+
+carries out the modern era of spaceflight, we must decide whether we will protect the wildlife
+
+and frontline communities that can be adversely affected by our desire to reach the stars, or
+
+whether we will leave a legacy of needless destruction in the scorching wake of rocket plumes.
+
+2. Here, the Federal Aviation Administration (FAA), which has federal authority
+
+over the launching of vehicles into space, has authorized the SpaceX Starship/Super Heavy
+
+Launch Vehicle Program at Boca Chica, Texas, without complying with bedrock federal
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 2 of 32
+
+environmental law, without fully analyzing the significant environmental and community
+
+impacts of the SpaceX launch program-including destruction of some of the most vital
+
+migratory bird habitat in North America- and without requiring mitigation sufficient to offset
+
+those impacts.
+
+3. On June 13, 2022, FAA issued a Final Programmatic Environmental Assessment
+
+and Finding of no Significant Impact/Record of Decision (FONSI/ROD) for the SpaceX
+
+Starship/Super Heavy Launch Vehicle Program, which approved SpaceX's plan to launch 20
+
+Starship/Super Heavy rockets per year over the next 5 years, along with tank tests, static fire
+
+engine tests, and construction of additional launch related infrastructure. On April 14, 2023, the
+
+FAA issued a Commercial Space Transportation License to SpaceX, which, relying on the
+
+FONSI/ROD, allowed the company to launch the first flight of the Starship-Super Heavy
+
+vehicle, and to undertake pre-flight ground operations, such as tank testing and static fire tests,
+
+over the 5 next 5 years.
+
+4. The Super Heavy is the world's most powerful rocket. It holds up to 3,700 metric
+
+tons of liquid methane for propulsion, a potent greenhouse gas that will need to be vented into
+
+the atmosphere by SpaceX. The launching of these rockets results in intense heat, noise, and light
+
+that adversely affects surrounding habitat areas and communities, which include designated
+
+critical habitat for federally protected species as well as National Wildlife Refuge and State Park
+
+lands.
+
+5. SpaceX undertook the first launch of the Starship/Super Heavy rocket on April
+
+20, 2023. Just minutes into the launch, the rocket exploded. Furthermore, the launch pad was
+
+destroyed, scattering debris and ash over a large area, including adjacent lands that provide
+
+habitat for endangered species. While the FAA subsequently stated that it was temporarily
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 3 of 32 3
+
+grounding the rocket, it has not withdrawn or modified the FONSI/ROD and SpaceX has stated
+
+its intent to continue the program with further launches in the coming months. FAA has not
+
+announced any plans to initiate a supplemental review process pursuant to NEPA to consider the
+
+human health and environmental impacts associated with the explosion, including reports of
+
+sand, ash, and concrete being blown up to several miles away and outside the area that FAA had
+
+previously considered.
+
+6. The area surrounding the SpaceX facility at Boca Chica a is a biologically diverse
+
+and essential habitat area for many species, including federally protected wildlife and animals
+
+that are considered sacred to the Carrizo/Comecrudo People, such as the critically endangered
+
+ocelot. The SpaceX facility is smack in the middle of publicly owned conservation, park, and
+
+recreation lands, including a National Wildlife Refuge, two State Parks, a State Wildlife
+
+Management Area, and a State Coastal Preserve. These lands are of extraordinary conservation
+value for a range of federally and state listed wildlife and other protected species such as
+migratory birds. Bird species from both the Central and Mississippi flyways converge there,
+
+it making it an essential wintering and stopover area for migratory birds as they move north and
+
+south each year.
+
+7. SpaceX activities authorized in the FONSI/ROD have and will adversely affect
+
+the surrounding wildlife habitat and communities. In addition to harm from construction
+
+activities and increased vehicle traffic, rocket launches result in intense heat, noise, and light
+
+pollution. Furthermore, the rocket launches and testing result in explosions which spread debris
+
+across surrounding habitat and cause brush/forest fires-including one that recently burned 68
+
+acres of adjacent National Wildlife Refuge. The FAA calls these explosions "anomalies," but in
+
+fact they occur frequently, with at least 8 over the past 5 years. FAA has acknowledged that
+
+2
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 4 of 32
+
+many more such "anomalies" are expected over the next 5 years. The U.S. Fish and Wildlife
+
+Service has found that prior SpaceX rocket explosions harmed protected wildlife and designated
+
+critical habitat in violation of the Endangered Species Act (ESA).
+
+8. SpaceX activities also require frequent closures of the nearby Boca Chica Beach,
+
+which provides the public free use and enjoyment of a largely undeveloped and secluded
+
+coastline along the Gulf Coast. The only access road has been closed on over 100 different dates
+
+per year to accommodate SpaceX activities, and the FAA has allowed such closures to continue.
+These closures have a significant adverse impact on the local community, including the
+
+Carrizo/Comecrudo Nation of Texas, which considers Boca Chica a sacred site, and others that
+
+rely on the Beach for recreation and subsistence fishing.
+
+9. The FAA's Chief of Staff for the Office of Commercial Space Transportation
+
+initially stated that the FAA planned to conduct a new environmental impact statement (EIS) for
+
+the Starship/Super Heavy Launch Vehicle Program to analyze the environmental impacts of the
+program pursuant to the National Environmental Policy Act (NEPA); however, the FAA
+
+subsequently delegated that decision to SpaceX and did not prepare an EIS to analyze the launch
+
+program, even though permitting SpaceX to launch the largest rockets known to humankind is
+
+the type of significant federal action that requires full analysis in an EIS. Rather, based on
+
+a SpaceX's preference, FAA relied on a programmatic environmental assessment (PEA) prepared
+
+by SpaceX for NEPA compliancea considerably less thorough analysis intended only to
+
+determine whether an EIS is required- -and issued a mitigated finding of no significant impact
+
+(FONSI). A mitigated FONSI suggests that the proposed action would have significant
+
+environmental impacts, but that certain required mitigation efforts would reduce those impacts
+
+such that an EIS is not required.
+
+3
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 5 of 32
+
+10. The proposed mitigation measures in the PEA are insufficient in many respects,
+
+and the FAA failed entirely to explain how the proposed mitigation measures would reduce the
+
+considerable environmental impacts of the launch program below the level of "significance" for
+
+purposes of NEPA.
+
+11. Many of the proposed mitigation measures are inadequate to prevent the SpaceX
+
+launch program from causing significant environmental harm. For example, FAA failed to
+
+ensure that the environmental impacts from "anomalies" would be sufficiently mitigated,
+
+requiring only after-the-fact consultation with expert agencies, such as the Fish and Wildlife
+
+Service, about recovering exploded rocket fragments from adjacent habitat areas. No mitigation
+
+efforts have been imposed to prevent or minimize "anomalies" from occurring in the first place,
+
+or to reduce the direct impacts from debris raining down on ESA-designated critical habitat or
+
+the resulting brush fires. Likewise, the PEA does not include adequate mitigation to address
+
+impacts to sensitive wildlife, such as the restoration and enhancement of habitat affected by the
+
+noise, heat, and light from rocket launches.
+
+12. FAA also violated NEPA by failing to consider a reasonable range of alternatives.
+
+It considered only SpaceX's proposed project and a "no action" alternative. It did not a consider
+
+an alternative with fewer launches per year to minimize and mitigate the impacts of the launch
+
+program, nor did it provide sufficient support for eliminating the Kennedy Space Center as a
+viable alternative location to the Boca Chica site, even though SpaceX has apparently been
+
+modifying a launch pad at Kennedy Space Center to accommodate Starship rockets and has itself
+
+suggested Kennedy as an alternative launch site.
+
+13. FAA also failed to take a hard look at the a environmental impacts of the SpaceX
+
+launch program, as NEPA requires, including increased light, heat, and environmental pollution,
+
+4
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 6 of 32
+
+as well as risk of wildfires, damage to critical habitat, and the launch program's contribution to
+
+climate change.
+
+14. In sum, the environmental impacts of the Starship/Super Heavy Launch Vehicle
+
+Program cannot be reduced through mitigation such that FAA can ensure that there will not be
+
+significant harm from the launch program, and FAA failed entirely to even address how the
+
+proposed mitigation could achieve that level of protection. Therefore, the FAA's failure to fully
+
+consider and address the impacts of the Starship/Super Heavy Launch Vehicle Program through
+
+an EIS (including the impacts of the failed April 20 launch), and its failure to consider
+alternatives that would reduce the impacts of the launch program, was arbitrary and capricious,
+in violation of NEPA and the Administrative Procedure Act (APA). The Court should vacate the
+FONSI and accompanying Record of Decision, and remand with instructions that the FAA
+
+perform a full EIS.
+
+JURISDICTION AND VENUE
+
+15. This case arises under the National Environmental Policy Act (NEPA), 42 U.S.C.
+
+§§ 4321 et seq., and the Administrative Procedure Act (APA), 5 U.S.C. §§ 701-706. This Court
+
+has jurisdiction over this action pursuant to 28 cop U.S.C. § 1331 (federal question) and 28 U.S.C. §
+
+1346 (action against the United States). The Court may grant the relief requested under the APA,
+
+5 U.S.C. §§ 701-706, and 28 U.S.C. § 2201-02 (declaratory and injunctive relief).
+
+16. Venue is appropriate in this Court under 28 U.S.C. § 1391(e)(1) because FAA
+
+resides in this judicial district.
+
+5
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 7 of 32
+
+PARTIES
+
+Plaintiffs
+
+17. Plaintiff Center for Biological Diversity (the Center) is a national nonprofit
+
+organization that works through science, law, and policy to secure a future for all species, great
+
+or small, hovering on the brink of extinction. The Center has over 87,000 members worldwide.
+
+The Center has worked for decades to safeguard habitats for people, plants, and animals. The
+
+Center's members value and benefit from rare species' continued existence in the wild and are
+
+harmed by industrial development and associated trends like global climate change, water
+
+degradation, and habitat loss that threaten wild species' survival and recovery. The Center has
+
+worked for years to protect wildlife that will be harmed by SpaceX's Starship/Super Heavy
+
+Launch Vehicle Program, including migratory birds and other protected species that rely on the
+
+Boca Chica area.
+
+18. Plaintiff American Bird Conservancy (ABC) is a nonprofit organization dedicated
+
+to conserving wild birds and their habitats throughout the Americas. ABC has been working for
+nearly thirty years to protect threatened birds from population decline. ABC members derive
+
+recreational, conservation, aesthetic, and other benefits from the ecosystems and species of the
+
+Gulf of Mexico and its coastline, including Boca Chica Beach, the Lower Rio Grande Valley
+
+National Wildlife Refuge, Brazos Island State Park, and Las Palomas Wildlife Management Area
+
+Boca Chica Unit, which all surround the Space X site.
+
+19. Plaintiff Surfrider Foundation is a grassroots, nonprofit organization dedicated to
+
+the protection and enjoyment of the world's ocean, waves and beaches for all people. Surfrider
+
+has more than 350,000 supporters and members, 79 local chapters, and 92 school clubs in the
+
+United States, and maintains five local chapters in Texas, including the South Texas Chapter
+
+6
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 8 of 32
+
+based on South Padre Island. Surfrider members reside, recreate, use, and otherwise regularly
+
+access Boca Chica Beach and have been negatively impacted by the SpaceX operations,
+
+including the frequent beach closures. Surfrider members also look for, study, photograph, and
+
+enjoy marine and terrestrial species in Cameron County, including the piping plover and several
+species of sea turtles that are likely to be harmed by SpaceX activities. For example, Surfrider
+
+has members who visit Boca Chica Beach and the South Texas coast often to surf, fish, and
+
+otherwise explore the coast. Surfrider member's future use and enjoyment of Boca Chica Beach
+
+and the Cameron County coastline depends on healthy coastal ecosystem and accessible beaches.
+
+20. Plaintiff a Save RGV is a nonprofit organization that advocates for environmental
+
+justice and sustainability through addressing the causes and consequences of habitat loss and
+
+climate change that affect the health and well-being of the entire Rio Grande Valley community.
+
+Through its advocacy, research, and publications, Save RGV promotes, monitors, and preserves
+
+wildlife and its habitat and protects air and water quality and the natural resources of the Rio
+
+Grande Valley. Save RGV also serves to protect and defend the public's right to access public
+
+lands, which includes Boca Chica State Park and beach.
+
+21. Plaintiff the Carrizo/Comecrudo Nation of Texas, Inc. is a Texas nonprofit
+
+membership organization dedicated to serving the cultural, social, educational, spiritual,
+
+linguistic, economic, health, and traditional needs of its members and descendants of the
+Carrizo/Comecrudo Nation of Texas and other indigenous or Native American groups. The Tribe
+
+members live by their mission of preserving, maintaining, protecting, and offering services that
+
+will better their tribal communities to overcome the erasure of the Original People of Texas. The
+
+Tribe promotes wellness and health by providing services in times of crisis. The Tribe seeks to
+protect ancestral lands and relatives and to honor their ancestors. Boca Chica Beach and the area
+
+N
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 9 of 32
+
+surrounding the beach are vital and sacred to the Carrizo/Comecrudo People and their ancestral
+
+traditions. The Tribe regularly holds ceremonial life ways at Boca Chica Beach, including during
+the equinox and solstice. These ceremonies typically involve between 20 and 30 of the Tribe's
+
+members, during which the members leave offerings for ancestors at the beach.
+
+22. In bringing this lawsuit, Plaintiffs stand in the shoes of members who live, work,
+
+and recreate in places threatened by SpaceX's activities at Boca Chica and who use, study, and
+
+cherish the land, water, wildlife, and other resources that will be irrevocably damaged by the
+
+activities permitted by the FAA. Plaintiffs have numerous members who live in areas directly
+
+affected by these activities and/or visit the area to observe wildlife, and Plaintiffs' members and
+
+staff include individuals who study and advocate for better protection of wildlife and other
+
+resources threatened by SpaceX's activities permitted by FAA. The FAA's failure to comply
+
+with the requirements of NEPA delays, avoids, and undermines protections that are necessary to
+
+secure Plaintiffs' interests in the habitats and wildlife impacted by the SpaceX launch program.
+
+23. Plaintiffs have members whose interests are adversely affected by direct, indirect,
+
+and cumulative harm from the FAA-authorized activities to habitat areas that such members use
+
+and enjoy, including as habitat for ESA-listed wildlife. For example, Mary Angela Branch-who
+grew up in Brownsville and is a member of the Center, ABC, and Save RGV-regularly visits
+the Boca Chica area to enjoy the beach and to swim, picnic, fish, and view wildlife, including
+protected birds. She plans to continue visiting the area; however, her ability to enjoy Boca Chica
+
+beach and the surrounding areas and the wildlife they support has been, and will continue to be,
+
+adversely affected by SpaceX activities, including through closures to accommodate SpaceX
+
+construction and launch activities as well as from the noise, heat, light, explosions, and fires
+
+associated with such activities.
+
+8
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 10 of 32
+
+24. Plaintiffs also have members that have researched, studied, observed, and sought
+
+protection for habitats and species that are adversely affected by the SpaceX activities authorized
+
+by FAA. For example, Jim Chapman, a member of Save RGV who lives in Weslaco, TX, works
+to protect the Santa Ana and Lower Rio Grande Valley National Wildlife Refuges, and advocates
+
+for the animals that use the tracks of brush and forest habitat to migrate between populations. Mr.
+Chapman is highly invested in the preservation of the Boca Chica area, as it is essential for many
+of the native wildlife which he seeks out and enjoys. Mr. Chapman regularly visits the Boca
+Chica area to view wildlife, particularly birds such as the protected plovers and migratory
+species that rely on the area. Mr. Chapman is passionate about the native wildlife and enjoys
+exposing people to the unique ecosystems of the region. His interests in observing and protecting
+
+the Boca Chica area have been, and will continue to be, adversely affected by the SpaceX
+
+activities permitted by FAA, including harm from closures, increased vehicle traffic and
+
+resulting collisions with wildlife, the intense noise, heat, and light from rocket launch and testing
+
+activities, and "anomalies."
+
+25. Plaintiffs' members have visited and observed or sought out species that are
+
+imperiled by SpaceX activities, and enjoy hiking, fishing, and observing wildlife in areas that are
+impacted by such activities. Plaintiffs' members intend to continue to visit and observe, or
+
+attempt to visit and observe, these areas and species in the near future. For example, Bryan
+
+Newman-a member of the Center-lives in Minnesota, but has travelled to south Texas,
+
+including the Laguna Atascosa National Wildlife Refuge directly adjacent to the SpaceX facility
+
+at Boca Chica, in order to observe wildlife, including ESA-listed piping plovers as well as the
+many migratory bird species that rely on the Boca Chica area, and he plans to return to the area
+
+in the Spring of 2023 to once again observe wildlife. While visiting the area in March of 2021,
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 11 of 32
+
+Mr. Newman watched a SpaceX rocket launch from Isla Blanca, which ended up exploding in a
+
+fiery blast. Mr. Newman derives personal, aesthetic, moral, and recreational benefits from the
+
+continued existence of wildlife in the Boca Chica area. The degradation of habitat or the loss of
+wildlife from SpaceX's activities will harm Mr. Newman's interests in observing and protecting
+the wildlife of this critically important area.
+
+26. FAA's approval of the SpaceX launch program at Boca Chica therefore threatens
+
+the use, enjoyment, and economic value of property owned by Plaintiffs' members, as well as the
+
+lands and waters that members use and enjoy both as a resource and for the habitat they provide
+
+for plants and animals. The impacts from SpaceX construction activities and rocket launches,
+
+including "anomalies," would interfere with members' use and enjoyment of the Boca Chica area
+
+and the wildlife it supports.
+
+27. Plaintiffs' ability to use and enjoy the area around the SpaceX launch facility-
+including public lands and beaches that are intended for public use, such as state parks and
+National Wildlife Refuge lands-is also directly impeded by the SpaceX launch program due to
+closures of the area to accommodate construction of the facility as well as rocket launches. These
+
+closures adversely affect Plaintiffs' members' interests in continuing to use these areas for
+
+recreation. For example, the closures have adversely affected Mrs. Branch, who regularly visits
+
+Boca Chica Beach, and whose visits have been cut short or cancelled due to unannounced
+
+closures.
+
+28. The beach closures have also impacted the Carrizo/Comecrudo Nation's ability to
+
+hold their traditional ceremonial life ways and leave offerings for their ancestors. For example,
+Juan Mancias, a member of the Tribe, has been prevented from accessing the beach, a space
+
+sacred to him, to leave offerings to his ancestors, because of the frequent beach closures that
+
+10
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 12 of 32
+
+have occurred for purposes of SpaceX activities. Participating in activities that are spiritually
+
+sacred to him depends upon his ability to access Boca Chica Beach; therefore, the closures
+
+directly affect Mr. Mancia's cultural, social, and spiritual interest in the area.
+
+29. Plaintiffs' members thus derive scientific, recreational, spiritual, and aesthetic
+
+benefits from the areas affected by SpaceX activities. Their interest in maintaining the wildlife
+
+and habitats that would be affected by SpaceX activities is entirely dependent on the continued
+
+existence of healthy, sustainable, and accessible ecosystems and populations. Any activities that
+
+degrade or diminish these areas, or that kill, injure, harm, harass, or displace wildlife or that
+
+close beach access, interfere with Plaintiffs' members' use and enjoyment of the areas and
+
+species.
+
+30. Plaintiffs' members include scientists who study various threatened and
+
+endangered species, and whose interests in studying and enjoying these species and their habitats
+
+are entirely dependent on the continued existence of such species. Any action that interferes with
+
+and harms these species also harms those members' interests and enjoyment in studying those
+
+species. Any loss of individuals or habitat from SpaceX activities would hamper their ability to
+
+undertake such research in the future, thereby harming their academic and aesthetic interests in
+
+those species.
+
+31. Plaintiffs have also sufferec procedural and informational injuries from
+
+Defendants' violations. These injuries are connected to Plaintiffs' substantive recreational,
+
+scientific, spiritual, and aesthetic interests. Plaintiffs' members and staff rely on Defendants to
+comply with the requirements of NEPA. Plaintiffs rely on laws such as NEPA to achieve their
+organizational purposes, including monitoring the impacts of agency actions on the environment
+
+and species; monitoring legal compliance concerning environmental management; educating
+
+11
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 13 of 32
+
+members, directors, staff, and the public concerning species management and the state of the
+
+environment; and advocating for policies that protect habitats and wildlife.
+
+32. Plaintiffs include non-profit conservation organizations with limited resources
+that can be dedicated to their core mission to protect the environment, imperiled species, and the
+
+habitats upon which they rely. Defendants' actions impede Plaintiffs' ability to carry out their
+
+fundamental missions, and directly undercut decades of successful work by Plaintiffs to enforce
+
+environmental laws that protect the interests of their members.
+
+33. Defendants' actions have also stifled the flow of data on impacts to the
+environment from SpaceX activities that are vital to Plaintiffs' efforts to conserve and protect the
+
+environment. The FAA's failure to comply with its NEPA obligations is therefore harming, and
+
+will continue to harm, Plaintiffs by interfering with Plaintiffs' core organizational missions and
+
+by requiring them to divert their limited resources and personnel away from other activities in an
+
+attempt to fill the gap left by the FAA.
+
+34. These are actual, concrete injuries to Plaintiffs, caused by the FAA's failure to
+
+comply with NEPA. The interests and organizational purposes of Plaintiffs and members are
+
+directly and irreparably injured by Defendants' violations of law as described herein. Unless this
+
+Court grants the requested relief, harm to the environment will continue to accrue, and the
+aesthetic, recreational, educational, professional, scientific, spiritual, and conservation interests
+of Plaintiffs and their members will continue to be adversely affected.
+
+35. The relief Plaintiffs seek will redress their injuries by requiring the FAA to
+
+comply with NEPA. This relief will give Plaintiffs and their members more comprehensive and
+
+complete information by requiring the FAA to complete an EIS and thereby provide Plaintiffs
+
+and their members with more information regarding SpaceX's threats to habitats, protected
+
+12
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 14 of 32
+
+species, and other valued resources. It will allow Plaintiffs, their members and supporters, and
+
+others who are concerned about SpaceX activities, to advocate more effectively for changes to
+
+mitigate the adverse impacts of the Starship/Super Heavy Launch Vehicle Program.
+
+Defendants
+
+36. Defendant FAA is the federal agency charged with administering permits for
+commercial space launch activities. The FAA is headquartered in Washington, D.C. It is required
+to comply with NEPA when taking any action significantly affecting the environment.
+
+37. Defendant Billy Nolen is the acting Administrator of the FAA, and is
+
+headquartered in Washington, D.C. Plaintiffs bring this action against Mr. Nolen in his official
+capacity only. The Administrator of the FAA is required to comply with NEPA when taking any
+
+action significantly affecting the environment.
+
+LEGAL BACKGROUND
+
+The National Environmental Policy Act
+
+38. NEPA is "our basic national charter for protection of the environment." 40 C.F.R.
+
+§ 1500.1(a). NEPA's goals are to (1) "prevent or eliminate damage to the environment and
+
+biosphere," (2) "stimulate the health and welfare" of all people, and (3) "encourage productive
+
+and enjoyable harmony between [hu]man[kind] and [the] environment." 42 U.S.C. § 4321.
+
+39. In creating NEPA, Congress recognized that "each person should enjoy a
+
+healthful environment" and the statute therefore requires that the federal government use all
+
+practicable means to "assure for all Americans safe, healthful, productive, and esthetically and
+culturally pleasing surroundings," and to "attain the widest range of beneficial uses of the
+
+environment without degradation, risk to health or safety, or other undesirable and unintended
+
+consequences." Id. § 4331(b)-(c).
+
+13
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 15 of 32
+
+40. To fulfill these purposes, NEPA requires that: (1) agencies take a "hard look" at
+
+the environmental impacts of their actions before they occur, thereby ensuring "that the agency,
+
+in reaching its decision, will have available, and will carefully consider, detailed information
+
+concerning significant environmental impacts," and (2) "the relevant information will be made
+
+available to the larger audience that may also play a role in both the decisionmaking process and
+the implementation of that decision." Robertson v. Methow Valley Citizens Council, 490 U.S.
+
+332, 349 (1989).
+
+41. NEPA seeks to ensure "that environmental information is available to public
+
+officials and citizens before decisions are made and before actions are taken" and to "help public
+
+officials make decisions that are based on understanding of environmental consequences, and
+
+take actions that protect, restore, and enhance the environment." 40 C.F.R. § 1500.1(b), (c).
+
+When the federal government acts before fulfilling its NEPA obligations, courts may set the
+action aside until the government complies with NEPA.
+
+42. The purpose of the NEPA process is also to inform federal agency decision-
+
+makers and the public of the "reasonable alternatives" that would "avoid or minimize adverse
+
+impacts or enhance the quality of the human environment." Id. 8 1502.1. This analysis of
+
+alternatives is the "heart" of NEPA, where the agency should "present the environmental impacts
+
+of the proposal and the alternatives in comparative form, thus sharply defining the issues and
+
+providing a clear basis for choice among options." Id. § 1502.14. The agency must "[r]igorously
+
+explore and objectively evaluate all reasonable alternatives." Id. § 1502.14(a), (d).
+
+43. NEPA accordingly requires all federal agencies to prepare a "detailed statement"
+for any "major Federal actions significantly affecting the quality of the human environment." 42
+
+U.S.C. § 4332(2)(C). This statement-the EIS-must describe the environmental impacts of the
+
+14
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 16 of 32
+
+proposed action. Id. § 4332(2)(C)(i), (ii). The EIS is an "action-forcing device" that ensures
+
+NEPA's goals "are infused into the ongoing programs and actions" of the federal government. 40
+
+C.F.R. § 1502.1.
+
+44. To determine whether a proposed action significantly affects the environment,
+
+and therefore whether an EIS is required, the lead federal agency may first prepare an
+
+environmental assessment (EA). Id. §§ 1501.5.
+
+45. The lead agency must take a "hard look" at the relevant environmental concerns
+and alternatives to the proposed action, and must consider short and long-term effects, both
+
+beneficial and adverse effects, effects on public health and safety, and effects that would violate
+
+Federal, State, Tribal, or local law protecting the environment. 40 C.F.R. § 1501.3.
+
+46. If the agency determines, after preparing the EA, that the proposed action does
+
+not require preparation of an EIS, it must then prepare a finding of no significant impact
+
+(FONSI) detailing why the action "will not have a significant effect on the human environment."
+
+40 C.F.R. § 1501.6. Courts have allowed agencies to prepare a "mitigated FONSI" where the
+
+action would otherwise have significant impacts if the agency can show that they can be
+
+mitigated so that that they no longer pose significant environmental harm. However, if the EA
+
+indicates that the federal action may significantly affect the quality of the human environment,
+
+the agency must prepare an EIS.
+
+47. In determining whether to prepare an EIS, the agency must "consider every
+significant aspect of the environmental impact of a proposed action." Baltimore Gas & Elec. Co.
+
+V. Nat. Res. Def. Council, Inc., 462 U.S. 87, 97 (1983). A determination that significant effects
+
+on the environment will in fact occur is not essential: an EIS must be prepared if substantial
+questions are raised whether a project may have a significant effect upon the environment. See 42
+
+15
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 17 of 32
+
+U.S.C. § 4332(2)(C) (requiring an evaluation of "any adverse environmental effects which
+
+cannot be avoided should the proposal be implemented," which must examine the environmental
+
+impact of the proposed action "to the fullest extent possible") (emphasis added); 42 U.S.C. §
+4332(2)(F) (requiring agencies to consider the "worldwide and long-range character of
+
+environmental problems").
+
+48. NEPA requires federal agencies to analyze both the probability of a given harm
+
+occurring and the consequences of that harm if it does occur. New York v. Nuclear Regulatory
+
+Comm 'n, 681 F.3d 471, 482 (D.C. Cir. 2012). Agencies cannot avoid their responsibility to
+
+consider future effects by claiming they are uncertain, because NEPA requires some element of
+
+predictive behavior. Sierra Club v. FERC, 867 F.3d 1357, 1374 (D.C. Cir. 2017) ("NEPA
+
+analysis necessarily involves some 'reasonable forecasting,' and .. agencies may
+
+sometimes need to make educated assumptions about an uncertain future.") (citation omitted).
+
+49. NEPA compliance requires federal agencies to provide an opportunity for public
+
+participation. See 40 C.F.R. § 1506.6 (the agency must "[m]ake diligent efforts to involve the
+
+public" in preparing environmental documents, give "public notice of . the availability of
+
+environmental documents so as to inform those persons . who may be interested or affected,"
+
+and "[s]olicit appropriate information from the public").
+
+50. The NEPA regulations also require an agency to supplement its analysis where
+
+new information or circumstances result in significant environmental impacts not evaluated in
+
+the prior documents. 40 C.F.R. § 1502.9., FAA Order 1050.1F, 9-3.
+
+The Administrative Procedure Act
+
+51. The APA provides for judicial review of agency actions such as those at issue
+
+here pursuant to NEPA. A reviewing court shall "hold unlawful and set aside" any agency action
+
+16
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 18 of 32
+
+found to be "arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with
+
+law," or that was promulgated "without observance of procedure required by law." 5 U.S.C. §
+
+706(2)(A), (D).
+
+52. The APA confers a right of judicial review on any person who is adversely
+
+affected by agency action. 5 U.S.C. § 702. §
+
+FACTUAL BACKGROUND
+
+The Boca Chica Area
+
+53. The SpaceX facility is surrounded by publicly owned conservation, park, and
+
+recreation lands including Boca Chica State Park, Brazos Island State Park, the Lower Rio
+
+Grande Valley National Wildlife Refuge, the South Bay Coastal Preserve, and the Las Palomas
+
+Wildlife Management Area (Boca Chica Unit). These conservation areas are home to some of
+
+the country's most diverse wildlife communities, including wind tidal flats, mid-delta thorn
+
+forest, and mid-valley riparian woodlands that support rare, threatened, and endangered species,
+
+including imperiled migratory birds and sea turtles.
+
+54. The Lower Rio Grande Valley National Wildlife Refuge (LRGV) directly
+
+adjacent to the Boca Chica launch siteis considered one of the most biologically diverse
+regions in North America and it provides some of the most important habitat for migratory birds
+
+in the U.S. During migration, bird species from the Central and Mississippi flyway converge on
+
+this area, making it an essential stopover for migratory birds.
+
+55. The Boca Chica tract of the Refuge is a particularly important link of the Lower
+
+Rio Grande Valley Wildlife Corridor. It provides important habitat for migratory birds and is one
+
+of the few places where the Kemp's Ridley sea turtle, the most critically endangered sea turtle in
+
+the world, comes ashore to nest on refuge beaches in the spring and summer.
+
+17
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 19 of 32
+
+56. The area surrounding the SpaceX launch site contains critically important and
+
+sensitive habitat for many wildlife species, including the federally threatened piping plover. The
+U.S. Fish and Wildlife Service has designated critical habitat for piping plovers that directly
+
+overlaps with the Project site. Other federally protected species rely on the area as well,
+
+including red knots, northern Aplomado falcons, Gulf Coast jaguarundi, ocelots, and Kemp's
+
+Ridley, hawkbill, leatherback, loggerhead, and green sea turtles.
+
+57. The Boca Chica area and its wildlife are sacred to the Carrizo/Comecrudo People.
+Boca Chica is considered by the Tribe to be the actual birthing place of their first woman and is
+
+therefore a central part of their creation story. Indeed, many of the Tribe's prayers and
+
+ceremonies are connected to the Boca Chica area and its wildlife, such as the ocelot, which is a
+
+sacred animal to the Tribe.
+
+58. Boca Chica State Park and Beach is a popular public beach on an 8-mile stretch of
+
+sand on the South Texas coast. The Beach is a significant coastal resource for the community to
+
+enjoy surfing, fishing, wildlife viewing, beach walking, picnicking and other beachgoing
+
+activities and coastal recreation. The Beach offers an open space site for residents of nearby
+
+Brownsville and South Padre Island, as well as other residents and visitors to Cameron County
+
+on the South Texas coast. The Beach provides the public with free wildlife-dependent recreation,
+
+including wildlife observation, photography, fishing, environmental education, and
+
+interpretation.
+
+59. Other lands in the vicinity of the SpaceX facility that the FAA acknowledges
+
+would be impacted by SpaceX activities likewise provide important habitat for wildlife,
+
+including federally listed species. For example, the nearby Laguna Atascosa National Wildlife
+
+Refuge provides habitat for the endangered ocelot, jaguarundi, and northern aplomado falcon as
+
+18
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 20 of 32
+
+well as threatened and endangered sea turtles and shorebirds. It is also a premier bird-watching
+destination with more recorded species of birds than any other refuge in the National Wildlife
+
+Refuge System. The Refuge also provides habitat for the largest population in the United States
+
+of ocelots, making it the center for conservation and recovery efforts for this endangered cat.
+
+The Environmental Impacts of the SpaceX Launch Program
+
+60. FAA issued a its Final PEA and Finding of no Significant Impact/Record of
+
+Decision (FONSI/ROD) on June 13, 2022. The ROD approved SpaceX's plan to launch 20
+
+Starship/Super Heavy rockets per year over the next 5 years, including suborbital launches and
+orbital launches, along with tank tests, static fire engine tests, and construction of additional
+
+launch related infrastructure.
+
+61. The Super Heavy Rocket is the world's most powerful rocket. It holds up to 3,700
+metric tons of liquid methane for propulsion, a potent greenhouse gas that would routinely be
+
+vented into the atmosphere by SpaceX.
+
+62. The operation of the SpaceX facility will harm wildlife through noise, heat, and
+
+light pollution, including from the firing of booster rockets and intense lighting to support
+
+ground operations. Noise and light associated with SpaceX operations can harm or harass listed
+
+species, including piping plovers in their critical habitat, endangered ocelot and jaguarundi in
+some of their last remaining habitat, and Kemp's Ridley sea turtles, the most critically
+
+endangered sea turtle in the world. Light from the facility negatively affects nesting sea turtles
+
+because it could cause adult females to false crawl or hatchlings to become disoriented and
+
+reduce nesting success and hatchling survival. Endangered red knots and threatened piping
+
+plovers could be killed if they are within the heat plume created by engine ignition during
+
+19
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 21 of 32
+
+testing and launches, and noise disturbances displace plovers from their ESA-designated critical
+
+habitat.
+
+63. Since 2014, SpaceX has operated a rocket launch program at Boca Chica under a
+
+prior permit from FAA which addressed only 12 launches per year. SpaceX has undertaken
+many activities not covered by that permit, including a higher frequency of road closures
+
+extending well beyond the allowed 180 hours, large explosions from "anomalies," the
+
+appearance of significantly larger staffing than anticipated, as well as 24/7 operations, traffic,
+
+and construction activities not addressed by the FAA.
+
+64. Rocket launches and testing often result in explosions. The first launch of the
+Starship/Super Heavy Rocket on April 20, 2023, ended in a fiery explosion of the rocket just
+
+after liftoff. The rocket also destroyed the launch pad, spewing chunks of concrete and metal, as
+
+well as ash and sand, over a large area, including adjacent tidal flats that provide habitat for
+
+protected species such as piping plovers and other migratory birds.
+
+65. There have been at least eight other rocket explosions at Boca Chica over the last
+
+several years, including one in March of 2021 that spewed debris as far as five miles from the
+
+launch site and took nearly three months to clean up. FAA acknowledges that several more
+"anomalies" from tank tests and launches are expected to occur over the next five years. These
+explosions spread debris across surrounding habitat and can cause brush/forest fires, putting
+
+people and wildlife at great risk. FAA has accordingly acknowledged that an "anomaly"
+represents the greatest risk to the environment from the SpaceX activities at Boca Chica.
+
+66. There have been several fires attributable to SpaceX anomalies. For example, two
+SpaceX incidents on July 25, 2019, and again in August 2019 resulted in wildfires of 150-acres
+
+and 11-acres, respectively, burning coastal prairie and dune habitats on National Wildlife Refuge
+
+20
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 22 of 32
+
+managed land. Explosions in November 2019, February 2020, and December 2020 likewise
+
+scattered debris onto Refuge managed lands. Another 68 acres of Refuge were burned in
+
+September of 2022, when a rocket a exploded during a static fire test.
+
+67. Operations to retrieve the debris have further damaged the Refuge. According to
+
+FWS, falling debris has damaged sensitive wind-tidal flats and debris retrieval methods damaged
+the sensitive alkaline flat and refuge cable fencing installed to protect the area from disturbance.
+The vehicles or machinery used to retrieve debris have created rutting and damage that interrupts
+
+tidal water sheet flow across these flats.
+
+68. The U.S. Fish and Wildlife Service has found that SpaceX's operations have
+
+significantly diminished its ability to maintain the biological integrity, diversity, and
+
+environmental health of Refuge resources at the Boca Chica tract. These activities have
+
+prevented or constrained public access year-round, hampered biological and monitoring studies
+
+including sea turtle patrols, interfered with refuge management and law enforcement patrol,
+
+increased road mortality of wildlife at all hours of daytime and nighttime, damaged sensitive
+
+habitats such as the wind tidal flats and the salt prairie from explosions and fires, and adversely
+
+impacted nesting habitat for sensitive species.
+
+69. The SpaceX launch program has also increased vehicle traffic causing mortality
+
+of wildlife, with carcasses of snowy plover, common nighthawk, Harris's hawk, rose-breasted
+
+grosbeak, and eastern meadowlark found over the past two years-all species designated as
+Birds of Conservation Concern by the U.S. Fish and Wildlife Service.
+
+70. The increased traffic also exposes jaguarundis and ocelots to collisions.
+
+According to the FAA, there will be an extra 505 vehicles per day from the FAA-permitted
+
+activities moving through potential travel corridors for the Gulf Coast jaguarundi and ocelot. The
+
+21
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 23 of 32
+
+project will harm those species by increased collisions and/or by displacing them and causing
+
+them to expend additional energy in seeking alternative north-south travel corridors.
+
+71. The FAA itself acknowledges that the construction and operation of the project
+
+would result in adverse impacts from noise, light, traffic, heat and debris from rockets (that can
+
+explode and cause wildfires), and is therefore likely to adversely affect several protected species,
+
+including piping plovers, red knots, northern aplomado falcons, gulf coast jaguarundi and
+
+ocelots, as well as Kemp's Ridley, loggerhead, green, hawksbill, and leatherback sea turtles.
+Furthermore, the PEA acknowledges the potential for significant environmental harm from
+SpaceX activities due to the unique and/or unknown risks of rocket launches (including
+
+"anomalies").
+
+72. The frequent Beach closures with little or no public notice also cause a large
+impact on the community. In 2021, Boca Chica Beach was closed or inaccessible for
+
+approximately 500 hours or more, based on the notices of closure provided by Cameron County,
+
+with a Beach or access point closure occurring on over 100 separate days.
+
+73. SpaceX activities restrict the ability of the public to access and enjoy the Texas
+
+coastline adjacent to the project site, including Boca Chica State Park and Beach, a popular
+
+public beach on an 8-mile stretch of sand near the city of Brownsville, Texas. Beach access is
+
+guaranteed by local, state, and federal law. This loss of access disproportionately
+impacts environmental justice communities and infringes upon the ability of the
+
+Carrizo/Comecrudo Nation of Texas to access lands and waters that are part of their ancestral
+
+heritage.
+
+FAA's Review of the SpaceX Launch Program
+
+22
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 24 of 32
+
+74. The Commercial Space Launch Act of 1984 authorizes the Secretary of
+
+Transportation to regulate commercial launch and reentry activities within the United States. See
+
+51 U.S.C. §§ 50901-50923. The Secretary has delegated that authority to the FAA Administrator.
+See 49 CFR § 1.83(b).
+
+75. In 2014, the FAA prepared an EIS and issued a permit to SpaceX to launch so-
+
+called Falcon vehicles at the Boca Chica site. Since then, SpaceX has applied to FAA for a new
+
+permit to use the Boca Chica Launch Site for the Starship/Super Heavy program. The project
+includes associated tank tests, static fire engine tests, expansion of the vertical launch area and
+
+construction of additional infrastructure.
+
+76. In June of 2020, the FAA's Chief of Staff for the Office of Commercial Space
+
+Transportation stated in an email that the agency planned to conduct a new EIS for the
+
+Starship/Super Heavy program. However, the FAA subsequently deferred to SpaceX and only
+
+analyzed the Starship/Super Heavy program through an EA that was prepared by SpaceX under
+
+the supervision of the FAA.
+
+77. The FAA released a draft PEA on the project for public review on September 17,
+
+2021.
+
+78. The FAA received many comments on the draft PEA from Plaintiffs and others-
+
+including local and national organizations-discussing the significant environmental and
+
+community impacts of the SpaceX launch program at Boca Chica and setting forth concerns
+
+about the FAA's failure to adequately analyze those impacts and to require mitigation to protect
+
+the environment, including vital wildlife habitat, from undue harm.
+
+79. The FAA issued a its Final PEA and Finding of no Significant Impact/Record of
+
+Decision (FONSI/ROD) on June 13, 2022. The FONSI/ROD states that FAA finds the action to
+
+23
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 25 of 32
+
+be consistent with NEPA, and therefore it "directs that action be taken, together with the
+necessary related and collateral actions, to carry out the agency decisions as detailed in this
+Mitigated FONSI/ROD, including: A determination under 14 CFR Part 450 as to SpaceX's
+application for a vehicle operator license.'
+
+80. In deciding whether to prepare an EIS, the FAA has a duty to take a hard look at
+
+whether the proposed activities will significantly affect the environment. Yet the FAA failed to
+
+take the requisite hard look at the proposed project and has concluded that significant adverse
+
+effects will not occur due to purported mitigation measures.
+
+81. In refusing to prepare an EIS, the FAA failed to consider and ensure adequate
+mitigation for the full range of impacts associated with the proposed action, including impacts to
+the wildlife refuge lands and protected wildlife, energy use and contribution to climate impacts,
+
+impacts on migration patterns for impacted species, and community impacts due to frequent
+
+beach closures.
+
+82. While the PEA a contains a list of around 70 purported "mitigation measures," the
+
+proposed measures are inadequate to address the extensive environmental impacts of SpaceX's
+
+activities. Many of the measures are not actually mitigation imposed specifically by FAA, but are
+
+actions required under other laws, such as stormwater permitting under the Clean Water Act.
+
+Other measures are meaningless as a practical matter, such as a requirement to turn off lighting
+
+that adversely affects wildlife when the lighting is not needed, since the PEA makes clear that
+
+such lighting will likely be required nearly 24/7.
+
+83. The PEA does not include mitigation measures to address impacts to sensitive
+
+wildlife such as the restoration and enhancement of ocelot or plover habitat affected by the noise,
+
+heat, and light from rocket launches, as well as the adverse impacts of "anomalies." The PEA
+
+24
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 26 of 32
+
+provides no mitigation to address the direct impacts of explosions and resulting fires, and only
+
+provides for uncertain after-the-fact mitigation-i.e., consultation with other agencies to discuss
+
+debris removal which does nothing to address the extensive direct damage that may occur from
+
+explosions and fires.
+
+84. The FAA never explained anywhere in the PEA/FONSI/ROD how the proposed
+
+mitigation could or would reduce the anticipated environmental impacts to such a degree that
+
+they would not be considered "significant" for purposes of NEPA and thereby require an EIS.
+
+85. The PEA considered only two alternatives, including the preferred alternative and
+
+a "no action" alternative. The FAA failed to analyze other options, including a less-intensive use
+
+of the Boca Chica site (i.e., fewer launches per year), or the use of other sites for the proposed
+
+launches, such as the Kennedy Space Center, which SpaceX itself has suggested as an
+
+alternative.
+
+86. The FAA provided no analysis in the PEA as to the impacts the proposed project
+would have on the climateincluding through the burning and venting of liquid methane, a
+
+potent greenhouse gas-and how that will impact people and the environment. The FAA simply
+
+claimed that the emissions will not be significant, based only on comparing SpaceX to the total
+
+GHG emissions of the US. The FAA thereby ignored that every contribution of GHGs to the
+
+atmosphere causes cumulative harm, and that NEPA requires a consideration of climate impacts.
+
+87. The PEA does not provide a full analysis of the environmental impacts to the
+
+publicly owned conservation, park, and recreation lands that are of inestimable conservation
+
+value for a range of federally and state listed species and other protected species such as
+
+migratory birds. Rather, the PEA provides only cursory statements about the potential for
+
+environmental harm - including passing reference to potentially catastrophic harm from rocket
+
+25
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 27 of 32
+
+explosions that may cause extensive wildfires - but fails to provide any real analysis of the actual
+
+impacts to the people, habitats and wildlife that will be adversely affected.
+
+88. The PEA acknowledges that FAA anticipates er "anomalies" from the
+
+Starship/Super Heavy program, which will cause explosions and the spread of debris. The blast
+danger area for the debris spread includes the adjacent wildlife refuge and park lands, though the
+
+analysis was limited to a 700-acre debris study area, and the rocket explosion/launch pad
+
+destruction on April 20 indicates that debris was not limited to that area. Regardless, the PEA
+
+provides no analysis of what the actual environmental impacts of these explosions could be on
+
+nearby wildlife and habitats just conclusory statements about the potential for some unknown
+
+amount of harm.
+
+89. The FAA also failed to address the harm to wildlife and habitats from debris
+
+recovery efforts, which have caused undue adverse impacts to wildlife, including listed species.
+
+The PEA suggests future debris recovery would be done on foot, rather than using vehicles, but
+
+fails to address the potential for harm from having debris removed in that manner, such as
+
+increased human presence and the trails that would be created through the sensitive tidal flats.
+
+90. The FAA also failed to address the potential for hazardous material contamination
+
+from "anomalies" and storms. Launch propellant and commodities (including gaseous and liquid
+
+methane) will be stored in aboveground tanks at the Boca Chica site. This includes thousands of
+
+metric tons of propellants, which by definition are explosive, and have been shown to be
+
+carcinogenic and toxic. The Boca Chica site may be hit by hurricanes coming off the Gulf of
+
+Mexico, which have been increasing in recent years. The Federal Emergency Management
+
+Agency's flood risk map shows that all SpaceX facilities at Boca Chica are at risk of flooding.
+
+The FAA failed, however, to consider the potential impacts of storm damage, including a worst-
+
+26
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 28 of 32
+
+case scenario tank rupture, and the harm that would result in the habitat areas surrounding the
+
+SpaceX site.
+
+91. FAA failed to adequately analyze the impacts of noise and light pollution on
+
+wildlife, and in fact it could not do SO because the FAA acknowledged that detailed information
+
+about some of the proposed launch-related infrastructure (e.g., exact location and design) was not
+made available for review. FAA also failed to require sufficient mitigation for noise and light
+
+pollution, such as season/time lighting restrictions during the crucial hatching season for sea
+
+turtles. Rather, FAA acknowledged that harmful white lights may need to be used continually for
+
+several days.
+
+92. FAA failed to consider and analyze the impacts to the surrounding community
+
+from the closures that would be necessary to accommodate construction and launch activities.
+
+The only coastal access to Boca Chica Beach is Texas State Highway 4-locally known as Boca
+
+Chica Boulevardwhich would be closed up to 500 hours per year to accommodate SpaceX
+
+construction and launch activities, with additional closures to respond to anomalies. These
+
+closures have a significant impact on the local community, including the cultural, social, and
+
+spiritual interests of the Carrizo/Comecrudo Nation of Texas, which the FAA failed entirely to
+
+address in the PEA.
+
+93. On April 14, 2023, the FAA issued a Commercial Space Transportation License
+
+to SpaceX, which allows the company to launch the first flight of the Starship-Super Heavy
+
+vehicle from Boca Chica, Texas, as well as to undertake pre-flight ground operations, such as
+tank testing and static fire 5 tests, over the next 5 years. Despite the recent explosion of the rocket
+
+and launch pad during its first launch on April 20, 2023, SpaceX has stated its intent to move
+
+forward with additional launches in the next few months.
+
+27
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 29 of 32
+
+94. The FAA included with the License a Written Re-evaluation of the Final PEA for
+
+the SpaceX Starship/Super Heavy Launch Vehicle Program, which provided an analysis of new
+
+information regarding the use of deluge water and launch vehicle ocean landings, including
+
+information which was not considered in the PEA and never subject to public review and
+comment. The Written Re-evaluation is intended to consider whether a supplemental EA is
+
+warranted; however, it does not re-evaluate the environmental impacts discussed in the PEA and
+
+thus does not cure any of the failures identified herein regarding FAA's violations of NEPA.
+
+FIRST CLAIM FOR RELIEF
+
+The FAA violated the National Environmental Policy Act, 42 U.S.C. §§ 4321 et seq.,
+applicable regulations, and the Administrative Procedure Act, 5 U.S.C. §§ 701-706
+
+95. Plaintiffs reallege, as if fully set forth herein, each and every allegation contained
+in the preceding paragraphs.
+
+96. The FAA's authorization of the Starship/Super Heavy Launch Vehicle Program at
+
+Boca Chica, Texas is a major federal action that requires compliance with NEPA. See 42 U.S.C.
+
+§ 4332(2)(C). The FAA determined in the FONSI/ROD that the SpaceX Starship/Super Heavy
+Launch Vehicle Program was consistent with NEPA without the need for an EIS, and further
+
+stated that the agency was making an affirmative decision to approve SpaceX's application for a
+
+vehicle operator license and to allow the activities as detailed in the FONSI/ROD, which include
+
+20 launches over the next 5 years as well as ground operations such as tank and static fire tests
+
+(which also may result in explosions and otherwise cause environmental harm).
+
+97. The FAA issued the PEA and FONSI/ROD even though the action will have
+
+significant adverse environmental impacts, requiring the preparation of an EIS. Indeed, the
+
+FAA's Chief of Staff for the Office of Commercial Space Transportation acknowledged that a
+
+new EIS was warranted for the Starship/Super Heavy Launch Vehicle Program, but the agency
+
+28
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 30 of 32
+
+subsequently allowed SpaceX to conduct an EA rather than an EIS, thereby unlawfully
+
+delegating this important determination under NEPA to the self-interested applicant.
+
+98. The mitigation measures set forth in the PEA are inadequate to compensate
+for the significant adverse impacts that SpaceX launch program will cause. The Boca Chica
+
+area provides some of the most important habitat in the U.S., yet FAA failed to require
+
+meaningful measures to protect the species that rely on the surrounding habitat.
+
+99. The FAA violated NEPA by failing to take the requisite hard look at the
+
+significant environmental effects of the project. See, e.g., 40 C.F.R. §§ 1502.1, 1502.16(a), (b),
+
+1501.9(e). Among other things, the FAA failed to adequately analyze the project's contribution
+
+to climate change; the impacts of beach closures on the community, including on environmental
+justice communities and the Carrizo/Comecrudo Nation of Texas; the impacts of "anomalies"
+
+including the potential for highly destructive wildfires; and the impacts to wildlife from
+
+increased traffic, lighting, and the noise and heat associated with rocket launches.
+
+100. The FAA failed to consider an adequate range of alternatives, as NEPA requires,
+
+including an alternative with fewer launches per year to mitigate the impacts of the launch
+
+program by reducing harm from noise, heat, lighting, and closures of public lands directly related
+to launch activities, and an alternative launch site altogether.
+101. Furthermore, the FAA's FONSI/ROD for the launch program was arbitrary and
+capricious since the agency failed to set forth a reasonable basis for concluding that the impacts
+
+of the launch program can and will be mitigated such that they would no longer be considered
+
+"significant" under NEPA. The environmental impacts associated with the SpaceX launch
+
+program are undoubtedly "significant," even with the proposed mitigation--particularly from
+
+ongoing "anomalies"-and thus by preparing an EA/FONSI rather than an EIS for its issuance of
+
+29
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 31 of 32
+
+a permit for the SpaceX launch program, the FAA violated NEPA, 42 U.S.C. § 4332(2)(C), and
+
+its implementing regulations.
+
+102. The FAA has not announced that it will undertake any further review pursuant to
+
+NEPA in light of the April 20 failed launch. Failure to supplement the prior analysis to take the
+
+requisite hard look at the human health and environmental impacts of the failed April 20
+
+launch-including the destruction of the launch pad and resulting chunks of concrete being
+
+ejected into adjacent tidal flat habitat, as well as the spread of debris, including ash that may pose
+
+significant health risks-is a clear violation of NEPA and the APA. See 40 C.F.R. § 1502.9; 5
+
+U.S.C. § 706(1). This explosion further undermines the FAA's "finding of no significant
+
+impact," and reinforces the need for an EIS for the Starship/Super Heavy Launch Program.
+
+103. For the reasons set forth above, the FAA's decision to approve SpaceX's
+
+application for a vehicle operator license for the Starship/Super Heavy Launch Vehicle Program
+
+violates NEPA and is arbitrary and capricious, an abuse of discretion, or otherwise not in
+
+accordance with law, and contrary to the APA. See 5 U.S.C. § 706(2)(A).
+
+30
+
+Case 1:23-cv-01204 Document 1 Filed 05/01/23 Page 32 of 32
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiffs respectfully request that this Court:
+
+a) Declare that the FAA's PEA/FONSI/ROD for the Starship/Super Heavy Launch Vehicle
+Program violate NEPA and applicable regulations;
+
+b) Vacate and remand the FAA's decision to approve SpaceX's application for a vehicle
+
+operator license for compliance with NEPA and applicable regulations; and
+
+c) Award Plaintiffs their costs, expenses, and attorneys' fees under applicable law; and
+
+d) Provide for such other relief as the Court deems just and appropriate.
+
+May 1, 2023 Respectfully submitted,
+
+/s/ Eric Glitzenstein
+Eric Glitzenstein (D.C. Bar No. 358287)
+Center for Biological Diversity
+1411 K Street, NW, Suite 1300
+Washington, DC 20005
+(202) 849-8401
+eglitzenstein@biologicaldiversity.org
+
+/s/ Jared Margolis
+Jared Margolis (pro hac pending)
+Center for Biological Diversity 2852 Willamette St. # 171
+Eugene, OR 97405
+(802) 310-4054
+jmargolis@biologicaldiversity.org
+
+/s/ Dinah Bear
+Dinah Bear (D.C. Bar No. 351817)
+300 N. Indian House Road
+Tucson, Arizona 85711
+(202) 906-9407
+bear6@verizon.net
+
+Attorneys for Plaintiffs
+
+31
+
+HOME U.S. LITIGATION GLOBAL LITIGATION SEARCH ABOUT CONTACT
+
+Healthy Gulf V. Haaland
+Filing Date: 2023
+
+Case Categories: Federal Statutory Claims NEPA
+Principal Laws: National Environmental Policy Act (NEPA), Administrative Procedure Act (APA),
+Inflation Reduction Act of 2022
+
+Description: Challenge to Gulf of Mexico oil and gas lease sale covering more than 73 million acres of public waters.
+
+Healthy Gulf v. Haaland
+
+Docket number(s): 1:23-cv-00604 Court/Admin Entity: D.D.C.
+CASE DOCUMENTS:
+
+FILING DATE TYPE FILE ACTION
+TAKEN SUMMARY
+
+04/21/2023 Motion to
+Intervene Download Motion for leave
+to
+intervene
+as a
+defendant
+filed by
+American
+Petroleum
+Institute.
+
+04/10/2023 Reply Download Chevron
+filed reply
+in support
+of motion
+to
+intervene
+as i
+defendant
+and
+response
+to court's
+April 6,
+2023
+minute
+order.
+
+03/22/2023 Motion to Download Motion to On March 22, 2023, Chevron U.S.A. Inc moved for leave to
+Intervene intervene intervene. Chevron noted that the Inflation Reduction Act stated
+as i that that the sale should be conducted "not later than March
+defendant
+filed by 31, 2023* and argued that tl case "directly implicates" Chevron's interests because it had "already expended substantial costs and
+Chevron efforts to prepare to participate" in the lease sale in reliance on it
+U.S.A. Inc. taking place. On March 29, BOEM announced that it had held the
+lease sale.
+
+03/06/2023 Complaint Download Complaint Environmental Groups Challenged NEPA Review for "Massive" filed. Gulf of Mexico Oil and Gas Lease Sale. Six environmental groups filed a lawsuit in federal court in the District of Columbia asserting
+that federal defendants violated NEPA and the Administrative Procedure Act when they decided to hold a Gulf of Mexico oil and gas lease sale that offers more than 73 million acres public
+waters for leasing, which the plaintiffs alleged would be one of the
+largest offshore lease sales in U.S. history. The complaint alleged
+that the final supplemental EIS prepared by the Bureau of Ocean Energy Management (BOEM) failed to take a hard look at the lease sale's impacts. With respect to climate change, the plaintiffs contended that BOEM relied on "problematic modeling and
+assumptions to conclude that this massive lease will result in
+only 'slightly higher domestic emissions' than not leasing at all, and further failed to consider the impacts of such fossil fuel development on climate goals and commitments," including the
+lease sale's impact on the remaining global carbon budget ("the amount of carbon dioxide equivalent that can be emitted without exceeding the Paris Agreement limit of 1.5°C of warming above pre-industrial levels"). The plaintiffs also alleged that BOEM failed to consider climate impacts such as sea level rise, flooding, and
+increased storms on Gulf of Mexico communities and cumulative
+climate impacts of other Gulf oil and gas leasing and reasonably foreseeable oil and gas infrastructure projects. On March 22,
+2023, Chevron U.S.A. Inc moved for leave intervene. Chevron
+oted that t Inflation Reduction Act stated that that the lease
+sale should be conducted "not later than March 31, 2023" and
+argued that this case "directly implicates" Chevron's interests because it had "already expended substantial costs and efforts to prepare to participate" in the lease sale in reliance on it taking place. On March 29, BOEM announced that t had held the lease
+sale.
+
+© 2023 • Sabin Center for Climate Change Law U.S. Litigation Chart made in collaboration with Arnold & Porter Kaye Scholer LLP
+The materials on this website are intended to provide a general summary of the law and do not constitute legal advice. You should co Ilt with col determine applicable legal requiremen specific fact sit Privacy - Terms
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 1 of 61 PagelD: 1
+
+Thomas Stavola, Jr., Esq.; NJ Bar ID number: 380012022
+Law Office of Thomas Stavola, Jr., LLC, 209 County Road 537
+Colts Neck, NJ 07722
+E: stavolalaw@gmail.com
+P: 732-790-0639
+Counsel for Plaintiffs: SAVE LONG BEACH ISLAND, Bob Stern, Ph.D.
+THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF NEW JERSEY
+
+SAVE LONG BEACH ISLAND, a
+nonprofit corporation,
+P.O. Box 579, Ship Bottom, NJ
+08008; and ROBERT STERN, Ph.D.,
+
+an individual, 329 4th Street,
+Beach Haven, NJ 08008;
+Plaintiff(s),
+
+Case No.
+
+V
+
+Judge
+UNITED STATES DEPARTMENT OF
+COMMERCE, 1401 Constitution Ave.
+NW Washington, DC 20230;
+GINA RAIMONDO, UNITED STATES
+SECRETARY OF COMMERCE, acting in
+her official capacity, 1401
+Constitution Ave. NW Washington,
+DC 20230
+NATIONAL MARINE FISHERIES
+SERVICE, 1315 East-West Highway,
+Silver Spring, MD 20910;
+JANET COIT, Director of the
+National Marine Fisheries
+Service, acting in her official
+capacity, 1315 East-West
+Highway, Silver Spring, MD 20910
+
+Defendant (s).
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 2 of 61 PagelD: 2
+
+Complaint For Declaratory and Injunctive Relief Under the Marine
+
+Mammal Protection Act, National Environmental Policy Act and
+
+Administrative Procedures Act
+
+Plaintiff SAVE LONG BEACH ISLAND ("Plaintiff") by its attorney
+
+files this Complaint against Defendants United States Department
+
+of Commerce, United States Secretary of Commerce Gina Raimondo,
+
+National Marine Fisheries Service, and Director of the National
+
+Marine Fisheries Service, Janet Coit, ("Defendants") and alleges
+
+as follows:
+
+NATURE OF THE ACTION
+
+1. This is an action to reverse and set aside Defendant
+
+National Marine Fisheries Service's ("NMFS") incidental
+
+take/harassment authorizations, eleven active and five pending,
+
+off the New York and New Jersey coasts, issued pursuant to 16
+
+U.S.C. § 1361 et seq., the Marine Mammal Protection Act ("MMPA"),
+
+as such authorizations, cumulatively, and even individually,
+
+contravene 16 U.S.C. § 1371 (a) (5) (D), (i), (I), of the MMPA, and
+
+moreover, constitute arbitrary and capricious agency actions
+
+unsupported by substantial evidence in violation of 5 U.S.C. §
+
+706 (2) (A) and (E) ("APA").
+
+2. Plaintiff is seeking an order reversing and setting
+
+aside Defendant's eleven active and five pending incidental
+
+2
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 3 of 61 PagelD: 3
+
+take/harassment authorizations permitting offshore wind energy
+
+development activities adjacent to the New Jersey and New York
+
+coastlines, as violative of the MMPA and arbitrary and capricious
+
+under the APA. A formal prayer is delineated infra.
+
+3. In contravention of the MMPA, the eleven active and five
+
+pending incidental take/harassment authorizations, cumulatively,
+
+and even individually, take more than a "small number" of the North
+
+Atlantic Right Whale and Humpback Whale species, and will have
+
+more than a "negligible" impact on same.
+
+4. The incidental take/harassment authorizations, active
+
+and pending even considering their already impermissibly high
+
+amount of requested takes determined the quantity of takes
+
+arbitrarily, capriciously, and without substantial evidence by
+
+significantly underestimating the maximum spatial extent of Level
+
+B harassment noise emanating from survey vessels, as explained
+
+further infra.
+
+5. The incidental take/harassment authorizations, active
+
+and pending, arbitrarily and capriciously assumed that the
+
+authorized high-intensity noise activities would result in almost
+
+exclusively Level B harassment takes, and virtually no Level A
+
+harassment takes. This was arbitrary, capricious and unsupported
+
+by substantial evidence. The incidental take/harassment
+
+authorizations arbitrarily underestimate the potential for Level
+
+A harassment takes from the noise exposure and cumulative noise
+
+3
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 4 of 61 PagelD: 4
+
+exposure.
+
+6. Moreover, Defendant also violates 16 U.S.C. §
+
+1371 (a) (5) (D) (i) by issuing incidental take/harassment
+
+authorizations to certain companies which do not maintain
+
+headquarters in the United States or are otherwise unowned by
+
+United States' citizens, in direct contravention of the language
+
+of 16 U.S.C. § 1371 (a) (5) (D) (i) providing only U.S. citizens with
+
+the legal pathway to obtain incidental take/harassment
+
+authorizations.
+
+7. Finally, pursuant to the National Environmental Policy
+
+Act ("NEPA"), 42 USCS § 4332 (2) (C), the Plaintiff is seeking an
+
+order from the Court to direct the Defendant to prepare an
+
+environmental impact statement assessing the cumulative effects of
+
+Defendant's issuance of the eleven incidental take/harassment
+
+authorizations off the NY/NJ coasts. Such cumulative incidental
+
+take/harassment authorizations (and likely soon issuance of five
+
+pending incidental take/harassment authorizations) constitutes a
+
+major federal action which significantly affects the quality of
+
+the human environment, triggering the requirement of an
+
+environment impact statement assessing cumulative effects, which
+
+Defendant has neglected to perform, in contravention of 42 USCS S
+
+4332 (2) (C) and the Administrative Procedures Act, 5 U.S.C. §
+
+706 (2) (A) and (E).
+
+JURISDICTION AND VENUE
+
+4
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 5 of 61 PagelD: 5
+
+8. This Court has jurisdiction over the subject matter of
+
+this action pursuant to 28 U.S.C. § 1331 (federal questions), 28
+
+U.S.C. § 1346 (United States as defendant), 16 U.S.C § 1361 et
+
+seq. (Marine Mammal Protection Act), 28 U.S.C. § 2201 (declaratory
+
+judgment), 42 USCS § 4321 et seq. (NEPA), and 5 U.S.C. § 701
+
+through 706 (Administrative Procedures Act).
+
+9. Final agency decisions are subject to judicial review.
+Plaintiffs have met all applicable statute of limitations, namely,
+
+the six-year statute of limitations, pursuant to 28 U.S.C. § 2401.
+
+10. Plaintiffs have standing to sue for the Defendant's
+alleged violations of the Marine Mammal Protection Act ("MMPA")
+
+through the Administrative Procedures Act ("APA").1 Plaintiffs
+
+assert injuries that have occurred in the "zone of interests"
+
+intended to be protected by the MMPA.2 The principal purpose of
+
+the MMPA is to protect marine mammals,3 and as fully explained
+
+infra under "Parties," Save Long Beach Island and Robert Stern
+
+have legally protected interests in preserving marine mammals in
+
+the waters off of New Jersey/New York, marine mammals which have
+
+been increasingly dying as a primary result of Defendant's actions.
+
+The exponential rise in whale (and dolphin) mortality events over
+
+1 Kanoa Inc. v. Clinton, 1 F. Supp. 2d 1088 (D. Haw. 1998).
+2 Id.
+
+3 Id.
+
+5
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 6 of 61 PagelD: 6
+
+recent months is attributable to Defendant's incidental
+
+take/harassment authorizations, as will be discussed further
+
+infra. Finally, it is likely that the injury in fact suffered by
+
+Save Long Beach Island and Robert Stern will be redressed by a
+
+favorable decision. The same analysis of standing applies for NEPA.
+
+Accordingly, standing is established for both MMPA and NEPA, and
+Plaintiffs seek judicial review via the APA.
+
+11. Plaintiffs have exhausted all administrative remedies
+
+available to them. Plaintiffs submitted formal comments to
+
+Defendant NMFS concerning their vessel survey approvals for three
+
+disparate companies, Atlantic Shores, Ocean Wind, and NextEra
+
+Energy. Plaintiffs further submitted formal comments to Defendant
+
+NMFS on the Notice of Application by Atlantic Shores for their
+
+incidental take authorization approvals for construction pile
+
+driving and vessel surveys. Plaintiff also sent a letter to
+
+National Oceanic and Atmospheric Administration Administrator Rick
+
+Spinrad and President Joseph Biden, regarding the vessel survey
+
+issues. No response was received to the letter, and the Defendant
+
+NMFS' responses to comments failed to address the issues discussed
+
+in this action.
+
+12. Venue is properly vested in this Court pursuant to 28
+U.S.C. § 1391 (b) (2) because a substantial part of the events or
+
+omissions giving rise to the claim occurred in this jurisdiction.
+
+PARTIES
+
+6
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 7 of 61 PagelD: 7
+
+13. Plaintiff SAVE LONG BEACH ISLAND is a 501 (c) (3) non-
+
+profit corporation, of over 5,000 supporters, organized under the
+
+laws of New Jersey, and created to guard human and natural
+
+resources. These resources include, for example: marine mammals,
+
+fish, and other species that inhabit, use, or migrate off the New
+
+Jersey and New York coasts; the aesthetic elements of Long Beach
+
+Island and the New York Bight; economic interests strongly tied to
+
+the maintenance of the environmental features comprising Long
+
+Beach Island and the New York Bight, inter alia. These resources
+
+in particular, the marine mammals off the NJ and NY coasts, are
+
+being harmed, harassed, and killed, in large part by the activities
+
+authorized by Defendant in the waters of the NY Bight. These marine
+
+mammals, not only are exceptionally important to the oceanic
+
+ecosystems, but they also impart carbon dioxide mitigatory
+
+effects. Save Long Beach Island supporters have a legally protected
+
+interest in preserving the marine mammals, some of which, like the
+
+North Atlantic Right Whale, are critically endangered species. The
+
+Defendant NMFS' issuance of numerous permits to take thousands of
+
+marine mammals runs directly counter to Save Long Beach Islands
+
+mission and guiding purpose as an entity.
+
+14. Plaintiff ROBERT STERN, Ph.D., is an individual
+
+residing in Long Beach Island, New Jersey. He previously managed
+
+the Office of Environmental Compliance in the United States
+
+7
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 8 of 61 PagelD: 8
+
+Department of Energy. He is the president of Save Long Beach
+
+Island, and believes it to be his responsibility to guard the
+
+natural resources of Long Beach Island and the waters adjacent to
+
+it, including the land animals, plants, and marine life. Dr. Stern
+
+is concerned with all aspects of the wind turbine development
+
+process, and one focus of this action is on the harmful preparatory
+
+activities, in the form of seabed characterization which utilize
+
+high intensity noise devices. This noise propagates outward from
+
+the source vessel and disturbs, harasses, and even leads to deaths
+
+of marine mammals off the NJ and NY coasts. The current rate of
+
+whale mortality, based on the past three months, is unprecedented
+
+in the record and highly statistically significant. Dr. Stern has
+
+deeply researched the issue and has expertise in the field. As
+
+such, he is very cognizant of the harms, both in the preparatory
+
+and operational phases of the wind turbines. This ongoing noise-
+
+based sea characterization threatens the unique marine life of the
+
+Long Beach Island waters, and the place Dr. Stern has chosen to
+
+call home. The Defendants' activities, thus, are resulting in harm
+
+to Dr. Stern.
+
+15. Defendant National Marine Fisheries Service is an agency
+
+of the federal government, within the United States Department of
+
+Commerce's National Oceanic and Atmospheric Administration, which
+is empowered to issue incidental take/harassment authorizations
+
+for specified human activities that result in takings of marine
+
+8
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 9 of 61 PagelD: 9
+
+mammal species. Defendant Janet Coit is the director of the NMFS.
+
+Defendant NMFS is an agency within Defendant United States
+
+Department of Commerce, of which, Gina Raimondo is the Secretary.
+
+STATUTORY FRAMEWORK
+
+16. The NMFS, also known as NOAA Fisheries, is a United
+
+States federal agency within the United States Department of
+
+Commerce's National Oceanic and Atmospheric Administration that is
+
+tasked with management and stewardship of the United States marine
+
+resources. The NMFS, one of the defendants in this action, is the
+
+agency responsible for issuing incidental take/harassment
+
+authorizations (hereafter referred to as "ITA") for wind energy
+
+development activities adjacent to and off the coasts of New Jersey
+
+and New York.
+
+17. Various companies applied for, and thereupon received,
+
+innumerable ITAs issued by the Defendant.
+
+18. The guiding purpose of the MMPA, as established in 1972,
+
+is to "prevent marine mammal species and population stocks from
+
+declining beyond the point where they ceased to be significant
+
+functioning elements of the ecosystems of which they are a part."4
+
+19. Additionally, the Congressional declaration of policy as
+
+4 Marine Mammal Protection Act Policies, Guidance, and Regulations, NOAA Fisheries (Mar. 22, 2023), https://www.fisheries.noaa.gov/national/marine- mammal-protection/marine-mammal-protection-act-policies-quidance-and- regulations#:~:text=The%20Marine%20Mammal%20Protection%20Act%20was%20enacted&
+20on%200ctober%2021, which%20they%20are%20a%20part.
+
+9
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 10 of 61 PagelD: 10
+
+explicated in 16 U.S.C. § 1361(6) is consonant with that guiding
+
+purpose:
+
+marine mammals have proven themselves to be
+
+resources of great international
+
+significance, esthetic and recreational as
+
+well as economic, and it is the sense of the
+
+Congress that chey should be protected and
+
+encouraged to develop to the greatest extent
+
+feasible commensurate with sound policies of
+
+resource management and that the primary
+
+objective of their management should be to
+
+maintain the health and stability of the
+
+marine ecosystem. Whenever consistent with
+
+this primary objective, it should be the goal
+
+to obtain an optimum sustainable population
+
+keeping in mind the carrying capacity of the
+
+habitat.
+
+20. However, somewhat paradoxically, the MMPA contains
+
+provisions which permit the "taking" of marine mammal species for
+
+certain periods of time, in defined geographical regions, if such
+
+taking is not intentional, but rather, only "incidental" to another
+
+specified activity.
+
+21 . The term "take" within the meaning of 16 U.S.C. S 1362
+
+(13) "means to harass, hunt, capture, or kill, or attempt to
+
+10
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 11 of 61 PagelD: 11
+
+harass, hunt, capture, or kill any marine mammal."
+
+22. Level A harassment is defined as, "has the potential to
+
+injure a marine mammal or marine mammal stock in the wild." 16
+
+USCS § 1362 (18) (A) (i).
+
+23. Level B harassment is defined as, "has the potential to
+
+disturb a marine mammal or marine mammal stock in the wild by
+causing disruption of behavioral patterns, including, but not
+limited to, migration, breathing, nursing, breeding, feeding, or
+
+sheltering." 16 USCS § 1362 (18) (A) (ii).
+
+24. 16 U.S.C. § 1371 "Moratorium on taking and importing
+
+marine mammals and marine mammal products" sets forth the
+
+relevant exceptions to the general prohibition on takings.
+
+25. Specifically, 16 U.S.C. § 1371 (a) (5) (D), (i), (I) provides
+
+in pertinent part:
+
+Except as provided by clause (ii), upon
+
+request therefor by citizens of the United
+
+States who engage in a specified activity
+
+(other than commercial fishing) within a
+
+specified geographical region, the Secretary
+
+shall allow, during periods of not more than
+
+five consecutive years each, the incidental,
+
+but not intentional, taking by citizens while
+
+engaging in that activity within that region
+
+of small numbers of marine mammals of a
+
+11
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 12 of 61 PagelD: 12
+
+species or population stock if the Secretary,
+
+after notice and opportunity for public
+
+comment finds that the total of such taking
+
+during each five-year (or less) period
+
+concerned will have a negligible impact on
+
+such species or stock and will not have an
+
+unmitigable adverse impact on the availability
+
+of such species or stock for taking for
+
+subsistence uses pursuant to subsection (b) or
+
+section 109(f) [16 USCS SS 1379 (f) ] or, in the
+
+case of a cooperative agreement under both
+
+this Act and the Whaling Convention Act of
+
+1949 (16 U.S.C. 916 et seq.), pursuant to
+
+section 112(c).
+
+26. Note, in particular, the phraseology, "small numbers of
+
+marine mammals of a species or population stock," and, "finds that
+
+the total of such taking will have a negligible impact" and
+that the Act refers to "citizens" engaged in a specified activity
+in the plural and "geographical region" in the singular. These
+
+clauses require the defendant to consider cumulative impact both
+
+spatially and temporally and are particularly pertinent in the
+
+case at bar, as will be discussed infra.
+
+27. NEPA imposes a requirement that federal agencies, such
+
+12
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 13 of 61 PagelD: 13
+
+as Defendant, assess the impact of major federal actions that
+
+significantly affect the quality of the human environment, in an
+
+environmental impact statement. 42 USCS § 4332 (2) (C) . The
+
+assessment must include both individual and cumulative effects of
+
+the major federal action. As explained in the third claim for
+
+relief, infra, Defendants, failed to prepare the required
+
+cumulative environmental impact statement on the major federal
+
+action (see third claim for relief).
+
+FACTS
+
+A. Wind Energy Development Activities Authorized Over the Past
+
+12-16 Months off of New Jersey and New York
+
+28. Numerous wind energy development projects were
+
+authorized in the year 2022 for the coastal waters off of the New
+
+Jersey and New York shores. In total, there are eleven active ITAs
+
+issued by Defendant and five pending ITAs with Defendant, for the
+
+waters off the New Jersey/New York coasts.5 The active ITAs are as
+
+follows.
+
+29. South Fork Wind, LLC received an ITA for the construction
+
+of the South Fork Offshore Wind Project near New York (off of Rhode
+
+Island and Massachusetts) on December 21, 2021, for the period
+
+November 15 2022 through November 14 2023.
+
+5 See, Exhibit A - Clean Ocean Action letter to President Biden.
+
+13
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 14 of 61 PagelD: 14
+
+30. Atlantic Shores Offshore Wind, LLC received an ITA for
+
+marine site characterization surveys off of New Jersey and New
+
+York on April 18, 2022 for the period April 20, 2022 through April
+
+19, 2023.
+
+31. Ocean Wind, LLC received an ITA for the renewal of marine
+
+site characterization surveys off New Jersey on May 9, 2022 for
+
+the period May 10, 2022 through May 9, 2023.
+
+32. Orsted Wind Power North America, LLC received an ITA for
+
+marine site characterization surveys off Delaware on May 6, 2022
+
+for the period May 10, 2022 through May 9, 2023.
+
+33. Ocean Wind II, LLC received an ITA for marine site
+
+characterization surveys off New Jersey on May 9, 2022 for the
+
+period May 10, 2022 through May 9, 2023.
+
+34. NextEra Energy Transmission Mid-Atlantic Holdings, LLC
+
+received an ITA for marine site characterization surveys off New
+
+Jersey on June 29, 2022 for the period July 1, 2022 through June
+
+30, 2023.
+
+35. Park City Wind, LLC received an ITA for marine site
+
+characterization surveys for the New England Wind Project Phase 1,
+
+off Massachusetts to New York on July 19, 2022 for the period
+
+September 1, 2022 through August 31, 2023.
+
+36. Atlantic Shores Offshore Wind Bight, LLC received an ITA
+
+for the marine site characterization surveys off of New Jersey and
+
+New York on August 10, 2022 for the period August 10, 2022 through
+
+14
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 15 of 61 PagelD: 15
+
+August 9, 2023.
+
+37. Attentive Energy, LLC received an ITA for marine site
+
+characterization surveys off of New Jersey and New York on August
+
+16, 2022 for the period September 15, 2022 through September 14,
+
+2023.
+
+38. Vineyard Northeast, LLC received an ITA for marine site
+
+characterization surveys from Massachusetts to New Jersey on July
+
+27, 2022 for the period July 27, 2022 through July 26, 2023.
+
+39. Orsted Wind Power North America, LLC received an ITA for
+
+marine site characterization surveys from New York to
+
+Massachusetts on October 6, 2022 for the period October 6, 2022
+
+through October 5, 2023.
+
+40. In total, there are eleven active ITAs, as delineated
+
+supra, and five pending ITAs, fully outlined in Clean Ocean
+
+Action's6 letter to President Biden.
+
+41. These ITAs (both active and pending) almost exclusively
+
+requested Level B harassment takes.
+
+42. Level B harassment takes include, "behavioral
+
+disturbance or temporary [hearing] threshold shift)."7
+
+43. As such, the classification of the ITAs issued
+
+Clean Ocean Action "is a leading national and regional voice working to
+protect waterways using science, law, research, education, and citizen action," https://cleanoceanaction.org/about-coa.
+7 Marine Mammal Protection Apply for an Incidental Take Authorization, NOAA
+Fisheries (Aug. 31, 2022), https://www.fisheries.noaa.gov/national/marine-
+mammal-protection/apply-incidental-take-authorization.
+
+15
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 16 of 61 PagelD: 16
+
+explicitly concedes that the anthropogenic acoustic source
+
+utilized in the wind turbine characterization surveys can result
+
+in takings.
+
+44. For example, the Orsted ITA provides, under "General
+
+Conditions" subsection (e) : "The acoustic source must be
+
+deactivated when not acquiring data or preparing to acquire data,
+
+except as necessary for testing. Unnecessary use of the acoustic
+source shall be avoided."8
+
+45. Note, further, in "Mitigation Requirements Shutdown
+
+Requirements" (e) (vii) : "Shutdown of acoustic sources is required
+upon observation of either a species for which incidental take is
+
+not authorized or a species for which incidental take has been
+
+authorized but the authorized number of takes has been met,
+
+entering or within the Level B harassment zone."9
+
+46. Accordingly, the ITA verbiage itself recognizes the
+
+impact of the anthropogenic acoustic sources on the marine mammals
+
+authorized to be taken by the ITA.
+
+47. In total, the eleven active ITAs permit 181 Level B takes
+
+of North Atlantic Right Whales, 169 of Humpback whales, and 63,820
+
+of total marine mammals. The five pending ITAs permit 782 takes of
+
+Humpback whales and 229 of North Atlantic Right Whales. This is a
+
+8 Incidental Harassment Authorization Orsted, National Marine Fisheries
+Service (May 6, 2022), https://media.fisheries.noaa.gov/2022- 05/OrstedDE 2022IHA Issued OPR1.pdf
+
+9 Id.
+
+16
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 17 of 61 PagelD: 17
+
+total of 951 takes of Humpback whales out of a population size of
+
+1,396 (up to 68.1%), and 411 of North Atlantic Right Whales out of
+
+a population size of less than 350 in the NJ/NY area (up to 100%).
+Such high takes likely involve multiple elevated noise exposures
+
+to the same animal.
+
+B. Exponential Increase in Whale Mortality Events Over the
+
+late 2022-early 2023 Period, Heretofore Unprecedented in
+
+the Record
+
+48. The Marine Mammal Stranding Center ("MMSC") is a
+
+federally authorized animal hospital in the State of New Jersey,
+
+formed in 1978, that responds to animals in distress and provides
+
+medical treatment. It is a 501 (C) (3) organization.10
+
+49. The MMSC has collated historical data on New Jersey whale
+
+strandings and presented same in graphical form. The below graph
+
+depicts the whale strandings per year from January 1, 2002 through
+
+January 7, 2023. This graph was posted publicly on the MMSC's
+
+Facebook page. Note, importantly, 2023 is only through January 7th.
+
+10 Marine Mammal Stranding Center, https://www.1inkedin.com/company/marine- mammal-stranding-center-nj/; https://mmsc.org/.
+
+17
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 18 of 61 PagelD: 18
+
+New Jersey Whale Stranding Data
+January 1, 2002 through January 7, 2023
+
+14
+
+12 12
+12
+
+10
+10
+
+sajeym jo JaqunN
+
+2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Year
+Source- Marine Mammal Stranding Center, Brigantine, N.J. www.mmsc.org
+An alarming and dramatic increase in whale deaths (as 50.
+
+well as dolphin deaths, discussed, infra) began in late 2022.
+
+51. This alarming increase in whale deaths rapidly gained
+
+public attention, and same was reported in prominent New Jersey
+media sources in early 2023.11
+
+of 52. The MMSC's updated graph12 of whale strandings as
+
+March 9, 2023 is depicted below. Note, importantly, this graph
+
+reflects about months of data for 2023. A 2 graph only
+
+extrapolating the extraordinary recent rate of whale mortality for
+
+all of 2023 is in paragraph 57.
+
+11 Are more dead whales washing up? A look at the numbers from the past 20
+years, NJ.com (Jan. 12, 2023), https://www.nj.com/news/2023/01/are-more-dead- whales-washing-up-a-1ook-at-the-numbers-from-the-past-20-years.html.
+12 Cetacean Stranding Data, Marine Mammal Stranding Center (Mar. 22, 2023),
+https://mmsc.org/cetaceans-2002-2023.
+
+18
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 19 of 61 PagelD: 19
+
+New Jersey Whale Strandings by Species and Year Marine Mammal Stranding Center© updated 3/9/2023
+
+12
+
+10
+
+8
+
+6
+
+0 TUDEINNDTBFNF
+Blaineville''s Beaked Whale 1 True's Beaked Whale Northern Bottlenose Whale Cuvier's Beaked Whale
+Beluga Whale Melonheaded Whale Shortfinned Pilot Whale Antillean Beaked Whale
+Dwarf Sperm Whale • Longfinned Pilot Whale m Sei Whale Pygmy Sperm Whale Unknown Whale North Atlantic Right Whale Fin Whale Sperm Whale Minke Whale Humpback Whale
+
+53. For the period December 5, 2022 through January 7, 2023,
+
+there were 4 New Jersey whale strandings. One of those four
+
+strandings occurred in early January 2023 (as noted in the first
+
+MMSC graph) . From January 7, 2023 through March 9, 2023, there
+
+were an additional 6 New Jersey whale strandings (totaling the 7
+
+NJ whale strandings for 2023 depicted on the above graph) .
+
+54. Thus, there have been a total of 10 New Jersey whale
+
+strandings for the period December 5, 2022 through March 9, 2023.
+
+55 . The average whale mortality rate for the 2002-2022
+
+multidecadal period in New Jersey is 6.3 whale deaths per year.
+
+56. The estimated total New Jersey whale deaths were
+
+calculated based upon the recent multi-month rate of mortality
+
+events and extrapolated for the upcoming year. This yielded an
+
+estimated total whale deaths of 39 whales for 2023.
+
+19
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 20 of 61 PagelD: 20
+
+57. This number of whale deaths is not only greater in
+
+quantity than the highest year of deaths in the 20 year MMSC
+
+database, but it also constitutes a highly statistically
+
+significant increase in whale deaths. Such a determination can be
+
+quickly and easily performed. See the below graph depicting the
+
+New Jersey whale deaths for the 2002-2023 period including the
+
+extrapolated value for 2023, and statistical significance note
+
+regarding 2023's estimated increase:
+
+NJ Whale Deaths 2002-2022 + 2023 Extrapolation
+
+45 indicates statistically significant
+
+40 *
+
+35
+
+Whale Deaths 30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0 NA
+
+2000 2002 2004
+-Produced by TWS 2006 2008 2010 2012 2014 2016 2018 2020 2022 2024 2026
+
+Versus the 2002-2022 baseline rate of death, Year
+
+extrapolated 2023 deaths based on recent rate of Methodology: the NY Bight Survey was used to establish
+
+whale mortality events is statistically highly estimates of existing whale population. The rate of NJ
+
+significant, p < 0.001, versus baseline 2002-2022 whale deaths since early December 2022 through
+
+average deaths. Z score = 4.94 (circa +5 SD) present was extrapolated, and p values calculated.
+https://www.dec.ny.gov/docs/fish_marine_pdf/dmrnyb
+acousticone(1).pdf
+
+58. The extrapolated estimate of 39 NJ whale deaths for 2023
+
+versus the baseline average constitutes a highly statistically
+
+significant event, with the p-value well under 0.001, and a z-
+
+20
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 21 of 61 PagelD: 21
+
+score of 4.94.
+
+59. These data indicate a highly rare, anomalous event is
+underway. The p-value provides strong evidence that such an event
+
+is unlikely occurring due to chance. The z-score indicates a near
+
+5 standard deviation event, which again, is exceedingly rare. A
+
+five standard deviation event corresponds to a 1 in 3.5 million
+
+chance of happening.13
+
+60. Additionally, a study funded by Defendant NMFS found
+through an estimation model that - over the period 1990-2007
+observed North Atlantic Right Whale carcasses account for only 36%
+of all deaths.14 Adjusting for this implies the above estimate of
+
+39 whale deaths for 2023 could be quite a bit higher.
+
+61. In totality, the recent exponential uptick in whale
+
+deaths is unprecedented in the NJ record since 2002, highly
+
+statistically significant, and provides robust evidence that an
+
+environmental variable is causing this dramatic increase. The only
+
+common denominator, i.e., the recent changed variable of
+
+significance, has been the spate of ITAs issued during 2022 in
+
+connection with the wind energy marine characterization activities
+
+off the New Jersey/New York coasts. The mechanisms and
+
+13 Tibi Puiu, What does 5-sigma mean in science? ZME Science (Jan. 28, 2021),
+https://www.zmescience.com/science/what-5-sigma-means-0423423/.
+14 Richard M. Pace III, et al., Cryptic mortality of North Atlantic right
+whales, Society for Conservation Biology (Feb. 2, 2021), https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.346.
+
+21
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 22 of 61 PagelD: 22
+
+corroboration for imputing the exponential whale mortality
+
+increase to the wind energy activities is outlined infra.
+
+62. Moreover, whales have not been the only victim of death.
+
+There have already been a total of 23 dolphin and porpoise
+
+strandings along the NJ coast for 2023 thus far, as per MMSC . 15 The
+
+average number of deaths for the 2002-2022 is 42 (note that the
+
+one anomalous year in 2013 was due to morbillivirus16 in dolphins
+- a virus in the same family as measles).
+
+63. The extrapolated total deaths for 2023 based upon the
+
+current rate of dolphin/porpoise deaths in 2023 thus far is 104
+
+deaths for 2023.
+
+64 . As such, the estimate for 2023 of 104 deaths of
+
+dolphins/porpoise versus the running baseline average of 42 deaths
+
+would be highly statistically significant, with a p-value less
+
+than 0.001, and a z-score of around 5, again, suggesting this is
+
+an exceedingly rare event.
+
+65. It further fortifies the argument that an
+
+environmental/exogenous agent is responsible for this exponential
+
+increase in mortality, and since the effect is observed across
+
+multiple marine mammal species, namely, both whales and dolphins,
+
+15 Cetacean Stranding Data, Marine Mammal Stranding Center (Mar. 22, 2023),
+https://mmsc.org/cetaceans-2002-2023.
+16 2013-2015 Bottlenose Dolphin Unusual Mortality Event in the Mid-Atlantic (Closed) Marine Life in Distress, NOAA Fisheries (Oct. 26, 2021),
+https://www.fisheries.noaa.gov/national/marine-life-distress/2013-2015-
+bottlenose-dolphin-unusual-mortality-event-mid-atlantic.
+
+22
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 23 of 61 PagelD: 23
+
+it must be a variable capable of affecting both cetaceans/marine
+
+mammals.
+
+66 . A common denominator between dolphins and whales is
+
+their utilization of sound as a means to communicate and navigate,
+
+as discussed further infra.
+
+C. Scientific Evidence Causally Linking the Wind Turbine
+
+Marine Characterization to the Dramatic Increase in
+
+Dolphin/Whale Deaths
+
+67. While it cannot be foreclosed that more than one
+
+etiological factor is causing the overall increase in marine mammal
+
+deaths, if this were a multifactorial phenomenon, we should have
+
+observed multiple changed variables over the preceding 12-16
+
+months. That has not been the case.
+
+68 . The one, materially changed variable has been the
+
+numerous ITAs issued in 2022, and thereupon, the significant amount
+
+of seabed characterization activity offshore, in preparation for
+
+turbine construction.
+
+69. The seabed is characterized by survey vessels which
+
+emanate high magnitude noise, typically operating in the low-mid
+
+frequency range.
+
+70. Dr. Robert Stern, the former director in the Office of
+
+Environmental Compliance in the U.S. Department of Energy, is a
+
+recognized expert in environmental impact studies. He submitted a
+
+23
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 24 of 61 PagelD: 24
+
+letter, 17 on behalf of his organization, Save LBI, to President
+
+Joseph Biden. This letter is replete with scientific data on the
+
+potential deleterious effects of wind turbines on marine life,
+
+both in the preparatory and operational phases.
+
+71. The high magnitude noise emitted by survey vessels to
+
+characterize the sea floor in preparation for turbines permits
+
+noise levels over 200 decibels.18
+
+72. The Defendant's own 2018 technical guidance19 shows the
+
+various marine mammals, including whales and dolphins, hear in the
+
+low to mid frequency range:
+
+Table ES1: Marine mammal hearing groups.
+
+Hearing Group Generalized Hearing
+Range*
+Low-frequency (LF) cetaceans
+(baleen whales) 7 Hz to 35 kHz
+Mid-frequency (MF) cetaceans
+(dolphins, toothed whales, beaked whales, bottlenose whales) 150 Hz to 160 kHz
+High-frequency (HF) cetaceans (true porpoises, Kogia, river dolphins, cephalorhynchid, 275 Hz to 160 kHz
+Lagenorhynchus cruciger & L. australis)
+Phocid pinnipeds (PW) (underwater)
+(true seals) 50 Hz to 86 kHz
+
+Otariid pinnipeds (OW) (underwater)
+(sea lions and fur seals) 60 Hz to 39 kHz
+
+Represents the generalized hearing range for the entire group as a composite (i.e., all species within the group), where individual species' hearing ranges are typically not as broad. Generalized hearing range chosen based on ~65
+dB threshold from normalized composite audiogram, with the exception for lower limits for LF cetaceans (Southall et
+al. 2007) and PW pinniped (approximation).
+
+17 See, Exhibit B, Dr. Robert Stern's analysis and letter to President Biden.
+18 Id.
+19 Underwater Thresholds for Onset of Permanent and Temporary Threshold
+Shifts, 2018 Revision to: Technical Guidance for Assessing the Effects of Anthropogenic Sound on Marine Mammal Hearing (Version 2.0) (April 2018), https://media.fisheries.noaa.gov/dam
+migration/tech memo acoustic quidance (20) (pdf) 508.pdf.
+
+24
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 25 of 61 PagelD: 25
+
+73. Defendant NMFS uses an established threshold for Level
+
+B harassment at 120 decibels for continuous noise, and 160 decibels
+
+for impulsive and intermittent noise20 which is characteristic of
+
+noise source level of these vessel survey devices.
+
+74 . The Defendant NMFS' issuance of the ITAs established a
+
+maximum distance of 141 meters (slightly less than 1/10 of a mile)
+
+from the sound source for Level B harassment noise.21
+
+75. Conversely, Dr. Stern's analysis demonstrates that
+
+noise levels over 160 decibels can extend outward to 16 miles, and
+
+noise levels over 140 decibels up to 34 miles away from the
+
+vessel.22 See below table (under paragraph 79) produced by Dr.
+
+Stern. The large changes in the range of elevated noise occur
+
+because the range is an exponential function of the noise source
+
+level and transmission loss factor-measured in decibels.
+
+76. The use of the 140 dB as a criterion is supported by its
+
+recent use by the NMFS in the Atlantic Shores project request for
+
+20 Request for an Incidental Harassment Authorization to Allow the Non-Lethal
+Take of Marine Mammals Incidental to Site Characterization Surveys of the
+Atlantic Shores Lease Area (OCS-A0499), Atlantic Shores Offshore Wind Project Dec. 2021), "NOAA Fisheries has defined the threshold level for Level B
+harassment at 120 dBRMS re 1 microPascal (uPa) for continuous noise and 160
+dBRMS re 1 uPa for impulsive and intermittent noise."
+https://media.fisheries.noaa.gov/2022-01/AtlanticShoresHRG 2022 App OPR1.pdf.
+
+21 Id. at 31, "The maximum calculated distance to the Level B harassment
+threshold for any category and type of HRG survey equipment that could be
+operated is the sparker at 462.6 ft (141 m; Table 6-2 and Appendix B)."
+22 See, Exhibit B, Dr. Robert Stern's analysis and letter to President Biden.
+
+25
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 26 of 61 PagelD: 26
+
+ITA authorization for construction.23 It is considered to be more
+
+representative as the criteria for impulsive noise for baleen
+whales as opposed to the 160 dB level, which is more appropriate
+
+for the general marine mammal population.
+
+77. The need to consider a lower criteria level is also
+
+supported by field observation on bowhead whales. It has been
+
+difficult to observe the direct response of right whales to man-
+
+made noise because they are so critically endangered and sparse.
+
+But bowhead whales are a close relative of the right whale and an
+
+excellent proxy for assessing behavioral impacts to them.
+
+Displacement of bowhead whales from air gun noise, another
+
+impulsive source, has been shown to occur at received levels of
+
+120 to 130 dB . 24
+
+78. Compounding the concern over large ranges is that, as
+
+shown below (paragraph 79), with a more accurate noise source level
+
+and a more often used realistic, practical 15 dB noise loss factor,
+
+the distances to meet even the 160 dB criteria are considerably
+
+larger. Regarding noise source level, the plaintiffs questioned
+
+the use of the defendant's 203 dB source level for the loudest
+
+23 Application for Marine Mammal Protection Act (MMPA) Rulemaking and Letter of Authorization, Atlantic Shores Offshore Wind (Sept. 2022), https://media.fisheries.noaa.gov/2022- 09/AtlanticShoresOWF 2022 Application OPR1.pdf. 24 W. John Richardson and Gary W. Miller, Displacement of migrating bowhead whales by sounds from seismic surveys in shallow waters of the Beaufort Sea,
+The Journal of the Acoustical Society of America (Aug. 30, 1999), https://asa.scitation.org/doi/10.1121/1.427801.
+
+26
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 27 of 61 PagelD: 27
+
+"Dura Spark 240 Unit" when measured data in a Report25 (Table 10)
+
+they often use places the number between 209 and 213 dB. The
+
+Plaintiffs questioned the defendant's use of a 20 dB noise loss
+
+factor when 15 dB has been used in numerous other IHA's and even
+
+recommended by the defendants for that purpose.
+
+79. It is well known that discrete noise signals lose that
+
+characteristic and become of a more continuous nature as they
+
+travel longer distances due to variations in noise transmission
+
+paths. This would seem to be especially applicable to those sources
+
+with wider beamwidth, longer pulse durations, and higher pulse
+
+repetition rates. The disturbance criteria for continuous noise is
+
+120 DB, even lower than the 140 DB. See Dr. Stern's table below,
+
+showing noise to 140 dB out to 13-34 miles and noise to 160 dB out
+
+to 16 miles from sound source (in contrast to Defendant's numbers
+
+only 1/10 of a mile from sound source for 160 dB).
+
+25 Letter to Ms. Jolie Harrison, NMFS, from Save LBI, February 23,2022,
+Comments on the proposed ITA for Atlantic Shores Offshore Wind Project's
+Marine Site Characterization Surveys.
+
+27
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 28 of 61 PagelD: 28
+
+Vessel Surveys -Noise Impact
+
+NMFS Alternate
+
+Source Level 203 dB 205-211
+
+Transmission Loss 20 15
+
+Criteria- Noise Level to 160 140 (for baleen
+Get Down to whales)
+
+Range to 140 dB 13-34 miles
+
+Range to 160 dB 1/10 mile 1/2-16 miles
+
+80. The vessel surveying activity has been occurring
+
+directly within or near a key right whale migratory zone off the
+
+New Jersey coast. Note in the below image, the darker brownish
+
+colors indicate the highest concentration of right whale
+
+migration.
+
+Figure 2. Right Whale Primary Migration Corridor-in purple
+
+NORTH ATLANTIC RIGHT WHALE ,sound Rud tsand 1 vomt D FAIRWAYS NOR TH FAIRWAYS DRAFT WEA
+DRAFT WEA
+
+PREDICTEDANMALS PER S0KM X 10KM TO CELL
+0.12 - 0.19 HUDRON NOR TH
+0.20 - 0.27
+0.28 - 0.35
+
+0.44 - 0,51
+HUDGON COUTH
+0.00 - 0.67 DRAFT WEA
+
+0.75 - 0.82 Dolaware
+6.83-0.6l PNio
+
+WEIND ENERGY A
+STUDY AREA 06 A 0482
+OC8 A 0510
+01 4 0490
+
+Source, NJ Offshore Wind Strategic Plan, Natural Resource Technical Appendix, Figure 21. Section 2.6.
+
+81. The Atlantic Shores incidental take authorization
+
+28
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 29 of 61 PagelD: 29
+
+application26 for construction ostensibly displays the right whale
+
+migration corridor directly intersecting the leased area and
+
+proposed wind turbine locations:
+
+SPRING SUMMER
+
+LEGEND
+J Lease Area Boundary
+Service Layer Credits: Esri, Garmin, GEBCO, NOAA NGDC,
+and other contributors Wind Turbine Area
+
+Map Coordinate System: NAD 1983 UTM 19N Meters 50km Buffer
+North Atlantic right whale density,
+Scale 1:2,068,913 1inch = 33 miles animals/100km'
+
+30 60 Miles 0.000 - 0.242
+0.242 - 0.760
+Kilometers 0.760 - 1.382
+1.382 - 2.212
+2.212 - 4.407
+
+9. Figure 9. North Atlantic right whale maximum seasonal density from Roberts et al. (2016a, 2021a, 2021b).
+
+26 Application for Marine Mammal Protection Act (MMPA)
+Rulemaking and Letter of Authorization, Atlantic Shores Offshore Wind (Sept.
+2022), https://media.fisheries.noaa.gov/2022- 09/AtlanticShoresOWF 2022 Application OPR1.pdf.
+
+29
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 30 of 61 PagelD: 30
+
+82. As another example, Atlantic Shores Offshore Wind Bight,
+
+LLC's ITA application27 shows their survey area (see image below)
+
+intersecting with the whale migration corridor (map of corridor,
+
+supra, under paragraph 80) :
+
+Line bslend Sione
+
+lew York
+
+LEGEND
+ECR Survey Area 12 Nauccal Mie Limr:
+Lese Survy Asca --- 3 Nacrical Mile Limit
+Sarvey Aren Bouncey
+t0e
+
+10 20 40 Giberetres Hurfreeson 14C 29034W Dee 1W POIEN en WyFoeficb
+
+ATLANTIC SHORES Figure
+offshore wind Proposed Survey Aved
+
+27 Request for an Incidental Harassment Authorization to Allow the Non-Lethal
+Take of Marine Mammals Incidental to Site Characterization Surveys of the
+Atlantic Shores Lease Area (OCS-A0541), Atlantic Shores Bight LLC (Apr. 2022), https://media.fisheries.noaa.gov/2022-
+06/AtlanticShoresBightHRG_2022PropIHA App OPR1.pdf.
+
+30
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 31 of 61 PagelD: 31
+
+83. The threshold of 140 decibels is particularly
+
+significant. The Defendant NMFS has recently used that threshold
+
+as the level at which 50% of the baleen whale population would be
+
+disturbed, meaning a large percent of the whales could be disturbed
+
+at lower levels.28
+
+84. Supporting that, two studies found that Humpback whales
+
+try to avoid the noise down to a level of 140 decibels.29
+
+85. Moreover, there is a scientific consensus that whales
+
+will consistently seek to avoid noise of approximately 160
+
+decibels.30
+
+86. As noted, noise of these levels emanating from the sea
+
+characterization surveys can propagate many dozens of miles away
+
+from the survey vessel, and the surveying is occurring directly in
+or near the right whale migration zone.
+
+87. Disturbing the whale's behavior can mean many things:
+
+28 C.I. Malme, et. al., Investigations of the potential effects of underwater noise from Petroleum industry activities on migrating gray whale behavior (Aug. 1984), https://www.boem.gov/sites/default/files/boem- newsroom/Library/Publications/1983/rpt5586.pdf.
+29 Robert D. McCauley, et al., Marine Seismic Surveys: Analysis and
+Propagation of Air-Gun Signals; And Effects of Air-Gun Exposure on Humpback
+Whales, Sea Turtles, Fishes and Squid, Centre for Marine Science and
+Technology Curtin University of Technology (Aug. 2000), https://cmst.curtin.edu.au/wp-content/uploads/sites/4/2016/05/McCauley-et-al- Seismic-effects-2000.pdf; R.D. McCauley, et al., Marine Seismic Surveys-A Study Of Environmental Implications, Centre for Marine Science and Technology Curtin University (Mar. 17, 2000), https://espace.curtin.edu.au/bitstream/handle/20.500.11937/80308/80370.pdf?se quence=2&isAllowed=y.
+
+30 B. Southall, et al., Marine Mammal Noise Exposure Criteria: Initial
+Scientific Recommendations, Aquatic Mammals (Jan. 1, 2008), https://tethys.pnnl.gov/publications/marine-mammal-noise-exposure-criteria=
+initial-scientific-recommendations.
+
+31
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 32 of 61 PagelD: 32
+
+It very often means first, that the whale will
+seek to avoid the noise or "standoff" from it,
+potentially in an undesirable direction or
+location. In a migratory setting that could
+mean obstruction of, or even blockage of that
+migration. It could mean being driven towards
+the shore seeking relief. It can also involve
+the whale surfacing to seek a lower noise
+level at the surface and becoming more
+vulnerable to vessel strike. It can mean
+separation of mothers and calves due to the
+'masking" of their normal communications by
+the vessel device noise, and such separation
+can be fatal for the calf. It can also mean
+the loss of its navigational capability,
+cessation of feeding or mating, and the loss
+of the ability to detect predators or oncoming
+ships. Finally, because whales use sounds to
+determine the very nature of their
+surroundings, the effects may be much more
+profound than that.31
+
+88. Such paths to serious harm and fatality include
+
+reactions to noise stimuli causing right whales to ascend and swim
+
+just below the surface where they are more vulnerable to vessel
+
+strike, not just from survey vessels, but from other vessels as
+
+well. This behavior has in fact been demonstrated experimentally. 32
+
+89. Another path to injury involves separation of calves
+
+from mothers as a result of masking of their communication from
+
+31 See, Exhibit B, Dr. Robert Stern's analysis and letter to President Biden.
+32 Douglas P. Nowacek, et al., North Atlantic right whales (Eubalaena
+glacialis) ignore ships but respond to alerting stimuli, Proc. R. Soc. Lond.
+B. (Feb. 7, 2004),
+https://royalsocietypublishing.org/doi/10.1098/rspb.2003.2570.
+
+32
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 33 of 61 PagelD: 33
+
+elevated noise levels. Such communications can employ low-
+
+amplitude signals susceptible to auditory masking.33
+
+90. The potential for such loss of mother/calf communication
+
+was also presented in another study, 34 using a 150 dB source level
+
+for a whale upcall, and a 15 dB loss factor, mother/calf
+
+communications could be blocked out to a distance of 7.2 miles
+
+from the sparker units' source noise levels of 211 dB.
+
+91. Still another path occurs from the potential disruption
+
+of the whale's migration since a primary migration corridor for
+the right whale is concentrated near and even intersects part of
+
+the survey area. That could occur from reactions to above Level B
+exposures and/or masking of the whale's sound capabilities.
+
+92. Reactions to above Level B exposures could also involve
+
+stress and distress. An animal's perception of a threat may be
+
+sufficient to trigger stress responses consisting of some
+
+combination of behavioral responses, autonomic nervous system
+
+responses, neuroendocrine responses, or immune responses.
+
+93. Autonomic nervous system responses to stress typically
+
+involve changes in heart rate, blood pressure, and
+
+33 Susan E. Parks, et al., Acoustic crypsis in communication by North Atlantic
+right whale mother-calf pairs on the calving grounds, Biol. Lett. (0ct. 9, 2019),https://royalsocietypublishing.org/doi/10.1098/rsbl.2019.0485#:~:text=R ight%20whale%20mothers%20produced%20a,the%20most%20vulnerable%20to%20predatio
+n.
+
+34 Jennifer Tennessen and Susan Parks, Acoustic propagation modeling indicates
+vocal compensation in noise improves communication range for North Atlantic
+right whales, Endang Species Res (June 15, 2016), https://www.int-
+res.com/articles/esr2016/30/n030p225.pdf.
+
+33
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 34 of 61 PagelD: 34
+
+gastrointestinal activity, have a relatively short duration and
+
+may or may not have a significant long-term effect on an animal's
+
+fitness.
+
+94. Neuroendocrine stress responses have been implicated in
+
+failed reproduction, altered metabolism, reduced immune
+
+competence, and behavioral disturbance. During a stress reaction,
+if an animal does not have sufficient energy reserves to satisfy
+
+the energetic costs of a stress response, energy resources must be
+
+diverted from other normal functions, leading to distress
+
+situation. This state of distress will last until the animal
+
+replenishes its energetic reserves sufficient to restore normal
+
+function. Studies in the Bay of Fundy found that noise reduction
+
+from reduced ship traffic was associated with decreased stress in
+
+North Atlantic right whales leading to a reasonable expectation
+
+that some of its normal functions, including its migration, could
+
+be impaired from higher level exposures.
+
+95. The need to assess the impact on its migration from the
+
+masking of the whale's communication is equally important. The
+
+whales use sound to navigate along their migration. It also appears
+
+that their migration is ided by their capability to communicate
+
+with each other along the way.
+
+96. The right whale's vocalizations are normally at the 125
+
+dB rms level for low background noise, but can rise to 150 dB in
+
+34
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 35 of 61 PagelD: 35
+
+the presence of high background noise. 35
+
+97. A recent in-depth review of behavior response studies
+
+identified36 a number of studies specifically associated with whale
+
+traveling, migrating, and directional swimming.
+
+98. Numerous other studies evince the detrimental effects of
+
+anthropogenic underwater noise on marine mammals. For example,
+
+"[a]nthropogenic noise can directly or indirectly affect many
+
+marine organisms, causing auditory masking, leading to cochlear
+
+damage, changing individual and/or social behavior, altering body
+
+metabolism, and hampering embryogenesis."37 Auditory masking is a
+
+phenomenon that occurs when the presence of one sound compromises
+
+and affects the presence of another sound. 38
+
+99. Marine mammal deaths as a result of sonar or otherwise
+
+35 Susan E. Parks, et al., Individual right whales call louder in increased environmental noise, Biol. Lett. (July 7, 2010), https://royalsocietypublishing.org/doi/10.1098/rsbl.2010.0451. Using even the high 150 dB communication level, with the 211 dB noise source level and the
+15 dB propagation loss factor above, masking of their communication would extend seven miles from the survey vessel.
+36 C. Gomez, et al., A systematic review on the behavioral responses of wild
+marine mammals to noise: the disparity between science and policy, Canadian
+Journal of Zoology (Nov. 2, 2016),
+https://cdnsciencepub.com/doi/abs/10.1139/cjz-2016-0098.
+37 Chao Peng, et al., Noise in the Sea and Its Impacts on Marine Organisms,
+Int J Environ Res Public Health. (Sep. 30, 2015),
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4626970/.
+38 Christophe Anet, Auditory Masking and its Effect on our Perception of Sound, QSC (May 5, 2021), "Auditory masking occurs when the perception of one
+sound is affected and compromised by the presence of another sound."
+https://blogs.qsc.com/live-sound/auditory-masking-and-its-effect-on-our-
+perception-of- sound/#:~:text=Auditory%20masking?20occurs?20when%20the, temporal%20or%20non%2
+Dsimultaneous%20masking; Brian K. Branstetter and Jillian M. Sills,
+Mechanisms of auditory masking in marine mammals, Anim Cogn. (Aug. 26, 2022) .
+
+35
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 36 of 61 PagelD: 36
+
+high-intensity anthropogenic noise is not a novel phenomenon, in
+fact, it has been documented in studies for decades.
+
+100. In March 2000, the U.S. Navy admitted that its high-
+
+intensity sonar systems resulted in the strandings of sixteen
+
+beaked and minke whales after the Navy ships passed by through the
+
+Bahamas.39
+
+101. Studies conducted by Tyack (1998) and Tyack and Clark
+
+(1998) concluded that 10 of 17 singing Humpback whales exposed to
+
+low-frequency sounds from the SURTASS-LFA4 sonar system stopped
+
+singing during playback with a source level that ranged from 155
+
+to 205 dB, resulting in maximum received levels of 120 to 150 dB
+
+#40
+
+102. "Low-frequency sound also may affect sperm whales
+
+because their wide-band clicks contain energy between 100 and 2,000
+
+Hz (Watkins et al., 1985; Moore et al., 1993), which is suggestive
+
+of low-frequency hearing Many earlier reports suggest that
+
+sperm whales may silence or move out of an area in response to
+
+manmade noise (Watkins et al., 1985; Bowles et al., 1994; Mate et
+
+al., 1994)."41
+
+103. The Atlantic Shores Bight LLC's ITA application, for
+
+39 Mark Schrope, Whale deaths caused by US Navy's sonar, Nature (Jan. 10, 2002), https://www.nature.com/articles/415106a.
+
+40 National Research Council, Marine Mammals and Low-Frequency Sound (2000), https://www.ncbi.nlm.nih.gov/books/NBK225334/.
+
+41 Id.
+
+36
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 37 of 61 PagelD: 37
+
+example, concedes that their characterization surveys can
+
+interfere, in particular with low-frequency communicating mammals
+
+"Impacts most likely to occur from HRG42 surveys are masking of
+
+sound and behavioral disturbance (URI 2021a). Masking effects have
+
+the largest impacts on low-frequency communicating mammals like
+
+baleen whales (NOAA 2021a)."43
+
+104. Furthermore, many studies have deduced a possible causal
+
+link between naval sonar operations and whale strandings:
+
+Several papers have suggested that beaked
+whales tend to strand when there are naval
+operations offshore. Simmonds and Lopez-
+Jurado (1991) reported on four mass strandings
+between 1985-1989 of Cuvier's beaked whale
+(Ziphius cavirostris) on the coast of
+Fuerteventura in the Canary Islands that may
+have been related to naval maneuvers. Frantzis
+(1998) reported on another mass stranding of
+12 or more beaked whales sighted over 38 km of
+coastline during two days (May 12 and 13,
+1996) in the Kyparissiakos Gulf in Greece.
+There was no external sign of injury or
+disease in any of these animals. Frantzis
+(1998) concluded that the mass stranding was
+associated with concurrent NATO sonar
+exercise. The Frantzis paper stimulated the
+NATO research center that conducted the sonar
+tests to convene panels to review the data
+(D'Amico, 1998). The NATO sonar transmitted
+two simultaneous signals, one at 450-700 Hz
+
+42 High-resolution geophysical.
+43 Request for an Incidental Harassment Authorization to Allow the Non-Lethal
+Take of Marine Mammals Incidental to Site Characterization Surveys of the
+Atlantic Shores Lease Area (OCS-A 0541), Atlantic Shores Bight LLC (Apr.
+2022), https://media.fisheries.noaa.gov/2022-
+06/AtlanticShoresBightHRG_2022PropIHA App OPR1.pdf.
+
+37
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 38 of 61 PagelD: 38
+
+and one at 2.8-3.3 kHz at source levels of
+just under 230 dB. This combined signal lasted
+four seconds and was repeated once every
+minute. The NATO analysis suggested close
+timing between the onset of sonar
+
+transmissions and the first strandings.44
+
+105. A U.S. Court of Appeals 9th Circuit case found that the
+
+U.S. Navy's low frequency sonar was harming marine mammals, and
+
+ordered the U.S. Navy to develop new rules that would adequately
+
+comply with the requirements of MMPA S 1371 (a) (5) (A) (i) (II) (aa)
+for "least practicable impact" on said mammals.45
+
+106. Importantly, an internal memorandum46 written by Sean
+
+Hayes, Ph.D., the Chief of Protected Species at NOAA Northeast
+
+Fisheries Service Center, sent to Brian Hooker (lead biologist at
+
+Bureau of Ocean Energy Management) strongly warns of the numerous
+
+deleterious impacts of turbine construction and operation on
+
+marine mammals, including and especially right whales.
+
+These risks occur at varying stages, including
+
+construction and development, and include
+
+increased noise, vessel traffic, habitat
+
+modifications, water withdrawals associated
+
+with certain substations and resultant
+
+44 National Research Council, Marine Mammals and Low-Frequency Sound (2000), https://www.ncbi.nlm.nih.gov/books/NBK225334/.
+45 NRDC, Inc. v. Pritzker, 828 F.3d 1125 (9th Cir. 2016).
+46 See, Exhibit C, Internal NOAA memorandum.
+
+38
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 39 of 61 PagelD: 39
+
+impingement/entrainment of zooplankton,
+
+changes in fishing effort and related
+
+potential increased entanglement risk, and
+
+oceanographic changes that may disrupt the
+
+distribution, abundance, and availability of
+
+typical right whale food.
+
+107. Various news and media outlets have been disseminating
+
+the statements made by federal and state agencies to the effect
+
+that no connection exists between the spate of whale/dolphin
+
+strandings and the ongoing offshore wind turbine preparatory work.
+
+108. NOAA asserts that there is no evidence to support
+
+speculation attributing the whale deaths to the seabed
+
+characterization related noise 47, presumably referring to evidence
+
+of hearing organ damage.
+
+109. However, necropsies do not often look for damage to
+
+marine mammals' hearing organs and cannot show whether disturbance
+
+from noise led to behaviors that can and do invariably lead to
+
+injury and death, as described passim. Rather, that connection
+
+needs to be plausibly made through a thorough examination of vessel
+
+location, noise device use and power settings and other factors at
+
+47 Robert Zullo, Wind and whales: Virginia Mercury (Mar. 3, 2023), 'No evidence' links projects to deaths,
+https://www.virginiamercury.com/2023/03/03/wind-and-whales-no-evidence-links-
+projects-to- deaths/#:~:text=%E2%80%9CAt%20this%20point%2C%20there%20is, NOAA%20said?20in%2
+0a%20statement.
+
+39
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 40 of 61 PagelD: 40
+
+the times of the whale deaths.
+
+110. Hence, to suggest there is no evidence of a connection
+
+between the turbine preparatory activity and the strandings based
+
+solely on the necropsies is misleading because such evidence is
+
+neither looked for or can be found. Therefore, claiming it doesn't
+
+exist is proof of nothing.
+
+111. The NJ DEP has joined in this chorus of avoidance of
+
+evidence, "As of March 2023, no offshore wind-related construction
+
+activities have taken place in waters off the New Jersey coast,
+
+and DEP is aware of no credible evidence that offshore wind-related
+
+survey activities could cause whale mortality."48
+
+112. For instance, a News 12 New Jersey article discussing
+
+the NJ DEP's statement notes that necropsies have determined that
+
+some whales died due to vessel strikes.49 But this is potentially
+
+only the secondary cause of death.
+
+113. NOAA further avers that these strandings have been
+
+increasing since 2016 50 but that is not borne out by the graph in
+
+48 NJDEP STATEMENT ON EAST COAST WHALE MORTALITIES, Department of
+Environmental Protection (Mar. 15,
+2023),https://www.nj.gov/dep/newsrel/2023/23 0021.htm#:~:text=As%20of%20March
+%202023%2C%20no,activities%20could%20cause%20whale%20mortality.
+49 Matt Trapani, NJDEP: 'No credible evidence' offshore wind power projects are killing whales, NEWS 12 NJ (Mar. 15, 2023), https://newjersey.news12.com/njdep-no-credible-evidence-offshore-wind-power- projects-are-killing-whales.
+50 Marine Life In Distress 2016-2023 Humpback Whale Unusual Mortality Event Along the Atlantic Coast, NOAA Fisheries (Mar. 23, 2023), https://www.fisheries.noaa.gov/national/marine-life-distress/2016-2023- humpback-whale-unusual-mortality-event-along-atlantic-coast.
+
+40
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 41 of 61 PagelD: 41
+
+paragraph 49. That graph shows low strandings in 4 of the last 7
+
+years. Also, such an assertion fails to account for the exponential
+
+increase in the rate of mortality events over the past 3-4 months
+in the regions off of NJ/NY specifically authorized by Defendant
+
+to conduct noise-based characterization.
+
+114. In 2020, a series of 29 beaked whale
+
+strandings/sightings occurred on the northern shores of Europe. 51
+
+Experts then suggested the strandings were related to a military
+
+sonar exercise.52 Among the research cited was a prominent
+
+Australian study which found a "Strong association between beaked
+
+whale stranding events with the presence of multinational naval
+
+ASW training operations."53 Those operations used mid-frequency
+
+sonar.
+
+115. Finally, and additionally, given all the above, and as
+
+stated by Dr. Stern in his numerous submitted comments in
+
+connection with the ITAs, "The scope of the Level A and serious
+
+injury/death analysis here is insufficient. The take numbers
+
+generated under the level B analysis are low and not justified
+
+compared to those using current scientific norms for estimating
+
+51 Betsy Reed, Beached whale increase may be due to military sonar exercises, say experts, The Guardian (Aug. 25, 2020),
+https://www.theguardian.com/environment/2020/aug/24/beached-whale-increase- may-be-due-to-military-sonar-exercises-say-experts.
+52 Id.
+53 Anne E. Simonis,et al., Co-occurrence of beaked whale strandings and naval
+sonar in the Mariana Islands, Western Pacific, Proc. R. Soc. B. (Feb. 19,
+2020), https://royalsocietypublishing.org/doi/10.1098/rspb.2020.0070.
+
+41
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 42 of 61 PagelD: 42
+
+noise propagation loss. The potential for Level A takes from
+
+cumulative exposure has not been analyzed."54 The Defendant NMFS,
+
+in the active and pending ITAs, are authorizing these ITAs with
+
+virtually no requested Level A harassment takes. This flies in the
+
+face of all the evidence of pathways to harm and death from
+
+cumulative exposure to the noise, outlined herein, and the
+
+exponential rise in marine mammal deaths attributable to same.
+
+116. Accordingly, it is entirely counterfactual to assert
+
+there is "no evidence" given the above.
+
+Climate Change Mitigatory Ability of Whales is Significant
+
+117. Finally, and importantly, Defendants, inter alia, will
+
+argue that one of the primary goals of wind turbine development is
+
+climate change mitigation. However, the final Environmental Impact
+
+Statement for the Vineyard wind project states that there will be
+
+"no effect" on climate change from these projects.55 Save LBI also
+
+assembled and presented to the Defendant NMFS sea level rise data
+from International Panel on Climate Change reports that show that
+the impact of these projects will not reduce future sea level rise
+
+at all, but only delay whatever is coming for a very modest time.
+
+For the Atlantic Shores project that delay would amount to about
+
+54 Dr. Stern's submitted comments in connection with Atlantic Shore's ITA.
+55 Appendix A Vineyard Wind 1 Offshore Wind Energy Project Final Environmental Impact Statement Volume II (Mar. 2021), https://tethys.pnnl.gov/sites/default/files/publications/Vineyard-Wind-1= FEIS-Volume-2.pdf, page 66:"Overall, it is anticipated that there would be no collective impact on global warming as a result of offshore wind projects."
+
+42
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 43 of 61 PagelD: 43
+
+nine days, so the argument that these projects are necessary and
+
+must proceed rapidly to save the planet does not hold seawater. 56
+
+118. In fact, a Harvard University study that analyzed 28
+
+operational wind farms in the US suggests that wind turbines can
+
+impart an effect of warming temperatures, primarily through
+
+enhancement of low-level atmospheric mixing and interruption of
+
+radiative nighttime cooling. This net localized warming effect was
+
+quantified in 10 other studies, cited therein.57 This warming
+
+effect could be non-negligible at a continental scale, assuming a
+
+very high amount of wind power, though less certain as to global
+scale temperature impacts.58
+
+119. Defendants and others advocating for turbines, also
+
+fail to recognize the immense carbon sequestration capacity of
+
+great whales. Each, single great whale sequesters 33 tons of carbon
+
+dioxide (C02) on average, removing same from the atmosphere for
+
+centuries.59
+
+56 Reference: Letter from Save LBI, Comments and Project Concerns by the Long
+Beach Island, NJ, Coalition for Wind Without Impact Regarding the Notice of
+Intent for the Atlantic Shores Offshore Wind Projects, Docket # BOEM-2021-
+0057. October 21, 2021
+57 Lee Miller and David Keith, Climatic Impacts of Wind Power, Joule (Dec. 19,
+2018), https://www.sciencedirect.com/science/article/pii/S254243511830446X.
+58 David W. Keith, et al., The influence of large-scale wind power on global climate, Environmental Sciences (Nov. 9, 2004),
+https://www.pnas.org/doi/abs/10.1073/pnas.0406930101. 59 Ralph Chami, et al., Nature's Solution To Climate Change , International
+Monetary Fund (Dec. 2019),
+https://www.imf.org/en/Publications/fandd/issues/2019/12/natures-solution-to-
+climate-change-chami.
+
+43
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 44 of 61 PagelD: 44
+
+120. Whales have a multiplicative effect on phytoplankton
+
+generation, which offset global C02 production levels by an
+
+incredible 40% annually through capturing 30-50 billion metric
+
+tons of C02 per year60 (occurs via CO2 fixation by phytoplankton) .
+Thus, the destructive impacts of wind turbine surveying and future
+operations on the whale population will in fact reduce the Earth's
+inherent carbon sequestration abilities, through reducing whales
+and by extension phytoplankton.
+121. Conversely, it is estimated that all wind energy (on and
+offshore) offsets CO2 by only 340 million tons annually. 61 Hence,
+
+phytoplankton alone capture 147 times more CO2 than wind energy
+
+annually. When one combines the multiplicative effect of whales on
+
+phytoplankton (and whales themselves), the C02 offsetting effect
+
+of whales and phytoplankton are very significant, and the latter
+
+surpasses wind energy by an exceedingly high amount.
+
+122. As per the International Monetary Fund, "If whales were
+
+allowed to return to their pre-whaling number of 4 to 5 million-
+
+from slightly more than 1.3 million today-it could add
+
+significantly to the amount of phytoplankton in the oceans and to
+
+60 P G Falkowski, The role of phytoplankton photosynthesis in global biogeochemical cycles, Photosynth Res. (Mar. 1994), https://pubmed.ncbi.nlm.nih.gov/24311124/#:~:text=Phytoplankton%20biomass%20i n%20the%20world's,about2040%25%20of%20the%20total.
+61 Wind power facts, American Clean Power, https://cleanpower.org/facts/wind- power/#:~:text=Environmental%20benefits,million%20cars'%20worth%20of%20emissi
+ons.
+
+44
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 45 of 61 PagelD: 45
+
+the carbon they capture each year. At a minimum, even a 1 percent
+increase in phytoplankton productivity thanks to whale activity
+
+would capture hundreds of millions of tons of additional CO2 a
+
+year, equivalent to the sudden appearance of 2 billion mature
+
+trees."62
+
+123. As depicted in the below image, whales play an integral
+
+role in the Earth system carbon and oxygen flux, by facilitating
+
+transport of nutrients, production of phytoplankton, and oxygen,
+
+as well as reduction of carbon dioxide.
+
+62 Ralph Chami, et al., Nature's Solution To Climate Change International
+Monetary Fund (Dec. 2019),
+https://www.imf.org/en/Publications/fandd/issues/2019/12/natures-solution-to-
+climate-change-chami.
+
+45
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 46 of 61 PagelD: 46
+
+Chart 1
+
+Whale carbon and oxygen flux Solar energy
+
+Atmospheric carbon Atmospheric onyorn
+
+Whale Pump
+All whales dive underwater to feed Drseting prounde Fadro griundi
+and return to the surface to breathe. At the surface, they release buoyant Great Whale Conveyor Belt
+fecal plumes that are rich in nutrients that phytoplankton need to grow. Many whales migrate from nutrient rich feeding grounds to nutrient-poor breeding grounds. On the breeding grounds, whales release nitrogen-rich urea th t can stimolate phytoplankton growth
+
+Biomass Carbon
+All living things are made of carbon and thus
+Nutrient Flux serve as carbon reservoirs throughout their
+Carbion Flux lifespans. The larger and more long-lived the animal, the more carbon is stored.
+
+Waste Products
+
+Okygen Flux Deadfall Carbon
+When large marine vertebrates die, their carcasses
+sink to the seafloor. There, the carbon inside their
+carcass can support deep sea ecosystems and be incorporated into marine sediments.
+
+Deep Oceatt Flc
+
+D. Violations of the MMPA have occurred because the
+
+cumulative impact of the ITAs on marine mammals,
+
+particularly North Atlantic right whales and Humpback
+
+Whales, is more than a small number of the population,
+
+and will have a greater than negligible impact on the
+
+species, and, certain ITA applicants are not US citizens:
+
+Violations of the APA have occurred, as the quantity of
+
+requested takes were determined arbitrarily and
+
+46
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 47 of 61 PagelD: 47
+
+capriciously by underestimating outward sound propagation
+
+from vessels among other reasons, and by underestimating
+the Level A harassment takes that are occurring; and,
+
+violations of NEPA and APA for failure to prepare EIS
+
+assessing the cumulative impact of ITAs
+
+FIRST CLAIM FOR RELIEF
+Violation of the MMPA, 16 U.S.C. § 1371 (a) (5) (D), (i), (I)
+
+124. Plaintiffs hereby incorporate by this reference each
+
+paragraph and allegation set forth above.
+
+125. The MMPA provides, as noted supra, 16 U.S.C. §
+
+1371 (a) (5) (D), (i), (I), that the prescribed activity must only take
+
+"small numbers of marine mammals" and such harassment can only
+
+have a "negligible impact on such species or stock."
+
+126. The implementing regulations define "negligible" and
+"small numbers" as follows, pursuant to 50 CFR 18.27:
+
+"Negligible impact is an impact resulting from
+the specified activity that cannot be
+reasonably expected to, and is not reasonably
+likely to, adversely affect the species or
+stock through effects on annual rates of
+recruitment or survival."
+
+"Small numbers means a portion of a marine
+mammal species or stock whose taking would
+have a negligible impact on that species or
+stock."
+
+127. Cases interpreting these provisions, including analysis
+
+of legislative intent and history, such as Ctr. for Biological
+
+47
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 48 of 61 PagelD: 48
+
+Diversity v. Salazar, 695 F.3d 893 (9th Cir. 2012), have determined
+
+that the "small numbers" and "negligible" clauses are two separate
+
+and distinct standards. "Specifically, the "small numbers"
+
+determination focuses on the portion of a species or stock subject
+
+to incidental take, whereas the "negligible impact" analysis
+
+focuses on the impact of the anticipated take."63
+
+128. Therefore, the agencies issuing ITAs must "reasonably
+
+determine through some other means that the specified activity
+
+will result in take of only 'small numbers' of marine mammals. The
+
+Service can analyze 'small numbers' in relation to the size of the
+
+larger population, So long as the 'negligible impact' finding
+
+remains a distinct, separate standard."64
+
+129. As presented in paragraphs 25-26, the Act requires the
+
+assessment of cumulative impact in determining small numbers and
+
+negligible impact. The implementing regulations at 50 CFR
+
+18.27 (b) (3), regarding scope, include a note discussing
+
+"cumulative" impacts: "The information is being collected to
+
+describe the activity proposed and estimate the cumulative impacts
+
+of potential takings by all persons conducting the activity."
+
+130. Hence, it's clear the intent of the statute is to assess
+
+the cumulative impacts of takings.
+
+131. The Defendants are also required to implement the MMPA
+
+63 Id. at 906.
+64 Id. at 907.
+
+48
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 49 of 61 PagelD: 49
+
+using the "best scientific evidence available." Said science
+
+demands the use of fact and mathematics. The fact is that the right
+
+whale is seeking to migrate while being assaulted from numerous
+
+vessel survey activities with noise levels that disturb its
+
+behavior. Each such disturbance carries a finite mathematical
+
+probability that that disturbance will result in serious harm or
+
+fatality. It is the sum of those probabilities that determines
+
+whether or not it can succeed in its essential migration, and
+
+therefore whether there is a non-negligible impact to the species.
+
+132. Therefore, both the law and the facts demand a cumulative
+
+impact assessment, for the Defendant NMFS to act otherwise and to
+
+determine impact on a piecemeal basis is contrary to the MMPA and
+
+both arbitrary and capricious.
+
+133. The cumulative impact of the issued, active ITAs for the
+
+coastal waters of the NJ/NY region is such that it violates the
+
+"small numbers" and "negligible impact" provisions of the MMPA.
+
+134. The active ITAs granted by the Defendant total 182 takes
+
+of North Atlantic Right Whales.65 The five pending ITAs66 currently
+
+65 See supra note 2.
+66 https://media.fisheries.noaa.gov/2022-11/TerraSond 2022IHA App OPR1.pdf;
+https://media.fisheries.noaa.gov/2022
+03/OceanWind1OWF 2022 508APP OPR1.pdf;
+
+https://media.fisheries.noaa.gov/2022-
+09/AtlanticShoresOWF 2022 Application OPR1.pdf;
+
+https://media.fisheries.noaa.gov/2022- 09/Empirewind 2024LOA App OPR1.pdf;
+
+49
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 50 of 61 PagelD: 50
+
+with Defendant will add an additional 229 takes of North Atlantic
+
+Right Whales.
+
+135. The Defendant's webpage places the current population
+
+estimate of North Atlantic Right Whales at 350,67 and not all
+
+migrate through NJ and NY coastal waters.
+
+136. Thus, the 182 cumulative authorized takes of right
+
+whales, given a local population estimate of less than 350, can
+
+amount to more than 52% of the migrating population. If the pending
+
+ITAs are issued (229 more takes), that percentage will be even
+
+higher.
+
+137. This is contrary to any reasonable interpretation or
+
+dictionary definition of "small numbers" or "negligible impact."
+
+138. The Merriam-Webster definition of "negligible" is: "so
+
+small or unimportant or of so little consequence as to warrant
+
+little or no attention."68 It is axiomatic that 52% of the migrating
+
+population of an endangered species is far more than negligible.
+
+139. Similarly, the Merriam-Webster definition of "small"
+
+includes words such as: minor, trivial, of little consequence, and
+
+https://media.fisheries.noaa.gov/2022-
+11/SunriseWind 2022ITR App PR1.pdf; 67 North Atlantic Right Whale, NOAA Fisheries (Mar. 17, 2023),
+https://www.fisheries.noaa.gov/species/north-atlantic-right-
+whale#:~:text=Population%20Status, years?20has%20been%20below%20average.
+68 Merriam-Webster, Definition of negligible, https://www.merriam- webster.com/dictionary/negligible#:~:text=÷3A÷20so%20small%20or%20unimportant $20or, little$20or%20n0%20attention?20%3A%20trifling.
+
+50
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 51 of 61 PagelD: 51
+
+limited. 69 This runs contrary to a determination on the order of
+
+52% of an endangered species.
+
+140. Moreover, as to Humpback whales, the eleven active ITAs
+issued by Defendant off the NJ/NY coasts amount to 169 requested
+
+takes70 of Humpback whales. Given a population size of 1,396, this
+
+yields takes amounting to 12.1% of the total population of Humpback
+
+whales. The five pending ITAs request takes of 782 additional
+
+Humpback whales. This yields 951 total, or 951/1,396 = 68.1% of
+
+the population.
+
+141. Even on an individual survey authorization basis, the
+
+69 Merriam-Webster, Definition of small, https://www.merriam-
+webster.com/dictionary/small#:~:text=small%2C%20little%2C%20diminutive%2C%20m inute,as20relatively320small320backyard.
+70 As ascertained from summing the Level B requested takes on each respective
+ITA application for the currently active/issued ITAs:
+https://media.fisheries.noaa.gov/2022-08/OrstedNEHRG 2022IHA App OPR1.pdf;
+https://media.fisheries.noaa.gov/2022-
+05/Vineyard$20Northeast%20LLC_HRG%20IHA%20Application%20508 OPR1_0.pdf;
+https://media.fisheries.noaa.gov/2022-
+06/AttentiveEnergyNYBight 2022IHA App OPR1.pdf.pdf;
+https://media.fisheries.noaa.gov/2022-
+06/AtlanticShoresBightHRG 2022PropIHA App OPR1.pdf;
+https://media.fisheries.noaa.gov/2022-
+05/Park&20City%20Wind App 508 OPR1 0.pdf;
+https://media.fisheries.noaa.gov/2022-05/NEETMA 2022IHA App OPR1.pdf;
+https://media.fisheries.noaa.gov/2022-03/OceanWind 2022IHA App OPR1.pdf;
+https://media.fisheries.noaa.gov/2022-03/Orsted 2022IHA app OPR1.pdf;
+https://media.fisheries.noaa.gov/2021-
+04/OceanWind 2021IHA App OPR1.pdf?null=;
+https://media.fisheries.noaa.gov/2022-01/AtlanticShoresHRG 2022_App_OPR1.pdf;
+https://media.fisheries.noaa.gov/2021
+02/SouthForkWind 2021proposedIHA App OPR1.pdf?null=;
+
+51
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 52 of 61 PagelD: 52
+
+Defendant's threshold of one-third for "small numbers" is not
+
+supported scientifically nor consistent with case precedent. "A
+
+definition of 'small number' that permits the potential taking of
+
+as much as 12 percent of the population of a species is plainly
+
+against Congress' intent." NRDC v. Evans, 232 F. Supp. 2d 1003
+
+(N.D. Cal. 2002).
+
+142. The Defendant states in its authorizations that when the
+
+predicted number of individuals to be taken is less than one-third
+
+of the species or stock abundance, the take is considered to be
+
+"small numbers".71 This is extraordinarily high, particularly for
+
+a critically endangered whale, and we can find no support for it
+
+in the scientific literature, which suggests thresholds such as
+
+2.5%72 and 1.0%.73
+
+143. Therefore, the case law and science supports a "small
+
+71 87 FR 40796, Takes of Marine Mammals Incidental to Specified Activities;
+Taking Marine Mammals Incidental to Marine Site Characterization Surveys off
+New Jersey by NextEra Energy Transmission MidAtlantic Holdings, LLC (July 8, 2022), https://www.federalregister.gov/documents/2022/07/08/2022-14569/takes- of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-
+incidental-to, "As such, NMFS considers that one-third of the most appropriate population abundance number-as compared with the assumed number of individuals taken-is an appropriate limit with regard to "small numbers."
+72 A reasoned presentation of impact ratings based on severity and likelihood
+of occurrence by Wood, Southall, and Tollit can be found in Appendix H of the
+Pacific Gas and Electric report titled, Central Coastal California Seismic
+Imaging project, May 14, 2012. That analysis leads to, in Tables 3.3 and 3.4,
+a high severity rating for Level B takes greater than 2.5 percent of an Endangered Species Act (ESA)-listed regional minimum population. Combined
+with either a high or medium likelihood of occurrence in Table 3.5 that
+results in an overall high impact rating
+
+73 The final environmental assessment of a Marine Geophysical Survey (MATRIX)
+by the US Geological Survey in the Northwestern Atlantic Ocean, August, 2018,
+suggests on page 65 that for rare species, that one percent of the population
+size should be considered as a take limit.
+
+52
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 53 of 61 PagelD: 53
+
+number" criteria less than 12 percent, which even some of
+
+Defendant's individual ITAs would not meet. A level B take
+
+percentage of 33.3 percent is unsupported legally, mathematically
+
+and scientifically.
+
+144. With respect to findings of negligible impact, the
+
+Biological removal rate for the right whale is less than one animal
+
+per year meaning that not one animal can suffer fatality from these
+
+activities, in order to sustain the population.
+
+145. In the face of hundreds of level B takes, to reach such
+
+a negligible impact conclusion, the defendant would have to find
+
+that none of them resulted in such a fatality. Given all of the
+
+potential pathways to such an outcome described in paragraphs 87
+
+through 105, such a conclusion would ignore numerous scientific
+
+studies and evidence, and be both arbitrary and capricious. And in
+
+fact, the defendant even on individual authorizations never
+
+reaches such conclusions with that confidence but only speaks to
+
+generalized expectations and anticipations.
+
+146. Such a conclusion would conflict with the MMPA itself.
+
+If hundreds of Level B Takes to a critically endangered whale is
+
+innocuous, why does the law even require its assessment?
+
+147. Additionally, given, as noted supra, the Defendant's
+
+underestimation of the maximum extent of spatial propagation of
+
+the noise emanating from survey vessels, and the uncertainty
+
+regarding subsequent negative impacts to whales, including the
+
+53
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 54 of 61 PagelD: 54
+
+potential for death (i.e., evidenced by the recent statistically
+
+significant increase in deaths), Defendant's ITAs cannot be said
+
+to unequivocally comport with the statutory directive prohibiting
+
+an "unmitigable adverse impact on the availability of such
+
+species." 16 U.S.C. § 1371 (a) (5) (D), (i), (I).
+
+148. Furthermore, as explained supra, the issued ITAs
+
+improperly determined, and significantly underestimated, the
+
+requested quantity of takes, due to reasons outlined by Dr. Robert
+
+Stern, such as, inter alia, underestimation of spatial extent of
+
+sound propagation.74
+
+149. Therefore, the ITAs were granted in contravention of the
+
+MMPA, 16 U.S.C. § 1371 (a) (5) (D), (i), (I), since the cumulative
+
+effect of the ITAs, and even individual ITAs, will take more than
+
+a reasonably defined small number of the marine mammals,
+
+specifically North Atlantic right whales and Humpback Whales, and
+
+will have more than a negligible effect on the species. Defendant's
+
+determination of the number of takes was discordant with the
+
+statutory directive requiring only "small numbers" and "negligible
+
+74 See, Exhibit B, Dr. Robert Stern's analysis and letter to President Biden.
+The Defendant often cites measurement study which shows that Defendant
+underestimates the magnitude/intensity of the source level noise from the
+vessel surveys. Moreover, Defendant uses an improper noise loss factor (20
+decibels) which overestimates the extent of noise dissipation from the
+source. The end result is Defendant significantly underestimates the
+propagation range to the 140+ and 160+ decibel criteria from the source,
+noise which has been shown in studies to disturb whales (leading to many
+negative impacts, including death). As discussed supra, Defendant assumes a
+distance of 141 meters (slightly less than 1/10 mile) for Level B harassment
+noise. Dr. Stern's analysis finds such noise can propagate to 16-34 miles
+from the sound source.
+
+54
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 55 of 61 PagelD: 55
+
+impact."
+
+150. Separately and finally, Defendants also violate 16
+
+U.S.C. § 1371 (a) (5) (D) (i) by issuing ITAs (and considering pending
+
+ITAs) to certain foreign national companies, violating the clear
+
+statutory directive of (i), "Upon request therefor by citizens of
+
+the United States who engage in a specified activity the
+
+Secretary may specify, the incidental, but not intentional, taking
+
+by harassment Only U.S. citizens are afforded the legal
+
+ability to obtain ITAs. Of the eleven issued, active ITAs, and
+
+five pending, the following ITAs were requested by non-U.S.
+
+citizens, in part or whole: Orsted Wind Power North America, LLC, 75
+
+Vineyard Northeast, LLC, 76 Ocean Wind I and II,77 South Fork Wind,
+
+LLC78 and Empire Offshore Wind, LLC.79 These projects are all
+
+partially or wholly owned by foreign nationals, not U.S. citizens
+
+in contravention of the MMPA.
+
+SECOND CLAIM FOR RELIEF
+
+75 Danish State holds the majority of shares, https://orsted.com/en/investors/shares.
+76 Vineyard Wind is a joint venture between Avangrid of Connecticut and Copenhagen Infrastructure Partners of Denmark.
+77 These two ITAs were requested by Orsted of the Danish State, https://oceanwindone.com/, https://us.orsted.com/news-archive/2021/06/ocean- wind-2#:~:text=%C3%98rsted%200ffshore's%20North%20American%20business,
+employs%20more%20than%20150%20people.
+78 Owned by Orsted (Denmark) and Eversource (Connecticut),
+https://southforkwind.com/.
+79 Owned by British Petroleum (United Kingdom) and Equinor (Norway),
+https://www.empirewind.com/.
+
+55
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 56 of 61 PagelD: 56
+
+Violation of the APA
+
+151. Plaintiffs hereby incorporate by this reference each
+
+paragraph and allegation set forth above.
+
+152. The APA, at 5 U.S.C. § 706(2) (A) and (E) provides that
+
+agency action shall be held unlawful and set aside if it is
+
+" (A)arbitrary, capricious, an abuse of discretion, or otherwise
+
+not in accordance with law;" and " (E) unsupported by substantial
+
+evidence in a case subject to sections 556 and 557 of this title
+
+or otherwise reviewed on the record of an agency hearing provided
+
+by statute."
+
+153. In issuing the eleven active ITAs, and five pending ITAs
+
+with Defendant NMFS, the Defendant NMFS arbitrarily, capriciously
+
+and without substantial evidence, determined the number of
+
+requested takes. Defendant NMFS' requested takes were largely
+
+based upon incorrect noise loss factors emanating from the vessel
+
+source. Defendant NMFS has very frequently used, and even
+
+recommended, a different, more reasonable "practical" noise loss
+
+factor; 80 however, they do not employ the reasonable noise factor
+
+in connection with these ITAs. Defendant NMFS' significant
+
+underestimation of the maximum spatial extent of Level B harassment
+
+noise constitutes an arbitrary and capricious agency action.
+
+Defendant NMFS arbitrarily and without substantial evidence allows
+
+80 See, Exhibit B, Dr. Robert Stern's analysis and letter to President Biden.
+
+56
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 57 of 61 PagelD: 57
+
+wind energy companies to use a maximum spatial extent (from sound
+
+source) Level B harassment distance of 141 meters. Even considering
+
+the high number of requested takes in the ITAs (which violate the
+
+MMPA), such requested takes are greatly underestimated due to the
+
+above.
+
+154. Moreover, and finally, the APA is violated because the
+
+Defendant NMFS arbitrarily, capriciously, and without substantial
+
+evidence, assumed virtually no Level A harassment takes would occur
+
+(as can be seen in all the approved and pending ITAs - little to
+
+no Level A takes were requested), This decision runs counter to
+
+the mountains of evidence, supra, on how exposure, especially
+
+cumulatively, to disturbance level noise can cause marine mammals
+
+to suffer many detrimental effects, including injury and death.
+
+The exponential increase in whale and dolphin deaths over recent
+months, in concert with all the evidence discussed supra, is clear
+
+evidence that Level A harassment takes are occurring (injury and
+
+even worse - death). Yet, virtually no Level A takes were requested
+
+in any of the approved and pending ITAs.
+
+THIRD CLAIM FOR RELIEF
+Violation of NEPA, 42 USCS § 4332 (2) (C), and APA
+
+155. Plaintiffs hereby incorporate by this reference each
+
+paragraph and allegation set forth above.
+
+156. Pursuant to NEPA, 42 USCS § 4332 (2) (C), and as
+
+57
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 58 of 61 PagelD: 58
+
+interpreted by case precedent, "In deciding whether a major federal
+
+action will 'significantly' affect the quality of the human
+
+environment, under § 102 (2) (C) of the National Environmental
+
+Policy Act, the agency in charge, although vested with broad
+
+discretion, should normally be required to review the proposed
+
+action in the light of at least two relevant factors: (1) the
+
+extent to which the action will cause adverse environmental effects
+
+in excess of those created by existing uses in the area affected
+
+by it, and (2) the absolute quantitative adverse environmental
+
+effects of the action itself, including the cumulative harm that
+
+results from its contribution to existing adverse conditions or
+
+uses in the affected area."81
+
+157. Moreover, agencies are not permitted to segment actions
+into individual pieces, rather, they must assess major federal
+
+actions cumulatively, "The Council on Environmental Quality
+
+regulations require that 'cumulative actions' be considered
+
+together in a single environmental impact statement. 40 C.F.R. §
+
+1508.25 (a) (2) . "82
+
+158. Here, the Defendant NMFS' final agency action by way of
+
+issuing eleven individual ITAs off the New Jersey/New York
+
+coastlines constitutes a major federal action which significantly
+
+affects the quality of the human environment. As thoroughly
+
+81 Hanly v. Kleindienst, 471 F.2d 823 (2d Cir. 1972) .
+82 Thomas v. Peterson, 753 F.2d 754 (9th Cir. 1985).
+
+58
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 59 of 61 PagelD: 59
+
+explained supra, the inordinate amount of requested takes of marine
+
+mammals, including mammals listed as endangered species (e.g.,
+
+North Atlantic right whale) in the individual and cumulative ITAs,
+
+throughout the waters off NY/NJ, will satisfy both prongs of the
+
+"significantly affect" standard delineated by case precedent. The
+
+approved ITAs, and soon likely approval of pending ITAs, is causing
+
+adverse environmental effects in excess of those created by
+
+existing uses in the region (again, explained herein, passim) The
+
+final agency action has also resulted in quantitative adverse
+
+environmental effects, including cumulative harm, to marine
+
+mammals, especially dolphins and whales.
+
+159. As such, Defendant NMFS was derelict in its statutorily
+
+imposed duty to assess the cumulative effects of a major federal
+
+action significantly affecting the quality of the human
+
+environment in an environmental impact statement, analyzing the
+
+cumulative effects of the eleven issued ITAs.
+
+160. This lack of cumulative assessment in an environmental
+
+impact statement constitutes a violation of NEPA, 42 USCS §
+
+4332 (2) (C), and violation of the APA, 5 U.S.C. § 706(2) (A) and
+
+(E), as arbitrary and capricious agency action, and unsupported by
+
+substantial evidence.
+
+PRAYER FOR RELIEF
+
+59
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 60 of 61 PagelD: 60
+
+WHEREFORE, Plaintiffs respectfully request that this Court:
+
+(1) Enter an order reversing and setting aside National Marine
+Fishery Service's eleven active ITAs issued for the New Jersey and
+
+New York coastal regions as arbitrary, capricious, and contrary to
+
+law, including the Marine Mammal Protection Act and Administrative
+
+Procedures Act;
+
+(2) Enjoin the Defendant NMFS from issuing the five pending ITAs
+
+as such ITAs are arbitrary, capricious, and contrary to law,
+
+including the Marine Mammal Protection Act and Administrative
+
+Procedures Act;
+
+(3) Direct the Defendant NMFS to halt consideration of prospective
+
+ITAs concerning wind energy projects in the New York/New Jersey
+
+waters;
+
+(4) Direct the Defendant NMFS to create an Advisory Board of
+
+acoustic and marine mammal specialists with sufficient
+
+independence to: (a) perform a thorough, transparent,
+
+investigation of the potential causes of the recent statistical
+
+anomaly of whale deaths; and, (b) develop noise impact estimation
+
+protocols for use in future IHAs and ITAs; (c) That if that Board
+
+finds that the vessel surveys are a plausible cause of the whale
+
+deaths, require the Defendant NMFS to submit to the Court a revised
+
+vessel survey program that includes measures to achieve the least
+
+practicable adverse impact on the species. Such measures could
+
+include the avoidance of surveys in primary whale migration
+
+60
+
+Case 3:23-cv-01886 Document 1 Filed 04/04/23 Page 61 of 61 PagelD: 61
+
+corridors during primary migration months and a data sharing
+
+Program among the different companies to avoid the need for
+
+multiple vessels gathering essentially the same data.
+
+(5) Direct the Defendant NMFS to prepare an environmental impact
+
+statement assessing the cumulative impacts of the ITAs pursuant to
+
+NEPA.
+
+(6) Award Plaintiffs' reasonable attorneys' fees and costs under
+
+the Equal Access to Justice Act; and
+
+(7) Provide such other and further relief as the Court may deem
+
+just.
+
+Dated: April 4, 2023
+Respectfully submitted,
+
+/s/ Thomas Stavola, Jr.
+Thomas Stavola, Jr., Esq.
+NJ Bar ID number: 380012022
+Law Office of Thomas Stavola,
+Jr., LLC
+209 County Road 537
+Colts Neck, NJ 07722
+E: stavolalaw@gmail.com
+P: 732-790-0639
+Attorney for Plaintiffs
+SAVE LONG BEACH ISLAND
+Bob Stern, Ph.D.
+
+61

@@ -1,0 +1,8 @@
+{
+    "python.experiments.optInto": [
+        "pythonDiscoveryModuleWithoutWatcher"
+    ],
+    "python.terminal.launchArgs": [
+        "-Xfrozen_modules=off"
+    ]
+}

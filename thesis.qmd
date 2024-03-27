@@ -1,0 +1,58 @@
+---
+title: "Thesis"
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+
+```{python}
+#import required packages 
+import nltk 
+import pandas as pd 
+import csv 
+import re 
+import numpy as np 
+import os 
+import gensim from nltk.tokenize 
+import sent_tokenize from nltk.tokenize 
+import word_tokenize from nltk 
+import ngrams from gensim 
+import corpora, models
+```
+
+# Topic Modeling for Environmental Lawsuits
+
+### James Gao
+
+### Department of Statistical Science, Honors Thesis Program
+
+### Duke University, Durham, North Carolina
+
+### Spring 2024
+
+## 
+
+# 0. Abstract
+
+# 1. Motivation
+
+## 1.1: California Environmental Quality Act
+
+# 2. Background
+
+## 2.1: Topic Modeling and Latent Dirichlet Allocation
+
+## 2.2: Literature Text Analysis for Legal Data
+
+# 3. Data
+
+# 4. Methodology
+
+# 5. Results
+
+# 6. Discussion
+
+## 6.1 Implications of CEQA Topic Modeling
+
+## 6.2 Changes in the California Housing Sphere
